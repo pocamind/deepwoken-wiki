@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 93023
+revid: 95153
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -19,7 +19,7 @@ categories: [Equipment, Head, Cowls]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer |
+| obtainment | Second Layer, Maestro Evengarde Rest |
 | description | - ... |
 
 ## Description

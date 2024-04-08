@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 94952
+revid: 95152
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1101,7 +1101,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Their main goal is to save humanity from the Depths, depicting humanity as the "Eternal flame" and the ultimate enemy as the Depths itself.
 -   Their rank system is unknown, but they are commonly known as "Flamepriest" or "Flameworshippers".
 -   Their relations with the main factions of Lumen is unknown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
--   When talking to the Mystic to have the Talent card from the tree of "Falling Star Guard", you can see that the dialogue is: "_I believe in the people who followed Pleeksty before"_, meaning that some of the talents of Flamecharm where created by the Covenant of Flame.
+-   When talking to the Mystic to have the Talent card from the tree of "Falling Star Guard", you can see that the dialogue is: "_I believe in the people who followed Pleeksty before"_, meaning that some of the talents of Flamecharm were created by the Covenant of Flame.
 
 ### **The Circle of Honor**
 
@@ -1116,7 +1116,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Are enemies of the Contractor and possibly the ministry due to Warden Jericho and the Windrunner stating that they are against each other.
 -   A possible member of the Circle of Honor is Warden Jericho.[\[1\]](#cite-note-rag-1)
 -   They are known to carry floating blades as Warmasters.[\[1\]](#cite-note-rag-1)
--   Its is speculated that every person who has taken the oath of a Warmaster is a member of the Circle of Honor, given the Oath specifically draws power from it.
+-   It is speculated that every person who has taken the oath of a Warmaster is a member of the Circle of Honor, given the Oath specifically draws power from it.
 -   Their objectives and vows are unknown, but it appears to both be against the interests of The Ministry, but also those of the Authority, given they are the opposite of Contractors yet Jericho fears the actions of the Authority will prevent him from maintaining his Oath.
 
 ### **Kyrsgarde**

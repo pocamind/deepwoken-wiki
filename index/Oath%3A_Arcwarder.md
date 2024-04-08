@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 95134
+revid: 95144
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,7 +40,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 5 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received upon light hooking out from Chaser or Ethiron.
+Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 4 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received upon light hooking out from Chaser or Ethiron.
 
 ## _Abilities_
 

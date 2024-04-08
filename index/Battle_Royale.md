@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 89860
+revid: 95150
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -23,8 +23,6 @@ There is no rewards or punishments in Battle Royale mode. This mode is only acti
 -   You steal all of your opponents talents (Including mantras, and oaths) upon executing them.
 -   Every once in a a while a purple/pink meteor will fall that will grant a bell to you if you interact with them similar to the totems or healing shrines, it takes a while for the action to take in effect **(BE WARNED THAT YOU ARE HIGHLY VULNERABLE WHILE DOING THIS ACTION)**
 -   You always start with the callout talent.
-
-_For a visual walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM&t=1s&ab_channel=TheDeepwokenGuide)._
 
 LocationL KINGMAKER'S ISLE LocationR
 

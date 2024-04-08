@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 89481
+revid: 95142
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -55,7 +55,7 @@ Take all of your Subject's Ether and turn it into a small orb, which flies towar
 _Range limit but not too bad._
 
  | None |
-| Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
+| Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
  | 2 minutes |
 | Fight | Yes, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed.
