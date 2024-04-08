@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 95137
+revid: 95168
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -35,7 +35,7 @@ Once **all** met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zof
 
 Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
 
-_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 
 ## Effects
 

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 94934
+revid: 95172
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -37,7 +37,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 **1st Parry Check:**
 
   
-**"A fresh soul... does your strength lay within? Discard your possessions, let us begin."**
+**"Under the threat of death are you able to defend yourself?"**
 
 Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). After getting shot at five times, the next stage of orbs will initiate. When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
 
@@ -128,6 +128,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha Sharko.
 -   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.
 -   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the trial.
+-   You can have enchanted weapons during the Trial via passing down or the Bank (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence Thorns](Enchantments.md) enchant because Trial of One is centered around parrying)
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   File:TrialofOne.png
