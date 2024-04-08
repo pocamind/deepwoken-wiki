@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 94499
+revid: 95162
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -89,7 +89,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ― Flavor Text
 
-**_Obtainment_:** On a single character, grip any non-guild mate 5 players (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
+**_Obtainment_:** On a single character, grip 15 players who are not allied with you (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
 
 **Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
 

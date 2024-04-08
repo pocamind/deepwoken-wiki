@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 94802
+revid: 95156
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,15 +12,15 @@ categories: [Mechanics]
 
 ## Obtainment
 
--   Regalia can be randomly obtained every time your power increases. [\[1\]](#cite-note-archinfo-1)
--   The chance of obtaining a Regalia is increased the more progressed your last character was.[\[1\]](#cite-note-archinfo-1)
+-   Regalia can be randomly obtained every time you create a character.
+-   There is no way to affect your chance of getting a Regalia.
 -   **You may only have 1 Regalia per character, and your character acquiring a Regalia is not guaranteed.**[\[1\]](#cite-note-archinfo-1)
 
 ## List of Regalia
 
 ### Mute
 
-Mute (also known as “Animal King”) has the ability to make most monsters not attack you, meaning they won't attack unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. Most humanoid enemies will still aggro to the player on sight.
+Mute (also known as “Animal King”) has the ability to make most monsters not attack you, meaning they won't attack unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will still aggro to the player on sight.
 
 Wiping below power 6 is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
@@ -51,17 +51,11 @@ Wiping below power 6 is known to keep the Mute Regalia if the wiped character ha
 
 ### Prodigy
 
-Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by an unknown amount (400%?, powered up from 7 to 15 by just spamming fire gun on a friend).[\[1\]](#cite-note-archinfo-1)
+Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by an unknown amount.[\[1\]](#cite-note-archinfo-1)
 
 ### Inspired
 
-Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. [\[1\]](#cite-note-archinfo-1) Grants unknown special dialogues with [Sibex](Sibex.md).
-
-### Worthy
-
-Grants an unknown special dialogue with the [Legendary Boot](Legendary_Boot.md).[\[1\]](#cite-note-archinfo-1)
-
-May have more to it, needs testing.
+Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. Sibex dialogue doesn't change.
 
 ## Trivia
 
@@ -70,5 +64,5 @@ May have more to it, needs testing.
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-archinfo-1-0) [1.1](#cite-ref-archinfo-1-1) [1.2](#cite-ref-archinfo-1-2) [1.3](#cite-ref-archinfo-1-3) [1.4](#cite-ref-archinfo-1-4) [1.5](#cite-ref-archinfo-1-5) [1.6](#cite-ref-archinfo-1-6) [https://www.youtube.com/watch?v=pUgSI5Xg0VQ](https://www.youtube.com/watch?v=pUgSI5Xg0VQ)
+1.  ↑ [1.0](#cite-ref-archinfo-1-0) [1.1](#cite-ref-archinfo-1-1) [1.2](#cite-ref-archinfo-1-2) [https://www.youtube.com/watch?v=pUgSI5Xg0VQ](https://www.youtube.com/watch?v=pUgSI5Xg0VQ)
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=0zHNjRDTsiU](https://www.youtube.com/watch?v=0zHNjRDTsiU)

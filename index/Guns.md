@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 95061
+revid: 95159
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,7 +14,7 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are ranged weapons that are designed to shoot projectiles if the user has bullets in their inventory, they are able to add ranged capabilities as well as giving a +10% PEN bonus. Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
+**Guns** are ranged weapons that are designed to shoot projectiles if the user has bullets in their inventory, they are able to add ranged capabilities (1H only) as well as giving a +10% PEN bonus. Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
 
 For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
 

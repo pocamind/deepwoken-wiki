@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 95082
+revid: 95166
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -185,8 +185,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies a Solar Mark on any weapon hit (M1s, Flourish, Crits.)<br>
-  Solar Mark last 10s, and reduces tempo gain/ether regeneration.<br>
+  <td><div><p>Applies a Solar Mark on Crit or Flourish.<br>
+  Solar Mark last 8s, and reduces tempo gain/ether regeneration.<br>
   Venting steals a portion of marked enemies tempo.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
@@ -215,7 +215,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of the Edenkite<div></div></font></center></td>
-  <td><div><p>On Flourish or Critical, create bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 second cooldown)</p></div></td>
+  <td><div><p>On Flourish or Critical, create bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 seconds cooldown)</p></div></td>
   <td><div><p>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</p></div></td>
 </tr>
 <tr>

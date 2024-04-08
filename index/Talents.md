@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 95092
+revid: 95163
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1165,14 +1165,13 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I obtained the lost art of Ironsinging."**_
 
-_**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
-
--   Bleed damage now only deals 15% more damage.
--   Blood loss reduction is less effective if using Curse of the No Life King.
--   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
--   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
--   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
--   Prerequisite: 100 Ironsing
+-   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+    -   Bleed damage now only deals 15% more damage.
+    -   Blood loss reduction is less effective if using Curse of the No Life King.
+    -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
+    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
+    -   Prerequisite: 100 Ironsing
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.
