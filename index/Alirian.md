@@ -1,9 +1,9 @@
 ---
 title: Alirian
-revid: 90554
+revid: 95206
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Oaths]
 ---
 
 # Alirian

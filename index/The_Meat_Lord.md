@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 95053
+revid: 95185
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -44,7 +44,10 @@ Meat lord is straight.
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   Temple Of The Forgotten Flame
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
+
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+
+-   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 
 _**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
 
@@ -69,6 +72,12 @@ _**(Work in progress, add more locations if you know any and remove this text wh
 ## Gallery
 
 The Meat Lord at Starswept Valleys
+
+Meatlord at pathfinders respite
+
+  
+
+  
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 94482
+revid: 95200
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -30,7 +30,7 @@ Certain aspects of the game, such as certain NPCs dialogue or certain quests, re
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
-| Hero | 300 |  |
+| Hero | 300 | Unlocks the "Lord Regent's Quest' questline. |
 | Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) now count as allies to you, allowing them to benefit from "on allies" effect, such as buffs or talent effects. |
 | Friend | 1 to 149 |  |
 | Neutral | 0 | N/A |

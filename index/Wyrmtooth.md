@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 95141
+revid: 95193
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons]
+categories: [In progress without reason, InProgressPages, Weapons, Swords]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -15,7 +15,7 @@ notices:
 | type | Sword |
 | requirements | 60 MED; LVL 15; 40 HVY |
 | damage | 20 |
-| scaling | MED: 6.2, HV4: 4.2 |
+| scaling | MED: 6.2, HVY: 4.2 |
 | range | 10 |
 | swing speed | 0.7x |
 | penetration | 20% |
@@ -31,4 +31,4 @@ notices:
 
 ## Critical
 
-The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Preforming an M1 after using the sliding critical will cause the user to perform the standard critical immediately afterwards (M1 must be used near an enemy to perform standard critical after circular slash).
+The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Preforming an M1 after using the sliding critical and while near a foe will cause the user to perform the standard critical immediately afterwards.

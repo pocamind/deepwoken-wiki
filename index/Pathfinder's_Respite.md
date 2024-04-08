@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 79424
+revid: 95186
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -44,4 +44,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   There will be wooden planks blocking the entrance. Only some mantras can break it (Strong Left, Lightning Beam)
 -   Despite being in Lower Erisia, [Upper Erisia](Upper_Erisia.md) events can still spawn here
+
 -   [Artifacts](Artifacts.md) can also spawn here.
+
+-   [The Meat Lord](The_Meat_Lord.md) can spawn here.

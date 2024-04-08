@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 94212
+revid: 95202
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds]

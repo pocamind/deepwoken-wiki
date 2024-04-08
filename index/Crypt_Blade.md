@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 94030
+revid: 95203
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -46,7 +46,7 @@ The user plunges the blade into the ground and releases an AoE circle surroundin
     -   Blocking and parrying will not cancel out this effect.
 -   If the opponent goes beyond the length of the chain, they will be dragged back to the chains original position.
 
-**10s Cooldown**
+The critical has a cooldown of ten seconds.
 
 ## Trivia
 

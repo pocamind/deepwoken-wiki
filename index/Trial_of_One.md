@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 95172
+revid: 95190
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -60,7 +60,7 @@ Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. A
   
 **"Now... will you falter here?"**
 
-If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 1200 HP.
+If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP.
 
 **2 Greater Angels:**
 
@@ -89,7 +89,7 @@ Always roll on the first attack after the previous attack pattern, this is the s
 
 See the first parry check. Note that the orbs will start at the same speed as the third "stage" of the first parry check.
 
-**Weakened Alpha Megalodaunt + Continuous Parry Checks:**
+**Weakened Alpha Megalodaunt + Parry Checks:**
 
   
 **"You stand before the ultimate trial. Push forward, lone warrior."**

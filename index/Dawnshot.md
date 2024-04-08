@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 95101
+revid: 95177
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress without reason, InProgressPages, Guns]
@@ -45,6 +45,8 @@ notices:
 **Base:**
 
 **Alloyed:**
+
+**Dawnshot** is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapons to be used (75 for the alloy) with good overall stats for its midgame role.
 
 ## Trivia
 
