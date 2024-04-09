@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 95257
+revid: 95271
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -52,3 +52,4 @@ The Dawnshot is a midgame gun, which can be obtained through the [First Layer](F
 
 -   The Dawnshot is the fastest weapon to receive compatibility with [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it at the same time as it was released.
 -   The Dawnshot is the only gun to possess chip damage and penetration.
+-   The Dawnshot is the only alloyable pistol / gun in the game.

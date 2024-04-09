@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 95159
+revid: 95272
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -103,5 +103,5 @@ _**Stats:**_
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
     -   Need to test to see if they still get the 10% pen bonus.
-    -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In read life, this is impractical, as the rifle's springlock and other parts can be easily damaged upon impact.
+    -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact.
     -   Both pistols and rifles in Deepwoken don't have recoil.

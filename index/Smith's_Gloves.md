@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 92675
+revid: 95274
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -21,7 +21,7 @@ categories: [Equipment]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Duke Erisia, Primadon, First Layer |
+| obtainment | Chests from:, Summer Isle, Duke Erisia, Primadon, First Layer, Chaser |
 | description | "..." |
 
 ## Description
