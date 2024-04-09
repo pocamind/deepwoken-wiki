@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 94535
+revid: 95214
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -325,7 +325,7 @@ Scratch
 ## Trivia
 
 -   Gourdskippers do have a grip animation.
--   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried. and cant be killed
+-   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried. and cant be killed5
     
 
 ## Trivia

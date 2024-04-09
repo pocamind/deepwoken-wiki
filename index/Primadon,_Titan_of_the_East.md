@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 94688
+revid: 95242
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -57,6 +57,10 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td>Crustacean Meat</td>
   <td>10</td>
+</tr>
+<tr>
+  <td>Stick</td>
+  <td>150</td>
 </tr>
 </tbody>
 </table>
@@ -164,6 +168,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   [Novice Brace](Novice_Brace.md)
 -   All [Rings](Equipment.md)
 -   All [Earrings](Equipment.md)
+-   Pale Assassin Cloak
 
   
 
@@ -188,3 +193,4 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 -   It would take roughly 266 cannonballs alone to kill the Primadon.
 -   There is a way to easily kill Primadon using fire gun.
+-   As of 3/29/2024 Primadon has a new color scheme with blue fins and a purple nose

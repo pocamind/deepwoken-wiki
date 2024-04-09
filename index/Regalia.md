@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 95156
+revid: 95239
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -56,6 +56,10 @@ Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by a
 ### Inspired
 
 Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. Sibex dialogue doesn't change.
+
+### **Worthy**
+
+Unconfirmed Regalia with no changes.
 
 ## Trivia
 

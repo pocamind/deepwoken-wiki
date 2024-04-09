@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 95163
+revid: 95221
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -703,6 +703,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Elementalist."**_
 
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   Like Million Ton Piercer, removes 50% mantra and physical PEN cap.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
 
@@ -1658,6 +1659,7 @@ _**"I seek the qualities of Heat Column."**_
 > _**"I seek the qualities of Rampaging Brute."**_
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   Like Ether Overdrive, removes 50% mantra and physical PEN cap.
     -   Prerequisites: 90 Strength, All Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
 

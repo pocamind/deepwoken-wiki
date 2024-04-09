@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 93066
+revid: 95223
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -65,8 +65,10 @@ categories: [Deepwoken]
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
     -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
--   **Shadow Assault** slightly resembles Demon Step, and **Eclipse Kick** resembles Axe Kick, both from _Rogue Lineage_, moves used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
-    -   [Oni](https://rogue-lineage.fandom.com/wiki/Oni) itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
+-   **Eclipse Kick** resembles the Axe Kick, an attack from _Rogue Lineage_ used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
+    -   Oni itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
+-   **Shadow Assault** resembles Akuma's [Ashura Senku](https://streetfighter.fandom.com/wiki/Ashura_Senku) technique.
+    -   Its Blast Spark modification is a spin on the famed [Shun Goku Satsu](https://streetfighter.fandom.com/wiki/Shun_Goku_Satsu).
 -   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 -   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203), one of Lannis' abilities from _Rogue Lineage_.
 
@@ -158,6 +160,7 @@ categories: [Deepwoken]
 -   The name of the Talent, **Ultrakill**, is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
     -   However, it actually consistently spells the name incorrectly.
 -   **Underdog** may be a reference to a skill of the same name from _Fire Emblem Awakening._
+-   The name of **Dragon's Song**—and by extension, the uppercut game mechanic—is derived from the [Shoryuken](https://streetfighter.fandom.com/wiki/Shoryuken) from the _Street Fighter_ series, wherein it is colloquially referred to as the "dragon punch"; the Shoryuken is an uppercut that is typically used to counter an opponent's aerial attack.
 
 ## Weapons
 

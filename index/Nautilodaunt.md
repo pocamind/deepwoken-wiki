@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 94789
+revid: 95213
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -104,14 +104,14 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 
 -   The Nautilodaunt cannot vent in [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   The Nautilodaunt can spawn several times in the same place during [Hell Mode](Hell_Mode.md).
--   The Nautilodaunt is likely inspired by the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans.
+-   The Nautilodaunt is likely inspired by the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans. He also bears a resemblance to the cursed spirit, Dagon, from _Jujutsu Kaisen_.
 -   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break the Nautilodaunt in one critical hit.
 -   If he flourishes you, you must roll. After a flourish, he will run towards you and do a slide-kick. The only way to avoid it is to just dodge out of the way.
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
--   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well) NOTE : do not try to crit the Fury Nautilodaunts without parrying at least once or twice, the attacks of a Fury Nautilodaunt applies shock which will cancel out the heavy crit hyperarmor.
+-   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well) NOTE: do not try to crit the Fury Nautilodaunts without parrying at least once or twice, the attacks of a Fury Nautilodaunt applies shock which will cancel out the heavy crit hyperarmor.
 -   **HERO BLADE COMBAT TIP:** If you can't abuse a crit like Gale can, Abuse mantra block-breaks. While you **CAN'T** block-break it with weapons, you **CAN** with mantras. Here's a couple good picks for each attunement: **Flame**: Ash Slam, Fire Blade **Frost**: Ice Smash, and use Iceberg for autoparry windows/heal **Thunder**: Thunder Kick, Lightning Impact, Rising Thunder, Lightning Blade **Shadow**: Shadow Seekers (Doesn't Block Break, but has INSANE potential for death if you use it while squibbo is blocking. Once you get it off, He doesn't parry them all and WILL take hits. **Gale**: (Besides Crit) Champion's Whirlthrow, Heavenly Wind, Air Force. NOTE: Do not use Gale Trap on the Nautilodaunt. due to his ability to cancel the moves damage and the fact that each hit will apply a visual effect indicating that it has been canceled. The visual effect will stack up because Gale Trap is a multi hit move and can lag out even the highest end PC's leading to you taking massive dmg.
 -   It respawns after roughly 5 minutes and 35 seconds.
 -   Has a low chance of dropping the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautilodaunt can be difficult on its own due to the cloak's high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
@@ -119,7 +119,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and might get wiped. (Examples being: Players (in a group or solo), Angels, Monsters or even bad ping)
 -   [Mortus](Mortus.md) mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
 -   The nickname "Squid Hoss" is a reference to the Rogue Lineage martial artist Big Hoss, who teaches you all 3 stages of the Oni class.
--   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800.
+-   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800 HP.
 -   The vent he uses was the old vent before Deepwoken's release.
 -   If you somehow encounter it in the overworld, do not try to swim away, it CAN swim, though it doesn't have a unique swimming animation.
 -   They are named after the Nautilus, a family of shelled cephalopods.

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 92176
+revid: 95231
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -91,7 +91,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[G\] [Plumfruit Muffin](Food.md)** - _1 Plumfruit, 1 Gathered Wheat_
 -   **\[V\] [Fruit Cake](Food.md)** - _2 Unique Fruits, 1 Gathered Wheat_
 -   **\[V\] [Dried Seaweed](Food.md)** - _1 Seaweed Bundle_
--   **\[V\] [Candied Fruit](Food.md)** - 1 _of any fruit, 1 Sap_ (Buff: Enchant)
+-   **\[V\] [Candied Fruit](Food.md)** - _1 Pomar/Calabash_ or _2 of any other fruit, 1 Sap_ (Buff: Enchant)
 -   **\[C\] [Urchin Stew](Food.md)** - _3 Urchin_
 -   **\[C\] [Seafood Surprise](Food.md)** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
 -   **\[C\] [Seafood Boil](Food.md)** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss)

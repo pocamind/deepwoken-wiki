@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 94539
+revid: 95217
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Overview
 
-Diver Husks are a enemy Humanoid NPC of Layer 2, unfortunate victims of The Eternal Gale and its parasitic lifeforms.
+Diver Husks are a enemy Humanoid NPC of Layer 2, unfortunate victims of The Eternal Gale and its parasitic lifeforms. They can also be found in certain waves of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 Diver Husk numbers can vary; they can be found solo, in a duo or in a group of three.
 
