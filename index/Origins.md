@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 95162
+revid: 95284
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -52,7 +52,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 **_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining The Divers. Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
 
--   You don't actually need to join the Divers to obtain Deepbound. Just starting a talk with him at Castle Light is fine.
+-   You don't actually need to join the Divers to obtain Deepbound.
 
 **Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
@@ -64,24 +64,22 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     
     Call of the Deep animation
     
-    -   Plays a short animation of the player sinking into the ground before teleporting them to [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
-    -   Cannot be used in combat or in any layer of [The Depths](The_Depths.md), but can be used everywhere else — including hostile areas such as [Voidzones](Voidzones.md).
-    -   Returning to the main menu during the animation will cancel the teleport and wont send you to [The Depths](The_Depths.md).
+    -   If you use the ability you will spawn at [Castle Light](Castle_Light.md) just like how you would spawn when out of layer 1/2
+    -   Cannot be used in combat or in any layer of [The Depths](The_Depths.md), tho can be used anywhere else including [Voidzones](Voidzones.md).
+    -   Returning to the main menu during the animation will cancel the teleport.
 
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
--   **\[CON\]** ...but reduced EXP Gain in the Overworld.
+-   **\[CON\]** Reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
--   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md); the trial will still change depending on the amount of Drowns your character has.
+-   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).That's it rest it's just a normal trial
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
-    -   Can sell items at the Antiquarian at Castle Light in the Library.
-    -   Can store and retrieve weapons, items, and notes at the Banker across from the Antiquarian.
-    -   Have access to the furnace, a campfire on the second floor.
--   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
+    -   Everything in Castle Light is at your disposal so you can use anything there
+-   **\[CON\]** **You cannot do Trial of One.**
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
--   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (Going to the Depths through death means you don't have a soul and therefore cannot access Castle Light, unless you are a Deepbound.
+-   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (If you die in the overworld while on second life you can still enter)
 
 ## Voidwalker
 

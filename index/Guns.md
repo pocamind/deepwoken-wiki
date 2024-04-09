@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 95272
+revid: 95287
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -62,13 +62,13 @@ _**Stats:**_
 
 **[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes. (20 LHT req)
 
+**[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **0.8x** attack speed. Dropped by enemies. (40 LHT req)
+
+-   When alloyed, deals **2** extra damage, **0.02x** slower swing speed, gains 10% chip, 5% pen, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
+
 **[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes. (65 LHT req)
 
 **[Dragoon](Dragoon.md):** **16** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes. (65 LHT req)
-
-**[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **0.8x** attack speed. Dropped by enemies. (40 LHT req)
-
-\- When alloyed, deals **2** extra damage, **0.02x** slower swing speed, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
 
@@ -84,13 +84,13 @@ The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Pea
 
 _**Stats:**_
 
-**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 0 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
+**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
 
-**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 0 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
+**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 08 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
 
-[**Summer Rifle:**](Summer_Rifle.md) **17** damage, 0 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
+[**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
 
-**[Stormseye:](Stormseye.md) 19.5** damage, 0 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (40 MED, 75 Thundercall req)
+**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (40 MED, 75 Thundercall req)
 
 ## Trivia:
 
@@ -105,3 +105,4 @@ _**Stats:**_
     -   Need to test to see if they still get the 10% pen bonus.
     -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact.
     -   Both pistols and rifles in Deepwoken don't have recoil.
+-   The [Dawnshot](Dawnshot.md) is the only gun that can be used with [Pluripotent Alloy](Pluripotent_Alloy.md).

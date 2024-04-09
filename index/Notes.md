@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 93129
+revid: 95278
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -42,3 +42,4 @@ At the [Banker](Banker.md) you can access your account which allow you to bank y
 
 -   Modifier buyers refer to Notes as "Sand Dollars," which is the same.
 -   The cap for the Notes were 10,000 but they extended it to 15,000.
+-   The name "Notes" may be a reference to musical notes, given how many other things in Deepwoken are named after musical terms.

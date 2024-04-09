@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 89990
+revid: 95285
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -30,7 +30,7 @@ In the **Scyphozia**, monsters have differences from their Overworld counterpart
 -   Gaining new behaviors/abilities, such as Lionfish Cero.
 -   Becoming much more persistent in chasing, almost never stopping their pursuit until the death of themselves or their target. (Keep in mind that it is easier to run away in the depths, as the area is far more open and has more crevices to hide in)
 
-Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having triple the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigameds](Gigamed.md) can be mistaken as not being corrupted. Ringing one of the Corrupted Bells in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
+Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having two and a half times the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigameds](Gigamed.md) can be mistaken as not being corrupted. Ringing one of the Corrupted Bells in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
 
 ### Attuned Monsters
 

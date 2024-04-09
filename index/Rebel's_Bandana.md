@@ -1,6 +1,6 @@
 ---
 title: "Rebel's Bandana"
-revid: 94077
+revid: 95288
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face]
@@ -21,7 +21,7 @@ categories: [Equipment, Face]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, Primadon |
+| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, Primadon, Second Layer |
 | description | "A bandana paired with a headband. Perfect for hiding your mouth, nose, and hairline. These are known to be the most identifying features of any outlaw." |
 
 ## Description

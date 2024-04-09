@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 95266
+revid: 95281
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -154,7 +154,6 @@ with an enemy, they will be lifted into the air and smashed into the ground, dea
 
 -   Drift and Rush Shards increase projectile speed.
 -   Adding 1 Blast Spark will make your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra.
--   Using Rising Shadow on a megadaunt will cause it to be a crip
 
  |
 | 
