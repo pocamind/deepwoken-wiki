@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 93460
+revid: 95267
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -87,3 +87,4 @@ Polis executes his opponent after knocking them:
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."
 -   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and does not give you a Gold Ring or any other dialogue
 -   Funny enough, he teaches Jus Karita and dons a Justicar Armour but favours a Greatsword in combat instead.
+-   His name literally historically means "Greek city state"

@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 81732
+revid: 95256
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -16,10 +16,12 @@ A gif of someone receiving [knowledge](Knowledge.md) after finishing Beiruul's q
 
 Beiruul is a [Gremor](Gremor.md) NPC located on the side of [Meteor Isle](Meteor_Isle.md) nearest to [Fort Merit](Fort_Merit.md).
 
-Beiruul offers the user a [Quest](Quests.md). This quest involves raiding [Fort Merit](Fort_Merit.md) and killing guards. If you choose to accept, heading over to the side of Fort Merit nearest to Beiruul will cause Beiruul to spawn there alongside weakened [Authority Peacekeeper](Authority_Peacekeeper.md) at the top of the elevator. Killing all of these guards will allow you to finish the quest and receive two [knowledge](Knowledge.md) and navae reputation from Beiruul.
+Beiruul offers the user a [Quest](Quests.md). This quest involves raiding [Fort Merit](Fort_Merit.md) and killing guards. If you choose to accept, heading over to the side of Fort Merit nearest to Beiruul will cause Beiruul to spawn there alongside weakened [Authority Peacekeeper](Authority_Peacekeeper.md) at the top of the elevator. Killing all of these guards will allow you to finish the quest and receive two [knowledge](Knowledge.md) and Navae reputation from Beiruul.
 
 Once you complete the quest, return to Beriuul and she will grant you two knowledge.
 
 When fighting, Beiruul uses the [Way Of Navae](Fists.md) fist fighting style and [Frostdraw](Frostdraw.md) mantras, similar to a regular [Gremor Nomad](Eastern_Nomad.md).
 
 She has Fists of Fortitude and Fists of Navae as [talents](Talents.md).
+
+Gripping Beiruul will **reduce your rep with the Children of Navae.**

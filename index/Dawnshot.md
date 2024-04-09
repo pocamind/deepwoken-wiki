@@ -1,11 +1,9 @@
 ---
 title: Dawnshot
-revid: 95177
+revid: 95257
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, In progress without reason, InProgressPages, Guns]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Guns]
 ---
 
 # Dawnshot
@@ -46,8 +44,11 @@ notices:
 
 **Alloyed:**
 
-**Dawnshot** is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapons to be used (75 for the alloy) with good overall stats for its midgame role.
+## Description
+
+The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used (75 for the alloy) with good overall stats for its midgame role.
 
 ## Trivia
 
 -   The Dawnshot is the fastest weapon to receive compatibility with [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it at the same time as it was released.
+-   The Dawnshot is the only gun to possess chip damage and penetration.

@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 85052
+revid: 95250
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -32,7 +32,7 @@ categories: [Weapons, Greathammers]
 | damage | 24 |
 | scaling | 8 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.64x |
 | endlag | 0.1 sec |
 | penetration | 10% |
 | weight | 7 |
@@ -53,5 +53,5 @@ The Steel Maul is a Heavy Greathammer that deals a Base Damage of 22 with 7 Scal
 
 ## Trivia
 
--   Used as a starter Greathammer when unalloyed.
+-   Typically used as a starter Greathammer when unalloyed.
 -   Generally regarded as a bad weapon when not alloyed.

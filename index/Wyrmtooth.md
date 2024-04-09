@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 95193
+revid: 95265
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Swords]
@@ -31,4 +31,4 @@ notices:
 
 ## Critical
 
-The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Preforming an M1 after using the sliding critical and while near a foe will cause the user to perform the standard critical immediately afterwards.
+The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Preforming an M1 after using the sliding critical and while near a foe will cause the user to perform the standard critical immediately afterwards, hurling opponents backwards.

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 95198
+revid: 95249
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -231,3 +231,4 @@ Based on the power of the user(s), the starting wave will differ;
 -   The bandit at wave 49 serves as a health pack for players who are low.
 
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
+-   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.

@@ -1,9 +1,9 @@
 ---
 title: Ishan
-revid: 94349
+revid: 95252
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore]
+categories: [NPCs]
 ---
 
 # Ishan
@@ -12,10 +12,6 @@ categories: [NPCs, Lore]
 |---|---|
 | name | Ishan |
 | location | Summer Isle |
-
-“ You ever think about the Adret? They realy aren't like the rest of us. ”
-
-― Ishan
 
 ## Description
 
