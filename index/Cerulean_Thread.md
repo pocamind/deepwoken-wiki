@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 94854
+revid: 95322
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -37,5 +37,4 @@ On the first critical you'll thrust towards your opponent, placing a string on t
 
 ## Trivia
 
--   Resembles the "Brand of the Inferno" from Terraria.
 -   The only light weapon to be sheathed behind you instead of along your waist.

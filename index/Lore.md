@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 95152
+revid: 95317
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -417,6 +417,9 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
 -   The name of the game "Deepwoken" is known in the lore as the act of consuming a piece of a Drowned God to gain incredible powers,[\[1\]](#cite-note-rag-1) so Deepwoken doesn't mean the awakening of a Drowned God, but more like the awakening of a great power of the Depths. Before the game had the name of Deepwoken it was called "Drowned Gods," referencing the Drowned Gods.
 -   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this is the Scion of Ethiron in Layer 2.
+-   Arch\_Mage has alluded to the Drowned God "Murchendice" who is responsible for turning notable characters into merchandise
+    -   The ritual of the 'Crowdfunded Murchendice Campaign.'
+    -   A notable victim is [Destroyman III](Destroyman_III.md).
 
 ### **The Nestmind**
 
