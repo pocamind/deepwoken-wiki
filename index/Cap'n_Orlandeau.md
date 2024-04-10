@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 94154
+revid: 95301
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Cap'n Orlandeau | |
 |---|---|
 | name | Cap'n Orlandeau, The Captain (In the Fragments of Self) |
-| location | The Scroundel's Bounty, New Kyrsa |
+| location | The Scoundrel's Bounty, New Kyrsa, The Sleeping City, Fragments of Self (Castaway) |
 
 “ And to the ones above who think of us as sinners... the gods will not be watching. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 86659
+revid: 95303
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -30,5 +30,5 @@ The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms"
 
 ## Trivia
 
--   Almost taking the rank of 1st place, This is the 2nd best Arms [Equipment](Equipment.md) in Deepwoken. First being [Diver's Light Plate](<Diver's_Light_Plate.md>). Though Ironsinger Heavy Plates are usually the best overall choice since they're a lot more easier to obtain than [Diver's Light Plate](<Diver's_Light_Plate.md>)
+-   Almost taking the rank of 1st place, This is the 2nd best Arms [Equipment](Equipment.md) in Deepwoken. First being [Diver's Light Plate](<Diver's_Light_Plate.md>). Though Ironsinger Heavy Plates are usually the best overall choice since they're a lot easier to obtain than [Diver's Light Plate](<Diver's_Light_Plate.md>)
 -   The name implies that these plates are forged via the use of [Ironsing](Ironsing.md).

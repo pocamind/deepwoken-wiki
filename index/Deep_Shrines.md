@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 94651
+revid: 95295
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -64,8 +64,8 @@ This shrine has 2 effects depending on your Power:
 
 -   Bare in mind that the many card draws you will perform are based on your current stats, **you do not gain any attributes point from this**.
 -   The 45 Investment Points you need to catch up will make it trouble to recover a Life while in the Overworld.
--   With the 3 Power Ups granted, you immediatly gain 3 Knowledge.
--   Since you gain bonus damage in PVE based on your level, you immediatly attain higher damage.
+-   With the 3 Power Ups granted, you immediately gain 3 Knowledge.
+-   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage.
     
 
 **Shrine of Mastery:**

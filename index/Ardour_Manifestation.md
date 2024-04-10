@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 92064
+revid: 95302
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -26,5 +26,4 @@ categories: [Items]
 -   The message spells 'signalling' with two Ls, which is British English, despite the game often using American English.
 -   The Ardour Manifestation has no model, but is still held out like any other item.
 -   When using the item it will release the same effects when using Ardour Scream.
--   You can get the Manifestation on your first try against the Dread Serpent since there's a few moments before you get the Murmur.
 -   Was bugged and unable to spawn Dread Serpent from 05/08/23 to 05/13/23.

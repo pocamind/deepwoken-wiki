@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 95276
+revid: 95294
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -34,7 +34,7 @@ With attribute scaling in mind (excluding [Proficiency](https://deepwoken.fandom
 
 -   At Proficiency VI, it deals 30.53 damage at base and 40.28 damage when both MED and HVY are maxed.
 
-While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 10 range and an above average weight of 6; it outreaches almost every other weapon in the game, rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and [Pale Briar](Pale_Briar.md).
+While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 10 range and an above average weight of 6; it outreaches almost every other melee weapon in the game, rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and [Pale Briar](Pale_Briar.md). It even compares to some of the game's pistols, though any past early game will begin to outrange it.
 
 ## Critical
 

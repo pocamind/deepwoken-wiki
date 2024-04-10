@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 95178
+revid: 95291
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -231,7 +231,8 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire.
--   If within the vincinity of Castle Light, it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and can shift aggro, effectively protecting you.
+-   If within the vicinity of Castle Light, it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and can shift aggro, effectively protecting you.
+-   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target.
 
 ## Trivia
 

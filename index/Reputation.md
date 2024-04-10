@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 95200
+revid: 95292
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -173,4 +173,4 @@ File:Ignition Union.png
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
 -   The "Diplomat" Charisma Talent significantly increases reputation gain.
--   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
+-   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction. This is negated if you have 50 charisma or more, as they will instead thank you.
