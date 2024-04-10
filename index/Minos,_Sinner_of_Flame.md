@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 87842
+revid: 95348
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -21,8 +21,8 @@ Minos, Sinner of Flame, is a powerful Starkindred apostate located in [Summer Is
 | Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
 | Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
-| Fire Blade (Starkindred) | While he has his wings out, Iblis will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land. | ✗ | ◯ | (★☆☆) |
-| Flaming Scourge | Iblis gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn. | ✗ | ✗ | (★☆☆) |
+| Fire Blade (Starkindred) | While he has his wings out, Minos will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land. | ✗ | ◯ | (★☆☆) |
+| Flaming Scourge | Minos gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn. | ✗ | ✗ | (★☆☆) |
 | Flame Ballista | Conjures a flaming arrow and fires it at the nearest target, homes in and ricochets if blocked. | ◯ | ◯ | (★★☆) |
 | Ascension | Rises into the air, before swooping in downwards. This applies hard knockdown on hit. | ✗ | ✗ | (★★☆) |
 | Sinister Halo | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range. | ◯ | ◯ | (★★☆) |

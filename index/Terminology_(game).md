@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 91840
+revid: 95351
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
