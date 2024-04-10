@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 93700
+revid: 95332
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -43,7 +43,7 @@ Each slot will call a small, or large fee depending on how many slots you curren
 -   18-23 ( )
 -   24-60 ( )
 
-It will cost you (or 27.5 note carry limit) to obtain all 60 bank slots.
+It will cost you (or 27.9 note carry limit) to obtain all 60 bank slots.
 
 To put an item in your safe deposit box, you just need to drag and drop the item you want to deposit into the box.
 
