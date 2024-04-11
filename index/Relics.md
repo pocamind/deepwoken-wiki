@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 94589
+revid: 95361
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -97,7 +97,7 @@ Can be used in any location.
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
--   [The Ferryman](The_Ferryman.md) **(~11%)**
+-   [The Ferryman](The_Ferryman.md) **(~6%)**
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
