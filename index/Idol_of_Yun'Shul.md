@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 94127
+revid: 95372
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Pages with broken file links]
@@ -36,7 +36,6 @@ _(one-time use, re-obtainable)_
 -   It's design was inspired, subconsciously, by a Buddhist Shakujo's Ringed Staff [\[1\]](#cite-note-1)
 -   It functions without the need of a Resonance, but will not provide you one.
 -   Cannot be used to escape the depths in Layer 2.
--   Cannot be used to break an oath other than oathless
 
 ## References
 

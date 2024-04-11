@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 95136
+revid: 95374
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -33,8 +33,8 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 -   Fortitude (**FTD**)
 -   Agility (**AGL**)
 -   Intelligence (**INT**)
--   Willpower (**WIL**)
--   Charisma (**CHR**)
+-   Willpower (**WLL**)
+-   Charisma (**CHA**)
 
 ### Weapon Attributes
 
@@ -47,9 +47,9 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 -   Flamecharm (**FLM**)
 -   Frostdraw (**ICE**)
 -   Galebreathe (**WND**)
--   Thundercall
--   Shadowcast
--   Ironsing **(MTL)**
+-   Thundercall (**LTN**)
+-   Shadowcast (**SDW**)
+-   Ironsing (**MTL**)
 
 ## Trivia
 

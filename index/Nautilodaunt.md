@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 95213
+revid: 95391
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -121,7 +121,9 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   The nickname "Squid Hoss" is a reference to the Rogue Lineage martial artist Big Hoss, who teaches you all 3 stages of the Oni class.
 -   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800 HP.
 -   The vent he uses was the old vent before Deepwoken's release.
+-   Nautilodaunts can spawn in the overworld via [Mimic chests](Chests_&_Sacks.md)
 -   If you somehow encounter it in the overworld, do not try to swim away, it CAN swim, though it doesn't have a unique swimming animation.
 -   They are named after the Nautilus, a family of shelled cephalopods.
 -   **SIDE TIP:** Attunement-less fortitude mantra "Brace" is very useful when fighting a Nautilodaunt because you have hyper armor for at least 5 seconds and can get some free hits in because the hyper armor won't allow you to be interrupted, but it is very useless when fighting a Fury Nautilodaunt because its fist is capable of removing hyper armor.
 -   If you want to parry, you must press F **immediately** since the Nautilodaunt fist animation is much faster than the dagger attack animation.
+-   The easiest way to kill it is using the Enforcer Axe, Blade, or Hammer's critical, due to its hyper armor and damage

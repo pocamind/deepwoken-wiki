@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 94043
+revid: 95368
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -491,7 +491,6 @@ Gained from dying to Maestro Evengarde Rest.
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Not worth picking if you're going to choose Carnivore, though.
     -   Maverick's exp boost is a nice bonus but is too poor to be viable and is negated by playing with some friends. Also it becomes useless once you reach power 20.
     -   Scrapper give your more control over your build. It can be worth taking if you are okay with omitting a long-lasting boon like Survivalist, Gourmet or Steadfast.
-    -   Steadfast is very good, considering today’s meta of ironsing revolves around stealing opponent armour. also you get free extra armour that helps you last longer in long fights, who doesn’t want that?
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you. ([This Video Demonstrates this fact.](https://www.youtube.com/watch?v=QK2l_fndlBo))
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the 16/08/22 update, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was changed to be an unlockable [origin](Origins.md).

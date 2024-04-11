@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 95155
+revid: 95381
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -64,7 +64,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Lightning Clones will not disappear unless their attack is parried, blocked or dodged, or they land a hit on a player.
 -   He only uses Lightning Clones in Phase 1.
 -   If you attack lightning clones, your willpower will increase.
--   Curiously, kiling the clones procs Time to Go.
+-   Curiously, killing the clones procs Time to Go and Carnivore talents.
 
  | ◯ | ◯ | ◯ | (☆☆☆) | **I** |
 | 
@@ -105,7 +105,6 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 -   He only uses this attack in Phase 2.
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
--   ~Akin to Lightning Assault, parrying all four javelins will earn the player a period of time to hit the Ferryman.~ [Proof that parrying them doesn't award more time.](https://youtu.be/ghWdYkex7Dw) Don't try this unless you're extremely tanky; each javelin's hitbox is at its tail end, and the reward is often not worth the risk.
 -   High posture damage.
 
  | ◯ | ◯ | ◯ | (★★★) | **II** |

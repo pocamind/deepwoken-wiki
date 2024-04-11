@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 95203
+revid: 95379
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -57,3 +57,4 @@ The critical has a cooldown of ten seconds.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.
 -   The YouTuber Nanoprodigy was the first to showcase the Crypt Blade in his video, where the title referenced it as the "[Shadow Greatsword](https://www.youtube.com/watch?v=x4Euw0kCQVs)"
 -   During the original addition of this weapon before it's temporary removal, the scaling used to be unreasonably high at 20 SHW scaling and also had 0.7 swing speed without endlag.
+-   This is the worst freaking weapon to exist. If you use this i hope you get ganked by 20 max lvls -skibidi lord
