@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 95380
+revid: 95403
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -389,7 +389,7 @@ Roar
 -   Do **not** fight a Megalodaunt on low ping if you are inexperienced unless you can simply tank it. The kicks can be devastating in the wrong places.
 -   Megalodaunts in general are a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
     -   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
--   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back.
+-   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
 -   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
 -   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md). They are hostile to most other humanoids and monsters, including [Golems](Hive_Construct.md) and [Stone Knights](Stone_Knight.md).
