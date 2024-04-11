@@ -1,9 +1,9 @@
 ---
 title: Relics
-revid: 95361
+revid: 95433
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items]
+categories: [Pages with broken file links, Items, Equipment]
 ---
 
 # Relics
@@ -148,15 +148,15 @@ It grants the user +20 knowledge on subsequent uses.
  |
 | 
 
- | **[Lightkeeper's Medallions](<Lightkeeper's_Medallion.md>)** - A torso equipment that grant the ability "Eulegy of Light", which prevent Deep Gems from activating when hit for 3 minute.
+ | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the ability "Elegy of Light". When activated, You are immune to the Deep Gem effects of an opponent for 3 minutes.
 
--   The ability is one time use, but is recharged by killing a player of your level.
+  
+The ability is one-time-use, but is recharged by killing a player of your level.
 
  | 
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
 
@@ -178,7 +178,9 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
 
  | **The Queensblade** - A sword used by [The Ministry](The_Ministry.md) to assassinate the true King of Etrea; its exact effect is unknown, and it is only stated that "without it, the king would surely return." Likely some form of artifact keeping the King from returning to the Luminants. |
-| **(Missing Image)** | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
+| 
+
+ | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
 
 ## Trivia
 

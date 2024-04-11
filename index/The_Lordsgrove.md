@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 86448
+revid: 95406
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -31,6 +31,7 @@ Large statues of [Vesperians](Vesperian.md) and a [Ganymede](Ganymede.md) can be
 ### NPCs
 
 -   You can find Zirik, an NPC who will alter your [reputation](Reputation.md) with The Hive in cost of [Notes](Notes.md).
+-   [Marae](Loot_Bag_Gacha.md), a loot bag gacha NPC.
 
 ### Miscellaneous
 

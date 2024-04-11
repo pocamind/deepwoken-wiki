@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 94863
+revid: 95434
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
 
 # Equipment
 
-An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for cosmetic purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
+An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for No Pips purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
 
 ## Overview
 
@@ -976,7 +976,7 @@ Found from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -1014,7 +1014,7 @@ Found from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -3653,6 +3653,26 @@ Found from:
  | N/A |
 |  | 
 
+[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
+
+(Deep Relic)
+
+ | 
+
+No Pips  
+
+_+Talent: Elegy of Light_
+
+ | 
+
+Sources:
+
+-   [Ferryman](The_Ferryman.md) **(~1%)**
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+
+ | N/A |
+|  | 
+
 [Tied Tie](Tied_Tie.md)
 
 (**Unobtainable**)
@@ -3792,7 +3812,7 @@ Demon Mask
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -3844,7 +3864,7 @@ Found from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -3881,7 +3901,7 @@ Iron Mask
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -3915,7 +3935,7 @@ Found from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -3972,7 +3992,7 @@ Found from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -3990,7 +4010,7 @@ Found from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 
@@ -4023,7 +4043,7 @@ Source from:
 
  | 
 
-Cosmetic
+No Pips
 
  | 
 

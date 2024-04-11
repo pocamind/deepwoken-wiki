@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 95399
+revid: 95405
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -307,7 +307,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
 
--   If you have already washed your face, you must rewash it on that slot or a new one to unlock it on all slots.
+-   If you have already washed your face in other slots, you must interactive with the fountain in [the Lordsgrove](The_Lordsgrove.md) to enable this feature.
 
 ## Trivia
 
