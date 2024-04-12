@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 94095
+revid: 95436
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -196,7 +196,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 Once you reach [Castle Light](Castle_Light.md), and he gives you the option to join [the Divers](The_Divers.md). The guild does not currently come with many benefits, apart from a maxed-out guild base, which you can access with [Dwelling Charms](Dwelling_Charm.md). However, we know about some planned features: such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
 
-There is no level requirement to joining [the Divers](The_Divers.md).
+There is no level requirement to join [the Divers](The_Divers.md).
 
 ## Trivia
 
