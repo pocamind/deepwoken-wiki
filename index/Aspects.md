@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 94819
+revid: 95485
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -66,6 +66,7 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 -   Take caution: it's not advised to reroll races until you have the maximum amount of slots, since the price difference of 50 robux is rather minimal.
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many of the factions in _Deepwoken_ are inherently xenophobic/racist to other races.
+    -   One of the most prominent effects of this is that if you are playing as one of the 3 Hive races (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
 -   Race rarity does not make the race inherently better.
     -   However, do note that some races are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton Durability.
 -   Players can come across other players tagged with familial relations if they are of the same race, such as being one's sibling, cousin, twin, parent, or any of the like.

@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 94764
+revid: 95462
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -90,7 +90,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
  |
 | [Ignition Union](The_Ignition_Union.md) | 
 
--   1 [Mechaloduant](Megalodaunt.md#mechalodaunt)
+-   1 [Mechalodaunt](Megalodaunt.md#mechalodaunt)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 95368
+revid: 95463
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -297,7 +297,7 @@ Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
 
-To get this flaw added to the flaw selection screen, grip a reputable member from any factions eg. Etrean guard.
+To get this flaw added to the flaw selection screen, gain negative reputation from any faction that you don't start with negative reputation (eg going from neutral Etrea reputation to bad Etrea reputation.
 
  | 
 

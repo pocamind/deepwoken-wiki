@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 94459
+revid: 95482
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Head]
@@ -31,3 +31,4 @@ The Bulwark Helm is an [Equipment](Equipment.md) item under the "Head" category.
 ## Trivia
 
 -   This helmet was originally designed as part of an Authority-themed, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\] set, alongside the [Grand Authority Plate](Grand_Authority_Plate.md), which is why it provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate being recolored yellow.
+-   The helmet is based on a real world helm called the sallet, which was commonly used Europe around the 15th century.
