@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 93090
+revid: 95448
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -46,7 +46,8 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Keeper](Keeper.md) ( )
 -   [Legion Centurion](Legion_Centurion.md) (?? )
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )
--   [Vigil Cloak](Cloak_of_Winds.md) (?? )
+-   [Duelist's Attire](<Duelist's_Attire.md>) ( )
+-   [Vigil Cloak](Cloak_of_Winds.md) (80 )
 -   [Tactician](Hive_Tactician_Armor.md) ( )
 -   [Pathfinder Journeyman](Pathfinder_Cloak.md) ( )
 -   [Whaler Coat](Whaler_Coat.md) ( )

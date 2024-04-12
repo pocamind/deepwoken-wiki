@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 95441
+revid: 95443
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -46,4 +46,3 @@ The critical is a powerful forward thrust. While sliding, it is instead a circul
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
     -   Both weapons share the same light attack animations.
 -   In both appearance and function, the Wyrmtooth serves as Deepwoken's take on the "ridiculously large sword" trope used commonly in Japanese fantasy media, bearing a striking resemblance to _Final Fantasy_'s [Masamune](<https://finalfantasy.fandom.com/wiki/Masamune_(weapon)>). However RealPunchee stated that this weapon is inspired by [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden ring_
--   Gardevoir is a good pokemon 👍

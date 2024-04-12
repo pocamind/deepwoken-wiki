@@ -1,9 +1,9 @@
 ---
 title: Black Diver (NPC)
-revid: 91832
+revid: 95452
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Cut Content]
+categories: [Enemies, Cut Content, Enemies that can wield Enchantments, Enemies that can use oaths, NPCs]
 ---
 
 # Black Diver (NPC)
@@ -78,7 +78,7 @@ Radiant Dawn\*
 ### Talents
 
 -   Battle Tendency - Black Divers recover posture 20% faster.
--   Brick Wall - Black Divers are immune to all form of ragdolls, beside being knocked. Knockdowns duration are reduced by 30%
+-   Brick Wall - Black Divers are immune to all form of ragdolls, beside being knocked. They are also inmune to knockdowns only applying hitstun.
 -   Surge Path: Unstable Capacitor - Black Divers Lightning mantras apply Surge instead of Shock. At maximum stack, target become Overloaded, which sends arcs of lightning in all directions.
 -   Firmly Planted - Slow debuff toward Black Divers are reduced by 30%.
 -   Braced Collapse - Black Divers take reduced damage from the next hit they take after being guard broken.
