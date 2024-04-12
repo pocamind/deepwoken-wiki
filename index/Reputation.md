@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 95292
+revid: 95456
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -30,9 +30,9 @@ Certain aspects of the game, such as certain NPCs dialogue or certain quests, re
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
-| Hero | 300 | Unlocks the "Lord Regent's Quest' questline. |
+| Hero | 300 |  |
 | Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) now count as allies to you, allowing them to benefit from "on allies" effect, such as buffs or talent effects. |
-| Friend | 1 to 149 |  |
+| Friend | 1 to 149 | Unlocks the "Lord Regent's Quest' questline. |
 | Neutral | 0 | N/A |
 | Enemy | ⁣-149 to -1 | NPCs tied to the relevant faction will attack on sight, including town guards.  
 Player will appear on bounty boards (starting from power 5) and if the player is enemies any of these factions, they can be hunted down by Voidwalkers.

@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 90001
+revid: 95461
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -22,7 +22,7 @@ File:1 Knowledge offering to put in enchanted sacred hammer in the item bank.png
 
 ## Overview
 
-The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any Banker (npcs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots but you can expand it with / /, increasing every 6 slots for a maximum slot count of 24. To store an item, drag an item from your inventory to the slots in the bank.
+The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any Banker (npcs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots but you can expand it with / / /, increasing every 6 slots for a maximum slot count of a lot. To store an item, drag an item from your inventory to the slots in the bank.
 
 ## Restrictions
 
