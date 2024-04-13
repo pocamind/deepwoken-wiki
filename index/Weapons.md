@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 95598
+revid: 95675
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Character, Mechanics, Items]
+categories: [Weapons, Character, Mechanics, Items]
 ---
 
 # Weapons
@@ -27,27 +27,27 @@ All weapons within the game have chances of being found with (or without) differ
 
 [Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
 
-### Total Amount Of Weapons Available In The Game :
+### Total Amount of Weapons Available in the Game :
 
 #### Light Weapon
 
--   13 Daggers (15 i)
+-   13 Daggers (15 if Alloyed)
 -   8 Fists
--   5 Guns (6 if alloyed)
+-   5 Guns (6 if Alloyed)
 -   6 Rapiers
 
 #### Medium Weapon
 
--   21 Swords (26 if alloyed)
--   12 Spears (14 if alloyed)
+-   21 Swords (26 if Alloyed)
+-   12 Spears (14 if Alloyed)
 -   2 Clubs
 -   3 Rifles
 
 #### Heavy
 
--   12 Great Axes (15 if alloyed)
--   11 Great Swords (15 if alloyed)
--   9 Great Hammers (10 if alloyed)
+-   12 Great Axes (15 if Alloyed)
+-   11 Great Swords (15 if Alloyed)
+-   9 Great Hammers (10 if Alloyed)
 
 #### Others
 
@@ -1973,6 +1973,18 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>N/A</td>
   <td>30.3</td>
 </tr>
+<tr>
+  <td><p><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></p></td>
+  <td>65 HVY, 50 FIR, 15 LHT</td>
+  <td>24.5</td>
+  <td>15%</td>
+  <td>HVY: 5, FIR: 8</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7x</td>
+  <td>N/A</td>
+  <td>N/A</td>
+</tr>
 </tbody>
 </table>
 
@@ -2249,12 +2261,6 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Highest DPS: Divine Flintlock
 -   Rifles both bullet m1 and whip have the same range (since usually guns have a bigger range than a simple whip).
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
-    
-    File:Brimstone blade.png
-    
-    new leg weapon mane
-    
-    new leg weapon
 
 ## References
 

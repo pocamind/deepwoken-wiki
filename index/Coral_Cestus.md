@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 95552
+revid: 95627
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -37,7 +37,7 @@ The **Coral Cestus** is a Cestus that requires 75 LHT to use.
 
 ## Critical
 
-The critical is a jumping slam.
+The user leaps into the air forward and slams down into the ground, creating a large AoE that applies short knockdown.
 
 ## Trivia
 
