@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 95675
+revid: 95728
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -32,7 +32,7 @@ All weapons within the game have chances of being found with (or without) differ
 #### Light Weapon
 
 -   13 Daggers (15 if Alloyed)
--   8 Fists
+-   9 Fists
 -   5 Guns (6 if Alloyed)
 -   6 Rapiers
 
@@ -51,15 +51,15 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Others
 
--   10 Elemental
+-   11 Elemental
 -   5 Exclusive
 
 #### In Total
 
--   111 Total Weapons (Non-Alloyed, Non-Exclusive)
--   116 Total Weapons (Non-Alloyed, Exclusive)
--   128 Total Weapons (Alloyed, Non-Exclusive)
--   133 Total Weapons (Alloyed, Exclusive)
+-   113 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   118 Total Weapons (Non-Alloyed, Exclusive)
+-   132 Total Weapons (Alloyed, Non-Exclusive)
+-   138 Total Weapons (Alloyed, Exclusive)
 
 ## Stances
 
@@ -1976,14 +1976,14 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
 <tr>
   <td><p><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></p></td>
   <td>65 HVY, 50 FIR, 15 LHT</td>
-  <td>24.5</td>
+  <td>24</td>
   <td>15%</td>
-  <td>HVY: 5, FIR: 8</td>
+  <td>HVY: 5, FIR: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.7x</td>
   <td>N/A</td>
-  <td>N/A</td>
+  <td>52.7</td>
 </tr>
 </tbody>
 </table>

@@ -1,11 +1,9 @@
 ---
 title: Mudskipper Brute
-revid: 95664
+revid: 95744
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pages with broken file links]
 ---
 
 # Mudskipper Brute

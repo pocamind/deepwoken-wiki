@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 95627
+revid: 95705
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Mudskipper Brute |
+| obtainment | Mudskipper Brute, Mudskipper Broodlord |
 | description | "Cestus fashioned from the remains of a Mudskipper Brute." |
 
 “ With this treasure, I summon... ”
@@ -42,3 +42,5 @@ The user leaps into the air forward and slams down into the ground, creating a l
 ## Trivia
 
 The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
+
+Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.

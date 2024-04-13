@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 95672
+revid: 95715
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -33,3 +33,9 @@ A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They app
 | --- | --- | --- |
 | Depths-Melded | Upon striking an enemy, inflict a light amount of insanity, along with applying 80% Anti-heal. | (★★★) |
 | Bulldozer | Getting hit against a wall causes the target to get guard-broken | (★★☆) |
+
+## Trivia
+
+-   While the Mudskipper Brute summons 1 Bloated mudskipper he summons 2 of them.
+-   For some reason, they autoparry calatrops supposed to be to avoid instakill.
+-   There is a great chance that both versions are inspired by "Mahoraga" from "Jujutsu Kaisen" or the "Clickers" from "The Last Of Us Game".

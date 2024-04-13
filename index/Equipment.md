@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 95434
+revid: 95731
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3476,6 +3476,25 @@ Found from:
  | Black & Golden |
 |  | 
 
+[Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)
+
+ | 
+
+_+50 Carry Load_  
+
++2 Rare Pips
+
+_+Talent: Robber Baron_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
+|  | 
+
 [Nomad Pendant](Nomad_Pendant.md)
 
  | 
@@ -3510,6 +3529,26 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>) ^(**Very Rare**)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) ^(**Rare**)
+
+ | N/A |
+|  | 
+
+[Pathfinder's Backpack](<Pathfinder's_Backpack.md>)
+
+ | 
+
+_+35 Carry Load_  
+
++1 Uncommon Pip
+
+_+Talent: Robber Baron_
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 |  | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 95528
+revid: 95726
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1270,7 +1270,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is empowered with increased range and damage. 10s cooldown. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
-    -   Instead of setting your target on fire, create an eruption on hit, dealing 10 damage. (0.5s cooldown)
+    -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisites: 40 Flamecharm
     -   Mutual Exclusive: The Final Act
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning. (+4 Elemental Intensity)

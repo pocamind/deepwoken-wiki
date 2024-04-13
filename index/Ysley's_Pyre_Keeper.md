@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 95678
+revid: 95746
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -15,11 +15,11 @@ notices:
 | type | Greatsword |
 | requirements | HVY: 65, FIR: 50, LHT: 15 |
 | damage | 24.5 |
-| scaling | HVY: 5, FIR: 8 |
+| scaling | HVY: 5, FIR: 6 |
 | range | 8 |
 | swing speed | 0.7x |
 | penetration | 15% |
-| special effect | [placeholder] Spawns green flames on hit that cut the target's mobility in half. |
+| special effect | Spawns green flames on hit that cut the target's mobility in half. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 55 |
 | weight | 5 |
@@ -36,14 +36,19 @@ Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a metal chassis ope
 
 The Pyre Keeper comes with the following passives:
 
--   **Placeholder Name:** M1 attacks spawn green yellow-ish flames on hit that cut the target's mobility in half.
+-   **Lifelord's Blaze:** M1 attacks spawn green yellow-ish flames on hit that cut the target's mobility in half.
+    -   This passive scales with the LHT investment. (Needs to be confirmed/test with evidence)
 
 ## Critical
 
-Ysley's Pyre Keeper has 2 different criticals: An aerial and normal critical.
+Ysley's Pyre Keeper has 5 different criticals: An aerial, normal, running, uppercutting and sliding/crouching.
 
 -   **Aerial Critical**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect.
--   **Normal Critical:** Does 3 rapid slashes while all of them inflict the yellow green-ish burn effect.
+    -   While blocking the first attack, you get guardbroken.
+-   **Normal Critical:** Does 3 slashes (1 slow and 2 fast) while all of them inflict the yellow green-ish burn effect. Aftereffect of the critical is a major speed boost.
+-   **Running Critical:** Does a short-ranged dash forward with the blade facing forward and does a combo of grabbing, ragdoll swinging and dazing the player.
+-   **Sliding/Crouching Critical:** Dig the greatsword into the ground and slash it upwards into a flurry of 3 blows.
+-   **Uppercutting Critical:** Does a one single slash which acts like a Greathammer/-axe critical.
 
 ## Gallery
 
@@ -53,7 +58,6 @@ Oberon aka yayafino wielding the Pyre Keeper at Starswept Valley.
 
 -   It is the weapon with the widest stat requirements, Heavy, Flamecharm and Light as well as the first to "count as two" weapons.
 -   It is the only Elemental weapon to not require 75 of the element.
--   The Pyre Keeper has more weapon mastery requirements than the [Ignition Deepcrusher](Ignition_Deepcrusher.md).
--   It also has the second highest requirements of any weapon, 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
--   It is unsure if this weapon changes appearance if it has Azure Flames or Black Flames aka [Wraith Path: Twisted Puppets](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Twisted_Puppets).
+-   It has the third highest requirements of any weapon, 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md), and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
 -   M1 swing have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md).
+-   Confirmed by yayafino, one of the developers of the game and Ysley's Pyre Keeper, this Legendary Weapon will not be overrided by Azure Flames or Wraith Flames due to it being Lifeweave Fire and it's considered stronger than both of them.
