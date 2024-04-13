@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 95180
+revid: 95500
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -29,11 +29,11 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). The Kyrscleave is considered direct upgrade from the Crescent Cleaver and a sidegrade to the alloyed version of the aforementioned weapon.
+The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). The Kyrscleave is considered direct upgrade from the Cresent Cleaver and a sidegrade to the alloyed version of the aforementioned weapon.
 
 ## Critical
 
-After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable. This critical is shared with the Crescent Cleaver.
+After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable. This critical is shared with the Cresent Cleaver.
 
 ## Trivia
 

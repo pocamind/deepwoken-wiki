@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 95443
+revid: 95508
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -16,9 +16,9 @@ categories: [Weapons, Swords]
 | scaling | MED: 6.2, HVY: 4.2 |
 | range | 10 |
 | swing speed | 0.7x |
-| penetration | 20% |
+| penetration | 25% |
 | stances | 2 Handed, 1 Handed |
-| weight | 6 |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -28,11 +28,9 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The **Wyrmtooth** is a [Medium-Heavy hybrid](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons) sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and power 15 to equip. Despite being a hybrid weapon, it is only compatible with medium weapon talents.
+The **Wyrmtooth** is a [Medium-Heavy hybrid](Weapons.md#medium-weapons) sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 25% PEN, requiring 60 MED, 40 HVY and Power 15 to equip. Despite being a hybrid weapon, it is only compatible with medium weapon talents.
 
-With attribute scaling in mind (excluding [Proficiency](https://deepwoken.fandom.com/wiki/Traits#Proficiency)), the Wyrmtooth deals 28.2 damage at base and 35.6 damage when both MED and HVY are at 100.
-
--   At Proficiency VI, it deals 30.54 damage at base and 40.29 damage when both MED and HVY are maxed.
+With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.2 damage at base and 35.6 damage when both MED and HVY are at 100.
 
 While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 10 range and an above average weight of 6; it outreaches almost every other melee weapon in the game, rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and [Pale Briar](Pale_Briar.md). It even compares to some of the game's pistols, though any past early game will begin to outrange it.
 
@@ -42,6 +40,7 @@ The critical is a powerful forward thrust. While sliding, it is instead a circul
 
 ## Trivia
 
+-   At Proficiency VI, it deals 30.54 damage at base and 40.29 damage when both MED and HVY are maxed.
 -   The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
     -   Both weapons share the same light attack animations.

@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 94699
+revid: 95493
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -41,7 +41,7 @@ Sometimes, when you are sailing through Voidsea, you may be teleported to a rand
 -   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most, but most likely refers to [Boatman's Watch](<Boatman's_Watch.md>).
 -   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md).
--   With enough dedication, sailing out of the Voidsea into the actual Roblox void is still possible in Verse 2.
+-   Sailing out of the Voidsea into the actual Roblox void is possible.
 -   May be a reference to the Voidsea from Rain World.
 -   [Resonance dawn](Random_Encounters.md) event can spawn here and is a prime place for grinding it because of its low 4 events.
     

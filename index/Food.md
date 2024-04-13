@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 95230
+revid: 95499
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -162,6 +162,7 @@ OR
 ## Notes
 
 -   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a Power Level.
+-   The 'Candied Fruit' only requires 1 of any fruit.
 
 ## Trivia
 

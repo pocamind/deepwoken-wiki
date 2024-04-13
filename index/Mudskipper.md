@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 95424
+revid: 95507
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -344,3 +344,4 @@ Scratch
 -   If there are two un-agroed Mudskippers, they have a chance to start up a conversation among themselves.
 -   If you don't want to risk going down to the depths for Umbrite to get Ironsing, just fight the Mineskippers as they have a chance to drop every ore in the game.
 -   Mudskippers participated in the 2024 April fools event under the name the Blue Skippers.
+-   NO idea how to make a new page, but the mudhoraga (mudskipper brute) just released, someone make a page.

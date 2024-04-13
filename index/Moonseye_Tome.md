@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 95360
+revid: 95503
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -35,7 +35,6 @@ Attempting to use at Knowledge Cap (99), _"Your mind is too full to take in the 
 
 ## Trivia
 
--   ~You can only hold one of this item. Attempting to take another while already in possession of one will result in the item being lost without prior notice~ The Moonseye Tome in the moment of writing this is stackable.
 -   In your inventory, the Moonseye Tome has a Weight of 1.
 -   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Book of smart ass n\*\*\*a"[\[1\]](#cite-note-1)
     -   Agamatsu posits that the Tome is a reference to his mad, often nonsensical, rambles and suggestions, and the journey the Cult went on may be a reference to his attempts to find an entrance to [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) in the [Voidsea](Voidsea.md).

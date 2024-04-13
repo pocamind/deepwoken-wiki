@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 95287
+revid: 95502
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,7 +14,7 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are ranged weapons that are designed to shoot projectiles if the user has bullets in their inventory, they are able to add ranged capabilities (1H only) as well as giving a +10% PEN bonus. Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
+**Guns** are ranged weapons that are designed to shoot projectiles if the user has bullets in their inventory, they are able to add ranged capabilities (1H only) as well as giving a +10% PEN bonus. Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), except for the [Dawnshot](Dawnshot.md) and the [Silversix](Silversix.md), with the latter being an advanced starting weapon that is purchased with echoes when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
 
 For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
 
@@ -95,10 +95,10 @@ _**Stats:**_
 ## Trivia:
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
-    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base.
+    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base and [The Furnance](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The [Stormseye](Stormseye.md) is the only legendary gun in game. It is obtained by killing bosses.
--   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique critical.
+-   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
 -   One handed guns are the only type of guns where having bullets isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.

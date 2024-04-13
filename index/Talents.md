@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 95221
+revid: 95509
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1852,7 +1852,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
--   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
+-   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
 

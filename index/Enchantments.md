@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 95455
+revid: 95490
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -32,8 +32,8 @@ Enchanted items cannot be dropped on death.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
 -   Enchanted items appear as light purple in your inventory.
 -   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
--   You can have four enchants equipped at the same time, but one of them will not work.
-    -   This is because it's usually impossible. In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot, but has since changed.
+
+  
 
 ## Variants
 
@@ -655,6 +655,7 @@ Static flaming purple.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
 -   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain it.
 -   Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
+-   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 
 ## References
 
