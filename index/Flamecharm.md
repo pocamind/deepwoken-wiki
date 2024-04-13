@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 95471
+revid: 95594
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1364,10 +1364,11 @@ N/A
 -   The **Flame Leap** mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
--   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md).
+-   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). **(No longer true as of April 4th, 2024).**
 -   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
 -   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
+-   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 
 ## References
 

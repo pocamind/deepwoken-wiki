@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 95190
+revid: 95585
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -41,12 +41,12 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). After getting shot at five times, the next stage of orbs will initiate. When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
 
-**Weakened Megalodaunt:**
+**Weakened Mudskipper Brute:**
 
   
 **"When faced against a terrifying foe, do you cower or rise to face it?"**
 
-Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 1. 350 HP. (22 sword hits)
+Fight as if it were a regular [Mudskipper Brute](Mudskipper_Brute.md), albeit with caution. It has less health, but you are still only level 1. 350 HP. (22 sword hits)
 
 **Weakened Rock Golem:**
 
@@ -107,7 +107,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ## Tips and Tricks
 
--   It is recommended to first enter when you can relatively consistently kill a Sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
+-   It is recommended to first enter when you can relatively consistently kill a Mudskipper Brute without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.

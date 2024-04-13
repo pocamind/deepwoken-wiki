@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 95236
+revid: 95547
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1670,11 +1670,46 @@ I weep for them still, my tears bitter as salt...
 
   
 
+### Strange Missives
+
+> A collection of mysterious letters
+> 
+> -   The book itself is littered with pages of letters and notes, some stray sheets within in an unintelligible language, scrawled in an unknown print. Some documents are easy to make out - archived correspondence.\*
+> 
+> -   From the wear and condition of the first letter sheaved in the book, this is old. Most certainly written several generations ago.\*
+> 
+> Th'armati, most hold greetings from the Echelon.
+> 
+> The counsell has decre'd it! Nostri eclipse is upon us once again, and we send out tidings and caution to our distant kin. As our aecti surge below the surface into our ossuaries, we urge your kin to avoid trespassing upon our festivities, and keep their craft clear from our islands - the all-too-familiar matercrypt will receive those who do not heed this warning into its sunk'n shores.
+> 
+> As always, we send our kindest tidings from our Lady, for th'armato will be glad to know of the peace we have enjoyed since her sacrifice long since. Have faith in our practices - her guidance continues to crade our isles well. True faith survives such troublesome events - there is peace as she had promis'd, we have rebuilt plentifully since our most worrying ordeal, our crypts have expanded greatly to all reaches of the archipelago.
+> 
+> We pray for the safety of your own and th'ambulo living your protection.
+> 
+> \- Galvika, our confessors' Acolyte.
+> 
+>   
+> 
+> -   Rifling through, a sleeker page appears - almost pearlescent in contrast to the previous letters' wear. It's silk to the touch. Part of the letter is again in the obscure language, yet it seems that there is a translation neatly printed beneath.\*
+> 
+> Th'armati of Aratel, most insistent greetings from the Echelon.
+> 
+> We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'sourvenir' of our heritage laid upon our walls, and henceforth shall not be reutnring to your Greathive. For their trespass againsst our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
+> 
+> We have since sent the other ambassadors onto their return, and they have been equipped with the requested copies of our archives - we hope the reminder of our common ancestry contained within them will kindle our distant friendships.
+> 
+> We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acoltye.
+> 
+> -   The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
+
+  
+
 ## Trivia
 
 -   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
 -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
 -   Stars Above, and the Blade between was written by former developer iltria.
+-   Strange Missives was written by contributor Hautdesert.
 -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
 -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
 -   The canjolin instrument could be loosely based off of the [mandolin](https://en.wikipedia.org/wiki/Mandolin).
