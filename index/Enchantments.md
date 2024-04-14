@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 95490
+revid: 95773
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -16,7 +16,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 -   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchanted weapons for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
--   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
+-   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into either a random equipment enchant (you can roll the same enchant twice in a row) **or** a random enchant stone.
 -   Using an [Enchant Stone](Enchant_Stone.md). (Found in L2, Galeswax and from Maestro's Lootpool.)
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 -   Defeating a [Star knight](Stone_Knight.md#star-knight) that only spawns during the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event. (Only drops the astral enchant stone)
@@ -68,7 +68,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 4 hits, every hit for 5 seconds including the final hit will apply burning (6 damage normally, 8 damage with Azure Flames). This can be used to trigger Flamecharm talents.<br>
+  <td><div><p>After landing 4 hits, every hit for 5 seconds including the final hit will apply burning (5 damage normally, 8 damage with Azure Flames). This can be used to trigger Flamecharm talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
@@ -168,7 +168,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deals damage to the attacker after a delay.<br>
   Deal 4% HP damage, ignores all resistances.<br>
-  Deal 30% x ()userpower in PVE.<br>
+  Deal 30% of your PVE scaled damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
   Effect is parriable by npcs.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
@@ -267,10 +267,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
   <br>
-  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life. Unequipping it from your character will restore that life, assuming NLK actually took one away in the first place.)<br>
+  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life in PVE combat, this doesn't change anything in PvP. Unequipping it from your character will restore that life, assuming NLK actually took one away in the first place.)<br>
   Take 2x blood damage from all sources when in the overworld.<br>
-  When unsheathed in The Depths, you will instantly lose 100 sanity (each time you equip it). Unless you have a huge amount of willpower, this is guaranteed to kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
-  While equipped, if you drop below 50% sanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
+  When unsheathed in The Depths, you will instantly lose 100 sanity (each time you equip it). Unless you have a huge amount of willpower, this will kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
+  While equipped, if you reach Tier 3 Insanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled with this enchant.</b><br>
   <b>Conditioned Runner is disabled.</b><br>

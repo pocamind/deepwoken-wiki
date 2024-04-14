@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 90851
+revid: 95770
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations, Etrean Luminant, Islands]
@@ -56,6 +56,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Brilliant Boots](Brilliant_Boots.md)
 -   [Khan Boots](Legion_Boots.md)
 -   [Ranger's Boots](<Ranger's_Boots.md>)
+-   [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) (Possibly rogue construct only)
 
  | • [Vigil Longsword](Vigil_Longsword.md) (Uncommon)
 
@@ -104,4 +105,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Wiping for the first time unlocks the ability to spawn here as an origin ([Trial of one](Trial_of_One.md))
 -   After beating the trial of one/above power 1, you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.
 -   Many players pronounce it as 'Mini-tear-risa' instead of 'Mini-tear-sa.'
--   Strangely, despite the fact that there are many ministry scouts and necromancers here, Minityrsa is not considered to be territory of the Ministry in-game, as it doesn't say "TERRITORY OF THE MINISTRY" under it's name, however this DOES apply to Outpost Antumbra, which is located in Minityrsa.
+-   Strangely, despite the fact that there are many ministry scouts and necromancers here, Minityrsa is not considered to be territory of the Ministry in-game, as it doesn't say "TERRITORY OF THE MINISTRY" under it's name, however this DOES apply to [Outpost Antumbra](Outpost_Antumbra.md), which is located in Minityrsa.

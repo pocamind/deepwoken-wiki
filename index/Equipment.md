@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 95731
+revid: 95757
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3490,7 +3490,10 @@ _+Talent: Robber Baron_
 
 Found from:
 
+-   [Fort Merit](Fort_Merit.md) **(Very Common)**
 -   [Aratel Island](Aratel_Island.md)
+-   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 |  | 

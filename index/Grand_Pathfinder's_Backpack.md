@@ -1,6 +1,6 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 95742
+revid: 95768
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Island, Chime of Conflict, Maestro Evengarde Rest, The Etrean Sea |
+| obtainment | Aratel Island, Chime of Conflict, Maestro Evengarde Rest, The Etrean Sea, Duke Erisia, Chaser, First Layer, Minityrsa |
 | description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description

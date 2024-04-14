@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 95459
+revid: 95778
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -280,7 +280,6 @@ categories: [Deepwoken]
 -   The "Hoss" emote is a reference to Akuma from Street Fighter, while the name of emote is a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
 -   When enemies spot you there is a chance to play the alert sound effect from _Metal Gear Solid_.
 -   Voideye's Teleportation animation bears a striking resemblance to Final Fantasy XIV's teleport animation.
--   The 2024 april fools update titled _The Warring States Era_ is a reference to _The Warring States Period_ From the popular seinen manga called _Kingdom_
 
 ## Trivia
 

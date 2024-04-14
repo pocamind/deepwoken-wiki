@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 87722
+revid: 95787
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -37,3 +37,4 @@ Spark Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attun
 ## Trivia/Notes
 
 -   Prior to the Verse 2 Update, Spark Glands used to give [Reservoir](Reservoir.md) upon consumption.
+-   When a spark gland is consumed it will give a small amount of Thundercall exp.

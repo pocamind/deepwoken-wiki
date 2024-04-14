@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 95291
+revid: 95769
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -174,22 +174,23 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 
  | 
 
--   Ring of Wisps
+-   [Ring of Wisps](Equipment.md)
 -   [Assassin Hood](<Assassin's_Hood.md>) **(Series)**
--   Dazed Band
+-   [Dazed Band](Equipment.md)
 -   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
--   Freestyler's Band
+-   [Freestyler's Band](Equipment.md)
 -   [Enforcer Boots](Enforcer_Boots.md)
--   Pariah's Keepsake
+-   [Pariah's Keepsake](Equipment.md)
 -   [Providence Coat](Providence_Coat.md)
--   Bloodiron Ring
--   Purifying Ring
+-   [Bloodiron Ring](Equipment.md)
+-   [Purifying Ring](Equipment.md)
 -   [Demon Mask](Demon_Mask.md)
--   Isshin's Ring
+-   [Isshin's Ring](Equipment.md)
 -   [Hivelord mask](Hivelord_Mask.md)
--   Windmill Ring
--   Light Eater Ring
+-   [Windmill Ring](Equipment.md)
+-   [Light Eater Ring](Equipment.md)
 -   [Star Boots](Star_Boots.md)
+-   [Pathfinder's Backpack](<Pathfinder's_Backpack.md>)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 95746
+revid: 95786
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -13,11 +13,11 @@ notices:
 | Ysley's Pyre Keeper | |
 |---|---|
 | type | Greatsword |
-| requirements | HVY: 65, FIR: 50, LHT: 15 |
-| damage | 24.5 |
+| requirements | HVY: 25, FIR: 75, LHT: 10 |
+| damage | 23 |
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
-| swing speed | 0.7x |
+| swing speed | 0.68x |
 | penetration | 15% |
 | special effect | Spawns green flames on hit that cut the target's mobility in half. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -57,7 +57,6 @@ Oberon aka yayafino wielding the Pyre Keeper at Starswept Valley.
 ## Trivia
 
 -   It is the weapon with the widest stat requirements, Heavy, Flamecharm and Light as well as the first to "count as two" weapons.
--   It is the only Elemental weapon to not require 75 of the element.
+-   It was formerly the only Elemental weapon to not require 75 of the element.
 -   It has the third highest requirements of any weapon, 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md), and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
--   M1 swing have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md).
--   Confirmed by yayafino, one of the developers of the game and Ysley's Pyre Keeper, this Legendary Weapon will not be overrided by Azure Flames or Wraith Flames due to it being Lifeweave Fire and it's considered stronger than both of them.
+-   M1 swing have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but are planned to be changed in the next week.

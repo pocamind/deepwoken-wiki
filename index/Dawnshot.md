@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 95271
+revid: 95779
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -38,7 +38,7 @@ categories: [Weapons, Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on base weapon, Duke Erisia, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest |
+| obtainment | Using a Pluripotent Alloy on base weapon, Duke Erisia, Chaser, Scholar of the Burning Blood, Maestro Evengarde RestSea Events |
 
 **Base:**
 

@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 95737
+revid: 95751
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,4 +30,4 @@ It's the lesser version of the [Grand Pathfinder's Backpack](<Grand_Pathfinder's
 
 ## Trivia
 
-This item was added to the game in the weekly update of April 12nd, 2024.
+This item was added to the game in the weekly update of April 12th, 2024.

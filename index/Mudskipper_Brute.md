@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 95744
+revid: 95764
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Mudskipper Brute is a beefy, coral-mutated monster that is stronger than your average [Mudskipper](Mudskipper.md). The [Mudskipper Broodlord](Mudskipper_Broodlord.md) is a more powerful variant of this monster.
+The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), boasting higher innate stats, a wider moveset, and a unique, beefy pectoral body. The [Mudskipper Broodlord](Mudskipper_Broodlord.md) is a more powerful variant of this monster.
 
 ## Moveset
 
@@ -56,5 +56,6 @@ File:Mudskipper Brute Roar.gif
 ## Trivia
 
 -   This mob was added to the game in the weekly update of April 12nd, 2024.
+-   The Brute replaced The Sharko within Trial of One, ever since it released.
 -   This mob can summon a normal green mudskipper, which is a new color.
 -   While the design does look similar to Mahoraga from Jujutsu Kaisen, the devs have claimed they didn't even think of mahoraga during the creation process.
