@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 95757
+revid: 95859
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3492,7 +3492,12 @@ Found from:
 
 -   [Fort Merit](Fort_Merit.md) **(Very Common)**
 -   [Aratel Island](Aratel_Island.md)
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [First Layer](First_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
@@ -3528,10 +3533,10 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) ^(**Rare**)
--   [Miner's Landing](<Miner's_Landing.md>) ^(**Very Rare**)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
+-   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
 -   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md) ^(**Rare**)
+-   [Second Layer](Second_Layer.md) (**Rare**)
 
  | N/A |
 |  | 
@@ -3550,6 +3555,7 @@ _+Talent: Robber Baron_
 
 Found from:
 
+-   [High-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 

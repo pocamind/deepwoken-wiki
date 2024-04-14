@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 95807
+revid: 95852
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Mudskipper Brute
 
-Occasionally called "Bruteskipper"Template:Creature Infobox V3
+_Also known as "Bruteskipper" and "Stefano"_Template:Creature Infobox V3
 
 ## Description
 
@@ -47,7 +47,7 @@ File:Mudskipper Brute Slamdown.gif
  | Leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable slam. This move autogrips knocked enemies. | X | X | ◯ | (★★★) |
 | 
 
-**Call of Miguel**
+**Call of Stefanos**
 
 File:Mudskipper Brute Roar.gif
 

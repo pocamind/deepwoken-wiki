@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 95692
+revid: 95867
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -43,11 +43,11 @@ When using the weapon one-handed it becomes two swords, changing its swing speed
 
 ## Critical
 
-### One Handed Critical
+### One Handed Critical (2 Blades)
 
 The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
 
-### Two Handed Critical
+### Two Handed Critical (1 Blade)
 
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 
@@ -63,6 +63,6 @@ The user shoots a blast of air and on collision or after a short amount of time 
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
 -   This is the 2nd most nerfed weapon in the game, followed by the Railblade (First place being the Light's Final Toll)
     -   However, this does not mean the weapon is bad, but simply the most changed.
--   It is one of five weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [wyrmtooth](Wyrmtooth.md)
+-   It is one of seven weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Wyrmtooth](Wyrmtooth.md)
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has a meaning, but is currently unknown, and the other runes near the tip are a mix of different ancient runic dialects that don't translate to anything.
 -   Using The Curved Blade of Winds completely disables your shield's Posture buff. However, if you have the Turtle Shell Talent and are two handing the weapon, you can still negate Spine Cutter, as the shield appears on your back.

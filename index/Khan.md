@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 94037
+revid: 95855
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -88,7 +88,6 @@ May have increased rep with The 100 Legions
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme.
 -   Hair dye affects the sideburns.
 -   Khans are known to bet on fights.[\[1\]](#cite-note-1)
--   Some people have "Khan" as a last name in real life. These people are 100% major Deepwoken fans. For example, [Genghis Khan](https://en.wikipedia.org/wiki/Genghis_Khan) ganked lots of people and played conquest IRL
     
     Monkskipper
     
