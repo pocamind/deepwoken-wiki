@@ -1,6 +1,6 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 95794
+revid: 95834
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,5 +32,3 @@ It's the greater version of the [Pathfinder's Backpack](<Pathfinder's_Backpack.m
 ## Trivia
 
 This item was added to the game in the weekly update of April 12nd, 2024.
-
-It is a darker reskin of the weaker variant of this item, the Pathfinder's Backpack.

@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 95824
+revid: 95837
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -56,3 +56,4 @@ Ysley's Pyre Keeper has 5 different criticals: An aerial, normal, running, upper
 -   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md), and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but are planned to be changed with time.
+-   The Weapon used to not change color if you had Azure/Twisted Puppets path. This was changed the next day after weapon's release.
