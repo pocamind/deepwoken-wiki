@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 95249
+revid: 95823
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -146,7 +146,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupt Enforcer |  |
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
-| 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt | Both Terrapods have a higher chance to be the red version |
+| 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt, 1 Mudskipper Brute | Both Terrapods have a higher chance to be the red version |
 | 20 (Smough, Smough and Smough)
 
 **\*HOLLOW MODIFER\***
@@ -162,7 +162,7 @@ Based on the power of the user(s), the starting wave will differ;
 
  | 2 Corrupt Bounders |  |
 | 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts |  |
-| 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers |  |
+| 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Broodlord Brute. |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Attuned(?) Nautilodaunt. |  |
 | 29 (Seafood Featheries) | 1 Crimson Megalodaunt, 1 Glacial Lionfish, 1 Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
 | 30 (Parasyte) | 6 Corrupt Attuned Carbuncles |  |
@@ -218,7 +218,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 \***CORPSE EXPLOSION MODIFIER**\*
 
- | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ |  |
+ | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ |  |
 
 ## Tips/Trivia
 

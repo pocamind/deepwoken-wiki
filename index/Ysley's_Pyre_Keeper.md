@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 95786
+revid: 95824
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -32,7 +32,7 @@ notices:
 
 ## Description
 
-Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a metal chassis opening to a serrated green blade that breathes flames, wielded alongside a similar pivot dagger. It can be obtained when you help out Hive in the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) and helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). It scales off Flamecharm alongside Heavy.
+Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar pivot dagger. It can be obtained when you help out Hive in the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) and helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). It scales off Flamecharm alongside Heavy.
 
 The Pyre Keeper comes with the following passives:
 
@@ -50,13 +50,9 @@ Ysley's Pyre Keeper has 5 different criticals: An aerial, normal, running, upper
 -   **Sliding/Crouching Critical:** Dig the greatsword into the ground and slash it upwards into a flurry of 3 blows.
 -   **Uppercutting Critical:** Does a one single slash which acts like a Greathammer/-axe critical.
 
-## Gallery
-
-Oberon aka yayafino wielding the Pyre Keeper at Starswept Valley.
-
 ## Trivia
 
 -   It is the weapon with the widest stat requirements, Heavy, Flamecharm and Light as well as the first to "count as two" weapons.
--   It was formerly the only Elemental weapon to not require 75 of the element.
--   It has the third highest requirements of any weapon, 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md), and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
--   M1 swing have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but are planned to be changed in the next week.
+-   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md), and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
+    -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
+-   The M1s have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but are planned to be changed with time.

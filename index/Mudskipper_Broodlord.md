@@ -1,16 +1,13 @@
 ---
 title: Mudskipper Broodlord
-revid: 95715
+revid: 95806
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Mudskipper Broodlord
 
-Template:Creature Infobox V3
+Sometimes called "Broodskipper"Template:Creature Infobox V3
 
 ## Description
 
@@ -36,6 +33,5 @@ A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They app
 
 ## Trivia
 
--   While the Mudskipper Brute summons 1 Bloated mudskipper he summons 2 of them.
--   For some reason, they autoparry calatrops supposed to be to avoid instakill.
--   There is a great chance that both versions are inspired by "Mahoraga" from "Jujutsu Kaisen" or the "Clickers" from "The Last Of Us Game".
+-   They can parry some "instant kill mantras" such as Caltrops.
+-   Both this enemy and the [Mudskipper Brute](Mudskipper_Brute.md) are inspired by the "Clickers" from "The Last Of Us".

@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 95751
+revid: 95804
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Pathfinder's Backpack is an [Equipment](Equipment.md) item under the "Torso" category.
 
-It's the lesser version of the [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>), possessing 50 carry load instead of 35. This item can be really handy for bank slots.
+It's the lesser version of the [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>), possessing 35 carry load instead of 50. This item can be really handy for bank slots.
 
 ## Trivia
 

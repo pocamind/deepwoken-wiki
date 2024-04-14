@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 93979
+revid: 95808
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -12,7 +12,7 @@ File:Attunement-less icon.png
 
 Attunement-less icon
 
-Attunement-less mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
+Attunement-less mantras, or Physical mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
 
 **NOTE: Attunement-less mantras are rarer if you have an attunement and depend on how much you have in said stat opposed to your attunement.**
 
@@ -20,7 +20,7 @@ Attunement-less mantras consist of mantras that are chosen based on your attribu
 
 You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
+Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength combined with the Song to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
 
 In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat mantra scale off the same points.
 
@@ -586,15 +586,16 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   The majority of mantra modifiers have gotten their functionality removed from Attunement-less mantras, due that they made them too damn overpowered.
     -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
     -   Before it was nerfed, Revenge would've always teleported you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with range modifiers.
-    -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a ~Fortitude~/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
+    -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
         (Unfortunately, it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras.)
 -   Prediction has, by far, the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
 -   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.
--   You can obtain other Weapon Mantras long as you have 30 investment points in them.
+-   You can obtain other Weapon Mantras long as you have 30 investment points in them, including Jus Karita mantras.
     -   This used to be 8
 -   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 stars respectively.
 -   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
+    -   Strong Left used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a strong left hit.
 -   Rapid Slashes is Vergil's move from Devil May Cry series.
 -   Revenge have it sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))

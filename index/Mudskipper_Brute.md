@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 95764
+revid: 95807
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Mudskipper Brute
 
-Template:Creature Infobox V3
+Occasionally called "Bruteskipper"Template:Creature Infobox V3
 
 ## Description
 
@@ -58,4 +58,4 @@ File:Mudskipper Brute Roar.gif
 -   This mob was added to the game in the weekly update of April 12nd, 2024.
 -   The Brute replaced The Sharko within Trial of One, ever since it released.
 -   This mob can summon a normal green mudskipper, which is a new color.
--   While the design does look similar to Mahoraga from Jujutsu Kaisen, the devs have claimed they didn't even think of mahoraga during the creation process.
+-   The design, along with the [Broodlords](Mudskipper_Broodlord.md) are inspired by the Clickers from The Last of Us.
