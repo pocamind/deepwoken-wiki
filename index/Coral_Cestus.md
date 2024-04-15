@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 95886
+revid: 95895
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -26,10 +26,6 @@ categories: [Weapons]
 | pass down | Yes |
 | obtainment | Mudskipper Brute, Mudskipper Broodlord |
 | description | "Cestus fashioned from the remains of a Mudskipper Brute." |
-
-“ With this treasure, I summon... ”
-
-― A Coral Cestus user
 
 ## Description
 
