@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 95823
+revid: 95909
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -33,33 +33,6 @@ When attempting the option to start the Diluvian Mechanism below Power 3, you ha
 ### **Shrine of Solitude**
 
 A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred talents and mantras regardless of origin.
-
-## Monsters
-
--   [Deep Widow](Deep_Widow.md) (Corrupt)
--   [Mudskipper Knight](Mudskipper.md#mudskipper-knight) (Corrupt)
--   [Deep Owl](Deep_Owl.md) (Corrupt)
--   [Stone Knight](Stone_Knight.md) (All variants + Corrupt)
--   [Thresher](Thresher.md) (All variants + Corrupt)
--   [Megalodaunt](Megalodaunt.md) (All variants + Corrupt)
--   [Bounder](Bounder.md) (Corrupt)
--   [Rock Golem](Rock_Golem.md) (All variants + Corrupt)
--   [Crab](Crab.md) (Corrupt)
--   [Terrapods](Terrapod.md) (All variants + Corrupt)
--   [The Enforcer](Enforcer.md) (Corrupt)
--   [Lionfish](Lionfish.md) (All variants)
--   [Carbuncle](Carbuncle.md) (Corrupt)
--   [Gigamed](Gigamed.md) (All variants + Corrupt)
--   [Bone Keeper](Bone_Keeper.md) (Corrupt)
--   [Nautilodaunt](Nautilodaunt.md) (Corrupt)
--   [Rogue Constructs](Hive_Construct.md) (Corrupt)
--   [Brainsucker](Brainsucker.md) (Corrupt)
--   [Angels](Hollow_Angel.md) (All variants)
--   [Ministry Necromancer](Ministry_Necromancer.md)
--   [Ministry Enforcer](Ministry_Enforcer.md) (Strong variant)
--   [Tideknight](Tideknight.md)
--   [Bandit](Bandit.md) (Serves as a health pack for players at wave 49)
--   [Kyrsgarde](Kyrsgarde.md) (All variants)
 
 ## Modifiers & Environmental Hazards
 
@@ -222,6 +195,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 ## Tips/Trivia
 
+-   Most mobs spawned during the Diluvian Mechanism can be corrupted
 -   The Mute [Regalia](Regalia.md) does technically function in the Diluvian Mechanism; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.

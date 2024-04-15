@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 95285
+revid: 95906
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -63,8 +63,6 @@ Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) 
 **Exclusive to Trial of One**
 
 **Exclusive to the Eternal Gale**
-
-  
 
 ## Non-Humanoid Monsters
 

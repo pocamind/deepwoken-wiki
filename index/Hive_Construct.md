@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 93036
+revid: 95911
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with every attack. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Flame Balista](Flamecharm.md#combat-mantras), [Grand Javelin](Thundercall.md#combat-mantras) or [Wind Gun](Galebreathe.md#combat-mantras), you can use them to stun it to aid your escape.
+They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with every attack. They are piloted by a member of the Hive. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Flame Balista](Flamecharm.md#combat-mantras), [Grand Javelin](Thundercall.md#combat-mantras) or [Wind Gun](Galebreathe.md#combat-mantras), you can use them to stun it to aid your escape.
 
 ## Spawn Locations
 
@@ -58,7 +58,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive but went rogue for unknown reasons, causing their rings around their arms to glow red instead of green. These ones can only spawn on [Minityrsa](Minityrsa.md). Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape. They respawn every 15 minutes on [Minityrsa](Minityrsa.md).
+They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive but went rogue for due to a virus by the Ministry, causing their rings around their arms to glow red instead of green. These ones can only spawn on [Minityrsa](Minityrsa.md). Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape. They respawn every 15 minutes on [Minityrsa](Minityrsa.md).
 
 ## Spawn Locations
 

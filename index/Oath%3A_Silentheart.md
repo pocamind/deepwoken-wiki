@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 95487
+revid: 95916
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,7 +31,7 @@ Meet the following requirements in any order:
 
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in layer 2 with a light hook.
 
-Once **all** met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
+Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) and kill all the [ghosts](Ghost.md) onboard. After that, interact with [The Dreadstar](The_Dreadstar.md)
 
 Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
 

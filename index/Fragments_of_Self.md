@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 93827
+revid: 95896
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -131,3 +131,6 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   Self doesn't update if you de-equip or equip equipment, meaning it will look like your character when you wiped.
 -   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.
 -   It is actually possible to chop down the trees around the area if you have a [Lumber Axe](Lumber_Axe.md).
+-   Attempting to climb up to Fragments of Self while still alive will cause Yun'Shul to Say "INCONCEIVABLE." and teleport you back to the Depths.[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=AxPpST6d3eY](https://www.youtube.com/watch?v=AxPpST6d3eY)
