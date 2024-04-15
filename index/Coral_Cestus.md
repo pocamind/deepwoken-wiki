@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 95781
+revid: 95886
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -44,5 +44,3 @@ The user leaps into the air forward and slams down into the ground, creating a l
 The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
 
 Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.
-
-You can not get this weapon from the trial of one.

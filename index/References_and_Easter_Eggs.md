@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 95778
+revid: 95887
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -155,7 +155,7 @@ categories: [Deepwoken]
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
--   **Pocket Sand**'s name is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
+-   **Pocket Sand** is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
 -   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
 -   The name of the Talent, **Ultrakill**, is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
     -   However, it actually consistently spells the name incorrectly.
@@ -172,12 +172,13 @@ categories: [Deepwoken]
 -   **Petra's Anchor** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
 -   [The Railblade's](Railblade.md) critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
--   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
--   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
+-   The **[Krulian Knife](Krulian_Knife.md)** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
+-   The **[Shattered Katana](Shattered_Katana.md)** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
     -   The current model was inspired by the [Seedler](https://terraria.fandom.com/wiki/Seedler) from _Terraria_.[\[2\]](#cite-note-2)
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
--   **Stormseye** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
+-   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
+-   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
 
 ## Enchantments
 

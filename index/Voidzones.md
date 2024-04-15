@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 95437
+revid: 95885
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -16,20 +16,7 @@ LocationL Voidzones LocationR
 
   
 
-## Overview
-
-Voidzones are places of high risk and high rewards, with each Voidzone having unique environmental hazards, enemies and loot. They can be found across Lumen, and sometimes house important events such as [Oaths](Oaths.md) or [questlines](Quests.md).
-
-**Voidzones grant both 2x Attribute EXP and 2x Character EXP.**
-
-While inside a Voidzone:
-
--   The edge of the screen are covered in white sparks. This merely represents your presence within a Voidzone.
--   Dying immediately sends the player to The Depths.
--   Campfires only last up to 6 seconds.
--   All healing sources have reduced effectiveness.
-
-## Voidzones
+## List of Voidzones
 
 ### **[Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**
 
