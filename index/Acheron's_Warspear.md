@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 95629
+revid: 95938
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -34,8 +34,4 @@ categories: [Weapons, Spears]
 
 -   Basically a downgraded Kyrsglaive, still a very good weapon if your build can't reach 90 MED to use the Kyrsglaive.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.
--   Originally owned by [Legion Captain](Legion_Captain.md) Acheron before it was lost in a battle against a king thresher.[\[1\]](#cite-note-1)
-
-## Navigation
-
-1.  [↑](#cite-ref-1) Confirmed by InfektedSkorpion
+-   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md). The spear likely belonged to them.

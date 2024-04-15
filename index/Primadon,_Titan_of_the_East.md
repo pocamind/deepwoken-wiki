@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 95282
+revid: 95947
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -192,5 +192,5 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 -   It would take roughly 266 cannonballs alone to kill the Primadon.
--   There is a way to easily kill Primadon using fire gun.
--   As of 3/29/2024 Primadon has a new color scheme with blue fins and a purple nose
+-   There is a way to easily kill Primadon using fire gun or shadow seekers.
+-   As of 3/29/2024 Primadon has a new color scheme with blue fins and a purple nose.

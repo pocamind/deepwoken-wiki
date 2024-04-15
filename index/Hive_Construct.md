@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 95911
+revid: 95920
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Hive Construct
 
-_Also known as Hive Mechs, Lifeweaver Golems, Forest Golems, Obsidian Golems, Transformers, or Senju._
+_Also known as Hive Mechs._
 
 **Hive Construct:**
 
@@ -100,7 +100,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   These things do unrelenting damage even at Power 20. Do not take them lightly. Pay attention to undodgeable cues and stay wary for the blue particles around the fist signifying a Meteor Punch usage.
 -   Be careful if fighting alongside Hive Constructs; if you get downed, there's a solid chance you will get instantly executed in the crossfire.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Hive Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
--   There are many ledges on Minitrysa that allow you to easily cheese the Rogue Construct without taking damage.
+-   There are many ledges in Minityrsa that allow you to easily cheese the Rogue Construct without taking damage.
 -   Meteor Punch and Stomp can be parried, but if you miss, you will take heavy damage. Engage them at your own risk.
 
 ## Trivia
@@ -108,7 +108,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   It was virtually impossible to fight these directly for years after Deepwoken's release due to their animations being heavily bugged. They were fixed at an unknown date.
 -   The Rogue Construct in [Minityrsa](Minityrsa.md) and the [Meteor Knights](Stone_Knight.md) will not aggro onto each other
 -   Works with Stone Knight, even prioritizes it above an [Authority Captain](Authority_Captain.md).
--   Hive Constructs can drop [Pomars](Pomar.md) upon death.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
     -   Hive Constructs will always win these events without player intervention.

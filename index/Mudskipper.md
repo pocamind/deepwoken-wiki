@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 95680
+revid: 95944
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -339,8 +339,9 @@ Scratch
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.
 -   The Meteorskipper comes from meteors, which therefore means resides in space. Take this as you will.
 -   Corrupted mudskippers can spawn in the depths.
--   Corrupted mudskippers do not pose much of a threat they still do little damage.
+-   Corrupted mudskippers do not pose much of a threat, but they still do little damage.
 -   Mudskippers punch their enemy with light attacks, much like Nautillodaunts.
 -   If there are two un-agroed Mudskippers, they have a chance to start up a conversation among themselves.
 -   If you don't want to risk going down to the depths for Umbrite to get Ironsing, just fight the Mineskippers as they have a chance to drop every ore in the game.
 -   Mudskippers participated in the 2024 April fools event under the name the Blue Skippers
+-   If you want to get ironsing one of the best way is to farm mineskippers since they can give all types of minerals

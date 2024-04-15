@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 94896
+revid: 95948
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -56,9 +56,16 @@ The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requi
 
 With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords are equal to, if not better than the [Shattered Katana](Shattered_Katana.md) making it an easy endgame weapon to acquire if you have a [Pluripotent Alloy](Pluripotent_Alloy.md).
 
+## Trivia
+
+-   Is based off the real-life weapon named [Estoc](https://en.wikipedia.org/wiki/Estoc).
+    -   The way you fight with this in game is inaccurate, as it's for puncturing, not slashing.[\[1\]](#cite-note-1)
+
 ## Notes
 
 -   The Vigil Longsword is canonically a cost-effective, mass-produced blade created by [Etrea](Etrea.md).
 -   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg and speed in exchange for less pen and the basic sword crit. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Its model was changed to match the length of its stats.
 -   The blade is unused by [Etrean Guardsmen](Etrean_Guardsmen.md), instead only being used by [Vigil Swordsmen](Vigil_Swordsman.md) and Vigil Captains, making the description of the blade untrue.
+
+1.  [↑](#cite-ref-1) "[That said, it is a weapon built specifically for one purpose: Get close and punch through the guy in front of you.](https://www.quora.com/What-was-the-function-of-the-estoc-on-the-battlefield/answer/Shiloh-Williams-9)"

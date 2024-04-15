@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 95821
+revid: 95949
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -107,7 +107,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block.
-    -   Maestro always attempts to block [Stoneheart](Stoneheart.md) and will be block broken as a result.
+    -   Maestro always attempts to block the [Stoneheart](Stoneheart.md) critical and will be block broken as a result (M1s may still be parried).
 -   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.

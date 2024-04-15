@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 95871
+revid: 95946
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -31,7 +31,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Light Weapon
 
--   13 Daggers (15 if Alloyed)
+-   13 Daggers (16 if Alloyed)
 -   8 Fists
 -   5 Guns (6 if Alloyed)
 -   6 Rapiers
@@ -132,7 +132,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>14.6</td>
+  <td>14.4</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -144,7 +144,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.96x</td>
   <td>0.05s</td>
-  <td>24.3</td>
+  <td>23.8</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -156,7 +156,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>19.8</td>
+  <td>19.5</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -168,7 +168,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>23</td>
+  <td>22.5</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
@@ -180,7 +180,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>23.2</td>
+  <td>22.8</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -192,7 +192,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6</td>
   <td>0.96x</td>
   <td>0.05s</td>
-  <td>27.1</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -204,7 +204,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td>0.96x</td>
   <td>0.05s</td>
-  <td>26.4</td>
+  <td>25.9</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
@@ -216,7 +216,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td>0.85x</td>
   <td>N/A</td>
-  <td>29</td>
+  <td>28.4</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -228,7 +228,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>26.6</td>
+  <td>25.9</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
@@ -240,7 +240,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>35.3(<b>Bleed</b>)</td>
+  <td>34.6(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
@@ -252,7 +252,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>26.8</td>
+  <td>26.2</td>
 </tr>
 <tr>
   <td><a href="Kyrsedge.md">Kyrsedge</a></td>
@@ -264,7 +264,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>25.7</td>
+  <td>25.2</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
@@ -276,7 +276,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>28</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Tanto#Alloyed"><font>Alloyed Tanto</font></a></td>
@@ -288,7 +288,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td><font>0.86x</font></td>
   <td>0s</td>
-  <td>29.9</td>
+  <td>29.3</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Cerulean_Thread"><font>Cerulean Thread</font></a></td>
@@ -300,7 +300,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.04s</td>
-  <td>29.7</td>
+  <td>29.1</td>
 </tr>
 </tbody>
 </table>
@@ -335,7 +335,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.85x</td>
   <td>N/A</td>
-  <td>21.1</td>
+  <td>20.8</td>
 </tr>
 <tr>
   <td><a href="Iron_Cestus.md">Iron Cestus</a></td>
@@ -348,7 +348,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.87x</td>
   <td>N/A</td>
-  <td>23.8</td>
+  <td>23.4</td>
 </tr>
 <tr>
   <td><a href="Legion_Cestus.md">Legion Cestus</a></td>
@@ -361,7 +361,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.86x</td>
   <td>N/A</td>
-  <td>29.7</td>
+  <td>29.1</td>
 </tr>
 <tr>
   <td><a href="Jus_Karita.md">Jus Karita</a></td>
@@ -374,7 +374,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>7</td>
   <td>0.88x</td>
   <td>0.05s</td>
-  <td>27.7</td>
+  <td>27.1</td>
 </tr>
 <tr>
   <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
@@ -387,7 +387,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>7</td>
   <td>0.88x</td>
   <td>0.05</td>
-  <td>26.7</td>
+  <td>26.2</td>
 </tr>
 <tr>
   <td><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></td>
@@ -400,7 +400,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.86x</td>
   <td>N/A</td>
-  <td>31.5</td>
+  <td>30.9</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
@@ -413,7 +413,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>7</td>
   <td>0.85x</td>
   <td>N/A</td>
-  <td>30.3</td>
+  <td>29.8</td>
 </tr>
 <tr>
   <td><a href="Coral_Cestus.md">Coral Cestus</a></td>
@@ -426,7 +426,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.82x</td>
   <td>N/A</td>
-  <td>31.5</td>
+  <td>31.8</td>
 </tr>
 <tr>
   <td><p><a href="https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets"><font>Drakemaw Gauntlets</font></a> (<b>Bleed</b>)</p></td>
@@ -439,7 +439,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.82x</td>
   <td>N/A</td>
-  <td>35.4(<b>Bleed</b>)</td>
+  <td>34.7(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -472,7 +472,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>24.1</td>
+  <td>23.6</td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
@@ -484,7 +484,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>25.4</td>
+  <td>24.8</td>
 </tr>
 <tr>
   <td><a href="Dawnshot.md">Dawnshot</a></td>
@@ -496,7 +496,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>1</td>
   <td>10.5</td>
   <td>0.8x</td>
-  <td>32.3</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
@@ -508,7 +508,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>1</td>
   <td>12</td>
   <td>1x</td>
-  <td>36.8</td>
+  <td>35.9</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
@@ -520,7 +520,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>1</td>
   <td>11</td>
   <td>0.8x</td>
-  <td>36.9</td>
+  <td>36</td>
 </tr>
 <tr>
   <td><font>Alloyed Dawnshot</font></td>
@@ -532,7 +532,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>1</td>
   <td>10.5</td>
   <td><font>0.78x</font></td>
-  <td>36.9</td>
+  <td>36</td>
 </tr>
 </tbody>
 </table>
@@ -563,7 +563,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.81x</td>
-  <td>21.1</td>
+  <td>20.8</td>
 </tr>
 <tr>
   <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>
@@ -574,7 +574,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
-  <td>21.5</td>
+  <td>21.1</td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></td>
@@ -585,7 +585,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.81x</td>
-  <td>24.7</td>
+  <td>24.2</td>
 </tr>
 <tr>
   <td><a href="Crucible_Rapier.md">Crucible Rapier</a></td>
@@ -596,7 +596,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>28</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Skullpiercer"><font>Skullpiercer</font></a> (<b>Bleed</b>)</td>
@@ -607,7 +607,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>33(<b>Bleed</b>)</td>
+  <td>32.4(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Kyrstreza.md">Kyrstreza</a></td>
@@ -618,7 +618,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>28.9</td>
+  <td>28.3</td>
 </tr>
 </tbody>
 </table>
@@ -655,7 +655,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>22.9</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><a href="False_Memory.md">False Memory</a></td>
@@ -667,7 +667,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>22.9</td>
+  <td>22.7</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>
@@ -679,7 +679,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>7.5</td>
   <td>0.7x</td>
-  <td>30.9</td>
+  <td>30.4</td>
 </tr>
 <tr>
   <td><a href="Falchion.md">Falchion</a></td>
@@ -691,7 +691,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>7.5</td>
   <td>0.8x</td>
-  <td>26.4</td>
+  <td>26</td>
 </tr>
 <tr>
   <td><a href="Scimitar.md">Scimitar</a></td>
@@ -703,7 +703,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>19.9</td>
+  <td>19.7</td>
 </tr>
 <tr>
   <td><a href="Katana.md">Katana</a></td>
@@ -715,7 +715,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>29.7</td>
+  <td>29.3</td>
 </tr>
 <tr>
   <td><a href="Worshipper_Longsword.md">Worshipper Longsword</a></td>
@@ -727,7 +727,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>27.3</td>
+  <td>26.9</td>
 </tr>
 <tr>
   <td><a href="Officer_Saber.md">Officer Saber</a></td>
@@ -739,7 +739,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>32.8</td>
+  <td>32.3</td>
 </tr>
 <tr>
   <td><a href="Vigil_Longsword.md">Vigil Longsword</a></td>
@@ -751,7 +751,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>33</td>
+  <td>32.5</td>
 </tr>
 <tr>
   <td><a href="Champion's_Sword.md">Champion's Sword</a></td>
@@ -763,7 +763,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.77x</td>
-  <td>32.4</td>
+  <td>31.9</td>
 </tr>
 <tr>
   <td><a href="Cavalry_Saber.md">Cavalry Saber</a></td>
@@ -775,7 +775,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>32.4</td>
+  <td>31.9</td>
 </tr>
 <tr>
   <td><a href="Shotel.md">Shotel</a></td>
@@ -787,7 +787,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>34</td>
+  <td>33.5</td>
 </tr>
 <tr>
   <td><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></td>
@@ -799,7 +799,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>7.5</td>
   <td>0.8x</td>
-  <td>29.9</td>
+  <td>29.4</td>
 </tr>
 <tr>
   <td><a href="Razor_Cutlass.md">Razor Cutlass</a> (<b>Bleed</b>)</td>
@@ -811,7 +811,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>8</td>
   <td>8</td>
   <td>0.71x</td>
-  <td>42.5(<b>Bleed</b>)</td>
+  <td>41.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Wyrmtooth"><font>Wyrmtooth</font></a></td>
@@ -823,7 +823,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>10</td>
   <td>0.7x</td>
-  <td>42.6</td>
+  <td>41.7</td>
 </tr>
 <tr>
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
@@ -835,7 +835,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>7.5</td>
   <td>0.78x</td>
-  <td>31.7</td>
+  <td>31.1</td>
 </tr>
 <tr>
   <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
@@ -847,7 +847,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>36.4</td>
+  <td>35.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hallowscleave"><font>Hallowscleave</font></a></td>
@@ -859,7 +859,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>33.5</td>
+  <td>32.9</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Messer#Alloyed"><font>Alloyed Messer</font></a></td>
@@ -871,7 +871,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>7</font></td>
   <td>7.5</td>
   <td>0.73x</td>
-  <td>34.7</td>
+  <td>34.1</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Falchion#Alloyed"><font>Alloyed Falchion</font></a></td>
@@ -883,7 +883,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>7.5</td>
   <td>0.8x</td>
-  <td>28.2</td>
+  <td>27.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Vigil_Longsword#Alloyed"><font>Alloyed Vigil Longsword</font></a></td>
@@ -895,7 +895,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>36.3</td>
+  <td>35.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Shotel#Alloyed"><font>Alloyed Shotel</font></a></td>
@@ -907,7 +907,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>36.4</td>
+  <td>35.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Katana#Alloyed"><font>Alloyed Katana</font></a></td>
@@ -919,7 +919,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>6</font></td>
   <td>8</td>
   <td>0.75x</td>
-  <td>35.2</td>
+  <td>34.6</td>
 </tr>
 <tr>
   <td><a href="Kyrsblade.md">Kyrsblade</a></td>
@@ -931,7 +931,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>7.5</td>
   <td>0.75x</td>
-  <td>36.4</td>
+  <td>35.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Purple_Cloud"><font>Purple Cloud</font></a></td>
@@ -943,7 +943,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>7</td>
   <td>0.8x</td>
-  <td>32.6</td>
+  <td>32</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
@@ -955,7 +955,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.74x</td>
-  <td>35.2</td>
+  <td>34.6</td>
   <td></td>
 </tr>
 </tbody>
@@ -989,7 +989,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>21.9</td>
+  <td>21.7</td>
 </tr>
 <tr>
   <td><a href="Iron_Spear.md">Iron Spear</a></td>
@@ -1001,7 +1001,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>21.6</td>
+  <td>21.4</td>
 </tr>
 <tr>
   <td><a href="Gremorian_Longspear.md">Gremorian Longspear</a></td>
@@ -1013,7 +1013,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>25.8</td>
+  <td>25.5</td>
 </tr>
 <tr>
   <td><a href="Ritual_Spear.md">Ritual Spear</a></td>
@@ -1025,7 +1025,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>29.3</td>
+  <td>28.9</td>
 </tr>
 <tr>
   <td><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<b>Bleed</b>)</td>
@@ -1037,7 +1037,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
-  <td>38.7(<b>Bleed</b>)</td>
+  <td>38(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Imperial_Staff"><font>Imperial Staff</font></a></td>
@@ -1049,7 +1049,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>6</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>35.5</td>
+  <td>35</td>
 </tr>
 <tr>
   <td><a href="Trident_Spear.md">Trident Spear</a></td>
@@ -1061,7 +1061,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>31.4</td>
+  <td>30.9</td>
 </tr>
 <tr>
   <td><a href="Serrated_Warspear.md">Serrated Warspear</a> (<b>Bleed</b>)</td>
@@ -1073,7 +1073,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
-  <td>39.9(<b>Bleed</b>)</td>
+  <td>39.3(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Bloodtide_Trident"><font>Bloodtide Trident</font></a> (<b>Bleed</b>)</td>
@@ -1085,7 +1085,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
-  <td>38.7(<b>Bleed</b>)</td>
+  <td>38(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Gremorian_Longspear#Alloyed"><font>Alloyed Gremorian Longspear</font></a></td>
@@ -1097,7 +1097,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td><font>0.7x</font></td>
-  <td>30.9</td>
+  <td>30.4</td>
 </tr>
 <tr>
   <td><a href="Rifle_Spear.md">Rifle Spear</a></td>
@@ -1109,7 +1109,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>35.3</td>
+  <td>36.3</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Trident_Spear#Alloyed"><font>Alloyed Trident Spear</font></a></td>
@@ -1121,7 +1121,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td><font>0.69x</font></td>
-  <td>33.5</td>
+  <td>32.9</td>
 </tr>
 <tr>
   <td>True Seraph's Spear</td>
@@ -1133,7 +1133,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>
-  <td>32.6</td>
+  <td>32</td>
 </tr>
 <tr>
   <td><a href="Kyrsglaive.md">Kyrsglaive</a> (<b>Bleed</b>)</td>
@@ -1145,7 +1145,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>
-  <td>37.1(<b>Bleed</b>)</td>
+  <td>36.6(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -1176,7 +1176,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>6</td>
   <td>7.5</td>
   <td>0.7x</td>
-  <td>30.9</td>
+  <td>30.4</td>
 </tr>
 <tr>
   <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
@@ -1187,7 +1187,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>5</td>
   <td>7.5</td>
   <td>0.73x</td>
-  <td>34.3</td>
+  <td>33.7</td>
 </tr>
 </tbody>
 </table>
@@ -1218,7 +1218,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>28</td>
+  <td>27.6</td>
 </tr>
 <tr>
   <td><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></td>
@@ -1229,7 +1229,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>4</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>33.7</td>
+  <td>33</td>
 </tr>
 <tr>
   <td><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></td>
@@ -1240,7 +1240,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>4</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>35.2</td>
+  <td>34.6</td>
 </tr>
 </tbody>
 </table>
@@ -1983,7 +1983,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.68x</td>
   <td>N/A</td>
-  <td>N/A</td>
+  <td>49.4</td>
 </tr>
 </tbody>
 </table>
@@ -2245,7 +2245,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 
 ## Trivia
 
--   You can pass down soulbound weapons for 10 [echoes](Echoes.md) each, however the weapon will be automatically soulbound to the next character
+-   You can pass down soulbound weapons for 60 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
 -   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:

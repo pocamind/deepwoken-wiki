@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 95773
+revid: 95935
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -31,7 +31,7 @@ Enchanted items cannot be dropped on death.
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
 -   Enchanted items appear as light purple in your inventory.
--   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
+-   Most of Legendary weapons **cannot** be enchanted, but a few of them can, like [Purple Cloud](Purple_Cloud.md) and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 
   
 
@@ -92,7 +92,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is not effected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
+  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
