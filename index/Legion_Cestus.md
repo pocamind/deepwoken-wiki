@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 93879
+revid: 96117
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -29,8 +29,10 @@ categories: [Weapons, Fists]
 
 ## Description
 
-**Legion Cestus** is a Light Weapon that requires 30 LHT to use. It has 9 LHT scaling, 5% penetration, 5 weight, 7 range, and 0.86x swing speed. It has a base damage of 15, it is the second highest-damaging cestus in the game, right behind the [Flamekeeper Cestus](Flamekeeper_Cestus.md).
+**Legion Cestus** is a Light Weapon that requires 30 LHT to use. It has 9 LHT scaling, 5% penetration, 5 weight, 7 range, and 0.86x Swing Speed, and a base damage of 15.
 
 ## Trivia
 
 -   Best cestus to use for early and mid-game if you're using fists.
+-   Meeting the LHT requirement, the damage is (18)
+-   At max LHT, the damage is (25.1)

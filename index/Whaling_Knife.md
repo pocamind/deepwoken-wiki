@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 85108
+revid: 96106
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -67,10 +67,10 @@ The user rushes forward while preforming a horizontal slash forward, the aforeme
 
 -   It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
     -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
--   Meeting the non-alloyed requirement of LHT, the damage is (18)
-    -   Meeting the alloyed requirement, the damage is (24)
--   At max LHT, the non-alloyed damage is (22.5)
-    -   At max LHT, the alloyed damage is (27)
+-   Meeting the non-alloyed requirement of LHT, the damage is (17.3)
+    -   Meeting the alloyed requirement, the damage is (21.8)
+-   At max LHT, the non-alloyed damage is (20.6)
+    -   At max LHT, the alloyed damage is (24)
 -   The alloyed version has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
 -   Available on the Roblox catalog as a [waist accessory](https://www.roblox.com/catalog/14542129946/Whaling-Knife).
 -   The critical formerly benefitted from the talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the talent stacked the chance to 40%.

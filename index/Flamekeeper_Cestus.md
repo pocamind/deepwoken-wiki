@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 95891
+revid: 96119
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -31,6 +31,6 @@ The **Flamekeeper Cestus** is a Cestus that requires 65 LHT to use. Despite its 
 
 ## Trivia
 
--   ~Currently the best Cestus in-game (other than [Drakemaw Gauntlets](Drakemaw_Gauntlets.md)) due to its high base damage and scaling.~ The [Coral Cestus](Coral_Cestus.md) has taken the throne.
-
+-   Meeting the requirement of LHT, the damage is (22.7)
+-   At max LHT, the damage is (26.5)
 -   The Cestus references The Covenant of the Flame

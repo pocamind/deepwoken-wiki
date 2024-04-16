@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 86117
+revid: 96104
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -34,5 +34,5 @@ The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](
 ## Notes
 
 -   The design of the guard looks similar to a [Worshipper Longsword](Worshipper_Longsword.md).
--   Meeting the requirement of LHT, the damage is (14.52)
--   At max LHT, the damage is (19.2)
+-   Meeting the requirement of LHT, the damage is (13.9)
+-   At max LHT, the damage is (17.4)

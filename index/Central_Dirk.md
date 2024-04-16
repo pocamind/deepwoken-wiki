@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 82731
+revid: 96108
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -35,4 +35,5 @@ Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 
 
 -   The design is somewhat reminiscent of the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>).
     -   The name further reinforces that it may originate from the Central Luminant.
--   This weapon deals **25.5** damage at **100 LHT** and **22.9** damage at **75 LHT**.
+-   Meeting the requirement of LHT, the damage is (18.9)
+-   At max LHT, the damage is (22.9)

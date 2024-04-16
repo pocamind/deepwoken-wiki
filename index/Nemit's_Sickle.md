@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 92405
+revid: 96111
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -37,6 +37,5 @@ The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and a
 ## Trivia
 
 -   This weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is a pseudo medium weapon.
--   Meeting the requirement of LHT, the damage is (19.58)
--   At max LHT, the damage is (25.3), meaning it is now statistically superior to the [Kyrsedge](Kyrsedge.md) and [Krulian Knife](Krulian_Knife.md) at 100 LHT, no Proficiency and unstarred.
-    -   Nemit's Sickle's first dub in a while.
+-   Meeting the requirement of LHT, the damage is (17.4)
+-   At max LHT, the damage is (21.7)

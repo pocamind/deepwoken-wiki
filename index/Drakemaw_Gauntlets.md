@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 95093
+revid: 96125
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -28,7 +28,10 @@ categories: [Weapons, Fists]
 
 ## Description
 
-The Drakemaw Gauntlets is a Light Weapon in the Fists category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime. This weapon deals 30.47 damage at 75 light weapon, and 34.12 damage at 100 light weapon.
+The Drakemaw Gauntlets is a Light Weapon in the Fists category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime.
+
+-   Meeting the requirement of LHT, the weapon deals 21.3 damage, but it becomes 27.7 with bleed.
+-   At max LHT, the weapon deals 23.4 damage, but it becomes 30.5 with bleed.
 
 ## Critical
 

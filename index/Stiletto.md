@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 92008
+revid: 96102
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -12,7 +12,7 @@ categories: [Weapons, Daggers]
 |---|---|
 | type | Light Dagger |
 | requirements | 0 LHT |
-| damage | 10 |
+| damage | 11 |
 | scaling | 3 LHT |
 | range | 6.5 |
 | swing speed | 0.98x |
@@ -27,11 +27,11 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons.) The weapon has a base damage of 10. It can be obtained by choosing Light Weapon during [Character Creation](Character_Creation.md), buying it at [Etris](Etris.md#weaponry), or getting it from a drop at [Erisia](Erisia.md).
+The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons.) The weapon has a base damage of 11. It can be obtained by choosing Light Weapon during [Character Creation](Character_Creation.md), buying it at [Etris](Etris.md#weaponry), or getting it from a drop at [Erisia](Erisia.md).
 
 ## Trivia
 
 -   This is the only starter weapon not used by NPCs, being replaced with the [Gilded Knife](Gilded_Knife.md).
 -   It does less damage than [Fists](Fists.md) and same damage as [Flintlock](Flintlock.md) and [Canor Fang](Canor_Fang.md).
 -   Pretty bad weapon overall, you should replace it with something better as soon as possible.
--   At max LHT, the damage is (14.3).
+-   At max LHT, the damage is (14.4).

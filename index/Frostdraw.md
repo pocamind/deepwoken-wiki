@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 95444
+revid: 96118
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -81,29 +81,6 @@ _Fire a beam of ice._
 -   Hits multiple times in a row.
 -   Knocks back target(s).
 -   You can add a max of 3 stratus stones to increase it's size.
-
- |
-| 
-
-File:Frostgrab base range.gif
-
- | 
-
-Frost Grab  
-(☆☆☆)
-
- | 
-
-_An icy chokehold._
-
- | Perform a quick dash before grabbing the target in front of the user.
-
--   User gains a brief forward momentum on use.
--   Animation is deceiving, the hitbox lasts shorter than it looks.
--   Deals moderate damage.
--   If damage is enough to reduce opponent's health to 0, instantly kill them upon posture break.
--   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
--   Applies 4 second chill with one eternal logstone.
 
  |
 | 
@@ -210,6 +187,7 @@ _Chains of ice._
 -   9 seconds chill and 13 seconds with 1 eternal.
 -   Can be modified with both [Aeon/Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
 -   Can be modified with lens to increase the range of casting the mantra.
+-   On successful hit applies bottom freeze on your opponent.
 
  |
 | 
@@ -349,6 +327,28 @@ _A sharp disk of ice._
     -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user to throw the projectile forward before recalling it back.
     -   Slows the user down.
+
+ |
+| 
+
+File:Frostgrab base range.gif
+
+ | 
+
+Frost Grab  
+(★★☆)
+
+ | 
+
+_An icy chokehold._
+
+ | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
+
+-   After the windup the user gains iframes on teleport. (similar to radiant kick)
+-   Deals moderate damage.
+-   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
+-   Applies 16 sec chill base and 20 sec with 1 eternal.
+-   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
 
  |
 |  | 
@@ -537,7 +537,7 @@ _Skate freely on paths of ice._
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
     <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
-    <li>can be modified with Aeon Logstone</li>
+    <li>All mods do not work or have 0 effect, do not modify this mantra.</li>
   </ul></td>
 </tr>
 <tr>
@@ -554,6 +554,8 @@ _Skate freely on paths of ice._
     <li>Applies 1 second of chill per hit (Can't be increased).</li>
     <li>Stratus Stones and Cloudstones increase the duration, with enough stones you can add an extra 2% of healing of the 8%, not recommended as you usually wont be able to heal completely wasting ether and healing.</li>
     <li>A reference to Mei's cryo-freeze from Overwatch</li>
+    <li>Iceberg applies bottom freeze on every hit with no cooldown, but since bottom freeze has a global cooldown it would put every other source on their cd (Which in most cases is a long cooldown) so its recommended to not have this mantra if you want to use bottom freeze in a more aggresive way (rather than to stop your enemy from hitting you).</li>
+    <li>Only deep gem that works with Iceberg is blue gem.</li>
   </ul></td>
 </tr>
 </tbody>

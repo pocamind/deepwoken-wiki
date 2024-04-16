@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 94328
+revid: 96122
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -11,9 +11,9 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 | Light's Final Toll | |
 |---|---|
 | type | Fist |
-| requirements | 60 WLP, 35 LHT & Fist Style |
-| damage | 17.7 (24.6 w/ 100WLP & 100 LHT) [30.3 w/ 6 Prof] |
-| scaling | 10 (WLP) 4 [LHT] |
+| requirements | 60 WLL, 35 LHT & Fist Style |
+| damage | 12 |
+| scaling | 10 WLL 4 LHT |
 | range | 7 |
 | swing speed | 0.85x |
 | penetration | 5% |
@@ -28,8 +28,11 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). This weapon deals 17.7 damage with 60 Willpower & 35 Light (the minimum points required), deals 23.7 damage with 100 in both, and 23.8 damage at 102 Willpower & 100 Light.
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons).
 
+-   Metting the requirement of WLL and LHT, the weapon deals 19.1 damage.
+-   At 100 WLL and max LHT, the weapon deals 24.6 damage
+-   At 102 WLL and max LHT, the weapon deals 24.8
 -   Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_
 
 The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd Crit must be landed twice)
@@ -63,5 +66,5 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
 -   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
 -   It is one of five known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md) and [Imperial Staff](Imperial_Staff.md).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
--   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.1. (After Prof Buff)
+-   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7. (After Prof Buff)
 -   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling, and a variety of Criticals.

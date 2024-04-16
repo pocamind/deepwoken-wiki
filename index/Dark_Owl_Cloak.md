@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 88274
+revid: 96094
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -20,7 +20,7 @@ categories: [Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Arena, Pure Umbrite turn insDrops from:, Deep Owl rarely, Deep Widow |
+| obtainment | Chests from:, Second Layer, Arena, Saramaed Summit, Pure Umbrite turn insDrops from:, Deep Owl rarely, Deep Widow |
 | description | "..." |
 
 ## Description

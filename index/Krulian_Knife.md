@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 84587
+revid: 96113
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -28,12 +28,12 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-The Krulian Knife is a [dagger](Weapons.md) either obtained by defeating the [Ferryman](The_Ferryman.md) during the Winter, or buying it from a [Merchant Ship](Travelling_Merchant.md). This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling. The Krulian Knife does 23.625 damage at 75 LHT, and 27.9 damage at 100 LHT.
+The Krulian Knife is a [dagger](Weapons.md) either obtained by defeating the [Ferryman](The_Ferryman.md) during the Winter, or buying it from a [Merchant Ship](Travelling_Merchant.md). This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling.
 
 ## Trivia
 
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
 -   It is possible for [The Ferryman](The_Ferryman.md) to give starred and enchanted versions of this weapon.
--   Meeting the requirement of LHT, the damage is (21.87)
--   At max LHT, the damage is (25)
+-   Meeting the requirement of LHT, the damage is (19.9)
+-   At max LHT, the damage is (22.3)
 -   This is the weapon the [Ministry](The_Ministry.md) uses.

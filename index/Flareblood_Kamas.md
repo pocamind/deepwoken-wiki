@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 94937
+revid: 96124
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -35,7 +35,11 @@ The **Flareblood Kamas** is a Legendary [Light Weapon](Weapons.md) that scales w
 
 It is only obtainable from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), making it one of the only Legendary weapons to be exclusive to a single source.
 
-Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it one of the best daggers in the game.
+Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 3.9 bleed damage. It also has a swing speed of 0.98x.
+
+-   Meeting the requirement of LHT and INT, the weapon deals 18.3 damage, but it becomes 23.7 damage with bleed.
+-   At max LHT and INT the weapon deals 22.8 damage, but it becomes 29.6 damage with bleed, making it one of the best daggers in the game.
+    -   The damage stays the same at 100 INT and 102 INT
 
 ## Critical
 
