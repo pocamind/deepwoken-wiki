@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 95726
+revid: 96083
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2449,7 +2449,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 50 agility and beat [Alirian](Alirian.md) in race.
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 40 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
+    -   Prerequisites: 40 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +5 Posture)
     -   Prerequisites: 40 Strength, 40 Agility OR 40 Charisma, 75 Weapon, be attunement-less, get gripped by any attunement user, go to [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).

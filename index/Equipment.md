@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 95967
+revid: 96085
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4407,6 +4407,7 @@ Found from:
 
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Ferryman](The_Ferryman.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -4455,6 +4456,7 @@ Gives every weapon 1.2 strength scaling when equipped.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Deep Widow](Deep_Widow.md)
@@ -4506,6 +4508,7 @@ If using Explosion Path: Lava Serpent, explosion delay is reduced.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -4531,6 +4534,7 @@ Extra PEN on your attacks that flourish opponents.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
@@ -4913,6 +4917,7 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 
 Found from:
 
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 94880
+revid: 96092
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 24 base damage and has a swing speed of 0.62x. She has a maximum damage of 45.6 at 100 frostdraw and 100 heavy weapon. She is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
+Gran Sudaruska is a Legendary [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 24 base damage and has a swing speed of 0.62x. She has a maximum damage of 45.6 at 100 frostdraw and 100 heavy weapon. She is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
 Gran Sudaruska comes with two passive abilities:
 
