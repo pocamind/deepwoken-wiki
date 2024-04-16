@@ -1,8 +1,9 @@
 ---
 title: Andrea
-revid: 94354
+revid: 96060
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Layer 1]
 ---
 
 # Andrea

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 96019
+revid: 96073
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2146,7 +2146,7 @@ Weapons that are exclusive for special people.
   <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Calamity_Cinnabar"><font>Calamity Cinnabar</font></a></td>
+  <td><a href="Calamity_Cinnabar.md"><font>Calamity Cinnabar</font></a></td>
   <td>75 SDW, 40 HVY, Power 10</td>
   <td>22</td>
   <td>N/A</td>

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 95401
+revid: 96053
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ All Owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking t
 
 Deep Owl's hail down on Lumen from an inconceivable dimension where they aren't usually able to communicate with the outside world. This is altered by the Oath made between Visionshapers and The Nestmind. Deep Owls manifest themselves in our world with the ability of a Visionshaper's mind having the ability to turn illusions into reality.
 
-It is said by The Nestmind that Visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who are trying to become an owl by unknown meanings.
+It is said by The Nestmind that Visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who have become an owl through unknown means.
 
 When appearing in _[Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md)_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
