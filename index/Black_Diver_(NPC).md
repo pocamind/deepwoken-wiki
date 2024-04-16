@@ -1,9 +1,9 @@
 ---
 title: Black Diver (NPC)
-revid: 95452
+revid: 96044
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Cut Content, Enemies that can wield Enchantments, Enemies that can use oaths, NPCs]
+categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
 ---
 
 # Black Diver (NPC)
@@ -78,7 +78,7 @@ Radiant Dawn\*
 ### Talents
 
 -   Battle Tendency - Black Divers recover posture 20% faster.
--   Brick Wall - Black Divers are immune to all form of ragdolls, beside being knocked. They are also inmune to knockdowns only applying hitstun.
+-   Brick Wall - Black Divers are immune to all form of ragdolls, beside being knocked. Knockdowns duration are reduced by 30%
 -   Surge Path: Unstable Capacitor - Black Divers Lightning mantras apply Surge instead of Shock. At maximum stack, target become Overloaded, which sends arcs of lightning in all directions.
 -   Firmly Planted - Slow debuff toward Black Divers are reduced by 30%.
 -   Braced Collapse - Black Divers take reduced damage from the next hit they take after being guard broken.
@@ -115,7 +115,6 @@ A Black Diver executes its opponent after knocking them:
 
 -   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
     -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
-
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
 -   They use both variants of Jolt Grab, those being Magnet Spark and without Magnet Spark.
 -   Curiously, The Hundred Legions are hostile towards them. (Tested in a Faction Ambush in The Starswept Valley.)

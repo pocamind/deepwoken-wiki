@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 95944
+revid: 95969
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -69,7 +69,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. It is very similar to the Mudskipper. However, it possesses a unique property wherein upon being executed, it will explode after about a second, dealing massive damage and instantly executing nearby players and enemies that are knocked. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the [Air Force](Galebreathe.md) Mantra.
+Mindless enemies that sprout out of the ground to surprise their prey. It is very similar to the Mudskipper. However, it possesses a unique property wherein upon knock, it will explode instantly, dealing massive damage and instantly executing nearby players and enemies that are knocked. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the [Air Force](Galebreathe.md) Mantra.
 
 ## Moveset
 

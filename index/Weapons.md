@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 95946
+revid: 96019
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -68,7 +68,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
 -   All **Medium Weapons** except for Rifles can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances, however this can be changed through obtaining the [talent](Talents.md) One Handed Training (40), allowing them to use a One Handed stance.
+-   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [talent](Talents.md) One Handed Training (40), allowing them to use a One Handed stance.
 
 ### One-Handed
 
@@ -1279,7 +1279,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>30.9</td>
+  <td>30.4</td>
 </tr>
 <tr>
   <td><a href="Halberd.md">Halberd</a></td>
@@ -1292,7 +1292,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>9</td>
   <td>0.6x</td>
   <td>N/A</td>
-  <td>38.7</td>
+  <td>38.1</td>
 </tr>
 <tr>
   <td><a href="Adretian_Axe.md">Adretian Axe</a></td>
@@ -1305,7 +1305,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>0.64x</td>
   <td>N/A</td>
-  <td>42.3</td>
+  <td>41.5</td>
 </tr>
 <tr>
   <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
@@ -1318,7 +1318,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>41.4</td>
+  <td>40.6</td>
 </tr>
 <tr>
   <td><a href="Iron_Birch.md">Iron Birch</a></td>
@@ -1331,7 +1331,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>0.64x</td>
   <td>N/A</td>
-  <td>43.8</td>
+  <td>43.1</td>
 </tr>
 <tr>
   <td><a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a> (<b>Bleed</b>)</td>
@@ -1344,7 +1344,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.55x</td>
   <td>N/A</td>
-  <td>66(<b>Bleed</b>)</td>
+  <td>64.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Night_Axe.md">Night Axe</a></td>
@@ -1357,7 +1357,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.58x</td>
   <td>N/A</td>
-  <td>43</td>
+  <td>42.2</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
@@ -1370,7 +1370,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.6x</td>
   <td>N/A</td>
-  <td>51.1</td>
+  <td>50</td>
 </tr>
 <tr>
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
@@ -1383,7 +1383,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.6x</td>
   <td>N/A</td>
-  <td>49.5</td>
+  <td>48.5</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
@@ -1396,7 +1396,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.57x</td>
   <td>N/A</td>
-  <td>54.3</td>
+  <td>53.1</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Skyreap_Blade"><font>Skyreap Blade</font></a></td>
@@ -1409,7 +1409,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.68x</td>
   <td>0.05s</td>
-  <td>40.5</td>
+  <td>39.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
@@ -1422,7 +1422,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>47.5</td>
+  <td>46.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Halberd#Alloyed"><font>Alloyed Halberd</font></a></td>
@@ -1435,7 +1435,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>9</td>
   <td>0.6x</td>
   <td>N/A</td>
-  <td>44.9</td>
+  <td>44</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Adretian_Axe"><font>Alloyed Adretian Axe</font></a></td>
@@ -1448,7 +1448,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td><font>0.65x</font></td>
   <td>N/A</td>
-  <td>44.9</td>
+  <td>44</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Pale_Briar"><font>Pale Briar</font></a></td>
@@ -1461,7 +1461,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>0.61x</td>
   <td>0s</td>
-  <td>41.8</td>
+  <td>41</td>
 </tr>
 </tbody>
 </table>
@@ -1496,7 +1496,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.62x</td>
   <td>0.1s</td>
-  <td>35.8</td>
+  <td>35.2</td>
 </tr>
 <tr>
   <td><a href="Zweihander.md">Zweihander</a></td>
@@ -1509,7 +1509,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>38.7</td>
+  <td>38.1</td>
 </tr>
 <tr>
   <td><a href="Markor's_Inheritor.md">Markor's Inheritor</a></td>
@@ -1522,7 +1522,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.64x</td>
   <td>0.1s</td>
-  <td>42.3</td>
+  <td>41.5</td>
 </tr>
 <tr>
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<b>Bleed</b>)</td>
@@ -1535,7 +1535,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>54.5(<b>Bleed</b>)</td>
+  <td>53.4(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
@@ -1548,7 +1548,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>45.8</td>
+  <td>45</td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
@@ -1561,7 +1561,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.63x</td>
   <td>0.1s</td>
-  <td>44.7</td>
+  <td>43.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Kyrsieger"><font>Kyrsieger</font></a></td>
@@ -1574,7 +1574,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>47.5</td>
+  <td>46.6</td>
 </tr>
 <tr>
   <td><a href="First_Light.md">First Light</a></td>
@@ -1587,7 +1587,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>47.7</td>
+  <td>46.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Zweihander#Alloyed"><font>Alloyed Zweihander</font></a></td>
@@ -1600,7 +1600,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td><font>0.62x</font></td>
   <td><font>0.1s</font></td>
-  <td>48</td>
+  <td>47</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Crescent_Cleaver#Alloyed"><font>Alloyed Crescent Cleaver</font></a> (<b>Bleed</b>)</td>
@@ -1613,7 +1613,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>59.2(<b>Bleed</b>)</td>
+  <td>58(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Darksteel_Greatsword#Alloyed"><font>Darkalloy Greatsword</font></a></td>
@@ -1626,7 +1626,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>48.6</td>
+  <td>47.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Markor%27s_Inheritor#Alloyed"><font>Alloyed Inheritor</font></a></td>
@@ -1639,7 +1639,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.64x</td>
   <td><font>N/A</font></td>
-  <td>44.9</td>
+  <td>44</td>
 </tr>
 <tr>
   <td><a href="Kyrscleave.md">Kyrscleave</a> (<b>Bleed</b>)</td>
@@ -1652,7 +1652,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.61x</td>
   <td>0.1s</td>
-  <td>60(<b>Bleed</b>)</td>
+  <td>58.8(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Railblade.md">Railblade</a></td>
@@ -1665,7 +1665,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.68x</td>
   <td>N/A</td>
-  <td>41.9</td>
+  <td>41</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
@@ -1678,7 +1678,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.59x</td>
   <td>N/A</td>
-  <td>49.5</td>
+  <td>48.5</td>
 </tr>
 </tbody>
 </table>
@@ -1713,7 +1713,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>38.7</td>
+  <td>38.1</td>
 </tr>
 <tr>
   <td><a href="Forge_Greathammer.md">Forge Greathammer</a></td>
@@ -1726,7 +1726,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>44.9</td>
+  <td>44</td>
 </tr>
 <tr>
   <td><a href="Great_Maul.md">Great Maul</a></td>
@@ -1739,7 +1739,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.64x</td>
   <td>0.1s</td>
-  <td>47.6</td>
+  <td>46.6</td>
 </tr>
 <tr>
   <td><a href="Pale_Morning.md">Pale Morning</a></td>
@@ -1752,7 +1752,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.62x</td>
   <td>0.1s</td>
-  <td>47.5</td>
+  <td>46.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Putrid_Edenstaff"><font>Putrid Edenstaff</font></a></td>
@@ -1765,7 +1765,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.61x</td>
   <td>0.1s</td>
-  <td>48.1</td>
+  <td>47.2</td>
 </tr>
 <tr>
   <td><a href="Petra's_Anchor.md">Petra's Anchor</a></td>
@@ -1778,7 +1778,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>48.6</td>
+  <td>47.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Steel_Maul#Alloyed"><font>Alloyed Steel Maul</font></a></td>
@@ -1791,7 +1791,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.64x</td>
   <td>0.1s</td>
-  <td>44.9</td>
+  <td>44</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
@@ -1804,7 +1804,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>8.5</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>49.5</td>
+  <td>48.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stoneheart"><font>Stoneheart</font></a></td>
@@ -1817,7 +1817,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>8.5</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>50.1</td>
+  <td>49</td>
 </tr>
 <tr>
   <td><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></td>
@@ -1830,7 +1830,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>0.45x</td>
   <td>N/A</td>
-  <td>62.6</td>
+  <td>61.3</td>
 </tr>
 </tbody>
 </table>
@@ -1863,7 +1863,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>30.7</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
@@ -1875,7 +1875,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>30.7</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
@@ -1887,7 +1887,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>30.7</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
@@ -1899,7 +1899,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>30.7</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
@@ -1911,7 +1911,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td></td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>30.7</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
@@ -1923,7 +1923,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>36.6</td>
+  <td>37.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
@@ -1935,7 +1935,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8.5</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>52.1</td>
+  <td>54</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds"><font>Curved Blade of Winds</font></a></td>
@@ -1947,7 +1947,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.78x</td>
   <td>N/A</td>
-  <td>34.6</td>
+  <td>35.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>
@@ -1959,7 +1959,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>9</td>
   <td>0.64x</td>
   <td>0.15s</td>
-  <td>49.9</td>
+  <td>51.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher</font></a></td>
@@ -1971,7 +1971,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.79x</td>
   <td>N/A</td>
-  <td>30.3</td>
+  <td>31.1</td>
 </tr>
 <tr>
   <td><p><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></p></td>
@@ -2156,7 +2156,7 @@ Weapons that are exclusive for special people.
   <td>9</td>
   <td>0.64x</td>
   <td>0.15s</td>
-  <td>49.9</td>
+  <td>51.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Carrion%27s_Moonseye_Scalpel"><font>Moonseye Scalpel</font></a></td>
@@ -2169,7 +2169,7 @@ Weapons that are exclusive for special people.
   <td>9</td>
   <td>0.72x</td>
   <td>N/A</td>
-  <td>41.9</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Lorenzo%27s_Glaive"><font>Trisha</font></a></td>
@@ -2182,7 +2182,7 @@ Weapons that are exclusive for special people.
   <td>9</td>
   <td>0.8x</td>
   <td>???</td>
-  <td>39.25</td>
+  <td>41.3</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Moon_Blades"><font>Moon Blades</font></a> (<b>Bleed</b>)</td>
@@ -2195,7 +2195,7 @@ Weapons that are exclusive for special people.
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>33.4(<b>Bleed</b>)</td>
+  <td>34.6(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Unsung_Scythern"><font>Unsung Scythern</font></a></td>
@@ -2208,7 +2208,7 @@ Weapons that are exclusive for special people.
   <td>8</td>
   <td>0.6x</td>
   <td>N/A</td>
-  <td>48.8</td>
+  <td>50.4</td>
 </tr>
 </tbody>
 </table>
@@ -2261,7 +2261,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Highest DPS: Divine Flintlock
 -   Rifles both bullet m1 and whip have the same range (since usually guns have a bigger range than a simple whip).
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
--   As of right now, rifles no longer fire projectiles.
+-   As of right now, rifles and dual-wielded handguns no longer fire projectiles on M1s.
 
 ## References
 

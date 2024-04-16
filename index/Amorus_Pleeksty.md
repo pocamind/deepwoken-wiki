@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 91392
+revid: 96050
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -29,6 +29,7 @@ It is unknown what Amorus looks like, as he and the Third Layer are not in the g
 
 ## Trivia
 
+-   Pleeksty has been refered to as Pleeksty, Pleektsy and Pleetsky. For the sake of consistency, the page will use Pleeksty.
 -   He has some disciples, the most notable being Venn Kaelhand, who is the original wielder of the [First Light](First_Light.md).
 -   Ploom, an NPC found in Lance Leshi's shop, can be seen reading a book of Amorus.
     -   Additionally, Ploom says that not many competent Flamecharmers are out in the East Luminant, signifying that Amorus may be from the West Luminant.

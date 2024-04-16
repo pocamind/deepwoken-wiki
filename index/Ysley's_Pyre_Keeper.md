@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 95950
+revid: 96032
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -41,14 +41,14 @@ The Pyre Keeper comes with the following passives:
 
 ## Critical
 
-Ysley's Pyre Keeper has 5 different criticals: An aerial, normal, running, uppercutting and sliding/crouching.
+Ysley's Pyre Keeper has a whopping five different criticals: aerial, normal, running, uppercutting and sliding/crouching.
 
--   **Aerial Critical**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect.
+-   **Aerial**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect.
     -   While blocking the first attack, you get guardbroken.
--   **Normal Critical:** Does 3 slashes (1 slow and 2 fast) while all of them inflict the yellow green-ish burn effect. Aftereffect of the critical is a major speed boost.
--   **Running Critical:** Does a short-ranged dash forward with the blade facing forward and does a combo of grabbing, ragdoll swinging and dazing the player.
--   **Sliding/Crouching Critical:** Dig the greatsword into the ground and slash it upwards into a flurry of 3 blows.
--   **Uppercutting Critical:** Does a one single slash which acts like a Greathammer/-axe critical.
+-   **Normal:** Does 3 slashes (1 slow and 2 fast) while all of them inflict the yellow green-ish burn effect. Aftereffect of the critical is a major speed boost.
+-   **Running:** Does a short-ranged dash forward with the blade facing forward and does a combo of grabbing, ragdoll swinging and dazing the player.
+-   **Sliding:** Leap into the air and slash it into a flurry of 3 blows.
+-   **Crouching:** Does the same as the normal crit but sped up significantly.
 
 ## Trivia
 
@@ -59,4 +59,4 @@ Ysley's Pyre Keeper has 5 different criticals: An aerial, normal, running, upper
 -   The M1s have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but are planned to be changed with time.
 -   The Weapon used to not change color if you had Azure/Twisted Puppets path. This was changed the next day after weapon's release.
 -   This Weapon is also named Ysley's Pyre Cleaver "Callow & Verdant"
--   It is one of seven weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)
+-   It is one of eight weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)

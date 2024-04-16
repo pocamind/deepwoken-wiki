@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 95547
+revid: 95964
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -14,7 +14,7 @@ A lone Adret reading Diver Journal 2
 
 ## Description
 
-Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
+Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence Training Items](Training_Gear.md#intelligence) and [Weapon Training Items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gwiain the ability to perform it's song, without lyrics.
 
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
@@ -22,6 +22,7 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   The Gideshu March: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
+-   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
 
 Some books are obtained as part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
 
@@ -1383,6 +1384,33 @@ We work for the Summer Company...
 > 
 > We depart from the Etris docks, to a celebrated fanfare. Many Etrean citizens gather around and wave and cheer as we depart, wishing the king a safe journey. As our home fades from the sight of all of us onboard, I’m reminded once more of our city, and what the king has taken from it. Yet they cheer him on... blissfully unaware. Unaware and controlled, all of his people. Bephalos’ truth echoes throughout my head as I sit upon the deck, watching the waves of the Etrean waters roll by whilst the day passes. I wait patiently for the arrival of the Voidsea. “This, this is when you strike,” Bephalos instructed me during one of our initial meetings. The search for the lighthouse takes priority for all crew members, and for the others it is a time for rest. But for me, it is when the final hour begins. Upon the arrival of the Voidsea waters, the others become busy or fatigued. I’ve remained in my place throughout the entire first day of our voyage, watching the waves. I look up at the sky, and just as was foretold, no stars are to be seen.
 
+### Strange Missives
+
+> A collection of mysterious letters \*The book itself is littered with pages of letters and notes, some stray sheets within in an unintelligible language, scrawled in an unknown print. Some documents are easy to make out - archived correspondence.\*
+> 
+> \*From the wear and condition of the first letter sheaved in the book, this is old. Most certainly written several generations ago.\* Th'armati, most hold greetings from the Echelon.
+> 
+> The counsell has decre'd it! Nostri eclipse is upon us once again, and we send out tidings and caution to our distant kin. As our aecti surge below the surface into our ossuaries, we urge your kin to avoid trespassing upon our festivities, and keep their craft clear from our islands - the all-too-familiar matercrypt will receive those who do not heed this warning into its sunk'n shores.
+> 
+> As always, we send our kindest tidings from our Lady, for th'armato will be glad to know of the peace we have enjoyed since her sacrifice long since. Have faith in our practices - her guidance continues to crade our isles well. True faith survives such troublesome events - there is peace as she had promis'd, we have rebuilt plentifully since our most worrying ordeal, our crypts have expanded greatly to all reaches of the archipelago.
+> 
+> We pray for the safety of your own and th'ambulo living your protection.
+> 
+> \- Galvika, our confessors' Acolyte.
+> 
+>   
+> \*Rifling through, a sleeker page appears - almost pearlescent in contrast to the previous letters' wear. It's silk to the touch. Part of the letter is again in the obscure language, yet it seems that there is a translation neatly printed beneath.\*
+> 
+> Th'armati of Aratel, most insistent greetings from the Echelon.
+> 
+> We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'sourvenir' of our heritage laid upon our walls, and henceforth shall not be reutnring to your Greathive. For their trespass againsst our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
+> 
+> We have since sent the other ambassadors onto their return, and they have been equipped with the requested copies of our archives - we hope the reminder of our common ancestry contained within them will kindle our distant friendships.
+> 
+> We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acoltye.
+> 
+> \*The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
+
 ### Studies on Canticlysm, Vol. IV
 
 > compiled by Steward Amross, Steward Bridges, et. al
@@ -1667,40 +1695,6 @@ I weep for them still, my tears bitter as salt...
 > This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
 > 
 > If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
-
-  
-
-### Strange Missives
-
-> A collection of mysterious letters
-> 
-> -   The book itself is littered with pages of letters and notes, some stray sheets within in an unintelligible language, scrawled in an unknown print. Some documents are easy to make out - archived correspondence.\*
-> 
-> -   From the wear and condition of the first letter sheaved in the book, this is old. Most certainly written several generations ago.\*
-> 
-> Th'armati, most hold greetings from the Echelon.
-> 
-> The counsell has decre'd it! Nostri eclipse is upon us once again, and we send out tidings and caution to our distant kin. As our aecti surge below the surface into our ossuaries, we urge your kin to avoid trespassing upon our festivities, and keep their craft clear from our islands - the all-too-familiar matercrypt will receive those who do not heed this warning into its sunk'n shores.
-> 
-> As always, we send our kindest tidings from our Lady, for th'armato will be glad to know of the peace we have enjoyed since her sacrifice long since. Have faith in our practices - her guidance continues to crade our isles well. True faith survives such troublesome events - there is peace as she had promis'd, we have rebuilt plentifully since our most worrying ordeal, our crypts have expanded greatly to all reaches of the archipelago.
-> 
-> We pray for the safety of your own and th'ambulo living your protection.
-> 
-> \- Galvika, our confessors' Acolyte.
-> 
->   
-> 
-> -   Rifling through, a sleeker page appears - almost pearlescent in contrast to the previous letters' wear. It's silk to the touch. Part of the letter is again in the obscure language, yet it seems that there is a translation neatly printed beneath.\*
-> 
-> Th'armati of Aratel, most insistent greetings from the Echelon.
-> 
-> We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'sourvenir' of our heritage laid upon our walls, and henceforth shall not be reutnring to your Greathive. For their trespass againsst our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
-> 
-> We have since sent the other ambassadors onto their return, and they have been equipped with the requested copies of our archives - we hope the reminder of our common ancestry contained within them will kindle our distant friendships.
-> 
-> We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acoltye.
-> 
-> -   The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
 
   
 

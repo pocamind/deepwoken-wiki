@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 92058
+revid: 96038
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]
@@ -29,6 +29,7 @@ The Official Conquest release might be within the month of March 2024, with Conq
 -   The Deepwoken twitter account has recently leaked one of the core points of the game mode, which is a statue in similar fashion to the previously leaked statue a few months earlier, boasting a health bar and shooting fireballs. [https://vxtwitter.com/Deepwoken/status/1745887869334430022?s=20](https://vxtwitter.com/Deepwoken/status/1745887869334430022?s=20)
 -   Conquest was planned to be released in December, but had to be delayed to January due to some map changes, and now has been further delayed to release either during the middle of March or Early April.
 -   Jacks appearance will be a live event during conquest, as said by Arch\_Mage.
+-   According to the twitter post showing map sneaks, their is no smooth terrain on the Conquest map, but as seen in other images, there might still be (look for the grass blades piercing through block terrain, and look at the Conquest image provided in this wiki page)
 
 UI found inside conquest from one of Agamatsu's Streams
 

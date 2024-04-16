@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 95935
+revid: 95959
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -31,7 +31,7 @@ Enchanted items cannot be dropped on death.
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
 -   Enchanted items appear as light purple in your inventory.
--   Most of Legendary weapons **cannot** be enchanted, but a few of them can, like [Purple Cloud](Purple_Cloud.md) and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+-   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
 
   
 

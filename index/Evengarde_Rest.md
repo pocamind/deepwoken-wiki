@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 93196
+revid: 96049
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -17,8 +17,6 @@ _This is his appearance as a static NPC within the [Temple of the Blade](Temple_
 Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
 
 After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses dissatisfaction at his inability to deter [The Central Authority](The_Central_Authority.md) should [The Lord Regent](The_Lord_Regent.md) be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's war machine as a fate worse than even the one the Ministry has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.
-
-If you are searching for the boss npc you should check it out here [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 ## Dialogue
 
@@ -89,7 +87,7 @@ _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very we
 
  | (LHT)
 
-_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Cerulean Thread". \[_[sic](https://en.wikipedia.org/wiki/sic)_\] It's a fine dagger when coupled with steel wire as its thread. That being said, I have no intention of going easy on you. This knife cannot be handled by the faint of heart.
+_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread. That being said, I have no intention of going easy on you. This knife cannot be handled by the faint of heart.
 
  |
 | 
@@ -159,6 +157,5 @@ End
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
--   Ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
+-   ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
--   Maestro had trained with the legion in the west, where he had stolen a "Pale Briar" from a Cardinal of the Starkindred Church.

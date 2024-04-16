@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 95822
+revid: 96037
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -20,8 +20,6 @@ categories: [NPCs, Quests]
 ## Description
 
 Zi'eer, more commonly known as Lord Regent or by his title, the fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
-
-He's also canonically a Femboy in Etris. Duke Erisia had an 8 month relationship with him from 1423 - 1521. The Lord Regent also had a lot of chamber parties with duke.
 
 While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true race or aggressive mutations from his meddling with the world's natural order is unknown. \[**Citation needed.\]**
 

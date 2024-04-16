@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 95769
+revid: 95986
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -56,6 +56,10 @@ Although directly climbing the City Walls with barrels atop roofs was once a pop
 Locate a building near the walls of the city, and create an immense tower of barrels (15-20). Alternatively, utilize vertical movement mantras, such as [Flame Leap](Flamecharm.md). Once atop the wall, you may enter the elevator room by walking to the center of the city.
 
 _This method is no longer the recommended strategy for reaching the elevator._
+
+**Method 4:** **Gliding**
+
+Find a rock, cliff, or something in a high place, and glide onto the wall. (Only works if you have a glider)
 
 ## **First Layer: The Trial**
 
