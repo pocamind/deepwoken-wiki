@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 96052
+revid: 96196
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Deepwoken]
@@ -191,7 +191,7 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 ## Trivia/Notes
 
 -   Future Luminants are confirmed, it is just going to be a while before we see such massive updates.
--   The player marker(s) will accurately track a player's movement and position within the world from [Dimensional Travel](Dimensional_Travel.md).
+-   The player marker will accurately track the players movement and position within the world from [Dimensional Travel](Dimensional_Travel.md), but will not track their ally markers properly if they're within the dimension.
 -   In-game maps have a small line of text in the bottom left corner about authorities or surveyors that created the maps.
     -   Etrean and Eastern Luminants: _Comissioned under the Authority of Sovereign Drallis Ehr, Overseer of Epochs._
     -   Lost Celtor: _Surveyed under the supervision of the Citadel by the Divers of Castle Light, 1464 CE. Do not trust this map or any information contained within._

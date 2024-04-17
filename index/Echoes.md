@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 95405
+revid: 96194
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -300,7 +300,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Landing a hit with your critical restores 30% of your posture.
 
-**(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
+**(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 
 -   You regenerate your armour at campfires.
     -   Can be done at Power 20 for an extra deck of cards.

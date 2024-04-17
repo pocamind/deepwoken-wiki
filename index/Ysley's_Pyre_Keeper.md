@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96180
+revid: 96197
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -17,7 +17,7 @@ notices:
 | damage | 23 |
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
-| swing speed | 0.68x |
+| swing speed | 0.7x |
 | penetration | 15% |
 | special effect | Spawns green flames on hit that cut the target's mobility in half. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
