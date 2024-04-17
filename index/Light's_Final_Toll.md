@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 96122
+revid: 96143
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 | Light's Final Toll | |
 |---|---|
 | type | Fist |
-| requirements | 60 WLL, 35 LHT & Fist Style |
+| requirements | 60 WLP, 35 LHT & Fist Style |
 | damage | 12 |
 | scaling | 10 WLL 4 LHT |
 | range | 7 |
@@ -28,14 +28,9 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons).
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19.1 damage, the weapon deals 24.6 damage at 100 WLL and max LHT, and deals 24.8 at 102 WLL and max LHT.
 
--   Metting the requirement of WLL and LHT, the weapon deals 19.1 damage.
--   At 100 WLL and max LHT, the weapon deals 24.6 damage
--   At 102 WLL and max LHT, the weapon deals 24.8
--   Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_
-
-The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd Crit must be landed twice)
+Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_ The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd Crit must be landed twice)
 
 The color of the lantern signifies what Critical will be used next:
 

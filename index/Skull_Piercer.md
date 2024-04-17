@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 80670
+revid: 96150
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -29,4 +29,7 @@ categories: [Weapons, Rapiers]
 
 The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category. It is obtained by getting [Hallowtide](Hallowtide.md) Joy and talking to [Glaive](Glaive_Spellhardt.md). Only obtainable second week of [Hallowtide.](Hallowtide.md) This is the only rapier that procs bleed and has 8.5 range, making it better than [Crucible Rapier](Crucible_Rapier.md).
 
-Deals 24.5 + 7.35 BLD dmg. Totalling to 31.85 dmg at 100 Light weapon.
+## Trivia
+
+-   Meeting the requirement of LHT, the weapon deals 19.9 damage, but it becomes 25.9 with bleed.
+-   At max LHT, the weapon deals 21.9 damage, but it becomes 28.4 with bleed.

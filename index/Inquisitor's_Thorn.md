@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 79141
+revid: 96148
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -33,4 +33,5 @@ The Inquisitor's Thorn is a LHT weapon under the Rapier category and ranked seco
 
 ## Trivia
 
--   This weapon deals 25,2 damage at 100 Light Weapon stat
+-   Meeting the requirement of LHT, the damage is (16.9)
+-   At max LHT, the damage is (21.4)

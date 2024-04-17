@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 94910
+revid: 96135
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -31,3 +31,5 @@ The **Dragoon** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_I
 ## Trivia
 
 -   A single Dragoon can fire four shots when loaded before requiring a reload.
+-   Meeting the requirement of LHT, the damage is (25.4)
+-   At max LHT, the damage is (30.4)

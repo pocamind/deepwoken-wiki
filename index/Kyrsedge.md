@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 96114
+revid: 96139
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -32,13 +32,9 @@ categories: [Weapons, Daggers]
 
 The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the regular Dagger Critical Attack, which consists of three quick slashes which move the user forward after a short windup.
 
-  
-  
-  
-
 ## Trivia
 
--   Apart of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md)).
+-   Part of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md)).
 -   Seems to be paired with Kyrstear.
 -   Meeting the requirement of LHT, the damage is (19.6)
 -   At max LHT, the damage is (21.8)

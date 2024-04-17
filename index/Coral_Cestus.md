@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 96123
+revid: 96142
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -31,14 +31,13 @@ categories: [Weapons]
 
 The **Coral Cestus** is a Cestus that requires 75 LHT to use.
 
--   Meeting the requirement of LHT, the damage is (24.6)
--   At max LHT, the damage is (27.4)
-
 ## Critical
 
 The user leaps into the air forward and slams down into the ground, creating a large AoE that applies short knockdown.
 
 ## Trivia
 
+-   Meeting the requirement of LHT, the damage is (24.6)
+-   At max LHT, the damage is (27.4)
 -   The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
 -   Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.

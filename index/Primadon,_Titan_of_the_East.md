@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 96017
+revid: 96167
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -143,6 +143,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   [Imperial Staff](Imperial_Staff.md)
 -   [Stormseye](Stormseye.md)
 -   [Forgotten Gladius](Forgotten_Gladius.md)
+-   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
 
  | 
 
