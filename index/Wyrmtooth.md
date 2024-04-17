@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 95875
+revid: 96192
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -32,7 +32,7 @@ The **Wyrmtooth** is a [Medium-Heavy hybrid](Weapons.md#medium-weapons) sword th
 
 With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.2 damage at base and 35.6 damage when both MED and HVY are at 100.
 
-While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 10 range and an above average weight of 7; it outreaches almost every other melee weapon in the game, rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and [Pale Briar](Pale_Briar.md). It even compares to some of the game's pistols, though any past early game will begin to outrange it.
+While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 10 range and an above average weight of 7; it outreaches almost every other melee weapon in the game, rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and [Pale Briar](Pale_Briar.md). It even compares to some of the game's pistols, though any past early game will begin to outrange it. This weapon does not proc heavy weapon talents only medium weapon talents despite having a heavy weapons animation this weapon is considered a medium weapon sword.
 
 ## Critical
 

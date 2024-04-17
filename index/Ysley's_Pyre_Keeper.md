@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96058
+revid: 96180
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -26,7 +26,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Starswept Valley, Calamus |
+| obtainment | Chests From:, Starswept Valley, Calamus, Primadon |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. |
 
 ## Description
@@ -49,6 +49,7 @@ The Pyre Keeper comes with the following passives:
 
 ## Trivia
 
+-   This weapon was hidden from testers upon release, making it extremely unbalanced and overpowered.
 -   The weapon is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_, an arsenal consisting of a large greatsword and an accompanying dagger to use as a pivot for more acrobatic attacks to disorientate foes, as well as grip into their flesh to prevent prey running away. Its fire-infused state is a reference to the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) who, as Lords of Cinder, imbue their form and weapon with fire in the second phase of their fight.
 -   It is the weapon with the widest stat requirements, Heavy, Flamecharm and Light as well as the first to "count as two" weapons.
 -   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md), and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).

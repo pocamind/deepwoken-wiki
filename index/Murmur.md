@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 95102
+revid: 96189
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -86,7 +86,7 @@ Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grant
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._
 
-  
+**NOTE:** You cannot grip inside of guild bases, weather it be allied or not as it will not give you credit for the kill (I found this out myself the hard way)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 95687
+revid: 96176
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -8,7 +8,7 @@ categories: [Weapons, Greataxes]
 
 # Battleaxe
 
-| Battlerizzler's Axe | |
+| Battleaxe | |
 |---|---|
 | type | Heavy Greataxe |
 | requirements | 0 HVY |
@@ -26,7 +26,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-BingTu is My Skibidi Goat.. RIZZ DOP DOP YES YES..
+The Battleaxe is a greataxe that [Heavy Weapon](Weapons.md) users start with when beginning the game. The weapon has a base damage of 20, and a scaling of 5.
 
 ## Trivia
 

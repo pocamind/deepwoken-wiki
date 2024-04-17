@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 96077
+revid: 96191
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,11 +8,11 @@ categories: [Pages with broken file links, Attunement]
 
 # Flamecharm
 
+Flamecharm Icon
+
 Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
 ## Description
-
-Flamecharm icon
 
 Flamecharm grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 
@@ -1369,6 +1369,7 @@ N/A
 -   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
+-   The talent "Azure Flames" is most likely a reference to the character Azula from Avatar The Last Airbender, who has similarly colored fire bending, though instead of having 40 willpower, she simply imbues her bending with lightning.
 
 ## References
 
