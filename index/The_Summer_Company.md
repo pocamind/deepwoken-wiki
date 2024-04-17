@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 93123
+revid: 96203
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -68,7 +68,9 @@ Neutral-Bad Reputation:
 ## Notable Members
 
 -   Gunsmith Rosen
--   Scope
+-   [The Guy](The_Guy.md)
+-   [Scope](Scope.md)
+-   [Funke, Master of Thunder](Funke,_Master_of_Thunder.md)
 -   Trig
 
 ## Trivia

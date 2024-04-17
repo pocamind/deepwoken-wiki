@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 91452
+revid: 96214
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -36,5 +36,7 @@ Can be easily obtained from Layer 2 Floor 1, not worth farming in the Starswept 
 
 ## Trivia
 
+-   Meeting the requirement of MED, the damage is (22.7)
+-   At max MED, the damage is (28.3)
 -   Considered to be an exceptional weapon at high ELO due to being able to save a lot of points in medium that can be spent getting other important talents.
 -   The sword's appearance is akin to that of Percy Jackson's Riptide Sword.

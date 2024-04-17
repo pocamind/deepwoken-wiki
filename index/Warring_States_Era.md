@@ -1,9 +1,9 @@
 ---
 title: Warring States Era
-revid: 95458
+revid: 96228
 source: https://deepwoken.fandom.com/wiki/Warring_States_Era
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [April Fools, World]
+categories: [April Fools, World, Events]
 ---
 
 # Warring States Era
@@ -18,4 +18,4 @@ The winning faction were The Red Daunts, receiving a new sticker in the server, 
 
 You would also get a Roblox badge by gaining a point for your team.
 
-The name Warring States Era is most likely a reference to "The Warring States Period" From the popular seinen manga called "Kingdom".
+The name Warring States Era is most likely a reference to "The Warring States Period" from the real period in Chinese history.

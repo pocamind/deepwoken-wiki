@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 95897
+revid: 96201
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -51,8 +51,8 @@ Neutral-Good Reputation:
 
 -   "Welcome, Traveler"
 -   "Greetings, Traveler"
--   "Welcome, friend of the Hive." ([Vesperian](Vesperian.md))
--   "Pleasant journeys, friend." ([Vesperian](Vesperian.md))
+-   "Welcome, friend of the Hive." ([Vesperian](Vesperian.md), [Ganymede](Ganymede.md) and [Chrysid](Chrysid.md))
+-   "Pleasant journeys, friend." ([Vesperian](Vesperian.md), [Ganymede](Ganymede.md) and [Chrysid](Chrysid.md))
 
 Neutral Reputation:
 

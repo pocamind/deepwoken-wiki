@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 93235
+revid: 96210
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -67,6 +67,10 @@ Storm Enchant
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of MED, the damage is (20)
+    -   Meeting the alloyed requirement, the damage is (27.9)
+-   At max MED, the non-alloyed damage is (26.1)
+    -   At max MED, the alloyed damage is (30.5)
 -   The [Blade Temple Guards](Blade_Temple_Guard.md) on the [Isle of Vigils](Isle_of_Vigils.md) use Katanas.
 -   It is one of two weapons that comes with a scabbard, the other being the [Shattered Katana](Shattered_Katana.md).
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.

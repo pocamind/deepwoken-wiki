@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 86119
+revid: 96209
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -26,4 +26,10 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Scimitar is a Medium type weapon that can be obtained from chests found in [Erisia](Erisia.md). This weapon has a base damage of 15 and requires 20 MED to equip. This weapon has no special effects or passives.
+The Scimitar is a Medium type weapon that can be obtained from chests found in [Erisia](Erisia.md). This weapon has no special effects or passives.
+
+## Trivia
+
+-   Meeting the requirement of MED, the damage is (15.7)
+-   At max MED, the damage is (18.4)
+-   It is not recomended to use this weapon due to its extremely sub-par stats.

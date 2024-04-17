@@ -1,9 +1,9 @@
 ---
 title: Shotel
-revid: 94954
+revid: 96217
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
 ---
 
 # Shotel
@@ -16,6 +16,7 @@ categories: [Weapons, Swords]
 | scaling | 5 |
 | range | 8 |
 | swing speed | 0.73x |
+| chip damage | 20% |
 | selling price | 25 |
 | weight | 2 |
 | bankable | Yes |
@@ -49,7 +50,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Shotel is a Medium Weapon. It has 22 Base Damage, 5 scaling and 20% chip damage (max damage is 33). It can be found through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [The Depths](The_Depths.md). This weapon can be alloyed, giving it a damascus steel-type texture and raising the stats to match late game tier weaponry.
+The Shotel is a Medium Weapon. It can be found through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [The Depths](The_Depths.md). This weapon can be alloyed, giving it a damascus steel-type texture and raising the stats to match late game tier weaponry.
 
 ## Critical
 
@@ -57,4 +58,8 @@ The user spins in a circle, then preforms a horizontal slash if landed on a bloc
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of MED, the damage is (25.7)
+    -   Meeting the alloyed requirement, the damage is (29.4)
+-   At max MED, the non-alloyed damage is (30.3)
+    -   At max MED, the alloyed damage is (31.9)
 -   While the way the weapon is held might look confusing, this is in fact how a Shotel is meant to be used. Shotels were designed to allow the user to strike behind shields, thanks to the curve of the sword.

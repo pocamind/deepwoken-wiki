@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 87532
+revid: 96208
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -54,6 +54,9 @@ Despite the Alloyed Falchion's similarity to the [Warden Ceremonial Sword](Warde
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of MED, the damage is (17.4)
+    -   Meeting the alloyed requirement, the damage is (22.3)
+-   At max MED, the non-alloyed damage is (23.2)
+    -   At max MED, the alloyed damage is (24.4)
 -   This weapon, along with the [Darksteel Greatsword](Darksteel_Greatsword.md), is used by the Ignition Union during their fights with the Summer Company.
 -   It used to use the [Trident Spear](Trident_Spear.md) description, but this was later updated.
--   At 100 Med, this weapon deals 24.5 damage, and 27 damage with 6 weapon proficiency.

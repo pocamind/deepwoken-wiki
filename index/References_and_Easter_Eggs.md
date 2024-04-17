@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 95894
+revid: 96223
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -87,7 +87,6 @@ categories: [Deepwoken]
 -   Starkindred has many references:
 -   An image showing the singular wing
     
-    Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
         Arch's tweet
@@ -98,6 +97,7 @@ categories: [Deepwoken]
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss.
         -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death.
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
+    -   Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
 -   **Silentheart** takes inspiration from the _Fire Emblem_ series:
     -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
     -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 95317
+revid: 96221
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -238,7 +238,7 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
 -   Currently residing in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 -   In charge of connecting the East Luminant to the rest of the luminants from the Voidsea.
--   Possible childhood friend of [Nimea](The_Hidden_Village.md) and possible teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+-   Childhood friend of [Nimea](The_Hidden_Village.md) and teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Her hobby is apparently to write poetry, as stated by Klaris.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
 -   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
@@ -249,7 +249,7 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
 -   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) The creator of light hooks.
--   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
+-   Former Student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
 -   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
@@ -278,7 +278,7 @@ The one and only... MEAT LORD!
 _"I don't know if I will be able to continue my services with in the Authority without breaking my own vows" - Warden Jericho._
 
 -   High ranking member of the Authority.
--   In charge of overseeing the current war of the between Authority & Etrea and all the Authority operations in the Eastern/Etrean Luminant.
+-   In charge of overseeing the current war of the between Authority & Etrea and all the Authority operations in the East Luminant.
 -   User of the Warmaster Oath.[\[1\]](#cite-note-rag-1)
     -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that if something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
 -   One of the few people that knows the true intentions and identity of the Lord Regent while not being aligned with the Ministry.
@@ -290,7 +290,7 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
 -   Possibly he is an attunement-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
 -   Genuinely believes in The Central Authority as a force of peace.
--   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the lighthouse being controlled by Etris, being also able to capture Fort Merit with his forces.
+-   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the Eastern Interstital Lighthouse being closed due to Viqh's reluctance to open it, being able to capture Fort Merit with his forces.
 -   Possible member of the Circle of Honor.
 
 ### **Gunsmith Rosen**
@@ -363,7 +363,7 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   "We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight." - Developer ragoozer.[\[1\]](#cite-note-rag-1)
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in both the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.[\[2\]](#cite-note-arch-2)
--   Knows about the existence of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
+-   Knows about the existence of the Ministry calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
 
 File:Yun'Shul.png
 
@@ -414,7 +414,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   There is not a Drowned God for each attunement.[\[2\]](#cite-note-arch-2)
 -   Two theories to what they are have been remarked as 'close:'[\[1\]](#cite-note-rag-1)
     -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. They act as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
-    -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
+    -   Drowned gods are people from the Old World that were corrupted by The Depths so much that they _descended_ to godhood.
 -   The name of the game "Deepwoken" is known in the lore as the act of consuming a piece of a Drowned God to gain incredible powers,[\[1\]](#cite-note-rag-1) so Deepwoken doesn't mean the awakening of a Drowned God, but more like the awakening of a great power of the Depths. Before the game had the name of Deepwoken it was called "Drowned Gods," referencing the Drowned Gods.
 -   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this is the Scion of Ethiron in Layer 2.
 -   Arch\_Mage has alluded to the Drowned God "Murchendice" who is responsible for turning notable characters into merchandise
@@ -426,7 +426,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 **Lore Sources:** _Visionshaper Obtainment Method_
 
 -   The Nestmind is a visual representation of the hivemind that every [Deep Owl](Deep_Owl.md) is a part of.
--   The Nestmind, and Deep Owls as an extension, consume human thought as food. It is speculated that Miserables is also a more powerful extension of the Nestmind, similar to Deep Owls.
+-   The Nestmind, and Deep Owls as an extension, consume human thought as food. It is speculated that Misérables is also a more powerful extension of the Nestmind, similar to Deep Owls.
 -   They see reality in a different way compared to the player.
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
@@ -439,7 +439,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 **Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned), The Ferryman_
 
--   [The Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Void Sea](Voidsea.md).
+-   [The Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Voidsea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumors that summoning him leads to being granted a great treasure, however, few realize that to get the reward you are required to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favor by tormenting the humans that dare dance with him.[\[7\]](#cite-note-yama-7)
@@ -466,7 +466,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 _"Your own depths shall consume you." - Gran Sudaruska._
 
-**Lore sources:** _Sudaruska Soul, Gran Sudaruska Description_
+**Lore sources:** _Sudaruska's Soul, Gran Sudaruska Description_
 
 -   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
@@ -496,11 +496,11 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
 -   The [Lighthouse's](Eastern_Interstitial_Lighthouse.md) interior cannot be accessed, nor does it allow anyone to access the other [Luminants](Luminants.md) due to the fact that only Lightkeepers can operate them.
--   Viqh is likely still inside.
+-   Viqh is still residing within it.
 
 #### Erisia (Etrean Luminant)
 
--   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from [The Voidsea](Voidsea.md) months before Year 1271.
+-   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
 -   It has been ravaged by creatures of the Deep, but apparently even before this, it was a 'backwater.'
 -   The Hive at one point settled here, but left.
@@ -602,7 +602,7 @@ Glittering towers of ivory that hang over Lumen's seas.
 -   The home of Celestials and Lightborns.
 -   After the tides, the city was forced to evacuate.
 -   Its forebearers, soldiers fighting against the Depths, lost their morale after the Celestials fled.
--   The Kyrsans, under Ethiron's will, raided the city with the help of the [Kyrsieger](Kyrsieger.md), which could explain why there are fallen shards surrounding the towers within the maw of Ethiron.
+-   The Kyrsans, under Ethiron's will, raided the city with the help of weapons such as the [Kyrsieger](Kyrsieger.md), which could explain why there are fallen shards surrounding the towers within The Maw of Ethiron.
 
 ### **The Depths**
 
@@ -661,7 +661,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
 -   The snow is not actually snow, but instead parasite eggs.
 -   The Ignition Union has set up a base within the shrine, along with lanterns to burn the parasitic snow off.
-    -   This means that even though the divers are well funded and have way more control over layer 1 compared to the Ignition Union, the Ignition Union is much more equipped to handle layer 2. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while the divers are more research-based and only go to layer 2 for more information that the Ignition Union is ordered not to do. This could be why they are both funded by the authority for maximum efficiency.
+    -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while The Divers are more research-based and only go The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
 
 ##### New Kyrsa (Second Floor)
 
@@ -725,13 +725,11 @@ An Etrean Guard, part of the Nation of Etrea
         -   A Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
--   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
-    -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
 -   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.[\[1\]](#cite-note-rag-1)
 -   They are the only people with a dedicated religion and hold a few qualities relating them to other religions in the real world.
--   On Meteor Isle they are currently negotiating with the Hive of Aratel to get mutual benefit, the Hive getting the life of the Island while probably the Children of Navae get protection of the Hive from the Authority.
+-   On Meteor Isle they are currently negotiating with the Hive to get mutual benefit, the Hive getting the life of the Island while probably the Children of Navae get protection of the Hive from the Authority.
     
     Master of the way of Navae
     
@@ -746,7 +744,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
 -   A military organization from the [Western Luminant](Luminants.md).
--   Despite there being one hundred leigons, in Etrea we only see the [11th Legion](The_Hundred_Legions.md). They are not to be confused with [The Authority](The_Central_Authority.md) or [The Hive](The_Hive.md).
+-   Despite there being one hundred leigons, in the Eastern Luminant we only see the [11th Legion](The_Hundred_Legions.md). They are not to be confused with [The Authority](The_Central_Authority.md) or [The Hive](The_Hive.md).
 -   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
 -   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in [The Viper's Jaw](<The_Viper's_Jaw.md>).
 -   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
@@ -770,7 +768,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), Arch\_Mage (Discord)_
 
--   A Faction that resides in Summer Isles. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
+-   A Faction that resides at Summer Isle. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between [Kingdom of Etrea](Etrea.md) and [the Authority](The_Central_Authority.md).
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
@@ -783,7 +781,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
         -   The [Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
--   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
+-   Although guns are sold in the East Luminant, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
 -   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[6\]](#cite-note-stormseye-6)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant being Miners Landing.
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[2\]](#cite-note-arch-2)
@@ -884,7 +882,7 @@ A Dark Mage, located in Minityrsa.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
 -   Their war against Etrea was initially an attempt for the Authority to maintain control in the Eastern Luminant, but shifted gears once they learned the current Lord Regent of the nation is a member of The Ministry.
--   The Hive are _not_ at war with the Authority, though tensions are very high between the two. Despite this, the Hive Constructs will go out of their way to exterminate any Authority member they see.
+-   The Hive are _not_ at war with the Authority, though tensions are very high between the two, as seen with the frequent skirmishes between Hive Constructs and Authority Captains.
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[2\]](#cite-note-arch-2)
     -   The Knives sow chaos anywhere for a price.[\[2\]](#cite-note-arch-2)
     -   They purchase firearms from The Summer Company.[\[2\]](#cite-note-arch-2)
@@ -918,10 +916,10 @@ An Authority Captain
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worhsip The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
-    -   Their previous home, or some soft of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
+    -   Their previous home, or some sort of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
     -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
--   Currently at war with Etris, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for Lord Regents own interests.
+-   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for the Lord Regents own interests.
 -   The Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
@@ -1065,7 +1063,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### The Old Stewards
 
--   An organization that preserves what's left before the tides came, practically Historians. They are not to be confused by The Pathfinders.
+-   An organization that preserves what's left before The Tides came, practically Historians. They are not to be confused by The Pathfinders.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
 -   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, decapitated one of the Elder Edenkite and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.

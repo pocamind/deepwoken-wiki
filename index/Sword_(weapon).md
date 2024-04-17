@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 92737
+revid: 96204
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,6 +33,7 @@ The Sword is the default medium weapon users start with beginning the game with 
 
 ## Trivia
 
+-   At max MED, the damage is (21.4)
 -   It is the most popular starter weapon used in the [Chime of Conflict](Chime_of_Conflict.md), as supported by official statistics posted on Deepwoken’s Twitter.
 -   It cannot drop from chests.
 -   Shares a model with the [False Memory](False_Memory.md).

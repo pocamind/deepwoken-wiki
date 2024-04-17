@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 95948
+revid: 96213
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -58,6 +58,10 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords ar
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of MED, the damage is (23.6)
+    -   Meeting the alloyed requirement, the damage is (28.4)
+-   At max MED, the non-alloyed damage is (29)
+    -   At max MED, the alloyed damage is (31.3)
 -   Is based off the real-life weapon named [Estoc](https://en.wikipedia.org/wiki/Estoc).
     -   The way you fight with this in game is inaccurate, as it's for puncturing, not slashing.[\[1\]](#cite-note-1)
 
