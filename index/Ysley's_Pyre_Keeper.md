@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96243
+revid: 96254
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -26,12 +26,12 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Starswept Valley, Calamus, Primadon |
+| obtainment | Chests From:, Starswept Valley, Calamus, Primadon(Gem chest) |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. |
 
 ## Description
 
-Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar pivot dagger. It can be obtained when you help out Hive in the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) and helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). It scales off Flamecharm alongside Heavy.
+Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar pivot dagger. It can be obtained when you help out Hive in the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - Keep in mind that this weapon has a very low drop rate from this method (speculated to be .001%) - and it also drops from [Primadon](Primadon,_Titan_of_the_East.md) (Gem chest). It scales off Flamecharm alongside Heavy.
 
 The Pyre Keeper comes with the following passives:
 

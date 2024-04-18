@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 95224
+revid: 96250
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Eastern Luminant, World]
@@ -118,6 +118,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Forgotten Gladius](Forgotten_Gladius.md)
 -   [Iron Cestus](Iron_Cestus.md)
 -   [Iron Birch](Iron_Birch.md)
+-   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
 
  | 
 

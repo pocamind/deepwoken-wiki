@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 95144
+revid: 96260
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -92,7 +92,7 @@ Guard
 
 (Passive)
 
- | Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. | N\\A | 
+ | Blocking With your Arc Suit active negates all backshots and allows you to block attacks from behind. | N\\A | 
 
 -   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Talent Card_
     -   Allows the user to block attacks from all directions.
