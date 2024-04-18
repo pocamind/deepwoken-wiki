@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 95964
+revid: 96269
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -945,7 +945,7 @@ Shoulder to shoulder, together, tall!
 > 
 > And indeed, these efforts bore fruits, as the High Convocation soon began receiving unusual reports of individuals seemingly returning from the dead. At the time, it was speculated that when a person died on the surface, their soul - and sometimes bodies - are dragged to the Depths. Now, the Citadel had proof that this was the case in the form of testimony. Indeed, certain strong enough individuals, having woken from their deathly slumber, now told the Citadel's agents of the strangest things, which the High Convocation had a hard time believing.
 > 
-> Regardless, the Citadel's finest scholars were set to work processing these testimonies of the formerly drowned, to see if they were of any substance. The drowned were of ten either still in shock, or displayed mild signs of mania or insanity - therefore the reliability of their testimonies individually was questionable. However, after dozens of testimonies, singular details kept emerging - an enormous sub-aquatic cavern system, the drowned city of Celtor, its sunken streets, vile beasts beyond our ken, a sky-piercing cathedral in the city's centre, and other most outlandish things. However, most curiously, in some testimonies, the drowned recall noticing tunnels high above in the ceilings of the caverns, from which rays of light - and seemingly bubble-pocket of air - were filtering through.
+> Regardless, the Citadel's finest scholars were set to work processing these testimonies of the formerly drowned, to see if they were of any substance. The drowned were often either still in shock, or displayed mild signs of mania or insanity - therefore the reliability of their testimonies individually was questionable. However, after dozens of testimonies, singular details kept emerging - an enormous sub-aquatic cavern system, remnants of Old World structures swallowed by the tide, their sunken façades, vile beasts beyond our ken, enormous column-like stalagmates holding the caves firmament, and other most outlandish things. However, most curiously, in some testimonies, the drowned recall noticing tunnels high above in the ceilings of the caverns, from which rays of light and seemingly bubble-pockets of air were filtering through.
 > 
 > This greatly piqued the interest of the Convocants. A new theory was posited - if what these resurrected individuals were saying was true, there is likely a direct physical connection between the surface and the Depths. Another theory came to be - if this truly were the case, and return were a possibility, a well-trained team of agents could be sent down into the Depths for exploration, reconnaissance, and combat. With enough effort, perhaps a permanent forward operating base could be established. The fight against the Depths could, therefore, theoretically be taken to the Depths themselves.
 > 

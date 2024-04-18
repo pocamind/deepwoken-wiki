@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 96194
+revid: 96295
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -286,7 +286,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Allows you to move quickly when you dodge mid-air. It's just an air dash.
 
-**(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) solo without getting hit by one of the boss' attacks.**_
+**(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
 
 -   Increases PvE damage the more melee hits you deal without taking hits in return.
     -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 2.

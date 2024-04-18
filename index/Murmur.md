@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 96189
+revid: 96293
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -68,7 +68,7 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### **Obtainment**
 
-Murmur: Tacet can be obtained in three ways; one of them being that you don't have to get Charisma to obtain it.
+Murmur: Tacet can be obtained in three ways, only one of which does not require any Charisma.
 
 #### Method One - Fetch Quest
 

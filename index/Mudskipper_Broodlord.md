@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 96237
+revid: 96296
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,10 @@ A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They app
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| Summon the Horde | Upon spotting a foe, unleashes a blood-curdling screech that alerts any nearby monsters to their presence, as well as summon two random Mudskippers, if another Broodlord is aggrivated, they also summon additional mudskippers. | N/A | N/A | N/A | (★★☆) |
+| Call Of
+Pablo
+
+ | Upon spotting a foe, unleashes a blood-curdling screech that alerts any nearby monsters to their presence, as well as summon two random Mudskippers, if another Broodlord is aggrivated, they also summon additional mudskippers. | N/A | N/A | N/A | (★★☆) |
 | Lumbering Jab | Delivers a deliberate punch. | ◯ | ◯ | ◯ | (★☆☆) |
 | Strong Punch | Delivers a stronger, unparriable thrust with its fist. | X | ◯ | ◯ | (★☆☆) |
 | Rotten Toss | Hurls a [Bloatskipper](Mudskipper.md#bloatskipper) at opponents that explodes on impact. Only used at range, but due to deepwokens range calculations, being on ice may cause him to hurl it at you regardless. | X | ? | ◯ | (★☆☆) |
@@ -31,6 +34,10 @@ A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They app
 | --- | --- | --- |
 | Depths-Melded | Upon striking an enemy, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. | (★★★★) |
 | Bulldozer | Getting hit against a wall causes the target to get guard-broken | (★★☆) |
+
+## Advices
+
+-   usually after 3-4 hits the mudskipper uses his critical hit
 
 ## Trivia
 

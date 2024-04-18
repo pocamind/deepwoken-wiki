@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 95149
+revid: 96298
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -790,7 +790,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Rogue Lineage.
     -   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, in which her signature move is shooting a line of matchlock rifles towards her enemy. Or it may be a toned down version of an attack used by Gremmy Thoumeaux from the Bleach Series, where he summons an arsenal of guns behind him and shoots at the enemy.
--   Ironsing is the fastest Attunement to obtain a Legendary Weapon; the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
+-   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
 -   Ironsing is called 'Element' in the game's code.
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
@@ -799,5 +799,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   Using Erisore gives a blue particle effect. Effects unknown.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
+-   The icons for Ironsinger, Adept Ironsinger, Expert Ironsinger, and Master Ironsinger feature the symbol for Frostdraw.
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 93244
+revid: 96270
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -40,6 +40,8 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 
 -   It is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers.
 
+**Has the longest Crit Cooldown ingame of 30 seconds.**
+
 ## Trivia
 
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
@@ -50,5 +52,6 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 -   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.
 -   First Light was given a new critical along with it's reworked animations in an update, with the new critical having the ability to summon blades of fire from the sky.
 -   Currently, First Light's critical does not change colors depending on if you have Azure Flames or Twisted Puppets.
+-   While it has good stats and has no endlag, it is severely held back by it's useless and unnecessarily high cooldown Critical, making players opt to use Nemesis.
 -   During the Deepwoken Youtuber Battle Royale Tournament on 7/1/2023, Youtuber "Trunks" used this sword to clutch out a victory during the 4th Round of the Tournament against "Floppingman" and "nogo" during the final circle.
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.

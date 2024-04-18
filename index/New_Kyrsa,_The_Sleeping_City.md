@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 89321
+revid: 96291
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -46,15 +46,11 @@ The Great Library of New Kyrsa is a large library, containing a rotation puzzle 
 
 ## Appearance
 
-New Kyrsa is a beautiful and huge place with many buildings and "alien-like" technology, such as trains or artillery. The architecture is futuristic, with gold and white designs and streamlined structures. You can meet a lot of Kyrsgardes here and only one, Naerotiv, is not hostile. Many buildings are extremely tall, and streets are patrolled by large, bulky Kyrsgardes. There is an underground sewage system, along with an underground subway in New Kyrsa.
-
 Despite the beautiful outward appearance and the seemingly volatile enemies, New Kyrsa is stuck in a time loop. People stuck in the city are trapped in the time loop forever, unable to escape, or even die.
 
 ## Scion of Ethiron
 
 _Main Page: [Scion of Ethiron](Scion_of_Ethiron.md)_
-
-Scion of Ethiron is the final boss of Second Floor of the Eternal Gale. It is an exceedingly large, imposing figure made of bones and other materials. The Scion is powerful in every aspect; it has a massive amount of HP, does large amounts of damage with most attacks, and requires a lengthy process to even land a hit on. More information on the fight is on the main page.
 
 ## Misérables
 
