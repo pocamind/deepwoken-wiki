@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 95491
+revid: 96266
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -45,7 +45,7 @@ Chance of obtaining race: **N/A**
 
   
 
-The Lightborn are considered to be fragments of the once great gods up above, hybrids formed from humans and celestials. In recent times, a family of these people known as the Spellhardts had come forth within the Eastern Luminant, rumored to be housing themselves within a [mighty castle in the sky](The_Floating_Keep.md). Although they are of Celestial origin, their reputation among the people is questioned quite often due to their less than favorable actions. Little is known about their culture and beliefs, but they are known to punish those who are tempted by Drowned Gods, exiling them from their community. The Lightborn alongside the Celestials were apparently in a war against the drowned gods and the [Depths](The_Depths.md) itself. Apparently they "lost" the motivation to fight when the Celestial fled from the war, resulting in many of their cities being consumed by The Depths.
+The Lightborn are considered to be fragments of the once great gods up above, hybrids formed from humans and celestials. In recent times, a family of these people known as the Spellhardts had come forth within the Eastern Luminant, rumored to be housing themselves within a [mighty castle in the sky](The_Floating_Keep.md). Although they are of Celestial origin, their reputation among the people is questioned quite often due to their less than favorable actions. Little is known about their culture and beliefs, but they are known to punish those who are tempted by Drowned Gods, exiling them from their community. The Lightborn alongside the Celestials were apparently in a war against the drowned gods and the [Depths](The_Depths.md) itself, having their city raided by the Kyrsgarde under Ethiron's will. Apparently they "lost" the motivation to fight when the Celestials fled from the war, resulting in Constellia being destroyed.
 
 They are also immortal, meaning that they can be thousands of years old. Also possibly meaning that if someone has this race, they cannot have age tiers like a normal player, not being able to gain wrinkles or any age indicator due to being immortals.
 

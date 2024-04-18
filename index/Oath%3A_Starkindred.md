@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 96084
+revid: 96264
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -94,6 +94,8 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   You may also dye Starkindred's neck-halo.
 -   The Starkindred Mantra "Ascension" shares similar effect with the winged attack of the Crucible Knights in Elden Ring.
 -   Ascension and Sinister Halo are both extremely similar to the moves "Winger" and "Tandem Top" both used by Millia Rage in fighting game series Guilty Gear.
--   One-winged version of the Starkindred wings.
+-   Using the canteen, you can collect and drink the ichor of the celestial. However, this does not do anything besides make you vomit.
+    
+    One-winged version of the Starkindred wings.
     
     Typing "I will never be a memory" in the chat before summoning your wings will make you have one wing only. This is a reference to a line said by the main antagonist of _Final Fantasy 7_, Sephiroth, during Advent Children and his reveal trailer for _Super Smash Bros. Ultimate_. It can be cancelled by saying it again.

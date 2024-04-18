@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 96235
+revid: 96268
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -260,7 +260,6 @@ categories: [Deepwoken]
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
-    -   Etrean Coral variant replicates [Angela's](https://library-of-ruina.fandom.com/wiki/Angela) characteristics (Blue hair, pale white skin, yellow eyes) from Library of Ruina.
 -   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry%23Obligator) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
