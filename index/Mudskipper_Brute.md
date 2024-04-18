@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 96101
+revid: 96239
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -58,4 +58,5 @@ File:Mudskipper Brute Roar.gif
 -   This mob was added to the game in the weekly update of April 12nd, 2024.
     -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release.
 -   This mob can summon a normal green mudskipper, which is a new color.
--   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by Mahoraga from Jujutsu Kaisen.
+-   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from The Last of Us.
+    -   Despite popular belief, the Mudskipper Brutes were not inspired by Mahoraga from Jujutsu Kaisen

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 96121
+revid: 96237
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,5 +36,3 @@ A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They app
 
 -   They can parry some "instant kill/multi-hit mantras" such as Caltrops.
 -   Both this enemy and the [Mudskipper Brute](Mudskipper_Brute.md) are inspired by the "Clickers" from "The Last Of Us".
-
-_With this treasure I summon..._

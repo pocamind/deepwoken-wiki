@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 96200
+revid: 96247
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -27,7 +27,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast Mantras
 -   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
 
-The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using 5 [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -762,12 +762,13 @@ N/A
 -   In the lore having Shadowcast is a taboo. If one is caught with said attunement they will be either executed or exiled on the spot.
 -   Shade Wisp is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against Shade Wisp's inclusion, it didn't even get past testing, but it was added to the game.
     -   Not helping its case was that yayafino would then release Flame Scourge, a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Once again, this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it.
+    -   Adding onto this, Another example, this time with [Ysley's Pyre keeper](<Ysley's_Pyre_Keeper.md>), which was Hidden from testers by yayafino, Leading to its overpowered release.
 -   Shadowcast has a Talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
     -   Additionally, several Shadowcast moves charge up with a white light.
         
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   An interesting example of this would be using a blast spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
--   Just like every other attunement, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast.
+-   Just like every other attunement, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast, Or obtained from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast mantras without going to Scyphozia.
 
 ## References

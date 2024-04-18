@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 96051
+revid: 96234
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -32,6 +32,8 @@ The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily
 
 ## Trivia
 
+-   Meeting the requirement of MED, the weapon deals 24.1 damage, but it becomes 31.3 with bleed.
+-   At max MED, the weapon deals 28.1 damage, but it becomes 36.6 with bleed.
 -   The highest damage medium weapon in the game due to naturally having Bleed.
     -   Bleed adds 10% of your current damage over 3 ticks making it 30% damage boost, this damage is not affected by modifiers.
 
