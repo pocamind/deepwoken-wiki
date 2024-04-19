@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96271
+revid: 96348
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -34,7 +34,6 @@ Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis o
 The Pyre Keeper comes with the following passives:
 
 -   **Lifelord's Blaze:** M1 attacks spawn green yellow-ish flames on hit that cut the target's mobility in half.
-    -   This passive scales with the LHT investment. (Needs to be confirmed/test with evidence)
 
 ## Critical
 
@@ -54,5 +53,5 @@ The Pyre Keeper comes with the following passives:
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but are planned to be changed with time.
 -   The Weapon used to not change color if you had Azure/Twisted Puppets path. This was changed the next day after weapon's release.
--   This Weapon is also named Ysley's Pyre Cleaver "Callow & Verdant"
+-   This Weapon is also named "Callow & Verdant"
 -   It is one of eight weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)

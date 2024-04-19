@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 96319
+revid: 96345
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Mudskipper Brute
 
-_Also known as "Bruteskipper", "Miguel" and "Mahoraga"_Template:Creature Infobox V3
+_Also known as "Bruteskipper", "Miguel", "Mahoraga", "Mudhoraga" and "Skibidi Toilet"._Template:Creature Infobox V3
 
 ## Description
 
@@ -59,4 +59,5 @@ File:Mudskipper Brute Roar.gif
     -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release.
 -   This mob can summon a normal green mudskipper, which is a new color.
 -   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from The Last of Us.
+-   The mob design could be inspired by the Bloater from The Last of Us.
     -   Despite popular belief, the Mudskipper Brutes were not inspired by Mahoraga from Jujutsu Kaisen

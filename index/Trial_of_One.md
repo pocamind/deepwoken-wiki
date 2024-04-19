@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 95603
+revid: 96343
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -129,6 +129,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.
 -   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the trial.
 -   You can have enchanted weapons during the Trial via passing down or the Bank (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence Thorns](Enchantments.md) enchant because Trial of One is centered around parrying)
+-   Before the release of [Mudskipper Brute](Mudskipper_Brute.md) the second trial used to be a [Megalodaunt](Megalodaunt.md)
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   File:TrialofOne.png

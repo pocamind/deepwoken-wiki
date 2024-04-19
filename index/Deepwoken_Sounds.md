@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 91957
+revid: 96336
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Upcoming content, Pages with broken file links, Deepwoken]
@@ -103,7 +103,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
 | TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage-2) | TBA | TBA | TBA |
 | TBA | ELEISON[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
-| TBA | _Untitled New Kyrsa Combat Theme_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
 | TBA | The Prince Peripatetic[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
 
 [The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md)

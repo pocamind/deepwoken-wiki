@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 96333
+revid: 96346
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,16 +12,13 @@ Colloquially known as the "Broodskipper"Template:Creature Infobox V3
 
 ## Description
 
-A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more intelligent, capable of using their fellow Mudskippers as tools. Noticeable thanks to their purple hue.
+A more sigma variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more intelligent, capable of using their fellow Mudskippers as tools. Noticeable thanks to their purple hue.
 
 ## Moveset
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| Call Of
-Pablo
-
- | Upon spotting a foe, unleashes a blood-curdling screech that alerts any nearby monsters to their presence, as well as summon two random Mudskippers, if another Broodlord is aggrivated, they also summon additional mudskippers. | N/A | N/A | N/A | (★★☆) |
+| Summon the Horde | Upon spotting a foe, unleashes a blood-curdling screech that alerts any nearby monsters to their presence, as well as summon two random Mudskippers, if another Broodlord is aggrivated, they also summon additional mudskippers. | N/A | N/A | N/A | (★★☆) |
 | Lumbering Jab | Delivers a deliberate punch. | ◯ | ◯ | ◯ | (★☆☆) |
 | Strong Punch | Delivers a stronger, unparriable thrust with its fist. | X | ◯ | ◯ | (★☆☆) |
 | Rotten Toss | Hurls a [Bloatskipper](Mudskipper.md#bloatskipper) at opponents that explodes on impact. Only used at range, but due to deepwokens range calculations, being on ice may cause him to hurl it at you regardless. | X | ? | ◯ | (★☆☆) |

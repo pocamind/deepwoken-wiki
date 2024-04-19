@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 93398
+revid: 96334
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -47,7 +47,7 @@ Finally, any potion with a positive Health Regeneration effect has its duration 
 
 ### Talents and Other Modifiers
 
-Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence, and caps out at 50% with 100 intelligence. Additionally, talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
+Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence, Each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
 
 -   Potions prepared by characters with the Apothecary talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
     -   This talent can be easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
@@ -169,7 +169,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td><a href="Megalodaunt_Coral.md">Coral</a></td>
+  <td>Alestrian Coral</td>
   <td></td>
   <td></td>
   <td>Weakest</td>
@@ -585,46 +585,72 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 -   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores Ether.
--   **Insanity** (Mindbreaker) - 3 Urchins + 2 Spider Eggs
-    -   With the Exterminator talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
-    -   This potion reduces sanity over time and doesn't stack - replacing the spider eggs with a second effect (like ether drain) still allows you to drain sanity at the same speed, though you'll need to land more potions to kill someone.
+    -   Alternatively, for Saltchemists, an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops, with an Antithesis salt.
+-   **Insanity** (Mindbreaker) - 3 Urchins + 2 Seaweed/Scallops
+    -   With the Apothecary talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
 -   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs
     -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
--   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
-    -   Rapidly drains ether for 15 seconds. Will almost immediately drain target's entire ether bar.
--   **Fast Ether Drain** (Icky Bane) - 1 Calabash + 1 Spider Eggs
-    -   A cheap alternative of Fast Ether Drain. Works effectively with Exterminator.
+    -   Alternatively, for Saltchemists, 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
+-   **Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
+    -   Rapidly drains ether for a decent amount of time. Can very quickly drain the target's entire ether bar while preventing them from gaining it back.
 -   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
-    -   Even a small icky effect is enough to completely prevent ether from being drawn. Compared to Fast Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained, but will keep them empty for much longer.
-    -   Another combination could include 3 Bamboo Bundles + 2 Calabash, instantly draining most of their ether and counteracting any attempts to increase it past zero with the large ether drain.
+    -   Even a small icky effect is enough to completely prevent ether from being drawn. Compared to a normal Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained but will keep them empty for a bit longer.
+    -   If using Shadowcast, this one is almost always preferred over the standard Ether Drain
 -   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
     -   Almost a full Ether restore - deals ~5% of your health in damage.
+    -   Not very useful compared to Ether Restoration potions.
 -   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle
     -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
 -   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
     -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.
     -   Redds help more than normal in healing if the potion is thrown.
--   **Regeneration** (Invigorating) - 3 Beeswax + 2 Spider Egg
+    -   Due to Redds decreasing the duration of potions, the 2 Beeswax provides little value. Meaning unless you have a surplus, it is not worth wasting 2 Beeswax. Instead, consider just using 3 Redds if you plan on making this potion
+    -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much
+-   **Health Regeneration** (Invigorating) - 3 Beeswax + 2 Spider Egg
     -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
-    -   (ONLY IF YOU HAVE SUBSISTENCE TALENT) A better recipe for this would be 3 Goblettos and 2 Beeswax.
+    -   If you have the Potion Quaffer talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
     -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
 -   **Long Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
     -   Less pathetic than instant damage, but still pretty bad.
 -   **Fast Poison** (Grueling) - 3 Plumfruit + 2 Bluecap
     -   Subsituting some of the total damage for speed.
--   **Physical Damage Buff** - 3 Plumfruit + 2 Browncaps
+-   **Physical Damage Buff Potion** - 3 Plumfruit + 2 Browncaps
     -   Buffs your physical damage.
--   **Physical Damage Debuff** - 3 Crustacean Meat + 2 Wheat
+-   **Physical Damage Debuff Potion** - 3 Crustacean Meat + 2 Wheat
     -   Debuffs your physical damage.
--   **Greater Posture Damage** (at a posture defense cost) - 3 Ongos + 2 Spider Eggs
+-   **Greater Posture Damage Potion** (at a posture defense cost) - 3 Ongos + 2 Spider Eggs
     -   Increases your posture damage.
--   **Weaker Posture Damage** - 3 Coral + 2 Spider Eggs
+-   **Weaker Posture Damage Potion** - 3 Alestrian Coral + 2 Spider Eggs
     -   Decreases your posture damage.
--   **Speed** - 3 Coral + 2 Pomar
+-   **Speed Potion** - 3 Alestrian Coral + 2 Pomar
     -   Increases your speed.
+
+## Important Ingredient Locations
+
+### These are not the only locations these ingredients can be found, but these are the best routes to obtaining them the fastest.
+
+Insanity Potion Ingredients: [https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA)
+
+Alestrian Coral: [https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA)
+
+Beeswax: [https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA)
+
+Browncaps: [https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA)
+
+Calabash: [https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA)
+
+Pomar: [https://medal.tv/games/roblox/clips/25kTqSUJe\_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTqSUJe_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA)
+
+Goblettos: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA)
+
+Bluecaps: [https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA)
+
+Redds: [https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA)
+
+Spider Eggs: [https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA)
 
 ## Trivia
 
--   [Attunement](Attunements.md) potions are not brewed using Alchemy, but are instead obtained by completing a quest given by the respective [Trainer](Attunement_Trainers.md).
+-   [Attunement](Attunements.md) potions are not brewed using Alchemy but are instead obtained by completing a quest given by the respective [Trainer](Attunement_Trainers.md).
 -   [Ciea](Ciea.md), found near the Widow's Den, offers quests to make different potions and bring them to her.
