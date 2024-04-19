@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 96240
+revid: 96324
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -72,6 +72,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 ### Talents
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Nautilodaunts.
+-   **Monster Resistance** - has %70 - %80 elemental reduction.
 
 ## **Combat**
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 83479
+revid: 96310
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -39,4 +39,5 @@ The Kyrsblade is an Endgame [Medium Weapon](Weapons.md) under the Sword category
 
 -   Part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), **Kyrsblade**, [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   Widely considered to be one of the best medium weapons in the pvp meta. it shares similar stats to weapons such as the Serpents Edge and alloyed Shotel in damage and scaling, while having a slightly higher swing speed, good chip damage, keeping the default sword crit and only really losing out on 0.5 range in comparison.
-    -   This weapon deals 35.2 Damage at 100 Med, and 39.16 with 6 weapon proficiency
+-   Meeting the requirement of MED, the damage is (29.4)
+-   At max MED, the damage is (31.9)

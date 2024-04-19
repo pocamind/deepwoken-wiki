@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 95938
+revid: 96317
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -32,6 +32,8 @@ categories: [Weapons, Spears]
 
 ## Trivia
 
+-   Meeting the requirement of MED, the weapon deals 21.2 damage, but it becomes 27.6 damage with bleed.
+-   At max MED, the weapon deals 26.1 damage, but it becomes 33.9 with bleed.
 -   Basically a downgraded Kyrsglaive, still a very good weapon if your build can't reach 90 MED to use the Kyrsglaive.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.
 -   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md). The spear likely belonged to them.

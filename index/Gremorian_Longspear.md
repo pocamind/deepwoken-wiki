@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 94653
+revid: 96315
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -51,7 +51,7 @@ categories: [Weapons, Pages with broken file links, Spears]
 
 > ## Description
 
-The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [Navae Nomads](Eastern_Nomad.md) in [Etris](Etris.md), with a random chance of it being dropped, or from any chests. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling.
+The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [Navae Nomads](Eastern_Nomad.md) in [Etris](Etris.md), with a random chance of it being dropped, or from any chests.
 
 ## Critical
 
@@ -63,6 +63,10 @@ Gremorian Longspear Critical
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of MED, the damage is (19.1)
+    -   Meeting the alloyed requirement, the damage is (25.6)
+-   At max MED, the non-alloyed damage is (23.4)
+    -   At max MED, the alloyed damage is (27.5)
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry Scouts and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.

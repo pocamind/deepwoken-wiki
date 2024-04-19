@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 80648
+revid: 96313
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -29,8 +29,7 @@ categories: [Weapons, Spears]
 
 The Irontusk is one of the four starter weapons obtained by getting level 2 (50 echos) on the "Advanced Weapons" [Echoes](Echoes.md) Upgrade.
 
-Deals 16.5 Damage with 3 Medium Weapon scaling, totaling to 21.45 Dmg at 100 MED.
-
 ## Trivia
 
+-   At max MED the damage is (20.2)
 -   One of two spears to have no requirement, the other being the [Iron Spear](Iron_Spear.md).

@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 79437
+revid: 96314
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -31,4 +31,5 @@ The Iron Spear is a MED weapon that can be bought for 25 Notes at the weapon sto
 
 ## Trivia
 
+-   At max MED, the damage is (20.2)
 -   One of two spears to have no requirement, the other being the [Irontusk](Irontusk.md).

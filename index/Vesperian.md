@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 91831
+revid: 96321
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -119,3 +119,4 @@ A Vesperian with Blindseer
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
 -   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesparian](Primal_Vesperian.md) race as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask.
+-   The six-eyed variation of the mask may be a reference to the mask worn by Lilith from Neon Genesis Evangelion, or a reference to [bugs](https://en.wikipedia.org/wiki/Insect) from real life.

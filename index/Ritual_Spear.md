@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 92595
+revid: 96316
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -35,6 +35,8 @@ The weapon itself is very similair to the [Iron Spear](Iron_Spear.md), having th
 
 ## Trivia
 
+-   Meeting the requirement of MED, the damage is (21.5)
+-   At max MED, the damage is (26.1)
 -   The [Etrean Guardsmen](Etrean_Guardsmen.md) and occasionally the [Legion Captain](Legion_Captain.md) use this weapon.
 
 ## Gallery
