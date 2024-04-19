@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 95949
+revid: 96392
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -144,6 +144,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Shattered Katana](Shattered_Katana.md)
 -   [Forgotten Gladius](Forgotten_Gladius.md)
 -   [Pale Morning](Pale_Morning.md)
+-   [Anklets of Alsin](Anklets_of_Alsin.md)
 -   [Alloyed Katana](https://deepwoken.fandom.com/wiki/Katana?so=search#Alloyed)
 -   [Alloyed Dawnshot](https://deepwoken.fandom.com/wiki/Dawnshot?so=search#Alloyed)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)

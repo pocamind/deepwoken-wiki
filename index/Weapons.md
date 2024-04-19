@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 96307
+revid: 96380
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2217,7 +2217,7 @@ Weapons that are exclusive for special people.
 
 This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers).
 
--   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.075)\]} + BaseDamage
+-   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
 
 _[Damage calculator (Single Attribute Scaling weapons)](https://www.desmos.com/calculator/boe1cx95jl)_
 

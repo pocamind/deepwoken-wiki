@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 95325
+revid: 96386
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -135,7 +135,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 
 ## Death Quotes
 
--   -   ahem\*
+-   \*ahem\*
 -   Yikes?
 -   This is normal for you? Cool.
 -   Ok, back to the dog race.
@@ -199,6 +199,8 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   The name "Destroyman III" is a reference to the character [Destroyman](https://nomoreheroes.fandom.com/wiki/Destroyman), a character in the video game series _No More Heroes_.
 -   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
 -   The tooltip: "Moe..." is a reference to [Travis Touchdown saying the same line in his morning routine](https://www.youtube.com/watch?v=TQ3lh97fDVY) in _No More Heroes_.
+-   The death tooltip "I'm using tilt controls!" is a reference to _Mario Kart 8 Deluxe_, specifically its Online Play mode where there's a preset text command of the same thing. It's typically used to insult other players.
+    -   You're being insulted by Destroyman III. How do you feel about that?
 -   We love Destroyman III. You love Destroyman III.
 -   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can't legally steal from you without your consent.”
 -   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of Youtubers having sponsored ad segments following this template in their videos, with some of the most well-known being NordVPN, Raid: Shadow Legends, HelloFresh, Skillshare, Brilliant, and many more.
@@ -212,4 +214,5 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.
--   Destroyman III was turned into a plush through the 'Crowdfunded Murchendice Campaign' played out by the Drowned God Murchendice.
+-   Destroyman III was ~turned into a plush~ granted a physical form through the 'Crowdfunded Murchendice Campaign' played out by the Drowned God Murchendice.
+    -   As seen by the poll in the Deepwoken Discord server, Murchendice let the community vote on who would become the next victim of their schemes to grant Deepwoken characters physical form. The one that won out in the end was Duke Erisia, and since the vote's results came through, has gone entirely missing.
