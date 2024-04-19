@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 95841
+revid: 96366
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -61,14 +61,14 @@ Do not be deceived by these stats, though. The Enforcer's true danger lies not f
 
 ### In General
 
--   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
+-   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s. However, it is still possible to stun it if you can block-break it.
 -   The biggest thing about The Enforcer is the feints, when it does this, dodge. Unlike what the last version stated, dodging is fairly productive at saving yourself the posture. Blocking also suits as a viable method, but the recommendation is to dodge.
 -   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch as much as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 17+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
 -   You shouldn't move away for most of its attacks. The Space Pull can easily catch you off guard, as it is simply black and white lines which propel you towards the Enforcer quickly. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal high damage and will usually posture break it, allowing you to hit it freely for a moment. Be wary on your timing though, as you won't want to be stuck charging a critical while it's Whirlwinding you.
 -   While not recommended, beating The Enforcer while level 17, or earlier, is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check.[\[1\]](#cite-note-1)
 -   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead. If you have a ranged attack, go ahead and use it for some extra damage. If you have predict with the talent that allows you to defend multi-hit moves, use that instead.
--   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block or dodge the attacks.
+-   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block or dodge the attacks. Using mix-ups (weapon critical/mantras) can help to deal better damage to it.
 -   Instead of holding block after every attack you do, you shouldn't attack unless you have parried his axe. It is the wisest method of going about killing the Enforcer, because attacking while the Enforcer is attacking is counterintuitive.
 -   Avoid getting posture broken at all costs. A single whirlwind while stunned could be lethal.
 
@@ -88,7 +88,7 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 
 ## Trivia
 
--   All of The Enforcer's damaging attacks are parryable, and blockable.
+-   All of The Enforcer's damaging attacks are parryable, and blockable, which is ironic as it uses a Heavy Weapon which can block break regardless of the variant.
 -   The Enforcer can also be found in the Trial of One.
 -   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest or use consumables (or ranged mantras).
 -   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.

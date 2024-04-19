@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 96346
+revid: 96361
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,9 @@ Colloquially known as the "Broodskipper"Template:Creature Infobox V3
 
 ## Description
 
-A more sigma variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more intelligent, capable of using their fellow Mudskippers as tools. Noticeable thanks to their purple hue.
+A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more intelligent, capable of using their fellow Mudskippers as tools. Noticeable thanks to their purple hue. May have gone insane due to the increased exposure to the Scyphozia.
+
+They also inflict heavy Antiheal similar to the talent "All the Dead Gods," whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Moveset
 
@@ -29,12 +31,12 @@ A more sigma variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear
 
 | Name | Description | Danger |
 | --- | --- | --- |
-| Depths-Melded | Upon striking an enemy, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. | (★★★★) |
+| Depths-Melded | Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. | (★★★★) |
 | Bulldozer | Getting hit against a wall causes the target to get guard-broken | (★★☆) |
 
-## Advices
+## Tips
 
--   usually after 3-4 hits the mudskipper uses his critical hit
+-   Usually, after 3-4 jabs, they will use a move.
 
 ## Trivia
 

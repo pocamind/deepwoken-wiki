@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 96128
+revid: 96368
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -56,4 +56,4 @@ The Dawnshot is a midgame gun, which can be obtained through the [First Layer](F
 -   At max LHT, the damage is (26.6)
     -   At max LHT, the alloyed damage is (30.4)
 -   The Dawnshot is the only gun to possess chip damage and penetration.
--   The Dawnshot is the only alloyable pistol / gun in the game.
+-   The Dawnshot is the only alloyable pistol / gun in the game. It is also the only weapon to lack any description.

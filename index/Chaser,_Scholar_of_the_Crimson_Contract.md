@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 94754
+revid: 96359
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -210,6 +210,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed. However he cannot use them.
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
+    -   He is still viewed as the easiest boss ingame, due to his insanely predictable attacks with loud sound queues, with his only troublesome move being the stalagmites as they stall the fight and are RNG.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, finally despawning.
 -   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an Oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
 -   It seems **Powerful Blood Appendage** cannot be parried while wearing **[Ignition Deepdelver](Ignition_Deepdelver.md)**. (Someone please test this further for the timings may have been wrong.)
@@ -223,6 +224,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   His hair ID is 77799954 & the beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
+-   Due to Chaser's attacks ignoring Elemental damage resistance, the only threat he presents to W Rank players is Doubled Damage from Fragileheart.
 
 ## References
 

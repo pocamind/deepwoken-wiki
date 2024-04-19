@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 96345
+revid: 96371
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,11 +8,11 @@ categories: [Pages with broken file links, Monsters]
 
 # Mudskipper Brute
 
-_Also known as "Bruteskipper", "Miguel", "Mahoraga", "Mudhoraga" and "Skibidi Toilet"._Template:Creature Infobox V3
+_Also known as "Bruteskipper" or "Miguel". JJK addicts call him "Mahoraga"._ Template:Creature Infobox V3
 
 ## Description
 
-The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), boasting higher innate stats, a wider moveset, and a unique, beefy pectoral body. The [Mudskipper Broodlord](Mudskipper_Broodlord.md) is a more powerful variant of this monster.
+The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), boasting higher innate stats, a wider moveset, and a unique, beefy pectoral body. The [Mudskipper Broodlord](Mudskipper_Broodlord.md) is a more powerful variant of this monster. It showcases one of the pinnacles of dangerous mobs, being much more dangerous than [Skibidi Sigmas](Mudskipper.md)
 
 ## Moveset
 
@@ -47,7 +47,7 @@ File:Mudskipper Brute Slamdown.gif
  | Leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable slam. This move autogrips knocked enemies. | X | X | ◯ | (★★★) |
 | 
 
-**Call of Miguel**
+**Call of the Horde**
 
 File:Mudskipper Brute Roar.gif
 
@@ -59,5 +59,4 @@ File:Mudskipper Brute Roar.gif
     -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release.
 -   This mob can summon a normal green mudskipper, which is a new color.
 -   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from The Last of Us.
--   The mob design could be inspired by the Bloater from The Last of Us.
-    -   Despite popular belief, the Mudskipper Brutes were not inspired by Mahoraga from Jujutsu Kaisen
+-   The mob design could also be inspired by the Bloater from the same game.

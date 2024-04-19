@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 93896
+revid: 96369
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -144,6 +144,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Frostdraw → _use the **Hemafrost**_
 -   Shadowcast → _use the **Pure Heart**_
 -   Ironsing → use the _**Ferrofluid**_
+-   Additionally, you can gain EXP on attunements by doing events/random encounters (needs confirming)
 
 ### **Flamecharm**
 
