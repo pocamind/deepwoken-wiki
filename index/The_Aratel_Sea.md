@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 86270
+revid: 96544
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -46,6 +46,7 @@ The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), wi
 -   Damaged Ship w/ [Megalodaunt](Megalodaunt.md)
 -   Thunderstorm
 -   Bandit Tower
+-   Islands/Outposts
 
 ## Trivia/Notes
 

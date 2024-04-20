@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 95068
+revid: 96547
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -89,6 +89,8 @@ Training Hall
 
 An arena meant for dueling your guild members. This room is purely cosmetic.
 
+[Attribute Training Items](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Training) are sold in this room.
+
  |
 | 
 
@@ -157,6 +159,8 @@ Song Room
  | 
 
 Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras. The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.
+
+[Attunment Training Items](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Attunement_Training) are sold in this room
 
  |
 | 

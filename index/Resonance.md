@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 94711
+revid: 96549
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -180,7 +180,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <ul>
     <li><b><a href="Primadon,_Titan_of_the_East.md">Primadon</a></b> has been deemed less reliable to fight by the community upon the drop of <b><a href="Verse_2.md">Verse 2</a>.</b> While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. <b>Side: Primadon now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
   </li>
-    <li><b><a href="Enforcer.md">The Enforcer</a></b> is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wipe from disconnect or being jumped in your trial is still a very real possibility.<br>
+    <li><b><a href="Enforcer.md">The Enforcer</a></b> is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.<br>
   </li>
     <li><b><a href="Stone_Knight.md">Blizzard Knights</a></b> are, by far, one of the worst methods of getting Progress. They spawn in a <a href="Voidzones.md">voidzone</a> known as the <a href="The_Valley_of_Heroes.md">Valley of Heroes</a> in highly lethal swarms, during Winter in <a href="Minityrsa.md">Minityrsa</a>, and if that wasn't enough, they give almost no Progress... However, they can provide you with <a href="Hero_Blades.md">Hero Blades</a> if you're interested in getting one.<br>
   </li>

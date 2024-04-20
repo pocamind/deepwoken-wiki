@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 96533
+revid: 96548
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -41,12 +41,12 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). After getting shot at five times, the next stage of orbs will initiate. When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
 
-**Weakened Mudskipper Brute:**
+**Weakened Megalodaunt:**
 
   
 **"When faced against a terrifying foe, do you cower or rise to face it?"**
 
-Fight as if it were a regular [Mudskipper Brute](Mudskipper_Brute.md), albeit with caution. It has less health, but you are still only level 1. 350 HP. (22 sword hits)
+Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 1. 350 HP. (22 sword hits)
 
 **Weakened Rock Golem:**
 

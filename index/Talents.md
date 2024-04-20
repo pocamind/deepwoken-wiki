@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 96525
+revid: 96558
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -286,9 +286,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Low Blow \[Common Talent, Agility\] - Those you assassinate are slowed and unable to jump for 3s. (+1 Passive Agility)
     -   Prerequisites: 60 Agility, Deep Wound
 
--   Lowstride \[Common Talent, Agility\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive form crouching is much smaller. You now draw and sheathe your weapon silently. (+1 Passive Agility)
+-   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   When you pull out or put away your weapon, it doesn't make noise.
     -   Prerequisites: 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. Assassinating an opponent now blinds them for 5s. (+1 Passive Agility)
@@ -709,7 +708,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusive: Million Ton Piercer
 
 -   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
-    -   Prerequisites: 60 [Element](Attunements.md)
+    -   ~Prerequisites: 60 [Element](Attunements.md)~ Elemental Rebound is innate now.
 
 ### Empath
 

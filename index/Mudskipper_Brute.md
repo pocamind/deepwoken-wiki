@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 96539
+revid: 96571
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -47,7 +47,7 @@ File:Mudskipper Brute Slamdown.gif
  | Leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable slam. This move autogrips knocked enemies. | X | X | ◯ | (★★★) |
 | 
 
-**Call of the Horde**
+Call of Miguel
 
 File:Mudskipper Brute Roar.gif
 

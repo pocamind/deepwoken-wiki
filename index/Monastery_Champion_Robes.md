@@ -1,6 +1,6 @@
 ---
 title: Monastery Champion Robes
-revid: 96481
+revid: 96574
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Arms]
@@ -21,7 +21,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest |
+| obtainment | Chests from:, Maestro Evengarde Rest, Etris: Siege |
 | description | ... |
 
 ## Description

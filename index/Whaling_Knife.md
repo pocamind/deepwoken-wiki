@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 96106
+revid: 96554
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -25,7 +25,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chest from:, Knives of Eylis Events, Duke Erisia, Deep Widow, Primadon, Layer 1 |
+| obtainment | Chest from:, Knives of Eylis Events, Duke Erisia, Deep Widow, Primadon, Layer 1, Maestro Evengarde Rest |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
 
 | Alloyed Whaling Knife | |
