@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 95952
+revid: 96518
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -39,9 +39,6 @@ The Requirement to use this weapon is :
 
 1.  85 Heavy Weapon
 2.  Lvl 10
-    
-    Pale Briar
-    
 
 ## Critical
 
@@ -49,6 +46,10 @@ pale briar crit
 
   
 **The Critical has a cooldown of 10s.**
+
+Pale Briar with Storm
+
+Pale Briar with Astral
 
 ## Trivia
 

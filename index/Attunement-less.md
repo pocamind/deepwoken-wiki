@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 95808
+revid: 96534
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -300,7 +300,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
     -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
         -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 2 insanity (shivering)
     -   Upgrading this Mantra extends the duration.
-    -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
+    -   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), having higher willpower than the caster (Willpower stat).
 
  |
 | 
@@ -598,4 +598,5 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
     -   Strong Left used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a strong left hit.
 -   Rapid Slashes is Vergil's move from Devil May Cry series.
--   Revenge have it sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
+-   Revenge has its sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
+-   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance Ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them.

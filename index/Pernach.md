@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 96496
+revid: 96541
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -19,13 +19,13 @@ categories: [Weapons, Clubs]
 | penetration | 30% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
-| selling price | N/A |
+| selling price | 25 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Duke Erisia, Minityrsa, False Merchant Ship |
+| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Burning Blood, The Diluvian Mechanism, Erisia, Minityrsa, False Merchant Ship |
 | description | ... |
 
 ## Description

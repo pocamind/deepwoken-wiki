@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 96264
+revid: 96520
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,8 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 
 -   It is recommended to kill [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) first, [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) second, and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) last, due to their locations.
 -   Starkindred's mantras scale with Strength.
--   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain, they also have a long history of bloodshed in the name of their faith.
+-   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
+    -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 -   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
@@ -95,7 +96,4 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   The Starkindred Mantra "Ascension" shares similar effect with the winged attack of the Crucible Knights in Elden Ring.
 -   Ascension and Sinister Halo are both extremely similar to the moves "Winger" and "Tandem Top" both used by Millia Rage in fighting game series Guilty Gear.
 -   Using the canteen, you can collect and drink the ichor of the celestial. However, this does not do anything besides make you vomit.
-    
-    One-winged version of the Starkindred wings.
-    
-    Typing "I will never be a memory" in the chat before summoning your wings will make you have one wing only. This is a reference to a line said by the main antagonist of _Final Fantasy 7_, Sephiroth, during Advent Children and his reveal trailer for _Super Smash Bros. Ultimate_. It can be cancelled by saying it again.
+-   Typing "I will never be a memory" in the chat before summoning your wings will make you have one wing only. This is a reference to a line said by the main antagonist of _Final Fantasy 7_, Sephiroth, during Advent Children and his reveal trailer for _Super Smash Bros. Ultimate_. It can be cancelled by saying it again.

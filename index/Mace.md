@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 92494
+revid: 96521
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -15,7 +15,7 @@ categories: [Weapons, Clubs]
 | scaling | 5 |
 | range | 7.5 |
 | swing speed | 0.7x |
-| penetration | 0 |
+| penetration | 5% |
 | selling price | 16 |
 | weight | 6 |
 | bankable | Yes |
@@ -33,4 +33,4 @@ The **Mace** is a medium weapon that does blunt damage, it is sold at the Weapon
 
 -   Obviously superior compared to the [Messer](Messer.md).
 -   Good for fighting [Golems](Rock_Golem.md) early on due to the lack of blunt damage resistance.
--   The swing animations for this and the [Sacred Hammer](Sacred_Hammer.md) seem to reuse some of the old Sword animations from Deepwoken testing (around mid-late 2020)
+-   The swing animations for this and the [Sacred Hammer](Sacred_Hammer.md) seem to reuse some of the old Sword animations from Deepwoken testing (around mid-late 2020).

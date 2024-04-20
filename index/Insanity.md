@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 93396
+revid: 96526
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -67,7 +67,3 @@ Said "Blue Hue" and "New Motifs"
     -   "SO MUCH TERROR"
     -   "THERE ARE NO GODS"
     -   "HELP ME"
-
-## Gallery
-
-The effects of insanity lessening.

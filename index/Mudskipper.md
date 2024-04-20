@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 95969
+revid: 96522
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -263,7 +263,7 @@ Template:Creature Infobox V3
 
 Enemies that are summoned to fight the weak during The Depths, or rising from the graves of the [Burning Stone Gardens](Burning_Stone_Gardens.md) in groups of 4-5. They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
 
-They can be encountered in The Depths (Trial) while the character's power is between 3 - 6 (?).
+They can be encountered in The Depths (Trial) while the character's power is between 4 - 6 (?).
 
 ## Moveset
 
