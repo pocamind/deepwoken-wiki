@@ -1,6 +1,6 @@
 ---
 title: Crafting Station
-revid: 58352
+revid: 96480
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics]
@@ -33,6 +33,7 @@ A few items you build here must be learned with a Schematic.
 
 -   Next to the fishmonger's settlement @ [Etris Docks](Etris_Docks.md)
 -   Within the General store @ [Etris](Etris.md)
+-   Within the Blacksmith @ [Etris](Etris.md)
 
 ### [Isle of Vigils](Isle_of_Vigils.md)
 

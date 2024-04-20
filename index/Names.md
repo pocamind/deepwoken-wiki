@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 96034
+revid: 96440
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1602,6 +1602,7 @@ You can choose your first name from any available, but your choices of last name
 -   The name Minos is also a reference to Greek mythology.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
+-   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in.
 
 ## References
 

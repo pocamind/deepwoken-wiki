@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 96380
+revid: 96505
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -40,14 +40,14 @@ All weapons within the game have chances of being found with (or without) differ
 
 -   21 Swords (26 if Alloyed)
 -   12 Spears (14 if Alloyed)
--   2 Clubs
+-   5 Clubs
 -   3 Rifles
 
 #### Heavy
 
 -   12 Great Axes (15 if Alloyed)
 -   11 Great Swords (15 if Alloyed)
--   9 Great Hammers (10 if Alloyed)
+-   10 Great Hammers (11 if Alloyed)
 
 #### Others
 
@@ -1161,6 +1161,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -1171,6 +1172,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><a href="Mace.md">Mace</a></td>
   <td>10 MED</td>
   <td>20</td>
+  <td>5%</td>
   <td>N/A</td>
   <td>MED: 5</td>
   <td>6</td>
@@ -1179,15 +1181,52 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>30.4</td>
 </tr>
 <tr>
+  <td><a href="Toothed_Club.md">Toothed Club</a></td>
+  <td>30 MED</td>
+  <td>15</td>
+  <td>10%</td>
+  <td>5%</td>
+  <td>MED: 5</td>
+  <td>6</td>
+  <td>7.5</td>
+  <td>0.74x</td>
+  <td>29.7(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="Morning_Star.md">Morning Star</a></td>
+  <td>50 MED</td>
+  <td>16</td>
+  <td>20%</td>
+  <td>20%</td>
+  <td>MED: 5.5</td>
+  <td>5</td>
+  <td>7.5</td>
+  <td>0.74x</td>
+  <td>32.7(<b>Bleed</b>)</td>
+</tr>
+<tr>
   <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
   <td>65 MED</td>
   <td>19.5</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>MED: 7</td>
   <td>5</td>
   <td>7.5</td>
   <td>0.73x</td>
   <td>33.7</td>
+</tr>
+<tr>
+  <td><a href="Pernach.md">Pernach</a></td>
+  <td>75 MED</td>
+  <td>17</td>
+  <td>30%</td>
+  <td>10%</td>
+  <td>MED: 6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.74x</td>
+  <td>35.9(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -1781,6 +1820,19 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>47.7</td>
 </tr>
 <tr>
+  <td><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></td>
+  <td>75 HVY, 20 STR</td>
+  <td>26</td>
+  <td>20%</td>
+  <td>10%</td>
+  <td>HVY: 9</td>
+  <td>13</td>
+  <td>9</td>
+  <td>0.55x</td>
+  <td>0.1s</td>
+  <td>50.4</td>
+</tr>
+<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Steel_Maul#Alloyed"><font>Alloyed Steel Maul</font></a></td>
   <td><font>75 HVY</font>, 10 STR</td>
   <td><font>24</font></td>
@@ -1963,9 +2015,9 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher</font></a></td>
-  <td>75 MTL, 60 MED,</td>
+  <td>75 MTL, 40 MED,</td>
   <td>18</td>
-  <td>15%</td>
+  <td>20%</td>
   <td>MTL: 4 MED: 3</td>
   <td>4</td>
   <td>8</td>
@@ -2255,7 +2307,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Penetration: Shattered Katana/First Light/Nemit's Sickle/Kyrsedge/Kystreza/Flareblood Kamas (30%)
     -   Chip damage: Night Axe (80%)
     -   Scaling: Revolver, Divine Flintlock (15)
-    -   Weight: Enforcer’s Hammer, Stoneheart (12)
+    -   Weight: Sovereign's Punishment (13)
     -   Range: Revolver, Divine Flintlock (12)
     -   Swing Speed: Divine Flintlock (1.3x)
     -   Highest DPS: Divine Flintlock

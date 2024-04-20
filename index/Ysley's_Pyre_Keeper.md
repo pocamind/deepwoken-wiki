@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96348
+revid: 96447
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -29,19 +29,20 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar pivot dagger. It can be obtained when you help out Hive in the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - Keep in mind that this weapon has a very low drop rate from this method (speculated to be .001%) - and it also drops from [Primadon](Primadon,_Titan_of_the_East.md) (Gem chest). It scales off Flamecharm alongside Heavy.
+Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar pivot dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - The drop rate of this weapon is extremely low from these sources. (speculated to be .001%) - It can drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest). It scales off [Flamecharm](Flamecharm.md) and Heavy, however attacks that utilize the dagger scale with light weapon.
 
 The Pyre Keeper comes with the following passives:
 
 -   **Lifelord's Blaze:** M1 attacks spawn green yellow-ish flames on hit that cut the target's mobility in half.
+-   **Dual Scaling M1s:** M1 or critical attacks that swing with the dagger scale off light weapon rather then heavy.
 
-## Critical
+## M1s & Critical
 
 -   **Aerial**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect.
-    -   While blocking the first attack, you get guardbroken.
+    -   While blocking the second attack, you get guardbroken.
 -   **Normal:** Does 3 slashes (1 slow and 2 fast) while all of them inflict the yellow green-ish burn effect. Aftereffect of the critical is a major speed boost.
 -   **Running:** Does a short-ranged dash forward with the blade facing forward and does a combo of grabbing, ragdoll swinging and dazing the player.
--   **Sliding:** Leap into the air and slash it into a flurry of 3 blows.
+-   **Sliding:** Leap forward slashing with a flurry of 3 blows.
 -   **Crouching:** Does the same as the normal crit but sped up significantly.
 
 ## Trivia

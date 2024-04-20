@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 96191
+revid: 96462
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1351,8 +1351,8 @@ N/A
     -   Although the **Fire Palm** mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
 -   Although the **Flame Blind** mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
 -   The **Fire Gun** mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
--   The **Flaming Scourge** mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
--   The **Flame Ballista** mantra is inspired off the [Fire Arrow](https://jujutsu-kaisen.fandom.com/wiki/User_blog:WanderingAsura/Sukuna%27s_Fire_Arrow) that **Sukuna** uses in **Jujutsu Kaisen**, as well as [Ignited Arrow](https://myheroacademia.fandom.com/wiki/Ignited_Arrow), one of [Endeavor](https://myheroacademia.fandom.com/wiki/Enji_Todoroki)'s moves in **My Hero Academia**.
+-   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
+-   The **Flame Ballista** Mantra is Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "Meteor Impact" on another Flamecharm user who also has the talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
@@ -1375,3 +1375,4 @@ N/A
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=USPLPJLZQiw](https://www.youtube.com/watch?v=USPLPJLZQiw)
 2.  [↑](#cite-ref-2) With the opponent having 42 Posture and Murmur: Ardour, they will receive 96% of their posture.
+3.  [↑](#cite-ref-3)
