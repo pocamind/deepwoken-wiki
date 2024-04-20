@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 94605
+revid: 96396
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Eastern Luminant]
@@ -25,7 +25,7 @@ Kressa is an NPC located in [Miner's Landing](<Miner's_Landing.md>), in a room a
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The tall Khan woman is investigating some sort of document, sighing heavily with each flip.*</i>. Shipment A-45: delayed. Shipment B-23: cancelled. Shipment B-24: lost cargo... gods, we can't catch a break.</td>
+  <td colspan="12"><i>*The tall Khan woman is investigating some sort of document, sighing heavily with each flip.*</i> Shipment A-45: delayed. Shipment B-23: cancelled. Shipment B-24: lost cargo... gods, we can't catch a break.</td>
 </tr>
 <tr>
   <td colspan="11">Shipments? What's going on?</td>

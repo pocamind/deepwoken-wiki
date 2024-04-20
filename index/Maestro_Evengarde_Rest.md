@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 96392
+revid: 96405
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -71,7 +71,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Triggered by spitting on him **at any point**.
     -   Spitting on him with 50+ Charisma will stay his hand and prevent instant death, but interacting with him to start the fight will result in him using the attack.
 
- | ✗ | ✗ | ✗ | (★★★★) |
+ | ✗ | ✗ | ✗ | (☠) |
 
 ## Finisher
 

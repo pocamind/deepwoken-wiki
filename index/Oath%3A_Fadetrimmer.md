@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 94947
+revid: 96411
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -41,7 +41,7 @@ File:FadeTrimmer.png
 
 ## Upgrading
 
-This oath is fully upgraded once it is obtained.
+Unlike most oaths, Fadetrimmer mantras are able to be upgraded to level 5. Every 10 hairstyle changes at a barber (cannot be in a guild base) allows you to level them up once.
 
 ## Abilities
 
