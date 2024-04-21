@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 95293
+revid: 96618
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -60,6 +60,8 @@ Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. Sibe
 ### **Worthy**
 
 Grants unique diologue with The Legendary Boot.
+
+"The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 
 ## Trivia
 

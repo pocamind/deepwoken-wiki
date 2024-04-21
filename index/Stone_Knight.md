@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 95130
+revid: 96619
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
 Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). Blizzard Knights can only spawn in from falling meteors, while the Desert Knights can spawn in randomly or from a falling meteor. Another variant, the Star Knight, can be encountered in a rare event, the [Resonant Dawn](Random_Encounters.md#resonant-dawn), where defeating it will reward the player with a random Resonance, regardless of their bell progression, as well as with the coveted [Astral](Enchantments.md) [Enchant Stone](Enchant_Stone.md).
 
-**Desert Knight:**
+**Stone Knight:**
 
 Template:Creature Info Box v2
 
@@ -146,7 +146,7 @@ A Stone Knight executes the player:
 
  | Slowly walks toward the player and then slashes the player with their sword, dismembering and killing them instantly. |
 
-**Star Knight:**
+**Astral Knight:**
 
 Template:Creature Info Box v2
 

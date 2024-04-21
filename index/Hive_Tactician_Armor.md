@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 90337
+revid: 96615
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits]
 
 # Hive Tactician Armor
 
-Template:ArmorInfobox**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.[Towerstruck Lands](Towerstruck_Lands.md)
 
 ## Statistics
 
@@ -31,6 +31,7 @@ This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemen
 
 This Outfit's Schematic can be found in:
 
+-   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Minityrsa](Minityrsa.md)

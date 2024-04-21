@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 95448
+revid: 96597
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -33,26 +33,26 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 
 ### **Armor Schematics:**
 
--   [Mercenary Armor](Hired_Mercenary.md) ( )
+-   [Hired Mercenary](Hired_Mercenary.md) ( )
 -   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
 -   [Hired Mercenary](Hired_Mercenary.md) ( )
 -   [Eager Tradesman](Eager_Tradesman.md) ( )
--   [Merchant Robe](Merchant_Robes.md) (?? )
--   Authority Uniform ( )
+-   [Merchant Robes](Merchant_Robes.md) ( )
+-   Authority Peacekeeper Armour ( )
 -   [Authority Commander Uniform](Authority_Captain_Uniform.md) ( )
--   [Diver Apprentice](Diver_Apprentice_Robes.md) (?? )
+-   [Diver Apprentice](Diver_Apprentice_Robes.md) ( )
 -   [Hive Drone](Hive_Drone.md) ( )
--   [Ignition Coat](Ignition_Union_Uniform.md) (?? )
+-   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
 -   [Keeper](Keeper.md) ( )
--   [Legion Centurion](Legion_Centurion.md) (?? )
+-   [Legion Centurion](Legion_Centurion.md) ( )
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )
 -   [Duelist's Attire](<Duelist's_Attire.md>) ( )
--   [Vigil Cloak](Cloak_of_Winds.md) (80 )
--   [Tactician](Hive_Tactician_Armor.md) ( )
--   [Pathfinder Journeyman](Pathfinder_Cloak.md) ( )
+-   [Cloak of Winds](Cloak_of_Winds.md) ( )
+-   [Hive Tactician Armor](Hive_Tactician_Armor.md) ( )
+-   [Pathfinder Cloak](Pathfinder_Cloak.md) ( )
 -   [Whaler Coat](Whaler_Coat.md) ( )
--   [Pathfinder Sorcerer](Pathfinder_Arch-Sorcerer.md) ( )
--   [Flame Worshipper](Flame_Worshipper_Armor.md) ( )
+-   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) ( )
+-   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) ( )
 -   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
 -   [Cloak of Winds](Cloak_of_Winds.md) ( )
 

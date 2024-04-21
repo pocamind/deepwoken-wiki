@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 96201
+revid: 96590
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,13 +21,13 @@ notices:
 
 ## Description
 
-The Hive is a faction that operates in their territory [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. Which can only be accessed through washing your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) before using the shrine teleporter.
+The Hive is a faction that operates within large trees known as Greathives. An example of these is the relatively new [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. It can only be accessed through washing your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) before using the shrine teleporter.
 
-The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md), also known as the Hivelords. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating and advancing the Hive.
+The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md). They are ruled by an overarching Greatlord who delegates the management of each Greathive to their respective Hivelords. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating and advancing the Hive.
 
-The Hive uses an unobtainable attunement known as Lifeweave, which is the transfer of life and is used to create and power [Hive Constructs](Hive_Construct.md), and the teleporting fountains in the East Luminant. In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels, showing off how technologically advanced this faction is.
+The Hive uses an unobtainable attunement known as Lifeweave, which allows them to transfer life energy for a variety of applications, such as creating organic technology in the form of [Hive Constructs](Hive_Construct.md), and for being used to power devices, such as the teleporting fountains in the East Luminant. In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels. While they are extremely far behind in "conventional" technology, their ability to tap into the biotech niche allows them to compete with other factions.
 
-They frequently get into battles with [Etrea](Etrea.md), who attempt to steal their Lifeweaving artifacts at Lord Regent's request.
+They frequently get into battles with [The Kingdom of Etrea](Etrea.md), who attempt to steal their Lifeweaving artifacts for unknown reasons.
 
 ## Reputation
 

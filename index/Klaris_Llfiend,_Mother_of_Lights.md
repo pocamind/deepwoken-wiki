@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 95830
+revid: 96593
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -188,7 +188,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
 -   The name Klaris is likely derived from the French name Claris, which fittingly means "bright" or "clear."
--   According to Arch\_mage, Klaris is buff. [\[5\]](#cite-note-5)
+-   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
 
 ## Footnotes
 

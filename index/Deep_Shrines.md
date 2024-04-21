@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 95295
+revid: 96617
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 
 ## Limitations
 
-**Deep Shrines** can only be interacted with after approximately 10~ minutes of spawning, so trying to Deepbound and do it won't work.
+**Deep Shrines** can only be interacted with after approximately 10~ minutes of spawning, so trying to Deepbound won't work.
 
 ## Shrines
 

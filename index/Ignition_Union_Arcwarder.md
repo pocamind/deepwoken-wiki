@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 96039
+revid: 96581
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**_This article refers to the Arcwarder NPC. For the Oath page, please go [here](Oath%253A_Arcwarder.md) ._ Arcwarders** are [Ignition Union](The_Ignition_Union.md) members that are tied to their own oaths. They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
+**Ignition Union Arcwarders** are [Ignition Union](The_Ignition_Union.md) members that are tied to their own Oaths. They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
 
 ## Moveset
 
-An Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md):
+An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md):
 
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ An Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [
 
 ## Trivia
 
--   Their Arc Suit eventually deactivates, which reveals them wearing the [Igniton Union Uniform](Ignition_Union_Uniform.md).
+-   Their Arc Suit eventually deactivates, which reveals them wearing the [Ignition Union Uniform](Ignition_Union_Uniform.md).
 -   For some really bizarre reason, they could wield **enchanted** [Railblades](Railblade.md) when Railblades were still Legandary weapons, which wasn't possible for players during that time.[\[1\]](#cite-note-1)
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Black Divers](<Black_Diver_(NPC).md>), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
 

@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96576
+revid: 96605
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | damage | 23 |
 | scaling | HVY: 5, FIR: 6 The second M1 on Ysley's Pyre Keeper now scales with LHT |
 | range | 8 |
-| swing speed | 0.7x |
+| swing speed | 0.68x |
 | penetration | 15% |
 | special effect | Spawns green flames on hit that cut the target's mobility in half. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -47,7 +47,7 @@ The Pyre Keeper comes with the following passives:
 
 ## Trivia
 
--   This weapon was hidden from testers before release, making it extremely unbalanced and overpowered.
+-   This weapon was hidden from testers before release.
 -   The weapon is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_, an arsenal consisting of a large greatsword and an accompanying dagger to use as a pivot for more acrobatic attacks to disorientate foes, as well as grip into their flesh to prevent prey running away. Its fire-infused state is a reference to the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) who, as Lords of Cinder, imbue their form and weapon with fire in the second phase of their fight.
 -   It is the weapon with the widest stat requirements, Heavy, Flamecharm and Light as well as the first to "count as two" weapons.
 -   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md) at the time, and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
@@ -57,4 +57,4 @@ The Pyre Keeper comes with the following passives:
 -   This Weapon is also named "Callow & Verdant"
 -   It is one of eight weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)
     -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
--   This weapon has hidden from testers by yayafino, leading into an extremely overpowered release and subsequently it receiving harsh nerfs a day later.
+-   This weapon was hidden from testers by yayafino, leading into an unbalanced release and subsequently it receiving reasonable nerfs a day later.
