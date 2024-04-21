@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 96518
+revid: 96725
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -26,6 +26,8 @@ categories: [Weapons, Greataxes]
 | pass down | Yes |
 | obtainment | Beating Maestro W/ heavy wep |
 | description | "Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church." |
+
+Pale Briar with Grim
 
 ## Description
 

@@ -1,11 +1,9 @@
 ---
 title: Monastery Cowl
-revid: 96572
+revid: 96708
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Head, Cowls]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Head, Cowls]
 ---
 
 # Monastery Cowl
@@ -13,10 +11,12 @@ notices:
 | Monastery Cowl | |
 |---|---|
 | type | Head |
-| rarity | ??? |
-| requirements | ??? |
+| rarity | Legendary |
+| selling price | 50 |
+| requirements | None |
 | weight | 1 |
-| innate stats | ??? |
+| innate stats | 5% Stealth, ? Rare Pips |
+| innate talent | Blade Dancer |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,8 +26,9 @@ notices:
 
 ## Description
 
-The Monastery Champion Cowl is an [Equipment](Equipment.md) item under the "Head" category.
+The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 5% Stealth, some Rare Pips and the [Talent](Talents.md) "Blade Dancer", which removes your roll's cooldown upon landing an M1. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
 
 ## Trivia
 
--   The Monastery Champion Cowl is part of the "Monastery Champion" set; with the other pieces being the Monastery Champion Beads and [Monastery Champion Robes](Monastery_Champion_Robes.md).
+-   The Monastery Cowl is part of the "Monastery Champion" set, with the other pieces being the Monastery Champion Beads and [Monastery Champion Robes](Monastery_Champion_Robes.md).
+    -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.

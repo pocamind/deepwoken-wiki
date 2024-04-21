@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 88653
+revid: 96704
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles]
@@ -19,7 +19,7 @@ categories: [Weapons, Rifles]
 | endlag | N/A |
 | penetration | N/A |
 | chip damage | N/A |
-| special effect | Shoots a ranged projectile, then swings the rifle |
+| special effect | Shoots, then swings the rifle. |
 | stances | 2 Handed |
 | weight | 3 |
 | bankable | Yes |
@@ -36,5 +36,6 @@ Rosen's Peacemaker is a Medium Weapon for the Verse 2 content update. It is amon
 ## Trivia
 
 -   First shown in combat in Agamatsu's 1v1 between him and Nuttoons.
--   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.
+-   The critical's speed is very similar to the regular swingspeed.
 -   The maker of both the [Iron Blunderbuss](Iron_Blunderbuss.md) and the Rosen's Peacemaker is [Gunsmith Rosen](Lore.md).
+-   The Rosen's Peacemaker is theoretically a worse Rifle Spear, as it doesn't fire projectiles on the M1's and rather just the critical attack, while having less range and damage than the Rifle Spear.

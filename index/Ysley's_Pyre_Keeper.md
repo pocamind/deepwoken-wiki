@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96687
+revid: 96728
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -16,7 +16,9 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
 | swing speed | 0.68x |
+| endlag | 0.00s |
 | penetration | 15% |
+| chip damage | 0% |
 | special effect | Spawns green flames on hit that cut the target's mobility in half. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 5 |
@@ -24,12 +26,12 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Starswept Valley, Calamus, Primadon (Gem chest) |
+| obtainment | Chests From:, Starswept Valley, Primadon (Gem chest) |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. |
 
 ## Description
 
-Ysley's Pyre Keeper is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - The drop rate of this weapon is extremely low from these sources. It can also drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest). It scales off [Flamecharm](Flamecharm.md) and Heavy, however attacks that utilize the dagger scale with Light Weapon.
+Ysley's Pyre Cleaver "Callow & Verdant"(full name) is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - The drop rate of this weapon is extremely low from these sources. It can also drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest). It scales off [Flamecharm](Flamecharm.md) and Heavy, however attacks that utilize the dagger scale with Light Weapon.
 
 The Pyre Keeper comes with the following passives:
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 96558
+revid: 96702
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1299,7 +1299,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
 
--   _Safety Dance_ \[Rare Talent\] - Your base dodge frames are increased by 25%. (+1 Passive Agility)
+-   _Safety Dance_ \[Rare Talent\] - Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
     -   Prerequisites: 15 Agility, [Power](Power.md) 13
     -   Mutual Exclusive: Risky Moves

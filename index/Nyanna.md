@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 96597
+revid: 96729
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
