@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 96594
+revid: 96648
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

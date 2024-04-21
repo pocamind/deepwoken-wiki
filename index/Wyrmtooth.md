@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 96262
+revid: 96631
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -46,3 +46,4 @@ The critical is a powerful forward thrust. While sliding, it is instead a circul
     -   Both weapons share the same light attack animations.
 -   In both appearance and function, the Wyrmtooth serves as Deepwoken's take on the "ridiculously large sword" trope used commonly in Japanese fantasy media. Its modeller, RealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_.
 -   Because of its range, it often has a advantage over any other weapon, with buffs this becomes one of the best weapons in the game.
+-   This weapon also has a 94% winrate in chime of conflict

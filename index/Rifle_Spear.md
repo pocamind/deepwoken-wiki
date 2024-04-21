@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 85204
+revid: 96622
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -42,6 +42,8 @@ The user aims down sights and shoots the spear, unleashing a blast in front. If 
 
 ## Trivia
 
+-   Meeting the requirement of MED, the damage is (29.8)
+-   At max MED, the damage is (32)
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
 -   The current model of the Rifle Spear has a Central Authority logo etched onto the blade.

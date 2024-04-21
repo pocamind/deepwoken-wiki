@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 96291
+revid: 96659
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, 
 
 LocationL New Kyrsa, The Sleeping City LocationR
 
-Far below the Gale, a city of gleaming lights was rekindled by the flames of religious fervour into a grand temple.
+(i dont know the new kyrsa thing but i deleted a griefers edit)
 
   
 
@@ -42,7 +42,7 @@ If you die here, you will wipe, or if you still have the Light Hook you will be 
 
 The Great Library of New Kyrsa is a large library, containing a rotation puzzle and many hostile Kyrsgardes within it. If someone fails the rotation puzzle, everyone in the instance will be teleported back to the start of the library, no matter where they are. The code to the puzzle is as such:
 
-**" 1 - 2 - 1 - 2 - 2 - 2 - 1 - 2 - 3 - 1 - 4 - 2 - 3 - 1 "**
+**" 6 - 9 - 6 - 4 - 2 - 0 - 6 - 9 - 4 - 2 - 4 - 2 - 0 - 6 "**
 
 ## Appearance
 
