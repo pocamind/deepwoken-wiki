@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 96652
+revid: 96698
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -8,53 +8,23 @@ categories: [Pages with broken file links, Monsters, Ambush Enemies]
 
 # Megalodaunt
 
-“ \[...\] grrrgrrg ”
+“ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between each other. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowess, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
 
-― {{{author}}}
+― Archivist Journal: 'Megalodaunt'
 
-_Commonly referred to as **megalodaunt**_
+_Commonly referred to as **Sharko**_
 
-_tutorials are for pussys [this video](https://www.youtube.com/watch?v=b_6MPKNOnQs&t=14s)._
+_For a video tutorial, consider watching [this video](https://www.youtube.com/watch?v=b_6MPKNOnQs&t=14s)._
 
 **Megalodaunt:**
 
-{{Creature\_Infobox\_V3 |attacks=\*Slash
-
--   Kick
--   Jump
--   Roar
--   Thousand Needles
--   Finisher: Curb Stomp
-
-|health=1000  
-350 (Trial of One)  
-2500 (Corrupted) |drops=\*[Megalodaunt Hide](Megalodaunt_Hide.md)  
-
--   [Mantra Modifiers](Mantra_Modifiers.md)  
-    
--   [Umbral Obsidian](Umbral_Obsidian.md)  
-    
--   [Megalodaunt Coral](Megalodaunt_Coral.md)  
-    
--   [Megalodaunt Coat](Megalodaunt_Coat.md)  
-    (Rare)
-
-|locations=\*[Erisia](Erisia.md)  
-
--   \[\[ur mother\]  
-    
--   The Aratel continent  
-    
--   Using Megalodaunt catfish (hot sharko pictures)
--   The Diluvian pendelum
-
-|image1=Sharko..png}}
+Template:Creature Infobox V3
 
 ## **Description**
 
 The Megalodaunt is a giant humanoid shark [monster](Monsters.md) commonly found in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_.
 
-“ while apearing to be quite stupid, they are indeed, quite stupid. they just stand around. ”
+“ While not appearing to be reasonably intelligent creatures, they have a strong sense of social hierarchy, and their place in their 'society,' if it could be called that. ”
 
 ― Archivist Journal: 'Megalodaunt'
 
@@ -136,32 +106,7 @@ Roar
 **Alpha Megalodaunt:**
 
   
-{{Creature Infobox V3|title1=Alpha Megalodaunt|image1=Primo Sharko.png|attacks=\*Slash
-
--   rail
--   Jump
--   Roar
--   Thousand Needles
--   Tacet Hug
--   Tacet Drop Kick
--   Finisher: Curb Stomp
-
-|health=1600  
-300 (Trial of One)  
-4000 (Corrupted) |locations=
-
--   \[\[ur mother\]
--   Trial of many
--   Aratel continent
--   The Diluvian pendelum
-
-|drops=\*[Megalodaunt Hide](Megalodaunt_Hide.md)  
-
--   [Mantra Modifiers](Mantra_Modifiers.md)  
-    
--   [Umbral Obsidian](Umbral_Obsidian.md)  
-    
--   [Megalodaunt Coat](Megalodaunt_Coat.md)}}
+Template:Creature Infobox V3
 
 ## **Description**
 

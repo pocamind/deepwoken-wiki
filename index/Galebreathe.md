@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 95034
+revid: 96672
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -71,7 +71,7 @@ _Shoots out an air blast._
 
  | 20 Ether | Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
--   Deals high damage.
+-   Deals light-medium damage.
 -   Pushes people back and dazes them if they collide with something
 -   Does not apply hitstun from the blast.
 -   Deals immense posture damage.
@@ -79,6 +79,7 @@ _Shoots out an air blast._
 -   Can be upgraded with Cloudstones, Stratus stones, Perfect lenses and Crystal Lenses to make it bigger and longer.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
+-   Doesn't proc Haunted Gale
 
  |
 | 
@@ -257,6 +258,7 @@ _Use wind to uppercut and propel yourself into the air._
     -   Applies Knockdown frames on proc.
 -   Gives I-Frames throughout the duration of the mantra.
 -   Can be vented to cancel it early
+-   Doesn't proc Haunted Gale
 
  |
 |  | 

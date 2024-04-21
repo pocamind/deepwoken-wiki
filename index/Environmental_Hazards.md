@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 93059
+revid: 96671
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -58,7 +58,7 @@ categories: [World]
 <tr>
   <td>Parasites</td>
   <td><a href="Second_Layer.md">Second Layer</a></td>
-  <td>Stick onto player and after 5 of them stick the player will instantly die unless removed using lanterns located in various layer 2 locations. Survivalist boon increases the amount of time you can survive before dying to parasites by 2 minutes.</td>
+  <td>Parasites stick onto the player and after 5 of them are stuck, the player will instantly die. Parasites can be removed using the lanterns located across layer 2. Survivalist boon increases the amount of time you can survive by 2 minutes.</td>
 </tr>
 <tr>
   <td>Heavy Wind</td>

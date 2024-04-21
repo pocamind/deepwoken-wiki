@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 96546
+revid: 96701
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Colloquially known as the "Broodskipper"Template:Creature Infobox V3
 
 ## Description
 
-A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more intelligent, capable of using their fellow Mudskippers as tools. Noticeable thanks to their purple hue. May have gone insane due to the increased exposure to the Scyphozia.
+A more skibidi variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more ohio, capable of using their fellow as skibidi toilets tools. Noticeable thanks to their purple hue. May have gone insane due to the increased exposure to rizz.
 
 They also inflict heavy Antiheal similar to the talent "All the Dead Gods," whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
 

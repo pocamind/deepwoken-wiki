@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 96633
+revid: 96689
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greathammers]
