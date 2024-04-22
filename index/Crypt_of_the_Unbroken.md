@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 96636
+revid: 96752
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Voidzones]
@@ -69,7 +69,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 ## Drop rate from chests
 
-Drops of 100 chests from the crypt of the unbroken while using the talent [lootskipper](Talents.md):
+Drops of 100 chests from the crypt of the unbroken ~while using the talent [lootskipper](Talents.md)~ (Lootskipper only works on mob drops, not chest drops):
 
 Gran Sudaruska = 1%
 

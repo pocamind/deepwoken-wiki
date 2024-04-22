@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 96667
+revid: 96763
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,6 +38,6 @@ Each trait can only be increased up to 6 points.
 ### Songchant
 
 -   Increase [Mantra](Mantras.md) **scaling** by 5% per point. (Maximum of 30% increase from **scaling)**
--   Increase [Mantra](Mantras.md) **pen** by 5% per point. (Maximum of 30% increase from **pen**)
+-   Increase [Mantra](Mantras.md) **pen** by 5% per point. (Maximum of 30% increase from **pen**) (Tester confirmed false, needs testing)
 -   On oath and monster mantras, instead increase the damage output by 5% per point.
 -   This does NOT affect the scaling on attunement weapons, only mantras.

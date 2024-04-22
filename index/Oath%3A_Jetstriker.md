@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 95079
+revid: 96753
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ categories: [Oaths]
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
 
-Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You do not have to return to her to get the talents. The location of these orbs are:
+Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You do have to return to her to get the talents. The location of these orbs are:
 
 -   On top of Lord Regent's palace in Etris.
 -   On the upper rim of The Birdcage near The Viper's Jaw in Erisia.
