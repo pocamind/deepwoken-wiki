@@ -1,6 +1,6 @@
 ---
 title: Monastery Beads
-revid: 96766
+revid: 96770
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Torso]
@@ -17,8 +17,7 @@ notices:
 | selling price | 50 |
 | requirements | N/A |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor |
-| innate talent | N/A |
+| innate stats | +3% Elemental Armor, 1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

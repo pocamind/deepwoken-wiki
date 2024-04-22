@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 96736
+revid: 96782
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -59,7 +59,7 @@ _This method is no longer the recommended strategy for reaching the elevator._
 
 **Method 4:** **Gliding**
 
-Find a rock, cliff, or something in a high place, and glide onto the wall. (Only works if you have a glider)
+Find a rock, cliff, or something in a high place, and glide onto the wall. Though be careful with this method, as Gigameds (aka "Jellyfish) can jump extremely high, and hit you causing you to fall. This may send you to Layer 2, or lead to death from fall damage. (Only works if you have a glider)
 
 ## **First Layer: The Trial**
 
@@ -85,7 +85,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
 | 14-16.66 | High chances for a Corrupted [Megalodaunt](Megalodaunt.md) |
 | 16.66+ and 1 drown or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| Drowned 20+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), or [Fury Nautilodaunt](Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
+| Drowned 20+ Times, Power 11 and Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), or [Fury Nautilodaunt](Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
@@ -230,9 +230,9 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights.
--   DO NOT fight a Megalodaunt outside of the City - getting kicked by a Megalodaunt will likely fling you off the edge.
+-   AVOID fight a Megalodaunt outside of the City - getting kicked by a Megalodaunt will likely fling you off the edge.
 -   AVOID the Nautilodaunt if you're unexperienced with it. The Nautilodaunt will make loud noises when running. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
--   Avoid any monsters you have little to no experience with, especially Dark Owls and Threshers, which have comparatively high mobility. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
+-   Avoid any monsters you have little to no experience with, especially Dark Owls, King Threshers and Nautilodaunts, which have comparatively high mobility. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire.

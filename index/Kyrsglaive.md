@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 92383
+revid: 96772
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -32,4 +32,5 @@ The Kyrsglaive is an Endgame [Medium Weapon](Weapons.md) under the Spear categor
 ## Trivia
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))
+-   The Kyrsglaive does 24.7 damage at its Medium Weapon requirement and with the addition of bleed damage, it's total damage adds up to 32.2 damage.
 -   The Kyrsglaive does 25.4 damage at 100 Medium Weapon and with the addition of bleed damage, it's total damage adds up to 33.1 damage.

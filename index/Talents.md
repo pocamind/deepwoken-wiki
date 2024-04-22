@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 96740
+revid: 96777
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2253,6 +2253,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
+    -   Graceful Flame can now be casted in the depths.
     -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your Graceful Flame will shield others from environmental insanity. (+1 Elemental Intensity)
