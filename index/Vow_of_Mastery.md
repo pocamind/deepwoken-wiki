@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 95142
+revid: 96751
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Talents, Vows]
 
 ## Description
 
-**Vow of Mastery** is a [Talent](Talents.md) which allows the user to make other players into subjects, and issue commands to those subjects. While any player can be a subject (so long as they don't already have a master), the talent is required to become a master, and has a requirement of 20 Charisma.
+**Vow of Mastery** is a [Talent](Talents.md) which allows the user to make other players into subjects and issue commands to those subjects. While any player can be a subject (so long as they don't already have a master), the talent is required to become a master, and has a requirement of 20 Charisma.
 
 ## How to Use
 

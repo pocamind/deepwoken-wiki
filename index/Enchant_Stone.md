@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 95494
+revid: 96748
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]
@@ -16,7 +16,7 @@ categories: [Items, Layer 2]
 | pass down | No |
 | desc | "A shard of enchantment, it can apply its given Enchant to your currently equiped weapon" |
 
-The **Enchant Stone** is a mythical-tier item that can be used to apply an [enchantment](Enchantments.md) to your currently held weapon. Each stone is imbued with a random enchant/curse. When using, there will be an option to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone.
+The **Enchant Stone** is a mythical-tier item that can be used to apply an [enchantment](Enchantments.md) to your currently held weapon. Each stone is imbued with a random enchant/curse. When used, an option will appear to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone.
 
 ## Obtainment
 
@@ -28,7 +28,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any enchant stone of your choice. You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
 -   A drop from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
-The Astral Stone is unique in that it can only be obtained as a drop from [Astral Knights](Stone_Knight.md).
+The Astral Enchant Stone is unique in that it can only be obtained as a drop from [Astral Knights](Stone_Knight.md).
 
 ## Trivia
 

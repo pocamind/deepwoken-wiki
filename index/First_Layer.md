@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 95986
+revid: 96736
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -129,7 +129,7 @@ Information to keep in mind.
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character ends theirself. Willpower, talents, and equipment grant extra sanity.
     -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
--   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot.
+-   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 2.5x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the talent undying flame), you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
@@ -231,7 +231,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights.
 -   DO NOT fight a Megalodaunt outside of the City - getting kicked by a Megalodaunt will likely fling you off the edge.
--   AVOID the Nautilodaunt at all cost. The Nautilodaunt will make loud noises when running. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
+-   AVOID the Nautilodaunt if you're unexperienced with it. The Nautilodaunt will make loud noises when running. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
 -   Avoid any monsters you have little to no experience with, especially Dark Owls and Threshers, which have comparatively high mobility. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe.
