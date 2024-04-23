@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 96198
+revid: 96813
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -790,7 +790,7 @@ N/A
  | 
 
 Glacial Ice  
-(ICE 60, WILL 20)
+(ICE 50, WILL 20)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96806
+revid: 96811
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -314,12 +314,12 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
 -   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
--   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the song.
+-   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
--   Despite cutting all relations with the song, a silentheart is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
+-   Despite cutting all relations with the Song, a silentheart is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the song and to the six Attunement trainers (not counting the Attunement-less trainer)
-    -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
+-   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less trainer)
+    -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet had to be confirmed.
 
 ### Kaide, the Drowned Light
@@ -433,7 +433,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Voices of the Depths](Voices_of_the_Depths.md).
     -   This also implies that humans cannot comprehend what the entirety of Deepwoken's world really is and would die of insanity due to the anomalous effects of Deepwoken's universe, meaning that most of our knowledge might be completely wrong and is a made up story for us to comprehend the horrors that are actually in front of us as we descend into the unknown. This adds a layer of mystery to the depths and implies that how we see it may be almost completely wrong.
-    -   This means that humans are possibly one of the weakest forms of life in Deepwoken, being seen as "filth" and weak by the deep voices and the Nestmind, with our potential of strength needing to be unlocked through the song. This implies that physical strength may mean absolutely nothing in Deepwoken's universe though this is all speculation.
+    -   This means that humans are possibly one of the weakest forms of life in Deepwoken, being seen as "filth" and weak by the deep voices and the Nestmind, with our potential of strength needing to be unlocked through the Song. This implies that physical strength may mean absolutely nothing in Deepwoken's universe though this is all speculation.
 
 ### **The Ferryman**
 
@@ -1051,7 +1051,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
--   They worship the song and believe that when they die they will return to it like a form of reincarnation.
+-   They worship the Song and believe that when they die they will return to it like a form of reincarnation.
 -   They care little for their own lives or the lives of fellow Songseekers, using mantras that will often hit their allies or even execute downed Songseekers, unlike other enemies.
 
 ### Bandits
@@ -1430,7 +1430,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 Oaths are a peculiar topic to discuss in the world of Deepwoken. Fundamentally, they differ from any conventional means of deriving power from concepts and objects in the world of Deepwoken, hence why or how Oath magic manifests is largely a mystery with, unfortunately, not a lot of answers to. In mainstream sense, Oaths are described as to being a category of their own, that being 'Oath Magic', which suggests that they fundamentally differ from Mantras or Resonances in terms of how they function, what it is and was.
 
-Oaths, as it is observed, are acquired when one pledges their soul to a certain cause, or a particular ideal, granting them powers that align with achieving said cause and ideals. This process will 'bind' their soul to the cause. Despite technically being a category of it's own, most 'Oath Magic' are still referred to as Mantras, suggesting that perhaps Oath Magic is a mere sub-category of the song, similar to Murmurs and Resonances. A keeper of an Oath would strengthen their powers by a reinforcement of their beliefs in the form of completing tasks relative to the Oath, affirming their role and ideals in the process.
+Oaths, as it is observed, are acquired when one pledges their soul to a certain cause, or a particular ideal, granting them powers that align with achieving said cause and ideals. This process will 'bind' their soul to the cause. Despite technically being a category of it's own, most 'Oath Magic' are still referred to as Mantras, suggesting that perhaps Oath Magic is a mere sub-category of the Song, similar to Murmurs and Resonances. A keeper of an Oath would strengthen their powers by a reinforcement of their beliefs in the form of completing tasks relative to the Oath, affirming their role and ideals in the process.
 
 It is unknown how Oath Magic manifests itself - in other words - get created. But it is widely observed that Oaths can be granted through a variety of means, as long as a process of binding one's soul is present. This allow Oaths to be granted through static, and active means. This is evident through the fact that the player is able to acquire Oaths either through an object of power such as Linkstrider or Blindseer, or through someone of the same likeness like Fadetrimmer and Contractor. A universal theme within these examples is that Oaths can only be acquired through something or someone who also posses aspects of said Oath.
 
@@ -1494,7 +1494,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
         -   Those this can potentially be the foundations of the Oath since one can only partake the Oath after being compatible with the Arc Suit.
 -   While it is fair to point out that the Arc Suit is just a piece of high-tech armor developed by the Ignition Union, it can be observed that the Arc Suit can only become complete by unlocking it's other modules by 'bonding' with the suit by way of overcoming great feats.
     -   This can be further supported by the fact that Arcwarder progression does not necessarily entail protecting others.
--   The Arc Suit itself is summoned by way of Mantra, suggesting that the suit is also a manifestation of the song, rather than being some sort of high-end tech completely.
+-   The Arc Suit itself is summoned by way of Mantra, suggesting that the suit is also a manifestation of the Song, rather than being some sort of high-end tech completely.
 
 ### Dawnwalker
 
@@ -1506,11 +1506,11 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 ### **Silentheart**
 
 -   Silenthearts are people who have swore an Oath of pure hatred with the souls of the Voidsea to seek revenge against the people who abuse the Song for their own gain, primarily targeting the Masters of elements who teaches their usage of the Song across all Lumen.
--   Silenthearts swore this Oath in search of pure power against the song itself, starting with rejecting the words of the song. As the song directly ties to the soul and heart of a person, their nature is directly manipulated and changed by Dreadstar, barring them from Mantras in exchange for other forms of power.
--   Despite this, it is a common misconception that Silenthearts reject the song.
+-   Silenthearts swore this Oath in search of pure power against the Song itself, starting with rejecting the words of the Song. As the Song directly ties to the soul and heart of a person, their nature is directly manipulated and changed by Dreadstar, barring them from Mantras in exchange for other forms of power.
+-   Despite this, it is a common misconception that Silenthearts reject the Song.
     -   This is not the case as the Song isn't something that can be stamped out. Silenthearts exclusively reject the words of the Song, which are Mantras, vastly different from rejecting the Song entirely.
     -   All of their abilities are a usage of the Song, even if it doesn't take the form of mantras.[\[1\]](#cite-note-rag-1)
-    -   While words of the song are rejected, other forms of application are apparently not a concern to Silenthearts. (And by extension, Dreadstar themselves)
+    -   While words of the Song are rejected, other forms of application are apparently not a concern to Silenthearts. (And by extension, Dreadstar themselves)
         -   Whether or not this is a limit power, or just a bias against people who wield Mantras remains to be seen.
 
 ### **Fadetrimmers**
@@ -1723,7 +1723,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Resonances can consist of any instrument, not just Bells.[\[2\]](#cite-note-arch-2)
 -   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[7\]](#cite-note-yama-7) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
-    -   Corrupted resonance downsides are a misuse of the song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
+    -   Corrupted resonance downsides are a misuse of the Song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the Song. These resonances have a heavy toll not only on the user, but on the Song. Therefore creating the corrupted effect.
 
 ### **Voidfog**
 
@@ -2121,7 +2121,7 @@ The Music of Deepwoken, made solely by the composer, Naktigonis, has lore inscri
 
 _**Theme of the Central Authority**_
 
-_"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank-and-file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
+_"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank-and-file soldiers, with many regiments choosing the Song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
 
 -   It plays when the Authority attacks the ship in the [Tutorial](Tutorial.md).
 -   A leitmotif from it can be heard in And Let Slip The Hounds Of War.

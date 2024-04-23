@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 96704
+revid: 96815
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles]
@@ -31,7 +31,7 @@ categories: [Weapons, Rifles]
 
 ## Description
 
-Rosen's Peacemaker is a Medium Weapon for the Verse 2 content update. It is among first "true" medium weapon [guns](Guns.md), including the [Iron Blunderbuss](Iron_Blunderbuss.md). Rosen's Peacemaker has 18 Base Damage and a scaling of 8 so it deals 32.4 damage at 100 MED. Rosen's Peacemaker has a blunt swinging attack and firing attack in its M1 string. It's critical shoots out a bullet, which is exactly the same attack as the M1, but it takes longer to fire the bullet. The bullets do not incur parry stun on the attacker if they get parried at far range.
+Rosen's Peacemaker is a Medium Weapon for the Verse 2 content update. It is among first "true" medium weapon [guns](Guns.md), including the [Iron Blunderbuss](Iron_Blunderbuss.md). Rosen's Peacemaker has 18 Base Damage and a scaling of 8 so it deals 26.1 damage at 75 MED and 28.8 damage at 100 MED. Rosen's Peacemaker has a blunt swinging attack and firing attack in its M1 string. It's critical shoots out a bullet, which is exactly the same attack as the M1, but it takes longer to fire the bullet. The bullets do not incur parry stun on the attacker if they get parried at far range.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96799
+revid: 96812
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -60,3 +60,4 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   The Weapon used to not change color if you had Azure/Twisted Puppets path. This was changed the next day after weapon's release.
 -   It is one of eight weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)
     -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
+-   The community commonly refers to this weapon as the "Blade Ball sword" and "Murder Mystery sword" due to the particle effects, overly saturated GFX and overall look and feel of the weapon not matching other weapons artstyle-wise, even by Legendary Weapon standards.
