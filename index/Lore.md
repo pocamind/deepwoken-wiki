@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96221
+revid: 96806
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -544,7 +544,13 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A building located in Markor, where texts of the Old World are studied.
 -   The Divers are a branch of the Markor Citadel.
--   They taught the [Barber](Barber.md) plastic surgery.
+-   The [Barbers](Barber.md) learned plastic surgery here.
+
+The Citadel
+
+  
+
+  
 
 #### Lullaby Isles
 
@@ -661,16 +667,17 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
 -   The snow is not actually snow, but instead parasite eggs.
 -   The Ignition Union has set up a base within the shrine, along with lanterns to burn the parasitic snow off.
-    -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while The Divers are more research-based and only go The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
+    -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by The Central Authority to explore the deeper parts of The Depths and settle there efficiently while The Divers are more research-based and only go on expeditions to The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
+    -   The Ethironal Shrine is under the same time dilation phenomenon as New Kyrsa, only less potent due to the distance between Ethiron's physical body and the shrine.
 
 ##### New Kyrsa (Second Floor)
 
 -   New Kyrsa is a city built by the Kyrsgarde, meaning the city did not suffer the same fate as Celtor.
--   New Kyrsa was built above the chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesn't wake up, also explaining why it is necessary to activate them to fight its Scion.
+-   New Kyrsa was built above the chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so they don't wake up, also explaining why it is necessary to activate them to fight its Scion.
 -   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosperous city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the train station below the town, and high buildings with signs of industrial advancement towards the surface.
 -   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
 -   Right now the city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
--   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron
+-   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron.
 -   Its inhabitants are the Kyrsgarde.
 
 #### **The Vents, The Third Layer**
@@ -925,7 +932,7 @@ An Authority Captain
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilize The Song to manipulate and transfer life.
--   They were initially the only users of Ironsing, holding a monopoly on the Attunement, killing off any Ironsingers who tried to leave or leak it secrets, until [Adar, Master of Metal](Adar,_Master_of_Metal.md) escaped their reach and learnt how to replicate the Alloyed Elixir to help others obtain Ironsing.
+-   They were initially the only users of Ironsing, holding a monopoly on the Attunement, killing off any Ironsingers who tried to leave or leak it secrets, until [Adar, Master of Metal](Adar,_Master_of_Metal.md) escaped their reach and learned how to replicate the Alloyed Elixir to help others obtain Ironsing.
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
@@ -1136,7 +1143,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
     -   Despite being hostile in New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This may be because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the Scion of Ethiron.
 -   Their heads can be eaten and even are shown to have a great amount of nutritional value.
--   The Kyrsgarde have a lot of prosperity and such, but something called "the mist" has changed something in them. An outsider Kyrsgarde tells us this place is not good for us, and that the foolishness of the Kyrsgarde is what brought this tragedy (turns out building a huge city over a drowned god wasn't really a good idea).
+-   The Kyrsgarde have a lot of prosperity and such, but something called "the mist" has changed something in them. Naerotiv tells us this place is not good for us, and that the foolishness of the Kyrsgarde is what brought this tragedy.
 -   Visually, Kyrsgarde brutes seem to have filled the role of labourers or guards in New Kyrsa.
 -   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is when it gets deadly.
 -   They know how to speak our language, however they have their own "tongue".
@@ -1511,7 +1518,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   People who have swore an Oath to become great barbers, with their scissors and barber products to not let a "Fringe Accident" happen again.
 -   All Barbers across Lumen posses this Oath.
 -   Despite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people.
-    -   This is technically knowledge that is exclusively learnt at the Markor Citadel.
+    -   This is technically knowledge that is exclusively learned at the Markor Citadel.
 -   Fadetrimming had likely originated from the Markor Citadel due to an extensive need of surgeons.
     -   In contrast to the real world, [Barbers of the medieval times are, in fact, technically surgeons](<https://en.wikipedia.org/wiki/Barber%27s_pole#:~:text=Origin%20in%20barbering%20and%20surgery,-Antique%20red%20and&text=During%20medieval%20times%2C%20barbers%20performed,basin%20that%20received%20the%20blood).>) due to the fact that both are high precision jobs that demands accuracy.
 

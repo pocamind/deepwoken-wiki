@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 96746
+revid: 96800
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -16,7 +16,7 @@ categories: [Resonances, Mechanics]
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
 
-You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in these few locations and will be protected by a [Stone Knight#Star Knight](Stone_Knight.md#star-knight). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
+You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in these few locations and will be protected by a [Star Knight](Stone_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
 
 | 
 **LIST OF NORMAL RESONANCES**
