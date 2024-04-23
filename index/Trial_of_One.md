@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 96742
+revid: 96793
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -96,7 +96,6 @@ See the first parry check. Note that the orbs will start at the same speed as th
 
 Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of tacet (invisibility) in addition to the typical moveset. The orbs deal no posture damage in this trial. 300 HP but you'll be dealing 2x damage.
 
-  
 _For a video walkthrough, consider watching [this video](https://www.youtube.com/watch?v=1tjAyEmXkQk)._
 
 ## Rewards
@@ -107,7 +106,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ## Tips and Tricks
 
--   It is recommended to first enter when you can relatively consistently kill a Mudskipper Brute without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
+-   It is recommended to first enter when you can relatively consistently kill a Megalodaunt without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
@@ -130,7 +129,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.
 -   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the trial.
 -   You can have enchanted weapons during the Trial via passing down or the Bank (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence Thorns](Enchantments.md) enchant because Trial of One is centered around parrying)
--   Before the release of [Mudskipper Brute](Mudskipper_Brute.md) the second trial used to be a [Megalodaunt](Megalodaunt.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
+-   For a short duration, the [Megalodaunt](Megalodaunt.md) was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   You can kill the parry trade using [Providence Thorns](Enchantments.md)
