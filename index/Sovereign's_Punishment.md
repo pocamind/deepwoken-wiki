@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 96712
+revid: 96786
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greathammers]
@@ -27,6 +27,10 @@ notices:
 | pass down | Yes |
 | obtainment | Fort Merit, The Aratel Sea, Lightkeeper Temple, The Starswept Valley |
 | description | A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up. |
+
+## Description
+
+The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit](Fort_Merit.md), and [Aratel Island](Aratel_Island.md).
 
 ## Trivia
 
