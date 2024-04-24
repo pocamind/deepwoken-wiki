@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 96176
+revid: 96869
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -30,6 +30,7 @@ The Battleaxe is a greataxe that [Heavy Weapon](Weapons.md) users start with whe
 
 ## Trivia
 
+-   At max HVY, the damage is (27.5)
 -   The Battleaxe is considered to be very weak, as its damage is only slightly higher than the regular starter sword.
     -   It is prone to being given [Providence's Thorns](Enchantments.md) with [Enchant Stones](Enchant_Stone.md), though, as it has good base damage for Providence's Thorns and has no requirement.
 

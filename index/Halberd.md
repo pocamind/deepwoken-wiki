@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 96367
+revid: 96870
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -57,4 +57,8 @@ The user runs forward before performing a 360° slash. The Halberd's critical co
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of HVY, the damage is (24.9)
+    -   Meeting the alloyed requirement, the damage is (34.8)
+-   At max HVY, the non-alloyed damage is (33.6)
+    -   At max HVY, the alloyed damage is (38.4)
 -   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from _Dark Souls III_.

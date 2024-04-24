@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 96862
+revid: 96863
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -171,7 +171,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   [Novice Brace](Novice_Brace.md)
 -   All [Rings](Equipment.md)
 -   All [Earrings](Equipment.md)
--   Pale Assassin Cloak
+-   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
 
   
 

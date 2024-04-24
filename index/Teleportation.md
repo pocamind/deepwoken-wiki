@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 94743
+revid: 96873
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -50,11 +50,13 @@ In the Etrean Lumiannt, you are given permanent preset waypoints at the followin
 -   [Temple Approach](Temple_Approach.md), at [Isle of Vigils](Isle_of_Vigils.md)
 -   [Minityrsa](Minityrsa.md), a small distance from the shore
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
+-   [Etris](Etris.md), in front of [Polis](Polis.md).
 
 In the Eastern Luminant, you are given permanent preset waypoints at the following locations:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md), near [Yamaketzal](Yamaketzal.md)
 -   [Summer Isle](Summer_Isle.md), near the [Mystic](Mystic.md)
+-   [Miner's Landing](<Miner's_Landing.md>), near the Docks.
 -   [Greathive Approach](Greathive_Aratel.md#entrance)
 -   [Fort Merit](Fort_Merit.md), near the [Blacksmith](Blacksmith.md)
 -   [Boatman's Watch](<Boatman's_Watch.md>), at the front shore

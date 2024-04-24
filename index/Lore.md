@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96846
+revid: 96865
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -687,16 +687,16 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Current location of the body of the Drowned God of Fire Korilfiend.[\[1\]](#cite-note-rag-1)
 -   Korilfiend's garden is located near the top.[\[1\]](#cite-note-rag-1)
     -   The Meteor Flowers located here are considered a part of him.[\[1\]](#cite-note-rag-1)
-    -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.[\[1\]](#cite-note-rag-1)
+    -   Consuming the Meteor Flowers grants the person pyrokinetic abilities as part of their transformation into a Deepwoken, which lead to Flamecharm's invention after Amorus Pleeksty consumed one.[\[1\]](#cite-note-rag-1)
 -   The Third Layer is mainly formed by volcanic and fire/hot environment.[\[1\]](#cite-note-rag-1)
--   Its said that the heat that the Hero blade of Flame emits, is the same as the heat that the vents emit.[\[1\]](#cite-note-rag-1)
+-   Its said that the heat that the Hero Blade of Flame emits is the same as the heat that The Vents emit.[\[1\]](#cite-note-rag-1)
 
 ## Factions
 
 ### The Kingdom of Etrea
 
 -   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
--   **Encountered In:** _Aratel Sea, Aratel Island, Erisia Island_
+-   **Encountered In:** _The Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
 -   **Alliances:** _Vigil of Winds (Neutral), The Ministry, Contractors_
 -   **Enemies:** _The Central Authority, The Hive_, _The Knives of Eylis_
@@ -757,7 +757,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the race as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
--   The 11th Legion came to the Eastern/Etrean Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
+-   The 11th Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
 -   The 11th Legion is suspected to be commanded by someone named Akilles, probably a centurion and leader of the 11th Legion (The 11th, not the hundred) due to him bringing the Legion to the East. They are likely named after the Greek mythology hero Achilles.
 
 Amara, a Member of The Legion.
@@ -824,7 +824,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
 -   "A Waltz of Snow and Knights," the theme of Minityrsa, shares the same motif as "A Sarabande of Thunder" and "Dance, if You Can!" Both of these are themes of the Ferryman, which shares the same knife as the Ministry operatives found throughout Minityrsa.
--   There is a high chance that they are **part** responsible for the events in the second layer, specially the first floor due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
+-   There is a high chance that they are **part** responsible for the events in the Second Layer, specially the Ethironal Shrine due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
 
@@ -893,7 +893,7 @@ A Dark Mage, located in Minityrsa.
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[2\]](#cite-note-arch-2)
     -   The Knives sow chaos anywhere for a price.[\[2\]](#cite-note-arch-2)
     -   They purchase firearms from The Summer Company.[\[2\]](#cite-note-arch-2)
-    -   The Divers help with Depths research[\[2\]](#cite-note-arch-2)
+    -   The Divers help with exploring and researching the Depths.[\[2\]](#cite-note-arch-2)
     -   The Ignition Union kill creatures from the Deep.[\[2\]](#cite-note-arch-2)
     -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.[\[2\]](#cite-note-arch-2)
         -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
@@ -952,8 +952,8 @@ An Authority Captain
 -   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
-    -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located in the Central Luminant.
-    -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
+    -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
+    -   It's possible that as a Deepbound you are in Scyphozia to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
 -   The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
 -   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris, and Akira. Black Divers named in [A Deathscribe's Journal](Books.md#a-deathscribes-journal) are:
     -   Desdemona Dusselden (Deceased)
@@ -994,7 +994,6 @@ An Authority Captain
 -   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry Talents (Galebreathe exclusive) make mention of the vigils.
 -   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
-    -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
 
 ### Contractors
 
@@ -1045,7 +1044,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 ### Songseekers
 
 -   **Territory:** _None_
--   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frost Only)_
+-   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frostdraw Only)_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe_
 -   **Lore Sources:** _Songseeker Wilds_
 
@@ -1105,7 +1104,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   One of the few faiths from the Canticlysm that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
 -   Most of them reside in the West Luminant, but some of them travel to all of Lumen spreading the teachings of Amorus Pleeksty.
 -   Many members of the Covenant of Flame represent Amorus Pleeksty as a "God", but Pleeksty only sees them as a fan club.[\[1\]](#cite-note-rag-1)
--   The relations between Pleeksty and the Covenant of Flame are unknown, but it is known that Pleeksty taught many people the concepts of Flamecharm in the Cantaclysism, making these people to spread his teachings and creating the Covenant of Flame.
+-   The relations between Pleeksty and the Covenant of Flame are unknown, but it is known that Pleeksty taught many people the concepts of Flamecharm in the Canticlysm, making these people to spread his teachings and creating the Covenant of Flame.
 -   Their main goal is to save humanity from the Depths, depicting humanity as the "Eternal flame" and the ultimate enemy as the Depths itself.
 -   Their rank system is unknown, but they are commonly known as "Flamepriest" or "Flameworshippers".
 -   Their relations with the main factions of Lumen is unknown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
@@ -1262,18 +1261,18 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book."_
 
--   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief in faith over technology.
--   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids.
+-   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, many Chrysids broke off due to their belief in the Moonlit Faith over the Hives technology-focused ideology.
+-   Despite splitting off from the Greathives, Chrysids are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids who chose to join the Moonlit Faith.
 -   Many Chrysids choose to reside in the Lullaby Isles, an area in The Central Luminant surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
     -   The word confessor can have three meanings:
         1.  Someone who confesses, the least likely meaning based on the context.
         2.  Someone who proclaims their religious faith when faced with opposition, but not tortured or killed, thus not being classified as a martyr. Also unlikely.
         3.  A priest who hears the confessions of others and can give absolution, which is the release of any guilt, punishment or obligation brought about due to the sin they confessed to. This likely where the title is derived from.
--   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
+-   Within the central isles of the Lullaby Isles is a city-state called the Echelon, where the council of the Moonlit Faith resides.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
--   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
--   Those who do not follow one specific faith tend to travel the world and tell stories. This can be assumed based of the many NPCs found around the Etrean and Eastern Luminants that are found around the map, telling you stories and are excited to share news about recent events in their life.
+-   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the Second Layer.
+-   Those who do not follow one specific faith tend to travel the world and tell stories. This can be assumed based of the many NPCs found around the East Luminant that are found around the map, telling you stories and are excited to share news about recent events in their life.
 
 ### Tiran
 
@@ -1289,7 +1288,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   They are far weaker when on the surface than in The Depths.
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are more powerful than even Zi'eer or Pleeksty.[\[1\]](#cite-note-rag-1)
--   There is a chance that they are ancient enemies of the Lightborn and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborn.
+-   There is a chance that they are ancient enemies of the Lightborn and Celestials, as Krulians are very close to the Drowned Gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborn.
 
 ### Lightborn
 
@@ -1440,7 +1439,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   People who make an Oath to seek the truth of the Deepwoken world by rejecting their sight, protecting them from the horrors of the world.
 -   This Oath is associated with the fact that Humans, being one of the weaker entities in the world, are highly vulnerable to the effects of insanity, where most of seek out the secrets of the sea will almost-certainly be driven to insanity by the truths that they come to learn.
--   A Blindseer becomes stronger as they free lost souls (pathfinders) from the Depths via the Depth trials. This is due to the fact that their duty entails protecting others from the horrors of the waking world, and to guide those who are not capable of tackling such a feat back to their lives ignorant to what lies below.
+-   A Blindseer becomes stronger as they free lost souls (Pathfinders) from the Depths via the Depths trials. This is due to the fact that their duty entails protecting others from the horrors of the waking world, and to guide those who are not capable of tackling such a feat back to their lives ignorant to what lies below.
 -   Blindseers are not required to be naturally blind. As long as their vision is obscured, the effects of the Oath will manifest.
 -   Blindseers lose their vision in exchange for an alternate form of vision. To the player, this is the blue-vision they receive while being blinded with the Oath, though whether this is the result of drastically heightened perception, or a literal alternate vision for them, is unknown.
 -   The loss of vision and heightened sanity does not equal to immunity towards insanity. Blindseers are still prone to the effects of insanity as they are still human.
@@ -1472,7 +1471,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
 -   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their symbiotic powers.
--   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the Eastern Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** which are marks of Celestials.
+-   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the East Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** which are marks of Celestials.
 
 ### Starkindred
 
@@ -1530,11 +1529,11 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
 -   Similar to how Blindseer and Visionshaper are two Oaths that are against each other. Contractors are a polar opposite Warmasters.
 
-### **Warmasters.**
+### **Warmasters**
 
 -   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the oath is sworn under the pretense of protecting Lumen against the odds.
 -   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.[\[1\]](#cite-note-rag-1)
--   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield.
+-   Their powers are known to have "Floating blades", being very similar to the ones that the Stone Knights wield.
 -   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying to save Lumen from a second drowning, while Contractors seek to being forth another great drowning.
 
 ### **Deepwoken**
@@ -1547,14 +1546,14 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For example, Amorus Pleeksty became incredible in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
--   The consequences of becoming a Deepwoken aren't yet known, but the drawbacks are .[\[2\]](#cite-note-arch-2)
+-   The consequences of becoming a Deepwoken aren't yet known, but the drawbacks are.[\[2\]](#cite-note-arch-2)
     -   It results in unknown physical changes.[\[2\]](#cite-note-arch-2)
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
 
 ### **Voidwalker/Void Oath**
 
 -   The name and purpose of this Oath is unknown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Voidsea, due to the relation of Eylis between the Voidmother and the Voidsea itself.
--   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) with the ability to create a bubble around them that slows time for those who are not Voidwalkers.
+-   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) and the [Old Knives of Eylis](Old_Knife_of_Eylis.md) with the ability to create a bubble around them that slows time for those who are not Voidwalkers.
 
 ## Murmur Lore
 
@@ -1615,7 +1614,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 **Lore Sources:** _Ishan, Weapon Descriptions._
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien. Contrary to popular belief, this means that the Adret aren't fish, either.
--   Ishan, an Etrean man located within the Stronghold of [Summer Isle](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
+-   Ishan, an Etrean man located within the Stronghold of [Summer Isle](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before The Tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
 -   Their names are tied to rocks, suggesting that while other races worshipped animals, the Adret are tied to the land.
@@ -1656,7 +1655,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
 -   The Tides were caused by the Drowned Gods; who were nearly awaken from their slumber by the people of the Canticlysm via the sound of the Song.
--   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, making it a gateway to both worlds between the surface and [The Depths](The_Depths.md), as well as drawing the Voidfog in.
+-   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, making it a gateway to both worlds between the surface and [The Depths](The_Depths.md), as well as drawing the Voidfog in and obscuring Constellia from the surface.
 
 ### The Great Drowning of Celtor
 
@@ -1708,7 +1707,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia](Erisia.md) is an example of a Driftland.
 -   Driftlands have experienced a sort of Time Stasis during their time in the Voidsea, but have returned back to the Luminant.
--   Used as a battle ground for the war between The Kingdom of Etrea and The Authority.
+-   Used as battlegrounds for the war between The Kingdom of Etrea and The Central Authority.
 
 ### Resonance Bells
 
@@ -1824,11 +1823,11 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 (Verse 2 \[12/23/2022\])
 
--   The Ignition Union reach the Second Layer of the Depths, the Eternal Gale
+-   The Ignition Union reach the Second Layer of the Depths, the Eternal Gale.
 -   The Divers discover a passage through the Second Layer and into New Kyrsa.
 -   Chaser betrays his expedition.
 -   Chaser is killed.
--   Aratel sea is blocked off from the Etrean sea.
+-   The Aratel sea is separated from the Etrean Sea by gates.
 -   Zi'eer begins to rebuild the contractors.
 -   Tirans and Chrysids are drawn out and become more common in the world.
 
@@ -1853,7 +1852,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Some of their body parts are especially useful in crafting.
 -   They all share a common prey, that being the inhabitants of the Deepwoken world, which is what separates them from regular animals.
 -   Some gain special abilities from being in the Depths, and all of them can become corrupted, enhanced monsters signified by the purple smoke they emit.
--   A select few "monsters" are artificial, namely the Rock Golems and Hive Constructs.
+-   A select few "monsters" are artificial, namely the Rock Golems, Enforcers and Hive Constructs.
 -   Monsters have a variety different origins:
     -   Some simply evolved like normal animals, trying to survive in the broken world.[\[2\]](#cite-note-arch-2)
     -   Some are native to The Depths and found their way to the surface.[\[2\]](#cite-note-arch-2)
@@ -1885,7 +1884,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   They overwhelm other animals using sheer size alone.
     -   This has proven to be an effective tactic, causing the extinction of much marine wildlife over the years.
 -   Despite their immense size, they seem to need very little food to survive, even preferring to outright disintegrate their prey rather than eat them.
--   They might be the reason why Aratel sea is lacking fish or any other life forms.
+-   They might be the reason why The Aratel Sea is lacking fish or any other life forms.
 
 ### Mudskippers
 
@@ -1893,7 +1892,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
 -   Some of them are capable of using tools, showing they retain some of their memories.
     -   They also chose to steal the gear of miners, such as their helmets. Perhaps it reminded them of the life they once lead?
--   They can be found from meteors too, implying there are space Mudskippers, or Mudskippers residing in the ruins of the Celestial cities.
+-   They can be found from meteors too, implying that there are Mudskippers from Constellia.
 
 ### Primadon
 
@@ -1973,12 +1972,12 @@ Though technically a blank slate of varying races and abilities, even the player
 
 ### Castaway
 
--   The Player in the Castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
+-   The Player in the Castaway origin was once part of a group of seafarers, but the Authority attacked their ship and they ended up being found on the beaches of either Etris or the Isles of Vigils.
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
 
 ### Deepbound
 
--   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unknown rank named Roy. He gave them basic Diver apprentice training, after they were assigned a post in Castle Light to prove their worth as a Diver.
+-   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unknown rank named Roy. He gave them basic Diver Apprentice training, after they were assigned a post in Castle Light to prove their worth as a Diver.
 
 ### Voidwalker
 
@@ -2008,12 +2007,12 @@ Though technically a blank slate of varying races and abilities, even the player
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
--   The only lightkeeper that we know of is the one mentioned by Nimea, Viqh, the Lightkeeper of the Eastern Lighthouse.
--   Apparently Lightkeepers can't leave their light house by any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
+-   The only Lightkeeper that we know of is the one mentioned by Nimea and Klaris, Viqh, the Lightkeeper of the Eastern Lighthouse.
+-   Apparently Lightkeepers can't leave their lighthouse at any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
 -   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
--   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
+-   Sometime before the events of the game, Nimea's childhood friend, Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the Radiant Tones thanks to Viqh, the Lightkeeper of The Eastern Lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
+-   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the Radiant Tones thanks to Viqh, the Lightkeeper of The Eastern Lighthouse, as she stated that "\[she\] learned a lot from her gift".
 -   The magic that is utilized by the Dawnwalkers is a combat-oriented imitation of Lightkeeping through the usage of Radiant Tones.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
@@ -2043,6 +2042,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   Requires conditions to be met for usage.[\[1\]](#cite-note-rag-1)
 -   Also used by Soren.
 -   Exists in the games files.
+-   Used on the player character if they spit on Evengarde, cleaving their head off with no way to counter or evade it.
 
 ### **Animals**
 
