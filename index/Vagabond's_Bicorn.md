@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 69922
+revid: 96852
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items, Armors]
@@ -21,7 +21,7 @@ categories: [Helmets, Items, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Primadon, First Layer |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Primadon, First Layer, Chaser |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 96334
+revid: 96858
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -28,16 +28,16 @@ Using the [Saltchemist](Oath%253A_Saltchemist.md) oath, it is possible to genera
 
 ### Cauldron Locations
 
-There are ten known functioning cauldrons in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the Frostdraw Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). The fifth is found at [Castle Light](Castle_Light.md) in the same room as the antiquarian. The sixth is in a house at [Meteor Isle](Meteor_Isle.md). The seventh is found in the [Voidheart](Voidheart.md) next to the mystic. The eighth is in [Fort Merit](Fort_Merit.md) in a house at the top of the stairs that begin at the prison entrance. The ninth is in [Miner's Landing](<Miner's_Landing.md>) next to the Ironsing trainer. The tenth is in [Lightkeeper Temple](Lightkeeper_Temple.md) in the second room on the left when entering the King Thresher's room. You are also able to create your own cauldron using Summon Cauldron, which appears at exactly 20 Intelligence as a Mantra, but is unlikely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
+There are ten known functioning cauldrons in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the [Frostdraw](Frostdraw.md) Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). The fifth is found at [Castle Light](Castle_Light.md) in the same room as the antiquarian. The sixth is in a house at [Meteor Isle](Meteor_Isle.md). The seventh is found in the [Voidheart](Voidheart.md) next to the mystic. The eighth is in [Fort Merit](Fort_Merit.md) in a house at the top of the stairs that begin at the prison entrance. The ninth is in [Miner's Landing](<Miner's_Landing.md>) next to the Ironsing trainer. The tenth is in [Lightkeeper Temple](Lightkeeper_Temple.md) in the second room on the left when entering the [King Thresher](Thresher.md)'s room. You are also able to create your own cauldron using Summon Cauldron, which appears at exactly 20 Intelligence as a Mantra, but is unlikely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron easily if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
 
 ## Mechanics
 
 ### Ingredients
 
-Every ingredient has a number of effects - usually one positive and one negative, with some exceptions. For example, adding a [Redd](Redd.md) to a potion will cause the potion to instantly restore a small amount of health (the _Rejuvenating_ effect), and also drain your Ether for 15 seconds (the _Icky_ effect). Potions grant the additive sum of every effect of every ingredient they contain but are named only after their strongest effect. When redds are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will have the _Icky_ prefix, though it's important to note it still has the _Rejuvenating_ effect.
+Every ingredient has a number of effects - usually one positive and one negative, with some exceptions. For example, adding a [Redd](Redd.md) to a potion will cause the potion to instantly restore a small amount of health (the _Rejuvenating_ effect), and also drain your Ether for 15 seconds (the _Icky_ effect). Potions grant the additive sum of every effect of every ingredient they contain but are named only after their strongest effect. When Redds are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will have the _Icky_ prefix, though it's important to note it still has the _Rejuvenating_ effect.
 
 The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
-Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with opposing effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing redds will cancel out the redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
+Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with opposing effects will weaken them. For example, one of Gathered Wheat's effects is ether regeneration. Adding wheat to a potion containing Redds will cancel out the Redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
 
 Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
@@ -47,12 +47,12 @@ Finally, any potion with a positive Health Regeneration effect has its duration 
 
 ### Talents and Other Modifiers
 
-Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence, Each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
+Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence; each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
 
 -   Potions prepared by characters with the Apothecary talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
-    -   This talent can be easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
+    -   This talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
 -   When brewing potions with the Wild Alchemy talent, there is a 25% chance to produce 2 potions instead of 1.
--   The Potion Quaffer talent reduces the slowdown from drinking potions, allows potions to be drunk in 0.5 seconds instead of 2, and increases the regeneration of health regeneration potions when drunk.
+-   The Potion Quaffer talent reduces the slowdown from drinking potions, allows potions to be drunk much quicker, and increases the regeneration of health regeneration potions when drunk.
 -   The Placebo Effect talent applies potion effects to your allies when you drink a potion near them.
 -   The Chain Reaction talent amplifies the effects of potions if they are applied to characters that already have one (replacing the old effect). It also adds a 25% chance not to use up a potion when drinking one.
 -   The Chemist's Bag talent causes potions to no longer be dropped on death.
@@ -234,7 +234,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td><a href="Plumfruit.md">Plum</a></td>
+  <td>Plumfruit</td>
   <td></td>
   <td></td>
   <td>Strongest</td>
@@ -355,22 +355,22 @@ If multiple ingredients have the same listed effect strength (for example, are m
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
-Eggs, lotuses, all types of fish, fish meat, galewax, sticks and all types of minerals and pure minerals are also valid ingredients, but they don't appear to have any effects.
+Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of minerals and pure minerals are also valid ingredients, but they don't appear to have any effects.
 
 ### Salts
 
-The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion.
+The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion. Any potion created with these salts no longer be droppable and cannot be banked, meaning they will become locked to your [Saltchemist](Oath%253A_Saltchemist.md) character, if you wish to create potions for a friend or different character, avoid using these.
 
-Biotic Salts alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive, and should be added to all potions.
+Biotic Salts alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive and should be added to all potions, unless you plan to give them to a friend.
 
-Aromatic Salts cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect, and can improve the effective duration of the effect by up to 10 seconds.
+Aromatic Salts cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect and can improve the effective duration of the effect by up to 10 seconds.
 
-Antithetic Salts invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed, and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparitively weak slowing effect of Sap and Goblettos.
+Antithetic Salts invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and Goblettos.
 
 ## Effects
 
   
-Tiers are listed in order of strength, with the strongest tier listed first. Ingredients are also listed in the same order.
+Tiers are listed in order of strength, with the strongest tier listed first.
 
 <table><caption>Effects</caption>
 <tbody>
@@ -388,7 +388,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Bamboo Bundle</td>
   <td>Instantly decrease ether</td>
-  <td></td>
+  <td>Opposite effect to <b>Soothing.</b></td>
 </tr>
 <tr>
   <td><b>Soothing</b></td>
@@ -398,39 +398,31 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Dentifilo<br>
   Bluecap</td>
   <td>Instantly increase ether</td>
-  <td>Opposite effect of <b>Appalling</b>.<p>Used to affect reservoir. Post verse 2, instantly restores ether.</p></td>
+  <td>Opposite effect to <b>Appalling</b>.<p>Used to affect reservoir. Post verse 2, instantly restores ether.</p></td>
 </tr>
 <tr>
   <td><b>Disgusting</b></td>
   <td>Bane<br>
   Blight</td>
-  <td>Bluecap<br>
-  Browncap<br>
-  <p>Dentifilo<br>
-  Pomar</p></td>
+  <td>Bluecap<p>Browncap</p>
+  <p>Dentilfo</p>
+  <p>Pomar</p></td>
   <td>Instantly deals a small amount of damage.</td>
-  <td>Opposite effect to <b>Rejuvenating</b>.<br>
-  The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option.<br>
-  However, the damage is increased against mobs, making them a somewhat viable choice when attempting to kill a mob while running away or getting a bit of damage in before it notices you. It is currently unknown by exactly how much the damage is increased<p><br>
-  <s>Does nothing when drank. Only deals damage when thrown.</s> As of Feb. 10th, 2024(?) disgusting potions now deal damage when drank.</p></td>
+  <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option. However, the damage is increased against mobs, making them a somewhat viable choice when attempting to kill a mob while running away or getting a bit of damage in before it notices you. It is currently unknown by exactly how much the damage is increased.</p></td>
 </tr>
 <tr>
   <td><b>Rejuvenating</b></td>
   <td>Salve</td>
   <td>Redd</td>
   <td>Instantly restores a small amount of health.</td>
-  <td>Opposite effect to <b>Disgusting</b>. Signified by a green flash. Strangely, seems to only work when thrown.<br>
-  The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with Focusing from Wheat.<p>Has seemingly no effect on <a href="Enemies.md">enemies</a><br>
-  <br>
-  Only one recipe for a potion with the Rejuvenating name is known - 3 redds and 1 wheat. Any other ratio causes a different effect to be more powerful.</p></td>
+  <td>Opposite effect to <b>Disgusting</b>. Signified by a green flash. Strangely, seems to only work when thrown.<p>The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
 </tr>
 <tr>
   <td><b>Dulling</b></td>
   <td>Potion<br>
   Bane<br>
   Blight</td>
-  <td>Crustacean Meat<p>Gathered Wheat<br>
-  </p>
+  <td>Crustacean Meat<p>Gathered Wheat</p>
   <p>Alestrian Coral</p></td>
   <td>Reduces damage dealt.<br>
   Appears to have a reduced effect on low damage attacks (like daggers).</td>
@@ -452,7 +444,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</p></td>
   <td>Calabash<br>
   Redd</td>
-  <td>Drains Ether for 15 seconds.</td>
+  <td>Rapidly drain Ether from affected targets</td>
   <td>Opposite effect to <b>Focusing</b>.</td>
 </tr>
 <tr>
@@ -460,7 +452,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Elixir<br>
   Salve<p>Tincture</p></td>
   <td>Gathered Wheat<p>Sap</p></td>
-  <td>Greatly increases Ether regeneration for 15 seconds.</td>
+  <td>Greatly increase Ether regeneration.</td>
   <td>Opposite effect to <b>Icky</b>.<br>
   The strongest effect on wheat is Dulling, so a potion with the Focusing prefix can only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</td>
 </tr>
@@ -472,19 +464,16 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Tincture(?)<br>
   Elixir</td>
   <td>Bluecap</td>
-  <td>Rapidly restores Sanity.<br>
-  Might also instantly restore Ether and deal a small amount of damage, though it's possible this comes from other effects on the bluecap.</td>
-  <td>Opposite effect to <b>Mindbreaker</b>.<br>
-  Since it's such a powerful effect that can only be cancelled out by Mindbreaker (both of which need rare ingredients), it's difficult to test if bluecaps have many different effects, or if the Heartening effect just does many different things.</td>
+  <td>Rapidly restores Sanity.</td>
+  <td>Opposite effect to <b>Mindbreaker</b>.</td>
 </tr>
 <tr>
   <td><b>Mindbreaker</b></td>
   <td>Bane<br>
   Blight<p>Potion</p></td>
-  <td>Urchin<p>Seaweed Bundle</p></td>
-  <td>Gives Insanity,</td>
-  <td>Opposite effect to <b>Heartening</b>.<br>
-  As running out of sanity will kill you instantly (if you've lost all your hp), these potions are very dangerous if you manage to land enough of them. Unlike nasty potions, Mindbreaker potions actually pose a threat.</td>
+  <td>Urchin<p>Seaweed Bundle Scallop Chum</p></td>
+  <td>Gives Insanity.</td>
+  <td>Opposite effect to <b>Heartening</b>.<p>These potions surprisingly have many uses, since opponents at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed, it allows these potions to act a budget version of the <a href="Blood_Scourge.md">Blood Scourge</a> <a href="Resonance.md">Resonance</a></p></td>
 </tr>
 <tr>
   <td><b>Invigorating</b></td>
@@ -494,17 +483,16 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Salve</td>
   <td>Beeswax<br>
   Gobletto</td>
-  <td>Applies a 15 second regeneration effect.</td>
-  <td>Opposite effect to <b>Grueling</b>.<p>Has seemingly no effect on <a href="Enemies.md">enemies</a></p></td>
+  <td>Applies a regeneration effect.</td>
+  <td>Opposite effect to <b>Grueling.</b></td>
 </tr>
 <tr>
   <td><b>Grueling</b></td>
   <td>Bane<br>
   Blight</td>
   <td>Plumfruit</td>
-  <td>Deals a small amount of damage over 15 seconds.</td>
-  <td>Appears to be the opposite effect to <b>Invigorating</b>.<br>
-  The prefix of a potion brewed using only plumfruit depends on the talents of the brewer - if the brewer only has Apothecary, the prefix is Strengthening.</td>
+  <td>Deals a small amount of damage over the potion duration.</td>
+  <td>Opposite effect to <b>Invigorating</b>.<p>The prefix of a potion brewed using only plumfruit depends on the talents of the brewer - if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
 </tr>
 <tr>
   <td><b>Steadfast</b></td>
@@ -514,16 +502,16 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Salve</td>
   <td>Calabash<br>
   Bamboo Bundle</td>
-  <td>Increases maximum posture for 15 seconds.</td>
-  <td>Opposite effect is <b>Buckling</b>.</td>
+  <td>Increases maximum posture for the duration of the potion.</td>
+  <td>Opposite effect to <b>Buckling.</b></td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
   <td>Bane<br>
   Blight</td>
   <td>Ongo</td>
-  <td>Decreases maximum posture for 15 seconds.</td>
-  <td>Opposite effect is <b>Steadfast</b>.</td>
+  <td>Decreases maximum posture for the duration of the potion.</td>
+  <td>Opposite effect to <b>Steadfast.</b></td>
 </tr>
 <tr>
   <td><b>Hastening</b></td>
@@ -532,31 +520,30 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Salve<br>
   Tincture</td>
   <td>Alestrian Coral<p>Pomar</p></td>
-  <td>Applies a 15 second speed boost.</td>
-  <td><s>We currently don't know how to find the name of the opposite effect.</s> Opposite of <b>Slowing</b>.</td>
+  <td>Applies a speed boost for the duration of the potion.</td>
+  <td>Opposite effect to <b>Slowing.</b></td>
 </tr>
 <tr>
   <td><b>Slowing</b></td>
   <td>Blight</td>
   <td>Beeswax<p>Gobletto</p>
   <p>Sap</p></td>
-  <td>Reduces speed temporarily.</td>
-  <td>Opposite effect is <b>Hastening</b>.<br>
-  <s>We can see that this effect exists and cancels Hastening, though the real name is unknown (kinda) as there is no known way to brew a potion where it is the strongest effect.</s> Using the Antithetic Salts on what would have otherwise been a Hastening Salve, a Slowing Blight was created</td>
+  <td>Reduces speed for the duration of the potion.</td>
+  <td>Opposite effect to <b>Hastening</b><p>This potion used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name, however, with the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for <b>Hastening</b> potions, allowed for its creation</p></td>
 </tr>
 <tr>
   <td><b>Staggering</b></td>
   <td>Salve</td>
   <td>Ongo</td>
   <td>Increases posture damage dealt.</td>
-  <td>Opposite effect is <b>Weakening</b></td>
+  <td>Opposite effect to <b>Weakening.</b></td>
 </tr>
 <tr>
   <td><b>Weakening</b></td>
   <td>Potion</td>
   <td>Alestrian Coral</td>
   <td>Decreases posture damage dealt.</td>
-  <td>Opposite effect of <b>Staggering</b><p><s>True name unknown.</s> Using 2 Ongos, 1 Bamboo Bundle, and 1 dentifilo combined with antithetic salts will reveal Weakening's name</p></td>
+  <td>Opposite effect to <b>Staggering.</b></td>
 </tr>
 </tbody>
 </table>
@@ -585,12 +572,12 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 -   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores Ether.
-    -   Alternatively, for Saltchemists, an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops, with an Antithesis salt.
+    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops, with an Antithesis salt.
 -   **Insanity** (Mindbreaker) - 3 Urchins + 2 Seaweed/Scallops
     -   With the Apothecary talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
 -   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs
-    -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
-    -   Alternatively, for Saltchemists, 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
+    -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or Browncaps) are added to reduce this effect.
+    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
 -   **Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
     -   Rapidly drains ether for a decent amount of time. Can very quickly drain the target's entire ether bar while preventing them from gaining it back.
 -   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
@@ -628,27 +615,18 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 ## Important Ingredient Locations
 
-### These are not the only locations these ingredients can be found, but these are the best routes to obtaining them the fastest.
+These are not the only locations these ingredients can be found, but these are the best routes to obtaining them the fastest.
 
-Insanity Potion Ingredients: [https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA)
-
-Alestrian Coral: [https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA)
-
-Beeswax: [https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA)
-
-Browncaps: [https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA)
-
-Calabash: [https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA)
-
-Pomar: [https://medal.tv/games/roblox/clips/25kTqSUJe\_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTqSUJe_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA)
-
-Goblettos: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA)
-
-Bluecaps: [https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA)
-
-Redds: [https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA)
-
-Spider Eggs: [https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA)
+-   Insanity Potion Ingredients: [https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA)
+-   Alestrian Coral: [https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA)
+-   Beeswax: [https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA)
+-   Browncaps: [https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA)
+-   Calabash: [https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA)
+-   Pomar: [https://medal.tv/games/roblox/clips/25kTqSUJe\_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTqSUJe_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA)
+-   Goblettos: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA)
+-   Bluecaps: [https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA)
+-   Redds: [https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA)
+-   Spider Eggs: [https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA)
 
 ## Trivia
 

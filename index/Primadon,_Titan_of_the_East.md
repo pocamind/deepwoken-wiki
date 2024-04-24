@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 96251
+revid: 96862
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -182,6 +182,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   Umbral Obsidian
 -   Ardour Manifestation
 -   Idol of Yun Shul
+-   Void Spire
 
  |
 
