@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 96318
+revid: 96837
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -48,3 +48,4 @@ The Imperial Staff possess three different criticals, all of which grant the use
 -   The first (and currently only) weapon to scale off of Strength, and the only Medium Weapon that requires Strength.
 -   The first blunt spear.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers.
+-   This weapon cannot be enchanted.

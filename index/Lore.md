@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96835
+revid: 96843
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -27,7 +27,7 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 ## Figures
 
-sha
+same
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 

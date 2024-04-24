@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 96787
+revid: 96840
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -22,9 +22,9 @@ categories: [World, Items]
 
 ## Description
 
-Dying Embers are an [Attunement](Attunements.md) item with the primarily used to unlock the [Flamecharm](Flamecharm.md) attunement. Secondary uses include being a crafting ingredient and consumable.
+Dying Embers are an [Attunement](Attunements.md) item with the primary use of unlocking the [Flamecharm](Flamecharm.md) attunement, and doubling as a consumable, which gives a small amount of Flamecharm training.
 
-To unlock Flamecharm, you must give five (two if previously obtained) Dying Embers to [Amashi](Amashi,_Master_of_Flame.md), the Flamecharm [trainer](Attunement_Trainers.md).
+To unlock Flamecharm, you must give five (two if you've previously obtained [Flamecharm](Flamecharm.md)) Dying Embers to [Amashi](Amashi,_Master_of_Flame.md), the Flamecharm [trainer](Attunement_Trainers.md).
 
 ## Obtainment
 

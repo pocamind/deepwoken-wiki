@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 94560
+revid: 96845
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,7 +11,7 @@ categories: [Mechanics]
 | Knowledge | |
 |---|---|
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables |
-| obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating certain bosses, Echoes upgrades |
+| obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating certain bosses, Defeating certain unique mobs for the first time, Echoes upgrades |
 
 “ Do you have the knowledge within you then, my dull friend? ”
 
@@ -56,7 +56,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 
 Assuming no repeatable methods (No Klaris and repeatable bosses knowledge only done once), the maximum obtainable knowledge is 58.
 
-The limit of on-hand Knowledge a player can have is 100 **The currency is bound to a slot and is lost upon wipe.**
+The limit of on-hand Knowledge a player can have is 99. **The currency is bound to a slot and is lost upon wipe.**
 
 A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-FWgMiHhZwltjNjVejLS9nFHQgqAnFWY/edit).
 
