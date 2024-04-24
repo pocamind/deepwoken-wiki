@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96811
+revid: 96835
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -26,6 +26,8 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
 
 ## Figures
+
+sha
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
@@ -922,11 +924,11 @@ An Authority Captain
     -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
-    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worhsip The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
+    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worship The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
     -   Their previous home, or some sort of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
     -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
--   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for the Lord Regents own interests.
+-   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for the Lord Regent's own interests.
 -   The Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
@@ -1388,7 +1390,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:**
 
 -   The power to harness the darkness within. The Ministry are known to use this Attunement.
-    -   Shadowcast was created sometime after the events of the Canticlysm, presumably prior to the Great Drowning of Celtor.
+-   It was the first attunement ever discovered, and destabilised the balance of the world so greatly humanity rushed to find other attunements to balance it out.[\[1\]](#cite-note-rag-1)
 -   _Stars Above, and the Blade Between_ states that it is extremely rare, and usage of it in Etrea is outlawed to prevent misuse.
 -   Nightblood can be harvested through a machine that drains the ether of those placed in it.
 -   Considered taboo, as it exists to drain life.[\[1\]](#cite-note-rag-1)
@@ -1443,14 +1445,14 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   A Blindseer becomes stronger as they free lost souls (pathfinders) from the Depths via the Depth trials. This is due to the fact that their duty entails protecting others from the horrors of the waking world, and to guide those who are not capable of tackling such a feat back to their lives ignorant to what lies below.
 -   Blindseers are not required to be naturally blind. As long as their vision is obscured, the effects of the Oath will manifest.
 -   Blindseers lose their vision in exchange for an alternate form of vision. To the player, this is the blue-vision they receive while being blinded with the Oath, though whether this is the result of drastically heightened perception, or a literal alternate vision for them, is unknown.
--   The lost of vision and heightened sanity does not equal to immunity towards insanity. Blindseers are still prone to the effects of insanity as they are still human.
+-   The loss of vision and heightened sanity does not equal to immunity towards insanity. Blindseers are still prone to the effects of insanity as they are still human.
 
 ### Visionshaper
 
 -   Counter part to Blindseer, those who vow to create illusions and manipulate reality, creating lies instead of searching for the truth.
 -   Visionshapers made a vow to the Nestmind, the "Mother/father" of all owls.
 -   Despite having great powers of reality bending, all Visionshapers are doomed to become food for the Nestmind.
-    -   Due to the fact that the Nestmind appears to be an entity that sustains itself through consuming (but not exclusively) human thought and concepts, hence only those who has a sophisticated enough mind is fit to be developed for consumption.
+    -   Due to the fact that the Nestmind appears to be an entity that sustains itself through consuming (but not exclusively) human thought and concepts, hence only those who have a sophisticated enough mind are fit to be developed for consumption.
 -   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilities, also that you need to interact with her to get the Oath.
     -   'Notorious' in the sense that she plays tricks with people who are, most likely, stranded on the harsh environments of Minityrsa, and sends them to their death whenever they don't play along. Likely resulting in many unwarranted deaths.
 
@@ -1463,8 +1465,8 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### **Jetstriker**
 
--   People who swore an Oath to flow with the Song and being its conductor.
--   Keepers of this Oath are alternative called 'Windrunners' due to their sheer speed, and likeness with aspects of the Wind. (Not to be confused with the Gale)
+-   People who swore an Oath to flow with the Song and be its conductor.
+-   Keepers of this Oath are alternatively called 'Windrunners' due to their sheer speed, and likeness with aspects of the Wind. (Not to be confused with the Gale)
 -   It is likely that some members of the Vigils swore this Oath, due to one of their abilities having its name while being learned at their temple.
 -   Jetstrikers are granted powers to manipulate their physical form to travel along with the Wind, along with several other powers that allows them to traverse far distances and overcome great peaks.
 
@@ -1491,7 +1493,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
     -   Primarily acquired by completing deeds of great courage for the Ignition Union, making them indebted to you.
     -   It is unknown if this Oath is exclusive to the Ignition Union.
     -   It is unknown if this Oath is directly tied to the Arc Suit that comes with the Oath.
-        -   Those this can potentially be the foundations of the Oath since one can only partake the Oath after being compatible with the Arc Suit.
+        -   Though these can potentially be the foundations of the Oath since one can only partake the Oath after being compatible with the Arc Suit.
 -   While it is fair to point out that the Arc Suit is just a piece of high-tech armor developed by the Ignition Union, it can be observed that the Arc Suit can only become complete by unlocking it's other modules by 'bonding' with the suit by way of overcoming great feats.
     -   This can be further supported by the fact that Arcwarder progression does not necessarily entail protecting others.
 -   The Arc Suit itself is summoned by way of Mantra, suggesting that the suit is also a manifestation of the Song, rather than being some sort of high-end tech completely.
@@ -1505,7 +1507,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### **Silentheart**
 
--   Silenthearts are people who have swore an Oath of pure hatred with the souls of the Voidsea to seek revenge against the people who abuse the Song for their own gain, primarily targeting the Masters of elements who teaches their usage of the Song across all Lumen.
+-   Silenthearts are people who have swore an Oath of pure hatred with the souls of the Voidsea to seek revenge against the people who abuse the Song for their own gain, primarily targeting the Masters of elements who teach their usage of the Song across all Lumen.
 -   Silenthearts swore this Oath in search of pure power against the Song itself, starting with rejecting the words of the Song. As the Song directly ties to the soul and heart of a person, their nature is directly manipulated and changed by Dreadstar, barring them from Mantras in exchange for other forms of power.
 -   Despite this, it is a common misconception that Silenthearts reject the Song.
     -   This is not the case as the Song isn't something that can be stamped out. Silenthearts exclusively reject the words of the Song, which are Mantras, vastly different from rejecting the Song entirely.
@@ -1520,7 +1522,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   Despite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people.
     -   This is technically knowledge that is exclusively learned at the Markor Citadel.
 -   Fadetrimming had likely originated from the Markor Citadel due to an extensive need of surgeons.
-    -   In contrast to the real world, [Barbers of the medieval times are, in fact, technically surgeons](<https://en.wikipedia.org/wiki/Barber%27s_pole#:~:text=Origin%20in%20barbering%20and%20surgery,-Antique%20red%20and&text=During%20medieval%20times%2C%20barbers%20performed,basin%20that%20received%20the%20blood).>) due to the fact that both are high precision jobs that demands accuracy.
+    -   In contrast to the real world, [Barbers of the medieval times are, in fact, technically surgeons](<https://en.wikipedia.org/wiki/Barber%27s_pole#:~:text=Origin%20in%20barbering%20and%20surgery,-Antique%20red%20and&text=During%20medieval%20times%2C%20barbers%20performed,basin%20that%20received%20the%20blood).>) due to the fact that both are high precision jobs that demand accuracy.
 
 ### **Contractors**
 
@@ -1547,7 +1549,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For example, Amorus Pleeksty became incredible in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
--   The consequences of becoming a Deepwoken aren't yet known, but their are drawbacks.[\[2\]](#cite-note-arch-2)
+-   The consequences of becoming a Deepwoken aren't yet known, but the drawbacks are .[\[2\]](#cite-note-arch-2)
     -   It results in unknown physical changes.[\[2\]](#cite-note-arch-2)
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
 
@@ -2172,7 +2174,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) Developer ragoozer
+1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) [1.77](#cite-ref-rag-1-77) Developer ragoozer
 2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) [2.78](#cite-ref-arch-2-78) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description

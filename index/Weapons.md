@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 96614
+revid: 96827
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2271,9 +2271,7 @@ This is the formula used to calculate the damage of a weapon with one scaled att
 
 -   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
 
-_[Damage calculator (Single Attribute Scaling weapons)](https://www.desmos.com/calculator/boe1cx95jl)_
-
-_[Damage calculator (Dual-Attribute Scaling weapons)](https://www.desmos.com/calculator/ltegxv7lc2)_
+_[Damage calculator (Single and Dual Attribute Scaling (Scaling rings included))](https://www.desmos.com/calculator/ympqzswp3v)_
 
 The formula to calculate the damage with damage multipliers taken into account is:
 
