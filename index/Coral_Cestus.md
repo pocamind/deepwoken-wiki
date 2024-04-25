@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 96142
+revid: 96913
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons]
 
 ## Description
 
-The **Coral Cestus** is a Cestus that requires 75 LHT to use.
+The **Coral Cestus** is a Fist Light Weapon that requires 75 LHT to use. It is mostly better than [Flamekeeper Cestus](Flamekeeper_Cestus.md) and it drops from either [Mudskipper Brute](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md).
 
 ## Critical
 

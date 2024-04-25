@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 96868
+revid: 96880
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -40,4 +40,3 @@ On the first critical you'll thrust towards your opponent, placing a string on t
 -   The only light weapon to be sheathed behind you instead of along your waist.
 -   Meeting the requirement of LHT, the damage is (23.1)
 -   At max LHT, the damage is (24.7)
--   This weapon strangely has the same name as [Cerulean](Cerulean.md), the [oathless](Oath%253A_Oathless.md) teacher, which could lead to his backstory or be a coincidence.

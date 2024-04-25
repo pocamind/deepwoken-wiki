@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 89526
+revid: 96916
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -126,3 +126,4 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to [Minityrsa](Minityrsa.md)'s lootpool.
 -   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
 -   Also known to some as "Gripseeker Isles" as there are many gankers in Songseeker. Better to farm in [Minityrsa](Minityrsa.md) instead.
+    -   This is mainly because Emel's quest requires you to kill someone here or because of the [guild banner](Guild_Banners.md).
