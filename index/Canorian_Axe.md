@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 87540
+revid: 96982
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -54,4 +54,8 @@ The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower E
 
 ## Trivia
 
+-   Meeting the non-alloyed requirement of HVY, the damage is (27.8)
+    -   Meeting the alloyed requirement, the damage is (36.2)
+-   At max HVY, the non-alloyed damage is (35.8)
+    -   At max HVY, the alloyed damage is (40.2)
 -   The alloyed version barely has any visual differences; you would have to practically have your camera inside the weapon to see the alloyed texture.

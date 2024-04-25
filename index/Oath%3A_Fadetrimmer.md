@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 96411
+revid: 96969
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -38,10 +38,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 This oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the user has scissors hanging off the side of their hip.
 
 File:FadeTrimmer.png
-
-## Upgrading
-
-Unlike most oaths, Fadetrimmer mantras are able to be upgraded to level 5. Every 10 hairstyle changes at a barber (cannot be in a guild base) allows you to level them up once.
 
 ## Abilities
 

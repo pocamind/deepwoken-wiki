@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 96156
+revid: 96984
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes]
@@ -68,7 +68,7 @@ File:Evansphere Handacks Obsidian.png
 ## Tips/Trivia
 
 -   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
--   The damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG accounting for the Bleed damage.
+-   The damage dealt with no proficiency and 100 HVY is approximately 55.6 DMG accounting for the Bleed damage.
     -   Note that Bleed bypasses Armor.
 -   Keep in mind that while using this weapon you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
 -   Commonly referred to and lives up to being one of the best PvE weapons due to its high damage and innate bleed.

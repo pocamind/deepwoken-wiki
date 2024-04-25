@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 92496
+revid: 96983
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -31,4 +31,6 @@ The Iron Birch is a [Heavy Weapon](Weapons.md) that is obtainable from [Minityrs
 
 ## Trivia
 
-The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).
+-   Meeting the requirement of HVY, the damage is (33.1)
+-   At max HVY, the damage is (38.4)
+-   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).

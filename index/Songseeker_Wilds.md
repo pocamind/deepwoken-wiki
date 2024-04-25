@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 96916
+revid: 96973
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -31,7 +31,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   A mineshaft containing several nodes of [Rock](Ores.md#rock), [Coal](Ores.md#coal), [Iron](Ores.md#iron) and [Gold](Ores.md#gold).
 -   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit, Ongos and Pomar.
 -   A small campsite on top of a hill.
--   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at the Derelict Highchurch.
+-   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at [the Derelict Highchurch](Derelict_Highchurch.md).
 
 ### Large Island
 
@@ -48,13 +48,11 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 #### Obelisk
 
 -   A glowing obelisk surrounded by monks.
-    -   Looking from the entrance, a [Thundercaller](Songseeker_Thundercaller.md) on the right, a [Flamecharmer](Songseeker_Flamecharmer.md) in the middle and a [Galebreather](Songseeker_Galebreather.md) or [Frostdrawer](Songseeker_Frostdrawer.md) on the left.
     -   Success in killing all three of these enemies will reward a chest. See loot table below.
 
 #### Ravine Entrance
 
 -   An entrance to a staircase that leads to the Songkeeper Temple, guarded by monks.
-    -   Looking across from the staircase, a Flamecharmer on the right, a Thundercaller on a cliff across in the middle and a Frostdrawer on the left by a tree.
     -   Success in killing all three of these enemies will reward a chest. See loot table below.
 
 ## Points of Interest
@@ -63,13 +61,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 ## Potential Enemies
 
--   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
--   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
--   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
--   [Songseeker Galebreather](Songseeker_Galebreather.md)
--   [Crimson Megalodaunt](Megalodaunt.md)
--   [Knife of Eylis](Knife_of_Eylis.md)
--   Astaroth, Sinner of Wind (Only appears if you take the quest for the Starkindred Oath)
+-   [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) (Only appears if you take the quest for the Starkindred Oath)
 
 ## Loot Table
 

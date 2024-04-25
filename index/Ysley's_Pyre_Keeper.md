@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96859
+revid: 96971
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-Ysley's Pyre Cleaver "Callow & Verdant"(full name) is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - The drop rate of this weapon is extremely low from these sources. It can also drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest). It scales off [Flamecharm](Flamecharm.md) and Heavy, however attacks that utilize the dagger scale with Light Weapon.
+Ysley's Pyre Keeper "Callow & Verdant"(full name) is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md) - The drop rate of this weapon is extremely low from these sources. It can also drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest). It scales off [Flamecharm](Flamecharm.md) and Heavy, however attacks that utilize the dagger scale with Light Weapon.
 
 The Pyre Keeper comes with the following passives:
 
@@ -40,7 +40,9 @@ The Pyre Keeper comes with the following passives:
 
 ## Critical
 
-Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding **Aerial**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect. While blocking the second attack, you get guardbroken.
+Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding
+
+**Aerial**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect. While blocking the second attack, you get guardbroken.
 
 **Normal:** Does 3 slashes (1 slow and 2 fast) while all of them inflict the yellow green-ish burn effect. Aftereffect of the critical is a major speed boost.
 
