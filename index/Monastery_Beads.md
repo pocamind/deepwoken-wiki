@@ -1,11 +1,9 @@
 ---
 title: Monastery Beads
-revid: 96770
+revid: 96953
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Torso]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Torso]
 ---
 
 # Monastery Beads
@@ -31,5 +29,5 @@ The Monastery Champion Beads are an [Equipment](Equipment.md) item under the "To
 
 ## Trivia
 
--   The Monastery Champion Beads are part of the "Monastery Champion" set, with the other pieces being the [Monastery Champion Robes](Monastery_Champion_Robes.md) and Monastery Cowl.
+-   The Monastery Champion Beads are part of the "Monastery Champion" set, with the other pieces being the [Monastery Champion Robes](Monastery_Champion_Robes.md) and Monastery Champion Cowl.
     -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.

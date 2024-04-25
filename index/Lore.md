@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96865
+revid: 96964
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1552,8 +1552,8 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### **Voidwalker/Void Oath**
 
--   The name and purpose of this Oath is unknown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Voidsea, due to the relation of Eylis between the Voidmother and the Voidsea itself.
--   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) and the [Old Knives of Eylis](Old_Knife_of_Eylis.md) with the ability to create a bubble around them that slows time for those who are not Voidwalkers.
+-   The name and purpose of this Oath is unknown, however it is known that some worthy mercenaries of the Knives of Eylis make an Oath with Eylis herself to gain abilities such as time manipulation.
+-   Despite being a rare Oath that only a few Knives have, it can be seen being used by the [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) and the [Old Knives of Eylis](Old_Knife_of_Eylis.md) with the ability to create a bubble around them that slows time for those who are not Knives.
 
 ## Murmur Lore
 
@@ -1564,18 +1564,17 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   An application of the Song that allows the user to channel the Murmur into raw strength.
     -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
-    -   Ardour is "the only known Murmur capable of wounding \[an Edenkite\]" - ancient, giant, serpent-like creatures capable of flight. The two creatures' links - from Murmur to appearance - suggest further lore.
+    -   Ardour is "the only known Murmur capable of wounding \[an [Edenkite](Edenkite.md)\]".
 -   Those who wield the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
     -   Focusing on the sounds of Ardour, whispers can be heard.
 -   Ardour can also be used as a form a scream; inflicting fear to those around them.
 -   The King of Etrea is mentioned to have this Murmur. It was said that this Murmur "could cut the sea itself".
--   The roar produced by Ardour Scream, is similar to a Megalodaunt's roar, it both emits purple ripples, has the same sound, and inflicts insanity.
+-   The roar produced by Ardour Scream is similar to a Megalodaunt's roar, both emit purple ripples, have the same sound, and inflict insanity.
 
 ### Whispers of Tacet
 
 -   An application of the Song that enables the user to suppress their Murmur, turning themselves invisible to the naked eye.
     -   It can be obtained by performing a handful of assassinations for [Cestis](Cestis.md), a Ganymede located in the outskirts of [Meteor Isle](Meteor_Isle.md).
-
 -   Ministry Agents or Scouts can utilize this Murmur.
 -   Alpha and Crimson Megalodaunts can somehow use its power too.
 -   Some Kyrsgarde are able to use this Murmur.
@@ -1593,7 +1592,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 **Lore Sources:** _Area descriptions_
 
 -   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the great Nation of Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
--   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
+-   It is unknown what purpose the Cathedral would have served in a time before The Tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
 
 ### Life before the Tides
 
@@ -1722,7 +1721,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Resonances can consist of any instrument, not just Bells.[\[2\]](#cite-note-arch-2)
 -   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[7\]](#cite-note-yama-7) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
-    -   Corrupted resonance downsides are a misuse of the Song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the Song. These resonances have a heavy toll not only on the user, but on the Song. Therefore creating the corrupted effect.
+    -   Corrupted resonance downsides are a misuse of the Song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the Tides are created by the further misuse of the Song. These resonances have a heavy toll not only on the user, but on the Song. Therefore creating the corrupted effect.
 
 ### **Voidfog**
 
@@ -1827,8 +1826,8 @@ This category lists new lore that has been added into Deepwoken through updates 
 -   The Divers discover a passage through the Second Layer and into New Kyrsa.
 -   Chaser betrays his expedition.
 -   Chaser is killed.
--   The Aratel sea is separated from the Etrean Sea by gates.
--   Zi'eer begins to rebuild the contractors.
+-   The Aratel Sea is separated from The Etrean Sea by gates.
+-   Zi'eer begins to rebuild the Contractors.
 -   Tirans and Chrysids are drawn out and become more common in the world.
 
 ### Year 1383
@@ -2101,7 +2100,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   Pleeksty consumed the essence of Korilfiend in the form of a flower in the third layer, giving him a portion of Korilfiend's power.
         -   The First Prophet ate a piece of an unnamed Drowned God.
         -   There are lotuses found in Voidzones that give stat attributes when consumed as a potion.
-        -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
+        -   The Attunement trainers give you a vial of their blood to drink to unlock attunements.
         -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite, and after that became a Dread Serpent.
 -   Purple
     -   The color purple is often a motif of Drowned Gods or those connected to Drowned Gods
@@ -2135,7 +2134,7 @@ _**Theme of the Ministry**_
 
 _"An old, semi-scratched record plate rests inside a black leather sleeve, the latter still in solid condition - although the opening flap is a little worn at the folded edge._ _There is no visible text on this packaging - neither outside it, nor within it. Instead, at the front of the sleeve, a singular symbol of sorts stands out, etched into the leather in gold. The significance of the symbol - and, indeed, its meaning, - escape you._ _Upon closer inspection, the sleeve's flap hides a cut in it - a pouch, it seems. Within it is contained a small piece of paper. It looks as if it was torn from a book of some kind, its appearance weathered, the paper itself now bearing a rich sepia tone. There is some sort of writing on it, artfully calligraphed onto the insignificant-looking paper scrap: "Defy the hush-makers. Let the glorious song ring on. We shall sing with the tide, 'til a new Celtor sinks!"_
 
--   It is given that the dialogue of "Masters of the House" has Ministry written all over it; as they mentioned the new Celtor. This is a metaphor for the next nation to undergo a Great Drowning.
+-   It is given that the description of "Masters of the House" has Ministry written all over it; as they mentioned the new Celtor. This is a metaphor for the next nation to undergo a Great Drowning.
 -   As of 1/22/22, it is unknown when the record was composed in, but it's speculated that it was created during the first century of the New World.
 -   Based on Naktigonis, there is a gramophone in an area that is currently cut in the game.
 
@@ -2160,7 +2159,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   Just like what the description says, Memory of Tides was composed in the Old World.
 -   The script was presumably written by a member of The Hive; due to a fact that the record can be found within a secret room in Greathive Aratel.
     -   It is unknown what year the writing was written.
--   The script talks of the Depths creating a ripple effect across both the land and sky from the ocean. It's a possibility that the Tides managed to eradicate a majority of the Celestials from ocean to space.
+-   The script talks of the Depths creating a ripple effect across both the land and sky from the ocean.
 
 ## Trivia
 

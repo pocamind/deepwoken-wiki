@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 96618
+revid: 96962
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -43,7 +43,7 @@ Wiping below power 6 is known to keep the Mute Regalia if the wiped character ha
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)
     -   [Lesser Angel](Hollow_Angel.md#lesser-angel) (if not summoned by a Watcher)
-    -   [Immortal Guardians](Immortal_Guardian.md) (will not execute the player, but instead calls the player "PRIMATIVE." and returns to their spot)
+    -   [Immortal Guardians](Immortal_Guardian.md) (will not execute the player, but instead insults the player and returns to their spot)
 
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](Thresher.md#king-thresher)

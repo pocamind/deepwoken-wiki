@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 96347
+revid: 96959
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -406,7 +406,7 @@ Found from:
 
 [Bloodforged Crown](Bloodforged_Crown.md)
 
-(Legendary)
+(Mythical)
 
  | 
 
@@ -964,6 +964,32 @@ _+1 Posture_
 Found from:
 
 -   Mob drop from [Mineskippers](Mudskipper.md#mineskipper)
+
+ | N/A |
+| 
+
+File:Monastery Champion Cowl NEW.png
+
+ | 
+
+Monastery Champion Cowl
+
+(Legendary)
+
+ | 
+
+_+5% Stealth_  
+
++2 Rare Pips
+
+_+Talent: Blade Dancer_
+
+ | 
+
+Found from:
+
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Etris: Siege](Cinders_of_Etris.md)
 
  | N/A |
 |  | 
@@ -2253,6 +2279,34 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
+| 
+
+File:Monastery Champion Robes NEW.png
+
+ | 
+
+[Monastery Champion Robes](Monastery_Champion_Robes.md)
+
+(Legendary)
+
+ | 
+
+_+8 Health_  
+
++1 Rare Pip  
+
++2 Legendary Pips
+
+_+Talent: Temple Guard_
+
+ | 
+
+Found from:
+
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Etris: Siege](Cinders_of_Etris.md)
+
+ | N/A |
 |  | 
 
 [Novice Brace](Novice_Brace.md)
@@ -3499,6 +3553,30 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+
+ | N/A |
+| 
+
+File:Monastery Champion Beads NEW.png
+
+ | 
+
+Monastery Champion Beads
+
+(Legendary)
+
+ | 
+
+_+3% Elemental Armor_  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Etris: Siege](Cinders_of_Etris.md)
 
  | N/A |
 |  | 
