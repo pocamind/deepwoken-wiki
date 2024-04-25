@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 96847
+revid: 96940
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -96,6 +96,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Also affect players with no outfit (Stranded Outfit)
     -   Prerequisite: 60 Ironsing
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
+    -   Successful procs will color the user temporarily grey/gold depending on if user has Gilded path or not.
     -   Prerequisite: 75 Ironsing
 -   _Phantom Edge_ \[Rare Talent, Ironsing Exclusive\] - Your weapon M1's have +0.25 range.
     -   Prerequisite: 75 Ironsing
@@ -114,15 +115,17 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
         -   Galebreath: Green
         -   Shadowcast: Purple
         -   Ironsing: Grey
+    -   Does not effect Oath, Attunement-less, or Monster mantras.
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
-    -   "Max ether" means having more than 95% ether.
+    -   "Full ether" refers to having more than 95% ether.
     -   Prerequisite: 40 Intelligence
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
+    -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modiers.
     -   Prerequisites: 85 Intelligence
 
 ### Aerial Dancer
@@ -136,19 +139,24 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I am a master of the winds."**_
 
 -   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
-    -   Automatically ends after 5 seconds.
-    -   The Old Wind has been merged into Aerogliding. \[Galebreathe Exclusive\] -
-        -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
+    -   Reduces falling speed and prevents fall damage.
+    -   Has a windup of about ~1s.
+    -   Automatically ends after 5 seconds. (Can be reactivated after deactivation, therefore, after deactivation, you can dash upwards and reactivate it to not take any fall damage.)
+    -   The Old Wind talent has been merged with Aerogliding.
+    -   Greatly reduces height loss with glider, allowing for longer distances to be traveled with the glider. Can even glide from major islands to another nearby.
     -   Prerequisites: 35 Galebreathe, 30 Agility
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
+    -   Cancels pickup of any players knocked by you for ~3s, and grants you a speed boost if you pickup the knocked player.
+    -   Pickup cancellation can be activated multiple times.
     -   Prerequisite: Wind Step
 
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Instead of the Galetrap mantra sticking to surfaces hit, and activating upon a player stepping on it, it will instead activate upon contact with any surface.
     -   Prerequisite: Galetrap
 
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them.
+    -   Gale punch mantra will now pull players towards the user during the windup of the mantra. (Cannot be feinted)
     -   Prerequisite: 20 Galebreathe, Gale Punch
 
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
@@ -158,6 +166,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Will also cancel all momentum from jumping.
     -   Prerequisite: Suffocating Impact
 
 ### Alchemist
@@ -169,23 +178,28 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisites: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown. (More info on the [potions](Alchemy.md) page.)
-        -   This talent was merged with the old Exterminator talent.
+        -   This talent was merged with the old Exterminator talent. (Although the [Alchemist's Hat](<Alchemist's_Hat.md>) and [Big Alchemist Hat](<Big_Alchemist's_Hat.md>) still have this talent)
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
+    -   Will proc on any player with a potion effect, does not replace the current effect.
+    -   Synergizes with [Aromatic Salts](Oath%253A_Saltchemist.md), as it will automatically reapply potion effects.
     -   Prerequisite: 80 Intelligence
         -   This talent was merged with the old Taste Test talent.
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
     -   Prerequisite: 80 Intelligence
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
-    -   Now is 100% chance of proccing but much shorter range
+    -   Was reworked to have 100% chance of proccing (Previously 25%) but with a much smaller range.
+    -   Also procs potion sickness, causing allies to throw up upon usage, on potion sickness inflicted players.
     -   Prerequisites: 60 Intelligence
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions faster. (~0.5 seconds faster)
+    -   Increases the strength of regeneration potion ingredients for the user.
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
         -   This talent was merged with the old Subsistence talent.
 -   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
+    -   Around ~20-25% chance.
     -   Prerequisites: 25 Intelligence
 
 ### Alley Cat
@@ -217,13 +231,14 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I seek out Amorus Pleeksty."**_
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 5% extra damage and 10% extra speed.
-    -   Unlike normal burn, Flame Within's burn is not cleared by rolling. Flame Within burn will last up to 30 seconds or until Flame Within is reused.
+    -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
-    -   7 seconds cooldown when the flames are cleared.
+    -   7 seconds cooldown once flames are cleared.
     -   Prerequisite: 25 Flamecharm
 
 -   Last Laugh \[Common Talent, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity)
     -   Enable the usage of Flame Within while knocked. This is meant to synergize with Phoenix Flames.
+    -   Will lower the strength of Phoenix Flames from 50% to 25% healing.
     -   Prerequisites: 30 Flamecharm, Flame Within
 
 ### Angler
@@ -259,6 +274,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
+    -   ~25-40% tempo gain, ~40-75% ether gain, ~1-2% blood gain, ~?% health gain (Needs testing)
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
@@ -332,25 +348,27 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
+    -   You can only heal posture in combat by standing still and not blocking.
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
+    -   Only works for the first hit after being block broken, making multi-hits to be barely reduced.
     -   Prerequisites: 25 Fortitude
 
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
-    -   Negate movement speed penalty of blocking.
+    -   Lower the movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
-    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower
+    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower.
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to it's requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
+    -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN. (However does not reduce true damage at all.)
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
@@ -364,7 +382,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Giantslayer \[Common Talent\] - Deal more damage to larger foes. (+7 Sanity)
     -   Deal 10% more damage to larger foes.
-    -   "Larger foes" being anything that isn't a humanoid NPC. Essentially, anything in the monster category that is not a Mudskipper or Angel.
+    -   "Larger foes" being non-humanoid NPC. (Ex. Mudskippers, Angels, and Bandits)
     -   Prerequisite: 20 Willpower
     -   The head equipment "[Dark Owl Chapeau](Dark_Owl_Chapeau.md)" has this talent.
 
@@ -377,13 +395,14 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
-    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Kata Quest & using fists (0 Light Weapons)
+    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Kata Quest & obtaining fist from the [character creation screen](Character_Creation.md)/[Polis](Polis.md).
 
 ### Bruiser
 
 > _**"I am a master with my hands."**_
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
+    -   Can be procced by bleed, allowing for hitstun from a single M1 to proc Brazen Blow.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
@@ -393,6 +412,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Use a Greataxe, 30 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
+    -   Allows for quick greataxes to proc spinecutter after blockbreak (Such as [Skyreap Blade](Skyreap_Blade.md))
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapon
 
 ### Butterfly
@@ -409,13 +429,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
-    -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
-    -   20s Cooldown
+    -   Visual effect might not line up with duration.
+    -   Attacking will cancel the effect early.
+    -   Takes priority over block, allowing for you to dodge while simultaneously blocking.
+    -   20 second cooldown.
     -   Prerequisite: 25 Agility
-    -   Mutual Exclusive: _Leaf in the Wind_ Talents (Observation, Safety Dance)
+    -   Mutual Exclusives: Observation, Safety Dance
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (2 seconds).
+    -   Will also proc from dodging bleed, caused by dodging a m1 late.
     -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
     -   Prerequisites: 40 Agility, All Butterfly Talents
@@ -429,8 +452,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
-    -   Indicated by a gold cell-shade outline on your character.
-    -   Does not work on non humanoid Monsters.
+    -   Indicated by a gold shaded outline on your character.
+    -   Does not work on non-humanoid NPCs.
     -   Prerequisite: 25 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
@@ -442,27 +465,32 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I use the song to charm others."**_
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
-    -   Prerequisite 55 Charisma, Charismatic Cast
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Effect Lasts 15s
+    -   Synergizes greatly with bloodless gems, allowing for bloodless to heal 20% "more practical damage" at low hp.
+    -   Effect Lasts 15s (7.5s against Disbelief talent)
     -   Proc Cooldown: 0.25s
+    -   Prerequisite 55 Charisma, Charismatic Cast
 
 -   Morale Booster \[Common Talent, Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
     -   Prerequisite: 25 Charisma
     -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
 
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
+    -   Reduces damage taken by charmed targets by 10%
     -   Prerequisite: 25 Charisma
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
+    -   Doubles the duration of charm from 15s to 30s.
+    -   Counteracted by the Disbelief talent.
     -   Prerequisite: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same race or oath as you charms them briefly.
+    -   Does not effect mantra damage.
     -   Prerequisite: 25 Charisma, Charismatic Cast
-    -   Only works on M1s, not mantras (tested)
     -   Mutual Exclusives: Narcissist
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+    -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
     -   Prerequisites: 1 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
 
@@ -478,6 +506,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Cold Phantom."**_
 
 -   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled. (+5 Elemental Intensity)
+    -   7 seconds duration.
+    -   Procs Frozen Legs.
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
 ### Colossus
@@ -497,9 +527,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged.
     -   While the effect is active, victims can hold block to reduce the ether steal by half.
+    -   Getting hit will cancel the effect entirely.
+    -   Getting your block hit counts as being hit.
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
+    -   Heals the user by about ~2.5%
+    -   Pressing F during the windup will allow for Reinforce to effect non-allies (Turning Reinforce green), proccing Grand Support.
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
@@ -507,6 +541,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Cosmic Wind."**_
 
 -   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
+    -   Drains tempo on proc.
     -   Prerequisite: 40 Shadowcast, 60 Galebreathe
 
 ### Critical Specialist
@@ -533,6 +568,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
 -   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+    -   Activates the "Ice Spikes" mantra upon being stepped on.
+    -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Prerequisite: Ice Spikes, 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
@@ -540,7 +577,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Intelligence, 15 Frostdraw
 
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity)
-    -   If you were to catch fire while on ice, gain total immunity to the burning status effect.
+    -   If you were to catch fire while standing on ice, gain total immunity to the burning status effect.
     -   While the effect is active, the user breathes cold air.
     -   Prerequisite: 30 Frostdraw
 
@@ -556,14 +593,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
     -   Prerequisite: Ice Beam, 60 Frostdraw.
-    -   If the user has Crystallization, this talent no longer freezes but applies another crystal.
+    -   If the user has Crystallization, this talent no longer freezes but instead causes crystals to explode.
 
 ### Cutthroat
 
 > _**"I am ruthless. A knife for hire."**_
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
-    -   "Heavy Bloodloss" refers to a guard break.
+    -   "Heavy Bloodloss" refers to around 1 bar of blood. (Needs testing)
+    -   "Very short duration" (As described by Agamatsu)
     -   Prerequisite: 45 Agility
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
     -   Reduce grip time by 0.5 seconds (16.67% faster)
@@ -867,6 +905,7 @@ _**"I'm built different" - Cannot Give Talents**_
     -   Prerequisites: Ice Smash, 35 Frostdraw
 
 -   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while slide-jumping to perform a running attack with your ice sabers.
+    -   The talent activates **after** you've slide jumped, and not during the slide jump, unlike the talent description.
     -   Prerequisites: Ice Blades, 20 Frostdraw, 20 Agility.
 
 ### Frostdrawer
@@ -876,8 +915,8 @@ _**"I'm built different" - Cannot Give Talents**_
 -   Adept Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Prerequisites: 20 Frostdraw
 -   Cold Front \[Common Talent, Frostdraw Exclusive\] - Your vent is imbued with glacial frost.
-    -   Prerequisites: Cryonis, 25 Frostdraw
     -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
+    -   Prerequisites: Cryonis, 25 Frostdraw
 
 -   Expert Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
     -   Prerequisites: 30 Frostdraw
@@ -885,8 +924,8 @@ _**"I'm built different" - Cannot Give Talents**_
 -   Frostdrawer \[Frostdraw Exclusive\] - Grants you the ability to command Ice as a Frostdrawer.
     -   Prerequisites: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+6 Sanity)
+    -   Currently bugged or has a unknown effect (Does not increase frost patch sizes)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
-    -   Increases the size of your ice placed on the ground.
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Prerequisites: 50 Frostdraw
@@ -899,21 +938,22 @@ _**"I'm built different" - Cannot Give Talents**_
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
-    -   Durability of Orbital Ice is equal to "Frostdraw/4", reaching 25 at 100 Frostdraw.
+    -   Physical resistance of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25% physical resistance at 100 Frostdraw.
     -   Prerequisites: 65 Frostdraw, 20 Fortitude
 
 ### Frozen Warrior
 
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity)
-    -   Prerequisite: 60 Frostdraw
-    -   Works with Crystallization
-    -   Only works for 1.5 seconds
+    -   Works with Crystallization.
+    -   Lasts the first 1.5 seconds after chill/freeze procs.
+    -   Prerequisite: 60 Frostdraw.
 
 ### Gale Duelist
 
 > **"My wind fights for me."**
 
 -   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
+    -   Will also proc after a slide jump.
     -   Prerequisites: Wind Blade, 20 Galebreathe.
 
 ### Gale Kata
@@ -968,11 +1008,17 @@ _**"I'm built different" - Cannot Give Talents**_
 > _**"I seek the elegance of a Glassdancer."**_
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying chill or freeze now applies red ice crystals on the enemy instead. Stacking 5 ice crystals makes them explode.
+    -   Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals makes them explode.
+    -   3 base damage per crystal explosion. (Scales with frostdraw investment)
+    -   1s cooldown on explosion proc.
+    -   Increases damage of Crystal Impale and Crystal Knee.
+    -   Changes Chilling enchant to proc 1 crystal per hit.
+    -   Changes color of Gran Sudaruska and Chilling enchant to become a pinkish red color.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
 
 -   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
+    -   Will also damage the target that procced the crystal explosion, increasing total damage.
     -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
 
 -   Reclaimed Glass \[Common Talent, Frostdraw Exclusive\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds. (+5 Elemental Intensity)
@@ -1014,6 +1060,7 @@ _**"I'm built different" - Cannot Give Talents**_
 _**"I seek the qualities of Heat Column."**_
 
 -   Fan the Flames \[Common Talent, Dual Attunement\] - Your stored Wind mantras can now empower your Fire mantras.
+    -   The effects inhale transferring mantra modifiers on your next gale mantra used will now effect flame mantras.
     -   Prerequisites: Inhale, 40 Flamecharm
 
 ### Heretic
@@ -1058,6 +1105,7 @@ _**"I seek the qualities of Heat Column."**_
 > _**"I would see this world freeze"**_
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
+    -   Will stop all movement from players affected, and will prevent rolling.
     -   Prerequisite: 25 Frostdraw
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity)
@@ -1078,10 +1126,12 @@ _**"I seek the qualities of Heat Column."**_
     -   Instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
+    -   Is currently bugged, and will not heal the user regardless of circumstance.
     -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support talent etc.).
     -   If using Glass Path: Crystallization then every crystal applied will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
+    -   No longer procs Frozen Legs.
     -   Prerequisites: 100 Frostdraw
     -   Mutual Exclusive: Glass Path: Crystallization
 
@@ -1097,7 +1147,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
-    -   If you burn to death through the use of Last Laugh, the healing is reduced to 25%.
+    -   If burn was procced by the Last Laugh talent, the healing is reduced to 25%.
     -   Prerequisites: All Immolator Talents
 
 ### Inferno
@@ -2307,6 +2357,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I survive from the teachings of Master Stratos."**_
 
 -   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your M1's. (+4 Elemental Intensity)
+    -   Increases Curved Blade of Winds damage contrary to popular belief, but is only a 5% increase, compared to the regular 10%.
     -   Prerequisites: Inhale, 60 Galebreathe
 
 ### Visionshaper
@@ -2587,7 +2638,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) any [Attribute](Attributes.md), or by Defeating any Boss.
+-   Obtained by [Unbounding](Attributes_Unbound.md) weapons (HVY, MED or LHT) or your attunement, or by defeating any Boss.
 -   This talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
 ## Outfit Talents

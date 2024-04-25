@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 96813
+revid: 96927
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -61,6 +61,7 @@ _Piercing spikes of ice._
 -   Deals moderate damage and sends target into the air.
 -   Does not inflict Chill.
 -   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
+-   Can be modified with cloudstones/stratus stones to make the ice spikes bigger.
 
  |
 | 
