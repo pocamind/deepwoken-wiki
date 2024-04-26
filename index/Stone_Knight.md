@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 97018
+revid: 97052
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -214,16 +214,17 @@ A Stone Knight executes the player:
 
  | Slowly walks toward the player and then slashes the player with their sword, dismembering and killing them instantly. |
 
+## Tips
+
+-   Usually after every move, you can get 1-2 basic attacks off, unless they use the single swing, in which only go for one.
+
 ## **Trivia**
 
 -   When spawning Blizzard Knights on [Minityrsa](Minityrsa.md) (When the meteors fall), be sure to run all the way out of [Valley of Heroes](The_Valley_of_Heroes.md). If you aggravate one of the golems right when they spawn, all of them will aggro on you at once.
     -   To know if Blizzard Knights have been recently slain at the [Valley of Heroes](The_Valley_of_Heroes.md), you will see remains of the meteor's craters where they normally spawn. In other words, they look like irregular markings in the dirt.
--   **Blizzard Knights** are not affected by the "[Animal King](Regalia.md)" talent and will still attack if they spot you.
-    -   If you are quick enough you can run away and get some of them off your tail, but the closest ones will still follow you.
+-   The **Stone Knights** are not affected by the "[Animal King](Regalia.md)" talent and will still attack if they spot you.
 -   **Do note that Rogue Hive Constructs will not attack Blizzard Knights, they will instead team up on you if you decide to aggravate both of them.**
--   Recommended to dodge all attacks and get 1-2 hits in depending on if your HVY, MED, or LHT weapon. Unless it does the double slash in that case you want to dodge the first and quickly parry the second and get 1-2 hits in.
 -   Usually when a **Blizzard Knight** swings once, he'll either use **Kick** or **Terra Eruption**, so be prepared to dodge.
--   It is highly recommended to ragdoll cancel (right click during ragdoll) Terra Eruption and Kick to make sure you don't get hit by a follow up move.
 -   Terra Eruption and Kick can be blocked with enough posture.
 -   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.

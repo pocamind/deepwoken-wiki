@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 96914
+revid: 97054
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Mudskipper Brute
 
-_Also known as "Bruteskipper" or "Miguel"._ Template:Creature Infobox V3
+_Also known as "Bruteskipper"._ Template:Creature Infobox V3
 
 ## Description
 

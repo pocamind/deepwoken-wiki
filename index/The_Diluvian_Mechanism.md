@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 95909
+revid: 97057
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -56,7 +56,7 @@ If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs wi
 
 ### Ghostly Reminiscence
 
-If during the waves, the text "Your past comes to haunt you..." appears, then...? (Probably less HP regenerated naturally or at campfires) (this might be applying the restless flaw, the one you get from breaking an oath or something, there's a page on the restless flaw.)
+If during the waves, the text "Your past comes to haunt you..." appears, then...?
 
 ## Recommendations and Advice
 

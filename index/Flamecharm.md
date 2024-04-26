@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 97046
+revid: 97050
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -310,7 +310,7 @@ _Strike the ground, turning it to ash._
 -   ” Oh, doughnuts! So delicious, doughnuts!”
 -   Grabs any enemies In range of it.
 -   Inflicts burn.
--   Deals moderate-high damage.
+-   Deals moderate damage.
 -   Cannot be modified.
 -   Has 0.2 Seconds of Endlag
 -   Mantra continues if the second hit isnt parried.
