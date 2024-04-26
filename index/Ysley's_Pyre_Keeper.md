@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 96971
+revid: 97032
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -42,15 +42,15 @@ The Pyre Keeper comes with the following passives:
 
 Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding
 
-**Aerial**: Does 2 followup attacks, first one burns and puts you to the ground (similar like the Greathammer or -axe critical) and second ragdoll flings you while erupting the ground, removing the burn effect. While blocking the second attack, you get guardbroken.
+**Aerial**: Performs 2 consecutive attacks, first one is a slash that burns and inflicts knockdown and second is a ground slam that ragdoll flings the target creating a green fire explosion, removing the burn effect. The second hit guardbreaks.
 
-**Normal:** Does 3 slashes (1 slow and 2 fast) while all of them inflict the yellow green-ish burn effect. Aftereffect of the critical is a major speed boost.
+**Normal:** Performs 3 slashes (1 slow and 2 fast) while all of them inflict the lime burn effect. Aftereffect of the critical is a major speed boost.
 
-**Running:** Does a short-ranged dash forward with the blade facing forward and does a combo of grabbing, ragdoll swinging and dazing the player.
+**Running:** Performs a short-ranged dash forward with the blade facing forward. Hitting a target ends the dash making the user grab them, drag them clockwise around the user with the blade and fling them with an explosion that dazes.
 
 **Sliding:** Leap forward slashing with a flurry of 3 blows.
 
-**Crouching:** Does the same as the normal crit but sped up significantly.
+**Crouching:** Performs the normal crit but sped up significantly.
 
 ## Trivia
 
@@ -62,4 +62,6 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   The Weapon used to not change color if you had Azure/Twisted Puppets path. This was changed the next day after weapon's release.
 -   It is one of eight weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)
     -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
--   The community commonly refers to this weapon as the "Blade Ball sword" and "Murder Mystery sword" due to the particle effects, overly saturated GFX and overall look and feel of the weapon not matching other weapons artstyle-wise, even by Legendary Weapon standards.
+-   The community commonly refers to this weapon as the "Blade Ball sword" and "Murder Mystery sword" due to the particle effects, overly saturated GFX and overall look and feel of the weapon not matching other weapons art-style-wise, even by Legendary Weapon standards.
+-   The sliding critical's slashes don't match the animations.
+    -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.

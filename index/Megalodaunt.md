@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 96836
+revid: 97010
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -386,7 +386,7 @@ Roar
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first true monster most players encounter and most have been fighting humanoids up until that point.
 -   The Megalodaunt roars when it spawns in and periodically afterwards, revealing its presence.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) gear or the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit equipped.
--   Do **not** fight a Megalodaunt on low ping if you are inexperienced unless you can simply tank it. The kicks can be devastating in the wrong places.
+-   Do **not** fight a Megalodaunt on high ping if you are inexperienced unless you can simply tank it. The kicks can be devastating in the wrong places.
 -   Megalodaunts in general are a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
     -   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.

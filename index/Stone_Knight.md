@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 96619
+revid: 97018
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -146,7 +146,7 @@ A Stone Knight executes the player:
 
  | Slowly walks toward the player and then slashes the player with their sword, dismembering and killing them instantly. |
 
-**Astral Knight:**
+**Star Knight:**
 
 Template:Creature Info Box v2
 

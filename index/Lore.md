@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 96964
+revid: 97009
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -83,7 +83,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The second strongest of the nine Ministry Prophets.[\[1\]](#cite-note-rag-1)
 -   Gave Chaser his hemokinetic abilities.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   Master of Chaser and probably other apprentices.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
--   His only known power is blood control likely much more powerful than Chaser's blood powers.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
+-   His only known power is blood control, which is likely much more powerful than Chaser's blood powers.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 
 ### **The 5th King of Etrea**
 
@@ -134,7 +134,7 @@ The Duke
 
 -   "Maestro" [Evengarde Rest](Evengarde_Rest.md) is the presumed leader of the Vigil Guard and is highly respected by all of them.
 -   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
--   Evengarde is a very powerful swordsman, being able to wield all 3 weapon types. He mainly uses katanas, as they are Etrean Blades
+-   Evengarde is a very powerful swordsman, being able to wield all 3 weapon types. He mainly uses katanas, as they are Etrean Blades.
 -   He is respectful towards those who save his Vigils, and even feels as if he is in their debt while also valuing strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 -   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius, the keeper of the Vigil library, is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
@@ -151,7 +151,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Though a normally capable fighter who deals with deeper layers, the higher ups have reassigned him to the First Layer to take care of recruits, much to his chagrin.
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably another reason why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
-    -   Strong enough opponents like Klaris will not be instantly killed by the bell.[\[1\]](#cite-note-rag-1) This explains why when you pick the Charisma option dialogue with 75 Charisma he retreats, fooled into thinking that you're too strong and that he can't use his bell to instantly kill you, or at least not without shaving a good amount of his lifeforce off.
+    -   Strong enough opponents like Klaris will not be instantly killed by the bell.[\[1\]](#cite-note-rag-1) This explains why he retreats when you pick the Charisma option dialogue with 100 Charisma, fooled into thinking that you're too strong and that he can't use his bell to instantly kill you, or at least not without shaving a good amount of his lifeforce off.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
@@ -269,7 +269,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
         1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
-        2.  He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
+        2.  He has the power to kill anything he pleases, yet chooses to do what he enjoys instead of displaying his strength as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
 
 The one and only... MEAT LORD!
 
@@ -286,9 +286,9 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   Presumably an Adret or Canor.
 -   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in Fort Merit or anywhere else in the Eastern Luminant, yet is directing the war as he gave Sibex orders recently.
 -   "Can solo every Centurion of the 11th legion" according to Arch mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
--   Currently is hunting and trying to destroy the Ministry and Contractors.
+-   He is currently hunting and trying to destroy the Ministry and Contractors.
 -   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
--   Possibly he is an attunement-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
+-   Possibly he is attunement-less, but has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
 -   Genuinely believes in The Central Authority as a force of peace.
 -   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the Eastern Interstital Lighthouse being closed due to Viqh's reluctance to open it, being able to capture Fort Merit with his forces.
 -   Possible member of the Circle of Honor.
@@ -857,7 +857,7 @@ A Dark Mage, located in Minityrsa.
 
 -   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[9\]](#cite-note-dsgs-9) and Railblade[\[10\]](#cite-note-railblade-10).
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
--   They've been spotted attempting to take over Diver territory, falling behind in Layer 1 compared to the Divers, but exceeding in Layer 2, where they managed to create an outpost long before The Diver arrived there.
+-   They've been spotted attempting to take over Diver territory, falling behind in Layer 1 compared to the Divers, but exceeding in Layer 2, where they managed to create an outpost long before The Divers arrived there.
 -   The Darksteel Greatsword[\[9\]](#cite-note-dsgs-9), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
@@ -925,7 +925,7 @@ An Authority Captain
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worship The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
     -   Their previous home, or some sort of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
-    -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
+    -   Despite the impressive nature of the Aratel Constructs, these are outdated models, with superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
 -   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for the Lord Regent's own interests.
 -   The Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.

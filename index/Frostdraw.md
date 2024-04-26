@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 96927
+revid: 97027
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -332,8 +332,6 @@ _A sharp disk of ice._
  |
 | 
 
-File:Frostgrab base range.gif
-
  | 
 
 Frost Grab  
@@ -346,10 +344,12 @@ _An icy chokehold._
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
 -   After the windup the user gains iframes on teleport. (similar to radiant kick)
--   Deals moderate damage.
+-   First hit does mediocre dmg, second hit does light damage.
 -   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
 -   Applies 16 sec chill base and 20 sec with 1 eternal.
 -   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
+-   The mantra takes too long to end on hit to proc insignia gem.
+-   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
 
  |
 |  | 
@@ -539,6 +539,7 @@ _Skate freely on paths of ice._
   <ul>
     <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
     <li>All mods do not work or have 0 effect, do not modify this mantra.</li>
+    <li>On flourish it proc "Chilling flourish" without needing the talent.</li>
   </ul></td>
 </tr>
 <tr>

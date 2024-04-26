@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 96295
+revid: 97016
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -73,7 +73,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
--   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
+-   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes. (You have to CHOOSE it, not just have the resonance roll)
 
 ## Guide For W and S Rank
 

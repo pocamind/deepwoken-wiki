@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 95078
+revid: 97015
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -76,3 +76,7 @@ One of the only places that will never burn in the Etris Raid Event is [Lord Reg
 File:Image 2023-01-14 110752417.png
 
 ETRIS:SIEGE The clash of blades ring throughout the city, decaying to havoc
+
+File:Etrissiege.png
+
+A lone Chrysid enters the now war-torn Etrea

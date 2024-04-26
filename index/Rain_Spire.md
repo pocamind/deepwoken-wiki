@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 95084
+revid: 96998
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -33,6 +33,6 @@ The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Vo
 -   Rain Spire can be useful to [Thundercall](Thundercall.md) players because of [Stratoshock](Talents.md#thundercaller), A talent that buffs your lightning damage by 10% if it's raining.
 -   Rain Spire can be used in [Chime of Conflict](Chime_of_Conflict.md).
 -   Rain Spire is the first ever Relic to release in Deepwoken. It came with the release of the new [Ironsing](Ironsing.md) Attunement on May 22nd, 2023.
--   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses. The other one being [Void Spire](Void_Spire.md).
--   When trying to use the Spire during cooldown, dialogue appears saying "The Spire has not yet reformed."
+-   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses, the other one being the [Void Spire](Void_Spire.md).
+-   When trying to use the Spire during its cooldown, dialogue appears saying "The Spire has not yet reformed."
 -   You can't place a Rain Spire on water-ice or boats.

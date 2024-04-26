@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 93863
+revid: 97001
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1]
@@ -38,6 +38,7 @@ The city is patrolled by watchers that summon pairs of [Angels](Hollow_Angel.md)
 
 -   [District of Commerce](District_of_Commerce.md)
 -   [Varicosa District](Varicosa_District.md)
+-   [The Military District](The_Military_District.md)
 
 ## Potential Enemies
 
