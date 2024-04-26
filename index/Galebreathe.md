@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 96672
+revid: 97047
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -311,7 +311,6 @@ _A rapid delivery of consecutive attacks._
 
 -   Deals _possibly moderate-heavy_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
--   Can be modified with rush and drift shards to increase the speed of the slashes.
 -   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
 
  |

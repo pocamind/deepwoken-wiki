@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 91315
+revid: 97049
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -10,7 +10,7 @@ categories: [Resonances]
 
 | Shard Bow | |
 |---|---|
-| effect | Leaps backwards to fire 1-3 arrows at the opponent. |
+| effect | Leaps backwards to fire 1 or 3 arrows at the opponent. |
 | appearance | A silvery bow, seemingly made of pure light. |
 
 “ Conjure a mythical bow that hails down crystallized arrows. ”

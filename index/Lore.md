@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 97009
+revid: 97035
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1895,7 +1895,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 ### Primadon
 
--   Despite his huge size, Primadon is believed to be a baby fish monkey.
+-   Despite his huge size, Primadon is believed to be a baby fish monkey and is distantly related to the player "nightbat2".
 -   Not much is known about Primadon, other than that he comes from the sea.
 -   His name comes from the words "primate" due to his ape-like appearance and the suffix "don," coming from his aquatic features such as gills, webbed feet, and blue fur.
 
