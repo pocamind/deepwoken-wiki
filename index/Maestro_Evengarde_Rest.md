@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 96405
+revid: 97062
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -65,13 +65,13 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Tempest Eye** | Evengarde activates his Tempest Eye and cleaves your head off with a single strike.
+| **Hesitation is Defeat** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
--   This is an Insta-Kill.
+-   There is no way to survive this attack.
 -   Triggered by spitting on him **at any point**.
     -   Spitting on him with 50+ Charisma will stay his hand and prevent instant death, but interacting with him to start the fight will result in him using the attack.
 
- | ✗ | ✗ | ✗ | (☠) |
+ | ✗ | ✗ | ✗ | (★★★★★★★) |
 
 ## Finisher
 

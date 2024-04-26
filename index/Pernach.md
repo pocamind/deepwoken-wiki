@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 96857
+revid: 97063
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -30,7 +30,9 @@ categories: [Weapons, Clubs]
 
 ## Description
 
-The **Pernach** is a medium blunt weapon found by fighting the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Chaser,](Chaser,_Scholar_of_the_Crimson_Contract.md) Diluvian Mechanism, and [Duke Erisia](Duke_Ishamon_Erisia.md) boss fights. It can be considered the endgame version of the [Mace](Mace.md).
+The **Pernach** is a medium blunt weapon found by fighting the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Chaser,](Chaser,_Scholar_of_the_Crimson_Contract.md) Diluvian Mechanism, and [Duke Erisia](Duke_Ishamon_Erisia.md) boss fights. It can also rarely drop from [chests](Chests_&_Sacks.md) inside layer 1 of the [depths.](The_Depths.md)
+
+It can be considered the endgame version of the [Mace](Mace.md).
 
 ## Trivia
 

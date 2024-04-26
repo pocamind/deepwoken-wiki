@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 94403
+revid: 97059
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -32,3 +32,8 @@ The Relic Axe is a [Heavy Weapon](Weapons.md) of mythical rarity that is only ob
 ## Critical
 
 The critical is seemingly identical to that of standard Greataxes, but generate three stone pillars of ascending height in front of it, similar to the Sand Knight's Eruption move.
+
+## Trivia
+
+-   Meeting the requirement of HVY, the damage is (37.7)
+-   At max HVY, the damage is (41.9)
