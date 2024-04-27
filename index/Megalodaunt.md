@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 97053
+revid: 97163
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -258,6 +258,13 @@ Tacet Hug
  | 
 
 File:45ff19cd1d3ec14a54164a391764943e.gif
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Tacet Drop Kick
+
+ | The Crimson turns invisible, and after a few seconds it appears again behind the target, unleashing a drop kick. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | 
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 

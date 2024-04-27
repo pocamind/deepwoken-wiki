@@ -1,9 +1,9 @@
 ---
 title: Krulian Knife
-revid: 96113
+revid: 97171
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers]
+categories: [Weapons, Pages with broken file links, Daggers]
 ---
 
 # Krulian Knife
@@ -29,6 +29,12 @@ categories: [Weapons, Daggers]
 ## Description
 
 The Krulian Knife is a [dagger](Weapons.md) either obtained by defeating the [Ferryman](The_Ferryman.md) during the Winter, or buying it from a [Merchant Ship](Travelling_Merchant.md). This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling.
+
+The Krulian Knife now also has a special critical attack, called Krulian Charge. when used, the player points the weapon towards the sky, which is then struck by purple lightning, charging m1 attacks with electricity until the effect runs out. If a critical attack is used during the duration of Krulian Charge's effect, the player will execute an attack exactly like Lightning assault, except colored purple. After this, the Krulian Charge goes on cooldown. If a critical attack is made during this period, the weapon will do the default dagger critical.
+
+File:The Krulian Charge.png
+
+The Krulian Knife's unique critical.
 
 ## Trivia
 

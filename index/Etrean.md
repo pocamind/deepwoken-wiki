@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 91640
+revid: 97164
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -86,6 +86,16 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 -   Vesti
 -   Ytreshi
 -   Zeshi
+-   Annaet
+-   Breveshi
+-   Hakeshet
+-   Kikoshi
+-   Leithi
+-   Mertet
+-   Petersi
+-   Strauchet
+-   Teneshi
+-   Wyneshi
     
 
 ## Trivia

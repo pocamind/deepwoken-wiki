@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97132
+revid: 97168
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1058,6 +1058,16 @@ _**"I'm built different" - Cannot Give Talents**_
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.**
 
+### Hammer Rage
+
+-   Brain Rattler \[Common Talent\] \[Clubs\] - Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
+    -   Prerequisites: 50 Medium Weapon, Club equipped
+-   Dispatch \[Common Talent\] \[Clubs\] - Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.
+    -   Prerequisites: Bear Trap, 55 Medium Weapon, Club equipped
+
+-   Hammerfall \[Common Talent\] \[Clubs\] - Aerial attacks do 25% more posture damage when blocked.
+    -   Prerequisites: 35 Medium Weapon, Club equipped
+
 ### Heat Column
 
 _**"I seek the qualities of Heat Column."**_
@@ -1325,7 +1335,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
     -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisites: 40 Flamecharm
-    -   Mutual Exclusive: The Final Act
+    -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
 -   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
