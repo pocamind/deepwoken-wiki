@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 97056
+revid: 97095
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Colloquially known as the "Broodskipper"Template:Creature Infobox V3
 
 A more powerful variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear much more intelligent, capable of using their fellow Mudskippers as tools. Noticeable thanks to their purple hue. May have gone insane due to the increased exposure to the Scyphozia.
 
-They also inflict heavy Antiheal similar to the talent "All the Dead Gods," whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+They also inflict heavy Antiheal similar to the Talent "All the Dead Gods," whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Moveset
 
@@ -29,10 +29,7 @@ They also inflict heavy Antiheal similar to the talent "All the Dead Gods," when
 
 ### **Passives**
 
-| Name | Description | Danger |
-| --- | --- | --- |
-| Depths-Melded | Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. | (★★★★) |
-| Bulldozer | Getting hit against a wall causes the target to get guard-broken | (★★☆) |
+-   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
 
 ## Tips
 
@@ -41,4 +38,4 @@ They also inflict heavy Antiheal similar to the talent "All the Dead Gods," when
 ## Trivia
 
 -   They can parry some "instant kill/multi-hit mantras" such as Caltrops.
--   Both this enemy and the [Mudskipper Brute](Mudskipper_Brute.md) are inspired by the "Clickers" from "The Last Of Us".
+-   Both this enemy and the [Mudskipper Brute](Mudskipper_Brute.md) are inspired by the Clickers from _The Last Of Us_.

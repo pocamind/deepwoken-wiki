@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 95558
+revid: 97076
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -37,4 +37,4 @@ This Outfit's Schematic is obtainable from:
 ## Trivia/Notes
 
 -   This is debatably the best armor for those who want to do a lot of damage with the [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) fist style.
--   One of four armors that buff one fist style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), and [Justicar's Armor](<Justicar's_Armor.md>).
+-   One of four armors that buff one fist/kick style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), and [Justicar's Armor](<Justicar's_Armor.md>).

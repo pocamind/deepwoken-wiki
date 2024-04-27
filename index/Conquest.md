@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 96038
+revid: 97080
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]
@@ -18,7 +18,6 @@ The Confirmed Conquest Rewards are:
 
 -   [Bloodsworn Effigy](Bloodsworn_Effigy.md)
 -   [Inquisitor's Duster](<Inquisitor's_Duster.md>)
--   [~Moonseye Scalpel~](Moonseye_Scalpel.md) Read [Carrion's Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)
 
 The Official Conquest release might be within the month of March 2024, with Conquest Testing, if it were to happen, being a couple weeks before the official conquest release. Conquest Testing would be a public test that would be open for 2 days that would allow the general community to play a more rough, unfinished version of conquest to prepare it for the official release, though it is unknown if this is still going to happen.
 

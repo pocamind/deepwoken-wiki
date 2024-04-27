@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 97063
+revid: 97088
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -39,3 +39,4 @@ It can be considered the endgame version of the [Mace](Mace.md).
 -   Meeting the requirement of MED, the weapon deals 22.7 damage, but it becomes 29.6 with bleed.
 -   At max MED, the weapon deals 24.7 damage, but it becomes 32 with bleed.
 -   This weapon can be used as a mid to endgame club.
+-   Most likely based off the real life Pernach, a flanged mace.

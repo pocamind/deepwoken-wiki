@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 94264
+revid: 97081
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -51,6 +51,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Moon Ring (Very rare)
 -   Akira's ring (Very rare)
 -   Deepfire ring (Very rare)
+-   Maestro's ring (Very rare)
 -   Mist Assassin Cloak (Extremely rare) (rarer than enchants)
 -   Gold Assassin Cloak (Extremely rare)
 -   Crimson Assassin Cloak (Extremely rare)
@@ -61,9 +62,8 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Aelita is a [Felinor](Felinor.md).
     -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [oaths](Oaths.md).
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
--   During Aelita's Encounter (if you are participating in it), her own theme \["Catwhisker" [https://www.youtube.com/watch?v=i256f1fJg4E](https://www.youtube.com/watch?v=i256f1fJg4E)\] will play.
 -   Aelita is a Visionshaper, she doesn't have the oath particle for optimization purposes.
--   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player. (Ever since Verse Two, Aelita has a chance to teleport you to locations where islands used to exist, but is now just the middle of nowhere in Voidsea)
+-   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
     
     Aelita sitting in the fetal position on a rock
     

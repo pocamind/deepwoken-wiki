@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 96609
+revid: 97087
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -37,3 +37,4 @@ The **Morning Star** is a medium blunt medium weapon. It can be considered the m
 -   Meeting the requirement of MED, the weapon deals 19.3 damage, but it becomes 25.9 with bleed.
 -   At max MED, the weapon deals 22.6 damage, but it becomes 29.4 with bleed.
 -   This weapon can be used as a midgame club.
+-   Assumed to be based off of the real-life Morning Star weapon.

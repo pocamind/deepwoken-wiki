@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 92364
+revid: 97107
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -12,7 +12,7 @@ Template:ArmorInfobox**Windrunner Robes** is a Master [Outfit](Outfits.md) in _D
 
 ## Requirements
 
-This Outfit costs and requires 5 Cloth, 5 Fibers, 5 Gale Stones, 5 Vibrant Gems, 8 Erisore and a Wind Gem.
+This Outfit costs and requires five (5) Cloth, five (5) Fiber, five (5) Gale Stones, five (5) Vibrant Gems, eight (8) Erisore and one (1) Wind Gem.
 
 This Outfit requires [Power Level](Talents.md) 15 and 10 Agility.
 
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 15 and 10 Agility.
 
 This Outfit has 2600 durability and grants +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +50% Ether Regen
 
-This Outfit also grants the [Talent Card](Talents.md) _Wind Dancer,_ which grants you a speed boost after roll cancelling twice in quick succession. (One of your rolls must dodge a hit)
+This Outfit also grants the [Talent Card](Talents.md) _Wind Dancer_, which grants you a speed boost after roll cancelling twice in quick succession. (One of your rolls must dodge a hit)
 
 ## Location
 
