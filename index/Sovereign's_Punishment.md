@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 97048
+revid: 97138
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greathammers]
@@ -35,4 +35,5 @@ The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit]
 ## Trivia
 
 -   The logo sported by it is similar to the icon on the [Sacred Hammer](Sacred_Hammer.md).
+-   They are both the logo for the [Royal Etrean Guard.](Royal_Etrean_Guard.md)
 -   This weapon has the highest posture damage in the game.

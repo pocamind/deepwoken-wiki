@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 91642
+revid: 97120
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -93,15 +93,27 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 
   
 
+-   Aetad
+-   Akarad
 -   Arad
 -   Eiad
 -   Emirad
 -   Ferad
+-   Fulad
 -   Loritad
+-   Meditad
+-   Memirad
 -   Mirad
+-   Nerad
+-   Pluritad
 -   Raanad
+-   Thaanad
 -   Truad
 -   Tulad
+-   Uurad
+-   Velad
+-   Ventad
+-   Yolad
     
 
 ## Trivia

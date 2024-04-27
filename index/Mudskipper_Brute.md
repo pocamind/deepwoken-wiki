@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 97100
+revid: 97126
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,42 +16,32 @@ The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), bo
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| 
-**Lumbering Strike**
-
+| Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lumbering Strike | Delivers a deliberate punch. | 
 File:Mudskipper Brute Punch1.gif
 
- | Delivers a deliberate punch. | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-**Lumbering Jab**
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| Lumbering Jab | Delivers a sucker punch. | 
 
 File:Mudskipper Brute Punch2.gif
 
- | Delivers a sucker punch. | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-**Lumbering Thrust**
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| Lumbering Thrust | Delivers a stronger, unparriable thrust with its fist. | 
 
 File:Mudskipper Brute Thrust.gif
 
- | Delivers a stronger, unparriable thrust with its fist. | X | ◯ | ◯ | (★★☆) |
-| 
-
-**Lumbering Smash**
+ | X | ◯ | ◯ | (★★☆) |
+| Lumbering Smash | Leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable slam. This move autogrips knocked enemies. | 
 
 File:Mudskipper Brute Slamdown.gif
 
- | Leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable slam. This move autogrips knocked enemies. | X | X | ◯ | (★★★) |
-| 
-
-**Call of the Horde**
+ | X | X | ◯ | (★★★) |
+| Call of the Horde | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summon two random [Mudskippers](Mudskipper.md). | 
 
 File:Mudskipper Brute Roar.gif
 
- | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summon two random [Mudskippers](Mudskipper.md). | N/A | N/A | N/A | (★★★) |
+ | N/A | N/A | N/A | (★★★) |
 
 ## Trivia
 

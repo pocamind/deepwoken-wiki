@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 90528
+revid: 97118
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -79,14 +79,23 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
 
 **Surnames:**
 
+-   Aecta
 -   Aethuda
+-   Antaeka
 -   Disali
 -   Eneka
+-   Etrega
+-   Herkula
 -   Iksatoka
 -   Kalvika
+-   Kegeka
+-   Nyctida
+-   Ossika
 -   Rephika
 -   Sehika
+-   Staerka
 -   Trikali
+-   Wirlika
 -   Zenekai
     
 

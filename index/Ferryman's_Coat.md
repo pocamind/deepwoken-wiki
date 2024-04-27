@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 96760
+revid: 97110
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -24,9 +24,9 @@ This Outfit has 2500 durability and grants +20% Physical resistance, +35% Elemen
 
 Ferryman's Curse being procced
 
-The Outfit provides the [Talent Card](Talents.md)_, Ferryman's Curse_, which has a 20% chance to convert incoming elemental damage into Lightning damage. When an elemental move strikes the wearer, the outfit (visually) lets out bolts of lightning.
+The Outfit provides the [Talent Card](Talents.md)_, Ferryman's Curse_, which has a 20% chance to convert incoming elemental damage into Lightning damage. When an elemental move strikes the wearer, the Outfit (visually) lets out bolts of lightning.
 
-Combined with its high elemental resistance, this reduces most mantras damage by a third, giving a chance to reduce mantra damage by more than half. The 20% convert chance result in an average of 40% mantra resistance (to non lightning mantras).
+Combined with its high elemental resistance, this reduces most Mantras damage by a third, giving a chance to reduce mantra damage by more than half. The 20% convert chance result in an average of 40% Mantra resistance (to non lightning Mantras).
 
 ## Location
 

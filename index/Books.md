@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 96269
+revid: 97127
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -21,6 +21,7 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
 -   The Gideshu March: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
+-   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
 
@@ -1700,10 +1701,10 @@ I weep for them still, my tears bitter as salt...
 
 ## Trivia
 
--   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
+-   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, Operation 'Distant Light' Report, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
 -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
 -   Stars Above, and the Blade between was written by former developer iltria.
--   Strange Missives was written by contributor Hautdesert.
+-   Ossuary Maintenance and Strange Missives was written by contributor Hautdesert.
 -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
 -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
 -   The canjolin instrument could be loosely based off of the [mandolin](https://en.wikipedia.org/wiki/Mandolin).

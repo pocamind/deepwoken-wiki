@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 95846
+revid: 97124
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -26,7 +26,7 @@ These monsters are incredibly mobile and hard-hitting enemies. They are certainl
 
 If you would prefer a visual guide, consider watching _[this video](https://www.youtube.com/watch?v=gMXwczlX4YE)_.
 
-| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
+| Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
 | Crushing Grab | The Bone Keeper will make an indication of an unparriable attack with a noise cue and eye symbol before swinging its right arm sideways. If this attack lands, the player hit will be grabbed and take **devastating damage**. The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.** |  | ✗ | ◯\* | ◯ | (★★★) |
 | Charge | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and blockbreaking. The Bone Keeper skids to a stop and faces you if this is successfully parried. |  | ◯ | ✗ | ◯ | (★★☆) |

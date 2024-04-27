@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 97075
+revid: 97143
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -60,7 +60,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on 19/4/23.
 -   The Weapon used to not change color if you had Azure/Twisted Puppets path. This was changed the next day after weapon's release.
--   It is one of eight weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Wyrmtooth](Wyrmtooth.md)
+-   It is one of nine weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md)
     -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
 -   The community commonly refers to this weapon as the "Blade Ball sword" and "Murder Mystery sword" due to the particle effects, overly saturated GFX and overall look and feel of the weapon not matching other weapons art-style-wise, even by Legendary Weapon standards.
 -   The sliding critical's slashes don't match the animations.

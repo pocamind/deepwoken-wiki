@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 94097
+revid: 97114
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -16,6 +16,7 @@ Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of
 
 ## Loot Pool
 
+-   [Demon Mask](Demon_Mask.md)
 -   [Eyeglasses](Eyeglasses.md)
 -   [Star Boots](Star_Boots.md)
 -   [Brilliant Pauldron](Brilliant_Pauldrons.md)

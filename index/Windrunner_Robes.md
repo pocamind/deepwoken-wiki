@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 97107
+revid: 97111
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -18,7 +18,7 @@ This Outfit requires [Power Level](Talents.md) 15 and 10 Agility.
 
 ## Armor Stats
 
-This Outfit has 2600 durability and grants +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +50% Ether Regen
+This Outfit has 2600 durability and grants +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +50% Ether Regen.
 
 This Outfit also grants the [Talent Card](Talents.md) _Wind Dancer_, which grants you a speed boost after roll cancelling twice in quick succession. (One of your rolls must dodge a hit)
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 96617
+revid: 97151
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -240,6 +240,7 @@ Free Mystic for the Lone Warrior Origin / Trial of One and the Diluvian Mechanis
     -   Is present in a dungeon.
     -   Has no visible "eyes".
     -   Talks in lowercase, unlike all other shrines.
+        -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
 
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.

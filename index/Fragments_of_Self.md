@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 95896
+revid: 97145
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -116,7 +116,7 @@ The Echoes section shows how much echoes you earned and the Rank Based on it. Ra
 
 ### Captain
 
-The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and start with the [Castaway Origin](Origins.md#castaway).
+The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and forces you to start with the [Castaway Origin](Origins.md#castaway).
 
 ## Trivia
 

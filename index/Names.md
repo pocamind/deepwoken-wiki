@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 96440
+revid: 97128
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1333,47 +1333,83 @@ You can choose your first name from any available, but your choices of last name
 -   Ashet
 -   Corbet
 -   Donnet
+-   Doret
+-   Erebet
 -   Gremet
 -   Hasset
+-   Ioset
 -   Isket
+-   Ixatet
+-   Jotet
+-   Kesset
 -   Mudet
 -   Munet
+-   Neret
 -   Osset
+-   Pluret
 -   Praadet
+-   Rolket
 -   Sahet
+-   Shanet
+-   Thanet
+-   Tymet
 -   Vendet
+-   Xaret
 -   Yuset
 
 **Canor:**
 
   
 
+-   Aoden
 -   Bren
 -   Canden
 -   Dardren
 -   Dusselden
+-   Grimden
 -   Helsen
+-   Hierden
 -   Holden
 -   Jaegen
+-   Korbren
+-   Marden
 -   Nuren
+-   Ombroden
+-   Reesen
 -   Scarsen
+-   Smolken
+-   Uldren
 -   Ven
 -   Vondren
 -   Vorgen
+-   Ysselden
+-   Zolfen
 
 **Capra:**
 
   
 
+-   Aetad
+-   Akarad
 -   Arad
 -   Eiad
 -   Emirad
 -   Ferad
+-   Fulad
 -   Loritad
+-   Meditad
+-   Memirad
 -   Mirad
+-   Nerad
+-   Pluritad
 -   Raanad
+-   Thaanad
 -   Truad
 -   Tulad
+-   Uurad
+-   Velad
+-   Ventad
+-   Yolad
 
 **Celestial:**
 
@@ -1383,33 +1419,52 @@ You can choose your first name from any available, but your choices of last name
 
   
 
+-   Antrinof
 -   Baranof
 -   Bykof
+-   Davel
+-   Drof
 -   Golbor
+-   Goldrof
 -   Ivanel
+-   Kadrof
 -   Kalashor
 -   Kalinof
 -   Kavinel
 -   Kernel
 -   Kotof
+-   Martenel
 -   Olof
 -   Pavel
 -   Petrof
+-   Rudinof
 -   Sokel
 -   Sokolof
+-   Undrel
+-   Vernof
+-   Zarof
 
 **Chrysid:**
 
   
 
+-   Aecta
 -   Aethuda
+-   Antaeka
 -   Disali
 -   Eneka
+-   Etrega
+-   Herkula
 -   Iksatoka
 -   Kalvika
+-   Kegeka
+-   Nyctida
+-   Ossika
 -   Rephika
 -   Sehika
+-   Staerka
 -   Trikali
+-   Wirlika
 -   Zenekai
 
 **Drakkard:**
@@ -1422,19 +1477,29 @@ You can choose your first name from any available, but your choices of last name
 
   
 
+-   Annaet
 -   Ashi
+-   Breveshi
 -   Eshet
+-   Hakeshet
 -   Hashi
 -   Hasteshi
 -   Ishel
 -   Kanreshi
 -   Kereshi
+-   Kikoshi
+-   Leithi
 -   Leshi
 -   Massi
+-   Mertet
+-   Petersi
 -   Rashet
+-   Strauchet
+-   Teneshi
 -   Ureshi
 -   Veshi
 -   Vesti
+-   Wyneshi
 -   Ytreshi
 -   Zeshi
 
@@ -1445,23 +1510,44 @@ You can choose your first name from any available, but your choices of last name
 -   Amarico
 -   Calico
 -   Eko
+-   Gariko
+-   Gatilo
+-   Helo
+-   Mero
+-   Nalo
 -   Palo
 -   Rico
+-   Samico
 -   Sero
+-   Tabico
 -   Talo
+-   Teko
+-   Velo
 
 **Ganymede:**
 
   
 
+-   Akkre
+-   Chitre
 -   Dise
+-   Edrekhe
 -   Enege
 -   Etude
 -   Galvige
+-   Hercule
 -   Ixatoke
+-   Jule
+-   Kekike
+-   Pikhige
 -   Rethige
+-   Rhejude
 -   Sekhige
+-   Skareke
+-   Spirige
 -   Trige
+-   Werlige
+-   Whelkege
 -   Zeneke
 
 **Generic:**
@@ -1478,17 +1564,30 @@ You can choose your first name from any available, but your choices of last name
   
 
 -   Adra
+-   Askura
 -   Atedra
+-   Buckra
 -   Cassatra
+-   Cevra
+-   Daera
 -   Eldra
 -   Era
 -   Estedra
+-   Fawra
+-   Haertra
 -   Hira
+-   Hirtra
+-   Jura
+-   Kora
+-   Makira
 -   Mora
+-   Murida
+-   Naphra
 -   Nemira
 -   Nephidra
 -   Niildra
 -   Ratra
+-   Tamra
 -   Theodra
 -   Vendra
 -   Ymara
@@ -1501,16 +1600,27 @@ You can choose your first name from any available, but your choices of last name
 
   
 
+-   Albinus
+-   Barbus
+-   Bassus
+-   Castes
 -   Dalus
 -   Drameus
 -   Evus
 -   Janus
 -   Juno
 -   Khanus
+-   Marius
 -   Narsus
 -   Nemises
+-   Pollus
+-   Regulus
+-   Rufus
+-   Sejus
+-   Strabes
 -   Tarsus
 -   Theus
+-   Vales
 
 **Lightborn:**
 
@@ -1522,11 +1632,16 @@ You can choose your first name from any available, but your choices of last name
 
   
 
+-   Askli
 -   Atamli
+-   Avli
 -   Edgli
 -   Emuli
 -   Gatli
+-   Genli
 -   Huuli
+-   Imali
+-   Jaalti
 -   Kamali
 -   Leeli
 -   Nothli
@@ -1534,20 +1649,36 @@ You can choose your first name from any available, but your choices of last name
 -   Paadli
 -   Saali
 -   Taali
+-   Tiili
 -   Tuuli
+-   Vaali
+-   Wuuli
+-   Yuli
 
 **Vesperian:**
 
   
 
+-   Acrii
+-   Chitri
 -   Disii
+-   Edrekhi
 -   Enegi
 -   Etudi
 -   Galvigi
+-   Hirculi
 -   Ixatoki
+-   Julii
+-   Kekiki
+-   Pikhigi
 -   Refigi
+-   Rhejudi
 -   Sekhigi
+-   Skareki
+-   Spirigi
 -   Trigi
+-   Werligi
+-   Whelkegi
 -   Zeneki
 
 ## Trivia

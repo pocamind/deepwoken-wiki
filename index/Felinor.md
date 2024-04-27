@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 94585
+revid: 97116
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -74,10 +74,19 @@ Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors with
 -   Amarico
 -   Calico
 -   Eko
+-   Gariko
+-   Gatilo
+-   Helo
+-   Mero
+-   Nalo
 -   Palo
 -   Rico
+-   Samico
 -   Sero
+-   Tabico
 -   Talo
+-   Teko
+-   Velo
     
 
 ## Trivia

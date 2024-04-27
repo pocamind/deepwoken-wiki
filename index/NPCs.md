@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 95225
+revid: 97146
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -48,6 +48,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Erisae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
+| Falei | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | Flabbermaster Filigree, the First Mate | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | Frank F'alzone | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Friid](Attunement_Trainers.md) | Unaligned, possibly Etrea | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |

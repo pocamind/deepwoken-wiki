@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 96410
+revid: 97122
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -68,14 +68,25 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 
   
 
+-   Akkre
+-   Chitre
 -   Dise
+-   Edrekhe
 -   Enege
 -   Etude
 -   Galvige
+-   Hercule
 -   Ixatoke
+-   Jule
+-   Kekike
 -   Rethige
+-   Rhejude
 -   Sekhige
+-   Skareke
+-   Spirige
 -   Trige
+-   Werlige
+-   Whelkege
 -   Zeneke
     
 
