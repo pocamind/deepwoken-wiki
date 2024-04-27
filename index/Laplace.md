@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 97093
+revid: 97186
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -19,7 +19,7 @@ Laplace Diri is a Ganymede located in [Greathive Aratel](Greathive_Aratel.md) in
 
 He lets you trade three [enchantments](Enchantments.md) for a random enchant on your currently equipped weapon. He will explain you through dialogue a tutorial on what he does.
 
--   Laplace can accept both Enchanted and Soulbounded weapons.
+-   Laplace can accept both Enchanted and Soulbounded weapons or equipment.
 -   For each enchant you gave to Laplace, they tally them to mark how many enchants you given to successfully seal the deal.
 -   Laplace cannot enchant legendary weapons (ex. Crypt Blade, Curved Blade of Winds) or any weapon that cannot hold an enchant.
 -   Laplace cannot enchant duped weapons. It's impossible to know if your weapon is duped if you trade for it.

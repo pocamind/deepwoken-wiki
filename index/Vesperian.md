@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 97167
+revid: 97176
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -129,7 +129,7 @@ A Vesperian with Blindseer
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
 -   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 15% physical damage. (agamatsu confirmed in a stream that the 5% damage reduction does not falloff with exo)
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.
--   There are several notable lore characters that are Vesperians, for example, Socrates Zeneki who was said to have slain an Edenkite with his bare hands. This was also helped by his apprentice, Brick Zeneki.
+-   There are several notable lore characters that are Vesperians, for example, Socrates Zeneki, of the Veils faction, who was said to have slain an Edenkite with his bare hands. This was also helped by his apprentice, Brick Zeneki.
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
 -   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesparian](Primal_Vesperian.md) race as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask.
 -   The six-eyed variation of the mask may be a reference to the mask worn by Lilith from Neon Genesis Evangelion, or a reference to [bugs](https://en.wikipedia.org/wiki/Insect) from real life.

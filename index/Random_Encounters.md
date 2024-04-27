@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 96543
+revid: 97185
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -200,13 +200,14 @@ A Tower in the Sea
 -   **Tower in the Water:**
     -   A Pirate outpost stands on the sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
     -   The tower may spawn [Cloaked Assassins](Cloaked_Assassin.md) instead of [Blacksteel Pirates](Blacksteel_Pirate.md) in the Eastern Luminant.
+    -   (Presumed to have been removed/replaced by Isle of Outlaws in a recent update)
 
   
 
 _You can't get into that hut anyway, don't try._
 
 -   **Isle of Outlaws:**
-    -   The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of [Upper Erisia](Upper_Erisia.md) loot. Possible Enemies:[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of [Upper Erisia](Upper_Erisia.md) loot. Possible Enemies:[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
 
 A Fort Island
 
@@ -216,7 +217,7 @@ A Fort Island
 _They really like hands, huh?_
 
 -   **The Depth Fragment:**
-    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of [Depths](First_Layer.md) loot and one large chest of Erisia loot. Possible Enemies: [Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of [Depths](First_Layer.md) loot and one large chest of Erisia loot. Possible Enemies: [Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Mudskipper Broodlord](Mudskipper_Broodlord.md)
 
 _Fortunately, they all end up the same - occupied by bandits._
 
@@ -276,7 +277,7 @@ A rare event that only spawns in [The Depths](The_Depths.md) within the Celtoria
 
 The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 
-After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers.
+After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers, or obtain the origin Deepbound.
 
 If the player were to have more than 75 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 75 Charisma will get you killed.
 

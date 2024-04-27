@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 96979
+revid: 97173
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -93,7 +93,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   Grants the Knives of Eylis Talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
-        -   You can always teleport through the Voidmother no matter what, even in combat. Use it if you are getting attacked in a fight you can't win, as it is VERY unlikely that you teleport to the same place as your attacker.
+        -   You can no longer teleport through the [Voidmother](The_Voidmother.md) if you are combat tagged.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
 -   Grants the Knives of Eylis Talent "Grasp of Eylis"

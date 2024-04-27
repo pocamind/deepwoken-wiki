@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 97122
+revid: 97178
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -62,6 +62,13 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 -   Increased resistance to the effects of [The Depths](The_Depths.md)  
     
 -   Deep Shrines are cheaper for you, meaning that you have less of a need to gain Knowledge.
+    
+
+**Weaknesses:**
+
+  
+
+-   Salt
     
 
 **Surnames:**
