@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 96366
+revid: 97253
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -88,14 +88,13 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 
 ## Trivia
 
--   All of The Enforcer's damaging attacks are parryable, and blockable, which is ironic as it uses a Heavy Weapon which can block break regardless of the variant.
--   The Enforcer can also be found in the Trial of One.
--   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest or use consumables (or ranged mantras).
+-   All of The Enforcer's damaging attacks are parryable, and blockable, which is ironic as it uses a Heavy Weapon.
+-   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest, or use ranged mantras among other actions.
 -   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 -   It is possible to cheese it by just running away and throwing potions/bombs.
 -   The Enforcer's clothing may be a reference to ''King'' from One Piece.
--   As of 18/07/2022, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
+-   After the 18/07/2022 update, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
 -   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many players.
 -   Enforcer's Eye and Giant Femur are the only Monster Mantra Drops to have boosted drop rates out of the other mobs that have one.
 -   Enforcer (Blade Variant) is smaller than Enforcer (Axe Variant), Meanwhile Enforcer (Hammer Variant) is bigger than Enforcer (Axe Variant).

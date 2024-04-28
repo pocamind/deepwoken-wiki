@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 96522
+revid: 97248
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -330,18 +330,14 @@ Scratch
 
 ## Trivia
 
--   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki). They twitch their heads and bodies when standing still and demonstrate a lack of consicence. Despite this, they can still start conversations.
--   There is a bug where Mudskippers use idle chat/dialogue used by most NPCs when idle for long periods of time.
+-   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki). They twitch their heads and bodies when standing still and demonstrate a lack of consicence.
+    -   Despite this, they can still start conversations.
 -   Mudskippers are people slain by [Nautilodaunts](Nautilodaunt.md), though it is unknown, considering how large their numbers are, if there are other methods of producing them.
 -   On April Fool's Day 2022, Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken.
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.
--   The Meteorskipper comes from meteors, which therefore means resides in space. Take this as you will.
--   Corrupted mudskippers can spawn in the depths.
--   Corrupted mudskippers do not pose much of a threat, but they still do little damage.
--   Mudskippers punch their enemy with light attacks, much like Nautillodaunts.
--   If there are two un-agroed Mudskippers, they have a chance to start up a conversation among themselves.
+-   The Meteorskipper comes from meteors, which therefore means they may reside in space.
+-   Corrupted mudskippers can spawn in the depths, however they do not pose much of a threat.
 -   If you don't want to risk going down to the depths for Umbrite to get Ironsing, just fight the Mineskippers as they have a chance to drop every ore in the game.
 -   Mudskippers participated in the 2024 April fools event under the name the Blue Skippers
--   If you want to get ironsing one of the best way is to farm mineskippers since they can give all types of minerals

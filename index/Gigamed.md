@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 94417
+revid: 97238
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ## Description
 
-Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that are commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups, though they give very little XP. Gigameds are commonly referred to as "healthpacks", giving free health to whoever is in need due to ease of killing.
+Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that are commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups, though they give very little XP. Gigameds are commonly referred to as "healthpacks", giving free health to whoever is in need due to ease of killing, they also give back Sanity with Conquer your Fears, or Food with Carnivore.
 
 Commonly referred to as **Jellyfish**.
 
@@ -32,9 +32,7 @@ Electric Stun Pulse
 ## Trivia
 
 -   You can sit on a Gigamed.
--   Easiest mob to kill in the Depths, As it has the lowest health and only knows 1 attack. It's easy to avoid their upcoming attack by preparing a block whenever they approach you.
 -   Gigameds can do small leaps to send out an aerial pulse attack if they feel it is necessary.
--   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ [Talents](Talents.md).
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can also be dazed by knocking them into a wall.
 -   Electric Stun Pulse is one of the few attacks that can't ever be parried, even with talents that allow you to parry un-parryable attacks.
 -   Gigameds give little to no EXP, so don't farm them thinking it's a safe & slow way to progress.
@@ -70,7 +68,7 @@ Static Discharge
 
 Summon Gigameds
 
- | The King screeches and summons 3 Gigameds that are launched towards your position. The summoned Gigameds will die after using a stun pulse. If killed, they'll give you a solid healthpack. | ✗ | ◯ | ◯ | (★★) |
+ | The King screeches and summons 3 Gigameds that are launched towards your position. The summoned Gigameds will die after using a stun pulse, along with having 1 health, allowing them to die to even a Vent. If killed, they'll give you a solid healthpack. | ✗ | ◯ | ◯ | (★★) |
 
 ### **Finisher**
 
@@ -80,10 +78,8 @@ Summon Gigameds
 
 -   King Gigamed is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 10/11).
     -   King Gigamed is completely trivialized if the player has [Animal King](Regalia.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack.
--   Ranged Weapons/Mantras are advised to be used on the summoned Gigameds to kill them for free healthpacks without them attacking you.
 -   There is an extremely rare chance that a King Gigamed will spawn whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They _should_ also spawn with an oversized [Ten-Gallon Hat](Ten-Gallon_Hat.md) too. The chance of this spawning as a natural event is 1/5000.
 -   Greater Stun Pulse & Static Discharge is one of the few attacks that can't ever be parried, even with talents that allow you to parry un-parryable attacks.
 -   King Gigamed has an intentionally cowardly behavior, meaning it will jump around objects and move in ways that makes it harder for you to fight it.
 -   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md) on it.
--   King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time. (??? Unconfirmed)
 -   You can fight king gigamed at low levels by venting when they are about to spawn gigameds to get a healthpack, this is a consistent way as you get a lot of tempo from m1ing.

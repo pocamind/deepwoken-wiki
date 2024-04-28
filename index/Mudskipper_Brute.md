@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 97187
+revid: 97249
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -49,4 +49,4 @@ File:Mudskipper Brute Roar.gif
     -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release and then got replaced back by the Megalodaunts again the week after.
 -   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from _The Last of Us_.
     -   The design could also be influenced by the Bloater from the same game.
-    -   When attacked by a cannon ball it will be killed instantly.
+-   When attacked by a cannon ball it will be killed instantly.

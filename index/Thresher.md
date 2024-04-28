@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 95385
+revid: 97254
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -56,8 +56,7 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range and can be easily kited.
 -   The most dangerous and aggressive monster for lower-leveled players in the Depths. Once they enter their burrowing state, they will continue to follow the player they're currently aggro'd onto across all terrain _regardless of height or depth._ (This includes the bottom parts/void of the Depths, which is normally a killzone for you and any other Depths monster)
-    -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
--   You can use Thresher bait to spawn Threshers near water, just like Megalodaunt bait. So you could spawn a bunch at Lower Erisia for whatever purposes you have. Just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
+-   You can use Thresher bait to spawn Threshers near water, just like Megalodaunt bait.
 -   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
 -   Originally, no Thresher could swim, if they ended up in the sea they would sink and despawn.
 -   Threshers are very hostile towards Desert Knights, so in case you need to get Threshers off of you, lure them to a Desert Knight.
@@ -84,9 +83,7 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 | **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge/parry when you hear this. ~Must be dodged.~ This attack is parryable, but it's hard to parry every single proc of the attack. It's recommended to just dodge if you're inexperienced with fighting this, because if you don't parry every dingle proc you'll be set on fire. Not very dangerous if you parry at least some of the procs or just dodge the attack. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Ram** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air with a sound cue. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. Has a similar danger level as the tail swipe attack, as both will ragdoll you. Parryable if you know the timing well, but just dodge if you're inexperienced with this attack. | ◯ | ◯ | ◯ | (★★☆) |
 
-## Passives
-
--   TBD
+  
 
 ## Tips
 
@@ -96,14 +93,14 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
--   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.
+-   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
     
 
 **King Thresher:**
 
 # King Thresher
 
-_Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other names_ Template:Creature Info Box v2
+_Also known as Big/King Croc, Mother Thresher, and many other names_ Template:Creature Info Box v2
 
 ## Description
 
@@ -148,4 +145,4 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 
 ## Trivia
 
--   Cursed flame doesn’t block break, It just goes through parry/block entirely.
+-   Cursed flame doesn’t block break, instead being a block and parry bypass.

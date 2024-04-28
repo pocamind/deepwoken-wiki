@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 97226
+revid: 97262
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -128,7 +128,17 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
  | 
 
--   All [Rings](Equipment.md)
+-   [Monastery Champion Robes](Monastery_Champion_Robes.md)
+-   Monastery Champion Beads
+-   Monastery Cowl
+-   All [Rings](Equipment.md#rings)
+-   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+-   [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
+-   [Celtor Commander Plate](Celtor_Commander_Plate.md)
+-   [Sandrunner Wraps](Sandrunner_Wraps.md)
+-   [Star Boots](Star_Boots.md)
+-   [Confessor's Charm](<Confessor's_Charm.md>)
+-   Most [Earrings](Equipment.md#ears)
 
  | 
 
@@ -149,7 +159,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Alloyed Dawnshot](https://deepwoken.fandom.com/wiki/Dawnshot?so=search#Alloyed)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [The Path's Defender](<The_Path's_Defender.md>)
--   Warden Ceremonial Sword
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 
  | 
 
@@ -174,18 +184,15 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   All of his Mantras will automatically execute you.
     -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
 -   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
--   Defeating Maestro does not always give you a health pack.
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
-        -   This may be due to requiring 80 Weapons instead of 75; it is already impossible to receive W Rank on any build that cannot use Pluripotent Alloy.
 -   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity?"_
     -   After this, he instantly kills you.
         -   His eyes flash onto your screen, a green flash appears on your character's head as the only evidence of his attack, cleaving it apart instantly.
         -   You fell in battle to... Your disrespect, punished by the Tempest Eye
     -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.
-    -   Starkindred's Sinister halo is capable of hitting maestros block from behind allowing for free hits due to the Shaky block mechanic, Use this however you will

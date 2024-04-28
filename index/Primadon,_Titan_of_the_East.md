@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 97045
+revid: 97251
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -188,13 +188,14 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 ## Trivia
 
--   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
+-   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although Deep Gems are not guaranteed to spawn after his defeat.
+    -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.
     -   This cooldown is account wise for the player who summoned Primadon and any who dealt damage to him.
 -   In the game files, it is called "MonkyWorldBoss."
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
+    -   It takes ~80 parries to kill Primadon without damaging him.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 -   It would take roughly 266 cannonballs alone to kill the Primadon.
--   There is a way to easily kill Primadon using fire gun or shadow seekers.
 -   As of 3/29/2024 Primadon has a new color scheme with blue fins and a purple nose.
