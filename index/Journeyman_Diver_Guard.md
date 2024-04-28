@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 92696
+revid: 97232
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,13 +14,13 @@ Template:EnemyInfobox1.0
 
 Journeyman Diver Guards are NPCs that act as the guards of [Castle Light](Castle_Light.md) as well as ambushing "Hunted" reputation players.
 
-They are able to use all four standard Attunements at a time, the only NPCs in the game capable of doing so.
+They are able to use all four standard Attunements, along with Shadowcast at a time, the only NPCs in the game capable of doing so.
 
 A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes](Diver_Journeyman_Robes.md) outfit with their [race](Aspects.md) varying.
 
 ## Moveset
 
-A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md) or [Flamecharm](Flamecharm.md) attunement:
+A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md) and [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -84,8 +84,7 @@ A Journeyman Diver executes it's opponent after knocking them:
 
 ## Tips
 
--   Maybe don't try to fight at castle light.
--   Don't try to fight them. They will jump you, and they have little to no cooldown on mantras.
+-   Don't try to fight them in any circumstances. They will jump you, and they have little to no cooldown on mantras.
 -   If they aren't dangerous enough as is, they also now have a very high chance (if not, guaranteed) to spawn in with an enchant. So unless you have a death wish, just don't fight them at all.
 
 ## Trivia
@@ -93,3 +92,4 @@ A Journeyman Diver executes it's opponent after knocking them:
 -   They were originally [Black Divers](<Black_Diver_(NPC).md>), but were changed to Journeyman Divers due to their presence contradicting the established low number and high power level of actual Black Divers.
 -   They use the Magnet Spark variant of Jolts Grab.
 -   When they were added to the game, players were limited to two Attunements at a time, making them the only ones, player or NPC, in the entire game capable of using all four standard Attunements.
+-   Ironically, despite not being related to the [Ministry](The_Ministry.md), they can use [Shadowcast](Shadowcast.md).

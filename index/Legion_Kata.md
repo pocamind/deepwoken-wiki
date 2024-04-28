@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 95776
+revid: 97233
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -21,7 +21,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Step 1: Obtain a recommendation from the Legion Centurion battling the Adret in Starswept Valley., Step 2: Turn in the recommendation to Amara. |
+| obtainment | Step 1: Obtain a recommendation from the Legion Centurion battling the Authority in Starswept Valley or Upper Erisia., Step 2: Turn in the recommendation to Amara. |
 | description | Adopt the fighting stance of the Legion Kata. |
 
 “ Gain the ability to use the Legion's martial arts. ”

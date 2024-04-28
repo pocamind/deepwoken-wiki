@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 97062
+revid: 97226
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -149,6 +149,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Alloyed Dawnshot](https://deepwoken.fandom.com/wiki/Dawnshot?so=search#Alloyed)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [The Path's Defender](<The_Path's_Defender.md>)
+-   Warden Ceremonial Sword
 
  | 
 

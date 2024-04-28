@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 97061
+revid: 97215
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -21,7 +21,7 @@ beware - the Tide comes too for thee. ”
 
 The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be found through [dialogues](Dialogue.md), books, descriptions, landscapes and places, such as the Towerstruck Lands, The City of the Drowned, and many more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Devs themselves (Arch\_Mage, Naktigonis, Ragoozer etc...)
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Devs themselves (Arch\_Mage, Naktigonis, ragoozer etc...)
 
 This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
 
@@ -242,7 +242,7 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 -   Her hobby is apparently to write poetry, as stated by Klaris.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
 -   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
--   She was taken when she was a child by the Central Authority due to her possessing Lightkeeping, allowing her to be able to open the Eastern Interstitial Lighthouse, allowing her to summon in reinforcements for them. However, her being forcefully taken from her friends of and family had the adverse affect of her becoming disgusted with them and their practices, thus choosing not to help.
+-   She was taken when she was a child by the Central Authority due to her possessing Lightkeeping, allowing her to open the Eastern Interstitial Lighthouse and summon in reinforcements for them. However, her being forcefully taken from her friends of and family had the adverse effect of her becoming disgusted with them and their practices, thus choosing not to help.
 
 ### **Klaris Llfiend, Mother of Lights**
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 95051
+revid: 97220
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -25,7 +25,7 @@ notices:
 2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), Adrofalis will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to Derelict Highchurch and use a canteen in the blood pool of the crucified Celestial.
-    -   [Stardust](Stardust.md) from a Star Tree. It must be a Stardust from [Starfield Veldt](Starfield_Veldt.md) or [Starfield Grove](Starfield_Grove.md). Consider getting a second one, which is needed to progress the Oath.
+    -   [Stardust](Stardust.md) from a Star Tree. Consider getting a second one, which is needed to progress the Oath.
     -   A [Primordial Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md). [Saramaed Summit](Saramaed_Summit.md) is fairly close to the Starfield Veldt, so it is a good option to grab a few.
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.
 

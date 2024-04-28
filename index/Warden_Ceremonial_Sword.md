@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 97183
+revid: 97225
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Primadon, Fort Merit, The Depths, Duke Erisia, Deep Widow |
+| obtainment | Chests from:, Primadon, Fort Merit, The Depths, Duke Erisia, Deep Widow, Maestro Evengarde Rest |
 | description | The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies. |
 
 ## Description
@@ -33,4 +33,4 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 
 -   Meeting the requirement of MED, the damage is (21.5)
 -   At max MED, the damage is (25.9)
--   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only by having 1 more base damage, a lower stat requirement, and by the lack of innate pen.
+-   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
