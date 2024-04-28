@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 97163
+revid: 97206
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -13,8 +13,6 @@ categories: [Pages with broken file links, Monsters, Ambush Enemies]
 ― Archivist Journal: 'Megalodaunt'
 
 _Commonly referred to as **Sharko**_
-
-_For a video tutorial, consider watching [this video](https://www.youtube.com/watch?v=b_6MPKNOnQs&t=14s)._
 
 **Megalodaunt:**
 

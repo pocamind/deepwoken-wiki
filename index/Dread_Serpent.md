@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 95091
+revid: 97193
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -16,7 +16,7 @@ _Commonly referred to by the community and developers as Kaido._Template:Creatur
 
 ## Description
 
-A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
+A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It's spawn is showed by a mass of bubbles being on the water. It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
 Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md)_
 
@@ -51,7 +51,6 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 
 -   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
 -   The mantra 'Dread Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
--   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   Anyone can get the Murmur as long as you did enough damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
@@ -61,10 +60,10 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   Its appearance is supposedly exactly what an Elder Edenkite once looked like, only it has no wings.
 -   The model for the Dread Serpent's Tooth is a Dark Feather.
     -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
--   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2, however.
+-   The Tooth that Dread Serpent drops can be used to gain its breath attack through [Carrion](Carrion,_Father_of_Evolution.md).
 -   Apparently, it can fly, though it doesn't use this in battle.
--   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.
--   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.
+-   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.\[citation needed\]
+-   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.\[citation needed\]
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
 -   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.
 -   It would take roughly 300-400 cannonball shots to kill a dread serpent.

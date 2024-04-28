@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 90086
+revid: 97202
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -42,3 +42,4 @@ The user spins around their staff and summons a green colored mist that surround
 -   The Orbs are able to knockback players if they get hit.
 -   When a player or any NPC is gripped by one of the other Hallowtide weapons, the majority of them will cause a grave to appear and emit a Taco Bell bell sound.
 -   Used the default greathammer critical before receiving the one it has now.
+-   This weapon has a Unique idle animation when held 1-handed, This was the first of 2 weapons to use this animation, The other being the [Pale briar](Pale_Briar.md)

@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 91389
+revid: 97200
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -20,7 +20,7 @@ Chance of obtaining race: **17.8%**
 
 Celtors are a common race with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy, and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into The Depths.
 
-Celtors are probably reference to raccoons
+Celtors are probably based off of raccoons.
 
 ## Racial Traits
 
@@ -81,20 +81,30 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 
   
 
+-   Atrinof
 -   Baranof
 -   Bykof
+-   Davel
+-   Drof
 -   Golbor
+-   Goldrof
 -   Ivanel
+-   Kadrof
 -   Kalashor
 -   Kalinof
 -   Kavinel
 -   Kernel
 -   Kotof
+-   Martenel
 -   Olof
 -   Pavel
 -   Petrof
+-   Rudinof
 -   Sokel
 -   Sokolof
+-   Undrel
+-   Vernof
+-   Zarof
     
 
 * * *

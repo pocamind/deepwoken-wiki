@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 94765
+revid: 97201
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -81,7 +81,7 @@ Crimson Terrapods are similar to their purple counterparts but are dyed a crimso
 
 ## Tips and Notes
 
--   Moderately easy to kill, despite being tankier than a [Megalodaunt](Megalodaunt.md). (Stat Check Level: 8+)
+-   Moderately easy to kill, despite being tankier than a [Megalodaunt](Megalodaunt.md). (Stat Check Level: 13+)
 -   It's recommended to dodge or just move out of a Terrapod's way instead of parrying due to the confusing parry window and the carelessness of its attacks (they don't auto-track).
     -   By landing a few hits and running to avoid its attacks, you can kill one of these without blocking, parrying or dodging.
 -   This monster is hostile towards every other monster in Upper Erisia.

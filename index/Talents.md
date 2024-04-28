@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97168
+revid: 97199
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -352,7 +352,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-    -   Only works for the first hit after being block broken, making multi-hits to be barely reduced.
+    -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   Prerequisites: 25 Fortitude
 
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
@@ -589,6 +589,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"Those that step on my ice know that they have made a grave error."**_
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity)
+    -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
 
 -   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity)

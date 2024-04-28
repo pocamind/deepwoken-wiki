@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 96694
+revid: 97191
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -114,13 +114,12 @@ If looking for owls, it is recommended to join highly populated servers because 
 ## Trivia
 
 -   Deep Owls were originally intended to be exclusive to the [Second Layer](Second_Layer.md).[\[1\]](#cite-note-1)
--   There is a low chance that a non-corrupted Deep Owl will drop Void Feather, which makes it possible to grind Void Feathers for [Visionshaper](Oaths.md) safely at the [The Lordsgrove](The_Lordsgrove.md), There is a Deep Owl that has a "Static Spawn" location which is, ironically, in-front of the Vesperian [VIsionshaper](Oaths.md) statue.
+-   There is a low chance that a non-corrupted Deep Owl will drop Void Feather, which makes it possible to grind Void Feathers for [Visionshaper](Oaths.md) safely at the [The Lordsgrove](The_Lordsgrove.md), There is a Deep Owl that has a "Static Spawn" location which is, ironically, in-front of the Vesperian [Visionshaper](Oaths.md) statue.
 -   Dark and Void feathers are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
 -   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
--   Wan Shi Tong???!!!???
 
 ## References
 

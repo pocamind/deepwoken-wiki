@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 95146
+revid: 97188
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -78,11 +78,17 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
   
 
+-   Askli
 -   Atamli
+-   Avli
 -   Edgli
 -   Emuli
+-   Esli
 -   Gatli
+-   Genli
 -   Huuli
+-   Imali
+-   Jaalti
 -   Kamali
 -   Leeli
 -   Nothli
@@ -90,7 +96,11 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Paadli
 -   Saali
 -   Taali
+-   Tiili
 -   Tuuli
+-   Vaali
+-   Wuuli
+-   Yuli
     
 
 ## Trivia
