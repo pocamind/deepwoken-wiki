@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 87509
+revid: 97266
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -55,3 +55,7 @@ If you wish to turn it off, go to settings in order to disable Spell Shouting.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Unfortunately, Spell Shout does not work with Golden Tongue (The charisma talent where typing gives a random buff to you and those around you); the game doesn't count this as typing.
