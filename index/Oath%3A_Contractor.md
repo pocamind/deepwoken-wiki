@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 97306
+revid: 97316
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -51,7 +51,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
 
-Alternatively you may spend 10 knowledge to immediately max out the oath
+Alternatively you may spend 10 knowledge to immediately max out the oath (Only if you logged in on a slot with maxxed out contractor after the 26/04/2024 update).
 
 ## Abilities
 

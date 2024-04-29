@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 92695
+revid: 97321
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -62,6 +62,9 @@ The alloyed version of the Zweihander, obtained by using the Pluripotent Alloy o
 
 ## Trivia
 
--   Has the best range out of other Heavy Weapons.
+-   Meeting the non-alloyed requirement of HVY, the damage is (24.3)
+    -   Meeting the alloyed requirement, the damage is (35.9)
+-   At max HVY, the non-alloyed damage is (33.6)
+    -   At max HVY, the alloyed damage is (40.3)
 -   "Zweihänder" means "Two-handed sword" in German.
     -   Pronounced "Zv-eye-hen-dah."

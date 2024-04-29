@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 97068
+revid: 97339
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -124,6 +124,7 @@ Proof of Time Magic's existence and it being an "Oath"
 
 ## Trivia
 
+-   It is possible to skip an oath's progression you have already done before by using 10 knowledge. You must have logged in on a slot with the maxxed out oath after the 26/04/2024 update for it to be possible.
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
@@ -161,3 +162,4 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Of course, it was later molded into one of the first Oaths.
 -   In the Battle Royale gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the oath, and one for each subsequent talent.
+-   If you have fully progressed an oath on any slot, you can pay 10 Knowledge to immediately gain all the talents when starting said oath on a different slot. (Older characters may need you to log on that slot for it to count)

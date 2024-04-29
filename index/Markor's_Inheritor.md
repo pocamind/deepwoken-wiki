@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 96056
+revid: 97325
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -60,3 +60,7 @@ It shares the same aerial animation and critical animation with the [Way of Nava
 -   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.
 -   Markor's Inheritor can also be obtained as a mob drop through the [Lost Divers](Lost_Diver.md) of [Layer 2, Floor 2](Second_Layer.md). Since it is a mob drop, it can be equipped without needing to escape.
 -   Might be based of Igris's weapon from the anime and Manhwa Solo Leveling
+-   Meeting the non-alloyed requirement of HVY, the damage is (27.8)
+    -   Meeting the alloyed requirement, the damage is (34.8)
+-   At max HVY, the non-alloyed damage is (36.6)
+    -   At max HVY, the alloyed damage is (38.4)

@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 96725
+revid: 97318
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -12,7 +12,7 @@ categories: [Weapons, Greataxes]
 |---|---|
 | type | Heavy Greataxe |
 | requirements | 85 HVY, Power 10 |
-| damage | 23.5 |
+| damage | 23 |
 | scaling | 7.5 |
 | range | 10 |
 | swing speed | 0.61x |
@@ -33,7 +33,7 @@ Pale Briar with Grim
 
 The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Heavy Weapon. It is one of the three guaranteed drops from him, the others being the [Purple Cloud](Purple_Cloud.md) and the [Cerulean Thread](Cerulean_Thread.md).
 
-Its base damage is 23; at 100 HVY, it deals 38.1 damage. All Greataxe talents assumingly work on this \[Not tested.\], and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, is a multi-hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
+Its base damage is 23; at 100 HVY, it deals 35.9 damage. All Greataxe talents assumingly work on this \[Not tested.\], and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, is a multi-hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
 
 As of now the Pale Briar's critical attack procs enchants on successive hits, this makes it useful for enchants like Grim, Gluttony and Tears of the Edenkite, respectively proccing Grim, stealing hunger with Gluttony and easily triggering the bubbles of TotE. This is unlike the [Enforcer's Axe](<Enforcer's_Axe.md>), [Enforcer's Blade](<Enforcer's_Blade.md>) and [Enforcer's Hammer](<Enforcer's_Hammer.md>), which all have slow critical attacks, but are useful for poising through block due to the sheer posture damage.
 

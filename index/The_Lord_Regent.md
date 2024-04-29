@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 96037
+revid: 97326
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -29,7 +29,7 @@ The throne upon which he sits is an artifact from the [Depths](The_Depths.md), a
 
 He has a particular interest in a powerful object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into [banks](Banker.md) gives a hefty reward and is lorewise sent to the Palace.
 
-If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative Etrea rep.
+If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative Etrea reputation.
 
 Despite his mystique and power, he still very much appears to be a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging. This, however, may just be a front to make people believe he is weaker than he really is.
 
@@ -47,7 +47,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
     -   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) also suggests that the throne boosts his power, however when asked if the previous King of Etrea also received this 'buff' he refused to elaborate, instead making a face.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change interactions with Lord Regent.
--   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
+-   Seemingly has a negative connection with the Knives of Eylis and it's members, calling Voidwalkers "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
     -   This may be because of the Knives of Eylis' current alignment with the Authority.
 -   There are free chests that contain [Erisia](Erisia.md) tier loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:

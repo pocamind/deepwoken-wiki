@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 97293
+revid: 97335
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -165,7 +165,8 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Deep Gems](Deep_Gems.md)
 -   [Enchant Stones](Enchant_Stone.md)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
--   All [Relics](Relics.md)
+-   [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Sinner's Ash](<Sinner's_Ash.md>)
 
  |
 
