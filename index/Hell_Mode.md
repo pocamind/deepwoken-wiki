@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 93338
+revid: 97282
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -52,7 +52,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside. All [Relics](Relics.md) can be obtained from Hell Mode as well.
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside. All [Relics](Relics.md) can be obtained from Hell Mode as well. As of 4/26/2024 [Enchant Stones](Enchant_Stone.md) are a part of the loot table.
 
 ## Tips
 

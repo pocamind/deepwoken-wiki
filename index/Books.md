@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 97127
+revid: 97292
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -24,6 +24,7 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
+-   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
 
 Some books are obtained as part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
 

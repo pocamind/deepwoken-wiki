@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 81127
+revid: 97291
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides]
@@ -32,3 +32,4 @@ Talking to Kelsius inside of the [Temple of the Blade's](Temple_of_the_Blade.md)
 -   Orlandeau's Emerald is worth 30 Notes.
 -   By leaving during the tutorial you can redo it, which has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting). You will only be given "Orlandeau's Pity Emerald" once.
 -   You cannot sell the Dumbbell to the antiquarian as it would be a net profit of 2 notes.
+-   By blocking off the door to the Antiquarian's area, Orlandeau will not move, and instead stay below deck.

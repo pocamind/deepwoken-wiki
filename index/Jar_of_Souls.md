@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 92175
+revid: 97285
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -51,6 +51,6 @@ When obtained, Jar of Soul will spend its points on the following stats:
 -   Version one of Jar of Souls is very similar to "_Corrupted Beacon_" from _Minecraft Dungeons_, as both require souls to cast and shoot out a laser beam that does continuous damage.
 -   It may be a reference to the Urn of Souls from The Binding of Isaac which also requires you to kill enemies to shoot it.
     -   It may also be a reference to an item of the same name from Risk of Rain, which summons similar ghosts.
--   [Golems](Rock_Golem.md) have human souls that can be absorbed, which raises some interesting questions.
+-   [Golems](Rock_Golem.md), which are formed using the souls of villagers, have human souls.
 -   The first bell with a passive ability, the second being [Resurrection](Resurrection.md).
 -   Your bell will show a dot that gets visibly more intense with the more souls you have.

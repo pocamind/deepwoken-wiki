@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 96049
+revid: 97287
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -159,3 +159,6 @@ End
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
 -   ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
+-   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
+-   The coat Rest is wearring is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey
+    -   you can also dye a white [Deepwoken Cloak](Deepwoken_Cloak.md) grey to obtain the same effect
