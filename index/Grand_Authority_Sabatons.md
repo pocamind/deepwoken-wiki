@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 73937
+revid: 97310
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -20,7 +20,7 @@ categories: [Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Miner's Landing |
+| obtainment | Miner's Landing, Second Layer |
 | description | - ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 97273
+revid: 97309
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,6 +34,8 @@ They also inflict heavy Antiheal similar to the Talent "All the Dead Gods," when
 ## Tips
 
 -   Usually, after 3-4 jabs, they will use a move.
+-   Due to their obscene health and damage, it's advisable to take advantage of cannons on [boats](Ships_&_Sailing.md) to kill them when encountered at sea.
+-   Be mindful of Lumbering Smash, as they can easily board your boat using it.
 
 ## Trivia
 

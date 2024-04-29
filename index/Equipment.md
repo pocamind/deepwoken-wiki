@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 96959
+revid: 97305
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -988,7 +988,7 @@ _+Talent: Blade Dancer_
 
 Found from:
 
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
  | N/A |
@@ -2303,7 +2303,7 @@ _+Talent: Temple Guard_
 
 Found from:
 
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
  | N/A |
@@ -3575,7 +3575,7 @@ _+3% Elemental Armor_
 
 Found from:
 
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
  | N/A |

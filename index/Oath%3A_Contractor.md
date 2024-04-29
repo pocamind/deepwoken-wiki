@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 96509
+revid: 97306
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -50,6 +50,8 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   1st Grip - Hidden Tendril and Lords Slice
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
+
+Alternatively you may spend 10 knowledge to immediately max out the oath
 
 ## Abilities
 

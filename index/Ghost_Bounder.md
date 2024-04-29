@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 76077
+revid: 97299
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]
@@ -22,4 +22,4 @@ When the Ghost Bounder spawns in it seems to stay there for a while, but if the 
 
 -   The Ghost Bounder most definitely is a type of bounder but there is nothing known about it, there are also nothing said about it in the lore.
 -   The way it spawns is still unknown but there is speculation that it spawns set on a timer and that's why sometimes can spawn right in front of the player.
--   The ghost bounder works like the monster for the game "Isle, 9" (also known as isle). Dissapearing if seen by the player, the one difference is that the monster is hostile and kills people that don't shine light on him or look at him.
+-   The ghost bounder works like the monster for the game "[Isle, 9](https://www.roblox.com/games/3095204897/Isle?gameSearchSessionInfo=425437f7-0ef5-4948-9797-c71eea083693&isAd=false&nativeAdData=&numberOfLoadedTiles=40&page=searchPage&placeId=3095204897&position=0&universeId=1116949753)" (also known as isle). Dissapearing if seen by the player, the one difference is that the monster is hostile and kills people that don't shine light on him or look at him.

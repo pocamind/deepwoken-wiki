@@ -1,6 +1,6 @@
 ---
 title: Monastery Beads
-revid: 96953
+revid: 97304
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -20,7 +20,7 @@ categories: [Equipment, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest, Etris: SiegeThe Diluvian Mechanism |
+| obtainment | Chests from:, Maestro Evengarde Rest (3%), Etris: Siege, The Diluvian Mechanism |
 | description | ... |
 
 ## Description

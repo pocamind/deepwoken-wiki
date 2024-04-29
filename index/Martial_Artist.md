@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 97290
+revid: 97295
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,4 +26,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   It requiring an Odd Tentacle in its recipe is a call back to Rogue Lineage character Big Hoss, as Nautilodaunts were also nicknamed "Squid Hoss", as their moveset feature kicks and punch, similar to the Akuma/Oni class in Rogue Lineage.\[citation needed\]
--   It changes appearance depending on the character gender. It appears shirtless when your character is masculine, But sports a t-shirt on top if your Feminine or Neutral.
+-   It changes appearance depending on the character gender. It appears shirtless when your character is masculine, But sports a sleeve-less shirt on top if your Feminine or Neutral.

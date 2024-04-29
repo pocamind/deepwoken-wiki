@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 96956
+revid: 97303
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Cowls]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest, Etris: Siege |
+| obtainment | Chests from:, Maestro Evengarde Rest (3%), Etris: Siege |
 | description | ... |
 
 ## Description
