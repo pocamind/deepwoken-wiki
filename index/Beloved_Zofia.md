@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 92769
+revid: 97385
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -29,6 +29,9 @@ A [ghost](Ghost.md) can spawn at the helm of the ship. If you have not gripped a
 ### [The Dreadstar](The_Dreadstar.md)
 
 -   Required for the obtainment of the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) as well as the quest given by [Suyuan](Suyuan.md), located at the [Isle of Vigils](Isle_of_Vigils.md).
+
+  
+Viewpoint on the Map:
 
 ## Trivia
 
