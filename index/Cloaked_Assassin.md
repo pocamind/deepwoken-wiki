@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 97370
+revid: 97399
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -20,7 +20,7 @@ Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-e
 
 ## Moveset
 
-Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian Knife](Krulian_Knife.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Tanto](Tanto.md) along with the [Frostdraw](Frostdraw.md) and [Shadowcast](Shadowcast.md) attunement:
+Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian Knife](Krulian_Knife.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Tanto](Tanto.md) along with the [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

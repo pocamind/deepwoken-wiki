@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 97179
+revid: 97397
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2302,7 +2302,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Hivelord's Hubris (100 HVY)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Shattered Katana/First Light/Nemit's Sickle/Kyrsedge/Kystreza/Flareblood Kamas (30%)
+    -   Penetration: Shattered Katana/First Light/Nemit's Sickle/Kyrsedge/Kystreza/Flareblood Kamas/Pernarch (30%)
     -   Chip damage: Night Axe (80%)
     -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Sovereign's Punishment (13)

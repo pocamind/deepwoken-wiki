@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 97329
+revid: 97403
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -12,7 +12,7 @@ categories: [Weapons, Swords]
 |---|---|
 | type | Sword |
 | requirements | 60 MED; LVL 15; 40 HVY |
-| damage | panini |
+| damage | 28.8 |
 | scaling | MED: 6.2, HVY: 4.2 |
 | range | 10 |
 | swing speed | 0.7x |
