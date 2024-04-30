@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 96209
+revid: 97357
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -32,4 +32,4 @@ The Scimitar is a Medium type weapon that can be obtained from chests found in [
 
 -   Meeting the requirement of MED, the damage is (15.7)
 -   At max MED, the damage is (18.4)
--   It is not recomended to use this weapon due to its extremely sub-par stats.
+-   It is not recommended to use this weapon due to its extremely sub-par stats.

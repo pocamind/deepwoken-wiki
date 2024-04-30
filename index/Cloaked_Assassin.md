@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 94744
+revid: 97370
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -124,5 +124,3 @@ A Cloaked Assassin executes it's opponent after knocking them:
 ## Trivia
 
 -   Cloaked Assassins wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
--   For some strange reason Cloaked Assassin's don't have **[Audacity](Talents.md#tyrant)** but [Bounty hunters](<Bounty_Hunter_(NPC).md>) do.
--   Healthpool is likely around 1,500.

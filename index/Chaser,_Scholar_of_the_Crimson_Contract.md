@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 96977
+revid: 97367
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -207,24 +207,19 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
--   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed. However he cannot use them.
--   Chaser grants a fairly large amount of Resonance progression.
--   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
+-   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
+-   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
     -   He is still viewed as the easiest boss ingame, due to his insanely predictable attacks with loud sound queues, with his only troublesome move being the stalactites as they stall the fight and are RNG.
--   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, finally despawning.
--   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an Oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
--   It seems **Powerful Blood Appendage** cannot be parried while wearing **[Ignition Deepdelver](Ignition_Deepdelver.md)**. (Someone please test this further for the timings may have been wrong.)
--   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
--   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
--   Chaser does not spawn if the Bounders at the Nest Corridor do not spawn.
+-   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawning.
+-   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
+-   Chaser does not spawn if: The Key is not picked up at the start, the generator is not powered on, or if the Bounder nest has not been triggered.
 -   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Used to have the title, Scholar of the Crimson Contract.
     -   He still has this title if you hover over the Combat Tag skull whilst combat tagged by him.
--   If the player is a [Contractor](Oath%253A_Contractor.md), it seems Chaser has no idea what they are, or this hasn't been implemented like it is for [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   His hair ID is 77799954 & the beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
--   Due to Chaser's attacks ignoring Elemental damage resistance, the only threat he presents to W Rank players is Doubled Damage from Fragileheart.
+-   Due to Chaser's attacks ignoring armor damage resistance, the only threat he presents to W Rank players is Doubled Damage from Fragileheart.
 
 ## References
 

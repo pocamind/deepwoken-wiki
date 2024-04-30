@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 80279
+revid: 97378
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -20,7 +20,29 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 
 Example hellmode server
 
-  
+## Server Locations
+
+There are currently 14 possible locations:
+
+-   NSW, AU (Australia)
+-   Hesse, DE (Germany)
+-   Paris, FR (France)
+-   Tokyo, JP (Japan)
+-   North Holland, NL (Netherlands)
+-   Mazovia, PL (Poland)
+-   Singapore, SG
+
+USA has 7 different regions:
+
+-   California
+-   Florida
+-   Illinois
+-   New Jersey
+-   Texas
+-   Virginia
+-   Washington
+
+It is also possible to encounter a region known as the Unknown Region, which may be referred to as Instanced in dungeons, although this is an uncommon occurrence.
 
 ## Adjectives and Nouns
 
@@ -145,6 +167,7 @@ Example hellmode server
 
 -   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
--   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independant Race.
+-   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independent Race.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server nouns.
 -   When joining layer 2 the server loading screen will be white instead of the usual dark green.
+-   Inside dungeons, the only way to control which server location you connect to is to rejoin.

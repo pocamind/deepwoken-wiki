@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 96790
+revid: 97379
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -44,7 +44,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   **Acceleration Points - Talent**
     -   Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum.
 
--   **Jetstream Persuit - Talent**
+-   **Jetstream Pursuit - Talent**
     -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
         -   This works on humanoid mobs, Teleporting you to the middle of their hitbox.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97199
+revid: 97345
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -356,6 +356,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 25 Fortitude
 
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
+    -   Applies to all slowing effects, allowing for hitstun and aggressive posture to be 30% weaker.
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
@@ -412,7 +413,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Use a Greataxe, 30 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
-    -   Allows for quick greataxes to proc spinecutter after blockbreak (Such as [Skyreap Blade](Skyreap_Blade.md))
+    -   Allows for much more followups after blockbreak
+    -   Visually bugged with base crit, and plays the knockdown animation twice
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapon
 
 ### Butterfly
@@ -1535,6 +1537,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Increases the odds of the item with the lowest rate appearing.
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only has a singular drop, increase the odds of dropping said item.
+    -   If a mob has a large selection of drops, and the rarest scenario is no drops, lootskipper will increase the chance of nothing dropping (ex. Primadon drops Mantra modifiers more than nothing)
 
 ### Mindbreaker
 
@@ -1838,6 +1841,7 @@ _**"I seek the qualities of Heat Column."**_
 ### Sapper
 
 -   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
+    -   ~2-3% increase in ether steal per mantra.
     -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
 
 ### Shadowcast Master
@@ -1868,6 +1872,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: 50 Shadowcast
 
 -   Shadow Travel \[Rare Talent, Shadowcast Exclusive\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
+    -   Can teleport users to the roof of the depths, and wipe them due to fall damage.
     -   Prerequisite: 75 Shadowcast, Dark God
 
 -   _Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster._

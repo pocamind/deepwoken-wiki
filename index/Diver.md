@@ -1,11 +1,9 @@
 ---
 title: Diver
-revid: 94731
+revid: 97368
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
-notices:
-  - "This page is still in progress! Please have patience, and aid the creation of this page!"
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Diver

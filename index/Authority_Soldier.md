@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 93975
+revid: 97363
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -41,10 +41,6 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 -   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
 -   To The Finish - You take 10% less damage when below 30% health.
 -   Immolation - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
-
-## Tips
-
--   Easier to kill than the [Authority Officer](Authority_Officer.md)
 
 ## Trivia
 

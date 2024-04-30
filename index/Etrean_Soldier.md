@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 92583
+revid: 97375
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -57,6 +57,8 @@ An Etrean Soldier executes it's opponent after knocking them:
 \[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
 
  |
+
+  
 
 ## Trivia
 

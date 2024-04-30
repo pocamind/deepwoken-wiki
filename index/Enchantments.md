@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 97197
+revid: 97372
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -291,7 +291,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>On proc, add (LHT: 3%/MED: 4.5%/HVY:6%) of your max health to your damage. 12 second CD per victim.<br>
+  <td><div><p>On proc, add 5% of your max health to your damage. 12 second CD per victim.<br>
   Rarely, you lose 7% of your max health and have 7/10% of your max health added to your damage instead.<br>
   (likely ~15% and ~5% chance respectively)<br>
   Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>

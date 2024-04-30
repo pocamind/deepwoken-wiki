@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 97269
+revid: 97369
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -311,12 +311,9 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md) by Naktigonis.
     -   Naktigonis also provides the voice of the Duke, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
--   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23. "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now"-Duke
--   When fighting in a group, it is recommended to:
-    -   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
-    -   Bring a campfire to the fight. This will allow you switch positions in combat, having your partner fight the Duke while you are healing up.
-    -   The Duke's health scales by 15,000 points for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
--   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Deepwoken developer Par is known for working on.
+-   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now"-Duke
+-   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
+-   This bosses attacks heavily resemble the interpretation of TOARU's Accelerator in Anime Battle Arena, a game that Par has worked on prior.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
@@ -324,10 +321,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
     -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
     -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
--   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
--   Duke canonically escapes the depths every time he dies, which can be seen from the dialogue. Whether he is sent to the First or Second layer is unknown, as both can be referred to as cities.
 -   Duke **is** against the drowning and against **Lord Regent,** if it wasn't made obvious enough. So, technically, your player character is the villain, killing Duke (who wants to prevent the drowning of Etris). The reason Duke is seen as an antagonist, though, is his questionable ethics and experiments.
 
 ## Bugs

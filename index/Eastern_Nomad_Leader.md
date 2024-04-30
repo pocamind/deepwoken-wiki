@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 93462
+revid: 97371
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -64,4 +64,3 @@ An Eastern Nomad Leader executes it's opponent after knocking them:
 ## Trivia
 
 -   You can hand them a Navaen Hostage to obtain the [Way of Navae](Fists.md) fighting stance.
--   One of 3 enemies that utilizes the old "Ice Eruption" mantra.
