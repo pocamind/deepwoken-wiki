@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 85006
+revid: 97417
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -56,5 +56,5 @@ A Hobo executes it's opponent after knocking them:
 
 -   Hobos can spawn in such a way that one of their chests is inside a wall.
 -   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
+    -   This can be supported by the fact that when gripping them, they laugh like a madman.
 -   All factions appear to have it out for them, as they all try to attack them.
--   When you grip a Hobo they will start to laugh like a Madman. Truly a person that has lost their mind completely.

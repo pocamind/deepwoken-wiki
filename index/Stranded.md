@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 81275
+revid: 97411
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -26,7 +26,7 @@ Stranded has infinite durability (though is sometimes permanently empty) and gra
 
 This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the Castaway or Lone Warrior origin.
 
-## Trivia/Notes
+## Trivia
 
 -   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
 -   Appears to be a severely tattered version of the Grey [Traveler Cloak](<Traveller's_Jacket.md>), which had been put on by default during the [Tutorial](Tutorial.md).

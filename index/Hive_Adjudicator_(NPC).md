@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 94760
+revid: 97415
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -53,10 +53,6 @@ A Hive Arbiter executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | User pins down the opponent and slices their throat with their blade. |
-
-## Tips
-
--   Just don't anger the Hive and you won't have to deal with it.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 93894
+revid: 97413
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -62,7 +62,7 @@ Funke executes his opponent after knocking them:
 -   Fight Funke on the balcony next to the room he is in, unless getting Silentheart at max level.
 -   **Heavy Users:** M1, feint, critical, repeat. This will stunlock him. This is the Duke effect. On vent, feint the air. He'll try to parry. If he doesn't, hit him anyways. He will either block or parry, and you'll be able to start the combo again
 -   **Fist Users:** Fight him like you would an enforcer.
--   _**Do not let him crit you. I'm serious.**_
+-   His critical should be avoided at all costs.
 
 ## Trivia
 

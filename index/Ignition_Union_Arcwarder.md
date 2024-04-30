@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 96581
+revid: 97410
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -44,6 +44,7 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 -   Their Arc Suit eventually deactivates, which reveals them wearing the [Ignition Union Uniform](Ignition_Union_Uniform.md).
 -   For some really bizarre reason, they could wield **enchanted** [Railblades](Railblade.md) when Railblades were still Legandary weapons, which wasn't possible for players during that time.[\[1\]](#cite-note-1)
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Black Divers](<Black_Diver_(NPC).md>), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
+-   They will ambush you along with a [Mechalodaunt](Megalodaunt.md).
 
 ## References
 

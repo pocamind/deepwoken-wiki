@@ -1,11 +1,9 @@
 ---
 title: "Friid, Master of Gale"
-revid: 93459
+revid: 97412
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Enemies, Spelltrainers]
 ---
 
 # Friid, Master of Gale
@@ -49,11 +47,3 @@ Friid executes her opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | User pins down opponent and slices their throat with their blade. |
-
-## Tips
-
-\- Parry.
-
-\-Block
-
-\-Dodge
