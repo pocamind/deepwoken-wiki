@@ -1,6 +1,6 @@
 ---
 title: Mudwoken
-revid: 84794
+revid: 97446
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [April Fools]
@@ -12,7 +12,7 @@ categories: [April Fools]
 |---|---|
 | date1 | 1296 |
 | date2 | 4/1/2022 |
-| effects | Majority of NPCs and all players become Mudskippers |
+| effects | Majority of NPCs and all players became Mudskippers |
 | items | None |
 | type | April Fools Update |
 
@@ -32,4 +32,4 @@ You are able to use any weapon just like a normal player. You can also wear armo
 -   Every human-like npc was turned into a mudskipper as well. This includes bandits, [The Ferryman](The_Ferryman.md), etris guards, etc...
     -   This excludes [Karliah](Karliah.md), [Lance Leshi](Lance.md) (the Etris food seller), Ploom and the Spelltrainers.
     -   If you opened up your menu and looked at your race, it would not just be “Mudskipper” depending on your race, it could change. For example a [Khan](Khan.md) would be a Monkskipper and a [Gremor](Gremor.md) would be a Hornskipper.
-    -   If your race was [Felinor](Felinor.md) you would be labeled as an abomination.
+    -   If your race was [Felinor](Felinor.md), you would be labeled as an abomination.

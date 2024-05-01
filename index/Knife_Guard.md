@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 72232
+revid: 97423
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies]
@@ -42,3 +42,4 @@ A Knife Guard executes it's opponent after knocking them:
 ## Trivia
 
 -   Due to them teleporting in, one could abuse this to spawn numerous guards at once, causing the server to crash.
+    -   The bug report used to show this was done by dropping them into the void at Voidheart.

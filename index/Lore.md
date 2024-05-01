@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 97215
+revid: 97436
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1180,7 +1180,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 
 -   A recently arrived race of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
 -   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
--   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
+-   According to an [NPC](Ishan.md) in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
 -   The Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   They are **NOT** fish.[\[2\]](#cite-note-arch-2)
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog race.

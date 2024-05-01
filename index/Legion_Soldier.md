@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 94406
+revid: 97428
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -36,10 +36,6 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Wind Blade | User shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 92773
+revid: 97427
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -87,7 +87,7 @@ Assault
 -   Even if it doesn't change much, they can have different weapons, wielding either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
 -   Despite them being [Thundercall](Thundercall.md) users, they can drop [Gale Stones](Gale_Stone.md).
--   Legion Snipers are now friendly to people with positive [Legion reputation](The_Hundred_Legions.md)
+-   Legion Snipers are friendly to people with positive [Legion reputation](The_Hundred_Legions.md)
     -   Legion Snipers were the only Legion member to be hostile to players even if players had positive reputation with the Legion.
 -   Their Grand Javelin has way less cooldown than a player Grand Javelin since he can use it around every 2.5s
 -   Legion Kata's recommendation can be obtained from them if you talk to them after helping the Legion Captain two times.

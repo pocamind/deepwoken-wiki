@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 97232
+revid: 97422
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -35,7 +35,11 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE.
+
+This mantra has a [Magnet Spark](Mantra_Modifiers.md) on it.
+
+ | ◯ | ◯ | (★★☆) |
 | Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
 | Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
 | Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
@@ -90,6 +94,4 @@ A Journeyman Diver executes it's opponent after knocking them:
 ## Trivia
 
 -   They were originally [Black Divers](<Black_Diver_(NPC).md>), but were changed to Journeyman Divers due to their presence contradicting the established low number and high power level of actual Black Divers.
--   They use the Magnet Spark variant of Jolts Grab.
--   When they were added to the game, players were limited to two Attunements at a time, making them the only ones, player or NPC, in the entire game capable of using all four standard Attunements.
 -   Ironically, despite not being related to the [Ministry](The_Ministry.md), they can use [Shadowcast](Shadowcast.md).

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 97379
+revid: 97434
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -79,4 +79,4 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 -   The Knockdown for Vigil's Grace didn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
 -   Vigil's Grace card had another oath name instead of Jetstriker, this time being "Oath: Windrunner"
 -   Jetstriker did not have mantras prior to March 29, 2024.
--   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
+-   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others. If you use A Dye Packet on "Jetstriker Anklet" the Dash effect, Momentum bar Stratos Steps and the anklets are Dyed

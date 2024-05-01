@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 95942
+revid: 97433
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -43,13 +43,14 @@ The Dark Feather is a crafting item that commonly drops from killing a non-corru
 The Dark Feather is used in these recipes:
 
 -   [Authority Captain Uniform](Authority_Captain_Uniform.md)
+-   [Authority Commander](Authority_Commander.md)
+-   [Celtorian Tideknight](Celtorian_Tideknight.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
 -   [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md)
 -   [Hive Tactician Armor](Hive_Tactician_Armor.md)
 -   [Justicar](<Justicar_(Origin).md>)
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
--   [Authority Commander](Authority_Commander.md)
 -   Void Feathers, with 1 [Umbral Obsidian](Umbral_Obsidian.md) and 3 Dark Feathers
 
 It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
@@ -66,7 +67,15 @@ Cannot be deposited nor can it be dropped by players normally; unknown whether o
 
 ## Uses
 
-The Void Feather can be given to [Surge](Surge.md) to obtain moves of the [Visionshaper](Oaths.md) oath. It can also be used alone to craft multiple Dark Feathers; 1 Void Feather in crafting gives 3 Dark Feathers
+The Void Feather can be given to [Surge](Surge.md) to progress the [Visionshaper](Oaths.md) oath.
+
+The Void Feather is used in these recipes:
+
+-   [Ferryman's Coat](<Ferryman's_Coat.md>)
+-   [Royal Etrean Guard](Royal_Etrean_Guard.md)
+-   Dark Feathers, which gives 3 of them per Void Feather.
+
+  
 
 ## Crafting
 
