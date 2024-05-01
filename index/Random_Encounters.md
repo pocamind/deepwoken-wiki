@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 97185
+revid: 97509
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -200,9 +200,6 @@ A Tower in the Sea
 -   **Tower in the Water:**
     -   A Pirate outpost stands on the sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
     -   The tower may spawn [Cloaked Assassins](Cloaked_Assassin.md) instead of [Blacksteel Pirates](Blacksteel_Pirate.md) in the Eastern Luminant.
-    -   (Presumed to have been removed/replaced by Isle of Outlaws in a recent update)
-
-  
 
 _You can't get into that hut anyway, don't try._
 

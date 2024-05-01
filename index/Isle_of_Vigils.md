@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 95497
+revid: 97512
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -31,12 +31,13 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
     -   [Vigil's Mark](<Vigil's_Mark.md>)
     -   [Temple Sparring Hall](Temple_Sparring_Hall.md)
 
-## Contents
+## Points of Interest
 
 #### Camp
 
 -   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 -   Players can find a permanent [campfire](Campfire_Pit.md) here.
+-   Player can buy [Pathfinder Cloak](Pathfinder_Cloak.md) outfit inside the tent.
 
 #### Inn
 

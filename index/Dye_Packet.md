@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 97141
+revid: 97486
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -16,7 +16,7 @@ Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Light
 
 File:Pinkheart.png
 
-Silentheart veins dyed pink.
+Silentheart tatoos dyed pink.
 
 ## Dye-able Things
 

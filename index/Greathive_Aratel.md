@@ -1,9 +1,9 @@
 ---
 title: Greathive Aratel
-revid: 97473
+revid: 97513
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, World, Eastern Luminant]
+categories: [Locations, World, Eastern Luminant]
 ---
 
 # Greathive Aratel
@@ -21,7 +21,7 @@ The stirring of life of all kinds fills the air as you enter the shade of the ca
 
 ## Overview
 
-Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement, the Greathive itself.
+Greathive Aratel a city built in a giant tree on the sea Inside this tree is a large settlement, the Greathive itself.
 
 To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be above Power 10. (You don't need an [Oath](Oaths.md)). Once you meet these requirements, you should invoke specifically from the Greathive Fountain found in [The Lordsgrove](The_Lordsgrove.md) in order to enable the alternative of invoking from all the other Greathive fountains found in [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md). (If you washed your face in the lightkeeper temple, you won't be able to instantly use the fountains found in the hidden village or in the king's palace until you invoke from the Greathive fountain found in [The Lordsgrove](The_Lordsgrove.md))
 
@@ -33,13 +33,11 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 ### Entrance
 
-File:Hive Fountain.png
-
-Hive Fountain
+Hive Fountains
 
 #### Greathive Fountains
 
--   The player can find three of The Hive's fountains.
+-   The player can find Five of The Hive's fountains.
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle-left will send you to [Miner's Landing](<Miner's_Landing.md>).
     -   The middle will send you to [The Lordsgrove](The_Lordsgrove.md).
@@ -47,7 +45,8 @@ Hive Fountain
     -   The right will send you to [Upper Erisia](Upper_Erisia.md).
     -   Fountains likely have a cooldown of 25-30 seconds.
 -   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:
-    -   Somewhere within the [Hidden Village](The_Hidden_Village.md)
+    -   [The Lordsgrove](The_Lordsgrove.md)
+    -   Inside the [Hidden Village](The_Hidden_Village.md)
     -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze"
     -   [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md)
 

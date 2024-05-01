@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 97485
+revid: 97518
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -10,19 +10,25 @@ categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
 
 **Not to be confused with [Deep Shrines](Deep_Shrines.md).**
 
-Around the map there are fountains that allow you to teleport through them when interacted with. To gain access to this teleport feature you must wash your face in the Light Keeper fountain located on Aratel Island, which will permanently unlock it for all slots, provided you are Power 10+ and have visited The Lordsgrove.
+Green fountains are hidden in corners of the world. They are full of power, allowing players to use them to teleport. To gain access to this teleport feature you must wash your face in the [Light Keeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots, provided you are Power 10+ and have visited [The Lordsgrove](The_Lordsgrove.md).
 
-## Locations
+## Fountain Locations (To Greathive Aratel)
 
-[Hidden Village](The_Hidden_Village.md): [Greathive Aratel](Greathive_Aratel.md)
+1.  [The Lordsgrove](The_Lordsgrove.md) (Straight through, at the edge of the cliff)
+2.  [Hidden Village](The_Hidden_Village.md)
+3.  [Etris](Etris.md) (In the center of a small maze in [The King's Garden](<The_King's_Garden.md>)) -
+4.  [Vigils](Isle_of_Vigils.md) (To the right of the bridge leading to [The Gale Trainer](Friid,_Master_of_Gale.md), in an old building)
 
 Fountain located in Hidden Village (Erisia)
 
-[Lord Regent's Garden](The_Lord_Regent.md): [Greathive Aratel](Greathive_Aratel.md)
+## Fountain Locations (Leaving Greathive Aratel)
 
-Left shrine - [Greathive Aratel](Greathive_Aratel.md): [Summer Isles](Summer_Isle.md)
-
-Middle shrine - [Greathive Aratel](Greathive_Aratel.md): [The Lordsgrove](The_Lordsgrove.md)/[Starswept Valley](The_Starswept_Valley.md)
+1.  [The Lordsgrove](The_Lordsgrove.md)/[Starswept Valley](The_Starswept_Valley.md) - Center
+2.  [Summer Isle](Summer_Isle.md) - Far Left
+3.  [Miner's Landing](<Miner's_Landing.md>) - Top Left
+4.  Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md) - Far Right
+5.  [Ancient Rotlands](Ancient_Rotlands.md)/[Songseeker Wilds](Songseeker_Wilds.md) - Top Right
+6.  [Greathive Docks](Greathive_Aratel.md) - Inside [Greathive Aratel](Greathive_Aratel.md) in a room to the left when coming in, labeled "Shipyard".
 
 Fountain located in Lord Regent's Garden (Etris)
 
@@ -30,10 +36,6 @@ File:GreathiveAratelShrinesNew2.png
 
 Fountains located in Greathive Aratel
 
-Right shrine - [Greathive Aratel](Greathive_Aratel.md): Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md)
+## Trivia
 
-Top right shrine - [Greathive Aratel](Greathive_Aratel.md): [Ancient Rotlands](Ancient_Rotlands.md)/[Songseeker Wilds](Songseeker_Wilds.md)
-
-Top left shrine - [Greathive Aratel](Greathive_Aratel.md): [Miner's Landing](<Miner's_Landing.md>)
-
-[Greathive Aratel](Greathive_Aratel.md): Greathive Docks
+-   There is currently a bug which will not let you use the shrines even when meeting all the requirements. To combat this, join another server.
