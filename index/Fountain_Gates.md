@@ -1,9 +1,9 @@
 ---
 title: Fountain Gates
-revid: 78940
+revid: 97485
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Mechanics, Map, Utilities]
+categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
 ---
 
 # Fountain Gates
@@ -26,6 +26,14 @@ Middle shrine - [Greathive Aratel](Greathive_Aratel.md): [The Lordsgrove](The_Lo
 
 Fountain located in Lord Regent's Garden (Etris)
 
+File:GreathiveAratelShrinesNew2.png
+
+Fountains located in Greathive Aratel
+
 Right shrine - [Greathive Aratel](Greathive_Aratel.md): Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md)
+
+Top right shrine - [Greathive Aratel](Greathive_Aratel.md): [Ancient Rotlands](Ancient_Rotlands.md)/[Songseeker Wilds](Songseeker_Wilds.md)
+
+Top left shrine - [Greathive Aratel](Greathive_Aratel.md): [Miner's Landing](<Miner's_Landing.md>)
 
 [Greathive Aratel](Greathive_Aratel.md): Greathive Docks

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 97469
+revid: 97473
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Eastern Luminant]
@@ -49,6 +49,7 @@ Hive Fountain
 -   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:
     -   Somewhere within the [Hidden Village](The_Hidden_Village.md)
     -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze"
+    -   [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md)
 
 The doors to enter the Lordsgrove.
 
@@ -62,7 +63,7 @@ The doors to enter the Lordsgrove.
 
 -   Players can buy basic [training items,](Training_Gear.md)
 -   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
--   Mystic is here, going left past the training items will take you there.
+-   The mystic is here, going left past the training items will take you there.
 
 ### Root Plaza
 

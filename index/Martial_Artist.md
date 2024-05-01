@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 97451
+revid: 97477
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,7 @@ This Outfit's Schematic can be obtained from:
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [First Layer](First_Layer.md)
 -   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
 ## Trivia
 

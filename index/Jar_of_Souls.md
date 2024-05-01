@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 97285
+revid: 97476
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -45,6 +45,7 @@ When obtained, Jar of Soul will spend its points on the following stats:
 -   **Refill multiplier:** The more points are spent on this stat, the easier it is to recharge the resonance to full.
 -   **Auto Execute:** Decides if your attack can auto execute (Must have at least one soul to do this)
 -   **Range:** The more points are spent on this stat, the further the beam can reach.
+-   **Corrupted Jar of Souls** has more resonance points allocated as compared to regular Jar of Souls.
 
 ## Trivia
 

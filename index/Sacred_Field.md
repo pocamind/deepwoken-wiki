@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 93345
+revid: 97474
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,7 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Protects you and allies from harm substantially. |
 | appearance | Various colored field that spreads around the user. |
-| cooldown | 50s + duration |
+| cooldown | 71s duration |
 
 “ Conjure a field of sacred light, protecting you and your allies from harm. ”
 
