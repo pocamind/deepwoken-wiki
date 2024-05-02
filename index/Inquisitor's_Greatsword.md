@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 81168
+revid: 97600
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -33,4 +33,5 @@ The Inquisitor's Straight Sword is a [Greatsword](Weapons.md) with a black handl
 ## Notes & Trivia
 
 -   It drops from Rogue Constructs in Minityrsa.
--   With 100 HVY you will deal 42.3 damage.
+-   Meeting the requirement of HVY, the damage is (29.4)
+-   At max HVY, the damage is (38.1)

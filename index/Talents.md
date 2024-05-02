@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97345
+revid: 97604
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2297,6 +2297,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
+    -   Allies within AoE get a 10% DMG Buff
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   Prerequisites: 100 Charisma, 50 Strength
 
@@ -2399,7 +2400,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Vow of Mastery \[Common Talent\] - The [Vow of Mastery](Vow_of_Mastery.md) grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
     -   Players who take the vow are considered allies with their master and others who take the vow.
-    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate", "Leech"
+    -   Commands Given: "Sleep", "Drop", "Run, "Eat", "Say (Text)", "Use", "Locate", "Leech"
     -   Prerequisite: 20 Charisma
 
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration.
@@ -2416,11 +2417,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 60 Charisma, Vow of Mastery
     -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
     -   15 Seconds cooldown.
-
--   Command: Run \[Common Talent\] - Command your servant to run with all their might.
-    -   Prerequisites: 40 Charisma, Vow of Mastery
-    -   Effect: Make your subject run very fast, they can't stop running until the duration of effect ends.
-    -   2 Minutes cooldown.
 
 -   _Command: Sacrifice_ \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own.
     -   Prerequisites: 50 Charisma, Vow of Mastery

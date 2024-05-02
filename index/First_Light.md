@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 96270
+revid: 97602
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -47,7 +47,7 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of three greatswords (Others being the Enforcer's Blade and Railblade), that has no endlag on m1s.
--   Deals 37 damage at 75 HVY, and roughly 45 damage at 100 HVY.
+-   Deals 37 damage at 75 HVY, and roughly 40.8 damage at 100 HVY.
 -   The special animations for this sword may be the old Railblade animations because when you spawn in Visionshaper clones, they will utilize the older animations of the First Light.
 -   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.
 -   First Light was given a new critical along with it's reworked animations in an update, with the new critical having the ability to summon blades of fire from the sky.

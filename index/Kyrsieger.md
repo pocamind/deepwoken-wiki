@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 96707
+revid: 97601
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -48,3 +48,5 @@ The critical has a cooldown of eight seconds.
 -   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is likely a bug.
 -   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
 -   Weapon is soulbound upon being equipped.
+-   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
+-   At max HVY and CHA, the weapon deals 40.3 damage.

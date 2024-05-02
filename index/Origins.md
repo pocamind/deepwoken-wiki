@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 97408
+revid: 97599
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -65,7 +65,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     Call of the Deep animation
     
     -   If you use the ability you will spawn at [Castle Light](Castle_Light.md) just like how you would spawn when out of layer 1/2
-    -   Cannot be used in combat or in any layer of [The Depths](The_Depths.md), tho can be used anywhere else including [Voidzones](Voidzones.md).
+    -   Cannot be used in combat or in any layer of [The Depths](The_Depths.md), though can be used anywhere else including [Voidzones](Voidzones.md).
     -   Returning to the main menu during the animation will cancel the teleport.
 
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
@@ -73,7 +73,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
--   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquaran, etc.).
+-   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquaran, a working fire place, etc.).
 -   **\[CON\]** **You cannot do Trial of One.**
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
@@ -117,20 +117,20 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, and The Hundred Legions.
         -   If you are one of the 3 Hive races (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
 -   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive (Or other factions which may've put your bounty on their boards.)
--   if u see this race with black aura loggreally quickly or ur cooked
--   Upcoming Origins
+
+## Upcoming Origins
 
 ### **Authority Origin**
 
--   An Authority based origin. Not much is known about it other than you are being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
+-   An Authority based origin. Not much is known about it, other than you are being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
 
 The following is speculation:
 
 -   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
 -   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base.
--   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae.
--   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with NPCs, having the Adret race (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely doesn't matter if you rank up to Commander.
+-   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
+-   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with NPCs, having the Adret race (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
 
 ### **Hive Origin**
 

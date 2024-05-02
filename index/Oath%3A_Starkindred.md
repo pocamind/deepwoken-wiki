@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 96520
+revid: 97592
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -60,6 +60,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
 -   Applies hard knockdown on hit.
 -   This attack cannot be modified. Wayward Gem will not proc
+-   (needs testing) can knockdown enemies like Primadon and Enforcer for some reason.
 
  |
 | Combat |  | **Celestial Assault** |  | 
