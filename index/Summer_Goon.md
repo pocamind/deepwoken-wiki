@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 93181
+revid: 97567
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,10 +30,6 @@ A Summer Goon's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 | Taunt | User unleashes an ether infused wave that causes those on the receiving end to take 20% more damage, deal 10% more damage and are unable to jump. | ✗ | ◯ | (★☆☆) |
 | Exhaustion Strike | User performs a quick jab that transfers their posture to their foe. | ◯ | ◯ | (★★☆) |
 
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
-
 ### Talents
 
 -   Armor Piercing - Your bullets now ignore 20% of an opponent's physical armor.
@@ -53,4 +49,4 @@ A Summer Goon executes the player after knocking them:
 
 -   At one point in time, their outfit was changed to the [Summer Dragoon](Summer_Dragoon.md) outfit. This was then reverted and was given to [a separate enemy](<Summer_Dragoon_(NPC).md>).
 -   No difference in appearance to the [Summer Company Guard](Summer_Company_Guard.md) or [Summer Manager](Summer_Manager.md).
--   Like all Summer Isle NPCs, their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.
+-   Like all Summer Isle NPCs, they use the gun hitboxes, making them unable to hit you if you are directly in their face.

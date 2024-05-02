@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 85048
+revid: 97536
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -22,10 +22,6 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 | --- | --- | --- | --- | --- |
 | Assault | Swiftly swings dagger at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | The pirate uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward. | ◯ | ✗ | (★★☆) |
-
-### Boons
-
--   Experienced Fighter - Can block and parry common attacks and mantras.
 
 ## Talents
 

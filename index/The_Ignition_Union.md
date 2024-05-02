@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 93145
+revid: 97573
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -31,13 +31,13 @@ Shoulder to shoulder, together, tall! ”
 
 Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
-**The Union** is also responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Railblade](Railblade.md). They are also the force behind technologies such as the [Arc Suit](Oath%253A_Arcwarder.md).
+**The Ignition Union** is also responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Railblade](Railblade.md). They are also the force behind technologies such as the [Arc Suit](Oath%253A_Arcwarder.md).
 
 They are one of the three factions contracted by [The Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
-**The Union** maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects. They also have various ideological differences, which was ultimately what resulted in the Ignition Union's instigation of hostilities.
+**The Ignition Union** maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects. They also have various ideological differences, which was ultimately what resulted in the Ignition Union's instigation of hostilities.
 
-**The Ignition Union** also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. The funny thing is, [The Central Authority](The_Central_Authority.md) is responsible for contracting both factions.
+The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. The funny thing is, [The Central Authority](The_Central_Authority.md) is responsible for contracting both factions.
 
 Unlike The Divers, the hierarchy/tiers of the Ignition Union are based off helping the faction. **Deepdelvers** are known for their heavy contribution and sacrifice to the Union and it's members. They use the [Ignition Deepdelver](Ignition_Deepdelver.md) [Outfit](Outfits.md).
 
@@ -45,7 +45,7 @@ Unlike The Divers, the hierarchy/tiers of the Ignition Union are based off helpi
 
 Like other factions such as [The Summer Company](The_Summer_Company.md), having negative [reputation](Reputation.md) will have vendors deny you service within their affected territories. Additionally, you will be attacked by guards on sight. If the player has positive reputation, guards will not finish you off if they down you and will instead scold you and return to their post.
 
-You can reset your reputation with Maura, who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour and mobility mantras or the Union Hook [Talent](Talents.md), and the price range is 30 to 300 Notes.
+You can reset your reputation with Maura, who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour, mobility mantras, or the Union Hook [Talent](Talents.md), and the price range is 30 to 300 Notes.
 
 The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Origins.md).
 
@@ -55,7 +55,7 @@ The Ignition Union is among the factions to have a Bounty Board, which means tha
 
 Ally Reputation
 
--   "Alright, <name>? Good to see a familiar face.
+-   "Alright, <name>? Good to see a familiar face."
 
 Friend-Ally Reputation
 

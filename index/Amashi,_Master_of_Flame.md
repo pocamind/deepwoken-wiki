@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 97359
+revid: 97537
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers, Oaths, NPCs]
@@ -50,10 +50,6 @@ Amashi's uses a [Hero Blade of Flame](Hero_Blades.md) along with the [Flamecharm
 -   _Emperor Flame_ - Amashi can absorb fire produced, once he reaches 5 stacks his next attack will automatic explosive finishing flourish.
 -   _Mirage Clone_ - If Amashi dodges he leaves behind a heat mirage clone that sets enemies that swung at him on fire.
 
-### Boons
-
--   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
-
 ## Finisher
 
 Amashi executes his opponent after knocking them:
@@ -65,4 +61,4 @@ Amashi executes his opponent after knocking them:
 
 ## Tips
 
--   Parry trade with him or pin him into the wall and spam crit.
+-   When fighting him, you may either choose to parry trade and fight normally, or do a strategy similar to [The Duke](Duke_Ishamon_Erisia.md) where you pin him against the wall and spam your critical.

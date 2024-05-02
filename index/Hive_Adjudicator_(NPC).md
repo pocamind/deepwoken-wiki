@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 97415
+revid: 97547
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -33,8 +33,7 @@ A Hive Arbiter's arsenal only consists of a [Katana](Katana.md):
 
 ### Boons
 
--   Experienced Fighter - Can block and parry common attacks and mantras.
--   Heavy Support - Spawns along with 2 [Hive Constructs](Hive_Construct.md) and 3 Hive Adjudicators if in [Greathive Aratel](Greathive_Aratel.md).
+-   Reinforcements - Spawns along with 2 [Hive Constructs](Hive_Construct.md), if in [Greathive Aratel](Greathive_Aratel.md) additionally spawn 3 more Adjudicators.
 -   Enchanted - Comes with a random variety of enchant
 
 ### Talents

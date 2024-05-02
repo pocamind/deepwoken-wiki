@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 97374
+revid: 97545
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -26,10 +26,6 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 | --- | --- | --- | --- | --- |
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ## Finisher
 
@@ -67,10 +63,6 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 | Old Ice Eruption | Forms a path of ice spikes in front of user. | ✗ | ✗ | (★★☆) |
 | Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
 
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
-
 ## Finisher
 
 An Eastern Tribe Nomad executes it's opponent after knocking them:
@@ -78,15 +70,6 @@ An Eastern Tribe Nomad executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before impaling them through the chest with their spear. |
-
-## Tips
-
--   Don't fight this variant, they are deadly.
-
-## Trivia
-
--   One of 3 enemies that utilizes the "Old Ice Eruption" mantra.
-    
 
 -   All of them are [Gremors](Gremor.md)
 -   A nomad with Vampirism on their spear.

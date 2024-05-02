@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 97416
+revid: 97549
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -61,10 +61,6 @@ Flame Assault
 Revenge
 
  | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★☆☆) |
-
-#### Boons
-
--   Experienced Fighter - Can block and parry common attacks and mantras.
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 94868
+revid: 97541
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -32,10 +32,6 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 \[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward. \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★☆☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry, block, and dodge common attacks and mantras.
 
 ### Talents
 

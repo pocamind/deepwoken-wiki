@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 97515
+revid: 97534
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -48,7 +48,6 @@ This mantra has a [Magnet Spark](Mantra_Modifiers.md) on it.
 
 ### Boons:
 
--   Experienced Fighter - Can block and parry common attacks and mantras.
 -   Impervious - Immune to PvE scaling.
 
 ### Talents
@@ -89,7 +88,7 @@ A Journeyman Diver executes it's opponent after knocking them:
 ## Tips
 
 -   Don't try to fight them in any circumstances. They will jump you, and they have little to no cooldown on mantras.
--   If they aren't dangerous enough as is, they also now have a very high chance (if not, guaranteed) to spawn in with an enchant. So unless you have a death wish, just don't fight them at all.
+-   Look at their enchant before attempting to engage in a fight with them, as if you lack necessary talents such as Carnivore or a form of Campfire in the depths, enchants such as Gluttony and Bloodthirsty may lead to an untimely end.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 97371
+revid: 97544
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -35,10 +35,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 | Ice Blade | creates two blades of ice and rushes forward rapidly slashing. | ◯ | ◯ | (★☆☆) |
 | Ice Chain | User forms chains of ice that latch onto opponents. | ◯ | ◯ | (★☆☆) |
 | Rising Frost | The user summons a glaive of ice and does a barrage attack that raises both the caster and the opponent into the air. | ◯ | ◯ | (★★☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 90837
+revid: 97566
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -32,10 +32,6 @@ A Summer Company Guard's arsenal only consists of a [Flintlock](Flintlock.md) pi
 | Taunt | Taunts those around the caster, causing opponents to be unable to jump and to take more damage. However, in their rage they do extra damage. | ? | ? | (★★★) |
 | Exhaustion Strike | A melee strike that removes the casters posture's damage on hit. | ◯ | ? | (★★☆) |
 
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
-
 ### Talents
 
 -   Armor Piercing - Your bullets now ignore 20% of an opponent's physical armor.
@@ -54,4 +50,4 @@ A Summer Company Guard executes the player after knocking them:
 ## Trivia
 
 -   At one point in time, their outfit was changed to the [Summer Dragoon](Summer_Dragoon.md) outfit. This was then reverted and was given to a separate enemy.
--   Their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.
+-   Due to the janky hitboxes of guns, they can shoot a gun point-blank but still not land a single shot.

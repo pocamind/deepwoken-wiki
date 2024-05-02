@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 94929
+revid: 97556
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -48,7 +48,6 @@ Necro-skippers
 ### Boons
 
 -   Third Eye - User cannot be assassinated under any circumstances.
--   Experienced Fighter - Can parry and block common attacks and mantras. It can also parry trade.
 
 ### Talents
 
@@ -63,10 +62,7 @@ Necro-skippers
 
 ## Trivia
 
--   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   Auto-grip talents are recommended as they can guarantee a kill on the first three hits.
 -   Every Ministry Necromancer is a [Ganymede](Ganymede.md).
 -   They have a rare chance of dropping the [Night Axe](Night_Axe.md) on death.
--   It is believed that the Necromancy they use is related to an Oath, possibly being Contractors from an unknown Prophet.
 -   Despite being humanoid NPCs, they are classified as **[Monsters](Monsters.md)**, similar to the [Immortal Guardians](Immortal_Guardian.md). Due to this, they aggro on just about anything in their line of sight, will still attack those who are in good standing with [The Ministry](The_Ministry.md) and too are affected by the **[Mute](Regalia.md)** Regalia. Thus, this makes them the only Monster affected by Animal King to be capable of summoning _more_ Monsters.
     -   Thus, killing these Necromancers will not lower your Reputation with the Ministry.

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 90324
+revid: 97564
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -35,7 +35,6 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
 ### **Boons:**
 
--   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
 -   Third Eye - A Songseeker Thundercaller cannot be assassinated.
 
 ### Talents

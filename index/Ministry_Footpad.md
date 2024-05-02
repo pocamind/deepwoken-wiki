@@ -1,6 +1,6 @@
 ---
 title: Ministry Footpad
-revid: 92140
+revid: 97555
 source: https://deepwoken.fandom.com/wiki/Ministry_Footpad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -39,7 +39,6 @@ warp-striking to them.
 ### Boons
 
 -   Third Eye - A Ministry Scout cannot be assassinated under any circumstances.
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ## Finisher
 

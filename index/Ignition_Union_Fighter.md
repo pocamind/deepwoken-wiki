@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 97418
+revid: 97550
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -34,10 +34,6 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 | Needle Barrage | User leaps into the air and pelts the enemy with a trio of metal rods. | ? | ? | (☆☆☆) |
 | Firing Line | User forms five rifles out of metal that open fire on their target. | ◯ | ◯ | (★★☆) |
 | Oxidizing Rush | User rushes forward while surrounded by an array of metal swords. | ◯ | ? | (★★☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ### Talents
 

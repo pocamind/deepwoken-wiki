@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 96584
+revid: 97540
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -37,9 +37,7 @@ A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Batt
  | ◯ | ✗ | (★★☆) |
 | Feint | Attacks, but stops during the windup in an attempt to catch the opponent off-guard. | _?_ | _?_ | (★★☆) |
 
-### Boons
-
--   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
+  
 
 ## Finisher
 

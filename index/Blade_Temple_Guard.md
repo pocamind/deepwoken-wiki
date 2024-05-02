@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 97364
+revid: 97543
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards]
@@ -25,9 +25,7 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Wind Blade | User sheathes and then slashes sending a piece of wind at their foe | ◯ | ◯ | (★☆☆) |
 
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
+  
 
 ## Finisher
 

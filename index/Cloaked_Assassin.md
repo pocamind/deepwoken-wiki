@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 97399
+revid: 97542
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -83,10 +83,6 @@ Shadow Assault
 Chain Pull
 
  | Summons a chain out of their hand that quickly pulls you towards them. | ◯ | ◯ | (★★☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ### Talents
 

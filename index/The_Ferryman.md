@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 96730
+revid: 97569
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -128,6 +128,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Second Interrogation - Electrified attacks do 50% less damage and posture damage to the Ferryman.
 -   Authority Intimidation - All moves that apply electricity slow you more.
 -   Resolve Crusher - All the Ferryman's lightning moves apply "Electrify", attacks from electrified players are converted into lightning damage, but will deal 10% less damage to the Ferryman.
+-   Resilience - Similar to every other boss, is immune to statuses which disable moves.
 
 ### Finishers
 
@@ -289,26 +290,19 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
--   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from Rouge Lineage, another game by him, despite numerous similarities (including their names).
-    -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
-    -   They both wear black clothes and have pale skin.
-    -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
--   It can be inferred from The Ferryman and the [Scion Of Ethiron](Scion_of_Ethiron.md)'s attacks using Thundercall and Galebreathe, that "awakened" forms of attunements associated with the depths are colored purple. This is further reinforced by the fact that the Forge of Sin made by Korilfiend (the Drowned God of fire) contains purple flames which may be his "awakened" Flamecharm. Though, despite the overwhelming evidence and connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".
+-   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from Rouge Lineage.
+-   Due to this boss, The [Scion of Ethiron](Scion_of_Ethiron.md), and [Amorus Pleeksty](Amorus_Pleeksty.md) using purple variations of their element, they were thought to be using "awakened elements." However, despite the connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".\[citation needed\]
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
 -   Arch\_Mage has stated that the Ferryman is "probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality)".
 
--   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
--   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
--   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
--   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point. In Verse 1, they would give luck, but luck is no longer used or available as of Verse 2.
+-   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would receive the small chest, instead of a Krulian Knife.
+-   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
--   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
--   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that it is actually played in lore and not just in game. (Naktigonis himself is there playing it while you get folded by Ferryman)
--   Initiating the fight previously did not cause a Dungeon to be instantiated, leaving the player vulnerable while fighting. This was likely adjusted to provide protection from attackers.
+-   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that the fight music is infact, diagetic.
 -   There is an extremely rare chance that you will not get anything in a chest. This is not a bug, because all of The Ferryman's drops are NOT guaranteed to get, this can be seen by opening a chest and immediately the UI to grab any loot closes up, the chest will remain but can not be interacted with.
 
 ## Bugs

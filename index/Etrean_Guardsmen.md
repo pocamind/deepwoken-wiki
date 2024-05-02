@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 94737
+revid: 97546
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards]
@@ -35,7 +35,6 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 
 ### Boons
 
--   Experienced Fighter - Can parry and block common attacks and mantras.
 -   Impervious - Immune to PvE scaling.
 
 ## Tips

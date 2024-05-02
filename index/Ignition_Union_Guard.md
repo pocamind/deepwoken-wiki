@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 83775
+revid: 97551
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -32,10 +32,6 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 | Rocket Lance | Create a lance, impale your opponent, and see them flying. | ? | ? | (★★★) |
 | Chain Pull | Conjure a chain to pull your opponent. | ? | ? | (★☆☆) |
 | Metal Ball | Form yourself into a metal ball and rush forward. | ? | ? | (★★☆) |
-
-### Boons
-
--   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ### Talents
 

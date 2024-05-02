@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 88617
+revid: 97552
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -24,7 +24,7 @@ A Mindless Servant's arsenal only consists of their hands:
 
 ### Boons
 
--   Skill Retainment - Still can parry and block common attacks and mantras even after being turned into a mindless servant.
+-   Mindless - This enemy ignores the built in Anti-Gank system, allowing heavy hordes of them to build up on a single player.
 
 ## Finisher
 
@@ -41,4 +41,3 @@ A Mindless Servant's arsenal only consists of their hands:
 
 -   Mindless Servants have the same AI as [Mudskippers](Mudskipper.md) except for the fact that Mudskippers still have anti-teaming AI.
 -   Although their souls have departed from their bodies, souls can still be absorbed from them using Jar of Souls.
--   Mindless Servants with the [Tiran](Tiran.md) Race heavily resemble Tosen from Bleach with purple hair brown skin along with a specific hair that all of them spawn with.

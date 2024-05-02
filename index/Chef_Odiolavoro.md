@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 80374
+revid: 97577
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, NPCs, Quests]
 | name | Chef Odiolavoro |
 | location | Etris |
 
-Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) chef that's opened up shop in Etris recently and is hoping to one day be able to compete with the Leshi brothers.
+Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in Etris recently and is hoping to one day be able to compete with the Leshi brothers.
 
 ## Description
 

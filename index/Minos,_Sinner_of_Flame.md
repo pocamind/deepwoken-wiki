@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 95348
+revid: 97558
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
