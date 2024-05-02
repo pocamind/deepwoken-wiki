@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 97335
+revid: 97525
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -65,7 +65,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Hesitation is Defeat** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
+| **Tempest Eye** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
 -   Triggered by spitting on him **at any point**. Charisma can not bypass this.
@@ -137,6 +137,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Sandrunner Wraps](Sandrunner_Wraps.md)
 -   [Star Boots](Star_Boots.md)
 -   [Confessor's Charm](<Confessor's_Charm.md>)
+-   [Canticlysm Pendant](Canticlysm_Pendant.md)
 -   Most [Earrings](Equipment.md#ears)
 
  | 
@@ -159,6 +160,8 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [The Path's Defender](<The_Path's_Defender.md>)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+-   [Champion's Dagger](<Champion's_Dagger.md>)
+-   [Whaling Knife](Whaling_Knife.md)
 
  | 
 

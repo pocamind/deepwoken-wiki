@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 97516
+revid: 97527
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -69,3 +69,4 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   Gravity inside the Distortion Realm used to be reduced.
 -   There used to be a bug where buildings could be found in the Distortion Realm.
 -   Functions similar to Naruto character, Tobi/Obito's Mangekyou Sharingan Dōjutsu "Kamui" ability.
+-   You cannot climb the structures in [The Interstice](The_Interstice.md).

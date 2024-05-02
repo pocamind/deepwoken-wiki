@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 97471
+revid: 97523
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs, Eastern Luminant]
@@ -19,7 +19,7 @@ Mime is an NPC found within a small cave, one devoid of any gold ore, in [Songse
 
 ## Description
 
-He appears around a lot of Mineskippers disguised as barrels, which upon killing will allow you to speak with him. If you have 24 points in [Charisma](Attributes.md), he will give you the mantra Disguise, which allows you to disguise yourself as a barrel.
+He appears around a lot of Mineskippers disguised as barrels, which upon killing will allow you to speak with him. If you have 24 points in [Charisma](Attributes.md), he will give you the mantra Disguise, which allows you to disguise yourself as a barrel. The requirement for this mantra changes depending on race, though this needs further experimenting to find out the exact requirements for each race.
 
 Disguise yourself as an unassuming object for a seemingly indefinite amount of time.
 
