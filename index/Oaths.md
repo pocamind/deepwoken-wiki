@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 97342
+revid: 97582
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -41,6 +41,10 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   Three unnamed Oaths
+
+## Oath Skiping
+
+If you've progressed to maximum a certain oath once before, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath.
 
 ## **Oathbreaker - Oath Removal**
 
@@ -124,7 +128,6 @@ Proof of Time Magic's existence and it being an "Oath"
 
 ## Trivia
 
--   It is possible to skip an oath's progression you have already done before by using 10 knowledge. You must have logged in on a slot with the maxxed out oath after the 26/04/2024 update for it to be possible.
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
