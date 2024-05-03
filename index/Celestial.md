@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 93760
+revid: 97654
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -19,11 +19,9 @@ Template:Races-Main
 ## Description
 
 -   The People of the Stars, so to speak. They are not to be confused with [Lightborns](Lightborn.md), their descendants.
--   Celestials came to the Luminants from the stars when the [Canticlysm](The_Canticlysm.md) descended upon the Old World.
--   The Celestial cities hang below a black sea. The ivory and pearl structures hang over like chains.
--   Their civilization has fallen to ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
+-   Celestials evacuated to the Luminants from the stars when the [Canticlysm](The_Canticlysm.md) descended upon the Old World due to the invasion of their city, Constellia, by the Kyrsgarde under Ethiron's will.
 -   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
--   The [Starkindred](Oath%253A_Starkindred.md) Church seem to gain their powers from drinking the blood of captive Celestials.
+-   The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials.
 -   Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 97646
+revid: 97649
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -77,8 +77,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 
 ## Trivia
 
--   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CAN** gain back reputation **ONLY BY** defeating Chaser or Ethiron, killing squibbo, doing Diver vs Monster events, and killing the four mudskippers and sharko that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp) Buying back reputation will not work.
--   NOTE: Solo'ing layer 2 floor 2 without lighthook is by far the easiest method to get neutral reputation. By using the light hook at the end of floor 2, it sets your spawn in castle, forcing neutral diver reputation from 1 floor 2 run.
+-   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CAN** gain back reputation **ONLY BY** defeating Chaser or Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp) Buying back reputation will not work.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards until reputation is gained back.
 -   Since you need to go to the Depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do Chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   Having Contractor in the Depths can be outright deadly; as a Contractor's progression method is the most hostile out of any Oath, you will often be targeted for it in turn, even if passive.
@@ -89,7 +88,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 -   Keep in mind that you will not be sent to layer 2 if you are gripped during the progression of your oath, instead you will go to fragments, so do not be overconfident when progressing this oath.
 -   Before 25/08/23, 4 specific Deep Shrines deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
 -   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.
--   Despite popular belief you can get contractor without directly gripping Duke Erisia, you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
+-   Despite popular belief you can get Contractor without directly gripping Duke Erisia, you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
 
 File:Contractor String.png
 
@@ -103,5 +102,4 @@ Up close Contractor strings
 -   If you, for some reason, do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
 -   Being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
 -   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
--   This oath could be a reference to an anime Darker Than Black, where the main character is called a contractor, his eyes are plain, without life. In the first opening there is a scene of him being pulled by black strings similar to the Judgement mantra.
 -   Lord's Slice is heavy reminiscent to Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
