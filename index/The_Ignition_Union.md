@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 97573
+revid: 97619
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -48,6 +48,8 @@ Like other factions such as [The Summer Company](The_Summer_Company.md), having 
 You can reset your reputation with Maura, who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour, mobility mantras, or the Union Hook [Talent](Talents.md), and the price range is 30 to 300 Notes.
 
 The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Origins.md).
+
+Having Hunted reputation will cause you to be hunted by [Arcwarders](Ignition_Union_Arcwarder.md) and [Mechalodaunts](Megalodaunt.md)
 
 ### Dialogue
 

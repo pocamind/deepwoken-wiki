@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 94809
+revid: 97613
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -38,16 +38,14 @@ Enemy status with an allied faction
 Enemy status with Etrea
 
 -   Guards will instantly attack you, NPC's in Etrea or Isle of Vigils will refuse to help you, except: Blacksmiths.
-
-Etrea is among the factions to have a Bounty Board.
+-   Displayed on the Bounty Board. (Along with appearing in the [Voidheart](Voidheart.md) bounty board.)
 
 ## Notable Members
 
--   [The Lord Regent](The_Lord_Regent.md) (Technically, actually belongs to [The Ministry](The_Ministry.md))
+-   [The Lord Regent](The_Lord_Regent.md) (Presumed, actually belongs to [The Ministry](The_Ministry.md))
 -   [Polis](Polis.md)
--   Kennith
--   Nerin (Resets reputation to your default rep when you spawn in, unlocks the Sly boon.)
--   Captain Etrean
+-   [Kennith](Kennith.md)
+-   [Nerin](Reputation.md) (Resets reputation to your default rep when you spawn in, unlocks the Sly boon.)
 
 ## Trivia
 

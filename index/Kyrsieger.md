@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 97601
+revid: 97610
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -35,7 +35,7 @@ It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 ## Critical
 
-The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of unparriable purple energy. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range and posture damage dealt.
+The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of unparriable purple energy. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range and posture damage dealt. The critical also applies charm upon hit.
 
 The critical has a cooldown of eight seconds.
 

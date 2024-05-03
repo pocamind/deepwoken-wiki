@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97604
+revid: 97612
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1459,7 +1459,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisites: [Power](Power.md) 10
 
-### Master Survivalist
+### Master Survivalists
 
 > _**"I am nature's master."**_
 

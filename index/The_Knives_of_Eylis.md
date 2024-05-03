@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 81612
+revid: 97620
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -30,8 +30,7 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 ## Trivia
 
--   They are one of few factions with an [Oath](Oaths.md) tied to them, there is also the Ministry, and a Speculated To-Be-Released one for the Authority, finally there is the [Ignition Union](The_Ignition_Union.md).
+-   They are one of few factions with an [Oath](Oaths.md) tied to them, the others being [The Ministry](The_Ministry.md), [The Authority](The_Central_Authority.md), and the [Ignition Union](The_Ignition_Union.md).
 
 -   Possibly a reference to the mythological location of Elysium where the heroes and kings would be sent when they died.
 -   The faction's name could be reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as [Whalers](https://dishonored.fandom.com/wiki/Whalers).
--   Though they are paid by the Authority to raid Etrean ships, the Knives may be paid by Etrea to do the same to the Authority.
