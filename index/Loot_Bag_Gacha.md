@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 97437
+revid: 97624
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Mechanics]
@@ -26,7 +26,7 @@ An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
 -   [Fur Pauldrons](Fur_Pauldrons.md)
 -   [Gilded Knife](Gilded_Knife.md)
 -   [Iron Pauldrons](Iron_Pauldrons.md)
--   Falchion
+-   [Falchion](Falchion.md)
 
 ## Kujae
 
@@ -68,6 +68,9 @@ An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
 -   [Knight's Helm](<Silver_Knight's_Helm.md>)
 -   Scarfs
 -   [Grand Pathfinder Backpack](<Grand_Pathfinder's_Backpack.md>)
+-   [Tanto](Tanto.md)
+-   [Warriors Eyepatch](<Warrior's_Eyepatch.md>)
+-   [Vigil Hood](Vigil_Hood.md)
 
 ## Dialogue
 

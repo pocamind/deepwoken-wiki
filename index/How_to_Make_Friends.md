@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 93357
+revid: 97622
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -29,9 +29,9 @@ You do _not_ need to capitalize letters or use punctuation (Including spaces!), 
 -   Hey hivekin, can I bug you for a moment?
 -   So, how's work?
 -   Wow, this breeze is great, right?
--   Sometimes I have really deep thoughts about life and stuff.
+-   Sometimes I have really deep thoughts about life and stuff
 -   Some weather we're having, huh?
--   You ever been to a Canor restaurant? The food's pretty howlright.
+-   You ever been to a Canor restaurant? The food's pretty howlright
 
 When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines depending on the charisma of the player who spoke the line.
 

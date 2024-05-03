@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 95469
+revid: 97628
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

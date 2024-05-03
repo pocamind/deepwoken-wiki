@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 97316
+revid: 97646
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -78,6 +78,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 ## Trivia
 
 -   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CAN** gain back reputation **ONLY BY** defeating Chaser or Ethiron, killing squibbo, doing Diver vs Monster events, and killing the four mudskippers and sharko that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp) Buying back reputation will not work.
+-   NOTE: Solo'ing layer 2 floor 2 without lighthook is by far the easiest method to get neutral reputation. By using the light hook at the end of floor 2, it sets your spawn in castle, forcing neutral diver reputation from 1 floor 2 run.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards until reputation is gained back.
 -   Since you need to go to the Depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do Chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   Having Contractor in the Depths can be outright deadly; as a Contractor's progression method is the most hostile out of any Oath, you will often be targeted for it in turn, even if passive.
