@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 95139
+revid: 97758
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -28,7 +28,7 @@ Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abil
 "Hey friend, need a new style?"
 
 1.  Sure. (Allows Hair customization.)
-2.  Help me, barber A most wretched cut has befallen me. (Changes hair back to how it was previously)
+2.  Help me, barber A most wretched cut has befallen me. (Changes hair back to how it was previously. This option only appears if a Fadetrimmer has used their Precision Cuts on you changing your hair.)
 3.  Restore me to my natural hair. (Changes hairstyle to the one your avatar is currently wearing.)
 4.  Change my eyelashes. (Changes your eyelashes as said.)
 5.  Change my gender representation. (Changes gender to male, female, or neutral.)
@@ -44,7 +44,7 @@ Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abil
 
 3-8 - "Okay! All done!"
 
-9 - "I took an oath as a Fadetrimmer." (Continues in a short conversation)
+10 - "I took an oath as a Fadetrimmer." (Continues in a short conversation)
 
 -   Player: 1. "...A Fadetrimmer?"
 -   Barber: "Yeah. We are a pretty underground Oath. You probably haven't heard of us."

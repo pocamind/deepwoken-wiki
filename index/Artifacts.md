@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 97393
+revid: 97761
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -9,10 +9,6 @@ categories: [Items, Mechanics]
 # Artifacts
 
 _Not to be confused with [Relics](Relics.md)._
-
-“ RUN! RUN FOR YOUR LIFE! ”
-
-― A freshie after picking up an Artifact that some Power 20 Lower Erisia farmer saw 5 nanoseconds before
 
 An Adret carrying a piece of The Forge.
 

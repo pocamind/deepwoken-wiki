@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 96577
+revid: 97760
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -50,6 +50,8 @@ categories: [Weapons, Spears]
 
 The Trident Spear is a midgame medium weapon in the form of a three-pronged spear. It can be obtained by doing the explosion crate quest at [Summer Isle](Summer_Isle.md), chests at [Saramaed Summit](Saramaed_Summit.md), chests at [Miner's Landing](<Miner's_Landing.md>), chests at [Upper erisia](Upper_Erisia.md) or from [Depths](The_Depths.md) chests. The Trident Spear is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats while giving it a Damascus steel-type texture.
 
+The Trident Spear possesses a Unique critical, Where the user thrusts forward while rapidly spinning the spear, Multihit attack.
+
 ## Trivia
 
 -   Meeting the non-alloyed requirement of MED, the damage is (23.3)
@@ -58,3 +60,4 @@ The Trident Spear is a midgame medium weapon in the form of a three-pronged spea
     -   At max MED, the alloyed damage is (29)
 -   Used by [Celtor Guards](Celtorian_Guard.md), referencing the city's previous fishing-based economy.
 -   Alloyed form rivals, if not overtakes, the [Serrated Warspear](Serrated_Warspear.md) in terms of endgame damage if paired with Speed Demon talent at 100 MED stat.
+-   The trident spears unique critical was capable of One-shotting players when paired with certain enchants.

@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 97486
+revid: 97766
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -16,7 +16,7 @@ Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Light
 
 File:Pinkheart.png
 
-Silentheart tatoos dyed pink.
+Silentheart tattoos dyed pink.
 
 ## Dye-able Things
 
@@ -24,8 +24,8 @@ Silentheart tatoos dyed pink.
 -   Hair
 -   Eyes (Both Pupils and Sclera)
 -   [Resonance](Resonance.md)
--   Any visual [Oath](Oaths.md) change (Silentheart veins, Dawnwalker symbol, Arcwarder armor, etc.)
--   Race Features (Markings, Horn Colors, etc..)
+-   Any visual [Oath](Oaths.md) change (Silentheart tattoos, Dawnwalker symbol, Arcwarder armor, Jetstriker anklets, etc.)
+-   Race Features (Markings, Horn Colors, etc.)
 -   [Vesperian](Vesperian.md) mask and face ink (You can pick the same 2 colors for a faceless effect).
 -   [Outfit](Outfits.md)
 

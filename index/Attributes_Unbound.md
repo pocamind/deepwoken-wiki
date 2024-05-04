@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 95905
+revid: 97775
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -104,3 +104,4 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   The Windrunner is yet another reference to _The Stormlight Archive_
 -   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)
+-   Unlike normal attributes such as Fortitude and Willpower, Attunments and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
