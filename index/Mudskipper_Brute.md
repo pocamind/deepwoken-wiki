@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 97643
+revid: 97702
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -50,3 +50,4 @@ File:Mudskipper Brute Roar.gif
 -   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from _The Last of Us_.
     -   The design could also be influenced by the Bloater from the same game.
 -   When attacked by a cannon ball it will be killed instantly.
+-   it drops the martial artist schematic.

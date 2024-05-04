@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 93767
+revid: 97680
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -35,7 +35,7 @@ You will be able to tell her this once you meet the following requirements:
 -   Have beaten Chaser at least once.
 -   Have the two Layer 2 talents;
     -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the [cave labyrinth](Firfire_Caverns.md), and talking to the Leader located at [Firfire](Firfire.md).
-    -   Union Hook, which is obtained after you save the Epsi NPC and return to the powered [Frontier Furnace](The_Frontier_Furnace.md) to speak with Alpha and obtain the talent. You only need to do the Epsi quest once across all slots, and thereafter you will be able to talk to Alpha and obtain it automatically.
+    -   Union Hook, which is obtained after you save [Epsi](Epsi.md) and return to the powered [Frontier Furnace](The_Frontier_Furnace.md) to speak with [Alpha](Alpha.md). You only need to do the Epsi quest once across all slots, and thereafter you will be able to talk to Alpha and obtain it automatically.
 
 You do not need to accomplish all of these requirements in the same run or even in the same order, nor do you need to complete the current run to get the requirement (save for the Chaser clear.)
 

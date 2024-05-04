@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97612
+revid: 97679
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -468,7 +468,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Synergizes greatly with bloodless gems, allowing for bloodless to heal 20% "more practical damage" at low hp.
+    -   Synergizes greatly with bloodless gems, allowing for bloodless to heal 20% more effective health points at low health.
     -   Effect Lasts 15s (7.5s against Disbelief talent)
     -   Proc Cooldown: 0.25s
     -   Prerequisite 55 Charisma, Charismatic Cast

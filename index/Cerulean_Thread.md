@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 97180
+revid: 97697
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -12,7 +12,7 @@ categories: [Weapons, Daggers]
 |---|---|
 | type | Dagger |
 | requirements | 85 LHT, LVL 10 |
-| damage | 16 |
+| damage | 15 |
 | scaling | 7.5 LHT |
 | range | 6.5 |
 | swing speed | 0.98x |
@@ -38,5 +38,5 @@ On the first critical you'll thrust towards your opponent, placing a string on t
 ## Trivia
 
 -   The only light weapon to be sheathed behind you instead of along your waist.
--   Meeting the requirement of LHT, the damage is (23.7)
--   At max LHT, the damage is (25)
+-   Meeting the requirement of LHT, the damage is (23.1)
+-   At max LHT, the damage is (24.6)
