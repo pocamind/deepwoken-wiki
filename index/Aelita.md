@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 97081
+revid: 97710
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -60,7 +60,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 -   When Talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
 -   Aelita is a [Felinor](Felinor.md).
-    -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [oaths](Oaths.md).
+    -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [oaths](Oaths.md).\[citation needed\]
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
 -   Aelita is a Visionshaper, she doesn't have the oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.

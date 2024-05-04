@@ -1,9 +1,9 @@
 ---
 title: Darksteel Greatsword
-revid: 97511
+revid: 97727
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords]
+categories: [Weapons, Pages with broken file links, Greatswords]
 ---
 
 # Darksteel Greatsword
@@ -53,11 +53,15 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The Darksteel Greatsword is a midgame Greatsword used by The Ignition Union. This weapon has a very low drop rate in the overworld in places near [Aratel Island](Aratel_Island.md) / [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). as well as chests from [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Miner's Landing](<Miner's_Landing.md>) aswell as bounty chests and pure ore. It can also be bought from [Miner's Landing](<Miner's_Landing.md>) for 200 notes. You can find it resting by a wall near the entrance of the [Saramaed Summit](Saramaed_Summit.md). has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. The Darksteel Greatsword is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a glazed purple texture.
+The Darksteel Greatsword is a midgame Greatsword used by The Ignition Union. This weapon has a very low drop rate in the overworld in places near [Aratel Island](Aratel_Island.md) / [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). as well as chests from [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Miner's Landing](<Miner's_Landing.md>) as well as bounty chests and pure ore. It can also be bought from [Miner's Landing](<Miner's_Landing.md>) for 200 notes. You can find it resting by a wall near the entrance of the [Saramaed Summit](Saramaed_Summit.md). has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. The Darksteel Greatsword is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a glazed purple texture.
 
 ## Critical
 
 After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical.
+
+File:Critical.gif
+
+Darksteel Greatsword Critical
 
 ## Trivia
 
