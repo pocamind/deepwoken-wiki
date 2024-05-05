@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Eyepatch"
-revid: 81944
+revid: 97878
 source: https://deepwoken.fandom.com/wiki/Warrior's_Eyepatch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]

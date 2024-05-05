@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 97470
+revid: 97852
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -37,6 +37,8 @@ The Pyre Keeper comes with the following passives:
 
 -   **Lifelord's Blaze:** M1 attacks spawn green yellow-ish flames on hit that cut the target's mobility in half.
 -   **Dual Scaling M1s:** M1 or critical attacks that swing with the dagger scale off light weapon rather then heavy.
+
+As suggested by its item description, this blade was used by Ysley after it was crafted by a Greatlord of the Hive. Other bits of lore in the game suggest that this Greatlord was none other than Incredible Gassy, which is further corroborated by the native coloring of the blade. The lore implications of this distinctive appearance may be written off by some, as its appearance may change color depending on the Azure Flame/Twisted Puppets path chosen by its user, though it is important to remember that its appearance could not be altered upon release.
 
 ## Critical
 

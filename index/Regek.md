@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 96406
+revid: 97885
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spelltrainers, NPCs]
@@ -28,4 +28,4 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
     2.  40+ points in Strength => Level 3 Strength Mantra.
     3.  60+ points in Strength => Level 4 Strength Mantra.
     4.  80+ points in Strength => Level 5 Strength Mantra.
--   They also tells you some lore about [The Hive](The_Hive.md).
+-   They also tell you some lore about [The Hive](The_Hive.md).

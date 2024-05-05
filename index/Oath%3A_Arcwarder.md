@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 96720
+revid: 97862
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,7 +40,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 4 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received upon light hooking out from Chaser or Ethiron.
+Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 4 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received every 2 kills and upon light hooking out from Chaser or Ethiron.
 
 ## _Abilities_
 
@@ -161,14 +161,13 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 -   The Arcwarder suit originally looked far different but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
     -   The Arcwarder suit is inspired by Bondrewd's suit from the anime and manga series _Made in Abyss_. The Immortal Guardians wear an exact copy of the aforementioned suit, while the Arcwarder suit has been slightly redesigned.
-    -   The Arcwarder suit could also potentially be inspired by the shardplate used in The Stormlight Archives, wherein the users magically conjure the armor unto themselves in a similar fashion.
 -   Arcwarder was originally named _Arcshifter_.[\[1\]](#cite-note-1)
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
 -   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[2\]](#cite-note-2)
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via pressing P, hair will be visible even while Arcwarder is active.
 -   Arcwarder gives the most mantra slots of any oath, giving 2 Combat Mantra slots and 1 Wildcard, being three slots in total.
-    -   This is matched by Linkstrider and Visionshaper, giving 2 Support Mantras & 1 Wildcard, and 2 Combat Mantras & 1 Support, making ArcWarder a Arguably better PVP choice.
+    -   This is matched by Linkstrider and Visionshaper, giving 2 Support Mantras & 1 Wildcard, and 2 Combat Mantras & 1 Support.
 
 ## References
 
