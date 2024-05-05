@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 97649
+revid: 97922
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Contractor** is one of the 12 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Contractor** is one of the 12 obtainable Oaths in _Deepwoken._ This oath offers varying combat abilities ranging from gap closers, counters and ranged grabs allowing for a diverse offensive playstyle. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 ## Obtainment
 
@@ -32,7 +32,7 @@ Important note: You can return to Lord regent, restart the quest if you have neg
     -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at Summer Isle for them to not see worth fighting you anymore.
     -   The Bounty version of the Ministry takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
     -   It is also advised to avoid killing [Ministry Scouts](https://deepwoken.fandom.com/wiki/Ministry_Scout) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
-2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline and get kill credit for the duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing)
+2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline and ask Duke, "What are you doing with the forge?". Proceed to get kill credit for the duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing)
 3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue".
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md).
 5.  Unlock your [Resonance](Resonance.md).
@@ -64,7 +64,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
     -   File:Contractor string trick compressed.gif
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user and enemy are both unable to act or move during the animation, and the enemy gains invincibility frames while the animation is active. This also forms a Hidden Tendril on the target. The move will **instantly execute** if it brings HP to 0. It may also be used to grip knocked targets. (Do note that Judgement does not work on non humanoid mobs)
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart and applying Hidden Tendril. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user and enemy are both unable to act or move during the animation, and the enemy gains invincibility frames while the animation is active. The move will **instantly execute** if it brings HP to 0. It may also be used to grip knocked targets. (Do note that Judgement does not work on non humanoid mobs)
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer. They are flung in opposite directions, much further than their original positions, being able to wallbang the enemy if they collide with a surface. After the pull is over, the enemy takes more damage and blood loss.

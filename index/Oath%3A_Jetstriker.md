@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 97882
+revid: 97913
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,7 +32,7 @@ categories: [Oaths]
 Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You have to return to her to get the talents. The location of these orbs are:
 
 -   On top of Lord Regent's palace in Etris.
--   On the upper rim of The Birdcage near The Viper's Jaw in Erisia.
+-   On the upper rim of The Birdcage, **not on the top** near The Viper's Jaw in Erisia.
 -   On top of one of the intact Towers in Towerstruck lands.
 -   In the Isle of Vigils temple, in front of Stratos.
 -   On an ice pillar at the top of Minityrsa's Frozen Pond, overlooking the coast.
@@ -55,6 +55,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
         -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself. This also boosts players alongside you too.
         -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
+        -   With slightly high agility, players are unable to follow you up Stratos Step
 
 -   **Decisive Winds - Talent**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)

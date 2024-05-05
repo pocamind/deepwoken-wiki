@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 97128
+revid: 97908
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -23,7 +23,6 @@ You can choose your first name from any available, but your choices of last name
 -   Abraham
 -   Achilles
 -   Adam
--   Adolin
 -   Adran
 -   Adrian
 -   Aemilius
@@ -1683,6 +1682,7 @@ You can choose your first name from any available, but your choices of last name
 
 ## Trivia
 
+-   The name Adolin seems to be removed due to the similarity with the name Adolf
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.

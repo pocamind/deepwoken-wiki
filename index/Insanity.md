@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 96526
+revid: 97910
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,6 +34,7 @@ Said "Blue Hue" and "New Motifs"
 ## Sanity Decreasing Effects
 
 -   Being in range of the [Megalodaunt](Megalodaunt.md)'s screech attack
+-   Being in range of the [Primadon](Primadon,_Titan_of_the_East.md)'s screech attack
 -   [Wishbound](Developer_Specs.md) flaw during nighttime
 -   Being in the [First Layer](First_Layer.md)
 -   Drinking or being splashed by a Mindbreaking potion
@@ -50,7 +51,7 @@ Said "Blue Hue" and "New Motifs"
 ## Sanity Restoring Effects
 
 -   Passive sanity regeneration. (Disabled in the Depths)
--   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md))
+-   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)) (Graceful Flame included)
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion
 -   Being healed by a [Blindseer's](Oaths.md) Mindsoothe mantra
