@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 93758
+revid: 97821
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Vendors]
@@ -25,10 +25,10 @@ The Den Master is a Felinor that sells Tier 1 [Mantra Modifiers](Mantra_Modifier
 
 To get to the Den Master, you have to go to the Etris Docks and hug the right wall of the island.(They are located near where Kenneth dies) Once you make it past the tall stone peninsula, there is a small, sandy cove with a noticeable dent in the wall that can be destroyed with environment-changing mantras (Ice Smash, Thunder Beam, Shadow Meteors, etc.) with enough Elemental Intensity to enter.
 
--   The Den Master sells Crystal Lens (Further mantra projectile range), Drift Shards (Faster mantra projectile speed), Cloudstones (Larger mantra size), and Amnesic Driftwood (Removes mantra modifiers).
+-   The Den Master sells Crystal Lens (Further mantra projectile range), Drift Shards (Faster mantra projectile speed), Cloudstones (Larger mantra size), Eternal Logstones (Extended mantra duration), and Amnesic Driftwood (Removes mantra modifiers).
 -   Great for getting Mantra Modifiers without killing mobs for them (Bandits, Megalodaunts, Rock Golems, etc.)
 -   It is unknown whether or not his den was made to be hidden on purpose or not, and why.
--   The Den Master does not sell higher tier Mantra Modifiers like Stratus Stones or Rush Shards. He also does not sell Aeon Logstones or Eternal Logstones nor any type of Sparks (I.e Blast Sparks, Tornado Sparks, Multiplying Sparks.)  
+-   ~The Den Master does not sell higher tier Mantra Modifiers like Stratus Stones or Rush Shards. He also does not sell Aeon Logstones or Eternal Logstones nor any type of Sparks (I.e Blast Sparks, Tornado Sparks, Multiplying Sparks.)~ As of update 5/3/24, he now sells all high tier and lower tier Mantra Modifiers.  
     
 
 File:Den master.png

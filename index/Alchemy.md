@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 96858
+revid: 97811
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -320,7 +320,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
+  <td>Strongest (debuff)</td>
   <td></td>
   <td>Strongest</td>
 </tr>

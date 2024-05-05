@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 97780
+revid: 97799
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,10 +29,13 @@ Meet the following requirements in any order:
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25 for example)
 -   Have 40 points in Strength and 25 points on either Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
+-   Talk to Suyuan in the Vigil Library.
 
-Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) and kill all the [ghosts](Ghost.md) onboard. After that, interact with [The Dreadstar](The_Dreadstar.md)
+Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
 
-Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
+-   Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
+-   If you haven't died to an attunement player, The Dreadstar will say "You lack focus on your rage".
+-   If you haven't talked to Suyuan, The Dreadstar will not appear.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 
@@ -50,7 +53,7 @@ This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md)
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
-Alternatively, 10 knowledge can be spent to immediately unlock all related talents without killing the trainers
+Alternatively, if you've kiled all 5 trainers in a previous life, 10 knowledge can be spent to immediately unlock all related talents without killing the trainers
 
 ## Abilities
 

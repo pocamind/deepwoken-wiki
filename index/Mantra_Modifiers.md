@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 97479
+revid: 97829
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -1065,8 +1065,6 @@ Eclipse Kick
  | 
 
  | 
-
-File:Eclipse kick multiplying.gif
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 97766
+revid: 97789
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -23,8 +23,8 @@ Silentheart tattoos dyed pink.
 -   [Equipment](Equipment.md)
 -   Hair
 -   Eyes (Both Pupils and Sclera)
--   [Resonance](Resonance.md)
--   Any visual [Oath](Oaths.md) change (Silentheart tattoos, Dawnwalker symbol, Arcwarder armor, Jetstriker anklets, etc.)
+-   [Resonance](Resonance.md) (the bell on your belt)
+-   [Oath](Oaths.md) visuals (Silentheart tattoos, Dawnwalker symbol, Arcwarder armor, Jetstriker anklets, etc.)
 -   Race Features (Markings, Horn Colors, etc.)
 -   [Vesperian](Vesperian.md) mask and face ink (You can pick the same 2 colors for a faceless effect).
 -   [Outfit](Outfits.md)
