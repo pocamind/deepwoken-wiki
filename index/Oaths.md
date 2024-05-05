@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 97678
+revid: 97886
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -44,7 +44,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 
 ## Oath Skipping
 
-If you've progressed to maximum a certain oath once before, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath.
+If you've progressed to maximum a certain oath once before, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note that you still need to get the requirements of the oath you wish to skip.
 
 ## **Oathbreaker - Oath Removal**
 

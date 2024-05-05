@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 97233
+revid: 97889
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -52,3 +52,4 @@ Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<
 -   If you have [Way of Navae](Way_of_Navae.md) and **Legion Kata** you can switch between them quickly by pressing Y.
 -   The Legion Kata critical attack is a grab, yet it doesn't bypass block. Guardbreaking someone will only daze them, and you won't actually grab them.
 -   Weapons you can equip while using Legion Kata are the fists (default), [Iron Cestus,](Iron_Cestus.md) [Legion Cestus,](Legion_Cestus.md) [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Coral Cestus](Coral_Cestus.md), and [Light's Final Toll.](<Light's_Final_Toll.md>) Same goes for [Way Of Navae.](Way_of_Navae.md)
+-   It takes roughly two authority grips at the Starswept Valley to obtain the recommendation, assuming you have not previously lost rep with the Legion and that you are not a Khan.

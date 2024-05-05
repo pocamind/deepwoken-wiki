@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 96860
+revid: 97903
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -88,7 +88,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | “A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows." |
 
-## Description
+## Testicles
 
 **The Hero Blades** are a set of weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
 
@@ -150,13 +150,12 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
 ## Trivia
 
 -   [Alastir](Alastir.md) refuses to talk about his hero blade, possibly suggesting that they have some sort of dark history.
--   These are suspected by be a reference to _JoJo's Bizarre Adventure,_ with each critical summoning a phantom form in the color of their element similar to a JoJo's [stand](https://jojowiki.com/Stand). The hero blades could also be inspired by the Crucible from the Doom game series.
+-   These are suspected by be a reference to _JoJo's Bizarre Adventure,_ with each critical summoning a phantom form in the color of their element similar to a JoJo's [stand](https://jojowiki.com/Stand).\[citation needed\]
 -   The Hero Blade shines in builds that put a great emphasis in their attunement, going for the cap of 75 or even 100 with Lord Regent's quest usually. This is because, despite them taking the shape of swords, their scaling is based on the user's Attunement level and not their Medium Weapon level.
     -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
     -   With Hero Blade builds it is recommended to keep being only 80 elemental, as the 20 elemental for mantra scaling is usually not necessary for builds unless you genuinely have 20 spare points you cannot do anything with.
-    -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
-        -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
-
+-   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
+    -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
 -   Before Verse 2 (12/24/2022), the critical of the Hero blades were basic sword critical stabs.
 -   Shadow Hero Blade used to steal ether on running attacks. This seemed to be unintentional as this feature was removed from the game.
 -   Every critical of the hero blade has a different hero with different race, giving the theory that the spirit in the critical attack is the original wielder/hero of the blade.
@@ -171,4 +170,4 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
         -   Identified by its ears.
     -   The Hero of Thunder is an [Adret.](Adret.md)
         -   Identified by its face markings.
--   Any clones (Vison shaper or Thunder Clones) will use the default starting sword crit instead of the Hero Blade crit.
+-   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Thunder Clones](Thundercall.md)) will use the default starting sword critical instead of the Hero Blade crit.
