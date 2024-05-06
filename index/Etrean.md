@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 97164
+revid: 98011
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -105,5 +105,4 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, etc)
--   A few of the Etrean surnames end in "et," something characteristic of Adret surnames. Perhaps some Etreans and Adrets share ancestry? This could be true given that Arch\_Mage stated in the deepwoken discord that the Adrets were mountain people.
 -   When under the effect of a Potion, you'll only be affected by them for roughly 75% of the duration. This may be true for Chilling and Suffocate as well. (Needs testing.)

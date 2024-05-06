@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 97951
+revid: 98015
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -307,7 +307,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
 
--   If you have already washed your face in other slots, you must interactive with the fountain in [the Lordsgrove](The_Lordsgrove.md) to enable this feature.
+-   Following Hive R&D, the restrictions on the Fountain Gate network's Vow have been relaxed. Merely having seen the majesty of the Greathive from afar is enough to create the mental link that enables one to utilise the network. **Fountain Gates can now be used at any Power so long as you've visited the Eastern Luminant on that character and have unlocked the Hive Gate on your account**
 
 ## Trivia
 

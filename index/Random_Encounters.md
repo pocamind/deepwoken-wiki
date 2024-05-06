@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 98009
+revid: 98018
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -131,7 +131,7 @@ In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entr
 
 #### Brainsucker Swarm
 
-A event that happens in[Starswept Valley](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
+An event that happens in[Starswept Valley](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
 
 #### Ministry Necromancer
 
@@ -155,7 +155,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 #### Legion Sniper
 
-A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative reputation with [The Hundred Legions](The_Hundred_Legions.md). He can be talked with and can be also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
+A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative reputation with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to(with a good reputation) and can be also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
 
 #### Serena
 

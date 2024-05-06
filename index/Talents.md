@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97995
+revid: 98017
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1599,7 +1599,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: Fists, 20 Fortitude
     -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
     -   The Cooldown is 1 minute and 10 seconds.
-
+    -   This Talent also works with [Jus Karita](Jus_Karita.md)
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)
     -   Prerequisites: Bring a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
