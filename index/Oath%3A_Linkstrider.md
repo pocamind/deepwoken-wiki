@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 97608
+revid: 97931
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Linkstrider** is one of the 12 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Linkstrider** is one of the 12 obtainable Oaths in _Deepwoken. This Oath specializes entirely on support. Excels at controlling the battlefield by offering various buffs and granting heals to allies. While also inflicting debuffs and lifesteal for fighting enemies. Granted the power of this Oath is exceptional for fights in groups, having this Oath while alone will hardly give benefits, thus making it one of (if not) the worst Oath for solo players._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
 ## Obtainment
 
@@ -78,6 +78,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
         -   Parriable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
         -   Blockable. While blocking may stop the damage, it will not stop the caster's healing. Counts as damage towards weak block, making the target unable to block.
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
+        -   combine with bloodless to further the healing
 
 ## Effects
 

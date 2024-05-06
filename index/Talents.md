@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 97679
+revid: 97945
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1062,6 +1062,8 @@ _**"I'm built different" - Cannot Give Talents**_
         -   **This talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.**
 
 ### Hammer Rage
+
+_**"I seek the qualities of Hammer Rage."**_
 
 -   Brain Rattler \[Common Talent\] \[Clubs\] - Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
     -   Prerequisites: 50 Medium Weapon, Club equipped

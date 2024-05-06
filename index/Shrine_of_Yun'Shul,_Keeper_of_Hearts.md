@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 96408
+revid: 97957
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -50,6 +50,9 @@ If you meet all the criteria, you are able to make one of five wishes:
     -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
 5.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
     -   Removes your current [Oath](Oaths.md). Gives a disclaimer prior to breaking it, warning you that becoming an Oathbreaker has its own consequences. Upon breaking an Oath, you will receive a dialogue from your Oath-giver along with other potential consequences.
+6.  "**I wish for my Soul's Murmur to be highly strung no longer."**
+    -   Your current [Murmur](Murmur.md) will be removed without any further notice or opportunity for confirmation. This action is irreversible. You can still regain the same Murmur afterwards.
+    -   If you wipe after your Murmur is removed, you won't receive the echoes for having it, and you'll have to get a Murmur again.
 
 ## Trivia
 

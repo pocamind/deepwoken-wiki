@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 97913
+revid: 97950
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This ca
 
 -   On top of Lord Regent's palace in Etris.
 -   On the upper rim of The Birdcage, **not on the top** near The Viper's Jaw in Erisia.
--   On top of one of the intact Towers in Towerstruck lands.
+-   On top of one of the tallest intact Towers in Towerstruck lands, close to Burning Stone Gardens
 -   In the Isle of Vigils temple, in front of Stratos.
 -   On an ice pillar at the top of Minityrsa's Frozen Pond, overlooking the coast.
 

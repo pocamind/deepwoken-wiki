@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 97889
+revid: 97959
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -40,7 +40,7 @@ User performs a suplex, turning their opponent upside down and firmly slamming t
 
 ## Obtainment
 
-To obtain it, you must help the Legion Centurion in the Legion vs. Adret event at [Starswept Valley](The_Starswept_Valley.md). It will take two successful attempts before the Legion gives you the commendation.
+To obtain it, you must help the Legion Captain in the Legion vs. Authority Lieutenant event at [Starswept Valley](The_Starswept_Valley.md). It will take two successful attempts before the Legion gives you the commendation.
 
 Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md).
 

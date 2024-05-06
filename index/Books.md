@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 97292
+revid: 97938
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1668,6 +1668,21 @@ I weep for them still, my tears bitter as salt...
 > While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost Driftland, a type of migratory island that shifts in and out of the precarious Voidsea - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
 > 
 > Furthermore, it has been proposed that it may have existed during the Shallows - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the Tides rose. It is known, through scarce remaining texts, that Driftland shift was most prominent and fast-paced immediately after the era of the Tides. However, the Shallows are notorious for being a dark spot in the annals of history, for its lack of preserved records.
+
+  
+
+### The Kamui Bandit
+
+from Ash Sero's text, The Kamui Bandit
+
+  
+In the heart of a bustling town (Etris), where whispers waltz with the wind, There lived a figure known to all, both virtuous and sinned. Idrante was this soul's name, his presence smelly but vast, Yet in the shadows of his deeds, a shadow he'd cast.
+
+Within a website, a masterpiece did stand, A sculpture carved by hands unknown, a symbol of the land. Its beauty held the website in awe, a sight beyond compare, But envy brewed within Idrante, a longing to declare.
+
+With whispers soft and cunning guise, he schemed to claim the prize, To steal away the artistry, beneath deceitful skies. He plotted in the dead of night, his heart consumed by greed, For what was beauty to the world, was but a wanton need.
+
+With hands that shook and eyes ablaze, he dared to touch the art, Yet as he grasped its glorious form, he felt a sudden start. For in that moment, truth unveiled, a mirror to his soul, He saw the ugliness within, the brokenness, the hole.
 
 ### Vows by the Sea: Inheritance
 

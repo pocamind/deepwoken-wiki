@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 97220
+revid: 97928
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 12 obtainable Oaths in _Deepwoken._ It's a utility Oath based around [Alchemy](Alchemy.md). It is the _only_ Oath that requires intelligence.
+**[Oath](Oaths.md): Saltchemist** is one of the 12 obtainable Oaths in _Deepwoken._ It's a highly customizable utility Oath based around [Alchemy](Alchemy.md). Where it's benefits and applications vary greatly on the potions in your arsenal, allowing for various buffs to yourself and debuffs to your enemies. It is the _only_ Oath that requires intelligence.
 
 ## Obtainment
 
