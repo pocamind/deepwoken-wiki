@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 97557
+revid: 98008
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -56,12 +56,11 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 -   Always watch your blood bar while fighting these enemies, as it can get low very fast.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   It's recommended to farm Ministry scouts as soon as you are done with the Trial of One, as they are a valuable and easy source of exp in early-game.
--   Their Shadow Assault is heavy damaging and hard to parry or dodge, it also deals an unholy amount of posture damage when blocked so it's suggested to be parried or dodged as soon as the mantra sound is heard (which is the infamous "click" sound of the Shadow Assault mantra of the Shadowcast attunement).
+-   Their Shadow Assault is heavy damaging and hard to parry or dodge, it also deals an unholy amount of posture damage when blocked so it's suggested to be parried or dodged as soon as the mantra sound is heard.
 
 ## Trivia
 
 -   Every NPC except the other members of [The Ministry](The_Ministry.md) are hostile towards them.
 -   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra.
--   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife, due to the fact the model of the knife is a direct 'copy' to a knife in the anime [Hunter X Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter).
 -   When gripped by a [Gran Sudaruska](Gran_Sudaruska.md), the spirit of Sudaruska will speak.
--   In one of the towers in Ministrysa there a rare chance they may say "Oh no, not this again..."
+-   In one of the towers in Minityrsa there a rare chance they may say "Oh no, not this again..."

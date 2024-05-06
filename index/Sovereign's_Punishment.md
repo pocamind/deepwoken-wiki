@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 97981
+revid: 98002
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greathammers]
@@ -35,7 +35,6 @@ The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit]
 ## Trivia
 
 -   The logo sported by it is similar to the icon on the [Sacred Hammer](Sacred_Hammer.md).
--   Ironically, this is the logo for the [Royal Etrean Guard](Royal_Etrean_Guard.md), despite being a weapon of the [Authority](The_Central_Authority.md).
+    -   Ironically, this is the logo for the [Royal Etrean Guard](Royal_Etrean_Guard.md), despite being a weapon of the [Authority](The_Central_Authority.md).
 -   This weapon has the highest posture damage in the game.
--   The damage sported by this weapon dethrones the Stoneheart, even at 100 Heavy, making it a competitor, if not an upgrade due to its lack of endlag.
 -   This item is found most commonly in Aratel Island Events with Starswept chests, less in Fort Merit chests, and the least in average Starswept chests, though due to Aratel Events being far and few in between, if you want to farm this weapon, consider cycling between Fort merit and the Lightkeeper Temple while grabbing any events on the way while also making use of the Monster Hunter Quest to the left of the Lordsgrove Gate.

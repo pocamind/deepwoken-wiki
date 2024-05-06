@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 97979
+revid: 98009
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -131,7 +131,7 @@ In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entr
 
 #### Brainsucker Swarm
 
-Happens when you're running around [Starswept Valley](The_Starswept_Valley.md)(east luminant) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
+A event that happens in[Starswept Valley](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
 
 #### Ministry Necromancer
 
@@ -194,7 +194,7 @@ A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_
 
 ### _**Sea Events**_
 
-Across the lumen, events will appear in the seas. Some are challenges, some are rewards.
+Across the Luminants, events will appear in the seas. Some are challenges, some are rewards.
 
 #### Fights between Factions
 
@@ -297,7 +297,7 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 ### [Rogue Construct](Hive_Construct.md)
 
-Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), will spawn a [Rogue Construct](Hive_Construct.md), a variant of a Hive Construct but has red rings instead of green. A very powerful monster, it drops tier 2 mantra modifier materials and the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) and [Hivelord's Hubris](<Hivelord's_Hubris.md>).
+Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), a [Rogue Construct](Hive_Construct.md) will spawn.
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 
@@ -305,12 +305,12 @@ The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starsw
 
 ### **Stranger NPC**
 
-An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will reveal themselves with a tacet effect, revealed sitting down. If you have 50 Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 5 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
+An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Ministry Scout](Ministry_Scout.md) will reveal themselves with the Tacet effect, revealed sitting down. If you have 50 Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 5 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
 
 ### **The Depths Collapse**
 
-The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through Layer 1 causing meteors to rain from above. 2-4 boulders slam down landing near the player and spawn monsters from each impact. These range from Threshers, Megalodaunts, and Deep Owls to even Nautilodaunts. These monsters are frequently hostile to each other and are eligible to be corrupted. After you killed all the mobs, a chest will spawn for each boulder that the event spawned. The loot has an extremely high likelihood of having at least one Master Schematic and Deep Gem per chest.
+The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through the First Layer causing meteors to rain from above. 2-4 boulders slam down landing near the player and spawn monsters from each impact. These range from Threshers, Megalodaunts, and Deep Owls to even Nautilodaunts. These monsters are frequently hostile to each other and are eligible to be corrupted. After you killed all the mobs, a chest will spawn for each boulder that the event spawned. The loot has an extremely high likelihood of having at least one Master Schematic and Deep Gem per chest.
 
 ### **Resonant Dawn**
 
-A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. They also drop an astral enchant stone. This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
+A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Astral Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 97862
+revid: 97998
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -163,6 +163,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
     -   The Arcwarder suit is inspired by Bondrewd's suit from the anime and manga series _Made in Abyss_. The Immortal Guardians wear an exact copy of the aforementioned suit, while the Arcwarder suit has been slightly redesigned.
 -   Arcwarder was originally named _Arcshifter_.[\[1\]](#cite-note-1)
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
+-   As of May 1st. 2024, The Arcwarder suit’s main color and glow can now be dyed.
 -   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[2\]](#cite-note-2)
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via pressing P, hair will be visible even while Arcwarder is active.

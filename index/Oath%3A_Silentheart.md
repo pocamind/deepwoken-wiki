@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 97994
+revid: 97997
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,11 +89,11 @@ Alternatively, if you've kiled all 5 trainers in a previous life, 10 knowledge c
 
 ## Notes
 
--   Dying to an attunement user does not necessarily mean being gripped. Being burnt alive also works, as well as presumably other method of execution.
+-   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
     -   You're also still able to be given a whisper on level up.
     -   As usual, the Mantra from [Kelsius](Kelsius.md) cannot be exchanged for talents.
--   The Attunement-less trainer Regek cannot be killed for progression despite Attunement-less Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers, or just because there is no elemental/soulbindable weapon for Attunement-less, and therefore it isn't counted as "song abuse."
+-   The No Attunement trainer Regek cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse."
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra. If you find yourself playing it, keep logging and joining back until you happen to not be playing it.
@@ -104,12 +104,11 @@ Alternatively, if you've kiled all 5 trainers in a previous life, 10 knowledge c
 
 -   The lines that adorn a Silentheart's arms and chest are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
--   This Oath is the only Oath that does not give any mantra slots.
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
 -   Mani Katti is a reference to the sword and critical attack used by Lyn of the same name in the Fire Emblem Series. (Mani Katti = Many Cuts)
--   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest, but the [mantra](Mantras.md) upgrading page will be blank (assuming you roll 2d all your mantras)
+-   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
 
 ## References
 

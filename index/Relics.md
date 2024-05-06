@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 95464
+revid: 98005
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -28,7 +28,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 
  | 
 
--   The Depth's Collapse event
+-   Depths Collapse
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -53,7 +53,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
 -   _(3 Hour Cooldown)_
 
- | 
+ | Voidwalkers chest
 
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)

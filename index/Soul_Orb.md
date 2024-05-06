@@ -1,6 +1,6 @@
 ---
 title: Soul Orb
-revid: 93245
+revid: 98007
 source: https://deepwoken.fandom.com/wiki/Soul_Orb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -19,6 +19,4 @@ A Soul Orb has a low chance to drop from any [Enemy](Enemies.md) or [Monster](Mo
 ## Trivia
 
 -   Prior to the release of Verse 2, they used to grant [Luck](Luck.md). However, now they grant a free autodidact point.
-
--   Could be inspired by the [Soul Orb](https://ultrakill.fandom.com/wiki/Soul_Orbs) from [Ultrakill](https://ultrakill.fandom.com/wiki/).
 -   Can drop from Ferryman's clones.
