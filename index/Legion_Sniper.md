@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 97427
+revid: 97968
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Legion Snipers are enemies only able to be encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md). They wield the [Thundercall](Thundercall.md) attunement and are capable of using several high level mantras. Killing one will give the player _negative_ reputation with the Hundred Legions and a chest.
 
-A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md). They are exclusively [Khans](Khan.md).
+A Legion Sniper wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md). They are exclusively [Khans](Khan.md).
 
 According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire.
 

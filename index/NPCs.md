@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 97146
+revid: 97993
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -62,9 +62,10 @@ Check the rest out for yourself, canonically smells really bad
 | Imel | [The Ministry](The_Ministry.md) | [Etrean Sea](The_Etrean_Sea.md), Statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Infamous Baz](Infamous_Baz.md) | Unaligned | Etris Palace | None | "The lore is a straight line and Infamous Baz is a bump.", removed from the game |
 | [Ishan](Ishan.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
+| [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |
 | [Jeremiah](Jeremiah.md) | Unaligned | The Depths, Varicosa District | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
-| [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Asks for [Dying Embers](Dying_Embers.md). |  |
+| [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
 | [Joshua](Joshua.md) | Unaligned, possibly Etrea | [Etris](Etris.md) | Talks about [Karliah](Karliah.md) |  |
 | Kana | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
@@ -74,7 +75,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals |  |
 | [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, treefelling blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker |
-| [Kujae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC, in exchange for 350, he will give you something random from the summer isle lootpool out of his bag |  |
+| [Kujae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
 | [Lake](Lake.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
 | [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
@@ -82,8 +83,9 @@ Check the rest out for yourself, canonically smells really bad
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
 | [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
-| [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the lootpool out for 350 notes. |  |
+| [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the Miner's Landing lootpool in exchange for 350 notes. |  |
 | Malte | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
+| [Marae](Loot_Bag_Gacha.md) | Unaligned | [The Lordsgrove](The_Lordsgrove.md) | Gacha NPC. Will give you something random from the hive lootpool in exchange for 350 notes. |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill rock golem | Marcus. |
 | Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
@@ -109,7 +111,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. This cannot be stressed enough; he throws you into the nest pit, and forces you to fight 8-9 Bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS [PATCHES](https://darksouls.fandom.com/wiki/Patches) IN DEEPWOKEN. |
-| [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
+| [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |  |
 | [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
 | Renau | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
 | Rimil | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
@@ -129,6 +131,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest | Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two [Summer Company Guards](Summer_Company_Guard.md) |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |  |
 | [Viridian](Oath%253A_Oathless.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |  |
+| Vtreshi | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the light hook |  |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |
 | [Yamaketzal](Yamaketzal.md) | Unaligned, possibly an Old Steward | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |  |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |

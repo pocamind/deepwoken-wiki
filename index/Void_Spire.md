@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 95505
+revid: 97989
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer + Hell Mode (Brown Chests), Second Layer, Chaser, The Diluvian Mechanism, Scion of Ethiron, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of Conflict, Primadon |
+| obtainment | First Layer + Hell Mode (Brown Chests), Second Layer, Chaser, The Diluvian Mechanism, Scion of Ethiron, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of Conflict, Primadon, Bounties |
 | description | "Call forth the void to your location. Those who die within its field will be sent straight to the Depths." |
 
 ## Description

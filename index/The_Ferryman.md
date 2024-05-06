@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 97946
+revid: 97987
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -289,8 +289,8 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
         -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
--   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
--   Ferryman Hair id : 17208591888
+-   The Ferryman's Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
+-   The Ferryman's Hair ID: 17208591888
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from Rouge Lineage.
 -   Due to this boss, The [Scion of Ethiron](Scion_of_Ethiron.md), and [Amorus Pleeksty](Amorus_Pleeksty.md) using purple variations of their element, they were thought to be using "awakened elements." However, despite the connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".\[citation needed\]
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
@@ -312,4 +312,4 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.
 -   The Ferryman's Lightning Assault will speed up if he pathfinds into a wall during the previous Lightning Assaults.
--   The Ferryman will frequently clip into walls and occasionally use Lightning Strike at arbitrary locations. That's okay, he just has a little bit of brain damage.
+-   The Ferryman will frequently clip into walls and occasionally use Lightning Strike at arbitrary locations.

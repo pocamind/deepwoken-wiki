@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 97891
+revid: 97979
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -15,7 +15,7 @@ notices:
 
 Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere. Furthermore, when 2 or more different encounters meet each other, it will often end up in a large battle.
 
-**Note:** This is not a comprehensive list of every single random encounter: more will be added.
+**Note:** This is not yet a comprehensive list of every single random encounter: more will be added.
 
 A mother Thresher, Hive Construct, and an Authority Captain fighting each other at Starswept Valley.
 
@@ -29,9 +29,9 @@ These events occur randomly in the world or within a location.
 
 Groups of NPCs from different factions will spawn in Etrean Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   Vigil Swordsmen Etreaiconfaction vs Authority Officers Authorityiconfaction ([Erisia](Erisia.md))
--   Etrean Soldiers Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   Legion Soldiers vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md) Authorityiconfaction ([Erisia](Erisia.md))
+-   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   [Legion Soldiers](Legion_Soldier.md) vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 
 #### Authority's Invasion of Etris
 
@@ -123,7 +123,7 @@ A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Soldier]
 
 #### Deep Owl
 
-Sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the [Deep Owl](Deep_Owl.md) will immediately drop down from the sky and open a dialogue with the player. Only spawn in the _Etrean Luminant_ while the moon is out.
+Sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the [Deep Owl](Deep_Owl.md) will immediately drop down from the sky and open a dialogue with the player. Only spawn in the Etrean Luminant while the moon is out or in the [First Layer](First_Layer.md). An owl also spawns in [The Lordsgrove](The_Lordsgrove.md) in a predetermined location but without black feathers as a warning and will automatically attack you.
 
 #### Bandit Attack
 
@@ -131,13 +131,11 @@ In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entr
 
 #### Brainsucker Swarm
 
-Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
+Happens when you're running around [Starswept Valley](The_Starswept_Valley.md)(east luminant) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
 
 #### Ministry Necromancer
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only aggro'd if it sees a player or provoked by an attack.
-
-**Weapons:** [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md), [Blueskippers](Necroskipper.md) & [Redskippers](Necroskipper.md)
 
 ### _**Eastern Luminant**_
 
@@ -145,35 +143,46 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is 
 
 Groups of NPCs from different factions will spawn in Eastern Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
--   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
--   Vigil Swordsmen Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
--   Legion Captain vs Authority Lieutenant Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
--   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   [Summer Company Guards](Summer_Company_Guard.md) Summericonfaction vs [Ignition Union Fighters](Ignition_Union_Fighter.md) ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
+-   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   [Hive Construct](Hive_Construct.md) Hiveiconfaction vs [Authority Captain](Authority_Captain.md) Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 
 #### Songseeker
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
+#### Legion Sniper
+
+A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative reputation with [The Hundred Legions](The_Hundred_Legions.md). He can be talked with and can be also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
+
+#### Serena
+
+A NPC called [Serena](Serena.md) will spawn in [Starswept Valley](The_Starswept_Valley.md) sitting down, asking for water from a [Canteen](Canteen.md). Upon giving her a canteen, she will either attack the player or accept the drink. If she accepts the water or if you beat her in a fight, a chest will spawn. She may also attack the player if she is not given a canteen.
+
 #### Summer Isle Bandit Raid
 
 Groups of bandits engage the guards of [Summer Isle](Summer_Isle.md) in various locations. There are two main types:
 
-Regular bandit raid: Three bandits, the type of bandits is random, can range from three Bandit Captains to two Captains and one regular to just three regular bandits.
-
-Greater bandit raid: Seven or so regular bandits that spawn on the steps.
-
-**Weapons:** Basic.
+-   Regular bandit raid: Three bandits, the type of bandits is random, can range from three Bandit Captains to two Captains and one regular to just three regular bandits.
+-   Greater bandit raid: Seven or so regular bandits that spawn on the steps.
 
 #### Ministry Massacre
 
 A single Ministry scout, sitting around a campfire in Summer Isle, surrounded by the corpses of bandits. Killing them will reward you with EXP and the campfire will turn into a chest.
 
-Weapons: [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md)
-
 #### Megalodaunt vs Red Megalodaunt
 
 Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x it's normal HP and being able to rain fire swords.
+
+#### Meteor Isle Authority Raid
+
+Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_Isle.md). Killing them does not grant negative reputation with [The Central Authority](The_Central_Authority.md) nor does it grant positive reputation with The Children Of Navae.
+
+#### Meteor Isle Meteor
+
+A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Meteorskippers](Mudskipper.md) in waves. Killing all of them will despawn the meteor and award XP and a golden chest at the center of the meteor.
 
 #### Alpha Megalodaunt vs Desert Knight
 
@@ -187,9 +196,9 @@ A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_
 
 Across the lumen, events will appear in the seas. Some are challenges, some are rewards.
 
-#### Fight between Factions
+#### Fights between Factions
 
-Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+[Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 #### Islands/Outposts
 

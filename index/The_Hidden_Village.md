@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 95489
+revid: 97973
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]
@@ -31,6 +31,7 @@ Inside the Village are a few NPCs, [Rotskippers](Rotskipper.md), a bountiful amo
 -   [Knives of Eylis Captain](Subtle_Knife_of_Eylis.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Rotskipper](Rotskipper.md)
+-   Deep Owl
 
 ## Missions
 

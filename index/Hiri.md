@@ -1,6 +1,6 @@
 ---
 title: Hiri
-revid: 86437
+revid: 97985
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
