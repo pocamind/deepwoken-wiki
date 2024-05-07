@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 88951
+revid: 98039
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -24,13 +24,14 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldro
 
 Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunement:
 
-| Name | Description | Parryable? | Blockable | Danger |
+| Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Taunt | Yells out a taunt applying an effect to the opponent | ✗ | ◯ | (★☆☆) |
 | Assault | Swings axe at opponent and finishes the attack by kicking them away. | ◯ | ◯ | (★☆☆) |
 | Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
+| Astral Wind | User preforms a teleporting slash in the shape of star before returning to their original position. | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 

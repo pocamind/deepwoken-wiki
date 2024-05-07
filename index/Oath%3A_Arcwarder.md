@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 97998
+revid: 98026
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,7 +34,7 @@ categories: [Oaths]
     -   Dying while the quest is active will not require the player to talk to him again.
 -   Talk to Alpha again. (WARNING: You HAVE to return to Alpha for this quest, or else Delta will not give you Arcwarder.)
 -   20 Fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
--   Return to surface and talk to Delta at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the oath, you must kill any [Layer 2](Second_Layer.md) boss.
+-   Return to surface and talk to Delta at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/MvnGyREWMxA)._
 

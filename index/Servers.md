@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 97378
+revid: 98032
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -43,6 +43,8 @@ USA has 7 different regions:
 -   Washington
 
 It is also possible to encounter a region known as the Unknown Region, which may be referred to as Instanced in dungeons, although this is an uncommon occurrence.
+
+_Please note that it is possible that some locations may have been missed, as Roblox servers may not be up at all times, or may lack sufficient dedicated servers for certain locations due to a possible shortage of players._
 
 ## Adjectives and Nouns
 

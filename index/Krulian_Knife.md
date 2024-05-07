@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 97759
+revid: 98021
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Daggers]
@@ -39,7 +39,6 @@ The Krulian Knife's unique critical.
 ## Trivia
 
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
--   It is possible for [The Ferryman](The_Ferryman.md) to give starred and enchanted versions of this weapon.
 -   Meeting the requirement of LHT, the damage is (19.9)
 -   At max LHT, the damage is (22.3)
 -   This is the weapon the [Ministry](The_Ministry.md) uses.

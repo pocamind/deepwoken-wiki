@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 98019
+revid: 98020
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -62,11 +62,6 @@ Climbs faster and higher, especially against wood surfaces including trees.
 
 Practically not affected by "Obvious" Flaw.  
 
-**Weaknesses:**
-
-  
-Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors without good weaponry and armor are usually the subject of being killed due to their race. Overall, your chances of being attacked is higher than other races and most of your chances of survival is skill based. You'll have to hope that other players aren't hostile to your races, most specifically the highly skilled ones.
-
 **Surnames:**
 
   
@@ -97,8 +92,7 @@ Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors with
     -   This _may_ be because of the disdain the community shows towards them.
 -   Picking Obvious flaw as a Felinor will negate the improved stealth. This is actually really good as you can take this as a free flaw that will not affect your playthrough.
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
--   Hatred toward the race is not really heartfelt. Mostly purely satirical meaning you aren't really at risk of any hate-crimes. Though the hatred for this race stems from their nature as Kemonomimis which is a trait no other race exhibits as much as Felinors do.
-    -   Furthermore, Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke meant to ridicule people attracted to Kemonomimis.[\[1\]](#cite-note-1)
+-   Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke.[\[1\]](#cite-note-1)
 
 ## References
 
