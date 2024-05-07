@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 98043
+revid: 98060
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -101,7 +101,7 @@ Trade a Talent of your choice and 5 Knowledges to perform a Talent Draw with 3 c
 -   One of the most valuable Deep Shrines, this let you obtain talents you might have missed.
 -   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
 -   To get a Rare Talent, you must trade in a Rare Talent.
--   To get an Advanced Talent, you can trade a Common Talent. Don't forget it's prerequisite.
+-   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite(s).
 -   You cannot trade away a Talent if it is a prerequiste to another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
     
 

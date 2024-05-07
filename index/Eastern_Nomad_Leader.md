@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 97544
+revid: 98058
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,6 +14,7 @@ An Eastern Nomad Leader is a enemy NPC which can be found at the Children of Nav
 
 -   Ministry Scouts vs Eastern Nomad Leader and Eastern Tribe Nomad
 
+  
 They wear a Rebel's Bandana, Novice Brace, [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their race being [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying.Template:EnemyInfobox1.0
 
 ## Moveset
@@ -44,7 +45,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 -   Defensive Sweep - Posture breaking an opponent grants nomad +50% PEN for 3 seconds.
 -   Driving Impact - The first hit of nomad's spear's critical attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage.
 -   Lancer's Impale - Hitting an enemy after a perfect dodge makes nomad's next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.
--   Chief's Will - [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 
 ## Finisher
 

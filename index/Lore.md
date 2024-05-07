@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 97436
+revid: 98056
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -556,7 +556,7 @@ The Citadel
 
 -   An archipelago with multiple settlements dotted across the region.
 -   Home to most of the Chrysid.
--   Outside of Markor, surrounded by a dense mountain range.
+-   Outside of Markor, surrounded by a dense mountain range known as the Stoneseye,
 -   The Echelon, the city-state at the center of the isles, and where the council of the Moonlit Faith resides.
 
 ### **Southern Luminant**

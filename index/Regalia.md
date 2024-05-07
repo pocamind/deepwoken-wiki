@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 97585
+revid: 98059
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -35,7 +35,6 @@ Wiping below power 6 is known to keep the Mute Regalia if the wiped character ha
     -   [Prime Golems](Rock_Golem.md#golem-prime)
     -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
     -   [Enforcers](Enforcer.md)
-    -   [Mudskipper Broodlords](Mudskipper_Broodlord.md)
 
 -   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
 
