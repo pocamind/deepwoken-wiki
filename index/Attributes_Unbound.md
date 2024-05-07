@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 97775
+revid: 98069
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -21,8 +21,7 @@ Character attributes will permanently be unbounded if you have previously done t
 1.  Reach 75 Strength.
 2.  Enter [the Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Approach the coffin then attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
-5.  Read the book in the room to obtain Strength Unbound.
+4.  Use Strong Left on the coffin in the room, you will Strength Unbound.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=S_O53fdplkM)._
 
@@ -30,9 +29,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 1.  Reach 75 Fortitude.
 2.  Enter Fort Merit and go into the prison cell area.
-3.  Take the second hallway to the right after taking the stairs until you find a hole to slide into. Alternatively, if you do not have a negative reputation with the guards in Fort Merit, take the first hallway to the right and follow it until the end.
+3.  Take the second hallway to the right after taking the stairs until you find a hole to slide into.
 4.  Talk to Brutus, a large Khan sitting alone in a cell.
-5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met. (Note: The guards can grip you while you are downed, bring a friend or block up the entrance to avoid this, you can also get good/neutral rep with the Authority so they dont grip, but still be aware of any player nearby.)
+5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=b_0SPxXpe6o)._
 

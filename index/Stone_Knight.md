@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 97629
+revid: 98072
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -116,15 +116,7 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 **Star Knight:**
 
-Template:Creature Info Box v2nfo\_Box\_v2 |image1=StarKnight.png |title1= Star Knight |health=10000 |drops= [Astral](Enchantments.md) [Enchant Stone](Enchant_Stone.md) (guaranteed) |abilities= \*Slash
-
--   Kick
--   Wind Cutter
--   Terra Eruption
--   Astral Rain
--   Finisher: Death by Thousand Cuts
-
-|spawn\_location=Dev Spawn via meteorite in selected spot, [Resonant Dawn](Random_Encounters.md) }}
+Template:Creature Info Box v2
 
 ## Description
 
@@ -195,7 +187,6 @@ A Stone Knight executes the player:
 -   When spawning Blizzard Knights on [Minityrsa](Minityrsa.md) (When the meteors fall), be sure to run all the way out of [Valley of Heroes](The_Valley_of_Heroes.md). If you aggravate one of the golems right when they spawn, all of them will aggro on you at once.
     -   To know if Blizzard Knights have been recently slain at the [Valley of Heroes](The_Valley_of_Heroes.md), you will see remains of the meteor's craters where they normally spawn. In other words, they look like irregular markings in the dirt.
 -   Usually after every move, you can get 1-2 basic attacks off, unless they use the single swing, in which only go for one.
--   Usually when a **Blizzard Knight** swings once, he'll either use **Kick** or **Terra Eruption**, so be prepared to dodge.
 -   In order to dodge the Terra Eruption, do a full dodge instead of a roll cancel.
 
 ## **Trivia**

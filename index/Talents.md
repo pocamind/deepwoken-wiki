@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98050
+revid: 98096
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -40,6 +40,8 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
     -   Drinking at least one potion is a prerequisite for Potion Quaffer.
+-   Having a certain weapon equipped.
+    -   Having a great axe equipped is required to roll great axe talents.
 
 -   A high enough Power.
     -   Thresher CIaws requires [Power](Power.md) 13 as a prerequisite.

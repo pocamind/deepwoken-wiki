@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 97309
+revid: 98095
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -41,3 +41,4 @@ They also inflict heavy Antiheal similar to the Talent "All the Dead Gods," when
 
 -   They can parry some "instant kill/multi-hit mantras" such as Caltrops.
 -   Both this enemy and the [Mudskipper Brute](Mudskipper_Brute.md) are inspired by the Clickers from _The Last Of Us_. This indicates that they are possibly the final form of a mudskipper's lifecycle, and are what a mudskipper becomes if it survives long enough.
+-   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24.

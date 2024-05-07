@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 98056
+revid: 98061
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -50,7 +50,6 @@ _The Lord Regent, sitting atop his throne of coral._
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
-    -   Also, three Adrets, namely [Karliah](Karliah.md), [Nell, Master of Frost](Nell,_Master_of_Frost.md) and a [Barber](Barber.md), who form the main bulk of The Central Authority, Etrea's greatest enemy, are present in Etris, two of whom are Divers, which is an ally of the Authority. Despite this, they are all allowed in Etris, which we can infer means Schnitzel is kept out for other reasons than his race.
 -   His goal is seemingly to manipulate Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
     -   As it is unknown how long ago this event was it may have been caused by the same person. \[Speculation\]
 -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious [Shadowcaster](Shadowcast.md), who may well be linked to the [Ministry](The_Ministry.md), orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent, Zi'eer, to ascend into power.
@@ -180,19 +179,19 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
 -   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
 -   He later betrayed them and joined The Ministry following his graduation.[\[1\]](#cite-note-rag-1)
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
--   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly diver apprentices so they couldn't cause any trouble for him.
+-   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethironal Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly Diver Apprentices so they couldn't cause any trouble for him.
 -   He killed two more expeditions after this, and may have killed even more, such as Ignition Union members.
     -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
 -   Though he is an Adret, he has a never before seen facial markings for the race.
 -   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.[\[1\]](#cite-note-rag-1)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
--   Currently trapped in Floor One of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
+-   Currently trapped in the Ethironal of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
 -   Despite not using them in the fight against him, he uses a pair of Kamas designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
 
 ### **Colonel Hoffa**
@@ -237,9 +236,9 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
 -   Currently residing in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
--   In charge of connecting the East Luminant to the rest of the luminants from the Voidsea.
+-   In charge of connecting the East Luminant to the rest of the Luminants from the Voidsea.
 -   Childhood friend of [Nimea](The_Hidden_Village.md) and teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
--   Her hobby is apparently to write poetry, as stated by Klaris.
+-   Her hobby is writing poetry.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
 -   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
 -   She was taken when she was a child by the Central Authority due to her possessing Lightkeeping, allowing her to open the Eastern Interstitial Lighthouse and summon in reinforcements for them. However, her being forcefully taken from her friends of and family had the adverse effect of her becoming disgusted with them and their practices, thus choosing not to help.
@@ -249,8 +248,8 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
 -   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) The creator of light hooks.
--   Former Student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
--   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
+-   Former Student of Viqh, Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
+-   One of the few people (Alongside Nimea) to have known Viqh.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
 -   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
