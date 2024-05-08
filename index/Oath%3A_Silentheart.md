@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 97997
+revid: 98127
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
+| oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health, +10% Mantra Resistance |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
@@ -27,7 +27,7 @@ Meet the following requirements in any order:
 
 -   Be [Attunement-less](Attunement-less.md).
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25 for example)
--   Have 40 points in Strength and 25 points on either Charisma or Agility
+-   Have 25 points in Strength and 25 points on either Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
@@ -52,7 +52,7 @@ This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md)
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
-Alternatively, if you've kiled all 5 trainers in a previous life, 10 knowledge can be spent to immediately unlock all related talents without killing the trainers
+Alternatively, if you've killed all 6 trainers in a previous life, 10 knowledge can be spent to immediately unlock all related talents.
 
 ## Abilities
 

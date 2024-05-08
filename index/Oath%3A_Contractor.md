@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 98111
+revid: 98113
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -56,23 +56,30 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 ## Abilities
 
 -   **Hidden Tendril - Passive (+10 Ether)**
-    -   Applies a 'Hidden Tendril' onto enemies if the user lands a physical Mantra (such as most Attunement--less ones), a physical Critical attack, a Uppercut or a Flourish Only the user can see Hidden Tendrils. The Hidden Tendril does nothing directly, however, allows the user to see the position of their enemy for the entire duration that the 'Hidden Tendril' is on them, and also allows Lord's Slice to be used.
+    -   Landing any physical mantra places a Hidden Tendril on the opponent.
+        -   Physical critical attacks, uppercuts, flourishes, and most attunement-less mantras will also apply a Hidden Tendril.
     
 
 -   **String Trick - Passive**
-    -   If a hidden tendril is on multiple opponents, they are to be pulled together.
+    -   Pulls together any two opponents you've attached Hidden Tendril to.
     -   File:Contractor string trick compressed.gif
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart and applying Hidden Tendril. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user and enemy are both unable to act or move during the animation, and the enemy gains invincibility frames while the animation is active. The move will **instantly execute** if it brings HP to 0. It may also be used to grip knocked targets. (Do note that Judgement does not work on non humanoid mobs)
+    -   Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.
+        -   Applies Hidden Tendril
+        -   The target gains invincibility frames while active
+        -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target
+    
 
 -   **Lords Slice - Combat Mantra**
-    -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer. They are flung in opposite directions, much further than their original positions, being able to wallbang the enemy if they collide with a surface. After the pull is over, the enemy takes more damage and blood loss.
-        -   Only usable if the user has the 'Hidden Tendril' applied, and also has a Hidden Tendril active.
+    -   The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.
+        -   Can slam people into walls
+        -   Only usable if Hidden Tendril is applied to the target
         
 
 -   **Equalizer - Combat Mantra**
-    -   Whips forward with a blue Tendril. If it connects, it deals damage to the target, and gives the user a blue aura. If the user is attacked while they have this blue aura, the attack will be ignored completely and also stun the attacker for about 2 seconds. Unlike Judgement, the user is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
+    -   Whip forward with Tendril and gain a blue aura. If it connects, it deals damage to the target, and gives the user a blue aura.
+        -   Being attacked with the blue aura will ignore the attack and stun the attacker for about 2 seconds, acting as a counter.
     
 
 ## Trivia
@@ -80,17 +87,14 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 -   File:Contractor 10 knowledge.png
     
     You can skip Contractors progression with 10 knowledge despite Lord Regent before killing you.
--   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CAN** gain back reputation **ONLY BY** defeating Chaser or Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp) Buying back reputation will not work.
-    -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards until reputation is gained back.
--   Since you need to go to the Depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do Chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
--   Having Contractor in the Depths can be outright deadly; as a Contractor's progression method is the most hostile out of any Oath, you will often be targeted for it in turn, even if passive.
--   While farming alts or trading with players for Contractor grips is tedious, it poses a far lesser risk of wiping than hunting players.
+-   Upon obtaining the Oath, reputation with The Divers will be set to Hunted. Reputation may be gained back by defeating Chaser or Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp)
+    -   Reputation can no longer be bought for The Divers.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
--   A Contractor that is progressing (doesn't have all moves/talents) will send victims it kills to Layer 2 instead of outright wiping them, however this still counts as a drown. This ONLY applies while they do not have 3 oath grips.
--   Keep in mind that you will not be sent to layer 2 if you are gripped during the progression of your oath, instead you will go to fragments, so do not be overconfident when progressing this oath.
+-   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 oath grips\\
+    -   Counts as a drown
 -   Before 25/08/23, 4 specific Deep Shrines deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
--   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.
+-   The Deep Shrines in Temple of Hearts are able to be used to meet Contractor requirements.
 -   Despite popular belief you can get Contractor without directly gripping Duke Erisia, you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
 
 File:Contractor String.png
@@ -102,7 +106,7 @@ Up close Contractor strings
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
 -   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
--   If you, for some reason, do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
+-   Completing the Contractor quest with an Oath will cause Lord Regent to say, "Then you are a fool." and kill you, instead of obtaining Contractor.
 -   Being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
 -   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
 -   Lord's Slice is heavy reminiscent to Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
