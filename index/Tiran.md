@@ -1,11 +1,9 @@
 ---
 title: Tiran
-revid: 98010
+revid: 98152
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pages with broken file links, Races, Character]
 ---
 
 # Tiran
@@ -19,7 +17,7 @@ Chance of obtaining race: **2.1%**
 
 ## Description
 
-Tirans are a rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
+Tiran is a rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
 
 ## Racial Traits
 
@@ -58,21 +56,22 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
   
 
--   +2 Agility
--   +2 Willpower
--   Reduced fall damage
+-   +2 Agility.
+-   +2 Willpower.
+-   Reduced fall damage.
+    -   Reduces impact of [High Velocity](Echoes.md#modifiers).
 -   Starts with a glider.
--   No need to grab the glider schematic or parts.
--   Reduces impact of [High Velocity](Echoes.md#modifiers)
-    
+    -   No need to grab the glider schematic or parts.
+    -   No need to re-make gliders once they break, as the feathered glider is unbreakable.
+        
 
 **Weaknesses:**
 
   
 
-⋅Training Fortitude or bell checking by throwing yourself off a cliff is more difficult.
-
-⋅Acid rain can still destroy your glider; this can however be negated with the Survivalist Boon.
+-   Training Fortitude or bell checking by throwing yourself off a cliff is more difficult.
+-   Acid rain can still destroy your glider; this can however be negated with the Survivalist Boon.
+    
 
 **Surnames:**
 
@@ -106,14 +105,16 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 ## Trivia
 
 -   Tirans are inspired by people of South and Central American descent.[\[1\]](#cite-note-1)
--   The word "Tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis. It is also the name of an island off the coasts of Egypt and Saudi Arabia.
--   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
--   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
+-   The word "Tiran" originates from Ancient Greek, it means absolute ruler of an ancient polis. It is also the name of an island off the coasts of Egypt and Saudi Arabia.
+-   Similar to [Canor](Canor.md), not having hair on your character will preset you with hair.
+    -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the race at all.
--   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw man", having a very similar eye pattern. Or, be inspired from Big Bird of Lobotomy Corporation. They all have eyes with multiple overlapping circles.
--   The Jay variant shares many similarities (Hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or Felinor and having a little more darker eyes, it may be an unintentional reference made by the devs explaining why it's a Tiran variant and not a Felinor variant.
--   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on. Matching their hair color with their glider. Also meaning that their gliders are probably crafted with their own hair.
--   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the tiran not possessing a beak, they could unintentionally be inspired from the Rito.
+-   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw Man", having a very similar eye pattern. They may also be inspired from Big Bird of Lobotomy Corporation. They all have eyes with multiple overlapping circles.
+-   The Jay variant shares many similarities (hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or [Felinor](Felinor.md) and having slightly darker eyes.
+    -   This may be unintentional.
+-   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
+    -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
+-   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the Tiran not possessing a beak, they could unintentionally be inspired from the Rito.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 97109
+revid: 98142
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -50,15 +50,19 @@ Canor share a strong bond with the Adret race, staying true to the relationship 
 
   
 
-+2 Strength  
-+2 Charisma.  
-
-Inflicts less damage to their own allies.  
+-   +2 Strength.
+-   +2 Charisma.
+-   Inflicts less damage to their own allies, takes less damage from their own allies.
+    -   Damage reduction MAY apply to other forms of damage, such as fall damage, by the word of some Canor players. **Testing needed.**
+        
 
 **Weaknesses:**
 
   
-Loyalty makes combat practice and spars with housemates difficult as the Canor will always be dealing less damage to them.
+
+-   Loyalty is practically useless while playing solo.
+-   Loyalty becomes less useful as you & your allies gain skill in fighting, as you'll hit each other less often.
+    
 
 **Surnames:**
 
@@ -95,7 +99,7 @@ Loyalty makes combat practice and spars with housemates difficult as the Canor w
 -   The surnames of the Canor are noticeably German, or German inspired. (Since they're dog people this means they're german sherperds I guess)
 -   Canor also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (Which also happens to be a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
--   The Default Canor hair id is 20372960
+-   The Default Canor hair id is 20372960.
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.

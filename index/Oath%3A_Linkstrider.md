@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 97931
+revid: 98144
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,11 +34,6 @@ categories: [Oaths]
     2.  Grip 4 players with Oaths. Can be the same player.
         -   Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
     3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 4 [Scarlet Lotuses.](Pristine_Lotus.md)
-    4.  Interact with the white orb that appears in the middle.
-
-## **Progression**
-
-The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it.
 
 ## Abilities
 
@@ -50,7 +45,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   The color of the teleportation variates randomly between blue and red.
     -   Limitations:
-        -   Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree.
+        -   Requires [Stardust](Stardust.md) at first. After you consumed a stardust to teleport, it no longer requires stardust to use it. They obtainable in [Voidzones](Voidzones.md) that have a Startree.
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
         -   Does not work with "campfires" (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire nearly every use - ensure you're well-supplied.

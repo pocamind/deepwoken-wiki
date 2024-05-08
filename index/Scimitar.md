@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 97357
+revid: 98151
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

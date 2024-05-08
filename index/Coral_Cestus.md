@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 97296
+revid: 98146
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
