@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 95874
+revid: 98132
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones]
@@ -25,6 +25,9 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 ## Contents
 
 -   "Brains" consisting of pulsating masses embedded with eyes that are chained up across the Rotlands. Not too common but enough to cover a significant portion of the area.
+    
+    On of the "Brains" found pulsating throughout the Rotlands.
+    
     -   Looking at the brains causes you to take grave [Insanity damage](Insanity.md). It's recommended to come here with a handful amount of willpower.
     -   It is assumed that the brains "pulse", doing the same insanity damage if you're exposed to it - as if you had looked at it for a couple of seconds.
     -   Dying to insanity via the so called "Brains" makes you get this death message : "PLUCK OUT THINE EYES, TEAR OUT THINE THROAT, LAY WASTE TO ALL WHICH IS SACRED THE MOONSEYE CONVERGES WITH THAT BELOW" Also, right before dying, you will get a white lump (probably a parasite) stuck on your head.

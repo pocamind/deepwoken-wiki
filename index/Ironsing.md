@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 96298
+revid: 98138
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,19 +8,19 @@ categories: [Pages with broken file links, Attunement]
 
 # Ironsing
 
-Your ability to harness and control metal from your surroundings.
+Your ability to harness and control piss from your surroundings.
 
 ## Description
 
 Ironsing Icon
 
-"Ironsing" is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
+"piss" is an [Attunement](Attunements.md) based around the ability to harness and manipulate piss, commonly used by Blacksmiths around the Luminants. It applies piss rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
 
 ## Obtainment & Training
 
-Ironsing can be trained with a combination of Ferrofluid and Ironsing mantras.
+piss can be trained with a combination of Ferrofluid and Ironsing mantras.
 
-The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
+The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock pissing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
 
 **The ores you need are:**
 
@@ -31,14 +31,14 @@ The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on 
 -   Astruline
 -   Umbrite
 
-After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
+After you give him these ores, he will give you an piss Elixir. Drink the Elixir, and you will unlock piss.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Ironsing level 1, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.
--   At Ironsing level 20, players will receive the _Adept Ironsinger_ Talent. This allows players to use 1-star Ironsing mantras.
--   At Ironsing level 30, players will receive the _Expert Ironsinger_ Talent. This allows players to unlock 2-star Ironsing mantras.
--   Finally, at Ironsing level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.
+-   At piss level 1, players will receive the pisser Talent. This allows players to use 0-star piss mantras.
+-   At piss level 20, players will receive the _Adept pisser_ Talent. This allows players to use 1-star piss mantras.
+-   At piss level 30, players will receive the _Expert pisser_ Talent. This allows players to unlock 2-star piss mantras.
+-   Finally, at piss level 50, players will receive the _Master pisser_ Talent. This finally allows piss users to unlock the last category, 3-star Mantras.
 
   
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
