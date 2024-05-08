@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 97923
+revid: 98111
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -77,6 +77,9 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 
 ## Trivia
 
+-   File:Contractor 10 knowledge.png
+    
+    You can skip Contractors progression with 10 knowledge despite Lord Regent before killing you.
 -   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CAN** gain back reputation **ONLY BY** defeating Chaser or Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp) Buying back reputation will not work.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards until reputation is gained back.
 -   Since you need to go to the Depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do Chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.

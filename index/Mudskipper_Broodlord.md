@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 98095
+revid: 98097
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,7 +29,7 @@ They also inflict heavy Antiheal similar to the Talent "All the Dead Gods," when
 
 ### **Passives**
 
--   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
+-   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md) and [The Deluvian Mechanism](The_Diluvian_Mechanism.md), this is reduced to 50%.
 
 ## Tips
 

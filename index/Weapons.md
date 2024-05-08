@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 97764
+revid: 98103
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -812,18 +812,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>8</td>
   <td>0.71x</td>
   <td>41.7(<b>Bleed</b>)</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Wyrmtooth"><font>Wyrmtooth</font></a></td>
-  <td>60 MED, 40 HVY</td>
-  <td>20</td>
-  <td>20%</td>
-  <td>N/A</td>
-  <td>MED: 6.2, HVY: 4.2</td>
-  <td>6</td>
-  <td>10</td>
-  <td>0.7x</td>
-  <td>41.7</td>
 </tr>
 <tr>
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
@@ -1883,6 +1871,39 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.45x</td>
   <td>N/A</td>
   <td>61.3</td>
+</tr>
+</tbody>
+</table>
+
+**Hybrid Weapons:**
+
+Hybrid Weapons are weapons that require two different weapon stats, such as requiring Medium and Heavy stats.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Wyrmtooth"><font>Wyrmtooth</font></a></td>
+  <td>60 MED, 40 HVY</td>
+  <td>20</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>MED: 6.2, HVY: 4.2</td>
+  <td>6</td>
+  <td>10</td>
+  <td>0.7x</td>
+  <td>41.7</td>
 </tr>
 </tbody>
 </table>

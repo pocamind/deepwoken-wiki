@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 97992
+revid: 98108
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Mechanics]
@@ -70,6 +70,7 @@ An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 -   [Nomad Pendant](Nomad_Pendant.md)
 -   [Old World Greatshield](Old_World_Greatshield.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
+-   Duelists Mask
 
 ## Marae
 
