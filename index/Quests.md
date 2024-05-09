@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 97481
+revid: 98158
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -364,11 +364,15 @@ These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Reward/s**: Ministry Reputation
 
-**Clean-up:**
+**Summer's Dusk:**
 
 **Quest Location**: Miner's Landing
 
-**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out the Mechalodaunt invading the upper reactor room by the Ignition Union vs Summer Company event spawn.
+**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out the Summer Company invaders at the upper generator during the Ignition Union vs Summer Company events.
+
+File:Orion summers dusk.png
+
+Orion from Summer's Dusk quest
 
 **Reward/s**: Reputation, EXP, "Bravery," Door Unlock.
 

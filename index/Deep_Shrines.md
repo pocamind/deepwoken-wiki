@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 98060
+revid: 98171
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -144,7 +144,7 @@ Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's Landing](<Miner's_L
 
 ## Effect
 
-For free, unburn a card of your choice. It costs 0 knowledge.
+For 1 Knowledge, unburn a card of your choice.
 
 ## Details
 

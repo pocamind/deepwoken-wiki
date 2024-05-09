@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 98144
+revid: 98156
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -65,15 +65,16 @@ categories: [Oaths]
     -   Allows you to see the health bar of allies.
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
-    -   Blessed Gem is a must.
+    -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
 
 -   **Parasitic Leech (Mantra)**
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
+        -   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.
         -   For example, Duke grants more HP than a Mindless Servant, since he has a significantly higher Health Pool.
         -   Parriable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
         -   Blockable. While blocking may stop the damage, it will not stop the caster's healing. Counts as damage towards weak block, making the target unable to block.
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
-        -   combine with bloodless to further the healing
+        -   Can be used with Bloodless to heal more health.
 
 ## Effects
 

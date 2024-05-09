@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 98103
+revid: 98165
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -446,7 +446,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
+Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. One Handed Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. If used as dual guns or as an off-hand, these only add PEN and the bullet effect with no projectile. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
 
 <table>
 <tbody>
@@ -1221,7 +1221,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 **Rifles:**
 
-Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm. Bullets fired by rifles are able to proc most enchants, excluding Nemesis.
+Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm. Loading Bullets or Bullet Casings into the Rifles will cause them to have a different effect on their Blast shots, but no projectiles will be fired.
 
 <table>
 <tbody>
@@ -1335,7 +1335,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>41.5</td>
 </tr>
 <tr>
-  <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
+  <td>Khan Axe</td>
   <td>35 HVY</td>
   <td>23.5</td>
   <td>N/A</td>
@@ -1439,7 +1439,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>39.8</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Khan Axe</font></a></td>
   <td><font>75 HVY</font></td>
   <td><font>24</font></td>
   <td><font>20%</font></td>
@@ -2330,9 +2330,8 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Range: Revolver, Divine Flintlock (12)
     -   Swing Speed: Divine Flintlock (1.3x)
     -   Highest DPS: Divine Flintlock
--   Rifles both bullet m1 and whip have the same range (since usually guns have a bigger range than a simple whip).
+-   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
--   As of right now, rifles and dual-wielded handguns no longer fire projectiles on M1s.
 
 ## References
 
