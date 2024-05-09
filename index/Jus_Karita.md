@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 93678
+revid: 98177
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -53,6 +53,7 @@ To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Li
 ## Trivia
 
 -   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
+-   This was buffed after developer Ragoozer was made to fight a (previously regenerating at 60 hp per second) corrupted [Bone Keeper](Bone_Keeper.md)
 
 ## References
 

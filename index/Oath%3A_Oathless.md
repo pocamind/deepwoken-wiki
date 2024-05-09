@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 97774
+revid: 98179
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,3 +55,4 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   Doesn't give the Oathsworn [badge](Badges.md).
 -   You can still use [Shrine of Order](https://deepwoken.fandom.com/wiki/Deep_Shrines?so=search#Shrine_of_Order) if you have Oathless[\[1\]](https://deepwoken.fandom.com/wiki/Deep_Shrines?so=search#Shrine_of_Order)
 -   Used to be obtainable through a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first Oath.
+-   The disciples are named after places in the generation one games of pokemon.
