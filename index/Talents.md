@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98166
+revid: 98232
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -692,7 +692,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
-    -   Applies chill for 6 seconds
+    -   Applies chill for 7 seconds
     -   Applies bottom freeze
 
 ### Duelist
@@ -947,7 +947,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
     -   Physical resistance of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25% physical resistance at 100 Frostdraw.
-    -   Prerequisites: 65 Frostdraw, 20 Fortitude
+    -   Prerequisites: 65 Frostdraw
 
 ### Frozen Warrior
 

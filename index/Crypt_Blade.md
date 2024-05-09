@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 97589
+revid: 98225
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
+categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons]
 ---
 
 # Crypt Blade
@@ -28,6 +28,10 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
+
+File:Ministry Chest crypt blade drop.png
+
+Proof that you can get a crypt blade of the ministry event
 
 The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
 

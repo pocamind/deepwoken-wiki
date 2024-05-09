@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 97929
+revid: 98211
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 97331
+revid: 98209
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -175,7 +175,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
     <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b></li>
   </ul>
   <ul>
-    <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. <i><b><u>Do not</u> fight him if you intend to get <a href="Murmur.md">Tacet</a> or <a href="Murmur.md">Rhythm</a>.</b></i></li>
+    <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. You can remove your murmur with a <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'shul wish</a><i><b>.</b></i></li>
   </ul>
   <ul>
     <li><b><a href="Primadon,_Titan_of_the_East.md">Primadon</a></b> has been deemed less reliable to fight by the community upon the drop of <b><a href="Verse_2.md">Verse 2</a>.</b> While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. <b>Side: Primadon now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>

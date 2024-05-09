@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 97513
+revid: 98228
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -48,7 +48,9 @@ Hive Fountains
     -   [The Lordsgrove](The_Lordsgrove.md)
     -   Inside the [Hidden Village](The_Hidden_Village.md)
     -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze"
-    -   [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md)
+    -   Here is the fountain at vigils
+        
+        [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building.
 
 The doors to enter the Lordsgrove.
 

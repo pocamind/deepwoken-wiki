@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 96044
+revid: 98214
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Black Divers are town guard reinforcements that can appear within Castle Light.
+(This page is referring to the NPC. To view the master armour, check [Black Diver.](Black_Diver.md)) Divers are town guard reinforcements that can appear within Castle Light.
 
 They are also enemies that appear as part of "Villain" reputation [ambush events](Faction_Ambushes.md) for high level players from The Divers.
 
@@ -110,6 +110,11 @@ A Black Diver executes its opponent after knocking them:
 \[⁣[Markor's Inheritor](<Markor's_Inheritor.md>) & [Pale Morning](Pale_Morning.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
 
  |
+
+## Tips
+
+-   Fight them like any other humanoid NPC with a weapon.
+-   It's wide moveset requires a bit of getting used to. Thankfully, these NPCS aren't very common.
 
 ## Trivia
 

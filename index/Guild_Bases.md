@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 98052
+revid: 98231
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases and Guild Offices in towns, with 150 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for Notes, and Guild Offices in towns for Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 

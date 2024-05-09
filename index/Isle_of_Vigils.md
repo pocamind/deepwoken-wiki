@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 97512
+revid: 98234
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -51,7 +51,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
     -   [Vigil Initiate](Vigil_Initiate.md) for.
     -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for.
 
--   Near the Mantra Shop, there is a destructible wall.
+-   Near the Mantra Shop, there is a destructible wall. Behind the wall usually have 4-5 Erisia chests.
 
 The wall
 

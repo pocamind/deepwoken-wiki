@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 95462
+revid: 98213
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -12,19 +12,13 @@ notices:
 
 ## Description
 
-Faction Ambushes are an event that can occur nearly anywhere in the overworld (besides towns excluding the Summer Isle castle),(It can indeed happen in the sea where enemies teleport onto your boat). They occur when a player has the Hunted status or worse (-150 rep or below) with a faction.
-
-## Types of Ambushes
+Faction Ambushes are an event that can occur nearly anywhere in the overworld besides towns, Summer Isle Castle. They can also occur in the middle of the ocean. They occur when a player has the Hunted status or worse (-150 rep or below) with a faction. The faction will occasionally send NPCS relating to their faction with a goal to hunt and kill the player. Killing these sent NPCS will further lower your reputation with the respective faction, so avoid killing them if you want to maintain your reputation.
 
 The enemies sent and loot drops differ depending on the faction sending them. Below is a list of possible ambushes.
 
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |
-| 
--   None
-
- | 
-
+| N/A | 
 -   1-3 [Lowly Bandits](Bandit.md)
 -   1-3 [Bandit Captains](Bandit_Leader.md)
 -   3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)

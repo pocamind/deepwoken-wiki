@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 95206
+revid: 98222
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -29,3 +29,4 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 
 -   If you beat her in a race while already possessing an oath, she will only say "Huff".
 -   Alirian uses the [Windrunner Robes](Windrunner_Robes.md) outfit.
+-   She seems to value her and the player's frenemy relationship a lot.

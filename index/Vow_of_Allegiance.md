@@ -1,6 +1,6 @@
 ---
 title: Vow of Allegiance
-revid: 97733
+revid: 98203
 source: https://deepwoken.fandom.com/wiki/Vow_of_Allegiance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vows]
@@ -14,4 +14,4 @@ However, you can only make 50 of these vows.
 
 The Vow will carry over even after you wipe, but not for the account.
 
-You are able to Disable ally checks for abilitys in Settings< No holds barred, Which disables the effects so you can spar with a teammate.
+You are able to Disable ally checks for abilities in Settings > No holds barred, which disables the effects so you can spar with a teammate.

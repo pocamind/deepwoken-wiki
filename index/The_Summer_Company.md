@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 97730
+revid: 98220
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -23,15 +23,15 @@ notices:
 
 The Summer Company is a faction that operates in their fortified island, the **[Summer Isle](Summer_Isle.md)** in [The Aratel Sea](The_Aratel_Sea.md).
 
-As their name implies, they are a merchant Company that are the Deepwoken world's chief supplier of firearms.
+As their name implies, they are a merchant Company that is the overworld's chief supplier and manufacturer of firearms and ammunition.
 
-As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.
+As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the gun, or the common firearm.
 
 They are one of the three factions employed by [The Authority](The_Central_Authority.md).
 
-They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves. In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidently activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggresively attack friend and foe alike.
+They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves. In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidentally activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggressively attack friend and foe alike.
 
-They also buy and sell guns to the Authority, seen by the rifles and rifle spears that the Authority owns.
+They also buy and sell their guns to the Authority, seen by the rifles and rifle spears that some of the Authority NPCs wield.
 
 ## Reputation
 
@@ -79,5 +79,4 @@ Neutral-Bad Reputation:
     -   Scope is named after the scope.
     -   Trig is named after the trigger.
     -   Mag is named after the magazine.
--   ~Even if you have [neutral reputation](Reputation.md), you can still get attacked by Summer Goons and Guards.~
-    -   ~Therefore it may be recommended that instead of sailing to the docks of Summer Isle, that you instead sail around to the back of the island and do Trig's [Quest](Quests.md) by the door of the inn, in order to gain a bit of Reputation so the guards won't attack you. However, doing this quest may also unlock Armor Piercing and Bullet proof in your talent pool, which may interfere with your build.~ Fixed in an update.
+-   however, none of the guns in Deepwoken have a scope nor a magazine.
