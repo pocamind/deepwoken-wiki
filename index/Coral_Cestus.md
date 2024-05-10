@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 98153
+revid: 98300
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -42,3 +42,4 @@ The user leaps into the air forward and slams down into the ground, creating a l
 -   The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
 -   Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.
 -   Using Lootskipper or Vow of Thorns to get the Coral Cestus is not recommended, as their rarest drop is actually [Martial Artist](Martial_Artist.md), lowering the drop rate of these.
+-   The upper front of the fist resembles a brass knuckle, or a knuckle duster.

@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 97613
+revid: 98304
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -47,6 +47,11 @@ Enemy status with Etrea
 -   [Kennith](Kennith.md)
 -   [Nerin](Reputation.md) (Resets reputation to your default rep when you spawn in, unlocks the Sly boon.)
 
+## Associated Enemies
+
+The fountain leading to the Hive
+
 ## Trivia
 
 -   Like other major factions, they seem to be based on a real-world culture, with Etrea being based on East Asian countries.
+-   In the Kings Garden, much like in Vigils and the hidden village, there is a fountain, it is located next to Lord Regents Palace
