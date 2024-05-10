@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 97242
+revid: 98235
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -110,6 +110,7 @@ Glacial Javelin
  | The Kyrsgarde Sniper conjures a spear of ice before throwing at it's opponent.
 
 -   Easiest move to parry if fighting one on one.
+-   Parrying any attack from Kyrsgarde Sniper makes him unable to attack for next 4 seconds.
 
  | ◯ | ◯ | ◯ | (★★☆) |
 | 
