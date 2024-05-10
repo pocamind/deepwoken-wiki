@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 98113
+revid: 98280
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -23,9 +23,9 @@ categories: [Pages with broken file links, Oaths]
 
 ## Obtainment
 
-Important note: You can return to Lord regent, restart the quest if you have negative Etrea or Minitsry reputation.
+Important note: You can return to Lord Regent, restart the quest if you have negative Etrea or Ministry reputation.
 
--   To prevent this from happening, you can do the four shrines, resonance, and duke quest in any order, but when you complete the duke quest, **DO NOT RETURN TO LORD REGENT** until you complete all previous requirements.
+-   To prevent this from happening, you can do the four shrines, Resonance, and Duke quest in any order, but when you complete the Duke quest, **DO NOT RETURN TO LORD REGENT** until you complete all previous requirements.
 
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe.
     -   You can either get this through Imel, Emel, and Rimil's bounties if you choose, but you can also help the Ministry out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one Ministry Scout, waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation but double the time to complete.
@@ -58,6 +58,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 -   **Hidden Tendril - Passive (+10 Ether)**
     -   Landing any physical mantra places a Hidden Tendril on the opponent.
         -   Physical critical attacks, uppercuts, flourishes, and most attunement-less mantras will also apply a Hidden Tendril.
+        -   **All** of this oaths abilties are unable to be used on Non-Humanoids.
     
 
 -   **String Trick - Passive**
@@ -80,6 +81,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 -   **Equalizer - Combat Mantra**
     -   Whip forward with Tendril and gain a blue aura. If it connects, it deals damage to the target, and gives the user a blue aura.
         -   Being attacked with the blue aura will ignore the attack and stun the attacker for about 2 seconds, acting as a counter.
+        -   Non-Humanoids will bypass the counter aura, instead outright hitting you.
     
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 98263
+revid: 98266
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -19,13 +19,11 @@ The smell of gunpowder blankets this tropical paradise.
   
 
   
-Summer Isle is a populated island in the [Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
+Summer Isle is a populated island in [The Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
 
 One of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment.
 
 ## Points Of Interest
-
-Summer Isle's points of interest, from highest to lowest priority.
 
 ### _**The Castle**_
 
@@ -46,7 +44,6 @@ The Summer Isle's main attractions are the firearms, which can be found inside t
 
 Notes:
 
--   They're currently the only known weapons to have a critical attack that travels a long distance. (other than rifles or stormbreaker enchanted weapons)
 -   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating 20 bullets per iron.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
@@ -81,8 +78,6 @@ Within the castle's ground floor, on the opposite side of where the Antiquarian/
 -   Didn't check if you need neutral/positive reputation to communicate with them.
 
 File:Red Crate.png
-
-"You brought a knife to a GUN BATTLE!"
 
 #### _**Scope \[QUEST\]**_
 
@@ -172,11 +167,9 @@ The Summer Company cannon
 
 File:Fountain.png
 
-Epic fountain.
-
 -   Located on an island behind the Inn. You have to get into this location by destroying the different colored wall (tested with shoulder bash) or using a teleport move.
 
--   Inside, there is a room decorated with trees, bushes and a blue fountain in the middle. Interacting with the fountain tells you that you need something to water it, but if you have a [canteen](Canteen.md) in your inventory with water in it(the fountain sometime bugs out and you will need to rejoin to use it), The fountain will sprouts 6 random lotuses in the room and you can collect them. The fountain has a cooldown.
+-   Inside, there is a room decorated with trees, bushes and a blue fountain in the middle. Interacting with the fountain tells you that you need something to water it, but if you have a [canteen](Canteen.md) in your inventory with water in it (the fountain sometime bugs out and you will need to rejoin to use it), The fountain will sprouts 6 random lotuses in the room and you can collect them. The fountain has a cooldown.
 
 ## Missions
 

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 96751
+revid: 98281
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]

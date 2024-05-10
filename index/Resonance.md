@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 98209
+revid: 98267
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -225,6 +225,8 @@ Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example i
 This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another **Resonance** card draw.
 
 The draw consists of four cards, three of which are selected randomly (identically to the three you rolled when first obtaining your resonance) and the last of the four always being your current **Resonance**, albeit with a different stat allocation.
+
+-   You can glitch through these by spamming slide-jump and dash, you can also get a friend to glitch through and place a chime of dwelling in interact reach.
 
 -   If your current **Resonance** isn't a **Corrupted Resonance**, the fourth card has a chance of being **Corrupted**. If your current **Resonance** _is_ a **Corrupted Resonance**, the fourth card will always be a _non-corrupted_ version of your **Resonance** with an extra fifth card of your **Corrupted Resonance** alongside it.
 
