@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 73871
+revid: 98285
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -31,4 +31,4 @@ The Brigand's Cloak is an [Equipment](Equipment.md) item under the "Arms" catego
 ## Trivia
 
 -   The Brigand's Cloak is part of the “Brigand's” set; with the only other piece being the [Brigand's Bicorn](<Brigand's_Bicorn.md>).
--   Worn by Kennith.
+-   Worn by [Kennith](Kennith.md).

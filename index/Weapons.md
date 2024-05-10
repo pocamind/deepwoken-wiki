@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 98165
+revid: 98287
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -287,7 +287,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td><font>0.86x</font></td>
-  <td>0s</td>
+  <td>N/A</td>
   <td>29.3</td>
 </tr>
 <tr>
@@ -1487,7 +1487,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>7</td>
   <td>10</td>
   <td>0.61x</td>
-  <td>0s</td>
+  <td>N/A</td>
   <td>41</td>
 </tr>
 </tbody>
