@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 98189
+revid: 98322
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -242,7 +242,8 @@ _They do add new sound effects to threshers!_
 
 -   **Sandy Remnants**
     -   A stone island similar to [Aratel](Aratel_Island.md), with sand flowing out of the stones. Defeating all enemies on it will give you two chests filled with Starswept Valley loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)
--   **Mudskipper Tower**
+
+-   **Mudskipper Hive**
     -   A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different [Mudskippers](Mudskipper.md) can spawn with the addition of a [Mudskipper Brutes](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md). Defeating them will grant a Depths Chest and an Erisia Chest.
 
 #### Traveling Merchant

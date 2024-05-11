@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 96891
+revid: 98308
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -43,3 +43,4 @@ This Outfit's Schematic can be found in:
     -   Every [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Move (Exluding the already parryable ones)
     -   Cero ([Lionfish](Lionfish.md))
     -   Crab Crab ([Crustaceous Rex](Crustaceous_Rex.md))
+    -   Kyrsieger critical

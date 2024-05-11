@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 98298
+revid: 98323
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -26,8 +26,8 @@ categories: [Oaths]
 Meet the following requirements in any order:
 
 -   Be [Attunement-less](Attunement-less.md).
--   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25 for example)
--   Have 40 points in Strength and 40 points on either Charisma or Agility
+-   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
+-   Have 25 points in Strength and 25 points on either Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
@@ -75,10 +75,11 @@ Alternatively, if you've killed all 6 trainers in a previous life, 10 knowledge 
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
+            -   If you have used Dyes, instead turns your vents to your tattoo colour.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   Is activated by using Ctrl + M2.
-        -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
+        -   Does not consume Dread stacks to use.
         -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
         -   Deals 7 posture damage per hit.
         -   Is 360 degree blockable.

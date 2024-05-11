@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 97903
+revid: 98310
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -88,7 +88,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | “A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows." |
 
-## Testicles
+## Description
 
 **The Hero Blades** are a set of weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
 
