@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98293
+revid: 98439
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1633,7 +1633,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
     -   Prerequisites: 75 Intelligence
 
--   _All Knowing_ \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity)
+-   _All Knowing_ \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity)
     -   Prerequisites: 60 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
 
 -   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity)

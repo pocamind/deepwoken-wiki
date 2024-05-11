@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 98306
+revid: 98456
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -36,6 +36,7 @@ categories: [Deepwoken]
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
+-   **Fire Forge** modified with a Tornado Spark may be a possible reference to [Kai's Fire Spinjitzu](https://ninjago.fandom.com/wiki/Spinjitzu) from _Ninjago._
 
 ### **Thundercall**
 
@@ -60,6 +61,7 @@ categories: [Deepwoken]
 
 -   The **Aerogliding** talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
 -   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://eldenring.wiki.fextralife.com/Moonlight+Greatsword) from the _Souls_ games.
+-   **Wind Forge** modified with a Multiplying Spark is a reference to [Gilgamesh's Noble Phantasm "Gate of Babylon"](https://typemoon.fandom.com/wiki/Gilgamesh#Noble_Phantasms) from the _Fate_ series.
 
 ### **Shadowcast**
 

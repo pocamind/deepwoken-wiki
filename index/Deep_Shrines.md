@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 98171
+revid: 98431
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 
 ## Description
 
-**Deep Shrines** are a group of 9 shrines sharing identical appearance (excluding Solitude), scattered across Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md).
+**Deep Shrines** are a group of 9 shrines sharing identical appearance (excluding Solitude), scattered across Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md). Each Deep Shrine can be found in a unique location in the overworld as well as the [Temple of Hearts](Temple_of_Hearts.md), accessible by Deepbounds and anyone who has obtained their resonance.
 
 ## Limitations
 
@@ -225,8 +225,6 @@ Free Mystic for the Lone Warrior Origin / Trial of One and the Diluvian Mechanis
 
 ## Trivia
 
--   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
--   [Primadon](Primadon,_Titan_of_the_East.md) gives knowledge too. The first time you kill [Primadon](Primadon,_Titan_of_the_East.md) you gain 3 points of knowledge, after the first time you only gain 1 point of knowledge.
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit and the shrine of mastery.
 -   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, may be a reference to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
@@ -234,8 +232,6 @@ Free Mystic for the Lone Warrior Origin / Trial of One and the Diluvian Mechanis
         -   It was theorized this was the intent behind Deepwoken's Shrine of Order, but due to it actually allowing for the creation of extremely powerful builds, the developers found themselves unable to roll back the change without creating huge backlash as well as resulting in builds that existed before any changes to the Shrine being far more powerful than any new ones after the changes.
 -   You can use any shrine besides Solitude to obtain Contractor, however, Shrine Of Order is currently bugged and does not count towards Contractor progression.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
--   The main 6 Deep Shrines (Order, Blasphemy, Chance, etc.) can be accessed in [Temple of Hearts](Temple_of_Hearts.md) if you have a resonance or start with the Deepbound Origin, however, two remain inert, suggesting they may awaken in the future.
-    -   As of 3/23/24, the [Temple of Hearts](Temple_of_Hearts.md) contains every Deep Shrine.
 -   The Shrine of Solitude is unique in that it:
     -   Is present in a dungeon.
     -   Has no visible "eyes".

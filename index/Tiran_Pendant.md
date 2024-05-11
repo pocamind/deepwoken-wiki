@@ -1,9 +1,9 @@
 ---
 title: Tiran Pendant
-revid: 98415
+revid: 98465
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, Equipment, Torso]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -23,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Bone Keeper |
+| obtainment | Bone Keeper Primadon |
 | description | "Worn by Tiran spiritual leaders, the wielder is safeguarded against the numerous sheer drops and falls of the Tiran homelands. Thought to have originated from a particularly gruesome succession crisis where a leader was shoved unceremoniously off a cliff following a sermon." |
 
 ## Description

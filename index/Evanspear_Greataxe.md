@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 96984
+revid: 98446
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes]
@@ -64,6 +64,10 @@ File:Evansphere Handacks Obsidian.png
 **Curse of the Bloodthirsty:**
 
 **Curse of The No Life King:**
+
+**Curse of The Unbidden:**
+
+**Curse of Yun-Shul:**
 
 ## Tips/Trivia
 

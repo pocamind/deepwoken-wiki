@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 98426
+revid: 98459
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -56,9 +56,7 @@ Upon reaching 100 or more kills, a chest will spawn under the players that rung 
 
 ## Tips
 
-as the strongest squibbo, asked the pver zuukle, he said : are you pve because you are zuukle, or are you zuukle because you are strong? and zuukle responded: Nah, i'd m1
-
-deepwoken baddies dm me asap!!! glory to rotarians!
+(In progress, feel free to add)
 
 Although Hell Mode is scary, the rewards are worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
 
