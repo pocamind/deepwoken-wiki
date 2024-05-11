@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 98267
+revid: 98383
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -19,19 +19,19 @@ Obtaining a **Resonance** will also allow the opening of Resonance Doors around 
 You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in these few locations and will be protected by a [Star Knight](Stone_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
 
 | 
-**LIST OF NORMAL RESONANCES**
+**NORMAL RESONANCES**
 
  |
 | --- |
 
 | 
-**LIST OF LEGENDARY RESONANCES**
+**LEGENDARY RESONANCES**
 
  |
 | --- |
 
 | 
-**LIST OF UNOBTAINABLE RESONANCES**
+**UNOBTAINABLE RESONANCES**
 
  |
 | --- |

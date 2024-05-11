@@ -1,0 +1,35 @@
+---
+title: "Warmaster's Medallion"
+revid: 98360
+source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Torso, Necklaces]
+---
+
+# Warmaster's Medallion
+
+| Warmaster's Medallion | |
+|---|---|
+| type | Torso |
+| rarity | Relic |
+| selling price | 100 |
+| requirements | None |
+| weight | 0.5 |
+| innate stats | N/A |
+| innate talent | Actions Speak Louder |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | ??? |
+| description | "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for ampering the amplitude of one's Resonance." |
+
+## Description
+
+The Warmaster's Medallion is an [Equipment](Equipment.md) item under the "Torso" category.
+
+Equipping it grants the talent "Actions Speak Louder" which states "Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is double as long. In areas where your Resonance is suppressed, reduces your cooldown by 5% instead."
+
+## Trivia
+
+-   Elegy of Light works in [Chime of Conflict](Chime_of_Conflict.md). But only reduces your Critical cooldown by 5%.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 98219
+revid: 98372
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -46,7 +46,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
     
     > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
     
-    -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteors that are scattered around the map. By sitting at a campfire and calling the name of the desired Comet, you will be transported directly to it.
+    -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteors that are scattered around the map. By sitting at a campfire and typing out the name of the desired Comet, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   The color of the teleportation variates randomly between blue and red.
     -   Limitations:

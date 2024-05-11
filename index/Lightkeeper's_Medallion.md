@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 95522
+revid: 98378
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -11,7 +11,7 @@ categories: [Equipment, Torso, Necklaces]
 | Lightkeeper's Medallion | |
 |---|---|
 | type | Torso |
-| rarity | Mythical |
+| rarity | Relic |
 | selling price | 100 |
 | requirements | None |
 | weight | 0.5 |

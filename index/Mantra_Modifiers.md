@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 98200
+revid: 98365
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -559,6 +559,7 @@ Tornado Spark
 
 -   Storm Blades
 -   Dark Blade
+-   Fire Forge
 
  | 
 

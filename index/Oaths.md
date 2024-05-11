@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 97886
+revid: 98384
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -58,6 +58,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative rep with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
+    -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent.
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"

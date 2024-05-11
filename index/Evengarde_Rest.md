@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 97401
+revid: 98351
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -162,3 +162,4 @@ End
 -   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
 -   The coat Rest is wearring is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
     -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect
+-   [Contractors](Oath%253A_Contractor.md) (seemingly) are unable to interact with him, always getting the "chilling wind" dialogue regardless of how many requirements to speak with him are fulfilled.
