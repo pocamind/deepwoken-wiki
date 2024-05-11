@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 97305
+revid: 98416
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3795,6 +3795,44 @@ Sources:
 
 -   [Ferryman](The_Ferryman.md) **(~1%)**
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+
+ | N/A |
+| File:Tiran Pendant.png | 
+
+[Tiran Pendant](Tiran_Pendant.md)
+
+(Deep Relic)
+
+ | 
+
+No Pips  
+
+_+Talent: Featherfall_
+
+ | 
+
+Sources:
+
+-   [Bone Keeper](Bone_Keeper.md)
+
+ | N/A |
+| File:Warmaster's Medallion.png | 
+
+[Warmaster's Medallion](<Warmaster's_Medallion.md>)
+
+(Deep Relic)
+
+ | 
+
+No Pips  
+
+_+Talent: Actions Speak Louder_
+
+ | 
+
+Sources:
+
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 97120
+revid: 98424
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -15,11 +15,7 @@ they wander the lands offering their experience to those in need of it._
 
 Chance of obtaining race: **2.0%**
 
-## Description
-
-Capras are a descendant from goats, exhibiting various goat-like characteristics such as horns, rectangular pupils and even masks the same shape as a goats skull. Capra NPC's are rarely found in the Lumen of Deepwoken and their characteristics are unspecified. Capras start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire with each buff having more potency dependent on the race variant.
-
-## Racial Traits
+## my hot deepwoken felinor baddie left me for a 6'4 capra, i've been devistated ever since that happened. colt sero please come back and dingle my mingle!!!!!!!!!!! don't yuck other people's yums
 
 <table>
 <tbody>

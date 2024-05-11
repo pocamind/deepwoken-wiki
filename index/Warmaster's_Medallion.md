@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 98360
+revid: 98417
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | ??? |
+| obtainment | Hell Mode, Chaser |
 | description | "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for ampering the amplitude of one's Resonance." |
 
 ## Description
@@ -32,4 +32,4 @@ Equipping it grants the talent "Actions Speak Louder" which states "Your Critica
 
 ## Trivia
 
--   Elegy of Light works in [Chime of Conflict](Chime_of_Conflict.md). But only reduces your Critical cooldown by 5%.
+-   The Warmaster's Medallion works in [Chime of Conflict](Chime_of_Conflict.md). But only reduces your Critical cooldown by 5%.

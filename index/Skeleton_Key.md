@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 98382
+revid: 98392
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

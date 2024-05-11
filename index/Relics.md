@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 98005
+revid: 98428
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -151,7 +151,7 @@ It grants the user +20 knowledge on subsequent uses.
  | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the ability "Elegy of Light". When activated, You are immune to the Deep Gem effects of an opponent for 3 minutes.
 
   
-The ability is one-time-use, but is recharged by killing a player of your level.
+The ability is one-time-use, but is recharged by killing a boss or player of your level.
 
  | 
 

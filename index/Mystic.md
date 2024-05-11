@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 94319
+revid: 98386
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -174,7 +174,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I speak to lightning. **(Thundercaller; Discovery of Fire, Shocking Finish, Static Flash Clone, Static Withdraw, Stratoshock)**_
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
 -   _My fists are imbued with lighting. **(Thunder Brawler)**_
--   _I seek to embrace the instability of lightning as a source of power. **(Unstable Capacitor)**_
+-   _I seek to embrace the instability of lightning as a source of power. **(Surge Path: Unstable Capacitor)**_
 
 ### [Galebreathe](Galebreathe.md)
 
