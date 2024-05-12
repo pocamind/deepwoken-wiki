@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 73964
+revid: 98516
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley |
+| obtainment | Chests from:, Starswept Valley, Chili |
 | description | "..." |
 
 ## Description

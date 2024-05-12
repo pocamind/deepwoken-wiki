@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 95463
+revid: 98512
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -484,7 +484,7 @@ Gained from dying to Maestro Evengarde Rest.
     -   Simple's EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is one of very few flaws that essentially has no downside at power 20 which makes it somewhat okay.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
     -   Vegetarian’s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items but picking this card will make it impossible to obtain the Carnivore Talent, which is very useful.
-    -   Blind gives you the Blinded effect. All of the time. If you can live through it and get Blindseer, you can negate the problem the flaw gives. This flaw does not provide protection from flame blind and gaze.
+    -   Blind gives you the Blinded effect. All of the time. If you can live through it and get Blindseer, you can negate the problem the flaw gives. This flaw does not provide protection from flame blind and gaze. Blind also grants your character milky-white eyes without [Jetstriker](Oath%253A_Jetstriker.md).
     -   Haemophilia is basically a free point, as the increased blood drain is barely noticeable and only about 5 players use bloodthirsty/NLK, and even if you do run into these players, you'll be knocked long before you lose all your blood.
 -   Some boons are more worth taking than others:
     -   Autodidact is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also power up to restore your two lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Also becomes useless once you reach power 20. Although this boon stacks with the Adret racial buff.

@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 98506
+revid: 98507
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Equipment, Torso]
@@ -35,5 +35,4 @@ Equipping it grants the talent "Featherfall" which grants Near-complete immunity
 ## Trivia
 
 -   Connected to the [Tiran](Tiran.md) race.
--   Talent name may be inspired by the Feather Falling enchantment from Minecraft.
 -   The third (or second) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Warmaster's Medallion](<Warmaster's_Medallion.md>).

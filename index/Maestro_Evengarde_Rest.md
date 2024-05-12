@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 98348
+revid: 98517
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -138,6 +138,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Confessor's Charm](<Confessor's_Charm.md>)
 -   [Canticlysm Pendant](Canticlysm_Pendant.md)
 -   Most [Earrings](Equipment.md#ears)
+-   [Hivelord Mask](Hivelord_Mask.md)
 
  | 
 
@@ -198,3 +199,4 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
         -   His eyes flash onto your screen, a green flash appears on your character's head as the only evidence of his attack, cleaving it apart instantly.
         -   You fell in battle to... Your disrespect, punished by the Tempest Eye
     -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.
+-   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
