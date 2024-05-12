@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 98485
+revid: 98499
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -35,3 +35,6 @@ It's currently known to drop from Ferryman and Scion of Ethiron, but other sourc
 ## Trivia
 
 -   Elegy of Light works in [Chime of Conflict](Chime_of_Conflict.md). However, getting a grip in chime does not count towards refilling the ability, unless the opponent is sent to [The Depths](The_Depths.md).
+-   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by Viqh under the Authority's control.
+    -   The holder resembles the top part of the Lighthouse.
+    -   The embelishment appears to be in the shape of the Lighthouse as a whole.

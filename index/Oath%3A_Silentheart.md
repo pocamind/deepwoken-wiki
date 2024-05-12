@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 98483
+revid: 98500
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
+| oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health, +10% Mantra Resistance |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
@@ -48,7 +48,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Upgrading
 
-This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding Regek and [Beatra](Beatra.md)).
+This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Regek](Regek.md) and [Beatra](Beatra.md)).
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
