@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 98075
+revid: 98474
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -21,7 +21,7 @@ For example:
 -   60 = Level 4 Mantra, ( total)
 -   80 = Level 5 Mantra, ( total) (Requires Attunement Unbound)
 
-An Attunement trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different Attunements by giving a trainer 5 Elemental Ingredients of the respected Attunement. (See [Attunement Potions](Attunement_Potions.md))
+An Attunement trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different Attunements by giving a trainer 5 (2 if previously obtained) Elemental Ingredients of the respected Attunement. (See [Attunement Potions](Attunement_Potions.md))
 
 ## List of Trainers
 

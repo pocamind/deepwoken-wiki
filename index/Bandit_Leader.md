@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 97540
+revid: 98471
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -35,7 +35,7 @@ A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Batt
 \[[Gilded Knife](Gilded_Knife.md)\] Winds up before unleashing a quick flurry of three slashes.
 
  | ◯ | ✗ | (★★☆) |
-| Feint | Attacks, but stops during the windup in an attempt to catch the opponent off-guard. | _?_ | _?_ | (★★☆) |
+| Feint | Attacks, but stops during the windup in an attempt to catch the opponent off-guard. | N/A | N/A | (★★☆) |
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 94824
+revid: 98482
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Layer 1]
@@ -62,9 +62,9 @@ The Armory.
 -   [Antiquarian](Antiquarian.md)
 -   [Blacksmith](Blacksmith.md)
 -   [Nyanna](Nyanna.md)
--   [Akira](Akira.md) (if met in a random encounter)
+-   [Akira](Akira.md) (if met in the random encounter)
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
--   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of puzzle in [Layer 2](Second_Layer.md) Floor 2)
+-   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of the library puzzle in [New Kyrsa](Second_Layer/New_Kyrsa.md))
 
 ### Items
 
@@ -94,7 +94,6 @@ The Armory.
 -   While considered a "safe zone" to some extent, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
 -   Occasionally, three black diver npcs can spawn.
 -   Castle Light has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
--   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths while maintaining your **soul.**
     -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.
     -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a Deepbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
@@ -103,5 +102,5 @@ The Armory.
 -   Used to have normal divers, then got replaced by Black divers, then got replaced with Journeyman Divers.
 -   The [Antiquarian](Antiquarian.md) can only be interacted with if you are Deepbound, even with ally reputation.
 -   It is possible to enter despite drowning, but requires the assistance of another player.
-    -   Do note that if you defeat chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the depths via a whirlpool.
+    -   Do note that if you defeat Chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the Depths via a whirlpool.
 -   Defeating Ethiron spawns you in Castle Light if you entered via the Layer 1 void, but you still will not be allowed to pass through the barrier, forcing you to reset.

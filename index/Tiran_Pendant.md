@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 98465
+revid: 98470
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Equipment, Torso]
@@ -17,13 +17,13 @@ notices:
 | selling price | ? |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | ? |
+| innate stats | None |
 | innate talent | Featherfall |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Bone Keeper Primadon |
+| obtainment | Bone Keeper, Primadon, Diver Husk |
 | description | "Worn by Tiran spiritual leaders, the wielder is safeguarded against the numerous sheer drops and falls of the Tiran homelands. Thought to have originated from a particularly gruesome succession crisis where a leader was shoved unceremoniously off a cliff following a sermon." |
 
 ## Description
