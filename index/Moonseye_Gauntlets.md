@@ -1,6 +1,6 @@
 ---
 title: Moonseye Gauntlets
-revid: 98444
+revid: 98535
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]

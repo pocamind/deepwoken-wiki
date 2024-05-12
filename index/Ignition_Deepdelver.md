@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 98308
+revid: 98523
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -26,7 +26,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 The outfit has 3000 durability, grants +15% Frostdraw and Ironsing Armor, +35% Elemental Armor, +20% Ether Regeneration and +30% Physical Armor. Additionally, it provides the [Force Your Way](Talents.md#ignition-deepdelver) Talent.
 
-The [Force Your Way](https://deepwoken.fandom.com/wiki/Talents#Ignition_Deepdelver) talent grants the player the ability to parry most unparryable attacks (monsters and players) at the cost of some armour durability, losing around 1%. Whenever an attack that's not normally parryable is parried, the armour will let off some steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
+The [Force Your Way](https://deepwoken.fandom.com/wiki/Talents#Ignition_Deepdelver) talent grants the player the ability to parry most unparryable attacks (monsters and players) at the cost of some armor durability, losing around 1%. Whenever an attack that's not normally parryable is parried, the armor will let off some steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 
 ## Location
 
@@ -36,11 +36,12 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Combining this outfit with the Metal enchant (steal/replenish armor durability on hit) allow the player to essentially negate the durability cost of the talent.
--   A few monster and NPC attacks such as a [Golem](Rock_Golem.md)'s laser, a [Lionfish](Lionfish.md)'s cero beam, and [The Duke](Duke_Ishamon_Erisia.md)'s gale stomp cannot be parried. (list down here as you discover more unparryable attacks even with the Armor talent.)
-    -   Laser ([Golem](Rock_Golem.md)) & Laser Barrage ([Golem Prime](Rock_Golem.md))
-    -   Cursed Flame ([King Thresher](Thresher.md))
-    -   Every [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Move (Exluding the already parryable ones)
-    -   Cero ([Lionfish](Lionfish.md))
-    -   Crab Crab ([Crustaceous Rex](Crustaceous_Rex.md))
-    -   Kyrsieger critical
+-   Combining this outfit with the Metal [enchant](Enchantments.md) (steal/replenish armor durability on hit) allows you to essentially negate the durability cost of the talent.
+-   There are a few attacks that cannot be parried even with the Deepdelver on. These include (not exhaustive):
+    -   **Laser** ([Golem](Rock_Golem.md)) & **Laser Barrage** ([Golem Prime](Rock_Golem.md))
+    -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
+    -   **Cero** ([Lionfish](Lionfish.md))
+    -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks
+    -   **Crab Crab** ([Crustaceous Rex](Crustaceous_Rex.md))
+    -   [Kyrsieger](Kyrsieger.md) critical
+    -   The last hit of **Mortal Draw: Floating Passage** ([Maestro Evengarde Rest](Maestro_Evengarde_Rest.md))

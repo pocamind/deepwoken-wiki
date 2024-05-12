@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 98130
+revid: 98524
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -14,17 +14,17 @@ A lone Adret reading Diver Journal 2
 
 ## Description
 
-Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence Training Items](Training_Gear.md#intelligence) and [Weapon Training Items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
+Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence Training Items](Training_Gear.md#intelligence) and [Weapon Training Items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
 
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
 -   The Gideshu March: [Fort Merit](Fort_Merit.md)
+-   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
 -   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
--   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
 
 Some books are obtained as part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
 

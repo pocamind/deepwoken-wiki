@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98439
+revid: 98536
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -57,7 +57,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Singularity_ **or** _Sightless Still;_
 -   _Million Ton Piercer_ **or** _Ether Overdrive;_
 -   _Bulldozer_ **or** _Dazing Finisher;_
--   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent/Azure Flames_
+-   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent_
 
 Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -2715,5 +2715,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
     -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the talent in this game, and speaking to them afterwards yields the same dialogue as found in the talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest talent.
 -   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
+-   Lava serpent's and Azure flame's can both be used simultaneously.
+-   The Strength stat unbounded talent (Strength Unbounded) is under the category "One Eyed King" which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
