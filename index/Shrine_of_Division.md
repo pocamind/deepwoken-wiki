@@ -1,0 +1,12 @@
+---
+title: Shrine of Division
+revid: 98591
+source: https://deepwoken.fandom.com/wiki/Shrine_of_Division
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Shrine of Division
+
+Redirect to:
+
+-   [Deep Shrines#Shrine of Division](Deep_Shrines.md#shrine-of-division)

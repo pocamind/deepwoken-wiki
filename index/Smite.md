@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 85328
+revid: 98581
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | effect | Creates multiple orbs that will fire at enemies. |
 | appearance | White circles appears around user (red and black if corrupted). |
+| cooldown | 84 Seconds |
 
 “ Summon a halo of rotating orbs that will strike your foes automatically. ”
 

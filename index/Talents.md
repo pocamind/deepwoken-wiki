@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98576
+revid: 98599
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1674,7 +1674,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: 90 Charisma
 -   Pardon Me \[common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
     -   Guards from faction which you are at or above neutral reputation will not aggro on you.
-        -   Crimes still induce reputation lose however and will turn hostile/react to crimes when your reputation become negative.
+        -   Crimes still induce reputation lose however will turn hostile/react to crimes when your reputation become negative.
     -   Prerequisites: 85 Charisma
 
 ### Prospector

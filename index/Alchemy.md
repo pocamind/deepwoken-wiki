@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 98198
+revid: 98602
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -580,7 +580,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
 -   **Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
     -   Rapidly drains ether for a decent amount of time. Can very quickly drain the target's entire ether bar while preventing them from gaining it back.
-    -   Drains around 350 ether
+    -   Drains around 350 ether over the course of the duration.
 -   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
     -   Even a small icky effect is enough to completely prevent ether from being drawn. Compared to a normal Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained but will keep them empty for a bit longer.
     -   If using Shadowcast, this one is almost always preferred over the standard Ether Drain

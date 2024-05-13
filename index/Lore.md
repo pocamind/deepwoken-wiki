@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 98472
+revid: 98612
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -2040,7 +2040,6 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 -   A technique that allows Evengarde Rest to be on par with Pleeksty.[\[1\]](#cite-note-rag-1)
 -   Requires conditions to be met for usage.[\[1\]](#cite-note-rag-1)
--   Also used by Soren.
 -   Exists in the games files.
 -   Used on the player character if they spit on Evengarde, cleaving their head off with no way to counter or evade it.
 

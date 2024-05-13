@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 97027
+revid: 98603
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -324,7 +324,7 @@ _A sharp disk of ice._
 -   Does not inflict Chill.
 -   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase its size.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the user to rush forward rapidly while spinning the projectile of the mantra around them.
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the user to spin the projectile of the mantra around them.
     -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user to throw the projectile forward before recalling it back.
     -   Slows the user down.
