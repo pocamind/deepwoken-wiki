@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 98322
+revid: 98622
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -35,7 +35,7 @@ Groups of NPCs from different factions will spawn in Etrean Luminant and attack 
 
 #### Authority's Invasion of Etris
 
-The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. More information can be found [here](Cinders_of_Etris.md).
+The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
@@ -111,15 +111,15 @@ Rarely, the player may find 2 [Pathfinders](Pathfinder.md) sitting around a camp
 
 #### Erisia Merchant
 
-A bound Etrean with a [Pathfinder Cloak](Pathfinder_Cloak.md) surrounded by a bandit camp can be found in [Lower Erisia](Lower_Erisia.md). Killing the bandits without killing the merchant grants a chest.
+A bound Etrean with a [Pathfinder Cloak](Pathfinder_Cloak.md) surrounded by a bandit camp can be found in [Lower Erisia](Lower_Erisia.md). Killing the bandits without killing the merchant grants a chest containing lower-erisia loot.
 
 #### Megalodaunt vs Golem
 
-A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) in [Upper Erisia](Upper_Erisia.md)(especially in [Burning Stone Garden](Burning_Stone_Gardens.md)). The Golem will usually be victorious.
+A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) in [Upper Erisia](Upper_Erisia.md) (especially in [Burning Stone Garden](Burning_Stone_Gardens.md)). The Golem will usually win. If you are low level, use this opportunity to finish off the victor, as it is probably low from the fight.
 
 #### Feasting Megalodaunt
 
-A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Soldier](Authority_Soldier.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. Kill the Megalodaunt will let the Authority Soldier turn into a chest.
+A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Soldier](Authority_Soldier.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. When you kill the Megalodaunt, the Authority Solider's corpse will turn into a chest.
 
 #### Deep Owl
 
@@ -218,12 +218,12 @@ _You can't get into that hut anyway, don't try._
 A Fort Island
 
 -   **Overrun Authority Stronghold:**
-    -   The ruins of a tropical fortress resembling [Fort Merit](Fort_Merit.md) occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:[Thresher](Thresher.md)/[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   A now overrun Authority outpost, the ruins of a tropical fortress resembling [Fort Merit](Fort_Merit.md) occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:[Thresher](Thresher.md)/[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
 
 _They really like hands, huh?_
 
 -   **The Depth Fragment:**
-    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of [Depths](First_Layer.md) loot and one large chest of Erisia loot. Possible Enemies: [Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Mudskipper Broodlord](Mudskipper_Broodlord.md)
+    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of [Depths](First_Layer.md) loot and one large chest of Erisia loot. Possible Enemies: [Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Mudskipper Brute](Mudskipper_Brute.md)/[Mudskipper Broodlord](Mudskipper_Broodlord.md) (Eastern luminant only)
 
 _Fortunately, they all end up the same - occupied by bandits._
 
@@ -233,7 +233,7 @@ _Fortunately, they all end up the same - occupied by bandits._
 A Bandit Island
 
 -   **Bandits' Respite**
-    -   An island with a few trees temporarily used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.
+    -   An island with a few trees temporarily being used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.
 
 -   **Sandstone Tower**
     -   A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with [Starswept Valley](The_Starswept_Valley.md) loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
@@ -244,7 +244,7 @@ _They do add new sound effects to threshers!_
     -   A stone island similar to [Aratel](Aratel_Island.md), with sand flowing out of the stones. Defeating all enemies on it will give you two chests filled with Starswept Valley loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)
 
 -   **Mudskipper Hive**
-    -   A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different [Mudskippers](Mudskipper.md) can spawn with the addition of a [Mudskipper Brutes](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md). Defeating them will grant a Depths Chest and an Erisia Chest.
+    -   A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different [Mudskippers](Mudskipper.md) can spawn with the addition of a [Mudskipper Brutes](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) (Eastern Luminant only). Defeating them will grant a Depths Chest and an Erisia Chest.
 
 #### Traveling Merchant
 

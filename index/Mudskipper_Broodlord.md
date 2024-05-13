@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 98480
+revid: 98623
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -47,6 +47,7 @@ They also inflict heavy Antiheal similar to the Talent "All the Dead Gods," when
 -   Due to their obscene health and damage, it's advisable to take advantage of cannons on [boats](Ships_&_Sailing.md) to kill them when encountered at sea.
 -   Be mindful of Lumbering Smash, as they can easily board your boat using it.
 -   They can accidentally hit their own mudskippers and kill them. Take this and use it however you want.
+-   Being one of the most tankiest and difficult mobs to fight in the game, they should be approached with caution. Additionally, they can swim faster than you, so try to fight them on land where you have solid grip.
 
 ## Trivia
 

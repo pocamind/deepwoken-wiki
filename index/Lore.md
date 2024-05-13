@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 98612
+revid: 98624
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -616,9 +616,8 @@ Glittering towers of ivory that hang over Lumen's seas.
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wake up in the First Layer.
 
 -   There are nine layers to The Depths.
--   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
+-   The layers are non linear. You can go straight from the Surface to the Third Layer, which is what Pleeksty did.
 -   Klaris implies The Depths has some form of sentience, almost as if "we were interacting on a microscopic level with the processes of some slumbering creature."
--   The Depths apparently is more formed by numerous worlds that merged into a single world, apparently every layer was a different world with their own cities, people and so on, as stated by Kaide in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2. This remains still unclear as we only have the little information from Kaide in New Kyrsa.
 -   The First Layer is located below the sea, however this is not the case for the others.
 
 #### **Scyphozia, The First Layer**
@@ -627,7 +626,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 
 _"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavor Text_
 
--   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
+-   An underworld of The Tides that is the home some of the many creatures of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
 -   As it is underwater, the gravity there is significantly lower.
 
@@ -639,7 +638,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
   
 
--   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
+-   A City that was overtaken by the Tides. Once a prosperous city and capital of Celtor located in the Southern Luminant, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's guarded by the city's former guards.
     -   Strangely, instead of succumbing to the effects of insanity, they instead appear to be degrading, being almost unable to speak outside of wheezes, described as 'losing their self'.
 -   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it.
@@ -657,7 +656,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier, Castle Light is not to be confused with Markor Citadel, the Diver base located on the surface.
 -   The barrier, being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by death cannot bypass this barrier and instead rejects them and drains their Ether whilst those who are alive can go through with no harm done.
-    -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
+    -   There are no clues or evidence of the origins of this barrier, or what kind of magic it is made from.
 
 #### **The Eternal Gale, The Second Layer**
 
@@ -666,8 +665,8 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 ##### Ethironal Shrine (First floor)
 
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
--   The snow is not actually snow, but instead parasite eggs.
--   The Ignition Union has set up a base within the shrine, along with lanterns to burn the parasitic snow off.
+-   The 'snow' is not actually snow, but instead its parasitic eggs.
+-   The Ignition Union has set up a base called [The Frontier Furnace](The_Frontier_Furnace.md) within the shrine, along with lanterns to burn the parasitic snow off.
     -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by The Central Authority to explore the deeper parts of The Depths and settle there efficiently while The Divers are more research-based and only go on expeditions to The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
     -   The Ethironal Shrine is under the same time dilation phenomenon as New Kyrsa, only less potent due to the distance between Ethiron's physical body and the shrine.
 
@@ -676,7 +675,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   New Kyrsa is a city built by the Kyrsgarde, meaning the city did not suffer the same fate as Celtor.
 -   New Kyrsa was built above the chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so they don't wake up, also explaining why it is necessary to activate them to fight its Scion.
 -   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosperous city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the train station below the town, and high buildings with signs of industrial advancement towards the surface.
--   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
+-   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde as told by Naerotiv in the outskirts of New Kyrsa.
 -   Right now the city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
 -   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron.
 -   Its inhabitants are the Kyrsgarde.
@@ -709,7 +708,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   They have been ruled by their Kings for generations; until months before the year 1271, that the Lord Regent took over.
 -   Their culture seems to draw from East Asian countries
     -   Many parallels can be drawn between them and China/Japan
-        -   The Isle of Vigils swordsmen are armed with Katanas, a traditional Japanese sword.
+        -   The Vigil Swordsmen wield Katanas, a traditional Japanese sword.
         -   They cut themselves off from the outside world following a catastrophe.
         -   They are at war with the Central Authority, an empire that hails from the Central Luminant, which has a more western theme and superior technology, much like the conflict between China and the British Empire.
         -   Similar architecture.
@@ -747,7 +746,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
--   **Alliances:** _The Golden Rats?_
+-   **Alliances:**
 -   **Enemies:** _[The Central Authority](The_Central_Authority.md)_
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
@@ -903,9 +902,9 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
--   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
+-   One of their known conquered territories is the savannah of Markor.
 -   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to the Lightkeeper of the Eastern Luminant, Viqh, refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
--   Their goal is to survive the rising tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e. conquest. Understandably, the majority of ingame factions object to this, especially considering the prejudice shown by the Authority.
+-   Their goal is to survive and combat the Tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e. conquest. Understandably, the majority of ingame factions object to this, especially considering the prejudice shown by the Authority.
 
 An Authority Captain
 
@@ -988,7 +987,7 @@ An Authority Captain
 -   **Alliances:** _The Kingdom of Etrea_
 -   **Enemies:** _N/A_
 -   **Lore Sources:** _Apprentice Kj_
--   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Reste, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
+-   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of Races, presumably because they see more merit in combat proficiency and intelligence and thus are less cautious of the sudden arrival of other Races in their kingdom.
@@ -1036,11 +1035,11 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Enemies:** N/A
 -   **Lore Sources:** _Carrion (Discord), The Apothecary [Discord Server](https://discord.gg/4nFgupKP)._
 
--   A group of potion/alchemy enthusiasts who follow Dr. Carrion and his experiments sharing one same goal.
+-   A group of alchemists who follow Dr. Carrion and his experiments sharing one same goal.
 -   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, with Dr Carrion even being a Black Diver.
 -   Their ranks consist of Bluecap Officers and regular Browncap members. Yes they are named after mushrooms.
 -   The Goal of the Apothecary is to create the Moonseye Vigor, said to be able to "transcend" people.
-    -   Dr Carrion himself drank a prototype of the Moonseye Vigor, leading him into madness and giving himself green eyes.
+    -   Dr Carrion himself drank a prototype of the Moonseye Vigor, driving him into insanity and giving him green eyes.
 
 ### Songseekers
 
@@ -1052,7 +1051,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
 -   They worship the Song and believe that when they die they will return to it like a form of reincarnation.
--   They care little for their own lives or the lives of fellow Songseekers, using mantras that will often hit their allies or even execute downed Songseekers, unlike other enemies.
 
 ### Bandits
 
@@ -1064,9 +1062,9 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
 -   They appear to have some level of organization:
     -   They have a ranking system.
-    -   They have a uniform, with different uniform for different ranks.
+    -   They have a uniform, with different uniforms for different ranks.
     -   They have a village in Lower Erisia.
-    -   They organize large, though always unsuccessful, raids on bigger factions.
+    -   They organize large, though always unsuccessful, raids on bigger factions such as the Summer Company.
 
 ### The Old Stewards
 
@@ -1095,7 +1093,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### **The Covenant of Flame**
 
--   **Encountered in:** _West luminant, Lance Leshi restaurant (A member), Songseeker Temple (Flamecharm trainer), the Third layer(?)_
+-   **Encountered in:** _Western Luminant, Lance Leshi's restaurant (Ploom), Songseeker Temple (Amashi)_
 -   **Attunments:** _Flamecharm_
 -   **Alliances:** _Amorus Pleeksty(?)_
 -   **Enemies:** _The Depths(?)_

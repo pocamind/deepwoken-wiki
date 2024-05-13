@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 98376
+revid: 98620
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -50,3 +50,5 @@ File:Mudskipper Brute Roar.gif
 -   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from _The Last of Us_.
     -   The design could also be influenced by the Bloater from the same game.
 -   When attacked by a cannon ball it will be killed instantly.
+-   It appears that Mudskipper Brutes can parry projectiles, this has no animation or particle effects but still inflicts parry stun if possible. This requires more testing (I have only tested this with [Fire Gun's](Flamecharm.md) projectiles, which it parried).
+-   This may also be true with [Broodlords](Mudskipper_Broodlord.md).
