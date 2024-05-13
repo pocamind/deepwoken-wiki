@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 97193
+revid: 98626
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -61,7 +61,6 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   The model for the Dread Serpent's Tooth is a Dark Feather.
     -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
 -   The Tooth that Dread Serpent drops can be used to gain its breath attack through [Carrion](Carrion,_Father_of_Evolution.md).
--   Apparently, it can fly, though it doesn't use this in battle.
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.\[citation needed\]
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.\[citation needed\]
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.

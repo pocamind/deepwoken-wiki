@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 98456
+revid: 98630
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -183,6 +183,7 @@ categories: [Deepwoken]
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
 -   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
+-   The [**Imperial Staff**](https://deepwoken.fandom.com/wiki/Imperial_Staff?so=search) is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
 
 ## Enchantments
 
@@ -270,7 +271,12 @@ categories: [Deepwoken]
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
-    -   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
+    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](https://deepwoken.fandom.com/wiki/Lore?so=search#Vesperian) by being more robust than any other race.
+
+-   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans) from _Hollow Knight._
+    -   **Ganymedes** are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
+    -   **Ganymedes** origins stems from _Arch\_Mage's previous game, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil)._ Where it serves as the player's race.
+
 -   Although this was likely unintentional, Tiran's Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
 

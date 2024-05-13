@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 96080
+revid: 98625
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -27,4 +27,4 @@ _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For 
 
 ## Mini-Bosses
 
-Mini-Bosses are strong enemies in Deepwoken, but unable to be considered Bosses due to not meeting the above criteria.
+Mini-Bosses are noticeably strong enemies in Deepwoken, but unable to be considered Bosses due to not meeting all of the above criteria.
