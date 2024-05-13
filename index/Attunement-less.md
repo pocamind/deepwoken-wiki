@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 97732
+revid: 98559
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -328,7 +328,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The user empties their posture damage, and transfers it to their opponent.
     -   The posture transfer cannot guardbreak.
-    -   Exhaustion Strikes scales with your Willpower attribute.
+    -   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 50% at Level 1 to 100% at Level 5.
     -   Incredibly quick windup
 
  |
@@ -579,15 +579,16 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Most Attunement-less mantras serve as utility in order to assist you in either combat or general survival.
 -   Although Reinforce is a little costly for a mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
 -   Strong Left is best used during a parry trade in order to be as close as possible to your opponent due to its lackluster range but incredibly high damage and short wind-up.
--   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that the punches can be parried right away, so players should only get a few punches in.
+-   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that if the punches are parried, they will not be cancelled, but the opponent is able to hit you while the barrage is still active. Highly suggested you cancel the mantra after around 5 hits to avoid giving your opponent a free m1 on you.
 
 ## Trivia
 
--   The majority of mantra modifiers have gotten their functionality removed from Attunement-less mantras, due that they made them too damn overpowered.
-    -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
-    -   Before it was nerfed, Revenge would've always teleported you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with range modifiers.
-    -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
-        (Unfortunately, it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras.)
+-   The majority of mantra modifiers have gotten their functionality removed from Attunement-less mantras, along with the general "mantra modification mini-overhaul" due to their incredible power with Physical Mantras.
+    -   Cloud/Stratus stone increased the hitboxes of moves so much, most of the time you wouldn't even have to look at the enemy.
+    -   Before it was nerfed, Revenge would've always teleported you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with shard modifiers.
+    -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma mantra, the effect would last so long, longer than the mantra's cooldown, this may have also applied to Reinforce.
+        -   Now, Reinforce and Brace now upgrade duration by leveling them up at Regek.  
+            
 -   Prediction has, by far, the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.

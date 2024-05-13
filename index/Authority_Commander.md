@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 96756
+revid: 98565
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -29,6 +29,7 @@ The [Riot Breaker](Talents.md#riot-breaker) talent makes it so that you receive 
 This Outfit's Schematic can be found in:
 
 -   [Layer 2](Second_Layer.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 ## Trivia/Notes
 

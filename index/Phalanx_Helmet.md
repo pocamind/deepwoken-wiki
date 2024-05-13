@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 93030
+revid: 98567
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -15,7 +15,7 @@ categories: [Helmets, Equipment]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | N/A |
+| innate stats | +3 HP, Precise Swing |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

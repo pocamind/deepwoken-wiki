@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 98116
+revid: 98572
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -168,8 +168,9 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Star K
 ### Passives
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
--   **Artificial Construct-** [Bloodless Gem](Deep_Gems.md) doesn't work on Stone Knights.
--   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
+-   **Artificial Construct -** [Bloodless Gem](Deep_Gems.md) doesn't work on Stone Knights.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights
+-   **Voidbound -** Star Knights are most commonly found in the Voidsea.
 
 ## **Finisher**
 

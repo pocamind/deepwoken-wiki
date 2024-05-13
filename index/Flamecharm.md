@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 97050
+revid: 98579
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -222,6 +222,7 @@ _Toss a nimble dagger._
 
 -   Does not inflict Burn.
 -   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to make it trow 5 daggers in a straight line
 
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 98416
+revid: 98569
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -24,8 +24,8 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
-★ = +1 Rare Pip (+1 HP for Head, Arms, and Legs)  
-★★ = +2 Rare Pips (+2 HP for Head, Arms, and Legs)  
+★ = +1 Rare Pip (+1 HP for Head, Arms, Legs, Torso, Face, Ears, and Rings)  
+★★ = +2 Rare Pips (+2 HP for Head, Arms, Legs, Torso, Face, Ears, and Rings)  
 ★★★ = +2 Rare Pips +1 Legendary Pip (+3 HP for Head, Arms, and Legs)
 
 <table><caption>Pips Info</caption>
@@ -4550,6 +4550,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5118,6 +5119,8 @@ Found from:
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   If you want to wear a specific type of equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you wanna wear as vanity.
 -   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
+-   Sanity pips give ether (+1, +2, +3, +4)
+-   Rare(Red) Monster Armor pips also give also give +1% Physical Armor and +1% Element Armor
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12th, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
@@ -5125,3 +5128,4 @@ Found from:
 -   Highest theoretical HP kit in game is 162 HP. (4x 9 HP Moon and Waning Rings, 51 HP Divers Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings)
 -   Highest theoretical DvM kit in game is 64 DvM. (4x 4 DvM Rings, 19 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings
 -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%
+-   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different however, this has either been implemented incorrectly, bugged, or a typo was made in the update logs because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type.
