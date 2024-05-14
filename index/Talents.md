@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98599
+revid: 98713
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1108,6 +1108,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
+    -   The time you are knocked, as in having 0 health, is increased (tested with 100 Willpower and Perseverance before & after having the talent)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
