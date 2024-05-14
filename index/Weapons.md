@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 98631
+revid: 98660
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1335,7 +1335,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>41.5</td>
 </tr>
 <tr>
-  <td>Khan Axe</td>
+  <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
   <td>35 HVY</td>
   <td>23.5</td>
   <td>N/A</td>
@@ -1439,7 +1439,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>39.8</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Khan Axe</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
   <td><font>75 HVY</font></td>
   <td><font>24</font></td>
   <td><font>20%</font></td>
