@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 98686
+revid: 98697
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -64,6 +64,8 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
     
 
 **(~1%)**
+
+Bounty chest
 
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)

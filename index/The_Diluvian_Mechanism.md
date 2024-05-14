@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 97677
+revid: 98700
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -56,7 +56,7 @@ If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs wi
 
 ### Ghostly Reminiscence
 
-If during the waves, the text "Your past comes to haunt you..." appears, then enemies you have killed in the past will spawning during the wave, bosses are not affected, though mini bosses like the deep widow does
+If during the waves, the text "Your past comes to haunt you..." appears, then enemies you have killed in the past will spawn during the wave, bosses are not affected, though mini bosses like the deep widow does
 
 ## Recommendations and Advice
 
