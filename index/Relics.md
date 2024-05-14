@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 98428
+revid: 98686
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -28,7 +28,6 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 
  | 
 
--   Depths Collapse
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -53,14 +52,14 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
 -   _(3 Hour Cooldown)_
 
- | Voidwalkers chest
+ | 
 
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
 -   [Fishing](Fishing.md)
+-   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
     
 
@@ -157,6 +156,38 @@ The ability is one-time-use, but is recharged by killing a boss or player of you
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+
+ |
+| 
+
+File:Warmaster Medallion Relic.png
+
+ | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants a passive where your Critical Attack cooldowns are 20% shorter. In exchange, your Resonance cooldown is doubled.
+
+  
+In areas where your Resonance is suppressed, your critical cooldown is 5% shorter instead.
+
+ | 
+
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+ |
+| 
+
+File:Tiran Pendant Relic.png
+
+ | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant worn by Tiran spiritual leaders that grants the wielder almost-full immunity to Fall Damage.
+
+  
+After a certain amount of damage has been negated, the pendant will go on cooldown for 10 minutes.
+
+ | 
+
+-   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Second Layer](Second_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  |
 

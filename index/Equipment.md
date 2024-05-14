@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 98661
+revid: 98695
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -45,7 +45,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
   <td>4 4 5</td>
   <td>4 4 5</td>
   <td>3 4 5</td>
-  <td>4 5</td>
+  <td>3 4 5</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>2 3 4</td>
@@ -55,7 +55,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
   <td>8 10 12</td>
   <td>8 10 12</td>
   <td>10 12</td>
-  <td>10 12</td>
+  <td>8 10 12</td>
   <td>4 6 8</td>
   <td>4 8</td>
   <td>4 6 8 10</td>
@@ -2146,6 +2146,27 @@ Found from:
  | N/A |
 |  | 
 
+[Leather Gloves](Leather_Gloves.md)
+
+ | 
+
+_+2 Health_  
+
+_+1 Posture_  
+
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [First Layer](First_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+ | N/A |
+|  | 
+
 [Leather Pauldrons](Leather_Pauldrons.md)
 
  | 
@@ -2306,6 +2327,31 @@ Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
+
+ | N/A |
+| File:Black Deepwoken Cloak.png | 
+
+[Moonseye Gauntlets](Moonseye_Gauntlets.md)
+
+(Legendary)
+
+ | 
+
+_+7 Health_  
+_+3 Posture_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  | N/A |
 |  | 
@@ -3798,7 +3844,7 @@ Sources:
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  | N/A |
-| File:Tiran Pendant.png | 
+| File:Tiran Pendant Equipment.png | 
 
 [Tiran Pendant](Tiran_Pendant.md)
 
@@ -3814,10 +3860,12 @@ _+Talent: Featherfall_
 
 Sources:
 
--   [Bone Keeper](Bone_Keeper.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Second Layer](Second_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  | N/A |
-| File:Warmaster's Medallion.png | 
+| File:Warmaster's Medallion Equipment.png | 
 
 [Warmaster's Medallion](<Warmaster's_Medallion.md>)
 
@@ -3833,7 +3881,9 @@ _+Talent: Actions Speak Louder_
 
 Sources:
 
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  | N/A |
 |  | 

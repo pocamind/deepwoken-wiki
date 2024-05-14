@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 89950
+revid: 98676
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]
@@ -21,7 +21,7 @@ categories: [Face, Equipment]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Pure Erisore turn in's, Artifacts |
+| obtainment | Erisia, Minityrsa, Pure Erisore turn in's, Artifacts, Layer 2 |
 | description | "A tightly wound blindfold to hide the horrors of the world from your waking eyes." |
 
 ## Description

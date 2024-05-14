@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 98531
+revid: 98685
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,7 +13,6 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | None |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | Actions Speak Louder |
@@ -21,7 +20,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hell Mode, Chaser, The Diluvian Mechanism, Layer 2 |
+| obtainment | Chaser, Hell Mode, The Diluvian Mechanism |
 | description | "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for ampering the amplitude of one's Resonance." |
 
 ## Description
@@ -35,3 +34,6 @@ If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is 
 ## Trivia
 
 -   The second (or third) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
+-   Many elements share motifs with the [Authority](The_Central_Authority.md):
+    -   There are 3 Authority emblems outside of the attachment.
+    -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](https://deepwoken.fandom.com/wiki/Oaths#Warmaster) comes from.
