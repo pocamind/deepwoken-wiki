@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 90296
+revid: 98934
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons", Daggers]

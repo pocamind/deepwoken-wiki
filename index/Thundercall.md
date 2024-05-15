@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 98055
+revid: 98899
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -244,7 +244,7 @@ Lightning Stream
     -   Increases damage dealt.
 
  |
-| File:ThunderWisp.png | 
+|  | 
 
 Thunder Wisp  
 (★★☆)

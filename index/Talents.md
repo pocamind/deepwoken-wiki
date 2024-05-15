@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98727
+revid: 98935
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -539,8 +539,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
-    -   Heals the user by about ~2.5%
-    -   Pressing F during the windup will allow for Reinforce to effect non-allies (Turning Reinforce green), proccing Grand Support.
+    -   Heal others by 3%.
+    -   Heal the user by 2% + 1% for every people healed.
+    -   Hold F while casting Reinforce to affect everyone, including non allies.
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
