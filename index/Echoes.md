@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 98764
+revid: 98793
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -56,7 +56,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo. Mantra Modification needs to be successful.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
--   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
+-   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes. (Works even at max power with no attribute point left.)
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
@@ -305,7 +305,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   You regenerate your armour at campfires.
     -   Can be done at Power 20 for an extra deck of cards.
 
-**(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
+**(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
 
 -   Following Hive R&D, the restrictions on the Fountain Gate network's Vow have been relaxed. Merely having seen the majesty of the Greathive from afar is enough to create the mental link that enables one to utilise the network. **Fountain Gates can now be used at any Power so long as you've visited the Eastern Luminant on that character and have unlocked the Hive Gate on your account**
 
