@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 98660
+revid: 98789
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1429,13 +1429,13 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="https://deepwoken.fandom.com/wiki/Skyreap_Blade"><font>Skyreap Blade</font></a></td>
   <td>75 HVY</td>
   <td>23</td>
-  <td>20%</td>
+  <td>25%</td>
   <td>N/A</td>
   <td>HVY: 7</td>
-  <td>7</td>
+  <td>7.5</td>
   <td>8.5</td>
   <td>0.68x</td>
-  <td>0.05s</td>
+  <td>N/A</td>
   <td>39.8</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98713
+revid: 98727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2290,7 +2290,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
-    -   Turns [Hero Blade of Flame](Hero_Blades.md), [Blazing](Enchantments.md), [Railblade's](Railblade.md) criticals and all flame mantras black.
+    -   Turns [Hero Blade of Flame](Hero_Blades.md), [Ysley's Pyre Keeper "Callow & Verdant"](<Ysley's_Pyre_Keeper.md>), [Blazing](Enchantments.md), [Railblade's](Railblade.md) criticals and all flame mantras black.
     -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
     -   Flame Within deals less self damage, but drains ether.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast

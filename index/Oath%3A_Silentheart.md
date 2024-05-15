@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 98706
+revid: 98779
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
+| oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health, +10% Mantra Resistance |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
@@ -27,7 +27,7 @@ Meet the following requirements in any order:
 
 -   Be [Attunement-less](Attunement-less.md).
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
--   Have 25 points in Strength and 25 points on either Charisma or Agility
+-   Have 40 points in Strength and 25 points on either Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)

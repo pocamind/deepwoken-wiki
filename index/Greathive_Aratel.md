@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 98305
+revid: 98787
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -51,7 +51,7 @@ Hive Fountains
         
         Here is the fountain at vigils
         
-        [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building.
+    -   [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building.
 
 Fountain found at Etrea
 
@@ -98,10 +98,6 @@ The doors to enter the Lordsgrove.
 ### Canopy Plaza
 
 A view of the blacksmith on the Canopy plaza
-
-  
-
-  
 
 Honey Pool (Presumably)
 

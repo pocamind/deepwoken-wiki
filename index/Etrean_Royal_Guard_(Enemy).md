@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 93161
+revid: 98780
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies]
@@ -43,9 +43,10 @@ An Etrean Royal Guard executes its opponent:
 ## Tips
 
 -   To avoid dealing with them, simply refrain from attacking anyone in Etris.
+-   Their katanas are almost always enchanted.
 
 ## Trivia
 
 -   The description of the [Royal Etrean Guard](Royal_Etrean_Guard.md) implies that the Royal Etrean Guard is the name of the group, and the Etrean Royal Guard is the name of the members of said group.
--   The Etrean Royal Guard near Kennith is a standard NPC, incapable of being fought or killed, but can be scared for [Joy](Joy.md).
+-   The Etrean Royal Guard near Kennith is a static NPC.
 -   It is often theorized that their minds are somehow altered, similarly to the Mindless Servants in Duke’s Manor. This is Most likely done via a [Mental Veil](Lore.md) stronger than that placed by the Lord Regent on regular Etris Citizens. This is supported by the dialogue near Kennith’s body, in which the guard simply replies “You have an audience with the Lord Regent.” to anything the player says.
