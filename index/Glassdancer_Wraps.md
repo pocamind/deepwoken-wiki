@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 76790
+revid: 98815
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps]
@@ -13,7 +13,6 @@ categories: [Equipment, Arms, Wraps]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
 | weight | 2 |
 | innate stats | 7 Health3 Posture, 1 Pip |
 | innate talent | Lightweight |
@@ -32,3 +31,4 @@ The Glassdancer Wraps are an [Equipment](Equipment.md) item under the "Arms" cat
 
 -   Considered one of the best early and mid-game arms equipment.
 -   Used to give 10 Health, but was reduced to 7 as the intended use was posture.
+-   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Smith's Gloves](<Smith's_Gloves.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md)

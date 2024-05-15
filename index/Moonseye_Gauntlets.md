@@ -1,6 +1,6 @@
 ---
 title: Moonseye Gauntlets
-revid: 98806
+revid: 98832
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,7 +13,6 @@ categories: [Equipment, Torso, Necklaces]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
 | weight | 2 |
 | innate stats | +7 Health, +3 Posture, +1 Legendary Pip , +1 Rare Pip |
 | bankable | Yes |
@@ -26,3 +25,9 @@ categories: [Equipment, Torso, Necklaces]
 ## Description
 
 The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category.
+
+  
+
+## Trivia
+
+-   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Glassdancer Wraps](Glassdancer_Wraps.md), [Smith's Gloves](<Smith's_Gloves.md>)

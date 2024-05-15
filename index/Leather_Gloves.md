@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 98805
+revid: 98814
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -13,7 +13,6 @@ categories: [Equipment, Arms]
 | type | Arms |
 | rarity | Common |
 | selling price | 7 |
-| requirements | None |
 | weight | 2 |
 | innate stats | +2 Health+1 Posture |
 | innate talent | None |

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 98624
+revid: 98833
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -481,15 +481,15 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 ## Locations
 
-### **The Eastern Luminant**
+### **The East Luminant**
 
 **Lore Sources:**
 
 -   A region consisting of a variety of islands; from deserts, arctic and normal ones.
+
 -   [The Eastern Luminant](Luminants.md) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
-    -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive, and the Children of Navae.
--   There are two main areas, the Etrean Sea and the Aratel Sea, separated by a large gate.
-    -   Areas found in the Etrean Sea are considered part of Etrean Luminant, areas in the Aratel Sea are part of the Eastern Luminant
+    -   Major Factions aside, there are other factions that are encountered; such as the Hundred Legions, The Hive, and the Children of Navae.
+-   There are two 'sub-Luminants' in the East, the Etrean Luminant and the Eastern Luminant separated by a large stone wall called The Spine of the East.
 
 #### Eastern Interstitial Lighthouse (Eastern Luminant)
 
@@ -743,7 +743,7 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Hundred Legions
 
--   **Territory:** Western Luminant
+-   **Territory:** West Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
 -   **Alliances:**
@@ -751,14 +751,14 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
 -   A military organization from the [Western Luminant](Luminants.md).
--   Despite there being one hundred leigons, in the Eastern Luminant we only see the [11th Legion](The_Hundred_Legions.md). They are not to be confused with [The Authority](The_Central_Authority.md) or [The Hive](The_Hive.md).
+-   Despite there being one hundred legions, the only one present in the East Luminant is the 11th Scouting Legion.
 -   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
 -   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in [The Viper's Jaw](<The_Viper's_Jaw.md>).
 -   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the race as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
 -   The 11th Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
--   The 11th Legion is suspected to be commanded by someone named Akilles, probably a centurion and leader of the 11th Legion (The 11th, not the hundred) due to him bringing the Legion to the East. They are likely named after the Greek mythology hero Achilles.
+-   The 11th Legion is suspected to be commanded by someone named Akilles, whom is responsible for dispatching the 11th Legion in the East.
 
 Amara, a Member of The Legion.
 
@@ -788,7 +788,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
         -   The [Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
--   Although guns are sold in the East Luminant, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
+-   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
 -   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[6\]](#cite-note-stormseye-6)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant being Miners Landing.
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[2\]](#cite-note-arch-2)
@@ -819,7 +819,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
--   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
+-   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
@@ -857,7 +857,7 @@ A Dark Mage, located in Minityrsa.
 
 -   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[9\]](#cite-note-dsgs-9) and Railblade[\[10\]](#cite-note-railblade-10).
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
--   They've been spotted attempting to take over Diver territory, falling behind in Layer 1 compared to the Divers, but exceeding in Layer 2, where they managed to create an outpost long before The Divers arrived there.
+-   They've been spotted attempting to take over Diver territory, falling behind in the First Layer compared to the Divers, but exceeding in the Second Layer, where they managed to create an outpost long before The Divers arrived there.
 -   The Darksteel Greatsword[\[9\]](#cite-note-dsgs-9), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
@@ -879,8 +879,8 @@ A Dark Mage, located in Minityrsa.
 -   They are led by their Grand Sovereign, Drallis Ehr.[\[1\]](#cite-note-rag-1) Several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the east. These Wardens then have Inquisitors that work under them.
     -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
     -   Many of the Inquisitors are named after flowers, such as Inquisitor Lotus.[\[2\]](#cite-note-arch-2)
--   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit.
--   The only faction aware of The Lord Regent of Etris' true nature and what the Ministry is planning.
+-   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit which is also referred to as Fortification Peak.
+-   The only faction aware of The Lord Regents true nature and what the Ministry is planning.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[2\]](#cite-note-arch-2)
@@ -888,7 +888,7 @@ A Dark Mage, located in Minityrsa.
         -   These just happen to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army, often sent on suicide missions for seemingly no reason.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
--   Their war against Etrea was initially an attempt for the Authority to maintain control in the Eastern Luminant, but shifted gears once they learned the current Lord Regent of the nation is a member of The Ministry.
+-   Their war against Etrea was initially an attempt for the Authority to maintain control in the East Luminant, but shifted gears once they learned the current Lord Regent of the nation is the 4th Prophet of the Ministry.
 -   The Hive are _not_ at war with the Authority, though tensions are very high between the two, as seen with the frequent skirmishes between Hive Constructs and Authority Captains.
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[2\]](#cite-note-arch-2)
     -   The Knives sow chaos anywhere for a price.[\[2\]](#cite-note-arch-2)
@@ -897,13 +897,13 @@ A Dark Mage, located in Minityrsa.
     -   The Ignition Union kill creatures from the Deep.[\[2\]](#cite-note-arch-2)
     -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.[\[2\]](#cite-note-arch-2)
         -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
--   The Central Authority (as of we know now) use three attunements, and has their own role.
+-   The forces of the Central Authority in the East use three attunements, and each has their own role.
     -   The Central Authority's Flamecharmers are used by soldiers, guards, lieutenants and commanders alike.
     -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
 -   One of their known conquered territories is the savannah of Markor.
--   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to the Lightkeeper of the Eastern Luminant, Viqh, refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
+-   The Authority we see in the East is a very small fraction of the full fighting force of the Authority, but due to the Lightkeeper of the Eastern Interstital Lighthouse, Viqh, refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
 -   Their goal is to survive and combat the Tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e. conquest. Understandably, the majority of ingame factions object to this, especially considering the prejudice shown by the Authority.
 
 An Authority Captain
@@ -913,7 +913,7 @@ An Authority Captain
 ### The Hive
 
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
--   **Attunements:** _Flamecharm_
+-   **Attunements:** _Flamecharm, Lifeweave_
 -   **Alliances:** _The Children of Navae_ (Neutral/Negotiating.)
 -   **Enemies:** _The Kingdom of Etrea_
 -   **Lore Sources:** _Regek_
@@ -922,7 +922,7 @@ An Authority Captain
     -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
-    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worship The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
+    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and join The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
     -   Their previous home, or some sort of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
     -   Despite the impressive nature of the Aratel Constructs, these are outdated models, with superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
@@ -939,7 +939,7 @@ An Authority Captain
 ### The Divers
 
 -   **Territory:** _Markor Citadel, Castle Light._
--   **Attunements:** _Flamecharm, Frostdraw, Galebreathe and Thundercall._
+-   **Attunements:** _Flamecharm, Frostdraw, Galebreathe, Thundercall and Shadowcast_
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
 -   **Enemies:** Ignition Union
 -   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue). Dr Carrion (Dialogue), Divers Outfit Schematics (Description)._
@@ -949,12 +949,12 @@ An Authority Captain
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
--   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower ranks, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
-    -   It's possible that as a Deepbound you are in Scyphozia to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
--   The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
+    -   It's possible that as a Deepbound you are in Scyphozia to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle Light, in the 1st layer.
+-   The Divers can travel between the boundaries of the Luminants and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
 -   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris, and Akira. Black Divers named in [A Deathscribe's Journal](Books.md#a-deathscribes-journal) are:
     -   Desdemona Dusselden (Deceased)
     -   Aspen Hira (Deceased)
@@ -1169,7 +1169,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 "_Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike."_
 
 -   This race shares traits with mostly comprised of similarities to racoons and possibly ferrets, but more generally shares the traits of many mustelids (animals like ferrets and otters) and prokaryotes (mainly raccoons).
--   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the tides, and dragged to the bottom of the ocean and into [The Depths](The_Depths.md) where it stands today.
+-   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the Tides, and dragged to the bottom of the ocean and into [The Depths](The_Depths.md) where it stands today.
 -   The common last names of the Celtor people bear similarities to Russian last names.
 -   Celtor is pronounced like "keltor," rather than "seltor."[\[2\]](#cite-note-arch-2)
 
@@ -1179,12 +1179,10 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 
 -   A recently arrived race of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
 -   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
--   According to an [NPC](Ishan.md) in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
+-   According to an [NPC](Ishan.md) in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "Old World". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
 -   The Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   They are **NOT** fish.[\[2\]](#cite-note-arch-2)
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog race.
--   Their blue color scheme possibly represents how they seemed to come in with the tide.
-    -   Besides this little thing, there's not really much to explain why there aren't any "humans" that fully resemble those in the real world in the universe of Deepwoken. They could be blue because it's the color of the ocean and literally everything in this game has to do with the ocean and their markings being perceived as they want to be by Adrets is a sign of how different intelligent minds perceive things. They're the closest thing we have to actual humans and are pretty much so, only difference being that they're blue for some reason.
 
 ### Canor
 

@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 97699
+revid: 98834
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -19,7 +19,7 @@ What will become of us?
 
 ## Overview
 
-Fragment of Self acts as the sad purgatory of _Deepwoken_. Players are sent to it whenever they die in [The Depths](The_Depths.md).
+Fragment of Self acts as the sad purgatory of _Deepwoken_. Players are sent to it whenever they die in [The Depths](The_Depths.md) or chose to wipe their character in the main menu.
 
 ## Contents
 
@@ -29,7 +29,7 @@ Players can use this to remove equipment they want to pass down at the Hippocamp
 
 ### Hippocampal Pool
 
-Located to the left handside, beyond a small parkour section. Interacting with it allows you to pass down two (three or four, if you have the [Echoes](Echoes.md) upgrades) items that will transfer to your next character. It will also allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
+Located to the left-hand side, beyond a small parkour section. Interacting with it allows you to pass down two (three or four, if you have the [Echoes](Echoes.md) upgrades) items that will transfer to your next character. It will also allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
 
 -   You can pass down a Legendary Weapon or Enchanted Item, albeit at a cost of 60 Echoes.
 
@@ -110,7 +110,7 @@ The legacy menu upon wiping
 
 The Triumphs section shows the player's achievement across the progression, these will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
 
-The Echoes section shows how much echoes you earned and the Rank Based on it. Rankings range from E-W, Rank S being extremely rare and Rank W even more so with the added requirement of having every Echo modifier active (except Vow of Thorns) while also meeting the requirements for S Rank.
+The Echoes section shows how much echoes you earned, and the Rank Based on it. Rankings range from E-W, Rank S being extremely rare and Rank W even more so with the added requirement of having every Echo modifier active (except Vow of Thorns) while also meeting the requirements for S Rank.
 
   
 
@@ -122,11 +122,11 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 
 -   The music for this area is [The End.](Deepwoken_OST.md) by Naktigonis
     -   This track also plays while under the effects of a Void Spire.
--   If you fall off one of the islands you will be teleported back to spawn, falling down from above.
+-   If you fall off one of the islands, you will be teleported back to spawn, falling down from above.
 -   You cannot M1 or use mantras here, but you can use your weapon's critical or side-hand pistol (if you have one equipped), though it can't interact with the environment.
 -   There is currently no known way to die here, as fall damage is disabled and so is any form of PVP damage, starving also only drains the player's health down to 50%. It is unclear if bleeding sad out is possible, using boulder does not execute you here, and dying here would most definitely be a bug and would send you here again.
 -   Owls and Lesser Angels can seemingly spawn here, but they are unable to actually damage you.
--   Fragments Of Self is virtually located above The Depths which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
+-   Fragments Of Self is virtually located above The Depths, which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
 -   Self is pretty much the version of yourself you strive not to be. Dissatisfied and wanting more. No matter what you do before you come to this stage, your "self" will always be suffering from the fact of dying, encouraging you to try once more.
 -   Self doesn't update if you de-equip or equip equipment, meaning it will look like your character when you wiped.
 -   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.

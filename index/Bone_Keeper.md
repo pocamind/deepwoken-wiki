@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 98180
+revid: 98820
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -48,7 +48,7 @@ Moving away from the leap is almost always enough to completely dodge the move.
 
 -   Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) prior to Verse 2 referred to it as "This Fucking Bone One".
 -   Bone Keepers used to heal at a rate of 20 HP per second (60 HP when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, developer ragoozer had it removed.[\[1\]](#cite-note-1)
-    -   This same update also buffed Jus Karita.
+-   This same update also buffed Jus Karita.
 -   Bone Keepers are likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It most closely resembles the Kyrsgarde Brute.
 -   The Femur Throw and Charge used by the Bone Keeper you encounter at the bridge do not cause knockback. This is the only Bone keeper with this feature as all the other Bone Keepers you encounter have knockback on these moves.
 
