@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 98833
+revid: 98936
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -140,7 +140,7 @@ The Duke
 -   Evengarde is one of, if not the strongest Galebreather of the modern age.
 -   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions allow him to activate Tempest Eye.[\[1\]](#cite-note-rag-1)
 -   User of Tempest Eye. The only ability that Tempest Eye is currently known to grant to its user is the ability to parry any attack, including attacks that are normally not able to be parried, such as a [Megalodaunt](Megalodaunt.md) kick. [\[1\]](#cite-note-rag-1)
--   Evengarde, somehow, knows of the Lord Regents true nature, and wishes to remove him. However, as the Authority is present in the East and is growing more desperate by the day, removing the Lord Regent would almost certainly result in them carrying out a last ditch full frontal assault, the scale of which not even Evengarde could repel, especially given the distance Etris is from the Isle of Vigils and the logistical and tactical issues that would come with it. As a result, he's biding his time and searching for powerful allies so that they may allow Etrea to finally stand on its own after decades being pushed around by the Ministry and the Authority.
+-   Evengarde, somehow, knows of the Lord Regent's true nature, and wishes to remove him. However, as the Authority is present in the East and is growing more desperate by the day, removing the Lord Regent would almost certainly result in them carrying out a last ditch full frontal assault, the scale of which not even Evengarde could repel, especially given the distance Etris is from the Isle of Vigils and the logistical and tactical issues that would come with it. As a result, he's biding his time and searching for powerful allies so that they may allow Etrea to finally stand on its own after decades being pushed around by the Ministry and the Authority.
 
 ### **Akira, The Black Diver**
 
@@ -880,7 +880,7 @@ A Dark Mage, located in Minityrsa.
     -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
     -   Many of the Inquisitors are named after flowers, such as Inquisitor Lotus.[\[2\]](#cite-note-arch-2)
 -   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit which is also referred to as Fortification Peak.
--   The only faction aware of The Lord Regents true nature and what the Ministry is planning.
+-   The only faction aware of The Lord Regent of Etrea's true nature and what the Ministry is planning.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[2\]](#cite-note-arch-2)
@@ -888,7 +888,7 @@ A Dark Mage, located in Minityrsa.
         -   These just happen to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army, often sent on suicide missions for seemingly no reason.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
--   Their war against Etrea was initially an attempt for the Authority to maintain control in the East Luminant, but shifted gears once they learned the current Lord Regent of the nation is the 4th Prophet of the Ministry.
+-   Their war against Etrea was initially an attempt for the Authority to maintain control in the East Luminant, but shifted gears once they learned the current Lord Regent of the nation was a high ranking member of the Ministry.
 -   The Hive are _not_ at war with the Authority, though tensions are very high between the two, as seen with the frequent skirmishes between Hive Constructs and Authority Captains.
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[2\]](#cite-note-arch-2)
     -   The Knives sow chaos anywhere for a price.[\[2\]](#cite-note-arch-2)

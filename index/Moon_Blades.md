@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 98934
+revid: 98943
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons", Daggers]
@@ -17,7 +17,7 @@ categories: [Weapons, "Core-Attribute based weapons", Daggers]
 | range | 6.5 |
 | swing speed | 0.98x |
 | penetration | 30% |
-| special effect | On hit, take away medicore amounts of blood from your opponent. |
+| special effect | On hit, take away mediocre amounts of blood from your opponent. |
 | stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |

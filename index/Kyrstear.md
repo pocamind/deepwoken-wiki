@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 97876
+revid: 98949
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2, Parrying Daggers]
@@ -11,12 +11,12 @@ categories: [Weapons, Verse 2, Parrying Daggers]
 | Kyrstear | |
 |---|---|
 | type | Offhand Weapon |
-| requirements | 40 AGI |
+| requirements | 40 AGL |
 | damage | 5 |
 | scaling | 8 |
 | range | 6.5 |
-| swing speed | 1.05x |
-| endlag | 0.1s |
+| swing speed | 0.98x |
+| endlag | 0.05s |
 | penetration | N/A |
 | chip damage | N/A |
 | special effect | Decreases your posture gain on parry. Increases your opponents posture gain when parried. |

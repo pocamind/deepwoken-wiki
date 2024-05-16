@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 97902
+revid: 98944
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -38,4 +38,3 @@ The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It i
 -   Meeting the requirement of HVY, the damage is (32.1)
 -   At max HVY, the damage is (35.1)
 -   Skyreap Blade is the only weapon that has a unique running attack animation.
--   Currently the only Greataxe to have endlag after each swing.

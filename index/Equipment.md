@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 98811
+revid: 98948
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5179,4 +5179,4 @@ Found from:
 -   Highest theoretical HP kit in game is 162 HP. (4x 9 HP Moon and Waning Rings, 51 HP Divers Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings)
 -   Highest theoretical DvM kit in game is 64 DvM. (4x 4 DvM Rings, 19 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings
 -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%
--   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different however, this has either been implemented incorrectly, bugged, or a typo was made in the update logs because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type.
+-   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
