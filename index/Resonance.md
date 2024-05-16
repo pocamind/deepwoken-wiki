@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 98827
+revid: 98986
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -65,12 +65,12 @@ _(From data of 100 rerolls, the calculated chance of getting a normal **Resonanc
 Known side-effects include:
 
 -   **SHORT-CIRCUIT:** On use, player will be set ablaze.
--   **MEGALOMANIA:** On use, player will fall deeper into insanity.
+-   **MEGALOMANIA:** On use, player will lose heavy amounts of sanity.
 -   **POISON:** On use, player will have exactly 7% drained from their health.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
--   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Hemorrhage**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
+-   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Poison**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
 -   Some talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Megalomania.**
 
 In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.
@@ -239,20 +239,19 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 
 ## Trivia
 
--   **Resonances** cannot be used when doing 1v1s in the [Chime of Conflict.](Chime_of_Conflict.md)
+-   **Resonances** cannot be used when doing [Chime of Conflict 1v1s](Chime_of_Conflict.md).
 -   The higher the level you are, the easier it is to obtain a **Resonance**
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
 -   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
--   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too)
+-   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too.)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.
--   Near release, there were rumors of **Blessed Resonances**\- opposite of **Corrupted Resonances**\- existing and being equally as rare. These have been debunked, and **do not exist in the game as of now.**
+-   Near release, there were rumors of **Blessed Resonances**\- opposite of **Corrupted Resonances**\- existing and being equally as rare. These have been debunked, and **do not exist in the game.**
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
--   Ragoozer has confirmed that he is interested in **Evolved Bells**.
+-   Ragoozer has confirmed that he is interested in **Evolved Bells**.\[citation needed\]
 -   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
--   Arch mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
--   Doing the [The Duke](Duke_Ishamon_Erisia.md) around six times will get you a **Resonance** but do this seven or eight times if you want to be safe this will be the safest way to do to get a **Resonance** if you know what you're doing. Just be mindful that you get more **Resonance** progression the higher level you are.
+-   Arch Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
 -   You can corrupt your resonance by using [Sinner's Ash](<Sinner's_Ash.md>).
 
