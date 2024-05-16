@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 98609
+revid: 98977
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 12 obtainable Oaths in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath. (although still possible in one run but VERY risky and not recommended, and also possible with 40 medallions if you have fully progged the oath before, thanks to the new oath prog skip feature)
+**[Oath](Oaths.md): Dawnwalker** is one of the 12 obtainable Oaths in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath. (While still possible in one run, requires you to have a [Resonance](Resonance.md) healthpack to survive the collapse, alongside being VERY risky and not recommended, and also possible with 40 medallions if you have fully progged the oath before, thanks to the new oath prog skip feature)
 
 ## Obtainment
 
@@ -79,10 +79,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     
     **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 -   **Luminous Flash** **\- Passive:** After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
-    -   Each time you proc this talent the higher chance it will proc. (Unconfirmed)
-    -   Gives you max dmg on proc (1.75x), more tempo on m1, and daze
-    -   CD of ~30-50 seconds
-    -   Has a small aura on proc
+    -   On proc, a basic attack will: Hit the maximum hardcap of damage (1.75x), give increased ether and tempo on that strike, and daze.
+    -   CD of ~30-50 seconds.
+    -   Has a small aura on proc.
     -   _**"KOKUSEN!!" -**_ _Dawnwalker Users_
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
@@ -90,12 +89,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Lore.md) symbol above their head, with a disk spinning around its axis.
+This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Lore.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
 
 ## Trivia
 
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
-    -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted, all while being undodgeable as well.
+    -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.
 -   The passive ability Luminous Flash may be inspired by [Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen).
 -   The ability Absolute Radiance may be a reference to one of the final bosses of the game [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight), that goes by the same name.
 -   Blinding Dawn may be inspired by or a reference to Goro Majima's Breaker style from Yakuza 0, specifically the spinning Power Moves at the end of the basic combos.
@@ -103,4 +102,4 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities.
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."
--   This oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the highest point requirement out of any oath, at 237. For all intents and purposes, this information should not affect your average progression.
+-   This oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any oath, at 237. For all intents and purposes, this information should not affect your average progression as it is a functionally costless oath.

@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 91651
+revid: 98981
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -31,6 +31,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 #### Courtyard
 
 -   Players can find Stratos, a Vigil NPC and a boulder (FTD) which is sold for 25 notes.
+-   A [Jetstriker](Oath%253A_Jetstriker.md) orb can spawn at this location, in front of Stratos for those who are progressing the oath.
 
 #### Bookstore
 
@@ -38,7 +39,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   Players can find Kelsius whom will give you a quest.
 -   Players can find [Valkior](Valikor.md), a NPC who sells the talent [Spell Shout](Valikor.md).
 -   Players can purchase the Math Textbook (INT) for.
--   Players can find a [Mantra Table](Mantra_Lectern.md) in here.
+-   Players can find a [Mantra Table](Mantra_Lectern.md) in here, along with a [Crafting Station](Crafting_Station.md).
 
 #### Blacksmith
 
@@ -55,9 +56,9 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   Players can find Das, a sparring instructor who will allow you to spar with a Vigil.
     -   This NPC will have a pick a random weapon from a pool that includes an Iron Spear, Sword, Battleaxe and Mace.
-    -   This NPC cannot knock you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
-    -   Players can also use this NPC to farm Fortitude using a Training vest and / or armor from blood iron ring / sprit
--   Players can also find Avian and Maestro Evengarde Rest here.
+    -   This NPC cannot knock you (except in rare cases). Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
+    -   Players can also use this NPC to farm Fortitude using a Training Vest, or to train attributes when starting their character.
+    -   Players can also find [Avian](Avian.md) and [Maestro Evengarde Rest](Evengarde_Rest.md) here.
 -   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for each
 
 -   A shortcut to the Training hall and Blacksmith Area can be found on the stairway leading to the Temple of the Blade.

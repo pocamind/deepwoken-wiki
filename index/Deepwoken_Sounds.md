@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 97013
+revid: 98974
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Upcoming content, Pages with broken file links, Deepwoken]
@@ -230,13 +230,18 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.5s | Eating (2) |
 |  | 0.7s | Eating (3) |
 |  | 0.3s | Drinking \[1\] |
-|  | 1.2s | Drinking \[2\] |
+|  | 0.4s | Drinking \[2\] |
+|  | 1.2s | Drinking \[3\] |
+|  | 0.2s | [Potion](Alchemy.md) Cork Popped |
 |  | 1.7s | Drinking [Potion](Alchemy.md) |
 |  | 0.6s | [Potion](Alchemy.md) Broken (Drinking Interrupted) |
 |  | 2.0s | [Potion](Alchemy.md) Broken (Thrown Splash) |
 |  | 0.9s | Vomiting |
-|  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Broken |
-|  | 0.6s | [Fishing](Fishing.md) \[1\] |
+|  | 3.3s | [Fishing](Fishing.md) Cast |
+|  | 0.6s | [Fishing](Fishing.md) Reel \[1\] |
+|  | 1.4s | [Fishing](Fishing.md) Reel \[2\] |
+|  | 2.0s | [Fishing](Fishing.md) Success |
+|  | 0.7s | [Fishing](Fishing.md) Failure |
 |  | 3.2s | [Seafarer's Chime](<Seafarer's_Chime.md>) |
 |  | 3.6s | [Bomb](Iron_Bomb.md) + Cannonball (Impact) |
 |  | 0.3s | Zipline Loop |
@@ -245,10 +250,12 @@ A large collection of sounds found in **Deepwoken**.
 |  | 4.3s | [Light Hook](Second_Layer.md) Usage |
 |  | 2.3s | [Firfire Caverns](Firfire_Caverns.md) Gate (Open) |
 |  | 2.9s | [Firfire Caverns](Firfire_Caverns.md) Gate (Close) |
+|  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Broken |
 |  | 2.2s | [Kyrsan](Second_Layer/New_Kyrsa.md) Obelisk + Puzzle Pad (Interaction) |
 |  | 1.2s | [Scion of Ethiron](Scion_of_Ethiron.md) Altars (Placing Giant Femur) |
 |  | 10.0s | [Heretic's Sutra](Talents.md#heretics-sutra) (Loop) |
 |  | 20.1s | [Heretic's Sutra](Talents.md#heretics-sutra) (Full) |
+|  | 8.8s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) (Unedited) |
 |  | 1.3s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) |
 |  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
 
@@ -296,6 +303,9 @@ A large collection of sounds found in **Deepwoken**.
 |  | 4.5s | [Summer Isle](Summer_Isle.md) Cannon Firing |
 |  | 20s | Whirlpool / Sea Monster Bubbles |
 |  | 4.5s | Getting dragged into a Whirlpool |
+|  | 2.5s | [Castle Light](Castle_Light.md) L2 Elevator (1st Sound) |
+|  | 101s | [Castle Light](Castle_Light.md) L2 Elevator (2nd Sound) |
+|  | 106s | [Castle Light](Castle_Light.md) L2 Elevator variation |
 |  | 1.3s | [Depths](The_Depths.md) Boulder Falling |
 |  | 2.3s | [Depths](The_Depths.md) Boulder Impact \[1\] |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Impact \[2\] |
@@ -458,6 +468,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance / Kyrsan Spear (Impact) |
 |  | 0.4s | Ice Smash (Swing) |
+|  | 1.9s | Ice Forge (Impact) |
 |  | 1.3s | Warden Blades (Spinning) |
 |  | 1.9s | Warden Blades (Shattering) \[1\] |
 |  | 1.0s | Warden Blades Shattering \[2\] |
@@ -716,7 +727,6 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.0s | [Tacet Murmur](Murmur.md) (Activation) |
 |  | 1.0s | [Tacet Murmur](Murmur.md) (Deactivation) |
 |  | 2.1s | [Rhythm Murmur](Murmur.md) (Activation) |
-|  | 2.5s | [Castle Light](Castle_Light.md) L2 Elevator (1st Sound) |
 |  | 0.7s | [Layer 2, Floor 1](Second_Layer.md) Key Grab |
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Unlock Passageway |
 |  | 15s | [Layer 2](Second_Layer.md) Passageway Opening / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Spawn) |

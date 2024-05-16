@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 98951
+revid: 98982
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2525,7 +2525,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 40 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +2 Posture)
-    -   Prerequisites: 40 Strength, 25 Agility OR 25 Charisma, 75 Weapon, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
+    -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 Weapon, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
     -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.

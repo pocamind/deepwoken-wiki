@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 98842
+revid: 98983
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -258,7 +258,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Venting</th>
   <td>When the player has at least 40 Tempo (indicated by a small notch on the tempo bar), pressing the <kbd>G</kbd> key will make the player Vent.<p><br>
   </p>
-  <p>Venting pushes others nearby away and grants a brief period of invincibility and relief, which allows the player to get out of tricky situations such as being comboed or being overcrowded.</p>
+  <p>Venting pushes others nearby away and grants a brief period of invincibility and relief, which allows the player to get out of tricky situations such as being comboed or being overcrowded, along with dealing a miniscule amount of damage, enough to cancel attacks and knock your adversary if they have sufficiently low health.</p>
   <p>Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited.</p>
   <ul>
     <li><i><b>While block-broken or assassinated, you cannot Vent.</b></i></li>
@@ -429,7 +429,7 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M2 and then <kbd>M1</kbd>. Spell feinting will <b>not</b> refund the ether cost.</p>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and then <kbd>M2</kbd>. Spell feinting will <b>not</b> refund the ether cost.</p>
   <p>It's possible to feint and feint your spell at the same time. Double feinting like this will often draw out your opponents parry and roll. It's still fairly possible to retaliate against but dealing with this technique is tricky, especially when used with very quick mantras which easily overwhelms most unexperienced players thought process.</p></td>
 </tr>
 <tr>

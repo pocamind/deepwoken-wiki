@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 98234
+revid: 98979
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -66,7 +66,7 @@ The wall
 
 ### Sparring Arena
 
--   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice, or revenge is used on him. After being hit three time or with revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
+-   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice, or the Revenge mantra is used on him. After being hit three time or with Revenge, if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
 
 ### Ziplines
 
@@ -82,7 +82,7 @@ The zipline to the mountain.
 
 Events that spawn in Isle of Vigils that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Bandit](Bandit.md) Attack
+-   [Bandit](Bandit.md) Attack (rewards EXP and Etrea Reputation)
 
 ## Quests
 
@@ -94,7 +94,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   She will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
 -   Accepting her quest gives you a Lumber Axe for free.
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
--   Acts similar to Korin in Etris; 6 Wood for, plus Etrea [reputation](Reputation.md).
+-   Acts similar to Korin in Etris; 6 Wood for, plus Etrea [reputation](Reputation.md) and some EXP.
 -   This quest is repeatable.
 
 ### Treefelling Blow Talent Quest
@@ -133,7 +133,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Peregrine](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by Naktigonis
 -   Though it may be closer to [Erisia](Erisia.md), Vigils is often much less travelled than Etris and is generally considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.

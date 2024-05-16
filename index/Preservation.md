@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 89932
+revid: 98978
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,7 +23,7 @@ categories: [Resonances]
 
 ### _Appearance_
 
-When used, a golden circle appears around the user or projectile. Any knocked entities or players in this area are put into a protective bubble and are unable to be gripped.
+When used, a golden circle appears around the user or projectile. Any knocked entities or players in this area are put into a protective bubble and are unable to be gripped, killed by autogrips, lit on fire, drown, and have immunity to [Blood Scourge](Blood_Scourge.md).
 
 ## Usage
 
