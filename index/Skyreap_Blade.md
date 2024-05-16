@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 98944
+revid: 99073
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -16,10 +16,9 @@ categories: [Weapons, Greataxes]
 | scaling | 7 |
 | range | 8.5 |
 | swing speed | 0.68x |
-| endlag | 0.05s |
-| penetration | 20% |
+| penetration | 25% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 7 |
+| weight | 7.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

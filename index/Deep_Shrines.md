@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 98431
+revid: 98995
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -79,11 +79,11 @@ Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's 
 
 ## Effect
 
-For 1 Knowledge, you can trade 1 of your Mastery Points into another Mastery.
+For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another Trait.
 
 ## Detail
 
--   Bare in mind you still cannot add more than 6 Points into a give Mastery.
+-   Bare in mind, you still cannot add more than 6 Points into a give Trait.
     
 
 **Shrine of Chance:**

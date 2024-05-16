@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 98545
+revid: 99070
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -873,6 +873,23 @@ File:Firing line blast spark 2.gif
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Ice Forge
+
+(★☆☆)
+
+ | 
+
+File:Ice Forge.gif
+
+ | 
+
+ | 
+
+-   This modifier causes the projectiles of the "Ice Forge" mantra to home onto nearby targets. Furthermore, the user teleports to the target before throwing out 3 more projectiles on hit.
+
+ |
+| 
+
 Jolt Grab
 
 (☆☆☆)
@@ -1007,6 +1024,21 @@ File:GrandJavelinMultiplyingSpark2.gif
  | 
 
 -   This modifier causes the projectile from the "Grand Javelin" mantra to split into 3 smaller projectiles that fire off into different directions.
+
+ |
+| 
+
+Wind Forge
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the projectiles of the "Wind Forge" mantra to fire individually.
 
  |
 | 
@@ -1419,22 +1451,17 @@ File:Dash with Spring Spark.gif
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Fire Blade
+Fire Forge
 
-(☆☆☆)
-
- | 
-
-File:Fire blade Mantra.gif
+(★☆☆)
 
  | 
 
-File:Fire Blade with Tornado Spark.gif
+ | 
 
  | 
 
--   Reduces Ether cost?
-    -   Might be or might not be broken as of the 1st of May 2022.(Confirmed incompatible by testing January 27th, 2023)
+-   (Work in Progress)
 
  |
 | 

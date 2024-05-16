@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 98030
+revid: 99075
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -22,7 +22,7 @@ categories: [Weapons, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing |
+| obtainment | The Depths, Summer Isle, Minityrsa, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing |
 | description | A surprisingly effective weapon despite its previous use by fishermen. |
 
 | Alloyed Trident Spear | |

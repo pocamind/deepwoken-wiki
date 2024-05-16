@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 98310
+revid: 98994
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -90,13 +90,13 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-**The Hero Blades** are a set of weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
+**The Hero Blades** are a set of elemental weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of their respective Attunements, and Power 11+.
 
-Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter or completing [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating all of the blizzard knights rewards a chest with multiple hero blades, the elements being random.
+Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating all of the Blizzard Knights rewards a chest with multiple hero blades, the elements being random.
 
-Each Heroblade has its own unique critical attack.
+All Hero Blades have their own unique critical attack.
 
-A common misconception is their damage type. Hero Blade deals **Physical Slash Damage** like a normal sword. However, their critical attacks deal elemental damage of the relevant type.
+A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md), **not** [Songchant](Traits.md), like normal swords.
 
 **Flame:**
 

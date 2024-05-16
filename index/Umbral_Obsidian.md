@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 92865
+revid: 99072
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -20,7 +20,7 @@ categories: [Items]
 
 “ While holding it, you can feel the shadows darkening your soul. ”
 
-― In Game Description
+― In-game Description
 
   
 
@@ -28,7 +28,7 @@ categories: [Items]
 
 Umbral Obsidian is an [Attunement](Attunements.md) item with the primarily used to unlock the [Shadowcast](Shadowcast.md) attunement. Secondary uses include being a crafting ingredient, consumable, and to spawn [Primadon](Primadon,_Titan_of_the_East.md).
 
-By giving (5) Umbral Obsidian to the trainer located in the [Celtor Wastes](Celtor_Wastes.md), you will obtain the [Shadowcast](Shadowcast.md) attunement. (2 if you have already obtained [Shadowcast](Shadowcast.md).
+By giving 5 Umbral Obsidian to [Nostor](Nostor,_Master_of_Shadow.md) located in the [Celtor Wastes](Celtor_Wastes.md), you will obtain the Shadowcast attunement. (2 if you have already obtained Shadowcast.) [Beatra](Beatra.md) _cannot_ be given Umbral Obsidian for Shadowcast.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 98623
+revid: 99053
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,16 +31,16 @@ They also inflict heavy Antiheal similar to the Talent "All the Dead Gods," when
 | Broodrot Smash | Rigorously leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable rotten slam. This move autogrips knocked enemies. | 
 
  | X | X | ◯ | (★★★) |
-| Call of the Horde | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summon two random [Mudskippers](Mudskipper.md). | 
+| Call of the Horde | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summon two random [Mudskippers](Mudskipper.md). Applies Anti-heal, scream can be blocked to avoid anti heal. | 
 
- | N/A | N/A | N/A | (★★★) |
+ | N/A | ◯ | N/A | (★★★) |
 | Rotten Mudtoss | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact. | 
 
  | X | ? | ◯ | (★★★) |
 
 ### **Passives**
 
--   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is reduced to 50%.
+-   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% Anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is reduced to 50%. (**Reduced heal only for health packs, vampirism and payback and etc heal sources nullified**)
 
 ## Tips
 
