@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99094
+revid: 99133
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -127,7 +127,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modiers.
+    -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
     -   Prerequisites: 85 Intelligence
 
 ### Aerial Dancer
@@ -142,10 +142,11 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
     -   Reduces falling speed and prevents fall damage.
-    -   Has a windup of about ~1s.
-    -   Automatically ends after 5 seconds. (Can be reactivated after deactivation, therefore, after deactivation, you can dash upwards and reactivate it to not take any fall damage.)
+    -   Has a small amount of forwards momentum, allowing for control over where you land.
+    -   Has 1s windup.
+    -   Automatically ends after 5 seconds. (Can be reactivated after deactivation 3 times, air dashing upwards gives you time to reactivate it and not take any fall damage.)
     -   The Old Wind talent has been merged with Aerogliding.
-    -   Greatly reduces height loss with glider, allowing for longer distances to be traveled with the glider. Can even glide from major islands to another nearby.
+    -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled.
     -   Prerequisites: 35 Galebreathe, 30 Agility
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
@@ -636,9 +637,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
 -   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity)
-    -   Prerequisites: 60 Shadowcast, Dark Hours
-    -   You hover with shadowy particles while the rifted state is active.
+    -   Blocking, parrying, dodging, or sliding will also cancel the effect.
+    -   You cannot use mantras during the effect.
+    -   You hover with a dark outline while dark rift is active.
     -   This ability last for 2 seconds and goes on a 20 second cooldown when it activates.
+    -   Prerequisites: 60 Shadowcast, Dark hours
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
     -   Prerequisites: 45 Shadowcast, Dark God
@@ -648,6 +651,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity)
     -   Prerequisites: 55 Shadowcast, Dark God
+    -   Has a 2s cooldown.
     -   Deal damage around you whenever you steal ether.
 
 ### [Dawnwalker](Oath%253A_Dawnwalker.md)
@@ -1058,7 +1062,7 @@ _**"I'm built different" - Cannot Give Talents**_
                 -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
                 -   Thundercall: Your bullets electrify
                 -   Galebreathe Your bullets after cut
-                -   Shadowcast: Your bullets steal ether(probably blinds with sightless still but not tested)
+                -   Shadowcast: Your bullets steal ether
                 -   Ironsing: Your bullets apply metal rods
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
@@ -1081,7 +1085,7 @@ _**"I seek the qualities of Hammer Rage."**_
 _**"I seek the qualities of Heat Column."**_
 
 -   Fan the Flames \[Common Talent, Dual Attunement\] - Your stored Wind mantras can now empower your Fire mantras.
-    -   The effects inhale transferring mantra modifiers on your next gale mantra used will now effect flame mantras.
+    -   The effects of inhale (causing [mantra modifiers](Mantra_Modifiers.md) to transfer across gale mantras) will now also affect flame mantras.
     -   Prerequisites: Inhale, 40 Flamecharm
 
 ### Heretic
@@ -1089,11 +1093,12 @@ _**"I seek the qualities of Heat Column."**_
 > _**"I do not hold the beliefs of the common people."**_
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 8s. (+7 Sanity)
-    -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
-    -   Scales with investment up to its requirement, so if you have less WLL/INT than the req it procs less antiheal the lower your WLL/INT is. The antiheal proc still prevents passive regen.
-    -   Does not proc/work on people in the same guild as yours.
-        -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
-    -   The anti-heal effect is signified by a purple particle effect on the victim.
+    -   Whenever you land an M1, you apply 100%\* prevention of your enemy's healing for 8 seconds.
+    -   \*Anti-heal percentage scales with investment up to its requirement, which causes a 40 will, 15 int investment to apply a ~33% anti-heal. (Only applies to [Shrine of Order](Deep_Shrines.md) users)
+    -   Lower anti-heal procs add up, causing 3 m1s to always apply full anti-heal regardless of investment.
+    -   Does not work on allies.
+    -   Blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), passive health regen, campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
+    -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
@@ -1898,10 +1903,11 @@ _**"I seek the qualities of Heat Column."**_
 > _**"My shield is my ally."**_
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
-    -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
+    -   When holding a shield, reduce time in "weak block" after getting hit.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
+    -   Shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
 ### Shipwright

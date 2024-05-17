@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 93028
+revid: 99123
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from;, Second Layer |
+| obtainment | Chests from;, Second Layer, Duke Ersia |
 | description | "..." |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: Evanspear Greataxe
-revid: 99105
+revid: 99119
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes]
+categories: [Weapons, Greataxes]
 ---
 
 # Evanspear Greataxe
@@ -34,8 +34,6 @@ It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)
 
 **Astral:**
 
-File:AstralGFXEvanspear.png
-
 **Tears of Edenkite:**
 
 **Blazing (Regular):**
@@ -44,19 +42,27 @@ File:AstralGFXEvanspear.png
 
 **Detonation:**
 
+**Wild:**
+
 **Elastic:**
 
 **Gluttony:**
 
+**Deffered:**
+
+**Sear:**
+
 **Grim:**
+
+**Providence Thorns:**
 
 **Metal:**
 
 **Obfuscation:**
 
-File:Evansphere Handacks Obsidian.png
-
 **Solar:**
+
+**Nemesis:**
 
 **Umbral Knight:**
 
