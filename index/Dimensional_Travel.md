@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 97527
+revid: 99100
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -54,7 +54,7 @@ When obtained, Dimensional Travel will spend it's Resonance points on the follow
         -   An explanation (and a way to find your distance multiplier) can be found in the [Deepwoken Info Discord](https://discord.com/channels/883838743172218891/883840765644660736/1096193166169874462).
         -   Despite being obsolete with the introduction of the map mechanic, you can use [this Google document](https://docs.google.com/document/d/1NgO8UEaPPCDxv1CiVzfERxjHIU0Q2p7GxjtoyPeCm9I/edit) to travel using coordinates. You can view your coordinates by pressing Shift + F3, then Shift + 1 four times.
 
-If Dimensional Travel is Drowned, in addition to the extra Resonance points to spend, the _Use in Combat_ stat is given by default.
+If Dimensional Travel is Drowned, in addition to the extra Resonance points to spend, the _Use in Combat_ stat is given by default, essentially combining both variants of base Kamui.
 
 ## Tips/Trivia
 
