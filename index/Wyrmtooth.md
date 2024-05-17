@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 98976
+revid: 99085
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Swords, .;]
 ---
 
 # Wyrmtooth

@@ -1,16 +1,12 @@
 ---
 title: Books
-revid: 98524
+revid: 99084
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Community]
+categories: [Community]
 ---
 
 # Books
-
-File:Adret reading.png
-
-A lone Adret reading Diver Journal 2
 
 ## Description
 

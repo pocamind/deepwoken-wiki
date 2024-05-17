@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 98992
+revid: 99093
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes]
@@ -34,11 +34,7 @@ It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)
 
 **Astral:**
 
-File:Astral Evanspear.png
-
-**Astral (After VFX fix):**
-
-File:AstralFixed123.png
+File:AstralGFXEvanspear.png
 
 **Blazing (Regular):**
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 98611
+revid: 99086
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -48,7 +48,7 @@ If you've progressed to maximum a certain oath once before, you are able to skip
 
 ## **Oathbreaker - Oath Removal**
 
-It is possible to remove your oath by wishing to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
+It is possible to remove your oath (once) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
 
 Upon breaking an Oath, unique effects will occur:
 
@@ -111,25 +111,6 @@ Proof of Time Magic's existence and it being an "Oath"
 -   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
 -   It is not confirmed, but its very probably that this oath can manipulate time in a very similar way as the Voidsea due to the relation of the Voidwalkers and the Voidsea, meaning, that instead like a "time magic" oath, it could be more like a "Void oath" where time manipulation is just one part of the oath.
     
-
-**Lifeweave:**
-
-## Lifeweave
-
-**Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
-
--   Lifeweave is potentially an Oath described in the game's lore, but could be an Attunement.
-    -   However, it could be neither, and instead may be tied to the developer spec enchant of the same name.
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
-    -   Lifeweave has also been shown to be able to create constructs, such as the [Golems](Hive_Construct.md) from the Hive.
--   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves - to equally match the rising tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
-    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
--   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
--   The book _The Lament of Cirryn_ expands up on it
-    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave, the process is initially successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage.
-    -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
-    -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
-        
 
 ## Trivia
 
