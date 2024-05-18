@@ -1,9 +1,9 @@
 ---
 title: Fishing
-revid: 99290
+revid: 99333
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
 notices:
   - This page is being worked on. The fishing gallery and the Bait section are outdated/require more information.
 ---
@@ -60,6 +60,58 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 
 Catching a Golden Fish doesn't change the chat bubble.
 
+## Fishing Spots
+
+Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish.
+
+There are 9 known fishing locations in game:
+
+-   [Boatman's Watch](<Boatman's_Watch.md>)
+-   Behind [Mortus'](Mortus.md) shack
+-   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
+-   [Starfield Grove](Starfield_Grove.md)
+-   Near the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
+-   [The Entropy Catalyst](The_Entropy_Catalyst.md)
+-   The [Beloved Zofia](Beloved_Zofia.md)
+
+**Boatmans Watch:**
+
+This spot is seen on the coast of Boatman's Watch to the right of the shipyard looking outward.
+
+**Mortus:**
+
+This spot is accessed by going behind Mortus' shack
+
+**Tomb of the Nameless Warrior:**
+
+This spot can be seen once you enter the Strength uncap room. There are two spots on the left and right of the obelisk.
+
+**Starfield Grove:**
+
+This spot can be seen behind the Startree located in the [Starswept Valley](The_Starswept_Valley.md).
+
+**Shrine of Division:**
+
+This spot is located to the right of the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) island when facing outward.
+
+**Miner's Landing:**
+
+This spot is located in a waterfall in a staircase on the path to the upper landing.
+
+**Eastern Interstitial Lighthouse:**
+
+This spot is located in the inner walls of the Lighthouse
+
+**The Entropy Catalyst:**
+
+This spot is located at the entrance of [The Entropy Catalyst](The_Entropy_Catalyst.md)
+
+**Beloved Zofia:**
+
+This spot is located around the rocks in front of the front of the [Beloved Zofia](Beloved_Zofia.md)
+
 ## Gallery
 
 **Normal:**
@@ -79,48 +131,6 @@ File:Fishing Talents.png
 | Fisher's Lure | Fish are drawn to your line more quickly. | N/A |  |
 | Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose. | +4 Carry Load |  |
 | Proficient Baiting | Casting your line excites ocean life, reducing the chances of fishing up trash. | N/A |  |
-
-## Fishing Stats
-
-Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish.
-
-**Boatmans Watch:**
-
-This spot is seen on the coast of Boatman's Watch to the right of the shipyard looking outward.
-
-**Mortus Fishing Spot:**
-
-This spot is accessed by going behind [Mortus'](Mortus.md) shack
-
-**Tomb of the Nameless Warrior:**
-
-This spot can be seen once you enter the strength uncap room. There are two spots on the left and right of the obelisk. File:TOMB OF the nameless fishing spots.png
-
-File:Tomb of the nameless warrior fishing spot.png
-
-**Starfield Grove:**
-
-This spot can be seen behind the Startree located in the [Starswept Valley](The_Starswept_Valley.md).
-
-**Shrine of Division:**
-
-This spot is located to the right of the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) island when facing outward.
-
-**Miner's Landing:**
-
-This spot is located in a waterfall in a staircase on the path to the upper landing.
-
-**Eastern Interstitial Lighthouse:**
-
-This slpot is located in the inner walls of the Lighthouse
-
-**The Entropy Catalyst:**
-
-This spot is located right at the entrance of [The Entropy Catalyst](The_Entropy_Catalyst.md)
-
-**Beloved Zofia:**
-
-This spot is located around the rocks in front of the front of the [Beloved Zofia](Beloved_Zofia.md)
 
 ## **Bait**
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 99317
+revid: 99339
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -60,7 +60,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 20% more weapon damage in PvE.<br>
+  <td><div><p>Deal 20% more weapon damage in 𝓕𝓻𝓮𝓪𝓴𝔂 PvE.<br>
   This damage bonus bypasses the damage multiplier cap.<br>
   Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>

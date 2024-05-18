@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 85736
+revid: 99343
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -37,4 +37,4 @@ This Outfit's Schematic can be found in:
 -   This is the standard uniform of The Authority.
     -   Notably, the [Authority Captain Uniform](Authority_Captain_Uniform.md) is just this but with a red coat over it.
 -   One of the best Adept armors in game because of the low cost, excellent durability, and the material requirements.
--   Sadly, despite being an Adept armor, the only way of obtaining it is in the first layer of [The Depths](The_Depths.md), [Scyphozia](First_Layer.md).
+-   Despite being an Adept armor, the only chests having its schematics are green chests from [The Depths](The_Depths.md), [Scyphozia](First_Layer.md).

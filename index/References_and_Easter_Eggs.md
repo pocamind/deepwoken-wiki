@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 98630
+revid: 99323
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -165,6 +165,7 @@ categories: [Deepwoken]
     -   However, it actually consistently spells the name incorrectly.
 -   **Underdog** may be a reference to a skill of the same name from _Fire Emblem Awakening._
 -   The name of **Dragon's Song**—and by extension, the uppercut game mechanic—is derived from the [Shoryuken](https://streetfighter.fandom.com/wiki/Shoryuken) from the _Street Fighter_ series, wherein it is colloquially referred to as the "dragon punch"; the Shoryuken is an uppercut that is typically used to counter an opponent's aerial attack.
+-   **Will o' Wisp** refers to folklore [flickering light or lantern](https://en.wikipedia.org/wiki/Will-o%27-the-wisp) held by nocturnal spirits, seen mostly over bogs, swamps or marshes. Travelers lured by the light will at least become lost, but many times the will-o'-the-wisp will lead the person into mortal danger.
 
 ## Weapons
 

@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 97366
+revid: 99341
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards, The Depths]
@@ -61,7 +61,7 @@ A Celtorian Guard executes it's opponent after knocking them:
 
 ## Trivia
 
--   Celtorian Guards only speak in growls and gurgles, with few exceptions.
+-   Celtorian Guards only speak in growls and gurgles, however. when a player tries to hit them. they can initiate guard dialogues. (Unknown whether they have idle NPC dialogues)
 -   They are all Celtor.
 -   Before 7/9/2023, all Lesser Angels would be attacked by Celtorian Guards. It was noted in the update log which caused the change that the guards and Angels were "locked in an eternal blood feud," though it seems that they have now made up.
 -   They used to wear the [Duelist's Attire](<Duelist's_Attire.md>) before there armor changed into [Celtorian Tideknight](Celtorian_Tideknight.md).

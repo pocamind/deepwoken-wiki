@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99071
+revid: 99352
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -593,8 +593,19 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>15</td>
   <td>20%</td>
   <td>LHT: 8</td>
-  <td>4</td>
+  <td>5</td>
   <td>8</td>
+  <td>0.82x</td>
+  <td>27.5</td>
+</tr>
+<tr>
+  <td><a href="Golden_Swordfish.md">Golden Swordfish</a></td>
+  <td>75 LHT</td>
+  <td>15</td>
+  <td>20%</td>
+  <td>LHT: 8</td>
+  <td>5</td>
+  <td>8.1</td>
   <td>0.82x</td>
   <td>27.5</td>
 </tr>

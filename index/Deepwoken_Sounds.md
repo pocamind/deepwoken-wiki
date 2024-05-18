@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 99269
+revid: 99340
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Upcoming content, Pages with broken file links, Deepwoken]
@@ -196,7 +196,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.1s | [Notes](Notes.md) Gained |
 |  | 1.3s | [Notes](Notes.md) Lost |
 |  | 1.6s | [Encyclopedia](Training_Gear.md) Page Flip |
-|  | 2.2s | [Pure Heart](Training_Gear.md) |
+|  | 2.2s | [Pure Heart](Training_Gear.md) / [Bloodless Gem](Mantra_Modifiers.md#deep-gems) Proc |
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
 |  | 1.9s | [Hearthgem](Training_Gear.md) |
 |  | 0.9s | Foraging |
@@ -534,8 +534,8 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.2s | X-Cast |
 |  | 2.6s | C-Cast |
 |  | 1.9s | V-Cast |
-|  | 0.7s | [Wind Gem](Deep_Gems.md) (Proc) |
-|  | 0.1s | [Insignia Gem](Deep_Gems.md) (Proc) |
+|  | 0.7s | [Wind Gem](Mantra_Modifiers.md#deep-gems) Proc (Proc) |
+|  | 0.1s | [Insignia Gem](Mantra_Modifiers.md#deep-gems) Proc (Proc) |
 
 ### [Monsters](Monsters.md)
 
@@ -664,8 +664,8 @@ A large collection of sounds found in **Deepwoken**.
 |  | 3.9s | [Blood Scourge](Blood_Scourge.md) Execution \[2\] (Unofficial Edit) |
 |  | 2.7s | [Blood Scourge](Blood_Scourge.md) (Proc) |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
-|  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Storing Souls |
-|  | 3.0s | [Jar of Souls](Jar_of_Souls.md) Replenshing |
+|  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Storing Souls \[Unedited\] |
+|  | 3.0s | [Jar of Souls](Jar_of_Souls.md) Replenishing |
 |  | 2.1s | [Wind-Up](Wind-Up.md) (Impact) |
 |  | 0.8s | [Gravity Field](Gravity_Field.md) (Enter) |
 |  | 2.4s | [Resurrection](Resurrection.md) (Activation) |
