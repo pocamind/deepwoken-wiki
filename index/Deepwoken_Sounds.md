@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 98974
+revid: 99269
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Upcoming content, Pages with broken file links, Deepwoken]
@@ -443,7 +443,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.2s | [Discovery of Fire](Talents.md#thundercaller), Flame Blind, [Judgement](Oath%253A_Contractor.md) (Activation) |
 |  | 2.3s | Fire Eruption (Windup) / [Shard Bow](Shard_Bow.md) & Shadow Seekers (Launch) |
 |  | 1.9s | Ice Daggers (Windup) / [Trial of One](Trial_of_One.md) Parry Test |
-|  | 1.4s | Ash Slam (Windup) / [Gravity Field](Gravity_Field.md) (Bounce) |
+|  | 1.4s | Ash Slam (Windup) / [Gravity Field](Gravity_Field.md) (Repulse) |
 |  | 1.0s | Wind Passage (Windup) |
 |  | 2.3s | Ice Chains + Flame Assault (Windup) |
 |  | 1.5s | [Vow of Mastery](Vow_of_Mastery.md) / Shadow Assault (Windup) |
@@ -573,10 +573,10 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[2\] |
 |  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
 |  | 1.5s | [Enforcer](Enforcer.md) Damaged |
-|  | 2.6s | [Enforcer](Enforcer.md) Pull / [Radiant Kick](Oath%253A_Dawnwalker.md) (Windup) |
-|  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
-|  | 2.6s | [Naulitodaunt](Nautilodaunt.md) Vent |
-|  | 1.5s | [Naulitodaunt](Nautilodaunt.md) Water Stomp |
+|  | 2.6s | [Enforcer](Enforcer.md) Pull / [Radiant Kick](Oath%253A_Dawnwalker.md) (Windup) / Metal Gatling Pull |
+|  | 1.6s | [Nautilodaunt](Nautilodaunt.md) Digging Loop |
+|  | 2.6s | [Nautilodaunt](Nautilodaunt.md) Vent |
+|  | 1.5s | [Nautilodaunt](Nautilodaunt.md) Water Stomp |
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
@@ -594,7 +594,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 35.5s | [Bounder](Bounder.md) Ambush |
 |  | 0.9s | [Bounder](Bounder.md) Breathing Loop (Unedited) |
 |  | 1.7s | [Bounder](Bounder.md) Breathing Loop |
-|  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin (Windup) |
+|  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin (Windup) / Hallowtide Grave Dig |
 |  | 0.8s | [Bonekeeper](Bone_Keeper.md) / [Kyrsgarde Brute](Kyrsgarde.md) Stomp |
 |  | 1.7s | [Kyrsgarde](Kyrsgarde.md) Ice Spear + Ice Lance (Windup) |
 |  | 4.1s | **Wake.** |
@@ -672,7 +672,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.5s | [Resurrection](Resurrection.md) (Revive) |
 |  | 1.1s | [Resurrection](Resurrection.md) (Rise) |
 |  | 3.7s | [Portals](Portals.md) (Enter) |
-|  | 2.0s | [Portals](Portals.md) (Exit) / [Jetstriker](Oath%253A_Jetstriker.md) Dash / [Rain Spire](Relics.md) Placement |
+|  | 2.0s | [Portals](Portals.md) (Exit) / [Jetstriker](Oath%253A_Jetstriker.md) Dash / [Rain Spire](Relics.md) Placement / [Curved Blade of Winds](Curved_Blade_of_Winds.md) Stance Changing |
 |  | 0.4s | [Combat Portals](Portals.md) (Leg Uppercut) |
 
 ### **[Deaths](Death.md)**

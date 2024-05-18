@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 99194
+revid: 99282
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -82,27 +82,41 @@ File:Fishing Talents.png
 
 ## Fishing Stats
 
-For consistency, all data should be collected with at least the first two fishing skills. Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish.
-
-**Vigils Pillar Zipline:**
-
-File:VigilsPillarZipline.png
-
-| Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 Dentifilos | 25 | 47 | 16 | 0 | 6 | 5 | 1 |
-| 100 Chum | 18 | 50 | 14 | 0 | 6 | 12 | 0 |
-
-**Etris Docks Right:**
-
-| Bait | Bait Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish.
 
 **Boatmans Watch:**
 
-No info yet
+This spot is seen on the coast of Boatman's Watch to the right of the shipyard looking outward.
 
-|}
+**Mortus Fishing Spot:**
+
+This spot is accessed by going behind [Mortus'](Mortus.md) shack
+
+**Tomb of the Nameless Warrior:**
+
+This spot can be seen once you enter the strength uncap room. There are two spots on the left and right of the obelisk.
+
+File:TOMB OF the nameless fishing spots.png
+
+**Starfield Grove:**
+
+This spot can be seen behind the Startree located in the [Starswept Valley](The_Starswept_Valley.md).
+
+**Shrine of Division:**
+
+This spot is located to the right of the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) island when facing outward.
+
+**Miner's Landing:**
+
+This spot is located in a waterfall in a staircase on the path to the upper landing.
+
+**Eastern Interstitial Lighthouse:**
+
+This slpot is located in the inner walls of the Lighthouse
+
+**The Entropy Catalyst:**
+
+This spot is located right at the entrance of [The Entropy Catalyst](The_Entropy_Catalyst.md)
 
 ## **Bait**
 
@@ -126,6 +140,13 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
 -   Redd Effect: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 -   Pufferfish Effect: Higher chance of catching a Mudskipper (Needs further inspection)
+
+File:VigilsPillarZipline.png
+
+| Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 Dentifilos | 25 | 47 | 16 | 0 | 6 | 5 | 1 |
+| 100 Chum | 18 | 50 | 14 | 0 | 6 | 12 | 0 |
 
 ## **Trivia**
 

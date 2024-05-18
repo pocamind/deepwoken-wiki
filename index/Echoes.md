@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 98793
+revid: 99261
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -184,7 +184,7 @@ There are 12 upgrades to purchase, and each can be purchased a maximum of 2 to 5
   <td><center>Your amount of bonus adventuring tools given when starting a new journey.</center></td>
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
-  <td><center>3</center></td>
+  <td><center>4</center></td>
 </tr>
 </tbody>
 </table>
@@ -321,10 +321,11 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The [Irontusk](Irontusk.md) Spear,
     -   The [Silversix](Silversix.md) Guns,
     -   The [Avenger](Avenger.md) Greatsword.
--   The five Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
+-   The seven Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
     -   A Lumber Axe and Pickaxe.
     -   Flint and Canteen.
-    -   Repair Hammer
+    -   Repair Hammer and Fishing rod.
+    -   Glider.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for a mantra with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1)

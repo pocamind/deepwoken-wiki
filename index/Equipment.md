@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 98948
+revid: 99211
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -25,7 +25,7 @@ All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip (+1 HP for Head, Arms, Legs, Torso, Face, Ears, and Rings)  
-★★ = +2 Rare Pips (+2 HP for Head, Arms, Legs, Torso, Face, Ears, and Rings)  
+★★ = +2 Rare Pips (+2 HP for Head, Arms, Legs, Torso, Face, and Rings)  
 ★★★ = +2 Rare Pips +1 Legendary Pip (+3 HP for Head, Arms, and Legs)
 
 <table><caption>Pips Info</caption>

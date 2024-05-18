@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 94033
+revid: 99217
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -209,12 +209,14 @@ Please add miscellaneous islands or named landmarks here
 
 -   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
 -   The Profane Cavern
--   [New Kyrsan Arterial Rail](New_Kyrsan_Arterial_Rail.md)
+-   The Condemned Archives
+-   Kyrsan Railways
+-   Widow's Wail Cemetery
     
 
 **2v2/3v3:**
 
--   Forest Arena
+-   The Glade of Strife
 -   The Falcon's Hold
 -   The Unearthed Colosseum
     

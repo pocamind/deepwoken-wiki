@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 98977
+revid: 99277
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -83,6 +83,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   CD of ~30-50 seconds.
     -   Has a small aura on proc.
     -   _**"KOKUSEN!!" -**_ _Dawnwalker Users_
+    -   Despite having a definitive cooldown it is possible to activate multiple times in a row resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.

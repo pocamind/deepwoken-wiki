@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 98284
+revid: 99218
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -18,7 +18,7 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 -   Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot. WARNING, hiring the treasurer will increase the prices of all the rooms, without the treasurer the 2nd room is 2,100 notes, with them it is 4,100 notes.
 
-Currently, there are 8 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
+Currently, there are 9 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
 -   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for Notes.
 -   The [Barber](Barber.md), which can be hired after building 6+ rooms for Notes.
@@ -28,6 +28,7 @@ Currently, there are 8 NPCs that can join your Guild Base with a certain amount 
 -   The Librarian, which can be hired after building the Library for Notes.
 -   The [Artisan](https://deepwoken.fandom.com/wiki/Jarvis), which can be hired after building the Trophy Room for Notes.
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for Notes.
+-   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
@@ -69,7 +70,7 @@ Mess Hall
 
  | 
 
-A large cafeteria with 2 long tables. This is a cosmetic room that does not serve food.
+A large cafeteria with 2 long tables. This is a room that allows the hiring of a chef that will make food.
 
  |
 | 
