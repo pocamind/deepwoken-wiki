@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99133
+revid: 99137
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -214,9 +214,9 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 5 Agility
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
-    -   Halve the speed penalty of critical health (<30% HP)
+    -   Halve the speed penalty losing health.
     -   Prerequisite: 25 Agility, 25 Fortitude
-    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" have this talents.
+    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this talent.
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
@@ -416,8 +416,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Use a Greataxe, 30 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
-    -   Allows for much more followups after blockbreak
-    -   Visually bugged with base crit, and plays the knockdown animation twice
+    -   Allows for more time for followups after blockbreak.
+    -   Visually bugged with base crit, and plays the knockdown animation twice.
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapon
 
 ### Butterfly
@@ -436,16 +436,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   User is covered in a blue highlight when the effect is active.
     -   Visual effect might not line up with duration.
     -   Attacking will cancel the effect early.
-    -   Takes priority over block, allowing for you to dodge while simultaneously blocking.
+    -   Takes priority over block, allowing for you to "auto-dodge" while simultaneously blocking.
     -   20 second cooldown.
     -   Prerequisite: 25 Agility
     -   Mutual Exclusives: Observation, Safety Dance
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (2 seconds).
-    -   Will also proc from dodging bleed, caused by dodging a m1 late.
+    -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
     -   Has a 20 second cooldown.
-    -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
+    -   You cannot parry attacks during the invisibility.
     -   Prerequisites: 40 Agility, All Butterfly Talents
 
 ### Champion
@@ -463,7 +463,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
-    -   The Innate Talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs.
+    -   The Innate Talent of [Etrean](Etrean.md)'s has a similar effect, but isn't applied to all buffs and debuffs.
 
 ### Charm Caster
 
@@ -471,17 +471,18 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Synergizes greatly with bloodless gems, allowing for bloodless to heal 20% more effective health points at low health.
+    -   Synergizes greatly with healing, allowing for you to heal 20% more effective health when low.
+    -   Will apply combat tag against opponents.
     -   Effect Lasts 15s (7.5s against Disbelief talent)
     -   Proc Cooldown: 0.25s
     -   Prerequisite 55 Charisma, Charismatic Cast
 
 -   Morale Booster \[Common Talent, Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
     -   Prerequisite: 25 Charisma
-    -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
+    -   Allies who you charmed get up in 5 seconds instead of the usual 10 when knocked.
 
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
-    -   Reduces damage taken by charmed targets by 10%
+    -   Reduces damage taken by charmed targets by 10%.
     -   Prerequisite: 25 Charisma
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
@@ -529,6 +530,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Strength
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
+    -   Only active when holding a greathammer.
+    -   Also applies to parried mantras.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
 ### Comrade
@@ -572,13 +575,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.
-    -   You can spam F to get out of Freeze
+    -   You can spam F to get out of Freeze.
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
 -   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
     -   Activates the "Ice Spikes" mantra upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
+    -   Can stack multiple times, allowing for very high amounts of traps in one spot.
     -   Prerequisite: Ice Spikes, 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
@@ -588,6 +592,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity)
     -   If you were to catch fire while standing on ice, gain total immunity to the burning status effect.
     -   While the effect is active, the user breathes cold air.
+    -   15s cooldown after the burn immunity ends.
     -   Prerequisite: 30 Frostdraw
 
 ### Cryoni
@@ -610,7 +615,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am ruthless. A knife for hire."**_
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
-    -   "Heavy Bloodloss" refers to around 1 bar of blood. (Needs testing)
+    -   "Heavy Bloodloss" refers to around 1 bar of blood.
     -   "Very short duration" (As described by Agamatsu)
     -   Prerequisite: 45 Agility
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
@@ -646,7 +651,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
     -   Prerequisites: 45 Shadowcast, Dark God
 
--   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. ( )
+-   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: Shadow Eruption
 
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity)
@@ -697,8 +702,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
-    -   Applies chill for 7 seconds
-    -   Applies bottom freeze
+    -   Applies chill for 7 seconds.
+    -   Applies bottom freeze.
 
 ### Duelist
 
@@ -2026,6 +2031,7 @@ Prerequisite: Charisma
 > _**"I seek the qualities of Stormcaller."**_
 
 -   Storm Link \[Common Talent, Dual Attunement\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
+    -   Only adds thundercall elemental damage to your gale mantras, does not proc any talents, status effects, or stun.
     -   Prerequisite: Static Link, 60 Thundercall, 50 Galebreathe
 
 ### Sturdy Resolve

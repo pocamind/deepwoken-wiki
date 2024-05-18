@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 97983
+revid: 99194
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -97,6 +97,12 @@ File:VigilsPillarZipline.png
 
 | Bait | Bait Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+**Boatmans Watch:**
+
+No info yet
+
+|}
 
 ## **Bait**
 

@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 97758
+revid: 99201
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -22,6 +22,8 @@ The Barber allows customization to your character, (some) notes needed! (only if
 To use some of his features, a hair ID from the catalog is needed.
 
 Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to him.
+
+In order to reroll your bell icon with the barber you must pay 1 knowledge
 
 ## Dialogue
 
