@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 99068
+revid: 99316
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -12,27 +12,13 @@ categories: [Enemies, NPCs, Bosses]
 
 ― Duke Erisia
 
-Template:EnemyInfobox1.0
-
-## Description
-
-**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
-
-Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
-
-He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, the Duke is a [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
-
-While the Duke is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him.
-
-(you can one shot his posture with a stone hivelords hubris heavy hands ring and ardour scream with every m1)
+Template:EnemyInfobox1.0 ords hubris heavy hands ring and ardour scream with every m1)
 
 ## Moveset
 
-Duke Erisia's arsenal consists of his [Legion Kata](Legion_Kata.md) [Fists](Fists.md) with an [Iron Cestus](Iron_Cestus.md). He uses this to fight along with [Galebreathe](Galebreathe.md):
+FDSAFssssf _FDSider DFS_
 
-_For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
-
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| FSDsfdfdssDF | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | 
 **Assault**
@@ -173,6 +159,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Berserker - When Duke knocks an enemy, he gains 20% DMG resistance for 15 seconds.
 -   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
 -   ??? - Duke is immune to instant guard break effects.
+-   Rizz power - Duke use balls to grip you
 
 ## Finisher
 

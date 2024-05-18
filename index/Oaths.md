@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 99120
+revid: 99295
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -74,6 +74,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
         -   You'll regain [Oathless](Oath%253A_Oathless.md).
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
+    -   Talk to [Adrofalis](Adrofalis.md) again will give you the prompt to regain [Saltchemist](Oath%253A_Saltchemist.md)
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
     -   If you attempt to regain the Oath, The Dreadstar will not spawn after you survive the Ghosts on the Beloved Zofia.
@@ -143,7 +144,7 @@ Proof of Time Magic's existence and it being an "Oath"
     -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
 -   [Stratos](Stratos.md) will never speak to Silenthearts.
 -   The Dawnwalker talents used to each give 5 extra health.
--   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, such as suffocate, piercing will, cheap shot, etc., which was... questionable (gave Blindseers more powerful M1s than Silenthearts). In May 16th 2023's patch note, it was found out to be a bug, and was subsequently patched.
+-   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, such as the "Silencer's" tree, Cheap Shot, Nullifying Clarity, and many other talents, this allowed them to be much stronger than even Silenthearts. In May 16th 2023's patch note, it was found to be a bug, and was subsequently patched.
 -   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.
 -   Arcwarder armor is similar to Bulats "Incursio" from the anime and manga series, Akame Ga Kill!.
 -   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 96793
+revid: 99298
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -87,7 +87,7 @@ Always roll on the first attack after the previous attack pattern, this is the s
   
 **"On your toes, lone warrior."**
 
-See the first parry check. Note that the orbs will start at the same speed as the third "stage" of the first parry check.
+See the first parry check. Note that the orbs will start at the same speed as the third "stage" or "Spam Parry" stage of the first parry check.
 
 **Weakened Alpha Megalodaunt + Parry Checks:**
 

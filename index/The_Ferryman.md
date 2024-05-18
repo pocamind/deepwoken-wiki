@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 98187
+revid: 99291
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -249,20 +249,22 @@ Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests contain
   </td>
   <td>*Fight Begins*</td>
   <td><font><b>Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</b></font></td>
-  <td><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
+  <td><font><b>Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</b></font></td>
 </tr>
 <tr>
   <td>[Tell him your name]</td>
   <td rowspan="6"></td>
   <td rowspan="6"></td>
-  <td rowspan="6"></td>
+  <td>So, what are you?</td>
 </tr>
 <tr>
   <td><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font><br>
   </td>
+  <td><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
 </tr>
 <tr>
   <td>A wager?</td>
+  <td rowspan="4"></td>
 </tr>
 <tr>
   <td><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font><br>

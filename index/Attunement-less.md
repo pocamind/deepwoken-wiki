@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 98559
+revid: 99318
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -385,7 +385,7 @@ File:Disguising .gif
 
 -   These mantras are based on the number of weapons points you have, not your attribute or attunement.
 -   Their damage scales with the amount of weapon points you have.
--   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual", parry, block and hit enemies with your weapon.
+-   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual" (only to allocate stats, it cannot be used to train), parry, block and hit enemies with your weapon.
 
 ### _**Light Weapon Mantras**_
 

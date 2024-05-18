@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 99282
+revid: 99290
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -94,9 +94,9 @@ This spot is accessed by going behind [Mortus'](Mortus.md) shack
 
 **Tomb of the Nameless Warrior:**
 
-This spot can be seen once you enter the strength uncap room. There are two spots on the left and right of the obelisk.
+This spot can be seen once you enter the strength uncap room. There are two spots on the left and right of the obelisk. File:TOMB OF the nameless fishing spots.png
 
-File:TOMB OF the nameless fishing spots.png
+File:Tomb of the nameless warrior fishing spot.png
 
 **Starfield Grove:**
 
@@ -117,6 +117,10 @@ This slpot is located in the inner walls of the Lighthouse
 **The Entropy Catalyst:**
 
 This spot is located right at the entrance of [The Entropy Catalyst](The_Entropy_Catalyst.md)
+
+**Beloved Zofia:**
+
+This spot is located around the rocks in front of the front of the [Beloved Zofia](Beloved_Zofia.md)
 
 ## **Bait**
 
