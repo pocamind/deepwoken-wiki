@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 99383
+revid: 99387
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -55,10 +55,7 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 -   If you fish a Mudskipper: "What the...?!"
 -   If you fish a Lionfish: "A LIONFISH?!"
 -   If you fish a Treasure Chest: "Woah! A Treasure Chest!"
-
-  
-
-Catching a Golden Fish doesn't change the chat bubble.
+-   If you fish a Golden Fish: "Huh?..."
 
 ## Fishing Spots
 

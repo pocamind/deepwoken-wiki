@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 98285
+revid: 99400
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Cloaks]
 
 ## Description
 
-The Brigand's Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 3 Health and 1 Pip. It is commonly found in chests from [Summer Isle](Summer_Isle.md), [Scyphozia](First_Layer.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Brigand's Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 3 Health and 1 Pip. It is commonly found in chests from [Summer Isle](Summer_Isle.md), [Scyphozia](First_Layer.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Duke Erisia](Duke_Ishamon_Erisia.md), but can also be found rarely in Sea Event chests.
 
 ## Trivia
 

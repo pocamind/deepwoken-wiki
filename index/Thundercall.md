@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 98899
+revid: 99414
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -201,7 +201,7 @@ Grand Javelin
 Bolt Piercer  
 (★★☆)
 
- | An arrow of lighting. | 50 Ether | Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location.
+ | An arrow of lightning. | 50 Ether | Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location.
 
 -   Deals high damage.
     -   At Level 1, it can deplete more than half a healthbar from a freshie.

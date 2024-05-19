@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99327
+revid: 99388
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2390,6 +2390,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   "Bleed" gives a 30% damage bonus, is not accounted for in the damage cap, and bypasses armor.
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
+-   Action Surge \[Common Talent\] - Adrenaline Surge now increases your swing speed by 0.03 for its duration. (+1 Passive Agility)
+    -   Prerequisite: 90 Agility, Adrenaline Surge
 
 -   _Air Counter_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
     -   5 Seconds Cooldown.
