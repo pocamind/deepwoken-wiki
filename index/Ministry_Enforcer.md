@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 97554
+revid: 99444
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths]
@@ -8,54 +8,11 @@ categories: [Enemies, Ambush Enemies, Enemies with Oaths]
 
 # Ministry Enforcer
 
-A Ministry Enforcer is an NPC which only appears in [Faction Ambushes](Faction_Ambushes.md). It has two variants, both of course being called Ministry Enforcers.
-
-**Weaker Variant:**
-
-Template:EnemyInfobox1.0
+A Ministry Enforcer is an NPC which only appears in [Faction Ambushes](Faction_Ambushes.md). Template:EnemyInfobox1.0
 
 ## Description
 
-These weaker Ministry Enforcers are identical to [Ministry Scouts](Ministry_Scout.md), except they can only be found in [Faction Ambushes](Faction_Ambushes.md). They spawn in groups of 3 during [Ministry](The_Ministry.md) ambushes for lower-leveled players and/or players with a low reputation.
-
-A Ministry Enforcer's appearance consists of a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit with their [race](Aspects.md) varying.
-
-## Moveset
-
-A Ministry Enforcer's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
-| Shade Devour | Gorge on your own health for raw strength | ? | ◯ | (★☆☆) |
-| Shadow Assault | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. | ◯ | ◯ | (★★☆) |
-| Encircle | Conjure shadows around your enemy before
-warp-striking to them.
-
- | ◯ | ◯ | (★★☆) |
-| Eclipse Kick | Show your foes your strength. | ◯ | ? | (★★★) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (★☆☆) |
-
-### Boons
-
--   Third Eye - A Ministry Scout cannot be assassinated under any circumstances.
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Execute | Pins down opponent and slices their throat with dagger. |
-
-**Stronger Variant:**
-
-Template:EnemyInfobox1.0
-
-  
-
-## Description
-
-Ministry Enforcers are elite members of [the Ministry](The_Ministry.md) that use the [Way of Navae](Way_of_Navae.md) fist style, they appear in Ministry [ambushes](Faction_Ambushes.md) once your reputation has reached Villain.
+Ministry Enforcers are elite members of [the Ministry](The_Ministry.md) that use the [Way of Navae](Way_of_Navae.md) fist style, they appear in Ministry [ambushes](Faction_Ambushes.md) once your reputation has reached Villain. They will either spawn in groups of three or only one of them will spawn alongside two [Ministry Footpads](Ministry_Footpad.md).
 
 ## Moveset
 
@@ -122,13 +79,18 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 </tbody>
 </table>
 
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before firmly bashing their face. |
+
 ## Tips
 
 -   Their quick, powerful attacks with their Krulian Knives paired with their Shadowcast will easily overwhelm the less-skilled player and directly counter their mantras.
 
 ## Trivia
 
--   The weaker variants are identical to the [Ministry Footpad](Ministry_Footpad.md), despite both serving the exact same purpose.
 -   Rather ironically, the stronger variants use [Way of Navae](Way_of_Navae.md), despite the Ministry engaging in an ethnic cleansing of Navaen Nomads, as can be observed during their battles around [Summer Isle](Summer_Isle.md).
 -   The reward chest for the Ministry ambush has a small chance of yielding a Gran Sudaruska
 -   The stronger variants can use Judgment, from the [Oath: Contractor](Oath%253A_Contractor.md). Despite this, they lack the strings or red eyes that indicate the presence of the Oath.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 99301
+revid: 99431
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -239,6 +239,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 
 ## Trivia
 
+-   You need Power 3 to reroll your bell
 -   **Resonances** cannot be used when doing [Chime of Conflict 1v1s](Chime_of_Conflict.md).
 -   The higher the level you are, the easier it is to obtain a **Resonance**
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.

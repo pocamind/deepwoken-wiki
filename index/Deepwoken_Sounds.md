@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 99408
+revid: 99435
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -63,7 +63,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
 |  | 1.9s | [Hearthgem](Training_Gear.md) |
 |  | 0.9s | Foraging |
-|  | 1.9s | Placing Utility / Building [Guild Base](Guild_Bases.md) |
+|  | 1.9s | Placing Utility / Building [Guild Base](Guild_Bases.md) (1st Sound) |
 |  | 0.6s | [Flint](Flint.md) (Usage) |
 |  | 3.9s | [Produce Spark](Talents.md#flamecharmer) (Usage) |
 |  | 1.0s | [Object](Barrel.md) Placement |
@@ -101,12 +101,13 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.0s | [Potion](Alchemy.md) Broken (Thrown Splash) |
 |  | 0.9s | Vomiting |
 |  | 3.3s | [Fishing](Fishing.md) Cast |
-|  | 0.6s | [Fishing](Fishing.md) Reel \[1\] |
 |  | 1.4s | [Fishing](Fishing.md) Reel \[2\] |
+|  | 0.6s | [Fishing](Fishing.md) Reel \[3\] |
 |  | 2.0s | [Fishing](Fishing.md) Success |
 |  | 0.7s | [Fishing](Fishing.md) Failure |
 |  | 3.2s | [Seafarer's Chime](<Seafarer's_Chime.md>) |
-|  | 3.6s | [Bomb](Iron_Bomb.md) + Cannonball (Impact) |
+|  | 3.6s | Cannonball Impact |
+|  | 2.7s | [Bomb](Iron_Bomb.md) Impact |
 |  | 0.3s | Zipline Loop |
 |  | 7.1s | [Aerogliding](Talents.md#aeromancer) |
 |  | 2.7s | [Chime of Conflict](Chime_of_Conflict.md) + Shadow Vortex (Activation) / [Spire](Relics.md) (Deactivation) |
@@ -236,8 +237,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.1s | Anchor (Swing Windup) \[1\] |
 |  | 0.8s | Anchor (Swing Windup) \[2\] |
 |  | 49.7s | Collection of Swings & Flourishes (Dagger, Sword, Greataxe, Fist) |
-|  | 0.4s | Hit \[1\] |
-|  | 0.4s | Hit \[2\] |
+|  | 0.4s | Hit \[3\] |
+|  | 0.4s | Hit \[4\] |
 |  | 0.6s | Hit (Greathammer) |
 |  | 0.8s | [Way of Navae](Way_of_Navae.md) (Activation) |
 |  | 0.9s | Hit (Fist) \[1\] |
@@ -329,18 +330,19 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.3s | Ice Spikes Forming |
 |  | 1.7s | Ice Eruption |
 |  | 5.1s | Ice Fissure Loop |
-|  | 2.8s | Ice Lance / Kyrsan Spear (Impact) |
 |  | 0.4s | Ice Smash (Swing) |
 |  | 1.9s | Ice Forge (Impact) |
 |  | 1.3s | Warden Blades (Spinning) |
 |  | 1.9s | Warden Blades (Shattering) \[1\] / Giant Femur Shattering |
 |  | 1.0s | Warden Blades Shattering \[2\] |
+|  | 1.7s | Ice Lance + [Kyrsgarde](Kyrsgarde.md) Ice Spear (Windup) |
+|  | 2.8s | Ice Lance + [Kyrsgarde](Kyrsgarde.md) Ice Spear (Impact) |
 |  | 1.8s | Ice Lasers \[1\] |
 |  | 1.2s | Ice Lasers \[2\] |
 |  | 1.0s | Crystal Impale (Impact) |
 |  | 4.5s | Crystals (Detonation) |
-|  | 3.2s | Chill (Proc) \[1\] / Ice Beam Freeze |
-|  | 2.1s | Chill (Proc) \[2\] |
+|  | 3.2s | Freezing \[1\] / Ice Beam Freeze |
+|  | 2.1s | Freezing \[2\] |
 |  | 2.0s | [Thundercall](Thundercall.md) [Mantras](Mantras.md) |
 |  | 1.4s | Grand Javelin + Shadow Meteor (Windup) |
 |  | 1.9s | [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
@@ -357,8 +359,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.1s | Spark Swap |
 |  | 0.6s | Electrified (Proc) / [Static Withdraw](Talents.md#self-shocker) |
 |  | 0.8s | [Galebreathe](Galebreathe.md) [Mantras](Mantras.md) / [Gale Leap](Talents.md#cloudwalker) |
+|  | 0.7s | Winded (Hit Proc) |
 |  | 2.2s | Air Force / [Meteor Impact](Talents.md#falling-star-guard) |
-|  | 0.7s | Winded (Proc) |
 |  | 0.8s | Gale Wisp (Proc) \[1\] |
 |  | 0.7s | Gale Wisp (Proc) \[2\] / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Whoosh) |
 |  | 1.1s | Wind Blade (Windup) |
@@ -459,7 +461,6 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.7s | [Bounder](Bounder.md) Breathing Loop |
 |  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Giant Femur (Windup) / Hallowtide Grave Dig |
 |  | 0.8s | [Bonekeeper](Bone_Keeper.md) / [Kyrsgarde Brute](Kyrsgarde.md) Stomp |
-|  | 1.7s | [Kyrsgarde](Kyrsgarde.md) Ice Spear + Ice Lance (Windup) |
 |  | 4.1s | **Wake.** |
 |  | 1.8s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap \[1\] |
 |  | 3.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar \[1\] (Unofficial Edit) |
@@ -529,7 +530,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Storing Souls \[Unedited\] |
 |  | 3.0s | [Jar of Souls](Jar_of_Souls.md) Replenishing |
 |  | 2.1s | [Wind-Up](Wind-Up.md) (Impact) |
-|  | 0.8s | [Gravity Field](Gravity_Field.md) (Enter) |
+|  | 0.8s | [Gravity Field](Gravity_Field.md) (Collapse) / [Scion of Ethiron](Scion_of_Ethiron.md) Altars (Launch) |
 |  | 2.4s | [Resurrection](Resurrection.md) (Activation) |
 |  | 2.5s | [Resurrection](Resurrection.md) (Revive) |
 |  | 1.1s | [Resurrection](Resurrection.md) (Rise) |
