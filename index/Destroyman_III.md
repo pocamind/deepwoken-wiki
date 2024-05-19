@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 96386
+revid: 99372
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -124,13 +124,18 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 ## Destroyman III Removal Quotes
 
 -   I don't feel so good..
+-   Erm. Developer?
 -   Uh oh...
 -   I regret to announce this is the end! I am going now.
 -   Don't forget me.
 -   I'll be back.
 -   You're so cringe for this.
 -   You can see that light in the sky, too, right? Right?
+-   See you later, shark cowboy.
+-   Your free trial is over.
+-   On to the next journey.
 -   Journey before destination.
+-   It's lights out for me. Goodnight, Lumen!
 -   The Depths will not hold me. Just watch.
 
 ## Death Quotes

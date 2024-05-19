@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 95197
+revid: 99377
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -39,8 +39,7 @@ The critical causes the user to lunge forward at their enemies and knock them do
 
 ## Trivia
 
--   The **Petra's Anchor** is a reference to [May](https://guiltygear.fandom.com/wiki/May) from _[Guilty Gear](https://en.wikipedia.org/wiki/Guilty_Gear)._
--   Your able to use mantras during the second part of your critical which cancels it it's pretty good for mix ups.
+-   ups.
 -   File:Image 2024-01-21 191315044.png
     
     Petra's Anchor in a merchant ship

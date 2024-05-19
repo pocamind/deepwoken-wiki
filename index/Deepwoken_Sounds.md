@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 99340
+revid: 99373
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Upcoming content, Pages with broken file links, Deepwoken]
@@ -200,7 +200,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
 |  | 1.9s | [Hearthgem](Training_Gear.md) |
 |  | 0.9s | Foraging |
-|  | 1.9s | Placing Utility |
+|  | 1.9s | Placing Utility / Building [Guild Base](Guild_Bases.md) |
 |  | 0.6s | [Flint](Flint.md) (Usage) |
 |  | 3.9s | [Produce Spark](Talents.md#flamecharmer) (Usage) |
 |  | 1.0s | [Object](Barrel.md) Placement |
@@ -386,7 +386,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.6s | Gun Sheathe |
 |  | 2.7s | Gun Reload |
 |  | 0.8s | Gunshot |
-|  | 1.6s | Critical (Windup) |
+|  | 1.6s | Critical (Medium Windup) |
 |  | 1.5s | Critical (Sword) |
 |  | 1.0s | Critical (Greatsword) |
 |  | 2.4s | Critical (Greataxe) |
@@ -618,8 +618,8 @@ A large collection of sounds found in **Deepwoken**.
 | --- | --- | --- |
 |  | 1.9s | [Tranquil Circle](Oath%253A_Blindseer.md) (Activation) |
 |  | 1.6s | [Sightless Beam](Oath%253A_Blindseer.md) (Windup) |
-|  | 1.0s | [Illusionary Clones](Oath%253A_Visionshaper.md) (Activation) |
-|  | 2.5s | [Illusionary Realm](Oath%253A_Visionshaper.md) Loop |
+|  | 1.0s | [Illusory Servants](Oath%253A_Visionshaper.md) (Activation) |
+|  | 2.5s | [Illusory Realm](Oath%253A_Visionshaper.md) (Activation) |
 |  | 1.0s | [Stratos Step](Oath%253A_Jetstriker.md) |
 |  | 2.7s | [Arc Suit](Oath%253A_Arcwarder.md) (Activation) \[1\] |
 |  | 2.7s | [Arc Suit](Oath%253A_Arcwarder.md) (Activation) \[2\] |
@@ -714,8 +714,9 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.4s | Sea Gate Closing |
 |  | 0.8s | [Lifeweave](Oaths.md#lifeweave) |
 |  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin (Impact) / [Shard Bow](Shard_Bow.md) + [Navae](Way_of_Navae.md) Crit (Impact) |
+|  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
+|  | 5.2s | Freeze Ace Loop / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Growing) |
 |  | 1.7s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Anvil) |
-|  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) / Freeze Ace Loop / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Growing) |
 |  | 0.9s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Hit) |
 |  | 1.7s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Magic Whoosh) |
 |  | 0.9s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Smack) |

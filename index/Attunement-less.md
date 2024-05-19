@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 99318
+revid: 99375
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -242,6 +242,7 @@ File:Dash Mantra Demonstration.gif
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
     -   Increases movement speed and parkour abilities
     -   Procs the "Speed Demon" talent.
+    -   This Mantra can be further viable by using the talent "Action Surge" which increases the range of weapons by a extra 0.03 while the mantra is active.
     -   Upgrading reduces cooldown.
     -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 

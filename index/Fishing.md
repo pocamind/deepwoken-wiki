@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 99333
+revid: 99383
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -64,7 +64,7 @@ Catching a Golden Fish doesn't change the chat bubble.
 
 Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish.
 
-There are 9 known fishing locations in game:
+There are 10 known fishing locations in game:
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   Behind [Mortus'](Mortus.md) shack
@@ -75,6 +75,7 @@ There are 9 known fishing locations in game:
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
 -   The [Beloved Zofia](Beloved_Zofia.md)
+-   [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
 
 **Boatmans Watch:**
 
@@ -111,6 +112,10 @@ This spot is located at the entrance of [The Entropy Catalyst](The_Entropy_Catal
 **Beloved Zofia:**
 
 This spot is located around the rocks in front of the front of the [Beloved Zofia](Beloved_Zofia.md)
+
+**New Kyrsa, The Sleeping City:**
+
+This spot is located just in front of the waterfall.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 99323
+revid: 99376
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -51,7 +51,7 @@ categories: [Deepwoken]
 
 ### **Frostdraw**
 
--   The **Ice Skate** mantra and **Frozone** legendary talent is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
+-   The **Ice Skate** mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
