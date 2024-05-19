@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99352
+revid: 99420
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -45,7 +45,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Heavy
 
--   12 Great Axes (15 if alloyed)
+-   12 Great Axes (15
 -   11 Great Swords (15 if Alloyed)
 -   10 Great Hammers (11 if Alloyed)
 
@@ -2331,16 +2331,16 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
 -   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:
-    -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
-    -   Requirement: Hivelord's Hubris (100 HVY)
-    -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Shattered Katana/First Light/Nemit's Sickle/Kyrsedge/Kystreza/Flareblood Kamas/Pernarch (30%)
-    -   Chip damage: Night Axe (80%)
-    -   Scaling: Revolver, Divine Flintlock (15)
-    -   Weight: Sovereign's Punishment (13)
-    -   Range: Revolver, Divine Flintlock (12)
-    -   Swing Speed: Divine Flintlock (1.3x)
-    -   Highest DPS: Divine Flintlock
+    -   Base Damage: [Hivelord Hubris](<Hivelord's_Hubris.md>), [Divine Greatsword](Crazy_Slots.md) (30)
+    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY)
+    -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
+    -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kystreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernarch](Pernach.md) (30%)
+    -   Chip damage: [Night Axe](Night_Axe.md) (80%)
+    -   Scaling: [Revolver](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
+    -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
+    -   Range: [Revolver](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
+    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md) (1.3x)
+    -   Highest DPS: [Divine Flintlock](Crazy_Slots.md)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
 

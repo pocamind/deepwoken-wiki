@@ -1,11 +1,9 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 97547
+revid: 99422
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
-notices:
-  - "This page is still in progress! Please have patience, and aid the creation of this page!"
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Hive Adjudicator (NPC)
@@ -26,10 +24,10 @@ A Hive Arbiter's arsenal only consists of a [Katana](Katana.md):
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
-| Rising Flame | Spins and releases a fury of flames that sends both the caster and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
 | Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 | Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
-| Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
+| Flashdraw Strike | Caster goes up into the air on hit into an uppercut like state. | ◯ | ◯ | (★☆☆) |
+| Master's Flourish | Caster sends powerful slash that chips through block and slashes through armor. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
