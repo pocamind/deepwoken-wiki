@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 98995
+revid: 99486
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -38,6 +38,7 @@ Trade a Mantra of your choice and 5 Knowledges to gain a Whisper Draw.
 ## Details
 
 -   Lets you get whisper draws after max level.
+-   Make sure your mantra is active and not sitting in your inventory like a modifier.
 -   Don't forget to use a Mystic to help you get a specific mantra of your choice.
 -   **Be careful when trading your mantras, make sure you are not removing a mantra you actually want to keep.**
     

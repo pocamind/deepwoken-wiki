@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 99471
+revid: 99485
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -31,18 +31,19 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-Ysley's Pyre Keeper or Ysley's Pyre Cleaver "Callow & Verdant" (full name) is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). The drop rate of this weapon is extremely low from these sources. It can also drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest). It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
+Ysley's Pyre Keeper or Ysley's Pyre Cleaver "Callow & Verdant" (full name) is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). The drop rate of this weapon is extremely low from these sources. It can also drop from [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest), and by extension, [Fishing](Fishing.md). It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
 
 The Pyre Keeper comes with the following passives:
 
 -   **Lifelord's Blaze:** M1 attacks spawn green-yellowish flames on hit that cut the target's mobility in half.
 -   **Dual Scaling M1s:** M1 or critical attacks that swing with the dagger scale off light weapon rather then heavy.
 
+  
 As suggested by its item description, this blade was used by Ysley after it was crafted by a Greatlord of the Hive using the Flames of Life. The lore implications of this distinctive appearance may be written off by some, as its appearance may change color depending on the Azure Flame/Twisted Puppets path chosen by its user, though it is important to remember that its appearance could not be altered upon release.
 
 ## Critical
 
-Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding
+Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding.
 
 **Aerial**: Performs 2 consecutive attacks; the first one is a slash that burns and inflicts knockdown and the second is a ground slam that ragdoll flings the target, creating a green fire explosion and removing the burn effect. The second hit guardbreaks.
 
@@ -52,7 +53,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 **Sliding:** Leaps forward slashing with a flurry of 3 blows.
 
-**Crouching:** Performs the normal critical, but sped up significantly. \[Does this have the same speed boost as the normal critical?\]
+**Crouching:** Performs the normal critical, but sped up significantly.
 
 ## Trivia
 
