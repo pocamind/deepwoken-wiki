@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 68375
+revid: 99474
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Fishing]
@@ -16,4 +16,4 @@ Recipe - _2 Fish Meat_
 
 Can be bought at the [Etris Docks](Etris_Docks.md) and directly from [Mortus](Mortus.md) near [Lower Erisia](Lower_Erisia.md) for.
 
-Chum is also obtainable from Crustacean meat by killing King Crabs.
+Chum is also obtainable from Crustacean meat by killing King Crabs and the little crabs in the Deluvian mechanisim

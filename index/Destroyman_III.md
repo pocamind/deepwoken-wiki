@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 99372
+revid: 99451
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -192,7 +192,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   He is based on a sticker in the Discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy), a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
--   The line "I've been thinking of starting a band recently. Might call it (Adjective) (Noun). What do you think?" has many possible responses with a list of verbs and nouns. Two-time, Generated, Lore, and Wheat are some possible verbs, while Tony, Tornado, and Error are some possible nouns.
+-   The line "I've been thinking of starting a band recently. Might call it (Adjective) (Noun). What do you think?" has many possible responses with a list of verbs and nouns. Two-time, Generated, Lore, Moe, and Wheat are some possible verbs, while Tony, Tornado, "Of pockets", and Error are some possible nouns.
 -   Despite being a physical virus, he refers to being coded.
 -   The tooltip "TIP: Birds aren't real." is a reference to the satirical conspiracy theory of the same name, "[Birds Aren't Real](https://en.wikipedia.org/wiki/Birds_Aren%27t_Real)".
 -   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "[Every copy of Super Mario 64 is personalized](https://knowyourmeme.com/memes/super-mario-64-conspiracy-theories)" craze/conspiracy that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.

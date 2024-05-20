@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 98700
+revid: 99475
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -48,11 +48,7 @@ Brings up the dialogue, "Hollow... empty..." Makes the death of mobs not give he
 
 ### Timebomb
 
-White orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
-
-### Corpse Explosion
-
-If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
+If during the waves, the text "Tick tick tick..." appears, white orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
 
 ### Ghostly Reminiscence
 
@@ -67,8 +63,8 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you ironically can't gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
 -   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the Tidekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
--   _**Ardour, Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
--   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of the best PVE weapons in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
+-   _**Ardour: Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
+-   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
 -   _**Vampirism;**_ This is easily one of the best enchants for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
 -   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 
@@ -112,7 +108,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupt Owl |  |
 | 14 (Featherly Brotherhood)
 
-**\*CORPSE EXPLOSION MODIFER\***
+**\*TIMEBOMB MODIFER\***
 
  | 2 Corrupt Owls |  |
 | 15 (Great Corrupted) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
@@ -144,7 +140,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Blazing Mechalodaunt, 1 Flamewreathed Corrupt Rogue Construct, 1 Flamewreathed Mechalodaunt |  |
 | 34 (Gale Fiesta)
 
-**\*CORPSE EXPLOSION MODIFER\***
+**\*TIMEBOMB MODIFER\***
 
  | 3 Galeforce Enforcer, 1 Corrupt Galeforce Kyrsgarde-Sniper. |  |
 | 35 (Shadow Rave) | 1 Corrupt Shadowmeld Prime Golem, 1 Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers |  |
@@ -186,12 +182,12 @@ Based on the power of the user(s), the starting wave will differ;
 
  | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchant-wielding Diver Husks |  |
 | 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned(?) Deep Widow, 2 Corrupt Golem Primes |  |
-| 49 (Divine Humor) | 1 Lowly Bandit | Pray. |
+| 49 (Divine Humor) | 1 Lowly Bandit | The only wave that actually lets you take time. |
 | 50 (End of the Hell)
 
-\***CORPSE EXPLOSION MODIFIER**\*
+\***TIMEBOMB** **MODIFIER**\*
 
- | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ |  |
+ | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | Pray. |
 
 ## Tips/Trivia
 
@@ -202,7 +198,7 @@ Based on the power of the user(s), the starting wave will differ;
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
 -   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
 
--   The bandit at wave 49 serves as a health pack for players who are low.
+-   The bandit at wave 49 serves as a health pack for players who are low or to rest and heal with a Graceful Flame.
 
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
 -   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.

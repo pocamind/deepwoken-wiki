@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 98300
+revid: 99469
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -29,11 +29,11 @@ categories: [Weapons]
 
 ## Description
 
-The **Coral Cestus** is a Fist Light Weapon that requires 75 LHT to use. It is mostly better than [Flamekeeper Cestus](Flamekeeper_Cestus.md) and it drops from either [Mudskipper Brute](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+The **Coral Cestus** is a Fist Light Weapon that requires 75 LHT to use and drops from either the [Mudskipper Brute](Mudskipper_Brute.md) or the [Mudskipper Broodlord](Mudskipper_Broodlord.md). It has slightly higher damage, penetration, and scaling than the [Flamekeeper Cestus](Flamekeeper_Cestus.md), but has slightly slower swing speed and a different critical.
 
-## Critical
+### Critical
 
-The user leaps into the air forward and slams down into the ground, creating a large AoE that applies short knockdown.
+The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown.
 
 ## Trivia
 

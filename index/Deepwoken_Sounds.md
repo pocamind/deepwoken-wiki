@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 99435
+revid: 99466
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,7 +16,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 -   All sounds are supposed to be .mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to .mp3s manually, or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
 -   Use \[CTRL + F\] or \[F3\] to find a specific sound you want. Do note that the search bar can only find words on categories you expanded.
 
-### [Character](Character_Creation.md)
+### **[Character](Character_Creation.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | Stomach Growl ([Low Hunger](Food.md)) |
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
 
-### [Utility & Items](Training_Gear.md)
+### **[Utility & Items](Training_Gear.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -121,9 +121,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 20.1s | [Heretic's Sutra](Talents.md#heretics-sutra) (Full) |
 |  | 8.8s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) (Unedited) |
 |  | 1.3s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) |
-|  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
 
-### [Boats](Ships_&_Sailing.md)
+### **[Boats](Ships_&_Sailing.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -141,7 +140,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.9s | Ironclad Engine Starting |
 |  | 3.4s | Ironclad Engine Stopping |
 
-### [Environment](Maps.md)
+### **[Environment](Maps.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -178,7 +177,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.5s | Crumbling Spikes |
 |  | 1.0s | Spike Impact |
 |  | 1.1s | Parasite Maturing |
-|  | 14s | [Ignition Radio](<Pilgrim's_Respite.md>) Loop |
+|  | 14.4s | [Ignition Radio](<Pilgrim's_Respite.md>) Loop |
+|  | 0.6s | [Ignition Radio](<Pilgrim's_Respite.md>) Chatter |
 |  | 11.0s | Ignition Lantern Loop |
 |  | 2.7s | Generator (Activation) |
 |  | 1.1s | Generator Loop |
@@ -191,12 +191,13 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 5.1s | [Kyrsan](Kyrsgarde.md) Ambush |
 |  | 5.0s | [Kyrsan Sewers](Second_Layer/New_Kyrsa.md) Growling |
 
-### [Cards & Levelling](Talents.md)
+### **[Cards & Levelling](Talents.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 1.2s | Card Pick |
 |  | 1.4s | Selecting Freeze Ace |
+|  | 6.9s | Freeze Ace Loop |
 |  | 1.8s | Card Freeze \[1\] |
 |  | 2.4s | Card Freeze \[2\] |
 |  | 8.6s | Card Burning Sounds |
@@ -212,7 +213,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.8s | Locked [Attribute](Attributes.md) \[2\] |
 |  | 6.0s | [Power](Power.md) Increase |
 
-### [Combat](https://deepwoken.fandom.com/wiki/Combat_Mechanics)
+### **[Combat](https://deepwoken.fandom.com/wiki/Combat_Mechanics)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -268,12 +269,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.9s | Successful Dodge |
 |  | 1.7s | [Venting](Combat_Mechanics.md) |
 |  | 0.8s | Burning Extinguished |
-|  | 2.0s | [Grim](Enchantments.md) (Proc) \[1\] (Unofficial Edit) |
-|  | 2.4s | [Grim](Enchantments.md) (Proc) \[2\] |
-|  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
-|  | 15.2s | [Enchant Curses](Enchantments.md) Loop |
+|  | 0.8s | [Dark Rift](Talents.md#dark-siphon) (Activation Alt) |
 
-### [Mantras](Mantras.md)
+### **[Mantras](Mantras.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -293,7 +291,6 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.3s | Prominence Draw (Windup) |
 |  | 1.6s | Prominence Draw (Unleash) |
 |  | 2.0s | Ceaseless Slashes (Windup) |
-|  | 1.8s | Tacet Drop Kick (Windup) |
 |  | 1.8s | Revenge [Mantra](Mantras.md) |
 |  | 2.0s | Adrenaline Surge [Mantra](Mantras.md) |
 |  | 1.8s | Dash [Mantra](Mantras.md) |
@@ -373,7 +370,6 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.3s | Tornado Kick (Impact) |
 |  | 1.8s | Shadow Blinded (Proc) / [Trial of One](Trial_of_One.md) Spawn |
 |  | 14s | Shadow Roar |
-|  | 0.8s | [Dark Rift](Talents.md#dark-siphon) (Activation) |
 |  | 2.0s | Shadow Eruption |
 |  | 1.2s | Shade Bringer (Windup) |
 |  | 4.7s | Shade Bringer (Full, Multiplying Spark & Spring Spark) |
@@ -402,7 +398,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.7s | [Wind Gem](Mantra_Modifiers.md#deep-gems) Proc (Proc) |
 |  | 0.1s | [Insignia Gem](Mantra_Modifiers.md#deep-gems) Proc (Proc) |
 
-### [Monsters](Monsters.md)
+### **[Monsters](Monsters.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -441,7 +437,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | [Enforcer](Enforcer.md) Damaged |
 |  | 2.6s | [Enforcer](Enforcer.md) Pull / [Radiant Kick](Oath%253A_Dawnwalker.md) (Windup) / Metal Gatling Pull |
 |  | 1.6s | [Nautilodaunt](Nautilodaunt.md) Digging Loop |
-|  | 2.6s | [Nautilodaunt](Nautilodaunt.md) Vent |
+|  | 2.6s | [Nautilodaunt](Nautilodaunt.md) Vent (Unedited) |
+|  | 1.5s | [Nautilodaunt](Nautilodaunt.md) Vent |
 |  | 1.5s | [Nautilodaunt](Nautilodaunt.md) Water Stomp |
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
@@ -459,6 +456,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 35.5s | [Bounder](Bounder.md) Ambush |
 |  | 0.9s | [Bounder](Bounder.md) Breathing Loop (Unedited) |
 |  | 1.7s | [Bounder](Bounder.md) Breathing Loop |
+|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) |
 |  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Giant Femur (Windup) / Hallowtide Grave Dig |
 |  | 0.8s | [Bonekeeper](Bone_Keeper.md) / [Kyrsgarde Brute](Kyrsgarde.md) Stomp |
 |  | 4.1s | **Wake.** |
@@ -475,7 +473,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.1s | Alternative [Monster](Monsters.md) Stomp \[1\] |
 |  | 0.8s | Alternative [Monster](Monsters.md) Stomp \[2\] |
 
-### [Oaths](Oaths.md)
+### **[Oaths](Oaths.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -508,7 +506,29 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.9s | [Equalizer](Oath%253A_Contractor.md) (Reel) |
 |  | 4.1s | [Mani Katti](Oath%253A_Silentheart.md) (Combat Tag included) |
 
-### [Resonances](Resonance.md)
+### **[Murmurs](Murmur.md)**
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 1.0s | [Ardour Murmur](Murmur.md) (Activation) |
+|  | 19.4s | [Ardour Murmur](Murmur.md) Loop |
+|  | 1.0s | [Ardour Murmur](Murmur.md) (Deactivation) / [Voidwalker](Origins.md#voidwalker) Successful Hunt |
+|  | 2.0s | [Tacet Murmur](Murmur.md) (Activation) |
+|  | 1.0s | [Tacet Murmur](Murmur.md) (Deactivation) |
+|  | 1.8s | Tacet Drop Kick (Windup) |
+|  | 2.1s | [Rhythm Murmur](Murmur.md) (Activation) |
+
+### **[Enchantments](Enchantments.md)**
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
+|  | 2.0s | [Grim](Enchantments.md) (Proc) \[1\] (Unofficial Edit) |
+|  | 2.4s | [Grim](Enchantments.md) (Proc) \[2\] |
+|  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
+|  | 15.2s | [Enchant Curses](Enchantments.md) Loop |
+
+### **[Resonances](Resonance.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
@@ -535,7 +555,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.5s | [Resurrection](Resurrection.md) (Revive) |
 |  | 1.1s | [Resurrection](Resurrection.md) (Rise) |
 |  | 3.7s | [Portals](Portals.md) (Enter) |
-|  | 2.0s | [Portals](Portals.md) (Exit) / [Jetstriker](Oath%253A_Jetstriker.md) Dash / [Rain Spire](Relics.md) Placement / [Curved Blade of Winds](Curved_Blade_of_Winds.md) Stance Changing |
+|  | 2.0s | [Portals](Portals.md) (Exit) / [Jetstriker](Oath%253A_Jetstriker.md) Dash / [Rain Spire](Relics.md) Summon / [Curved Blade of Winds](Curved_Blade_of_Winds.md) Stance Changing |
 |  | 0.4s | [Combat Portals](Portals.md) (Leg Uppercut) / [Drakemaw](Drakemaw_Gauntlets.md) Critical (Unleash) |
 
 ### **[Deaths](Death.md)**
@@ -564,11 +584,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 15.0s | Achieving **B Rank / C Rank** |
 |  | 15.0s | Achieving **D Rank / E Rank** |
 
-### Miscellaneous
+### **Miscellaneous & Unused**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 0.3s | Deepwoken Menu Hover |
+|  | 0.2s | Deepwoken Menu Hover |
 |  | 1.4s | Deepwoken Menu Select |
 |  | 0.8s | [Destroyman III](Destroyman_III.md) |
 |  | 5.1s | [Chime](Chime_of_Conflict.md) Match Found (Mental Trauma) |
@@ -576,21 +596,16 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
 |  | 0.8s | [Lifeweave](Oaths.md#lifeweave) |
-|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / [Shard Bow](Shard_Bow.md) + [Navae](Way_of_Navae.md) Crit (Impact) |
-|  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
-|  | 5.2s | Freeze Ace Loop / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Growing) |
+|  | 1.9s | [Shard Bow](Shard_Bow.md) + [Navae](Way_of_Navae.md) Crit (Impact) |
+|  | 5.2s | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) Portal & Dev Gate Portal Loop |
+|  | 2.5s | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) Portal & Dev Gate Portal Teleport |
+|  | 5.2s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Growing) |
 |  | 1.7s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Anvil) |
 |  | 0.9s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Hit) |
 |  | 1.7s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Magic Whoosh) |
 |  | 0.9s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Smack) |
 |  | 3.5s | Passing Through Barriers / Aratel's Green Jump Pads / [Forge Piece](Artifacts.md) Picked Up |
 |  | 3.7s | [Forge Piece](Artifacts.md) Loop + [Ardour Murmur](Murmur.md) Obtained |
-|  | 1.0s | [Ardour Murmur](Murmur.md) (Activation) |
-|  | 19.4s | [Ardour Murmur](Murmur.md) Loop |
-|  | 1.0s | [Ardour Murmur](Murmur.md) (Deactivation) / [Voidwalker](Origins.md#voidwalker) Successful Hunt |
-|  | 2.0s | [Tacet Murmur](Murmur.md) (Activation) |
-|  | 1.0s | [Tacet Murmur](Murmur.md) (Deactivation) |
-|  | 2.1s | [Rhythm Murmur](Murmur.md) (Activation) |
 |  | 0.7s | [Layer 2, Floor 1](Second_Layer.md) Key Grab |
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Unlock Passageway |
 |  | 15s | [Layer 2](Second_Layer.md) Passageway Opening / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Spawn) |
