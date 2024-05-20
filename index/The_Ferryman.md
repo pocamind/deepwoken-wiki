@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 99291
+revid: 99479
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -300,7 +300,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
 -   Arch\_Mage has stated that the Ferryman is "probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality)".
 
--   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would receive the small chest, instead of a Krulian Knife.
+-   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would 1 knowledge, instead of a Krulian Knife.
 -   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
