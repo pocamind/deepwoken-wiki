@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99477
+revid: 99482
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1692,7 +1692,7 @@ _**"I seek the qualities of Heat Column."**_
 ### Prospector
 
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
--   Prerequisite: Complete Ciea's Quest 3 times.
+-   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
 
 -   Excavator \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
     -   Prerequisite: Turn in 5 pure ores at a blacksmith.
@@ -2670,7 +2670,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 ### Harvester
 
--   Talk to Ciea which is located inside of the hive widow cave entrance. They will ask you to make 3 potions.
+-   Talk to [Ciea](Ciea.md) which is located inside of the hive widow cave entrance. They will ask you to make 3 potions.
     -   See [Alchemy](Alchemy.md) for potion recipes that won't do absolutely nothing.
 -   The closest cauldron is located at the Light Keepers Temple, if you do not have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit.
 

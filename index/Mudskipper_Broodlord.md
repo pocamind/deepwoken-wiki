@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 99470
+revid: 99480
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -48,9 +48,10 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 -   Be mindful of Lumbering Smash, as they can easily board your boat using it.
 -   They can accidentally hit their own mudskippers and kill them. Take this and use it however you want.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
+-   Don't rely on other NPCS to save you from the Broodlord, as nine times out of ten, the Broodlord always wins.
 
 ## Trivia
 
 -   They can parry some "instant kill/multi-hit mantras" such as Caltrops.
 -   Both this enemy and the [Mudskipper Brute](Mudskipper_Brute.md) are inspired by the Clickers from _The Last Of Us_. This indicates that they are possibly the final form of a mudskipper's lifecycle, and are what a mudskipper becomes if it survives long enough.
--   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24.
+-   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
