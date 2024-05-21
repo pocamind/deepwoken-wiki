@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 99466
+revid: 99558
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -32,8 +32,13 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.6s | Stone Step \[2\] |
 |  | 0.5s | Snow Step \[1\] |
 |  | 0.5s | Snow Step \[2\] |
+|  | 0.4s | Jumping |
+|  | 8.3s | Falling (Loop) |
+|  | 0.4s | Landing |
 |  | 0.4s | Fall Damage |
+|  | 0.6s | Getting Up (From Knockdown) |
 |  | 4.5s | Sliding |
+|  | 2.4s | Climbing (Ladder) |
 |  | 0.6s | Wall Climbing |
 |  | 0.8s | Rolling |
 |  | 0.4s | [Aerial Assault](Talent_Quests.md#aerial-assault) (Air Dash) |
@@ -48,6 +53,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.9s | Dashing While Swimming |
 |  | 1.5s | Stomach Growl ([Low Hunger](Food.md)) |
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
+|  | 1.6s | [Heliodar](Heliodar.md) Wings Flapping |
+|  | 3.6s | [Barber](Barber.md) Succesful Hair Change |
+|  | 0.9s | Spitting |
 
 ### **[Utility & Items](Training_Gear.md)**
 
@@ -62,8 +70,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.2s | [Pure Heart](Training_Gear.md) / [Bloodless Gem](Mantra_Modifiers.md#deep-gems) Proc |
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
 |  | 1.9s | [Hearthgem](Training_Gear.md) |
+|  | 4.9s | [Hermafrost](Training_Gear.md) |
 |  | 0.9s | Foraging |
-|  | 1.9s | Placing Utility / Building [Guild Base](Guild_Bases.md) (1st Sound) |
+|  | 3.7s | Spawning [Guild Base](Guild_Bases.md) |
+|  | 1.9s | Placing Utility / Building [Guild Bases|Guild Base](Guild_Bases.md) (1st Sound) |
+|  | 1.2s | [Guild Base](Guild_Bases.md) Successful Build |
 |  | 0.6s | [Flint](Flint.md) (Usage) |
 |  | 3.9s | [Produce Spark](Talents.md#flamecharmer) (Usage) |
 |  | 1.0s | [Object](Barrel.md) Placement |
@@ -87,8 +98,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 3.0s | [Mantra Table](Mantra_Lectern.md) Failure |
 |  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
 |  | 0.6s | [Cauldron](Alchemy.md) (Ingredient Added) |
+|  | 0.9s | [Cauldron](Alchemy.md) Ingredient Added (Alt) |
 |  | 19.7s | [Cauldron](Alchemy.md) Bubbling Loop \[1\] |
 |  | 14.0s | [Cauldron](Alchemy.md) Bubbling Loop \[2\] |
+|  | 0.7s | [Cauldron](Alchemy.md) Failure |
+|  | 0.8s | [Cauldron](Alchemy.md) Water Drain |
 |  | 0.6s | Eating (1) |
 |  | 0.5s | Eating (2) |
 |  | 0.7s | Eating (3) |
@@ -101,8 +115,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.0s | [Potion](Alchemy.md) Broken (Thrown Splash) |
 |  | 0.9s | Vomiting |
 |  | 3.3s | [Fishing](Fishing.md) Cast |
+|  | 0.8s | [Fishing](Fishing.md) Rod Landing |
+|  | 0.8s | [Fishing](Fishing.md) Reel \[1\] |
 |  | 1.4s | [Fishing](Fishing.md) Reel \[2\] |
 |  | 0.6s | [Fishing](Fishing.md) Reel \[3\] |
+|  | 0.2s | [Fishing](Fishing.md) Rod Bite |
 |  | 2.0s | [Fishing](Fishing.md) Success |
 |  | 0.7s | [Fishing](Fishing.md) Failure |
 |  | 3.2s | [Seafarer's Chime](<Seafarer's_Chime.md>) |
@@ -117,15 +134,22 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Broken |
 |  | 2.2s | [Kyrsan](Second_Layer/New_Kyrsa.md) Obelisk + Puzzle Pad (Interaction) |
 |  | 1.2s | [Scion of Ethiron](Scion_of_Ethiron.md) Altars (Placing Giant Femur) |
+|  | 7.2s | [Heretic's Sutra](Talents.md#heretics-sutra) Activation (Unedited) |
 |  | 10.0s | [Heretic's Sutra](Talents.md#heretics-sutra) (Loop) |
 |  | 20.1s | [Heretic's Sutra](Talents.md#heretics-sutra) (Full) |
 |  | 8.8s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) (Unedited) |
 |  | 1.3s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) |
+|  | 0.5s | Using Map |
+|  | 4.6s | [Void Spire](Relics.md) Summon |
 
 ### **[Boats](Ships_&_Sailing.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
+|  | 1.7s | Cannonball (fired) |
+|  | 1.8s | Waterlock opening |
+|  | 2.6s | Waterlock splashing |
+|  | 3.9s | Waterlock ending |
 |  | 6.9s | Sea Gate Woosh |
 |  | 0.6s | Boat Clunking / Elevator Lever Usage |
 |  | 11s | Rudder Turning |
@@ -195,6 +219,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
+|  | 1.2s | Audacity Talent (proc) |
 |  | 1.2s | Card Pick |
 |  | 1.4s | Selecting Freeze Ace |
 |  | 6.9s | Freeze Ace Loop |
@@ -513,6 +538,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.0s | [Ardour Murmur](Murmur.md) (Activation) |
 |  | 19.4s | [Ardour Murmur](Murmur.md) Loop |
 |  | 1.0s | [Ardour Murmur](Murmur.md) (Deactivation) / [Voidwalker](Origins.md#voidwalker) Successful Hunt |
+|  | 2.3s | [Ardour](Murmur.md) Scream |
 |  | 2.0s | [Tacet Murmur](Murmur.md) (Activation) |
 |  | 1.0s | [Tacet Murmur](Murmur.md) (Deactivation) |
 |  | 1.8s | Tacet Drop Kick (Windup) |
@@ -527,6 +553,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.4s | [Grim](Enchantments.md) (Proc) \[2\] |
 |  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
 |  | 15.2s | [Enchant Curses](Enchantments.md) Loop |
+|  | 2.5s | Providence Thorns \[1\] |
+|  | 2.8s | Providence Thorns \[2\] |
+|  | 2.9s | Tears of the the Edenkite Impact |
 
 ### **[Resonances](Resonance.md)**
 
@@ -537,18 +566,22 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.5s | [Resonance](Resonance.md) (Activation) |
 |  | 2.9s | [Corrupted Resonance](Resonance.md) (Activation) |
 |  | 1.8s | [Legendary Resonance](Resonance.md) (Activation) |
+|  | 1.9s | [Legendary Resonance](Resonance.md) Activation alt |
 |  | 2.4s | [Dimensional Travel](Dimensional_Travel.md) (Activation) \[1\] |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) (Activation) \[2\] |
 |  | 8.6s | [Dimensional Travel](Dimensional_Travel.md) Layer 2 Rejection (Ambiance) / Gale Trap [Mantra](Mantras.md) |
 |  | 1.1s | [Dimensional Travel](Dimensional_Travel.md) Layer 2 Rejection (Push) |
-|  | 2.4s | [Blood Scourge](Blood_Scourge.md) (Activation) |
+|  | 2.4s | [Blood Scourge](Blood_Scourge.md) Activation |
+|  | 2.1s | Corrupted [Blood Scourge](Blood_Scourge.md) Activation |
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution (Unedited) |
 |  | 2.6s | [Blood Scourge](Blood_Scourge.md) Execution \[1\] (Unofficial Edit) |
 |  | 3.9s | [Blood Scourge](Blood_Scourge.md) Execution \[2\] (Unofficial Edit) |
 |  | 2.7s | [Blood Scourge](Blood_Scourge.md) (Proc) |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
+|  | 1.2s | [Jar of Souls](Jar_of_Souls.md) Storing Souls |
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Storing Souls \[Unedited\] |
 |  | 3.0s | [Jar of Souls](Jar_of_Souls.md) Replenishing |
+|  | 1.2s | [Jar of Souls](Jar_of_Souls.md) Executing |
 |  | 2.1s | [Wind-Up](Wind-Up.md) (Impact) |
 |  | 0.8s | [Gravity Field](Gravity_Field.md) (Collapse) / [Scion of Ethiron](Scion_of_Ethiron.md) Altars (Launch) |
 |  | 2.4s | [Resurrection](Resurrection.md) (Activation) |
@@ -557,6 +590,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 3.7s | [Portals](Portals.md) (Enter) |
 |  | 2.0s | [Portals](Portals.md) (Exit) / [Jetstriker](Oath%253A_Jetstriker.md) Dash / [Rain Spire](Relics.md) Summon / [Curved Blade of Winds](Curved_Blade_of_Winds.md) Stance Changing |
 |  | 0.4s | [Combat Portals](Portals.md) (Leg Uppercut) / [Drakemaw](Drakemaw_Gauntlets.md) Critical (Unleash) |
+|  | 2.0s | [Skeleton Key](Skeleton_Key.md) Summon |
+|  | 0.7s | [Skeleton Key](Skeleton_Key.md) Summon (Spiked) |
+|  | 0.6s | [Smite](Smite.md) Bell (On Hit) |
 
 ### **[Deaths](Death.md)**
 
@@ -567,6 +603,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.8s | Execution Spin (Gun) |
 |  | 1.3s | Killing Monster \[1\] / Poser's Ring (Activation) |
 |  | 1.3s | Killing Monster \[2\] |
+|  | 2.0s | Killing Monster \[3\] |
 |  | 1.7s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Death |
 |  | 5.2s | Parasites Hatching (Combat Tag included) |
 |  | 0.8s | Corpse Burned |

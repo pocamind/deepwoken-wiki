@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 96721
+revid: 99525
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -95,5 +95,5 @@ File:Kaide, The Drowned Light.png
 -   Contrary to popular belief, New Kyrsa didn't sink into the Depths. It was actually made inside the Depths by Kyrsgarde. New Kyrsa does not match human standards at all, not to mention the fact that Kaide and Naerotiv talks about it. Firfire also has the same technology and the fact entering Firfire makes you quote "seem familiar but very alien". New Kyrsa was made as shrine and bedchamber to Scion of Ethiron.
 -   You do not have to escape Second Floor via defeating the Scion of Ethiron in order to keep your quest progress. Talking to Carrion will still make him appear in Castle Light even if you Lighthook up or die within Lighthook's time frame. (Confirmed)
 -   The Kyrsgarde artillery on the outskirts of the city can be avoided by standing under cover. The spears do not go through objects.
--   The Kyrsgarde Artillery may be a reference to the chase scene with Undyne in the game _Undertale_.
+-   The Kyrsgarde Artillery may be a reference to the ~chase scene with Undyne in the game _Undertale_.~ the road to Caria Manor, Liurnia from _Elden Ring._
 -   New Kyrsa may be a reference to Amaurot from the game Final Fantasy XIV, with both having similar concept and design and Ethrion can be anagram of Therion, the final boss of Amaurot.
