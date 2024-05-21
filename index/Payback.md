@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 97407
+revid: 99568
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -34,7 +34,9 @@ Pressing C will activate the **Payback** Resonance.
 
 If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 50% of damage dealt.
 
-One of the best combat bells because it's mostly used while getting combo I-frames and free damage.
+-   One of the best combat bells because it's mostly used while getting combo I-frames and free damage.
+
+-   The best PvE tool in the game _**if corrupted**__**.**_ This is due to how PvE scaling works, the game considers the reflected damage as from the player meaning at Power 20 you're able to fully heal your health bar. This makes it excellent for Hell Mode, Diluvian, Bosses, and so forth due to the massive damage mitigation this offers.
 
 ### **Variants**
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 99403
+revid: 99570
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -178,7 +178,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Sear<div></div></font></center></td>
   <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 4%, MED: 6.66%, HVY: 10% per hit).<br>
-  The PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
+  The PEN it gives also counts for mantra damage and it does not bypass the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Lose thirst equal to 20% of damage taken.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
@@ -195,7 +195,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
-  Scales linearly with weapon damage.<sup><a href="#cite-note-1">[1]</a></sup></p></div></td>
+  Scales linearly with weapon damage.<sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
   <td><div>Metal parts are covered in a stone texture.</div></td>
 </tr>
 <tr>
@@ -644,7 +644,7 @@ Static flaming purple.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag[\[2\]](#cite-note-2), and still holds that sentiment to this day.
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag[\[3\]](#cite-note-3), and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overriden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1st, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
@@ -660,5 +660,9 @@ Static flaming purple.
 
 ## References
 
-1.  [↑](#cite-ref-1) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
-2.  [↑](#cite-ref-2)
+1.  [↑](#cite-ref-1)
+    
+    File:Arch sear pen.png
+    
+2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
+3.  [↑](#cite-ref-3)

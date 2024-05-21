@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 99469
+revid: 99567
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -43,3 +43,4 @@ The user leaps forwards into the air and slams into the ground, creating a large
 -   Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.
 -   Using Lootskipper or Vow of Thorns to get the Coral Cestus is not recommended, as their rarest drop is actually [Martial Artist](Martial_Artist.md), lowering the drop rate of these.
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
+-   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.

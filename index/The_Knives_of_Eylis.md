@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 99524
+revid: 99561
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -25,17 +25,17 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 ## Reputation
 
-Every [origin](Origins.md) excluding voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a voidwalker, you start with a friend reputation.
+Every [origin](Origins.md) excluding Voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
 
-There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a bounty board, located in the [Voidheart.](Voidheart.md) This bounty board includes bounties from all other factions with bounty boards. The default bad reputation with the knives combined with the voidwalker exclusive bounty board allows for new players to be very susceptible to voidwalker attacks.
+There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a bounty board, located in the [Voidheart.](Voidheart.md) This bounty board includes bounties from all other factions with bounty boards. The default negative reputation with the Knives that every origin except Voidwalker has makes players susceptible to being hunted, though Voidwalkers can still be hunted due to their negative reputation with The Hive and The Kingdom of Etrea.
 
-If you are a voidwalker, you may gain reputation by completing bounties on the Voidheart bounty board.
+If you are a Voidwalker, you may gain reputation by completing bounties on the Voidheart bounty board.
 
-If you are not a voidwalker, there is only one event in which you may help the Knives of Eylis and gain reputation:
+If you are not a Voidwalker, there is only one event in which you may help the Knives of Eylis and gain reputation:
 
 -   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
-There is no dialogue that changes depending on the reputation with the Knives of Eylis. If you gain negative reputation with the knives as a voidwalker, you may lose access to certain amenities in the Voidheart, such as the [antiquarian](Antiquarian.md) or [banker](Banker.md).
+There is no dialogue that changes depending on the reputation with the Knives of Eylis. If you gain negative reputation with the Knives as a Voidwalker, you may lose access to certain amenities in the Voidheart, such as the [Antiquarian](Antiquarian.md) or [Banker](Banker.md).
 
 You do not need positive reputation to obtain the voidwalker origin.
 
@@ -47,6 +47,4 @@ You do not need positive reputation to obtain the voidwalker origin.
 ## Trivia
 
 -   They are one of few factions with an [Oath](Oaths.md) tied to them, the others being [The Ministry](The_Ministry.md), [The Authority](The_Central_Authority.md), and the [Ignition Union](The_Ignition_Union.md).
-
--   Possibly a reference to the mythological location of Elysium where the heroes and kings would be sent when they died.
--   The faction's name could be reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as [Whalers](https://dishonored.fandom.com/wiki/Whalers).
+-   The faction's name could be a reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as [Whalers](https://dishonored.fandom.com/wiki/Whalers).

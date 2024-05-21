@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 98960
+revid: 99562
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -486,16 +486,14 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 **Lore Sources:**
 
 -   A region consisting of a variety of islands; from deserts, arctic and normal ones.
-
--   [The Eastern Luminant](Luminants.md) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
-    -   Major Factions aside, there are other factions that are encountered; such as the Hundred Legions, The Hive, and the Children of Navae.
--   There are two 'sub-Luminants' in the East, the Etrean Luminant and the Eastern Luminant separated by a large stone wall called The Spine of the East.
+-   The majority of the territories in the East are warzones, with Aratel Island and Erisia having constant conflict in their lands.
+-   There are two 'sub-Luminants' in the East, the Etrean Luminant and the Eastern Luminant, separated by a large stone wall called The Spine of the East.
 
 #### Eastern Interstitial Lighthouse (Eastern Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
 -   The [Lighthouse's](Eastern_Interstitial_Lighthouse.md) interior cannot be accessed, nor does it allow anyone to access the other [Luminants](Luminants.md) due to the fact that only Lightkeepers can operate them.
--   Viqh is still residing within it.
+-   Viqh is still residing within the Lighthouse.
 
 #### Erisia (Etrean Luminant)
 
@@ -558,19 +556,18 @@ The Citadel
 -   An archipelago with multiple settlements dotted across the region.
 -   Home to most of the Chrysid.
 -   Outside of Markor, surrounded by a dense mountain range known as the Stoneseye,
--   The Echelon, the city-state at the center of the isles, and where the council of the Moonlit Faith resides.
+-   The Echelon is the city-state at the center of the isles, and where the council of the Moonlit Faith resides.
 
 ### **Southern Luminant**
 
--   A location affected by a Great Drowning.
+-   The city of Celtor was once located here, though the Great Drowning has consumed it.
 -   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
--   The Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[2\]](#cite-note-arch-2)
+-   The Great Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[2\]](#cite-note-arch-2)
 
 ### **Northern Luminant**
 
 -   A frozen Tundra.
 -   Said that the temperatures are so extreme, that it has become very lethal recently due to the temperatures going lower with the pass of time.
--   Probably home to [Frostdraw](Frostdraw.md).
 -   [Polis](Polis.md) originates from here.
 -   Originally inhabited by the Elder Edenkite.
     -   The beheaded corpse of the Elder Edenkite who was killed by The Mad Steward remains there to this day.
@@ -586,7 +583,7 @@ The Citadel
 **Lore Sources:**
 
 -   A sea filled with nothing but null. The [Voidsea](Voidsea.md) is a gateway between [Luminants](Luminants.md) and [The Depths](The_Depths.md), either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
--   The Voidsea always existed, but with the Canticlysm, it began to increase in size, eventually blocking off the Luminants from each other.
+-   The Voidsea always existed as in the Old World it was known as The World's Edge, but with the Canticlysm, it began to increase in size, eventually blocking off the Luminants from each other.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
 -   They have been compared to a fraying edge on a fabric.
@@ -606,10 +603,8 @@ _"A place remembered only by the waves"_
 
 Glittering towers of ivory that hang over Lumen's seas.
 
--   The home of Celestials and Lightborns.
--   After the tides, the city was forced to evacuate.
--   Its forebearers, soldiers fighting against the Depths, lost their morale after the Celestials fled.
--   The Kyrsans, under Ethiron's will, raided the city with the help of weapons such as the [Kyrsieger](Kyrsieger.md), which could explain why there are fallen shards surrounding the towers within The Maw of Ethiron.
+-   The home of Celestials and the Lightborn, with Stone Knights guarding the city.
+-   The city was invaded by the Kyrsans under Ethiron's will, which resulted in the majority of the population perishing or evacuating down into the Luminants.
 
 ### **The Depths**
 
@@ -645,7 +640,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
     -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free.
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
     -   While many places throughout the world have sunk into The Depths, the city of Celtor is one of the largest and most notable.[\[2\]](#cite-note-arch-2)
-    -   The Ministry were responsible for this drowning, and used the city as an offering to Yun'Shul.
+    -   The Ministry were responsible for the Drowning, and used the city as an offering to Yun'Shul.
 -   The Depths became the place souls went to after death after the Great Drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
 ##### Castle Light (The Depths, First Layer)
@@ -654,7 +649,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
   
 
--   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier, Castle Light is not to be confused with Markor Citadel, the Diver base located on the surface.
+-   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier,
 -   The barrier, being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by death cannot bypass this barrier and instead rejects them and drains their Ether whilst those who are alive can go through with no harm done.
     -   There are no clues or evidence of the origins of this barrier, or what kind of magic it is made from.
 
@@ -665,7 +660,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 ##### Ethironal Shrine (First floor)
 
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
--   The 'snow' is not actually snow, but instead its parasitic eggs.
+-   The 'snow' is not actually snow, but instead consists of parasitic eggs.
 -   The Ignition Union has set up a base called [The Frontier Furnace](The_Frontier_Furnace.md) within the shrine, along with lanterns to burn the parasitic snow off.
     -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by The Central Authority to explore the deeper parts of The Depths and settle there efficiently while The Divers are more research-based and only go on expeditions to The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
     -   The Ethironal Shrine is under the same time dilation phenomenon as New Kyrsa, only less potent due to the distance between Ethiron's physical body and the shrine.
@@ -676,7 +671,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   New Kyrsa was built above the chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so they don't wake up, also explaining why it is necessary to activate them to fight its Scion.
 -   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosperous city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the train station below the town, and high buildings with signs of industrial advancement towards the surface.
 -   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde as told by Naerotiv in the outskirts of New Kyrsa.
--   Right now the city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
+-   The city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
 -   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron.
 -   Its inhabitants are the Kyrsgarde.
 
@@ -757,7 +752,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the race as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
--   The 11th Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
+-   The 11th Scouting Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
 -   The 11th Legion is suspected to be commanded by someone named Akilles, whom is responsible for dispatching the 11th Legion in the East.
 
 Amara, a Member of The Legion.
@@ -831,7 +826,7 @@ A Dark Mage, located in Minityrsa.
 ### The Knives of Eylis
 
 -   **Territory:** _Central Luminant_
--   **Encountered In:** _Aratel Sea, Erisia, Songseeker_
+-   **Encountered In:** _Aratel Sea, Erisia, Songseeker Wilds_
 -   **Attunements:** _None_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae_
@@ -861,7 +856,7 @@ A Dark Mage, located in Minityrsa.
 -   The Darksteel Greatsword[\[9\]](#cite-note-dsgs-9), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
--   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there still strong Deepdelvers such as Colonel Hoffa.
+-   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there are still strong Deepdelvers such as Colonel Hoffa.
 -   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
 -   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[11\]](#cite-note-alpha-11) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
@@ -876,7 +871,7 @@ A Dark Mage, located in Minityrsa.
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."
--   They are led by their Grand Sovereign, Drallis Ehr.[\[1\]](#cite-note-rag-1) Several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the east. These Wardens then have Inquisitors that work under them.
+-   They are led by their Grand Sovereign, Drallis Ehr.[\[1\]](#cite-note-rag-1) Several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the East. These Wardens then have Inquisitors that work under them.
     -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
     -   Many of the Inquisitors are named after flowers, such as Inquisitor Lotus.[\[2\]](#cite-note-arch-2)
 -   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit which is also referred to as Fortification Peak.

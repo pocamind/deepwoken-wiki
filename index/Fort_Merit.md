@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 92034
+revid: 99563
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,9 +19,9 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Fort Merit is an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Hostages](Etrean_Guardsman_Hostage.md) and Hostage Gremorian Nomads can be found in the cells of Fort Merit.
+Fort Merit was an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Hostages](Etrean_Guardsman_Hostage.md) and Hostage Gremorian Nomads can be found in the cells of Fort Merit.
 
-It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
+It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that can be docked from the shore.
 
 ## Contents
 

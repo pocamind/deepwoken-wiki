@@ -1,12 +1,21 @@
 ---
 title: Chum
-revid: 99474
+revid: 99565
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Fishing]
 ---
 
 # Chum
+
+| Chum | |
+|---|---|
+| value | X (from shop) |
+| weight | 0.25 |
+| type | * Buyable, Crafting with Fishmeat. |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
 
 You can use chum as bait when [Fishing](Fishing.md). It's somewhat useless as just straight Fish Meat can be used for fishing as well, but may increase chances of getting hooks.
 

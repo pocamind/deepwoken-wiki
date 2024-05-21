@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 99518
+revid: 99560
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -41,7 +41,7 @@ There are a substantial amount of ways to gain reputation with Etrea:
 -   Helping Etrea during the rare [etris invasion event](Cinders_of_Etris.md).
 -   Doing the [Fort Merit](Fort_Merit.md) hostage rescue quest.
 
-On top of that, Etrea has many [random events](Random_Encounters.md) across the Lumen in which you may assist them and gain reputation:
+On top of that, Etrea has many [random events](Random_Encounters.md) across the Luminants in which you may assist them and gain reputation:
 
 -   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
 -   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
