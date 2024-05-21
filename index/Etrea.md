@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 98304
+revid: 99518
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -31,14 +31,26 @@ The soldiers in Etris are purely Etrean, with the [Mantra Collector](Mantra_Coll
 
 ## Reputation
 
-Enemy status with an allied faction
+For the castaway and lone warrior [origins](Origins.md), the player spawns in with a low friend [reputation](Reputation.md) with Etrea. Deepbound players will spawn in with neutral reputation, and voidwalkers will spawn in with an enemy reputation.
 
--   Dialogue of the guards becomes unique, showing hatred towards the player.
+There are a substantial amount of ways to gain reputation with Etrea:
 
-Enemy status with Etrea
+-   Donating wood to either [Korin](Korin.md) or Drefa.
+-   Occasionally when defeating the [Blade Instructor](Blade_Instructor.md).
+-   Defeating the [bandits](Bandit.md) at either [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
+-   Helping Etrea during the rare [etris invasion event](Cinders_of_Etris.md).
+-   Doing the [Fort Merit](Fort_Merit.md) hostage rescue quest.
 
--   Guards will instantly attack you, NPC's in Etrea or Isle of Vigils will refuse to help you, except: Blacksmiths.
--   Displayed on the Bounty Board. (Along with appearing in the [Voidheart](Voidheart.md) bounty board.)
+On top of that, Etrea has many [random events](Random_Encounters.md) across the Lumen in which you may assist them and gain reputation:
+
+-   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
+-   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction([Starswept Valley](The_Starswept_Valley.md))
+-   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+
+Etrea is among the factions with a [bounty board](Bounty_Hunting.md). They also have a reputation reset NPC, Nerin, located above the main entrance area of [Etris](Etris.md).
+
+You need a high friend reputation with Etrea in order to start the lord regent's questline. Having a negative reputation with Etrea removes your ability to talk to several key NPC's(i.e [bankers](Banker.md) and [antiquarians](Antiquarian.md)) as usual.
 
 ## Notable Members
 

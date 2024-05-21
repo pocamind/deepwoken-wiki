@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 98622
+revid: 99502
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -29,9 +29,10 @@ These events occur randomly in the world or within a location.
 
 Groups of NPCs from different factions will spawn in Etrean Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md) Authorityiconfaction ([Erisia](Erisia.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
 -   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   [Legion Soldiers](Legion_Soldier.md) vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   [Legion Soldiers](Legion_Soldier.md) vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   [Legion Captain](Legion_Captain.md) + Legion Soldier vs Authority OfficersAuthorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
 
 #### Authority's Invasion of Etris
 

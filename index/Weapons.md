@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99420
+revid: 99496
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -34,7 +34,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   13 Daggers (16 if Alloyed)
 -   8 Fists
 -   5 Guns (6 if Alloyed)
--   6 Rapiers
+-   7 Rapiers
 
 #### Medium Weapon
 
@@ -56,10 +56,10 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   111 Total Weapons (Non-Alloyed, Non-Exclusive)
--   116 Total Weapons (Non-Alloyed, Exclusive)
--   128 Total Weapons (Alloyed, Non-Exclusive)
--   133 Total Weapons (Alloyed, Exclusive)
+-   112 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   117 Total Weapons (Non-Alloyed, Exclusive)
+-   129 Total Weapons (Alloyed, Non-Exclusive)
+-   134 Total Weapons (Alloyed, Exclusive)
 
 ## Stances
 

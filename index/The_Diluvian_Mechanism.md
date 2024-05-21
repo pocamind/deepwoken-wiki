@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 99475
+revid: 99523
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -111,7 +111,7 @@ Based on the power of the user(s), the starting wave will differ;
 **\*TIMEBOMB MODIFER\***
 
  | 2 Corrupt Owls |  |
-| 15 (Great Corrupted) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
+| 15 (Mutant Galore) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
 | 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupt Enforcer |  |
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |

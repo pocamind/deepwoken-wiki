@@ -1,9 +1,9 @@
 ---
 title: The Children of Navae
-revid: 97616
+revid: 99519
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Factions]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -12,7 +12,7 @@ notices:
 
 | The Children of Navae | |
 |---|---|
-| territory | Meteor Isle |
+| territory | Meteor IsleEtrean Wilds Camp |
 | goals | Survival |
 
 “ Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. ”
@@ -25,6 +25,20 @@ A mainly nomadic tribe of mainly [Gremors](Gremor.md) who are guided by [Navae](
 
 ## Reputation
 
+Every [origin](Origins.md) excluding voidwalker starts with a neutral [reputation](Reputation.md) with the Children of Navae. Voidwalkers start with an enemy reputation.
+
+There is no reputation reset NPC for this faction, nor do they have a [bounty board](Bounty_Hunting.md).
+
+In order to gain reputation, you may rescue [Navaen hostages](Navaen_Hostage.md) and bring them to a nomad leader, most typically the [Eastern Camp Master](Cheral.md) in the [Etrean Wilds](Etrean_Wilds.md) Navae camp.
+
+Your reputation will also increase if you do [Beiruul's](Beiruul.md) quest in [Meteor Isle](Meteor_Isle.md) to attack [Fort Merit](Fort_Merit.md). There are no other ways to gain reputation in Meteor Isle, even after killing [Meteorskippers](Mudskipper.md) and [Authority Soldiers](Authority_Soldier.md).
+
+There is only one random event in which you may assist the Children of Navae and gain reputation:
+
+-   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
+
+In the aftermath of this event, it is possible to give a Navaen hostage to the tribal leader if they are still alive.
+
 ### **Dialogue**
 
 Ally Reputation:
@@ -35,7 +49,7 @@ Ally Reputation:
 
 -   "Ah, Bloodkin \[Name\]. I am honored to have your assistance." (Only the Eastern Camp Master will say this if you have almost max reputation with them.)
 
-Good Reputation: (Close to ally reputation)
+Very Friendly Reputation: (Close to ally reputation)
 
 -   "Navae guide you, homelander."
 

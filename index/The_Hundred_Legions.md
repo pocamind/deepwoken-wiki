@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 95251
+revid: 99499
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -31,9 +31,9 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
 
-By default, every single origin starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral.
+By default, every single [origin](Origins.md) starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral.
 
-There is no reputation reset NPC for The Hundred Legions.
+There is no reputation reset NPC for The Hundred Legions, nor do they have a bounty board.
 
 The only way to gain reputation with The Hundred Legions(other than being a Khan or having a specific talent) is through helping them fight in specific [random encounters](Random_Encounters.md):
 

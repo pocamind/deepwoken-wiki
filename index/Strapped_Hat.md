@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 89196
+revid: 99508
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats]
@@ -16,7 +16,7 @@ categories: [Equipment, Hats]
 | requirements | None |
 | weight | 1 |
 | innate stats | +3 HP |
-| innate talent | The Exterminator |
+| innate talent | Exterminator |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,4 +26,4 @@ categories: [Equipment, Hats]
 
 ## Description
 
-The Strapped Hat is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +3 health, the innate talent The Exterminator, as well as extra randomized stats based on the amount of pips.
+The Strapped Hat is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +3 health, the innate talent Exterminator, as well as extra randomized stats based on the amount of pips.

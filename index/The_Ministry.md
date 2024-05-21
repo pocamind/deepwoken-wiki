@@ -1,9 +1,9 @@
 ---
 title: The Ministry
-revid: 99127
+revid: 99504
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Factions]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -29,13 +29,17 @@ They enjoy recruiting people to kill others, sometimes to kill specific individu
 
 ## Reputation
 
-Everyone starts with negative reputation towards them, even if you have the [Adret](Adret.md) race.
+Everyone starts with a deep enemy reputation with them. The [Adret](Adret.md) race does not counteract this enough to have a neutral or above reputation.
 
-To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel (You can use a guildmate for this) or you can assist them in the Children of Navae vs The Ministry event that occur at [Summer Isle](Summer_Isle.md).
+Doing the repeatable bounty quest(called "Party Trick") increases your reputation with the Ministry. This may be done by talking to either Emel, Imel, or Rimil and killing a player in the required location.
 
 Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputation as well, but it also obviously results in you being wiped.
 
 Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you some reputation.
+
+There is only one event in which you can assist The Ministry and gain reputation without killing players or wiping:
+
+-   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
 
 ## Notable Members
 

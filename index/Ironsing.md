@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 99148
+revid: 99503
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -68,7 +68,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 (☆☆☆)
 
- | A barrage of metal rods. | 20 Ether | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
+ | A barrage of metal rods. | 40 Ether | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
 
 -   Applies Metal Rods on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra increase amount of needles fired but removing the jump.
