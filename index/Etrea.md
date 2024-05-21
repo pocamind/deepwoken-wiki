@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 99560
+revid: 99575
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -31,7 +31,7 @@ The soldiers in Etris are purely Etrean, with the [Mantra Collector](Mantra_Coll
 
 ## Reputation
 
-For the castaway and lone warrior [origins](Origins.md), the player spawns in with a low friend [reputation](Reputation.md) with Etrea. Deepbound players will spawn in with neutral reputation, and voidwalkers will spawn in with an enemy reputation.
+For the castaway and lone warrior [origins](Origins.md), the player spawns in with a friend [reputation](Reputation.md) with Etrea. Deepbound players will spawn in with neutral reputation, and voidwalkers will spawn in with an enemy reputation.
 
 There are a substantial amount of ways to gain reputation with Etrea:
 

@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 97734
+revid: 99583
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -28,7 +28,8 @@ Khans are a rare race with light skin, and a monkey-like appearance. Khans have 
   <ul>
     <li><i>"You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than required."</i>
   <ul>
-    <li>All equipment level requirements are lowered by 3. <b>(Only applies to stat points, not levels. For example, if you would want to get a weapon that had a requirement of 20, you could unlock it at 17.)</b></li>
+    <li>All equipment requirements are lowered by 3.</li>
+    <li>Applies to stat points, but not levels. For example, you could equip a weapon with a 20 point requirement at 17 points, but not a Power 10 requirement at Power 7.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -47,23 +48,24 @@ Khans are a rare race with light skin, and a monkey-like appearance. Khans have 
 
 **Lore:**
 
-  
-They hail from the Western Luminant and are the most prominent race in The Hundred Legions.  
+They hail from the Western Luminant and are the most prominent race in [The Hundred Legions](The_Hundred_Legions.md).
 
 **Strengths:**
 
-  
+-   +2 Strength
+-   +2 Agility
+-   Allows the use of equipment 3 points earlier than other races, allowing Khans to make exclusive builds.
+-   Allows the unlocking of the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight with 82 LHT/MED/HVY rather than the regular 85.
+-   Increased starting rep with [The Hundred Legions](The_Hundred_Legions.md).
+    
 
-+2 Strength  
-+2 Agility  
-Allows the use of equipment 3 points earlier than other races.  
-Allows the unlocking of the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight with 82 LHT / MED / HVY rather than the full 85.  
+**Weaknesses:**
 
-May have increased rep with The 100 Legions  
+-   Versatile won't be very useful unless your build is designed for it.
+-   3 extra points, while still good, isn't a giant amount to save.
+    
 
 **Surnames:**
-
-  
 
 -   Albinus
 -   Barbus
@@ -94,10 +96,11 @@ May have increased rep with The 100 Legions
 -   Khan means "King" in Mongolian, Turkish and Hindi.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Genghis Khan.
--   The Racial trait "versatile" only works on stat points, not levels.
+-   The Racial talent "Versatile" only works on stat points, not levels.
 -   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme.
 -   Hair dye affects the sideburns.
+    -   Unlike [Canor](Canor.md), Khan sideburns cannot be removed.
 -   Khans are known to bet on fights.[\[1\]](#cite-note-1)
     
     Monkskipper

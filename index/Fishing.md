@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 99387
+revid: 99581
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -16,7 +16,7 @@ notices:
 
 To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for from a fishing pond room in a Guild Base.
 
-The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster, although this is false in some occasions as the sound will stay the same for a while.
+The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key that is displayed on your screen. As you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong key can also lose you the fish. You can tell when the fish is almost caught/escaped when the circle is almost completely closed. you will catch the fish when the fish icon reaches the border.
 
 Though bait is not required for fishing, it is highly recommended as you are able to get better loot and catch fish slightly faster. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
 
@@ -180,3 +180,4 @@ File:VigilsPillarZipline.png
 -   Fishing used to contain every single item inside of it's lootpool as long as it was in **any chest pool**, this lead to infamous incidents such as the **Verse 1 Enchant Shard incident**. After this happened, a quick patch was rolled out to allow blacklists to items and chest pools, such as the blacklisting of Enchant Stone chests.
     -   Ever since this patch was rolled out, fishing activity declined.
 -   During the Warring States Era fishing would give points to the race you had.
+-   Fishing up a golden swordfish allows you to use it as a weapon.

@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 97910
+revid: 99576
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -65,6 +65,7 @@ Said "Blue Hue" and "New Motifs"
 -   Each point of sanity equals to 30 extra seconds in the Depths before reaching 100% insanity.
 -   Falling below 50% sanity with the enchant [Curse of the No Life King](Enchantments.md) will cause you to immediately die.
 -   The spoken phrases caused by Heretic's Sutra consist of the following (albeit without the same degree of distortion):
-    -   "SO MUCH TERROR"
-    -   "THERE ARE NO GODS"
-    -   "HELP ME"
+    -   "Ś̵̮Ô̴̰ ̸̞̈́M̵̧͌U̷̧͗C̴̺͗H̶͎̏ ̶̛̞Ṱ̴͗E̵͖͆R̷̞̊R̸̺̍O̷͍͗R̷̛͇"
+    -   "T̸̳̏H̷͉͌E̴̖͠R̴̯̈É̶̙ ̶̻͝A̵͚͛R̶̼͐E̴̦̚ ̶͇̈́N̸̮̿O̷̞͊ ̶̺̅G̷͖̑O̵̟͐Ď̵̮S̶͓̎"
+    -   "H̵̞͇̍͜E̴̖̅́̀͒ͅL̶̡̯̃͘͝P̵̮̊ ̴̯̫̟̣͐̀͐͝͠ͅM̵̝̟̭͛̈́E̵̘̲̗̝͐̔̓͘͝"
+    -   "T̶͚͌H̶̲̓E̴̦̔ ̸̧͑V̸̱͌Ǒ̵̜Í̵̞C̴̭̍E̵̮͝S̷̋͜ ̷̥̓Ĉ̸̼Ä̷̯́Ḻ̶̾L̵̻͌ ̵̤̅O̴̘̚U̶͇̚T̵̬̄"

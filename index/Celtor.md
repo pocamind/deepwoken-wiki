@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 97200
+revid: 99584
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,9 +18,7 @@ Chance of obtaining race: **17.8%**
 
 ## Description
 
-Celtors are a common race with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy, and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into The Depths.
-
-Celtors are probably based off of raccoons.
+Celtors are a common race with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family, consisting of weasels, badgers, and otters, among others. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into [The Depths](First_Layer.md).
 
 ## Racial Traits
 
@@ -32,9 +30,9 @@ Celtors are probably based off of raccoons.
   <ul>
     <li>"<i>You have a keen understanding of ships and their maintenance.</i>"
   <ul>
-    <li>Owned ships have <b>+10% HP</b></li>
-    <li>Ships helmed by Celtors now turn <b>20%</b> faster</li>
-    <li><b>20%</b> Discount at the shipwright.</li>
+    <li>Owned ships have <b>+10% HP</b>.</li>
+    <li>Ships helmed by Celtors turn <b>20%</b> faster.</li>
+    <li><b>20%</b> discount at the shipwright.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -66,15 +64,18 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 
 -   +2 Intelligence
 -   +2 Charisma
--   Increased health for owned ships
--   Cheaper ship prices at the shipwright
+-   Increased health for owned ships.
+-   Cheaper ship prices at the shipwright.
+-   Useful
     
 
 **Weaknesses:**
 
   
 
--   No combat passives.
+-   Seaborne isn't useful in combat, except the very specific scenario of a ship fight.
+-   Ships don't actually \*move\* faster, they just \*turn\* faster.
+-   Despite the health bonus, ships will still be destroyed by whirlpools and hateful players all the same.
     
 
 **Surnames:**
@@ -111,7 +112,7 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 
 ## Trivia
 
-Name tag of a Celtor during Mudwoken.
+Nametag of a Celtor during Mudwoken.
 
 -   Half of the surnames of the Celtors are of Russian origin \[Baranof (Baran=Ram/Sheep), Kotof (Kot=Cat), Bykof (Byk=Bull), Kalinof (Kalina=Viburnum), Sokolof (Sokol=Falcon), Petrof (Russian Name+of), Pavel (Russian Name as Surname)\].
 -   During the 4/1/2022 April Fools update (Mudwoken), the Celtor race name was changed to Mustskipper.
