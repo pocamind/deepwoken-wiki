@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 99562
+revid: 99802
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -324,7 +324,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### Kaide, the Drowned Light
 
 -   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
--   Previous king of the Celestial City known as Constellia which can be seen from the telescope in [Greathive Aratel](Greathive_Aratel.md).
+-   Previous king of Constellia.
 -   Apparently he fought against the Kyrsgarde alongside the Celestials and other Lightborn, but stopped fighting when the Celestials fled, resulting in his capture and imprisonment in New Kyrsa.
 -   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborn's as clueless and arrogant as them.
 -   Apparently he despises the Celestials, stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
@@ -341,26 +341,27 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Religious figure and Celestial.
 -   Worshiped by Polis, Alastir, and Pathfinders around the world.
--   Related to Anklets of Alsin
+-   The namesake of the Anklets of Alsin
 
 ### **Navae**
 
 -   Religious figure and Celestial.
--   Worshiped by the Navaen Nomads.
+-   Worshipped by the Navaen Nomads.
 -   Pioneer of Frostdraw.
 -   Possibly a more eldritch being.[\[2\]](#cite-note-arch-2)
 -   Exists on an island moving through the world, independent of the Voidsea.
+-   She was rescued by a nomad who nursed her back to health after descending from Constellia, making a Hereditary Vow with her which resulted in the nomads offspring receiving Navae's guidance.
 
 ### **Yun'shul**
 
 _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
--   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
+-   Yun'shul is a Drowned God, known for their ability to manipulate ones soul in various ways.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
--   They are not found within Layer One as their true body is likely far deeper.
+-   They are not found within Scyphozia as their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   "We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight." - Developer ragoozer.[\[1\]](#cite-note-rag-1)
--   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in both the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
+-   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in the East, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.[\[2\]](#cite-note-arch-2)
 -   Knows about the existence of the Ministry calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
 
@@ -498,7 +499,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 #### Erisia (Etrean Luminant)
 
 -   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
--   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
+-   Erisia Island has experienced the same time stasis the other Driftlands have been affected by.
 -   It has been ravaged by creatures of the Deep, but apparently even before this, it was a 'backwater.'
 -   The Hive at one point settled here, but left.
 -   Currently one of the main warzones in the East, along with Aratel Island.
@@ -507,7 +508,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   A place which the Songseekers migrate to in order to enhance their mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song.
--   The trainer for [Flamecharm](Flamecharm.md) owns a [temple](Songseeker_Temple.md) on one of the islands.
+-   [Amashi](Amashi,_Master_of_Flame.md), the trainer for [Flamecharm](Flamecharm.md) owns a [temple](Songseeker_Temple.md) on one of the islands.
 
 #### Ancient Rotlands (Eastern Luminant)
 
@@ -722,10 +723,6 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Knives of Eylis, The Central Authority_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
-    -   Navae is personified female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.[\[2\]](#cite-note-arch-2)
-        -   In the Etrean Luminant (East), The Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
-        -   A Celestial.
-        -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
@@ -738,10 +735,10 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Hundred Legions
 
--   **Territory:** West Luminant
+-   **Territory:** _West Luminant_
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
--   **Alliances:**
+-   **Alliances:** _N/A_
 -   **Enemies:** _[The Central Authority](The_Central_Authority.md)_
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
@@ -749,7 +746,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Despite there being one hundred legions, the only one present in the East Luminant is the 11th Scouting Legion.
 -   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
 -   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in [The Viper's Jaw](<The_Viper's_Jaw.md>).
--   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
+-   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some form of treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the race as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
 -   The 11th Scouting Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
@@ -782,7 +779,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
     -   Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[2\]](#cite-note-arch-2)
         -   The [Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
-        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
+        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
 -   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[6\]](#cite-note-stormseye-6)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant being Miners Landing.
@@ -810,7 +807,6 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
 -   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
--   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
@@ -836,7 +832,7 @@ A Dark Mage, located in Minityrsa.
 -   They live in the sewers of the Central Luminant.[\[2\]](#cite-note-arch-2)
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
 -   They possess a special Oath that lets them slow time around them.
--   The Knives of Eylis are mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.[\[2\]](#cite-note-arch-2)
+-   The Knives of Eylis are hired by The Central Authority to cause havoc on Etrean ships in the East.[\[2\]](#cite-note-arch-2)
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname.
@@ -844,7 +840,7 @@ A Dark Mage, located in Minityrsa.
 ### The Ignition Union
 
 -   **Territory:** _Miner's Landing, The Chariot's Spire, The Frontier Furnace._
--   **Encountered In:** _Summer Isles, The Depths (Akira's rare event), Miner's Landing, The Chariot's Spire, The Frontier Furnace._
+-   **Encountered In:** _Summer Isle, Celtor Wastes, Miner's Landing, The Chariot's Spire, The Frontier Furnace_
 -   **Attunements:** _Flamecharm, Thundercall_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
@@ -944,7 +940,7 @@ An Authority Captain
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
--   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower ranks, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower ranks, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
@@ -999,7 +995,7 @@ An Authority Captain
 -   **Enemies:** _The Central Authority, The Warmasters, The Divers._
 -   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
 
--   Contractors are a group of individuals that have taken an Oath, attaching puppet strings to their souls that tie them to Zi'eer.
+-   Contractors are a group of individuals that have taken an Oath with a Prophet of the Ministry.
 -   They act as freelance Ministry Operatives.
 -   The Lord Regent of Etrea, Zi'eer, himself is a Contractor.
 -   Prior to Year 1271 they were considered extinct.
@@ -1245,7 +1241,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
 -   Ganymede evolved to all posses baldness, but a millennium ago, the first Greatlord modified their species to give them their innate white hair.[\[12\]](#cite-note-yaya-12)
--   Ganymede have a closer connection to Lifeweave, so learn it more easily.[\[12\]](#cite-note-yaya-12)
+-   Ganymede have a closer connection to Lifeweave and therefore learn it more easily.[\[12\]](#cite-note-yaya-12)
 
 ### Chrysid
 
@@ -1256,11 +1252,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, many Chrysids broke off due to their belief in the Moonlit Faith over the Hives technology-focused ideology.
 -   Despite splitting off from the Greathives, Chrysids are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids who chose to join the Moonlit Faith.
 -   Many Chrysids choose to reside in the Lullaby Isles, an area in The Central Luminant surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
--   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
-    -   The word confessor can have three meanings:
-        1.  Someone who confesses, the least likely meaning based on the context.
-        2.  Someone who proclaims their religious faith when faced with opposition, but not tortured or killed, thus not being classified as a martyr. Also unlikely.
-        3.  A priest who hears the confessions of others and can give absolution, which is the release of any guilt, punishment or obligation brought about due to the sin they confessed to. This likely where the title is derived from.
+-   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way
 -   Within the central isles of the Lullaby Isles is a city-state called the Echelon, where the council of the Moonlit Faith resides.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the Second Layer.
@@ -2163,7 +2155,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 ## References
 
 1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) Developer ragoozer
-2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) [2.78](#cite-ref-arch-2-78) Developer Arch\_Mage
+2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description
 5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
