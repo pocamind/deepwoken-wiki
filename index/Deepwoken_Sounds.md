@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 99558
+revid: 99594
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -33,12 +33,10 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.5s | Snow Step \[1\] |
 |  | 0.5s | Snow Step \[2\] |
 |  | 0.4s | Jumping |
-|  | 8.3s | Falling (Loop) |
 |  | 0.4s | Landing |
 |  | 0.4s | Fall Damage |
 |  | 0.6s | Getting Up (From Knockdown) |
 |  | 4.5s | Sliding |
-|  | 2.4s | Climbing (Ladder) |
 |  | 0.6s | Wall Climbing |
 |  | 0.8s | Rolling |
 |  | 0.4s | [Aerial Assault](Talent_Quests.md#aerial-assault) (Air Dash) |
@@ -54,7 +52,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | Stomach Growl ([Low Hunger](Food.md)) |
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
 |  | 1.6s | [Heliodar](Heliodar.md) Wings Flapping |
-|  | 3.6s | [Barber](Barber.md) Succesful Hair Change |
+|  | 3.6s | Changing Hair at [Barber](Barber.md) |
 |  | 0.9s | Spitting |
 
 ### **[Utility & Items](Training_Gear.md)**
@@ -628,6 +626,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.2s | Deepwoken Menu Hover |
 |  | 1.4s | Deepwoken Menu Select |
 |  | 0.8s | [Destroyman III](Destroyman_III.md) |
+|  | 2.4s | Character Climbing Ladder (Loop) |
+|  | 8.3s | Character Falling (Loop) |
 |  | 5.1s | [Chime](Chime_of_Conflict.md) Match Found (Mental Trauma) |
 |  | 2.3s | [Command: Live](Talents.md#vow-of-mastery) |
 |  | 1.1s | Sea Gate Opening |

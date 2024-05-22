@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 96706
+revid: 99589
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns, Flintlocks]
@@ -21,7 +21,7 @@ categories: [Weapons, Guns, Flintlocks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Songseeker Wilds, Chaser, Scholar of the Burning Blood |
+| obtainment | First Layer, Minityrsa, Summer Isle, Songseeker Wilds, Chaser, Scholar of the Burning Blood |
 
 | Dawnshot | |
 |---|---|
@@ -46,7 +46,7 @@ categories: [Weapons, Guns, Flintlocks]
 
 ## Description
 
-The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used (75 for the alloy) with good overall stats for its midgame role.
+The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Summer Isle Events](https://deepwoken.fandom.com/wiki/Summer_Isle#Missions), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used (75 for the alloy) with good overall stats for its midgame role.
 
 ## Trivia
 

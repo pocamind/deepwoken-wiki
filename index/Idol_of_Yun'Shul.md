@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 99442
+revid: 99595
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Pages with broken file links]
@@ -11,7 +11,7 @@ categories: [Relics, Pages with broken file links]
 | Idol of Yun'Shul | |
 |---|---|
 | type | Treasure |
-| rarity | Mythical |
+| rarity | Relic |
 | selling price | 100 |
 | bankable | Yes |
 | droppable | Yes |

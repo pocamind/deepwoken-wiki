@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99496
+revid: 99592
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1918,6 +1918,10 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
 </tr>
 </tbody>
 </table>
+
+[Ysley's Pyre Keeper](https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper) |25 HVY, 75 FIR, 10 LHT |23 |15% |HVY: 5, FIR: 6 |5 |8 |0.68x |N/A |49.4 |-
+
+|}
 
 **Elemental:**
 

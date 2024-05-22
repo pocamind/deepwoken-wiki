@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 98266
+revid: 99590
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -260,6 +260,7 @@ Items and equipment that can be obtained from loot chests.
 -   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star) - Also with a higher chance of being enchanted.
 -   [Iron Cestus](Iron_Cestus.md)(0-3 star)
 -   [Ritual Spear](Ritual_Spear.md)
+-   [Dawnshot](Dawnshot.md) (0-2(1?) star)
 
 #### _**Equipment**_
 
