@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 98020
+revid: 99811
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **8.0%**
 
 ## Description
 
-One of the most distinct races in the Lumen for their infamous cat ears, Felinors garnered the most attention of all races in Deepwoken. They are a rare race with little social or political influence to their race, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 2 Agility including improved stealth as well as multiplied climbing height.
+One of the most distinct races in Lumen for their infamous cat ears, Felinor garner the most attention of all races in Deepwoken. They are a rare race with little social or political influence to their race, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 2 Agility, with improved stealth as well as multiplied climbing height.
 
 ## Racial Traits
 
@@ -50,17 +50,31 @@ One of the most distinct races in the Lumen for their infamous cat ears, Felinor
 **Lore:**
 
   
-Known to be prominent in Markor in the Central Luminant. Previously there used to be a Felinor kingdom in Markor but it's suggested that this kingdom is no more.
+
+Known to be prominent in Markor in the Central Luminant. There used to be a Felinor kingdom in Markor, but it's suggested that this kingdom is no more.
+
+Felinor are known to seek a life of freedom, but are perceived as thieves/outlaws.
 
 **Strengths:**
 
   
 
-+2 Agility  
-+2 Charisma  
-Climbs faster and higher, especially against wood surfaces including trees.  
+-   +2 Agility  
+    
+-   +2 Charisma  
+    
+-   Climbs faster and higher, especially against wood surfaces including trees.  
+    -   Great for escaping or chasing, and makes climb height massive when combined with [Jetstriker](Oath%253A_Jetstriker.md).
+-   Practically not affected by the Obvious flaw.  
+    
 
-Practically not affected by "Obvious" Flaw.  
+**Weaknesses:**
+
+  
+
+-   Stealth isn't particularly useful unless you depend on it, such as for assassinations or [Tacet](Murmur.md).
+-   While not a stat weakness, Felinors are more likely to be targeted, due to their race being perceived as a "furry" race.
+    
 
 **Surnames:**
 
@@ -90,9 +104,10 @@ Practically not affected by "Obvious" Flaw.
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their race name changed to "Abomination", which is unique compared to the other race names that were changed.
     -   This _may_ be because of the disdain the community shows towards them.
--   Picking Obvious flaw as a Felinor will negate the improved stealth. This is actually really good as you can take this as a free flaw that will not affect your playthrough.
+-   Picking the Obvious [flaw](Boons_and_Flaws.md) as a Felinor will balance out with the improved stealth, leaving you at a normal amount. This is good, as you can take this as a free flaw that will not cause any negative effects.
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke.[\[1\]](#cite-note-1)
+-   Felinors will say things such as "Me-ow!" when engaging combat, as opposed to other races.
 
 ## References
 

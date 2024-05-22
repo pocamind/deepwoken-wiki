@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99592
+revid: 99803
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -43,7 +43,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   5 Clubs
 -   3 Rifles
 
-#### Heavy
+#### Heavy Weapon
 
 -   12 Great Axes (15
 -   11 Great Swords (15 if Alloyed)

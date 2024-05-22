@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 99502
+revid: 99813
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -63,6 +63,8 @@ A group of three [thieves](Thief.md), recognizable by their black armor and the 
 #### Knives of Eylis
 
 Three to four [Knives of Eylis](Knife_of_Eylis.md) are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) in [Upper Erisia](Upper_Erisia.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative Reputation in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at Upper Erisia. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+
+The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
 
 An Authority footsoldier
 
@@ -156,7 +158,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 #### Legion Sniper
 
-A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative reputation with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to(with a good reputation) and can be also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
+A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to(with a good reputation) and can be also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
 
 #### Serena
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 99324
+revid: 99815
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -24,11 +24,11 @@ He is a noble who resided in the City of Celtor before the Great Drowning. In ap
 
 While the Duke is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him.
 
-(you can one shot his posture with a stone hivelords hubris heavy hands ring and ardour scream with every m1)
+-   With a [Stone](Enchantments.md) 10+ Weight Weapon, combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur.md), you can oneshot his posture every M1.
 
 ## Moveset
 
-Duke Erisia's arsenal consists of his [Legion Kata](Legion_Kata.md) [Fists](Fists.md) with an [Iron Cestus](Iron_Cestus.md). He uses this to fight along with [Galebreathe](Galebreathe.md):
+Duke Erisia's arsenal consists of [Legion Kata](Legion_Kata.md) with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
@@ -130,7 +130,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
 **Summon Mindless Servants**
 
- | The Duke snaps his fingers, summoning 2-3 mindless servants from the pods around the boss room.
+ | The Duke snaps his fingers, summoning 2-3 [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
 -   If fought solo, they may deem threat as they will combo you while fighting duke if not killed fast enough.
@@ -180,7 +180,7 @@ Duke Erisia executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| **Air Pressure** | Getting hit by any of his wind moves while you're low will cause you to die instantly. |
+| **Wind Collapse** | Getting hit by any of his wind moves while you're low will cause you to die instantly. |
 | **Execute** | Pins down opponent before firmly bashing their face. |
 
 ## Combat
@@ -206,7 +206,7 @@ In terms of strategy to avoid his attacks as much as possible;
 
 Phases begin in sequence, depending on the Bosses' Max HP.
 
--   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras. To destroy The Duke's Wind Shield, land attacks until it breaks. Focuses on **posture damage**.
+-   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **posture damage**.
 -   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants to the player, and the remainder of them when there's less than 3 servants).
 
 ### Rewards
@@ -219,10 +219,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Attunement Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   The ability to obtain the [Pillars of Erisia](Galebreathe.md) Mantra in a Whisper hand with sufficient Galebreathe.
--   You also gain [Resonance](Resonance.md) (Bell) progression.
--   It will take around 6-12 Dukes with Max Resonance Progression Echo to unlock Resonance.
-
-  
+-   [Resonance](Resonance.md) (Bell) progression.
+    -   It will take around 6-12 Dukes with Max Resonance Progression Echo to unlock Resonance.
 
 ## Dialogue
 
@@ -317,13 +315,13 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   Before the [Stoneheart](Stoneheart.md)'s description refered him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
+-   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
     -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
--   Duke **is** against the drowning and against **Lord Regent,** if it wasn't made obvious enough. So, technically, your player character is the villain, killing Duke (who wants to prevent the drowning of Etris). The reason Duke is seen as an antagonist, though, is his questionable ethics and experiments.
+-   Duke **is** against the drowning and against **Lord Regent**, if it wasn't made obvious enough. So, technically, your player character is the villain, killing Duke (who wants to prevent the drowning of Etris). The reason Duke is seen as an antagonist, though, is his questionable ethics and experiments.
 
 ## Bugs
 
@@ -332,6 +330,5 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 ## Strategy
 
 -   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Rapid Punches to break the shield.
-
 -   Using Warden's Blades modified with Rush Shards, Eternal Logstones, and Blue Gems would make a great modifier, but it's costly. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker if you have [Enforcer's Hammer](<Enforcer's_Hammer.md>) or [Mace](Mace.md).
 -   It is important noting in phase 2 that he will block attacks and has a lot of posture to do so, so try to feint as he will usually roll backwards, getting him out of his blocking position.
