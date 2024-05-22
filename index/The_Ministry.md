@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 99504
+revid: 99788
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
@@ -29,7 +29,7 @@ They enjoy recruiting people to kill others, sometimes to kill specific individu
 
 ## Reputation
 
-Everyone starts with a deep enemy reputation with them. The [Adret](Adret.md) race does not counteract this enough to have a neutral or above reputation.
+Everyone starts with a deep enemy reputation with the Ministry. The [Adret](Adret.md) race does not counteract this enough to have a neutral or above reputation.
 
 Doing the repeatable bounty quest(called "Party Trick") increases your reputation with the Ministry. This may be done by talking to either Emel, Imel, or Rimil and killing a player in the required location.
 
@@ -40,6 +40,8 @@ Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you 
 There is only one event in which you can assist The Ministry and gain reputation without killing players or wiping:
 
 -   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
+
+Reputation with The Ministry is gained much more rapidly than that of most other factions.
 
 ## Notable Members
 

@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 99519
+revid: 99789
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
@@ -33,11 +33,13 @@ In order to gain reputation, you may rescue [Navaen hostages](Navaen_Hostage.md)
 
 Your reputation will also increase if you do [Beiruul's](Beiruul.md) quest in [Meteor Isle](Meteor_Isle.md) to attack [Fort Merit](Fort_Merit.md). There are no other ways to gain reputation in Meteor Isle, even after killing [Meteorskippers](Mudskipper.md) and [Authority Soldiers](Authority_Soldier.md).
 
-There is only one random event in which you may assist the Children of Navae and gain reputation:
+There is only one [random encounter](Random_Encounters.md) in which you may assist the Children of Navae and gain reputation:
 
 -   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
 
 In the aftermath of this event, it is possible to give a Navaen hostage to the tribal leader if they are still alive.
+
+Reputation is gained more slowly with The Children of Navae than most other factions.
 
 ### **Dialogue**
 

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 99278
+revid: 99794
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -87,7 +87,7 @@ Check the rest out for yourself, canonically smells really bad
 | Malte | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marae](Loot_Bag_Gacha.md) | Unaligned | [The Lordsgrove](The_Lordsgrove.md) | Gacha NPC. Will give you something random from the hive lootpool in exchange for 350 notes. |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill rock golem | Marcus. |
-| Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
+| Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | talks about [Chrysid](Chrysid.md) elders. | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
 | [Mercille](Mercille.md) | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants [Disguise](Attunement-less.md#disguise) mantra | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get mantra |

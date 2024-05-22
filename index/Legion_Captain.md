@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 97426
+revid: 99777
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies]
@@ -85,4 +85,4 @@ A Legion Captain executes its opponent after knocking them:
     -   [Champion's Sword](<Champion's_Sword.md>): Will only lose if the Authority Commander also has a sword.
     -   [Ritual Spear](Ritual_Spear.md): Loss.
 -   The Legion Captain, after killing the Authority Lieutenant, instantly aggravates on the nearest enemy NPC, regardless of if through a wall, **killing the NPC will most probably make the Captain despawn if it doesn't have any more targets**, therefore, you will not be able to talk to them.
--   Your starter rep with the legion is actually "negative"/neutral, they use the negative rep text but won't attack you.
+-   Your starter rep with [the legion](The_Hundred_Legions.md) is actually "negative"/neutral, they use the negative rep text but won't attack you.

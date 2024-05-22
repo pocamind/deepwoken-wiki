@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 99575
+revid: 99783
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -45,8 +45,8 @@ On top of that, Etrea has many [random events](Random_Encounters.md) across the 
 
 -   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
 -   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction([Starswept Valley](The_Starswept_Valley.md))
--   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+-   Vigil SwordsmenEtreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean SoldiersEtreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 Etrea is among the factions with a [bounty board](Bounty_Hunting.md). They also have a reputation reset NPC, Nerin, located above the main entrance area of [Etris](Etris.md).
 
@@ -57,7 +57,7 @@ You need a high friend reputation with Etrea in order to start the lord regent's
 -   [The Lord Regent](The_Lord_Regent.md) (Presumed, actually belongs to [The Ministry](The_Ministry.md))
 -   [Polis](Polis.md)
 -   [Kennith](Kennith.md)
--   [Nerin](Reputation.md) (Resets reputation to your default rep when you spawn in, unlocks the Sly boon.)
+-   Nerin (Resets [reputation](Reputation.md) to your default rep when you spawn in, unlocks the Sly boon.)
 
 ## Associated Enemies
 

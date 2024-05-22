@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 99499
+revid: 99778
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -25,11 +25,13 @@ A superpower native to the Western Luminant, the Hundred Legions are a powerful 
 
 The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example being the [Khan Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th Legion and brought them to the East when an imminent conflict was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](Thresher.md), but survived, and can be found in Aratel Island as part of the Legion Kata questline.
 
-## Reputation
+## Relationships
 
 -   Enemies with [The Hive](The_Hive.md)
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
+
+## Reputation
 
 By default, every single [origin](Origins.md) starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral.
 
