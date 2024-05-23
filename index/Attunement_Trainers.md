@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 99839
+revid: 99855
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -113,7 +113,6 @@ She is incapable of actually **teaching **Shadowcast, and can only be used to le
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
     -   Ironsinger trainer Adar wields the [Darksteel Greatsword](Darksteel_Greatsword.md).
-    -   The Ironsinger trainers name is acctually based off of Micheals suggestion 2 years ago
         -   Attunement-less trainer Regek is not fought as Attunement-less does not "abuse" the Song, unlike the others.
         -   Shadowcast trainer Beatra is not fought as she is too old to fight back.
 -   Talking to an Attunement trainer, giving them the needed ingredients but **not** taking the potion will **consume your ingredients and not give you the Attunement**.

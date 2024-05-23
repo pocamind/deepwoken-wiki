@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 98204
+revid: 99852
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,7 +23,7 @@ categories: [Oaths]
 
 ## Obtainment
 
-To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Landing.md>), climb the wall past the log and turn right. Through a log is a cave, where Cerulian can be found, learning against a wall. They'll inform you that, in order to understand the freedom of being Oathless, you must seek out their disciples.
+To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Landing.md>), climb the wall past the log and turn right. Through a log is a cave, where Cerulian can be found, leaning against a wall. They'll inform you that, in order to understand the freedom of being Oathless, you must seek out their disciples.
 
 Aforementioned log tunnel
 

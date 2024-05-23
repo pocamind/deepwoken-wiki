@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 99843
+revid: 99851
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons, Rapiers]
