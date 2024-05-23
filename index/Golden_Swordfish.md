@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 99587
+revid: 99819
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -42,3 +42,5 @@ This weapon is **[Enchantable](Enchantments.md).**
 -   The so-called "sword" of a typical swordfish is not particularly strong, and so by fishing up a golden one it is able to be equipped.
 -   Most likely a reference to how many players suggested for the swordfish to be an equippable weapon.
 -   The critical is confirmed to be a reference to how swordfish hunt by "skewering," but that is actually a myth. Swordfish hunt by slashing and dismembering smaller fish with their bill. Ironically, this weapon would more accurately be a medium sword.
+-   Meeting the requirement of LHT, the damage is (21.8)
+-   At max LHT, the damage is (24)

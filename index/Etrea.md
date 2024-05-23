@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 99783
+revid: 99816
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -22,6 +22,8 @@ notices:
 ## Description
 
 A kingdom of chiefly [Etreans](Etrean.md) that are the main ruling faction in the [Etrean Luminant](Luminants.md). They reside in their capital of [Etris](Etris.md).
+
+The [Isle of Vigils](Isle_of_Vigils.md) is also part of Etrea, though the vigils are significantly less controlled by Etrea.
 
 Being the largest land ruling faction in the Etrean Luminant, they hold a large range of power, deploying foot-soldiers all across the Etrean Luminant. They are led by a [Lord Regent](The_Lord_Regent.md) who rules from his castle and seeing over the land of Etris and the [Etrean Wilds](Etrean_Wilds.md). They had been ruled by their Kings for generations; until decades to months before the year 1271, when the new leader Lord Regent took over.
 

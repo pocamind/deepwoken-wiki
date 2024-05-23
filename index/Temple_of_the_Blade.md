@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 98981
+revid: 99832
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -105,7 +105,8 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   He will tell you that he is willing to teach you a talent, but you must learn to be one with the wind first.
 -   Go to the docks and get on a boat, and once you begin sailing, turn your sails to match the directions of the wind trails on the sea for ~10 minutes.
 -   Come back to Stratos and he will teach you the _Windwaker_ talent, which allows you to obtain a temporary massive speed boost while sailing akin to that of a sea gate.
-    -   This is currently broken, as you need to be actively sailing the boat, and equipping anything will kick you off from the steering, which is required for Windwaker to activate.
+    -   To use the Windwaker talent, just click it in your inventory while you are sailing.
+    -   It is not as effective in Fast Seas compared to the Normal Seas.
 
 ## Maps
 

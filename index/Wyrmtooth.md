@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 99085
+revid: 99840
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, .;]
@@ -36,7 +36,7 @@ While its damage is arguably mediocre (considering its requirements), the Wyrmto
 
 ## Critical
 
-The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Using an M1 after landing the sliding critical will cause the user to perform the standard critical immediately afterwards, hurling opponents backwards. Do note that enemies will recover in time to parry the follow-up crit.
+The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Using an M1 while **casting** (and successfully landing) the sliding critical will cause the user to perform the standard critical immediately afterwards, hurling opponents backwards (NOTE: The critical follow-up can only be performed if the player is combat tagged). Do note that enemies will recover in time to parry the follow-up crit.
 
 ## Trivia
 
@@ -47,3 +47,4 @@ The critical is a powerful forward thrust. While sliding, it is instead a circul
 -   In both appearance and function, the Wyrmtooth serves as Deepwoken's take on the "ridiculously large sword" trope used commonly in Japanese fantasy media. Its modeller, RealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_.
 -   Because of its range, it often has a advantage over any other weapon, with buffs this becomes one of the best weapons in the game.
 -   The Wyrmtooths critical attacks lack the particles around you that just about every other critical attack has, Contributing to its overall powerful stats and attacks
+-   Used by Micheal the Destroyer in his final 1v1 with Ogma Juno

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99482
+revid: 99827
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -530,7 +530,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Strength
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
-    -   Only active when holding a greathammer.
+    -   Active on every heavy weapon.
     -   Also applies to parried mantras.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 

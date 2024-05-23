@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 98979
+revid: 99831
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -115,7 +115,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 
 ### Lost Sibling
 
-**\[This Quest requires 75 points in weapon and will unbound it upon completion\]**
+**\[The quest does not require Weapons 75 to complete.\]**
 
 -   Talk to the crying [Vigil guard](Attributes_Unbound.md) (Apprentice Kj) on the other side of the library.
 -   He will tell you about his lost brother and will ask you to rescue him.

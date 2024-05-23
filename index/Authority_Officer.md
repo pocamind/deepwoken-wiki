@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 97538
+revid: 99833
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
@@ -43,7 +43,7 @@ Critical
 
 Jolt Grab
 
- | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+ | An electrified chokehold. | ◯ | ◯ | (★★☆) |
 | 
 
 Thunder Kick
@@ -53,7 +53,6 @@ Thunder Kick
 
 ### **Boons:**
 
--   Mantra Modification - An Authority officer's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Impervious - Immune to PvE scaling.
 
 ### Talents

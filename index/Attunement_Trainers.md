@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 98474
+revid: 99839
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -78,10 +78,9 @@ When fought, he uses a [Stormseye.](Stormseye.md)
  |
 | 
 
- | [Shadowcast](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa District](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+ | [Shadowcast](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa District](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey. Map location
 
-  
-The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. [(See picture)](https://i.gyazo.com/fe9c3bee9f6d52b9d9de27f61663ccc8.png)
+Go there, look for the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. [(See picture)](https://i.gyazo.com/fe9c3bee9f6d52b9d9de27f61663ccc8.png)
 
  | Nostor is a [Ganymede](Ganymede.md) who uses [Shadowcast](Shadowcast.md).
 
@@ -114,6 +113,7 @@ She is incapable of actually **teaching **Shadowcast, and can only be used to le
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
     -   Ironsinger trainer Adar wields the [Darksteel Greatsword](Darksteel_Greatsword.md).
+    -   The Ironsinger trainers name is acctually based off of Micheals suggestion 2 years ago
         -   Attunement-less trainer Regek is not fought as Attunement-less does not "abuse" the Song, unlike the others.
         -   Shadowcast trainer Beatra is not fought as she is too old to fight back.
 -   Talking to an Attunement trainer, giving them the needed ingredients but **not** taking the potion will **consume your ingredients and not give you the Attunement**.
