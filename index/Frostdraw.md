@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 99208
+revid: 99849
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -230,6 +230,7 @@ _Conjure and throw weapons of ice._
     -   9 seconds base, 13 seconds with 1 Eternal Logstone.
 -   Casting the mantra itself while standing on ice will summon more projectiles.
     -   Currently bugged.
+-   Adding a magnet spark makes it instantly teleport to whoever gets hit by the ice projectiles. Think of it as a better wayward gem that doesn't take a deep gem slot and has 0 windup on proc. (There is no dmg difference)
 
  |
 |  | 
@@ -352,6 +353,7 @@ _An icy chokehold._
 -   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
 -   The mantra takes too long to end on hit to proc insignia gem.
 -   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
+-   Base chilling duration scales with level requiring more than one logstone to get the full 20 seconds, recommended to only pick it if you plan to upgrade it to level 5.
 
  |
 |  | 
