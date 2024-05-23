@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99827
+revid: 99841
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -94,8 +94,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I seek the qualities of Adaptive Arsenal."**_
 
--   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
-    -   Also affect players with no outfit (Stranded Outfit)
+-   Micheal Wikeal\[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
+    -   Turns you gay (Stranded Outfit)
     -   Prerequisite: 60 Ironsing
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
     -   Successful procs will color the user temporarily grey/gold depending on if user has Gilded path or not.

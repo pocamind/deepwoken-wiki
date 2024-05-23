@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 99831
+revid: 99844
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -123,7 +123,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Keep in mind you will require to bring him a Gale Stone.
 -   Hold out the Gale Stone when you talk to him to give it to him.
 -   Go back and talk to Apprentice Kj.
--   Then go to the the [Maestro](Evengarde_Rest.md) facing the opposite the sparring instructor with the white cloak.
+-   Then go to the [Maestro](Evengarde_Rest.md) facing the opposite the sparring instructor with the white cloak.
 -   Talk to him to unbound your weapon proficiency by picking your weapon type.
 -   Note that you can also check the [Attributes Unbound](Attributes_Unbound.md) page.
 

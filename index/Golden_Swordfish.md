@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 99819
+revid: 99843
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -31,16 +31,16 @@ notices:
 
 ## Description
 
-The **Golden Swordfish** is a [Rapier](Weapons.md) that can be fished out of the sea at a very rare chance, unknown at the moment. It is a fished-up golden swordfish, using the bill as a blade. It uses the [Trident Spear](Trident_Spear.md) critical rather than the rapier critical.
+The **Golden Swordfish** is a [Rapier](Weapons.md) that can be fished out of the sea at a very rare chance, unknown at the moment. It is a fished-up golden swordfish, using the bill as a blade. It uses the [Trident Spear](Trident_Spear.md) critical rather than the rapier critical. This weapon cannot be dropped by any means, similar to a Soulbound item.
 
 This weapon is **[Enchantable](Enchantments.md).**
 
 ## Trivia
 
--   Stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range. Peak.
+-   Stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range.
 -   The only rapier with a special critical.
--   The so-called "sword" of a typical swordfish is not particularly strong, and so by fishing up a golden one it is able to be equipped.
+-   The so-called "sword" of a typical swordfish is not particularly strong.
 -   Most likely a reference to how many players suggested for the swordfish to be an equippable weapon.
--   The critical is confirmed to be a reference to how swordfish hunt by "skewering," but that is actually a myth. Swordfish hunt by slashing and dismembering smaller fish with their bill. Ironically, this weapon would more accurately be a medium sword.
+-   The critical is confirmed to be a reference to the myth of how swordfish hunt by "skewering." However, swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, this weapon would more accurately be a medium sword.
 -   Meeting the requirement of LHT, the damage is (21.8)
 -   At max LHT, the damage is (24)
