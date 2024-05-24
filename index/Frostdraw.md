@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 99849
+revid: 99899
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -349,7 +349,7 @@ _An icy chokehold._
 -   After the windup the user gains iframes on teleport. (similar to radiant kick)
 -   First hit does mediocre dmg, second hit does light damage.
 -   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
--   Applies 16 sec chill base and 20 sec with 1 eternal.
+-   Applies 12 sec chill base and 16 sec with 1 eternal.
 -   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
 -   The mantra takes too long to end on hit to proc insignia gem.
 -   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.

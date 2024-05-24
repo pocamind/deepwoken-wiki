@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 99802
+revid: 99898
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -534,7 +534,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 #### Markor
 
--   A savannah nation conquered by The Central Authority.
+-   A savannah region that has been conquered and assimilated into The Central Authority.
 -   The origin of Scimitars and similar blades, as well as Felinor.[\[2\]](#cite-note-arch-2)
 -   The Felinor Fieldfolk once lived here.
 
@@ -555,8 +555,8 @@ The Citadel
 #### Lullaby Isles
 
 -   An archipelago with multiple settlements dotted across the region.
--   Home to most of the Chrysid.
--   Outside of Markor, surrounded by a dense mountain range known as the Stoneseye,
+-   Home to most of the Chrysid population in the Luminants.
+-   Outside of Markor, surrounded by a dense mountain range known as the Stoneseye.
 -   The Echelon is the city-state at the center of the isles, and where the council of the Moonlit Faith resides.
 
 ### **Southern Luminant**
