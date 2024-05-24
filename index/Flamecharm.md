@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 99147
+revid: 99885
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1371,6 +1371,7 @@ N/A
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 -   The talent "Azure Flames" is most likely a reference to the character Azula from Avatar The Last Airbender, who has similarly colored fire bending, though instead of having 40 willpower, she simply imbues her bending with lightning.
+-   Before its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 
 ## References
 

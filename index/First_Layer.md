@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 96878
+revid: 99887
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -43,7 +43,7 @@ There are 2 bells located in the District of Commerce (sloped gate). Once 2 bell
 
 ### **Method 2:** Sub-Elevator / Toll
 
-A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator.
+A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator. If you do not wish to pay the fee, you can climb up the elevator shaft with mobility mantras or enough agility.
 
 **Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present.)
 
@@ -67,7 +67,7 @@ Find a rock, cliff, or something in a high place, and glide onto the wall. Thoug
 
 ― "The Song of Fathoms / Oscillation"
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn a three [Enforcers](Enforcer.md)).
 
 Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
 
@@ -90,7 +90,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
-    -   This is an extremely rare occurance.
+    -   This is an extremely rare occurrence.
 -   Any monster in Trials have a possibility of being corrupted.
 -   Curiously, **any** monster can be corrupted if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
 -   Any monster (excluding [Mudskipper Knights](Mudskipper.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
@@ -103,8 +103,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, and enforcers, do not allow this.
     -   As of late, the combat tag is _not_ a boss tag. As such, player can close the game the instant the trial begins with zero repercussions (so long as their health is above 60%).
         -   **Do not rely on this**. It is likely unintended, and will be patched soon.
--   If 2 players enter the Trial, both will fight the monster of the higher power's. However, if both of their powers are just below that of the next monster's, only 1 of said next monster will spawn.
-    -   Example: Two power 16 players will spawn one Enforcer. But if both players are power 17, two Enforcers will spawn.
+-   If 2 or more players enter the Trial, all will fight the monster of the highest power.
+    -   Example: Two power 16 players will spawn two enforcers. one power 7 and one power 16 will have to fight two enforcers.
     -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
 -   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
     -   Curiously, a Power 1 Deepbound and Power 20 Non-Deepbound will spawn just one Enforcer.
@@ -219,7 +219,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 ## **Tips**
 
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in The Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
--   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the sharko and thresher), increasing your survival rate once you can conquer them.
+-   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the sharko, thresher, and enforcer), increasing your survival rate once you can conquer them.
 -   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
 -   The same goes if there many people of the same guild flooding the server. It's not worth risking your chances.
     -   Certain guilds are known for purposefully wiping players in the depths, such as the **Nightcrawlers**.
@@ -227,15 +227,15 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
 -   Environmental awareness is vital to survival within The Depths. Falling into the void below will send you to [Layer 2](Second_Layer.md) with no [Light Hook](Klaris_Llfiend,_Mother_of_Lights.md) (which means you're basically dead unless you're very skilled), unless if you are below half health or are Power 1-2 - then you'll wipe. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
 -   Ringing the bells (not corrupted bells) in the Drowned City will restore some HP, equivalent to that of knocking an NPC or monster around your power.
--   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food.
+-   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights.
--   AVOID fight a Megalodaunt outside of the City - getting kicked by a Megalodaunt will likely fling you off the edge.
+-   AVOID fighting a Megalodaunt near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge.
 -   AVOID the Nautilodaunt if you're unexperienced with it. The Nautilodaunt will make loud noises when running. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
 -   Avoid any monsters you have little to no experience with, especially Dark Owls, King Threshers and Nautilodaunts, which have comparatively high mobility. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe.
--   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire.
+-   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with graceful flame.
 -   If within the vicinity of Castle Light, it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and can shift aggro, effectively protecting you.
 -   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target.
 
