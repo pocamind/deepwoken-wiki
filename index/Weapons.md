@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99803
+revid: 99908
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1916,12 +1916,20 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
   <td>0.7x</td>
   <td>41.7</td>
 </tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></td>
+  <td>25 HVY, 75 FIR, 10 LHT</td>
+  <td>23</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>HVY: 5, FIR: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.68x</td>
+  <td>49.4</td>
+</tr>
 </tbody>
 </table>
-
-[Ysley's Pyre Keeper](https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper) |25 HVY, 75 FIR, 10 LHT |23 |15% |HVY: 5, FIR: 6 |5 |8 |0.68x |N/A |49.4 |-
-
-|}
 
 **Elemental:**
 
@@ -2307,7 +2315,7 @@ This is the formula used to calculate the damage of a weapon with one scaled att
 
 -   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
 
-_[Damage calculator (Single and Dual Attribute Scaling (Scaling rings included))](https://www.desmos.com/calculator/phlq70n2of)_
+_[Damage calculator (Single and Dual Attribute Scaling (Scaling rings included))](https://www.desmos.com/calculator/qlqesblyxj)_
 
 The formula to calculate the damage with damage multipliers taken into account is:
 

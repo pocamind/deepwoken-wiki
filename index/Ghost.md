@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 92831
+revid: 99920
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,11 +8,11 @@ categories: [Enemies]
 
 # Ghost
 
-Template:EnemyInfobox1.0
+_This page is about the mob named Ghost. If you're looking for a talent of the same name, check the [Talents](https://deepwoken.fandom.com/wiki/Talents#Butterfly) page._ Template:EnemyInfobox1.0
 
 ## Description
 
-Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are encountered by interacting with the ghost NPC if you have gripped a player, in which case they will say "...Did you think we'd forget?" and four ghost enemies will be summoned. They are required to be survived in order to summon the [The Dreadstar](The_Dreadstar.md).
+Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are encountered by interacting with the ghost NPC if you have gripped a player, in which case they will say "...Did you think we'd forget?" and four ghost enemies will be summoned. (Unless you have the Mute regalia, then it would say something about "them smiling" and not spawning any ghosts) The ghost's dialogue and surviving the ghosts are the requirements in order to summon the [The Dreadstar](The_Dreadstar.md).
 
 ## Moves
 
