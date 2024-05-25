@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 99905
+revid: 99988
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
@@ -15,19 +15,15 @@ categories: [NPCs, Lore]
 
 ## Description
 
-Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md), located in the Etrean Luminant. She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captain](Legion_Captain.md) and the [Legion Sniper](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
+Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md), located in the Etrean Luminant. She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captains](Legion_Captain.md) and the [Legion Snipers](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
 
-She also grants you the [Legion Kata](Fists.md) fighting style after helping the [Legion Captains](Legion_Captain.md) in their encounter with Authority [Frostdrawers](Frostdraw.md) on [Hive Island](Aratel_Island.md) or helping the Legion win their 2v2 event against the [Authority](The_Central_Authority.md) in [Upper Erisia](Upper_Erisia.md).
-
-Amara is a [Khan](Khan.md) who is around 40 years old based on her wrinkles. She wears the [Legion Centurion Outfit](Legion_Centurion.md).
+She also teaches you the [Legion Kata](Fists.md) fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](Aratel_Island.md) or in [Upper Erisia](Upper_Erisia.md).
 
 ## Lore
 
-Amara and the 11th Legion seem to come all the way out west, as suggested by Gaius in [Viper's Jaw](<The_Viper's_Jaw.md>) ranting about how he was posted in the east, even though the description of the [11th Legion](The_Hundred_Legions.md) suggests they've always been there. Apparently, the whole Legion is made of scouts as that is Amara's task in the East.
+Her and the 11th Scouting Legion arrived in the East from the Western Luminant to observe the conflict between [the Central Authority](The_Central_Authority.md) and [Etrea](Etrea.md).
 
 According to Arch\_Mage, she's just a normal Centurion.
-
-When giving the recommendation to Amara, she might mention that you were recommended by Captain Acheron, not only meaning that the [Acheron's Warspear](<Acheron's_Warspear.md>) is owned by said Captain, who might've lost it to a corrupted King [Thresher](Thresher.md) during a fight or something of the sort, but that Acheron is still alive.
 
 ## Trivia
 

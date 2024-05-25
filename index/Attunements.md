@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 95016
+revid: 100000
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -26,12 +26,12 @@ There are currently four base Attunements that anyone may select when first crea
 
 Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 2 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
 
--   Thundercall = [Spark Glands](Spark_Gland.md)
--   Flamecharm = [Dying Embers](Dying_Embers.md)
--   Frostdraw = [Frigid Prisms](Frigid_Prism.md)
--   Galebreathe = [Gale Stones](Gale_Stone.md)
--   Shadowcast = [Umbral Obsidian](Umbral_Obsidian.md)
--   Ironsing = _1 of every ore excluding Rocks and Coal._
+-   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
+-   [Flamecharm](Flamecharm.md) = [Dying Embers](Dying_Embers.md)
+-   [Frostdraw](Frostdraw.md) = [Frigid Prisms](Frigid_Prism.md)
+-   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
+-   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
+-   [Ironsing](Ironsing.md) = _1 of every ore excluding Rocks and Coal._
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.
 
@@ -53,7 +53,7 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 ## Base Attunements
 
-Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again. Template:TestingTemplate:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again. Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing
 
 ## Obtainable Attunements
 

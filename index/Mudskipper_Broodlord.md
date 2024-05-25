@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 99880
+revid: 99990
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -50,7 +50,7 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
 -   Don't rely on other NPCS to save you from the Broodlord, as nine times out of ten, the Broodlord always wins.
 -   This mob can sometimes noclip with the Lumbering Smash, along with the [Mudskipper Brute.](Mudskipper_Brute.md)
--   Missing a parry will punish you very hard due to there punches do serious damage.
+-   DO NOT miss a parry; their punches are capable of killing Gods.
 
 ## Trivia
 

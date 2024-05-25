@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99968
+revid: 99994
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2300,7 +2300,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), 90 Agility
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
-    -   Prerequisites: Revenge, ?? Agility
+    -   Prerequisites: Revenge, 100 Agility
 
 ### Twisted Puppets
 
@@ -2492,7 +2492,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: Unbound Element or Weapon, or Kill any Boss.
+    -   Prerequisite: Unbound Element or Weapon.
 
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
@@ -2682,7 +2682,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) weapons (HVY, MED or LHT) or your attunement, or by defeating any Boss.
+-   Obtained by [Unbounding](Attributes_Unbound.md) weapons (HVY, MED or LHT) or your attunement.
 -   This talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
 ## Outfit Talents

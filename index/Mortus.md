@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 99963
+revid: 99995
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -17,7 +17,7 @@ categories: [World, NPCs]
 
 He is located in a fishing hut, on the closest small rocky island in front of Lower Erisia's main/gate beach.
 
-If you go behind his hut you will find a tiny doorway where you can find a fishing hole
+If you go behind his hut you will find a tiny doorway where you can find a [Fishing Spot](Fishing.md#fishing-spots).
 
 ## Features
 
