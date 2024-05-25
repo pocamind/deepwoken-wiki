@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 99813
+revid: 100005
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -256,6 +256,14 @@ A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, 
 #### False Merchant Ship
 
 A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3-8 [Cloaked Assassins](Cloaked_Assassin.md) after you.
+
+#### Weird Trader
+
+A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random legendary weapon, Sinners Ash, or an [Astral](Enchantments.md#blessings) [Enchant Stone](Enchant_Stone.md) (possibly other enchant stones, unconfirmed). He seems to be talking in broken english, without the use of proper grammar.
+
+#### Old Stranger
+
+A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur.md).
 
 ### _**The Depths (Scyphozia)**_
 

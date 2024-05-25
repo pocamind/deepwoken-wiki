@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 99908
+revid: 100006
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -68,7 +68,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
 -   All **Medium Weapons** except for Rifles and [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [talent](Talents.md) One Handed Training (40), allowing them to use a One Handed stance.
+-   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [talent](Talents.md) "**One Handed Training"** (40 HVY), which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
 
@@ -96,7 +96,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 60 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md).)
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
--   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some certain special people.
+-   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
 
