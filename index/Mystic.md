@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 98386
+revid: 100013
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -151,6 +151,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _My flame fights for me._ _**(Duelist Flame)**_
 -   _My spirit is forever burning._ **(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**
 -   _I seek the qualities of Tamed Flame. **(Controlled Combustion)**_
+-   _I seek to command the elements as my servants. **(Will O' Wisp)**_
 
 ### [Frostdraw](Frostdraw.md)
 

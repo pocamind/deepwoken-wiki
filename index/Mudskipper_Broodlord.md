@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 99990
+revid: 100035
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-Colloquially known as the "Broodskipper" And "annoying guy" Template:Creature Infobox V3
+Colloquially known as the "Broodskipper" Template:Creature Infobox V3
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 93956
+revid: 100034
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -21,29 +21,29 @@ Some of the talents obtained this way are **Echo Talents** - a mechanic added in
 **Engage:** Landing M1 attacks restores your Ether. (+5 Ether, +1 Posture)  
 **Critical Attack:** Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 
-Engage and critical attack come from the same quest, given by an Etrean solider NPC in [Upper Erisia](Upper_Erisia.md), at the entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He asks you to defeat a [Megalodaunt](Megalodaunt.md), which frequently spawn inside the cave.
+Engage and Critical Attack come from the same quest, given by an Etrean Soldier named [Arthur](Arthur.md) in [Towerstruck Lands](Towerstruck_Lands.md), at the entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He asks you to defeat a [Megalodaunt](Megalodaunt.md), which frequently spawn inside the cave.
 
-Upon defeating a megalodaunt and returning to the soldier, you will gain the Engage and Critical Attack talents, and automatically gain Engage at Power 3 and Critical Attack at Power 5 on all new characters.
+Upon defeating a [Megalodaunt](Megalodaunt.md) and returning to [Arthur](Arthur.md), you will gain the Engage and Critical Attack talents, and automatically gain Engage at Power 3 and Critical Attack at Power 5 on all new characters.
 
 ### Aerial Assault
 
-**Aerial Assault:** You can now dodge mid-air
+**Aerial Assault:** You can now dodge in mid-air.
 
-Aerial Assault can be obtained from a Pathfinder in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the questgiver for the glider blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md). The NPC's name is [Ivory](Ivory.md).
+Aerial Assault can be obtained from a [Pathfinder](Ivory.md) in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the Questgiver for the Glider Blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md). The NPC's name is [Ivory](Ivory.md).
 
-Note that you have to go into the building to access the purple flames, as the purple flames outside the building cannot be used. After interacting with the flame, returning awards the talent Aerial Assault, which allows you to perform an advanced dodge mid-air allowing you to travel a bit in the direction of your cursor. All new characters will gain Aerial Assault at Power 2.
+Note that you have to go into the building to access the purple flames, as the purple flames outside the building cannot be used. After interacting with the flame, returning awards the talent Aerial Assault, which allows you to perform an advanced dodge mid-air allowing you to travel a bit in the direction of your cursor. All new characters will gain Aerial Assault at Power 2. When entering the Temple, watch out for the Watcher at the top, which will spawn a [Lesser Angel](Hollow_Angel.md) if he sees you.
 
 ### Thresher Scales
 
 **Thresher Scales:** You regenerate your armor at campfires. (+5 Health)
 
-Thresher scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a King thresher, which can spawn randomly anywhere in [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 10. The NPC's name is [Jessamine](Jessamine.md).
+Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a [King Thresher](Thresher.md#king-thresher), which can spawn randomly anywhere in the [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 13. The NPC's name is [Jessamine](Jessamine.md).
 
 ### Chain of Perfection
 
 **Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage
 
-Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. It is very dominant in PvE, especially against bosses like [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), or the [Scion of Ethiron](Scion_of_Ethiron.md).
+Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. It is very dominant in PvE, especially against bosses like [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), or the [Scion of Ethiron](Scion_of_Ethiron.md). The easiest way to obtain it is by cheesing Primadon.
 
 Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die, it will still count and the Talent will be rewarded.
 
@@ -51,28 +51,57 @@ Note: You have to solo the Boss. If the boss that you are killing takes damage f
 
 ### Treefelling Blow
 
-At [Etris](Etris.md), there will be an NPC called Korin at a house near the [Antiquarian](Antiquarian.md). You need the Attunement-less strength mantra Strong Left for this one, as that is how you fell trees with your hands. Upon talking to him you realise its about how you punch them and that you need to punch down 5 more trees to sufficiently research this. After you fell 5 trees, talking to him again will earn you the talent: Treefelling Blow, which allows you to gain wood from punching down trees.
+**Treefelling Blow:** You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
 
-### Excavator
+At [Etris](Etris.md), there is an NPC named [Korin](Korin.md) at a house outside the [Antiquarian](Antiquarian.md). You need the Attunement-less strength mantra Strong Left for this one, as that is how you fell trees with your hands. Upon talking to him, you realize it's about how you punch them, and that you need to punch down five more trees to sufficiently research this. After you fell 5 trees, talking to him again will earn you the talent, which allows you to gain wood from punching down trees.
 
-At any blacksmith, you need to turn in five piece of Pure Ore (e.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) to receive the Talent.
+### **Excavator**
+
+**Excavator:** Chance to recieve two sets of ore when mining. You mine ores more quickly.
+
+At any blacksmith, you need to turn in five piece of [Pure Ore](Ores.md) (e.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) to receive the Talent.
 
 ### Emergency Repairs and Spare Nails
 
-You get these talents by using the item named "Repair Hammer" on your boat a certain amount of times. You get Emergency Repairs after 10-15 Repair Hammer uses, and you get Spare Nails after 50-55 Repair Hammer uses. Emergency Repairs - Your repairs are more efficient when the ship is on low health. (+2 Carry Load). Spare Nails - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load).
+**Emergency Repairs:** Your repairs are more effective when the ship is on low health. (+2 Carry Load)  
+**Spare Nails:** You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
+
+You get these talents by using the item [Repair Hammer](Repair_Hammer.md) on your boat a certain amount of times. You get Emergency Repairs after 10-15 Repair Hammer uses, and you get Spare Nails after 50-55 Repair Hammer uses.
 
 ### Proficient Baiting, Hook, Line, and Sinker, and Fisher's Lure
+
+**Proficient Baiting:** Casting the line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)  
+**Hook Line, and Sinker:** Once something's caught your line, it's much harder for it to get loose. (+4 Ether)  
+**Fisher's Lure**: Fish are drawn to your line more quickly. (+4 Ether)
 
 You need to successfully fish a certain amount of times to get each talent, 10 times for Proficient Baiting, 30 times for Hook, Line, and Sinker, and 50 times for Fisher's Lure. Proficient Baiting Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boot, Hook, Line, and Sinker Reduces the chance of failure while fishing, and Fisher's Lure Increases the rate of hooking something while fishing.
 
 ### Family Recipe
 
-Located at [Songseeker Wilds](Songseeker_Wilds.md) in the Eastern Luminant, there will be an NPC called Lucien located at a mine entrance on the island furthest away from the shipyard with the bigger windmill on it. After telling his sad story to you, he will ask you to clear out the Mineskippers. After clearing them and returning, he will give you the Family Recipe talent, which will give you the ability to craft Iron Bombs.
+**Family Recipe:** You can now craft bombs at a crafting bench.
+
+In the [Songseeker Wilds](Songseeker_Wilds.md) in the Eastern Luminant, there will be an NPC called [Lucien](Lucien.md) located at a mine entrance on the island furthest away from the shipyard with the bigger windmill on it. After telling his story to you, he will ask you to clear out the [Mineskippers](Mudskipper.md#mineskipper). After clearing them and returning, he will give you the Family Recipe talent, which will give you the ability to craft Iron Bombs.
 
 ### Union Hook
 
-Union hook is acquired by talking to the Ignition union NPC in their base after you power on the generator. This allows you to use the metal rods with a hook at the bottom for transportation.
+**Union Hook:** You can now make use of the Ignition Union hooks to ascend or descend.
+
+Union Hook is acquired by talking to [Alpha](Alpha.md) in [The Frontier Furnace](The_Frontier_Furnace.md) after you power on the generator by killing the Bone Keeper in [Second Layer](Second_Layer.md). This allows you to use the metal rods with a hook at the bottom for transportation. Union Hooks can be found primarily in Layer 2 Floor 1, but also on the surface.
 
 ### Ethiron's Gaze
 
-Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire Caverns and then talking to the NPC in the village. This lessens the fog permanently for you and opens up the blocked blue/purple doorways.
+**Ethiron's Gaze:** Your eyes have been opened to the wasteland. You can now see through the harsh fog of the storm of The Eternal Gale more clearly now.
+
+Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire Caverns and then talking to the NPC in the village. This lessens the fog permanently for you and opens up the blocked blue/purple doorways in order to get to [Nest Corridor](Nest_Corridor.md) and fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)/use the Ignition Deepdriller to escape.
+
+### Pleetsky's Will
+
+**Pleetsky's Will:** You gain significantly more Ether from consuming elemental ingredients
+
+Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [Etris](Etris.md). It can be obtained if you have 20 Flamecharm. If you have 50 Charisma or 40 Flamecharm, you can pick those options to instantly get the talent. If you do not have those, you can trade him 3 [Dying Embers](Dying_Embers.md) in order to get the talent.
+
+### Mercy Kill
+
+**Mercy Kill:** When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
+
+Mercy Kill is obtained whenever the player [unbounds](Attributes_Unbound.md) their [attunement](Attunements.md) or weapon mastery. It is very useful against large swaths of 1-hitable enemies.
