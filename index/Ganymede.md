@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 99103
+revid: 99950
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,8 +38,8 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Willpower</li>
     <li>+2 Intelligence</li>
-    <li>+2 Willpower</li>
   </ul></td>
 </tr>
 </tbody>

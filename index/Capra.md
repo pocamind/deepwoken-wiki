@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 98430
+revid: 99952
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -55,7 +55,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Intelligence</li>
+    <li>+3 Intelligence</li>
     <li>+2 Willpower</li>
   </ul></td>
 </tr>

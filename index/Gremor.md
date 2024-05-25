@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 98615
+revid: 99970
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -37,11 +37,11 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Fortitude</li>
     <li>+2 Strength</li>
-    <li>+2 Fortitude</li>
   </ul></td>
 </tr>
 </tbody>
@@ -63,7 +63,7 @@ The deer folk of the land are among the few that still consider themselves free 
 -   Less prone to starvation.  
     
 -   +2 Strength
--   +2 Fortitude
+-   +3 Fortitude
     
 
 **Surnames:**

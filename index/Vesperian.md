@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 98526
+revid: 99948
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -35,10 +35,10 @@ Vesperians are described as a beetle themed race with organically grown masks an
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Fortitude</li>
+    <li>+3 Fortitude</li>
     <li>+2 Willpower</li>
   </ul></td>
 </tr>

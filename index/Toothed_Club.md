@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 97294
+revid: 99938
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -25,7 +25,7 @@ categories: [Weapons, Clubs]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bounties, The Depths, Ancient Rotlands, Chime of Conflict, Minityrsa |
+| obtainment | Bounties, The Depths, Ancient Rotlands, Chime of Conflict, Minityrsa, Songseeker Wilds |
 | description | ... |
 
 ## Description

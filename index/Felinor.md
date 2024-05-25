@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 99811
+revid: 99945
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -35,11 +35,11 @@ One of the most distinct races in Lumen for their infamous cat ears, Felinor gar
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Agility</li>
     <li>+2 Charisma</li>
-    <li>+2 Agility</li>
   </ul></td>
 </tr>
 </tbody>

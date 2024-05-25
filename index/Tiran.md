@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 99881
+revid: 99953
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -35,11 +35,11 @@ Tiran is a rare race that has a bird motif. They have special circle-like markin
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Agility</li>
     <li>+2 Willpower</li>
-    <li>+2 Agility</li>
   </ul></td>
 </tr>
 </tbody>

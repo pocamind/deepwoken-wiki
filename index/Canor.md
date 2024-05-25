@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 98142
+revid: 99949
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -29,10 +29,10 @@ Canor are an uncommon race considered to have the characteristics of a canine bu
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Strength</li>
+    <li>+3 Strength</li>
     <li>+2 Charisma</li>
   </ul></td>
 </tr>

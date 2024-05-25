@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 98012
+revid: 99958
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -35,11 +35,11 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Charisma</li>
     <li>+2 Willpower</li>
-    <li>+2 Charisma</li>
   </ul></td>
 </tr>
 </tbody>

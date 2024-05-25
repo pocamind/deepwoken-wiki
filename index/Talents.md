@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99854
+revid: 99968
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -58,6 +58,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Million Ton Piercer_ **or** _Ether Overdrive;_
 -   _Bulldozer_ **or** _Dazing Finisher;_
 -   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent_
+-   _Wraith Path: Twisted Puppets_ **or** _Azure Flames_
 
 Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -302,17 +303,15 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this talent.
     -   Prerequisite: 35 Agility
 
--   Low Blow \[Common Talent, Agility\] - Those you assassinate are slowed and unable to jump for 3s. (+1 Passive Agility)
-    -   Prerequisites: 60 Agility, Deep Wound
-
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites: 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. Assassinating an opponent now blinds them for 5s. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
--   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
+-   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This talent bypass this immunity.
+    -   Merged with the old Low Blow talent.
     -   Prerequisite: 60 Agility
 
 ### Athlete
@@ -2099,17 +2098,16 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"I seek the qualities of Swiftshade."**_
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
-    -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
--   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. (+1 Passive Agility)
+    -   Prerequisites: Revenge (Agility Mantra), 90 Agility
+-   _**Dustlunge**_ \[Advanced Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
-    -   Prerequisites: Shared Demise, 90 Agility
+    -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
+    -   Merged with the old Shared Demise talent.
+    -   Prerequisites: All Assassin Talents, 90 Agility
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
     -   Pressing the V key on a knocked entity who's in close/medium range teleports you to them.
     -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisite: Shared Demise, 100 Agility
--   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
-    -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
-    -   Prerequisites: 85 Agility, All Assassin Talents
 
 ### Tactician
 
@@ -2297,6 +2295,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
+-   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
+    -   Prerequisite: ?? Agility
+-   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
+    -   Prerequisites: Revenge (Agility Mantra), 90 Agility
+-   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
+    -   Prerequisites: Revenge, ?? Agility
 
 ### Twisted Puppets
 
@@ -2349,12 +2353,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
-    -   Graceful Flame can now be casted in the depths.
+    -   Graceful Flame can now be casted in the depths. Graceful Flame passively restores sanity and health to those around it.
+    -   Merged with the old Soundness of Mind talent.
     -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
-
--   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your Graceful Flame will shield others from environmental insanity. (+1 Elemental Intensity)
-    -   Graceful Flame passively restores sanity and health to those around it. Stacks with sitting next to it.
-    -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
 
 ### Unstable Capacitor
 
@@ -2391,7 +2392,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 -   Action Surge \[Common Talent\] - Adrenaline Surge now increases your swing speed by 0.03 for its duration. (+1 Passive Agility)
-    -   Prerequisite: 90 Agility, Adrenaline Surge
+    -   Prerequisite: 70 Agility, Adrenaline Surge
 
 -   _Air Counter_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
     -   5 Seconds Cooldown.

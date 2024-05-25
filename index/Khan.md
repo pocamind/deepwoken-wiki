@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 99583
+revid: 99951
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -34,10 +34,10 @@ Khans are a rare race with light skin, and a monkey-like appearance. Khans have 
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Strength</li>
+    <li>+3 Strength</li>
     <li>+2 Agility</li>
   </ul></td>
 </tr>

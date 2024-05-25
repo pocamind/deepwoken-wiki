@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 97118
+revid: 99955
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -33,11 +33,11 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Charisma</li>
     <li>+2 Agility</li>
-    <li>+2 Charisma</li>
   </ul></td>
 </tr>
 </tbody>
