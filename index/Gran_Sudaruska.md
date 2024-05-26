@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 96092
+revid: 100097
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Chaser, Scholar of the Burning Blood (Chest), Layer 2, Ministry ambushes (chest) |
+| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Chaser, Scholar of the Burning Blood (Chest), Layer 2, Ministry ambushes (chest), Diluvian Mechanism (wave 50) |
 | description | "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
 
 ## Description
