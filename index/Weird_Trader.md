@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100038
+revid: 100065
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,9 +12,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | name | Weird Trader |
 | location | Random Encounter (Sea) |
 
-“ Hi. Give me Redd, Empyrean Lotus, Shotel. ”
+“ Hi. No you dont. ”
 
-― An example of the Weird Trader requests
+― Weird Trader before uppercutting your lying mouth 50 feet in the sky
 
 ## Description
 
@@ -24,11 +24,15 @@ Weird Trader is a seemingly inconspicuous [Ganymede](Ganymede.md) that can rarel
 
 Weird Trader will make requests for 3 items, from a long list of possible choices. Providing him with these 3 items will reward the player with rare items. This trade can only be performed once per encounter, a new Weird Trader need to be found to attempt another trade.
 
+**Claiming you have the items without having them in your inventory causes the Weird Trader to uppercut you, sending you extremely high in the sky and giving you the potential of being knocked or dying if you arent wearing a [Tiran Pendant](Tiran_Pendant.md).**
+
 ### Requested items
 
 -   Weapons, including:
     -   [Dragoon](Dragoon.md)
     -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
+    -   [Shotel](Shotel.md)
+    -   ???
 -   Any of the Voidzone Lotuses
 -   Ingredients, Including:
     -   Redds

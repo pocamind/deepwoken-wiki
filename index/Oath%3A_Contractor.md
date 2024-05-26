@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 98938
+revid: 100056
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -31,6 +31,7 @@ Important note: You can return to Lord Regent, restart the quest if you have neg
     -   You can either get this through Imel, Emel, and Rimil's bounties if you choose, but you can also help the Ministry out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one Ministry Scout, waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation but double the time to complete.
     -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at Summer Isle for them to not see worth fighting you anymore.
     -   The Bounty version of the Ministry takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
+    -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md).
     -   It is also advised to avoid killing [Ministry Scouts](https://deepwoken.fandom.com/wiki/Ministry_Scout) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
 3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue".

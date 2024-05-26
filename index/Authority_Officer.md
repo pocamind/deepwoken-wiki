@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 99833
+revid: 100066
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
@@ -43,7 +43,7 @@ Critical
 
 Jolt Grab
 
- | An electrified chokehold. | ◯ | ◯ | (★★☆) |
+ | Grabs the nearest target with an electrified grasp. | ◯ | ◯ | (★★☆) |
 | 
 
 Thunder Kick

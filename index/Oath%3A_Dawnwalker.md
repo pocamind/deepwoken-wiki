@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 99277
+revid: 100053
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -94,6 +94,7 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 ## Trivia
 
+-   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the oath as it only costs 30 to obtain it, and if you convert the other 10 to knowledge you can max it out right then and there.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
     -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.
 -   The passive ability Luminous Flash may be inspired by [Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen).
