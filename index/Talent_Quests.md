@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 100034
+revid: 100081
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -41,11 +41,11 @@ Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_
 
 ### Chain of Perfection
 
-**Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage
+**Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage. (Up to 2x damage. Fall damage and environmental damage will remove all stacks.)
 
-Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. It is very dominant in PvE, especially against bosses like [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), or the [Scion of Ethiron](Scion_of_Ethiron.md). The easiest way to obtain it is by cheesing Primadon.
+Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. This talent makes PvE far easier as you get better at the game. The easiest method to obtain this talent is via Cheese, or doing [The Ferryman](The_Ferryman.md)
 
-Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die, it will still count and the Talent will be rewarded.
+Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die/leave, it will still count and the Talent will be rewarded.
 
 ## Other Quests
 
@@ -74,7 +74,7 @@ You get these talents by using the item [Repair Hammer](Repair_Hammer.md) on you
 **Hook Line, and Sinker:** Once something's caught your line, it's much harder for it to get loose. (+4 Ether)  
 **Fisher's Lure**: Fish are drawn to your line more quickly. (+4 Ether)
 
-You need to successfully fish a certain amount of times to get each talent, 10 times for Proficient Baiting, 30 times for Hook, Line, and Sinker, and 50 times for Fisher's Lure. Proficient Baiting Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boot, Hook, Line, and Sinker Reduces the chance of failure while fishing, and Fisher's Lure Increases the rate of hooking something while fishing.
+You need to successfully fish a certain amount of times to get each talent, **10** times for Proficient Baiting, **30** times for Hook, Line, and Sinker, and **50** times for Fisher's Lure. Proficient Baiting Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boot, Hook, Line, and Sinker Reduces the chance of failure while fishing, and Fisher's Lure Increases the rate of hooking something while fishing.
 
 ### Family Recipe
 
@@ -86,7 +86,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md) in the Eastern Luminant, there wi
 
 **Union Hook:** You can now make use of the Ignition Union hooks to ascend or descend.
 
-Union Hook is acquired by talking to [Alpha](Alpha.md) in [The Frontier Furnace](The_Frontier_Furnace.md) after you power on the generator by killing the Bone Keeper in [Second Layer](Second_Layer.md). This allows you to use the metal rods with a hook at the bottom for transportation. Union Hooks can be found primarily in Layer 2 Floor 1, but also on the surface.
+Union Hook is acquired by talking to [Alpha](Alpha.md) in [The Frontier Furnace](The_Frontier_Furnace.md) after you power on the generator by killing the Bone Keeper in [Second Layer](Second_Layer.md). This allows you to use the metal rods with a hook at the bottom for transportation. Union Hooks can be found primarily in Layer 2 Floor 1, but also on the surface. Skipping the generator or wall clipping in will not allow you to get the talent until the generator is powered.
 
 ### Ethiron's Gaze
 

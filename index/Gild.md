@@ -1,12 +1,12 @@
 ---
 title: Gild
-revid: 100043
+revid: 100080
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Gild
 
-gild is black asl
+Redirect to:
 
-(Someone please be a dear and update this page)
+-   [Ore](Ore%253Fredirect=no.md)

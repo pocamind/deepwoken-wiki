@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100070
+revid: 100087
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,7 +42,8 @@ Weird Trader will make requests for 3 items, from a long list of possible choice
     -   Dentifilos
     -   Alestrian Coral
     -   [Erisore](Ores.md)
-    -   ???
+    -   [Sparks](Mantra_Modifiers.md)
+    -   [Squid](Fishing.md)
 
 ### Rewards for completing the trade
 
