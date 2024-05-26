@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100065
+revid: 100070
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,11 +32,14 @@ Weird Trader will make requests for 3 items, from a long list of possible choice
     -   [Dragoon](Dragoon.md)
     -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
     -   [Shotel](Shotel.md)
+    -   [Anklets of Alsin](Anklets_of_Alsin.md)
+    -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
     -   ???
 -   Any of the Voidzone Lotuses
 -   Ingredients, Including:
     -   Redds
     -   Browncaps
+    -   Dentifilos
     -   Alestrian Coral
     -   [Erisore](Ores.md)
     -   ???
