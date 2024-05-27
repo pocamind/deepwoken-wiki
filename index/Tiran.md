@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 99953
+revid: 100240
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -115,6 +115,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
     -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
 -   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the Tiran not possessing a beak, they could unintentionally be inspired from the Rito.
+-   Because Tiran live on mountains, isolated from the rest of the world, they can be assumed to have a different dialect or way of speaking from other cultures. More specifically, Tiran should have aggressively Swedish accents. It simply feels right, and a Tiran IKEA would be funky.
 
 ## References
 

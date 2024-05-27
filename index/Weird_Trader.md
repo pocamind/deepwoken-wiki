@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100195
+revid: 100226
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -25,7 +25,7 @@ The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) that can rarely be 
 
 The Weird Trader will request three items, from a long list of possible choices. Providing these three items will reward the player with a very rare weapon or an Astral Enchantment Stone. This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 
-Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md).
+Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md) or other forms of fall damage negation.
 
 The event despawns after 30 minutes have elapsed.
 
@@ -61,6 +61,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Zweihander](Zweihander.md)
     -   Other
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
+        -   [The Path's Defender](<The_Path's_Defender.md>)
 -   Any Primordial Lotus
 
 -   Ingredients, Including:

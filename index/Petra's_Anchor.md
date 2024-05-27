@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 100209
+revid: 100235
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -48,5 +48,7 @@ The critical causes the user to lunge forward at their enemies and knock them do
     
     Petra's Anchor in a merchant ship
     
+
 -   You can goon if you crit and parry at the same time with Petra's Anchor
+
 -   A Dread Serpent was responsible for the sinking of the Petra's Dawn, which is why it directly drops this weapon.

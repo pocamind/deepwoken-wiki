@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 99987
+revid: 100238
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -111,6 +111,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
+-   Be careful when using Providence's Thorn since he is able to parry the damage dealt by it and giving you parry stuns.
 -   If you don't have Providence Thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using Ardour can help to guard break him if you don’t have Providence Thorns or any type of chip damage.
 -   Healing from Bloodless Gem, Vampirism, or potentially No Life King can prove useful as a source of healing against Maestro Evengarde Rest, provided you can proc the former two and survive long enough for the latter to matter.
 -   When you manage to land a hit on him, Rest is prone to repeatedly getting caught in weak blocks. Often, these are great opportunities to deal some real damage to him, especially if you're using medium or light weapons. He will eventually land a parry or will vent, so be sure to exercise caution while whaling on him.
