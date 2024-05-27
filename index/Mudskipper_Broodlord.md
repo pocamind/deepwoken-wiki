@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 100035
+revid: 100142
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-Colloquially known as the "Broodskipper" Template:Creature Infobox V3
+Also known as "Broods", "Broodlords", "Purple Brutes". "Mahoraga", and more. Template:Creature Infobox V3
 
 ## Description
 
@@ -20,9 +20,9 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 
 | Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
-| Swiftrot Strike | Delivers a quick rigorous punch. | 
+| Cleave | Delivers a quick rigorous punch. | 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| Swiftrot Jab | Delivers a quick sucker punch. | 
+| Dismantle | Delivers a quick sucker punch. | 
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | Broodrot Thrust | Delivers a stronger, unparriable thrust with its rotten fist. | 

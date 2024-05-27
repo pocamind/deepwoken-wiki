@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 99994
+revid: 100144
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -776,6 +776,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this talent.
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
+-   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD.
+    -   Prerequisites: 85 Charisma, Taunt (?)
 
 ### Escape Artist
 
@@ -2296,11 +2298,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
-    -   Prerequisite: ?? Agility
+    -   Prerequisite: 75 Agility
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), 90 Agility
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
     -   Prerequisites: Revenge, 100 Agility
+-   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
+    -   Prerequisites: 100 Agility, Down Comes the Claw
 
 ### Twisted Puppets
 

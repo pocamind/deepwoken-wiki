@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 100056
+revid: 100127
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -89,7 +89,7 @@ Alternatively you may spend 10 knowledge to immediately max out the oath (Only i
 
 -   File:Contractor 10 knowledge.png
     
-    You can skip Contractors progression with 10 knowledge despite Lord Regent before killing you.
+    You can now skip Contractor's progression with 10 knowledge, despite the fact that Lord Regent would kill you previously.
 -   Upon obtaining the Oath, reputation with The Divers will be set to Hunted. Reputation may be gained back by defeating Chaser or Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp)
     -   Reputation can no longer be bought for The Divers.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.

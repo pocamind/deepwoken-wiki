@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 100067
+revid: 100132
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -45,12 +45,15 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 2x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether.
 
-### **Obtainment:**
+### **Obtainment**
 
-**Murmur: Ardour** can be obtained by defeating the [Dread Serpent](Dread_Serpent.md). After killing the [Dread Serpent](Dread_Serpent.md), a purple orb will fly into you right before getting it.
+#### Method One - Serpent Slayer
 
-  
-**Murmur: Ardour** can also be obtained through the sea [event](Random_Encounters.md) of ["Old Stranger"](https://deepwoken.fandom.com/wiki/Random_Encounters?so=search#Old_Stranger) which involves giving a canteen of clean water to a Khan.
+Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it in the [Voidsea](Voidsea.md) or summoning it with a Ardour Manifestation.
+
+#### Method Two - The Old Stranger
+
+Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist him by giving them a refreshing drink, granting you the Murmur as thanks.
 
 ## Murmur: Tacet
 

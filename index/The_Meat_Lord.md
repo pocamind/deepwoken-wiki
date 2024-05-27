@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 97129
+revid: 100137
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -44,6 +44,7 @@ categories: [Random Encounters, NPCs]
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+-   [Meteor Isle](Meteor_Isle.md)
 
 _**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
 

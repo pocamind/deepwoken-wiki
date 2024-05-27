@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 99761
+revid: 100149
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -73,7 +73,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
--   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquaran, a working fire place, etc.).
+-   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquarian, a working fire place, etc.).
 -   **\[CON\]** **You cannot do Trial of One.**
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
