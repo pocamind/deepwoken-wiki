@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 100239
+revid: 100243
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -130,6 +130,7 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 -   Capras look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capras had their appearance reworked on 1/22/2023.
 -   Has the same core attributes as [Ganymede](Ganymede.md).
+-   Known to have mild to severe Southern accents
 
 ## References
 

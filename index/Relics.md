@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 98712
+revid: 100252
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -162,7 +162,7 @@ The ability is one-time-use, but is recharged by killing a boss or player of you
 
 File:Warmaster Medallion Relic.png
 
- | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants a passive where your Critical Attack cooldowns are 20% shorter. In exchange, your Resonance cooldown is doubled.
+ | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the talent "Actions Speak Louder", reducing Critical Attack cooldown by 20% but doubles Resonance cooldown.
 
   
 In areas where your Resonance is suppressed, your critical cooldown is 5% shorter instead.
@@ -178,7 +178,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 
 File:Tiran Pendant Relic.png
 
- | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant worn by Tiran spiritual leaders that grants the wielder almost-full immunity to Fall Damage.
+ | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the talent "Featherfall", which massively reduce fall damage.
 
   
 After a certain amount of damage has been negated, the pendant will go on cooldown for 10 minutes.

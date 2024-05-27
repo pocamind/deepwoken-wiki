@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 100169
+revid: 100255
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -123,10 +123,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.0s | [Fishing](Fishing.md) Success |
 |  | 0.7s | [Fishing](Fishing.md) Failure |
 |  | 3.2s | [Seafarer's Chime](<Seafarer's_Chime.md>) |
-|  | 3.6s | Cannonball Impact |
 |  | 2.7s | [Bomb](Iron_Bomb.md) Impact |
 |  | 0.3s | Zipline Loop |
-|  | 7.1s | [Aerogliding](Talents.md#aeromancer) |
 |  | 2.7s | [Chime of Conflict](Chime_of_Conflict.md) + Shadow Vortex (Activation) / [Spire](Relics.md) (Deactivation) |
 |  | 4.2s | [Grasp of Eylis](Voidheart.md) + [Voideye](Origins.md#voidwalker) Loop |
 |  | 4.3s | [Light Hook](Second_Layer.md) Usage |
@@ -149,10 +147,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.7s | Cannonball (fired) |
-|  | 1.8s | Waterlock opening |
-|  | 2.6s | Waterlock splashing |
-|  | 3.9s | Waterlock ending |
+|  | 1.7s | Cannonball Fired |
+|  | 3.6s | Cannonball Impact |
+|  | 1.8s | Waterlock Opening (Start) |
+|  | 2.6s | Waterlock Splashing |
+|  | 3.9s | Waterlock Opening (End) |
 |  | 6.9s | Sea Gate Woosh |
 |  | 0.6s | Boat Clunking / Elevator Lever Usage |
 |  | 11s | Rudder Turning |
@@ -272,6 +271,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.8s | Locked [Attribute](Attributes.md) \[2\] |
 |  | 6.0s | [Power](Power.md) Increase |
 |  | 1.9s | Bear Trap (Proc) |
+|  | 7.1s | [Aerogliding](Talents.md#aeromancer) |
 |  | 1.2s | Audacity Talent (proc) |
 |  | 1.2s | [Dark Rift](Talents.md#dark-siphon) Activation |
 |  | 0.8s | [Dark Rift](Talents.md#dark-siphon) Activation (Alt) |

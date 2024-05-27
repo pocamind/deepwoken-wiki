@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100226
+revid: 100247
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -23,7 +23,7 @@ notices:
 
 The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) that can rarely be spotted sailing in a Dinghy just about anywhere in the sea. This include the waters of the Etrean Luminant, the Eastern Luminant and even the Voidsea.
 
-The Weird Trader will request three items, from a long list of possible choices. Providing these three items will reward the player with a very rare weapon or an Astral Enchantment Stone. This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
+The Weird Trader will request three items, from a long list of possible choices. Providing these three items will reward the player with a very rare weapon, a relic or an Astral Enchantment Stone. This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 
 Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md) or other forms of fall damage negation.
 

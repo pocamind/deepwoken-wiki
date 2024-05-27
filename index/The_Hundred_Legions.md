@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 100198
+revid: 100248
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -21,7 +21,7 @@ categories: [Factions]
 
 ## Description
 
-A superpower native to the Western Luminant, the Hundred Legions are a powerful empire boasting, as the name implies, a hundred legions of soldiers. They once allied themselves with The Authority, but were betrayed, so tracked a weakened Authority force down to the Etrean Luminant and sent the 11th Legion there in order to gather Information regarding the Authority. Their ranks consist mainly of Khans, but they are open to recruiting other races. They are creators of the Legion Kata fighting style and masters of [Galebreathe](Galebreathe.md) as the only way to train your Galebreath is through Gale Kata, described to be made by the Legion.
+A superpower native to the Western Luminant, the Hundred Legions are a powerful empire boasting, as the name implies, a hundred legions of soldiers. They once allied themselves with The Authority, but were betrayed. The 11th Scouting Legion were sent to the East to gather information of the conflicts going on there. Their ranks consist mainly of Khans, but they are open to recruiting other races. They are creators of the Legion Kata fighting style and masters of [Galebreathe](Galebreathe.md) as the only way to train your Galebreath is through Gale Kata, described to be made by the Legion.
 
 The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example being the [Khan Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th Legion and brought them to the East when an imminent conflict was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](Thresher.md), but survived, and can be found in Aratel Island as part of the Legion Kata questline.
 
@@ -60,4 +60,4 @@ For some bizarre reason, non-guard NPCs don't seem affected by low Legion reputa
 -   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say, "Let my comrades know, we'll hold a ceremony in his honor."
 -   Despite the Legion being extremely vast as they rule an entire Luminant, apparently, with an iron fist, it has too little lore content to be deemed a relevant faction.
 -   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive game mode, and by extension, the only ones to have a server wholly dedicated to them.
--   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legions against the Starkindred church in the west, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. Whether their current hostilities are actually canon or simply a result of spotty coding remain to be seen.
+-   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against the Starkindred church in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. Whether their current hostilities are actually canon or simply a result of spotty coding remain to be seen.

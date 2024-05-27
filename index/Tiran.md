@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 100240
+revid: 100253
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -61,9 +61,10 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Reduced fall damage.
     -   Reduces impact of [High Velocity](Echoes.md#modifiers).
 -   Starts with a glider.
-    -   No need to grab the glider schematic or parts.
+    -   No need to grab the glider parts.
     -   No need to re-make gliders once they break, as the feathered glider is unbreakable.
-        
+        -   Can be seen as redundant with the introduction of Starting Glider from [Echoes](Echoes.md)
+            
 
 **Weaknesses:**
 
@@ -109,13 +110,12 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with hair.
     -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the race at all.
--   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw Man", having a very similar eye pattern. They may also be inspired from Big Bird of Lobotomy Corporation. They all have eyes with multiple overlapping circles.
+-   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw Man", having a very similar eye pattern.
 -   The Jay variant shares many similarities (hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or [Felinor](Felinor.md) and having slightly darker eyes.
     -   This may be unintentional.
 -   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
     -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
 -   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the Tiran not possessing a beak, they could unintentionally be inspired from the Rito.
--   Because Tiran live on mountains, isolated from the rest of the world, they can be assumed to have a different dialect or way of speaking from other cultures. More specifically, Tiran should have aggressively Swedish accents. It simply feels right, and a Tiran IKEA would be funky.
 
 ## References
 

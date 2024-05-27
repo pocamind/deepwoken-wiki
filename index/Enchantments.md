@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 100044
+revid: 100254
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -267,7 +267,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
   <br>
-  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life in PVE combat, this doesn't change anything in PvP. Unequipping it from your character will restore that life, assuming NLK actually took one away in the first place.)<br>
+  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life in PVE combat, this doesn't change anything in PvP. Unequipping it from your character will restore that life, (assuming NLK actually took one away in the first place.)<br>
   Take 2x blood damage from all sources when in the overworld.<br>
   When unsheathed in The Depths, you will instantly lose 100 sanity (each time you equip it). Unless you have a huge amount of willpower, this will kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
   While equipped, if you reach Tier 3 Insanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
