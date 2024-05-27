@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 100005
+revid: 100200
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -158,7 +158,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 #### Legion Sniper
 
-A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to(with a good reputation) and can be also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
+A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to(with a good reputation) and can also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
 
 #### Serena
 
@@ -181,7 +181,7 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 #### Meteor Isle Authority Raid
 
-Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_Isle.md). Killing them does not grant negative reputation with [The Central Authority](The_Central_Authority.md) nor does it grant positive reputation with The Children Of Navae.
+Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_Isle.md). Killing them does not grant negative reputation with [The Central Authority](The_Central_Authority.md) nor does it grant positive reputation with The Children Of Navae. This event rewards the player with a mediocre chest and XP.
 
 #### Meteor Isle Meteor
 

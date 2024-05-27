@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 100054
+revid: 100204
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -59,6 +59,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 
 ## Tips/Trivia
 
+-   If your Dimensional travel gets a multipler of 5x or higher its recommended to just keep it as its very difficult to get a multiplier that high.
 -   Like [Portals](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking other players.
 -   Similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   Despite looking like a better than average area for combat, it is _incredibly dangerous_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.

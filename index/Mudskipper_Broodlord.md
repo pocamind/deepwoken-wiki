@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 100142
+revid: 100214
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-Also known as "Broods", "Broodlords", "Purple Brutes". "Mahoraga", and more. Template:Creature Infobox V3
+Also known as "Broods", "Broodlords", "Purple Brutes". "Mahoraga", “Max Wiper“ and "Johnny" and more. Template:Creature Infobox V3
 
 ## Description
 

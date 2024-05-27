@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 91107
+revid: 100207
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -68,9 +68,9 @@ Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions,
 2 of each lotus crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 
 -   Hellfire Lotus (Red) - Strength Attribute
-    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Saramaed Summit](Saramaed_Summit.md)
+    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Saramaed Summit](Saramaed_Summit.md), [The Hidden Grove](The_Hidden_Grove.md)
 -   Empyrean Lotus (Blue) - Fortitude Attribute
-    -   Found in: [Deep Thresher Nest](Deep_Thresher_Nest.md)
+    -   Found in: [Deep Thresher Nest](Deep_Thresher_Nest.md), [The Hidden Grove](The_Hidden_Grove.md)
 -   Zephyr Lotus (Green) - Agility Attribute
     -   Found in: [Ancient Rotlands](Ancient_Rotlands.md), [The Hidden Grove](The_Hidden_Grove.md)
 -   Brilliant Lotus (Yellow) - Intelligence Attribute
@@ -79,3 +79,6 @@ Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions,
     -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Starfield Grove](Starfield_Grove.md), [The Hidden Grove](The_Hidden_Grove.md)
 -   Miasmic Lotus (Pink) - Charisma Attribute
     -   Found in: [Ancient Rotlands](Ancient_Rotlands.md), [The Hidden Grove](The_Hidden_Grove.md)
+
+  
+(All Lotuses available in [The Hidden Grove](The_Hidden_Grove.md) )

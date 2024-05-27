@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100173
+revid: 100195
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -51,6 +51,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Razor Cutlass](Razor_Cutlass.md)
         -   [Serpent's Edge](<Serpent's_Edge.md>)
         -   [Shotel](Shotel.md)
+        -   [Summer Rifle](Summer_Rifle.md)
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md)
@@ -89,7 +90,7 @@ The event despawns after 30 minutes have elapsed.
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   [Flareblood Kamas](Flareblood_Kamas.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md)
+-   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
 -   [Kyrsieger](Kyrsieger.md)
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
--   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)

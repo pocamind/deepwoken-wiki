@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 99939
+revid: 100216
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, .;]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords, .;]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Dread Serpent |
+| obtainment | Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Dread Serpent, Void Walker Chest |
 | description | An exceptionally long and unwieldy blade of Etrean make. Useless in the hands of a novice, but lethal in the hands of one who can adapt to its unnatural centre of gravity. |
 
 ## Description

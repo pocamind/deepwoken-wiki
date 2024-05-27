@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 99788
+revid: 100218
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
@@ -37,7 +37,9 @@ Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputatio
 
 Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you some reputation.
 
-There is only one event in which you can assist The Ministry and gain reputation without killing players or wiping:
+Going to the [Soothsayer](Soothsayer.md) in the [Starfield Tundra](Starfield_Tundra.md) and giving them [Knowledge](Knowledge.md) will also grant you Ministry reputation.
+
+There is only one [random event](Random_Encounters.md) in which you can assist The Ministry and gain reputation:
 
 -   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
 

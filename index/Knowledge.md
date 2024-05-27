@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 98366
+revid: 100217
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 | Knowledge | |
 |---|---|
-| usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables |
+| usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables, Increasing reputation with The Ministry through the Soothsayer, Instantly fully progressing an Oath completed on a previous slot |
 | obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating certain bosses, Defeating certain unique mobs for the first time, Echoes upgrades |
 
 “ Do you have the knowledge within you then, my dull friend? ”

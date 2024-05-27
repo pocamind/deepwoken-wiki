@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 98512
+revid: 100220
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -367,9 +367,9 @@ _"Something haunts your past. A fragmented memory of a promise you made to yours
 
  | 
 
-You regenerate slightly less at campfires.
+You regenerate less at campfires.
 
-Given after removing Oath: Oathless at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+Given after removing an [Oath](Oaths.md) at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
 (Not an Unlockable Flaw)
 

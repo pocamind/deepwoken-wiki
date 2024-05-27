@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 99386
+revid: 100211
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -50,3 +50,4 @@ While one handed it uses the default [Katana](Katana.md) crit, but gains a uniqu
     -   Both weapons deal very similar damage at equivalent attribute levels. Their main differences become the PEN and swing speed.
     -   With its addition in the 1/26/24 update, the Alloyed Katana will actually _outdamage_ the Shattered—albeit only by a small margin. With that in mind, the Shattered Katana is still worth using if you favor high PEN or its unique crit.
 -   On release, the Shattered Katana had 50% PEN and 0.75x swing speed. It also received the full 25% damage buff from Paired Soul.
+-   I've done weird things to this katana.

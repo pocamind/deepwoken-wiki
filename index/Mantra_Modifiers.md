@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 99070
+revid: 100202
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -337,6 +337,7 @@ Deep Gems can be obtained from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md) (roughly 10% drop chance)
 -   In any chest from [Layer 1](First_Layer.md) (very low drop chance, betters odds from corrupted monsters)
+-   Ship events that spawn Depths chests
 -   [Hell Mode](Hell_Mode.md) completion chest (guaranteed)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (very likely)
 -   [Scion of Ethiron](Scion_of_Ethiron.md) (guaranteed)

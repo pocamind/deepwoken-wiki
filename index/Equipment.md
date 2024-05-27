@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 99901
+revid: 100188
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -1187,7 +1187,7 @@ _+5 Health_
 
 Sources:
 
--   [Developer Specs](Developer_Specs.md)
+-   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 |  | 
@@ -1207,7 +1207,7 @@ _+Talent: Ashes on the Fire_
 
 Sources:
 
--   [Developer Specs](Developer_Specs.md)
+-   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 |  | 
@@ -1226,7 +1226,7 @@ _+5 Health_
 
 Sources:
 
--   [Developer Specs](Developer_Specs.md)
+-   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 |  | 
@@ -1245,7 +1245,7 @@ _+5 Health_
 
 Sources:
 
--   [Developer Specs](Developer_Specs.md)
+-   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 |  | 
@@ -1264,7 +1264,24 @@ _+5 Health_
 
 Sources:
 
--   [Developer Specs](Developer_Specs.md)
+-   [Mod Shop](Developer_Specs.md)
+
+ | N/A |
+|  | 
+
+[Worldshaper's Laurel](<Worldshaper's_Laurel.md>)
+
+(**Unobtainable**)
+
+ | 
+
+No Pips
+
+ | 
+
+Sources:
+
+-   Prize from winning a [Fanart Contest](Developer_Specs.md)
 
  | N/A |
 
@@ -3902,7 +3919,7 @@ _+5 Health_
 
 Sources:
 
--   [Developer Specs](Developer_Specs.md)
+-   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 
