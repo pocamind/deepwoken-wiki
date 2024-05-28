@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 99416
+revid: 100327
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -212,6 +212,7 @@ categories: [Deepwoken]
 -   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Roland**," "**Tiphereth**," "**Xiao**", "**Zena**", "**Iori**", and "**Argalia**", are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
+-   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
 
 ## World
 

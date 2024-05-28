@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 99899
+revid: 100325
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -230,7 +230,7 @@ _Conjure and throw weapons of ice._
     -   9 seconds base, 13 seconds with 1 Eternal Logstone.
 -   Casting the mantra itself while standing on ice will summon more projectiles.
     -   Currently bugged.
--   Adding a magnet spark makes it instantly teleport to whoever gets hit by the ice projectiles. Think of it as a better wayward gem that doesn't take a deep gem slot and has 0 windup on proc. (There is no dmg difference)
+-   Adding a magnet spark makes it instantly teleport to whoever got hit by the ice projectile and hits with 3 extra ice forge projectiles. However, requires some distance to teleport to the enemy. Does less dmg if you don't proc the ice forge teleport.
 
  |
 |  | 

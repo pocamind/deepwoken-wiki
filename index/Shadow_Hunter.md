@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 97628
+revid: 100332
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Agility](Attributes.md) 10.
 
 This Outfit has 1500 durability and grants +10% Physical resistance, +5% Elemental resistance and +10% Shadow resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your [Stealth](Stealth.md) while crouching.
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your [Stealth](Stealth.md) and roll distance while crouching, reduces the speed penalty for crouching, and allows you to draw and sheathe your weapon silently.
 
 ## Location
 

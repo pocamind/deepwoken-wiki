@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 94690
+revid: 100305
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Items, Outfits]
@@ -39,3 +39,4 @@ This Outfit's schematic can be found in:
 -   The Talent has a cooldown of 1 minute.
 -   The Outfit has the same ingredients as the [Prophet's Cloak](<Prophet's_Cloak.md>).
 -   On the 2/17/2024 update, it was made bankable. Before you had to pass it down to equip on other slots.
+-   CAN YOU DROP IT OR NO???

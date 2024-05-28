@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 100293
+revid: 100311
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -77,45 +77,67 @@ There are 11 known fishing locations in game:
 
 **Boatmans Watch:**
 
+### Boatmans Watch
+
 This spot is seen on the coast of Boatman's Watch to the right of the shipyard looking outward.
 
 **Mortus:**
+
+### Mortus
 
 This spot is accessed by going behind Mortus' shack
 
 **Tomb of the Nameless Warrior:**
 
+### Tomb of the Nameless Warrior
+
 This spot can be seen once you enter the Strength uncap room. There are two spots on the left and right of the obelisk.
 
 **Starfield Grove:**
+
+### Starfield Grove
 
 This spot can be seen behind the Startree located in the [Starswept Valley](The_Starswept_Valley.md).
 
 **Starfield Veldt:**
 
+### Starfield Veldt
+
 This spot can be seen behind the Startree located near [Miner's Landing](<Miner's_Landing.md>).
 
 **Shrine of Division:**
+
+### Shrine of Division
 
 This spot is located to the right of the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) island when facing outward.
 
 **Miner's Landing:**
 
+### Miner's Landing
+
 This spot is located in a waterfall in a staircase on the path to the upper landing.
 
 **Eastern Interstitial Lighthouse:**
+
+### Eastern Interstitial Lighthouse
 
 This spot is located in the inner walls of the Lighthouse
 
 **The Entropy Catalyst:**
 
+### The Entropy Catalyst
+
 This spot is located at the entrance of [The Entropy Catalyst](The_Entropy_Catalyst.md)
 
 **Beloved Zofia:**
 
+### Beloved Zofia
+
 This spot is located around the rocks in front of the front of the [Beloved Zofia](Beloved_Zofia.md)
 
 **New Kyrsa, The Sleeping City:**
+
+### New Kyrsa, The Sleeping City
 
 This spot is located just in front of the waterfall.
 
