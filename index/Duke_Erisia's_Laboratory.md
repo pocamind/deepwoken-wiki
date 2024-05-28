@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Laboratory"
-revid: 99574
+revid: 100294
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Laboratory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -24,4 +24,5 @@ File:First room in Dungeon of Dukes Manor.png
 
 ## Notes
 
--   The Golems and Brainsuckers respawn after a set amount of time, so it's best to just run past them instead of taking the time to kill them all.
+-   The first room is obligated to do, you must kill many Mindless Servants and two Prime Golems to advance to the other rooms
+-   You can skip all rooms except the first to go directly to the Duke Erisia

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 100061
+revid: 100293
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -61,12 +61,13 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 
 Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish. There is also a legendary fish, an enchanted golden swordfish. It is unknown how rare this is.
 
-There are 10 known fishing locations in game:
+There are 11 known fishing locations in game:
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   Behind [Mortus'](Mortus.md) shack
 -   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
 -   [Starfield Grove](Starfield_Grove.md)
+-   [Starfield Veldt](Starfield_Veldt.md)
 -   Near the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
@@ -89,6 +90,10 @@ This spot can be seen once you enter the Strength uncap room. There are two spot
 **Starfield Grove:**
 
 This spot can be seen behind the Startree located in the [Starswept Valley](The_Starswept_Valley.md).
+
+**Starfield Veldt:**
+
+This spot can be seen behind the Startree located near [Miner's Landing](<Miner's_Landing.md>).
 
 **Shrine of Division:**
 

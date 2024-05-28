@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 97326
+revid: 100295
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -13,7 +13,7 @@ categories: [NPCs, Quests]
 | name | The Lord Regent |
 | location | Etris Palace |
 
-“ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me. ”
+“ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
 
 ― The Lord Regent
 
@@ -32,6 +32,114 @@ He has a particular interest in a powerful object referred to as 'The Forge of S
 If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative Etrea reputation.
 
 Despite his mystique and power, he still very much appears to be a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging. This, however, may just be a front to make people believe he is weaker than he really is.
+
+## Dialogue
+
+<table><caption>First Meeting (<a href="https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest">Starting His Questline</a>)</caption><tbody><tr><th colspan="4">Ah, if it isn't [NAME]! I've been expecting you. How have your travels been?</th></tr><tr><td>1. Fine.</td><td colspan="3">2. [End Dialogue]<p><small>(Speaking again, he says: <b>"So, [NAME], I'll be recruiting your service."</b> See "Recruit my service?".)</small></p></td></tr><tr><th colspan="4">Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?</th></tr><tr><td>1. Yes.</td><td colspan="3">2. No.</td></tr><tr><th>Really? You knew I was going to recruit your service already? You're really full of surprises, aren't you.</th><th colspan="3">An experienced adventurer like yourself who has become quite a big name in Etrea, and you haven't a clue? I called you to recruit your service, of course.</th></tr><tr><td colspan="4">1. Recruit my service?</td></tr><tr><th colspan="4">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.</th></tr><tr><td colspan="4">1. What do you need from Erisia?</td></tr><tr><th colspan="4">What else? The forge of Sin. It should be located in the manor of the one known as 'Duke Erisia'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.</th></tr><tr><td>1. I'll go.</td><td>2. Why do you have the key?</td><td>3. The Forge of Sin?</td><td>4. Who is this Duke?</td></tr><tr><th>Splendid! Here's the key. You're of course welcome back once you've retrieved the Forge. Nice chatting with you.<pre>(This is a lie) 
+</pre></th><th>*<i>The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning</i>*</th><th>*<i>The Lord Regent seems bothered by your questioning, but relents.</i>* An artifact from below... One with properties much to my liking.</th><th>*<i>The Lord Regent scoffs in derision, letting his demeanour slip.</i>* A remnant of some long-dead backwater of a nation. His use of the Forge is amateur at best. If it were in *<i>our</i>* hands...</th></tr><tr><td>[End Dialogue.]</td><td>1. I'll go.</td><td>1. I'll go.<p>2. Why do you have the key?</p><p>3. What do you intend to do with it?</p></td><td>1. I'll go.<p>2. Why do you have the key?</p><p>3. Who do you mean by 'our'?</p></td></tr><tr><td colspan="2"></td><td colspan="2"><small>(Asking <b>any other questions</b> leads to: <b>*<i>The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning</i>*</b>. Ending dialogue early before: "I'll go" still allows you to ask the other questions.")</small></td></tr><tr><th colspan="4">Have you brought the Forge? (Quest in Progress)</th></tr><tr><td colspan="4">1. Not yet.</td></tr><tr><th colspan="4">*<i>The Lord Regent tilts his head, as if wondering why you're even here, then.</i>*</th></tr><tr><td colspan="4">[End Dialogue.]</td></tr></tbody></table>
+
+  
+
+<table><caption>First Meeting (<a href="https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest">Starting His Questline</a>, <a href="https://deepwoken.fandom.com/wiki/Origins?so=search#Voidwalker">Voidwalker Origin</a>), Unique Dialogue</caption>
+<tbody>
+<tr>
+  <td colspan="2">1. Recruit my service?</td>
+</tr>
+<tr>
+  <th colspan="2">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in. Of course, this is still a great risk for me to risk making deals with a filthy, void-touched assassin such as yourself, is it not? I'm placing quite an amount of trust in you, you see.</th>
+</tr>
+<tr>
+  <td>1. What do you need from Erisia?</td>
+  <td>2. Void-touched? How did you...</td>
+</tr>
+<tr>
+  <td rowspan="2"><small>(See other table)</small></td>
+  <th>*<i>The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning</i>*</th>
+</tr>
+<tr>
+  <td>1. I'll go.<p><small>(See other table)</small></p></td>
+</tr>
+</tbody>
+</table>
+
+  
+
+<table><caption>Having Killed <a href="Duke_Ishamon_Erisia.md">The Duke</a>, speaking to him again.</caption>
+<tbody>
+<tr>
+  <th colspan="4"><b><big>Have you brought the Forge?</big></b></th>
+</tr>
+<tr>
+  <th><b>NOT</b> on <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> path, (Negative <a href="The_Ministry.md">Ministry</a> reputation)</th>
+  <th>On <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> path, (Positive / Neutral <a href="The_Ministry.md">Ministry</a> reputation)</th>
+  <th colspan="2">Meets <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> requirements.</th>
+</tr>
+<tr>
+  <td>1. I defeated the Duke, but how was I supposed to drag it out of there?<p><i><small>(Ending dialogue early does NOT kill you, able to do contractor oath requirements.)</small></i></p></td>
+  <td>1. [Bite your tongue]</td>
+  <td colspan="2">1.[Bite your tongue]<p><small>(See other instance)</small></p>
+  <p>2. No, but I know of your true nature. I know that you intend to repeat what happened in <a href="https://deepwoken.fandom.com/wiki/Lore?so=search#The_Great_Drowning_of_Celtor">Celtor</a> by drowning <a href="Etris.md">Etris</a>.</p></td>
+</tr>
+<tr>
+  <th>Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed.</th>
+  <th>*<i>He smiles, satisfaction playing on his face.</i>* You have much to learn. Educate yourself on what it is we do here.</th>
+  <th colspan="2">*<i>The Lord Regent, appearing amused, grins.</i>* So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. Such a noble act.</th>
+</tr>
+<tr>
+  <td><b>[Player is Killed]</b><small>(Returning to the area will get you killed.)</small></td>
+  <td>[End Dialogue.]<p><small>(See <a href="Oath%253A_Contractor.md">Contractor Oath</a> requirements to progress with acquiring it.)</small></p></td>
+  <td>1. Yes, I did.</td>
+  <td>2. No, I came to join you.</td>
+</tr>
+<tr>
+  <td colspan="2" rowspan="2"></td>
+  <th>*<i>The Lord regent lets out a horrible laugh.</i>* <b>THEN YOU ARE TRULY A FOOL.</b></th>
+  <th>*<i>The Lord regent eyes you curiously.</i>* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Oath%253A_Contractor.md">oath</a> to me.</th>
+</tr>
+<tr>
+  <td><b>[Player is Killed]</b><small>(This does NOT lock you out of getting <a href="Oath%253A_Contractor.md">Contractor Oath</a>)</small></td>
+  <td>1. I will swear myself to you.<p><small>(Acquires <a href="Oath%253A_Contractor.md">Contractor Oath</a>)</small></p></td>
+</tr>
+<tr>
+  <td colspan="3" rowspan="4"></td>
+  <th>Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their <a href="Oaths.md">oaths</a> to others. These heathens are to be dealt with promptly.</th>
+</tr>
+<tr>
+  <td>1. It will be done my Lord.</td>
+</tr>
+<tr>
+  <th>*<i>The Lord Regent nods his head in your direction dismissing you.</i>*</th>
+</tr>
+<tr>
+  <td>[End Dialogue.]</td>
+</tr>
+</tbody>
+</table>
+
+  
+
+<table><caption>Acquired <a href="Oath%253A_Contractor.md">Contractor Oath</a>, speaking to him again.</caption>
+<tbody>
+<tr>
+  <th><big><b>Incomplete</b> Contractor Oath Progression</big></th>
+  <th><big><b>Complete</b> Contractor Oath Progression</big></th>
+</tr>
+<tr>
+  <th>I will say this once, do not return until you have completed your orders.</th>
+  <th>You have done what is required of you for now. We must now bide our time until the next phase of our plans.</th>
+</tr>
+<tr>
+  <td>[Speaking to him once more]</td>
+  <td rowspan="3">[End Dialogue.]</td>
+</tr>
+<tr>
+  <th>It seems you need discipline.</th>
+</tr>
+<tr>
+  <td><b>[Player is Killed]</b><small>(Initiating dialogue when oath is <b>not fully progressed</b> results in death.)</small></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

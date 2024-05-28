@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100247
+revid: 100285
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -35,10 +35,12 @@ The event despawns after 30 minutes have elapsed.
     -   Light Weapons
         -   [Anklets of Alsin](Anklets_of_Alsin.md)
         -   [Central Dirk](Central_Dirk.md)
+        -   [Champion's Dagger](<Champion's_Dagger.md>)
         -   [Dragoon](Dragoon.md)
         -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
         -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
         -   [Legion Cestus](Legion_Cestus.md)
+        -   [Iron Cestus](Iron_Cestus.md)
     -   Medium Weapons
         -   [Alloyed Katana](Katana.md)
         -   [Cavalry Saber](Cavalry_Saber.md)
@@ -95,3 +97,4 @@ The event despawns after 30 minutes have elapsed.
 -   [Kyrsieger](Kyrsieger.md)
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
+-   Dye packet
