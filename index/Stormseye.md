@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 92236
+revid: 100361
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -56,6 +56,8 @@ The user shoots a bullet before beginning to circle the opponent at highspeed, a
 -   Originally, [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) did not use this weapon and instead used the [Hero Blade of Lightning](Hero_Blades.md).
     -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[2\]](#cite-note-2)
 -   The special aerial attack effect will also apply to your [Crazy Slots](Crazy_Slots.md) weapon.
+-   Meeting the requirement of THD and MED, the weapon deals 27.8 damage.
+-   At max THD and MED, the weapon deals 32.7 damage.
 
 ## References
 

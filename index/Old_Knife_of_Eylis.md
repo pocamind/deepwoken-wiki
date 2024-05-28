@@ -1,9 +1,9 @@
 ---
 title: Old Knife of Eylis
-revid: 90073
+revid: 100353
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies that can wield Enchantments, Enemies]
+categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies]
 ---
 
 # Old Knife of Eylis
