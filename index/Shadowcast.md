@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 99891
+revid: 100339
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -763,7 +763,7 @@ N/A
 ## Trivia
 
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
--   In the lore having Shadowcast is a taboo. If one is caught with said attunement they will be either executed or exiled on the spot.
+-   Many factions view the use of Shadowcast as taboo due to the nature of the Attunement.
 -   Shade Wisp is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner Ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against Shade Wisp's inclusion; it didn't even get past testing, but it was added to the game.
 -   Shadowcast has a Talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
     -   Additionally, several Shadowcast moves charge up with a white light.

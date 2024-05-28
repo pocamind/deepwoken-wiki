@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 98994
+revid: 100348
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -90,17 +90,17 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-**The Hero Blades** are a set of elemental weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of their respective Attunements, and Power 11+.
+**The Hero blades** are a Series of elemental blades rumored to be made from the essence of the song and are found within the game of _Deepwoken_, each taking the form of a blade with runes inscribed upon them. With each being made from an attunement based on the Hero who the weapon was created for with the blades keeping this form even though the original wielder has now passed on. Due to how the blades were created only those with powerful connections to the song are able to wield these weapons with each blade being attuned to one of the many natural elements of the song. What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requiring 75 in their respective attunement and level 11+.
 
-Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating all of the Blizzard Knights rewards a chest with multiple hero blades, the elements being random.
+The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing sets of 5 rounds in mysterious [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with several of the blades though they will have random attunements.
 
-All Hero Blades have their own unique critical attack.
+Each of the Hero Blades have their own unique critical attack.
 
 A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md), **not** [Songchant](Traits.md), like normal swords.
 
 **Flame:**
 
-The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of the Hero Blades. This weapon features a unique critial in which the user and phantom summon a brief fire tornado, dealing damage and applying Burn to nearby targets.
+The Hero Blade of Flame is one of the several elemental weapons apart of the Hero blade line, being specifically the Flamecharm variation of the Hero Blades. This weapon features a unique critical which has the user stab the weapon into the ground creating a whirlwind of flames around the wielder dealing damage and applying burn to enemies with the spirit within the weapon slamming the ground in tandem with the wielder.
 
 ## Critical
 
@@ -119,7 +119,7 @@ The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of t
 
 **Frost:**
 
-The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of the Hero Blades. This weapon features a unique critical in which the user and phantom summon multiple waves of ice around the initial location, dealing damage and apply Frost and Frozen Legs to targets in range. The user cannot attack while this special critical is active.
+The Hero Blade of Frost is one of the several elemental weapons apart of the Hero blade line, being specifically the Frostdraw variation of the Hero Blades. This weapon features a unique critical which has the user and spirit within the weapon slam the ground in tandem summoning multiple waves of ice around the initial location, dealing damage while applying the status Frost and Frozen Legs to targets within the range of the critical. Though the user is unable to attack while this unique critical is active.
 
 ## Critical
 

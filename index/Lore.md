@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 99898
+revid: 100344
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1987,16 +1987,16 @@ Though technically a blank slate of varying races and abilities, even the player
 
 -   Individuals born with the Gift; a Regalia that grants them the ability to radiate 'Light' within their very own soul by altering their Murmur. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
     -   Lightkeep draws from a verse of the Song called the Radiant Tones.
-    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
+    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role as a Lightkeeper.
 -   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
--   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."_, Lightkeeping can be utilized to iluminate objects long lost to the Tides.
 -   The only Lightkeeper that we know of is the one mentioned by Nimea and Klaris, Viqh, the Lightkeeper of the Eastern Lighthouse.
 -   Apparently Lightkeepers can't leave their lighthouse at any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
 -   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
--   Sometime before the events of the game, Nimea's childhood friend, Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
+-   Sometime before the events of the game, Nimea's childhood friend, Viqh, was born with the Gift, and was discovered shortly after due to their power. The people of the East Luminant believed that she was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them after being captured.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the Radiant Tones thanks to Viqh, the Lightkeeper of The Eastern Lighthouse, as she stated that "\[she\] learned a lot from her gift".
--   The magic that is utilized by the Dawnwalkers is a combat-oriented imitation of Lightkeeping through the usage of Radiant Tones.
+-   Klaris was taught by Viqh on how utilize Radiant Tones.
+    -   The magic that is utilized by the Dawnwalkers is a combat-oriented imitation of Lightkeeping through the usage of Radiant Tones.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
     -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.

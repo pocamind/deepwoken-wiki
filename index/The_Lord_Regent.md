@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 100295
+revid: 100335
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -151,12 +151,11 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws from using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is suggested by the fact that his throne is decorated with a variety of corals.
     -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), he does not in fact use Shadowcast, and his "black tendril"/Judgement ability likely stems from another source.
     -   It is unclear if him sending Contractors to the Depths to kill Oath bearers empowers him.
--   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay upon his throne as leaving could cause his death.
-    -   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) also suggests that the throne boosts his power, however when asked if the previous King of Etrea also received this 'buff' he refused to elaborate, instead making a face.
+-   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) states that the Coral Throne Zi'eer sits on boosts his power.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change interactions with Lord Regent.
 -   Seemingly has a negative connection with the Knives of Eylis and it's members, calling Voidwalkers "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
-    -   This may be because of the Knives of Eylis' current alignment with the Authority.
+    -   This may be because of the Knives of Eylis' current deals with the Authority.
 -   There are free chests that contain [Erisia](Erisia.md) tier loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:
     -   “What a foolish tradition."

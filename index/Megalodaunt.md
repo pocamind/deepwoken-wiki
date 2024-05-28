@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 98823
+revid: 100338
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -390,7 +390,6 @@ Roar
 -   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first true monster most players encounter and most have been fighting humanoids up until that point.
 -   The Megalodaunt roars when it spawns in and periodically afterwards, revealing its presence.
--   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) gear or the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit equipped.
 -   Megalodaunts in general are a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
     -   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
@@ -399,4 +398,3 @@ Roar
 -   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md). They are hostile to most other humanoids and monsters, including [Golems](Hive_Construct.md) and [Stone Knights](Stone_Knight.md).
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 2 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts. According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
 -   Megalodaunts participated in the 2024 April fools event under the name of Red Daunts and won.
--   Killing a Crimson Megalodaunt for the first time on a character rewards you with 1 [knowledge](Knowledge.md).

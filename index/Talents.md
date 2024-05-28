@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100144
+revid: 100343
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2109,7 +2109,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
     -   Pressing the V key on a knocked entity who's in close/medium range teleports you to them.
     -   Can be used to go through walls if you can aim at the knocked entity through it.
-    -   Prerequisite: Shared Demise, 100 Agility
+    -   Prerequisite: Dustlunge, 100 Agility
 
 ### Tactician
 
