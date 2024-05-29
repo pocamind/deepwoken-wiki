@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 99447
+revid: 100413
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -299,7 +299,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
     -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
-        -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 2 insanity (shivering)
+        -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
     -   Upgrading this Mantra extends the duration.
     -   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), having higher willpower than the caster (Willpower stat).
 

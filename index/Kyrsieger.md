@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 98585
+revid: 100415
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -29,9 +29,9 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 
 ## Description
 
-The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, using the power of the Deep to unleash piercing blasts of energy.
+The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, manipulating a fraction of Ethiron's power to unleash a devastating blast of energy.
 
-It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md).
+It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md). If you are lucky enough to trade with the Weird Trader, you might obtain this weapon.
 
 ## Critical
 
