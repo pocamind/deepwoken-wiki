@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100343
+revid: 100379
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -303,7 +303,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this talent.
     -   Prerequisite: 35 Agility
 
--   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
+-   Lowstride \[Common Talent, Agility\] - Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites: 20 Agility
 
