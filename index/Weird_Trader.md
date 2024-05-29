@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100414
+revid: 100429
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -42,6 +42,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Legion Cestus](Legion_Cestus.md)
         -   [Iron Cestus](Iron_Cestus.md)
         -   [Tanto](Tanto.md)
+        -   [Apprentice Rapier](Apprentice_Rapier.md)
     -   Medium Weapons
         -   [Alloyed Katana](Katana.md)
         -   [Cavalry Saber](Cavalry_Saber.md)
@@ -79,7 +80,7 @@ The event despawns after 30 minutes have elapsed.
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat**)
 
 -   Ores, including:
-    -   [Erisore](Ores.md#erisore)
+    -   [Erisore](Ores.md#erisore) / [Pure Erisore](Ores.md)
     -   [Gold](Ores.md#gold) / [Pure Gold](Ores.md)
     -   [Pure Astruline](Ores.md#astruline)
     -   [Pure Iron](Ores.md#iron)

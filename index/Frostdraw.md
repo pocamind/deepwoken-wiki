@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 100325
+revid: 100419
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -353,7 +353,7 @@ _An icy chokehold._
 -   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
 -   The mantra takes too long to end on hit to proc insignia gem.
 -   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
--   Base chilling duration scales with level requiring more than one logstone to get the full 20 seconds, recommended to only pick it if you plan to upgrade it to level 5.
+-   Base chilling duration scales with level requiring more than one logstone to get the full 16 seconds, recommended to only pick it if you plan to upgrade it to level 5.
 
  |
 |  | 
@@ -1085,13 +1085,14 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
--   Recommended not to abuse the Chill duration as there is a talent that makes your enemy get 20% more dmg from light attacks (Charged Return)
--   Anything that would Freeze while using Glass Path: Crystallization would apply a crystal.
+-   Recommended not to abuse the Chill duration as there is a talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
+-   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
 -   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
 -   Frozen legs applies on all ice mantras and has a fixed duration that can't be increased.
 -   Fragile freeze can be activated with anything else if the enemy is chilled.
 -   crystal and chilling enchant can be a good way to keep Saint jay active as every crystal you apply adds 2 second of saint jay and the enchant has no limit with how many crystals it can apply.
 -   Bottom freeze has a global cooldown so only pick one source to proc bottom freeze (Example: If you have iceberg, it will put all the other methods like the talent bottom freeze or chilling enchant on cooldown so don't pick anything else if you using iceberg.)
+-   Crystals dmg scales by your frost investment, 1 point of dmg every 10 frost. You are doing 8 dmg per crystal at 80 frost.
 
 ## Navigation
 

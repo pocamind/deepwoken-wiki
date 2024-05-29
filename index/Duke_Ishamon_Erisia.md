@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 100372
+revid: 100432
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -206,7 +206,7 @@ In terms of strategy to avoid his attacks as much as possible;
 
 Phases begin in sequence, depending on the Bosses' Max HP.
 
--   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **posture damage**.
+-   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
 -   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants to the player, and the remainder of them when there's less than 3 servants).
 
 ### Rewards

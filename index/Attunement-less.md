@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 100413
+revid: 100420
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -117,8 +117,9 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
-    <li>Does heavy damage upon hit, and has a range of 20 studs.</li>
+    <li>Does MASSIVE damage upon hit, and has a range of 20 studs.</li>
     <li>Can be parried, blocked and dodged.</li>
+    <li>Has long wind-up.</li>
   </ul></td>
 </tr>
 </tbody>
