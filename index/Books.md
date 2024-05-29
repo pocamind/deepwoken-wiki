@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 99084
+revid: 100400
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -1712,6 +1712,9 @@ I weep for them still, my tears bitter as salt...
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[1\]](#cite-note-1)
+-   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
+    -   In both stories, they are [Vesperians](Vesperian.md).
+    -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.
 
 ## References
 

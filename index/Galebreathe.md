@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 97405
+revid: 100398
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -381,6 +381,7 @@ _A servant of wind._
 
 -   Grant 30% fall damage resist.
 -   Haunted Gale requires one less perfect cast to activate (3 to 2).
+-   Increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
 -   Can be modified with logstones to extend it's usage.
     -   Note using logstones will force you to cast more signs.
 
