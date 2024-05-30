@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 100063
+revid: 100470
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -31,7 +31,7 @@ notices:
 
 ## Description
 
-The **Golden Swordfish** is a [Rapier](Weapons.md) that can be fished out of the sea at a very rare chance, unknown at the moment. It is a fished-up golden swordfish, using the bill as a blade. It uses the [Trident Spear](Trident_Spear.md) critical (However does less posture damage) rather than the rapier critical. This weapon cannot be dropped by any means, similar to a Soulbound item or the [Diver's Light Plate](<Diver's_Light_Plate.md>).
+The **Golden Swordfish** is a [Rapier](Weapons.md#types-of-weapons) that can be fished out of the sea at a very rare chance, unknown at the moment. It is a fished-up golden swordfish, using the bill as a blade. It uses the [Trident Spear](Trident_Spear.md) critical (However does less posture damage) rather than the rapier critical. This weapon cannot be dropped by any means, similar to a Soulbound item or the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 
 This weapon is **[Enchantable](Enchantments.md).**
 

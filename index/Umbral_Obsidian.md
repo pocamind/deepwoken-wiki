@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 99072
+revid: 100475
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -43,6 +43,7 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 -   [Ministry Scout](Ministry_Scout.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Immortal Guardian](Immortal_Guardian.md) (all variants)
+-   [Mudskipper Brute](Mudskipper_Brute.md)
 
 ### Chests
 

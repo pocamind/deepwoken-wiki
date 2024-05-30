@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 100311
+revid: 100471
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -35,7 +35,7 @@ Many varieties of fish can be obtained from fishing, as well as some loot. **Fis
 -   [Squid](Squid.md)
 -   Urchin
 -   Pufferfish
--   Seaweed
+-   [Seaweed](Seaweed_Bundle.md)
 -   1 [Mudskipper](Mudskipper.md) (Will spawn a Mudskipper)
 -   1 [Lionfish](Lionfish.md) (Will spawn a Lionfish)
 -   Old Boots (Leather Boots)

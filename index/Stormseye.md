@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 100361
+revid: 100477
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -58,6 +58,8 @@ The user shoots a bullet before beginning to circle the opponent at highspeed, a
 -   The special aerial attack effect will also apply to your [Crazy Slots](Crazy_Slots.md) weapon.
 -   Meeting the requirement of THD and MED, the weapon deals 27.8 damage.
 -   At max THD and MED, the weapon deals 32.7 damage.
+-   Contributor HorrorTM uses this weapon as an offhand.
+    -   Considering the nature that the average player cannot use rifles as an offhand, it is simply known that whatever twisted hubris's man has wrought may be belonging to Witchcraft.
 
 ## References
 

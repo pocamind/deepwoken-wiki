@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 93766
+revid: 100472
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, World]
@@ -15,7 +15,7 @@ categories: [NPCs, Quests, World]
 
 ## Description
 
-Elykris is an NPC at [Minityrsa](Minityrsa.md) that gives you a quest to find a report. This report is located right by the ladder to [Trial of One](Trial_of_One.md). The quest reward is 3 Aces and a talent next power up.
+Elykris is an NPC at [Minityrsa](Minityrsa.md) that gives you a quest to find a report. This report is located right by the ladder to [Trial of One](Trial_of_One.md). The quest reward is 3 Aces and a talent next power up (assuming you haven't yet claimed any other Curiosity quests).
 
 He is located leaning on a tree, which is on a ledge to the left of a Ministry Camp above [Outpost Antumbra](Outpost_Antumbra.md).
 
@@ -80,5 +80,5 @@ Elykris: Very well. Their ruins are on a cliff side here on Minityrsa, surrounde
 
 ## Notes & Trivia
 
--   Trivia to be added.
--   Wears the old version of the "Darksteel Plate" schematic
+-   You can turn in the Ministry Field Report to the [Guild Base](Guild_Bases.md) Librarian, locking you out of the quest entirely.
+-   Wears the old version of the "[Darksteel Plate](Darksteel_Plate.md)" schematic, a Black Parka, a [Black Blindfold](Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).

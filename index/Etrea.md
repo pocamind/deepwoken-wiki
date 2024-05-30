@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 99816
+revid: 100469
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -13,7 +13,7 @@ notices:
 | Etrea | |
 |---|---|
 | territory | EtrisIsle of Vigils |
-| goals | Survival , Collecting artifacts and the Forge of Sin , Defeat The Authority |
+| goals | Survival, Collecting artifacts and the Forge of Sin, Defeat The Authority |
 
 “ Welcome, traveler. Don’t go causing any trouble, all right? ”
 
@@ -23,7 +23,7 @@ notices:
 
 A kingdom of chiefly [Etreans](Etrean.md) that are the main ruling faction in the [Etrean Luminant](Luminants.md). They reside in their capital of [Etris](Etris.md).
 
-The [Isle of Vigils](Isle_of_Vigils.md) is also part of Etrea, though the vigils are significantly less controlled by Etrea.
+The [Isle of Vigils](Isle_of_Vigils.md) is also part of Etrea, acting as its military school, though Etrea's attitude the Isle is much more hands-off.
 
 Being the largest land ruling faction in the Etrean Luminant, they hold a large range of power, deploying foot-soldiers all across the Etrean Luminant. They are led by a [Lord Regent](The_Lord_Regent.md) who rules from his castle and seeing over the land of Etris and the [Etrean Wilds](Etrean_Wilds.md). They had been ruled by their Kings for generations; until decades to months before the year 1271, when the new leader Lord Regent took over.
 
@@ -41,7 +41,6 @@ There are a substantial amount of ways to gain reputation with Etrea:
 -   Occasionally when defeating the [Blade Instructor](Blade_Instructor.md).
 -   Defeating the [bandits](Bandit.md) at either [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
 -   Helping Etrea during the rare [etris invasion event](Cinders_of_Etris.md).
--   Doing the [Fort Merit](Fort_Merit.md) hostage rescue quest.
 
 On top of that, Etrea has many [random events](Random_Encounters.md) across the Luminants in which you may assist them and gain reputation:
 

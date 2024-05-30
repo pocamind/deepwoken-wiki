@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 99800
+revid: 100474
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
@@ -26,6 +26,8 @@ A mainly nomadic tribe of mainly [Gremors](Gremor.md) who worship and are guided
 ## Reputation
 
 Every [origin](Origins.md) excluding voidwalker starts with a neutral [reputation](Reputation.md) with the Children of Navae. Voidwalkers start with an enemy reputation.
+
+Gremors start with higher reputation with the Children of Navae.
 
 There is no reputation reset NPC for this faction, nor do they have a [bounty board](Bounty_Hunting.md).
 
