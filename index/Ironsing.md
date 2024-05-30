@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 99503
+revid: 100437
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -56,7 +56,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
  | A flurry of metal spikes. | 40 Ether | Stomp the ground, causing a flurry of metal spikes to erupt forward.
 
--   Gives off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
+-   By rotating your view, you can reangle the mantra to catch rolls.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
 -   Deals high posture damage. Heavily reminiscent of the legacy Frostdraw mantra, [Ice Eruption](Frostdraw.md).
@@ -168,7 +168,6 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   Each hit is parryable but still applies Metal Rods.
 -   The greatsword conjured deals fixed damage.
 -   Doesn't proc deep gems.
-    -   Unlike the gif shows, it only procs when hitting an enemy.
 -   Upgrading the level increases the duration of the mantra.
 
  |

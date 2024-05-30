@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 100377
+revid: 100434
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -53,7 +53,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   Mhm.
 -   Yeah.
 
-### Charisma 65-100
+### Charisma 65-103
 
 -   Oh! I see!
 -   Wow!

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 100132
+revid: 100465
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -53,7 +53,7 @@ Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it 
 
 #### Method Two - The Old Stranger
 
-Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist him by giving them a refreshing drink, granting you the Murmur as thanks.
+Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink (A filled [Canteen](Canteen.md) with clean water from the well, not sea water.) granting you the Murmur as thanks.
 
 ## Murmur: Tacet
 
@@ -92,7 +92,7 @@ Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grant
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._
 
-**NOTE:** You cannot grip inside of guild bases, weather it be allied or not as it will not give you credit for the kill (I found this out myself the hard way)
+  
 
   
 
@@ -132,3 +132,4 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   Murmurs were introduced through the [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding mantra.
 -   As of May 3rd, 2024, you can now remove your Murmur at [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
+-   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_

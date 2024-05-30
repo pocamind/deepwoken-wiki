@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100429
+revid: 100461
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -25,7 +25,7 @@ The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) that can rarely be 
 
 The Weird Trader will request three items, from a long list of possible choices. Providing these three items will reward the player with a very rare [weapon](Weapons.md), a [relic](Relics.md) or an [Astral Enchantment Stone](Enchantments.md). This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 
-Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md) or other forms of fall damage negation.
+Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), a teleportation mantra, or other forms of fall damage negation.
 
 The event despawns after 30 minutes have elapsed.
 
@@ -93,6 +93,7 @@ The event despawns after 30 minutes have elapsed.
 
 -   [Astral Enchantment Stone](Enchant_Stone.md)
 -   [Crypt Blade](Crypt_Blade.md)
+-   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   [Flareblood Kamas](Flareblood_Kamas.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md)
