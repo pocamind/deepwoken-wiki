@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 97385
+revid: 100497
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -35,9 +35,7 @@ Viewpoint on the Map:
 
 ## Trivia
 
--   There are no real major damages shown on the ship.
--   The area in which an antiquarian resided in the tutorial is replaced by the [The Dreadstar](The_Dreadstar.md).
--   Has a chance to give deep gems but not confirmed.
--   May be a reference to the Beloved Zofia sword from Fire Emblem Echoes.
--   While Beloved Zofia is not the ship in the tutorial, they share similar - if not the exact same model. The Beloved Zofia is just a slanted version of the [The Scoundrel's Bounty.](<The_Scoundrel's_Bounty.md>)
--   The Dreadstar has similar visual characteristics to other deep shrines, but it's not considered a deep shrine.
+-   A reference to the Beloved Zofia sword from Fire Emblem Echoes.
+-   While the _Beloved Zofia_ is not the ship in the tutorial, they share similar - if not the exact same model. The Beloved Zofia is just a slanted version of the [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). This is likely just due to them both being the same make of ship.
+-   The Dreadstar has similar visual characteristics to other Deep Shrines, but it's not considered one.
+-   Sometime the [ghost](Ghost.md) will simply say "remember the dead" but not attack player. [Silentheart](Oath%253A_Silentheart.md) may still be obtained following in this.

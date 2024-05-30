@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 100465
+revid: 100482
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -53,7 +53,7 @@ Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it 
 
 #### Method Two - The Old Stranger
 
-Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink (A filled [Canteen](Canteen.md) with clean water from the well, not sea water.) granting you the Murmur as thanks.
+Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing with fresh water or [Redd Juice](Food.md), granting you the Murmur as thanks.
 
 ## Murmur: Tacet
 
@@ -129,7 +129,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Rhythm, meaning the systematic arrangement of musical sounds, in which the user listens to beats emanating from entities.
     -   Ardour means great enthusiasm or passion, but is also the name of a [software](<https://en.wikipedia.org/wiki/Ardour_(software)>) that allows for the creation of music.
 -   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring, but was later reintroduced into Verse 2 by said methods.
--   Murmurs were introduced through the [Mur of Light](Mur_Of_Light.md).
+-   Murmurs were introduced through [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding mantra.
 -   As of May 3rd, 2024, you can now remove your Murmur at [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 -   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_

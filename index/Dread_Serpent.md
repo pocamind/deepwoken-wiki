@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 100395
+revid: 100481
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -18,7 +18,7 @@ _Commonly referred to by the community and developers as Kaido._Template:Creatur
 
 A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It's spawn is showed by a mass of bubbles being on the water. It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
-Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md)_
+Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's Gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md)_
 
 Not to be confused, Dread serpent gives 0 exp.
 
@@ -57,7 +57,7 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   Anyone can get the Murmur as long as you did enough damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
--   It's implied that the dread serpent took out the Petra's Dawn as the Petra's anchor is one of the drops.
+-   It's implied that a Dread Serpent took out the Petra's Dawn as the Petra's Anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
 -   Its appearance is supposedly exactly what an Elder Edenkite once looked like, only it has no wings.
 -   The model for the Dread Serpent's Tooth is a Dark Feather.

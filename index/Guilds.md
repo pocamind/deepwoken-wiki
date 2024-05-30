@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 92745
+revid: 100486
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -34,7 +34,7 @@ Within a guild there are three ranks;
 -   Guild Officer
     -   Can use Chime of Dwelling and Guild Officer abilities, can invite and kick out Guild members by using Guild Officer on the desired person.
 -   Guild Member
-    -   Cannot use Chime of Dwelling nor Guild Officer abilities, and must buy Dwelling Charms (because of capitalism) to summon a [Guild Base](Guild_Bases.md),
+    -   Cannot use Chime of Dwelling nor Guild Officer abilities, and must buy Dwelling Charms to summon a [Guild Base](Guild_Bases.md),
 
 Members of a guild including its leader will stay in their guild after death. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk.
 
