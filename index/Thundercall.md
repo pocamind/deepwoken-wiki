@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 99818
+revid: 100504
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -269,6 +269,7 @@ Spark Swap
 -   Estimated 300 - 350 Stud range.
 -   Cannot be used while in water or airborne.
 -   \[\] Second Cooldown.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to short the cooldown but reduce greatly the range.
 -   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
     -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 98602
+revid: 100507
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -75,283 +75,28 @@ If multiple ingredients have the same listed effect strength (for example, are m
 </tbody>
 </table>
 
-<table><caption>Ingredients</caption>
-<tbody>
-<tr>
-  <th>Ingredient</th>
-  <th>Instant Health</th>
-  <th>Instant Ether</th>
-  <th>Damage Buff</th>
-  <th>Posture Damage Buff</th>
-  <th>Posture Buff</th>
-  <th>Speed Buff</th>
-  <th>Health Regen</th>
-  <th>Ether Regen</th>
-  <th>Sanity Regen</th>
-  <th>Duration</th>
-</tr>
-<tr>
-  <td>Bamboo</td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Beeswax.md">Beeswax</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Weakest</td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Bluecap</td>
-  <td>Strongest</td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Browncap.md">Browncaps</a></td>
-  <td>Strong</td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Calabash.md">Calabash</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Chum.md">Chum</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Alestrian Coral</td>
-  <td></td>
-  <td></td>
-  <td>Weakest</td>
-  <td>Strongest</td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Crustacean Meat</td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Weakest</td>
-</tr>
-<tr>
-  <td><a href="Dentifilo.md">Dentifilo</a></td>
-  <td>Weakest</td>
-  <td>Weakest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Gobletto.md">Gobletto</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Weakest</td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Ongo.md">Ongo</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Plumfruit</td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Pomar.md">Pomar</a></td>
-  <td>Weak</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Redd.md">Redd</a></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td>Strongest</td>
-</tr>
-<tr>
-  <td>Sap</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Scallop</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Seaweed_Bundle.md">Seaweed Bundle</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Spider_Egg.md">Spider Egg</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest (debuff)</td>
-  <td></td>
-  <td>Strongest</td>
-</tr>
-<tr>
-  <td>Urchin</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Wheat</td>
-  <td></td>
-  <td></td>
-  <td>Strongest</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>Weakest</td>
-  <td></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
+| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bamboo |  | Strongest |  |  | Strongest |  |  |  |  |  |
+| [Beeswax](Beeswax.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
+| Bluecap | Strongest | Strongest |  |  |  |  |  |  | Strongest |  |
+| [Browncaps](Browncap.md) | Strong |  | Strongest |  |  |  |  |  |  |  |
+| [Calabash](Calabash.md) |  |  |  |  | Strongest |  |  | Strongest |  |  |
+| [Chum](Chum.md) |  |  |  |  |  |  |  |  | Strongest |  |
+| Alestrian Coral |  |  | Weakest | Strongest |  | Strongest |  |  |  |  |
+| Crustacean Meat |  |  | Strongest |  |  |  |  |  |  | Weakest |
+| [Dentifilo](Dentifilo.md) | Weakest | Weakest |  |  |  |  |  |  |  |  |
+| [Gobletto](Gobletto.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
+| [Ongo](Ongo.md) |  |  |  | Strongest | Strongest |  |  |  |  |  |
+| Plumfruit |  |  | Strongest |  |  |  | Strongest |  |  |  |
+| [Pomar](Pomar.md) | Weak |  |  |  |  | Strongest |  |  |  |  |
+| [Redd](Redd.md) | Strongest |  |  |  |  |  |  | Strongest |  | Strongest |
+| Sap |  |  |  |  |  | Strongest |  | Strongest |  |  |
+| Scallop |  |  |  |  |  |  |  |  | Strongest |  |
+| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | Strongest |  |
+| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  | Strongest |  | Weakest |
+| Urchin |  |  |  |  |  |  |  |  | Strongest |  |
+| Wheat |  |  | Strongest |  |  |  |  | Weakest |  |  |
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 

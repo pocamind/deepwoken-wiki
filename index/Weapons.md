@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 100462
+revid: 100498
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -18,7 +18,7 @@ Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). T
 
 When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll, for example).
 
-All weapons within the game have chances of being found with (or without) different enchantments or qualities along with them, even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
+All weapons within the game have chances of being found with (or without) different enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
 -   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
 -   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
@@ -29,21 +29,21 @@ All weapons within the game have chances of being found with (or without) differ
 
 ### Total Amount of Weapons Available in the Game :
 
-#### Light Weapon
+#### Light Weapons
 
 -   13 Daggers (16 if Alloyed)
 -   8 Fists
 -   5 Guns (6 if Alloyed)
 -   7 Rapiers
 
-#### Medium Weapon
+#### Medium Weapons
 
 -   21 Swords (26 if Alloyed)
 -   12 Spears (14 if Alloyed)
 -   5 Clubs
 -   3 Rifles
 
-#### Heavy Weapon
+#### Heavy Weapons
 
 -   12 Great Axes (15 if Alloyed)
 -   11 Great Swords (15 if Alloyed)
@@ -100,7 +100,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 ## Types of Weapons
 
-**Light Weapons:**
+**Light:**
 
 Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they often lack damage and range.
 
@@ -634,7 +634,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
 </tbody>
 </table>
 
-**Medium Weapons:**
+**Medium:**
 
 Medium Weapons are both one-handed and two-handed weapons. They are a balance between speed and damage.
 
@@ -1283,7 +1283,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
 </tbody>
 </table>
 
-**Heavy Weapons:**
+**Heavy:**
 
 Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch. They feature powerful critical attacks, that usually provide hyperarmor, instantly guard breaks if blocked and apply knockdown on the enemy.
 
@@ -1886,7 +1886,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tbody>
 </table>
 
-**Hybrid Weapons:**
+**Hybrid:**
 
 Hybrid Weapons are weapons that require two different weapon stats, such as requiring Medium and Heavy stats.
 
@@ -2174,55 +2174,89 @@ Offhand weapons are weapons that can be wielded at the same time along with your
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Silversix.md">Silversix</a></td>
   <td>0 LHT</td>
   <td>10</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>LHT: 13</td>
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
+  <td>23.6</td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
   <td>20 LHT</td>
-  <td>10</td>
+  <td>11</td>
   <td>N/A</td>
-  <td>LHT: 10</td>
+  <td>N/A</td>
+  <td>LHT: 12</td>
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
+  <td>24.8</td>
+</tr>
+<tr>
+  <td><a href="Dawnshot.md">Dawnshot</a></td>
+  <td>40 LHT</td>
+  <td>14</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>LHT: 12</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>0.8x</td>
+  <td>31.5</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
   <td>65 LHT</td>
-  <td>13</td>
+  <td>14</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
-  <td>0.8x</td>
+  <td>1x</td>
+  <td>35.9</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
   <td>65 LHT</td>
-  <td>20</td>
+  <td>16</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>LHT: 12</td>
   <td>1</td>
-  <td>12</td>
+  <td>11</td>
   <td>0.8x</td>
+  <td>36</td>
+</tr>
+<tr>
+  <td><font>Alloyed Dawnshot</font></td>
+  <td><font>75 LHT</font></td>
+  <td><font>16</font></td>
+  <td><font>5%</font></td>
+  <td><font>10%</font></td>
+  <td>LHT: 12</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td><font>0.78x</font></td>
+  <td>36</td>
 </tr>
 </tbody>
 </table>
 
-**Exclusive Weapons:**
+**Exclusive:**
 
 Weapons that are exclusive for special people.
 
