@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 100517
+revid: 100577
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -35,6 +35,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   8 Fists
 -   5 Guns (6 if Alloyed)
 -   7 Rapiers
+-   1 Bow
 
 #### Medium Weapons
 
@@ -57,11 +58,11 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   112 Total Weapons (Non-Alloyed, Non-Exclusive)
--   117 Total Weapons (Non-Alloyed, Exclusive)
--   129 Total Weapons (Alloyed, Non-Exclusive)
--   134 Total Weapons (Alloyed, Exclusive)
--   140 Total Weapons (Alloyed, Exclusive, Divine)
+-   113 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   118 Total Weapons (Non-Alloyed, Exclusive)
+-   130 Total Weapons (Alloyed, Non-Exclusive)
+-   135 Total Weapons (Alloyed, Exclusive)
+-   141 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -535,6 +536,18 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>10.5</td>
   <td><font>0.78x</font></td>
   <td>36</td>
+</tr>
+<tr>
+  <td><a href="Guiding_Star.md">Aranea</a></td>
+  <td>200 LHT</td>
+  <td>14</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>LHT: 15</td>
+  <td>1</td>
+  <td>12</td>
+  <td>1x</td>
+  <td>35.9</td>
 </tr>
 </tbody>
 </table>
@@ -2391,6 +2404,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Highest DPS: [Divine Flintlock](Crazy_Slots.md)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
+-   Aranea is the first item to have an unobtainable stat prerequisite.
 
 ## References
 

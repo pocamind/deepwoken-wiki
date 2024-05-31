@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 99887
+revid: 100576
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -12,7 +12,7 @@ notices:
 
 File:Depths New Lightning.png
 
-## Overview
+## FOverview
 
 The **First Layer** of the Depths, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
@@ -67,7 +67,7 @@ Find a rock, cliff, or something in a high place, and glide onto the wall. Thoug
 
 ― "The Song of Fathoms / Oscillation"
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn a three [Enforcers](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn three [Enforcers](Enforcer.md)).
 
 Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
 

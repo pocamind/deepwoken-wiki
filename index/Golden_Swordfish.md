@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 100470
+revid: 100594
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -41,7 +41,11 @@ This weapon is **[Enchantable](Enchantments.md).**
 -   The only rapier with a special critical.
 -   The so-called "sword" of a typical swordfish is not particularly strong.
 -   Most likely a reference to how many players suggested for the swordfish to be an equippable weapon.
--   The critical is confirmed\[citation needed\] to be a reference to the myth of how swordfish hunt by "skewering." However, swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, this weapon would more accurately be a medium sword.
+-   The critical is confirmed[\[1\]](#cite-note-1) to be a reference to the myth of how swordfish hunt by "skewering." However, swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, this weapon would more accurately be a medium sword.
 -   Meeting the requirement of LHT, the damage is (21.8)
 -   At max LHT, the damage is (24)
 -   Despite acting like a soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing knowledge, provided it is not [Enchanted](Enchantments.md).
+
+## Enchant Gallery
+
+1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 100523
+revid: 100538
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -126,7 +126,6 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   Three to seven Emeralds.
 -   Three to eleven Gold Bars.
 -   One to four [Mantra Modifiers](Mantra_Modifiers.md).
--   Duke Erisia Spawn Egg (<1%)
 
  |
 

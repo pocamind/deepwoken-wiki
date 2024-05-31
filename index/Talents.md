@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100508
+revid: 100540
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1417,6 +1417,8 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: 15 Willpower
 
 ### Lichtenberg
+
+_**"I seek the qualities of Lichtenberg."**_
 
 -   Scorched Peak \[Common Talent, Dual Attunement\] - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
     -   Prerequisites: 50 Thundercall, 25 Flamecharm

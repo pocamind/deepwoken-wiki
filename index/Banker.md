@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 99768
+revid: 100586
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -48,6 +48,14 @@ It will cost you (or 27.9 note carry limit) to obtain all 60 bank slots.
 To put an item in your safe deposit box, you just need to drag and drop the item you want to deposit into the box. If your box is full and you want to add an item to a stack already present—assuming that stack isn't already at its limit—you'll first need to take out an item that occupies a slot (i.e. equipment) out of it before placing the desired item inside.
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
+
+#### Items requiring a Vow of Safekeeping
+
+-   [Weapons](Weapons.md) and [Equipment](Equipment.md) that are Enchanted, Soulbound, or event exclusive.
+-   [Enchant Stone](Enchant_Stone.md)
+-   [Relics](Relics.md)
+-   [Dye Packet](Dye_Packet.md)
+-   Monster parts required for [Monster Mantras](Monster_Mantras.md)
 
 #### Unstorable Items
 
