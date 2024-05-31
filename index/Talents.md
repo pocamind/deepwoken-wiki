@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100499
+revid: 100508
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2507,7 +2507,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisite: 35 Light Weapon
 
--   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during Heavy swing hyperarmor.
+-   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapon,
 
 ### Whisper

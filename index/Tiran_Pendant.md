@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 99848
+revid: 100531
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -20,7 +20,7 @@ categories: [Equipment, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Primadon's Gem Chest, The Diluvian Mechanism |
+| obtainment | Second Layer, Primadon's Gem Chest, The Diluvian Mechanism, Fishing |
 | description | "Worn by Tiran spiritual leaders, the wielder is safeguarded against the numerous sheer drops and falls of the Tiran homelands. Thought to have originated from a particularly gruesome succession crisis where a leader was shoved unceremoniously off a cliff following a sermon." |
 
 ## Description

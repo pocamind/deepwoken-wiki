@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 100498
+revid: 100517
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -53,6 +53,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 -   10 Elemental
 -   5 Exclusive
+-   6 Divine (Crazy Slots)
 
 #### In Total
 
@@ -60,6 +61,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   117 Total Weapons (Non-Alloyed, Exclusive)
 -   129 Total Weapons (Alloyed, Non-Exclusive)
 -   134 Total Weapons (Alloyed, Exclusive)
+-   140 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 100432
+revid: 100515
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -59,6 +59,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
+-   Only used once the posture shield is down. (Phase 2)
 
  | ◯ | N/A | N/A | (★★☆) |
 | 
@@ -134,6 +135,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
 -   If fought solo, they may deem threat as they will combo you while fighting duke if not killed fast enough.
+-   Only used once the posture shield is down. (Phase 2)
 
  | N/A | N/A | ◯ | (★☆☆) |
 | 
