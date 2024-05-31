@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 100602
+revid: 100604
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -156,6 +156,7 @@ File:Needle.png
  | 
 
 -   [The Ferryman](The_Ferryman.md)
+-   [Duke Erisia](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 

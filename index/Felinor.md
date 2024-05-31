@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 100572
+revid: 100606
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -73,7 +73,6 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
   
 
 -   Stealth isn't particularly useful unless you depend on it, such as for assassinations or [Tacet](Murmur.md).
--   While not a stat weakness, Felinors are more likely to be targeted, due to their race being perceived as a "furry" race.
     
 
 **Surnames:**
@@ -108,7 +107,6 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke.[\[1\]](#cite-note-1)
 -   Felinors will say things such as "Me-ow!" when engaging combat, as opposed to other races.
--   Felinors are often getting targeted by players just because of their race.
 
 ## References
 

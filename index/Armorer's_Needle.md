@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 100601
+revid: 100619
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,16 +10,113 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Armorer's Needle | |
 |---|---|
 | type | Relic |
-| rarity | ??? |
+| rarity | Relic |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron |
+| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron, Primadon |
 
 ## Description
 
-**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a pip on a piece of equipment.
+**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a pip on a piece of equipment, soulbinding it in the process.
 
-Currently known to drop from Voidwalker Chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md) likely other sources as well.
+Currently known to drop from Voidwalker Chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md), and likely other sources as well.
 
-Use text: "_With a deft hand, you transmutate the property of \[lost property\] into \[gained property\]."_
+Use text: "_With a deft hand, you transmute the property of \[lost property\] into \[gained property\]."_
+
+When changing a pip, they will turn into any of the relevant, available pip for that piece following this table. It is important to remember that equipment with more than 3 pips (Head/Arms/Legs) or 2 pips (Torse/Face/Ears/Rings) **CANNOT** have all their pips be the same.
+
+<table><caption>Pips Info</caption>
+<tbody>
+<tr>
+  <th>Buffs</th>
+  <th>Head</th>
+  <th>Arms</th>
+  <th>Legs</th>
+  <th>Torso</th>
+  <th>Face</th>
+  <th>Ears</th>
+  <th>Rings</th>
+</tr>
+<tr>
+  <td>Health (HP)</td>
+  <td>4 4 5</td>
+  <td>4 4 5</td>
+  <td>3 4 5</td>
+  <td>3 4 5</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>2 3 4</td>
+</tr>
+<tr>
+  <td>Ether (ETH)</td>
+  <td>8 10 12</td>
+  <td>8 10 12</td>
+  <td>10 12</td>
+  <td>8 10 12</td>
+  <td>4 6 8</td>
+  <td>4 8</td>
+  <td>4 6 8 10</td>
+</tr>
+<tr>
+  <td>Sanity (SAN)</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>4 6</td>
+  <td>6</td>
+  <td>4 6 8</td>
+</tr>
+<tr>
+  <td>Posture</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>1 2</td>
+</tr>
+<tr>
+  <td>%Damage vs. Monsters (Monster DMG)</td>
+  <td>1 3</td>
+  <td>1 3</td>
+  <td>1 3</td>
+  <td>1 3</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1 3</td>
+</tr>
+<tr>
+  <td>%Physical Armor (PHY Armor)</td>
+  <td>2 4</td>
+  <td>2 4</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td>%Elemental Armor (ELM Armor)</td>
+  <td>3 4</td>
+  <td>3 4</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td>%Monster Armor (also gives 1% PHY and ELM)</td>
+  <td>4</td>
+  <td>4</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+</tr>
+</tbody>
+</table>

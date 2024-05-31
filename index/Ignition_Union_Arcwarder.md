@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 100352
+revid: 100630
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -27,6 +27,9 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 | Aerial Critical | While in the air, performs a fiery downwards sweep, applying Knockdown and Burn. | ◯ | ✗ | (★★☆) |
 | Arc Wave | Performs a quick stomp on the ground that releases a wave of energy around the user, dealing both fire and lightning damage. | ◯ | ◯ | (★★★) |
 | Arc Beam | Shoots out a laser from the user's eyes that explode after a second, dealing both fire and lightning damage. | ◯ | ◯ | (★★☆) |
+| Storm Blades | Conjures a ring of lightning blades that deal AoE damage with a brief stun. | ◯ | ◯ | (★☆☆) |
+| Fire Blade | User forcefully slams down their blade coated in flames. | ◯ | ◯ | (★★☆) |
+| Mecha Gatling | The user pulls out a Gatling gun, mowing down the enemies that get caught in its line of fire. Inflicts burn. | ◯ | ◯ | (★★☆) |
 
 ## Talents
 

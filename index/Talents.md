@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100540
+revid: 100614
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1097,10 +1097,10 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
--   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 8s. (+7 Sanity)
-    -   Whenever you land an M1, you apply 100%\* prevention of your enemy's healing for 8 seconds.
-    -   \*Anti-heal percentage scales with investment up to its requirement, which causes a 40 will, 15 int investment to apply a ~33% anti-heal. (Only applies to [Shrine of Order](Deep_Shrines.md) users)
-    -   Lower anti-heal procs add up, causing 3 m1s to always apply full anti-heal regardless of investment.
+-   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
+    -   Whenever you land an M1, you apply 100% prevention of your enemy's healing for 8 seconds.
+        -   Anti-heal percentage scales with investment up to its requirement, which causes a 40 Will, 15 Int investment to apply a ~33% anti-heal. (Only applies to [Shrine of Order](Deep_Shrines.md) users)
+    -   Lower anti-heal procs add up, causing 3 M1s to always apply full anti-heal regardless of investment.
     -   Does not work on allies.
     -   Blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), passive health regen, campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.

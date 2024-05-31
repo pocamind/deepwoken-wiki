@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 96998
+revid: 100628
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -11,7 +11,7 @@ categories: [Relics]
 | Rain Spire | |
 |---|---|
 | type | Utility |
-| rarity | Mythical |
+| rarity | Relic |
 | selling price | 100 |
 | bankable | Yes |
 | droppable | Yes |
@@ -22,7 +22,7 @@ categories: [Relics]
 
 ## Description
 
-The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Void Spire](Void_Spire.md) that allows its user to summon [Rain](Environmental_Hazards.md) for 5 minutes within a massive radius of the spire. It has infinite uses, but it has a 40 minute cooldown.
+The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Void Spire](Void_Spire.md) that allows its user to summon [Rain](Environmental_Hazards.md) and [fishing spots](Fishing.md). It has infinite uses but has a 40 minute cooldown
 
 ## Trivia
 

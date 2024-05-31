@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 100471
+revid: 100626
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -59,7 +59,7 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 
 ## Fishing Spots
 
-Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish. There is also a legendary fish, an enchanted golden swordfish. It is unknown how rare this is.
+Fishing spots are static places around the map that has a significantly better loot pool for fishing compared to regular waters. Additionally you are able to summon a fishing spot using the relic [Rain Spire](Rain_Spire.md)
 
 There are 11 known fishing locations in game:
 

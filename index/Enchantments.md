@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 100391
+revid: 100621
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -19,7 +19,8 @@ Enchantments have a set chances to be applied to a weapon during the following s
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into either a random equipment enchant (you can roll the same enchant twice in a row) **or** a random enchant stone.
 -   Using an [Enchant Stone](Enchant_Stone.md). (Found in L2, Galeswax and from Maestro's Lootpool.)
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
--   Defeating a [Star knight](Stone_Knight.md#star-knight) that only spawns during the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event. (Only drops the astral enchant stone)
+-   Defeating a [Star knight](Stone_Knight.md#star-knight) that only spawns during the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event. (Only drops the Astral enchant stone)
+-   The [Weird Trader](Weird_Trader.md) has a chance to give you the [Astral](https://deepwoken.fandom.com/wiki/Enchantments#Blessings) enchant stone.
 
 ## Mechanics
 

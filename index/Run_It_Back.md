@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 97278
+revid: 100612
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -53,5 +53,5 @@ Run it Back has randomized attunements upon obtaining the bell.
 
 ## Trivia/Notes
 
--   This is a reference to _Phoenix_ from _Valorant_, who's ultimate is also called "Run it Back".
+-   This is a reference to _Phoenix_ from _Valorant_, whose ultimate is also called "Run it Back".
 -   If your health goes to 0% during Run it Back, you will die, run it back WILL NOT save you.
