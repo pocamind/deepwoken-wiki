@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 100579
+revid: 100602
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -149,7 +149,7 @@ It grants the user +20 knowledge on subsequent uses.
 
 File:Needle.png
 
- | Armorer's Needle - A needle that rerolls your [Equipment's pips](Equipment.md) upon usage, applying a random pip per roll.
+ | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls your [Equipment's pips](Equipment.md) upon usage, applying a random pip per roll.
 
 -   _(Consumed upon usage)_
 
