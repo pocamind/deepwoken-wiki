@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 100568
+revid: 100692
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -124,22 +124,29 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 <table><caption>Acquired <a href="Oath%253A_Contractor.md">Contractor Oath</a>, speaking to him again.</caption>
 <tbody>
 <tr>
-  <th><big><b>Incomplete</b> Contractor Oath Progression</big></th>
+  <th colspan="2"><big><b>Incomplete</b> Contractor Oath Progression</big></th>
   <th><big><b>Complete</b> Contractor Oath Progression</big></th>
 </tr>
 <tr>
   <th>I will say this once, do not return until you have completed your orders.</th>
+  <th>You better have a good reason for showing your face before your orders are completed.</th>
   <th>You have done what is required of you for now. We must now bide our time until the next phase of our plans.</th>
 </tr>
 <tr>
   <td>[Speaking to him once more]</td>
+  <td>
+  <ol>
+    <li>I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</li>
+  </ol></td>
   <td rowspan="3">[End Dialogue.]</td>
 </tr>
 <tr>
   <th>It seems you need discipline.</th>
+  <th>You show dedication, puppet. You may be of use in what is to come. Await further orders.</th>
 </tr>
 <tr>
   <td><b>[Player is Killed]</b><small>(Initiating dialogue when oath is <b>not fully progressed</b> results in death.)</small></td>
+  <td>[End Dialogue.]</td>
 </tr>
 </tbody>
 </table>

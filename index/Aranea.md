@@ -1,9 +1,11 @@
 ---
 title: Aranea
-revid: 100596
+revid: 100682
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Upcoming content, Weapons]
+notices:
+  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Aranea
@@ -27,10 +29,11 @@ categories: [Weapons]
 
 ## **Description**
 
-The **Aranea** is a Bow that can be found through [chests](Chests_&_Sacks.md) in [Chime of Conflict](Chime_of_Conflict.md). It requires 200 points in Light weapons to be utilized.
+The **Aranea** is a Bow that could briefly be found through [chests](Chests_&_Sacks.md) in [Chime of Conflict](Chime_of_Conflict.md). It required 200 points in Light weapons to be utilized.
+
+The bow is set to be upcoming future content.
 
 ## Trivia
 
 -   Currently are for testing as no player can have 200 points in Light weapons.
 -   Identical stats to [Revolver](Repeater.md).
--   Have similar theme to [Kyrsieger](Kyrsieger.md), [Purple Cloud](Purple_Cloud.md) and even to the [Primal Vesperian](Primal_Vesperian.md).

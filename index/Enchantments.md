@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 100621
+revid: 100694
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -167,9 +167,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
   <font>Providence's Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
-  PVP: parrying 2 attacks within 3 seconds deals damage to the attacker after a delay.<br>
+  PVP: parrying 3 attacks within 3 seconds deals damage to the attacker after a delay.<br>
   Deal 4% HP damage, ignores all resistances.<br>
-  Scaling 30% from parried damage x ()userpower in PVE.<br>
+  Scaling 30% from PVE scaled damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
   Effect is parriable.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
@@ -224,7 +224,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
   On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 5 seconds.<br>
-  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
+  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
+  In PVE deal ~140% extra damage.</p></div></td>
   <td><div>Weapon is covered in a black &amp; light red mist, just like Grim. Weapon's metal parts glow arctic blue.<br>
   When sheathed, the particles are completely invisible.</div></td>
 </tr>

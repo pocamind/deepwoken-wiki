@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 99425
+revid: 100687
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -56,5 +56,4 @@ Pins down opponent while raising weapon before firmly bashing the opponent's fac
 
 ## Trivia
 
--   Very rare to come across as they only spawn to hunt player with low Hive reputation, as well as the fact that they are not guaranteed to spawn because sometimes only Constructs spawn.
-    -   They also spawn when the talent "Bodyguard Detail" is procced.
+-   They can spawn inside Greathive Aratel if someone with a low enough rep enters the territory
