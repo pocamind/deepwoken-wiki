@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100461
+revid: 100641
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -56,6 +56,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Serpent's Edge](<Serpent's_Edge.md>)
         -   [Shotel](Shotel.md)
         -   [Summer Rifle](Summer_Rifle.md)
+        -   [Toothed Club](Toothed_Club.md)
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
         -   [Falchion](Falchion.md)
     -   Heavy Weapons
@@ -77,6 +78,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Dentifilos](Dentifilo.md)
     -   [Beeswax](Beeswax.md)
     -   [Alestrian Coral](Ingredients.md)
+    -   [Egg](Egg.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat**)
 
 -   Ores, including:
