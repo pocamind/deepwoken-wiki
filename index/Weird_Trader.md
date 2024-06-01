@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100672
+revid: 100680
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -58,11 +58,13 @@ The event despawns after 30 minutes have elapsed.
         -   [Summer Rifle](Summer_Rifle.md)
         -   [Toothed Club](Toothed_Club.md)
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+        -   [Worshipper Longsword](Worshipper_Longsword.md)
         -   [Falchion](Falchion.md)
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md) / [Alloyed Adretian Axe](Adretian_Axe.md)
         -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Darkalloy Greatsword](Darksteel_Greatsword.md)
+        -   [Forge Greathammer](Forge_Greathammer.md)
         -   [Iron Birch](Iron_Birch.md)
         -   [Zweihander](Zweihander.md)
     -   Other
