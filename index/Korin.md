@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 99903
+revid: 100668
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,6 +21,6 @@ Korin is an [Etrean](Etrean.md) living in Etris near the Antiquitarian he is as 
 
 ## Trivia
 
--   If you have the mantra "Strong Left" he gives you a quest to obtain the talent "Treefalling blow".
+-   If you have the mantra "Strong Left" he gives you a quest to obtain the talent "Treefelling Blow."
 -   [The Ferryman](The_Ferryman.md) uses his appearance when showing himself to the player.
 -   He is the most gorgeous man in Etris.

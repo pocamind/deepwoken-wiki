@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 100646
+revid: 100659
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -58,7 +58,6 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 ## Trivia
 
 -   The weapon is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_, an arsenal consisting of a large greatsword and an accompanying dagger to use as a pivot. Its fire-infused state is a reference to the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) who, as Lords of Cinder, imbue their form and weapon with fire in the second phase of their fight.
--   Likely named after Ysley Zithori Vhemm Diri, one of developer yayafino's spec characters.
 -   It is the weapon with the most different stat requirements, being Heavy, Flamecharm and Light.
     -   Ysley's Pyre Keeper also having 5 different criticals effectively renders it the most complex weapon in the game, especially in combination with how uniquely it scales with Light.
 -   This weapon was originally hidden from testers, explaining how OP it was on release.[\[1\]](#cite-note-1)
@@ -69,7 +68,6 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
--   The Weapon can also be obtained in chests from fishing
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 93320
+revid: 100662
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -66,7 +66,7 @@ Have your movement and parkour speed increased by 15%. Applied by the [Adrenalin
 
 ### Gone Berserk
 
-Gain a 20% defense boost to all sources. Applied after knocking someone with the talent Berserk.
+Gain a 20% defense boost to all sources. Applied after knocking someone with the talent [Berserker](https://deepwoken.fandom.com/wiki/Talents?so=search#Miscellaneous).
 
 ### Overcharm
 

@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100641
+revid: 100672
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -25,7 +25,7 @@ The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) that can rarely be 
 
 The Weird Trader will request three items, from a long list of possible choices. Providing these three items will reward the player with a very rare [weapon](Weapons.md), a [relic](Relics.md) or an [Astral Enchantment Stone](Enchantments.md). This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 
-Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), a teleportation mantra, or other forms of fall damage negation.
+Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), a I-Frame mantra, or other forms of fall damage negation.
 
 The event despawns after 30 minutes have elapsed.
 
@@ -60,7 +60,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
         -   [Falchion](Falchion.md)
     -   Heavy Weapons
-        -   [Adretian Axe](Adretian_Axe.md)
+        -   [Adretian Axe](Adretian_Axe.md) / [Alloyed Adretian Axe](Adretian_Axe.md)
         -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Darkalloy Greatsword](Darksteel_Greatsword.md)
         -   [Iron Birch](Iron_Birch.md)
@@ -72,13 +72,13 @@ The event despawns after 30 minutes have elapsed.
 
 -   Ingredients, Including:
     -   [Redds](Redd.md)
-    -   [Calabash](Calabash.md)
-    -   [Ongo](Ingredients.md)
+    -   [Calabashes](Calabash.md)
+    -   [Ongos](Ingredients.md)
     -   [Browncaps](Browncap.md)
     -   [Dentifilos](Dentifilo.md)
     -   [Beeswax](Beeswax.md)
-    -   [Alestrian Coral](Ingredients.md)
-    -   [Egg](Egg.md)
+    -   [Alestrian Corals](Ingredients.md)
+    -   [Eggs](Egg.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat**)
 
 -   Ores, including:
