@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100715
+revid: 100740
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1633,6 +1633,8 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisites: Bring a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
 
 ### Needle
+
+> _**"I seek the qualities of Needle."**_
 
 -   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] running M1's deal increased posture damage. Upon landing your Critical, your next running M1 will have increased range.
     -   Prerequisites: Using Rapier, 30 Light Weapon

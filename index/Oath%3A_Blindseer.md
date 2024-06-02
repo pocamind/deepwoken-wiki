@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 98993
+revid: 100732
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -80,7 +80,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Sightless Beam can be canceled midway by pressing F.
     -   Steals eyesight proccing the blind effect if enough hits land.
     -   Has a **high** windup.
-        -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.
+        -   Not parryable, entirely blockable. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
@@ -91,7 +91,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra slots and 10 Sanity.
 
-This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
+This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
 
 With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depth at no risk.
 

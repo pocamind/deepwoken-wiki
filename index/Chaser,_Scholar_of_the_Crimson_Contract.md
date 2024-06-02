@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 100529
+revid: 100737
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -212,7 +212,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
     -   He is still viewed as the easiest boss ingame, due to his insanely predictable attacks with loud sound queues, with his only troublesome move being the stalactites as they stall the fight and are RNG.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawning.
 -   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
--   Chaser does not spawn if: The Key is not picked up at the start, the generator is not powered on, or if the Bounder nest has not been triggered.
+-   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered.
 -   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Used to have the title, Scholar of the Crimson Contract.
     -   He still has this title if you hover over the Combat Tag skull whilst combat tagged by him.

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 100653
+revid: 100738
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -217,6 +217,7 @@ Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests contain
 -   [**Ardour Manifestation**](Ardour_Manifestation.md) - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   Sinners Ash - Allows user to corrupt their resonance (<1% drop chance)
 -   [**Pluripotent Alloy**](Pluripotent_Alloy.md) - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
+-   Armorers Needle- Grants pips and can make your items into a godroll (5% drop chance) (Needs more testing)
 
 ## Dialogue
 
