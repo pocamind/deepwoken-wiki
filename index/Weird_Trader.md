@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100680
+revid: 100701
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -34,23 +34,24 @@ The event despawns after 30 minutes have elapsed.
 -   Weapons, including:
     -   Light Weapons
         -   [Anklets of Alsin](Anklets_of_Alsin.md)
+        -   [Apprentice Rapier](Apprentice_Rapier.md)
         -   [Central Dirk](Central_Dirk.md)
         -   [Champion's Dagger](<Champion's_Dagger.md>)
         -   [Dragoon](Dragoon.md)
         -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
         -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
-        -   [Legion Cestus](Legion_Cestus.md)
         -   [Iron Cestus](Iron_Cestus.md)
+        -   [Legion Cestus](Legion_Cestus.md)
         -   [Tanto](Tanto.md)
-        -   [Apprentice Rapier](Apprentice_Rapier.md)
     -   Medium Weapons
         -   [Alloyed Katana](Katana.md)
         -   [Cavalry Saber](Cavalry_Saber.md)
         -   [Champion's Sword](<Champion's_Sword.md>)
+        -   [Falchion](Falchion.md)
         -   [Iron Blunderbuss](Iron_Blunderbuss.md)
         -   [Iron Spear](Iron_Spear.md)
-        -   [Pernach](Pernach.md)
         -   [Officer Saber](Officer_Saber.md)
+        -   [Pernach](Pernach.md)
         -   [Rifle Spear](Rifle_Spear.md)
         -   [Razor Cutlass](Razor_Cutlass.md)
         -   [Serpent's Edge](<Serpent's_Edge.md>)
@@ -59,13 +60,12 @@ The event despawns after 30 minutes have elapsed.
         -   [Toothed Club](Toothed_Club.md)
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
         -   [Worshipper Longsword](Worshipper_Longsword.md)
-        -   [Falchion](Falchion.md)
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md) / [Alloyed Adretian Axe](Adretian_Axe.md)
-        -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Darkalloy Greatsword](Darksteel_Greatsword.md)
         -   [Forge Greathammer](Forge_Greathammer.md)
         -   [Iron Birch](Iron_Birch.md)
+        -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Zweihander](Zweihander.md)
     -   Other
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
@@ -73,14 +73,15 @@ The event despawns after 30 minutes have elapsed.
 -   Any [Primordial Lotus](Ingredients.md#lotuses)
 
 -   Ingredients, Including:
-    -   [Redds](Redd.md)
-    -   [Calabashes](Calabash.md)
-    -   [Ongos](Ingredients.md)
-    -   [Browncaps](Browncap.md)
-    -   [Dentifilos](Dentifilo.md)
-    -   [Beeswax](Beeswax.md)
     -   [Alestrian Corals](Ingredients.md)
+    -   [Beeswax](Beeswax.md)
+    -   [Browncaps](Browncap.md)
+    -   [Calabashes](Calabash.md)
+    -   [Dentifilos](Dentifilo.md)
     -   [Eggs](Egg.md)
+    -   [Ongos](Ingredients.md)
+    -   [Redds](Redd.md)
+    -   [Sap](Ingredients.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat**)
 
 -   Ores, including:
