@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100614
+revid: 100715
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -387,6 +387,18 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   "Larger foes" being non-humanoid NPC. (Ex. Mudskippers, Angels, and Bandits)
     -   Prerequisite: 20 Willpower
     -   The head equipment "[Dark Owl Chapeau](Dark_Owl_Chapeau.md)" has this talent.
+
+### Berserker
+
+> Currently no Mystic dialogue.
+
+-   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
+    -   When activated:
+        -   Your armor is immediately removed for 20 seconds.
+        -   Buff is granted for 20 seconds.
+        -   Eyes turn red and gain a red trail for 20 seconds.
+        -   Hair turns red for 20 seconds.
+    -   Prerequisites: 80 Strength
 
 ### Brawler
 

@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 100682
+revid: 100721
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -36,4 +36,4 @@ The bow is set to be upcoming future content.
 ## Trivia
 
 -   Currently are for testing as no player can have 200 points in Light weapons.
--   Identical stats to [Revolver](Repeater.md).
+-   Identical stats and description to the [Revolver](Repeater.md).

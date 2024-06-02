@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 100707
+revid: 100709
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
@@ -58,6 +58,6 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 ## Trivia
 
--   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md) and Nostor.
+-   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who possess it are persecuted.
     -   This makes them the only faction to have an exclusive attunement.

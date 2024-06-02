@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 100312
+revid: 100716
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -35,38 +35,38 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 
 #### Talents
 
--   Collapsed Lung - When Polis block break someone, they are unable to vent for 3 seconds.
--   Bulldozer - When Polis flourish an enemy into a wall, they are guard broken and have a chance of breaking the wall.
--   Audacity - When Polis start gripping an enemy, he creates an AOE stun and slow. He also resist the effect of Defiant Until the End and Last Second Negotiation.
+-   Collapsed Lung - When Polis block breaks someone, they are unable to vent for 3 seconds.
+-   Bulldozer - When Polis flourishes an enemy into a wall, they are guard broken and have a chance of breaking the wall.
+-   Audacity - When Polis starts gripping an enemy, he creates an AOE stun and slow. He also resists the effect of Defiant Until the End and Last Second Negotiation.
 -   Braced Collapse - If Polis is guard broken, he takes less damage from the next hit.
--   Firmly Planted - Polis resist slow debuffs by 30%.
+-   Firmly Planted - Polis resists slow debuffs by 30%.
 -   Perseverance - If knocked, Polis gets up faster.
--   Impervious Slumber - Polis's knock timer cannot be reset.
+-   Impervious Slumber - Polis' knock timer cannot be reset.
 -   Moving Fortress - Polis isn't slowed as much while blocking.
--   Battle Tendency - Polis resture posture +20% faster.
--   Reinforced Armor - Polis resist PENetration by 60%.
--   Matador - Polis deal +20% more damage against human enemies with hyperarmor.
--   Uproar - If Polis is quickly hit 3 time, he gains hyperarmor for a short duration.
--   Brutal Momentum - Polis gain hyperarmor on his next swing if he dodge an attack.
--   Showstopper - Polis stomps the ground if an enemy try to dodge his attacks, dazing them.
--   Warrior's Swing - Polis take less damage if hit during the hyperarmor of his melee attacks.
+-   Battle Tendency - Polis restores posture +20% faster.
+-   Reinforced Armor - Polis resists PENetration by 60%.
+-   Matador - Polis deals +20% more damage against human enemies with hyperarmor.
+-   Uproar - If Polis is quickly hit 3 times, he gains hyperarmor for a short duration.
+-   Brutal Momentum - Polis gains hyperarmor on his next swing if he dodges an attack.
+-   Showstopper - Polis stomps the ground if an enemy tries to dodge his attacks, dazing them.
+-   Warrior's Swing - Polis takes less damage if hit during the hyperarmor of his melee attacks.
 -   Destructive Recovery - Enemies who parry Polis recover much less posture.
 -   Harsh Response - Enemies who parry Polis recover less posture.
--   Heavy Hitter - Polis deal +25% posture damage.
--   Punishing Blow - If Polis hit an enemy while they are swinging their weapon, they are dazed.
--   Hard Read - If Polis hit a feinting enemy, they are dazed.
--   Swift Rebound - Polis gain a speed boost after dodging an attack.
--   Evasive Expert - Polis gain even more speed from dodging an attack.
--   Ghost - Polis become invisible for 2 seconds whenever he dodge an attack.
+-   Heavy Hitter - Polis deals +25% posture damage.
+-   Punishing Blow - If Polis hits an enemy while they are swinging their weapon, they are dazed.
+-   Hard Read - If Polis hits a feinting enemy, they are dazed.
+-   Swift Rebound - Polis gains a speed boost after dodging an attack.
+-   Evasive Expert - Polis gains even more speed from dodging an attack.
+-   Ghost - Polis becomes invisible for 2 seconds whenever he dodges an attack.
 -   Concussive Force - Enemies knocked by Polis remain knocked for 15 seconds instead of 10.
 -   Strong Stern - Polis is only dazed for half the time if wall banged.
--   Concussion - When Polis flourish an enemy into a wall, they are slightly blinded and are dazed for longer.
+-   Concussion - When Polis flourishes an enemy into a wall, they are slightly blinded and are dazed for longer.
 -   Return to the Dark Ages - Polis takes -20% damage from mantras, but he also deals -20% damage with his mantras.
--   Risky Moves - When Polis dodge an attack, he automatically dodge the next attack.
--   Wyvern's Claw - Polis deal +10% damage while in the air.
--   Chronostasis - If Polis hit an enemy, their resonance is put on cooldown.
--   In a Hurry - If Polis have a speed boost, he grips his enemy 16.67% faster (-0.5s).
--   Grand Support - Polis gains health and heal those he Reinforce.
+-   Risky Moves - When Polis dodges an attack, he automatically dodge the next attack.
+-   Wyvern's Claw - Polis deals +10% damage while in the air.
+-   Chronostasis - If Polis hits an enemy, their resonance is put on cooldown.
+-   In a Hurry - If Polis has a speed boost, he grips his enemy 16.67% faster (-0.5s).
+-   Grand Support - Polis gains health and heals those he Reinforces.
 
 ## Finisher
 

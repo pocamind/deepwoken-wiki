@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 100412
+revid: 100711
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -64,7 +64,7 @@ When these quests are completed, they give a talent (or [mantra](Mantras.md) in 
 
 **Quest Location**: [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md)
 
-**Guide**: Talk to the NPC that gives you the Lumber Axe at Etris or ISle of Vigils with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.
+**Guide**: Talk to the NPC that gives you the Lumber Axe at Etris or Isle of Vigils with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.
 
 **Reward/s**: Treefelling Blow
 
