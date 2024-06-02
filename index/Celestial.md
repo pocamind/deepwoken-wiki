@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 97654
+revid: 100726
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -28,3 +28,4 @@ Template:Races-Main
 
 -   Celestials are referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
 -   The crucified celestial may be a reference to Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
+-   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of deepwoken.

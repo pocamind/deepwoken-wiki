@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 100717
+revid: 100722
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -57,12 +57,6 @@ They hail from the Western Luminant and are the most prominent race in [The Hund
 -   Allows the use of equipment 3 points earlier than other races, allowing Khans to make exclusive builds.
 -   Allows the unlocking of the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight with 77 LHT/MED/HVY rather than the regular 80.
 -   Increased starting rep with [The Hundred Legions](The_Hundred_Legions.md).
-    
-
-**Weaknesses:**
-
--   Versatile won't be very useful unless your build is designed for it.
--   3 extra points, while still good, isn't a giant amount to save.
     
 
 **Surnames:**

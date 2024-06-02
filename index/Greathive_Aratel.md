@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 98787
+revid: 100724
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -43,7 +43,7 @@ Hive Fountains
     -   The middle will send you to [The Lordsgrove](The_Lordsgrove.md).
     -   The middle right will send you to [Ancient Rotlands](Ancient_Rotlands.md).
     -   The right will send you to [Upper Erisia](Upper_Erisia.md).
-    -   Fountains likely have a cooldown of 25-30 seconds.
+    -   Fountains likely have a cooldown of 30 seconds. (Tested)
 -   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:
     -   [The Lordsgrove](The_Lordsgrove.md)
     -   Inside the [Hidden Village](The_Hidden_Village.md)

@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 96143
+revid: 100728
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -63,3 +63,4 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
 -   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7. (After Prof Buff)
 -   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling, and a variety of Criticals.
+-   Using this weapon with any big hat will almost fully cover m1 swing animation making it harder for you opponent to parry your attacks

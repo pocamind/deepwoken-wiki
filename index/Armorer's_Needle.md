@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 100704
+revid: 100729
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,11 +14,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron, Primadon, Fishing, Hell Mode |
+| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron, Primadon, Fishing, Hell Mode, Voidwalker Chests |
 
 ## Description
 
-**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef.
+**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef.
 
 Currently known to drop from Voidwalker chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Fishing](Fishing.md), [Hell mode](Hell_Mode.md), [Primadon](Primadon,_Titan_of_the_East.md), and likely other sources as well.
 
