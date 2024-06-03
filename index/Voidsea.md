@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 97667
+revid: 100783
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -37,6 +37,6 @@ Sometimes, when you are sailing through Voidsea, you may be teleported to a rand
 -   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md).
 -   Sailing out of the Voidsea into the actual Roblox void is possible.
--   [Resonance dawn](Random_Encounters.md) event can spawn here and is a prime place for grinding it because of its low amount of events.
+-   The [Resonance Dawn](Random_Encounters.md) event can spawn here and is a prime place for grinding it because of the Voidseas low amount of events.
     
     A boat Floating over the Void.

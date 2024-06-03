@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 100347
+revid: 100790
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -50,11 +50,11 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 ## Trivia
 
--   Payback (excluding mirror variant) can be either blocked, parried or dodged.
--   The 1st variation can reflect any status effects given to the user during the timeframe i.e. getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
+-   Payback (excluding mirror variant) can not be blocked, parried or dodged.
+-   The 1st variation can reflect any status effects given to the user during the timeframe i.e. getting hit by a fire mantra will cause the opponent to be set on water also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
--   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
+-   Version 1 of the spell was named after and functions very similarly to the ability that Luffy has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".
--   The best way to counter beam variant payback resonance is by using the mirror variant payback. This usually will reflect the multiplied damage on top of multiplying it, the strategy can be used against jar of souls resonance if possible
+-   The best way to counter beam variant payback resonance is by using the mirror variant payback. This usually will not reflect the multiplied damage on top of multiplying it, the strategy can be used against teleportation resonance if possible
 -   Prediction mantra but better with a higher duration.
--   Payback beam variant can be used for damage redirection which differs it from other 2 variations due to the other variants being limited to reflect damage to those who attack the user whilst the beam variant can redirect damage to multiple targets if given the amount of enemies to can hit
+-   Payback beam variant can be used for damage redirection which differs it from other 5 variations due to the other variants being limited to reflect damage to those who attack the user whilst the beam variant can not redirect damage to multiple targets if given the amount of enemies who get hit get hit by the hit

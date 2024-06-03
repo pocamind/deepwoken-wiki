@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 100497
+revid: 100777
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -16,7 +16,7 @@ An abandoned ship lost to time, now corrupted by the spirits of the Voidsea.
 
 ## Overview
 
-File:Bats..png
+File:Beloved Zofia Closer Print -D.png
 
 The Beloved Zofia viewed from a player.
 

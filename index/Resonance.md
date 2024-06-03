@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 100766
+revid: 100803
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -109,7 +109,7 @@ YOU DO **NOT** NEED TO FOLLOW THE PATH THAT YOU ARE GIVEN. KILLING BOSSES WILL G
 
 You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your resonance this way.
 
-### The Path- Progress & Nature of Your Soul
+### The Path - Progress & Nature of Your Soul
 
 The main factor in obtaining a **Resonance** is _how far you are in the hidden stat known as **Progress**_ (commonly referred to by the community as "bell prog"). There are many ways to obtain Progress, and the most effective ways can vary from character to character- which can be judged by [Sibex](Sibex.md), who will inspect your Soul and inform you on what the best way for you to obtain Progress is. Additionally, he can also make note of how close you are to obtaining your **Resonance**.
 
@@ -168,18 +168,16 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <ul>
     <li><b><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></b> gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just 2-3 runs as well as dropping the best loot in the game. However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.<br>
   </li>
-    <li><b><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Burning Blood</a></b> grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. Can be risky if the player is fighting Chaser for the first time, as the player can be wiped in the Second Layer.</li>
-  </ul>
-  <ul>
-    <li><b><a href="Duke_Ishamon_Erisia.md">The Duke</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.</li>
-  </ul>
-  <ul>
-    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b></li>
-  </ul>
-  <ul>
-    <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. You can remove your murmur with a <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'shul wish</a><i><b>.</b></i></li>
-  </ul>
-  <ul>
+    <li><b><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Burning Blood</a></b> grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. Can be risky if the player is fighting Chaser for the first time, as the player can be wiped in the Second Layer. *<b><br>
+  </b></li>
+    <li><b><a href="Duke_Ishamon_Erisia.md">The Duke</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.<br>
+  </li>
+    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
+  </li>
+    <li><a href="Maestro_Evengarde_Rest.md"><b>Maestro Evengarde Rest</b></a> gives a good amount of progress and it's very easy to rematch him. However, he is extremely punishing to those unfamiliar with his moveset and has a lot of prerequisites (one of which includes high weapon investment meaning you simply can't fight him on an elemental build). Should you become familiar with his fight, you'll be rewarded with some of the best loot in the game and ease of access.<br>
+  </li>
+    <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. You can remove your murmur with a <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'shul wish</a><i><b>.</b></i><br>
+  </li>
     <li><b><a href="Primadon,_Titan_of_the_East.md">Primadon</a></b> has been deemed less reliable to fight by the community upon the drop of <b><a href="Verse_2.md">Verse 2</a>.</b> While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. <b>Side: Primadon now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
   </li>
     <li><b><a href="Enforcer.md">The Enforcer</a></b> is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.<br>

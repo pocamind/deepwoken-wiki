@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 100763
+revid: 100788
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -58,7 +58,7 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
 -   As of the October 20, 2023 weekly update LFT now has a Unique 4-Hit Critical combo.
 -   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3)
 -   As this weapon is Legendary, it is completely unenchantable. Until the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
--   It is one of five known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md) and [Imperial Staff](Imperial_Staff.md).
+-   It is one of seven known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
 -   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7. (After Prof Buff)
 -   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling, and a variety of Criticals.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 100528
+revid: 100793
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 ### **Upcoming Oaths**
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
--   Three Unnamed Oaths\[citation needed\]
+-   Skibidi Worshipper
 
 ## Oath Skipping
 
