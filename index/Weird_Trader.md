@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100701
+revid: 100747
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -50,6 +50,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Falchion](Falchion.md)
         -   [Iron Blunderbuss](Iron_Blunderbuss.md)
         -   [Iron Spear](Iron_Spear.md)
+        -   [Morning Star](Morning_Star.md)
         -   [Officer Saber](Officer_Saber.md)
         -   [Pernach](Pernach.md)
         -   [Rifle Spear](Rifle_Spear.md)

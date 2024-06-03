@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 93874
+revid: 100752
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -27,7 +27,8 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 ## Points of Interest
 
 -   A Bounty Board
-    -   It is usually always full (especially on larger servers) as very few players have positive / neutral [reputation](Reputation.md) with every faction.
+    -   It is usually always full (especially on larger servers) as very few players have positive / neutral [reputation](Reputation.md) with every required faction.
+    -   Players don't show up on the bounty board if they are neutral or allied to all the following factions: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and most importantly [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   Raen, who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
 -   A [Chessboard](Chessboard.md)
@@ -37,6 +38,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 -   [The Voidmother](The_Voidmother.md)
     -   Wake the player up from the dream, taking them to where they last used their Voideye.
         -   Spawns in [Lower Erisia](Lower_Erisia.md) the first time.
+        -   Does not work in PvP combat.
 -   Eylis, the Punished Dreamer
     -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items
@@ -64,5 +66,5 @@ A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspac
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://youtu.be/4KLGPkyCff0?t=102](https://youtu.be/4KLGPkyCff0?t=102))
     -   This has been partially confirmed, as there is now a chess board there.
     -   The chess board is 100% accurate to real [chess](Chessboard.md), it's just that the pieces have been replaced by Deepwoken monsters.
--   ~Nothing directly prevents players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here.~ (As of the update where Voidwalkers can take bounties on other Voidwalkers, this is outdated. While it is still seen as dishonorable, it is as of now, very common to be attacked inside Voidheart)
-    -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, resulting in them getting removed.
+-   It is very common to get attacked in the Voidheart, even though it is seen as dishonorable to do so.
+    -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak that resulted in them getting removed.

@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 99576
+revid: 100749
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -27,7 +27,7 @@ Said "Blue Hue" and "New Motifs"
 
 -   **Tier 1 - 66% Sanity - Shivering:** The character will start to occasionally shiver in fear, slowing them down. Player's screen borders will be shrouded in a blue hue.
 -   **Tier 2 - 33% Sanity - Scratching:** The character will start scratching themselves at random intervals, dealing minute damage. The blue border on the screen will begin pulsing and white hexagon-patterned lines will start forming on your screen. In addition, the character can no longer recognize the facial expression of humanoid entities, with their faces becoming shrouded in a black mess. Player names also cannot be recognized.
--   **Tier 3 - 0% Sanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 35 damage each time and disabling their ability to move. If the character gets knocked by this damage, they are executed. The blue border will feature new motifs when nearing this tier.
+-   **Tier 3 - 0% Sanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 35 damage each time and disabling their ability to move. If the character gets knocked during this Tier, they are executed. The blue border will feature new motifs when nearing this tier.
     -   Note: Despite sharing an animation, using the mantra Gaze does not cause damage this way.
 -   **Alternative:** If you run out of sanity while holding a weapon with [Curse of the No Life King](Enchantments.md) or while being too close to the meatballs in the [Ancient Rotlands](Ancient_Rotlands.md), speak to Yun'Shul without a [Resonance](Resonance.md), or fail the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members, your head will explode and you will die.
 

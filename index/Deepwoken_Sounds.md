@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 100255
+revid: 100746
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -13,8 +13,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 **A large collection of sounds found within Deepwoken.**
 
 -   Some sounds are re-used in more than one aspect of gameplay.
--   All sounds are supposed to be .mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to .mp3s manually, or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
 -   Use \[CTRL + F\] or \[F3\] to find a specific sound you want. Do note that the search bar can only find words on categories you expanded.
+-   All sounds are supposed to be .mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to .mp3s manually, or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
+    -   Pressing the 3 dots to download a sound may not work for some users. Try right clicking instead.
 
 ### **[Character](Character_Creation.md)**
 

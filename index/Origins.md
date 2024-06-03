@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 100149
+revid: 100753
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -111,7 +111,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
-    -   Having a bounty for any of the following factions will also add the bounty this board: Kingdom of Etrea, The Authority, The Hive, The Ignition Union, The Summer Company, The Knives of Eylis.
+    -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, and The Hundred Legions.

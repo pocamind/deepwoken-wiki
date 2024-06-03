@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 100327
+revid: 100742
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -211,6 +211,7 @@ categories: [Deepwoken]
 -   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
 -   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
+-   The names **Laios**, **Falin**, **Senshi**, **Izutsumi, Chilchuck** and **Marcille** are a reference to the manga _Dungeon Meshi_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Roland**," "**Tiphereth**," "**Xiao**", "**Zena**", "**Iori**", and "**Argalia**", are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
 -   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
 
