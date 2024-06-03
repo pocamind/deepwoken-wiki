@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 100753
+revid: 100756
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -42,7 +42,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
 -   **\[PRO\]** Allows use of the Shrine of Solitude.
--   **\[PRO/CON\]** Dying in the Trial of One with this origin instantly sends you to [The Depths](The_Depths.md). (Will not count as a drown.)
+-   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the depths.
 
 ## Deepbound
 
@@ -86,7 +86,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ― Flavor Text
 
-**_Obtainment_:** On a single character, grip 5 players who are not allied with you (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
+**_Obtainment_:** On a single character, grip 5 players who are not allied with you (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble. You will be warped to the [Voidheart](Voidheart.md), where you need to talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) to receive the origin.
 
 **Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
 
@@ -134,8 +134,8 @@ The following is speculation:
 
 ### **Hive Origin**
 
--   Confirmed to release alongside Conquest
--   Stated to be a PvE centered origin for players who want to avoid PVP
+-   Confirmed to release alongside Conquest.
+-   Stated to be a PvE centered origin for players who want to avoid PVP.
 
 ### **Ignition Union Origin**
 

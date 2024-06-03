@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 99885
+revid: 100757
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -383,6 +383,7 @@ _A servant of flames._
 -   Ritual casting.
     -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
 -   Flame Wisp also seems to reduce parasite growth.
+-   No longer considered a support mantra as of 17/5/2024 and is now considered a wisp mantra.
 
  |
 |  | 

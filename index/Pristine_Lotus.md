@@ -1,6 +1,6 @@
 ---
 title: Pristine Lotus
-revid: 92827
+revid: 100759
 source: https://deepwoken.fandom.com/wiki/Pristine_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -20,7 +20,7 @@ categories: [Items]
 
 ## Overview
 
-Pristine Lotuses are items that can be found scattered around the [Entropy Catalyst](The_Entropy_Catalyst.md). Upon gripping a player with an [Oath](Oaths.md), a Pristine Lotus will become a Scarlet Lotus. Upon obtaining 4 Scarlet Lotuses, you can return to the Entropy Catalyst too place them within the sacrifical holes, and obtain the [Linkstrider](Oath%253A_Linkstrider.md) Oath.
+Pristine Lotuses are items that can be found scattered around the [Entropy Catalyst](The_Entropy_Catalyst.md). Upon gripping a player with an [Oath](Oaths.md), a Pristine Lotus will become a Scarlet Lotus. Upon obtaining 4 Scarlet Lotuses, you can return to the Entropy Catalyst to place them within the sacrifical holes, and obtain the [Linkstrider](Oath%253A_Linkstrider.md) Oath.
 
 ## Tips/Trivia
 

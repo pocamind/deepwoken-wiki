@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 100562
+revid: 100761
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 12 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significantly higher damage and a unique set of attacks integrated into your moveset.
+**[Oath](Oaths.md): Silentheart** is one of the 12 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
 
 ## Obtainment
 
