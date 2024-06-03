@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 100004
+revid: 100772
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -196,3 +196,4 @@ A Stone Knight executes the player:
 -   They have a 360 degrees detection range.
 -   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Sand Knights.
 -   Immortal Guardians attack Astral Knights.
+-   Astral Knights tend to talk in full capital letters like Rogue Constructs, some things that they've been seen saying are "OUTSIDE INTERFERENCE PROBABLE.", "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT" there might be more things that they can say, needs more testing.

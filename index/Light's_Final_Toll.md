@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 100728
+revid: 100763
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -52,13 +52,12 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
 -   This is the first weapon to scale from an attribute (Willpower) other than weapon or an attunement.
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
--   One of the most common legendary weapons, outside of guaranteed drops such as the [Hero Blades](Hero_Blades.md). That being said, don't expect to find one on every [Layer 2](Second_Layer.md) run.
--   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md) & [Kyrsieger](Kyrsieger.md)) that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
--   With its abnormally small base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLP.
+-   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md) & [Kyrsieger](Kyrsieger.md)) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
+-   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its actual hotbox.
 -   As of the October 20, 2023 weekly update LFT now has a Unique 4-Hit Critical combo.
 -   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3)
--   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
+-   As this weapon is Legendary, it is completely unenchantable. Until the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
 -   It is one of five known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md) and [Imperial Staff](Imperial_Staff.md).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
 -   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7. (After Prof Buff)
