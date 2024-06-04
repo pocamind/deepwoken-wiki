@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 100482
+revid: 100856
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -53,7 +53,7 @@ Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it 
 
 #### Method Two - The Old Stranger
 
-Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing with fresh water or [Redd Juice](Food.md), granting you the Murmur as thanks.
+Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing fresh water or [Redd Juice](Food.md), granting you the Murmur as thanks.
 
 ## Murmur: Tacet
 

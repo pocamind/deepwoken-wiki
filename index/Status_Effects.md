@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 100662
+revid: 100849
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -167,7 +167,7 @@ This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user
 
 ### Harrowing
 
-This is applied by being hit by the Harrowing enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
+This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
 
 ### Tethered
 
@@ -199,7 +199,7 @@ Applied by being hit by the [Sear](Enchantments.md) enchant. Incoming attacks ha
 
 ### Solar Mark
 
-Applied by being flourished or hit by critical attacks from weapons with the Solar enchant. Reduces tempo and ether gain/regeneration.
+Applied by being flourished or hit by critical attacks from weapons with the [Solar enchant](Enchantments.md). Reduces tempo and ether gain/regeneration.
 
 ### Grim
 

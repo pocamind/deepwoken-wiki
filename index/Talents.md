@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100810
+revid: 100850
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1761,7 +1761,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisite: 60 Strength
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% less. (+2 Posture, +4 Carry Load)
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
     -   Prerequisite: 40 Strength
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits

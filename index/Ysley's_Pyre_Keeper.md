@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 100843
+revid: 100847
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | Ysley's Pyre Keeper | |
 |---|---|
 | type | Greatsword |
-| requirements | HVY: 20, FIR: 75, LHT: 15 |
+| requirements | HVY: 25, FIR: 75, LHT: 10 |
 | damage | 23 |
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
@@ -26,7 +26,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Starswept Valley, Primadon (Gem chest), Golem Constructs, Fishing, Duke Erisia |
+| obtainment | Chests From:, Starswept Valley, Primadon (Gem chest), Golem Constructs, Fishing |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 91378
+revid: 100855
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -94,4 +94,4 @@ _\*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void 
 -   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in "(?)".
 -   Lance's Brother wears [Merchant Robes](Merchant_Robes.md).
 -   Lance Leshi denies having a brother.
--   As [said](https://media.discordapp.net/attachments/926268072564756500/1155210816262512811/1695493922148.mp4) by HorrorTM, Lance's brother real name is Maverick Leshi, who ascended and became a Lightborn to be better than his brother after using a time machine. The one currently at Isle of Vigils is him from the past, assuming that Horror wasn't lying or, much more likely, simply joking around.
+-   As [said by HorrorTM](https://media.discordapp.net/attachments/805204977232117783/1247505852424785921/1695493922148.mp4?ex=666045dc&is=665ef45c&hm=7acb3097f92ce5843aaa3b70a44157e81c6421916820fc099255142894974dee&), Lance's brother real name is Maverick Leshi, who ascended and became a Lightborn to be better than his brother after using a time machine. The one currently at Isle of Vigils is him from the past, assuming that Horror wasn't lying or, much more likely, simply joking around.
