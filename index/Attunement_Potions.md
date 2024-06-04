@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 95364
+revid: 100876
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -83,6 +83,8 @@ File:Nightblood.png
 Skyblood
 
  | 
+
+File:Skyblood potion.png
 
  | 
 

@@ -1,11 +1,9 @@
 ---
 title: Faction Ambushes
-revid: 98213
+revid: 100874
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Reputation, Mechanics]
 ---
 
 # Faction Ambushes
@@ -38,7 +36,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
  |
 | [Etrea](Etrea.md) | 
 
--   3 Vigil Captains
+-   3 [Vigil Captains](Vigil_Captain.md)
 -   3 [Vigil Swordsmen](Vigil_Swordsman.md)
 -   3 [Etrean Soldier](Etrean_Soldier.md)
 
@@ -123,7 +121,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "Tread no further west, worm!"
 -   "On our honor... You perish here, worm."
 
- |  |
+ | 
+
+-   Starswept Valley
+
+ |
 | [Summer Company](The_Summer_Company.md) | 
 
 -   3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>)
@@ -156,19 +158,6 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   Crypt of the Unbroken
 
  |
-| [Ministry](The_Ministry.md) | 
-
--   3 [Weak Ministry Enforcers](Ministry_Enforcer.md#weaker-variant)
-
- | 
-
--   "This one must die."
-
- | 
-
--   Crypt of the Unbroken
-
- |
 | [Hive](The_Hive.md) | 
 
 -   1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>)
@@ -177,7 +166,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
 -   "Those who stand in the way of our research won't live to tell the tale."
 
- |  |
+ | 
+
+-   Starswept Valley
+
+ |
 | [Hive](The_Hive.md) | 
 
 -   1 [Hive Construct](Hive_Construct.md)
@@ -186,7 +179,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
 -   "YOUR REMAINS ARE TO BE SCATTERED."
 
- |  |
+ | 
+
+-   Starswept Valley
+
+ |
 | [The Divers](The_Divers.md) | 
 
 -   3 [Divers](Diver.md)
@@ -205,7 +202,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
  |
 | [The Divers](The_Divers.md) | 
 
--   1 [Black Diver](<Black_Diver_(NPC).md>)
+-   3 [Black Diver](<Black_Diver_(NPC).md>)
 
  | 
 

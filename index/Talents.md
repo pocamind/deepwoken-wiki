@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100850
+revid: 100861
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -398,6 +398,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
         -   Buff is granted for 20 seconds.
         -   Eyes turn red and gain a red trail for 20 seconds.
         -   Hair turns red for 20 seconds.
+        -   **ONLY** affects your basic attacks, not mantras or anything else.
     -   Prerequisites: 80 Strength
 
 ### Brawler

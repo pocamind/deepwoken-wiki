@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 100805
+revid: 100877
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Quests, Talents, Layer 2, Floor 1]
@@ -22,4 +22,4 @@ _**THE VOICES**_... Can you hear them? Those who are _empowered_ by the voices a
 
 ## Trivia
 
-You will always encounter three [Carbuncles](Carbuncle.md) on the way to him. Although it is not necessary, it is recommended to kill them because they will annoy you during the dialogue.
+-   You will always encounter three [Carbuncles](Carbuncle.md) on the way to him. Although it is not necessary, it is recommended to kill them because they will annoy you during the dialogue.
