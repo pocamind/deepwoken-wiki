@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 99346
+revid: 100821
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -189,12 +189,7 @@ Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to c
 
 1 Room  
 
- | 
-
-A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for.  
-(You can drink the water or refill a canteen with it, but it will make you throw up unless you have a Purifying Ring equipped)
-
- |
+ | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. |
 | 
 
  | 

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 100439
+revid: 100808
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -187,7 +187,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 \***TIMEBOMB** **MODIFIER**\*
 
- | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | Pray. |
+ | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Corrupt Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | Pray. |
 
 ## Tips/Trivia
 

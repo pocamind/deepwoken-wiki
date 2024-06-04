@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 100376
+revid: 100807
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -198,6 +198,7 @@ For 5 Knowledge and 2 Talents of your choice, get a Whisper Draw.
 ## Details
 
 -   If you are out of Mantra Draws but need more mantras and don't want to get rid of mantras you already have, you can use this shrine.
+-   You can trade common cards and rares to get mantra.
     
 
 **Shrine of Solitude:**

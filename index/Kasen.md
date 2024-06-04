@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 95210
+revid: 100805
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Quests, Talents, Layer 2, Floor 1]
@@ -18,7 +18,7 @@ Talk to him with at least 80 Willpower and tier 1 insanity, he will teach you He
 
 ## Dialogue
 
-Placeholder
+_**THE VOICES**_... Can you hear them? Those who are _empowered_ by the voices are those who are most insusceptible to its _fallacies._ _**I SEE... THE VOICES SAY YOU WILL DO.**_ Recite this chant and the voices will reach out to you.
 
 ## Trivia
 

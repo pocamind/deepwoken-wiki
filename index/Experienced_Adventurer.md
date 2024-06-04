@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 85739
+revid: 100820
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

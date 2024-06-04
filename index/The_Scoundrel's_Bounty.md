@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 96750
+revid: 100824
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons, World]
@@ -32,7 +32,7 @@ Template:Areainfobox
     -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the [Celtor Commander Plate](Celtor_Commander_Plate.md) and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
     -   After the events of the tutorial, he drowns and ends up in [Castle Light](Castle_Light.md), where he is then kicked out by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and sent to [New Kyrsa](Second_Layer.md#new-kyrsa-f2).
 -   Flabbermaster Filigree
-    -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before, however this could not be the case because[Cap'n Orlandeau](<Cap'n_Orlandeau.md>) said the player was absolutly terrible at combat.
+    -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
 -   Frank F'alzone
     -   A Celtor wearing the [Verdant Sniper](Verdant_Sniper.md) outfit. Presumably the cartographer/janitor of the ship.
 -   Pete
