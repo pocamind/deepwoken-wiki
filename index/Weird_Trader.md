@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100747
+revid: 100831
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -39,6 +39,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Champion's Dagger](<Champion's_Dagger.md>)
         -   [Dragoon](Dragoon.md)
         -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
+        -   [Flintlock](Flintlock.md)
         -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
         -   [Iron Cestus](Iron_Cestus.md)
         -   [Legion Cestus](Legion_Cestus.md)

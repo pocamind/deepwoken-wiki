@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 100770
+revid: 100845
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -12,7 +12,7 @@ notices:
 
 File:Depths New Lightning.png
 
-## FOverview
+## Overview
 
 The **First Layer** of the Depths, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
