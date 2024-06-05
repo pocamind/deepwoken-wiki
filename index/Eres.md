@@ -1,6 +1,6 @@
 ---
 title: Eres
-revid: 79258
+revid: 100931
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-An [Etrean](Etrean.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with Sekh, a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
+An [Etrean](Etrean.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with [Sekh](Sekh.md), a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
 
 ## Dialogue
 
@@ -97,7 +97,7 @@ Upon first speaking to Eres, you will see the following:
 </tr>
 <tr>
   <td colspan="3"><i>*The young man slowly looks up at you, tears welling in his eyes.*</i> You think so? I failed them in the fight, I failed them in the prison, I failed them in our escape. I- I... <i>*He stops, trying to compose himself, slowly wiping the tears from his eyes.*</i> No, you're right. I couldn't have helped them. Not on my own.</td>
-  <td colspan="2">You mean Meteor Isle? It's... unique. It's like Sekh-- I mean, like the Hive Scout over there keeps saying. An oasis of greenery and peace.</td>
+  <td colspan="2">You mean Meteor Isle? It's... unique. It's like <a href="Sekh.md">Sekh</a>-- I mean, like the Hive Scout over there keeps saying. An oasis of greenery and peace.</td>
   <td><i>*Eres' eyes, the shade of night-sky at midnight, meet yours head-on. His burning gaze pierces you, like a fang pierces pray.*</i> I will not waste my breath on you. Do yourself a favour - seek misery, and hope death finds you before the Lord Regent does.</td>
   <td colspan="2"><i>*He squints apprehensively, a mistrustful glint of fire still in his eyes.*</i> What <b>did</b> you mean then, stranger?..</td>
 </tr>

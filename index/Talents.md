@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100882
+revid: 100934
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1208,7 +1208,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
-    -   Does not proc with flames produced by the user with Flame Within or Agitating Spark
+    -   Does not proc with flames produced by the user with Flame Within, Agitating Spark, or **[SHORT-CIRCUIT](Resonance.md).**
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 100737
+revid: 100936
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -120,6 +120,7 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 -   Rarely, [Enchantment Stones](Enchant_Stone.md).
 -   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Stormseye](Stormseye.md).
 -   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
+-   Rarely, Warmaster Medallion
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as some positive [Diver](The_Divers.md) reputation.
 
