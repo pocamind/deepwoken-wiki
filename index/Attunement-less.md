@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 100420
+revid: 100913
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -313,7 +313,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
  | _Opponents facing you are briefly rendered immobile._ | 
 
--   **Requirements:** _**20 Willpower, 25 Charisma,** Support Mantra_
+-   **Requirements:** _**5 Willpower, 25 Charisma,**_ _Support Mantra_
     -   User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it.
     -   May still combat tag opponents who are not facing you.
     -   This move causes humanoid NPCs to block less.

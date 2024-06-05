@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 100714
+revid: 100925
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, NPCs, Quests]
@@ -33,6 +33,8 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 </tr>
 </tbody>
 </table>
+
+  
 
 <table><caption><a href="Etris.md">Etris</a>, Positive Reputation with <a href="Etrea.md">Etrea</a> (Starts <a href="https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest">Duke Questline</a>)</caption>
 <tbody>
@@ -101,6 +103,8 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 </tbody>
 </table>
 
+  
+
 <table><caption><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a>, First Interaction</caption>
 <tbody>
 <tr>
@@ -132,6 +136,8 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 </tbody>
 </table>
 
+  
+
 <table><caption><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a>, First Interaction, Read <a href="Books.md">Operation 'Puppet Master' Report</a> Unique Dialogue</caption>
 <tbody>
 <tr>
@@ -152,6 +158,8 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 </tr>
 </tbody>
 </table>
+
+  
 
 <table><caption><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a>, Consecutive Interactions</caption>
 <tbody>
