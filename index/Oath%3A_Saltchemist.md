@@ -1,11 +1,9 @@
 ---
 title: "Oath: Saltchemist"
-revid: 100025
+revid: 100908
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Oaths]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Oaths]
 ---
 
 # Oath: Saltchemist
@@ -14,6 +12,10 @@ notices:
 |---|---|
 | oath_req | 75 Intelligence, Complete Ciea's quest (1 time) |
 | effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
+
+“ Jessie We need to cook mindbreaker Potions... ”
+
+― Walter Wuuli, Tiran Saltchemist to his canor assistant
 
 ## Description
 

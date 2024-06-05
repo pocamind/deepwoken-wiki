@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 100898
+revid: 100902
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -257,7 +257,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
 | 
- | Iron Cock
+ | Iron Skin
 
 (★☆☆)
 

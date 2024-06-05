@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 100250
+revid: 100903
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -59,7 +59,7 @@ Raw materials harvested from the environment.
 
 ― Lotus Flavour Text Description
 
-Lotuses are unique ingredients that are used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Items](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within voidzones, but there is an area behind Summer Isle within a breakable wall where you can grow them for one canteen charge.
+Lotuses are unique ingredients that are used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Items](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within voidzones with each voidzone growing one or two specific lotuses. Alternatively, they can be found at [The Hidden Grove](The_Hidden_Grove.md) which spawns 5 random lotuses after using a canteen charge at the fountain.
 
 Lotuses can also be used to obtain the [Saltchemist Oath](Oath%253A_Saltchemist.md).
 
@@ -68,17 +68,14 @@ Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions,
 2 of each lotus crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 
 -   Hellfire Lotus (Red) - Strength Attribute
-    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Saramaed Summit](Saramaed_Summit.md), [The Hidden Grove](The_Hidden_Grove.md)
+    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Saramaed Summit](Saramaed_Summit.md)
 -   Empyrean Lotus (Blue) - Fortitude Attribute
-    -   Found in: [Deep Thresher Nest](Deep_Thresher_Nest.md), [The Hidden Grove](The_Hidden_Grove.md)
+    -   Found in: [Deep Thresher Nest](Deep_Thresher_Nest.md)
 -   Zephyr Lotus (Green) - Agility Attribute
-    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md), [The Hidden Grove](The_Hidden_Grove.md)
+    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md)
 -   Brilliant Lotus (Yellow) - Intelligence Attribute
-    -   Found in: [Saramaed Summit](Saramaed_Summit.md), [Deep Thresher Nest](Deep_Thresher_Nest.md), [The Hidden Grove](The_Hidden_Grove.md)
+    -   Found in: [Saramaed Summit](Saramaed_Summit.md), [Deep Thresher Nest](Deep_Thresher_Nest.md)
 -   Skyvalor Lotus (White) - Willpower Attribute
-    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Starfield Grove](Starfield_Grove.md), [The Hidden Grove](The_Hidden_Grove.md)
+    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Starfield Grove](Starfield_Grove.md)
 -   Miasmic Lotus (Pink) - Charisma Attribute
-    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md), [The Hidden Grove](The_Hidden_Grove.md)
-
-  
-(All Lotuses available in [The Hidden Grove](The_Hidden_Grove.md) )
+    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md)

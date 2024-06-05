@@ -1,6 +1,6 @@
 ---
 title: Vigil Captain
-revid: 100863
+revid: 100907
 source: https://deepwoken.fandom.com/wiki/Vigil_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

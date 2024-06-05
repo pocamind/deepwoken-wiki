@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 98433
+revid: 100912
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -53,6 +53,7 @@ A race of nomadic dragons from the North.
 **Lore:**
 
   
+According to their description, they are "auspicious mediators of conflict", meaning that they tend to successfully end conflicts between parties. They are also noted as hailing from the Northern Luminant, and apparently worship the Edenkite that reside there. Apart from that, there is little information about this race.
 
 **Strengths:**
 

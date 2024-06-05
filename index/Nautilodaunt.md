@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 100881
+revid: 100904
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Odd Tentacle description
 
-Also referred to as Squibbo.
+Mostly refered as "Squibbo".
 
 **Nautilodaunt:**
 
