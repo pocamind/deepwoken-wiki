@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100861
+revid: 100882
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -531,7 +531,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I stand far above others, an insurmountable challenge."**_
 
--   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
+-   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Harsh Response, Use a Greatsword
 
 -   _Unstoppable Force_ \[Rare Talent\] - \[Greathammer\] You take 25% less posture damage when parried. (+1 Posture, +2 Carry Load)

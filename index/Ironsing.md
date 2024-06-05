@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 100437
+revid: 100898
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -257,15 +257,15 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
 | 
- | Iron Skin
+ | Iron Cock
 
 (★☆☆)
 
- | Coat your skin with metal to reduce harm. | 20 Ether | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
+ | Coat your balls with metal to reduce harm. | 20 Ether | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
 
 -   During usage, the user is unable to move nor act.
 -   With the [Intuitive Repairs](Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
--   Can be upgraded with **Aeon/Eternal Logstones** for increased duration.
+-   Can be upgraded with **Aeon/Eternal kidney stones** for increased duration.
 
 Does not negate deferred, fire or fall damage.
 

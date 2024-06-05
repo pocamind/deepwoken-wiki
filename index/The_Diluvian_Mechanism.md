@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 100808
+revid: 100885
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -202,3 +202,4 @@ Based on the power of the user(s), the starting wave will differ;
 
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
 -   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
+-   The Diluvian Mechanism is one of the best ways to farm [Knowledge](Knowledge.md) by gaining [Moonseye Tomes](Moonseye_Tome.md) and just completing wave 50 in general.
