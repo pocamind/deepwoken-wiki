@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 100705
+revid: 100961
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-_Also known as "Broodskippers", "Broodlords", "Purpleskippers", and sometimes "Mahoragaskippers"._ Template:Creature Infobox V3
+_Also known as "Broodskippers", "Broodlords", "Purpleskippers", "Freshie-Grippahs," and sometimes "Mahoragaskippers"._ Template:Creature Infobox V3
 
 ## Description
 
@@ -20,9 +20,9 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 
 | Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cleave | Delivers a quick rigorous punch. | 
+| Cleave | A Slashing attack that adjusts itself depending on the target's toughness and cursed energy level to cut them down in one fell swoop. MudskipperRaga must make physical contact with the target in order to activate Cleave. | 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| Dismantle | Delivers a quick sucker punch. | 
+| Dismantle | MudskipperRaga default ranged slashing attack that is normally used for inanimate objects. | 
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | Broodrot Thrust | Delivers a stronger, unparriable thrust with its rotten fist. | 
@@ -51,6 +51,7 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 -   Don't rely on other NPCS to save you from the Broodlord, as nine times out of ten, the Broodlord always wins.
 -   This mob can sometimes noclip with the Lumbering Smash, along with the [Mudskipper Brute.](Mudskipper_Brute.md)
 -   DO NOT miss a parry; their punches are capable of killing Gods.
+-   Attempt to kill it as fast as possible, as MudskipperRaga will adapt.
 
 ## Trivia
 

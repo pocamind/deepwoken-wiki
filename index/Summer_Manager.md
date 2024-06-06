@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 97568
+revid: 100946
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -48,3 +48,4 @@ A Summer Manager executes the player after knocking them:
 
 -   Despite supposedly holding a higher rank than [Summer Company Guards](Summer_Company_Guard.md), their uniform is identical.
 -   Their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.
+-   Despite them being in an event, spitting on them/assassinating them gives you negative summer company reputation.

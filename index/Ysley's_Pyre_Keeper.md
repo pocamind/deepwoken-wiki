@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 100847
+revid: 100962
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -35,7 +35,7 @@ Ysley's Pyre Keeper or Ysley's Pyre Cleaver "Callow & Verdant" (full name) is a 
 
 The Pyre Keeper comes with the following passives:
 
--   **Lifelord's Blaze:** M1 attacks spawn green-yellowish flames on hit that cut the target's mobility in half.
+-   **Lifelord's Blaze:** M1 attacks spawn green-yellowish flames on hit that cut the target's mobility in half. This has a 4 second cooldown before it can proc green flames again.
 -   **Dual Scaling M1s:** M1 or critical attacks that swing with the dagger scale off light weapon rather then heavy.
 
   

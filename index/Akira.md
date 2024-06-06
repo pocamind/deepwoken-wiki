@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 97711
+revid: 100941
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -211,6 +211,7 @@ There is no level requirement to join [the Divers](The_Divers.md).
 -   For some reason, the Ignition Union research platoon members are still interactable during Akira's event, functioning as normal Ignition Union Guards. They can also be moved around by sliding underneath them, although this will not change the outcome of the event.
     -   Like [Kennith](Kennith.md) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being dead.
     -   Even more strangely, they all seem to be linked in some way or another, as they will only ever spawn with all four of them having [Enchanted](Enchantments.md) weapons or none at all.
+    -   They can also be spat on, which will make them equip their weapon, then unequip it.
 
 ## References
 

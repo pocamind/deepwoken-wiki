@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 98711
+revid: 100947
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -11,7 +11,7 @@ categories: [Relics]
 | Moonseye Tome | |
 |---|---|
 | type | Treasure |
-| rarity | Mythical |
+| rarity | Relic |
 | selling price | 100 |
 | bankable | Yes |
 | droppable | Yes |

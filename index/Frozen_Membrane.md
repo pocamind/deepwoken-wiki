@@ -1,6 +1,6 @@
 ---
 title: Frozen Membrane
-revid: 96350
+revid: 100944
 source: https://deepwoken.fandom.com/wiki/Frozen_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Drops]
@@ -25,4 +25,4 @@ This ingredient is only obtainable in [New Kyrsa, The Sleeping City](Second_Laye
 ## Trivia
 
 -   This is effectively a severed head
--   The **Kyrsdog** is a reference to the [hot dog](https://en.wikipedia.org/wiki/Hot_dog) from [real life](https://en.wikipedia.org/wiki/Earth)
+-   The **Kyrsdog** is a reference to the [hot dog](https://en.wikipedia.org/wiki/Hot_dog) from the real life planet earth.

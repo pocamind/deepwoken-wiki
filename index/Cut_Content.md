@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 88676
+revid: 100958
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -34,7 +34,7 @@ notices:
     -   This original version of Venting is still used by [Nautilodaunt](Nautilodaunt.md).
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
--   **Hidden Name -** In the testing all player name is hidden until they said their name to you they will be simply called stranger. Now is removed for preventing exploits and such.
+-   **Hidden Name -** During testing all player names were hidden until you were told their name, otherwise they will be simply called stranger. This was removed to help prevent exploits and such.
 -   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
     -   Replaced with Advanced Cards in the December 23rd, 2022 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.

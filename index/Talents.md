@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100934
+revid: 100957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -264,8 +264,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   Having 75 STR will cause this to only last for ~2 seconds, as it scales based on your Strength up until its requirement.
-    -   Prerequisite: 100 Strength
+    -   Prerequisite: 75 Strength
 
 ### Apex Predator
 
@@ -2101,7 +2100,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Unlock requirement: Wipe with the Iron Gut talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, and any ores except Umbrite and Astruline.
+    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, and any ores except Umbrite.
 
 ### Survivor
 

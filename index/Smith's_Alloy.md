@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 93588
+revid: 100951
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -11,8 +11,8 @@ categories: [Relics]
 | Smith's Alloy | |
 |---|---|
 | type | Treasure |
-| rarity | Legendary |
-| selling price | 50 |
+| rarity | Relic |
+| selling price | 100 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

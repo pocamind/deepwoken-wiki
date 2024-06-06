@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 99858
+revid: 100949
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -11,7 +11,7 @@ categories: [Relics]
 | Void Spire | |
 |---|---|
 | type | Utility |
-| rarity | Mythical |
+| rarity | Relic |
 | selling price | 100 |
 | bankable | Yes |
 | droppable | Yes |
