@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 100923
+revid: 101006
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -203,21 +203,19 @@ The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning 
 
 Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
 
-> _Drop chances are based on conjecture and may be incorrect._
-
--   [**Krulian Knife**](Krulian_Knife.md) - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests. (55% drop chance)
--   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests. (2% drop chance)
--   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (34% drop chance)
--   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)
--   [**Lightkeeper's Medallion**](<Lightkeeper's_Medallion.md>) - An exceptionally rare torso [Equipment](Equipment.md) that is obtained through the Ferryman's chests. (1% drop chance)
--   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (5% drop chance, 1% during summer)
--   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)
--   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (<1% drop chance)
--   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (13% drop chance)
--   [**Ardour Manifestation**](Ardour_Manifestation.md) - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
--   [**Sinners Ash**](<Sinner's_Ash.md>) - Allows user to corrupt their resonance (<1% drop chance)
--   [**Pluripotent Alloy**](Pluripotent_Alloy.md) - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
--   [**Armorers Needle**](<Armorer's_Needle.md>) - Grants pips and can make your items into a godroll (5% drop chance) (Needs more testing)
+-   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests.
+-   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests.
+-   **[Deep Gems](Deep_Gems.md)** - Rare gems that can be applied to mantras to improve them at no additional cost.
+-   **[Legendary Rings](Equipment.md#rings)** - An assortment of Rings that grant various powerful buffs.
+-   **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - An exceptionally rare torso [Equipment](Equipment.md) that is obtained through the Ferryman's chests.
+-   **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md).
+-   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
+-   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon usage.
+-   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint.
+-   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
+-   **[Sinner's Ash](<Sinner's_Ash.md>)** - Allows user to corrupt their Resonance.
+-   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
+-   **[Armorer's Needle](<Armorer's_Needle.md>)** -
 
 ## Dialogue
 

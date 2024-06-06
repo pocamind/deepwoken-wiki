@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 100831
+revid: 101007
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -75,15 +75,15 @@ The event despawns after 30 minutes have elapsed.
 -   Any [Primordial Lotus](Ingredients.md#lotuses)
 
 -   Ingredients, Including:
-    -   [Alestrian Corals](Ingredients.md)
+    -   [Alestrian Coral](Alestrian_Coral.md)
     -   [Beeswax](Beeswax.md)
-    -   [Browncaps](Browncap.md)
-    -   [Calabashes](Calabash.md)
-    -   [Dentifilos](Dentifilo.md)
-    -   [Eggs](Egg.md)
-    -   [Ongos](Ingredients.md)
-    -   [Redds](Redd.md)
-    -   [Sap](Ingredients.md)
+    -   [Browncap](Browncap.md)
+    -   [Calabash](Calabash.md)
+    -   [Dentifilo](Dentifilo.md)
+    -   [Egg](Egg.md)
+    -   [Ongo](Ongo.md)
+    -   [Redd](Redd.md)
+    -   [Sap](Sap.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat**)
 
 -   Ores, including:
@@ -100,14 +100,14 @@ The event despawns after 30 minutes have elapsed.
 
 -   [Astral Enchantment Stone](Enchant_Stone.md)
 -   [Crypt Blade](Crypt_Blade.md)
--   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Dye Packet](Dye_Packet.md)
 -   [Flareblood Kamas](Flareblood_Kamas.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md)
 -   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
+-   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 -   [Kyrsieger](Kyrsieger.md)
--   [Smith's Alloy](<Smith's_Alloy.md>)
--   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
--   [Dye Packet](Dye_Packet.md)
 -   [Moonseye Tome](Moonseye_Tome.md)
 -   [Sinner's Ash](<Sinner's_Ash.md>)
+-   [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)

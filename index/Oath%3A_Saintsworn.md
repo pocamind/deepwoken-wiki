@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 100935
+revid: 101008
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Pages with broken file links]
@@ -29,8 +29,6 @@ notices:
 
 -   This Oath is created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
 -   This Oath is confirmed to come out with [Conquest](Conquest.md).
--   Rumored to be jack's oath by archmage
--   Likely inspired by the [Terraprisma](https://terraria.fandom.com/wiki/Terraprisma) from Terraria_,_ or by a _Touhou_ character named [Flandre Scarlet](https://en.touhouwiki.net/wiki/Flandre_Scarlet).
 
 ## References
 
