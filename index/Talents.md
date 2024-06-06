@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 100957
+revid: 100967
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -263,7 +263,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I seek the qualities of Annihilator."**_
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Gives you the ability to turn into the popular streamer, Caseoh and kill everybody in your server, even unfreezing the hive mechs with your body heat.(actually doesnt let guardbroken players vent for 3 secs) (Mods please find this guys family)
     -   Prerequisite: 75 Strength
 
 ### Apex Predator

@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 100953
+revid: 100964
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Chaser, First Layer, Depths Widow, All waves of The Diluvian Mechanism, Maestro Evengarde Rest, Primadon, Weird Trader, Sea Events |
+| obtainment | Duke Erisia, Chaser, First Layer, The Diluvian Mechanism, Maestro Evengarde Rest, Primadon, Weird Trader, Depths Sea Island |
 | description | "Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes." |
 
 ## Description

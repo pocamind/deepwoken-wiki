@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 100638
+revid: 100963
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -65,8 +65,6 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
 **(~1%)**
 
-Bounty chest
-
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -118,11 +116,10 @@ File:Sinner's Ash.png
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (~0.33%)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (~0.33%)
 -   [First Layer](First_Layer.md)
--   [Depths Widow](Deep_Widow.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Fishing](Fishing.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Island Event](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
+-   [Depths Sea Island](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
 
  |
 | 

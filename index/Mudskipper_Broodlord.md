@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 100961
+revid: 100969
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -52,6 +52,7 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 -   This mob can sometimes noclip with the Lumbering Smash, along with the [Mudskipper Brute.](Mudskipper_Brute.md)
 -   DO NOT miss a parry; their punches are capable of killing Gods.
 -   Attempt to kill it as fast as possible, as MudskipperRaga will adapt.
+-   It's health and damage has been nerfed as of some update, the current stats are inaccurate (Someone edit it please)
 
 ## Trivia
 
