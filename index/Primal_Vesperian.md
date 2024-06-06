@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 81461
+revid: 100989
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -95,6 +95,6 @@ A layer of protective armor that regenerates at rest.
 
 ## Trivia
 
--   Both Stag & Haske are the remaining members of an Ancient clan of Vesperians who deviated and took their own form roughly around the initial split of the hivekin races. The reason why Haske and Stag remain, as opposed to their kin who had died out millenniums ago, is that they both have 'immortal' properties, with Haske actually being an Immortal and Stag being bewitched to elude death by an Unknown entity.
+-   Both Stag & Haske are the remaining members of an Ancient clan of [Vesperians](Vesperian.md) who deviated and took their own form roughly around the initial split of the hivekin races. The reason why Haske and Stag remain, as opposed to their kin who had died out millenniums ago, is that they both have 'immortal' properties, with Haske actually being an Immortal and Stag being bewitched to elude death by an Unknown entity.
 -   Haske wears an [Equipment](Equipment.md) piece exclusive to him, called the [Eternal Restraints](Eternal_Restraints.md).
 -   Stag wears an [Equipment](Equipment.md) piece exclusive to him, called the [Stag Wraps](Stag_Wraps.md).

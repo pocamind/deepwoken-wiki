@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 100816
+revid: 100991
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -150,5 +150,5 @@ Proof of Time Magic's existence and it being an "Oath"
 -   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
 -   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons.\[citation needed\]
     -   Of course, it was later molded into one of the first Oaths.
--   In the Battle Royale gamemode, Oaths can be obtained by collecting Oath Shards from chests.
+-   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the oath, and one for each subsequent talent.

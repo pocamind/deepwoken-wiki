@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 100729
+revid: 100993
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Currently known to drop from Voidwalker chests, [Duke Erisia](Duke_Ishamon_Erisi
 
 Use text: "_With a deft hand, you transmute the property of \[lost property\] into \[gained property\]."_
 
-When changing a pip, they will turn into any of the relevant, available pip for that piece following this table. It is important to remember that equipment with more than 3 pips (Head/Arms/Legs) or 2 pips (Torse/Face/Ears/Rings) **CANNOT** have all their pips be the same.
+When changing a pip, they will turn into any of the relevant, available pip for that piece following this table. It is important to remember that equipment with more than 3 pips (Head/Arms/Legs) or 2 pips (Torso/Face/Ears/Rings) **CANNOT** have all their pips be the same.
 
 <table><caption>Pips Info</caption>
 <tbody>

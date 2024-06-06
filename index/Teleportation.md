@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 97701
+revid: 100987
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -85,3 +85,5 @@ If Teleportation is Drowned, in addition to the extra Resonance points to spend,
 -   This resonance is occasionally referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named Minato in the anime-manga series "Naruto."
     -   Although the mark-placement mechanic is similar to the powers of Minato, the actual visuals represent the "Accompany On" ability in HxH, or, as a stretch, Kizaru's flight ability in One Piece.
 -   The [sound effect](https://www.youtube.com/watch?v=LZ90GUmyBxI) that plays when you travel is the [Unlimited Void](https://jujutsu-kaisen.fandom.com/wiki/Unlimited_Void) sound effect from [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)
+-   If you are trapped in somebody else's Gravity Field bell, and that person is standing in your teleportation radius, they will be sent to the destination but you will stay where you are.
+-   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
