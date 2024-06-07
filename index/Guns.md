@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 99940
+revid: 101051
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -66,7 +66,7 @@ _**Stats:**_
 
 -   When alloyed, deals **2** extra damage, **0.02x** slower swing speed, gains 10% chip, 5% pen, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
 
-**[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes. (65 LHT req)
+**[Repeater](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes. (65 LHT req)
 
 **[Dragoon](Dragoon.md):** **16** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes. (65 LHT req)
 

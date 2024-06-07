@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 100386
+revid: 101052
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -260,6 +260,10 @@ A merchant ship that spawns with a black flag and a ramp entrance on the bottom 
 #### Weird Trader
 
 A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random legendary weapon, Sinners Ash, or an [Astral](Enchantments.md#blessings) [Enchant Stone](Enchant_Stone.md) (possibly other enchant stones, unconfirmed). He seems to be talking in broken english, without the use of proper grammar.
+
+#### Supply the diver expedition
+
+One diver quartermaster and two [Diver Journeymen](Journeyman_Diver_Guard.md) spawn on an outpost at The Aratel Sea, prompting the quartermaster will start a quest where you have to bring in supplies from [Fort Merit](Fort_Merit.md) back to the outpost in exchange for the [Armorer's Needle](<Armorer's_Needle.md>) relic. The divers will return to the depths once this event is completed.
 
 #### Old Stranger
 

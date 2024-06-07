@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 94733
+revid: 101048
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -16,7 +16,7 @@ Authority Commanders are high-ranking members of The Central Authority. The rank
 
 ## Moveset
 
-Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Officer Saber](Officer_Saber.md) along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
+Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Officer Saber](Officer_Saber.md) along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
 
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

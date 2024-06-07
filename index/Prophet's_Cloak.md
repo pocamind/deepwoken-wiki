@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 94216
+revid: 101050
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 This Outfit has 2600 durability and grants +25% Physical resistance, +25% Elemental resistance, +20% Ice resistance, +20% Fire resistance and +50% Ether Regen.
 
-This Outfit also grants the [Talent Card](Talents.md) _**Crippling Darkness**_, which makes all **non-basic attacks** have +20% Armor Penetration (PEN).
+This Outfit also grants the [Talent Card](Talents.md) _**Crippling Darkness**_, which makes all **non-basic attacks(Mantras)** have +20% Armor Penetration (PEN).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 100848
+revid: 101053
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -329,6 +329,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 ## Bugs
 
 -   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
+-   can instantly cast Aero spear if his head is caught under something. (like the weird piping system he has)
 
 ## Strategy
 

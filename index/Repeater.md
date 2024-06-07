@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 96129
+revid: 101049
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -27,9 +27,9 @@ categories: [Weapons, Flintlocks]
 
 ## Description
 
-The [Revolver](Repeater.md) is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
+The [Repeater](Repeater.md) is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
 
-The [Revolver](Repeater.md) has a [Bullet](Bullet_Casings.md) capacity of 6, Meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
+The [Repeater](Repeater.md) has a [Bullet](Bullet_Casings.md) capacity of 6, Meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
 ## Trivia
 
@@ -38,4 +38,5 @@ The [Revolver](Repeater.md) has a [Bullet](Bullet_Casings.md) capacity of 6, Mea
 -   Meeting the requirements of LHT, the weapon deals 24.2 damage.
 -   At max LHT, the weapon will deal 29.8 damage.
 -   Like all other pistols, Using this with 1 hand grants 2 sets of "M1" attacks and 1 Critical attack only available when reloaded with Z/Y by default
--   Due to revolver having a faster swingspeed, you get faster no bullets m1s than the other guns and bullet m1s.
+-   Due to the repeater having a faster swingspeed, you get faster no bullets m1s than the other guns and bullet m1s.
+-   This weapon was once called the revolver, but was changed because it didn't look anything like a revolver.
