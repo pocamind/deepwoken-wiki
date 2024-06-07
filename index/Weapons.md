@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 101045
+revid: 101059
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -132,7 +132,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>N/A</td>
   <td>LHT: 3</td>
   <td>2</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>14.4</td>
@@ -144,7 +144,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>N/A</td>
   <td>LHT: 8</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.96x</td>
   <td>0.05s</td>
   <td>23.8</td>
@@ -156,7 +156,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>N/A</td>
   <td>LHT: 6</td>
   <td>2</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>19.5</td>
@@ -168,7 +168,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>5%</td>
   <td>LHT: 10</td>
   <td>5</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>22.5</td>
@@ -180,7 +180,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>N/A</td>
   <td>LHT: 5</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>22.8</td>
@@ -204,7 +204,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>5%</td>
   <td>LHT: 7</td>
   <td>4</td>
-  <td>7</td>
+  <td>6.5</td>
   <td>0.96x</td>
   <td>0.05s</td>
   <td>25.9</td>
@@ -216,7 +216,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>N/A</td>
   <td>LHT: 8</td>
   <td>3</td>
-  <td>7</td>
+  <td>6.5</td>
   <td>0.85x</td>
   <td>N/A</td>
   <td>28.4</td>
@@ -228,7 +228,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>30%</td>
   <td>LHT: 13</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>25.9</td>
@@ -240,7 +240,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>30%</td>
   <td>INT: 2 LHT: 8</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>34.6(<b>Bleed</b>)</td>
@@ -252,7 +252,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>20%</td>
   <td>LHT: 10.5</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>26.2</td>
@@ -264,7 +264,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>30%</td>
   <td>LHT: 8.5</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>24.5</td>
@@ -276,7 +276,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><font>15%</font></td>
   <td>LHT: <font>8</font></td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>27.5</td>
@@ -288,7 +288,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><font>5%</font></td>
   <td>LHT: <font>8</font></td>
   <td>3</td>
-  <td>7</td>
+  <td>6.5</td>
   <td><font>0.86x</font></td>
   <td>N/A</td>
   <td>29.3</td>
@@ -300,7 +300,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>25%</td>
   <td>LHT: 7.5</td>
   <td>4</td>
-  <td>6.5</td>
+  <td>6</td>
   <td>0.98x</td>
   <td>0.04s</td>
   <td>26.7</td>
@@ -510,7 +510,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
-  <td>1x</td>
+  <td>0.85x</td>
   <td>35.9</td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10.5</td>
-  <td><font>0.78x</font></td>
+  <td><font>0.8x</font></td>
   <td>36</td>
 </tr>
 <tr>
