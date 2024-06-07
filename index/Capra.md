@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 100299
+revid: 101009
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -30,6 +30,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
     <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
   <ul>
     <li>Heals 15% of the affected players total HP over a 30s period. Must be activated at a campfire.</li>
+    <li>Cd: 3 min 30 sec</li>
   </ul></li>
   </ul></td>
 </tr>

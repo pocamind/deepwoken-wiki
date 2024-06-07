@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101007
+revid: 101028
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -111,3 +111,4 @@ The event despawns after 30 minutes have elapsed.
 -   [Sinner's Ash](<Sinner's_Ash.md>)
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
+-   [Pathfinder Elites](Pathfinder_Elite.md)

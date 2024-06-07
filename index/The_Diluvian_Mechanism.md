@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 100885
+revid: 101010
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -134,7 +134,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Broodlord Brute. |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Attuned(?) Nautilodaunt. |  |
 | 29 (Seafood Featheries) | 1 Crimson Megalodaunt, 1 Glacial Lionfish, 1 Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
-| 30 (Parasyte) | 6 Corrupt Attuned Carbuncles |  |
+| 30 (Parasyte) | 12(?) Corrupt Attuned Carbuncles |  |
 | 31 (Infinite Stun) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. |  |
 | 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Blazing Mechalodaunt, 1 Flamewreathed Corrupt Rogue Construct, 1 Flamewreathed Mechalodaunt |  |

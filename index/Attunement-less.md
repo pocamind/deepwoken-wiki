@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 100913
+revid: 101020
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -28,6 +28,7 @@ In spite of its shortcomings, the potential of Attunement-less is nothing to sco
 
 -   These mantras are based on your attributes, not your attunements.
 -   Their damage/efficiency scales with the attribute's level.
+-   Although the mantras have nothing to do with attunements, having an attunement can sometimes make certain attunement**less** mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
 -   _(Side Note: Do not confuse upgrading mantras with trainers as using modifiers.)_
 
 ### _**Strength Mantras**_
@@ -313,7 +314,8 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
  | _Opponents facing you are briefly rendered immobile._ | 
 
--   **Requirements:** _**5 Willpower, 25 Charisma,**_ _Support Mantra_
+-   **Requirements (if attunementless):** **5** _**Willpower, 25 Charisma,**_ _Support Mantra_
+-   **Requirements (if with an attunement):** **20 _Willpower, 25 Charisma,_** _Support Mantra_
     -   User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it.
     -   May still combat tag opponents who are not facing you.
     -   This move causes humanoid NPCs to block less.

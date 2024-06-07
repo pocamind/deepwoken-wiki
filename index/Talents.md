@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101002
+revid: 101016
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -264,7 +264,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   Prerequisite: 75 Strength
+    -   Prerequisite: 100 Strength
 
 ### Apex Predator
 

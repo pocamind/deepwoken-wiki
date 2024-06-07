@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 100975
+revid: 101023
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -68,7 +68,6 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
--   On it's release, the pyre keeper received a large backlash due to how good it was, how difficult it was to obtain, and for its appearance which the community refers to as "A blade ball weapon".
 
 ## References
 
