@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 99856
+revid: 101040
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -89,9 +89,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         
 
 -   **Cheap Trick - Passive**
-    -   When hit while below 50% health, turn invisible and summon an Illusory Servant.
+    -   When hit while below 50% health, turn invisible and summon an Illusory Servant. Grants I-frames.
         -   60 second cooldown.
-    -   Become invisible for 2.5 seconds whenever you knock an enemy. Grants I-frames.
+    -   Become invisible for 2.5 seconds whenever you knock an enemy. Does not grant I-frames.
         
         File:Cheap trick.gif
         

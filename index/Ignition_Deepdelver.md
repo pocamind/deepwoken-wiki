@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 98629
+revid: 101037
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -33,6 +33,7 @@ The [Force Your Way](https://deepwoken.fandom.com/wiki/Talents#Ignition_Deepdelv
 This Outfit's Schematic can be found in:
 
 -   [Layer 2](Second_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (waves 30+)
 
 ## Trivia/Notes
 

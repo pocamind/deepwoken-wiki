@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 100248
+revid: 101041
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -39,7 +39,7 @@ There is no reputation reset NPC for The Hundred Legions, nor do they have a bou
 
 Doing the [Lars quest](Quests.md) does not net you any reputation with The Hundred Legions.
 
-The only way to gain reputation with The Hundred Legions(other than being a Khan or having a specific talent) is through helping them fight in specific [random encounters](Random_Encounters.md):
+The only other way to gain reputation with The Hundred Legions is through helping them fight in specific [random encounters](Random_Encounters.md):
 
 -   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   [Legion Captain](Legion_Captain.md) + Legion Soldier  vs Authority OfficersAuthorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))

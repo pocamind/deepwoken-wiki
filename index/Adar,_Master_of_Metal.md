@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 101032
+revid: 101034
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers, NPCs]
@@ -43,7 +43,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
   <td></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Metal Eruption</td>
@@ -51,20 +51,6 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
   <td><font>◯</font></td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Metal Kick</td>
-  <td></td>
-  <td><font>◯</font></td>
-  <td><font>✗</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Metal Rain</td>
-  <td></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Caltrops</td>
@@ -130,14 +116,14 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
   <td>(★★☆)</td>
 </tr>
 <tr>
-  <td>Iron Skin</td>
+  <td>Needle Barrage</td>
   <td></td>
-  <td>?</td>
-  <td>?</td>
-  <td>(☆☆☆)</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
-  <td>Strong left</td>
+  <td>Onslaught</td>
   <td></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
