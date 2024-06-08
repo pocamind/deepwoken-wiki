@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 101049
+revid: 101082
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -38,5 +38,6 @@ The [Repeater](Repeater.md) has a [Bullet](Bullet_Casings.md) capacity of 6, Mea
 -   Meeting the requirements of LHT, the weapon deals 24.2 damage.
 -   At max LHT, the weapon will deal 29.8 damage.
 -   Like all other pistols, Using this with 1 hand grants 2 sets of "M1" attacks and 1 Critical attack only available when reloaded with Z/Y by default
--   Due to the repeater having a faster swingspeed, you get faster no bullets m1s than the other guns and bullet m1s.
--   This weapon was once called the revolver, but was changed because it didn't look anything like a revolver.
+-   This weapon was once called the revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1) [https://discord.com/channels/920707638034067486/920709120548544564/1248477216560517223](https://discord.com/channels/920707638034067486/920709120548544564/1248477216560517223)

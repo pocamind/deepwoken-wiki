@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 101053
+revid: 101079
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -252,7 +252,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Duke eyes you up and down for a moment before bursting into a roaring laughter. *</i></td>
+  <td colspan="4"><i>*The Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i></td>
 </tr>
 <tr>
   <td colspan="4">What?</td>

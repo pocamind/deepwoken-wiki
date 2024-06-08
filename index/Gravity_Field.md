@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 100613
+revid: 101072
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -42,7 +42,7 @@ If someone touches the border of the field, they will be ragdolled and flung bac
 
 Combat tags the user when someone enters the field.
 
-If Gravity Field is corrupted, the user gain immunity to the effects of its own Gravity Field but the duration is halved. Another downside of this is that it doesn't pull people in anymore with no gravity variant.
+If Gravity Field is corrupted, the user gains immunity to the effects of their own Gravity Field but the duration is halved. Another downside of this is that it doesn't pull people in anymore with no gravity variant.
 
 ### _Resonance Point Usage_
 
@@ -50,6 +50,7 @@ When obtained, Gravity Field will spend its points on the following stats:
 
 -   **Gravity:** Determines whether the gravity will be reduced or increased (the jump will be lower or higher).
 -   **Size:** The more points spent on this stat, the larger the field size will be when it is created.
+-   **Pull in gravity:** Determines whether the gravity will be reduced or increased when players are initially pulled in by the resonance when attempting to leave/enter the field, and when the resonance is first activated.
 
 ## Trivia
 
