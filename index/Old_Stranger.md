@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 101103
+revid: 101106
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -19,7 +19,7 @@ categories: [NPCs, Events]
 
 ## Description
 
-The Old Stranger is an NPC that rarely spawns as a Random Encounter at any sea. He's an elder khan with gray hair wearing a [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
+The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at any sea. He's an elder khan with gray hair wearing a [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
 
 ## Ardour Obtainment
 

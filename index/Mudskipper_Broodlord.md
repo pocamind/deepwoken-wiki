@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 100969
+revid: 101111
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,7 +40,8 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 
 ### **Passives**
 
--   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is reduced to 50%. (Natural health regen is not affected, artificial health regen is.)
+-   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%. (Natural health regen is not affected, artificial health regen is.)
+-   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), artificial health regens are reduced to 100%, this includes the Corrupted Payback. (Be careful in Wave 50 boys)
 
 ## Tips
 
