@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 100344
+revid: 101099
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -420,6 +420,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Arch\_Mage has alluded to the Drowned God "Murchendice" who is responsible for turning notable characters into merchandise
     -   The ritual of the 'Crowdfunded Murchendice Campaign.'
     -   A notable victim is [Destroyman III](Destroyman_III.md).
+    -   The next suspected victim is to be [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ### **The Nestmind**
 

@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 100754
+revid: 101104
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -27,9 +27,9 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 ## Reputation
 
-Every [origin](Origins.md) excluding Voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
+Every [Origin](Origins.md) excluding Voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
 
-There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [bounty board](Bounty_Hunting.md), located in the [Voidheart.](Voidheart.md) This bounty board includes bounties from all other factions with bounty boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted, though Voidwalkers can still be hunted due to their negative reputation with [The Hive](The_Hive.md) and [The Kingdom of Etrea](Etrea.md), both of which are bounty board factions.
+There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [bounty board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This bounty board includes bounties from all other factions with bounty boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted, though Voidwalkers can still be hunted due to their negative reputation with [The Hive](The_Hive.md) and [The Kingdom of Etrea](Etrea.md), both of which are bounty board factions.
 
 If you are a Voidwalker, you may gain reputation by completing Knives of Eylis bounties on the Voidheart bounty board.
 

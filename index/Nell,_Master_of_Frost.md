@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 97559
+revid: 101098
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -187,12 +187,13 @@ End of Dialogue
 -   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
     -   If they are indeed Divers, this would make she and Funke the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
     -   Her having Dread Breath might confirm her status as a Black Diver, as [Dr Carrion](Carrion,_Father_of_Evolution.md) is the only NPC present that can give [monster mantras](Monster_Mantras.md).
--   Her eyes are unique, having a dark blue sclera.
--   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[2\]](#cite-note-2)
+-   Her eyes are unique, having a dark blue sclera.[\[2\]](#cite-note-2)
+-   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[3\]](#cite-note-3)
 -   Nell used to have Rapid Punches before the NPC mantra changes.
 -   Unlike most Spelltrainer, she can be aggroed during the [Etris Raid](Cinders_of_Etris.md) event, occasionally fighting off Authority troops if they somehow get to her.
 
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
+2.  [↑](#cite-ref-2) Close-up of Nell's face and eyes.
+3.  [↑](#cite-ref-3)
