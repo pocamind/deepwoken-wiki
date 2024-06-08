@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 100993
+revid: 101087
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef.
 
-Currently known to drop from Voidwalker chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Fishing](Fishing.md), [Hell mode](Hell_Mode.md), [Primadon](Primadon,_Titan_of_the_East.md), and likely other sources as well.
+Currently known to drop from Voidwalker chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Fishing](Fishing.md), [Hell Mode](Hell_Mode.md), [Primadon](Primadon,_Titan_of_the_East.md), [suppyling the Divers' Expedition](Random_Encounters.md#supply-the-diver-expedition) and likely other sources as well.
 
 Use text: "_With a deft hand, you transmute the property of \[lost property\] into \[gained property\]."_
 
