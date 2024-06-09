@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 96213
+revid: 101119
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -62,8 +62,6 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords ar
     -   Meeting the alloyed requirement, the damage is (28.4)
 -   At max MED, the non-alloyed damage is (29)
     -   At max MED, the alloyed damage is (31.3)
--   Is based off the real-life weapon named [Estoc](https://en.wikipedia.org/wiki/Estoc).
-    -   The way you fight with this in game is inaccurate, as it's for puncturing, not slashing.[\[1\]](#cite-note-1)
 
 ## Notes
 
@@ -71,5 +69,3 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords ar
 -   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg and speed in exchange for less pen and the basic sword crit. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Its model was changed to match the length of its stats.
 -   The blade is unused by [Etrean Guardsmen](Etrean_Guardsmen.md), instead only being used by [Vigil Swordsmen](Vigil_Swordsman.md) and Vigil Captains, making the description of the blade untrue.
-
-1.  [↑](#cite-ref-1) "[That said, it is a weapon built specifically for one purpose: Get close and punch through the guy in front of you.](https://www.quora.com/What-was-the-function-of-the-estoc-on-the-battlefield/answer/Shiloh-Williams-9)"

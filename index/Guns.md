@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 101051
+revid: 101124
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -60,17 +60,17 @@ _**Stats:**_
 
 **[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **0.8x** attack speed, 75 echoes. (0 LHT req)
 
-**[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes. (20 LHT req)
+**[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, sold for **100** notes in summer isle. (20 LHT req)
 
 **[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **0.8x** attack speed. Dropped by enemies. (40 LHT req)
 
--   When alloyed, deals **2** extra damage, **0.02x** slower swing speed, gains 10% chip, 5% pen, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
+-   When alloyed, deals **2** extra damage, gains 10% chip, 5% pen, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
 
-**[Repeater](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes. (65 LHT req)
+**[Repeater](Repeater.md):** **14** damage, **12** range, 15 LHT scaling, **0,85x** attack speed, sold for **200** notes in summer isle. (65 LHT req)
 
-**[Dragoon](Dragoon.md):** **16** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes. (65 LHT req)
+**[Dragoon](Dragoon.md):** **16** damage, **11** range, 12 LHT scaling, **0.8x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
 
-**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
+**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **0.9x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
 
 ## Rifle Moveset (work in progress)
 
@@ -101,6 +101,7 @@ _**Stats:**_
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
 -   One handed guns are the only type of guns where having bullets isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
+-   All guns have only 1 weight (posture damage)
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
     -   Need to test to see if they still get the 10% pen bonus.
     -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact.

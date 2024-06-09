@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 99073
+revid: 101120
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -36,4 +36,4 @@ The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It i
 -   This weapon, alongside the other Hallowtide weapons, has a pseudo-soulbound mechanic attached to it, where you cannot drop it, but it can still be passed down through the Hippocampal Pool in [Fragments of Self](Fragments_of_Self.md) without having to spend echoes.
 -   Meeting the requirement of HVY, the damage is (32.1)
 -   At max HVY, the damage is (35.1)
--   Skyreap Blade is the only weapon that has a unique running attack animation.
+-   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.

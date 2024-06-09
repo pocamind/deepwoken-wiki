@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 100277
+revid: 101129
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -46,7 +46,7 @@ When obtained, Skeleton Key will spend its points on the following stats:
     -   Normal doesn't deal damage on push
     -   Spiked deals damage on push
 
--   **Wall Amount:** How many walls you can spawn. (not guaranteed 5 because you need the correct point usage)
+-   **Wall Amount:** How many walls you can spawn.
 -   **Duration:** How fast it takes to spawn a wall.
 -   **Range (?):** How far a wall can push.
 -   **Wall Durability:** How many hits (ex: m1-ing) the wall can take before breaking.

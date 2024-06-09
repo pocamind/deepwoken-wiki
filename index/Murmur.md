@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 100856
+revid: 101126
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -63,6 +63,8 @@ Template:ImageCaption Infobox_"An application of the song that enables the user 
 
 The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet.
 
+You will also have a small window of 3 seconds (1.5s if you run) in which you can stand without losing Tacet, this allows you to move more agilely, climb walls and do parkour in general.
+
 The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 
 Some monsters might still aggro when in tacet if too close in some situations (might be bug needs testing)
@@ -70,7 +72,7 @@ Some monsters might still aggro when in tacet if too close in some situations (m
 Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, the unaggro range is larger than 0 studs, so the user must make some distance to evade any fight. Do be aware that tacet is disabled during hellmode though, and attempted use of tacet to escape could possibly result in death.
--   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet.
+-   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet. The detection range in PVP is also reduced by the "stealth" stat which is the basis of some equipment.
 
 ### **Obtainment**
 

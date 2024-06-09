@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101038
+revid: 101116
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
