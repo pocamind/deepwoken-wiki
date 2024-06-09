@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101016
+revid: 101156
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1395,7 +1395,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _Safety Dance_ \[Rare Talent\] - Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Prerequisite: 15 Agility
+    -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
 
 ### Legion Shock Trooper

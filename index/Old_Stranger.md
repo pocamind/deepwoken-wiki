@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 101106
+revid: 101152
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -23,7 +23,7 @@ The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters]
 
 ## Ardour Obtainment
 
-He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water. In exchange he grants you the [Murmur:Ardour](Murmur.md). However the event can only be done once per spawn saying "I can't speak with two folks at once y'know" if he has already given a player ardour.
+He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water. In exchange he grants you the [Murmur:Ardour](Murmur.md). If the player has the Condensation Drip [talent](Talents.md), a new prompt will appear, allowing them to receive Murmur without the need to hand him a canteen or redd juice. However the event can only be done once per spawn saying "I can't speak with two folks at once y'know" if he has already given a player ardour.
 
 ## Dialogue
 
@@ -60,10 +60,12 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 </tr>
 <tr>
   <td>[Hand him your Canteen]</td>
+  <td>[Collect water using Condensation Drip]</td>
   <td>End</td>
 </tr>
 <tr>
   <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
+  <td>Oh, neat trick! That hit the spot. Now, where were we...</td>
 </tr>
 <tr>
   <td>End</td>

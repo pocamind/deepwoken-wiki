@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 83752
+revid: 101160
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -18,7 +18,7 @@ Eggs are a food item in Deepwoken. They can be used to make Cooked Eggs, Omelett
 
 -   On top of a cargo lift on the right side of the docks
 -   On a pipe near the central tree where [Polis](Polis.md) is (the one facing the Mantra shop)
--   On a small tree next to pillars above a cliff near the right side of the docks
+-   On a small tree near the pillars left from the cave entrance
 -   On a tower near the Antiquarian (The one facing the gremor camp)
 
 \[Add more specific locations here\]

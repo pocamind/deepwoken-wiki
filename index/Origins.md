@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 100846
+revid: 101153
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -68,7 +68,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Cannot be used in combat or in any layer of [The Depths](The_Depths.md), though can be used anywhere else including [Voidzones](Voidzones.md).
     -   Returning to the main menu during the animation will cancel the teleport.
 
--   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
+-   **\[PRO\]** Increased EXP Gain in [The Depths](The_Depths.md), increased further below Power 15.
 -   **\[CON\]** Reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).
