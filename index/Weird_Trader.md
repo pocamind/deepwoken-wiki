@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101116
+revid: 101141
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -64,6 +64,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Worshipper Longsword](Worshipper_Longsword.md)
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md) / [Alloyed Adretian Axe](Adretian_Axe.md)
+        -   [Canorian Axe](Canorian_Axe.md)
         -   [Darkalloy Greatsword](Darksteel_Greatsword.md)
         -   [Forge Greathammer](Forge_Greathammer.md)
         -   [Iron Birch](Iron_Birch.md)
@@ -92,6 +93,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Gold](Ores.md#gold) / [Pure Gold](Ores.md)
     -   [Pure Astruline](Ores.md#astruline)
     -   [Pure Iron](Ores.md#iron)
+    -   [Pure Umbrite](Ores.md)
 
 -   Mantra Modifiers, including:
     -   [Deep Gems](Mantra_Modifiers.md#deep-gems)
