@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 101152
+revid: 101223
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -23,7 +23,7 @@ The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters]
 
 ## Ardour Obtainment
 
-He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water. In exchange he grants you the [Murmur:Ardour](Murmur.md). If the player has the Condensation Drip [talent](Talents.md), a new prompt will appear, allowing them to receive Murmur without the need to hand him a canteen or redd juice. However the event can only be done once per spawn saying "I can't speak with two folks at once y'know" if he has already given a player ardour.
+He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water. In exchange he grants you the [Murmur:Ardour](Murmur.md). If the player has the Condensation Drip [talent](Talents.md), a new prompt will appear, allowing them to receive Murmur without the need to hand him a canteen or redd juice. However the event can only be done once per spawn saying "I can't speak with two folks at once, y'know" if he has already given a player ardour.
 
 ## Dialogue
 
@@ -32,31 +32,31 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="5">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
+  <td colspan="6">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
 </tr>
 <tr>
-  <td colspan="4">What're you trying to figure out?</td>
+  <td colspan="5">What're you trying to figure out?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="4">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's Murmur.</td>
+  <td colspan="5">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's Murmur.</td>
 </tr>
 <tr>
-  <td colspan="3">A Murmur, huh?</td>
+  <td colspan="4">A Murmur, huh?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="3">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
+  <td colspan="4">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
 </tr>
 <tr>
-  <td colspan="2">Can you teach me how?</td>
+  <td colspan="3">Can you teach me how?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="2">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
+  <td colspan="3">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
 </tr>
 <tr>
   <td>[Hand him your Canteen]</td>
@@ -68,7 +68,7 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
   <td>Oh, neat trick! That hit the spot. Now, where were we...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

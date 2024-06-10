@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 101206
+revid: 101209
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 -   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into either a random equipment enchant (you can roll the same enchant twice in a row) **or** a random enchant stone.
--   Using an [Enchant Stone](Enchant_Stone.md). (Found in L2, Galeswax and from Maestro's Lootpool.)qwwweqqqsqs
+-   Using an [Enchant Stone](Enchant_Stone.md). (Found in L2, Galeswax and from Maestro's Lootpool.)
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 -   Defeating a [Star knight](Stone_Knight.md#star-knight) that only spawns during the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event. (Only drops the Astral enchant stone)
 -   The [Weird Trader](Weird_Trader.md) has a chance to give you the [Astral](https://deepwoken.fandom.com/wiki/Enchantments#Blessings) enchant stone.
@@ -59,7 +59,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
-  This damage bonus bypasses the damage multiplier cap.<br>
+  This damage bonus bypasses the both the soft and hard damage multiplier caps.<br>
   Can be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
