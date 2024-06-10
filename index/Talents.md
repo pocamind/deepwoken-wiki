@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101197
+revid: 101205
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2210,6 +2210,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Cancelled by pressing \[R\] again.
     -   Using Cap artist in the depths makes you have normal gravity
     -   Prerequisite: 25 Agility, 5 Charisma
+    -   Sometimes just doesn't work? I know a few people (including myself) who have the talent but it does nothing when pressed.
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.
     -   Prerequisites: Pickpocket, 25 Charisma
@@ -2217,6 +2218,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+2 Passive Agility)
     -   The target need to be knocked to be able to pickpocket them.
     -   Prerequisites: 5 Agility, 10 Charisma
+    -   Only works on other players.
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
