@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101185
+revid: 101197
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2120,8 +2120,6 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"I seek the qualities of Swiftshade."**_
 
--   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
-    -   Prerequisites: Revenge (Agility Mantra), 90 Agility
 -   _**Dustlunge**_ \[Advanced Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.

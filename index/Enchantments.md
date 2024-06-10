@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 100899
+revid: 101198
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -63,7 +63,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
   This damage bonus bypasses the damage multiplier cap.<br>
-  Can be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer. Can also be obtained through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
+  Can be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
-  <td><div>Weapon covered in an orange/brown mist, just like Stench.</div></td>
+  <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -283,7 +283,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
-  Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent.<br>
+  Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
