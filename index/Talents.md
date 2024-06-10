@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101156
+revid: 101185
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -39,7 +39,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   For example: Picking a mentaI fortress card will make you more likely to pull another mentaI fortress talent in your next set of talents.
 
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
-    -   Drinking at least one potion is a prerequisite for Potion Quaffer.
+    -   Drinking at least one potion is a prerequisite for suck my cawk
 -   Having a certain weapon equipped.
     -   Having a great axe equipped is required to roll great axe talents.
 

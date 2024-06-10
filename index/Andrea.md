@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 96060
+revid: 101176
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -43,7 +43,7 @@ Andrea is an NPC located in the [First Layer](First_Layer.md) of the Depths, at 
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Placeholder</td>
+  <td colspan="12">placeholder</td>
 </tr>
 <tr>
   <td colspan="4">End</td>

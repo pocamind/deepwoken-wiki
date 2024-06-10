@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 98291
+revid: 101167
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -53,7 +53,7 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
  | 
 
  | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.  
-Typically used after Talon Swipe. | ◯ | **Yes** | **Yes** | (★☆☆) |
+Typically used after Talon Swipe. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 **Owl Dash**

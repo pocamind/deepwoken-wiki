@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 100927
+revid: 101174
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -84,7 +84,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
-    -   IF BEAM IS ACTIVATED THERE IS NO WAY TO CANCEL IT (IMMUNE TO THUNDERCALL AND HITSTUN)
+    -   Once the beam starts firing the user gain immunity to all forms of stun, including [Thundercall](Thundercall.md), meaning the user is the only person capable of stopping the beam early.
     -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
     -   File:Sightless beam final.gif
 

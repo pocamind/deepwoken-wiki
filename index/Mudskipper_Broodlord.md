@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 101163
+revid: 101182
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
