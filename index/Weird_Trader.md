@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101242
+revid: 101265
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -45,7 +45,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Legion Cestus](Legion_Cestus.md)
         -   [Tanto](Tanto.md)
         -   [Whaling Knife](Whaling_Knife.md)
-        -   [Dawnshot](Dawnshot.md)
+        -   [Dawnshot](Dawnshot.md) / [Alloyed Dawnshot](Dawnshot.md)
     -   Medium Weapons
         -   [Alloyed Katana](Katana.md)
         -   [Cavalry Saber](Cavalry_Saber.md)

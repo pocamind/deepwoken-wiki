@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 101255
+revid: 101266
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -27,7 +27,7 @@ categories: [Weapons, Flintlocks]
 
 ## Description
 
-The Repeater is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
+The Repeater is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md)
 
 The [Repeater](Repeater.md) has a [Bullet](Bullet_Casings.md) capacity of 6, Meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
