@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 101059
+revid: 101272
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -70,7 +70,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
--   All **Medium Weapons** except for Rifles, the [Wyrmtooth](Wyrmtooth.md) and [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
+-   All **Medium Weapons** except for Rifles, [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
 -   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [talent](Talents.md) "**One Handed Training"** (40 HVY), which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
@@ -2233,7 +2233,7 @@ Offhand weapons are weapons that can be wielded at the same time along with your
   <td>31.5</td>
 </tr>
 <tr>
-  <td><a href="Repeater.md">Revolver</a></td>
+  <td><a href="Repeater.md">Repeater</a></td>
   <td>65 LHT</td>
   <td>14</td>
   <td>N/A</td>

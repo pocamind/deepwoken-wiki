@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 100077
+revid: 101271
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -54,3 +54,4 @@ The Imperial Staff possess three different criticals, all of which grant the use
 -   The first blunt spear.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers.
 -   This weapon cannot be enchanted.
+-   Just like [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md) this weapon is locked in one-handed stance
