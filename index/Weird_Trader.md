@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101229
+revid: 101242
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -44,6 +44,8 @@ The event despawns after 30 minutes have elapsed.
         -   [Iron Cestus](Iron_Cestus.md)
         -   [Legion Cestus](Legion_Cestus.md)
         -   [Tanto](Tanto.md)
+        -   [Whaling Knife](Whaling_Knife.md)
+        -   [Dawnshot](Dawnshot.md)
     -   Medium Weapons
         -   [Alloyed Katana](Katana.md)
         -   [Cavalry Saber](Cavalry_Saber.md)
@@ -62,7 +64,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Toothed Club](Toothed_Club.md)
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
         -   [Worshipper Longsword](Worshipper_Longsword.md)
-        -   Messer
+        -   [Messer](Messer.md)
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md) / [Alloyed Adretian Axe](Adretian_Axe.md)
         -   [Canorian Axe](Canorian_Axe.md)
@@ -74,7 +76,7 @@ The event despawns after 30 minutes have elapsed.
     -   Other
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
         -   [The Path's Defender](<The_Path's_Defender.md>)
-        -   Old World Greatshield
+        -   [Old World Greatshield](Old_World_Greatshield.md)
 -   Any [Primordial Lotus](Ingredients.md#lotuses)
 
 -   Ingredients, Including:
@@ -83,6 +85,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Browncap](Browncap.md)
     -   [Calabash](Calabash.md)
     -   [Dentifilo](Dentifilo.md)
+    -   [Gobletto](Gobletto.md)
     -   [Egg](Egg.md)
     -   [Ongo](Ongo.md)
     -   [Redd](Redd.md)
@@ -95,7 +98,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Gold](Ores.md#gold) / [Pure Gold](Ores.md)
     -   [Pure Astruline](Ores.md#astruline)
     -   [Pure Iron](Ores.md#iron)
-    -   [Pure Umbrite](Ores.md) / Umbrite
+    -   [Pure Umbrite](Ores.md) / [Ore#Umbrite](Ores.md)
 
 -   Mantra Modifiers, including:
     -   [Deep Gems](Mantra_Modifiers.md#deep-gems)

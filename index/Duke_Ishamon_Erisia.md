@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 101079
+revid: 101250
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -320,7 +320,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
     -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."
--   Due to contrary belief, the Duke of Erisia is not fond of people with a darker skin tone than him.
+-   As of 6/10/2024, this is possibly the most commonly trolled page in the Deepwoken Wiki.
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance

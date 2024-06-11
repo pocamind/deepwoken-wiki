@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 101188
+revid: 101231
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,13 +20,9 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 
 | Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
-| Broodrot fist | The Broodlord throws a brutal and powerful punch. | 
+| Punch | The Broodlord throws a brutal and powerful punch. | 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| Broodrot
-
-Jab
-
- | The Broodlord throws another brutal and heavy blow. Typically used right after punch. | 
+| Left Hook | The Broodlord throws another brutal and heavy blow. Typically used right after punch. | 
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | Broodrot Thrust | Delivers a stronger, unparriable thrust with its rotten fist. | 
