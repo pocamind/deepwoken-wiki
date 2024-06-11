@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 101124
+revid: 101273
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -86,7 +86,7 @@ _**Stats:**_
 
 **[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
 
-**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 08 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
+**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 8 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
 
 [**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
 
