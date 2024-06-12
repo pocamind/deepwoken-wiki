@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101269
+revid: 101289
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -78,7 +78,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
         -   [The Path's Defender](<The_Path's_Defender.md>)
         -   [Old World Greatshield](Old_World_Greatshield.md)
--   Any [Primordial Lotus](Ingredients.md#lotuses)
+-   Any [Primordial Lotus](Ingredients.md#lotuses) or [Pristine Lotus](Pristine_Lotus.md)
 
 -   Ingredients, Including:
     -   [Alestrian Coral](Ingredients.md)
@@ -99,7 +99,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Gold](Ores.md#gold) / [Pure Gold](Ores.md)
     -   [Pure Astruline](Ores.md#astruline)
     -   [Pure Iron](Ores.md#iron)
-    -   [Pure Umbrite](Ores.md) / [Ore#Umbrite](Ores.md)
+    -   [Pure Umbrite](Ores.md) / [Umbrite](Ores.md)
 
 -   Mantra Modifiers, including:
     -   [Deep Gems](Mantra_Modifiers.md#deep-gems)

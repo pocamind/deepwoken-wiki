@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 73367
+revid: 101298
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Items, Armors]
@@ -20,7 +20,7 @@ categories: [Boots, Items, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Second Layer |
+| obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

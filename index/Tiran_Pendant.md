@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 100531
+revid: 101293
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -34,3 +34,4 @@ Equipping it grants the talent "Featherfall" which grants Near-complete immunity
 -   If you aren't in combat, you can re-equip the Tiran Pendant to get rid of the cooldown.
 -   Connected to the [Tiran](Tiran.md) race.
 -   The third (or second) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Warmaster's Medallion](<Warmaster's_Medallion.md>).
+-   Used to have a bug which relogging while the passive was on cooldown when double the cooldown leading to massive cooldowns on the passive.

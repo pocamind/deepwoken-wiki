@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101264
+revid: 101294
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2439,6 +2439,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
 
 ### Vocalist
+
+_**"I seek the qualities of vocalist."**_
 
 -   _Encore_ \[Rare Talent, Charisma Exclusive\] - Your sing will stun opponents who are already charmed.
     -   On proc, apply 0.4s of "full stun".
