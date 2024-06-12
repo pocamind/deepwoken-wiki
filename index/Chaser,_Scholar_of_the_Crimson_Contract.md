@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 100936
+revid: 101324
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -44,7 +44,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   There is an indicator and the unparriable sound cue before the attack.
 
- | ✗ | ◯\* | ◯ | (★★☆) |
+ | ✗ | ◯\*\* | ◯ | (★★☆) |
 | **Burning Blood Explosion** | After a short casting sound (), Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites. Does low posture damage, but comes out faster than his other moves. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit. | ✗ | ✗ | ✗ | (★★☆) |
 | **Stalactite Fall** | Chaser drops many stalactites from the ceiling. Does low posture damage.
@@ -72,7 +72,8 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
  | N/A | N/A | N/A | (★★☆) |
 
-\*While these moves can be parried and blocked, they still fling you.
+\*While these moves can be parried and blocked, they still fling you.  
+\*\*Requires Brick Wall to be fully blocked
 
 ## Finisher
 

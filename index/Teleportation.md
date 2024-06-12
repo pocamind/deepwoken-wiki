@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 100987
+revid: 101329
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -76,9 +76,10 @@ If Teleportation is Drowned, in addition to the extra Resonance points to spend,
 ## Trivia
 
 -   You can teleport entities if your teleport ring is placed correctly. This includes large entities such as the [Deep Widow](Deep_Widow.md) or other [monsters](Monsters.md) such as [Deep Owls](Deep_Owl.md) or [Stone Knights](Stone_Knight.md).
--   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in instanced dungeons and certain areas of the map, such as Duke Erisia's Manor.
+-   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in some instanced dungeons and certain areas of the map, such as Duke Erisia's Manor.
     -   You are still able to use Teleportation as a sort of "compass" to make waypoints and guide you on where to go on repeat runs, such as certain hard to reach medal chests in New Kyrsa, or an optimal Galewax route in the Eternal Gale.
         
+    -   If you ever want to delete waypoints placed in dungeons, you can set waypoints and teleport to them within a [Ferryman](The_Ferryman.md) instanced dungeon.
 -   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be insta-killed if they were not in the Duke quest.
     -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.
 -   There used to be a Resonance point stat called "**Ring Size + Capacity**", which increased the entity capacity of the teleport sequence and the size of the teleport ring.

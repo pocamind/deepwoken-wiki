@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 100812
+revid: 101331
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -18,7 +18,7 @@ categories: [Races, Character, Mechanics]
 
 All 12 rollable races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 
--   While +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this +2 into a given stat may be the key to making that build attainable.
+-   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable.
 
 The hairstyle of your in-game character is reflected by that of your ROBLOX avatar, with your race's hair color being covered by the variant of your race.
 
@@ -62,14 +62,17 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 ## Trivia
 
 -   The chances of every other race will increase once you have already obtained a race, as logic would have it.
-    -   As such, a method of obtaining rarer races is by keeping a common race and continually rerolling, knowing the subsequent rates for other races are higher.
--   Take caution: it's not advised to reroll races until you have the maximum amount of slots, since the price difference of 50 robux is rather minimal.
-
+    -   As such, a method of obtaining rarer races is by keeping a common race and continually rerolling so that the common race will not appear, thus boosting the chances of other races.
+-   Take caution: it's not advised to reroll races until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many of the factions in _Deepwoken_ are inherently xenophobic/racist to other races.
     -   One of the most prominent effects of this is that if you are playing as one of the 3 Hive races (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
 -   Race rarity does not make the race inherently better.
-    -   However, do note that some races are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton Durability.
+    -   However, do note that some races are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness.
 -   Players can come across other players tagged with familial relations if they are of the same race, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
 -   All races can be acquired from initial game/slot purchase.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
+-   The most common race attribute is Charisma, granted by 6 races: Adret, Canor, Celtor, Chrysid, Felinor, and Tiran.
+    -   The second most common is Agility, granted by 5 races: Chrysid, Etrean, Felinor, Khan, and Tiran.
+    -   4 grant Intelligence (Capra, Celtor, Etrean, Ganymede), 4 grant Willpower (Adret, Capra, Ganymede, Vesperian) and 3 grant Strength (Canor, Gremor, Khan).
+    -   The least common is Fortitude, only granted by Vesperian and Gremor.
