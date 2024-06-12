@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 100963
+revid: 101311
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -124,7 +124,7 @@ File:Sinner's Ash.png
  |
 | 
 
- | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon usage.
+ | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon it's first usage.
 
   
 It grants the user +20 knowledge on subsequent uses.
@@ -142,11 +142,7 @@ It grants the user +20 knowledge on subsequent uses.
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  |
-| 
-
-File:Needle.png
-
- | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls your [Equipment's pips](Equipment.md) upon usage, applying a random pip per roll.
+| File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random pip per roll.
 
 -   _(Consumed upon usage)_
 

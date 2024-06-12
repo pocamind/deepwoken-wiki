@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101289
+revid: 101313
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -83,6 +83,7 @@ The event despawns after 30 minutes have elapsed.
 -   Ingredients, Including:
     -   [Alestrian Coral](Ingredients.md)
     -   [Beeswax](Beeswax.md)
+    -   Urchin
     -   [Browncap](Browncap.md)
     -   [Calabash](Calabash.md)
     -   [Dentifilo](Dentifilo.md)
@@ -92,7 +93,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Redd](Redd.md)
     -   [Sap](Ingredients.md)
     -   [Bamboo Bundle](Ingredients.md)
-    -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat**)
+    -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat, Chum**)
 
 -   Ores, including:
     -   [Erisore](Ores.md#erisore) / [Pure Erisore](Ores.md)

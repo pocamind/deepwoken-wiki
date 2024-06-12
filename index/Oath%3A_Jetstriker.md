@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 101110
+revid: 101310
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,3 +81,4 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 -   Jetstriker did not have mantras prior to March 29, 2024.
 -   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
 -   Using a Dye Packet to dye the Jetstriker Anklets dyes the anklets as well as the Dash effect, Momentum bar, and Stratos Steps.
+-   The old name and Mystic quote for Jetstriker are both references to _The Stormlight Archive_
