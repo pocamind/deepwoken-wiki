@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101313
+revid: 101321
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -48,6 +48,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Dawnshot](Dawnshot.md) / [Alloyed Dawnshot](Dawnshot.md)
     -   Medium Weapons
         -   [Alloyed Katana](Katana.md)
+        -   [Gremorian Longspear](Gremorian_Longspear.md)
         -   [Cavalry Saber](Cavalry_Saber.md)
         -   [Champion's Sword](<Champion's_Sword.md>)
         -   [Falchion](Falchion.md)
@@ -94,6 +95,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Sap](Ingredients.md)
     -   [Bamboo Bundle](Ingredients.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat, Chum**)
+    -   [Pomar](Pomar.md)
 
 -   Ores, including:
     -   [Erisore](Ores.md#erisore) / [Pure Erisore](Ores.md)

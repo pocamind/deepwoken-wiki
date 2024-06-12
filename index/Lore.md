@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 101099
+revid: 101317
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -191,7 +191,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Though he is an Adret, he has a never before seen facial markings for the race.
 -   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.[\[1\]](#cite-note-rag-1)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
--   Currently trapped in the Ethironal of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
+-   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
 -   Despite not using them in the fight against him, he uses a pair of Kamas designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
 
 ### **Colonel Hoffa**
@@ -219,15 +219,15 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 -   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
 -   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
--   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
+-   He is known to the Divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
 -   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems.
 -   He uses a unique weapon called the "Moonseye Scalpel."
 
-### **Deukalion Akarad, the First Black Diver.**
+### **Deukalion Akarad, the First Black Diver**
 
 -   Deukalion Akarad, or commonly known as Akarad, was the first Black Diver, and leader of the Black Divers appointed into an expedition to the Depths by the High Convocation into the unknown, being also the first documented expedition from the recently formed "Citadel Divers" or more known as "The Divers".
--   He died along with all of his expedition team when they attempted to return to the surface and their souls were ripped out by the Boundary.
+-   He died along with all of his expedition team when they returned to the surface and their souls were ripped out by crossing through the Boundary without the proper preparation.
 -   Made a great inspiration to the rest of the Apprentice Divers, being able to inspire the apprentice Divers even in his death.
 -   The name of his expedition team was the "Pioneer Divers", the ones who heard the "Song of Fathoms" for the first time.
 
@@ -241,15 +241,15 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 -   Her hobby is writing poetry.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
 -   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
--   She was taken when she was a child by the Central Authority due to her possessing Lightkeeping, allowing her to open the Eastern Interstitial Lighthouse and summon in reinforcements for them. However, her being forcefully taken from her friends of and family had the adverse effect of her becoming disgusted with them and their practices, thus choosing not to help.
+-   She was taken when she was a child by the Central Authority due to her possessing the Gift, allowing her to open the Eastern Interstitial Lighthouse and summon in reinforcements for them. However, her being forcefully taken from her friends of and family had the adverse effect of her becoming disgusted with them and their practices, thus choosing not to help.
 
 ### **Klaris Llfiend, Mother of Lights**
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
 -   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) The creator of light hooks.
--   Former Student of Viqh, Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
--   One of the few people (Alongside Nimea) to have known Viqh.
+-   Former student of Viqh, Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
+-   One of the few people along Nimea to have known Viqh.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
 -   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
@@ -277,7 +277,7 @@ The one and only... MEAT LORD!
 _"I don't know if I will be able to continue my services with in the Authority without breaking my own vows" - Warden Jericho._
 
 -   High ranking member of the Authority.
--   In charge of overseeing the current war of the between Authority & Etrea and all the Authority operations in the East Luminant.
+-   In charge of overseeing the current war between the Authority & Etrea and all the Authority operations in the East Luminant.
 -   User of the Warmaster Oath.[\[1\]](#cite-note-rag-1)
     -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that if something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
 -   One of the few people that knows the true intentions and identity of the Lord Regent while not being aligned with the Ministry.
