@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 101317
+revid: 101340
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -541,9 +541,11 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 #### Markor Citadel
 
--   A building located in Markor, where texts of the Old World are studied.
+-   A towering building located in Markor, where texts of the Old World are studied.
 -   The Divers are a branch of the Markor Citadel.
+    -   The Citadel holds a wing for all of the Divers who pass away. Black Divers who pass will gain gilded memorials, and those who possess a considerable amount of honor will have additional mottos and sub-headings.
 -   The [Barbers](Barber.md) learned plastic surgery here.
+-   The Citadel bears similar appearances to the sunken city of Celtor.
 
 The Citadel
 
@@ -555,10 +557,19 @@ The Citadel
 
 #### Lullaby Isles
 
--   An archipelago with multiple settlements dotted across the region.
+-   A tropical archipelago with multiple settlements dotted across the region.
 -   Home to most of the Chrysid population in the Luminants.
--   Outside of Markor, surrounded by a dense mountain range known as the Stoneseye.
+-   Outside of Markor, circulated by a dense mountain range known as the Stoneseye.
 -   The Echelon is the city-state at the center of the isles, and where the council of the Moonlit Faith resides.
+-   The Authority would have conquered the Lullaby Isles, but essentially finds it a hard target due to:
+    -   The Stoneseye Range being incredibly insurmountable to scale.
+    -   High-ground advantages made from constructed walls and artillery.
+    -   However, this can potentially be bypassed through cavern systems but are likely reinforced as well.
+
+#### The Stoneseye Range
+
+-   A range of mountains with volcanic origin that borders the Lullaby Isles.
+-   Contains passages that are sometimes fortified with artillery and walls, with the outer side being devoid of settlements.
 
 ### **Southern Luminant**
 

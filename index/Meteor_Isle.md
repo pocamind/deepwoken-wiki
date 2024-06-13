@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 86572
+revid: 101335
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, World, Locations, Eastern Luminant]
@@ -31,7 +31,7 @@ File:Meteor Isle.jpg
 -   Exter, Gremor
 -   Mercille, Vesparian - Meteor Isle > Starswept Sack Rewards
 -   [The Guy](The_Guy.md) - Summer Isle > Cannon Quest
--   Sekh, Vesperian Hivekin - Meteor Isle Lore
+-   [Sekh](Sekh.md), Vesperian Hivekin - Meteor Isle Lore
 -   Crafting Table, Inn
 -   Blacksmith
 -   Well

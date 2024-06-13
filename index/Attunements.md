@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 100000
+revid: 101360
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -62,6 +62,7 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 ## Upcoming Attunements
 
 -   [Lifeweave](The_Hive.md)
+-   Gasbringer
 
 ## Trivia
 

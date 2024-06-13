@@ -1,6 +1,6 @@
 ---
 title: King Thresher Spine
-revid: 84345
+revid: 101358
 source: https://deepwoken.fandom.com/wiki/King_Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -25,4 +25,4 @@ A King Threshers Spine can be obtained from [King Threshers](Thresher.md#king-th
 ## Trivia
 
 -   It is almost identical to a [Thresher Spine](Thresher_Spine.md) except it has a purple tint instead of a brown one.
--   The first actual 'use' for this item is to craft the Royal Etrean Guard outfit.
+-   The first actual 'use' for this item is to craft the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit.

@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 100970
+revid: 101341
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -100,7 +100,8 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
   <th colspan="3">Personally? I admire their selflessness and open-minded ness. Oh, and the Etreans themselves quite alright, when you get to know them, like the one praying over there. Can't say the same about their government, though. *<i>He sighs, bitterly.</i>* If only things were different...</th>
 </tr>
 <tr>
-  <td colspan="3">1. You've spoken to some of the Etreans?<p>2. How do the settlers here get on with the others in Aratel? <small>(See other instances)</small> 3. You've spoken to Eres?</p></td>
+  <td colspan="3">1. You've spoken to some of the Etreans?<p>2. How do the settlers here get on with the others in Aratel? <small>(See other instances)</small></p>
+  <p>3. You've spoken to Eres?</p></td>
 </tr>
 <tr>
   <th colspan="3">*<i>You can't tell for sure, but it appears he gives you a big smile.</i>* I have! 'Know thy enemy', as they say. Don't ask who's 'they', though - again, I'm a scout, not a scholar. *<i>He assumes a more laid-back stance.</i>* Besides, he's good company. I enjoy our little talks. Shame someone like him ended up in a mess like this...</th>
