@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 101218
+revid: 101447
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -31,7 +31,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
 
 -   300 from **levels**.
 -   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_
--   4 from **race** (excluding Lightborns).
+-   5 from **race** (excluding Lightborns).
 -   13 from **character creation**.
 -   1 from **second Attunement** _(not required for all characters, but is set aside)._
 

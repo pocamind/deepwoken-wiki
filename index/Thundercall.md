@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 101431
+revid: 101442
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -100,6 +100,20 @@ Electro Carve
     -   This can also result in the mantra dealing reduced damage.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to conjure up a shocking AoE around the user.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to deploy a sticky projectile to a target that activates the shock after a while.
+
+ |
+|  | 
+
+Fleeting Sparks  
+(★☆☆)
+
+ | Call forth motes of electricity that seek out your foes. | 60 Ether | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
+
+-   Deals moderate damage.
+-   \[\] Second Cooldown.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) for the projectiles to home towards the target.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjure.
+    -   This modifier does the same amount of damage as default.
 
  |
 |  | 
@@ -209,6 +223,19 @@ Bolt Piercer
 -   Similar to **Lightning Strike**, the user can also damage themselves with this mantra.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
+
+ |
+|  | 
+
+Emotion Wave  
+(★★★)
+
+ | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Conjure a throw a bolt of lightning from the user's right hand, causing volleys of lightning strikes to spread out.
+
+-   Deals moderate-high damage.
+-   \[22\] Second Cooldown.
+-   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
+-   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
 
  |
 |  | 

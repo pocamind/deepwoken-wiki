@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101294
+revid: 101446
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -14,7 +14,7 @@ File:DeepwokenThumbnail.png
 
 ## Foreword
 
-**Here's an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
+**Here's an explanation on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
@@ -28,23 +28,20 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, FIamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
+There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, FIamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
 
-A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
+Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
--   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
-    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
-
+-   A high enough [Core Attribute](Attributes.md), whether it be Strength, Fortitude, Agility, Intelligence, Willpower, or Charisma.
+    -   E.G.: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
-    -   For example: Picking a mentaI fortress card will make you more likely to pull another mentaI fortress talent in your next set of talents.
-
+    -   E.G.: Picking a MentaI Fortress talent will make you more likely to pull another MentaI Fortress talent in your next set of talents.
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
-    -   Drinking at least one potion is a prerequisite for ~suck my cawk~ potion talents
+    -   E.G.: Drinking at least one potion is a prerequisite for potion talents.
 -   Having a certain weapon equipped.
-    -   Having a great axe equipped is required to roll great axe talents.
-
+    -   E.G.: Having a greataxe equipped is required to roll greataxe talents.
 -   A high enough Power.
-    -   Thresher CIaws requires [Power](Power.md) 13 as a prerequisite.
+    -   E.G.: Thresher CIaws requires [Power](Power.md) 13 as a prerequisite.
 
 Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 
@@ -60,17 +57,24 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent_
 -   _Wraith Path: Twisted Puppets_ **or** _Azure Flames_
 
-Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
+Certain talents lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
 ### **Card Terminology**
 
 -   Common
+    -   The simplest type of talent. Common talents make up the majority of a character's talents, and have small/basic effects, with a few exceptions such as Attunement Paths.
 -   Rare
+    -   Rare talents. You will see far less rares than commons, only two per power increase. Often "stronger" than common talents, or have larger effects.
 -   Advanced
+    -   The most uncommon type of talent, though not rare if you meet the requirements. These talents have large, powerful effects on a character.
 -   Oath
+    -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't consume talent slots.
 -   Mantra
+    -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
 -   Mystery
+    -   Grants a random Mantra. See [Whisper Rolls](Whisper_Draw.md) and [Mantras](Mantras.md).
 -   Trait
+    -   Improves an ability or aspect of your character. See [Traits](Traits.md).
 
 ## Talents
 

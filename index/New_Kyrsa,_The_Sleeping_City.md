@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 99525
+revid: 101440
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -72,6 +72,7 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 -   [Misérables](Misérables.md)
 -   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
 -   Kaide, The Drowned Light
+-   [F'leche](<F'leche.md>)
 
 ## Lore
 

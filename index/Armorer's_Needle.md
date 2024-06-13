@@ -1,8 +1,9 @@
 ---
 title: "Armorer's Needle"
-revid: 101159
+revid: 101435
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Relics]
 ---
 
 # Armorer's Needle

@@ -1,8 +1,9 @@
 ---
 title: Bluecap
-revid: 100887
+revid: 101436
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Ingredients]
 ---
 
 # Bluecap

@@ -1,9 +1,9 @@
 ---
 title: Golden Swordfish
-revid: 100652
+revid: 101450
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Weapons, Rapiers]
+categories: [Pages with broken file links, Stub pages without reason, StubPages, Weapons, Rapiers]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -37,6 +37,52 @@ This weapon cannot be dropped by any means, similar to a Soulbound item or the [
 ## Critical
 
 The Critical is identical to that of the [Trident Spear](Trident_Spear.md) critical. However, it does less posture damage.
+
+## Gallery
+
+### Enchantments
+
+**Wild:**
+
+**Stone:**
+
+File:Stone Fish.png
+
+**Vampirism:**
+
+**Heroism:**
+
+**Blazing (Regular):**
+
+**Gluttony:**
+
+**Curse of Yun'Shul:**
+
+**Grim:**
+
+**Chilling:**
+
+**Metal:**
+
+File:Metal Golden Swordfish.png
+
+**Detonation:**
+
+**Solar:**
+
+**Elastic:**
+
+**Tears of the Edenkite:**
+
+**Obfuscation:**
+
+File:Obfuscation Gold swordfish.png
+
+**Curse of the No Life King:**
+
+File:Curse Of The No Life King Gold Swordfish.png
+
+**Umbral Knight:**
 
 ## Trivia
 

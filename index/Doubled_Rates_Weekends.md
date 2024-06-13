@@ -1,8 +1,9 @@
 ---
 title: Doubled Rates Weekends
-revid: 101217
+revid: 101448
 source: https://deepwoken.fandom.com/wiki/Doubled_Rates_Weekends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Deepwoken]
 ---
 
 # Doubled Rates Weekends
