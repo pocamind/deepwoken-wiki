@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 101257
+revid: 101431
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -240,6 +240,7 @@ Lightning Stream
 -   Stuns the target, allowing a small chance to begin a combo.
 -   15 Second Cooldown.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to grapple on peoples instead of pulling them.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to stun the target instead of pulling them towards the user.
     -   Increases damage dealt.
 

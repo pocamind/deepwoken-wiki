@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101321
+revid: 101429
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -74,6 +74,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Iron Birch](Iron_Birch.md)
         -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Zweihander](Zweihander.md)
+        -   [Pale Morning](Pale_Morning.md)
         -   [Steel Maul](Steel_Maul.md) / [Alloyed Steel Maul](https://deepwoken.fandom.com/wiki/Steel_Maul#Alloyed)
     -   Other
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)

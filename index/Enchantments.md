@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 101374
+revid: 101432
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -154,7 +154,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Obfuscation<div></div></font></center></td>
   <td><div><p>Weapon gain 50%/35%/25% chip damage (HVY/MED/LHT).<br>
   Weapon deals less posture damage.<br>
-  Landing close range hits give a speed boost.<br>
+  Landing close range hits give a speed boost. Speed boost lasts for 2 seconds.<br>
   </p>
   <p>Note that if you have obfuscation, your chip damage is capped at 50%. It is not capped at 50% for non-obfuscation weapons. Confirmed by tester.<br>
   </p></div></td>
