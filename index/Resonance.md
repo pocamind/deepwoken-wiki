@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 100803
+revid: 101371
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -38,7 +38,7 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 
 -   **Corrupted** Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
--   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Golem](Rock_Golem.md) Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 
 ## Overview
 

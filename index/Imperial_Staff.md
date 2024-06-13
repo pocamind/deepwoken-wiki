@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 101271
+revid: 101362
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 101009
+revid: 101412
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -75,7 +75,7 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 
   
 
--   +2 Intelligence  
+-   +3 Intelligence  
     
 -   +2 Willpower  
     

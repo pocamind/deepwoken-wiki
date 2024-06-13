@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 101209
+revid: 101374
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -194,7 +194,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales linearly with weapon damage.<sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
-  <td><div>Metal parts are covered in a stone texture.</div></td>
+  <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>

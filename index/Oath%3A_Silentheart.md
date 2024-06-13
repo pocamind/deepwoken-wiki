@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 100956
+revid: 101399
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,7 +32,7 @@ Meet the following requirements in any order:
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
 
 -   Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
--   If you haven't died to an attunement player, The Dreadstar will say "You lack focus on your rage".
+-   If you haven't died to an attunement player, [The Dreadstar](The_Dreadstar.md) will say "You lack focus on your rage".
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 

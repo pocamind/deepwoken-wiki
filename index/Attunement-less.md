@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 101020
+revid: 101373
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -476,6 +476,7 @@ File:Disguising .gif
     <li>If in range, locks on to the closest target/player/humanoid enemy</li>
     <li>Dash forward and do a large AOE slice with your sword.</li>
     <li>Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.</li>
+    <li>Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.</li>
   </ul></td>
 </tr>
 <tr>

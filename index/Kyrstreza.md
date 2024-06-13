@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 96152
+revid: 101366
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -41,4 +41,27 @@ The Kyrstreza is an Endgame [Light Weapon](Weapons.md) under the Rapier category
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrstreza**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   This weapon is part of the "Kyrs" series, commonly referred to as "Bone" Weaponry (Kyrsear, Kyrsedge, etc.).
 -   The weapon name is a reference to the Spanish school of fencing, Verdadera Destreza, which focused on geometric movements with the rapier.
--   The Kyrstreza is like the "[Shattered Katana](Shattered_Katana.md)" of the Rapier category, due to its superior penetration stat compared to other rapiers.
+
+## Enchantments
+
+**Chilling:**
+
+**Curse of the Bloodthirsty:**
+
+**Stormbreaker:**
+
+**Deferred:**
+
+**Storm:**
+
+**Detonation:**
+
+**Gluttony:**
+
+**Sear:**
+
+**Tears of the Edenkite:**
+
+**Porvidence Thorns:**
+
+**Heroism:**
