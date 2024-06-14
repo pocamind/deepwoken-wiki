@@ -1,9 +1,9 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 101491
+revid: 101506
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore, Layer 2]
+categories: [NPCs, Lore, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light

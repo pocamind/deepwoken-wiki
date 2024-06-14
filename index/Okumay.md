@@ -1,9 +1,9 @@
 ---
 title: Okumay
-revid: 79236
+revid: 101508
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Layer 2, Floor 2]
 ---
 
 # Okumay

@@ -1,20 +1,23 @@
 ---
 title: Kasen
-revid: 100877
+revid: 101498
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Quests, Talents, Layer 2, Floor 1]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [NPCs, Quests, Talents, Layer 2, Floor 1]
 ---
 
 # Kasen
 
-## Decription
+| Kasen | |
+|---|---|
+| name | Kasen |
+| location | Ethironal Shrine Outskirts |
+
+## Description
 
 Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer.md).
 
-Talk to him with at least 80 Willpower and tier 1 insanity, he will teach you Heretic's Sutra, a Talent that reduces the sanity of the user by a flat amount.
+Talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](https://deepwoken.fandom.com/wiki/Talents#Heretic) that reduces the sanity of the user by a flat amount.
 
 ## Dialogue
 
@@ -23,3 +26,4 @@ _**THE VOICES**_... Can you hear them? Those who are _empowered_ by the voices a
 ## Trivia
 
 -   You will always encounter three [Carbuncles](Carbuncle.md) on the way to him. Although it is not necessary, it is recommended to kill them because they will annoy you during the dialogue.
+-   His racial variant appears to be Jurik.

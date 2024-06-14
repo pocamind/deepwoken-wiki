@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 101494
+revid: 101520
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -48,8 +48,9 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Erisae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
-| Falei | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
+| [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | Flabbermaster Filigree, the First Mate | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
+| [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) |  |  |
 | Frank F'alzone | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Friid](Attunement_Trainers.md) | Unaligned, possibly Etrea | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md), perhaps the Summer Company also | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
@@ -98,6 +99,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Nyanna](Nyanna.md) | Unaligned, possible The Divers | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes every 1 hour, weapons and armor can be bought enchanted |
 | [Odiolavoro](Chef_Odiolavoro.md) | Unaligned, possibly Etrea | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
+| [Okumay](Okumay.md) | Unaligned | [The Sunken Railways](The_Sunken_Railways.md), [Second Layer](<https://deepwoken.fandom.com/wiki/Second_Layer#New_Kyrsa,_The_Sleeping_City_(F2)>) |  |  |
 | [Orion](Orion.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP and Bravery. |  |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 
@@ -131,7 +133,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest | Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two [Summer Company Guards](Summer_Company_Guard.md) |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |  |
 | [Viridian](Oath%253A_Oathless.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |  |
-| Vtreshi | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the light hook |  |
+| [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |
 | [Yamaketzal](Yamaketzal.md) | Unaligned, possibly an Old Steward | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |  |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |

@@ -1,6 +1,6 @@
 ---
 title: The Sunken Railways
-revid: 92629
+revid: 101507
 source: https://deepwoken.fandom.com/wiki/The_Sunken_Railways
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Layer 2]
@@ -27,7 +27,7 @@ Not much else is known about this location, since it does not have much content.
 
 ### NPCs
 
--   You can find Okumay, an NPC who seems to have been sent to research the railways but does not tell you much else.
+-   You can find [Okumay](Okumay.md), an NPC who seems to have been sent to research the railways but does not tell you much else.
 
 ### Medallion Chests
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 99091
+revid: 101512
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -50,7 +50,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   The color of the teleportation variates randomly between blue and red.
     -   Limitations:
-        -   Requires [Stardust](Stardust.md) at first. After you consumed a stardust to teleport, it no longer requires stardust to use it. Stardust is obtainable in [Voidzones](Voidzones.md) that have a Startree. ( It may be a bug or intentional feature but you no longer require stardust, even on the first teleport)
+        -   Requires [Stardust](Stardust.md) at first. After you consumed a stardust to teleport, it no longer requires stardust to use it. Stardust is obtainable in [Voidzones](Voidzones.md) that have a Startree. This is an intentional feature.
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
         -   Does not work with "campfires" (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire nearly every use - ensure you're well-supplied.
@@ -67,7 +67,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
     -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
         -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
         -   Red Cords (Enemies) presumably do the opposite.
-    -   Allows you to see the health bar of allies.
+    -   Allows you to passively see the health bar of allies, even when not active.
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
     -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
