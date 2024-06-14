@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 101310
+revid: 101548
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,6 +47,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   **Jetstream Pursuit - Talent**
     -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
         -   This works on humanoid mobs, Teleporting you to the middle of their hitbox.
+        -   This talent is the same as the old legendary talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
 
 -   **Momentum Bar - Passive**
     -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the oath.

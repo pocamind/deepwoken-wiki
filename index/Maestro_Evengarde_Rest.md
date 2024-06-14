@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 101517
+revid: 101532
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -189,7 +189,7 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   All of his Mantras will automatically execute you.
     -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
 -   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
--   If you had [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he used to offer a unique line of dialogue:
+-   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.

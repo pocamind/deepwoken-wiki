@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 101015
+revid: 101545
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -119,7 +119,6 @@ Theadre is an NPC who can be found standing at the base of a statue at [The Lord
   <td colspan="4">A god? Amongst men, perhaps. The King shall be the vessel of Mur's light - he who once commanded the Mumurs greater than any other. It is said that his Ardour could cut the seas themselves... But where are you now, oh King?...</td>
   <td colspan="4">The King who will cast aside the aspersions fabricated by your kind...</td>
   <td colspan="3">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
-  <td>End</td>
 </tr>
 <tr>
   <td colspan="2">Mur?</td>

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 101412
+revid: 101547
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -39,7 +39,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
   <ul>
-    <li>Buffs the food of all surrounding players for 60 seconds. Does not require a campfire.</li>
+    <li>Buffs the food consumption effects of all surrounding players for 60 seconds. Does not require a campfire.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -48,7 +48,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
   <ul>
-    <li>Buffs the sanity of all surrounding players for 60 seconds. Does not require a campfire.</li>
+    <li>Slows the sanity loss of all surrounding players for 60 seconds. Does not require a campfire.</li>
   </ul></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 80769
+revid: 101538
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -24,3 +24,4 @@ This quest tasks you with retrieving books from an unnamed group of people from 
 ## Trivia
 
 -   Despite their record, accepted by the Maestro to work as the vigils librarian
+    -   Special dialogue if you have done the castaway tutorial, also you get to skip the quest.

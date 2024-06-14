@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 100339
+revid: 101540
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -219,9 +219,8 @@ Shadow Vortex
 
  | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The Mantra doesn't combat tag and has no vertical range cap.
 
-Firing shadow gun at this causes it to explode, dealing extra damage
-
--   A reference to Planetary Devastation from _Naruto Shippuden_.
+-   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
+-   Is compatible, and can be modified with [Glass/Magnifying Stones](Mantra_Modifiers.md) to increase the range, though it seems to display diminishing returns.
 
  |
 
@@ -764,6 +763,7 @@ N/A
 
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
 -   Many factions view the use of Shadowcast as taboo due to the nature of the Attunement.
+-   Shadow Vortex is a reference to Planetary Devastation from _Naruto Shippuden_.
 -   Shade Wisp is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner Ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against Shade Wisp's inclusion; it didn't even get past testing, but it was added to the game.
 -   Shadowcast has a Talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
     -   Additionally, several Shadowcast moves charge up with a white light.

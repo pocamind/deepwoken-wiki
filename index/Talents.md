@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101527
+revid: 101542
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -396,7 +396,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Berserker
 
-> Currently no Mystic dialogue.
+> _**"I seek the qualities of a berserker."**_
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
     -   When activated:
@@ -548,7 +548,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
     -   Active on every heavy weapon.
-    -   Also applies to parried mantras.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
 ### Comrade

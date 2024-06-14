@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 101236
+revid: 101544
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -19,7 +19,7 @@ Andrea is an NPC located in the [First Layer](First_Layer.md) of the Depths, at 
 
 ## Dialogue
 
-**|-Player has completed trial:**
+**Player has completed trial:**
 
 <table>
 <tbody>
@@ -46,7 +46,7 @@ Andrea is an NPC located in the [First Layer](First_Layer.md) of the Depths, at 
   <td colspan="12">*The young woman is muttering to herself as you approach, and then looks up at you with distant eyes.* Oh... I didn't see you there.</td>
 </tr>
 <tr>
-  <td colspan="12">1. You okay?</td>
+  <td colspan="12">You okay?</td>
 </tr>
 <tr>
   <td colspan="12">I need to get back... Back to the surface. But the Trial... I don't have what it takes.</td>

@@ -1,6 +1,6 @@
 ---
 title: Falei
-revid: 101505
+revid: 101536
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1]
@@ -15,7 +15,7 @@ categories: [NPCs, Layer 2, Floor 1]
 
 ## Description
 
-Kasen is a [Ganymede](Ganymede.md) NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer.md). One of the [Apprentice Divers](Apprentice_Diver.md) whom joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into layer 2, before his betrayal. He gives tips about the strong gale winds in the layer.
+Kasen is a [Ganymede](Ganymede.md) NPC located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in the [Eternal Gale](Second_Layer.md). One of the [Apprentice Divers](Apprentice_Diver.md) whom joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into the Second Layer, before his betrayal. He gives tips about the strong gale winds in the layer.
 
 ## Dialogue
 
@@ -50,4 +50,3 @@ Kasen is a [Ganymede](Ganymede.md) NPC in [Sanctuary Gatehouse](Sanctuary_Gateho
 ## Trivia
 
 -   Falei's racial variant appears to be Hyperion.
--   Likely the sole survivor of Chaser's expedition team.

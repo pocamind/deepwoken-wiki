@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 90806
+revid: 101534
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -20,7 +20,7 @@ categories: [Items, Attunement]
 
 ## Description
 
-A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md), in which there is a high chance you will obtain one. They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils, or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md).
+A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md), in which there is a high chance you will obtain one. They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils and thus unlock fighting [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md).
 
 ## Tips
 
