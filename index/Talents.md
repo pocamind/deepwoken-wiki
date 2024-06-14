@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101484
+revid: 101527
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -85,9 +85,10 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
-    -   Killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
+    -   Can stacj with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
+    -   You can fall further before incurring fall damage.
     -   3 Second cooldown.
     -   Prerequisite: 20 Agility
 
@@ -133,6 +134,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
     -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    -   This does NOT change the 12 mantra modification limit on a mantra.
     -   Prerequisites: 85 Intelligence
 
 ### Aerial Dancer
@@ -219,7 +221,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
     -   Prerequisite: 5 Agility
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
-    -   Halve the speed penalty losing health.
+    -   Halve the speed penalty tied to lost health.
     -   Prerequisite: 25 Agility, 25 Fortitude
     -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this talent.
 
@@ -308,6 +310,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
 
 -   Lowstride \[Common Talent, Agility\] - Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility)
     -   Crouching is now as fast as walking.
+    -   Crouching already increase your stealth, but Lowstride amplify this.
     -   Prerequisites: 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. Assassinating an opponent now blinds them for 5s. (+1 Passive Agility)
@@ -352,7 +355,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
-    -   You can only heal posture in combat by standing still and not blocking.
+    -   You can only regenerate posture passively in combat by not running and not blocking.
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
@@ -368,7 +371,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
-    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower.
+    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower, down to 3(?) seconds at 100 Willpower.
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
@@ -500,7 +503,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Charisma
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
-    -   Doubles the duration of charm from 15s to 30s.
+    -   Doubles the duration of charm from 7.5s to 15s.
     -   Counteracted by the Disbelief talent.
     -   Prerequisite: 55 Charisma, Charismatic Cast
 
@@ -676,9 +679,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### [Dawnwalker](Oath%253A_Dawnwalker.md)
 
 -   _Absolute Radiance \[Unlockable Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period._
-
 -   _Protagonist Syndrome \[Unlockable Talent, Dawnwalker Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast._
-
 -   Luminous Flash _\[Unlockable Talent, Dawnwalker Exclusive\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light._
 
 ### Death Speaker
@@ -847,8 +848,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 _**"I enjoy sea food."**_
 
 -   _Fishman_ \[Generic Talent, Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
-
-  
+    -   You normally cannot grip NPCs and players in water (due to a lack of ground to hold them down). Fishman allows you to drown them.
 
 ### Flame dancer
 
@@ -858,6 +858,7 @@ _**"I dance with the flames."**_
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
 
 -   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
+    -   If you lack the ether to cast a mantra, the speed boost will trigger regardless.
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
@@ -2391,8 +2392,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek to embrace the instability of lightning as a source of power."**_
 
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 
--   -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 

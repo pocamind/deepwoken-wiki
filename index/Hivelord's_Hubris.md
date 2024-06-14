@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 99871
+revid: 101525
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -33,7 +33,6 @@ It drops from all [Golem Constructs](Hive_Construct.md).
 
 ## Trivia
 
--   Despite dropping from both, it is more common from the Rogue Construct, due to the [Pomar](Ingredients.md) polluting the Hive Construct's loot pool.
 -   It's actually smaller than the arm of a Hive Construct, which can be easily compared by breaking the Hive Construct out of the ice in [Minityrsa](Minityrsa.md).[\[1\]](#cite-note-1)
 -   At 100 HVY it deals 52.5 damage and 61.3 with 6 proficiency.
 -   It has, by far, the slowest swing speed of any weapon in the game. While more predictable than other heavy weapons, it does gargantuan damage when landing a hit.

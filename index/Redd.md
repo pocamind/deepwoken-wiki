@@ -1,6 +1,6 @@
 ---
 title: Redd
-revid: 69098
+revid: 101522
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Etrean Luminant, Ingredients, Eastern Luminant]
@@ -17,7 +17,7 @@ Template:Food Template V1
 
 ## Description
 
-A small fruit found in many places all across the Etrean Luminant. They grow on trees, with around 5-8 Redds per tree. If you bring a few of these with you on a trip, they can save you for a while from dehydration or starvation.
+A small fruit found in many places across both Luminants. They grow on trees, with around 5-8 Redds per tree. If you bring a few of these with you on a trip, they can save you for a while from dehydration or starvation.
 
 ## Recipes used in
 
