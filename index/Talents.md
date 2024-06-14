@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101446
+revid: 101484
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -24,7 +24,7 @@ File:DeepwokenThumbnail.png
     -   _(i.e "Butterfly" to find talents that are within Butterfly)_
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
-        -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
+        -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with [Mystic](Mystic.md) isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
 
 ## Overview
 
@@ -1480,7 +1480,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisites: [Power](Power.md) 13
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
-    -   Prerequisite: [Power](Power.md) 13
+    -   ~Prerequisite: [Power](Power.md) 13~ Bloodletter is innate now.
     -   The head equipment "[Bloodfeather Cowl](Bloodfeather_Cowl.md)" have this talent.
 
 -   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)

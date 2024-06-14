@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 101478
+revid: 101489
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns, Flintlocks]
@@ -85,6 +85,8 @@ The Dawnshot is a midgame gun, which can be obtained through the [First Layer](F
 **Stormbreaker:**
 
 **Tears of the Edenkite:**
+
+**Umbral Knight:**
 
 **Curse of the Bloodthirsty:**
 

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 99950
+revid: 101495
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **2.0%**
 
 ## Description
 
-Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken, they are very gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +2 Willpower as well as resistance to the passive insanity gain of [Scyphozia](First_Layer.md).
+Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken, they are very gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +3 Willpower as well as resistance to the passive insanity gain of [Scyphozia](First_Layer.md).
 
 ## Racial Traits
 
@@ -30,7 +30,7 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
   <ul>
     <li>Passive insanity gain from The Depths is reduced.</li>
-    <li><a href="Deep_Shrines.md">Deep Shrines</a> cost -1 knowledge to make a deal with.</li>
+    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge instead cost 4 knowledge to make a deal with.</li>
   </ul></li>
   </ul></td>
 </tr>

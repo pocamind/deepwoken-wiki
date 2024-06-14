@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 93902
+revid: 101491
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore, Layer 2]
@@ -15,7 +15,7 @@ categories: [NPCs, Lore, Layer 2]
 
 ## Description
 
-Kaide is a Lightborn NPC found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
+Kaide is a [Lightborn](Lightborn.md) NPC found in [New Kyrsa](Second_Layer/New_Kyrsa.md). Wearing a [Soren](Soren.md) outfit.
 
 <table>
 <tbody>
