@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 101173
+revid: 101549
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -39,10 +39,9 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Eager Tradesman](Eager_Tradesman.md) ( )
 -   [Merchant Robes](Merchant_Robes.md) ( )
 -   Authority Peacekeeper Armour ( )
--   [Authority Captain Uniform](Authority_Captain_Uniform.md) ( )w
+-   [Authority Captain Uniform](Authority_Captain_Uniform.md) ( )
 -   [Diver Apprentice](Diver_Apprentice_Robes.md) ( )
 -   [Hive Drone](Hive_Drone.md) ( )
--   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
 -   [Keeper](Keeper.md) ( )
 -   [Legion Centurion](Legion_Centurion.md) ( )
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )

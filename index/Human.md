@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 95483
+revid: 101554
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -25,6 +25,7 @@ All Races were formerly "human" before they made their hereditary vows which cau
 **Strengths:**
 
 -   Making good music
+-   The indomitable human spirit.
     
 
 **Surnames:**

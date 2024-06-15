@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 101530
+revid: 101552
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -26,9 +26,9 @@ There are currently four base Attunements that anyone may select when first crea
 
 Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 2 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
 
--   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
 -   [Flamecharm](Flamecharm.md) = [Dying Embers](Dying_Embers.md)
 -   [Frostdraw](Frostdraw.md) = [Frigid Prisms](Frigid_Prism.md)
+-   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
 -   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
 -   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
 -   [Ironsing](Ironsing.md) = _1 of every ore excluding Rocks and Coal._
@@ -62,7 +62,6 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 ## Upcoming Attunements
 
 -   [Lifeweave](The_Hive.md)
--   Gasbringer
 
 ## Trivia
 

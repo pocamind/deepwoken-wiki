@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101542
+revid: 101568
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -778,7 +778,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusive: Million Ton Piercer
 
 -   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
-    -   ~Prerequisites: 60 [Element](Attunements.md)~ Elemental Rebound is innate now.
+    -   This is an innate talent
 
 ### Empath
 
@@ -1480,7 +1480,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisites: [Power](Power.md) 13
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
-    -   ~Prerequisite: [Power](Power.md) 13~ Bloodletter is innate now.
+    -   Bloodletter is an innate talent.
     -   The head equipment "[Bloodfeather Cowl](Bloodfeather_Cowl.md)" have this talent.
 
 -   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)

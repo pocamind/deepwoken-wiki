@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 101026
+revid: 101570
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -17,8 +17,6 @@ A Hemafrosted Capra casting a beam of ice.
 Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
 Landing Frostdraw mantras applies Chill which slows down enemies and is able to be improved with certain talents. Adding Logstones to certain mantras can increase the duration of Chill.
-
-_The most poorly designed Attunement. The Developers forgot they had to make Attunements other than Flamecharm._
 
 ## Training
 

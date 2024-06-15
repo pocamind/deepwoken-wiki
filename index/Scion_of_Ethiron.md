@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 101444
+revid: 101569
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -27,7 +27,9 @@ It utilizes a variety of attacks in combat. Notably, it can summon large bones a
 
 Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)** will respawn in random areas on Floor 2 (you can find chests in random areas whitout defeating ethiron, they will only respawn in random places after defeating). These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and the [Dawnwalker](Oath%253A_Dawnwalker.md) oath. Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possibly, Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, and [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise, you will **wipe unavoidably in 2 minutes. (Having bell as a safety net here can save you for a few seconds.)**
 
-Do keep in mind that the Scion of Ethiron is extremely resistant to the effects of [Vampirism](Enchantments.md). The healing is reduced enough as to be rendered quite literally negligible.
+Do keep in mind that the Scion of Ethiron is extremely resistant to the effects of [Vampirism](Enchantments.md) and [Bloodless Gems](Mantra_Modifiers.md). The healing is reduced enough as to be rendered quite literally negligible.
+
+Activating the boss fight will remove any light hook time immediately.
 
 ## Attacks
 

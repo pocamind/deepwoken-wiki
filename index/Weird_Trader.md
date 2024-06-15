@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101429
+revid: 101571
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -80,6 +80,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
         -   [The Path's Defender](<The_Path's_Defender.md>)
         -   [Old World Greatshield](Old_World_Greatshield.md)
+        -   [Worshipper Shield](<Worshipper's_Shield.md>)
 -   Any [Primordial Lotus](Ingredients.md#lotuses) or [Pristine Lotus](Pristine_Lotus.md)
 
 -   Ingredients, Including:
