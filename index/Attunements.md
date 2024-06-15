@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 101552
+revid: 101786
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -31,7 +31,7 @@ Post-creation, the character is able to learn more attunements throughout their 
 -   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
 -   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
 -   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
--   [Ironsing](Ironsing.md) = _1 of every ore excluding Rocks and Coal._
+-   [Ironsing](Ironsing.md) = 10 _of every ore_
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.
 

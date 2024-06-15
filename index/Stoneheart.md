@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 101550
+revid: 101789
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -15,7 +15,7 @@ categories: [Weapons, Greathammers]
 | damage | 24 |
 | scaling | 10 |
 | range | 8.5 |
-| swing speed | 0.6 |
+| swing speed | 0.8x |
 | endlag | 0.1x |
 | penetration | 10% |
 | chip damage | 10% |

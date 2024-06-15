@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 101714
+revid: 101785
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -91,7 +91,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Scaling:** Scaling for weapon attribute(s).
 -   **Weight:** Posture damage dealt.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
--   **Swing Speed:** Speed of basic weapon attacks (M1s).
+-   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
 -   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/102 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
@@ -157,7 +157,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 6</td>
   <td>2</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>19.5</td>
 </tr>
@@ -588,7 +588,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 6</td>
   <td>4</td>
   <td>8</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>21.1</td>
 </tr>
 <tr>
@@ -599,7 +599,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 7</td>
   <td>4</td>
   <td>8</td>
-  <td>0.81x</td>
+  <td>1.08x</td>
   <td>24.2</td>
 </tr>
 <tr>
@@ -716,7 +716,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6</td>
   <td>4</td>
   <td>7.5</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>26</td>
 </tr>
 <tr>
@@ -800,7 +800,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>31.9</td>
 </tr>
 <tr>
@@ -812,7 +812,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 5</td>
   <td>4</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>1x</td>
   <td>33.5</td>
 </tr>
 <tr>
@@ -848,7 +848,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>5</td>
   <td>7.5</td>
-  <td>0.78x</td>
+  <td>1.04x</td>
   <td>31.1</td>
 </tr>
 <tr>
@@ -860,7 +860,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6</td>
   <td>6</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.97x</td>
   <td>35.8</td>
 </tr>
 <tr>
@@ -872,7 +872,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>6</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>32.9</td>
 </tr>
 <tr>
@@ -896,7 +896,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>MED: 7</font></td>
   <td>5</td>
   <td>7.5</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>27.7</td>
 </tr>
 <tr>
@@ -944,7 +944,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6</td>
   <td>6</td>
   <td>7.5</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>35.8</td>
 </tr>
 <tr>
@@ -1074,7 +1074,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.9x</td>
   <td>30.9</td>
 </tr>
 <tr>
@@ -1098,7 +1098,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
-  <td>0.7x</td>
+  <td>0.93x</td>
   <td>38(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -1227,7 +1227,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>MED: 7</td>
   <td>5</td>
   <td>7.5</td>
-  <td>0.73x</td>
+  <td>0.97x</td>
   <td>33.7</td>
 </tr>
 <tr>
@@ -1281,7 +1281,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>MED: 8</td>
   <td>4</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>33</td>
 </tr>
 <tr>
@@ -1356,7 +1356,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>N/A</td>
   <td>41.5</td>
 </tr>
@@ -1369,7 +1369,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7</td>
   <td>4</td>
   <td>8</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>N/A</td>
   <td>40.6</td>
 </tr>
@@ -1612,7 +1612,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8.3</td>
   <td>9</td>
   <td>9</td>
-  <td>0.63x</td>
+  <td>0.6x</td>
   <td>0.1s</td>
   <td>43.8</td>
 </tr>
@@ -1764,7 +1764,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 7</td>
   <td>7</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>38.1</td>
 </tr>

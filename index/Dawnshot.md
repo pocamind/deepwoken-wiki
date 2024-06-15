@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 101489
+revid: 101787
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns, Flintlocks]
@@ -15,7 +15,7 @@ categories: [Weapons, Guns, Flintlocks]
 | damage | 14 |
 | scaling | 12 |
 | range | 10.5 |
-| swing speed | 0.8x |
+| swing speed | 1.06x |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,7 +30,7 @@ categories: [Weapons, Guns, Flintlocks]
 | damage | 16 |
 | scaling | 12 |
 | range | 10.5 |
-| swing speed | 0.8x |
+| swing speed | 1.06x |
 | penetration | 5% |
 | chip damage | 10% |
 | weight | 1 |

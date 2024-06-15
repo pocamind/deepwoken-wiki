@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 101516
+revid: 101797
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | damage | 23 |
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
-| swing speed | 0.7x |
+| swing speed | 0.93x |
 | endlag | 0.00s[sic] |
 | penetration | 15% |
 | chip damage | 0% |
