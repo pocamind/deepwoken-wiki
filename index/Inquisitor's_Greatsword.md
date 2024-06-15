@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 97600
+revid: 101626
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Greatswords]
 | damage | 23.5 |
 | scaling | 8.3 |
 | range | 9 |
-| swing speed | 0.63x |
+| swing speed | 0.84x |
 | endlag | 0.1s |
 | chip damage | N/A |
 | weight | 9 |

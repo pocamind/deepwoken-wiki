@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 99817
+revid: 101711
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -15,7 +15,7 @@ categories: [Weapons, Greathammers]
 | damage | 22 |
 | scaling | 7 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | endlag | 0.1 sec |
 | weight | 7 |
 | bankable | Yes |

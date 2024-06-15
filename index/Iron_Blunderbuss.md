@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 100632
+revid: 101617
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles]
@@ -15,7 +15,7 @@ categories: [Weapons, Rifles]
 | damage | 20 |
 | scaling | 7 |
 | range | 8 |
-| swing speed | 0.73x |
+| swing speed | 0.97x |
 | endlag | N/A |
 | penetration | 25% |
 | chip damage | N/A |

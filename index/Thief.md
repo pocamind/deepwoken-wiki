@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 74433
+revid: 101729
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -35,6 +35,7 @@ Their arsenal only consists of a [Silver Dagger:](Silver_Dagger.md)
 
 -   Be cautious of your blood level during a fight with thieves as daggers can drain your blood very quickly.
 -   Whenever they start to get the upper hand on you, Vent. Thieves, unlike Bandits, can't parry.
+-   Dying to them is not impactful unless other NPCs or players are around, as you are left knocked with only a smaller wallet.
 
 ## Trivia
 

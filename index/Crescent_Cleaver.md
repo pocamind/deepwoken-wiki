@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 97419
+revid: 101653
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Greatswords]
 | damage | 22 |
 | scaling | 8 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | endlag | 0.1s |
 | weight | 9 |
 | bankable | Yes |
@@ -32,7 +32,7 @@ categories: [Weapons, Greatswords]
 | damage | 22 |
 | scaling | 9.5 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | endlag | 0.1s |
 | chip damage | 20% |
 | weight | 9 |

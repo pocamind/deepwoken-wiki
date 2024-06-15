@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 97596
+revid: 101742
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Pages with broken file links]
@@ -26,13 +26,17 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <th><b>Name</b></th>
   <th><b>Description</b></th>
   <th><b>Images</b></th>
-  <th><b>Parry-able?</b></th>
+  <th>Parryable?</th>
+  <th>Blockable?</th>
+  <th>Dodgable</th>
   <th><b>Danger</b></th>
 </tr>
 <tr>
   <td><b>Bubble Beam</b></td>
   <td>The Crustaceous Rex lifts its <i><b>head</b></i> up, and its <i><b>body</b></i> backwards before releasing what seems to be poisonous bubbles at its foes, dealing low to medium damage and applying chill. This also friendly fires mobs. Exceptionally easy to get out of the way of.</td>
   <td></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
@@ -41,6 +45,8 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>The Crustaceous Rex raises its <i><b>Right Claw</b></i> and crabs its foe, crushing and dealing medium damage. If the opponent is at low enough health, <b>it will split them in half, auto-gripping.</b></td>
   <td></td>
   <td><font>✗</font></td>
+  <td><font>◯*</font></td>
+  <td><font>◯</font></td>
   <td><b>(★★★)</b></td>
 </tr>
 <tr>
@@ -48,12 +54,16 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>The Crustaceous Rex jumps up, promptly slamming down onto its bottom and dealing medium damage to foes in a large radius. Temporarily ragdolls those it hits.</td>
   <td></td>
   <td><font>✗</font></td>
+  <td><font>✗</font></td>
+  <td><font>◯</font></td>
   <td><b>(★★☆)</b></td>
 </tr>
 <tr>
   <td><b>Hack &amp; Slash</b></td>
   <td>The Crustaceous Rex raises its <i><b>Right &amp; Left Arms</b></i>, swinging them downward at its opponent in rapid succession, dealing high damage should both hits connect.</td>
   <td></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
@@ -62,10 +72,14 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>The Crustaceous Rex raises <i><b>Both of Its Arms</b></i> in the air, smashing them down onto its opponent and dealing medium damage.</td>
   <td></td>
   <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 </tbody>
 </table>
+
+\*Requires you to block before being grabbed
 
 ### **Passives**
 

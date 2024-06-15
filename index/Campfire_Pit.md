@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 100530
+revid: 101606
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,7 +18,7 @@ categories: [Mechanics]
 
 ## Description
 
-Campfires are used to cook food as well as to regain [Blood](Combat_Mechanics.md#survival-basics), [Health](Combat_Mechanics.md#gui), [Armor](Combat_Mechanics.md#gui) (requires the [Thresher Scales](Talents.md#marauder) Talent), Natural Armor (requires the [Vesperian](Vesperian.md) race **OR** the [Exoskeleton](Talents.md#freak-of-nature) talent) and [Sanity](Insanity.md).
+Campfires are used to cook food or melt [trinkets](Treasures.md) as well as to regain [Blood](Combat_Mechanics.md#survival-basics), [Health](Combat_Mechanics.md#gui), [Armor](Combat_Mechanics.md#gui) (requires the [Thresher Scales](Talents.md#marauder) Talent), Natural Armor (requires the [Vesperian](Vesperian.md) race **OR** the [Exoskeleton](Talents.md#freak-of-nature) talent) and [Sanity](Insanity.md).
 
 Campfires can be created by crafting and placing a Campfire Pit (3 sticks **OR** 1 Wood) and then lighting it by using a Flint or Umbral Flint, the [Produce Spark](Flamecharm.md#talents) or [Discovery of Fire](Thundercall.md#talents) talents, letting a [Flame Wisp](Flamecharm.md#mantras) light it or by using Fire Gun.
 

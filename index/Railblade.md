@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 98561
+revid: 101671
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons]
 | damage | 22 |
 | scaling | HVY: 8.3 |
 | range | 8.5 |
-| swing speed | 0.68x |
+| swing speed | 0.91x |
 | penetration | 25% |
 | special effect | Sets enemies you hit with the critical on fire. |
 | weight | 8 |

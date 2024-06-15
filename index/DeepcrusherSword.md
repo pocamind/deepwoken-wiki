@@ -1,6 +1,6 @@
 ---
 title: DeepcrusherSword
-revid: 94835
+revid: 101713
 source: https://deepwoken.fandom.com/wiki/DeepcrusherSword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Greathammers]
@@ -17,7 +17,7 @@ notices:
 | damage | 24 |
 | scaling | 8 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.6x (Legacy System) |
 | endlag | 0.1s |
 | penetration | 0% |
 | weight | 9 |

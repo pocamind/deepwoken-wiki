@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 99239
+revid: 101634
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | damage | 26 |
 | scaling | 7 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | endlag | 0.1s |
 | penetration | 0% |
 | special effect | Full hyperarmor critical that applies knockback. |
@@ -34,7 +34,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | damage | 26 |
 | scaling | 7.5 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | endlag | 0.1s |
 | penetration | 0% |
 | chip damage | 10% |

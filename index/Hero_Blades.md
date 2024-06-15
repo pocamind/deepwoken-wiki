@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 100360
+revid: 101763
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | damage | 20 |
 | scaling | ELE: 5.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,7 +31,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | damage | 20 |
 | scaling | 5.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -47,7 +47,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | damage | 20 |
 | scaling | LTN: 5.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -63,7 +63,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | damage | 20 |
 | scaling | 5.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -79,7 +79,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | damage | 20 |
 | scaling | 5.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -90,7 +90,9 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-**The Hero blades** are a Series of elemental blades rumored to be made from the essence of the song and are found within the game of _Deepwoken_, each taking the form of a blade with runes inscribed upon them. With each being made from an attunement based on the Hero who the weapon was created for with the blades keeping this form even though the original wielder has now passed on. Due to how the blades were created only those with powerful connections to the song are able to wield these weapons with each blade being attuned to one of the many natural elements of the song. What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requiring 75 in their respective attunement and level 11+.
+**The Hero Blades** are a series of elemental blades rumored to be made from the essence of the song and are found within the game of _Deepwoken_, each taking the form of a blade with runes inscribed upon them. With each being made from an attunement based on the Hero who the weapon was created for with the blades keeping this form even though the original wielder has now passed on. Due to how the blades were created only those with powerful connections to the song are able to wield these weapons with each blade being attuned to one of the many natural elements of the song.
+
+What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requiring 75 in their respective attunement and level 11+.
 
 The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing sets of 5 rounds in mysterious [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with several of the blades though they will have random attunements.
 
@@ -115,17 +117,18 @@ The Hero Blade of Flame is one of the several elemental weapons apart of the Her
 ## Trivia
 
 -   The Hero Blade of Flame originally had a gray hilt, like its fellow Hero Blades. This was changed to a rose color in the 10/13/2023 update.
+-   The critical is considered an aerial move, thus it will proc Meteor Impact.
     
 
 **Frost:**
 
-The Hero Blade of Frost is one of the several elemental weapons apart of the Hero blade line, being specifically the Frostdraw variation of the Hero Blades. This weapon features a unique critical which has the user and spirit within the weapon slam the ground in tandem summoning multiple waves of ice around the initial location, dealing damage while applying the status Frost and Frozen Legs to targets within the range of the critical. Though the user is unable to attack while this unique critical is active.
+The Hero Blade of Frost is one of the several elemental weapons apart of the Hero blade line, being specifically the Frostdraw variation of the Hero Blades. This weapon features a unique critical which has the user and spirit within the weapon slam the ground in tandem summoning multiple waves of ice around the initial location, dealing damage while applying the status Frost and Frozen Legs to targets within the range of the critical, though the user is unable to attack while this unique critical is active. If the user has Glass Path: Crystallization, the critical will apply additional crystals on hit.
 
 ## Critical
 
 **Lightning:**
 
-The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon has a unique critical in which the user and phantom summon a line of thunder in front of themselves, dealing damage and applying shock to targets.
+The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon has a unique critical in which the user and phantom summon a line of thunder in front of themselves, dealing damage and applying shock to targets. If the user has Surge Path: Unstable Capacitor, the critical will apply additional rods on hit.
 
 ## Critical
 
@@ -145,7 +148,7 @@ The Hero Blade of Wind is an elemental weapon and the Galebreathe variation of t
 
 **Shadow:**
 
-The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of the Hero Blades. This weapon features a unique critical attack where the user quickly lunges forward (the lunge distance scaling with speed bonuses), dealing damage and applying blindness on hit.
+The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of the Hero Blades. This weapon features a unique critical attack where the user quickly lunges forward (the lunge distance scaling with speed bonuses), dealing damage and stealing Ether on hit. If the user has Singularity or Sightless Still, the critical will apply additional effects based on the exclusive talents.
 
 ## Trivia
 
@@ -169,7 +172,8 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
     -   The Hero of Shadow is a [Felinor.](Felinor.md)
         -   Identified by its ears.
     -   The Hero of Thunder is an [Adret.](Adret.md)
-        -   Identified by its face markings.
+        -   Identified by her face markings.
+        -   The Hero of Thunder was named Tessa, as in [this](https://x.com/Deepwoken/status/1801820070403772727) Twitter post stated.
 -   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Thunder Clones](Thundercall.md)) will use the default starting sword critical instead of the Hero Blade crit.
 -   Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades.
 -   At max ELE, the damage is (28.3) for all the Hero Blades.

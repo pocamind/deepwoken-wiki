@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 96215
+revid: 101686
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 21 |
 | scaling | 5 MED |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | endlag | N/A |
 | penetration | N/A |
 | chip damage | N/A |

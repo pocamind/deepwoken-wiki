@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 96310
+revid: 101635
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 22 |
 | scaling | 6 MED |
 | range | 7.5 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | 5% |
 | chip damage | 30% |
 | special effect | ? |

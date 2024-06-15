@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 100647
+revid: 101687
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -15,7 +15,7 @@ categories: [Weapons, Spears]
 | damage | 18 + 5.4 BLD |
 | scaling | 6 |
 | range | 9 |
-| swing speed | 0.7 |
+| swing speed | 0.93 |
 | penetration | 25% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |

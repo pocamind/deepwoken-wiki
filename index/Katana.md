@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 97421
+revid: 101643
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, Katanas]
 | damage | 18 |
 | scaling | 6 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,7 +31,7 @@ categories: [Weapons, Swords, Katanas]
 | damage | 20 |
 | scaling | 7 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | 10% |
 | chip damage | 10% |
 | weight | 6 |

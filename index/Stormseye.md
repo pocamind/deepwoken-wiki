@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 100477
+revid: 101648
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 | damage | 19.5 |
 | scaling | 3 Medium, 6 Thunder |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | endlag | N/A |
 | penetration | N/A |
 | chip damage | N/A |

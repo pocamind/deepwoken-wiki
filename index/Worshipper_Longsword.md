@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 96211
+revid: 101680
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 19 |
 | scaling | 4 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1.03x |
 | penetration | N/A |
 | weight | 5 |
 | bankable | Yes |

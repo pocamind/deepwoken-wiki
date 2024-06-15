@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 96151
+revid: 101689
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists]
 | damage | 15 + 4.5 BLD |
 | scaling | 7.5 |
 | range | 6 |
-| swing speed | 0.82 |
+| swing speed | 1.09x |
 | penetration | 10% |
 | chip damage | 10% |
 | stances | 1 Handed |

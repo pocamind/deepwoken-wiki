@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 101167
+revid: 101743
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -85,7 +85,7 @@ Overhead Grab/Owl Dash is typically used after this. | ◯ | ◯ | **\-** | (★
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Deep Owls.
 
-## Strategy
+## Tips / Strategy
 
 One strategy an unprepared player should consider when encountering the Owl is the **Fight** or **Flight** response.
 
@@ -93,13 +93,13 @@ One strategy an unprepared player should consider when encountering the Owl is t
 
 Log or run away. Since the Deep Owl can be seen before it is physically spawned, as signified by the falling feathers, it is almost guaranteed the player can get away by turning back and returning the way they came. (This strategy wont work if the owl spawns on-top of the player or if the Owl is standing somewhere and is already aggressive after killing an enemy.)
 
-In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the "End Dialogue" option). All of these options have same result. The Owl will stare at the player until it is attacked or shown the player's back, at which it will then turn hostile and attack. There isn't any time limit for the Owl's "staring" phase meaning that if the player encounters the owl, it can be held in that state forever until someone comes to help or the player escapes its detection range (either by walking backwards or logging out). Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state, unless a different entity sent or is sending you into a combat tag. Do remember that owl will turn their direction towards the player whenever they move.
+In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the "End Dialogue" option). All of these options have same result. The Owl will stare at the player until it is attacked or shown the player's back, at which it will then turn hostile and attack. There isn't any time limit for the Owl's "staring" phase meaning that if the player encounters the owl, it can be held in that state forever until someone comes to help or the player escapes its detection range (either by walking backwards or logging out). Closing the game or using the Menu Button during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state, unless a different entity sent or is sending you into a combat tag. Do remember that owl will turn their direction towards the player whenever they move.
 
 **Fight**
 
 If choosing to fight the Deep Owl for the first time, there are several things the player should keep in mind;
 
--   Typically, the Owl becomes reasonable to kill from level 10 onward (with proper skill).
+-   Typically, the Owl becomes reasonable to kill from level 7 onwards, but may be powerchecked around level 12.
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
 

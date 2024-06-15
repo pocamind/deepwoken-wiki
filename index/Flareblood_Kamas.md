@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 99421
+revid: 101673
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | damage | 13 + 3.9 BLD |
 | scaling | 8 LHT 2 INT |
 | range | 6.5 |
-| swing speed | 0.98x |
+| swing speed | 1.25x |
 | endlag | 0.05s |
 | penetration | 30% |
 | chip damage | None |

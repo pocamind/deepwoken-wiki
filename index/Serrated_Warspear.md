@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 100938
+revid: 101662
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -15,7 +15,7 @@ categories: [Weapons, Spears]
 | damage | 18 (+ 5.4 BLEED) |
 | scaling | 6.5 |
 | range | 9 |
-| swing speed | 0.7x |
+| swing speed | 0.93x |
 | penetration | 20% |
 | chip damage | 10% |
 | special effect | Bleed |

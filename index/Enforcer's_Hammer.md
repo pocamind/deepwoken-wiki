@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 99868
+revid: 101658
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -15,7 +15,7 @@ categories: [Weapons, Greathammers]
 | damage | 25 |
 | scaling | 9 |
 | range | 8.5 |
-| swing speed | 0.6 |
+| swing speed | 0.8x |
 | endlag | 0.1s |
 | penetration | 10% |
 | chip damage | 10% |

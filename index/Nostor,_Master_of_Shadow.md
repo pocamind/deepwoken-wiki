@@ -1,11 +1,9 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 101574
+revid: 101721
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Enemies, Spelltrainers]
 ---
 
 # Nostor, Master of Shadow
@@ -51,7 +49,7 @@ Rapid Punches
 -   _Dark Hours_ - Nostor's Shadowcast mantras deal more damage at night.
 -   _Dark Rift_ - If Nostor successfully dodges an attack they enter a rifted state where they can't be damaged until its duration ends. Can be cancelled if they attack or feint.
 -   _Singularity_ - If Nostor hits an enemy, the enemy will briefly hang in place when hit by a shadow move.
--   Black Hole - Nostor's singularity pulls everyone nearby in.
+-   _Black Hole_ - Nostor's singularity pulls everyone nearby in.
 -   _Fear_ - Enemies will briefly hang in place if they try to run from Nostor.
 -   _Lasting Sorrow_ - Shadows last longer on Nostor's opponents.
 
@@ -65,7 +63,7 @@ Nostor executes their opponent after knocking them:
 
 ## Tips
 
--   Be wary of other players, as Nostor is located in a prime place for farming [Umbrite](Ores.md).
+-   Be wary of other players, as Nostor is located in a prime place for farming [Umbrite](Ores.md), as well as being in the Depths.
 
 ## Trivia
 

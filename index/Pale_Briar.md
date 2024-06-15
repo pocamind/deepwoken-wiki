@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 97588
+revid: 101611
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -15,7 +15,7 @@ categories: [Weapons, Greataxes]
 | damage | 23 |
 | scaling | 7.5 |
 | range | 10 |
-| swing speed | 0.61x |
+| swing speed | 0.81x |
 | penetration | 25% |
 | chip damage | 10% |
 | selling price | 100 |

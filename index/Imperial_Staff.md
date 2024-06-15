@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 101362
+revid: 101647
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -15,7 +15,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
 | damage | 19 |
 | scaling | MED: 5, STR: 3 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | 10% |
 | special effect | Ranged Critical (ragdolls), Aerial Critical (slam, instant guard break), Running Critical (multi-hit) |
 | stances | 2 Handed, 1 Handed |

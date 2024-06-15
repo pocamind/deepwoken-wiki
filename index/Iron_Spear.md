@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 96314
+revid: 101632
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -15,7 +15,7 @@ categories: [Weapons, Spears]
 | damage | 17 |
 | scaling | 2.5 MED |
 | range | 9 |
-| swing speed | 0,68x |
+| swing speed | 0.9x |
 | penetration | N/A |
 | weight | 5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101568
+revid: 101757
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -599,6 +599,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Activates the "Ice Spikes" mantra upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
+    -   Extends the CD on Ice Spike by 5s to 20s total.
     -   Prerequisite: Ice Spikes, 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
@@ -1072,6 +1073,10 @@ _**"I'm built different" - Cannot Give Talents**_
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
+
+-   _Hip Shooter_ \[Common Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
+    -   Prerequisites: 40 Light Weapon, 60 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
+
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
@@ -1140,7 +1145,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
-    -   Spotter Talent no longer shows how much health your character has.
+    -   Spotter / Tacet Talent no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
@@ -1761,7 +1766,10 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisite: 25 Strength
     -   Mutual Exclusives: Dazing Finisher
 
-  
+-   Broken Ankles \[Common Talent\] - Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD
+    -   Prerequisite: 70 Strength
+-   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
+    -   Prerequisite: 80 Strength
 
 ### Rampaging Brute
 

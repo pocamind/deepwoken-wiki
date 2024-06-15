@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 101259
+revid: 101625
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 19 |
 | scaling | 6.5 |
 | range | 8 |
-| swing speed | 0.77x |
+| swing speed | 1.02x |
 | endlag | ? |
 | penetration | 10% |
 | chip damage | 0% |

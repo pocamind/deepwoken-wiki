@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 100716
+revid: 101723
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -78,11 +78,11 @@ Polis executes his opponent after knocking them:
 
 ## Trivia
 
--   Killing him will give the player negative [reputation](Reputation.md) with Etrea. (Despite Polis saying that he was not liked by the etreans)
+-   Killing him will give the player negative [reputation](Reputation.md) with Etrea. (Despite Polis saying that he was not liked by the etreans.)
 -   During the event there's a bug where his face mask changes to a different pattern than the one he has while he is static.
--   Though Polis can be killed, doing so will not affect him respawning back in his usual spot and acting like nothing happened.
--   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes.
+-   Though Polis can be killed, doing so will not affect him, as he will respawn back in his usual spot and act like nothing happened.
+-   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes, however the price may vary due to quality stars.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."
--   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and does not give you a Gold Ring or any other dialogue
+-   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and does not give you a Gold Ring or any other dialogue.
 -   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead.
--   His name literally historically means "Greek city state"
+-   His name historically means "Greek city state."

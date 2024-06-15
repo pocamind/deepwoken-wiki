@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 99069
+revid: 101668
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -15,7 +15,7 @@ categories: [Weapons, Spears]
 | damage | 21 |
 | scaling | 7 |
 | range | 9 |
-| swing speed | 0.68x |
+| swing speed | 0.9x |
 | endlag | N/A |
 | penetration | 25% |
 | special effect | N/A |

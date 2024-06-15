@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 100154
+revid: 101602
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -115,6 +115,8 @@ A grey-brownish ore used for crafting Bullets, Bombs, and certain armors. Found 
 ## Overview
 
 A glimmering, yellow ore used for crafting certain armors. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing where you can obtain [Oath: Oathless](Oath%253A_Oathless.md), and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff and yellow particle effect.
+
+It may also be obtained by "melting" Gold Bars or Gold Rings via depositing them into the crafting menu at a [Campfire](Campfire_Pit.md).
 
 **Erisore:**
 

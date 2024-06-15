@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 99867
+revid: 101700
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greathammers]
@@ -17,7 +17,7 @@ notices:
 | damage | 26 |
 | scaling | 9 |
 | range | 9 |
-| swing speed | 0.55x |
+| swing speed | 0.73x |
 | penetration | 20% |
 | chip damage | 10% |
 | weight | 13 |

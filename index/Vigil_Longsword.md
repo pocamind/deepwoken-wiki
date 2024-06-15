@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 101247
+revid: 101638
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -17,7 +17,7 @@ notices:
 | damage | 20 |
 | scaling | 6 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | N/A |
 | selling price | 15 |
 | weight | 5 |
@@ -35,7 +35,7 @@ notices:
 | damage | 20 |
 | scaling | 7.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | 20% |
 | selling price | ??? |
 | weight | 5 |

@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 100059
+revid: 101672
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, Katanas]
 | damage | 16.5 |
 | scaling | 9 |
 | range | 7 |
-| swing speed | 0.8x |
+| swing speed | 1.06x |
 | penetration | 15% |
 | weight | 5 |
 | bankable | Yes |

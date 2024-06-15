@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 96317
+revid: 101651
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -15,7 +15,7 @@ categories: [Weapons, Spears]
 | damage | 18+5.4 bleed |
 | scaling | MED: 6 |
 | range | 9 |
-| swing speed | 0.7 |
+| swing speed | 0.93x |
 | penetration | 15% |
 | selling price | N/A |
 | weight | 5 |

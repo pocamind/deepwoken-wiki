@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 101430
+revid: 101676
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -15,7 +15,7 @@ categories: [Weapons, Daggers]
 | damage | 15 |
 | scaling | 7.5 LHT |
 | range | 6.5 |
-| swing speed | 0.98x |
+| swing speed | 1.25x |
 | endlag | 0.04x |
 | stances | 1 Handed |
 | selling price | 120 |

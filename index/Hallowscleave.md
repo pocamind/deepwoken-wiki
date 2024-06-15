@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 96309
+revid: 101682
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 19 |
 | scaling | 7 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
 | weight | 6 |

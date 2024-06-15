@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 99806
+revid: 101709
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -15,7 +15,7 @@ categories: [Weapons, Greataxes]
 | damage | 22 |
 | scaling | 7 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 5 |
 | bankable | Yes |
@@ -32,7 +32,7 @@ categories: [Weapons, Greataxes]
 | damage | 24 |
 | scaling | 8 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | penetration | 15% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 6 |

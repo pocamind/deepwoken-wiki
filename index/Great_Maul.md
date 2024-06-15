@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 99821
+revid: 101659
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -15,7 +15,7 @@ categories: [Weapons, Greathammers]
 | damage | 25 |
 | scaling | 8 |
 | range | 8 |
-| swing speed | 0.64x |
+| swing speed | 0.85x |
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 10% |

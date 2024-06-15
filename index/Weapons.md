@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 101272
+revid: 101714
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -193,7 +193,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
-  <td>0.96x</td>
+  <td>1.28x</td>
   <td>0.05s</td>
   <td>26.6</td>
 </tr>
@@ -217,7 +217,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>3</td>
   <td>6.5</td>
-  <td>0.85x</td>
+  <td>1.13x</td>
   <td>N/A</td>
   <td>28.4</td>
 </tr>
@@ -241,7 +241,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>INT: 2 LHT: 8</td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>34.6(<b>Bleed</b>)</td>
 </tr>
@@ -253,7 +253,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 10.5</td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>26.2</td>
 </tr>
@@ -265,7 +265,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8.5</td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>24.5</td>
 </tr>
@@ -301,7 +301,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 7.5</td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.04s</td>
   <td>26.7</td>
 </tr>
@@ -336,7 +336,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7</td>
   <td>3</td>
   <td>6</td>
-  <td>0.85x</td>
+  <td>1.13x</td>
   <td>N/A</td>
   <td>20.8</td>
 </tr>
@@ -349,7 +349,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7</td>
   <td>5</td>
   <td>6</td>
-  <td>0.87x</td>
+  <td>1.14x</td>
   <td>N/A</td>
   <td>23.4</td>
 </tr>
@@ -362,7 +362,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9</td>
   <td>5</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.14x</td>
   <td>N/A</td>
   <td>29.1</td>
 </tr>
@@ -375,7 +375,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9</td>
   <td>3</td>
   <td>7</td>
-  <td>0.88x</td>
+  <td>1.17x</td>
   <td>0.05s</td>
   <td>27.1</td>
 </tr>
@@ -388,7 +388,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9</td>
   <td>3</td>
   <td>7</td>
-  <td>0.88x</td>
+  <td>1.17x</td>
   <td>0.05</td>
   <td>26.2</td>
 </tr>
@@ -401,7 +401,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9.5</td>
   <td>5</td>
   <td>6</td>
-  <td>0.86x</td>
+  <td>1.14x</td>
   <td>N/A</td>
   <td>30.9</td>
 </tr>
@@ -414,7 +414,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>WLL: 10 LHT: 4</td>
   <td>5</td>
   <td>7</td>
-  <td>0.85x</td>
+  <td>1.13x</td>
   <td>N/A</td>
   <td>29.8</td>
 </tr>
@@ -440,7 +440,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7.5</td>
   <td>4</td>
   <td>6</td>
-  <td>0.82x</td>
+  <td>1.09x</td>
   <td>N/A</td>
   <td>34.7(<b>Bleed</b>)</td>
 </tr>
@@ -498,7 +498,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10.5</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>31.5</td>
 </tr>
 <tr>
@@ -510,7 +510,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
-  <td>0.85x</td>
+  <td>1.13x</td>
   <td>35.9</td>
 </tr>
 <tr>
@@ -522,7 +522,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>11</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>36</td>
 </tr>
 <tr>
@@ -632,7 +632,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 7.5</td>
   <td>4</td>
   <td>8.5</td>
-  <td>0.81x</td>
+  <td>1.08x</td>
   <td>32.4(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -704,7 +704,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 5</td>
   <td>6</td>
   <td>7.5</td>
-  <td>0.7x</td>
+  <td>0.93x</td>
   <td>30.4</td>
 </tr>
 <tr>
@@ -788,7 +788,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6.5</td>
   <td>4</td>
   <td>8</td>
-  <td>0.77x</td>
+  <td>1.02x</td>
   <td>31.9</td>
 </tr>
 <tr>
@@ -824,7 +824,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>4</td>
   <td>7.5</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>29.4</td>
 </tr>
 <tr>
@@ -932,7 +932,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>MED: 7</font></td>
   <td><font>6</font></td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>34.6</td>
 </tr>
 <tr>
@@ -956,7 +956,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 9</td>
   <td>5</td>
   <td>7</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>32</td>
 </tr>
 <tr>
@@ -968,7 +968,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.74x</td>
+  <td>0.98x</td>
   <td>34.6</td>
   <td></td>
 </tr>
@@ -1026,7 +1026,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 4</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.9x</td>
   <td>25.5</td>
 </tr>
 <tr>
@@ -1158,7 +1158,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 5</td>
   <td>5</td>
   <td>9</td>
-  <td>0.72x</td>
+  <td>0.96x</td>
   <td>36.6(<b>Bleed</b>)</td>
 </tr>
 </tbody>
@@ -1292,7 +1292,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>MED: 7</td>
   <td>4</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.97x</td>
   <td>34.6</td>
 </tr>
 </tbody>
@@ -1382,7 +1382,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 6</td>
   <td>4</td>
   <td>8</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>N/A</td>
   <td>43.1</td>
 </tr>
@@ -1395,7 +1395,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 9.5</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.55x</td>
+  <td>0.73x</td>
   <td>N/A</td>
   <td>64.7(<b>Bleed</b>)</td>
 </tr>
@@ -1434,7 +1434,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>N/A</td>
   <td>48.5</td>
 </tr>
@@ -1447,7 +1447,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 10</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.57x</td>
+  <td>0.76x</td>
   <td>N/A</td>
   <td>53.1</td>
 </tr>
@@ -1460,7 +1460,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7</td>
   <td>7.5</td>
   <td>8.5</td>
-  <td>0.68x</td>
+  <td>0.91x</td>
   <td>N/A</td>
   <td>39.8</td>
 </tr>
@@ -1486,7 +1486,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>HVY: 8</font></td>
   <td>5</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>N/A</td>
   <td>44</td>
 </tr>
@@ -1499,7 +1499,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>HVY: 8</font></td>
   <td><font>8</font></td>
   <td>8</td>
-  <td><font>0.65x</font></td>
+  <td><font>0.87x</font></td>
   <td>N/A</td>
   <td>44</td>
 </tr>
@@ -1512,7 +1512,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7.5</td>
   <td>7</td>
   <td>10</td>
-  <td>0.61x</td>
+  <td>0.81x</td>
   <td>N/A</td>
   <td>41</td>
 </tr>
@@ -1560,7 +1560,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 7</td>
   <td>7</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>38.1</td>
 </tr>
@@ -1625,7 +1625,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 7, CHA: 2</td>
   <td>9</td>
   <td>9</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>N/A</td>
   <td>46.6</td>
 </tr>
@@ -1638,7 +1638,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>N/A</td>
   <td>46.8</td>
 </tr>
@@ -1677,7 +1677,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><font>HVY: 8</font></td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>47.7</td>
 </tr>
@@ -1703,7 +1703,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8.5</td>
   <td>9</td>
   <td>9</td>
-  <td>0.61x</td>
+  <td>0.81x</td>
   <td>0.1s</td>
   <td>58.8(<b>Bleed</b>)</td>
 </tr>
@@ -1716,7 +1716,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8.3</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.68x</td>
+  <td>0.91x</td>
   <td>N/A</td>
   <td>41</td>
 </tr>
@@ -1729,7 +1729,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.59x</td>
+  <td>0.79x</td>
   <td>N/A</td>
   <td>48.5</td>
 </tr>
@@ -1777,7 +1777,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>44</td>
 </tr>
@@ -1790,7 +1790,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 8.3</td>
   <td>10</td>
   <td>9</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>0.1s</td>
   <td>46.6</td>
 </tr>
@@ -1803,7 +1803,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 9</td>
   <td>10</td>
   <td>9</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>46.5</td>
 </tr>
@@ -1816,7 +1816,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 8.5</td>
   <td>9</td>
   <td>9</td>
-  <td>0.61x</td>
+  <td>0.81x</td>
   <td>0.1s</td>
   <td>47.2</td>
 </tr>
@@ -1829,7 +1829,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>47.7</td>
 </tr>
@@ -1842,7 +1842,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 9</td>
   <td>13</td>
   <td>9</td>
-  <td>0.55x</td>
+  <td>0.73x</td>
   <td>N/A</td>
   <td>50.4</td>
 </tr>
@@ -1868,7 +1868,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 9</td>
   <td>12</td>
   <td>8.5</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>48.5</td>
 </tr>
@@ -1881,7 +1881,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 10</td>
   <td>12</td>
   <td>8.5</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>49</td>
 </tr>
@@ -1928,7 +1928,7 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
   <td>MED: 6.2, HVY: 4.2</td>
   <td>6</td>
   <td>10</td>
-  <td>0.7x</td>
+  <td>0.93x</td>
   <td>41.7</td>
 </tr>
 <tr>
@@ -1940,7 +1940,7 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
   <td>HVY: 5, FIR: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.68x</td>
+  <td>0.93x</td>
   <td>49.4</td>
 </tr>
 </tbody>
@@ -1972,7 +1972,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>FIR: 5.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>N/A</td>
   <td>31.5</td>
 </tr>
@@ -1984,7 +1984,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>THD: 5.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>N/A</td>
   <td>31.5</td>
 </tr>
@@ -1996,7 +1996,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>ICE: 5.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>N/A</td>
   <td>31.5</td>
 </tr>
@@ -2008,7 +2008,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>WND: 5.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>N/A</td>
   <td>31.5</td>
 </tr>
@@ -2020,7 +2020,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>SDW: 5.5</td>
   <td>5</td>
   <td></td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>N/A</td>
   <td>31.5</td>
 </tr>
@@ -2032,7 +2032,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>THD: 6, MED: 3</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>N/A</td>
   <td>37.8</td>
 </tr>
@@ -2044,7 +2044,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>ICE: 8 HVY: 4</td>
   <td>6</td>
   <td>8.5</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>N/A</td>
   <td>54</td>
 </tr>
@@ -2056,7 +2056,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>MED: 5, WND: 5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.78x</td>
+  <td>1.04x</td>
   <td>N/A</td>
   <td>35.7</td>
 </tr>
@@ -2068,7 +2068,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>SDW: 9 HVY: 4</td>
   <td>9</td>
   <td>9</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>0.15s</td>
   <td>51.8</td>
 </tr>
@@ -2080,7 +2080,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>MTL: 4 MED: 3</td>
   <td>4</td>
   <td>8</td>
-  <td>0.79x</td>
+  <td>1.05x</td>
   <td>N/A</td>
   <td>31.1</td>
 </tr>
@@ -2092,7 +2092,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>HVY: 5, FIR: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.68x</td>
+  <td>0.93x</td>
   <td>N/A</td>
   <td>49.4</td>
 </tr>

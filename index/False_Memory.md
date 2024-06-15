@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 96206
+revid: 101684
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 18 |
 | scaling | 2.5 |
 | range | 8 |
-| swing speed | 0.75x |
+| swing speed | 1x |
 | penetration | N/A |
 | chip damage | N/A |
 | special effect | N/A |

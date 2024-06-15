@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 101287
+revid: 101765
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -15,7 +15,7 @@ categories: [Weapons, Flintlocks]
 | damage | 14 |
 | scaling | 15 |
 | range | 12 |
-| swing speed | 0.85x |
+| swing speed | 1.13x |
 | selling price | 14 |
 | weight | 1 |
 | bankable | Yes |
@@ -38,7 +38,7 @@ The Repeater has a [Bullet](Bullet_Casings.md) capacity of 6, Meaning you get a 
 -   Meeting the requirements of LHT, the weapon deals 24.2 damage.
 -   At max LHT, the weapon will deal 29.8 damage.
 -   Like all other pistols, Using this with 1 hand grants 2 sets of "M1" attacks and 1 Critical attack only available when reloaded with Z/Y by default
--   This weapon was once called the Revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
+-   Prior to the update on 06/07/2024, this weapon was called the Revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
     -   The gun's model is more accurate to a modified [Lancaster pistol](https://en.wikipedia.org/wiki/Lancaster_pistol).
         -   Notably, Lancaster pistols possess four barrels, while the Repeater only has two. This is due to it being copied from a piece of concept art for a hypothetical sequel to the videogame _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_, drawn by Cal Santiago. Due to the concept art being two-dimensional, it gave the appearance that the gun only had two barrels, despite having four.[\[2\]](#cite-note-2)
 

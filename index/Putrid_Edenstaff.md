@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 99865
+revid: 101692
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -15,7 +15,7 @@ categories: [Weapons, Greathammers]
 | damage | 25 |
 | scaling | 8.5 |
 | range | 9 |
-| swing speed | 0.61x |
+| swing speed | 0.81x |
 | endlag | 0.1s |
 | penetration | 15% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

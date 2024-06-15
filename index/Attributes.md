@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 101447
+revid: 101759
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -96,6 +96,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
+    -   one weapon that requires charisma is the [kyrsieger](Kyrsieger.md), needing 15 charisma, and 50 heavy weapon
 -   Gain Charisma EXP by selling items, getting good reputation with a faction, playing an instrument, using the Encyclopedia (this will train your Intelligence at the same time) and using the _How To Make Friends_ book.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to [Etris](Etris.md).**_
 

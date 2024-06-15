@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 99820
+revid: 101712
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -15,7 +15,7 @@ categories: [Weapons, Greathammers]
 | damage | 24 |
 | scaling | 8 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.8x |
 | endlag | 0.1s |
 | penetration | 0% |
 | selling price | 14 |

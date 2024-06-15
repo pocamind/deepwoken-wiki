@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 101327
+revid: 101622
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -15,7 +15,7 @@ categories: [Weapons, Greataxes]
 | damage | 26 |
 | scaling | HVY: 10 |
 | range | 8.5 |
-| swing speed | 0.57x |
+| swing speed | 0.76x |
 | penetration | 10% |
 | weight | 8 |
 | bankable | Yes |

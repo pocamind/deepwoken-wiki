@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 97770
+revid: 101630
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -15,7 +15,7 @@ categories: [Weapons, Pages with broken file links, Fists]
 | damage | 12 (WN/LK) , 14 (JK) |
 | scaling | 7 (WN/LK) , 9 (JK) |
 | range | 7 |
-| swing speed | 0.75x (WN/LK) , 0.9x (JK) |
+| swing speed | 1.13x (WN/LK) , 0.9x (JK) |
 | penetration | N/A (WN/LK) , 20% (JK) |
 | weight | 3 |
 | bankable | Yes |

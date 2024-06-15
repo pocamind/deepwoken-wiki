@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 99567
+revid: 101631
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons]
 | damage | 16 |
 | scaling | 9.5 |
 | range | 6 |
-| swing speed | 0.82x |
+| swing speed | 1.09x |
 | penetration | 15% |
 | stances | 1 Handed |
 | selling price | 25 |
