@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 101128
+revid: 101781
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -293,7 +293,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman's Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
 -   The Ferryman's Hair ID: 17208591888
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from Rouge Lineage.
--   Due to this boss, The [Scion of Ethiron](Scion_of_Ethiron.md), and [Amorus Pleeksty](Amorus_Pleeksty.md) using purple variations of their element, they were thought to be using "awakened elements." However, despite the connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".\[citation needed\]
+-   Due to this boss, The [Scion of Ethiron](Scion_of_Ethiron.md), and [Amorus Pleeksty](Amorus_Pleeksty.md) using purple variations of their element, they were thought to be using "awakened elements." However, despite the connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"

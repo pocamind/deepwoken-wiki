@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 98297
+revid: 101773
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -37,9 +37,10 @@ Along with this ability comes several limitations, being that certain items of s
 
 ## Miscellaneous
 
--   Despite not being an item that is soulbound or of the legendary designation, Divers Light Plate cannot be stored.
+-   Despite not being an item that is soulbound or of the legendary designation, Divers Light Plate that cannot be stored.
 -   The item bank follows the rules of how items are displayed in chests; if an item in a chest stacks, then it can stack in the bank.
 -   [Hallowtide](Hallowtide.md) weapons and equipment can be stored for free unless they are enchanted, then they will follow the soulbind rule.
 -   Starter advanced weapons can be stored by enchanting them.
 -   You cannot store [Campfires](Campfire_Pit.md).
 -   You cannot be attacked while in the GUI
+-   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
