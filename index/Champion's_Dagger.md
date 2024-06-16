@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 101830
+revid: 101907
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -17,7 +17,6 @@ categories: [Weapons, Daggers]
 | range | 6 |
 | swing speed | 1.28x |
 | endlag | 0.05s |
-| penetration | None |
 | chip damage | 10% |
 | stances | 1 Handed |
 | selling price | 25 |
@@ -27,7 +26,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Cloaked Assassin, The Diluvian Mechanism |
-| description | "A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself." |
+| description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description
 

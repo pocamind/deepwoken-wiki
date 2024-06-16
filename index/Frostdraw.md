@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 101886
+revid: 101929
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -12,9 +12,7 @@ categories: [Pages with broken file links, Attunement]
 
 Frostdraw icon
 
-File:Frost main.png
-
-The average Frostdraw main.
+A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
@@ -33,7 +31,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 The [Attunement](Attunements.md) can be unlocked by using a [Glassblood potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using two [Frigid Prisms](Frigid_Prism.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
-this is where it is
+This is where the Attunement trainer is located.
 
 -   To upgrade a Frostdraw Mantra from level 1 to level 2 costs.
 -   To upgrade a Frostdraw Mantra from level 2 to level 3 costs.

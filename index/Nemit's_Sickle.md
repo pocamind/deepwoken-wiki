@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 101636
+revid: 101921
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -14,12 +14,10 @@ categories: [Weapons, Daggers]
 | requirements | 60 LHT |
 | damage | 11 |
 | scaling | 13 |
-| range | 6.5 |
+| range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
 | penetration | 30% |
-| chip damage | N/A |
-| special effect | N/A |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 4 |
@@ -28,7 +26,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Isles, Minityrsa, Starswept Valley, Merchant ships mission(Might be from other places too) |
-| description | "" |
+| description | ... |
 
 ## Description
 

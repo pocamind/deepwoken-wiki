@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 101454
+revid: 101894
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Winter Corps Boots are accessories under the "_Boots_" category. They can be found through chests in [Miner's Landing](<Miner's_Landing.md>), [The Depths](The_Depths.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
+Winter Corps Boots are accessories under the "_Boots_" category. They can be found through chests in [Miner's Landing](<Miner's_Landing.md>), [The Second Layer](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
 
 ## Trivia
 

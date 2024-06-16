@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 101799
+revid: 101912
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -14,9 +14,30 @@ categories: [Weapons, Daggers]
 | requirements | 40 LHT |
 | damage | 15 |
 | scaling | 5 |
-| range | 6.5 |
+| range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
+| special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
+| stances | 1 Handed |
+| selling price | 25 |
+| weight | 4 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chest from:, Knives of Eylis Events, Duke Erisia, Deep Widow, Primadon, Layer 1, Maestro Evengarde Rest |
+| description | ' The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'. ' |
+
+| Alloyed Whaling Knife | |
+|---|---|
+| type | Dagger |
+| requirements | 75 LHT |
+| damage | 15 |
+| scaling | 8 |
+| range | 6 |
+| swing speed | 1.25x |
+| endlag | 0.05s |
+| penetration | 15% |
 | special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
 | stances | 1 Handed |
 | selling price | 50 |
@@ -25,29 +46,8 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chest from:, Knives of Eylis Events, Duke Erisia, Deep Widow, Primadon, Layer 1, Maestro Evengarde Rest |
-| description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
-
-| Alloyed Whaling Knife | |
-|---|---|
-| type | Dagger |
-| requirements | 75 LHT |
-| damage | 15 |
-| scaling | 8 |
-| range | 6.5 |
-| swing speed | 1.25x |
-| endlag | 0.05s |
-| penetration | 15% |
-| special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
-| stances | 1 Handed |
-| selling price | ??? |
-| weight | 4 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, Primadon (Rare Chance) |
-| description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
+| description | ' The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'.' |
 
 **Base:**
 

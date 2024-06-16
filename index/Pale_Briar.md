@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 101829
+revid: 101903
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -25,9 +25,7 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Beating Maestro Evengarde Rest with a heavy weapon, Chest from Maestro Evengarde Rest |
-| description | "Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church." |
-
-Pale Briar with Grim
+| description | Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church. |
 
 ## Description
 
@@ -41,14 +39,15 @@ Uniquely to it, each hits of the critical attack can trigger enchant stacks, ins
 
 pale briar crit
 
-  
-**The Critical has a cooldown of 10s.**
-
-Pale Briar with Storm
-
-Pale Briar with Astral
-
 ## Trivia
 
 -   Has the second highest HVY requirement of any weapon in the game, followed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
 -   Its critical attack is ironically very useful against Maestro.
+
+## Enchantments
+
+**Astral:**
+
+**Storm:**
+
+**Grim:**

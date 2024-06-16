@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 101790
+revid: 101926
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Daggers]
@@ -14,7 +14,7 @@ categories: [Weapons, Pages with broken file links, Daggers]
 | requirements | 75 LHT |
 | damage | 12.5 |
 | scaling | 10 |
-| range | 6.5 |
+| range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
 | penetration | 20% |
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Ferryman (Winter), Ferryman Chests, Merchant Ships |
-| description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding." |
+| description | An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding. |
 
 ## Description
 

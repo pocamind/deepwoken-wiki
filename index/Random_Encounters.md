@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 101086
+revid: 101925
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -62,7 +62,7 @@ A group of three [thieves](Thief.md), recognizable by their black armor and the 
 
 #### Knives of Eylis
 
-Three to four [Knives of Eylis](Knife_of_Eylis.md) are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) in [Upper Erisia](Upper_Erisia.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative Reputation in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at Upper Erisia. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+Three to four [Knives of Eylis](Knife_of_Eylis.md) are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) in [Upper Erisia](Upper_Erisia.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at Upper Erisia. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
 
 The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 101363
+revid: 101931
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -14,12 +14,11 @@ categories: [Weapons, Daggers]
 | requirements | 75 LHT |
 | damage | 13 |
 | scaling | 8.5 LHT |
-| range | 6.5 |
-| swing speed | 0.98x |
+| range | 6 |
+| swing speed | 1.25x |
 | endlag | 0.05s |
 | penetration | 30% |
 | chip damage | 15% |
-| special effect | ? |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

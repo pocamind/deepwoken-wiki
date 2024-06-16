@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 101673
+revid: 101914
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -14,11 +14,10 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | requirements | 60 Light, 30 Intelligence |
 | damage | 13 + 3.9 BLD |
 | scaling | 8 LHT 2 INT |
-| range | 6.5 |
+| range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
 | penetration | 30% |
-| chip damage | None |
 | special effect | On hit, take away medicore amounts of blood from your opponent. |
 | stances | 1 Handed |
 | weight | 4 |

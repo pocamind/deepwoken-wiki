@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 101041
+revid: 101924
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -35,7 +35,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 By default, every single [origin](Origins.md) starts with an enemy [reputation](Reputation.md) with The Hundred Legions. Being a Khan increases your reputation with them to neutral.
 
-There is no reputation reset NPC for The Hundred Legions, nor do they have a bounty board.
+There is no reputation reset NPC for The Hundred Legions, nor do they have a [bounty board.](Bounty_Hunting.md)
 
 Doing the [Lars quest](Quests.md) does not net you any reputation with The Hundred Legions.
 

@@ -1,9 +1,9 @@
 ---
 title: Pale Morning
-revid: 101824
+revid: 101905
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers]
+categories: [Pages with broken file links, Weapons, Greathammers]
 ---
 
 # Pale Morning
@@ -25,11 +25,19 @@ categories: [Weapons, Greathammers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, The Diluvian Mechanism |
-| description | "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World." |
+| description | A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World. |
 
 ## Description
 
 The Pale Morning is a midgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (Very Rare), [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives. The description mentions a [Canor](Canor.md) warlord whose name is currently unknown.
+
+## Enchantments
+
+**Umbral Knight:**
+
+**Providence's Thorns:**
+
+File:Providence's Thorns Pale Morning.png
 
 ## Trivia
 
