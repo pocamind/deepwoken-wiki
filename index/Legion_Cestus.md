@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 101666
+revid: 101825
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Songseeker Wilds, Starswept Valley and Golem Constructs chests |
+| obtainment | Chests from:, Lower Erisia, Songseeker Wilds, Starswept Valley, Golem Constructs, The Diluvian Mechanism |
 | description | "Cestus used by members of the Hundred Legions." |
 
 ## Description

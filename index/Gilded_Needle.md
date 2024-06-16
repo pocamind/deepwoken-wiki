@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 101780
+revid: 101818
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -20,3 +20,5 @@ categories: [Relics]
 Crafted using 5 [Armorers Needle’s](<Armorer's_Needle.md>) and 1 [gold](Ores.md) on a crafting bench
 
 This Item is a Advanced version of the Armorer's Needle, Instead of the pip you choose being randomized you can select which pip you want on your equipment. example exchanging Ether pip for a Hp pip instead of having randomized pip which your luck gives you.
+
+Do note that **Monster Armor** is only obtainable on **RARE** pips, and not legendary or anything lower than rare.

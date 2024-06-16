@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 101614
+revid: 101824
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -24,7 +24,7 @@ categories: [Weapons, Greathammers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, The Diluvian Mechanism |
 | description | "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World." |
 
 ## Description

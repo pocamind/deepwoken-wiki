@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 100586
+revid: 101840
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -79,6 +79,6 @@ Accessing your account will allow you to bank your notes, up to the max of 100,0
 
 ## Artifacts
 
-Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return the player will receive 200 notes and other moderate items, as rare armor, mantra ingredients, weapons, armor schematics, and some XP.
+Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return the player will receive 200 notes and other moderate items, as rare armor, mantra ingredients, weapons, armor schematics, and some XP (the equipment that given can be rarely enchanted).
 
 **Note: Artifacts can only be turned in via normal bankers, not the ones in your Guild Base.**
