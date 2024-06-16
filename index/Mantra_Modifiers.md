@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 100202
+revid: 101963
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -421,6 +421,7 @@ Magnet Spark
 -   Jolt Grab
 -   Lightning Blade
 -   Tranquil Circle
+-   Flame Sentinel
 
  | 
 

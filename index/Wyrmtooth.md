@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 101766
+revid: 101972
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, .;]
@@ -36,7 +36,7 @@ While its damage is arguably mediocre (considering its requirements), the Wyrmto
 
 ## Critical
 
-The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Using an M1 while **casting** (and successfully landing) the sliding critical will cause the user to perform the standard critical immediately afterwards, hurling opponents backwards. Do note that enemies will recover in time to parry the follow-up crit.
+The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Using an M1 while **casting** (and successfully landing) the sliding critical will cause the user to perform the standard critical immediately afterwards, hurling opponents backwards. Do note that enemies will recover in time to parry the follow-up crit. **This feature is currently broken.**
 
 The cooldown for the critical is 10 seconds.
 
