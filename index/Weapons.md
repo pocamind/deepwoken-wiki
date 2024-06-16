@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 101785
+revid: 101942
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -427,7 +427,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9.5</td>
   <td>5</td>
   <td>6</td>
-  <td>0.82x</td>
+  <td>1.09x</td>
   <td>N/A</td>
   <td>31.8</td>
 </tr>
@@ -474,7 +474,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 13</td>
   <td>1</td>
   <td>10</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>23.6</td>
 </tr>
 <tr>
@@ -486,7 +486,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10</td>
-  <td>0.8x</td>
+  <td>1.06x</td>
   <td>24.8</td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10.5</td>
-  <td><font>0.8x</font></td>
+  <td><font>1.06x</font></td>
   <td>36</td>
 </tr>
 <tr>
@@ -1122,7 +1122,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 7</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.9x</td>
   <td>36.3</td>
 </tr>
 <tr>
@@ -1146,7 +1146,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 7</td>
   <td>5</td>
   <td>9</td>
-  <td>0.72x</td>
+  <td>0.96x</td>
   <td>32</td>
 </tr>
 <tr>
@@ -1270,7 +1270,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>27.6</td>
 </tr>
 <tr>

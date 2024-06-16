@@ -1,11 +1,12 @@
 ---
 title: Etrea
-revid: 101920
+revid: 101952
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Factions]
+categories: [In progress with reason, InProgressPages, SpoilerPages, Factions]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
+  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
 
 # Etrea
@@ -52,9 +53,9 @@ On top of that, Etrea has many [random events](Random_Encounters.md) across the 
 -   Vigil SwordsmenEtreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean SoldiersEtreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
-Etrea is among the factions with a [bounty board](Bounty_Hunting.md). They also have a reputation reset NPC, Nerin, located above the main entrance area of [Etris](Etris.md).
+Etrea is among the factions with a [Bounty Board](Bounty_Hunting.md). They also have a reputation reset NPC, Nerin, located above the main entrance area of [Etris](Etris.md).
 
-You need a high friend reputation with Etrea in order to start the lord regent's questline. Having a negative reputation with Etrea removes your ability to talk to several key NPC's(i.e [bankers](Banker.md) and [antiquarians](Antiquarian.md)) as usual.
+You need a high friend reputation with Etrea in order to start the lord regent's questline. Having a negative reputation with Etrea removes your ability to talk to several key NPCs, such as [Bankers](Banker.md) and [Antiquarians](Antiquarian.md), as usual.
 
 ## Notable Members
 
