@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 101571
+revid: 102165
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -66,6 +66,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
         -   [Worshipper Longsword](Worshipper_Longsword.md)
         -   [Messer](Messer.md)
+        -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md) / [Alloyed Adretian Axe](Adretian_Axe.md)
         -   [Canorian Axe](Canorian_Axe.md)

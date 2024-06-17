@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 101445
+revid: 102170
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -195,4 +195,4 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 -   It would take roughly 15-35 cannonballs alone to kill the Primadon, depending on your weapon's damage.
 -   As of 3/29/2024 Primadon has a new color scheme with blue fins and a purple nose.
--   Primadon as of verse one stood at a height of 25 meters (81 feet)
+-   Primadon as of Verse One stood at a height of 25 meters (81 feet)

@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 102037
+revid: 102168
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -82,6 +82,8 @@ File:Obfuscation Gold swordfish.png
 File:Curse Of The No Life King Gold Swordfish.png
 
 **Umbral Knight:**
+
+**Deferred:**
 
 ## Trivia
 
