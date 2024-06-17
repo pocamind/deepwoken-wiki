@@ -1,9 +1,9 @@
 ---
 title: Sibex
-revid: 98947
+revid: 102105
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Pages with broken file links, NPCs, Mechanics]
 ---
 
 # Sibex

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 101809
+revid: 102095
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1, InProgressPages]
@@ -75,6 +75,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md) and all [Relics](Relics.md) at all levels.
 -   Depths Chests (5 & 10)
 -   Brown Chests (15-50)
+-   Enchant stones[\[1\]](#cite-note-1) ( ??? - ??? )
 -   [Stormseye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
@@ -205,3 +206,5 @@ Based on the power of the user(s), the starting wave will differ;
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
 -   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere,"\[Source Required\] referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
 -   The Diluvian Mechanism is one of the best ways to farm [Knowledge](Knowledge.md) by gaining [Moonseye Tomes](Moonseye_Tome.md) and just completing wave 50 in general.
+
+1.  [↑](#cite-ref-1) [Enchant Stone](Enchant_Stone.md)

@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 101931
+revid: 102093
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -10,7 +10,7 @@ categories: [Weapons, Daggers]
 
 | Kyrsedge | |
 |---|---|
-| type | Light Dagger |
+| type | Dagger |
 | requirements | 75 LHT |
 | damage | 13 |
 | scaling | 8.5 LHT |
@@ -19,13 +19,14 @@ categories: [Weapons, Daggers]
 | endlag | 0.05s |
 | penetration | 30% |
 | chip damage | 15% |
+| stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 |
-| description | ... |
+| description | "..." |
 
 ## Description
 

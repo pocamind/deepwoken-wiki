@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 101930
+revid: 102089
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -23,7 +23,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Rouge Construct, Other sources:, Alloying a Tanto |
-| description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
+| description | "A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile." |
 
 | Alloyed Tanto | |
 |---|---|
@@ -42,7 +42,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Chime of Conflict |
-| description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
+| description | "A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile." |
 
 **Base:**
 

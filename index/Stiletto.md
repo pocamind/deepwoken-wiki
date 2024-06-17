@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 101913
+revid: 102082
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -10,20 +10,21 @@ categories: [Weapons, Daggers]
 
 | Stiletto | |
 |---|---|
-| type | Light Dagger |
+| type | Dagger |
 | requirements | 0 LHT |
 | damage | 11 |
 | scaling | 3 LHT |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
+| stances | 1 Handed |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon, Etris, Lower Erisia |
-| description | A remarkably thin blade often likened to (and used as) a toothpick. |
+| description | "A remarkably thin blade often likened to (and used as) a toothpick." |
 
 ## Description
 

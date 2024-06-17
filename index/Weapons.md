@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 101942
+revid: 102064
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -133,7 +133,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 3</td>
   <td>2</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>14.4</td>
 </tr>
@@ -145,7 +145,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
-  <td>0.96x</td>
+  <td>1.23x</td>
   <td>0.05s</td>
   <td>23.8</td>
 </tr>
@@ -169,7 +169,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 10</td>
   <td>5</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>22.5</td>
 </tr>
@@ -181,7 +181,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 5</td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>22.8</td>
 </tr>
@@ -205,7 +205,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 7</td>
   <td>4</td>
   <td>6.5</td>
-  <td>0.96x</td>
+  <td>1.23x</td>
   <td>0.05s</td>
   <td>25.9</td>
 </tr>
@@ -229,7 +229,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 13</td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>25.9</td>
 </tr>
@@ -277,7 +277,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: <font>8</font></td>
   <td>4</td>
   <td>6</td>
-  <td>0.98x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>27.5</td>
 </tr>
@@ -289,7 +289,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: <font>8</font></td>
   <td>3</td>
   <td>6.5</td>
-  <td><font>0.86x</font></td>
+  <td><font>1.13x</font></td>
   <td>N/A</td>
   <td>29.3</td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 101977
+revid: 102088
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -25,7 +25,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare drop from King Thresher, Deluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Chili, First Layer chests, Chime of Conflict chest |
-| description | ... |
+| description | "..." |
 
 ## Description
 

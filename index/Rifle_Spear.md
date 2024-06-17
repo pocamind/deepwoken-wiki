@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 101668
+revid: 102100
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -34,7 +34,7 @@ _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker
 
 The Rifle Spear is a MED weapon. It can be obtained from Depths chests; Erisore chests, which can be collected by turning in pure ore to a [Blacksmith](Blacksmith.md); and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
-The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots an invisible blast similar to regular [guns](Flintlock.md). It has the same speed and sound effect as any other gun.
+The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots a projectile similar to one handed guns. It has the same speed and sound effect as any other gun.
 
 ## Critical
 
@@ -42,8 +42,8 @@ The user aims down sights and shoots the spear, unleashing a blast in front. If 
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (29.8)
--   At max MED, the damage is (32)
+-   Meeting the requirement of MED, the damage is (29.8).
+-   At max MED, the damage is (32).
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
 -   The current model of the Rifle Spear has a Central Authority logo etched onto the blade.

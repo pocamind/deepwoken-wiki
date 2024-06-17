@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 101912
+revid: 102086
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,7 +26,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chest from:, Knives of Eylis Events, Duke Erisia, Deep Widow, Primadon, Layer 1, Maestro Evengarde Rest |
-| description | ' The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'. ' |
+| description | ' "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'." ' |
 
 | Alloyed Whaling Knife | |
 |---|---|
@@ -47,7 +47,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, Primadon (Rare Chance) |
-| description | ' The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'.' |
+| description | ' "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'."' |
 
 **Base:**
 

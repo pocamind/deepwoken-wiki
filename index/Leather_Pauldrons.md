@@ -1,6 +1,6 @@
 ---
 title: Leather Pauldrons
-revid: 86120
+revid: 102106
 source: https://deepwoken.fandom.com/wiki/Leather_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -30,4 +30,5 @@ The Leather Pauldrons are an [Equipment](Equipment.md) item under the "Arms" cat
 
 ## Trivia
 
--   The Leather Pauldrons are part of the "Leather" set; with the only other piece being the [Leather Boots](Leather_Boots.md).
+-   The Leather Pauldrons are part of the "Leather" set; with the other pieces being the [**Leather Boots**](Leather_Boots.md) and **[Leather Gloves](Leather_Gloves.md)**.
+    -   Interestingly, both the Leather Pauldrons and Leather Gloves fall into the same category of Arms equipments, which makes it impossible to equip them both.

@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 102023
+revid: 102102
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Oaths, World]
@@ -27,12 +27,13 @@ It is also used for the obtainment of the [Saltchemist Oath.](Oath%253A_Saltchem
 ## Trivia
 
 -   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
--   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self
+    -   Before 05/04/2024, teleporting to locations will require one stardust each time. After the update, you only need a stardust to travel to these location for the first time - thus making the process of completing Linkstrider only require 7 stardusts aside from grips.
+-   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self.
 -   Starfield Tundra is known for being bugged and not allowing people to pick up Stardust.
 -   Current known teleportation locations are...
-    1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md))
-    2.  Eunomia (Above [Sibex](Sibex.md))
-    3.  Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
-    4.  Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
-    5.  Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s gate)
-    6.  Fortuna (Above [Erisor's Church](<Erisor's_Church.md>))
+    1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md)).
+    2.  Eunomia (Above [Sibex](Sibex.md)).
+    3.  Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop).
+    4.  Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right).
+    5.  Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s gate).
+    6.  Fortuna (Above [Erisor's Church](<Erisor's_Church.md>)).

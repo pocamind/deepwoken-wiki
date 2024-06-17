@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 102035
+revid: 102094
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,7 +26,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest (light weapon) |
-| description | Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection. |
+| description | "Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection." |
 
 ## Description
 
@@ -36,10 +36,10 @@ The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evenga
 
 On the first critical you'll thrust towards your opponent, placing a string on them. The next time you land your critical, you'll send you and your opponent upwards and do multiple slashes, ending with a backstab that ragdolls your opponent.
 
-Note: Cerulean Thread critical is currently bugged, and while you still dash towards the target the crit no longer has a follow-up of multiple slashes, and no longer ragdolls, simply ending the moment it lands.
-
 ## Trivia
 
 -   The only light weapon to be sheathed behind you instead of along your waist.
 -   Meeting the requirement of LHT, the damage is (22.2)
 -   At max LHT, the damage is (23.4)
+
+-   The second half of the Cerulean Thread critical was temporally bugged but this was fixed in the 06/14/2024 update.

@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 101921
+revid: 102090
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,7 +26,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Isles, Minityrsa, Starswept Valley, Merchant ships mission(Might be from other places too) |
-| description | ... |
+| description | "..." |
 
 ## Description
 

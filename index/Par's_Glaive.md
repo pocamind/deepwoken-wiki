@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 94400
+revid: 102051
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]

@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 101974
+revid: 102083
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -24,7 +24,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | ErisiaChili |
-| description | A knife of fine craftmanship, bearing an equally fine sharpness. |
+| description | "A knife of fine craftmanship, bearing an equally fine sharpness." |
 
 ## Description
 
