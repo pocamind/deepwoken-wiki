@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 102016
+revid: 102111
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,4 +33,5 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 
 -   Meeting the requirement of MED, the damage is (21.5)
 -   At max MED, the damage is (25.9)
+-   Has the fastest medium sword swing speed in the game, alongside the **[Scimitar](Scimitar.md)** and **[Alloyed Falchion](Falchion.md)**.
 -   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.

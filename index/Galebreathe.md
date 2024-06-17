@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 100755
+revid: 102131
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -79,7 +79,7 @@ _Shoots out an air blast._
 -   Can be upgraded with Cloudstones, Stratus stones, Perfect lenses and Crystal Lenses to make it bigger and longer.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
--   Doesn't proc Haunted Gale
+-   Doesn't proc Haunted Gale.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 102057
+revid: 102114
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -8,9 +8,9 @@ categories: [Races, Character, Mechanics]
 
 # Aspects
 
-“ "erm what the sigma" ”
+“ …Having stated the relevant background information, I posit that the races of Lumen are the result of a Hereditary Vow. Supposing that a Vow was able to bestow upon the Gremor a preternatural ability such as Navae’s guidance, I believe that as a matter of course another Vow made long in the past may have originally bestowed the traits that the races of Lumen exhibit today. ”
 
-― kai cenat
+― Vows by the Sea: Inheritance
 
   
 
