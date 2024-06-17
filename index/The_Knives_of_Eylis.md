@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 101957
+revid: 102014
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -29,11 +29,11 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 Every [Origin](Origins.md) excluding Voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
 
-There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This bounty board includes bounties from all other factions with bounty boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
+There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This Bounty Board includes bounties from all other factions with Bounty Boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
 
 Voidwalkers can be hunted by other Voidwalkers at power 5 due to their starting negative reputation with [The Hive](The_Hive.md) and [The Kingdom of Etrea](Etrea.md), both of which are factions with Bounty Boards.
 
-If you are a Voidwalker, you may gain reputation by completing Knives of Eylis bounties on the Voidheart bounty board.
+If you are a Voidwalker, you may gain reputation by completing Knives of Eylis bounties on the Voidheart Bounty Board.
 
 If you are not a Voidwalker, there is only one event in which you may help the Knives of Eylis and gain reputation:
 
@@ -41,7 +41,7 @@ If you are not a Voidwalker, there is only one event in which you may help the K
 
 There is no dialogue that changes depending on the reputation with the Knives of Eylis. If you gain negative reputation with the Knives as a Voidwalker, you may lose access to certain amenities in the Voidheart, such as the [Antiquarian](Antiquarian.md) or [Banker](Banker.md).
 
-You do not need positive reputation to obtain the Voidwalker o\\oigin.
+You do not need positive reputation to obtain the Voidwalker Origin.
 
 ## Notable Members
 

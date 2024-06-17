@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 101532
+revid: 102027
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -32,7 +32,7 @@ To start the fight with Maestro Evengarde Rest:
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
 
-## Moveset
+## Meowset
 
 Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Katana.md) along with the [Galebreathe](Galebreathe.md) attunement:
 

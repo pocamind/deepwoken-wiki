@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 101676
+revid: 102035
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -14,9 +14,10 @@ categories: [Weapons, Daggers]
 | requirements | 85 LHT, LVL 10 |
 | damage | 15 |
 | scaling | 7.5 LHT |
-| range | 6.5 |
+| range | 6 |
 | swing speed | 1.25x |
-| endlag | 0.04x |
+| endlag | 0.05x |
+| chip damage | 25% |
 | stances | 1 Handed |
 | selling price | 120 |
 | weight | 4 |

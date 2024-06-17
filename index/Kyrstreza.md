@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 101366
+revid: 102018
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -62,6 +62,6 @@ The Kyrstreza is an Endgame [Light Weapon](Weapons.md) under the Rapier category
 
 **Tears of the Edenkite:**
 
-**Porvidence Thorns:**
+**Providence Thorns:**
 
 **Heroism:**

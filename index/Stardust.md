@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 90238
+revid: 102023
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Oaths, World]
@@ -27,6 +27,8 @@ It is also used for the obtainment of the [Saltchemist Oath.](Oath%253A_Saltchem
 ## Trivia
 
 -   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
+-   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self
+-   Starfield Tundra is known for being bugged and not allowing people to pick up Stardust.
 -   Current known teleportation locations are...
     1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md))
     2.  Eunomia (Above [Sibex](Sibex.md))

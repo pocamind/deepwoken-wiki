@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 101936
+revid: 102021
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | pass down | No |
 | obtainment | Crafting |
 
-Crafted using 5 [Armorers Needle’s](<Armorer's_Needle.md>) and 1 [gold](Ores.md) on a crafting bench
+Crafted using 5 [Armorer's Needles](<Armorer's_Needle.md>) and 1 [gold](Ores.md) on a crafting bench
 
 This Item is a Advanced version of the Armorer's Needle, Instead of the pip you choose being randomized you can select which pip you want on your equipment (e.g., exchanging an Ether pip for a HP pip).
 

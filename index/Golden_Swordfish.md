@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 101450
+revid: 102037
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -12,14 +12,13 @@ notices:
 
 | Golden Swordfish | |
 |---|---|
-| type | Rapier |
+| type | Light Rapier |
 | requirements | 75 LHT |
 | damage | 15 |
 | scaling | 8 LHT |
 | range | 8.1 |
-| swing speed | 0.82x |
+| swing speed | 1.09x |
 | penetration | 20% |
-| stances | 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -93,6 +92,6 @@ File:Curse Of The No Life King Gold Swordfish.png
     -   The so-called "sword" bill of a typical swordfish is not particularly strong, but there is a historical precedent for it being used as a weapon.
 -   Meeting the requirement of LHT, the damage is (21.8)
 -   At max LHT, the damage is (24)
--   Despite acting like a soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing knowledge, provided it is not [Enchanted](Enchantments.md).
+-   Despite acting like a Soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing knowledge, provided it is not [Enchanted](Enchantments.md).
 
 1.  [↑](#cite-ref-1)

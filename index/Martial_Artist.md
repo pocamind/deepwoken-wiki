@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 101962
+revid: 102011
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,8 @@ This Outfit's Schematic can be obtained from:
 -   [First Layer](First_Layer.md)
 -   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Mudskipper Brute](Mudskipper_Brute.md)[\[1\]](https://deepwoken.fandom.com/wiki/Martial_Artist)
+-   [Mudskipper Brute](Mudskipper_Brute.md)
+-   [Fury Nautilodaunt](Nautilodaunt.md#fury-nautilodaunt)[\[1\]](https://deepwoken.fandom.com/wiki/Martial_Artist)
 
 ## Trivia
 

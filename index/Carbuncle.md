@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 101978
+revid: 102007
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -39,7 +39,7 @@ Carbuncles only has 2 attacks, listed below:
     -   Attacks with armor still can ignore their hitstun, such as the [Enforcer's Axe](<Enforcer's_Axe.md>)
         -   This does not apply to [The Diluvian Mechanism](The_Diluvian_Mechanism.md), due to them mainly being Stratoshock.
 -   Carbuncles always have hyperarmor, shrugging off all attacks that apply daze or stun.
--   Carbuncles in terms of difficulty are not very hard alone, as they signify what kind of attack they'll use with an initial, distorted growl.
+-   They signify what kind of attack they'll use with an initial, distorted growl.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 101615
+revid: 102038
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -10,15 +10,13 @@ categories: [Weapons, Rapiers]
 
 | Inquisitor's Thorn | |
 |---|---|
-| type | Rapier |
+| type | Light Rapier |
 | requirements | 40 LHT |
 | damage | 14 |
 | scaling | 7 |
 | range | 8 |
 | swing speed | 1.08x |
-| endlag | None |
 | penetration | 10% |
-| stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
