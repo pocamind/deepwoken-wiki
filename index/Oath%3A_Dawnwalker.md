@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 100053
+revid: 102267
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,6 +32,10 @@ categories: [Oaths]
 -   Absolute Radiance + Luminous Flash (15 medallions)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
+
+## Effects
+
+This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Lore.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
 
 ## Abilities
 
@@ -87,10 +91,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
-
-## Effects
-
-This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Lore.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
 
 ## Trivia
 

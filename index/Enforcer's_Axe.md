@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 101622
+revid: 102197
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -10,13 +10,14 @@ categories: [Weapons, Greataxes]
 
 | Enforcer's Axe | |
 |---|---|
-| type | Heavy Greataxe |
+| type | Greataxe |
 | requirements | 75 HVY, LVL 6 |
 | damage | 26 |
-| scaling | HVY: 10 |
+| scaling | 10 |
 | range | 8.5 |
 | swing speed | 0.76x |
 | penetration | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |

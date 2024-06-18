@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 101610
+revid: 102201
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,20 +10,21 @@ categories: [Weapons, Swords]
 
 | Forgotten Gladius | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 65 MED |
 | damage | 18 |
 | scaling | 7 |
 | range | 7.5 |
 | swing speed | 1.04x |
 | penetration | 13% |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chest from:, Voidwalker, Primadon, Fishing, Merchant Ships, Maestro Evengarde Rest |
-| description | Found at the hip of horseback officers during the Canticlysm. For many of the post-tidal years it was but a curio for petty nobles to fawn over. Despite its moniker, it was made fashionable by young naval officers of the Authority who saw value in the trinkets they'd inherited, dragging the blade out from obscurity. |
+| description | "Found at the hip of horseback officers during the Canticlysm. For many of the post-tidal years it was but a curio for petty nobles to fawn over. Despite its moniker, it was made fashionable by young naval officers of the Authority who saw value in the trinkets they'd inherited, dragging the blade out from obscurity." |
 
 ## Description
 

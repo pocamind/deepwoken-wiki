@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 101712
+revid: 102200
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -10,14 +10,14 @@ categories: [Weapons, Greathammers]
 
 | Forge Greathammer | |
 |---|---|
-| type | Heavy Greathammer |
+| type | Greathammer |
 | requirements | 55 HVY, 10 STR |
 | damage | 24 |
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| penetration | 0% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 14 |
 | weight | 9 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 101529
+revid: 102190
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -247,11 +247,34 @@ _Bear down on your foes with repeated fiery slashes._
 -   Isn't cancellable.
 
  |
+| 
+
+ | 
+
+Flame Sentinel
+
+(★★☆)
+
+ | 
+
+_Conjure a turret of flames._
+
+ | User creates an orb that will shoot out fireballs to nearby targets.
+
+-   Applying magnet spark will make the turret follow the user
+
+ |  |
 |  | 
 
 Rising Flame
 
 (★★☆)
+
+  
+
+  
+
+  
 
  | 
 
@@ -271,6 +294,12 @@ _A rising tornado of flames._
 Ash Slam
 
 (★★★)
+
+  
+
+  
+
+  
 
  | 
 
@@ -333,6 +362,12 @@ Flame Leap
 
   
 
+  
+
+  
+
+  
+
  | 
 
 _Leap up leaving behind a burst of flames._
@@ -370,6 +405,12 @@ Flame Wisp
 
 (★★☆)
 
+  
+
+  
+
+  
+
  | 
 
 _A servant of flames._
@@ -394,6 +435,12 @@ Graceful Flame
 
   
 
+  
+
+  
+
+  
+
  | 
 
 _Conjure an undying flame for the caster and their comrades to rest by._
@@ -413,6 +460,12 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 Flame of Denial
 
 (☆☆☆)
+
+  
+
+  
+
+  
 
   
 

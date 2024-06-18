@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 102064
+revid: 102277
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1191,7 +1191,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>MED: 5</td>
   <td>6</td>
   <td>7.5</td>
-  <td>0.7x</td>
+  <td>0.93x</td>
   <td>30.4</td>
 </tr>
 <tr>
@@ -1239,7 +1239,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>MED: 6</td>
   <td>4</td>
   <td>8</td>
-  <td>0.74x</td>
+  <td>0.98x</td>
   <td>35.9(<b>Bleed</b>)</td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 101564
+revid: 102270
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -41,6 +41,14 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 To obtain the Blindseer Mantras, you need to help pathfinders, or players with no oaths, in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. A passive talent is also obtained after 4 trials (you can quickly leave three seconds after the voice of authority starts talking).
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
+
+## Effects
+
+This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra slots and 10 Sanity.
+
+This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
+
+With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depth at no risk.
 
 ## Abilities
 
@@ -87,14 +95,6 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Once the beam starts firing the user gain immunity to all forms of stun, including [Thundercall](Thundercall.md), meaning the user is the only person capable of stopping the beam early.
     -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
     -   File:Sightless beam final.gif
-
-## Effects
-
-This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra slots and 10 Sanity.
-
-This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
-
-With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depth at no risk.
 
 ## Notes
 

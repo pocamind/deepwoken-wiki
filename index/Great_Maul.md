@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 101659
+revid: 102203
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -10,7 +10,7 @@ categories: [Weapons, Greathammers]
 
 | Great Maul | |
 |---|---|
-| type | Heavy Greathammer |
+| type | Greathammer |
 | requirements | 65 HVY, 30 STR |
 | damage | 25 |
 | scaling | 8 |
@@ -19,13 +19,14 @@ categories: [Weapons, Greathammers]
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Dropped directly from the Rock Golem Chili |
-| description | TBA |
+| description | "..." |
 
 ## Description
 

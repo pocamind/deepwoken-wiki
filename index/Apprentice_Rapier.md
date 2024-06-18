@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 102055
+revid: 102193
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -10,19 +10,20 @@ categories: [Weapons, Rapiers]
 
 | Apprentice Rapier | |
 |---|---|
-| type | Light Rapier |
+| type | Rapier |
 | requirements | 20 LHT |
 | damage | 13 |
-| scaling | 6 |
+| scaling | 6.5 |
 | range | 8 |
-| swing speed | 0.8x |
+| swing speed | 1.06x |
+| stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, Minityrsa, Etris Weaponry , The Floating Keep |
-| description | Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey. |
+| description | "Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey." |
 
 ## Description
 

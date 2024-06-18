@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 101688
+revid: 102186
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords]
 |---|---|
 | type | Heavy Greatsword |
 | requirements | 30 HVY, 10 STR |
-| damage | 24 |
+| damage | 24.5 |
 | scaling | 7 |
 | range | 8.5 |
 | swing speed | 0.85x |
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chest from:, The Depths, Starswept Valley, Bounty (Chests), Primadon, Deep Widow, Merchant Ship |
-| description | ' The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. ' |
+| description | ' "The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself." ' |
 
 | Alloyed Inheritor | |
 |---|---|
@@ -43,7 +43,7 @@ categories: [Weapons, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, The Depths, PVP arena, Bounty Chest |
-| description | ' The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. ' |
+| description | ' "The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself." ' |
 
 **Base:**
 
@@ -64,3 +64,4 @@ It shares the same aerial animation and critical animation with the [Way of Nava
     -   Meeting the alloyed requirement, the damage is (34.8)
 -   At max HVY, the non-alloyed damage is (36.6)
     -   At max HVY, the alloyed damage is (38.4)
+-   The non-alloyed does (.5) more base dmg than the alloyed version.

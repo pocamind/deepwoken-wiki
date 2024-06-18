@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 101548
+revid: 102259
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -39,6 +39,10 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This ca
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=S7cPoR7G-5c&t=13s)._
 
+## Effects
+
+This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn blue with a hint of white.
+
 ## Abilities
 
 -   **Acceleration Points - Talent**
@@ -70,10 +74,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 -   **Jet Kick - Mobility Mantra**
     -   Rush forward with a jet kick. Requires a target if you're in combat.
-
-## Effects
-
-This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn blue with a hint of white.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 100296
+revid: 102241
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -31,7 +31,7 @@ Upon defeating a [Megalodaunt](Megalodaunt.md) and returning to [Arthur](Arthur.
 
 Aerial Assault can be obtained from a [Pathfinder](Ivory.md) in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the Questgiver for the Glider Blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md). The NPC's name is [Ivory](Ivory.md).
 
-Note that you have to go into the building to access the purple flames, as the purple flames outside the building cannot be used. After interacting with the flame, returning awards the talent Aerial Assault, which allows you to perform an advanced dodge mid-air allowing you to travel a bit in the direction of your cursor. All new characters will gain Aerial Assault at Power 2. When entering the Temple, watch out for the Watcher at the top, which will spawn a [Lesser Angel](Hollow_Angel.md) if he sees you.
+Note that you have to go into the building to access the purple flames, as the purple flames outside the building cannot be used. After interacting with the flame, returning awards the talent Aerial Assault, which allows you to perform an advanced dodge mid-air allowing you to travel a bit in the direction of your camera. All new characters will gain Aerial Assault at Power 2. When entering the Temple, watch out for the Watcher at the top, which will spawn a [Lesser Angel](Hollow_Angel.md) if he sees you.
 
 ### Thresher Scales
 

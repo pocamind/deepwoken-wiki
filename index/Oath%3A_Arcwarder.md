@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 101811
+revid: 102272
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -41,6 +41,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ## Progression
 
 Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 4 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received every 2 kills and upon light hooking out from Chaser or Ethiron.
+
+## Effects
+
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light.
 
 ## _Abilities_
 
@@ -152,10 +156,6 @@ Null
     -   Can be toggled by pressing N when Arc Suit is active.
 
  |
-
-## Effects
-
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light.
 
 ## Trivia
 

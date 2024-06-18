@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 98503
+revid: 102262
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -44,14 +44,12 @@ File:FadeTrimmer.png
 -   **Precision Cuts ★★★ - Combat Mantra**
     
     -   _Snip forward 3 times with your scissors!_
-    -     
-        
 
 -   **Close Shave** **★★★ - Combat Mantra**
     -   _Close the distance and deliver a fast slash._
     -   Aims in the direction of the cursor.
     -   Can be used for movement.
-    
+
 -   **Fadetrimmer's Skillset - Passive**
     -   _What type of look are we going for today?_
     -   Changes what haircut Precision Cuts (Close Shave also works, but is less reliable for some reason) will give people.

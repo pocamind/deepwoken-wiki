@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 101399
+revid: 102273
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,14 +36,6 @@ Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voi
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 
-## Effects
-
--   +10% mantra resistance.
--   **Entirely lose access to cast mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
--   Attunements are unable to be used or obtained.
--   You gain glowing red tattoos coursing over your arms and torso.
--   Your eye color becomes duller and darker.
-
 ## Upgrading
 
 This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Regek](Regek.md) and [Beatra](Beatra.md)).
@@ -51,6 +43,14 @@ This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md)
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
 Alternatively, if you've killed all 6 trainers in a previous life, 10 knowledge can be spent to immediately unlock all related talents.
+
+## Effects
+
+-   +10% mantra resistance.
+-   **Entirely lose access to cast mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
+-   Attunements are unable to be used or obtained.
+-   You gain glowing red tattoos coursing over your arms and torso.
+-   Your eye color becomes duller and darker.
 
 ## Abilities
 
