@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 101831
+revid: 102290
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -172,7 +172,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   </b></li>
     <li><b><a href="Duke_Ishamon_Erisia.md">The Duke</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.<br>
   </li>
-    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
+    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. However he is the most forgiving boss as he gives you more than enough time to set up a campfire and heal in between attacks (as long as you aren't too close to him). You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
   </li>
     <li><a href="Maestro_Evengarde_Rest.md"><b>Maestro Evengarde Rest</b></a> gives a good amount of progress and it's very easy to rematch him. However, he is extremely punishing to those unfamiliar with his moveset and has a lot of prerequisites (one of which includes high weapon investment meaning you simply can't fight him on an elemental build). Should you become familiar with his fight, you'll be rewarded with some of the best loot in the game and ease of access.<br>
   </li>

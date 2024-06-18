@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 101637
+revid: 102292
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests, Summer Isle, Widow chest, Maestro Evengarde Rest's chests |
+| obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests, Summer Isle, Widow chest, Maestro Evengarde Rest's chests, Bounties |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 ## Description
@@ -39,3 +39,4 @@ The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), kno
     -   This critical can be used in water as a method of escape, due to the speed boost.
     -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
 -   Possibly a reference to the Flamberge from Dark Souls.
+    -   The Flamberge is a weapon that is [real](https://en.wikipedia.org/wiki/Flamberge).
