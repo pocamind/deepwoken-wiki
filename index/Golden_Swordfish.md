@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 102185
+revid: 102308
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages without reason, StubPages, Weapons, Rapiers]
@@ -80,6 +80,10 @@ File:Metal Golden Swordfish.png
 **Umbral Knight:**
 
 **Deferred:**
+
+**Astral:**
+
+File:ASTRALFISHISREAL.png
 
 ## Trivia
 
