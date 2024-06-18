@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 97675
+revid: 102319
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers, Oaths, NPCs]
@@ -61,4 +61,4 @@ Amashi executes his opponent after knocking them:
 
 ## Tips
 
--   When fighting him, you may either choose to parry trade and fight normally, or do a strategy similar to [The Duke](Duke_Ishamon_Erisia.md) where you pin him against the wall and spam your critical.
+-   When fighting him, you may either choose to parry trade and fight normally, or do a strategy, similar to [Duke Erisia](Duke_Ishamon_Erisia.md), where you pin him against the wall and spam your critical.

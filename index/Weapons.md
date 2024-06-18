@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 102285
+revid: 102316
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1844,7 +1844,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.73x</td>
   <td>N/A</td>
-  <td>50.4</td>
+  <td>43.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Steel_Maul#Alloyed"><font>Alloyed Steel Maul</font></a></td>
