@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 102408
+revid: 102460
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,7 +69,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
 
 -   **Symbiotic Link (Mantra)**
-    -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
+    -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once.
         -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
         -   Red Cords (Enemies) give a minor speed debuff.
     -   Allows you to passively see the health bar of allies, even when not active.
@@ -77,6 +77,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
     -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
+
 -   **Parasitic Leech (Mantra)**
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
         -   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.

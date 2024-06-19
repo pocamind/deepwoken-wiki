@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 102274
+revid: 102476
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,7 +31,11 @@ categories: [Oaths]
     1.  If you lack the [Union Hook](Talent_Quests.md#union-hook), careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it. There is also a long, sloped rock that you can go up from the left of the [Lordsgrove](The_Lordsgrove.md) that leads you directly to the voidzone.
 4.  Return to Samael to get the Oath.
 
-To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=IBey9g9dZLo)._
+
+## Progression
+
+To progress the oath and obtain its mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 
 -   **[Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md)** at [Starfield Veldt](Starfield_Veldt.md).
 -   **[Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md)** right next to the inn/guildhall at [Summer Isle](Summer_Isle.md).
@@ -40,8 +44,6 @@ To obtain the mantras, you must kill the 3 Sinners spread around the East Lumina
 You will get a mantra for each kill, and a chest containing [Songseeker](Songseeker_Wilds.md) loot.
 
 The order of mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
-
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=IBey9g9dZLo)._
 
 ## Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 101966
+revid: 102441
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -12,6 +12,8 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 ## Acquirement Methods
 
+Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them
+
 -   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into either a random equipment enchant (you can roll the same enchant twice in a row) **or** a random enchant stone.
@@ -19,6 +21,8 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 -   Defeating a [Star knight](Stone_Knight.md#star-knight) that only spawns during the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event. (Only drops the Astral enchant stone)
 -   The [Weird Trader](Weird_Trader.md) has a chance to give you the [Astral](https://deepwoken.fandom.com/wiki/Enchantments#Blessings) enchant stone.
+
+You cannot 'stack' enchantments. I.E. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
 
 ## Mechanics
 

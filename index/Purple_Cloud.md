@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 102339
+revid: 102462
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Unique Critical]
@@ -33,7 +33,7 @@ Akin to the [Shattered](Shattered_Katana.md) and [Alloyed](Katana.md#alloyed) ka
 
 ## Critical
 
-The user leans down and grabs the blade's handle before dashing forwards. If there is a target ahead, the user teleports behind them and unsheathes the Purple Cloud, quickly slashing at them with a purple flash before sheathing the blade once again. This critical is not a true guard break, but its posture damage is exceptionally high. It has a cooldown of 7 seconds.
+The user leans down and grabs the blade's handle before dashing forwards. If there is a target ahead, the user teleports behind them and unsheathes the Purple Cloud, quickly slashing at them with a purple flash before sheathing the blade once again. This critical is not a true guard break, but its posture damage is exceptionally high (About 32~). It has a cooldown of 7 seconds.
 
 ## Trivia
 

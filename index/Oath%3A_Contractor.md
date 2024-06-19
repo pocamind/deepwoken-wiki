@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 101973
+revid: 102469
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -38,17 +38,19 @@ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstr
 6.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (Talking to Yun'Shul without a bell WILL kill you UNLESS you're a deepbound) (You can for some reason do this step before doing step 4, as long as when you eventually return to regent, you do step 4 and then proceed to do step 8 to receive Contractor.)
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you will be softlocked from obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
 
-_Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
-
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI)._
 
-## Upgrading
+## Progression
 
 As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. This will send them to Layer 2. Pack tactics cannot be used; **you must be the sole contributor of damage** or they will not count.
 
 -   1st Grip - Hidden Tendril and Lords Slice
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
+
+## Effects
+
+Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy.
 
 ## Abilities
 
