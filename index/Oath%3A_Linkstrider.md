@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 101512
+revid: 102408
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,6 +40,10 @@ categories: [Oaths]
 
 The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it. Alternatively, if the oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character.
 
+## Effects
+
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearance-wise, its users wear a blue necklace and their irises become light cyan.
+
 ## Abilities
 
 -   **Entropy Link (Talent)**
@@ -53,7 +57,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
         -   Requires [Stardust](Stardust.md) at first. After you consumed a stardust to teleport, it no longer requires stardust to use it. Stardust is obtainable in [Voidzones](Voidzones.md) that have a Startree. This is an intentional feature.
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
-        -   Does not work with "campfires" (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire nearly every use - ensure you're well-supplied.
+        -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied.
     -   Comet names and locations:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
@@ -63,15 +67,16 @@ The only way to obtain each ability is to grip players with an Oath. However, th
             -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
             -   **Eunomia** (Above [Sibex](Sibex.md))
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
+
 -   **Symbiotic Link (Mantra)**
     -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
         -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
-        -   Red Cords (Enemies) presumably do the opposite.
+        -   Red Cords (Enemies) give a minor speed debuff.
     -   Allows you to passively see the health bar of allies, even when not active.
+
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
     -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
-
 -   **Parasitic Leech (Mantra)**
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
         -   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.
@@ -80,10 +85,6 @@ The only way to obtain each ability is to grip players with an Oath. However, th
         -   Blockable. While blocking may stop the damage, it will not stop the caster's healing. Counts as damage towards weak block, making the target unable to block.
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
         -   Can be used with Bloodless to heal more health.
-
-## Effects
-
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearance-wise, its users wear a blue necklace and their irises become light cyan.
 
 ## Trivia
 

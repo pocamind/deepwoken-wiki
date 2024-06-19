@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 101521
+revid: 102378
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -8,7 +8,7 @@ categories: [Drowned Gods, NPCs, Layer 1]
 
 # Shrine of Yun'Shul, Keeper of Hearts
 
-“ P̵̟̄̈́̈́̃͆Ḽ̸͔͎̙͚̮̝̉͆̃̅Ù̴͎͎̅͑͂C̸̟̏ͅK̴͚̖̽̓͊͘ ̷̫͈̭͍͚̥̖̈̊Ỏ̸̙͔̮͂̓͛̆̔͑Ù̸̞̙̟̪̂̓̓̂͝T̴̨̼͉̫̤͕̙̋ ̷̡̛̞̑͒̐͗͋Ț̴̥̘̔̐̊̈̀̒͝H̸͇͓̲͂Ī̴̻͉̮̫̖̤̇́N̴̨̳̟̺̈́ͅȨ̸̼͎̰̫̗͍̍ ̴͚̠̮̮͎̯̂̄̍̒͂̒͝É̷̛͍̺͉̜̻̂̑̌Y̸̦̻̏͊Ẽ̵̮̞̖͈̲S̴͇̘͈̐̈́͒;̶̢͔̿̏̒͝ ̸̧̛̭̗̭͎̬̏̾̓͠͝Ţ̶̪͂̑̀͘Ȩ̵͎͇͉͕̀̈́͊ͅĄ̵̻͖͉͖͙̆̑̌͊̋͝R̶̛̫͓̹̝̺̦̈̽́̇͂ ̶͖̗̹͚͓̎̄͘͜O̷͎̳̟̍̍Ȕ̶̧͊̒͋̈́͘Ṱ̴͈̒͂̄̅̇͌ ̷̻̟̙̹͛̀̈́̃̿T̵̢̫̮́̐́̂̕͜͠ͅH̵̪́̿̈I̸̡̝̭͕̥̥̓͘Ņ̷͇̺̤̈̽͊̄̆̀͑Ë̶͖̻́̓̉ ̸͕͚̫́̎̚͝ͅT̷̛̼͎̦̳̦̒͒̈́̏͋͝H̵̡̳̝̥̔̀̈́̍̓̑̆R̶̟̱̫̘̐̏͛̀̈́̍Ơ̶̫̟̪̟̹̞͈̔͌A̴̹͚͍̋̃͗̃͝͠T̴͓̰̭̤̘̻̄̍͝;̸͍̲̝̮̖͍̽͋̄ ̵̨̳̄͐͗́͗L̵̹̗̈́͜Ạ̶͌̾͒Y̴̪̏̀͒ͅ ̷̮͚͖͓̼͝W̵̢͓̆̆̇̂̈́Ä̶̼̺͉͈̩̜̪́̌̄̽̓Ŝ̶̻̯̜̮̭͑̉T̴̙̝̟̬̐̈́̀̍̇̕E̸̡̤̞̟̻̅͜ ̷͓͒̍͛̑̂̚͝Ṫ̶̠̳͕̈́̈́̄̉O̷̺̯̦̜̝̓̓̎̅̽͜͠ ̵̭̭͕̖̞̲̫̑̄̋́̈́̚A̶̙͋͛̀͋͐͑L̷̛̛͔͖͂͊̈́͘L̸̡̧̤̼͎̈́͛̿́̊́ ̵̧̟͈̼̭͈̏͒͂͌͠Ẁ̷̜̾̌͊̚H̸̠̹̒̉́I̵̙̲̰̽͛Ç̸̥̪͕̙̣͛͂̈̌̓͜͝H̸̞̎ ̴̢̢̛͍͍̯̙͆̍̆͗͝Ĭ̵̬͈̎̇̅̏̎̔S̷̝͛̐̈́ ̵̩̍̈́̿͊̓͘S̷̬̭͖̭͇̓̒͒̏͛̊A̷̫̫̱̦̐́̎̎͊́C̵͙̮̟̃R̶͈̥͍͉̃͐Ê̴̗͔̣͓̒͗D̶̢̢̺̤̹̼̪̈́͐͝;̶̨̯̥̱̥̬͒̾ ̴̨̫̥̤̥̦͓͑̌̇̈́̚͠T̴͎͖̊̽̈H̴̡̧͈̣̔͐̆̋͠E̶̮̮̝͛̐ ̶̖̲̜̺̈́M̸̨̲̯̮͋͝Ȏ̴͈̝̦̜̭̹̃O̵̧͆͋͘Ņ̸́̓͗S̵̛̗̘̘̐̇̀̀̉͝E̶̺͗̋̆͑̀Y̷̡̼̜͐͂͋̑̿͋̆Ḙ̷̫̫̐͌̊̓͑̋ ̶̧̰͖͇͛͒͑̋̓̇C̴̛̰̠͓̘̚Õ̵̟̮͔̟Ņ̴̫̱̭̯́͝ͅV̷̝͖̪͉͗̊͐͒̓̓͛ͅE̶̡̩̭͔͝Ř̴̥̋̇̂͆̑͘Ģ̷̢̮̯̖̈́̏̇̕E̴̮͆̃̐̌̑̈S̴̡̟͈̲̐̀̐͐̐́̚ ̵̝͍͇̯̞͐͛̎̄̈̍W̵̪̲̟̪͔͒̉̈́̒̈́͒͝I̵̡̫̒̔͝T̶̢̞̍Ḩ̸̮̳̳̫̮̙̌̓̈͠ ̷̧̡̫̥̞̬̜̏̐̽̆̅͐̋T̶̢̖̎̄̑̍Ḩ̸̘̪͉̩̍̚̕͜A̶͖̘͋͒͋̀̊̎͘T̸͈̦̉̓ ̷̛̼͑B̴̨͙̹̞͇̱̖̀̌͗̿̕E̴͕̦̓̎̊̓Ļ̶͔͉̝̥̹̖̅Ǫ̸̨͔̲̮̂̀̀̐̈͒ͅW̸̗͈͋̋͒.̴̯̱̮̰̥̅̅̒̈́̅̿ ”
+“ PLUCK OUT THINE EYES TEAR OUT THINE THROAT LAY WASTE TO ALL WHICH IS SACRED THE MOONSEYE CONVERGES WITH THAT BELOW ”
 
 ― Yun'Shul to the unworthy
 
@@ -36,7 +36,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   Wishes are also occasionally reset on patch updates.
 
   
-If you meet all the criteria, you are able to make one of five wishes:
+If you meet all the criteria, you are able to make one of six wishes:
 
 1.  **"The trials ahead of me fill me with trepidation, I wish to escape this place."**
     -   Instantly sends the player back to The Overworld.

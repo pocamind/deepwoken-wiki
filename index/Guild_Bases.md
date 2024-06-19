@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 100980
+revid: 102407
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -70,7 +70,8 @@ Mess Hall
 
  | 
 
-A large cafeteria with 2 long tables. This is a room that allows the hiring of a chef that will make food.
+A large cafeteria with 2 long tables. This is a room that allows the hiring of a chef that will make food.  
+They sell: Fish Stew, Mushroom Omelettes, Cheese and Glazed Fish for 20 notes each, and sell Mushroom Bisques for 25 notes each.
 
  |
 | 

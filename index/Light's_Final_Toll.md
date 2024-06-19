@@ -1,9 +1,9 @@
 ---
 title: "Light's Final Toll"
-revid: 102098
+revid: 102330
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
+categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Unique Critical]
 ---
 
 # Light's Final Toll

@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 101616
+revid: 102372
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]

@@ -1,11 +1,9 @@
 ---
 title: Golden Swordfish
-revid: 102308
+revid: 102333
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Stub pages without reason, StubPages, Weapons, Rapiers]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pages with broken file links, Weapons, Rapiers, Unique Critical]
 ---
 
 # Golden Swordfish

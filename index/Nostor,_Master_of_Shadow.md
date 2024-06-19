@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 101721
+revid: 102373
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Nostor is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Shadowcast](Shadowcast.md) trainer.
 
-In order to obtain [Shadowcast](Shadowcast.md), you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Nostor (2 if you have already obtained [Shadowcast](Shadowcast.md)). Alternatively, if you have obtained the [Silentheart](Oaths.md) Oath, you must kill them in order to get one of five Oath Talents. They are found in the [City of the Drowned](The_Depths.md) inside a sewer underneath a building.
+In order to obtain [Shadowcast](Shadowcast.md), you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Nostor (2 if you have already obtained [Shadowcast](Shadowcast.md)). Alternatively, if you have obtained the [Silentheart](Oaths.md) Oath, you must kill them in order to get one of six Oath Talents. They are found in the [City of the Drowned](The_Depths.md) inside a sewer underneath a building.
 
 ## Moveset
 

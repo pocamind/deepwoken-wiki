@@ -1,9 +1,9 @@
 ---
 title: Railblade
-revid: 101671
+revid: 102354
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Unique Critical]
 ---
 
 # Railblade

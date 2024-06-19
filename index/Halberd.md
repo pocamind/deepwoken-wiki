@@ -1,9 +1,9 @@
 ---
 title: Halberd
-revid: 101709
+revid: 102345
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes]
+categories: [Weapons, Greataxes, Unique Critical]
 ---
 
 # Halberd

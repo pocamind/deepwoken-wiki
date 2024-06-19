@@ -1,9 +1,9 @@
 ---
 title: Krulian Knife
-revid: 102092
+revid: 102326
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Daggers]
+categories: [Weapons, Pages with broken file links, Daggers, Unique Critical]
 ---
 
 # Krulian Knife

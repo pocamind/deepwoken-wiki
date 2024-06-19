@@ -1,9 +1,9 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 102262
+revid: 102386
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oath: Fadetrimmer
@@ -37,8 +37,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 This oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the user has scissors hanging off the side of their hip.
 
-File:FadeTrimmer.png
-
 ## Abilities
 
 -   **Precision Cuts ★★★ - Combat Mantra**
@@ -55,6 +53,7 @@ File:FadeTrimmer.png
     -   Changes what haircut Precision Cuts (Close Shave also works, but is less reliable for some reason) will give people.
     -   You can also change your own hair.
     -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
+
 -   **Hair Products - Passive**
     -   _What's in these things?_
     -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
