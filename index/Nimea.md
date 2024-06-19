@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 92999
+revid: 102437
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Lore, World]
@@ -60,6 +60,9 @@ Nimea is a NPC inside a house in [The Hidden Village](The_Hidden_Village.md) to 
   <td rowspan="5">There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day they were in the Light. The next... Not.</td>
 </tr>
 <tr>
+  <td colspan="2"><div>You seem pretty knowledgeable on these things.</div></td>
+</tr>
+<tr>
   <td colspan="2"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the Luminant in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift,</td>
 </tr>
 <tr>
@@ -73,6 +76,7 @@ Nimea is a NPC inside a house in [The Hidden Village](The_Hidden_Village.md) to 
 <tr>
   <td rowspan="2"><div>End</div></td>
   <td rowspan="2"><div>End</div></td>
+  <td></td>
 </tr>
 <tr>
   <td><div>End</div></td>

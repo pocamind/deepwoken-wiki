@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 100678
+revid: 102438
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -101,6 +101,7 @@ Canor share a strong bond with the Adret race, staying true to the relationship 
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
 -   The Default Canor hair id is 20372960.
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
+-   Considered the human race by the community due to them having no animalistic features
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.

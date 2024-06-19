@@ -1,6 +1,6 @@
 ---
 title: Enforcer Eye
-revid: 91087
+revid: 102435
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients, Drops]
@@ -20,7 +20,7 @@ categories: [Monster Mantra Ingredients, Drops]
 
 ## Description
 
-The **Enforcer Eye** is used to gain the "Enforcer Pull" [monster mantra](Monster_Mantras.md) from [Carrion](Carrion,_Father_of_Evolution.md), who resides in [Castle Light](Castle_Light.md) after talking to him in floor 2 of the [Second Layer](Second_Layer.md).
+The **Enforcer Eye** is used to gain the "Enforcer Pull" [monster mantra](Monster_Mantras.md) from [Carrion](Carrion,_Father_of_Evolution.md), who resides in [Castle Light](Castle_Light.md) after talking to him in floor 2 of the [Second Layer](Second_Layer.md) but at a small chance you can get it from layer one escape floor loot
 
 It is obtained as a rare drop from killing any variant of [The Enforcer](Enforcer.md).
 
