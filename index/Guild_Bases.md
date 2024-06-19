@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 102407
+revid: 102428
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for Notes, and Guild Offices in towns for Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader, Lieutenant, or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for Notes, and Guild Offices in towns for Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
@@ -52,7 +52,7 @@ The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md)
 
 ## Rooms
 
-A guild base can be increased in size through different rooms. Some provide practical uses, while others purely cosmetic.
+A guild base can be increased in size through different rooms. Most provide practical uses, while others purely cosmetic.
 
 | Preview | Name | Cost | Size | Description |
 | --- | --- | --- | --- | --- |
@@ -190,7 +190,7 @@ Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to c
 
 1 Room  
 
- | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. |
+ | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. There isn't a fishing spot. |
 | 
 
  | 
@@ -206,8 +206,7 @@ Library
 
  | 
 
-Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. Only Guild members can access the Library collection.  
-(There is a 1 minute 15 second cooldown on turning in books)
+Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [book training items](Training_Gear.md) like [How to Make Friends](How_to_Make_Friends.md) for 25 [Notes](Notes.md) each.
 
  |
 | 

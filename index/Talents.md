@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 101757
+revid: 102418
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -401,7 +401,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
     -   When activated:
         -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin
-        -   Buff is granted for 20 seconds.
+        -   Buff is granted for 20 seconds. Buff is granted only for 10 seconds if you don't meet Prerequisites.
         -   Eyes turn red and gain a red trail for 20 seconds.
         -   Hair turns red for 20 seconds.
         -   **ONLY** affects your basic attacks, not mantras or anything else.
