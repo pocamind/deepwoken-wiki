@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 102463
+revid: 102529
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

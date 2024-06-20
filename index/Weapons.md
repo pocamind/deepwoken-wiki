@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 102316
+revid: 102497
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -577,7 +577,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 7</td>
   <td>4</td>
   <td>8</td>
-  <td>0.81x</td>
+  <td>1.08x</td>
   <td>20.8</td>
 </tr>
 <tr>
@@ -643,7 +643,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 8.5</td>
   <td>4</td>
   <td>8</td>
-  <td>0.82x</td>
+  <td>1.09x</td>
   <td>28.3</td>
 </tr>
 </tbody>
@@ -680,7 +680,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 2.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>22.7</td>
 </tr>
 <tr>
@@ -692,7 +692,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 2.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>22.7</td>
 </tr>
 <tr>
@@ -728,7 +728,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 3</td>
   <td>5</td>
   <td>8</td>
-  <td>0.82x</td>
+  <td>1.09x</td>
   <td>19.7</td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>29.3</td>
 </tr>
 <tr>
@@ -776,7 +776,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>32.5</td>
 </tr>
 <tr>
@@ -836,7 +836,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7.5</td>
   <td>8</td>
   <td>8</td>
-  <td>0.71x</td>
+  <td>0.94x</td>
   <td>41.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -884,7 +884,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>MED: 6</font></td>
   <td><font>7</font></td>
   <td>7.5</td>
-  <td>0.73x</td>
+  <td>0.97x</td>
   <td>34.1</td>
 </tr>
 <tr>
@@ -1002,7 +1002,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 3</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.9x</td>
   <td>21.7</td>
 </tr>
 <tr>
@@ -1014,7 +1014,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 2.5</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.9x</td>
   <td>21.4</td>
 </tr>
 <tr>
@@ -1062,7 +1062,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 5; STR: 3</td>
   <td>6</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.1x</td>
   <td>35</td>
 </tr>
 <tr>
@@ -1203,7 +1203,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>MED: 5</td>
   <td>6</td>
   <td>7.5</td>
-  <td>0.74x</td>
+  <td>0.98x</td>
   <td>29.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -1215,7 +1215,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>MED: 5.5</td>
   <td>5</td>
   <td>7.5</td>
-  <td>0.74x</td>
+  <td>0.98x</td>
   <td>32.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -1330,7 +1330,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 5</td>
   <td>6</td>
   <td>8</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>N/A</td>
   <td>30.4</td>
 </tr>
@@ -1343,7 +1343,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7</td>
   <td>5</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>N/A</td>
   <td>38.1</td>
 </tr>
@@ -1408,7 +1408,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 8</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.58x</td>
+  <td>0.77x</td>
   <td>N/A</td>
   <td>42.2</td>
 </tr>
@@ -1421,7 +1421,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 10</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>N/A</td>
   <td>50</td>
 </tr>
@@ -1473,7 +1473,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>HVY: 9</font></td>
   <td><font>7</font></td>
   <td>8</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>N/A</td>
   <td>46.5</td>
 </tr>
@@ -1547,7 +1547,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 6.5</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.62x</td>
+  <td>0.83x</td>
   <td>0.1s</td>
   <td>35.2</td>
 </tr>
@@ -1573,7 +1573,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 7</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>0.1s</td>
   <td>41.5</td>
 </tr>
@@ -1586,7 +1586,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>53.4(<b>Bleed</b>)</td>
 </tr>
@@ -1599,7 +1599,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 7</td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>45</td>
 </tr>
@@ -1612,7 +1612,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8.3</td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.84x</td>
   <td>0.1s</td>
   <td>43.8</td>
 </tr>
@@ -1664,7 +1664,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><font>HVY: 9.5</font></td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.8x</td>
   <td>0.1s</td>
   <td>58(<b>Bleed</b>)</td>
 </tr>
@@ -1690,7 +1690,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><font>HVY: 8</font></td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td><font>N/A</font></td>
   <td>44</td>
 </tr>
@@ -1894,7 +1894,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>HVY: 10</td>
   <td>10</td>
   <td>10</td>
-  <td>0.45x</td>
+  <td>0.6x</td>
   <td>N/A</td>
   <td>61.3</td>
 </tr>
