@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 102241
+revid: 102582
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -37,7 +37,7 @@ Note that you have to go into the building to access the purple flames, as the p
 
 **Thresher Scales:** You regenerate your armor at campfires. (+5 Health)
 
-Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a [King Thresher](Thresher.md#king-thresher), which can spawn randomly anywhere in the [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 13. The NPC's name is [Jessamine](Jessamine.md).
+Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a [King Thresher](Thresher.md#king-thresher), which can spawn randomly anywhere in the [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 10. The NPC's name is [Jessamine](Jessamine.md).
 
 ### Chain of Perfection
 

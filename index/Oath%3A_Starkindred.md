@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 102476
+revid: 102583
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -93,4 +93,3 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
 -   The Halo, upper, and lower feathers are all dye-able.
 -   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md), however drinking it will simply make you vomit.
--   Typing "I will never be a memory" in the chat before summoning your wings will make you have one wing only. This is a reference to a line said by the main antagonist of _Final Fantasy 7_, Sephiroth. It can be toggled by saying it again.

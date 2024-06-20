@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 101821
+revid: 102600
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -25,7 +25,7 @@ categories: [Weapons, Clubs]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Burning Blood, The Diluvian Mechanism, Erisia, Minityrsa, False Merchant Ship, Random Encounters (Sea events), Scion of Ethiron |
+| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Burning Blood, The Diluvian Mechanism, Erisia, Minityrsa, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron |
 | description | ... |
 
 ## Description

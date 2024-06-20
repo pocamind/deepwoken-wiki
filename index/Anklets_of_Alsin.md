@@ -1,9 +1,9 @@
 ---
 title: Anklets of Alsin
-revid: 102372
+revid: 102587
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists]
+categories: [Pages with broken file links, Weapons, Fists]
 ---
 
 # Anklets of Alsin
@@ -41,3 +41,73 @@ The Anklets of Alsin are a light weapon that can be found in all Depths chests, 
 -   This is the first weapon released for the [Jus Karita](Jus_Karita.md) fighting style.
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
 -   This weapon is named after Alsin, a [Celestial](Celestial.md) that the Justicars worship.
+
+## Enchantments
+
+**Vampirism:**
+
+File:Vampirism anklets.png
+
+**Detonation:**
+
+File:Anklets of alsin detonation.png
+
+**Sear:**
+
+File:SearA+.png
+
+**Elastic:**
+
+File:Elastic anklets.png
+
+**Tears of the Edenkite:**
+
+File:Tears Of the Edenkite - Anklets of Alsin.jpeg
+
+**Curse of the No Life King:**
+
+File:Curse of No Life King - Anklets of Alsin.gif
+
+**Storm:**
+
+File:Storm - Anklets of Alsin.gif
+
+**Gluttony:**
+
+File:Gluttney.png
+
+**Heroism:**
+
+File:Heroism anklets.png
+
+**Astral:**
+
+File:Astral Anklets of alsin.png
+
+**Blazing (Regular):**
+
+File:Blazing Anklets Of Alsin.png
+
+**Obfuscation:**
+
+File:Anklets obfuscation.png
+
+**Providence's Thorn:**
+
+File:Anklets of Alsin providence thorns.png
+
+**Chilling (Regular):**
+
+File:Chilling anklets.png
+
+**Grim:**
+
+File:Grim Anklets.png
+
+**Nemesis:**
+
+File:Aos.png
+
+**Curse of the unbidden:**
+
+File:Screenshot 2024-05-14 190826.png
