@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 102601
+revid: 102606
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -116,10 +116,10 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 -   Many Kyrsan weapons.
 -   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
 -   Very high odds of Deep Gems.
--   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates, all guaranteed to be at least 1 star quality.
--   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped by Chaser.
+-   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
+-   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped Only by Chaser.
 -   Rarely, [Enchantment Stones](Enchant_Stone.md).
--   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Stormseye](Stormseye.md).
+-   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Stormseye](Stormseye.md) and [Ysleys Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
 -   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
 -   Rarely, Warmaster Medallion
 

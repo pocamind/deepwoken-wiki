@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 102600
+revid: 102605
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -12,21 +12,20 @@ categories: [Weapons, Clubs]
 |---|---|
 | type | Club |
 | requirements | MED: 75 |
-| damage | 17 + 5.1 BLD |
-| scaling | MED: 6 |
+| damage | 17 + 5.1[BLD] |
+| scaling | 6 |
 | range | 8 |
 | swing speed | 0.98x |
 | penetration | 30% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
-| selling price | 25 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Burning Blood, The Diluvian Mechanism, Erisia, Minityrsa, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron |
-| description | ... |
+| description | "..." |
 
 ## Description
 

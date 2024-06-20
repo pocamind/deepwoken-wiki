@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 101520
+revid: 102609
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -42,6 +42,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [The Captain](<Cap'n_Orlandeau.md>) | Unaligned | [Fragments of Self](Fragments_of_Self.md) | Lets you retake the [Tutorial](Tutorial.md) |  |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants Murmur: Tacet |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
+| [C'lantaa](<C'lantaa.md>) | Unaligned, possibly [The Hive](The_Hive.md) | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Dockson](Dockson.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | Drefa | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Give 6 wood to her for notes/etris reputation | The task is repeatable |
 | Emel | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
@@ -50,7 +51,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
 | [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | Flabbermaster Filigree, the First Mate | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) |  |  |
+| [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | Frank F'alzone | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Friid](Attunement_Trainers.md) | Unaligned, possibly Etrea | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md), perhaps the Summer Company also | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
