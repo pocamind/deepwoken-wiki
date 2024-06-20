@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 102318
+revid: 102635
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,7 +22,7 @@ Template:Creature Infobox V3
 
 The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md).
 
-While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted. "Im going to stick my odd tentacle in you" Infamously said by the Nautilodaunt.
+While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
 
 “ ...They do not take a liking to human flesh, tending instead to experiment upon the fallen, inserting parasites into their victims. ”
 
@@ -60,7 +60,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 | **Punch** | The Fury Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | ◯ | ◯ | (★★☆) |
 | **Kick** | Fury Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick. | ◯ | ◯ | ◯ | (★★☆) |
 | **Flip- Kick** | Fury Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | ? | ◯ | (★★★) |
-| **Drop-Kick** | Fury Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying."Im going to stick my odd tentacle in you" Infamously said by the Nautilodaunt. | ◯ | ? | ◯ | (★★★) |
+| **Drop-Kick** | Fury Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | ? | ◯ | (★★★) |
 | **Electro Stomp** | Fury Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | X | ◯ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) the Fury Nautilodaunt can also **feint** their attacks. | N/A | N/A | N/A | (★★☆) |
 | **Vent** | If hit by any move that utilises the Song such as a Mantra, certain Resonances, or a Vent from the player, the Fury Nautilodaunt will near-completely negate the damage of said mantra. Can happen even during other moves. | N/A | N/A | N/A | (★☆☆) |

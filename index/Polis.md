@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 101723
+revid: 102632
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -17,6 +17,116 @@ Template:EnemyInfobox1.0
 ## Description
 
 Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the Celestial, Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
+
+  
+
+## Dialogue
+
+**First encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8">Ah, another transient?</td>
+</tr>
+<tr>
+  <td colspan="4">What are you doing here?</td>
+  <td colspan="4">How do I get strong like you?</td>
+</tr>
+<tr>
+  <td colspan="4">Name's Polis. I'm a Justicar from the Frozen Coast.</td>
+  <td colspan="4">You'll want to grab some gear. An intelligent mind needs a book, a swordsman needs an instruction manual, a strong man needs weights. I'm sure this town will find you well equipped with any of these items. Just make sure you don't spend all day using this gear, you should only need to use them once and then begin doing as you wish.</td>
+</tr>
+<tr>
+  <td colspan="4">Justicar? Frozen Coast? Are you speaking common?</td>
+  <td colspan="4">Okay I get that, but how do I actually gain strength?</td>
+</tr>
+<tr>
+  <td colspan="4">You're obviously not very well travelled... I am walking the <i>Path</i> as I see fit. Each Justicar interprets the Path in his own way and lives his life by it. As for the Coast... That place can sink beneath the waves for all I care.</td>
+  <td colspan="4">Oh, I see it within you. That fire like Amorus... If you sail straight out from the dock it'll take you towards Erisia. You can find many riches on that island, but be careful. A horrible secret lies deep within that place and even more horrible creatures surrounding it. Gain strength, maybe you'll be the one to find out the meaning behind this conflict.</td>
+</tr>
+<tr>
+  <td colspan="4">What is the Path?</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="4">It is the code that all of us Justicars live by. We are all taught to interpret the path in our own ways. Some may interpret the path to help others, some may use it to exact righteous violence upon people. I can only hope that the path I have chosen to follow is right.</td>
+</tr>
+<tr>
+  <td colspan="4">What happens if you pick incorrectly?</td>
+</tr>
+<tr>
+  <td colspan="4">Then may Alsin have mercy on me. Most of the locals see me as a bad omen so they don't speak with me.. I appreciate you listening to my story.</td>
+</tr>
+<tr>
+  <td>End (He gives you a gold ring)</td>
+</tr>
+</tbody>
+</table>
+
+**After you hear his story:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">Hm. Back again? You're more persistent than I gave you credit for.</td>
+</tr>
+<tr>
+  <td colspan="4">Is there anything you can teach me?</td>
+  <td>What are you doing here?</td>
+  <td>How do I get as strong as you?</td>
+</tr>
+<tr>
+  <td colspan="2">[Requirements Met]</td>
+  <td colspan="2">[Requirements Unmet]</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="2">Hm... Perhaps you have the aptitude for <b>Jus Karita</b> after all...</td>
+  <td colspan="2">Hm... I don't think you're ready for <b>Jus Karita</b> quite yet...</td>
+</tr>
+<tr>
+  <td colspan="2">What is Jus Karita?</td>
+  <td colspan="2">End</td>
+</tr>
+<tr>
+  <td colspan="2">A Path that one may walk in combat. Refined by the Justicar before me, we use it to stand our ground without need of a blade. You seem to have the aptitude required it. Interested?</td>
+</tr>
+<tr>
+  <td colspan="2">Yes.</td>
+</tr>
+<tr>
+  <td colspan="2">I've only started you on your jouruney. It's up to you to take the next steps in your Path.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Jus Karita obtained:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>How strange that our Paths should cross again so soon...</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+  
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 101153
+revid: 102631
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -20,12 +20,12 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 -   You can choose between [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) as your spawn.
 -   You begin with nothing but the [Stranded](Stranded.md) outfit, and a starting weapon of your choice; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective [Attunement](Attunements.md). _If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead._
-    -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
+    -   Alternatively, if you complete the [Tutorial](Tutorial.md), you will start with an extra, a [Vanguard Brace](Vanguard_Brace.md), a Mantra of your choosing, [Flint](Flint.md), and a Dumbbell, on top of what you already start with.
 -   Your starting reputations are:
     -   Friend of The Kingdom of Etrea and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 
-Note: Asking The Captain to remind you about him in [Fragments of Self](Fragments_of_Self.md) will lock you to this origin.
+Note: Asking The Captain to remind you about him in [Fragments of Self](Fragments_of_Self.md) **will lock you** to this origin.
 
 ## Lone Warrior
 
@@ -43,6 +43,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** Spawns you in the Trial of One.
 -   **\[PRO\]** Allows use of the Shrine of Solitude.
 -   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the depths.
+-   **\[CON\]** Your default spawn puts you in enemy territory, and there is no nearby town.
 
 ## Deepbound
 
@@ -52,7 +53,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 **_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining The Divers. Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
 
--   You don't actually need to join the Divers to obtain Deepbound.
+-   **You don't actually need to join the Divers** to obtain Deepbound, you just need to talk to him.
 
 **Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
@@ -116,7 +117,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, and The Hundred Legions.
         -   If you are one of the 3 Hive races (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
--   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive (Or other factions which may've put your bounty on their boards.)
+-   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive. (Or other factions which may've put your bounty on their boards.)
 
 ## Upcoming Origins
 
@@ -153,7 +154,7 @@ The following is speculation:
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
 -   With the Deepbound and Voidwalker origins having contract talents to factions belonging to The Divers and The Knives of Eylis faction respectfully, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority as well as the Ignition Union origin) that they will also contain contract based talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
--   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
+-   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
 
 ## References

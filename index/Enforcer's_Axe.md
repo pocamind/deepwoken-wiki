@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 102500
+revid: 102623
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Unique Critical]
@@ -48,6 +48,8 @@ After a short windup, the user spins the Enforcer's Axe in a circle around thems
     -   Critical Cooldown increased from 5 seconds to 7 seconds.
 -   Version 1.4.4 (October 6th 2023)
     -   Critical range and damage increased.
+-   Version 1.2.9 (June 25th, 2023)
+    -   PEN increased (5 -> 10)
 -   Version 0.9.5 (December 24th 2022)
     -   Critical windup increased (0.5s -> 0.6s) due to addition of Uppercuts.
 -   Version 0.8.7 (November 7th 2022)

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 102609
+revid: 102630
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -85,6 +85,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
 | [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
+| [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [mantra modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
 | [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the Miner's Landing lootpool in exchange for 350 notes. |  |
 | Malte | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marae](Loot_Bag_Gacha.md) | Unaligned | [The Lordsgrove](The_Lordsgrove.md) | Gacha NPC. Will give you something random from the hive lootpool in exchange for 350 notes. |  |

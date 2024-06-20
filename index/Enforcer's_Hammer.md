@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 102358
+revid: 102624
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical]
@@ -48,3 +48,14 @@ After a short windup, the user spins the Enforcer's Hammer in a circle around th
     -   Despite stacking all ways to deal more posture damage, the devs implemented a posture damage cap. Meaning that once you reached the cap, you can't deal more posture damage, but still the cap can deal at least half posture bar for [Path's Defender](<The_Path's_Defender.md>) users, so it is possible to one shot the posture of people with no shields.
 -   Meeting the requirement of HVY, the damage is (37.7)
 -   At max HVY, the damage is (41.9)
+
+## Version History
+
+-   Version 1.6.8 (March 22nd 2024)
+    -   Critical Cooldown increased from 5 seconds to 7 seconds.
+-   Version 1.4.4 (October 6th 2023)
+    -   Critical range and damage increased.
+-   Version 1.0.4 (January 16th, 2023)
+    -   Given the same critical as the Enforcer's Axe.
+-   Version 0.8.7 (November 7th 2022)
+    -   Added, yet lacked the unique critical.

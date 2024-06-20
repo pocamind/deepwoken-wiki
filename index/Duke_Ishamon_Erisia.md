@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 102618
+revid: 102619
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -324,7 +324,6 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
--   Duke **is** against the drowning and against **Lord Regent**, if it wasn't made obvious enough. So, technically, your player character is the villain, killing Duke (who wants to prevent the drowning of Etris). The reason Duke is seen as an antagonist, though, is his questionable ethics and experiments.
 
 ## Bugs
 
