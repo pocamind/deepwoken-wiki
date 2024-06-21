@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 102187
+revid: 102686
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -50,7 +50,7 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is noticeably slower than most of the other daggers, with a swing speed of 0.85. For comparison, the [Krulian Knife](Krulian_Knife.md) has a swing speed of 0.98x. To make up for its lack of speed, it outranges every other dagger in the game, being tied with the Central Dirk for the most range and has the highest base damage out of any dagger as well. This weapon can also be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md), making it even stronger. It is a fairly rare drop at the chests in [Starswept Valley](The_Starswept_Valley.md).
+The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is noticeably slower than most of the other daggers, with a swing speed of 1.13. For comparison, the [Krulian Knife](Krulian_Knife.md) has a swing speed of 1.25x. To make up for its lack of speed, it outranges every other dagger in the game, being tied with the Central Dirk for the most range and has the highest base damage out of any dagger as well. This weapon can also be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md), making it even stronger. It is a fairly rare drop at the chests in [Starswept Valley](The_Starswept_Valley.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 102665
+revid: 102676
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics, Pages with broken file links]
@@ -1735,6 +1735,7 @@ You can choose your first name from any available, but your choices of last name
 -   The name Minos is also a reference to Greek mythology.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
+-   The name Basil is a reference to the [OMORI](https://www.omori-game.com/) character [BASIL](https://omori.fandom.com/wiki/BASIL) with the same name.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in.
 -   The leader of the guild “| Team Avatar|” has a special name which is “The Avatar, The Last Galebreather”[\[2\]](#cite-note-2)
 
