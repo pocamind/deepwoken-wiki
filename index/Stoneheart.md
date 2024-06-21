@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 102359
+revid: 102648
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical]
@@ -10,7 +10,7 @@ categories: [Weapons, Greathammers, Unique Critical]
 
 | Stoneheart | |
 |---|---|
-| type | Heavy Greathammer |
+| type | Greathammer |
 | requirements | 80 HVY, 20 STR |
 | damage | 24 |
 | scaling | 10 |
@@ -20,6 +20,7 @@ categories: [Weapons, Greathammers, Unique Critical]
 | penetration | 10% |
 | chip damage | 10% |
 | special effect | Crit can charge up. Unparryable, and large AOE |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 12 |
 | bankable | Yes |
 | droppable | Yes |

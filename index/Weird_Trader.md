@@ -1,9 +1,9 @@
 ---
 title: Weird Trader
-revid: 102165
+revid: 102663
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, NPCs]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -118,6 +118,7 @@ The event despawns after 30 minutes have elapsed.
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   [Dye Packet](Dye_Packet.md)
 -   [Flareblood Kamas](Flareblood_Kamas.md)
+-   [Stormseye](Stormseye.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md)
 -   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
 -   [Ignition Deepcrusher](Ignition_Deepcrusher.md)

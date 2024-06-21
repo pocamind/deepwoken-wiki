@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 102623
+revid: 102649
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Unique Critical]
@@ -54,5 +54,7 @@ After a short windup, the user spins the Enforcer's Axe in a circle around thems
     -   Critical windup increased (0.5s -> 0.6s) due to addition of Uppercuts.
 -   Version 0.8.7 (November 7th 2022)
     -   Model changed from old to current.
+-   Version 0.8.5 (October 24th 2022)
+    -   Swingspeed increased (0.55x -> 0.57x), PEN added (0 -> 5%)
 -   Version 0.7.8 (September 5th 2022)
     -   Unique Critical Added.

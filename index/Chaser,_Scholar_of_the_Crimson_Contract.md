@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 102606
+revid: 102647
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -111,9 +111,9 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 ## Rewards
 
-After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium sized [chest](Chests_&_Sacks.md) is spawned which contains:
+After Chaser, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a medium sized [chest](Chests_&_Sacks.md) is spawned. It contains:
 
--   Many Kyrsan weapons.
+-   Many Kyrsan series weapons.
 -   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
@@ -121,11 +121,11 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 -   Rarely, [Enchantment Stones](Enchant_Stone.md).
 -   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Stormseye](Stormseye.md) and [Ysleys Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
 -   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
--   Rarely, Warmaster Medallion
+-   Rarely, [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 
-Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as some positive [Diver](The_Divers.md) reputation.
+Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
 
-**Roughly** six Chasers solo, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
+**Roughly** six Chaser solos, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
 Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
 
@@ -212,7 +212,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
     -   He is still viewed as the easiest boss ingame, due to his insanely predictable attacks with loud sound queues, with his only troublesome move being the stalactites as they stall the fight as well as being completely random.
--   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawning.
+-   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
 -   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
 -   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered.
 -   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
