@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 102661
+revid: 102669
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -84,7 +84,7 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 
 ## Detail
 
--   Bare in mind, you still cannot add more than 6 Points into a give Trait.
+-   Bare in mind, you still cannot add more than 6 Points into a given Trait.
     
 
 **Shrine of Chance:**
