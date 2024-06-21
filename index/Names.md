@@ -1,9 +1,9 @@
 ---
 title: Names
-revid: 101553
+revid: 102646
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Creation, Mechanics]
+categories: [Character, Creation, Mechanics, Pages with broken file links]
 ---
 
 # Names
@@ -1735,7 +1735,13 @@ You can choose your first name from any available, but your choices of last name
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in.
+-   The leader of the guild “| Team Avatar|” has a special name which is “The Avatar, The Last Galebreather”[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)
+    
+    File:The avatar, the last galebreather.png
+    
+    The Leader of the guild |Team Avatar| has a special name
