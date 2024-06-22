@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 102763
+revid: 103076
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical]
@@ -43,6 +43,7 @@ The cooldown for the critical is 10 seconds.
 ## Trivia
 
 -   At Proficiency 6, it deals 31.3 damage at base and 41.7 damage when both MED and HVY are maxed.
+-   In an update on 4/13/24, the Wyrmtooth was purported to have had its PEN increased but this was never was applied ingame.
 -   The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
     -   Both weapons share the same light attack animations.

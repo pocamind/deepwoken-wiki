@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 102738
+revid: 103075
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -478,7 +478,7 @@ _Undying flame._
  | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds if Azure Flames has been unlocked, if damage isn't substantial.
-    -   Regenerates 2% of the user's health per Mantra level, doubles if Azure Flames has been unlocked, upon receiving lethal damage.
+    -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing it's buffed by a 20% if used with azure flames.
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
 -   Restores some of the user's sanity.

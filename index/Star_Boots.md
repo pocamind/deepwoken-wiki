@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 74417
+revid: 103109
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -11,7 +11,7 @@ categories: [Equipment, Legs, Boots]
 | Star Boots | |
 |---|---|
 | type | Legs |
-| rarity | Rare(assumed) |
+| rarity | Rare |
 | selling price | (assumed) |
 | requirements | Power 10 |
 | weight | 1 |
