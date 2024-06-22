@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 101840
+revid: 102751
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -66,6 +66,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   [Void Feather(s)](Dark_Feather.md)
 -   [Deepshore Fossil](Deepshore_Fossil.md)
 -   Tools (Repair Hammer, Glider, Etc.)
+-   Campfires (Store wood instead)
 -   [Hallowtide Mask](Hallowtide_Mask.md)
 -   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
 -   Poser's Ring

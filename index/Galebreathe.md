@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 102322
+revid: 102764
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -356,6 +356,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
     <li>Does heavy damage</li>
     <li>Can be modified with Crystal/Perfect Lenses to increase the distance travelled.</li>
     <li>Uses the <a href="Shadowcast.md">Shadow Assault</a> startup sound.</li>
+    <li>Can be used to clip through walls while in <a href="Second_Layer.md">The Second Layer</a></li>
     <li>It's also compatible with Logstones, but the effect is minimal.
   <ul>
     <li>Requires more testing.</li>

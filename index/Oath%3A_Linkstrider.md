@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 102460
+revid: 102754
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -52,7 +52,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     
     -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteors that are scattered around the map. By sitting at a campfire and typing out the name of the desired Comet, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
-    -   The color of the teleportation variates randomly between blue and red.
+    -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voideye causes it to be white.)
     -   Limitations:
         -   Requires [Stardust](Stardust.md) at first. After you consumed a stardust to teleport, it no longer requires stardust to use it. Stardust is obtainable in [Voidzones](Voidzones.md) that have a Startree. This is an intentional feature.
         -   Does not work when in combat.
@@ -97,3 +97,4 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it deals heavily reduced damage.
 -   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardles of who places them.
+-   Keep in mind that the obtainment has to be done in the same server, because if you change servers after you placed the lotuses in, they will not save and only stay for that server only.

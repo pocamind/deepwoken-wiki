@@ -1,16 +1,18 @@
 ---
 title: Names
-revid: 102676
+revid: 102705
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Creation, Mechanics, Pages with broken file links]
+categories: [Character, Creation, Mechanics]
 ---
 
 # Names
 
 ## Description
 
-You can choose your first name from any available, but your choices of last names are limited depending on your race.  
+You can choose your first name from any available, but your choices of last names are limited depending on your race.
+
+Some players have access to customized, unique names.
 
 ## First Names
 
@@ -1705,7 +1707,6 @@ You can choose your first name from any available, but your choices of last name
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
--   The names "Mario" and "Luigi" are references to [Mario](https://www.mariowiki.com/Mario) and [Luigi](https://www.mariowiki.com/Luigi) from the _[Super Mario](https://www.mariowiki.com)_ franchise (as if that wasnt pretty obvious)
 -   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
@@ -1735,15 +1736,8 @@ You can choose your first name from any available, but your choices of last name
 -   The name Minos is also a reference to Greek mythology.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
--   The name Basil is a reference to the [OMORI](https://www.omori-game.com/) character [BASIL](https://omori.fandom.com/wiki/BASIL) with the same name.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in.
--   The leader of the guild “| Team Avatar|” has a special name which is “The Avatar, The Last Galebreather”[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
-    
-    File:The avatar, the last galebreather.png
-    
-    The Leader of the guild |Team Avatar| has a special name

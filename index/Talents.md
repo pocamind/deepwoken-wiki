@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 102680
+revid: 102769
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -362,10 +362,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   Prerequisites: 25 Fortitude
 
--   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
-    -   Applies to all slowing effects, allowing for hitstun and aggressive posture to be 30% weaker.
-    -   Prerequisites: 15 Fortitude, 15 Willpower
-
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
     -   Lower the movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
@@ -494,11 +490,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Proc Cooldown: 0.25s
     -   Prerequisite 55 Charisma, Charismatic Cast
 
--   Morale Booster \[Common Talent, Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
-    -   Prerequisite: 25 Charisma
-    -   Allies who you charmed get up in 5 seconds instead of the usual 10 when knocked.
-
--   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
+-   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
     -   Reduces damage taken by charmed targets by 10%.
     -   Prerequisite: 25 Charisma
 
@@ -618,10 +610,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity)
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
+    -   If hit during Cryostatis you will inflict frost damage to the opponent.
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
-
--   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity)
-    -   Prerequisite: Cryostasis
 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
     -   Prerequisite: Ice Beam, 60 Frostdraw.
@@ -1376,12 +1366,10 @@ _**"I seek the qualities of Heat Column."**_
     -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisites: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
--   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning. (+4 Elemental Intensity)
+-   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning and causes your Eruptions to be Empowered for the next 10s. 45s CD. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
 -   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
--   Scorched Earth \[Common Talent, Flamecharm & Eruption Exclusive\] - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
-    -   Prerequisites: Eruption Path: Lava Serpent, 75 Flamecharm
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
     -   Prerequisites: All Eruption Path: Lava Serpent Talents, 100 Flamecharm
 
@@ -2196,7 +2184,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"My blade burns through my foes."**_
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
-    -   Prerequisite: Agitating Spark, 75 Flamecharm
+    -   Prerequisite: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity)
     -   Has a 20s Cooldown
@@ -2471,11 +2459,6 @@ _**"I seek the qualities of vocalist."**_
     -   Commands Given: "Sleep", "Drop", "Run, "Eat", "Say (Text)", "Use", "Locate", "Leech"
     -   Prerequisite: 20 Charisma
 
--   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration.
-    -   Prerequisites: 50 Charisma, Vow of Mastery
-    -   Effect: Buff speed slightly and major power boost
-    -   3 Minutes cooldown
-
 -   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant if they have lower than 40% hp
@@ -2485,11 +2468,6 @@ _**"I seek the qualities of vocalist."**_
     -   Prerequisites: 60 Charisma, Vow of Mastery
     -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
     -   15 Seconds cooldown.
-
--   _Command: Sacrifice_ \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own.
-    -   Prerequisites: 50 Charisma, Vow of Mastery
-    -   Effect: Takes the hp of a servant until you are full hp
-    -   5 Seconds cooldown.
 
 ### Warrior
 
@@ -2731,6 +2709,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common talent.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
+-   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.

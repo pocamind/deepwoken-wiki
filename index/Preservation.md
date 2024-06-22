@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 100394
+revid: 102757
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -27,7 +27,7 @@ When used, a golden circle appears around the user or projectile. Any knocked en
 
 ## Usage
 
-Pressing C once will activate the '_Preservation_ Resonance. If you press C while the resonance is active the duration will immediately end.
+Pressing C once will activate the '_Preservation_ Resonance. If you press C while the resonance is active the duration will immediately end and will also cause captured players to be unknocked.
 
 If Preservation is corrupted, the bubble will parry any attacks against it.
 

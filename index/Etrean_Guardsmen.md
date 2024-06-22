@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 97546
+revid: 102698
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards]
@@ -12,13 +12,23 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Although not fully considered an enemy until you provoke them or approach them with bad reputation with [Etrea](Etrea.md), the Etrean Guardsmen are NPC type of [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Typically more will come after defeating them. After defeating a lot of the Etrean Guards, the King's Guards will begin to come after you.
+The Etrean Guardsmen are NPC type of passive [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Upon killing one, more tend to come, quickly swarming the player. After killing a sufficient amount of them, [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will start hunting you.
 
-Etrean Guardsmen wear an Unknown outfit with their race being [Etreans](Etrean.md).
+Etrean Guardsmen wear an Unknown outfit, and are [Etreans](Etrean.md).
+
+## Behavior
+
+The Etrean Guardsmen are passive towards the player unless the player attacks them, or has negative reputation with [Etrea](Etrea.md).
+
+An Etrean Guardsman will sometimes feint.
+
+They have a passive which makes them immune to PVE scaling, meaning that even if you're power 20, it may take a good couple of hits to take one down.
 
 ## Moveset
 
 An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [Ritual Spear](Ritual_Spear.md) or [Mace](Mace.md) along with the [Galebreathe](Galebreathe.md) attunement:
+
+### Attacks
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -33,14 +43,11 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 
-### Boons
+### Passives
 
 -   Impervious - Immune to PvE scaling.
 
-## Tips
-
--   Feints SOMETIMES.
-
 ## Trivia
 
--   There is an Etrean Guardsmen who stands near a hole, guarding the entrance to Etris near the Blacksmith and Polis. Their pathfinding is somewhat mediocre, which often leads to them falling through the hole into the ocean below. As they were more often than not in the ocean, they were nicknamed Conditioned Swimmer, after the Conditioned Runner Talent. They were eventually modified so they would be teleported back to spawn should they fall through the hole.
+-   There is an Etrean Guardsmen who stands near a hole, guarding the entrance to Etris near the Blacksmith and Polis. Their pathfinding is somewhat mediocre, which often leads to them falling through the hole into the ocean below.
+    -   As they were more often than not in the ocean, they were nicknamed Conditioned Swimmer, after the Conditioned Runner Talent. They were eventually modified so they would be teleported back to spawn should they fall through the hole.

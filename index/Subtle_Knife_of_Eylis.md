@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 101728
+revid: 102710
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -45,7 +45,6 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 -   Risky Moves - When you successfully dodge, you'll automatically dodge the next attack.
 -   Finishing Touch - Instantly execute enemies finished with the critical attack of your dagger.
 -   Matador - Deal +20% more damage to human enemies with hyperarmor.
--   Ghost(?) - Dodging a move will briefly make you invisible until you attack.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 101892
+revid: 102729
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -120,7 +120,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
     <li>Does MASSIVE damage upon hit, and has a range of 20 studs.</li>
     <li>Can be parried, blocked and dodged.</li>
-    <li>Has long wind-up.</li>
+    <li>Has long wind-up. Note: Skyshatter can be modified with a Round spark to Stomp directly into the ground, if a Player is hit by this they are both flung into the air.</li>
   </ul></td>
 </tr>
 </tbody>

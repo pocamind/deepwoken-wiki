@@ -1,9 +1,9 @@
 ---
 title: "Isshin's Ring"
-revid: 102519
+revid: 102744
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Ring]
+categories: [Pages with broken file links, Armors, Equipment, Rings]
 ---
 
 # Isshin's Ring

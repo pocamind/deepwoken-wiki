@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 102190
+revid: 102738
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -282,7 +282,7 @@ _A rising tornado of flames._
 
  | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals moderate-high damage.
+-   Deals moderate-high damage. It has a base damage of 15. (And apparently has a max damage of 25?)
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
 -   Does not send the user vertically into the air if no targets are hit.
 
@@ -1239,7 +1239,7 @@ These are talents found in "_The Emperor's Blade_" Category.
  | 
 
 Emperor Flame  
-(FLAME 75, Agitating Spark)
+(FLAME 60, Agitating Spark)
 
  | 
 

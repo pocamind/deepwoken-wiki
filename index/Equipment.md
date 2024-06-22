@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 102177
+revid: 102740
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4623,6 +4623,24 @@ Found from:
  |
 |  | 
 
+[Armorer's Ring](<Armorer's_Ring.md>)
+
+ | 
+
+Grants a 10% reduction to incoming armor damage.
+
+  
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   Unknown
+
+ |
+|  | 
+
 Dawnfist's Ring
 
 (Legendary)
@@ -4833,6 +4851,25 @@ Found from:
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+
+ |
+|  | 
+
+[Diver's Ring](<Diver's_Ring.md>)
+
+ | 
+
+Grants +5% damage to Monsters in the Depths.
+
+  
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
