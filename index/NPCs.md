@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 102630
+revid: 102862
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -33,6 +33,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Aristo](Aristo.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Inn | Provides information to new players |  |
 | [Argo](Argo.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Reveals information about fishing |  |
 | [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |
+| [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Gives the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) if you defeat him in a fight | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 Flamecharm |
 | [Avian](Avian.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 102740
+revid: 103005
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4269,6 +4269,21 @@ Source from:
 -   [The Guy](The_Guy.md)
 
  | N/A |
+|  | 
+
+[Nauticals](Summer_Nauticals.md)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Source from:
+
+-   [Summer Isle](Summer_Isle.md)
+
+ | Summer, Dusk & Seaglass |
 |  | 
 
 [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)

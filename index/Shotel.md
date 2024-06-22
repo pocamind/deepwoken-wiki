@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 96217
+revid: 102951
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages using duplicate arguments in template calls, Swords]

@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 89892
+revid: 103023
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,15 +13,16 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | +3% Stealth |
+| innate stats | +3% Stealth+2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Fort Merit |
+| obtainment | Chests from:, Fort Merit |
+| description | "..." |
 
 ## Description
 

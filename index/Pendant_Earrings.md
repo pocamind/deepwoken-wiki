@@ -1,6 +1,6 @@
 ---
 title: Pendant Earrings
-revid: 73992
+revid: 103026
 source: https://deepwoken.fandom.com/wiki/Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,15 +13,16 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | N/A |
+| innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon |
+| obtainment | Chests from:, Primadon |
+| description | "..." |
 
 ## Description
 

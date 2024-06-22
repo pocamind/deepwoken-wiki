@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 87939
+revid: 103025
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,15 +13,16 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | +5 Ether |
+| innate stats | +5 Ether+2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser (100%), Second Layer, Primadon |
+| obtainment | Chests from:, Chaser (100%), Second Layer, Primadon |
+| description | "..." |
 
 ## Description
 

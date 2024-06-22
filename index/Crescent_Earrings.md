@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 93873
+revid: 103024
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,15 +13,16 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | +2 Health |
+| innate stats | +2 Health+2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, First Layer, Chaser chest, Duke chest, Chime of Conflict chest, Pure Astruline turn-in chest |
+| obtainment | Chests from:, First Layer, Second Layer, Chaser, Duke, Chime of Conflict, Pure Astruline turn-in chest |
+| description | "..." |
 
 ## Description
 

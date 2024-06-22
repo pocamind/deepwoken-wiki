@@ -1,6 +1,6 @@
 ---
 title: Ruby Drop Earrings
-revid: 74009
+revid: 103028
 source: https://deepwoken.fandom.com/wiki/Ruby_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,15 +13,16 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | N/A |
+| innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Island |
+| obtainment | Chests from:, Aratel Island |
+| description | "..." |
 
 ## Description
 

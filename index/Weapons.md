@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 102497
+revid: 103017
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1957,6 +1957,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -1969,6 +1970,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 FIR, LVL 11</td>
   <td>20</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>FIR: 5.5</td>
   <td>5</td>
   <td>8</td>
@@ -1981,6 +1983,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 THD, LVL 11</td>
   <td>20</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>THD: 5.5</td>
   <td>5</td>
   <td>8</td>
@@ -1993,6 +1996,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 ICE, LVL 11</td>
   <td>20</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>ICE: 5.5</td>
   <td>5</td>
   <td>8</td>
@@ -2005,6 +2009,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 WND, LVL 11</td>
   <td>20</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>WND: 5.5</td>
   <td>5</td>
   <td>8</td>
@@ -2017,6 +2022,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 SDW, LVL 11</td>
   <td>20</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>SDW: 5.5</td>
   <td>5</td>
   <td></td>
@@ -2028,6 +2034,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
   <td>75 THD, 40 MED</td>
   <td>19.5</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>THD: 6, MED: 3</td>
   <td>5</td>
@@ -2041,6 +2048,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 ICE, 30 HVY, LVL 10</td>
   <td>24</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>ICE: 8 HVY: 4</td>
   <td>6</td>
   <td>8.5</td>
@@ -2053,6 +2061,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 WND, 25 MED, LVL 10</td>
   <td>17.5</td>
   <td>15%</td>
+  <td>N/A</td>
   <td>MED: 5, WND: 5</td>
   <td>5</td>
   <td>8</td>
@@ -2064,6 +2073,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>
   <td>75 SDW, 40 HVY, LVL 10</td>
   <td>22</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>SDW: 9 HVY: 4</td>
   <td>9</td>
@@ -2077,6 +2087,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 MTL, 40 MED,</td>
   <td>18</td>
   <td>20%</td>
+  <td>N/A</td>
   <td>MTL: 4 MED: 3</td>
   <td>4</td>
   <td>8</td>
@@ -2089,12 +2100,26 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>25 HVY, 75 FIR, 10 LHT</td>
   <td>23</td>
   <td>15%</td>
+  <td>N/A</td>
   <td>HVY: 5, FIR: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
   <td>N/A</td>
   <td>49.4</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Pleeksty%27s_Inferno"><font>Pleeksty's Inferno</font></a></td>
+  <td>40 MED, 90 FIR</td>
+  <td>20</td>
+  <td>30%</td>
+  <td>10%</td>
+  <td>MED: 3, FIR: 4</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>N/A</td>
+  <td>34.6</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Crystal Pendant Earrings
-revid: 73883
+revid: 103019
 source: https://deepwoken.fandom.com/wiki/Crystal_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,15 +13,16 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | 2 Rare Pips |
+| innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Island |
+| obtainment | Chests from:, Aratel Island |
+| description | "..." |
 
 ## Description
 

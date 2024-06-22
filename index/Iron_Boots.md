@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 69945
+revid: 102819
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -11,10 +11,11 @@ categories: [Boots]
 | Iron Boots | |
 |---|---|
 | type | Boots |
-| rarity | ??? |
+| rarity | Common |
+| selling price | 7 |
 | requirements | None |
-| innate stats | N/A |
-| innate talent | N/A |
+| innate stats | None |
+| innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
