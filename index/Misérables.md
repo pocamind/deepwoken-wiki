@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 100886
+revid: 103181
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -109,8 +109,9 @@ _**Loop:**_
 ## Trivia
 
 -   Misérables' name may be a reference to 19th century novel _Les Misérables_, a story which touches on the topics of moral philosophy and the nature of human society. The word "Misérables" directly translates to wretched. And of course, Misérables is a cognate for Miserable.
--   He may be a far more powerful or ancestral version of a Deep Owl; both are familiar with the concept of deals, treat humans as small boring creatures like mice, and Misérables especially has the power to back up his threats, whereas you can fight off Deep Owls.
-    -   This difference in strength between Misérables and other Deep Owls is likely as a result of Misérables' differing choice of prey. Feeding on Kyrsgarde, as opposed to humans, likely yields a far superior meal, as shown by the Kyrsgarde's overwhelmingly superior technological innovation and splendor. Misérables himself speaks on this when asking why he seeks medallions.
+-   He is theorized to be related to Deep Owls; both are familiar with the concept of deals and treat humans as small boring creatures like mice. Misérables especially has the power to back up his threats, whereas you can fight off a Deep Owl.
+    -   This difference in strength between Misérables and other Deep Owls may stem from Misérables' differing choice of prey. Feeding on Kyrsgarde, as opposed to humans, likely yields a far superior meal, as shown by the Kyrsgarde's overwhelmingly superior technological innovation and splendor. Misérables himself speaks on this when asking why he seeks medallions.
 -   As a friendly reminder, Misérables won't kill you if you're in combat, if you select any of the \[End Dialogue\]'s, or lack the knowledge for Clarity. He exclusively kills you if you ask for Power without the necessary medallions.
 -   Misérables un-tarnishes your bell upon receiving Clarity.
 -   You can empower yourself with medallions as many times in a row as you wish, although this seemingly will not stack the effect, and waste your medallions.
+-   If you still have your Light Hook active, you can make your deal with Misérables and then light hook out. This method will still count your Echo task completed.

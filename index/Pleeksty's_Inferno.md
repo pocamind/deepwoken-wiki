@@ -1,9 +1,9 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103113
+revid: 103168
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [Weapons, Pages with broken file links, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
 ---
 
 # Pleeksty's Inferno
@@ -15,7 +15,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 | damage | 20 |
 | scaling | MED: 3 FIR: 4 |
 | range | 8 |
-| swing speed | 0.93 |
+| swing speed | 0.93x |
 | penetration | 30% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
@@ -33,7 +33,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 ## Description
 
-Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl imbued using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook while possessing a [resonance](Resonance.md) and having 75 [Flamecharm](Flamecharm.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
+Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl imbued using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it.
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
@@ -47,9 +47,18 @@ For the **running** critical, the user embues the club with flame, slashing in f
 
 Both criticals shares a cooldown of **8 seconds** and can proc Flamecharm talents.
 
+## Obtainment
+
+Pleeksty's Inferno can be obtained by entering [Layer 2 Floor 1](Second_Layer.md#ethironal-shrine-f1) without a Light Hook having 75 [Flamecharm](Flamecharm.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
+
 ## Trivia
 
 -   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from Aztec culture.
     -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords. The tooltip for the weapon also mentions this, though the Pleeksty's Inferno does not deal slash or bleed damage.
 -   You do not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately; You may use the Ignition Deepdriller if you wish. In the case that you wipe purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
--   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon.(proof needed)
+-   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon.
+
+-   The chains towards the hilt of the weapon is a Tiran pendant wrapped around it.
+-   The embers that form off the weapon are shaped like musical notes from Pleeksty's connection to the song.
+    
+    File:Musicnoteembersproof.png

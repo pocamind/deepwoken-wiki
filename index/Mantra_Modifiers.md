@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 102856
+revid: 103183
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -234,7 +234,7 @@ Removes all Modifiers on a Mantra.
 
  | 
 
--   Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
+-   Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether. This also gives back the modifiers you used on the mantra this does not count for sparks.
 
  | 
 
@@ -1321,6 +1321,23 @@ Ice Carve
 
 -   This modifier causes the user of a "Ice Carve" mantra to rush forward rapidly while spinning the projectile of the Ice Carve around them.
     -   Hitbox is similar to Warden's Blades.
+
+ |
+| 
+
+Skyshatter Kick
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+File:Sky shatter kick with round spark.gif
+
+ | 
+
+-   This modifier causes the user to kick into the ground. If landed, both the user and the player was hit fly into the air similarly to an uppercut.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 102631
+revid: 103187
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -145,6 +145,12 @@ The following is speculation:
 ### Hundred Legions Origin
 
 -   Confirmed by Dexerius during the QNA: Ragoozer stream with Agamatsu.
+
+### Summer Company Origin
+
+-   Kind of confirmed, unknown release timeframe.
+-   Stated to be an exotic origin, where progression is different from all others, being more based on guarding and taking explosive crates than going out for grinding.
+-   Very high chances that when you start with this origin, you will have positive reputation with the [Authority](The_Central_Authority.md) and negative reputation with the [Ignition Union](The_Ignition_Union.md).
 
 ## Trivia
 

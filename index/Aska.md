@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103102
+revid: 103184
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons]
@@ -15,13 +15,117 @@ categories: [NPCs, Layer 2, Floor 1, Weapons]
 
 ## Description
 
-A [Flamecharm](Flamecharm.md) miniboss found in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him.
+A [Flamecharm](Flamecharm.md)\-wielding miniboss found in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him.
 
-The requirements are to have a [Resonance](Resonance.md), the [Pleeksty's Will talent,](Talents.md) and [Flamecharm Unbounded](Attributes_Unbound.md). You must also do it without a Light Hook.
+Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksky's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will immediately wipe.
 
-Upon meeting the requirements you'll initiate a fight with him and upon winning you'll be rewarded the [Pleeksky's Inferno](<Pleeksty's_Inferno.md>).
+## Requirements
 
-Be careful fighting him, as most of his moves' hitboxes cover most of the cramped room, and he can also glitch you into the wall which could cause your death, so make sure to get a mantra with a wayward gem on it just incase.
+To initiate the fight instead of wiping instantly, there are several requirements your character must fulfill.
+
+So far, these requirements have been confirmed:
+
+-   75 [Flamecharm](Flamecharm.md)
+-   No Light Hook
+-   A [Resonance](Resonance.md) (Although there are resonance doors that need to be unlocked on the way to Aska, you do not actually need a resonance to initiate the fight).
+
+## Moveset
+
+Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as their weapon.
+
+(Please fill in the media section if you have footage of the fight.)
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Media</th>
+  <th>Description</th>
+  <th>Parryable?</th>
+  <th>Blockable?</th>
+  <th>Dodgeable?</th>
+  <th>Danger</th>
+</tr>
+<tr>
+  <td>Basic Attack</td>
+  <td>N/A</td>
+  <td>Aska hits the player with an ordinary attack.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Critical</td>
+  <td>TBA</td>
+  <td>Aska plunges the weapon into the ground, creating a small eruption and flourishing the weapon afterwards.
+  <ul>
+    <li>The first part of this move resembles the first part of the flamecharm mantra, <i>Fire Eruption</i>.</li>
+  </ul></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Flame Grab</td>
+  <td>TBA</td>
+  <td>Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Flame Sentinel</td>
+  <td>TBA</td>
+  <td>Aska creates an orb that will shoot fireballs at the player.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Flaming Scourge</td>
+  <td>TBA</td>
+  <td>Aska gathers flames in their hand and spins it like a whip grabbing the player, before slamming them into the ground.
+  <ul>
+    <li>This move has a tendency to glitch the player into a wall. Be careful.</li>
+  </ul></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Ash Slam</td>
+  <td>TBA</td>
+  <td>Aska imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Relentless Flames</td>
+  <td>TBA</td>
+  <td>Aska releases a flurry of seven slashes.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+<tr>
+  <td>Flare Volley</td>
+  <td>TBA</td>
+  <td>Aska fires a blast of flames at the player.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(?)</td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -65,8 +169,15 @@ Be careful fighting him, as most of his moves' hitboxes cover most of the crampe
 </tbody>
 </table>
 
+## Strategy
+
+-   Aska is a humanoid opponent. This means they use basic attacks, a critical, mantras, etc.
+-   All of Aska's moves are ordinary player mantras, and they are all parriable.
+-   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
+-   Aska can potentially glitch you into the wall which could easily cause your death.
+    -   A workaround is to make sure to have a mantra with a wayward gem on it.
+
 ## Trivia
 
--   Has flame grab, flame sentinel, flaming scourge, ash slam, relentless flames, and flare volley.
--   Flamecharm Worshipper armor is not needed
--   If you do not meet the requirements, you will wipe
+-   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
+-   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.

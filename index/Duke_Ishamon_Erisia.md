@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 102660
+revid: 103149
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -37,7 +37,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 | 
 **Assault**
 
- | Firmly pummels opponent before finishing up the combo by flourishing them.
+ | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
 
 -   Duke will always start using Assault after using Strong Left.
 
@@ -46,11 +46,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
 **Critical**
 
- | Attempts to grab his victim before slamming them into the ground head-first.
-
--   Does not do posture damage but will still grab
-
- | ◯ | ✗ | ◯ | (★★☆) |
+ | Attempts to grab his victim before slamming them into the ground head-first. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 **Counter**

@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 98069
+revid: 103148
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -29,11 +29,11 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 1.  Reach 75 Fortitude.
 2.  Enter Fort Merit and go into the prison cell area.
-3.  Take the second hallway to the right after taking the stairs until you find a hole to slide into.
+3.  Take the second hallway that going into the [Shrine of Chance](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Chance) after taking the stairs until you find a hole to slide into.
 4.  Talk to Brutus, a large Khan sitting alone in a cell.
 5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met.
 
-_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=b_0SPxXpe6o)._
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=fik9IGrqkOg)._
 
 ### Agility Unbound
 
