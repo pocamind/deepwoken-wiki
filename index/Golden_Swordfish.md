@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 102333
+revid: 103300
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Rapiers, Unique Critical]
@@ -10,20 +10,21 @@ categories: [Pages with broken file links, Weapons, Rapiers, Unique Critical]
 
 | Golden Swordfish | |
 |---|---|
-| type | Light Rapier |
+| type | Rapier |
 | requirements | 75 LHT |
 | damage | 15 |
-| scaling | 8 LHT |
+| scaling | 8 |
 | range | 8.1 |
 | swing speed | 1.09x |
 | penetration | 20% |
+| stances | 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fishing |
-| description | The fabled catch of an angler without parallel. The sea trembles in your wake. |
+| description | "The fabled catch of an angler without parallel. The sea trembles in your wake." |
 
 ## Description
 

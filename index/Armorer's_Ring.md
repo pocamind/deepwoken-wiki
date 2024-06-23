@@ -1,11 +1,9 @@
 ---
 title: "Armorer's Ring"
-revid: 103226
+revid: 103313
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Armors, Equipment, Rings]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Armors, Equipment, Rings]
 ---
 
 # Armorer's Ring
@@ -27,8 +25,8 @@ notices:
 
 ## Description
 
-The Armorer's ring grants a 10% reduction to incoming armor damage.
+The Armorer's Ring is a Ring [Equipment](Equipment.md) item that grants the user 10% reduction to incoming armor damage.
 
 ## Triva
 
--   Looks similar to the the [Bloodiron Ring](Bloodiron_Ring.md) in shape.
+-   Looks similar to the the [Bloodiron Ring](Bloodiron_Ring.md) in model.

@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 102036
+revid: 103297
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -10,13 +10,14 @@ categories: [Weapons, Rapiers]
 
 | Quickfang | |
 |---|---|
-| type | Light Rapier |
+| type | Rapier |
 | requirements | 0 LHT |
 | damage | 12 |
 | scaling | 7 |
 | range | 8 |
 | swing speed | 1.08x |
 | penetration | 5% |
+| stances | 1 Handed |
 | selling price | 7 |
 | weight | 4 |
 | bankable | Yes |
@@ -24,7 +25,7 @@ categories: [Weapons, Rapiers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starting Weapons Echoes |
-| description | A rapier passed down by your ancestors. |
+| description | "A rapier passed down by your ancestors." |
 
 ## Description
 

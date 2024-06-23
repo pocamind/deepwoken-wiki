@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 102330
+revid: 103291
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Unique Critical]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2, The Diluvian Mechanism |
-| description | A reminder that all songs must come to an end. |
+| description | "A reminder that all songs must come to an end." |
 
 ## Description
 

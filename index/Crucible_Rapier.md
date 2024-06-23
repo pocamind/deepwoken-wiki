@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 103225
+revid: 103299
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -10,20 +10,21 @@ categories: [Weapons, Rapiers]
 
 | Crucible Rapier | |
 |---|---|
-| type | Light Rapier |
+| type | Rapier |
 | requirements | 75 LHT |
 | damage | 15 |
 | scaling | 8 |
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |
+| stances | 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starswept Valley, The Depths [?] , Megalodaunt Ship Event, Rogue/Hive Construct, Minityrsa |
-| description | It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain. |
+| description | "It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain." |
 
 ## Description
 

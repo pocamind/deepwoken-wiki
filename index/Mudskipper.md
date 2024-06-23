@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 101724
+revid: 103320
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -341,3 +341,4 @@ Scratch
 -   Corrupted mudskippers can spawn in the depths, however they do not pose much of a threat.
 -   If you don't want to risk going down to the depths for Umbrite to get Ironsing, just fight the Mineskippers as they have a chance to drop every ore in the game.
 -   Mudskippers participated in the 2024 April fools event under the name the Blue Skippers.
+-   ID for mudskipper head. 17538022269 - Head - b9e4ff / 17536524775 - Face - 000000 / 17536531879 - Yellow Stripes - dab260

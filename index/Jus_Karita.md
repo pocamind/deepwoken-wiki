@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 100998
+revid: 103327
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists]
 | damage | 14 |
 | scaling | 9 |
 | range | 7 |
-| swing speed | 0.88x |
+| swing speed | 1.17x |
 | endlag | 0.05s |
 | penetration | 20% |
 | weight | 3 |
@@ -24,7 +24,7 @@ categories: [Weapons, Fists]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Step 1: Get 40 LHT, and Power 5.Step 2: Talk to Polis at Etris. |
-| description | The traditional martial arts style of the Justicars. |
+| description | "The traditional martial arts style of the Justicars." |
 
 “ Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether. ”
 
@@ -48,12 +48,13 @@ Jus Karita is the only fighting style as of now that has its own mantras. With t
 
 ## Obtainment
 
-To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. Do his first dialogue option and obtain the ring, then ask him about Justicar. Upon getting Jus Karita, you also unlock it in the weapons tab when starting a new character (you do not need the 40 light weapon or power 5 requirement)
+To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. Do his first dialogue option and obtain the ring, then ask him about Justicar. Completing this will grant you the Jus Karita talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 
 ## Trivia
 
 -   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
--   This was buffed after developer Ragoozer was made to fight a (previously regenerating at 60 hp per second) corrupted [Bone Keeper](Bone_Keeper.md)
+-   This was buffed after developer Ragoozer was made to fight a (previously regenerating at 60 hp per second) corrupted [Bone Keeper](Bone_Keeper.md).
+-   Selecting Jus Karita on the character selection will allow you to use the fist style without the criterion of 40 LHT, though the base damage will be reduced until you reach the aforementioned requirement.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103229
+revid: 103323
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1442,7 +1442,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
     -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
-    -   Stacks with Last Second Negotiation.
+    -   Stacks with Last Second Negotiation. (with both a grip takes about 6.5 seconds)
     -   Prerequisite: 20 Willpower
 
 -   Last Resort \[Common Talent\] - Deal 10% more damage when your health is significantly low. (+10 Sanity)

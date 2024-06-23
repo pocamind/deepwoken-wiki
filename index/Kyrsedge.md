@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 102093
+revid: 103284
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 75 LHT |
 | damage | 13 |
-| scaling | 8.5 LHT |
+| scaling | 8.5 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |

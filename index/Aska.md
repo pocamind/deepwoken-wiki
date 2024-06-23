@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103233
+revid: 103309
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons]
@@ -21,13 +21,17 @@ Upon meeting the requirements (stated below), you will initiate a fight with him
 
 ## Requirements
 
-To initiate the fight instead of wiping instantly, there are several requirements your character must fulfill.
+To initiate the fight instead of wiping instantly, your character must fulfill some requirements:
 
-So far, these requirements have been confirmed:
+**Confirmed:**
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
 -   A [Resonance](Resonance.md) (Although there are resonance doors that need to be unlocked on the way to Aska, you do not actually need a resonance to initiate the fight).
+
+**Speculation:**
+
+-   Wear Flame Worshipper Armor OR have all Pleeksty Talents
 
 ## Moveset
 
@@ -176,6 +180,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
+-   If Aska falls off the map, you can escape through Chaser and still obtain the weapon.
 
 ## Trivia
 

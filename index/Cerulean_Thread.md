@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 102329
+revid: 103285
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Unique Critical]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers, Unique Critical]
 | type | Dagger |
 | requirements | 85 LHT, LVL 10 |
 | damage | 15 |
-| scaling | 7.5 LHT |
+| scaling | 7.5 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05x |

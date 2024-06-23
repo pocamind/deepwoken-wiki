@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 101814
+revid: 103296
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -22,7 +22,7 @@ categories: [Weapons, Flintlocks]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Upgrade Advanced Weapons |
-| description | A flintlock passed down by your ancestors. |
+| description | "A flintlock passed down by your ancestors." |
 
 ## Description
 

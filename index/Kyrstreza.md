@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 102018
+revid: 103302
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -15,7 +15,7 @@ categories: [Weapons, Rapiers]
 | damage | 15 |
 | scaling | 8.5 |
 | range | 8 |
-| swing speed | 0.82x |
+| swing speed | 1.09x |
 | penetration | 30% |
 | stances | 1 Handed |
 | weight | 4 |

@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 102044
+revid: 103301
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -10,20 +10,21 @@ categories: [Weapons, Rapiers]
 
 | Skull Piercer | |
 |---|---|
-| type | Light Rapier |
+| type | Rapier |
 | requirements | 75 LHT |
 | damage | 14 |
 | scaling | 7.5 |
 | range | 8.5 |
 | swing speed | 1.08x |
 | penetration | 10% |
+| stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt (Hallowtide NPC) |
-| description | Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly? |
+| description | "Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly?" |
 
 ## Description
 

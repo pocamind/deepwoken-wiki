@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 102587
+revid: 103289
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists]
@@ -19,7 +19,6 @@ categories: [Pages with broken file links, Weapons, Fists]
 | endlag | 0.05s |
 | penetration | 15% |
 | chip damage | 10% |
-| special effect | None |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |

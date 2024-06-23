@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 102038
+revid: 103298
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -10,20 +10,21 @@ categories: [Weapons, Rapiers]
 
 | Inquisitor's Thorn | |
 |---|---|
-| type | Light Rapier |
+| type | Rapier |
 | requirements | 40 LHT |
 | damage | 14 |
 | scaling | 7 |
 | range | 8 |
 | swing speed | 1.08x |
 | penetration | 10% |
+| stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starswept Valley, Deep Widow , The Depths, Duke Erisia, Songseeker Wilds, Minityrsa |
-| description | Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. |
+| description | "Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'." |
 
 ## Description
 

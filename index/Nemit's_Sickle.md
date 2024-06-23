@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 102090
+revid: 103283
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]

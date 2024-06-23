@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 101765
+revid: 103294
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -23,7 +23,7 @@ categories: [Weapons, Flintlocks]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Sold at Summer Isle for , The Depths (Chests), Chime of Conflict (Chests), Fishing, Bounties |
-| description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
+| description | "A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire." |
 
 ## Description
 

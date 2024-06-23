@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 101764
+revid: 103308
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,15 +10,13 @@ categories: [Weapons, Swords]
 
 | Sword | |
 |---|---|
-| type | Sword [MED] |
-| requirements | N/A |
+| type | Sword |
+| requirements | 0 MED |
 | damage | 18 |
 | scaling | 2.5 |
 | range | 8 |
 | swing speed | 1x |
-| penetration | N/A |
-| chip damage | N/A |
-| special effect | N/A |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
