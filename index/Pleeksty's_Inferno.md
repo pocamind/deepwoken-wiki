@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103168
+revid: 103242
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -49,7 +49,7 @@ Both criticals shares a cooldown of **8 seconds** and can proc Flamecharm talent
 
 ## Obtainment
 
-Pleeksty's Inferno can be obtained by entering [Layer 2 Floor 1](Second_Layer.md#ethironal-shrine-f1) without a Light Hook having 75 [Flamecharm](Flamecharm.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
+Pleeksty's Inferno can be obtained by entering [Layer 2 Floor 1](Second_Layer.md#ethironal-shrine-f1) without a Light Hook, having 75 [Flamecharm](Flamecharm.md), and the [Pleeksty's Will](Talent_Quests.md) or [Pleeksty's Faith](Talents.md) talent, once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
 
 ## Trivia
 

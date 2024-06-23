@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 102769
+revid: 103229
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1126,7 +1126,7 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I seek the qualities of Human Architecture."**_
 
--   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health)
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
@@ -1490,7 +1490,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 > _**"I am nature's master."**_
 
--   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
+-   Survival Kit \[Common Talent, Charisma, Willpower, Fortitude\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
     -   Prerequisites: 20 Intelligence / 20 Willpower / 20 Charisma.

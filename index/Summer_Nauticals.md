@@ -1,6 +1,6 @@
 ---
 title: Summer Nauticals
-revid: 103032
+revid: 103231
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Face, Equipment]
@@ -28,7 +28,7 @@ notices:
 
 ## Description
 
-The Nauticals are an Equipment item under the "Face" category. They are decently rare and found only in summer isle.
+The Nauticals are an [Equipment](Equipment.md) item under the "Face" category. They are decently rare and found only in summer isle.
 
 ## Trivia
 

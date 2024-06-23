@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 95351
+revid: 103214
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -92,8 +92,9 @@ _verb_
 
 _verb_
 
-1.  To hunt for or attack and battle with other players with the intent to kill, usually done in groups.
+1.  To hunt for or attack and battle with other players with the intent to kill, usually done in groups. Also known as getting Jumped.
     1.  "Hop on, we're ganking at Songseeker."
+    2.  "Help, I'm getting jumped!"
 
 _noun_
 
@@ -102,7 +103,7 @@ _noun_
 
 ### Guard Break
 
-1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with an exhaustion strike.
+1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
 
 ### Grip
 
@@ -127,7 +128,7 @@ _verb_
 
 _verb_
 
-1.  To roll the active frames of an attack and immediately cancel your roll afterwards, which allows you to counter and stay in the same position.
+1.  To roll the active frames of an attack and immediately cancel your roll afterwards, which allows you to counter and stay in the same position. Also known as roll-cancelling, dodge-cancelling, etc.
 
 ### Stat-check
 
@@ -140,7 +141,7 @@ _verb_
 
 _verb_
 
-1.  To die permanently and truly, getting killed in The Depths by a non contractor.
+1.  To die and spawn in Fragments of Self, in places such as Scyphozia or The Eternal Gale (The Depths)
 
 ### Knock-up
 
@@ -154,9 +155,9 @@ _verb_
 
 _verb_
 
-1.  To perfectly block a mantra / attack. This means pressing "F" key when you see the opponent swing at you. You will see a large, yellow spark appear at the clash of the weapons, and stun the opponent for an extremely short duration. Parrying will reduce your posture faster, and you won't take damage.
+1.  To perfectly block an attack by pressing the "F" key at the right time. There will be a large, yellow spark at the clash of your weapon and their attack. This will stun the opponent for an extremely short duration. Parrying will reduce your posture, negate damage, remove End-lag, and is the cornerstone of Deepwoken's combat system.
 
-1.  Ex. You cannot parry the [Megalodaunt's](Megalodaunt.md) kick without a [Hunter's Brace](<Hunter's_Brace.md>), you can only dodge it.
+1.  Ex. When **parry**ing NPCs, try not to move around in order to focus on your timing.
 
 ### Block
 
@@ -178,20 +179,20 @@ _verb_
 _verb, noun_
 
 1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
-    1.  Ex. Prediction, an Intelligence Combat mantra, is a counter
+    1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counter**s.
 
 ### **Proc**
 
 _verb_
 
-1.  Events that happen usually from players to players, either happening randomly as a chance or requiring certain set-ups
-    1.  Ex. Turtle Shell, a shield based talent, negates the proccing of Spine Cutter when the user has their shield on their back.
+1.  When a passive talent or ability activates
+    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (talent) to proc.
 
 ### Spin back/Spinback
 
 _verb_
 
-1.  Tell an enemy to wait for you to come back to retry
+1.  Going back to a player you died to previously, usually on a higher power slot, to rechallenge them
     1.  Ex. Stay here imma spin back.
 
 ## Resonance Terms
@@ -286,6 +287,7 @@ noun
 2.  Examples depends on the context.
     1.  If it's in the [First Layer](First_Layer.md) of the Depths, it refers to the [Gigamed](Gigamed.md) (Small version)
     2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
+3.  Being healed via knocking a player, humanoid, or killing a monster.
 
 ## Acronyms/Short Forms
 

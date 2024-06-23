@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 101772
+revid: 103190
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -113,3 +113,4 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
     -   Hive Constructs will always win these events without player intervention.
 -   Hive Constructs are unable to swim, and will instantly drown if they attempt to enter water.
 -   Unlike most monsters, they have cancollide on, which means you can touch their model without phasing through them.
+-   For an unknown reason, as of 6/22/2024, multiple rogue constructs are able to spawn at one time.

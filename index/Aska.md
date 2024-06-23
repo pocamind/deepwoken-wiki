@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103184
+revid: 103233
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons]
@@ -17,7 +17,7 @@ categories: [NPCs, Layer 2, Floor 1, Weapons]
 
 A [Flamecharm](Flamecharm.md)\-wielding miniboss found in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him.
 
-Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksky's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will immediately wipe.
+Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will immediately wipe.
 
 ## Requirements
 
@@ -31,7 +31,7 @@ So far, these requirements have been confirmed:
 
 ## Moveset
 
-Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as their weapon.
+Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as his weapon.
 
 (Please fill in the media section if you have footage of the fight.)
 
@@ -88,7 +88,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 <tr>
   <td>Flaming Scourge</td>
   <td>TBA</td>
-  <td>Aska gathers flames in their hand and spins it like a whip grabbing the player, before slamming them into the ground.
+  <td>Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
   <ul>
     <li>This move has a tendency to glitch the player into a wall. Be careful.</li>
   </ul></td>
@@ -100,7 +100,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 <tr>
   <td>Ash Slam</td>
   <td>TBA</td>
-  <td>Aska imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.</td>
+  <td>Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
@@ -171,7 +171,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 ## Strategy
 
--   Aska is a humanoid opponent. This means they use basic attacks, a critical, mantras, etc.
+-   Aska is a humanoid opponent. This means he uses basic attacks, a critical, mantras, etc.
 -   All of Aska's moves are ordinary player mantras, and they are all parriable.
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
@@ -181,3 +181,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 -   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
 -   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.
+-   Outfit:  
+    [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)  
+    [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
+-   Hair ID: 6101425666 _(same as [Maestro's](Evengarde_Rest.md))_

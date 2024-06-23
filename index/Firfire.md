@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 93762
+revid: 103196
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]
@@ -24,6 +24,8 @@ Firfire does not have active wind or snowfall. Previously existing parasites wil
 ## Landmarks & Sub-locations
 
 If you travel past Erosius and take a left, you will encounter a [Kyrsgarde](Kyrsgarde.md) called Makolis Pariah Katatonicus. Talk to him twice then proceed to use the resting [emote](Emotes.md) next to him, and he will then tell you that you are a good friend and that he will remember you. This interaction can be done as many times as you please.
+
+There is a small hidden cave locked behind doors that require different requirements to open, inside of the cave is Aska, which rewards you with the Pleeksty's Inferno when defeated.
 
 ## Quests
 

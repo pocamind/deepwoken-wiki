@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 103005
+revid: 103188
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -2630,7 +2630,7 @@ _+1 Posture_
 
 +1 Legendary Pip
 
-_+Talent: Firmly Planted_
+_+Talent: Star Duster_
 
 **Requires Power 10**
 

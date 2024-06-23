@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 103147
+revid: 103226
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Armors, Equipment, Rings]

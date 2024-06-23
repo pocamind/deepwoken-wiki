@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 103039
+revid: 103230
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Armors, Equipment, Rings]
@@ -22,14 +22,14 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, The Diluvian Mechanism, Maestro Evengarde Rest, Deep Widow, Primadon, Chime of Conflict |
+| obtainment | Chests from:Primadon , First Layer , Duke Erisia , Deep Widow , Second Layer , Chime of Conflict , The Diluvian Mechanism , Maestro Evengarde Rest |
 | description | "Deal +5% damage to Monsters in the Depths." |
 
 ## Description
 
-Deal +5% damage to Monsters in the Depths.
+The Diver's Ring provides a +5% damage bonus to anything in the Depths **(not overworld),** and would be a good choice for anyone lacking in DvM or wanting to push their PvE build even further, and can be found pretty anywhere you would have a PvE build.
 
 ## Trivia
 
--   Despite this ring giving an innate 5% damage to Monsters in the Depths, an additional 2% Damage vs. Monsters can be acquired from a 2 star Diver's Ring.
+-   Due to the Pip and star system, an additional +2% DvM may be acquired, for up to 7% DvM total.
 -   The Diver's Ring model is a recolor of the Poser’s Ring
