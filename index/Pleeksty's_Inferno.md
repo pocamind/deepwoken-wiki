@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103270
+revid: 103334
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -50,7 +50,7 @@ Both criticals shares a cooldown of **8 seconds** and can proc Flamecharm talent
 -   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from Aztec culture.
     -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords. The tooltip for the weapon also mentions this, though the Pleeksty's Inferno does not deal slash or bleed damage.
 -   You do not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately; You may use the Ignition Deepdriller if you wish. In the case that you wipe purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
-    -   -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded the weapon on Chaser's death instead of Aska's.
+    -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded the weapon on Chaser's death instead of Aska's.
 -   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.

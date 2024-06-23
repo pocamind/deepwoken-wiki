@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 99488
+revid: 103328
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -134,7 +134,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   For a short duration, the [Megalodaunt](Megalodaunt.md) was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
--   You can kill the parry trade using [Providence Thorns](Enchantments.md)
+-   You can kill the parry trade using [Providence Thorns](Enchantments.md).(proof needed)
     
     File:TrialofOne.png
     

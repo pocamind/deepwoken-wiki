@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103309
+revid: 103336
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons]
@@ -29,9 +29,9 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 -   No Light Hook
 -   A [Resonance](Resonance.md) (Although there are resonance doors that need to be unlocked on the way to Aska, you do not actually need a resonance to initiate the fight).
 
-**Speculation:**
+**Unconfirmed:**
 
--   Wear Flame Worshipper Armor OR have all Pleeksty Talents
+-   All Pleeksty Talents
 
 ## Moveset
 
@@ -186,7 +186,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 -   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
 -   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.
--   Outfit:  
-    [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)  
-    [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
--   Hair ID: 6101425666 _(same as [Maestro's](Evengarde_Rest.md))_
+-   Aska's Outfit:
+    -   [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)
+    -   [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
+    -   Hair ID: 6101425666 _(same as [Maestro Evengarde Rest's](Evengarde_Rest.md))_

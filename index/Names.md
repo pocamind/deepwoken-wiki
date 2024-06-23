@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 102705
+revid: 103331
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1723,7 +1723,8 @@ Some players have access to customized, unique names.
 -   The name Laios and Marcille are references to the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
 -   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
     -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
--   The names Radovan and Ifrit are references to the game series, [Final Fantasy.](https://www.finalfantasyxiv.com/)
+-   The names Radovan and Ifrit are references to the game series, [Final Fantasy](https://www.finalfantasyxiv.com/).
+-   The name Basil is a reference to the game [OMORI](https://www.omori-game.com).
 -   The name Samwise is a reference to the series Lord of the Rings.
 -   The name Tharson may be a reference to the game Risk of Rain.
 -   The name Tristram may be a reference to a location in the game Diablo.
