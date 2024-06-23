@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 100746
+revid: 103265
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -630,6 +630,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 | --- | --- | --- |
 |  | 1.9s | [Tranquil Circle](Oath%253A_Blindseer.md) (Activation) |
 |  | 1.6s | [Sightless Beam](Oath%253A_Blindseer.md) (Windup) |
+|  | 3.0s | [Sightless Beam](Oath%253A_Blindseer.md) (Fire) |
 |  | 1.8s | [Mindsoothe](Oath%253A_Blindseer.md) |
 |  | 2.3s | Illusory Realm (Pull) |
 |  | 11s | Illusory Realm (Loop) |

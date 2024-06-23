@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 101147
+revid: 103278
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,7 +49,7 @@ When obtained, Dimensional Travel will spend it's Resonance points on the follow
 -   **Use in Combat:** If this stat is invested into, the user can use the Resonance while in combat. Deducts a sizeable amount of Resonance points
 -   **Capacity:** The more points that are invested into this stat, the higher the amount of players that can enter the realm before the portal automatically closes.
 -   **Travel Speed:** The more points are invested into this stat, the faster that players will travel through [The Interstice](The_Interstice.md).
-    -   The math behind it is complicated, but at its simplest form, the multiplier to your distance travelled is in 0.333 increments, being a minimum of 1.333x and a maximum of 5.666x.
+    -   The math behind it is complicated, but at its simplest form, the multiplier to your distance travelled is in 0.333 increments, being a minimum of 1.333x and a maximum of 6.333x.
         -   Whilst in [The Interstice](The_Interstice.md), you can view your current location in the overworld by opening your map, which will accurately show your equivalent overworld location.
         -   An explanation (and a way to find your distance multiplier) can be found in the [Deepwoken Info Discord](https://discord.com/channels/883838743172218891/883840765644660736/1096193166169874462).
         -   Upon using Dimensional Travel, the game will log your raw offset and adjusted offset coordinates, you can find these in the Roblox F9 menu, by dividing your raw offset coordinates by your adjusted offset coordinates, you can find your multiplier for Dimensional Travel.

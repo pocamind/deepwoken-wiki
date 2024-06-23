@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 103188
+revid: 103279
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4616,7 +4616,7 @@ Found from:
  |
 |  | 
 
-Bloodiron Ring
+[Bloodiron Ring](Bloodiron_Ring.md)
 
  | 
 
@@ -4651,7 +4651,11 @@ Grants a 10% reduction to incoming armor damage.
 
 Found from:
 
--   Unknown
+-   [Ferryman](The_Ferryman.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Summer Isle](Summer_Isle.md)
+-   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -4883,7 +4887,13 @@ Grants +5% damage to Monsters in the Depths.
 
 Found from:
 
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |

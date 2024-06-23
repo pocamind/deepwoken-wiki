@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 102108
+revid: 103271
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,4 +33,3 @@ The Scimitar is a Medium type weapon that can be obtained from chests found in [
 -   Meeting the requirement of MED, the damage is (15.7)
 -   At max MED, the damage is (18.4)
 -   Has the fastest medium sword swing speed in the game, alongside the **[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)** and the **[Alloyed Falchion](Falchion.md)**.
--   It is not recommended to use this weapon due to its extremely sub-par stats.
