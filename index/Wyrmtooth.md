@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 103501
+revid: 103552
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, "Multi-Weapon Scaling"]
@@ -36,9 +36,12 @@ While its damage is arguably mediocre (considering its requirements), the Wyrmto
 
 ## Critical
 
-The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Using an M1 while **casting** (and successfully landing) the sliding critical will cause the user to perform the standard critical immediately afterwards, hurling opponents backwards. Do note that enemies will recover in time to parry the follow-up crit.
+  
+For the **standing** critical, the user thrusts their weapon forwards, dealing damage and ragdolling enemies.
 
-The cooldown for the critical is 10 seconds.
+For the **sliding** critical, the user sweep their weapon in a circular motion, dealing area damage. The user can respond with a follow-up M1 while **casting** (and successfully landing) the sliding critical that will cause the user to perform the standard critical immediately afterwards.. Do note that enemies will recover in time to parry the follow-up crit.
+
+The cooldown for the critical is **10 seconds**.
 
 ## Trivia
 
@@ -51,3 +54,4 @@ The cooldown for the critical is 10 seconds.
 -   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
     -   This amount of range meant the Wyrmtooth was once rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Pale Briar](Pale_Briar.md). It even matched the ranges of some pistols, but was otherwise eclipsed by them.
 -   In both appearance and function, the Wyrmtooth serves as Deepwoken's take on the "ridiculously large sword" trope used commonly in Japanese fantasy media. Its modeller, TheRealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_.
+    -   The standing critical is supposed to have been inspired by Sephiroth's iconic [Masamune](<https://finalfantasy.fandom.com/wiki/Masamune_(weapon)>) stab from the _Final Fantasy_ series.

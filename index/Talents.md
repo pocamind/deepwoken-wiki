@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103538
+revid: 103569
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -85,7 +85,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
-    -   Can stacj with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
+    -   Can stack with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   You can fall further before incurring fall damage.
@@ -2432,6 +2432,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your M1's. (+4 Elemental Intensity)
     -   Increases Curved Blade of Winds damage contrary to popular belief, but is only a 5% increase, compared to the regular 10%.
+    -   Duration scales with Elemental Intensity
     -   Prerequisites: Inhale, 60 Galebreathe
 
 ### Visionshaper

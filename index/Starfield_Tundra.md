@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 77978
+revid: 103561
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones, Oaths, World, Etrean Luminant]
@@ -22,9 +22,9 @@ Starfield Tundra is an area in Upper [Minityrsa](Minityrsa.md). It can be found 
 
 Starfield Tundra is a **Voidzone**, meaning you will be sent to [The Depths](The_Depths.md) if you die on the island regardless of other influences.
 
-## Startree
+## Star Tree
 
-The **Startree** is a large gathering of tree roots dotted with many glowing white stones. This is where [Linkstriders](Oaths.md#oath-linkstrider) can collect Stardust to use for teleporting.
+The **Star Tree** is a large gathering of tree roots dotted with many glowing white stones. It is guarded by swarms of Carbuncles. This is where [Linkstriders](Oaths.md#oath-linkstrider) can collect Stardust to use for teleporting.
 
 ## Maps
 
@@ -33,4 +33,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Notes & Trivia
 
 -   Please add image and information if you have any.
--   This area is one of three areas that contain a Startree, alongside the [Starfield Veldt](Starfield_Veldt.md) and [Starfield Grove](Starfield_Grove.md).
+-   This area is one of three areas that contain a Star Tree, alongside the [Starfield Veldt](Starfield_Veldt.md) and [Starfield Grove](Starfield_Grove.md).

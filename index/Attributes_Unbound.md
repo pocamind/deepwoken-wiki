@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 103148
+revid: 103558
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -21,16 +21,17 @@ Character attributes will permanently be unbounded if you have previously done t
 1.  Reach 75 Strength.
 2.  Enter [the Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Use Strong Left on the coffin in the room, you will Strength Unbound.
+4.  Use Strong Left on the coffin in the room, and then climb down the ladder within.
+5.  Read the book on the ground, and Strength Unbound will be granted.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=S_O53fdplkM)._
 
 ### Fortitude Unbound
 
 1.  Reach 75 Fortitude.
-2.  Enter Fort Merit and go into the prison cell area.
+2.  Enter [Fort Merit](Fort_Merit.md) and go into the prison cell area.
 3.  Take the second hallway that going into the [Shrine of Chance](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Chance) after taking the stairs until you find a hole to slide into.
-4.  Talk to Brutus, a large Khan sitting alone in a cell.
+4.  Talk to [Brutus](Brutus.md), a large Khan sitting alone in a cell.
 5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=fik9IGrqkOg)._
@@ -38,15 +39,15 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ### Agility Unbound
 
 1.  Reach 75 Agility.
-2.  Go to the top of the mountain with the Cave Entrance leading between Etris Docks and Etrean Wilds.
-3.  Talk to the Windrunner.
+2.  Go to the top of the mountain with the Cave Entrance leading between [Etris Docks](Etris_Docks.md) and [Etrean Wilds](Etrean_Wilds.md).
+3.  Talk to the [Windrunner](Windrunner.md).
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=BVFbn5LfguU)._
 
 ### Intelligence Unbound
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a Soul Hearthgem. They are located inside a small cave with acid that must be ran through, not far from the Megalodaunt in the area.
+2.  Enter the [Garden Reservoir](The_Garden_Reservoir.md) and obtain a Soul Hearthgem. They are located inside a small cave with acid that must be ran through, not far from the [Megalodaunt](Megalodaunt.md) in the area.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brassier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.
@@ -59,17 +60,17 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 1.  Reach 75 Willpower
 2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md)
 3.  Take his first dialogue option then meet him at [Castle Light](Castle_Light.md)
-4.  Make sure that you entered The Depths throught a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
-5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join the Divers to unbound Willpower.
+4.  Make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
+5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join [The Divers](The_Divers.md) to unbound Willpower.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
 
 ### Charisma Unbound
 
 1.  Reach 75 Charisma.
-2.  Start Karliah's Quest in Etris.
-3.  At Erisia, above the mines, save Karliah from the Mudskipper eating her.
-4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by Horseshoe Crabs or by the hands of the player, **thus locking you out of unbounding Charisma.**
+2.  Start Karliah's Quest in [Etris](Etris.md).
+3.  In [Lower Erisia](Lower_Erisia.md), above the mines, save Karliah from the [Mudskipper](Mudskipper.md) eating her.
+4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
 5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
 
 _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)._
@@ -77,13 +78,13 @@ _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)
 ## Weapon Proficiency Unbound
 
 1.  Reach 75 Heavy/Medium/Light
-2.  Start the [A lost sibling](Temple_of_the_Blade.md) quest by talking to Apprentice Kj. (You can find the brother without starting the quest)
+2.  Start the [A Lost Sibling](Temple_of_the_Blade.md) quest by talking to Apprentice Kj. (You can find the brother without starting the quest)
 3.  Obtain a [Gale Stone](Gale_Stone.md).
-4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the Burning Stone Gardens.
+4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
 5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))
-6.  Hold the Gale Stone and talk to the NPC bleeding all over.
+6.  Hold the [Gale Stone](Gale_Stone.md) and talk to the NPC bleeding all over.
 7.  Return to Apprentice Kj to finish the quest.
-8.  Head on to the Sparring Arena and talk to Maestro, located to the left when entering, opposite to the sparring instructor.
+8.  Head on to the Sparring Arena and talk to [Maestro](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
 9.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
@@ -101,6 +102,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 ## Notes
 
--   The Windrunner is yet another reference to _The Stormlight Archive_
+-   The Windrunner is yet another reference to _The [Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_
 -   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)
--   Unlike normal attributes such as Fortitude and Willpower, Attunments and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
+-   Unlike normal attributes such as Fortitude and Willpower, [Attunements](Attunements.md) and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
+-   The Lost Sibling quest is also required to unlock the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) boss fight.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 103531
+revid: 103548
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -259,7 +259,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
-  All effects that increase damage are 10% stronger.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red mist.<br>

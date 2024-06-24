@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 103377
+revid: 103566
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -25,44 +25,39 @@ categories: [Weapons, Swords]
 | obtainment | Etris Weapon shop, Erisia Chests |
 | description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world alike. |
 
-15px">
+| Alloyed Messer | |
+|---|---|
+| type | Medium Sword |
+| requirements | 75 MED |
+| damage | 21 |
+| scaling | 6 |
+| range | 7.5 |
+| swing speed | 0.93x |
+| penetration | 15% |
+| chip damage | 15% |
+| selling price | 50 |
+| weight | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Applying a Pluripotent Alloy on the base weapon |
+| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world over. |
 
-<tabber> |-|Base=
+**Base:**
 
-|-|Alloyed= {{Weapon\_Infobox |name=Alloyed Messer |type=Medium Sword |requirements=75 MED |damage=21 |penetration=15% |chip damage=15% |scaling=6 |weight=7 |range=7.5 |swing speed=0.93x |image=Alloyed Messer.png |obtainment=
-
--   Applying a [Pluripotent Alloy](Pluripotent_Alloy.md) on the base weapon
-
-|selling price= 50 |description=_Considered by many to be an overgrown_
-
-_
+**Alloyed:**
 
 ## Description
-
-__
 
 The Messer is an early-game sword that can be found in chests in [Lower Erisia](Lower_Erisia.md), as well as in the [Etris](Etris.md) weapon shop for 16 notes. Due to its nature as a very early game weapon, it is quickly overshadowed, even by weapons with the same requirements.
 
 The Messer is one of the weapons able to have a [Pluripotent Alloy](Pluripotent_Alloy.md) applied to it, boosting its stats to stay somewhat relevant later in the game.
 
-__
-
-## Gallery
-
-__
-
 ## Trivia
-
-__
 
 -   Meeting the non-alloyed requirement of MED, the damage is (20.8)
     -   Meeting the alloyed requirement, the damage is (28.1)
 -   At max MED, the non-alloyed damage is (27.5)
     -   At max MED, the alloyed damage is (30.5)
 -   Generally recommended to use a [Mace](Mace.md) instead.
-
-__
-
-## Navigation
-
-_

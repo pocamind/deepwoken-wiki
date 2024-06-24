@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 97761
+revid: 103550
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -45,3 +45,4 @@ An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 -   Anyone standing nearby whilst you turn in an Artifact will also receive notes and XP.
 -   Artifacts are likely related to the Forge of Sin, as bankers will call it a "Piece of the Forge," and pieces of their models are in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   The [Castle Light](Castle_Light.md) Banker has an Artifact turn-in option, but Artifacts do not currently spawn in the Depths.
+-   Artifacts are currently bugged so that you cannot turn them in.

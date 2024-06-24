@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 100670
+revid: 103572
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-Destroyman III appears to be a miniature/chibi [Megalodaunt](Megalodaunt.md) that was added on the Deepwoken April Fools update of 2023. His only purpose is to occasionally say random things to the player. Originally, Destroyman III was obtainable by contracting Coral Fever by taking damage from a Megalodaunt's Coral Spear (100% infection rate), by their claw attack (moderate infection rate) or from being sneezed at by an infected player (low infection rate).
+Destroyman III is a miniature [Megalodaunt](Megalodaunt.md) that was added on the Deepwoken April Fools update of 2023. His only purpose is to occasionally say random things to the player. Originally, Destroyman III was obtainable by contracting Coral Fever by taking damage from a Megalodaunt's Coral Spear with a 100% infection rate, by their claw attack with a more moderate infection rate or from being sneezed at by an infected player with a much lower infection rate.
 
 Symptoms of Coral Fever includes:
 
@@ -181,19 +181,18 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 ## Trivia
 
 -   The trailer promoting the Destroyman III ~plushie~ physical form, was rather controversial, as it used AI-generated backgrounds for several scenes. TheRealPunchee, who made the trailer, apologized, stating he was forced to due to time constraints.
+-   Despite being a physical, biological virus, he refers to being coded.
 -   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your Attunement. It is a reference to the animated show _[SpongeBob SquarePants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)_, specifically the episode _[PICKLES](https://www.youtube.com/watch?v=5icZ0qixzBM)_.
 -   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the video game _[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)_.
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber _[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)_, along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams.
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
     -   He's escaped both into the real and overworlds, nowhere is safe.
 -   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name, and is said by the one and only; our lord and saviour Danny Devito.
--   The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman III apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath.
-    -   This was later corrected to say seventh.
--   He is based on a sticker in the Discord drawn by Sycne.
+-   The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." briefly became outdated due the addition of Ironsing, though it was later remided and corrected to say seventh.
+-   He is based on a sticker in the Discord drawn by Discord user Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy), a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
 -   The line "I've been thinking of starting a band recently. Might call it (Adjective) (Noun). What do you think?" has many possible responses with a list of verbs and nouns. Two-time, Generated, Lore, Moe, and Wheat are some possible verbs, while Tony, Tornado, "Of pockets", and Error are some possible nouns.
--   Despite being a physical virus, he refers to being coded.
 -   The tooltip "TIP: Birds aren't real." is a reference to the satirical conspiracy theory of the same name, "[Birds Aren't Real](https://en.wikipedia.org/wiki/Birds_Aren%27t_Real)".
 -   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "[Every copy of Super Mario 64 is personalized](https://knowyourmeme.com/memes/super-mario-64-conspiracy-theories)" craze/conspiracy that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.
 -   Destroyman III plays games and references things from the Super Mario Brothers franchise. Nintendo is yet to find out about this. Please don't tell them.
@@ -208,15 +207,12 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
     -   You're being insulted by Destroyman III. How do you feel about that?
 -   We love Destroyman III. You love Destroyman III.
 -   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can't legally steal from you without your consent.”
--   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of Youtubers having sponsored ad segments following this template in their videos, with some of the most well-known being NordVPN, Raid: Shadow Legends, HelloFresh, Skillshare, Brilliant, and many more.
+-   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of YouTubers having sponsored ad segments following this template in their videos, with some of the most well-known, though some due to controversy, being NordVPN, Raid: Shadow Legends, HelloFresh, Skillshare, Brilliant, and many more. The lack of an actual parameter in the Webzone and Product functions implies he has yet to find an actual sponsor.
 -   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official. (The apparent puzzle seems to be a reference to the library puzzle in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) and the puzzle in [The Birdcage](The_Birdcage.md))
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
--   This page has the most trivia of any page on the wiki currently.
--   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
 -   The line "You don't have to do anything anymore. Ever. Never ever." is a reference to [the intro](https://www.youtube.com/watch?v=7ZU2elURPPA) of the video game _[Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium)_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
--   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.
 -   Destroyman III was ~turned into a plush~ granted a physical form through the 'Crowdfunded Murchendice Campaign' played out by the Drowned God Murchendice.

@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 103536
+revid: 103573
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -141,7 +141,7 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="7">Begin</td>
 </tr>
 <tr>
   <td>Requirements unmet for Jetstriker</td>
@@ -150,6 +150,7 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
   <td>When another player talks to Alirian during the race, or when it finishes</td>
   <td>Getting a Jetstriker orb</td>
   <td>Breaking the oath with Alirian</td>
+  <td>Regaining the oath after you broke it</td>
 </tr>
 <tr>
   <td>You! You look... Boring! Very, very boring! Go run a lap or something, maybe then we can get along.</td>
@@ -158,9 +159,27 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
   <td>Huff...huff...</td>
   <td>I feel the winds rush through my body...</td>
   <td>Huh. And here I thought I’d found a true rival. I had fun while it lasted, friend.</td>
+  <td>Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
+  <td>Please forgive me.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td>Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td>I'll follow your oath, my dear rival.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td>This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
