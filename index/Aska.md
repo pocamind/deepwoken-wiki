@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103497
+revid: 103547
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -28,7 +28,6 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
 -   A [Resonance](Resonance.md) (Although there are resonance doors that need to be unlocked on the way to Aska, you do not actually need a resonance to initiate the fight).
--   Pleeksty Talents (Not needed for the door but he will wipe you if you don't have it).
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103494
+revid: 103537
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -13,7 +13,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 | type | Club |
 | requirements | 40 MED, 90 FIR |
 | damage | 20 |
-| scaling | MED: 9 FIR: 9 |
+| scaling | MED: 3 FIR: 4 |
 | range | 8 |
 | swing speed | 0.93x |
 | penetration | 30% |
@@ -29,7 +29,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 ## Description
 
-pletskys boom boom wepon (if you change this your gay) is a legendary club; a knapped obsidian [macuahuitl](<https://en.wikipedia.org/wiki/Macuahuitl#:~:text=A%20macuahuitl%20(%5Bma%CB%90%CB%88k%CA%B7awit%CD%A1%C9%AC%5D),blades%20traditionally%20made%20from%20obsidian.>) imbued using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering [Layer 2](Second_Layer.md) without a Light Hook, having 75 [Flamecharm](Flamecharm.md), whilst either wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or having [Pleeksty's Will](Talent_Quests.md)/[Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in [Firfire](Firfire.md), located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
+Pleeksty's Inferno is a legendary club; a knapped obsidian [macuahuitl](<https://en.wikipedia.org/wiki/Macuahuitl#:~:text=A%20macuahuitl%20(%5Bma%CB%90%CB%88k%CA%B7awit%CD%A1%C9%AC%5D),blades%20traditionally%20made%20from%20obsidian.>) imbued using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering [Layer 2](Second_Layer.md) without a Light Hook, having 75 [Flamecharm](Flamecharm.md), whilst either wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or having [Pleeksty's Will](Talent_Quests.md)/[Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in [Firfire](Firfire.md), located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
@@ -54,3 +54,4 @@ Both criticals shares a cooldown of **8 seconds** and can proc Flamecharm talent
 -   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
+-   [Aska](Aska.md) is only able to be fought once per character. When returning back only the Pleeksty's Inferno will be present.

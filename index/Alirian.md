@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 103345
+revid: 103536
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -141,7 +141,7 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="6">Begin</td>
 </tr>
 <tr>
   <td>Requirements unmet for Jetstriker</td>
@@ -149,6 +149,7 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
   <td>When the player loses the race</td>
   <td>When another player talks to Alirian during the race, or when it finishes</td>
   <td>Getting a Jetstriker orb</td>
+  <td>Breaking the oath with Alirian</td>
 </tr>
 <tr>
   <td>You! You look... Boring! Very, very boring! Go run a lap or something, maybe then we can get along.</td>
@@ -156,9 +157,10 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
   <td>Heh! Better luck next time, rival! I'll be heading back in a few, just need to..huff..catch my breath.</td>
   <td>Huff...huff...</td>
   <td>I feel the winds rush through my body...</td>
+  <td>Huh. And here I thought I’d found a true rival. I had fun while it lasted, friend.</td>
 </tr>
 <tr>
-  <td colspan="5">End</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
@@ -168,3 +170,4 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 -   If you beat her in a race while already possessing an oath, she will only say "Huff".
 -   Alirian uses the [Windrunner Robes](Windrunner_Robes.md) outfit.
 -   She seems to value her and the player's frenemy relationship a lot.
+-   It is not advisable to break the oath with Alirian, as she would be sad.

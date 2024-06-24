@@ -1,11 +1,12 @@
 ---
-title: Version History/2025
-revid: 103522
-source: https://deepwoken.fandom.com/wiki/Version_History/2025
+title: Version History/Uncollapsed
+revid: 103524
+source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Community Compositions, Deepwoken]
 ---
 
-# Version History/2025
+# Version History/Uncollapsed
 
 ## Legend
 
@@ -14,8 +15,6 @@ Something is considered a new update if it happens on a different week as the pa
 Something is considered a patch if it's added after an update but doesn't contain enough content to be considered one.  
   
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
-
-For a fully uncollapsed version, go to [this page](Uncollapsed.md) instead
 
   
 

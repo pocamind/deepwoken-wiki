@@ -1,6 +1,6 @@
 ---
 title: Summer Nauticals
-revid: 103269
+revid: 103543
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Face, Equipment]
@@ -33,3 +33,4 @@ The Nauticals are an [Equipment](Equipment.md) item under the "Face" category. T
 ## Trivia
 
 -   When held, the lenses of the Nauticals can't be seen.
+-   The Summer Company icon can be seen on the top right of the right lens.

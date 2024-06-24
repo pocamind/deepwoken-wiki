@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 102527
+revid: 103531
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -63,7 +63,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
-  This damage bonus bypasses the both the soft and hard damage multiplier caps.<br>
+  This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
   Can be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
@@ -259,6 +259,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
+  All effects that increase damage are 10% stronger.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red mist.<br>

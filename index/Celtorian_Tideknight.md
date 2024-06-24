@@ -1,11 +1,9 @@
 ---
 title: Celtorian Tideknight
-revid: 100433
+revid: 103544
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Items, Outfits]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Items, Outfits]
 ---
 
 # Celtorian Tideknight

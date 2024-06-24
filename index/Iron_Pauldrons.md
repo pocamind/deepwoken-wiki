@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 73957
+revid: 103546
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,11 +11,11 @@ categories: [Equipment, Arms, Pauldrons]
 | Iron Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | 7 |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | Unknown |
+| innate stats | None |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
