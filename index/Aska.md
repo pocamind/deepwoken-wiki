@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103336
+revid: 103352
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons]
@@ -162,9 +162,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td colspan="6">[Take the Weapon]</td>
 </tr>
 <tr>
-  <td colspan="6">Oh, my lord... What a state...<br>
+  <td colspan="6"></td>
+  <td colspan="3">Oh, my lord... What a state...<br>
   <b>[Didn't meet requirements and sets you on fire]</b></td>
-  <td colspan="6">Though.. If you really are Pleeksty... Then you should have no trouble putting this old servant out of their long service.<br>
+  <td colspan="3">Though.. If you really are Pleeksty... Then you should have no trouble putting this old servant out of their long service.<br>
   <b>[Did meet requirements, starting a fight with Aska]</b></td>
 </tr>
 <tr>
@@ -180,6 +181,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
+
 -   If Aska falls off the map, you can escape through Chaser and still obtain the weapon.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 102582
+revid: 103365
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -44,6 +44,8 @@ Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_
 **Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage. (Up to 2x damage. Fall damage and environmental damage will remove all stacks.)
 
 Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. This talent makes PvE far easier as you get better at the game. The easiest method to obtain this talent is via Cheese, or doing [The Ferryman](The_Ferryman.md)
+
+If you have friends, you can use the cannons on a ship to kill The [Dread Serpent](Dread_Serpent.md) with relative ease. Roughly 15 or 20 cannon shots should kill him, get your friend to lure him to the cheese spot at boatmans (or distract him in general) and shoot kaido with cannons
 
 Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die/leave, it will still count and the Talent will be rewarded. Second Note: If you have a friend helping you, as long as they don't hit the Dread Serpent you can still get Chain of Perfection. They can get hit and it won't change anything.
 

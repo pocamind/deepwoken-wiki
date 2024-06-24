@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103323
+revid: 103343
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2462,12 +2462,12 @@ _**"I seek the qualities of vocalist."**_
 -   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant if they have lower than 40% hp
-    -   40 Minutes cooldown.
+    -   40 Minutes cooldown, 60 if less than 75 charisma.
 
 -   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side.
     -   Prerequisites: 60 Charisma, Vow of Mastery
     -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
-    -   15 Seconds cooldown.
+    -   15 Seconds cooldown, 30 if less than 60 charisma.
 
 ### Warrior
 

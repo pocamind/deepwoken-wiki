@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 98567
+revid: 103348
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -15,13 +15,13 @@ categories: [Helmets, Equipment]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 HP, Precise Swing |
-| innate talent | N/A |
+| innate stats | +3 HP |
+| innate talent | Precise Swing |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Duke Erisia |
+| obtainment | Chests from:, Second Layer, Duke Erisia, Maestro Evengarde Rest |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

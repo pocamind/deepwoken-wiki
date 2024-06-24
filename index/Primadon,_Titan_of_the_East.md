@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 103321
+revid: 103344
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -194,5 +194,8 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 -   It would take roughly 15-35 cannonballs alone to kill the Primadon, depending on your weapon's damage.
--   As of 3/29/2024 Primadon has a new color scheme with blue fins and a purple nose.
+-   As of 3/29/2024, Primadon was slightly tweaked to have a bluer color scheme.
+    -   The purple "nose" is due to developer Arch\_Mage explaining how primates flip their lips.[\[1\]](#cite-note-1)
 -   Primadon as of Verse One stood at a height of 25 meters (81 feet)
+
+1.  [↑](#cite-ref-1) [https://media.discordapp.net/attachments/888259230082146385/1224049575174734005/image.png?ex=6679ae80&is=66785d00&hm=a3e8eb76f2338817dffc2e4147788e6c09c63fccd04ed1d54edde3951a54e5a3&=&format=webp&quality=lossless&width=838&height=816](https://media.discordapp.net/attachments/888259230082146385/1224049575174734005/image.png?ex=6679ae80&is=66785d00&hm=a3e8eb76f2338817dffc2e4147788e6c09c63fccd04ed1d54edde3951a54e5a3&=&format=webp&quality=lossless&width=838&height=816)
