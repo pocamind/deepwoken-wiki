@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 103271
+revid: 103379
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,19 +10,20 @@ categories: [Weapons, Swords]
 
 | Scimitar | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 20 MED |
 | damage | 15 |
 | scaling | 3 |
 | range | 8 |
 | swing speed | 1.09x |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia Bandit Chests, First Layer |
-| description | A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture. |
+| description | "A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture." |
 
 ## Description
 

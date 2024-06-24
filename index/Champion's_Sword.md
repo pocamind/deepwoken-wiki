@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 101625
+revid: 103385
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,15 +10,15 @@ categories: [Weapons, Swords]
 
 | Champion's Sword | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 40 MED |
 | damage | 19 |
 | scaling | 6.5 |
 | range | 8 |
 | swing speed | 1.02x |
-| endlag | ? |
 | penetration | 10% |
 | chip damage | 0% |
+| stances | 2 Handed, 1 Handed |
 | selling price | ? |
 | weight | 4 |
 | bankable | Yes |
@@ -26,13 +26,13 @@ categories: [Weapons, Swords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starswept Valley (Chests), Layer 2 (Chaser, Scholar of the Burning Blood's chest) |
-| description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
+| description | "A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself." |
 
 ## Description
 
 The Champion's sword is a mid-game Sword obtained from [Starswept Valley](The_Starswept_Valley.md) chests, [Depths](The_Depths.md) chests and the Golden Rat.
 
-Can be easily obtained from Layer 2 Floor 1, not worth farming in the Starswept Valley.
+Can be easily obtained from Layer 2 Floor 1, not worth farming in the [Starswept Valley](The_Starswept_Valley.md).
 
 ## Trivia
 

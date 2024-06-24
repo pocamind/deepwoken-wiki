@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 101684
+revid: 103376
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,15 +10,13 @@ categories: [Weapons, Swords]
 
 | False Memory | |
 |---|---|
-| type | Sword [MED] |
+| type | Sword |
 | requirements | N/A |
 | damage | 18 |
 | scaling | 2.5 |
 | range | 8 |
 | swing speed | 1x |
-| penetration | N/A |
-| chip damage | N/A |
-| special effect | N/A |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 101685
+revid: 103488
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -13,10 +13,9 @@ categories: [Weapons, Swords]
 | type | Sword |
 | requirements | 30 MED |
 | damage | 22 |
-| scaling | 4 |
+| scaling | 4.5 |
 | range | 8 |
 | swing speed | 1x |
-| penetration | N/A |
 | stances | 2 Handed, 1 Handed |
 | weight | 6 |
 | bankable | Yes |
@@ -24,7 +23,7 @@ categories: [Weapons, Swords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort MeritThe Depths, Blacksmith (Hive) |
-| description | The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories. |
+| description | "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories." |
 
 ## Description
 

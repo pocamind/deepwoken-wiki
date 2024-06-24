@@ -1,29 +1,30 @@
 ---
 title: Purple Cloud
-revid: 102462
+revid: 103396
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Katanas, Unique Critical]
+categories: [Pages with broken file links, Weapons, Swords, Katanas, Unique Critical]
 ---
 
 # Purple Cloud
 
 | Purple Cloud | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 85 MED, Power 10 |
 | damage | 16.5 |
 | scaling | 9 |
 | range | 7 |
 | swing speed | 1.06x |
 | penetration | 15% |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest |
-| description | A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily. |
+| description | "A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily." |
 
 ## Description
 
@@ -34,6 +35,72 @@ Akin to the [Shattered](Shattered_Katana.md) and [Alloyed](Katana.md#alloyed) ka
 ## Critical
 
 The user leans down and grabs the blade's handle before dashing forwards. If there is a target ahead, the user teleports behind them and unsheathes the Purple Cloud, quickly slashing at them with a purple flash before sheathing the blade once again. This critical is not a true guard break, but its posture damage is exceptionally high (About 32~). It has a cooldown of 7 seconds.
+
+## Gallery
+
+### Enchantments
+
+**Astral:**
+
+File:ASTRALPURPLECLOUDYEAAAAAAAAAA.png
+
+**Blazing (Standard):**
+
+**Blazing (Azure Flames):**
+
+**Blazing (Twisted Puppets):**
+
+**Chilling (Standard):**
+
+**Chilling (Crystallization):**
+
+**Deferred:**
+
+**Detonation:**
+
+**Elastic:**
+
+**Gluttony:**
+
+**Grim:**
+
+**Harrowing:**
+
+**Heroism:**
+
+**Metal:**
+
+**Nemesis:**
+
+**Obfuscation:**
+
+**Providence's Thorns:**
+
+**Sear:**
+
+**Solar:**
+
+**Stone:**
+
+**Storm:**
+
+**Stormbreaker:**
+
+**Tears of the Edenkite:**
+
+**Umbral Knight:**
+
+**Vampirism:**
+
+**Wild:**
+
+**Curse of the Bloodthirsty:**
+
+**Curse of the No Life King:**
+
+**Curse of the Unbidden:**
+
+**Curse of Yun'Shul:**
 
 ## Trivia
 

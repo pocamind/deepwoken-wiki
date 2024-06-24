@@ -1,9 +1,9 @@
 ---
 title: Umbral Obsidian
-revid: 100475
+revid: 103513
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Elemental Ingredients]
 ---
 
 # Umbral Obsidian

@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 95504
+revid: 103481
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -23,6 +23,10 @@ The maximum amount of cased bullets you can have in your inventory is capped at 
 (3) Mag: How many bullets do you want encased? It's 1 Note for every 5 bullets, rounded up to the nearest Note. P: Submit / Exit
 
 ## Bullet Effects:
+
+**Iron:**
+
+The bullet obtains 10% more PEN, because they are considered normal bullets, it does not have any disadvantage.
 
 **Gold:**
 

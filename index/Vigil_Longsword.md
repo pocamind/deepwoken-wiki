@@ -1,50 +1,48 @@
 ---
 title: Vigil Longsword
-revid: 102443
+revid: 103403
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, In progress with reason, InProgressPages, Swords]
-notices:
-  - This page is currently being worked on. Some things may still be incomplete.
+categories: [Weapons, Swords]
 ---
 
 # Vigil Longsword
 
 | Vigil Longsword | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 40 MED |
 | damage | 20 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 1x |
-| penetration | N/A |
-| selling price | 15 |
+| stances | 2 Handed, 1 Handed |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds, Miner's Landing, First Layer |
-| description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
+| description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
 
 | Alloyed Vigil Longsword | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 75 MED |
 | damage | 20 |
 | scaling | 7.5 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 20% |
-| selling price | ??? |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Main source:, Using a Pluripotent Alloy on oneChests from:, Chime of Conflict chests, Voidwalker chests |
-| description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
+| description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
 
 **Base:**
 

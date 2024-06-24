@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 102320
+revid: 103397
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -268,6 +268,8 @@ One Diver Quartermaster and two [Diver Journeymen](Journeyman_Diver_Guard.md) sp
 #### Old Stranger
 
 A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur.md).
+
+Having the talent Condensation Drip will also allow the player to obtain the Murmur without a canteen.
 
 ### _**The Depths (Scyphozia)**_
 

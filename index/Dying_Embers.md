@@ -1,9 +1,9 @@
 ---
 title: Dying Embers
-revid: 96840
+revid: 103511
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Items]
+categories: [World, Items, Elemental Ingredients]
 ---
 
 # Dying Embers

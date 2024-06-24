@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 102110
+revid: 103378
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,13 +10,13 @@ categories: [Weapons, Swords]
 
 | Falchion | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 20 MED |
 | damage | 16 |
 | scaling | 6 |
 | range | 7.5 |
 | swing speed | 0.8x |
-| penetration | N/A |
+| stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
@@ -27,13 +27,14 @@ categories: [Weapons, Swords]
 
 | Alloyed Falchion | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 75 MED |
 | damage | 16 |
 | scaling | 7 |
 | range | 7.5 |
 | swing speed | 0.8x |
 | penetration | 20% |
+| stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

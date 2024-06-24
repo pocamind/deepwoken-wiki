@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 102334
+revid: 103380
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Unique Critical]
@@ -10,23 +10,24 @@ categories: [Weapons, Swords, Katanas, Unique Critical]
 
 | Katana | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 25 MED |
 | damage | 18 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 1x |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, The Diluvian Mechanism |
-| description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
+| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
 | Alloyed Katana | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 75 MED |
 | damage | 20 |
 | scaling | 7 |
@@ -34,13 +35,14 @@ categories: [Weapons, Swords, Katanas, Unique Critical]
 | swing speed | 1x |
 | penetration | 10% |
 | chip damage | 10% |
+| stances | 2 Handed, 1 Handed |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Using Pluripotent Alloy on Katana, Bounties, The Diluvian Mechanism |
-| description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
+| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
 **Base:**
 
@@ -63,7 +65,7 @@ Storm Enchant
 ## Notes
 
 -   [Paired Soul](Talents.md#vigil) only gives a +5% damage buff with the Alloyed Katana to bring it closer to the [Shattered Katana](Shattered_Katana.md).
--   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana crit when 2 handing.
+-   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana critical when 2 handing.
 
 ## Trivia
 

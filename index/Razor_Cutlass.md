@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 101661
+revid: 103389
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,13 +10,14 @@ categories: [Weapons, Swords]
 
 | Razor Cutlass | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 60 MED |
 | damage | 18 + 5.4 [BLD] |
 | scaling | 7.5 |
 | range | 8 |
 | swing speed | 0.94x |
 | penetration | 25% |
+| stances | 2 Handed, 1 Handed |
 | selling price | 25 |
 | weight | 7 |
 | bankable | Yes |
@@ -38,3 +39,9 @@ The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily
     -   Bleed adds 10% of your current damage over 3 ticks making it 30% damage boost, this damage is not affected by modifiers.
 
 -   Often used by [Divers](Diver.md) at [Castle Light](Castle_Light.md).
+
+## Enchantments
+
+**Storm:**
+
+**Curse of the Bloodthirsty:**

@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 102415
+revid: 103390
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical]
@@ -10,7 +10,7 @@ categories: [Weapons, Swords, Unique Critical]
 
 | Serpent's Edge | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 75 MED |
 | damage | 22 |
 | scaling | 6 |
@@ -18,13 +18,14 @@ categories: [Weapons, Swords, Unique Critical]
 | swing speed | 0.97x |
 | penetration | 5 |
 | special effect | Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. Propels the user forward with every slash, making it difficult to land all three slashes. |
+| stances | 2 Handed, 1 Handed |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests, Summer Isle, Widow chest, Maestro Evengarde Rest's chests, Bounties |
-| description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
+| description | "Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 102951
+revid: 103387
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
@@ -10,13 +10,14 @@ categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
 
 | Shotel | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 45 MED |
 | damage | 22 |
 | scaling | 5 |
 | range | 8 |
 | swing speed | 0.73x |
 | chip damage | 20% |
+| stances | 2 Handed, 1 Handed |
 | selling price | 25 |
 | weight | 2 |
 | bankable | Yes |
@@ -24,11 +25,11 @@ categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Minityrsa, First Layer |
-| description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
+| description | "A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes." |
 
 | Alloyed Shotel | |
 |---|---|
-| type | Medium Sword |
+| type | Sword |
 | requirements | 75 MED |
 | damage | 22 |
 | scaling | 6 |
@@ -36,13 +37,14 @@ categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
 | swing speed | 0.73x |
 | penetration | 10% |
 | chip damage | 30% |
+| stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Minityrsa, The Depths |
-| description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
+| description | "A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes." |
 
 **Base:**
 
