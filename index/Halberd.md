@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 102345
+revid: 103641
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Unique Critical]
@@ -53,7 +53,9 @@ The Halberd is a Greataxe type weapon used by the Central Authority. The Halberd
 
 ## Critical
 
-The user runs forward before performing a 360° slash. The Halberd's critical counts as a basic attack, meaning it also procs Talents such as [Spine Cutter](Talents.md#duelist) and M1-based enchants. This critical does not guard break (?) or grant the player hyperarmor, unlike other Heavy Weapons.
+The user charges forward before performing a circular slash, dealing damage. The critical counts as a basic attack, meaning it also procs Talents such as [Spine Cutter](Talents.md#duelist) and M1-based enchants.
+
+The critical has a cooldown of **3 seconds**.
 
 ## Trivia
 

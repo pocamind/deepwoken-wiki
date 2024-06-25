@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 96313
+revid: 103618
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -10,13 +10,14 @@ categories: [Weapons, Spears]
 
 | Irontusk | |
 |---|---|
-| type | Medium Spear |
-| requirements | N/A |
+| type | Spear |
+| requirements | 0 MED |
 | damage | 16.5 |
 | scaling | 3 MED |
 | range | 9 |
 | swing speed | 0.68x |
 | penetration | 10% |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 103566
+revid: 103626
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -61,3 +61,4 @@ The Messer is one of the weapons able to have a [Pluripotent Alloy](Pluripotent_
 -   At max MED, the non-alloyed damage is (27.5)
     -   At max MED, the alloyed damage is (30.5)
 -   Generally recommended to use a [Mace](Mace.md) instead.
+-   The word "Messer" is German for knife.

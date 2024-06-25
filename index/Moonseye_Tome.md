@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 100977
+revid: 103644
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -22,7 +22,7 @@ categories: [Relics]
 
 ## Description
 
-The **Moonseye Tome** is a [Relic](Relics.md) containing the scrawled and raving account of the prophetic dream received by the Prophet Pariah, reading this book will grant the user +99 Knowledge on the first usage. All future uses of this book will grant the user +20 Knowledge.  
+The **Moonseye Tome** is a [Relic](Relics.md) containing the scrawled and raving account of the prophetic dream received by the Prophet Pariah, reading this book will grant the user +99 Knowledge on the first usage. All future uses of this book on the same slot will grant the user +20 Knowledge each time.  
 _(one-time use, re-obtainable)_
 
 ## Moonseye Tome Dialogue

@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 102361
+revid: 103637
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -26,7 +26,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Uni
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Fury Nautilodaunt, Fishing (Chest)The Diluvian Mechanism |
+| obtainment | The Ferryman, Primadon, Fury Nautilodaunt, Fishing (Chest), The Diluvian Mechanism |
 | description | Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description
@@ -43,7 +43,9 @@ The Stormseye comes with 2 passive abilities:
 
 ## Critical Attack
 
-The user shoots a bullet before beginning to circle the opponent at highspeed, appearing in short flashes to fire more shots at them. Ragdolls the opponent at the end.
+The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them. Ragdolls the opponent at the end and can be cancelled early.
+
+The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 

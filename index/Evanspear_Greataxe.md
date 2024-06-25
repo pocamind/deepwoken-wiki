@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 102749
+revid: 103630
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -30,16 +30,11 @@ The Evanspear Hand Axe is a [heavy weapon](Weapons.md) (HVY) that requires 70 He
 
 It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md) as well.
 
-## Tips/Trivia
+  
 
--   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
--   The damage dealt with no proficiency and 100 HVY is approximately 55.6 DMG accounting for the Bleed damage.
--   Damage with 6 proficiency and 100 HVY (52.2 + 15.7 BLD)
-    -   Note that Bleed bypasses Armor.
--   Keep in mind that while using this weapon you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
--   While this weapon used to be referred to as the "Best PvE weapon." It's absurd damage was confirmed to be a bug in the 21/06/2024 changelogs, which made it deal approximately +270% of its intended damage due to bleed scaling twice off PvE scaling.
+## Gallery
 
-## Enchantments
+### Enchantments
 
 **Astral:**
 
@@ -100,3 +95,12 @@ It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)
 **Curse of The Unbidden:**
 
 **Curse of Yun-Shul:**
+
+## Trivia
+
+-   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
+-   The damage dealt with no proficiency and 100 HVY is approximately 55.6 DMG accounting for the Bleed damage.
+-   Damage with 6 proficiency and 100 HVY (52.2 + 15.7 BLD)
+    -   Note that Bleed bypasses Armor.
+-   Keep in mind that while using this weapon you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
+-   While this weapon used to be referred to as the "Best PvE weapon." It's absurd damage was confirmed to be a bug in the 21/06/2024 changelogs, which made it deal approximately +270% of its intended damage due to bleed scaling twice off PvE scaling.

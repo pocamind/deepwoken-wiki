@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 102354
+revid: 103636
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical]
@@ -34,9 +34,11 @@ The Railblade is the only greatsword that does NOT have Hyperarmor on parry swin
 
 ## Critical
 
-The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn. The flames created by the Railblade's critical become blue if the user has Azure Flames, and brown-black if the user has Wraith Path: Twisted Puppets.
+For the **grounded** critical, the user prepares a wind-up stance, granting hyperarmor and slashes forward, dealing damage.
 
-**Both variants have a cooldown of 9 seconds.**
+For the **airborne** critical, the user hovers and raises their weapon before unleashing an overhead slash, dealing damage.
+
+The flames emitted by the critical will proc burn and respective Flamecharm talents. The cooldown for the critical is **9 seconds**.
 
 ## Trivia
 

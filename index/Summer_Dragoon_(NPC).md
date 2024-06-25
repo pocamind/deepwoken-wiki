@@ -1,11 +1,9 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 98221
+revid: 103634
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Enemies, Ambush Enemies]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Enemies, Ambush Enemies]
 ---
 
 # Summer Dragoon (NPC)
@@ -70,6 +68,8 @@ Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Co
 -   Armor Piercing - Your bullets now ignore 20% of an opponent's physical armor.
 -   Safety Dance - Your base dodge frames are increased by 25%.
 -   Ready or Not - The first attack to hit you while out of combat has its damage cut in half.
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 103293
+revid: 103627
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns, Flintlocks]
