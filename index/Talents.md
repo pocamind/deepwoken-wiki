@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103569
+revid: 103653
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1210,6 +1210,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
+    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without this talent, you will wipe through his flames.
 
 ### Innate (Racial Talents)
 

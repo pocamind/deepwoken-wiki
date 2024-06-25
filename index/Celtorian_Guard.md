@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 99341
+revid: 103651
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards, The Depths]
@@ -28,7 +28,7 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
  | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Messer](Messer.md)\] Performs a windup before thrusting blade forward.
 
-\[[Trident Spear](Trident_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+\[[Trident Spear](Trident_Spear.md)\] Winds up before charging forward with the weapon, dealing damage multiple times.
 
  | ◯ | ✗ | (★☆☆) |
 | Gaze | User gazes into their opponents' souls causing them to kneel in fear. | ◯ | ◯ | (★☆☆) |
