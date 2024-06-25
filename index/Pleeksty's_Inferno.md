@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103551
+revid: 103606
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -29,7 +29,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 ## Description
 
-Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl imbued using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or having [Pleeksty's Will](Talent_Quests.md) or interchangeably with [Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon will be obtained shortly after Aska's death.
+Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or having [Pleeksty's Will](Talent_Quests.md) or interchangeably with [Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon is obtained as a drop from Aska.
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
@@ -41,16 +41,16 @@ Pleeksty's Inferno has **two** different criticals.
 
 For the **standing** critical, the user plunges their club into the ground, creating a small eruption and flourishing the weapon afterwards.
 
-For the **running** critical, the user embues the club with flame, slashing in front of them and launching a projectile forwards.
+For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile in front of them.
 
-Both criticals shares a cooldown of **8 seconds** and can proc Flamecharm talents.
+Both criticals share a cooldown of **8 seconds** and can proc Flamecharm talents.
 
 ## Trivia
 
--   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from Aztec culture.
+-   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from the Aztec culture.
     -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords. The tooltip for the weapon also mentions this, though the Pleeksty's Inferno does not deal slash or bleed damage.
 -   You do not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately; You may use the Ignition Deepdriller if you wish. In the case that you wipe purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
-    -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded the weapon on Chaser's death instead of Aska's.
--   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors.
+    -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded with the weapon upon Chaser's death instead of Aska's.
+-   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors, however, this is the more dangerous method, as you risk falling into the void while clipping through the last door on your way back from the cave.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.

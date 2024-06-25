@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 98527
+revid: 103577
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -160,5 +160,6 @@ End
 -   ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
 -   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
+    -   Evengarde Rest and [Aska](Aska.md) share the same hair id
 -   The coat Rest is wearring is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
     -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect

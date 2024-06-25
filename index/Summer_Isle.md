@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 99590
+revid: 103584
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -112,7 +112,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 #### _**Trig \[QUEST\]**_
 
-Trig is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
+[Trig](Trig.md) is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company.
 
 File:RobloxScreenShot20211227 094500945.png
 
