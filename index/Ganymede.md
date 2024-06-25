@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 101495
+revid: 103672
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -30,7 +30,7 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
   <ul>
     <li>Passive insanity gain from The Depths is reduced.</li>
-    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge instead cost 4 knowledge to make a deal with.</li>
+    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with.</li>
   </ul></li>
   </ul></td>
 </tr>

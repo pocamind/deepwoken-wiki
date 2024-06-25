@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 102729
+revid: 103682
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -111,7 +111,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   </ul></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure><figure>File:Untitled video - Made with Clipchamp.gif<figcaption><p>A devastating kick delivered into the ground while using the round spark mod</p></figcaption></figure></td>
   <td>Skyshatter Kick<p>(☆☆☆)</p></td>
   <td><i>Unleash two devasting kicks with your brute strength.</i></td>
   <td>120 Ether</td>
@@ -120,7 +120,12 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
     <li>Does MASSIVE damage upon hit, and has a range of 20 studs.</li>
     <li>Can be parried, blocked and dodged.</li>
-    <li>Has long wind-up. Note: Skyshatter can be modified with a Round spark to Stomp directly into the ground, if a Player is hit by this they are both flung into the air.</li>
+  </ul>
+  <ul>
+    <li>Has long wind-up.</li>
+  </ul>
+  <ul>
+    <li>Note: Skyshatter kick can be modified with a Round spark to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)</li>
   </ul></td>
 </tr>
 </tbody>
@@ -590,12 +595,12 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 -   The majority of mantra modifiers have gotten their functionality removed from Attunement-less mantras, along with the general "mantra modification mini-overhaul" due to their incredible power with Physical Mantras.
     -   Cloud/Stratus stone increased the hitboxes of moves so much, most of the time you wouldn't even have to look at the enemy.
-    -   Before it was nerfed, Revenge would've always teleported you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with shard modifiers.
-    -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma mantra, the effect would last so long, longer than the mantra's cooldown, this may have also applied to Reinforce.
-        -   Now, Reinforce and Brace now upgrade duration by leveling them up at Regek.  
+    -   Before it was nerfed, Revenge would always teleport you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with shard modifiers.
+    -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma mantra, the effect would last so long the mantra's cooldown would have ended before the effect wore off, this may have also applied to Reinforce.
+        -   Reinforce and Brace now upgrade duration by leveling them up at Regek.  
             
 -   Prediction has, by far, the most talent card upgrades out of all the attunement-less mantras.
--   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
+-   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on YouTube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
 -   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them, including Jus Karita mantras.
@@ -605,4 +610,4 @@ In short: Every 20 points in a specific attribute will unlock the next level for
     -   Strong Left used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a strong left hit.
 -   Rapid Slashes is Vergil's move from Devil May Cry series.
 -   Revenge has its sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
--   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance Ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them.
+-   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance Ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.

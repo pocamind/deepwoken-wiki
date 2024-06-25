@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103611
+revid: 103678
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -27,9 +27,53 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 | obtainment | Aska |
 | description | "In the Tiran homelands, weapons are often fashioned using knapped volcanic glass like obsidian. Though brittle, the prismatic blades embedded in the sides are sharper than any blade of metalwork. Following the ascent of Amorus Pleeksty and his Pioneering of Flamecharm, many Tirans worked floral patterns into their Macuahuitls in reverence of the Deepwoken. Of these Macuahuitls, this particular specimen was a gift to Pleeksty himself, imbued with the eruptive and scorching heat of magma, and fire only to be wielded by those who truly walk in his footsteps." |
 
+| Pleeksty's Inferno | |
+|---|---|
+| type | Club |
+| requirements | 40 MED, 90 FIR |
+| damage | 20 |
+| scaling | MED: 3 FIR: 4 |
+| range | 8 |
+| swing speed | 0.93x |
+| penetration | 30% |
+| chip damage | 10% |
+| stances | 2 Handed, 1 Handed |
+| weight | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Aska |
+| description | "In the Tiran homelands, weapons are often fashioned using knapped volcanic glass like obsidian. Though brittle, the prismatic blades embedded in the sides are sharper than any blade of metalwork. Following the ascent of Amorus Pleeksty and his Pioneering of Flamecharm, many Tirans worked floral patterns into their Macuahuitls in reverence of the Deepwoken. Of these Macuahuitls, this particular specimen was a gift to Pleeksty himself, imbued with the eruptive and scorching heat of magma, and fire only to be wielded by those who truly walk in his footsteps." |
+
+| Pleeksty's Inferno | |
+|---|---|
+| type | Club |
+| requirements | 40 MED, 90 FIR |
+| damage | 20 |
+| scaling | MED: 3 FIR: 4 |
+| range | 8 |
+| swing speed | 0.93x |
+| penetration | 30% |
+| chip damage | 10% |
+| stances | 2 Handed, 1 Handed |
+| weight | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Aska |
+| description | "In the Tiran homelands, weapons are often fashioned using knapped volcanic glass like obsidian. Though brittle, the prismatic blades embedded in the sides are sharper than any blade of metalwork. Following the ascent of Amorus Pleeksty and his Pioneering of Flamecharm, many Tirans worked floral patterns into their Macuahuitls in reverence of the Deepwoken. Of these Macuahuitls, this particular specimen was a gift to Pleeksty himself, imbued with the eruptive and scorching heat of magma, and fire only to be wielded by those who truly walk in his footsteps." |
+
+**Standard:**
+
+**Azure Flames:**
+
+**Twisted Puppets:**
+
 ## Description
 
-Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or having [Pleeksty's Will](Talent_Quests.md) or interchangeably with [Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon is obtained as a drop from Aska.
+Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), and wearing (not transmog) the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or possessing the talent [Pleeksty's Will](Talent_Quests.md) or [Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon is obtained as a drop from Aska.
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 

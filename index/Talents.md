@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103653
+revid: 103684
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2107,7 +2107,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Unlock requirement: Wipe with the Iron Gut talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, and any ores except Umbrite.
+    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, and every ore.
 
 ### Survivor
 

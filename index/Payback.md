@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 103248
+revid: 103687
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,7 +41,7 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 ### **Variants**
 
-**Payback** has three different versions.
+**Payback** has four different versions.
 
 #### _Versions_
 
