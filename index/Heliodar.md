@@ -1,9 +1,9 @@
 ---
 title: Heliodar
-revid: 92722
+revid: 103778
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Exclusive Races]
+categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
 ---
 
 # Heliodar

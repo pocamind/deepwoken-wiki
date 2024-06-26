@@ -1,8 +1,9 @@
 ---
 title: "Worldshaper's Laurel"
-revid: 100193
+revid: 103747
 source: https://deepwoken.fandom.com/wiki/Worldshaper's_Laurel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Head, Helmets, Exclusive]
 ---
 
 # Worldshaper's Laurel

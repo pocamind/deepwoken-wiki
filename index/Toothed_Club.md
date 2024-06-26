@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 101816
+revid: 103733
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -11,9 +11,9 @@ categories: [Weapons, Clubs]
 | Toothed Club | |
 |---|---|
 | type | Club |
-| requirements | MED: 30 |
+| requirements | 30 MED |
 | damage | 15 + 4.5 BLD |
-| scaling | MED: 5 |
+| scaling | 5 |
 | range | 7.5 |
 | swing speed | 0.98x |
 | penetration | 10% |
@@ -26,7 +26,7 @@ categories: [Weapons, Clubs]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Bounties, The Depths, Ancient Rotlands, Chime of Conflict, Minityrsa, Songseeker Wilds, The Diluvian Mechanism |
-| description | ... |
+| description | "..." |
 
 ## Description
 

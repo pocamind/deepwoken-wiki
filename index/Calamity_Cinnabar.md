@@ -1,9 +1,9 @@
 ---
 title: Calamity Cinnabar
-revid: 94582
+revid: 103758
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Greatswords]
+categories: [In progress without reason, InProgressPages, Weapons, Greatswords, Exclusive]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

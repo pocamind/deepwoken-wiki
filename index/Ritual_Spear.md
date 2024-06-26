@@ -1,23 +1,23 @@
 ---
 title: Ritual Spear
-revid: 96316
+revid: 103717
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Spears]
+categories: [Weapons, Spears]
 ---
 
 # Ritual Spear
 
 | Ritual Spear | |
 |---|---|
-| type | Medium Weapon |
+| type | Spear |
 | requirements | 35 MED |
 | damage | 19 |
 | scaling | 5 MED |
 | range | 9 |
-| swing speed | 0,68x |
+| swing speed | 0.9x |
 | penetration | 25 |
-| special effect | N/A |
+| stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
@@ -38,9 +38,3 @@ The weapon itself is very similair to the [Iron Spear](Iron_Spear.md), having th
 -   Meeting the requirement of MED, the damage is (21.5)
 -   At max MED, the damage is (26.1)
 -   The [Etrean Guardsmen](Etrean_Guardsmen.md) and occasionally the [Legion Captain](Legion_Captain.md) use this weapon.
-
-## Gallery
-
-File:Ritual spear.png
-
-Etrean Weapon Store

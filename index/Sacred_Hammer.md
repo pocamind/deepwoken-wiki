@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 100249
+revid: 103737
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -15,11 +15,9 @@ categories: [Weapons, Clubs]
 | damage | 19.5 |
 | scaling | 7 |
 | range | 7 |
-| swing speed | 0.73x |
-| endlag | N/A |
+| swing speed | 0.97x |
 | penetration | 10% |
 | chip damage | 5% |
-| special effect | None |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
@@ -27,7 +25,7 @@ categories: [Weapons, Clubs]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Starswept Valley, Rogue Construct Chests, Primadon, Merchant Ships |
-| description | -- |
+| description | "..." |
 
 ## Description
 
@@ -40,3 +38,17 @@ The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](S
 -   **Not Recommended for PVE**, due to the loss of being able to instant guardbreak bosses, it has the lowest critical posture damage ingame along with all other instant guardbreak criticals, at around 2.
 -   Meeting the requirement of MED, the damage is (26.2)
 -   At max MED, the damage is (29.7)
+
+## Gallery
+
+### Enchantments
+
+**Curse of the Bloodthirsty:**
+
+**Gluttony:**
+
+**Providence's Thorns:**
+
+**Curse of the Unbidden:**
+
+**Blazing:**

@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 103243
+revid: 103731
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Unique Critical]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Hallowtide |
-| description | ... |
+| description | "..." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 96315
+revid: 103716
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -10,13 +10,14 @@ categories: [Weapons, Pages with broken file links, Spears]
 
 | Gremorian Longspear | |
 |---|---|
-| type | Medium Weapon |
+| type | Spear |
 | requirements | 20 MED |
 | damage | 18 |
 | scaling | 4 |
 | range | 9 |
-| swing speed | 0.68x |
+| swing speed | 0.9x |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
+| stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
@@ -24,11 +25,11 @@ categories: [Weapons, Pages with broken file links, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Navae Nomads in Etris, Erisia chests, Summer Isle chests |
-| description | Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness. |
+| description | "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness." |
 
 | Alloyed Gremorian Longspear | |
 |---|---|
-| type | Medium Weapon |
+| type | Spear |
 | requirements | 75 MED |
 | damage | 20 |
 | scaling | 5 |
@@ -36,6 +37,7 @@ categories: [Weapons, Pages with broken file links, Spears]
 | swing speed | 0.7x |
 | penetration | 10% |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
+| stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
@@ -43,13 +45,13 @@ categories: [Weapons, Pages with broken file links, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using Pluripotent Alloy on base weapon, Chime of Conflict |
-| description | Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness. |
+| description | "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness." |
 
 **Base:**
 
 **Alloyed:**
 
-> ## Description
+## Description
 
 The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [Navae Nomads](Eastern_Nomad.md) in [Etris](Etris.md), with a random chance of it being dropped, or from any chests.
 

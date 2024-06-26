@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 102768
+revid: 103725
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -10,21 +10,22 @@ categories: [Weapons, Spears]
 
 | Acheron's Warspear | |
 |---|---|
-| type | Medium Spear |
+| type | Spear |
 | requirements | 40 MED |
-| damage | 18+5.4 bleed |
-| scaling | MED: 6 |
+| damage | 18 + 5.4 BLD |
+| scaling | 6 |
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 15% |
-| selling price | N/A |
+| stances | 2 Handed, 1 Handed |
+| selling price | ? |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Corrupted King Thresher, layer 2 chests |
-| description | "" |
+| description | "..." |
 
 ## Description
 

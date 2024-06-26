@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 103519
+revid: 103790
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1, Locations, World]
@@ -18,7 +18,7 @@ The indomitable tower sprawls into the vast depths below, welcoming all to its s
 
   
 
-Template:AreainfoboxThe Chariot's Spire is an [Ignition Union](The_Ignition_Union.md) base within [Scyphozia](First_Layer.md). It is sparsely populated, and serves as a resupply point for Deepdelvers journeying into The [Eternal Gale](Second_Layer.md).
+The Chariot's Spire is an [Ignition Union](The_Ignition_Union.md) base within [Scyphozia](First_Layer.md). It is sparsely populated, and serves as a resupply point for Deepdelvers journeying into The [Eternal Gale](Second_Layer.md).
 
 ## Entrance Path
 
@@ -26,12 +26,12 @@ The entrance to The Chariot's Spire contains a large gate, with a barrier simila
 
 ## First Floor
 
-After climbing the ladder, you will find yourself in a small hallway with 3 Ignition Union Guards. There are three paths, a bridge to the left that will lead to the Ignition Deep-Drill, a door to your right that leads to the Second Floor, and a hallway that leads to two miscellaneous rooms, though one of them contains a Mantra Table.
+After climbing the ladder, you will find yourself in a small hallway with 3 Ignition Union Guards. There are three paths, a bridge to the left that will lead to the Ignition Deepdriller, a door to your right that leads to the Second Floor, and a hallway that leads to two miscellaneous rooms, though one of them contains a Mantra Modification Table.
 
 ## Second Floor
 
-The second floor is comprised of one room, presumably where the Ignition Union plans future expeditions into Layer 2. Within it are two Ignition Guards, and an Ignition Union Deepdelver who talks about the role he plays in the Union's efforts to explore the new layer.
+The second floor is comprised of one room, presumably where the Ignition Union plans future expeditions into Layer 2. Within it are two Ignition Guards, and a NPC named Deepdelver Gamma who talks about the role he plays in the Union's efforts to explore the new layer.
 
-## Ignition Deep-Drill
+## Ignition Deepdriller
 
-Taking the bridge from the First floor leads to the Ignition's Deep-Drill, their tool for punching into the [Eternal Gale](Second_Layer.md). Within the Drill's docking bay are two Ignition Union Guards, an NPC that mentions [Epsi](Epsi.md) in the depths, and another NPC closer to the Drill that declines your request to ride it.
+Taking the bridge from the First floor leads to the Ignition's Deepdriller, their tool for punching into the [Eternal Gale](Second_Layer.md). Within the Drill's docking bay are two Ignition Union Guards, a NPC named Renau that mentions [Epsi](Epsi.md) in the depths, and another guard named Deran closer to the Deepdriller that declines your request to ride it. This is the room the player will spawn in to upon escaping the Eternal Gale via Deepdriller.

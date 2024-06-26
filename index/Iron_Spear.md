@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 101632
+revid: 103715
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -11,12 +11,11 @@ categories: [Weapons, Spears]
 | Iron Spear | |
 |---|---|
 | type | Medium Spear |
-| requirements | N/A |
+| requirements | 0 MED |
 | damage | 17 |
 | scaling | 2.5 MED |
 | range | 9 |
 | swing speed | 0.9x |
-| penetration | N/A |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

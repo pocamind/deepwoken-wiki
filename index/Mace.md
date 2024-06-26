@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 97457
+revid: 103732
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -10,20 +10,22 @@ categories: [Weapons, Clubs]
 
 | Mace | |
 |---|---|
-| type | Medium |
+| type | Club |
+| requirements | 0 MED |
 | damage | 20 |
 | scaling | 5 |
 | range | 7.5 |
-| swing speed | 0.7x |
+| swing speed | 9.3x |
 | penetration | 5% |
-| selling price | 16 |
+| stances | 2 Handed, 1 Handed |
+| selling price | 14 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Weapon Shop in Etris and Erisia chests |
-| description | A simple blunt weapon effective at breaking guards. |
+| description | "A simple blunt weapon effective at breaking guards." |
 
 ## Description
 

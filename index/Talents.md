@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103684
+revid: 103800
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1065,7 +1065,7 @@ _**"I'm built different" - Cannot Give Talents**_
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
-    -   Prerequisites: 40 Light Weapon, 60 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
+    -   Prerequisites: 25 Light Weapon, 60 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
 
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon

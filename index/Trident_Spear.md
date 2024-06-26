@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 103639
+revid: 103722
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Unique Critical]
@@ -10,37 +10,39 @@ categories: [Weapons, Spears, Unique Critical]
 
 | Trident Spear | |
 |---|---|
-| type | Medium Weapon |
+| type | Spear |
 | requirements | 50 MED |
 | damage | 19 |
 | scaling | 6 |
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Depths, Summer Isle, Minityrsa, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing |
-| description | A surprisingly effective weapon despite its previous use by fishermen. |
+| description | "A surprisingly effective weapon despite its previous use by fishermen." |
 
 | Alloyed Trident Spear | |
 |---|---|
-| type | Medium Weapon |
+| type | Spear |
 | requirements | 85 MED |
 | damage | 19 |
 | scaling | 7 |
 | range | 9 |
 | swing speed | 0.69x |
 | penetration | 25% |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Use a pluripotent Alloy on base weapon, Chime of Conflict |
-| description | A surprisingly effective weapon despite its previous use by fishermen. |
+| description | "A surprisingly effective weapon despite its previous use by fishermen." |
 
 **Base:**
 

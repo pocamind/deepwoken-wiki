@@ -1,8 +1,11 @@
 ---
 title: Khan (NPC)
-revid: 102562
+revid: 103740
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages, NPCs]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Khan (NPC)

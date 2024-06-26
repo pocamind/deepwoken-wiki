@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 103650
+revid: 103772
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
@@ -56,3 +56,19 @@ pale briar crit
 **Sear:**
 
 File:SearPaleBriar.png
+
+**Chilling:**
+
+**Elastic:**
+
+**Gluttony:**
+
+**Metal:**
+
+**Stone:**
+
+**Detonation:**
+
+**Heroism:**
+
+**Umbral Knight:**

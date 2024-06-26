@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 102341
+revid: 103721
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Unique Critical]
@@ -19,14 +19,14 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | penetration | 10% |
 | special effect | Ranged Critical (ragdolls), Aerial Critical (slam, instant guard break), Running Critical (multi-hit) |
 | stances | 2 Handed, 1 Handed |
-| selling price | N/A |
+| selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest, Primadon (Gem Chest), Fishing |
-| description | Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation. |
+| description | "Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation." |
 
 ## Description
 

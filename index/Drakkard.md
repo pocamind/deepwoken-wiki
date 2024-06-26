@@ -1,9 +1,9 @@
 ---
 title: Drakkard
-revid: 103090
+revid: 103777
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Exclusive Races, Races]
+categories: [Pages with broken file links, Exclusive Races, Races, Exclusive, Developer Spec]
 ---
 
 # Drakkard

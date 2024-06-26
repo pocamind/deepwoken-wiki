@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 103605
+revid: 103805
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -163,6 +163,7 @@ Lightning Strike
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Aeon/Eternal Logstones** to increase the amount of projectiles summoned.
 -   Can be modified with **Crystal/Perfect Lenses** to increase range of projectiles' reach.
+-   Can be modified with **Drift Shard/Rush Shard** to decrease the amount of endlag (including feints).
 
  |
 |  | 
@@ -290,7 +291,7 @@ Thunder Wisp
 Spark Swap  
 (★★★)
 
- | Swap places with a selected target. | \[\] Ether | After a short delay and indicator, instantly swap location with whatever target your cursor is on.
+ | Swap places with a selected target. | 10 Ether | After a short delay and indicator, instantly swap location with whatever target your cursor is on.
 
 -   Range scales with current health.
 -   This can be used on NPCs, players or monsters.

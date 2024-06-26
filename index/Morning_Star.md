@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 97087
+revid: 103734
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -11,11 +11,11 @@ categories: [Weapons, Clubs]
 | Morning Star | |
 |---|---|
 | type | Club |
-| requirements | MED: 50 |
+| requirements | 50 MED |
 | damage | 16 + 4.8 BLD |
-| scaling | MED: 5.5 |
+| scaling | 5.5 |
 | range | 7.5 |
-| swing speed | 0.74x |
+| swing speed | 0.98x |
 | penetration | 20% |
 | chip damage | 20% |
 | stances | 2 Handed, 1 Handed |
@@ -26,7 +26,7 @@ categories: [Weapons, Clubs]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Chime of Conflict, Voidwalker Bounties |
-| description | ... |
+| description | "..." |
 
 ## Description
 

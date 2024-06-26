@@ -1,8 +1,9 @@
 ---
 title: Trig
-revid: 103583
+revid: 103742
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Trig
