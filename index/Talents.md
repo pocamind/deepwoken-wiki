@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 103823
+revid: 103887
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -283,7 +283,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
-    -   ~25-40% tempo gain, ~40-75% ether gain, ~1-2% blood gain, ~10% health gain (Needs testing)
+    -   40% tempo gain, ~40-75% ether gain, ~1-2% blood gain, 5% health gain (Needs testing)
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)

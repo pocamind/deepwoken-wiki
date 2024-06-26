@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 103607
+revid: 103909
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -99,10 +99,10 @@ _Summon a legion of flaming spearmen that lunge inwards._
 
 -   Deals moderate damage.
 -   Inflcits Burn.
+-   Deals exactly 20 posture damage
 -   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras).
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors.
--   Can be modified with a reversal spark to have the warriors attack outwards and rag doll.
--   Deals exactly 20 posture damage
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and rag doll.
 
  |
 |  | 
@@ -121,12 +121,12 @@ _A bullet of flames shot through each hand._
 -   No Cooldown.
 -   Inflicts Burn.
 -   Breaks certain tiles.
+-   Fire bullets can light campfire pits.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
--   Adding a Round Spark causes the bullets to split in 2 after an unknown duration.
--   Adding a Blast Spark causes bullets to occasionally explode when hitting an enemy, but will greatly reduce the base damage of the mantra.
--   Fire bullets can light campfire pits
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md), causing the bullets to split in 2 after an unknown duration.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to occasionally explode when hitting an enemy, but will greatly reduce the base damage of the mantra.
 
  |
 |  | 
@@ -222,10 +222,11 @@ _Toss a nimble dagger._
 
 -   Does not inflict Burn.
 -   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to make it throw 5 daggers in a straight line
 
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to make it throw 5 daggers in a straight line
 
  |
 | 
@@ -270,12 +271,6 @@ Rising Flame
 
 (★★☆)
 
-  
-
-  
-
-  
-
  | 
 
 _A rising tornado of flames._
@@ -294,12 +289,6 @@ _A rising tornado of flames._
 Ash Slam
 
 (★★★)
-
-  
-
-  
-
-  
 
  | 
 
@@ -324,11 +313,10 @@ _Strike the ground, turning it to ash._
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage increases with each charge.
     -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Has a unique effect where it ricochets when blocked.
--   Adding a spring spark makes it so that you float for a short time while charging Flame Ballista.
 -   Fires where cursor is aimed.
 -   Inflicts burn.
 -   Homes onto enemies.
--   "Fuga.."
+-   Can be modified with a spring spark, making it so that you float for a short time while charging Flame Ballista.
 
  |
 |  | Flaming Scourge
@@ -360,14 +348,6 @@ Flame Leap
 
   
 
-  
-
-  
-
-  
-
-  
-
  | 
 
 _Leap up leaving behind a burst of flames._
@@ -375,10 +355,10 @@ _Leap up leaving behind a burst of flames._
  | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
--   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
 -   Is able to proc _Meteor Impact,_ as long as the initial leap hits, the opponent(s) are sent upwards with you and the mantra is not modified with [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 -   Shares similar traits to the Strong Leap mantra.
 -   The Mantra will not summon flames nor do damage if used in [bodies of water](https://deepwoken.fandom.com/wiki/The_Depths).
+-   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
 
  |
 |  | Flame Assault
@@ -407,10 +387,6 @@ Flame Wisp
 
   
 
-  
-
-  
-
  | 
 
 _A servant of flames._
@@ -435,12 +411,6 @@ Graceful Flame
 
   
 
-  
-
-  
-
-  
-
  | 
 
 _Conjure an undying flame for the caster and their comrades to rest by._
@@ -460,14 +430,6 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 Flame of Denial
 
 (☆☆☆)
-
-  
-
-  
-
-  
-
-  
 
   
 

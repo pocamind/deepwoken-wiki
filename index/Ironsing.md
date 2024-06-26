@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 101268
+revid: 103908
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -279,7 +279,7 @@ Does not negate deferred, fire or fall damage.
  | Manifest chains to brutally pull enemies towards you. | 50 Ether | Conjure a chain of metal from the right hand that pulls in any targets from the cursor.
 
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
--   Adding a reverse spark will knock enemies away.
+-   Can be modified with a reversal spark, making it knock enemies away.
 
  |
 | 

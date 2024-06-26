@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 101540
+revid: 103937
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -145,8 +145,6 @@ Shadow Roar
  |
 | 
 
-File:Seekers.gif
-
  | 
 
 Rising Shadow  
@@ -185,13 +183,9 @@ Shade Bringer
 
  | 50 Ether | User creates a large black sword from their hands, using it to slash the enemy in front of them.
 
--   Adding 1 spring spark will instead lunge you forward and slam down on the enemy.
-
--   Adding 1 multiplying spark will slash three times instead of once.
-
--   You **can** combine spring and multiplying sparks on this Mantra
-
-  
+-   Can be modified with a spring spark, making you lunge forward and slam down on the enemy.
+-   Can be modified with a multiplying spark, making you slash three times instead of once.
+-   You **can** combine spring and multiplying sparks on this Mantra.
 
  |
 | 
@@ -229,8 +223,6 @@ Shadow Vortex
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
 | 
-File:ShadowDevour.gif
-
  | 
 
 Shade Devour  

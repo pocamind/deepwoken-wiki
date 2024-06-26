@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 98659
+revid: 103900
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -36,3 +36,4 @@ This Outfit's Schematic can be found at:
 -   [https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt](https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt)
 -   [https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants](https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants)
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit
+-   [Plath](Plath.md) wears this outfit.

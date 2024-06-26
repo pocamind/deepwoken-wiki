@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 103805
+revid: 103918
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -51,9 +51,9 @@ Lightning Blade
 -   Deals moderate damage.
 -   10 Second Cooldown.
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 -   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 
  |
 |  | 
@@ -65,11 +65,11 @@ Jolt Grab
 
 -   Deals moderate damage.
 -   10 Second Cooldown.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to cause the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
     -   Activates only when the cursor is locked onto a target.
     -   Knockdown is also removed for the mantra variant.
     -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
     -   Can be additionally modified with **Crystal/Perfect Lenses** to increase the range of the AoE hitbox.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
 
  |
 |  | 
@@ -193,7 +193,6 @@ Storm Blades
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
     -   Good for isolating a target for a 1v1 situation.
-    -   Similar effect to that of Frostdraw's **Round Spark** modified [Ice Eruption](Mantra_Modifiers.md) mantra.
 
  |
 |  | 
@@ -321,9 +320,7 @@ Lightning Assault
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
-| 
-
- | 
+|  | 
 
   
 Lightning Cloak  
@@ -337,8 +334,6 @@ Lightning Cloak
     -   Can be modified with **Aeon/Eternal Logstones** to make the dashes go further.
 
  |
-
-  
 
 ## Talents
 

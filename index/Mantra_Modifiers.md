@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 103322
+revid: 103939
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -653,8 +653,6 @@ Frost Grab
 
  | 
 
-File:Frostgrab base range.gif
-
  | 
 
 File:Frost Grab with Blast Spark.gif
@@ -723,8 +721,6 @@ Lightning Clones
 
  | 
 
-File:Lightning Clones with Blast Spark.gif
-
  | 
 
 -   This modifier causes the clones in the "Lightning Clones" mantra to explode on death.
@@ -739,8 +735,6 @@ Lightning Stream
  | 
 
  | 
-
-File:Lightning Stream with Blast Spark.gif
 
  | 
 
@@ -757,8 +751,6 @@ Wind Gun
  | 
 
  | 
-
-File:Wind Gun with Blast Spark.gif
 
  | 
 
@@ -790,8 +782,6 @@ Rising Shadow
 (☆☆☆)
 
  | 
-
-File:Rising-Shadow.gif
 
  | 
 
@@ -844,8 +834,6 @@ Needle Barrage
 
  | 
 
-File:Needle barrage blast spark 2.gif
-
  | 
 
 -   This modifier causes the Needle Barrage mantra to fire more needles, but removing the initial jump. This version of the mantra also keeps your momentum.
@@ -860,8 +848,6 @@ Firing Line
  | 
 
  | 
-
-File:Firing line blast spark 2.gif
 
  | 
 

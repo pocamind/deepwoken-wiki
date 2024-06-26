@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 103585
+revid: 103869
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -601,12 +601,28 @@ Confirmed to temporarily steal the enchant of the enemy on hit, allowing the use
 
   
 **Unobtainable**  
-**Confirmed by Yayafino**  
-**Not a Dev Spec.....**
+**Confirmed by Yayafino**
 
  | 
 
 Static flaming purple.
+
+ |
+| 
+
+  
+(OLD) Blazing
+
+ | 
+
+**March 29th, 2024**  
+Upon landing any attack from your weapon, light the opponent on fire with a 2 second cooldown. This can be used to trigger Flamecharm talents.  
+Lava Serpent will create an explosion instead of creating a fire.  
+Twisted Puppets will summon a puppet instead of creating a fire.
+
+ | 
+
+Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.
 
  |
 

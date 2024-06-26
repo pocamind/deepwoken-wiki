@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 103831
+revid: 103872
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -31,8 +31,10 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
--   A [Resonance](Resonance.md)
+-   A [Resonance](Resonance.md)\*
 -   [Pleeksty's Will](Talents.md#inferno) talent or [Flame Worshipper Armor](Flame_Worshipper_Armor.md)
+
+\*A resonance is only required to go through the doors, if you go through the doors via clipping, you do not need to have a resonance.
 
 ## Moveset
 
