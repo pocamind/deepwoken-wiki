@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 101998
+revid: 103698
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -87,4 +87,4 @@ This will auto-grip you if hit by it at low health.
 -   The Cero is Galebreathe based.\[citation needed\]
 -   If you use a sea highway, even a dinghy can outrun them.
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
--   Glacial Lionfish can spawn in the overworld in extremely rare occasions. If this happens, it's able to use its Cero unlike the normal variant of of the Lionfish.
+-   Glacial Lionfish can spawn in the overworld in extremely rare occasions. If this happens, it's able to use its Cero unlike the normal variant of the Lionfish.

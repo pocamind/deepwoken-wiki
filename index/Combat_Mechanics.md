@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 100569
+revid: 103693
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -329,11 +329,15 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 
 ## Status Effects
 
+_Status Effects are present throughout the game, whether it be fighting or exploring, e.g. being engulfed in flames by [Flamecharm](Flamecharm.md) Mantras or stepping in acid pools in [Erisia](Erisia.md)._
+
+_Main article: [Status Effects](Status_Effects.md)_
+
 <table>
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>Represented by torn-up clothes of the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>.<p>Occurs when armor durability reaches 0%.</p></td>
+  <td>Represented by torn-up clothes of the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>.<p>Occurs when armor durability reaches below 0%.</p></td>
   <td></td>
 </tr>
 <tr>

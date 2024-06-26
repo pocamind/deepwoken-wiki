@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 94554
+revid: 103695
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
