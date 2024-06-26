@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 94816
+revid: 103821
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Death, Mechanics, Character]

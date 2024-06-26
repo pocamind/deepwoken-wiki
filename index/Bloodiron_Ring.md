@@ -1,6 +1,6 @@
 ---
 title: Bloodiron Ring
-revid: 103276
+revid: 103806
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -25,4 +25,4 @@ categories: [Armors, Equipment, Rings]
 
 ## Description
 
-Bloodiron Ring is a Ring [Equipment](Equipment.md) piece of equipment in Deepwoken. Placeholder. It is basically the talent [Bloodiron Spirit](Talents.md) but put into a ring.
+Bloodiron Ring is a Ring [Equipment](Equipment.md) piece of equipment in Deepwoken. It is the talent [Bloodiron Spirit](Talents.md) but put into a ring also stacking it if you have the talent.

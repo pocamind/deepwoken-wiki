@@ -1,9 +1,9 @@
 ---
 title: Aska
-revid: 103713
+revid: 103831
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
+categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
 ---
 
 # Aska
@@ -12,6 +12,10 @@ categories: [Pages with broken file links, NPCs, Layer 2, Floor 1, Weapons, Boss
 |---|---|
 | name | Aska |
 | location | Firfire |
+
+“ KINDLE ANEW AND RETURN TO THE FLAME ”
+
+― Aska
 
 ## Description
 
@@ -186,7 +190,8 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 -   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
 -   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.
--   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire. Aska with his arm of fire.
+-   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire.
+-   He has anti-blockbreak talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). Dear god.
 -   Aska's Outfit:
     -   [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)
     -   [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 103682
+revid: 103852
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -111,21 +111,20 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   </ul></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><figure>File:Untitled video - Made with Clipchamp.gif<figcaption><p>A devastating kick delivered into the ground while using the round spark mod</p></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Skyshatter Kick<p>(☆☆☆)</p></td>
   <td><i>Unleash two devasting kicks with your brute strength.</i></td>
   <td>120 Ether</td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
+    <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i>
+  <ul>
     <li>Does MASSIVE damage upon hit, and has a range of 20 studs.</li>
     <li>Can be parried, blocked and dodged.</li>
-  </ul>
-  <ul>
     <li>Has long wind-up.</li>
-  </ul>
-  <ul>
-    <li>Note: Skyshatter kick can be modified with a Round spark to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)</li>
+    <li>Skyshatter kick can be modified with a <a href="Mantra_Modifiers.md">Round Spark</a> to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)</li>
+    <li></li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
@@ -193,7 +192,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   Shoulder Bash scales with your Fortitude attribute.
     -   The charge is cancelled upon getting parried or dodged.
     -   Can collide with and break parts of the map.
-    -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
+    -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
 
  |
 
@@ -235,7 +234,8 @@ File:Dash Mantra Demonstration.gif
     -   Range significantly decreases as the user loses health.
     -   Canceled by attacking.
     -   Upgrading makes the dash longer.
-    -   Can be upgraded with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
+    -   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
+    
 
  |
 | 

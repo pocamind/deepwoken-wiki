@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 102862
+revid: 103849
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -112,6 +112,7 @@ Check the rest out for yourself, canonically smells really bad
  | Teaches new players the basics of the game | Gives different dialogue if you have the Castaway origin who has done the tutorial |
 | Pete | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Petris](Petris.md) | Unaligned, possibly Etrea | [The Depths](First_Layer.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
+| [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |  |
 | [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
