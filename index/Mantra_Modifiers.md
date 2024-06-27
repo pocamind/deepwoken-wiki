@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 103969
+revid: 104066
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -84,7 +84,7 @@ Stratus Stone
 -   Threshers
 
  |
-| File:Crystal lens new.png | 
+|  | 
 
 Crystal Lens
 
@@ -108,7 +108,7 @@ Crystal Lens
 -   Brainsuckers
 
  |
-| File:Perfect Lens New.png | 
+|  | 
 
 Perfect Lens
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 103708
+revid: 104071
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,16 +29,14 @@ If you have obtained Oathless, you may speak to Cerulean again to permanently un
 
 Aforementioned log tunnel
 
+  
 Though order does not matter, the following order is recommended.
 
 -   Viridian is located at [Fort Merit](Fort_Merit.md), in a house near the elevator.
-    
 
 -   Saffron is located at [Meteor Isle](Meteor_Isle.md), in a 2-story house.
-    
 
 -   Celadon is located at [Summer Isle](Summer_Isle.md), on the second floor of the guildhall.
-    
 
 After talking to all three of their disciples, return to Cerulean to receive the Oath.
 

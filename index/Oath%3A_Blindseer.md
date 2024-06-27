@@ -1,9 +1,9 @@
 ---
 title: "Oath: Blindseer"
-revid: 103354
+revid: 104054
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oath: Blindseer
@@ -62,7 +62,6 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
-    -   File:Mindsoothe final.gif
 
 -   **Tranquil Circle - Support Mantra**
     -   Disables mantras from being used in its radius.
@@ -81,7 +80,6 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portal.
     -   With this talent, the [Tacet Murmur](Murmur.md#murmur-tacet) is completely nullified, allowing you to see cloaked players normally.
     -   Obtainment: 4 Pathfinders helped in the Depth Trial (must be alive)
-    
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
@@ -96,7 +94,6 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
     -   You can run during the windup, but can only walk while the beam is active.
     -   Once the beam starts firing the user gain immunity to all forms of stun, including [Thundercall](Thundercall.md), meaning the user is the only person capable of stopping the beam early.
     -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
-    -   File:Sightless beam final.gif
 
 ## Notes
 

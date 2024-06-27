@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 103909
+revid: 104062
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -216,9 +216,13 @@ Fire Forge
 
 _Toss a nimble dagger._
 
- | User throws 3 quick burning daggers.
+ | 
+
+-   User throws 3 quick burning daggers.
 
 -   Deal light damage.
+
+-   Can be modified with Crystal/Perfect lens to make the daggers move faster
 
 -   Does not inflict Burn.
 -   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.

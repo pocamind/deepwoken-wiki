@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 102583
+revid: 104074
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -54,27 +54,23 @@ The order of mantras goes as follows: Ascension, Sinister Halo, Celestial Assaul
     -   If undyed, comes in the color of your race's hair color.
     -   The mantra **[Fire Blade](Flamecharm.md)** now launches the user upward before releasing a large plume of flames.
 
-| Mantra Type | Media | Name | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| Combat |  | **Ascension** |  | 
--   The user rises into the air before swooping in.
--   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
--   Applies hard knockdown on hit.
--   This attack cannot be modified. Wayward Gem will not proc.
--   Can knockdown any enemy ingame.
+* * *
 
- |
-| Combat |  | **Celestial Assault** |  | 
+-   **Ascension** **\- Combat Mantra**
+    -   _Description_
+        -   The user rises into the air before swooping in.
+        -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
+        -   Applies hard knockdown on hit.
+        -   This attack cannot be modified. Wayward Gem will not proc.
+        -   Can knockdown any enemy ingame.
 
--   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+-   **Celestial Assault** **\- Combat Mantra**
+    -   _Description_
+        -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
 
- |
-| Combat |  | **Sinister Halo** |  | 
-
--   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
-    -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
-
- |
+-   **Sinister Halo** **\- Combat Mantra**
+    -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
+        -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
 
 ## Effects
 
