@@ -1,6 +1,6 @@
 ---
 title: Plath
-revid: 103844
+revid: 103961
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 2]
@@ -15,7 +15,7 @@ categories: [NPCs, Layer 2, Floor 2]
 
 ## Description
 
-A [Celtor](Celtor.md) in the [Kyrsan Wilds](Kyrsan_Wilds.md), wearing the [Verdant Sniper](Verdant_Sniper.md) [outfit](Outfits.md). Having made the opening in the glass roof into the [Great Library of New Kyrsa](https://deepwoken.fandom.com/wiki/New_Kyrsa,_The_Sleeping_City#Great_Library_of_New_Kyrsa), telling the player to avoid being spotted and being targeted by the Kyrsgarde artillery. Pointing them to a way into New Kyrsa.
+A [Celtor](Celtor.md) in the [Kyrsan Wilds](Kyrsan_Wilds.md), wearing the [Verdant Sniper](Verdant_Sniper.md) [Outfit](Outfits.md). They made the opening in the glass roof into the [Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md#great-library-of-new-kyrsa), and tells the player to avoid being spotted and being targeted by the Kyrsgarde artillery, pointing them to a way into New Kyrsa.
 
 ## Dialogue
 
@@ -64,5 +64,4 @@ A [Celtor](Celtor.md) in the [Kyrsan Wilds](Kyrsan_Wilds.md), wearing the [Verda
 
 ## Trivia
 
--   Plath is referred to with They/Them Pronouns.
 -   They are old, at least 70+ as seen from being in Stage 4 of [aging](Age.md).

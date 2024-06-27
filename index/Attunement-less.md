@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 103852
+revid: 103954
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -220,8 +220,6 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
 
  |
 | 
-
-File:Dash Mantra Demonstration.gif
 
  | Dash
 

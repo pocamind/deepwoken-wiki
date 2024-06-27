@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 103939
+revid: 103969
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -868,8 +868,6 @@ Ice Forge
 
  | 
 
-File:Ice Forge.gif
-
  | 
 
  | 
@@ -887,8 +885,6 @@ Jolt Grab
 
  | 
 
-File:Jolt Grab with Magnet Spark.gif
-
  | 
 
 -   This modifier changes "Jolt Grab" mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
@@ -904,8 +900,6 @@ Lightning Blade
  | 
 
  | 
-
-File:Lightning Blade with Magnet Spark.gif
 
  | 
 
@@ -926,21 +920,6 @@ Electro Carve
  | 
 
 -   This modifier causes "Electro Carve" mantra to be thrown as a projectile if hit by the projectile the target will make 3 sound queues before discharging electric waves that deal AoE damage.
-
- |
-| 
-
-Lightning Stream
-
-(★☆☆)
-
- | 
-
- | 
-
- | 
-
--   This causes the "Lightning Stream" mantra to pull to closest enemy towards you.
 
  |
 | 
@@ -1008,8 +987,6 @@ Grand Javelin
 
  | 
 
-File:GrandJavelinMultiplyingSpark2.gif
-
  | 
 
 -   This modifier causes the projectile from the "Grand Javelin" mantra to split into 3 smaller projectiles that fire off into different directions.
@@ -1039,8 +1016,6 @@ Wind Gun
  | 
 
  | 
-
-File:Wind Gun with Multiplying Spark.gif
 
  | 
 
@@ -1110,9 +1085,9 @@ Fire Blade
 
  | 
 
-File:Starkindred FireBlade.gif
-
  | 
+
+File:Starkindred FireBlade.gif
 
  | 
 
@@ -1129,8 +1104,6 @@ Burning Servants
 
  | 
 
-File:Burning servants Reversal Spark gif.gif
-
  | 
 
 -   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards. This modifiers also grants your burning servants to deal ragdoll to enemies.
@@ -1145,8 +1118,6 @@ Flame Leap
  | 
 
  | 
-
-File:Flame Leap with Reversal Spark.gif
 
  | 
 
@@ -1174,6 +1145,21 @@ File:Frozen servants reversal spark 3.gif
  |
 | 
 
+Lightning Stream
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This causes the "Lightning Stream" mantra to pull to closest enemy towards you.
+
+ |
+| 
+
 Lightning Impact
 
 (★★☆)
@@ -1181,8 +1167,6 @@ Lightning Impact
  | 
 
  | 
-
-File:Lightning Impact with Reversal Spark.gif
 
  | 
 
@@ -1224,21 +1208,6 @@ File:Tornado with Reversal Spark.gif
  |
 | 
 
-Revenge
-
-(☆☆☆)
-
- | 
-
- | 
-
- | 
-
--   This modifier is compatible with the "Revenge" mantra, causing it to deal no damage, but always teleport.
-
- |
-| 
-
 Chain Pull
 
 (☆☆☆)
@@ -1267,8 +1236,6 @@ Fire Gun
  | 
 
  | 
-
-File:Fire Gun with Round Spark.gif
 
  | 
 
@@ -1319,8 +1286,6 @@ Skyshatter Kick
 
  | 
 
-File:Sky shatter kick with round spark.gif
-
  | 
 
 -   This modifier causes the user to kick into the ground. If landed, both the user and the player was hit fly into the air similarly to an uppercut.
@@ -1341,8 +1306,6 @@ Flame Ballista
  | 
 
  | 
-
-File:FlameBallistaSpringSpark4.gif
 
  | 
 
@@ -1442,8 +1405,6 @@ Dash
 
  | 
 
-File:Dash with Spring Spark.gif
-
  | 
 
 -   This modifier shortens the "Dash" mantra's travel distance but increases it's uses from 1 to 2.
@@ -1467,22 +1428,7 @@ Fire Forge
 
  | 
 
--   (Work in Progress)
-
- |
-| 
-
-Champion's Whirlthrow
-
-(★★☆)
-
- | 
-
- | 
-
- | 
-
--   (Work in Progress)
+-   This modifier causes you to spin in a tornado of fire, making you shoot fire daggers in quick succession.
 
  |
 | 
@@ -1494,8 +1440,6 @@ Storm Blades
  | 
 
  | 
-
-File:Storm Blades with Tornado Spark.gif
 
  | 
 

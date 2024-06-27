@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 103919
+revid: 103967
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -203,6 +203,7 @@ Wind Forge
 -   Medium-far range.
 -   Forces you to stand still when casted.
 -   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md), making the blades shoot out from different directions.
 
  |
 | 
