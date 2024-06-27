@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 103641
+revid: 103974
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Unique Critical]
@@ -23,7 +23,7 @@ categories: [Weapons, Greataxes, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, The Depths, Blacksteel Pirate |
-| description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
+| description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
 
 | Alloyed Halberd | |
 |---|---|
@@ -41,7 +41,7 @@ categories: [Weapons, Greataxes, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on base weapon, The Depths, Chime of Conflict |
-| description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
+| description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
 
 **Base:**
 

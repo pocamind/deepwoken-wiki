@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 102346
+revid: 103983
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Unique Critical]
@@ -10,20 +10,22 @@ categories: [Weapons, Greataxes, Unique Critical]
 
 | Relic Axe | |
 |---|---|
-| type | Heavy Greataxe |
+| type | Greataxe |
 | requirements | 75 HVY |
 | damage | 25 |
-| scaling | 9 HVY |
+| scaling | 9 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | penetration | 25% |
 | chip damage | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Desert KnightsRoughly 10% |
+| description | "..." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 102352
+revid: 103997
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Unique Critical]
@@ -10,22 +10,22 @@ categories: [Weapons, Greatswords, Unique Critical]
 
 | Kyrscleave | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Greatsword |
 | requirements | 75 HVY |
-| damage | 24 |
+| damage | 24 + ? BLD |
 | scaling | 8.5 |
 | range | 9 |
 | swing speed | 0.81x |
 | endlag | 0.1s |
 | chip damage | 10% |
-| special effect | Bleed |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 Chests |
-| description | ... |
+| description | "..." |
 
 ## Description
 

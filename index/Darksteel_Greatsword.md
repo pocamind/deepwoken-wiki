@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 102350
+revid: 103992
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical]
@@ -10,42 +10,42 @@ categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical
 
 | Darksteel Greatsword | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Greatsword |
 | requirements | 40 HVY, 10 STR |
 | damage | 26 |
 | scaling | 7 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| penetration | 0% |
 | special effect | Full hyperarmor critical that applies knockback. |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Hive, Summer Isle, Farming Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022) Depths, Tower Event, bought from Miner's Landing and PVP Arena chests |
-| description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
+| description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
 
 | Darkalloy Greatsword | |
 |---|---|
-| type | Heavy Greatsword |
-| requirements | 75 HVY, 10 STR |
+| type | Greatsword |
+| requirements | 75 HVY , 10 STR |
 | damage | 26 |
 | scaling | 7.5 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| penetration | 0% |
 | chip damage | 10% |
-| special effect | N/A |
+| special effect | Full hyperarmor critical that applies knockback. |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Pluripotent Alloy use, PVP Arena chests, Pure Astruline turn-in |
-| description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
+| description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
 
 **Base:**
 

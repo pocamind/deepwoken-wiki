@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 101626
+revid: 103993
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -10,21 +10,21 @@ categories: [Weapons, Greatswords]
 
 | Inquisitor's Greatsword | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Greatsword |
 | requirements | 40 HVY |
 | damage | 23.5 |
 | scaling | 8.3 |
 | range | 9 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
-| chip damage | N/A |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rogue Construct, Primadon, Crypt of the Unbroken, Merchant Ships |
-| description | ... |
+| description | "..." |
 
 ## Description
 

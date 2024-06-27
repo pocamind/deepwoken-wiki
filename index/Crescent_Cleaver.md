@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 102349
+revid: 103996
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Unique Critical]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords, Unique Critical]
 |---|---|
 | type | Greatsword |
 | requirements | 40 HVY, 10 STR |
-| damage | 22 |
+| damage | 22 + ? BLD |
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.8x |
@@ -30,7 +30,7 @@ categories: [Weapons, Greatswords, Unique Critical]
 |---|---|
 | type | Greatsword |
 | requirements | 75 HVY, 10 STR |
-| damage | 22 |
+| damage | 22 + ? BLD |
 | scaling | 9.5 |
 | range | 9 |
 | swing speed | 0.8x |

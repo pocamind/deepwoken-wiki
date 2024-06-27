@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 97874
+revid: 104014
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -52,7 +52,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer Miner's Landing |
+| obtainment | Chests from:, Second Layer, Miner's Landing, Maestro Evengarde Rest, Duke Erisia (not confirmed) |
 | description | "..." |
 
 | Fleet Warden Cape | |
@@ -84,7 +84,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds |
+| obtainment | Chests from:, Duke Erisia |
 | description | "..." |
 
 **Cape:**

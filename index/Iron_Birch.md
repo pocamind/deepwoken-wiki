@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 100071
+revid: 103978
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -10,12 +10,13 @@ categories: [Weapons, Greataxes]
 
 | Iron Birch | |
 |---|---|
-| type | Heavy Greataxe |
+| type | Greataxe |
 | requirements | 55 HVY |
 | damage | 26 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.64x |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
@@ -23,11 +24,19 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from Minityrsa, Starswept Valley, Depths, Primadon, & Merchant Ships, Fishing (Brown chests) |
-| description | The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes. |
+| description | "The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes." |
 
 ## Description
 
 The Iron Birch is a [Heavy Weapon](Weapons.md) that is obtainable from [Minityrsa](Minityrsa.md), the [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Primadon](Primadon,_Titan_of_the_East.md) Chests, Or bought from a [Merchant Ship](Travelling_Merchant.md). Considered one of the best heavy weapons due to it's unusually high swing speed, lack of endlag, and overall good damage.
+
+## Gallery
+
+### Enchantments
+
+**Storm:**
+
+**Chilling (Standard):**
 
 ## Trivia
 

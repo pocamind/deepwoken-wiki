@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 101710
+revid: 103988
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -10,15 +10,14 @@ categories: [Weapons, Greatswords]
 
 | Zweihander | |
 |---|---|
-| type | Heavy Weapon |
+| type | Greatsword |
 | requirements | 20 HVY, 10 STR |
 | damage | 22 |
 | scaling | 7 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| penetration | N/A |
-| special effect | N/A |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 14 |
 | weight | 7 |
 | bankable | Yes |
@@ -35,10 +34,9 @@ categories: [Weapons, Greatswords]
 | damage | 23 |
 | scaling | 10 |
 | range | 9 |
-| swing speed | 0.62x |
+| swing speed | 0.83x |
 | endlag | 0.1s |
 | penetration | 10% |
-| special effect | N/A |
 | selling price | 50 |
 | weight | 7 |
 | bankable | Yes |
@@ -50,13 +48,11 @@ categories: [Weapons, Greatswords]
 
 **Base:**
 
+**Alloyed:**
+
 ## Description
 
 The **Zweihander** is a Heavy Greatsword that deals a Base Damage of 22 with 7 Scaling and 9 Range. The **Zweihander** can be purchased in the weapons shop of [Etris](Etris.md) or found through chests in [Lower Erisia](Lower_Erisia.md). This weapon **can** be alloyed, raising the stats to match late game tier weaponry. Like any other greatsword, you get hyper armor if you swing after a parry.
-
-## Gallery
-
-**Alloyed:**
 
 The alloyed version of the Zweihander, obtained by using the Pluripotent Alloy on the regular version, increasing its stats and giving it a purple hue.
 

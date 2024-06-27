@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 101660
+revid: 103979
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Ministry NecromancerVoidwalker Bounty Chests |
-| description | ... |
+| description | "..." |
 
 ## Description
 

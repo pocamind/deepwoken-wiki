@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 101706
+revid: 103982
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -10,21 +10,22 @@ categories: [Weapons, Greataxes]
 
 | Master Hawk's Handaxe | |
 |---|---|
-| type | Great Axe |
+| type | Greataxe |
 | requirements | 75 HVY |
 | damage | 24 |
-| scaling | 10 HVY |
+| scaling | 10 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | penetration | 5% |
 | chip damage | 25% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starswept Valley, Minityrsa, Etris: Siege, Merchant Ships, The Aratel Sea |
-| description | - |
+| description | "..." |
 
 ## Description
 

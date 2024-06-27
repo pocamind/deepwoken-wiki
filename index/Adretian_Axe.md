@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 101613
+revid: 103975
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -23,7 +23,7 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort Merit, First Layer, Duke Erisia, Primadon |
-| description | A bound axe in the typical Adretian fashion. |
+| description | "A bound axe in the typical Adretian fashion." |
 
 | Adretian Axe | |
 |---|---|
@@ -42,7 +42,7 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on base weapon |
-| description | A bound axe in the typical Adretian fashion. |
+| description | "A bound axe in the typical Adretian fashion." |
 
 **Base:**
 

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 103796
+revid: 104011
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -77,11 +77,11 @@ Unlike [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), it does not proc burn on
 
 ## Critical
 
-Pleeksty's Inferno has **two** different criticals.
+Pleeksty's Inferno has TWO different criticals.
 
 For the **standing** critical, the user plunges their club into the ground, creating a small eruption and flourishing the weapon afterwards.
 
-For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile in front of them.
+For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile in front of them. **jumping before this crit will make the projectile shoot straight downward**.
 
 Both criticals share a cooldown of **8 seconds** and can proc Flamecharm talents.
 

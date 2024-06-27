@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 101807
+revid: 103976
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -10,12 +10,13 @@ categories: [Weapons, Greataxes]
 
 | Canorian Axe | |
 |---|---|
-| type | Heavy Greataxe |
+| type | Greataxe |
 | requirements | 35 HVY |
 | damage | 24 |
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.83x |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
 | weight | 6 |
 | bankable | Yes |
@@ -23,11 +24,11 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Chili |
-| description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
+| description | "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire." |
 
 | Alloyed Canorian Axe | |
 |---|---|
-| type | Heavy Greataxe |
+| type | Greataxe |
 | requirements | 75 HVY |
 | damage | 24 |
 | scaling | 9 |
@@ -35,6 +36,7 @@ categories: [Weapons, Greataxes]
 | swing speed | 0.83x |
 | penetration | 20% |
 | chip damage | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 8 |
 | bankable | Yes |
@@ -42,7 +44,7 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Use a Pluripotent Alloy on the base weapon |
-| description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
+| description | "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire." |
 
 **Base:**
 

@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 101664
+revid: 103985
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt (Hallowtide NPC) |
-| description | The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves. |
+| description | "The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves." |
 
 ## Description
 

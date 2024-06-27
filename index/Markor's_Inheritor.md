@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 102348
+revid: 103990
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Unique Critical]
@@ -10,7 +10,7 @@ categories: [Weapons, Greatswords, Unique Critical]
 
 | Markor's Inheritor | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Greatsword |
 | requirements | 30 HVY, 10 STR |
 | damage | 24.5 |
 | scaling | 7 |
@@ -18,6 +18,7 @@ categories: [Weapons, Greatswords, Unique Critical]
 | swing speed | 0.85x |
 | endlag | 0.1s |
 | special effect | Has a Navae fist style critical. |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,15 +29,16 @@ categories: [Weapons, Greatswords, Unique Critical]
 
 | Alloyed Inheritor | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Greatsword |
 | requirements | 75 HVY, 10 STR |
 | damage | 24 |
 | scaling | 8 |
 | range | 8.5 |
-| swing speed | 0.64x |
+| swing speed | 0.85x |
 | endlag | N/A |
 | penetration | 15% |
 | special effect | Has a Navae fist style critical. |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
@@ -65,3 +67,15 @@ It shares the same aerial animation and critical animation with the [Way of Nava
 -   At max HVY, the non-alloyed damage is (36.6)
     -   At max HVY, the alloyed damage is (38.4)
 -   The non-alloyed does (.5) more base dmg than the alloyed version.
+
+## Gallery
+
+### Enchantments
+
+**Umbral Knight:**
+
+**Metal:**
+
+**Curse of The Bloodthirsty:**
+
+**Detonation:**

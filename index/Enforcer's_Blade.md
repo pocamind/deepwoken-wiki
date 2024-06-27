@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 102652
+revid: 103999
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Unique Critical]
@@ -10,7 +10,7 @@ categories: [Weapons, Greatswords, Unique Critical]
 
 | Enforcer's Blade | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Greatsword |
 | requirements | 80 HVY, 25 STR, LVL 6 |
 | damage | 25 |
 | scaling | 9 |
@@ -18,6 +18,7 @@ categories: [Weapons, Greatswords, Unique Critical]
 | swing speed | 0.79x |
 | penetration | 5% |
 | chip damage | 15% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |

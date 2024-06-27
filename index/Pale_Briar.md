@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 103772
+revid: 103986
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
 
 | Pale Briar | |
 |---|---|
-| type | Heavy Greataxe |
+| type | Greataxe |
 | requirements | 85 HVY, Power 10 |
 | damage | 23 |
 | scaling | 7.5 |
@@ -18,6 +18,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
 | swing speed | 0.81x |
 | penetration | 25% |
 | chip damage | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 7 |
 | bankable | Yes |
@@ -25,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Beating Maestro Evengarde Rest with a heavy weapon, Chest from Maestro Evengarde Rest |
-| description | Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church. |
+| description | "Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church." |
 
 ## Description
 
