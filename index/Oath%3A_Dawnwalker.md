@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 102267
+revid: 104045
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -39,49 +39,19 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 ## Abilities
 
-| Mantra Type | Media | Name | Card Description | Misc |
-| --- | --- | --- | --- | --- |
-| Combat |  | 
-**Blinding Dawn**
-
-(★★★)
-
-  
-
- | _Spin rapidly to unleash powerful rays of light._ |  |
-| Combat |  | 
-
-**Radiant Kick**
-
-(★★★)
-
-  
-
- | _Kick your foes at the speed of light._ | 
-
--   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
--   Targets nearest enemy
--   Does not target allies
-
- |
-| Combat |  | 
-
-**Radiant Dawn**
-
-(★★★)
-
-  
-
- | _Strike down your foes with your blinding light._ | 
-
--   This mantra is unparriable and unblockable and will blockbreak anyone that attempts to do so.
--   Procs Absolute Radiance.
-
- |
-
--   Luminous Flash when it procs
+-   **Blinding Dawn (★★★) - Combat Mantra**
     
-    **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+    -   _Spin rapidly to unleash powerful rays of light._
+
+-   **Radiant Kick** (★★★) - **Combat Mantra**
+    -   _Kick your foes at the speed of light._
+
+-   **Radiant Dawn** (★★★) - **Combat Mantra**
+    -   _Strike down your foes with your blinding light._
+
+Luminous Flash when it procs
+
+-   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 -   **Luminous Flash** **\- Passive:** After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
     -   On proc, a basic attack will: Hit the maximum hardcap of damage (1.75x), give increased ether and tempo on that strike, and daze.
     -   CD of ~30-50 seconds.

@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt Coral
-revid: 104004
+revid: 104024
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monster Mantra Ingredients]
+categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 ---
 
 # Megalodaunt Coral
@@ -16,11 +16,12 @@ categories: [Monster Mantra Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | Intact coral from the back of a megalodaunt. |
 
 ## Description
 
-Used to obtain Coral Spear \[Monster Mantra\] by talking to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Second Layer](Second_Layer.md) Floor 2.
+The **Megalodaunt Coral** is used to gain the "Coral Spear" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in Floor 2 of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from the [Megalodaunt](Megalodaunt.md), and cannot be dropped alongside every other rare monster part.
 
-It is obtained by killing [Megalodaunts](Megalodaunt.md) with a low chance. The coral will drop near its body. It cannot be dropped, like all other monster mantra ingredients.
+## Trivia
 
-Can be used to summon [Primadon](Primadon,_Titan_of_the_East.md)
+-   for whatever reason it seems to only drop from normal [Megalodaunts](Megalodaunt.md), This could be because the Alpha and Crimson [Megalodaunts](Megalodaunt.md) have stronger coral. (Or it was an oversight)

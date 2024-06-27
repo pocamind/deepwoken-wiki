@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt Hide
-revid: 86078
+revid: 104044
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Drops, Uses, Ingredients, Items]
+categories: [Uses, Items, Drops, Ingredients]
 ---
 
 # Megalodaunt Hide
@@ -11,15 +11,16 @@ categories: [Drops, Uses, Ingredients, Items]
 | Megalodaunt Hide | |
 |---|---|
 | value | 15 |
-| weight | ? |
-| type | * Megalodaunt Drop, Crafting Ingredient |
+| weight | None |
+| type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | The tough yet flexible skin of a Megalodaunt. Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. |
 
 ## Description
 
-Megalodaunt Hide, also called Sharko Hide, can be obtained by killing [Megalodaunts](Megalodaunt.md), with a pretty high drop rate.
+**Megalodaunt Hide** is a common drop from from Normal, Alpha, Crimson [Megalodaunts](Megalodaunt.md), they can be found in [Erisia](Erisia.md), [The Depths](The_Depths.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [The Aratel Sea](The_Aratel_Sea.md).
 
 ## Uses
 

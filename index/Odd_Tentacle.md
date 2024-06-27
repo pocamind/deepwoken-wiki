@@ -1,9 +1,9 @@
 ---
 title: Odd Tentacle
-revid: 97135
+revid: 104027
 source: https://deepwoken.fandom.com/wiki/Odd_Tentacle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops]
+categories: [Items, Drops, Ingredients]
 ---
 
 # Odd Tentacle
@@ -20,4 +20,9 @@ categories: [Items, Drops]
 
 ## Description
 
-The Odd Tentacle is a rare item dropped by [Nautilodaunt](Nautilodaunt.md) which can be found in [The Depths](The_Depths.md), [Starswept Valley](The_Starswept_Valley.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and from [Mimic Chests](Chests_&_Sacks.md). A rare drop, [Nautilodaunt Beak](Nautilodaunt_Beak.md), can be used to obtain [Abyssal Ridge](Monster_Mantras.md).
+The **Odd Tentacle** is a common drop from the [Nautilodaunt](Nautilodaunt.md) and is used in the majority of [Master Armors](Outfits.md), the Nautilodaunt can be primarily found in [The Depths](The_Depths.md) inside [The City of the Drowned](The_City_of_the_Drowned.md) walls, but can also be found from a [Boulder Event](Random_Encounters.md), [Hell Mode](Hell_Mode.md), or [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
+## Trivia
+
+-   [Nautilodaunts](Nautilodaunt.md) have 8 'arms' not tentacles on their face, tentacles only have suction cups on the ends whilst 'arms' have them all over.
+    -   Where their tentacles are is unknown, but very well could just be it's actual arms as [Squids](https://en.wikipedia.org/wiki/Squid%7CSquids) only have two tentacles.

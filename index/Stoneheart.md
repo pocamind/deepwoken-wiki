@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 102648
+revid: 104038
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical]
@@ -43,3 +43,4 @@ This weapon's critical by default charged up to create a massive [golem-beam](Ro
 -   It does 49 damage at 100 Heavy and 6 Proficiency making it a viable endgame choice, 51.9 damage if 3 star with the damage stat with a base of 25.4
 -   The Stoneheart's head was designed by Nuttoons, while the handle was designed by Es, which is why the handle is missing on the concept art.
 -   Used to share having the highest posture damage in the game with the [Enforcer's Hammer](<Enforcer's_Hammer.md>). Both have been dethroned by the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and its 13 posture damage.
+-   Before the 05/04/2024 update, the Stoneheart critical was set to deal 100 posture damage instead of being properly handled as a guardbreak, effectively making it the highest posture damage critical.

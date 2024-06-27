@@ -1,9 +1,9 @@
 ---
 title: Enforcer Eye
-revid: 103499
+revid: 104023
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monster Mantra Ingredients, Drops]
+categories: [Items, Drops, Monster Mantra Ingredients]
 ---
 
 # Enforcer Eye
@@ -16,13 +16,11 @@ categories: [Monster Mantra Ingredients, Drops]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item... |
+| desc | An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item.. |
 
 ## Description
 
-The **Enforcer Eye** is used to gain the "Enforcer Pull" [monster mantra](Monster_Mantras.md) from [Carrion](Carrion,_Father_of_Evolution.md), who resides in [Castle Light](Castle_Light.md) after talking to him in floor 2 of the [Second Layer](Second_Layer.md) but at a small chance you can get it from layer one escape floor loot
-
-It is obtained as a rare drop from killing any variant of [The Enforcer](Enforcer.md).
+The **Enforcer Eye** is used to gain the "Enforcer Pull" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in Floor 2 of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from [The Enforcer](Enforcer.md), and cannot be dropped alongside every other rare monster part.
 
 ## Trivia
 
