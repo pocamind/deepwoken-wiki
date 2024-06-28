@@ -1,9 +1,9 @@
 ---
 title: Iron Boots
-revid: 102819
+revid: 104182
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boots]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Iron Boots

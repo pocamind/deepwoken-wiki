@@ -1,9 +1,9 @@
 ---
 title: Feathertop Helm
-revid: 77110
+revid: 104137
 source: https://deepwoken.fandom.com/wiki/Feathertop_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Equipment, Head, Helmets]
 ---
 
 # Feathertop Helm

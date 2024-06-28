@@ -1,9 +1,9 @@
 ---
 title: "Captain's Kabuto"
-revid: 73576
+revid: 104132
 source: https://deepwoken.fandom.com/wiki/Captain's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Items]
+categories: [Equipment, Head, Helmets]
 ---
 
 # Captain's Kabuto

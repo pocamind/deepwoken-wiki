@@ -1,9 +1,9 @@
 ---
 title: Monastery Beads
-revid: 101171
+revid: 104198
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Monastery Beads

@@ -1,9 +1,9 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 73867
+revid: 104147
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors, Hats, Head]
+categories: [Equipment, Head, Hats]
 ---
 
 # Big Alchemist's Hat

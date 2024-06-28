@@ -1,9 +1,9 @@
 ---
 title: Bluesteel Boots
-revid: 82858
+revid: 104174
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors, Equipment]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Bluesteel Boots

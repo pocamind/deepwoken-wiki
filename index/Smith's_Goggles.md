@@ -1,9 +1,9 @@
 ---
 title: "Smith's Goggles"
-revid: 77089
+revid: 104206
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Face, Equipment]
+categories: [Equipment, Face]
 ---
 
 # Smith's Goggles
@@ -12,9 +12,9 @@ categories: [Face, Equipment]
 |---|---|
 | type | Face |
 | rarity | ??? |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | +1 Common Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

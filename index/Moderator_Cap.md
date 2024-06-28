@@ -1,9 +1,9 @@
 ---
 title: Moderator Cap
-revid: 103751
+revid: 104164
 source: https://deepwoken.fandom.com/wiki/Moderator_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Helmets, Developer Spec, Exclusive]
+categories: [Equipment, Head, Hats, Developer Spec, Exclusive]
 ---
 
 # Moderator Cap

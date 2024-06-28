@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 104084
+revid: 104123
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -11,7 +11,7 @@ categories: [Items]
 | Dark Feather | |
 |---|---|
 | value | 30 |
-| weight | N/A |
+| weight | None |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |
@@ -20,7 +20,7 @@ categories: [Items]
 | Dark Feather | |
 |---|---|
 | value | 100 |
-| weight | N/A |
+| weight | None |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |

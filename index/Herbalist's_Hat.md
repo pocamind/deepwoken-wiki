@@ -1,9 +1,9 @@
 ---
 title: "Herbalist's Hat"
-revid: 73638
+revid: 104153
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Items]
+categories: [Equipment, Head, Hats]
 ---
 
 # Herbalist's Hat

@@ -1,9 +1,9 @@
 ---
 title: Grand Authority Sallet
-revid: 95482
+revid: 104131
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Helmets, Head]
+categories: [Equipment, Head, Helmets]
 ---
 
 # Grand Authority Sallet
