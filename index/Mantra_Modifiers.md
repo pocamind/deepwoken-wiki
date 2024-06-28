@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 104066
+revid: 104117
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
+categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
 ---
 
 # Mantra Modifiers
@@ -378,17 +378,17 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
   <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provides a tangible effect to mantras that do not hit enemies.</p></td>
 </tr>
 <tr>
-  <td><figure>File:Gfggggg.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Insignia Gem</td>
   <td>The next Mantra you cast within a short timeframe will have a 50% windup reduction.</td>
 </tr>
 <tr>
-  <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Wayward Gem</td>
   <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you to them after a second has passed.</td>
 </tr>
 <tr>
-  <td><figure>File:Wind gem 1st.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Wind Gem</td>
   <td>Hitting an enemy with the mantra will increase your speed for 8 seconds, equivalent to the speed buff given after sliding down a slope.</td>
 </tr>
@@ -410,8 +410,6 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | Image | Modifier | Applicable Mantras | Effect |
 | --- | --- | --- | --- |
 | 
-File:Magnet spark PNG.png
-
  | 
 
 Magnet Spark
@@ -429,8 +427,6 @@ Applies "Magnet Shot" to compatible Mantra.
 
  |
 | 
-
-Round Spark
 
  | 
 
@@ -451,8 +447,6 @@ Applies "Round Shot" to compatible Mantra.
 
  |
 | 
-
-Blast Spark
 
  | 
 
@@ -484,8 +478,6 @@ Applies "Explosion" to compatible Mantra.
  |
 | 
 
-Reversal Spark
-
  | 
 
 Reversal Spark
@@ -507,8 +499,6 @@ Applies "Reversal" to compatible Mantra.
  |
 | 
 
-File:Image 2021-12-31 211633.png
-
  | 
 
 Multiplying Spark
@@ -527,8 +517,6 @@ Applies "Triple Shot" to compatible Mantra.
 
  |
 | 
-
-Spring Spark
 
  | 
 
@@ -551,8 +539,6 @@ Applies "Spring" to compatible Mantra.
 
  |
 | 
-
-Tornado spark
 
  | 
 

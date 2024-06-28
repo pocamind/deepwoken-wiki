@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 104069
+revid: 104096
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -63,17 +63,17 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Allows the user to attack while performing a dash.
 
 -   **Arc Module: Eject - Passive**
-    -   _When blockbreaken with Arc Suit active, eject from the armor._
+    -   _When blockbroken with Arc Suit active, eject from the armor._
         -   When block broken you instantly eject from your Arc Suit preventing it.
         -   Upon exiting the Arc Suit posture is set to 50%
 
 -   **Arc Module: Guard - Passive**
-    -   _Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind._
+    -   _Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind._
         -   Allows the user to block attacks from all directions.
         -   Prevents Spine Cutter from occurring when hit in the back.
 
 -   **Arc Wave** ★★★ - Combat Mantra
-    -   _Release a wave of energy around you, dealing fire and lightning damage._
+    -   Stomp the ground releasing a wave of Arc energy.
         -   Deals moderate damage.
         -   Can apply both Electrified and Burning.
         -   Compatible with Surge Path, Eruption Path, and Wraith Path.
@@ -81,7 +81,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Obtained alongside Guard.
 
 -   **Arc Beam** **★★★ - Combat Mantra**
-    -   _Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage_
+    -   Fire plasma energy. Deals additional damage in PvE.
         -   Deals high damage.
         -   Can apply both Electrified and Burning.
         -   Compatible with Surge Path, Eruption Path, and Wraith Path.
