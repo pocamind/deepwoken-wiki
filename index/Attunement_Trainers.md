@@ -1,9 +1,9 @@
 ---
 title: Attunement Trainers
-revid: 99855
+revid: 104256
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [NPCs]
 ---
 
 # Attunement Trainers
@@ -49,8 +49,6 @@ When fought, she uses a [Gran Sudaruska](Gran_Sudaruska.md).
  |
 | 
 
-File:FireSpelltrainer.png
-
  | [Flamecharm](Flamecharm.md) | [Amashi](Amashi,_Master_of_Flame.md) | [Songseeker](Songseeker_Wilds.md)
 
 [Wilds](Songseeker_Wilds.md)
@@ -68,8 +66,6 @@ When fought, he uses a [Hero Blade of Flame](Hero_Blades.md).
 
  |
 | 
-
-File:B7624e4fd89708c9b9612665c1835545.png
 
  | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
@@ -92,7 +88,7 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 When fought he uses a [Darksteel Greatsword](Darksteel_Greatsword.md).
 
  |
-| File:Screenshot 3.png | [Attunement-less](Attunement-less.md) | [Regek](Regek.md) | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
+|  | [Attunement-less](Attunement-less.md) | [Regek](Regek.md) | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
 |  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.  
 
 She is incapable of actually **teaching **Shadowcast, and can only be used to level up Shadowcast Mantras. Only Nostor can teach it.****

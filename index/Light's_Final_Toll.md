@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 103291
+revid: 104263
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Unique Critical]
@@ -53,7 +53,7 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
     -   As of 03/23/2024, this information has became outdated as the weapon received it's new requirements (65 WIL → 60 WIL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
--   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md) & [Kyrsieger](Kyrsieger.md)) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
+-   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), and Imperial Staff) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its actual hotbox.
 -   Before 10/20/2023, the weapon used the base critical for the active fist style.

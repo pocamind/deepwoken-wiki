@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 102663
+revid: 104224
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, NPCs]
@@ -106,6 +106,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Pure Astruline](Ores.md#astruline)
     -   [Pure Iron](Ores.md#iron)
     -   [Pure Umbrite](Ores.md) / [Umbrite](Ores.md)
+    -   Rock
 
 -   Mantra Modifiers, including:
     -   [Deep Gems](Mantra_Modifiers.md#deep-gems)

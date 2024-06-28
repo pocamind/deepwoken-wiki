@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 103965
+revid: 104262
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1927,7 +1927,7 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
   <td>N/A</td>
   <td>MED: 6.2, HVY: 4.2</td>
   <td>6</td>
-  <td>10</td>
+  <td>9</td>
   <td>0.93x</td>
   <td>41.7</td>
 </tr>

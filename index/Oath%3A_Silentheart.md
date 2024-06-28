@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 104077
+revid: 104230
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -113,6 +113,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 knowle
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
         -   (Mani Katti = Many Cuts)
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
+-   You can get across the Divers gate without going into a whirlpool using Mani Katti on someone inside of the gate.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 103974
+revid: 104220
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Unique Critical]
@@ -64,3 +64,4 @@ The critical has a cooldown of **3 seconds**.
 -   At max HVY, the non-alloyed damage is (33.6)
     -   At max HVY, the alloyed damage is (38.4)
 -   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from _Dark Souls III_.
+-   The critical ties alongside starter weapons for the fastest cooldown in-game.
