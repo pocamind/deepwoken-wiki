@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 103707
+revid: 104213
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -167,3 +167,4 @@ Hive Test Tube
 -   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in Aratel meaning they couldn't be made use of, without travelling to either [Fort Merit](Fort_Merit.md) or [Miner's Landing](<Miner's_Landing.md>), for over two years.
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.
+    -   "TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant." - [Destroyman III Quote](Destroyman_III.md)
