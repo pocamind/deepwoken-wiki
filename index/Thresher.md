@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 102592
+revid: 104496
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -136,7 +136,7 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 
 -   The **Burrow** attack works differently from a normal Thresher's. Unlike it's smaller variant, the timing is much more strict or perhaps a better way to put it is that the AI is less "lazy". It is difficult to explain, so it is best to experience it for yourself to understand.
 -   If you are hit by the **tail swipe**, use your right-mouse button to un-ragdoll. It is recommended that you do this as it will allow you to react if it decides to you use **Cursed Breath** afterwards (which happens often).
--   This mob is arguably, if not THE most dangerous mob to encounter **corrupted** in the depths. This is a monster you'd want to avoid fighting in The Depths. You should only fight it if you are Power 20 with good gear and weapons, in a large group, and/or experienced. A corrupted King Thresher can deal up to a bar or more of health depending on the move. The 100% PEN + the high health pool, this thing can make quick work of you. However, the reward is remarkable as it will drop a duke size chest. This may mean you have a higher chance of finding [Deep Gems](Deep_Gems.md) or [Enchantments](Enchantments.md). Regardless, it is still strongly recommended if you see one to just leave it alone.
+-   This mob is one of the most dangerous mobs to encounter **corrupted** in the depths, second to only the [Mudskipper Broodlord](Mudskipper_Broodlord.md). This is a monster you'd want to avoid fighting in The Depths. You should only fight it if you are Power 20 with good gear and weapons, in a large group, and/or experienced. A corrupted King Thresher can deal up to a bar or more of health depending on the move. The 100% PEN + the high health pool means this thing can make quick work of you. However, the reward is remarkable as it will drop a duke size chest. This may mean you have a higher chance of finding [Deep Gems](Deep_Gems.md) or [Enchantments](Enchantments.md). Regardless, it is still strongly recommended if you see one to just leave it alone.
 -   DO NOT fight this monster on slopes as it will keep moving back it forth, thus making it more difficult to avoid/parry it's attacks. If possible try to fight it in a somewhat (not too) open and flat area. If it is on a slope, lure it to flat ground.
 -   Be aware your environment, have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
 -   A safe way to practice fighting a King Thresher would be to head to the Lightkeeper temple located on the far right side of [Starswept Valley](The_Starswept_Valley.md). Once you enter, on your right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway if your low, but do be warned as there are other threshers in the area.

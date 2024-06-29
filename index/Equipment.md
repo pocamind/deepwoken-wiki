@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 104468
+revid: 104517
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4001,7 +4001,7 @@ Found from:
  | N/A |
 |  | 
 
-Bloodfeather Mask
+[Bloodfeather Mask](Bloodfeather_Mask.md)
 
  | 
 
@@ -4040,7 +4040,7 @@ Found from:
  | Black & Crimson |
 | File:Demon Mask1.png | 
 
-Demon Mask
+[Demon Mask](Demon_Mask.md)
 
  | 
 
@@ -4113,7 +4113,7 @@ Found from:
  | Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | 
 
-Hivelord Mask
+[Hivelord Mask](Hivelord_Mask.md)
 
  | 
 
@@ -4131,7 +4131,7 @@ Found from:
  | N/A |
 |  | 
 
-Iron Mask
+[Iron Mask](Iron_Mask.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 103324
+revid: 104502
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -12,7 +12,7 @@ Dye Packet's GUI
 
 ## Description
 
-Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in 1 [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, or very rarely in [Merchant Ships](Travelling_Merchant.md) for around 90-250 notes. It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dye can be removed at a barber, or Dye Remover can be bought for 50 notes. The maximum Dye Packets you can hold per slot is 10 (Can sometimes pass the limit for an unknown reason), in the [Item Bank](Item_Bank.md) up to 20 may be put in per slot. However, due to how withdrawing items from banks works, any dye packets in the bank over the stack capacity of 10 will be voided if withdrawn.
+Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in 1 [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, or very rarely in [Merchant Ships](Travelling_Merchant.md) for around 90-250+ notes[\[1\]](#cite-note-1). It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dye can be removed at a barber, or Dye Remover can be bought for 50 notes. The maximum Dye Packets you can hold per slot is 10 (Can sometimes pass the limit for an unknown reason), in the [Item Bank](Item_Bank.md) up to 20 may be put in per slot. However, due to how withdrawing items from banks works, any dye packets in the bank over the stack capacity of 10 will be voided if withdrawn.
 
 File:Pinkheart.png
 
@@ -41,3 +41,5 @@ Silentheart tattoos dyed pink.
 File:Dye merchant.png
 
 A dye packet being sold in a Merchant Ship.
+
+1.  [↑](#cite-ref-1) Depends on luck, although the price is most of the time under the 250 notes.

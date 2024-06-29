@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 104481
+revid: 104501
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2110,7 +2110,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Pleeksty%27s_Inferno"><font>Pleeksty's Inferno</font></a></td>
-  <td>40 MED, 90 FIR</td>
+  <td>40 MED, 80 FIR</td>
   <td>22</td>
   <td>30%</td>
   <td>10%</td>
