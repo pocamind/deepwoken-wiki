@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 98214
+revid: 104267
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -114,7 +114,7 @@ A Black Diver executes its opponent after knocking them:
 ## Tips
 
 -   Fight them like any other humanoid NPC with a weapon.
--   It's wide moveset requires a bit of getting used to. Thankfully, these NPCS aren't very common.
+-   Their wide moveset requires a bit of getting used to. Thankfully, these NPCS aren't very common.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 99984
+revid: 104324
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -77,6 +77,7 @@ Charisma, Rare
 Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried. _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
  | 20 seconds |
+| Explode | No, 75 charisma | "_\[Name\]_, explode" | Explodes the head of the Subject, just like the NLK Enchant, but with explosion | ? |
 | Live | Yes, 75 Charisma, Advanced | "_\[Name\]_, live" | Fully heals the subject, reviving them if they are knocked, cancelling any grip or carry.
 
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_

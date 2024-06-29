@@ -1,9 +1,9 @@
 ---
 title: Version History/Uncollapsed
-revid: 103524
+revid: 104310
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Community Compositions, Deepwoken]
+categories: [Deepwoken]
 ---
 
 # Version History/Uncollapsed
@@ -16,7 +16,79 @@ Something is considered a patch if it's added after an update but doesn't contai
   
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
+For a fully uncollapsed version, go to **this page** instead
+
   
+
+## **June 28th, 2024**
+
+**Content & Systems**  
+• New Legendary Weapon: Deepspindle  
+• New Outfit: Darkened Bastion  
+• New Helmet: Darkscorn Casque  
+• New Unique Outfit Talent: Withering Soul  
+• New Unique Equipment Talent: Already Dead  
+• New Craftable Item: Shadow's Flight  
+• New Craftable Equipment: Wormward Lantern  
+• New Unique Equipment Talent: Wormwarder  
+• New Craftable Equipment: Delver Boots  
+• New Unique Equipment Talent: Surestep  
+• New CHA Talent: Command: Explode  
+• The teleport loadscreen now has loading tips too  
+• Added 12 new first names  
+  
+**Balancing & Tweaks**  
+• The cap for Knowledge has been increased considerably (99 -> 999)  
+• The cap for Kyrsan Medallions has been increased (99 -> 250)  
+• Diver's Light Plate can now be banked/passed down  
+• Pleeksty's Inferno sprinting critical now procs Flame Emperor on hit  
+• Reduced Pleeksty's Inferno requirement (90 FIR -> 80 FIR)  
+• Greatly increased drop rate of Dread Serpent's Tooth. Made the placeholder model (slightly) less dumb  
+• Burning Sacrifice now additionally gives a slight M1 damage boost and speed boost for a short duration. This duration scales based on the amount of puppets sacrificed  
+• Nemesis activation now deals the damage of the hit that procced its mark. This means that if you used an uppercut or an aerial, it'll deal your weapon's uppercut/aerial damage and not the regular M1 damage. This fixes a cheese with weapons like the Hivelord's Hubris where you'd uppercut at a fast speed, proc Nemesis, and then deal the full damage of your regular Hivelord M1  
+• Illusory Realm now ends early if the user somehow breaks free of the bubble  
+• Illusory Realm now has a greatly reduced duration in chime but also a reduced CD (120s -> 60s)  
+• Illusory Realm now ends early in chime if they fail to capture anyone  
+• Fixed Chime Storm not cancelling Illusory Realm  
+• Illusory Realm is now less visually oppressive  
+• Polished Armor damage resistance now scales with your Ironsing investment, starting at 5% and scaling up to 10% at 100 MTL  
+• Reduced Ash Slam STR req (30 -> 20), bringing it in line with Eclipse Kick  
+• Reduced Hip Shooter req (60 HVY//MED -> 50 HVY//MED)  
+• Reduced Hip Shooter CD (7s -> 6s)  
+• You can now M2 during Relentless Flames to cancel the barrage early  
+• Bomb throw windup increased, windup cues added (0.3s -> 0.5s)  
+• Crystal Knee windup increased (0.45s -> 0.55s)  
+• Ice Chain effect adjusted to not obscure player vision as much  
+• Prominence Draw is now 360 blockable  
+• Twin Cleave is now 360 blockable. Mantra cooldown after cancelling the initial hit increased (4s -> 12s)  
+• Jus Karita range adjusted (7 -> 6.5)  
+• Whaling Knife crit windup increased (0.4s -> 0.55s)  
+• You can no longer cast Lightning Stream if Shadow Vortex is active  
+• Casting Emotion Wave now slows the player  
+• Alloyblood bleed damage resistance (not blood loss) decreased (50% -> 30%)  
+• Close Shave is now 360 blockable  
+• Toned down the insanity darkness  
+• Fixed assassinations not dealing reduced damage against enemies already in combat  
+• Revenge's hitbox and visual are now synced  
+• Gaze now has a sound cue on initial cast, not just on activation. Activation sound cue now plays BEFORE it hits, not after  
+• You can no longer activate Dimensional Travel while in hitstun  
+• Teleportation now cancels if hit during the first 0.5s of its windup. If its windup is cancelled, it isn't put on CD  
+  
+**Bugfixes & Optimization**  
+• UI prompts now free up your mouse from shiftlock/mouselock  
+• Fixed not being able to turn in Artifacts  
+• Harrowed should now go over hover text correctly  
+• Fixed being able to craft Gilded Needles in bulk (this would often break and void your needles)  
+• Fixed the Diluvian Mechanism not being counted as Layer 1 by some mechanics  
+• The Soothsayer doesn't repeat themself as often  
+• Fixed Hip Shooter enabling rifles to fire projectile shots  
+• Made Ice Daggers more reliable
+
+### _**Patch 1.8.3a**_
+
+• Pleeksty's Inferno base damage increased (20 -> 22)  
+• 2x chests for the weekend :-)  
+• Command: Explode is a base command at 75 CHA. Talent mentioned before doesn't exist and has never existed. Wake up sheeple 🐑
 
 ## **June 21st, 2024**
 

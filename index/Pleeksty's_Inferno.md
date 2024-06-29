@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 104060
+revid: 104297
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -11,7 +11,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 | Pleeksty's Inferno | |
 |---|---|
 | type | Club |
-| requirements | 40 MED, 90 FIR |
+| requirements | 40 MED, 80 FIR |
 | damage | 20 |
 | scaling | MED: 3 FIR: 4 |
 | range | 8 |

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 104262
+revid: 104400
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2382,6 +2382,12 @@ Weapons that are exclusive for special people.
 </tr>
 </tbody>
 </table>
+
+\-
+
+|[Paintbrush](https://deepwoken.fandom.com/wiki/Paintbrush) |?? MED |?? |?? |N/A |MED: ? |?? |?? |?? |N/A |??
+
+|}-
 
 ## Calculating Damage and Attack Speed
 

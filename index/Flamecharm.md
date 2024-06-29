@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 104210
+revid: 104299
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -300,7 +300,7 @@ _Strike the ground, turning it to ash._
 
  | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates an bursting explosion each time.
 
--   Requires at least 30 Strength and 50 Flamecharm.
+-   Requires at least 20 Strength and 50 Flamecharm.
 -   Deals moderate damage.
 -   Inflicts Burn.
 -   Similar to Fire Eruption, but with more mobility and less endlag

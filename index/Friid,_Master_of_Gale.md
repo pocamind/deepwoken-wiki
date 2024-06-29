@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 97412
+revid: 104306
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers]

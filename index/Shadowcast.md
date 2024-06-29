@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 103937
+revid: 104395
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -230,10 +230,10 @@ Shade Devour
 
  | Gorge on your own health for raw strength | 55 Ether | Causes a damaging shockwave, adds a +20% weapon damage buff to the user, consumes health upon use.
 
+-   Spine Cutter cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
--   Spine Cutter cannot be used while Shade Devour is active
 
  |
 | 

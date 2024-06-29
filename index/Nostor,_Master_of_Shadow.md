@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 102373
+revid: 104312
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers]

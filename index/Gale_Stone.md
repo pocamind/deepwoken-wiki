@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 103512
+revid: 104273
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement, Elemental Ingredients]
@@ -8,7 +8,7 @@ categories: [Items, Attunement, Elemental Ingredients]
 
 # Gale Stone
 
-| Galestone | |
+| Gale stone | |
 |---|---|
 | value | 2 |
 | weight | 0 |
