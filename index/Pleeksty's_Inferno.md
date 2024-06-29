@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 104475
+revid: 104547
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -95,3 +95,5 @@ Both criticals share a cooldown of **8 seconds** and can proc Flamecharm talents
 -   Regardless if the first part of the running critical hit or not, a projectile will still be fired.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
+-   This weapon is not droppable or bankable
+    -   However, it _can_ be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) for 60 Echoes.

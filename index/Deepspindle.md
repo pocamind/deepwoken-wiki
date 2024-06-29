@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 104515
+revid: 104562
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -32,18 +32,19 @@ notices:
 
 ## Description
 
-The Deepspindle is a legendary rapier, a malevolent manifestation of shadow forged through unknown means into a curving, ornate assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
+The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forged through unknown means into a curving, ornate assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
 
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
-2.  Find the Capra Diver NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
-3.  Talk to the NPC, then use Shadow's Flight or Shadow Travel at his location and you should be teleported. (There is a bug where you can get teleported under the ground and wiped, make sure you clip it to be restored.)
+2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
+3.  Talk to Sillhuett, then use Shadow's Flight or Shadow Travel at his location and you should be teleported. (There is a bug where you can get teleported under the ground and wiped, make sure you clip it to be restored.)
 4.  After using Shadow's Flight or Shadow Travel, you will be teleported to an arena where you will fight the NPC waiting for you to obtain the weapon Deepspindle, and you should get teleported back to where you found the NPC. If you die, you will be wiped.
 
 ## Critical
 
-The Deepspindle has **TWO** criticals.
+The Deepspindle has two different criticals.
 
   
+
 For the **standing** critical, the user stabs the weapon forward, marking an enemy before dealing damage multiple times.
 
 For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy.

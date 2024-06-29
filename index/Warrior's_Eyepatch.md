@@ -1,9 +1,9 @@
 ---
 title: "Warrior's Eyepatch"
-revid: 97878
+revid: 104534
 source: https://deepwoken.fandom.com/wiki/Warrior's_Eyepatch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Face, Equipment]
+categories: [Equipment, Face, Bandanas]
 ---
 
 # Warrior's Eyepatch
@@ -11,16 +11,17 @@ categories: [Face, Equipment]
 | Warrior's Eyepatch | |
 |---|---|
 | type | Face |
-| rarity | ??? |
-| requirements | N/A |
+| rarity | Uncommon |
+| selling price | 14 |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, Starswept Valley, Aelita |
+| obtainment | Duke Erisia, First Layer, Starswept Valley, Aelita |
 | description | "..." |
 
 ## Description

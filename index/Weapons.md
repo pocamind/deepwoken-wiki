@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 104501
+revid: 104553
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2132,7 +2132,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>1.09x</td>
   <td>??</td>
-  <td>35.89</td>
+  <td>33</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Demon Mask
-revid: 102715
+revid: 104523
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -15,7 +15,7 @@ categories: [Equipment, Face, Masks]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

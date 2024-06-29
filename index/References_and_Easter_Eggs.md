@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 104330
+revid: 104552
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -154,7 +154,6 @@ categories: [Deepwoken]
     -   One Eyed King is the category name for the talent "Strength Unbound", possibly referencing the one-eyed swordsman [Guts](https://berserk.fandom.com/wiki/Guts) due to his profound strength.
 -   The **Vow of Mastery** line of Talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
-    -   The **Command: Explode** is a possible reference to [Toge Inumaki](https://jujutsu-kaisen.fandom.com/wiki/Toge_Inumaki#Appearance)'s [Cursed Speech](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Speech).
 -   **Murmur: Ardour** could be a reference to Haoshoku (Conqueror's) haki from _One Piece._
 -   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://i.imgur.com/Bz5xxxm.png), Referring to one of the Gods in Rogue Lineage.
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
@@ -213,6 +212,7 @@ categories: [Deepwoken]
 -   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
 -   The names **Laios**, **Falin**, **Senshi**, **Izutsumi, Chilchuck** and **Marcille** are a reference to the manga _Dungeon Meshi_.
+-   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Roland**," "**Tiphereth**," "**Xiao**", "**Zena**", "**Iori**", and "**Argalia**", are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
 -   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
 

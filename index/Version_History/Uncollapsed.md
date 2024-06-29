@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 104310
+revid: 104551
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -15,8 +15,6 @@ Something is considered a new update if it happens on a different week as the pa
 Something is considered a patch if it's added after an update but doesn't contain enough content to be considered one.  
   
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
-
-For a fully uncollapsed version, go to **this page** instead
 
   
 
@@ -88,7 +86,16 @@ For a fully uncollapsed version, go to **this page** instead
 
 • Pleeksty's Inferno base damage increased (20 -> 22)  
 • 2x chests for the weekend :-)  
-• Command: Explode is a base command at 75 CHA. Talent mentioned before doesn't exist and has never existed. Wake up sheeple 🐑
+• Command: Explode is a base command at 75 CHA. Talent mentioned before doesn't exist and has never existed. Wake up sheeple 🐑  
+  
+• Fixed Delver Boots recipe, Wormward Lantern recipe
+
+### _**Patch 1.8.3b**_
+
+• Ministry Cache event now gives Deepscorn Casque and the Darkened Bastion schematic on the first clear. Deepscorn Casque now drops for all subsequent clears so you can farm it for stats. Increased Knowledge reward for second and subsequent clears  
+• Fixed streaming issues with the Ministry Cache area (no more falling into the void)  
+• Already Dead now works with Linkstrider Sustain's HP cost  
+• Fixed Flame Emperor proccing when you miss the Pleeksty's Inferno running crit
 
 ## **June 21st, 2024**
 

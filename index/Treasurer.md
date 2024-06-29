@@ -1,9 +1,9 @@
 ---
 title: Treasurer
-revid: 90062
+revid: 104540
 source: https://deepwoken.fandom.com/wiki/Treasurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Npc]
+categories: [Npc, Guilds]
 ---
 
 # Treasurer

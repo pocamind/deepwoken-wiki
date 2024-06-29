@@ -1,6 +1,6 @@
 ---
 title: Duelist Mask
-revid: 101200
+revid: 104524
 source: https://deepwoken.fandom.com/wiki/Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -15,7 +15,7 @@ categories: [Equipment, Face, Masks]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | 6% Stealth |
+| innate stats | 6% Stealth , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

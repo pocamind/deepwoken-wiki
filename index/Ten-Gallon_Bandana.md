@@ -1,9 +1,9 @@
 ---
 title: "Ten-Gallon Bandana"
-revid: 82057
+revid: 104533
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face]
+categories: [Equipment, Face, Bandanas]
 ---
 
 # Ten-Gallon Bandana
@@ -11,10 +11,11 @@ categories: [Equipment, Face]
 | Ten-Gallon Bandana | |
 |---|---|
 | type | Face |
-| rarity | ??? |
-| requirements | N/A |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | +1 Uncommon Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,9 +1,9 @@
 ---
 title: Blindfold
-revid: 101312
+revid: 104521
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Face, Equipment]
+categories: [Equipment, Face, Blindfolds]
 ---
 
 # Blindfold
@@ -15,7 +15,7 @@ categories: [Face, Equipment]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | Black & Crimson , +1 Common Pip |
 | innate talent | Blinded |
 | bankable | Yes |
 | droppable | Yes |

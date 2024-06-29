@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 94150
+revid: 104537
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,7 +21,7 @@ categories: [NPCs]
 
 ## Description
 
-Adrofalis is a member of the Old Stewards, and a teacher of Siea with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. She is also the quest-giver for the [Oath: Saltchemist.](Oath%253A_Saltchemist.md)
+Adrofalis is a member of the Old Stewards, and a teacher of Ciea with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. They are also the quest-giver for the [Oath: Saltchemist.](Oath%253A_Saltchemist.md)
 
 ## Dialogue
 

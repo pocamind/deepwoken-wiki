@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 102782
+revid: 104543
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-_Also known as "Broodskippers", "Purpleskippers" and "Mahoskipper."_ Template:Creature Infobox V3
+_Also known as "Broodskippers", "Purpleskippers"_ Template:Creature Infobox V3
 
 ## Description
 
@@ -56,4 +56,3 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 
 -   They can parry some "instant kill/multi-hit mantras" such as Caltrops.
 -   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
--   This mob is inspired by Clickers from "The Last of Us" as well as Mahoraga from Jujutsu Kaisen.

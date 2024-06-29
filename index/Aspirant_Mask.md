@@ -1,9 +1,9 @@
 ---
 title: Aspirant Mask
-revid: 82003
+revid: 104531
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Face]
+categories: [Equipment, Face, Masks]
 ---
 
 # Aspirant Mask
@@ -11,10 +11,11 @@ categories: [Face]
 | Aspirant Mask | |
 |---|---|
 | type | Face |
-| rarity | ??? |
-| requirements | N/A |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | +1 Uncommon Pip , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,14 +32,6 @@ The Royal Guard is an [Equipment](Equipment.md) item under the "Face" category. 
 
 Each Royal Guard mask has a triangular shape. At the top, two horns gradually curve out, and three cylindrical slits on each side are incised into the mask for sight.
 
-## Stats
-
-N/A
-
 ## Trivia
 
 -   Despite the Songseeker Thundercaller having a mainly yellow motif, the Royal Guard mask they drop is green.
-
-## Navigation
-
-Placeholder.
