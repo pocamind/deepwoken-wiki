@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 103940
+revid: 104428
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ categories: [Mechanics]
 
 Mute (also known as “Animal King”) has the ability to make most monsters not attack you, meaning they won't attack unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will still aggro to the player on sight.
 
-Wiping below power 6 is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
+Wiping below power 10 is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
 #### Exceptions
 

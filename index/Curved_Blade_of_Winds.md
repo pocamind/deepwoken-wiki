@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 102654
+revid: 104450
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -26,7 +26,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Uni
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Diluvian Mechanism, Island Events |
-| description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
+| description | "A prized blade supposedly forged during the Canticlysm by the first Galebreathers." |
 
 ## **Description**
 

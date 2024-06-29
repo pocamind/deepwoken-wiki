@@ -1,25 +1,28 @@
 ---
 title: Wormwarder Lantern
-revid: 104394
+revid: 104461
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso]
+categories: [Equipment, Torso, Backpack, Layer 2, Floor 1]
 ---
 
 # Wormwarder Lantern
 
 | Wormward Lantern | |
 |---|---|
-| type | Torso Equipment |
-| rarity | ? |
+| type | Torso |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
+| weight | 0.5 |
 | innate stats | +10 Carry Load |
 | innate talent | Wormwarder |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting |
-| description | A modified version of the lanterns found in sanctuary outposts across the explored Eternal Gale. This one is portable, though only generates enough charge for its user. |
+| description | "A modified version of the lanterns found in sanctuary outposts across the explored Eternal Gale. This one is portable, though only generates enough charge for its user." |
 
 ## Description
 

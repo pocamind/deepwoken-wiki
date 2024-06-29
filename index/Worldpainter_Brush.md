@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 104391
+revid: 104419
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -12,7 +12,7 @@ notices:
 
 | Paintbrush | |
 |---|---|
-| type | MED |
+| type | Heavy? |
 | requirements | Unknown |
 | damage | ??? |
 | scaling | ??? |

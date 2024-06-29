@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 104221
+revid: 104483
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,12 +52,12 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing the following monsters for the first time, awarding 1 Knowledge each:
     -   [Crimson Megalodaunt,](Megalodaunt.md) [Mechalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md), [Deep Owl](Deep_Owl.md), [King Thresher](Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (thunder doesn't count), [The Enforcer](Enforcer.md), [Bonekeeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md).
--   Using the [Moonseye Tome](Relics.md) relic, which grants 99 knowledge upon using it for the first time and 20 on future uses.
+-   Using the [Moonseye Tome](Relics.md) relic, which grants 99 knowledge upon using it for the first time, and 20 + 10(x-2) knowledge upon subsequent uses, in which x is the number of times that character has used it. (I.e. the 2nd use of a Moonseye will grant 20 knowledge, and a third will grant 30 knowledge.)
 -   Completing waves in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), which gives around 20 Knowledge in total when completing through wave 50.
 
 Assuming no repeatable methods (No Klaris and repeatable bosses knowledge only done once), the maximum obtainable knowledge is 58.
 
-The limit of on-hand Knowledge a player can have is 100. **The currency is bound to a slot and is lost upon wipe.**
+The limit of on-hand Knowledge a player can have is 999. **The currency is bound to a slot and is lost upon wipe.**
 
 A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-FWgMiHhZwltjNjVejLS9nFHQgqAnFWY/edit).
 

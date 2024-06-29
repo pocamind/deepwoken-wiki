@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 103692
+revid: 104484
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -217,7 +217,7 @@ _"Don't be scared. I promise I'll protect you no matter what."_
 
 _"You've been through a lot—maybe you should go home and study on your own for awhile and come back later."_
 
--   Picking the 2nd option, Karliah returns back home and studies. If the Player checks up on Karliah's Home in Etris, she is covered in blood and mentally deranged, along with petting the head of an [Old Etrean](Joshua.md) she once helped.
+-   Picking the 2nd option, Karliah returns back home and studies. If the Player checks up on Karliah's Home in Etris, she is covered in blood and mentally deranged, along with petting the head of an [Old Etrean](Joshua.md) ([Joshua](Joshua.md)) she once helped.
 -   She greets you with a friendly tone and talks about her studies. Her eyes to the truth of the world were revealed due to the studies you ask her to.
 -   There is no way to save her, as the only option is to put her down, snapping her neck from behind.
 -   The reward from this ending is a fistful of EXP, and a shiver down your spine.

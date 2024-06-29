@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 104080
+revid: 104468
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3948,7 +3948,7 @@ Variants
 | --- | --- | --- | --- | --- |
 |  | 
 
-[Aristocrat Eyeglasses](Eyeglasses.md)
+[Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 (**Series**)
 
@@ -4044,7 +4044,7 @@ Demon Mask
 
  | 
 
-No Pips
++1 Rare Pip
 
  | 
 
@@ -4096,7 +4096,9 @@ Found from:
 
  | 
 
-No Pips
+Black, Orange, Yellow, ( +1 Common Pip).  
+Red, (+1 Uncommon Pip).  
+Blue, Green, White, (+1 Rare Pip).
 
  | 
 
@@ -4108,7 +4110,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
- | Black, Blue, Green, Orange, Red & Yellow |
+ | Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | 
 
 Hivelord Mask
@@ -4133,7 +4135,7 @@ Iron Mask
 
  | 
 
-No Pips
++1 Common Pip
 
  | 
 
@@ -4146,7 +4148,22 @@ Found from:
  | N/A |
 |  | 
 
-[Polarised Eyeglasses](Eyeglasses.md)
+[Nauticals](Summer_Nauticals.md)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Source from:
+
+-   [Summer Isle](Summer_Isle.md)
+
+ | Summer, Dusk & Seaglass |
+|  | 
+
+[Polarised Eyeglasses](Polarised_Eyeglasses.md)
 
  | 
 
@@ -4167,7 +4184,7 @@ Found from:
 
  | 
 
-No Pips
+,+1 Uncommon Pip
 
  | 
 
@@ -4180,26 +4197,6 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | N/A |
-|  | 
-
-[Red Aristocrat Eyeglasses](Eyeglasses.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Hell Mode](Hell_Mode.md)
-
- | Default (Black), Red & White |
 | File:Blue.PNG | 
 
 [Royal Guard](Aspirant_Mask.md)
@@ -4224,7 +4221,7 @@ Found from:
 
  | 
 
-No Pips
++1 Common Pip
 
  | 
 
@@ -4242,7 +4239,7 @@ Found from:
 
  | 
 
-No Pips
+,+1 Uncommon Pip
 
  | 
 
@@ -4256,7 +4253,7 @@ Found from:
  | N/A |
 |  | 
 
-[The Guy's Eyeglasses](Eyeglasses.md)
+[The Guy's Eyeglasses](Polarised_Eyeglasses.md)
 
  | 
 
@@ -4271,26 +4268,11 @@ Source from:
  | N/A |
 |  | 
 
-[Nauticals](Summer_Nauticals.md)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Source from:
-
--   [Summer Isle](Summer_Isle.md)
-
- | Summer, Dusk & Seaglass |
-|  | 
-
 [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
 
  | 
 
-No Pips
++1 Rare Pip
 
  | 
 
@@ -4301,26 +4283,6 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
-|  | 
-
-[White Aristocrat Eyeglasses](Eyeglasses.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Hell Mode](Hell_Mode.md)
-
- | Default (Black), Red & White |
 |  | 
 
 [Toon's Goggles](<Toon's_Goggles.md>)

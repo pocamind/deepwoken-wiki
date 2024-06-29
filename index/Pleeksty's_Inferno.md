@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 104297
+revid: 104475
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -12,7 +12,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 |---|---|
 | type | Club |
 | requirements | 40 MED, 80 FIR |
-| damage | 20 |
+| damage | 22 |
 | scaling | MED: 3 FIR: 4 |
 | range | 8 |
 | swing speed | 0.93x |
@@ -31,7 +31,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 |---|---|
 | type | Club |
 | requirements | 40 MED, 90 FIR |
-| damage | 20 |
+| damage | 22 |
 | scaling | MED: 3 FIR: 4 |
 | range | 8 |
 | swing speed | 0.93x |
@@ -50,7 +50,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 |---|---|
 | type | Club |
 | requirements | 40 MED, 90 FIR |
-| damage | 20 |
+| damage | 22 |
 | scaling | MED: 3 FIR: 4 |
 | range | 8 |
 | swing speed | 0.93x |

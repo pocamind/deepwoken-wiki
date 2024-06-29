@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 102479
+revid: 104478
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -109,6 +109,7 @@ The abilities below are listed in order of obtainment.
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
 -   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop them. Also Illusion counter cancel fall damage with tough timing.
+-   Dexerius based this oath on the hit anime 'Naruto' based on the visionshaper clones being based off shadow clone jutsu and genjutsu. As well as the realm being based off the Kamui.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 104205
+revid: 104482
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face]
@@ -15,7 +15,7 @@ categories: [Equipment, Face]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +1 Common Pip: , Black, Orange, Yellow. , +1 Rare Pip: , Blue, Green, White. |
+| innate stats | +1 Common Pip: , Black, Orange, Yellow. , +1 Uncommon Pip: , Red. , ++1 Rare Pip: , Blue, Green, White. |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

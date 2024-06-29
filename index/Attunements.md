@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 101835
+revid: 104477
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -39,7 +39,7 @@ These ingredients are typically dropped by those who wield the attunement, such 
 
 By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the **Neuroplasticity** talent, both of which will help expand your Mantra arsenal.
 
--   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 30 Strength alongside 50 Flamecharm.
+-   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 20 Strength alongside 50 Flamecharm.
 
 Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by meeting an unfortunate end.
 

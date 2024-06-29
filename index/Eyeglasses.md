@@ -1,9 +1,9 @@
 ---
 title: Eyeglasses
-revid: 104208
+revid: 104470
 source: https://deepwoken.fandom.com/wiki/Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Face, Equipment]
+categories: [Equipment, Face, Glasses]
 ---
 
 # Eyeglasses
@@ -26,9 +26,4 @@ categories: [Face, Equipment]
 
 ## Description
 
-The Eyeglasses are an [Equipment](Equipment.md) item under the "Face" category. Eyeglasses can be obtained in Minityrsa and Songseeker Chests.
-
-## Trivia
-
--   [The Guy's Eyeglasses](The_Guy.md) uses the same model as Polarised Eyeglasses
--   Polarised Eyeglasses used to be called Polarized Sunglasses.
+The Eyeglasses are an [Equipment](Equipment.md) item under the "Face" category. Eyeglasses can be obtained in [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md) Chests.

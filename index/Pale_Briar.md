@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 103986
+revid: 104493
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
@@ -50,26 +50,38 @@ pale briar crit
 
 **Astral:**
 
-**Storm:**
-
-**Grim:**
-
-**Sear:**
-
-File:SearPaleBriar.png
-
 **Chilling:**
+
+**Curse Of The No Life King:**
+
+**Curse Of The Unbidden:**
+
+**Detonation:**
 
 **Elastic:**
 
 **Gluttony:**
 
-**Metal:**
-
-**Stone:**
-
-**Detonation:**
+**Grim:**
 
 **Heroism:**
 
+**Metal:**
+
+**Nemesis:**
+
+**Obfuscation:**
+
+**Providence Thorns:**
+
+**Sear:**
+
+File:SearPaleBriar.png
+
+**Stone:**
+
+**Storm:**
+
 **Umbral Knight:**
+
+**Wild:**
