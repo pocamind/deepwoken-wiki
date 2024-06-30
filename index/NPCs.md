@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 103849
+revid: 104582
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -74,7 +74,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
 | [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
-| [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards. |
+| [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards |
 | [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals |  |
 | [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, treefelling blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker |
@@ -102,43 +102,43 @@ Check the rest out for yourself, canonically smells really bad
 | [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Nyanna](Nyanna.md) | Unaligned, possible The Divers | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes every 1 hour, weapons and armor can be bought enchanted |
 | [Odiolavoro](Chef_Odiolavoro.md) | Unaligned, possibly Etrea | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
-| [Okumay](Okumay.md) | Unaligned | [The Sunken Railways](The_Sunken_Railways.md), [Second Layer](<https://deepwoken.fandom.com/wiki/Second_Layer#New_Kyrsa,_The_Sleeping_City_(F2)>) |  |  |
-| [Orion](Orion.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP and Bravery. |  |
+| [Okumay](Okumay.md) | Unaligned | [The Sunken Railways](The_Sunken_Railways.md), [Second Layer](<https://deepwoken.fandom.com/wiki/Second_Layer#New_Kyrsa,_The_Sleeping_City_(F2)>) |
+| [Orion](Orion.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP and Bravery. |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 
   
 [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
 
  | Teaches new players the basics of the game | Gives different dialogue if you have the Castaway origin who has done the tutorial |
-| Pete | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Petris](Petris.md) | Unaligned, possibly Etrea | [The Depths](First_Layer.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
-| [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |  |
+| Pete | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |
+| [Petris](Petris.md) | Unaligned, possibly Etrea | [The Depths](First_Layer.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |
+| [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |
 | [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
-| [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |  |
-| [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
-| Renau | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
+| [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
+| [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |
+| Renau | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |
 | Rimil | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
-| [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
-| [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
-| [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
+| [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |
+| [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |
+| [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
-| [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
+| [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |
 | [The Stranger](Murmur.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant Murmur: Tacet to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
-| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |  |
+| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |
 | [Surge](Surge.md) | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
-| [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |  |
-| [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |
+| [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |
+| [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |
 | [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Etris loredump | Dialogue varies based on Etris reputation, race and weapon equipped |
-| [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
+| [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest | Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two [Summer Company Guards](Summer_Company_Guard.md) |
-| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |  |
-| [Viridian](Oath%253A_Oathless.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |  |
-| [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
-| [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |
-| [Yamaketzal](Yamaketzal.md) | Unaligned, possibly an Old Steward | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |  |
+| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |
+| [Viridian](Oath%253A_Oathless.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |
+| [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |
+| [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |
+| [Yamaketzal](Yamaketzal.md) | Unaligned, possibly an Old Steward | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations, is a jab at the old azure flames shattered katana royal pathfinder vesperian meta |

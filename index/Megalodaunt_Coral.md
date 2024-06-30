@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coral
-revid: 104024
+revid: 104637
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -16,7 +16,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Intact coral from the back of a megalodaunt. |
+| desc | Intact coral from the back of a megalodaunt. [sic] |
 
 ## Description
 
@@ -24,4 +24,4 @@ The **Megalodaunt Coral** is used to gain the "Coral Spear" [Monster Mantra](Mon
 
 ## Trivia
 
--   for whatever reason it seems to only drop from normal [Megalodaunts](Megalodaunt.md), This could be because the Alpha and Crimson [Megalodaunts](Megalodaunt.md) have stronger coral. (Or it was an oversight)
+-   For whatever reason, it seems to only drop from normal Megalodaunts. This could be because the Alpha and Crimson have stronger coral.

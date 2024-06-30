@@ -1,9 +1,9 @@
 ---
 title: Wormwarder Lantern
-revid: 104509
+revid: 104626
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Backpack, Layer 2, Floor 1]
+categories: [Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
 ---
 
 # Wormwarder Lantern

@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 104562
+revid: 104716
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -38,6 +38,7 @@ The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forg
 2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
 3.  Talk to Sillhuett, then use Shadow's Flight or Shadow Travel at his location and you should be teleported. (There is a bug where you can get teleported under the ground and wiped, make sure you clip it to be restored.)
 4.  After using Shadow's Flight or Shadow Travel, you will be teleported to an arena where you will fight the NPC waiting for you to obtain the weapon Deepspindle, and you should get teleported back to where you found the NPC. If you die, you will be wiped.
+5.  If you have Hero Rep. with The Ministry, you can get the sword by talking to the NPC after being teleported when using [Shadow's Flight](<Shadow's_Flight.md>) or Shadow Travel.
 
 ## Critical
 
@@ -50,3 +51,5 @@ For the **standing** critical, the user stabs the weapon forward, marking an ene
 For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy.
 
 The running critical will put the player in the [Dark Rift](Talents.md) state after landing. Both criticals have a cooldown of **? seconds**.
+
+Deepspindle Obtainment Info: joejamma98 (Joejamma98)

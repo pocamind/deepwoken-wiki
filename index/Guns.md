@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 103478
+revid: 104717
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -48,7 +48,9 @@ If you use a side gun without a main gun, your side gun damage is reduced by 20%
 
 Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun). Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
 
-There is a gun technique you can learn from a quest giver named Trig outside the inn on Summer Isle. The man you need to find is on the shore to the left of the inn. If you decide to collect the man's debt you can return to Trig and give him the papers which will give you a large amount of reputation with the [Summer Company](The_Summer_Company.md) and opens up the possibility of obtaining [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up (requires 30 MED or LHT). However, if you decide to try to help the man by leaving without collecting the debt and try to confront Trig you will only get a bad reputation with the [Summer Company](The_Summer_Company.md) while two summer gunmen will appear to kill you, this option opens the possibility of obtaining [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) (requires 20 of MED or LTH or Fortitude), in case you were confused you can apologize to Trig and talk to the man again to collect his debt.
+The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
+
+There is a gun talent you can learn from a quest giver named Trig outside the inn on Summer Isle. The man you need to find is on the shore to the left of the inn. If you decide to collect the man's debt you can return to Trig and give him the papers which will give you a large amount of reputation with the [Summer Company](The_Summer_Company.md) and opens up the possibility of obtaining [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up (requires 30 MED or LHT). However, if you decide to try to help the man by leaving without collecting the debt and try to confront Trig you will only get bad reputation with the [Summer Company](The_Summer_Company.md) while two summer gunmen will appear to kill you, this option opens the possibility of obtaining [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) (requires 20 MED or LTH or Fortitude), in case you were confused you can apologize to Trig and talk to the man again to collect his debt.
 
 Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
 
@@ -60,7 +62,7 @@ _**Stats:**_
 
 **[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **1.06x** attack speed, 75 echoes. (0 LHT req)
 
-**[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **1.06x** attack speed, sold for **100** notes in summer isle. (20 LHT req)
+**[Flintlock](Flintlock.md):** **11** damage, **10** range, 12 LHT scaling, **1.06x** attack speed, sold for **100** notes in summer isle. (20 LHT req)
 
 **[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **1.06x** attack speed. Dropped by enemies. (40 LHT req)
 

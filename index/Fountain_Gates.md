@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 97518
+revid: 104697
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
 
 **Not to be confused with [Deep Shrines](Deep_Shrines.md).**
 
-Green fountains are hidden in corners of the world. They are full of power, allowing players to use them to teleport. To gain access to this teleport feature you must wash your face in the [Light Keeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots, provided you are Power 10+ and have visited [The Lordsgrove](The_Lordsgrove.md).
+Shrines are hidden in corners of the world. They are full of power, allowing players to use them to teleport. To gain access to this teleport feature you must wash your face in the [Light Keeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots. On any future slots, you only have to visit the Eastern Luminant in order to gain access to the shrines.
 
 ## Fountain Locations (To Greathive Aratel)
 

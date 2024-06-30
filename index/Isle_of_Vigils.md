@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 99844
+revid: 104571
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -126,6 +126,10 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Then go to the [Maestro](Evengarde_Rest.md) facing the opposite the sparring instructor with the white cloak.
 -   Talk to him to unbound your weapon proficiency by picking your weapon type.
 -   Note that you can also check the [Attributes Unbound](Attributes_Unbound.md) page.
+-   On the map the Brother should be near here.
+    
+    File:KjBrotherSpot.png
+    
 
 ## Maps
 

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 101339
+revid: 104696
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,7 +12,7 @@ categories: [Monsters, Bosses]
 
 ― Lumen’s Folklore: Volume ‘North’
 
-_Commonly referred to by the community and developers as Kaido._Template:Creature Infobox V3
+_Commonly referred to by the community and developers as Kaido._ Template:Creature Infobox V3
 
 ## Description
 
@@ -50,7 +50,6 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 ## Trivia
 
 -   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
--   The mantra 'Dread Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   Anyone can get the Murmur as long as you did enough damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
@@ -58,13 +57,10 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   It's implied that a Dread Serpent took out the Petra's Dawn as the Petra's Anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
 -   Its appearance is supposedly exactly what an Elder Edenkite once looked like, only it has no wings.
--   The model for the Dread Serpent's Tooth is a Dark Feather.
-    -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
--   The Tooth that Dread Serpent drops can be used to gain its breath attack through [Carrion](Carrion,_Father_of_Evolution.md).
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.\[citation needed\]
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.\[citation needed\]
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
 -   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.
 -   It would take roughly 300-400 cannonball shots to kill a dread serpent.
 -   This is the preferred boss to fight if you are trying to obtain the [Echo Talent: Chain of Perfection](Talent_Quests.md), as he can mostly be cheesed by staying behind his back. However, be careful because when the Dread Serpent comes out of the water it might hit you so be sure to dodge.
--   It is nicknamed 'Kaido' by the developers and community not only because it is convinent, but because the Dread Serpent heavily resembles Kaidou's dragon form from One Piece.
+-   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, especially in [Dimensional Travel](Dimensional_Travel.md)

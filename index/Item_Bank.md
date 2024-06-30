@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 101997
+revid: 104601
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -31,7 +31,6 @@ Along with this ability comes several limitations, being that certain items of s
 -   When storing any items that are not droppable, such as Relics, Rare Monster Parts, or **Soul-bounded** Hero Blades, Legendary [weapons](Weapons.md) and [enchants](Enchantments.md), you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping".
 -   When storing any eligible [Relics](Relics.md), each individual relic will have to be deposited one at a time, however will stack in the bank.
 -   When storing weapons or armor, they will take up their own slot and cannot stack like regular items do.
--   [Divers Light Plate](<Diver's_Light_Plate.md>) cannot be stored.
 -   Starter echoed items cannot be stored.
 -   You can store food that can be stacked.
 
@@ -44,3 +43,4 @@ Along with this ability comes several limitations, being that certain items of s
 -   You cannot store [Campfires](Campfire_Pit.md).
 -   You cannot be attacked while in the GUI
 -   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
+-   [Divers Light Plate](<Diver's_Light_Plate.md>) can now be stored.

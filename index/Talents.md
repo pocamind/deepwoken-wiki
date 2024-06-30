@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 104300
+revid: 104595
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -783,7 +783,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 -   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD.
-    -   Prerequisites: 85 Charisma, Taunt (?)
+    -   Prerequisites: 85 Charisma, Taunt
 
 ### Escape Artist
 

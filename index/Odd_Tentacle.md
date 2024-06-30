@@ -1,6 +1,6 @@
 ---
 title: Odd Tentacle
-revid: 104027
+revid: 104588
 source: https://deepwoken.fandom.com/wiki/Odd_Tentacle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -24,5 +24,4 @@ The **Odd Tentacle** is a common drop from the [Nautilodaunt](Nautilodaunt.md) a
 
 ## Trivia
 
--   [Nautilodaunts](Nautilodaunt.md) have 8 'arms' not tentacles on their face, tentacles only have suction cups on the ends whilst 'arms' have them all over.
-    -   Where their tentacles are is unknown, but very well could just be it's actual arms as [Squids](https://en.wikipedia.org/wiki/Squid%7CSquids) only have two tentacles.
+-   [Nautilodaunts](Nautilodaunt.md) have 8 "arms," not tentacles, on their face, as tentacles only have suction cups on the ends whilst "arms" have them all over. Where the Odd Tentacle could be located is unknown, but it very well could just be an arm, as [Squid](https://en.wikipedia.org/wiki/Squid) only have two tentacles.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 104299
+revid: 104705
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -284,6 +284,28 @@ _A rising tornado of flames._
 -   Deals moderate-high damage. It has a base damage of 15. (And apparently has a max damage of 25?)
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
 -   Does not send the user vertically into the air if no targets are hit.
+
+ |
+| TBA | 
+
+  
+
+  
+Flare Volley
+
+(★★☆)
+
+ | Conjure up to 3 fireballs to vollery at your enemies | User releases a small projectile fireball and sets enemy on fire if hit
+
+Deals high posture damage
+
+(WORK IN PROGRESS)
+
+  
+
+  
+
+  
 
  |
 | 
