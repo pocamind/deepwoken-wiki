@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 92619
+revid: 104843
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -21,15 +21,16 @@ Loot inside a chest is shown with different colors depending on their rarity, ra
 -   Rare items are labelled as red. Though despite being rare, they're very common in The Depths and Hive
 -   Legendary Gear, Schematics or Rings are labelled as bright cyan.
 -   Armors or Weapons with a Mythical rarity are labelled as bright violet.
-    -   Mythical Items include Legendary Weapons, Relics, and Enchant Stones
--   Unique items are labelled as deep magenta (Currently only Ferryman's Coat)
+    -   Mythical Items include Legendary Weapons, Relics, and Enchant Stones.
+-   Unique items are labelled as deep magenta. (Currently only [Ferryman's Coat](<Ferryman's_Coat.md>))
+-   Relics are labelled as a bright green.
 -   Enchanted items are labelled as white.
 
 The color of a chest depends on where you got it from, consisting of four variations as of current version.
 
 -   A brown chest with silver metal parts, found commonly in the Etrean Luminant.
 -   A gold chest with gold metal parts, found commonly in the East or from turning in [pure ores](Ores.md).
--   A cyan chest with green-white metal parts, found commonly in the Depths/Boss Fights.
+-   A cyan chest with green-white metal parts, found commonly in the [Depths](The_Depths.md)/Boss Fights.
     -   This chest, along with the gold chest, can also be found through [fishing](Fishing.md).
 -   A neon pink chest, found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 

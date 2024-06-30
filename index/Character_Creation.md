@@ -1,9 +1,9 @@
 ---
 title: Character Creation
-revid: 102440
+revid: 104847
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
+categories: [OutdatedPages, Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -12,7 +12,7 @@ notices:
 
 In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunements.md), [Races](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
 
-The character creation screen.
+Character Creation screen
 
 ## Races
 
@@ -36,11 +36,43 @@ To obtain the [Ironsing](Ironsing.md) Attunement, you need to unlock it with a s
 
 ### Starting Attunements
 
-Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing Template:Testingㅤ
+Attunement-less
+
+Attunement-less 
+
+[Text](Announcements.md)
+
+[Text](Announcements.md) 
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md) 
+
+[Frostdraw](Frostdraw.md)
+
+[Frostdraw](Frostdraw.md) 
+
+[Thundercall](Thundercall.md)
+
+[Thundercall](Thundercall.md) 
+
+[Galebreathe](Galebreathe.md)
+
+[Galebreathe](Galebreathe.md) 
+
+ㅤ
 
 ### Unlockable Attunements
 
-Template:Testing Template:Testingㅤ
+[Shadowcast](Shadowcast.md)
+
+Shadowcast 
+
+Ironsing
+
+Ironsing 
+
+ㅤ
 
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
@@ -52,16 +84,54 @@ _([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a
 
 ### Starting Weapon Classes
 
-Template:Testing Template:Testing Template:Testing
+[Sword](<Sword_(weapon).md>)
+
+[Sword](<Sword_(weapon).md>) 
+
+[Battleaxe](Battleaxe.md)
+
+[Battleaxe](Battleaxe.md) 
+
+[Stiletto](Stiletto.md)
+
+[Stiletto](Stiletto.md) 
 
 ### Unlockable Starter Weapons
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
-Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing
+[Way of Navae](Way_of_Navae.md)
 
--   _As of the update on 3/12/22, learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
--   _As of the release of Verse 2, you could use 25 [Echoes](Echoes.md)_ _(each)_ _to unlock the four new starting weapons shown above._
+Way of Navae 
+
+[Quickfang](Quickfang.md)
+
+[Quickfang](Quickfang.md) 
+
+[Irontusk](Irontusk.md)
+
+[Irontusk](Irontusk.md) 
+
+[Silversix](Silversix.md)
+
+[Silversix](Silversix.md) 
+
+[Avenger](Avenger.md)
+
+[Avenger](Avenger.md) 
+
+Jus Karita
+
+Jus Karita 
+
+Legion Kata
+
+Legion Kata 
+
+  
+
+-   _Learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
+-   _Using 25 [Echoes](Echoes.md)_ _(each)_ _unlocks the four new starting weapons shown above._
 
 ## Boons and Flaws
 

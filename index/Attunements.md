@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 104477
+revid: 104845
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -53,11 +53,43 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 ## Base Attunements
 
-Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again. Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing
+Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again.
+
+Attunement-less
+
+Attunement-less 
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md) 
+
+[Frostdraw](Frostdraw.md)
+
+[Frostdraw](Frostdraw.md) 
+
+[Thundercall](Thundercall.md)
+
+[Thundercall](Thundercall.md) 
+
+[Galebreathe](Galebreathe.md)
+
+[Galebreathe](Galebreathe.md) 
+
+  
 
 ## Obtainable Attunements
 
-Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account. Template:Testing Template:Testing
+Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
+
+[Shadowcast](Shadowcast.md)
+
+Shadowcast 
+
+Ironsing
+
+Ironsing 
+
+  
 
 ## Upcoming Attunements
 
