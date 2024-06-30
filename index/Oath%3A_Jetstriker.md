@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 103643
+revid: 104774
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Jetstriker | |
 |---|---|
 | oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility, All Talents Effects, +5 Health, +5 Ether, +7 Passive Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility, All Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
 
 “ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
@@ -48,7 +48,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 ## Abilities
 
 -   **Acceleration Points - Talent**
-    -   Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum.
+    -   Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum. (+5 Passive Agility)
 
 -   **Jetstream Pursuit - Talent**
     -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 103408
+revid: 104775
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -54,6 +54,7 @@ Some players have access to customized, unique names.
 -   Andrae
 -   Andre
 -   Andrew
+-   Andy
 -   Anos
 -   Antarc
 -   Anthony
@@ -65,6 +66,7 @@ Some players have access to customized, unique names.
 -   Armadeus
 -   Arnald
 -   Artemis
+-   Arthas
 -   Arthur
 -   Artminas
 -   Aryn
@@ -116,6 +118,7 @@ Some players have access to customized, unique names.
 -   Charlie (unintentionally listed twice)
 -   Chert
 -   Chesed
+-   Chilchuck
 -   Chris
 -   Christopher
 -   Chuck
@@ -131,6 +134,7 @@ Some players have access to customized, unique names.
 -   Connor
 -   Conrad
 -   Cornelius
+-   Corvo
 -   Cozen
 -   Creon
 -   Crona
@@ -149,17 +153,19 @@ Some players have access to customized, unique names.
 -   Dash
 -   David
 -   Dawn
+-   Dean
 -   Demetrius
 -   Devin
 -   Dex
 -   Diar
 -   Diego
 -   Dimitri
--   Dinell
+-   Dinell (unintentionally listed twice)
 -   Diomedes
 -   Dior
 -   Dominic
 -   Donovan
+-   Doug
 -   Dove
 -   Dragon
 -   Drake
@@ -169,8 +175,8 @@ Some players have access to customized, unique names.
 -   Dust
 -   Dylan
 -   Edgar
--   Eisen
 -   Edward
+-   Eisen
 -   Eli
 -   Elijah
 -   Elk
@@ -204,6 +210,7 @@ Some players have access to customized, unique names.
 -   Fisher
 -   Fitz (unintentionally listed twice)
 -   Florian
+-   Fort
 -   Fox
 -   Francis
 -   Francisco
@@ -215,6 +222,7 @@ Some players have access to customized, unique names.
 -   Gabbro
 -   Gabriel
 -   Gael
+-   Gaheris
 -   Gaius
 -   Galahad
 -   Gale
@@ -269,6 +277,7 @@ Some players have access to customized, unique names.
 -   Horace
 -   Horatio
 -   Horus
+-   Hunter
 -   Hutch
 -   Hypnos
 -   Ian
@@ -607,6 +616,8 @@ Some players have access to customized, unique names.
 -   Vin
 -   Vincent
 -   Vinney
+-   Vino
+-   Vyke
 -   Walid
 -   Wallace
 -   Walter
@@ -653,8 +664,10 @@ Some players have access to customized, unique names.
 -   Agrippa
 -   Alaia
 -   Alder
+-   Aldrich
 -   Alex
 -   Alexandra
+-   Alfie
 -   Alice
 -   Alto
 -   Alvida
@@ -745,6 +758,7 @@ Some players have access to customized, unique names.
 -   Diana
 -   Diane
 -   Diar
+-   Dinell
 -   Dorothy
 -   Dove
 -   Drew
@@ -769,6 +783,8 @@ Some players have access to customized, unique names.
 -   Eve
 -   Evelyn
 -   Evi
+-   Falcon
+-   Falin
 -   Faris
 -   Faust
 -   Faye
@@ -780,6 +796,7 @@ Some players have access to customized, unique names.
 -   Fitz
 -   Florence
 -   Florian
+-   Fort
 -   Fortuna
 -   Fox
 -   Francesca
@@ -831,6 +848,7 @@ Some players have access to customized, unique names.
 -   Iris
 -   Isabella
 -   Isma
+-   Izutsumi
 -   Izzy
 -   Jackdaw
 -   Jamie
@@ -1070,8 +1088,10 @@ Some players have access to customized, unique names.
 -   Victoria
 -   Vida
 -   Vin
+-   Vino
 -   Violet
 -   Vivian
+-   Vyke
 -   Wanderer
 -   Wane
 -   Wendelin
@@ -1107,6 +1127,7 @@ Some players have access to customized, unique names.
 
 -   Agrippa
 -   Alder
+-   Aldrich
 -   Alex
 -   Alto
 -   Amaros
@@ -1309,7 +1330,10 @@ Some players have access to customized, unique names.
 -   Uriel
 -   Usopp
 -   Valerian
+-   Vamp
 -   Vin
+-   Vino
+-   Vyke
 -   Wanderer
 -   Wane
 -   Wilson
@@ -1701,7 +1725,7 @@ Some players have access to customized, unique names.
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
--   The name "Inari" is a reference to the _Rogue Lineage_ races _Vind_ and _Fischeran._
+-   The name "Inari" is a reference to Monad Studios previous game _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki)_ where the races _[Vind](https://rogue-lineage.fandom.com/wiki/Vind?so=search)_ and _[Fischeran](https://rogue-lineage.fandom.com/wiki/Fischeran)_ share that name_._
 -   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
@@ -1720,7 +1744,7 @@ Some players have access to customized, unique names.
 -   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
 -   The name Frieren is a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
 -   The name Wanderer is a reference to the [Genshin Impact](https://genshin.hoyoverse.com/en/) character, Scaramouche.
--   The name Laios and Marcille are references to the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
+-   The names 'Chilchuck', 'Falin', 'Izutsumi', 'Laios', 'Macille', 'Senshi' and 'Thistle' are all references to the main party and antagonist of the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
 -   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
     -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
 -   The names Radovan and Ifrit are references to the game series, [Final Fantasy](https://www.finalfantasyxiv.com/).

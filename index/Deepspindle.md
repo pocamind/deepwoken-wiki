@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 104759
+revid: 104780
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -36,9 +36,9 @@ The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forg
 
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
-3.  Talk to Sillhuett, then use Shadow's Flight or Shadow Travel at his location and you should be teleported. (There is a bug where you can get teleported under the ground and wiped, make sure you clip it to be restored.)
-4.  After using Shadow's Flight or Shadow Travel, you will be teleported to an arena where you will fight the NPC waiting for you to obtain the weapon Deepspindle, and you should get teleported back to where you found the NPC. If you die, you will be wiped.
-5.  If you have Hero Rep. with The Ministry, you can get the sword by talking to the NPC after being teleported when using [Shadow's Flight](<Shadow's_Flight.md>) or Shadow Travel.
+3.  Talk to Sillhuett, then use Shadow's Flight or Shadow Travel at his location and you should be teleported.
+4.  After using Shadow's Flight or Shadow Travel, you will be teleported to the Ministry Cache and fight the NPC wielding the Deepsindle. Once defeated, you obtain the weapon and are brought back to the where Sillhuett was.
+    1.  Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon immediatly.
 
 ## Critical
 

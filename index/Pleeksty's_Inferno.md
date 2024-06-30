@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 104547
+revid: 104777
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -75,6 +75,8 @@ Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created us
 
 Unlike [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), it does not proc burn on basic attacks, only the criticals.
 
+Club talents also work. (Needs testing)
+
 ## Critical
 
 Pleeksty's Inferno has **two** different criticals.
@@ -84,6 +86,8 @@ For the **standing** critical, the user plunges their club into the ground, crea
 For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile, ragdolling enemies. The projectile is directional and will fly in the direction of your characters momentum.
 
 Both criticals share a cooldown of **8 seconds** and can proc Flamecharm talents.
+
+Azure and Twisted Puppets variant of the critical does not change visual colors. (Needs to be fixed as it should change colors depending on the variant.)
 
 ## Trivia
 
