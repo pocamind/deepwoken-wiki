@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 104571
+revid: 104736
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -117,19 +117,17 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 
 **\[The quest does not require Weapons 75 to complete.\]**
 
--   Talk to the crying [Vigil guard](Attributes_Unbound.md) (Apprentice Kj) on the other side of the library.
+-   Talk to the crying Vigil guard, Apprentice Kj, on the other side of the library.
 -   He will tell you about his lost brother and will ask you to rescue him.
 -   Go deep into the [Burning Stone Gardens](Burning_Stone_Gardens.md), his brother will be near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
--   Keep in mind you will require to bring him a Gale Stone.
--   Hold out the Gale Stone when you talk to him to give it to him.
--   Go back and talk to Apprentice Kj.
--   Then go to the [Maestro](Evengarde_Rest.md) facing the opposite the sparring instructor with the white cloak.
--   Talk to him to unbound your weapon proficiency by picking your weapon type.
--   Note that you can also check the [Attributes Unbound](Attributes_Unbound.md) page.
--   On the map the Brother should be near here.
     
     File:KjBrotherSpot.png
     
+-   Bring him a Gale Stone.
+-   Hold out the Gale Stone when you talk to him to give it to him.
+-   Go back and talk to Apprentice Kj.
+-   Then go to the [Maestro](Evengarde_Rest.md), facing opposite the sparring instructor, with the white cloak.
+-   Talk to him to unbound your weapon proficiency by picking your weapon type.
 
 ## Maps
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 104595
+revid: 104746
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1831,6 +1831,9 @@ _**"I seek the qualities of Lichtenberg."**_
 -   _**Will o' Wisp**_ \[Advanced Talent, Attunement Exclusive\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
     -   Prerequisites: Attunement Wisp mantra, 25 Element
+-   _Wisp Overdrive_ \[Rare Talent, Attunement Exclusive\] - Your ability of the song grants your wisps significantly more charges and increased effectiveness in their abilities.
+    -   Enhances all wisps summoned but has less effectiveness on wisps past the first one summoned.
+    -   Prerequisites: Will o' Wisp, 75 Element
 
 ### Saint of Blades
 

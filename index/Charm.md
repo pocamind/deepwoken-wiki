@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 83492
+revid: 104749
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]

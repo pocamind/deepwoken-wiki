@@ -1,9 +1,9 @@
 ---
 title: Deepspindle
-revid: 104716
+revid: 104759
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons]
+categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -52,4 +52,6 @@ For the **running** critical, the user stabs weapon into themselves, dealing sel
 
 The running critical will put the player in the [Dark Rift](Talents.md) state after landing. Both criticals have a cooldown of **? seconds**.
 
-Deepspindle Obtainment Info: joejamma98 (Joejamma98)
+## Trivia
+
+-   This item _can_ be droppable.
