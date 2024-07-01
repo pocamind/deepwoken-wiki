@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 104797
+revid: 104868
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -19,7 +19,7 @@ notices:
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |
-| special effect | Proccing Shadowcast talents on critical hits. |
+| special effect | Proccing Shadowcast talents on critical hits.Has synergies with the Darkscorn Casque and Darkened Bastion armor. |
 | stances | 1 Handed |
 | selling price | 100 |
 | weight | 5 |
@@ -37,7 +37,7 @@ The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forg
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
 3.  Talk to Sillhuett, then use Shadow's Flight or Shadow Travel at his location and you should be teleported.
-4.  After using Shadow's Flight or Shadow Travel, you will be teleported to the Ministry Cache and fight the NPC wielding the Deepsindle. Once defeated, you obtain the weapon and are brought back to the where Sillhuett was.
+4.  After using Shadow's Flight or Shadow Travel, you will be teleported to the Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon and are brought back to the where Sillhuett was.
     1.  Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon immediatly.
 
 ## Critical

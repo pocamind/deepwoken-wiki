@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 104594
+revid: 104872
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -127,7 +127,7 @@ File:Sinner's Ash.png
  | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon it's first usage.
 
   
-It grants the user +20 knowledge on subsequent uses.
+It grants the user +30 knowledge on subsequent uses.
 
 -   _(Consumed upon usage)_
 

@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 104549
+revid: 104884
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -31,10 +31,9 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
--   A [Resonance](Resonance.md)†
--   [Pleeksty's Will](Talents.md#inferno) talent
+-   [Pleeksty's Will](Talents.md#inferno) talent or the [Flame Worshipper](Flame_Worshipper_Armor.md) outfit
 
-_†A Resonance is only required to go through the doors, if you go through the doors via clipping, you do not need to have a Resonance._
+_A Resonance is needed to go through the three doors leading to Aska. You can however clip through them if you do not have a Resonance, which will still allow you talk to and fight him._
 
 ## Moveset
 
@@ -187,8 +186,8 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 ## Trivia
 
--   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
--   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.
+-   If you do not meet the requirements, you will _**be set on fire and wipe**_. Be certain that you have met the requirements before initiating the fight.
+-   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does not _need_ to be equipped to initiate the fight.
 -   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire.
 -   If Aska falls off the map, you can escape through Chaser and still obtain the weapon.
     -   Aska can land on platforms that are between the void, softlocking you until you either fight Chaser or use the Deepdrill. He will respawn in the same place unharmed.
