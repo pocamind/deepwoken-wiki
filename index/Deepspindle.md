@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 104868
+revid: 104890
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -50,7 +50,7 @@ For the **standing** critical, the user stabs the weapon forward, marking an ene
 
 For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy.
 
-The running critical will put the player in the [Dark Rift](Talents.md) state after landing. Both criticals have a cooldown of **? seconds**.
+The running critical will put the player in the [Dark Rift](Talents.md) state after landing. Both criticals have a cooldown of 5 **seconds**.
 
 ## Trivia
 

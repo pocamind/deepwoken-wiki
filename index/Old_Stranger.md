@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 101223
+revid: 104902
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -111,3 +111,7 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   If you give him Redd Juice, he will say "Ah, just like mama used to make! Now, where were we..."

@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 103722
+revid: 104898
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Unique Critical]
@@ -33,7 +33,7 @@ categories: [Weapons, Spears, Unique Critical]
 | damage | 19 |
 | scaling | 7 |
 | range | 9 |
-| swing speed | 0.69x |
+| swing speed | 0.92x |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |

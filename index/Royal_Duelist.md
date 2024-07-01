@@ -1,6 +1,6 @@
 ---
 title: Royal Duelist
-revid: 74006
+revid: 104891
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms]
 | selling price | 14 |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | 2 Pips |
+| innate stats | +2 Rare Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Minityrsa, Songseeker Wilds |
-| description | ... |
+| description | "..." |
 
 ## Description
 

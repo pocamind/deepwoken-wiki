@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 103688
+revid: 104901
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -155,9 +155,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Air Pressure - When Duke dodges an attack or hits your block his next dash will be a Gale Dash.
 -   Pressure Break - When Duke breaks your posture, you will take intense wind pressure damage and be flung backwards.
 -   Silencer's Edge - If Duke melees you while you are 'Suffocated' he will gain a speed boost.
--   Silencer's Blade - If Duke melees you while you are 'Suffocated' it will extend the duration of the Suffocation.
--   A World Without Song - Duke's wind mantras will now apply 'Suffocate'.
-    -   Note that this only works on his Cyclone Bomb move.
+-   Silencer's Blade - If Duke melees you while you are 'Suffocated' it will extend the duration of the Suffocation
 -   Collapsed Lung - When block broken by Duke you are unable to Vent for 3s.
 -   Dirty Boxing - If Duke hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
 -   Concussion - When Duke flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.

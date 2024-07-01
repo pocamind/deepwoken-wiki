@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 104746
+revid: 104900
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1702,9 +1702,9 @@ _**"I seek the qualities of Lichtenberg."**_
 
 > _**"I seek the qualities of politician."**_
 
--   Cult of Personality \[common Talent, Charisma Exclusive\] - You gain +3% PEN for each person Charmed, capping at +15% PEN.
+-   Cult of Personality \[Common Talent, Charisma Exclusive\] - You gain +3% PEN for each person Charmed, capping at +15% PEN.
     -   Prerequisites: 90 Charisma
--   Pardon Me \[common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
+-   Pardon Me \[Common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
     -   Guards from faction which you are at or above neutral reputation will not aggro on you.
         -   Crimes still induce reputation lose however will turn hostile/react to crimes when your reputation become negative.
     -   Prerequisites: 85 Charisma
