@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 104789
+revid: 104909
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -29,7 +29,8 @@ The Hell Mode Bell can be found within the [Celtor Wastes](Celtor_Wastes.md). To
 Once the conditions are met, [The Depths](The_Depths.md) (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
 -   Spawn rates are increased by 10x.
--   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of King Threshers and Alpha Megalodaunts.
+-   Increased chance for [Deepspindle](Deepspindle.md) event
+-   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of [King Threshers](Thresher.md) and [Alpha Megalodaunts](Megalodaunt.md), but [Mudskipper Broodlord](Mudskipper_Broodlord.md) will not spawn as always corrupted.
 -   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
     -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   King Thresher's burrowing attack is disabled.

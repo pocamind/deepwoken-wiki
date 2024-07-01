@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 104900
+revid: 104911
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -270,6 +270,7 @@ Certain talents lie in "Priority Talents" - the type of talents that game weighs
 > _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
+    -   The talent is less effective with less points you have. (ex. Post Shrine of Order)
     -   Prerequisite: 100 Strength
 
 ### Apex Predator

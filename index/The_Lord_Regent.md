@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 103496
+revid: 104908
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -164,7 +164,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 -   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) states that the Coral Throne Zi'eer sits on boosts his power.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change interactions with Lord Regent.
--   Seemingly has a negative connection with the Knives of Eylis and it's members, calling Voidwalkers "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
+-   Seemingly has a negative connection with the Knives of Eylis and its members, calling Voidwalkers "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
     -   This may be because of the Knives of Eylis' current deals with the Authority.
 -   There are free chests that contain [Erisia](Erisia.md) tier loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:

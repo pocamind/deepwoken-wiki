@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 104890
+revid: 104912
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -44,14 +44,14 @@ The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forg
 
 The Deepspindle has two different criticals.
 
-  
-
-For the **standing** critical, the user stabs the weapon forward, marking an enemy before dealing damage multiple times.
+For the **standing** critical, the user stabs the weapon forward, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting.
 
 For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy.
 
-The running critical will put the player in the [Dark Rift](Talents.md) state after landing. Both criticals have a cooldown of 5 **seconds**.
+The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both criticals have a cooldown of 5 **seconds**.
 
 ## Trivia
 
 -   This item _can_ be dropped.
+-   Meeting the requirement of LHT and SHW, the damage is (23.19)
+-   At max LHT and SHW, the damage is (27.65)

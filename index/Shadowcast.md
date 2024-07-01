@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 104580
+revid: 104910
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -93,7 +93,7 @@ Shadow Chains
 
 -   Duration of the chain effect can be increased with Logstones
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
--   Casts an extra chain at level 5 \[Testing needed\]
+-   Casts an extra chain at level 5 \[Confirmed, level 5 does cast an additional chain.\]
 
  |
 | 

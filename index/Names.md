@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 104775
+revid: 104913
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1759,6 +1759,7 @@ Some players have access to customized, unique names.
 -   The name Meliodas may be a reference to the anime and manga series, _The Seven Deadly Sins_.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
 -   The name Minos is also a reference to Greek mythology.
+-   The names Shabriri, Vyke, and Godfrey may be references to Elden Ring.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in.
