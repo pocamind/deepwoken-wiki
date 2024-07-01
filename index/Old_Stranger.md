@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 104902
+revid: 104934
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -61,14 +61,16 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 <tr>
   <td>[Hand him your Canteen]</td>
   <td>[Collect water using Condensation Drip]</td>
+  <td>[Give him Redd Juice]</td>
   <td>End</td>
 </tr>
 <tr>
   <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
   <td>Oh, neat trick! That hit the spot. Now, where were we...</td>
+  <td>Ah, just like mama used to make! Now, where were we...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +113,3 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   If you give him Redd Juice, he will say "Ah, just like mama used to make! Now, where were we..."

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 104871
+revid: 104955
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -770,8 +770,6 @@ Rising Shadow
  | 
 
  | 
-
-File:Rising Shdaow with Blast Spark.gif
 
  | 
 

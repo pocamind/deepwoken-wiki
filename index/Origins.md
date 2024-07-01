@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 103193
+revid: 104935
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Kills]
@@ -42,7 +42,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
 -   **\[PRO\]** Allows use of the Shrine of Solitude.
--   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the depths.
+-   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the [Fragments of Self](Fragments_of_Self.md), however you must have defeated the [Megoladaunt](Megalodaunt.md) to have this option.
 -   **\[CON\]** Your default spawn puts you in enemy territory, and there is no nearby town.
 
 ## Deepbound
@@ -123,14 +123,14 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ### **Authority Origin**
 
--   An Authority based origin. Not much is known about it, other than you are being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
+-   An Authority based origin. Not much is known about it, other than you are able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
 
 The following is speculation:
 
 -   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
--   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
+-   Similar to how Voidwalker may have its own origin oath in the future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base.
--   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
+-   Very high chances you may start this origin with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
 -   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with NPCs, having the Adret race (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
 
 ### **Hive Origin**

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 104916
+revid: 104917
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 Meet the following requirements and talk to a barber about Hair Cutting:
 
--   Power 5
+-   Power 12+
 
 -   Change your hair 10 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 10 times will work also)._
     -   If you have changed your hair enough times before being power 5, you do not need to repeat the step.

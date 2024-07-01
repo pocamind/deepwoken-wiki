@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 104298
+revid: 104937
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -55,6 +55,7 @@ To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Li
 -   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
 -   This was buffed after developer Ragoozer was made to fight a (previously regenerating at 60 hp per second) corrupted [Bone Keeper](Bone_Keeper.md).
 -   Selecting Jus Karita on the character selection will allow you to use the fist style without the criterion of 40 LHT, though the base damage will be reduced until you reach the aforementioned requirement.
+    -   You will also not be able to obtain a [Gold Ring](Equipment.md) from [Polis](Polis.md)
 
 ## References
 

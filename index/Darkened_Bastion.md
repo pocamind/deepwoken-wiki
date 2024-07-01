@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 104885
+revid: 104929
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]

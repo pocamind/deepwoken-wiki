@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 104882
+revid: 104952
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -144,8 +144,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>The weapon's critical becomes a katana's.<br>
-  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker, but using the critical without a marker will remove its hitbox.<br>
+  <td><div><p>The weapon's critical becomes a katana's but with no hitbox.<br>
+  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
   <p>The critical can still trigger critical talents like Bear Trap and Manipulator.<br>
