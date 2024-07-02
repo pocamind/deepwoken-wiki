@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 103506
+revid: 105027
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ _This page is about the mob named Ghost. If you're looking for a talent of the s
 
 Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are encountered by interacting with a ghost NPC if you have gripped a player, in which case they will say "...Did you think we'd forget?" and four ghost enemies will be summoned. If you have not gripped any players, they will simply tell you to "remember the dead" (also applies to Mute [Regalia](Regalia.md)), and not attack. You must have a combat encounter with any ghosts to summon [The Dreadstar](The_Dreadstar.md).
 
-## Moves
+## Moveset
 
 <table><caption></caption>
 <tbody>
