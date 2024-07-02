@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 104943
+revid: 105000
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -99,3 +99,4 @@ Up close Contractor strings
 -   In lore, a Contractor is seen as one of the most cruel, heartless, and emotionless beings in the world of Lumen due to them not having free will. This was because they give up their souls and will to the prophet to become their living puppets. Also, the fact Zi'eer ordered the Contractor player to slay people with [Oaths](Oaths.md) in [the Depths](The_Depths.md), and they accept the quest without a hint of remorse or questioning its morality is already a hint that the Contractor player has lost a part of their humanity.
 -   If you for some reason do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are truly a fool" and kill you instantly.
 -   Due to your reputation with the Divers being set as "Hunted" you will have a bounty in the Voidwalker bounty board. (Unsure if bug or intended since Divers do not have a bounty board) (needs further testing).
+-   Dialogue with the [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) is changed to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"

@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 102632
+revid: 104994
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -140,6 +140,7 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 | **Rising Wind** | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |
 | **Strong Left** | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
 | **Rapid Punches** | User unleashes a barrage of blows against their foes. | ◯ | ◯ | (★★☆) |
+| **Karita Leap** | User launches themselves into a flying kick, backflipping into the air if they hit a wall. | ◯ | ◯ | (★☆☆) |
 
   
 
@@ -195,4 +196,5 @@ Polis executes his opponent after knocking them:
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."
 -   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and does not give you a Gold Ring or any other dialogue.
 -   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead.
+-   Polis does use Jus Karita mantras, despite wielding a Greatsword.
 -   His name historically means "Greek city state."

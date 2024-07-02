@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 96861
+revid: 104998
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses]
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Cuirasses]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:The Depths (Second Layer), Saramaed Summit, Miner's Landing, Crypt of the Unbroken |
-| description | ... |
+| description | "..." |
 
 ## Description
 

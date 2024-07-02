@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 104930
+revid: 104999
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -209,6 +209,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
+-   The Triple Blood Wave move used by Chaser closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.
 -   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
     -   He is still viewed as the easiest boss ingame, due to his insanely predictable attacks with loud sound queues, with his only troublesome move being the stalactites as they stall the fight as well as being completely random.
