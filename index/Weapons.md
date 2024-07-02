@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 104936
+revid: 104959
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2119,7 +2119,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.93x</td>
   <td>N/A</td>
-  <td>38.05</td>
+  <td>38</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Deepspindle"><font>Deepspindle</font></a></td>

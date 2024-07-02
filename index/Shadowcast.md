@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 104910
+revid: 104993
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -48,9 +48,9 @@ Dark Blade
 
  | Slicing blades of dark energy. | 20 Ether | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
--   Adding 1 Tornado Spark adds an additional spinning slash at the end of the initial slashes.
 -   Adding rush shards make dark blade faster.
 -   Adding vibrant gems increase ether steal.
+-   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
 
  |
 | 
@@ -155,7 +155,7 @@ Rising Shadow
 with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
 
 -   Drift and Rush Shards increase projectile speed.
--   Adding 1 Blast Spark will make your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra.
+-   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra, if your ether is full you emit a wave of shadow.
 
  |
 | 
@@ -228,7 +228,11 @@ Shadow Vortex
 Shade Devour  
 (★☆☆)
 
- | Gorge on your own health for raw strength | 55 Ether | Causes a damaging shockwave, adds a +20% weapon damage buff to the user, consumes health upon use.
+ | Gorge on your own health
+
+for raw strength
+
+ | 55 Ether | Causes a damaging shockwave that adds a +20% weapon damage buff to the user, consumes health upon use.
 
 -   Spine Cutter cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
@@ -248,7 +252,7 @@ Devouring Eye
 
  | 
 
-Shade Wisp  
+Shad Wisp  
 (★★☆)
 
  | Summon a servant of Shade | 70 Ether | Cloaks the caster in darkness and reduces their visibility
@@ -271,13 +275,11 @@ Currently can bug, not allowing you to complete the ritual cast and requiring yo
 Encircle  
 (★☆☆)
 
- | Conjure shadows around your enemy before
+ | Conjure shadows around your enemy
 
-warp-striking to them.
+before warp-striking to them.
 
- | 90 Ether | 
-
-The user will summon shadows around their target and teleport to them after a short wait.
+ | 90 Ether | The user will summon shadows around their target and teleport to them after a short wait.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
@@ -762,9 +764,10 @@ N/A
         
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   An interesting example of this would be using a blast spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
--   Just like every other attunement, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast, or obtained from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+-   Just like every other attunement, Shadowcast has two legendary weapons the [Crypt Blade](Crypt_Blade.md) and the [Deepspindle](Deepspindle.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast, or obtained from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
+-   Shadowcast is the only actual attunement (meaning attunementless is not included) to not have its own respective path.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 95150
+revid: 104990
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -28,7 +28,7 @@ LocationL KINGMAKER'S ISLE LocationR
 
 TERRITORY OF THE HUNDRED LEGIONS
 
-Far to the west. warriors are forged in the heat of battle.
+Far to the west, warriors are forged in the heat of battle.
 
   
 This island serves as the map for Battle Royale.

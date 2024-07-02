@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 69317
+revid: 104987
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -51,11 +51,11 @@ During this transformative era, significant advancements lead to the creation of
 
 ## The Tides
 
-This happened when civilization started using the song too much which angered the drowned gods causing them to cause the first great drowning.
+The Tides, are an event that stemmed from the Canticlysm's overuse of the song; the sound of which supposedly nearly woke up the drowned gods. The tides sunk the old world, as well as drawing the Voidsea far closer to the luminants.
 
 ## New World
 
-The current world, and the one we play in; Erisia has recently drifted in from the Voidsea in the Etrean Luminant,
+The current world of deepwoken, a result of the tides. Referred to as a dying world by the description of the game itself; the voidsea slowly closing in on the world.
 
 ## Footnotes
 

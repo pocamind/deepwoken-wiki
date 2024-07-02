@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 104957
+revid: 104986
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -304,11 +304,6 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   You regenerate your armour at campfires.
     -   Can be done at Power 20 for an extra deck of cards.
-
-**(Power 10)** No Time for Enemies - All [Factions](Reputation.md) are neutral with you. _**Obtained by completing the quest of Zarakai behind the breakable wall at Cerulean, in [Miner's Landing](<Miner's_Landing.md>)**_
-
--   All Factions are neutral with you upon starting a new character.
-    -   Must be above Power 10 and have Oathless for him to spawn.
 
 **(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
 

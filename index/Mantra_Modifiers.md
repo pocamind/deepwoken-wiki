@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 104955
+revid: 104989
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -1174,24 +1174,6 @@ Air Force
  |
 | 
 
-Tornado
-
-(★☆☆)
-
- | 
-
- | 
-
-File:Tornado with Reversal Spark.gif
-
- | 
-
--   This modifier seems to have no effect on the "Tornado" mantra.
-    -   The modifier is a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
-
- |
-| 
-
 Chain Pull
 
 (☆☆☆)
@@ -1440,8 +1422,6 @@ Dark Blade
  | 
 
  | 
-
-File:Dark Blade with Tornado Spark.gif
 
  | 
 

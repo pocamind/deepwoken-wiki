@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 104884
+revid: 104988
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -39,13 +39,12 @@ _A Resonance is needed to go through the three doors leading to Aska. You can ho
 
 Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as his weapon.
 
-(Please fill in the media section if you have footage of the fight.)
+To view footage of each mantra, visit the [Flamecharm](Flamecharm.md) page.
 
 <table><caption></caption>
 <tbody>
 <tr>
   <th>Name</th>
-  <th>Media</th>
   <th>Description</th>
   <th>Parryable?</th>
   <th>Blockable?</th>
@@ -54,16 +53,14 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 </tr>
 <tr>
   <td>Basic Attack</td>
-  <td>N/A</td>
   <td>Aska hits the player with an ordinary attack.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Critical</td>
-  <td>TBA</td>
   <td>Aska plunges the weapon into the ground, creating a small eruption and flourishing the weapon afterwards.
   <ul>
     <li>The first part of this move resembles the first part of the flamecharm mantra, <i>Fire Eruption</i>.</li>
@@ -71,29 +68,26 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Flame Grab</td>
-  <td>TBA</td>
   <td>Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Flame Sentinel</td>
-  <td>TBA</td>
   <td>Aska creates an orb that will shoot fireballs at the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Flaming Scourge</td>
-  <td>TBA</td>
   <td>Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
   <ul>
     <li>This move has a tendency to glitch the player into a wall. Be careful.</li>
@@ -101,34 +95,31 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★★)</td>
 </tr>
 <tr>
   <td>Ash Slam</td>
-  <td>TBA</td>
   <td>Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Relentless Flames</td>
-  <td>TBA</td>
   <td>Aska releases a flurry of seven slashes.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Flare Volley</td>
-  <td>TBA</td>
   <td>Aska fires a blast of flames at the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★☆☆)</td>
 </tr>
 </tbody>
 </table>

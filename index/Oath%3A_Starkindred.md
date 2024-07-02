@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 104815
+revid: 104984
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -45,6 +45,10 @@ You will get a mantra for each kill, and a chest containing [Songseeker](Songsee
 
 The order of mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
 
+## Effects
+
+This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
+
 ## Abilities
 
 -   **Wings - Innate**
@@ -71,10 +75,6 @@ The order of mantras goes as follows: Ascension, Sinister Halo, Celestial Assaul
 -   **Sinister Halo** **\- Combat Mantra**
     -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
         -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
-
-## Effects
-
-This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Trivia
 
