@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 100315
+revid: 105123
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,7 @@ categories: [InProgressPages, Enemies, Enemies that can wield Enchantments]
 
 # Tideknight
 
-Template:EnemyInfobox1.0
+_Not to be confused with the master outfit, [Celtorian Tideknight](Celtorian_Tideknight.md)_ Template:EnemyInfobox1.0
 
 ## Description
 

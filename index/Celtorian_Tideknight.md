@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 103544
+revid: 105127
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -8,11 +8,9 @@ categories: [Items, Outfits]
 
 # Celtorian Tideknight
 
-**Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_.
-
-Template:ArmorInfobox
-
-## Statistics
+_Not to be confused with the NPC in the [Deluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_  
+  
+**Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_. Template:ArmorInfobox
 
 ### _Requirements_
 
@@ -34,7 +32,6 @@ This Outfit's schematic can be found in:
 
 ## Trivia
 
--   The Talent has a cooldown of 1 minute.
 -   The Outfit has the same ingredients as the [Prophet's Cloak](<Prophet's_Cloak.md>).
 -   On the 2/17/2024 update, it was made bankable. Before you had to pass it down to equip on other slots.
--   The Outfit's schematic cannot be dropped.
+-   The Outfit's schematic is soulbound.

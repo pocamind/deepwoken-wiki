@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 105084
+revid: 105128
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -70,7 +70,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   There is no way to survive this attack.
 -   Triggered by spitting on him **at any point**. Charisma can not bypass this.
 
- | ✗ | ✗ | ✗ | (☠) |
+ | ✗ | ✗ | ✗ | (★★★★★) |
 
 ## Finisher
 
