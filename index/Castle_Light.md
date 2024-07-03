@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 100779
+revid: 105098
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1]
@@ -89,7 +89,7 @@ The Armory.
 
 ## Notes
 
--   While considered a "safe zone" to some extent, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
+-   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
 -   Occasionally, three black diver npcs can spawn.
 -   Castle Light has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
     -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.

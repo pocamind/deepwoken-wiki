@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 104984
+revid: 105058
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,7 +47,7 @@ The order of mantras goes as follows: Ascension, Sinister Halo, Celestial Assaul
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Abilities
 
@@ -56,9 +56,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going vertically.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your race's hair color.
-    -   The mantra **[Fire Blade](Flamecharm.md)** now launches the user upward before releasing a large plume of flames.
-
-* * *
+    -   The mantra **[Fire Blade](Flamecharm.md)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a Reversal spark to **[Fire Blade](Flamecharm.md)**.
 
 -   **Ascension** **\- Combat Mantra**
     -   _Description_

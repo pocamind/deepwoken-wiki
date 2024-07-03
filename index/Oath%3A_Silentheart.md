@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 104816
+revid: 105094
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -26,7 +26,8 @@ categories: [Oaths]
 Meet the following requirements in any order:
 
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
--   Have 25 points in Strength and 25 points on either Charisma or Agility
+-   Have 25 points in Strength
+-   Have 25 points in either Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
@@ -58,22 +59,27 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 knowle
     -   You can now execute enemies much faster.
         -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
         -   Comes with the Oath.
+
 -   **Dread Fighter - Passive**
     -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 10%, and mantra resistance up to 15%, however, upon being hit by a Mantra, you lose one stack of Dread.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to 5 times and each stacks grant 3% mantra resistance and 2% damage buffs.
+
 -   **Lodestar - Passive**
     -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
+
+-   **True Vantage - Passive**
+    -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
+        -   This turns your Vents Red which is purely cosmetic.
+            -   If you have used Dyes, instead turns your vents to your tattoo colour.
+
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
         -   Damage and speed of the attack scales on your weapon.
         -   Can be used while sliding down slopes at no cost to your speed.
         -   5 seconds cooldown.
--   **True Vantage - Passive**
-    -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
-        -   This turns your Vents Red which is purely cosmetic.
-            -   If you have used Dyes, instead turns your vents to your tattoo colour.
+
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   Is activated by using Ctrl + M2.
@@ -82,6 +88,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 knowle
         -   Deals 7 posture damage per hit.
         -   Is 360 degree blockable.
         -   12 seconds cooldown.
+
 -   **Vengeful Pursuit - Passive**
     -   Your running attacks that miss send out a mid-range crescent projectile that slows on hit.
         -   8 seconds cooldown.

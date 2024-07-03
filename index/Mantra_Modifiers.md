@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 104989
+revid: 105097
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -1070,8 +1070,6 @@ Fire Blade
  | 
 
  | 
-
-File:Starkindred FireBlade.gif
 
  | 
 

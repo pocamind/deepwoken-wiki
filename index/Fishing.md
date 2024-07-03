@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 100626
+revid: 105066
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -167,7 +167,7 @@ _**(Note: This section needs more information and rewriting work.)**_
 
 A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the Den Master is. It rained really often, and it was night a good few times as I had to server hop a lot due to lag.
 
-Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
+Bait Testing: (**NOTE: LACK OF DATA OR SIGNIFICANT NUMBER OF TRIALS AND TESTS MAKES ALL OF THESE "EFFECTS" ALMOST MEANINGLESS!!**)
 
 -   100 No Bait Results for comparison: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) (this was tested with all 3 fishing talents)
 -   Plumfruit Effect: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits

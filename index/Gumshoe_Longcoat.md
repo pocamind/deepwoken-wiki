@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 76866
+revid: 105036
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 2 |
 | innate stats | 1 Rare Pip |
 | innate talent | None |
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Coats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:, Songseeker Wilds, MinityrsaDropped From:, Dread Serpent |
-| description | ... |
+| description | "..." |
 
 ## Description
 
