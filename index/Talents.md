@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105109
+revid: 105141
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -800,7 +800,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
     -   Prerequisites: 20 Willpower, 15 Strength
-        -   Pairs well with [Flame Within](Flamecharm.md) and [Raging Static](Thundercall.md).
+        -   Pairs well with [Flame Within](Flamecharm.md).
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
@@ -1567,6 +1567,19 @@ _**"I seek the qualities of Lichtenberg."**_
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only has a singular drop, increase the odds of dropping said item.
     -   If a mob has a large selection of drops, and the rarest scenario is no drops, lootskipper will increase the chance of nothing dropping (ex. Primadon drops Mantra modifiers more than nothing)
+
+  
+
+### Ministry Prophet
+
+> _**"I wish to see this world drown."**_
+
+-   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
+    -   Lowers Shade Devour self-damage. Removes Deepspindle running crit self-damage.
+    -   Obtained from: [Deepscorn Casque](Equipment.md)
+
+-   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
+    -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
 ### Mindbreaker
 
@@ -2336,7 +2349,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks.
-    -   Prerequisites: Wraith Path: Twisted Puppets, Emperor Flame
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
@@ -2634,6 +2647,8 @@ _**"I seek the qualities of vocalist."**_
 
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
     -   Prerequisite: 25 Agility
+-   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 10% less damage from airborne enemies.
+    -   Prerequisite for Equipment: [Power](Power.md) 10
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
     -   Prerequisite: 5 Fortitude.
@@ -2709,6 +2724,8 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 Certain talents are given when a specific outfit is worn. Most of these talents are exclusive to that armor set, though some are also available as cards from powering up. Multiple copies of the same talent do not stack. Outfit talents are listed in alphabetical order:
 
+-   Already Dead: [Deepscorn Casque](Equipment.md) - You take reduced damage from abilities with a health cost.
+    -   Lowers Shade Devour damage and removes Deepspindle running critical attack self-damage completely.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common talent.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
@@ -2734,6 +2751,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 10% more damage. (+3 Passive Agility)
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
+-   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
 
 ## Blacklisted Talents
 
