@@ -1,6 +1,6 @@
 ---
 title: Silver Pauldrons
-revid: 74020
+revid: 105101
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Pauldrons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Aratel Island, Duke Erisia, The Depths (First Layer) |
-| description | ... |
+| description | "..." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 105081
+revid: 105108
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -678,6 +678,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 -   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)
 -   Blazing can be used to ignite campfires that are unlit by m1's.
+-   Enchantments can be obtained very easily on island events on 2x chest weekends.
 
 ## References
 

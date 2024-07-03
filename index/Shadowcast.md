@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 104993
+revid: 105099
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -252,7 +252,7 @@ Devouring Eye
 
  | 
 
-Shad Wisp  
+Shade Wisp  
 (★★☆)
 
  | Summon a servant of Shade | 70 Ether | Cloaks the caster in darkness and reduces their visibility
