@@ -1,9 +1,9 @@
 ---
 title: "Oath: Saintsworn"
-revid: 101774
+revid: 105156
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Oaths, Pages with broken file links]
+categories: [Pages with broken file links, Upcoming content, Oaths]
 notices:
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---

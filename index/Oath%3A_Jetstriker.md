@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 104821
+revid: 105164
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 102692
+revid: 105176
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -160,6 +160,10 @@ Once you have spoken with surge, the [Nestmind](The_Nestmind.md) - a being that 
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
+
+## **Potential Enemies**
+
+[Mudskipper Brute](Mudskipper_Brute.md) [Mudskipper Broodlord](Mudskipper_Broodlord.md) (I don't know how to put links in the gallery names sorry)
 
 ## Loot Table
 

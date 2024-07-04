@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 104484
+revid: 105177
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -135,8 +135,8 @@ General store
 
 ### Etrean Apprentice Quest
 
--   Located at the backside of the blacksmith, talk to the Etrean named Polis.
--   Polis begs you not to rat him out to the blacksmith Caragan, as he will be revoked of his apprenticeship.
+-   Located at the backside of the blacksmith, talk to the Etrean named Pori.
+-   Pori begs you not to rat him out to the blacksmith Caragan, as he will be revoked of his apprenticeship.
 -   Keeping his promise and not ratting him out rewards you a 50% discount on all materials in the blacksmith.
 -   Ratting him out does nothing, but at least your ego increased! (Even if you ratted him out, you could repeat the dialogue and get a discount after.)
 
@@ -287,7 +287,8 @@ After all Authority Guards are defeated, 3 large [chests](Chests_&_Sacks.md) hol
 -   [The Den Master](Den_Master.md)
 -   [Serephina](Seraphina.md)
 -   [Eastern Camp Master](Cheral.md)
--   [Barber](Barber.md)  
+-   [Barber](Barber.md)
+-   Pori  
     
 
 ## Maps

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 104039
+revid: 105157
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -337,7 +337,7 @@ Scratch
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.
--   The Meteorskipper comes from meteors, which therefore means they may reside in space.
+-   The Meteorskipper comes from meteors, which therefore means they may reside in The Heavens and/or the Voidfog.
 -   Corrupted mudskippers can spawn in the depths, however they do not pose much of a threat.
 -   If you don't want to risk going down to the depths for Umbrite to get Ironsing, just fight the Mineskippers as they have a chance to drop every ore in the game.
 -   Mudskippers participated in the 2024 April fools event under the name the Blue Skippers.

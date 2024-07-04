@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 104988
+revid: 105142
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -31,20 +31,22 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
--   [Pleeksty's Will](Talents.md#inferno) talent or the [Flame Worshipper](Flame_Worshipper_Armor.md) outfit
+-   A [Resonance](Resonance.md)†
+-   [Pleeksty's Will](Talents.md#inferno) talent
 
-_A Resonance is needed to go through the three doors leading to Aska. You can however clip through them if you do not have a Resonance, which will still allow you talk to and fight him._
+_†A Resonance is only required to go through the doors, if you go through the doors via clipping, you do not need to have a Resonance._
 
 ## Moveset
 
 Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as his weapon.
 
-To view footage of each mantra, visit the [Flamecharm](Flamecharm.md) page.
+(Please fill in the media section if you have footage of the fight.)
 
 <table><caption></caption>
 <tbody>
 <tr>
   <th>Name</th>
+  <th>Media</th>
   <th>Description</th>
   <th>Parryable?</th>
   <th>Blockable?</th>
@@ -53,14 +55,16 @@ To view footage of each mantra, visit the [Flamecharm](Flamecharm.md) page.
 </tr>
 <tr>
   <td>Basic Attack</td>
+  <td>N/A</td>
   <td>Aska hits the player with an ordinary attack.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Critical</td>
+  <td>TBA</td>
   <td>Aska plunges the weapon into the ground, creating a small eruption and flourishing the weapon afterwards.
   <ul>
     <li>The first part of this move resembles the first part of the flamecharm mantra, <i>Fire Eruption</i>.</li>
@@ -68,26 +72,29 @@ To view footage of each mantra, visit the [Flamecharm](Flamecharm.md) page.
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Flame Grab</td>
+  <td>TBA</td>
   <td>Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Flame Sentinel</td>
+  <td>TBA</td>
   <td>Aska creates an orb that will shoot fireballs at the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Flaming Scourge</td>
+  <td>TBA</td>
   <td>Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
   <ul>
     <li>This move has a tendency to glitch the player into a wall. Be careful.</li>
@@ -95,31 +102,34 @@ To view footage of each mantra, visit the [Flamecharm](Flamecharm.md) page.
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★★★)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Ash Slam</td>
+  <td>TBA</td>
   <td>Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Relentless Flames</td>
+  <td>TBA</td>
   <td>Aska releases a flurry of seven slashes.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td>(?)</td>
 </tr>
 <tr>
   <td>Flare Volley</td>
+  <td>TBA</td>
   <td>Aska fires a blast of flames at the player.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td>(?)</td>
 </tr>
 </tbody>
 </table>
@@ -177,8 +187,8 @@ To view footage of each mantra, visit the [Flamecharm](Flamecharm.md) page.
 
 ## Trivia
 
--   If you do not meet the requirements, you will _**be set on fire and wipe**_. Be certain that you have met the requirements before initiating the fight.
--   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does not _need_ to be equipped to initiate the fight.
+-   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
+-   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.
 -   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire.
 -   If Aska falls off the map, you can escape through Chaser and still obtain the weapon.
     -   Aska can land on platforms that are between the void, softlocking you until you either fight Chaser or use the Deepdrill. He will respawn in the same place unharmed.
