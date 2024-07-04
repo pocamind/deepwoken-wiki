@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 105098
+revid: 105185
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1]
@@ -86,6 +86,7 @@ The Armory.
 -   Violin
 -   Drums
 -   Trumpet
+-   Pickaxe
 
 ## Notes
 
