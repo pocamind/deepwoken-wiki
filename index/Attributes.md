@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 101945
+revid: 105198
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -14,11 +14,11 @@ categories: [Attributes, Character, Mechanics]
 
 _icon credit to Tortaa#9000_
 
-**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has a race that starts with +2 in that specific attribute), and unbounded to a hard cap of 100 points (likewise, 102 if the player character race starts with +2 in that specific attribute) via an [unbound quest](Attributes_Unbound.md) for that attribute.
+**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has a race that starts with +2 in that specific attribute, or 78 if they start with +3), and unbounded to a hard cap of 100 points (likewise, 102 if the player character race starts with +2 in that specific attribute or 103 if they start with +3) via an [unbound quest](Attributes_Unbound.md) for that attribute.
 
 ## Basic Attributes
 
-Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [13 free investment points](Character_Stats.md) plus an additional 2 points in two stats dependent on your race (i.e. Felinors get 2 points in agility and charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [13 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your race (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
 
 -   Strength → _use the **Dumbbell**_
 -   Fortitude → _take damage with the **Training Vest**/carry the **Boulder**_
@@ -27,7 +27,7 @@ Attributes can be increased by using a respective [attribute training tool](Trai
 -   Willpower → _use the **Prayer Beads**_
 -   Charisma → _recite the_ **How to Make Friends** _book_
 
-You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
+You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
 
 -   300 from **levels**.
 -   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_

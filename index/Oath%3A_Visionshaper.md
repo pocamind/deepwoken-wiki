@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 105146
+revid: 105201
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -35,6 +35,10 @@ categories: [Pages with broken file links, Oaths]
     -   **Do not fall.** You will be sent to Layer 2.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=MXBJfraH_cI)._
+
+## Progression
+
+-   To further progress the oath, you will have to bring [Surge](Surge.md) a total of 4 Void Feathers giving you in order: Illusory Servants, Illusory Realm, Illusory Counter and Cheap trick.
 
 ## Effects
 

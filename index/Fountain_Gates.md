@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 104697
+revid: 105204
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -8,26 +8,24 @@ categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
 
 # Fountain Gates
 
-**Not to be confused with [Deep Shrines](Deep_Shrines.md).**
-
-Shrines are hidden in corners of the world. They are full of power, allowing players to use them to teleport. To gain access to this teleport feature you must wash your face in the [Light Keeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots. On any future slots, you only have to visit the Eastern Luminant in order to gain access to the shrines.
+Fountain Gates are a sprawling network of teleportation devices invented by [The Hive](The_Hive.md). To gain access to this teleport feature you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots. On any future slots, you only have to visit the Eastern Luminant in order to gain access to the network.
 
 ## Fountain Locations (To Greathive Aratel)
 
-1.  [The Lordsgrove](The_Lordsgrove.md) (Straight through, at the edge of the cliff)
-2.  [Hidden Village](The_Hidden_Village.md)
-3.  [Etris](Etris.md) (In the center of a small maze in [The King's Garden](<The_King's_Garden.md>)) -
-4.  [Vigils](Isle_of_Vigils.md) (To the right of the bridge leading to [The Gale Trainer](Friid,_Master_of_Gale.md), in an old building)
+1.  [The Lordsgrove](The_Lordsgrove.md) - Straight through, at the edge of the cliff
+2.  [Hidden Village](The_Hidden_Village.md) - In the corner to the right
+3.  [Etris](Etris.md) - In the center of a small maze in [The King's Garden](<The_King's_Garden.md>), to the right
+4.  [Isle of Vigils](Isle_of_Vigils.md) - To the right of the bridge leading to [The Gale Trainer](Friid,_Master_of_Gale.md), in an old building
 
 Fountain located in Hidden Village (Erisia)
 
 ## Fountain Locations (Leaving Greathive Aratel)
 
-1.  [The Lordsgrove](The_Lordsgrove.md)/[Starswept Valley](The_Starswept_Valley.md) - Center
-2.  [Summer Isle](Summer_Isle.md) - Far Left
-3.  [Miner's Landing](<Miner's_Landing.md>) - Top Left
-4.  Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md) - Far Right
-5.  [Ancient Rotlands](Ancient_Rotlands.md)/[Songseeker Wilds](Songseeker_Wilds.md) - Top Right
+1.  [Summer Isle](Summer_Isle.md) - Far Left
+2.  [Miner's Landing](<Miner's_Landing.md>) - Middle Left
+3.  [The Lordsgrove](The_Lordsgrove.md)/[Starswept Valley](The_Starswept_Valley.md) - Center
+4.  [Ancient Rotlands](Ancient_Rotlands.md)/[Songseeker Wilds](Songseeker_Wilds.md) - Middle Right
+5.  Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md) - Far Right
 6.  [Greathive Docks](Greathive_Aratel.md) - Inside [Greathive Aratel](Greathive_Aratel.md) in a room to the left when coming in, labeled "Shipyard".
 
 Fountain located in Lord Regent's Garden (Etris)

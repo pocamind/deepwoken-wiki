@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 100849
+revid: 105196
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -86,7 +86,11 @@ Buffs the regen of one or more people near you. Applied if the person is near a 
 
 ## **Harmful Status Effects**
 
-These status effects won't kill you, but they can give you a negative buff or drain your health to a certain extent.
+These status effects won't kill you, but they can give you a debuff or drain your health to a certain extent.
+
+### Bleed
+
+This effect can be applied by being hit by a weapon that applies bleed, a weapon that applies bleed, or mantras that apply bleed (ironsing and revenge). Reduces your blood levels; signified by blood pouring out from your character. Lower blood levels mean lower healing.
 
 ### Burning
 
