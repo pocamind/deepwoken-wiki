@@ -1,6 +1,6 @@
 ---
 title: Adventurer Coat
-revid: 83859
+revid: 105189
 source: https://deepwoken.fandom.com/wiki/Adventurer_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Coats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia |
-| description | ... |
+| description | "..." |
 
 ## Description
 

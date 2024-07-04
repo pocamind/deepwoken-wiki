@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 103774
+revid: 105191
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec, Exclusive]
@@ -58,4 +58,4 @@ Unsung Scythern's critical attack countering.
 
 ## Trivia
 
--   Exclusive weapon that belong to the Order of the Unsung Officer, Cyril Moros.
+-   Exclusive weapon that belong to the Order of the Unsung Officer, Cyril Moros. Was given to him for winning an Art Contest.

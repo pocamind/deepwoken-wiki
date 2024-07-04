@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 104959
+revid: 105190
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1062,7 +1062,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 5; STR: 3</td>
   <td>6</td>
   <td>8</td>
-  <td>0.1x</td>
+  <td>1x</td>
   <td>35</td>
 </tr>
 <tr>
