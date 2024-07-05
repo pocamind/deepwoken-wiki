@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 101357
+revid: 105253
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -48,7 +48,7 @@ When obtained, Wind-Up will spend its points on the following stats:
 -   You cannot charge while you are in Tacet.
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left.
 -   Especially devastating on heavy.
--   When drowned this bell is one of the best executor there is in the game. It only need to take around one second to execute a down player and it will out speed [preservation](Preservation.md) or [blood scourge](Blood_Scourge.md) resonance
+-   When drowned this bell is one of the best executor there is in the game. It only takes around one second to execute a downed player and it will outspeed [preservation](Preservation.md) or [blood scourge](Blood_Scourge.md) resonance
 -   It does not proc on mantras. [Kyrsieger](Kyrsieger.md) and [Wyrmtooth](Wyrmtooth.md) critical also can't proc wind up
 -   As stated, Wind-up has different colors, though the only two _currently known_ are gold and green.
     -   Since the added changes, your in-combat charges will be signified by the color red.

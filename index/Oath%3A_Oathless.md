@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 105162
+revid: 105258
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -16,6 +16,10 @@ categories: [Oaths]
 “ Those eyes.. you wish to walk alone too. ”
 
 ― Disciple of Cerulean
+
+“ Those who swear themselves to the Oathless vow cast aside their desire for an oath and seek their own path. These free thinkers can be found in quiet contemplation in secluded areas around the world. ”
+
+― Deepwoken hints
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 100483
+revid: 105252
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -16,7 +16,9 @@ categories: [Character, Mechanics]
 
 ## Description
 
-Power Levels are your character's experience and combat ability. The more power you have, the better; along with encountering/unlocking dialogue and dangers.
+Power Levels are your character's experience
+
+and combat ability. The more power you have, the better; along with encountering/unlocking dialogue and dangers.
 
 ## Investment & Free Points
 

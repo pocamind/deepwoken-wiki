@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 101543
+revid: 105257
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Mechanics]
@@ -51,6 +51,8 @@ An NPC located at [Songseeker Wilds](Songseeker_Wilds.md).
 
 -   Capes
 -   [Crescent Cleaver](Crescent_Cleaver.md)
+-   [Vigil Longsword](Vigil_Longsword.md)
+-   [Razor Cutlass](Razor_Cutlass.md)
 -   [Eyeglasses](Eyeglasses.md)
 -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
 -   [Glassdancer Wraps](Glassdancer_Wraps.md)

@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 103289
+revid: 105255
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists]
@@ -110,3 +110,7 @@ File:Aos.png
 **Curse of the unbidden:**
 
 File:Screenshot 2024-05-14 190826.png
+
+**Umbral Knight:**
+
+File:Umbral Knight Anklets.png

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 105029
+revid: 105256
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -57,6 +57,10 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Orbital Ice is less effective when used alongside the Arc Suit.
         -   Comes in Umbral, Black, Gold, Dark Gray, Light Gray and White may be changed with a Dye Packet.
 
+-   **Arc Module: Leap - Passive**
+    -   _Holding Spacebar after double jumping propels you up for a short duration._
+        -   Allows you to double jump.
+
 -   **Arc Module: Dash - Passive**
     -   _When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing._
         -   Allows your Air Dash to go much farther.
@@ -71,6 +75,10 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
     -   _Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind._
         -   Allows the user to block attacks from all directions.
         -   Prevents Spine Cutter from occurring when hit in the back.
+
+-   **Arc Module: Null - Passive**
+    -   _When your Arc Suit is active, outgoing and incoming enchant effects are nullified._
+        -   Can be toggled by pressing N when Arc Suit is active.
 
 -   **Arc Wave** ★★★ - Combat Mantra
     -   Stomp the ground releasing a wave of Arc energy.
@@ -88,18 +96,6 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Scales with both Flamecharm and Thundercall.
         -   Can be used in the air to shoot under yourself.
         -   Instantly grips low health players if the attack were to knock them.
-
-  
-
--   **Arc Module: Leap - Passive**
-    -   _Holding Spacebar after double jumping propels you up for a short duration._
-        -   Allows you to double jump.
-
-  
-
--   **Arc Module: Null - Passive**
-    -   _When your Arc Suit is active, outgoing and incoming enchant effects are nullified._
-        -   Can be toggled by pressing N when Arc Suit is active.
 
 ## Trivia
 
