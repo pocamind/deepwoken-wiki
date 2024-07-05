@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 104121
+revid: 105242
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -74,3 +74,4 @@ The critical causes the user to spin the axe in the air, raining down ice shards
 -   Strangely, Gran Sudaruska used to have a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
 -   Gran Sudaruska can be used one handed even if you don't have the One Handed Training talent.
 -   Gran Sudaruska's crit only has a hitbox in the direction that your character is facing, which can be used to gain advantage in fights.
+-   shares similar qualities to Lucy from Don't Starve

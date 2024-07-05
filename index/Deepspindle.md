@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105238
+revid: 105241
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -53,5 +53,6 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 ## Trivia
 
 -   This item _can_ be dropped.
+-   Doing hell mode increases the spawn rate.
 -   Meeting the requirement of LHT and SHW, the damage is (23.19)
 -   At max LHT and SHW, the damage is (27.65)
