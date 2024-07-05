@@ -1,9 +1,9 @@
 ---
 title: "Oath: Visionshaper"
-revid: 105201
+revid: 105223
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oath: Visionshaper
@@ -38,17 +38,13 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Progression
 
--   To further progress the oath, you will have to bring [Surge](Surge.md) a total of 4 Void Feathers giving you in order: Illusory Servants, Illusory Realm, Illusory Counter and Cheap trick.
-
-## Effects
-
-This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appearance, it changes the eye color of the Oath taker to purple and creates a wispy ethereal particle effect which stems from the user's right eye. The eyes and the eye trail can be dyed.
-
-## Progression
-
 To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock all mantras and talents, totalling to 4. This equals 13 total dark feathers in order to obtain and fully progress the oath.
 
 The abilities below are listed in order of obtainment.
+
+## Effects
+
+This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appearance, it changes the eye color of the Oath taker to a light purple and creates a wispy ethereal particle effect which stems from the user's right eye. The eyes and the eye trail can be dyed.
 
 ## Abilities
 
@@ -65,9 +61,6 @@ The abilities below are listed in order of obtainment.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief talent, the duration of the illusion is shortened.
     -   Clones _do_ apply hit-stun.
-        
-        File:Illusionary Servants.gif
-        
 
 -   **Illusory Realm - Support Mantra**
     -   After a slight delay, teleport you and nearby players to an alternate dimension for 20 seconds (44 seconds with three Eternal and Aeon Logstones). The alternate dimension is a combination of reality (the real world) and the Dreamscape (where the caster enters).
@@ -86,27 +79,17 @@ The abilities below are listed in order of obtainment.
         -   Both can be used simultaneously.
     -   Grants immunity to being knocked while active.
         -   Halves the current realm duration if the caster is at 0% hp.
-            
-            File:Illusonaryrealm.gif
-            
+
 -   **Illusory Counter** **\- Combat Mantra**
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
         -   Reflects any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
     -   Active frames are larger in the Illusory Realm.
     -   Grants full movement during active period.
-        
-        File:Illusonary counter.gif
-        
 
 -   **Cheap Trick - Passive**
     -   When hit while below 50% health, turn invisible and summon an Illusory Servant. Grants I-frames.
         -   60 second cooldown.
     -   Become invisible for 2.5 seconds whenever you knock an enemy. Does not grant I-frames.
-        
-        File:Cheap trick.gif
-        
-
-  
 
 ## Trivia
 

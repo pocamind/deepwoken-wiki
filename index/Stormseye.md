@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 103637
+revid: 105233
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -43,7 +43,7 @@ The Stormseye comes with 2 passive abilities:
 
 ## Critical Attack
 
-The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them. Ragdolls the opponent at the end and can be cancelled early.
+The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them.
 
 The critical has a cooldown of **6 seconds**.
 
