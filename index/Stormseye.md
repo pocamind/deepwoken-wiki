@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 105233
+revid: 105234
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -40,6 +40,7 @@ The Stormseye comes with 2 passive abilities:
 -   **Medallion Shockwave** - Your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md). If the user has Surge Path: Unstable Capacitator, apply a surge stack with this flourish instead.
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
+    -   Oddly, this passive also applies to weapons pulled from [Crazy Slots](Crazy_Slots.md) or forced by other means.
 
 ## Critical Attack
 

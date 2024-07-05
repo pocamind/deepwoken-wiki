@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 100388
+revid: 105239
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -15,8 +15,8 @@ categories: [Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +6 HP, 3% Stealth, 1 Legendary Pips |
-| innate talent | N/A |
+| innate stats | +6 HP, 3% Stealth, +1 Rare Pip , 1 Legendary Pip |
+| innate talent | Now You See Me |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Cloaks]
 
 ## Description
 
-The Assassin's Cloak is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6 Health, 3% Stealth, 3 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md#assassin) Now You See Me, which increases stealth while crouching and silences the unsheathing animation. It is rarely found in chests from [Aelita](Aelita.md), [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Rogue Constructs](Rogue_Construct.md), and [Scyphozia](First_Layer.md), with the Pale variant being frequently found in chests from [Calamus](Calamus.md). Other variants may also be dropped by [Cloaked Assassins](Cloaked_Assassin.md).
+The **Assassin's Cloak** is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6 Health, 3% Stealth, 3 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md#assassin) Now You See Me, which increases stealth while crouching and silences the unsheathing animation. It is rarely found in chests from [Aelita](Aelita.md), [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Rogue Constructs](Rogue_Construct.md), and [Scyphozia](First_Layer.md), with the Pale variant being frequently found in chests from [Calamus](Calamus.md). Other variants may also be dropped by [Cloaked Assassins](Cloaked_Assassin.md).
 
 ## Trivia
 

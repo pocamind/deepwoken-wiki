@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 104862
+revid: 105235
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Soothsayer | |
 |---|---|
 | name | Soothsayer |
-| location | Starfield Tundra |
+| location | Minityrsa |
 
 “ Oh! Oh oh. You see it, don't you? Won't you share your Knowledge with me? Please? ”
 
