@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 105356
+revid: 105370
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]

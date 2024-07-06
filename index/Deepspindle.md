@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105314
+revid: 105379
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -56,3 +56,6 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 -   Doing hell mode increases the spawn rate.
 -   Meeting the requirement of LHT and SHW, the damage is (23.19)
 -   At max LHT and SHW, the damage is (27.65)
+-   The running critical damage can be reduced by using the helmet ( aka having the talent already dead )
+-   After you defeated the boss and you gripped him you will get the schematic and the helmet the boss is wearing with the weapon all at once
+-   you have to grip the boss to get the items btw

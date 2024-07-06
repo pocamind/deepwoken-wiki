@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 105342
+revid: 105383
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -764,7 +764,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 4.5</td>
   <td>6</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>1x</td>
   <td>32.3</td>
 </tr>
 <tr>
@@ -2133,6 +2133,19 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>1.09x</td>
   <td>??</td>
   <td>33</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Kyrswynter"><font>Kyrswynter</font></a>(<b>Bleed</b>)</td>
+  <td>50 MED, 75 ICE</td>
+  <td>16.5</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>MED: 5 ICE: 5</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.96x</td>
+  <td>N/A</td>
+  <td>43.8(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 105258
+revid: 105387
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -17,13 +17,9 @@ categories: [Oaths]
 
 ― Disciple of Cerulean
 
-“ Those who swear themselves to the Oathless vow cast aside their desire for an oath and seek their own path. These free thinkers can be found in quiet contemplation in secluded areas around the world. ”
-
-― Deepwoken hints
-
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 12 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Oathless** is one of the 12 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five Oaths that have no direct stat requirements.
 
 ## Obtainment
 
@@ -48,25 +44,25 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Effects
 
-This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath Resistance. Oath Resistance decreases the damage received from all oath-related attacks[\[1\]](#cite-note-1), including Mantras and [Silentheart](Oath%253A_Silentheart.md) talents.
+This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath Resistance. Oath Resistance decreases the damage received from all Oath-related attacks[\[1\]](#cite-note-1), including Mantras and [Silentheart](Oath%253A_Silentheart.md) talents.
 
 As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not.
 
 ## Trivia
 
 -   It is the first Oath.
--   Commonly agreed to be a subpar oath compared to the other non-stat locked oaths.
-    -   However, being the only oath to grant +2 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
+-   Commonly agreed to be a subpar oath compared to the other non-stat locked Oaths.
+    -   However, being the only Oath to grant +2 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).
--   You can still use [Shrine of Order](Deep_Shrines.md#shrine-of-order) if you have Oathless[\[1\]](https://deepwoken.fandom.com/wiki/Deep_Shrines?so=search#Shrine_of_Order).
+-   You can still use [Shrine of Order](Deep_Shrines.md#shrine-of-order) if you have Oathless.
 -   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the equivalent to current-day Power 10).
 -   All of its quest characters are named after cities in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise.
 -   Developer intentions behind the design of Oathless have historically been divisive.
-    -   Prior to Verse 2, they stated that Oathless was canonically the strongest oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.
-    -   More recently, it was confirmed to be a "seatwarmer" with the justification being they would like to create enough oaths such that Oathless becomes redundant—a comment that was received negatively by the community due to its quest being more tedious than other oaths. Regardless of its intended obsolescence, it still receives balance and QoL changes.
--   It is one of the few oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
--   Oathless will give you echoes for an oath upon wiping.
--   It is the only oath that you can, realistically, get at Power 1.
+    -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.
+    -   More recently, it was supposedly stated to be a "seatwarmer" with the justification being they would like to create enough oaths such that Oathless becomes redundant—a comment that was received negatively by the community due to its quest being more tedious than other Oaths. Regardless of its intended obsolescence, it still receives balance and QoL changes.
+-   It is one of the few Oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
+-   Oathless will give you echoes for an Oath upon wiping.
+-   It is the only Oath that you can, realistically, get at Power 1.
 
 ## References
 

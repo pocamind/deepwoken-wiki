@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 105032
+revid: 105388
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Blindseer** is one of the 12 obtainable Oaths in _Deepwoken._ The oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and the depths. It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
+**[Oath](Oaths.md): Blindseer** is one of the 12 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and the depths. It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
 
 ## Obtainment
 
@@ -40,9 +40,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Progression
 
-To progress the oath and obtain the Blindseer Mantras, you need to help pathfinders, or players with no oaths, in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. A passive talent is also obtained after 4 trials (you can quickly leave three seconds after the voice of authority starts talking).
+To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players with no Oaths, in the Depths Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. A passive talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking).
 
-The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
+The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
 ## Effects
 
@@ -50,7 +50,7 @@ This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra slots and 10 San
 
 This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
 
-With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depth at no risk.
+With the stat requirements, the talents, the blinded talent and the Oath Talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depths at no risk.
 
 ## Abilities
 

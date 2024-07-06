@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 103265
+revid: 105410
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -69,7 +69,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.2s | [Pure Heart](Training_Gear.md) / [Bloodless Gem](Mantra_Modifiers.md#deep-gems) Proc |
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
 |  | 1.9s | [Hearthgem](Training_Gear.md) |
-|  | 4.9s | [Hermafrost](Training_Gear.md) |
+|  | 4.9s | [Hemafrost](Training_Gear.md) |
 |  | 0.9s | Foraging |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
