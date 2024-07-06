@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 105190
+revid: 105342
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -336,7 +336,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7</td>
   <td>3</td>
   <td>6</td>
-  <td>1.13x</td>
+  <td>1.1x</td>
   <td>N/A</td>
   <td>20.8</td>
 </tr>
@@ -349,7 +349,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7</td>
   <td>5</td>
   <td>6</td>
-  <td>1.14x</td>
+  <td>1.11x</td>
   <td>N/A</td>
   <td>23.4</td>
 </tr>
@@ -362,7 +362,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9</td>
   <td>5</td>
   <td>6</td>
-  <td>1.14x</td>
+  <td>1.11x</td>
   <td>N/A</td>
   <td>29.1</td>
 </tr>
@@ -375,7 +375,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9</td>
   <td>3</td>
   <td>6.5</td>
-  <td>1.17x</td>
+  <td>1.14x</td>
   <td>0.05s</td>
   <td>27.1</td>
 </tr>
@@ -388,7 +388,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9</td>
   <td>3</td>
   <td>6.5</td>
-  <td>1.17x</td>
+  <td>1.14x</td>
   <td>0.05</td>
   <td>26.2</td>
 </tr>
@@ -401,7 +401,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9.5</td>
   <td>5</td>
   <td>6</td>
-  <td>1.14x</td>
+  <td>1.11x</td>
   <td>N/A</td>
   <td>30.9</td>
 </tr>
@@ -414,7 +414,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>WLL: 10 LHT: 4</td>
   <td>5</td>
   <td>7</td>
-  <td>1.13x</td>
+  <td>1.1x</td>
   <td>N/A</td>
   <td>29.8</td>
 </tr>
@@ -2115,9 +2115,9 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>30%</td>
   <td>10%</td>
   <td>MED: 3, FIR: 4</td>
-  <td>7</td>
   <td>8</td>
-  <td>0.93x</td>
+  <td>8</td>
+  <td>0.94x</td>
   <td>N/A</td>
   <td>38</td>
 </tr>

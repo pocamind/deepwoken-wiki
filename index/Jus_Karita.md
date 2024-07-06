@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 104937
+revid: 105348
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists]
 | damage | 14 |
 | scaling | 9 |
 | range | 6.5 |
-| swing speed | 1.17x |
+| swing speed | 1.14x |
 | endlag | 0.05s |
 | penetration | 20% |
 | weight | 3 |

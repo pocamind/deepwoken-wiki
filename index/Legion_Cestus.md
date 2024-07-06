@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 103287
+revid: 105345
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists]
 | damage | 15 |
 | scaling | 9 |
 | range | 6 |
-| swing speed | 1.14x |
+| swing speed | 1.11x |
 | penetration | 5% |
 | stances | 1 Handed |
 | selling price | 14 |

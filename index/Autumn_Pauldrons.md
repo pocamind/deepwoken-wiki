@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 86204
+revid: 105315
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Pips |
+| innate stats | +2 Rare Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
