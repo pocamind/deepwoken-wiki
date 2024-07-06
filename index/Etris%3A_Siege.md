@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 105336
+revid: 105352
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -17,7 +17,7 @@ The clash of blades rings throughout the city, decaying to havoc.
   
 
   
-Also referred to as, "Etris Raid Event", "[Etris](Etris.md) vs Authority Raid Event," "[Etris](Etris.md) Raid," ''[Etris](Etris.md) Burning Event',' ''[Etris](Etris.md) War Event',' ''Etrea VS [Fort Merit](Fort_Merit.md) Event''
+Also referred to as, "Etris Raid Event", "[Etris](Etris.md) vs Authority Raid Event," "[Etris](Etris.md) Raid," ''[Etris](Etris.md) Burning Event',' ''[Etris](Etris.md) War Event"
 
 ## Description
 

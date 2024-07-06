@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 102635
+revid: 105355
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -111,3 +111,8 @@ On a final note, you can**not** sneak attack the Nautilodaunt while it is burrow
 -   If encountered in the overworld, it has the ability to swim, however does not possess a swimming animation.
 -   They are named after the Nautilus, a family of shelled cephalopods.
 -   The Fury Nautilodaunt has a chance to spawn instead of the normal variation outside of the elevator.
+-   Is internally referred to as ".squidward[\[1\]](#cite-note-1)"
+
+## References
+
+1.  [↑](#cite-ref-1)

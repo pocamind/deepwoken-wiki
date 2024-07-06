@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 105025
+revid: 105351
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +2 Posture , 1 Uncommon Pip |
+| innate stats | +50 Posture , 1 Uncommon Pip |
 | innate talent | Surestep |
 | bankable | Yes |
 | droppable | Yes |
