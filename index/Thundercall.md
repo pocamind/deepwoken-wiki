@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 103964
+revid: 105299
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -109,11 +109,13 @@ Fleeting Sparks
 
  | Call forth motes of electricity that seek out your foes. | 60 Ether | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
 
+  
+
 -   Deals moderate damage.
 -   \[\] Second Cooldown.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) for the projectiles to home towards the target.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjure.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured.
     -   This modifier does the same amount of damage as default.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) making the projectiles home towards the target and removing the beams of thunder.
 
  |
 |  | 

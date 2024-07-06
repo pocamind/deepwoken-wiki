@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 105265
+revid: 105268
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -71,7 +71,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 **Twisted Puppets:**
 
-Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), and wearing (not transmog) the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or possessing the talent [Pleeksty's Will](Talent_Quests.md) or [Pleeksty's Faith](Talents.md). Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon is obtained as a drop from Aska. It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
+Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), and wearing (not transmog) the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or possessing the talent [Pleeksty's Will](Talent_Quests.md) or [Pleeksty's Faith](Talents.md) and resonance bell to be able open resonance door. Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon is obtained as a drop from Aska. It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
 Unlike [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), it does not proc burn on basic attacks, only the criticals.
 

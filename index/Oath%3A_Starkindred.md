@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 105155
+revid: 105294
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -86,4 +86,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Stratus Stones and Cloudstones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
 -   The Halo, upper, and lower feathers are all dye-able.
+-   You can Dye the Upper Feathers by dyeing your Primary Hair, If you want to have your wings as a different color from the hairs you have on, make this your Hair 1. (First Hair slot at the Barber) (14022927544) It is a Buzz Cut that can hide underneath most hairs.
 -   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md), however drinking it will simply make you vomit.
