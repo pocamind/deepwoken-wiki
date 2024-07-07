@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 105490
+revid: 105497
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -133,4 +133,4 @@ A Vesperian with Blindseer
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
 -   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesparian](Primal_Vesperian.md) race as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask.
 -   The six-eyed variation of the mask may be a reference to the mask worn by Lilith from Neon Genesis Evangelion, or inspired by certain [bugs](https://en.wikipedia.org/wiki/Insect).
--   The 16th mask on the list is taken from one of archmages first games [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil). Seen on one of the monsters, the mask in-game is slightly altered. (would link however I cannot find a wiki page to reference the monster anyways?
+-   The 16th mask on the list is taken from one of archmages first games [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil). Seen on one of the monsters, the mask in-game is slightly altered. (would link however I cannot find a wiki page to ~reference the monster anyways?~ [I found the monster in game after some searching.](https://imgur.com/M9wJnet)

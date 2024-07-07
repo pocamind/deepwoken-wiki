@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 101779
+revid: 105520
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,50 +12,48 @@ categories: [Mechanics]
 
 _Each player gets 330 investment points per slot, from Level 1-20, including investment points given to them by their character’s race (+3 and +2 stats)._
 
-(Some of the information is not update to date!!)
-
 ### Health
 
 -   The player's max Health Points. Starting value is 160 (+6 at Power 1).
     -   Current HP is tracked on the health bar in %, from 100 to 0. When it reach 0%, caused by taking damage, the player is knocked.
--   How to increase: Power (6 Per power), Equipment, Fortitude (.5 Per investment), Talents.
+-   How to increase: Power (6 Per power), Equipment, Fortitude (.5 Per investment), Talents
 
 ### Posture
 
 -   The player's max Posture. Starting value is 20.
     -   Current Posture is tracked on the posture bar in %, from 0 to 100. When it reach 100%, reached by blocking too many hits, the player is guard broken: they are stunned and their posture is cleared.
 -   Max Posture can be greatly increased by using a [Shield](Weapons.md).
--   How to increase: Shields, Equipment, Talents.
+-   How to increase: Shields, Equipment, Talents
 
 ### Ether
 
 -   The player's max Ether. Starting value is ???
     -   Current Ether is tracked on the ether bar in %, from 100 to 0. Using mantras or firing a gun depletes the ether bar.
--   How to increase: Intelligence, Charisma, Equipment, Talents.
+-   How to increase: Intelligence, Charisma, Equipment, Talents
 
 ### Sanity (hidden)
 
 -   The player's max Sanity. Starting value is 80.
     -   Insanity is tracked with Sanity as its max value. When an amount of Insanity equal to 33/66/100% of the max Sanity is reached, detrimental effects are applied to the player for the first 2 threshold. The player will be instantly executed upon being knocked on the third threshold, other player's faces would be blacked out, and under certain conditions (being in the Ancient Rotlands, Equipping Curse of the No Life King), the player's head would explode upon hitting the final tier of insanity, killing them instantly.
--   How to increase: Willpower, Equipment, Talents.
+-   How to increase: Willpower, Equipment, Talents
 
 ### Carry Load
 
 -   The player's maximum inventory capacity. Starting value is 100.
-    -   Current inventory usage and maximum capacity can be tracked at the bottom of the inventory. Player can carry more item past their max Carry Load, up to 1.2x their max carry load, but gradually become slower and lose the items upon leaving the game (needs testing).
--   How to increase: Equipment, Strength, Talents.
+    -   Current inventory usage and maximum capacity can be tracked at the bottom of the inventory. Player can carry more item past their max Carry Load, up to 1.2x their max carry load, but gradually become slower and lose the items upon leaving the game.
+-   How to increase: Equipment, Strength, Talents
 
 ### \[Mantra Type\] Mantra Slot
 
--   The amount of mantras of a given type the player can own. Starts at 3 combat, 1 mobility, 1 support and 1 wildcard.
-    -   If the player is out of room, additional mantra can be obtained but the player is required to replace a mantra of the same category.
--   How to increase: Oaths, Talents.
+-   The amount of Mantras of a given type the player can own. Starts at 3 Combat, 1 Mobility, 1 Support and 1 Wildcard.
+    -   If the player is out of room, additional Mantras can be obtained, but the player is required to replace a Mantra of the same category. Otherwise, it is placed in the inventory.
+-   How to increase: Oaths, Talents
 
 ## Equipment Bonuses
 
 ### Armor
 
--   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
+-   **Physical Armor:** Reduce damage taken from weapons and physical Mantras. Stacks multiplicatively with the following:
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
     -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
@@ -68,18 +66,17 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 ### Damage Vs. Monsters
 
 -   Bonus damage against [Monsters](Monsters.md).
-    -   This stat used to be separated into Damage Vs. Deep and Damage Vs. Giant, however, this has since been merged.
 
 ## Talent Bonuses
 
 ### Elemental Intensity
 
--   A damage increase to most mantras. Starting value is 0.
+-   A terrain damage increase to most Mantras. Starting value is 0.
 
 ### Passive Agility
 
--   The player additional ability to use parkour.
--   Increase climb height, speed boost strength and duration from parkour.
+-   Increases parkour ability.
+    -   Increases climb height, speed boost strength, and duration from parkour.
 -   Stacks with the Agility Attribute.
 
 ## Statistics
@@ -94,7 +91,7 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 
 ### Mantras Learnt
 
--   The amount of mantra the player learned.
+-   The number of Mantras the player has learned.
 
 ### Times Drowned
 
