@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 105350
+revid: 105462
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -71,7 +71,15 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 **Twisted Puppets:**
 
-Pleeksty's Inferno is a legendary club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it. The weapon can be obtained by entering Layer 2 without a Light Hook, having 75 [Flamecharm](Flamecharm.md), and wearing (not transmog) the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) or possessing the talent [Pleeksty's Will](Talent_Quests.md) or [Pleeksty's Faith](Talents.md) and resonance bell to be able open resonance door. Once these requirements are met you can locate an NPC named [Aska](Aska.md) in Firfire, located in a cave behind 3 orange resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him. The weapon is obtained as a drop from Aska. It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
+Pleeksty's Inferno is a legendary Club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it.
+
+1.  Have **75** Flamecharm and enter [Layer 2](Second_Layer.md) without a Light Hook
+2.  Wear [Flame Worshipper Armor](Flame_Worshipper_Armor.md), have the [Pleeksty's Will](Talent_Quests.md) OR [Pleeksty's Faith](Talents.md) talents. Keep in mind you only need **one** of these to get confirmation to fight [Aska](Aska.md). (Example, I can have Pleetsky's Will and fight Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.)
+3.  Head to [Firfire](Firfire.md). If you are hookless, you should see some orange particles near the back of Firfire.
+4.  Jump down to the small ledge near the Kyrsgarde. Do some parkour and head over to a small cave with 3 Orange Resonance Doors that require a fully progressed [Oath](Oaths.md), [Resonance](Resonance.md), and 75 Flamecharm (needs confirmation on the last door). You can still clip through these doors, but is dangerous because the last door could make you fall into the void and wipe.
+5.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will wipe immediately through burning
+
+It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
 Unlike [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), it does not proc burn on basic attacks, only the criticals.
 

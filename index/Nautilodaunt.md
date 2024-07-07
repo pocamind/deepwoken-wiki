@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 105385
+revid: 105475
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -93,7 +93,7 @@ However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove
 
 Always keep calm while fighting the Nautilodaunt, and rely on parries before doing a Critical Attack to break their posture and kill it in one or two guardbreaks. **If** you have an incredibly high damage mantra such as Tornado or Caltrops, instead those may be used as it will choose to ignore them in order to vent, which leads to a Posture Break thus allowing you to kill the Nautilodaunt while having only blocked or parried and using one move.
 
-On a final note, you can**not** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack.
+On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack.
 
   
 

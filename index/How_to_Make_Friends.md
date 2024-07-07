@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 101754
+revid: 105488
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -72,7 +72,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   **Charisma** does not train faster when reciting phrases next to an NPC. This has been tested on [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) (made by Birbingish)
 -   Spitting on NPCS while having high charisma will make them thank you instead of aggro on you.
 -   It is not usually recommended to type out the phrases yourself, you may simply open up Notepad and put the phrases in, then CTRL + C CTRL + V them when needed.
--   Farming **Charisma** is a lot faster than levelling up with the Instructor or at [Lower Erisia](Lower_Erisia.md).
+-   Farming **Charisma** is a lot faster than levelling up with the [Instructor](Isle_of_Vigils.md) or at [Lower Erisia](Lower_Erisia.md).
 -   Unlike **many other stats**, **Charisma** can be trained to max very fast, due to the method of farming Charisma which is significantly easier than chopping down trees or solving math problems, for example.
 -   There were some phrases that got people's accounts deleted from ROBLOX, because the moderation thought they were _Online Dating_ or attempting to get _Personal Information_. As of 12/27/2021, some of the lines in the "How To Make Friends" book are removed. Some removed phrases will be listed **below** Notes/Trivia.
 -   The [Gremor](Gremor.md) race was once mentioned in a phrase of How To Make Friends, but it is now removed.

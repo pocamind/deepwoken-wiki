@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105436
+revid: 105465
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -36,12 +36,14 @@ The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forg
 
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find the Silhouette NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
-3.  Talk to Silhouette, then use Shadow's Flight or Shadow Travel on top of the black pentagram next to the Silhouette. You will then be teleported to the Understrand
+3.  Talk to Silhouette, then use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) on top of the black pentagram next to the Silhouette. You will then be teleported to the Understrand
 4.  After using Shadow's Flight or Shadow Travel, you will be teleported to the Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon and are brought back to the where Silhouette was.
-    1.  Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon immediately.
+
+-   Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon immediately.
 
   
 
+  
 In the Celtor City in the Depths, random houses will have a purple aura to them which are quite easy to spot, as it is usually bright and hard to miss. Upon going to one, using Shadow Travel, or Shadow's Flight within the purple aura, will teleport you to the Understrand, where you will fight the Deepspindle boss. Instead of getting all 3 items, you will receive a chest with the chance to get one of the 3 items, chances are unknown.
 
 ## Critical
@@ -60,5 +62,5 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 -   Doing hell mode increases the spawn rate.
 -   Meeting the requirement of LHT and SHW, the damage is (23.19)
 -   At max LHT and SHW, the damage is (27.65)
--   The running critical damage can be reduced by using the helmet ( aka having the talent already dead )
--   After you defeat the boss and you grip him you will get the schematic, the helmet the boss is wearing, and the weapon all at once
+-   The running critical damage can be reduced by using the Deepscorn Casque (Synergizes well by having the talent "Already Dead:)
+-   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the Deepscorn Casque, and the Deepspindle all at once
