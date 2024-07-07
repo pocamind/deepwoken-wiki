@@ -1,9 +1,9 @@
 ---
 title: Darksteel Greatsword
-revid: 103992
+revid: 105539
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical]
+categories: [Weapons, Greatswords, Unique Critical]
 ---
 
 # Darksteel Greatsword
@@ -57,11 +57,7 @@ The Darksteel Greatsword is a midgame Greatsword used by [The Ignition Union](Th
 
 ## Critical
 
-After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical.
-
-File:Critical.gif
-
-Darksteel Greatsword Critical
+After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical. Due to having armor from frame 1, it may be used as a pseudo vent.
 
 ## Trivia
 
@@ -69,7 +65,6 @@ Darksteel Greatsword Critical
 -   Just like [Enforcer's Axe](<Enforcer's_Axe.md>), the Darksteel Greatsword critical attack gives a full hyperarmor in the duration of the critical attack. This means that you can use the critical attack to escape combos.
 -   One of the most popular and iconic weapons, even added in the Roblox game Allusions (though only the older version where the critical would have been the normal Greatsword critical).
 -   Often referred to as "DSGS" by the community.
--   The Darkalloy Greatsword is one of the most popular alloyed weapons, just behind the [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) for its general versatility and existence as an alloyed Greatsword.
 -   Meeting the non-alloyed requirement of HVY, the damage is (31.5)
     -   Meeting the alloyed requirement, the damage is (37.7)
 -   At max HVY, the non-alloyed damage is (39.7)

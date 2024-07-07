@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 105300
+revid: 105569
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -60,7 +60,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(☆☆☆)</td>
 </tr>
 <tr>
   <td>Critical</td>
@@ -72,7 +72,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(☆☆☆)</td>
 </tr>
 <tr>
   <td>Flame Grab</td>
@@ -81,7 +81,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(☆☆☆)</td>
 </tr>
 <tr>
   <td>Flame Sentinel</td>
@@ -90,7 +90,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Flaming Scourge</td>
@@ -102,7 +102,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★★)</td>
 </tr>
 <tr>
   <td>Ash Slam</td>
@@ -111,7 +111,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★★)</td>
 </tr>
 <tr>
   <td>Relentless Flames</td>
@@ -120,7 +120,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Flare Volley</td>
@@ -129,7 +129,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(?)</td>
+  <td>(★★☆)</td>
 </tr>
 </tbody>
 </table>

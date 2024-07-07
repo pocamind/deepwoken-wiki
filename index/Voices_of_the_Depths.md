@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 95246
+revid: 105532
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -59,7 +59,5 @@ _"The state or situation of being alone."_
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
--   Although not their actual names, these are the definitions and describe how they feel and how the feelings of their words convey.
--   [The "Voices of the Depths" have sound now (10/25/2022)](https://www.youtube.com/watch?v=5oQ1i9VRVxM)
 -   "Mark of the Lone Warrior" (and subsequently Adept) was removed by the Verse 2 update due to the progression changes.
--   Voice of Sequestration sometimes doesn't have text or voice, the reason for this is unknown (could have something to do with echo modifiers).
+-   The Voice of Sequestration was originally voiced by developer iltria. This was later removed due to her previous misconduct.

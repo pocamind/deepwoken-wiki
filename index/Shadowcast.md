@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 105181
+revid: 105540
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -764,7 +764,7 @@ N/A
         
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   An interesting example of this would be using a blast spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
--   Just like every other attunement, Shadowcast has two legendary weapons the [Crypt Blade](Crypt_Blade.md) and the [Deepspindle](Deepspindle.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast, or obtained from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+-   Just like every other attunement, Shadowcast has two legendary weapons: the [Crypt Blade](Crypt_Blade.md) and the [Deepspindle](Deepspindle.md). The first is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast, or obtained from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), whilst the second is a rapier obtained in Layer 1 or Outpost Antumbra from a Ministry Cache event.
 -   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   File:Location shadow trainer.png

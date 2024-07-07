@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 90335
+revid: 105559
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,7 +30,6 @@ This Outfit's Schematic can be found:
 
 -   [Erisia](Erisia.md) (Chest)
 -   [Aratel Island](Aratel_Island.md) (Chest)
--   [The Depths](The_Depths.md) (Chest)
 
 ## Trivia/Notes
 
