@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 104991
+revid: 105412
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, "Multi-Weapon Scaling"]
@@ -39,7 +39,7 @@ While its damage is arguably mediocre (considering its requirements), the Wyrmto
   
 For the **standing** critical, the user thrusts their weapon forwards, dealing damage and ragdolling enemies.
 
-For the **sliding** critical, the user sweep their weapon in a circular motion, dealing area damage. The user can respond with a follow-up M1 while **casting** (and successfully landing) the sliding critical that will cause the user to perform the standard critical immediately afterwards. Do note that enemies will recover in time to parry the follow-up crit. **This feature is currently broken,**
+For the **sliding** critical, the user sweep their weapon in a circular motion, dealing area damage. The user can respond with a follow-up M1 while **casting** (and successfully landing) the sliding critical that will cause the user to perform the standard critical immediately afterwards. Do note that enemies will recover in time to parry the follow-up crit.
 
 The cooldown for the critical is **10 seconds**.
 

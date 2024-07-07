@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 105383
+revid: 105453
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1948,7 +1948,7 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
 
 **Elemental:**
 
-Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapons. They scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon.
+Elemental weapons scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon.
 
 <table>
 <tbody>

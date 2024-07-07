@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 103954
+revid: 105451
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -94,7 +94,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   </ul></td>
 </tr>
 <tr>
-  <td><figure>File:Tacet drop kict.gif<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Tacet Drop Kick<p>(☆☆☆)</p></td>
   <td><i>Disguise yourself in tacet and drop kick your enemies.</i></td>
   <td></td>

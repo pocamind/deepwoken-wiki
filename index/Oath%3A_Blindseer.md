@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 105388
+revid: 105449
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -104,6 +104,7 @@ With the stat requirements, the talents, the blinded talent and the Oath Talent 
 ## Trivia
 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
+-   The glyph on the wall also can be found at King Tresher room in Lightkeeper Temple, the glyph also stating about how to progress Blindseer oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   The Blindseer Eye can be dyed by dying your eyes using a [Dye Packet](Dye_Packet.md).
 -   Vesperians with this oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
@@ -112,4 +113,4 @@ With the stat requirements, the talents, the blinded talent and the Oath Talent 
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   The Blindseer eye is a repeated symbol throughout the game.
     -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer
-    -   Unparryable attacks of [monsters](Monsters.md) (and [Ice Eruption](Frostdraw.md)) are accompanied by a red blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab)
+    -   Unparryable attacks of [monsters](Monsters.md) (and [Ice Eruption](Frostdraw.md) and [Stoneheart's](Stoneheart.md) critial attack) are accompanied by a red blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab)

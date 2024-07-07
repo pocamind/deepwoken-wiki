@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 104601
+revid: 105425
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -22,7 +22,7 @@ File:1 Knowledge offering to put in enchanted sacred hammer in the item bank.png
 
 ## Overview
 
-The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any [Banker](Banker.md) (npcs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots but you can expand it with / / /, increasing every 6 slots for a maximum slot count of 60. To store an item, drag an item from your inventory to the slots in the bank.
+The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any [Banker](Banker.md) (NPCs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots which can be expanded by paying / / /, increasing every 6 slots for a maximum slot count of 60. To store an item, drag an item from your inventory to a slot in the bank.
 
 ## Restrictions
 
@@ -36,11 +36,10 @@ Along with this ability comes several limitations, being that certain items of s
 
 ## Miscellaneous
 
--   Despite not being an item that is soulbound or of the legendary designation, Divers Light Plate that cannot be stored.
--   The item bank follows the rules of how items are displayed in chests; if an item in a chest stacks, then it can stack in the bank.
--   [Hallowtide](Hallowtide.md) weapons and equipment can be stored for free unless they are enchanted, then they will follow the soulbind rule.
+-   [Diver's Light Plate](<Diver's_Light_Plate.md>) can now be stored.
+-   The item bank follows the rules of how items are displayed in chests: if an item in a chest stacks, then it can stack in the bank.
+-   [Hallowtide](Hallowtide.md) weapons and equipment can be stored for free. However, if they are enchanted, they will follow the soulbind rule.
 -   Starter advanced weapons can be stored by enchanting them.
 -   You cannot store [Campfires](Campfire_Pit.md).
--   You cannot be attacked while in the GUI
+-   You cannot be attacked while in the GUI.
 -   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
--   [Divers Light Plate](<Diver's_Light_Plate.md>) can now be stored.

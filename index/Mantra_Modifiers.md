@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 105097
+revid: 105443
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -929,11 +929,7 @@ Tranquil Circle
 
  | 
 
-File:Normal Tranquil final.gif
-
  | 
-
-File:Magnet Tranquil final.gif
 
  | 
 

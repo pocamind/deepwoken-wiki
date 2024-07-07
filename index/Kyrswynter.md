@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 105402
+revid: 105447
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -27,4 +27,4 @@ categories: [Weapons]
 | obtainment | Layer 2, Floor 2 after defeating the Scion of Ethiron |
 | description | Forged in an age lost to history and salvaged from the Eternal Gale, this relic hails from a forgotten era. As the last whispered remnant of its kind, it comes from a time before the people of New Kyrsa fell under the command of the Drowned God Ethiron. The spear is extremely cold to the touch, with an unsettling chill that clings to your skin, leaving a lingering numbness. It embodies the delicate and refined artistry of the Kyrsgarde, showcasing their elegance and sophistication prior to their corruption. Though the Kyrsgarde still wield spears of frost, the craftsmanship of their modern weaponry pales in comparison, having become crude and uninspired under Ethiron's thrall. |
 
-Obtained by having 50 Medium and 75 Frostdraw, going to Layer 2 Floor 2, speaking to Naerotiv to the right of the spawn, then Frosviernr Joraelnaero in a secret room behind the trap room BEFORE killing Ethiron. Next, you must kill Ethiron. On your way out of layer 2 as the dimension starts collapsing, talk to Frosviernr Joraelnaero once again before escaping to obtain the weapon.
+To obtain Kyrswynter you must have 75 Frostdraw, Ethirons gaze Talent Card, then proceed to Layer 2 Floor 2 and speak with Naerotiv (A kyrsguard to the right of the spawn.) Next, you must kill [Scion Of Ethiron](Scion_of_Ethiron.md) and then head over to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing, then talk with him in the trap room before escaping to obtain the weapon. (You don't need points in medium weapon to OBTAIN the weapon, but you need points in it to equip it. You can drop it and bank it, and you can pass down this weapon with 60 echoes. You cannot get multiple of this weapon on the same slot.

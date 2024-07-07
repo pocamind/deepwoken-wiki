@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 103912
+revid: 105448
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1059,6 +1059,22 @@ Saint Jay
  | 
 
 When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
+
+ | 
+
++5 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Unyielding Frost  
+(100 FROST)
+
+ | 
+
+Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Shadow's Flight"
-revid: 105408
+revid: 105411
 source: https://deepwoken.fandom.com/wiki/Shadow's_Flight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Craftable]
@@ -24,4 +24,4 @@ Shadow's Flight is a craftable item that allows the user to teleport to their mo
 
 ## Obtainment
 
-Shadow's Flight is created by Putting 2 [Void Feathers](Dark_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md) together in a [Crafting Station](Crafting_Station.md)
+Shadow's Flight is created by Putting 2 [Void Feathers](Dark_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md)
