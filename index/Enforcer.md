@@ -1,9 +1,9 @@
 ---
 title: Enforcer
-revid: 105640
+revid: 105645
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Enforcer
@@ -21,8 +21,6 @@ Template:Creature Info Box v2
 Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size differences, the hammer variant has a replaced red neon with orange color and is the largest out of the three. The Enforcer blade is the shortest and the Enforcer Axe is the regular size.
 
 ## Attacks
-
-File:Image 2024-07-08 075833214.png
 
 | Name | Media | Description | Parry-able? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |

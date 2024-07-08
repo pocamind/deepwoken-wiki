@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 105619
+revid: 105658
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -53,6 +53,8 @@ The Running Critical lets you leap forward and deliver 2 explosions; a small one
 -   File:Kyrswynter enchanted with Stone.png
     
     Kyrswynter enchanted with Stone
+    
+    Kyrswynter enchanted with Curse of The Bloodthirsty
     
     Kyrswynter is the first ever legendary weapon to have an inbuilt flourish effect.
     

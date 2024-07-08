@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105621
+revid: 105664
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -50,11 +50,13 @@ In the Celtor City in the Depths, random houses will have a purple aura to them 
 
 The Deepspindle has two different critical attacks.
 
-For the **standing** critical, the user stabs the weapon forward, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
+For the **standing** critical, the user thrusts the weapon forward with both hands, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
 
-For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
+For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
 
 The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both critical attacks have a cooldown of 6 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 3.5 seconds as long as it lands.
+
+  
 
 ## Trivia
 

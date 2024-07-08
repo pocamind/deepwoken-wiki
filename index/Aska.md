@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 105569
+revid: 105667
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -184,6 +184,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
+-   DO NOT Attempt to run away for a heal. leaving the boss chamber to heal with cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though chaser or the deepdrill.
 
 ## Trivia
 

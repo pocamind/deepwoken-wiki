@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 105636
+revid: 105647
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -9,8 +9,6 @@ categories: [Pages with broken file links, Races]
 # Adret
 
 Template:Races-Main
-
-File:Image 2024-07-08 073326161.png
 
 _Tattooed when they come of age, their tattoo represents the path of life they seek.  
 Well-regarded as bureaucrats and keepers of coin._

@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 105630
+revid: 105660
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | drops from:Ministry Cache Agent |
-| description | An artifact of dark renown, convincing them they are already dead, instilling a strange reckless calm, Crafted from darksteel, its history is steeped in blood; its last owner met a grim fate during a forbidden Ministry Ritual to grow a murky, grotesque abomination. Grayhule failed his experiments and succumbed to his own shadows. Dare to don this helm at your own peril. |
+| description | "An artifact of dark renown, convincing them they are already dead, instilling a strange reckless calm, Crafted from darksteel, its history is steeped in blood; its last owner met a grim fate during a forbidden Ministry Ritual to grow a murky, grotesque abomination. Grayhule failed his experiments and succumbed to his own shadows. Dare to don this helm at your own peril." |
 
 ## Description
 
