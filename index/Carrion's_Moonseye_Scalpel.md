@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 103832
+revid: 105624
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Exclusive, Developer Spec]
@@ -41,3 +41,5 @@ The user aims down sights and shoots the spear, unleashing a blast in front. If 
 
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   Accidentally made obtainable on release but was reverted back to a normal Rifle Spear in Version PV\_JAN\_19\_22:13.
+    
+    If your moonseye scalpel was in the bank at the time of the revert then it remained untouched (see the version)

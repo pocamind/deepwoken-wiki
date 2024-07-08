@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 105262
+revid: 105609
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -91,6 +91,12 @@ Ironsing 
 
   
 
+Bloodrend
+
+[Bloodrend](Bloodrend.md) 
+
+  
+
 ## Trivia
 
 -   Attunement-less, as the name suggests, isn't an Attunement, rather a lack thereof.
@@ -101,3 +107,12 @@ Ironsing 
 -   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
     -   _As an extension, he mentions that those who wield water magic have already lost their humanity._
 -   There is a misconception that Lightkeeping is a magic similar to Attunements, and the only reason it isn't in the game is arbitrary lore. In reality, Lightkeeping is more akin to a [Regalia](Regalia.md), and has no real combat application. The closest thing to light magic with a combat application is the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).
+-   Bloodrend can be obtained by chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree at Etris.[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1)
+    
+    File:Bloodrendreal.png
+    
+    bloodrend is real trust me bro
+    
+    proof bloodrend is real

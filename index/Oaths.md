@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 105250
+revid: 105600
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -143,7 +143,7 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   The developers have confirmed that Oathless is a "seatwarmer" since their objective is to make many Oaths so Oathless will be basically useless, causing community backlash due to the Oath's obtainment method being more tedious than some Oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
     -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
--   [Stratos](Stratos.md) will never speak to Silenthearts.
+-   ~[Stratos](Stratos.md) will never speak to Silenthearts.~ He will simply ask them to return when they have unlocked Galebreathe.
 -   The Dawnwalker talents used to each give 5 extra health.
 -   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, such as the "Silencer's" tree, Cheap Shot, Nullifying Clarity, and many other talents, this allowed them to be much stronger than even Silenthearts. In May 16th 2023's patch note, it was found to be a bug, and was subsequently patched.
 -   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.

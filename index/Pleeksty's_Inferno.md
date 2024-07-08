@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 105462
+revid: 105620
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -71,7 +71,11 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 **Twisted Puppets:**
 
+## Description
+
 Pleeksty's Inferno is a legendary Club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it.
+
+It can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
 1.  Have **75** Flamecharm and enter [Layer 2](Second_Layer.md) without a Light Hook
 2.  Wear [Flame Worshipper Armor](Flame_Worshipper_Armor.md), have the [Pleeksty's Will](Talent_Quests.md) OR [Pleeksty's Faith](Talents.md) talents. Keep in mind you only need **one** of these to get confirmation to fight [Aska](Aska.md). (Example, I can have Pleetsky's Will and fight Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.)

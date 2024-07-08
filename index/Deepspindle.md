@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105580
+revid: 105621
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -44,17 +44,17 @@ The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forg
   
 
   
-In the Celtor City in the Depths, random houses will have a purple aura to them which are quite easy to spot, as it is usually bright and hard to miss. Upon going to one, using Shadow Travel, or Shadow's Flight within the purple aura, will teleport you to the Understrand, where you will fight the Deepspindle boss. Instead of getting all 3 items, you will receive a chest with the chance to get one of the 3 items, chances are unknown.
+In the Celtor City in the Depths, random houses will have a purple aura to them which are quite easy to spot, as it is usually bright and hard to miss. Upon going to one, using Shadow Travel, or Shadow's Flight within the purple aura, will teleport you to the Understrand, where you will fight the Ministry Cache Agent. Instead of getting all 3 items, you will receive a chest with the chance to get one of the 3 items; chances are unknown and none are guaranteed.
 
 ## Critical
 
 The Deepspindle has two different critical attacks.
 
-For the **standing** critical, the user stabs the weapon forward, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting.
+For the **standing** critical, the user stabs the weapon forward, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
 
-For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy.
+For the **running** critical, the user stabs weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
 
-The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both criticals have a cooldown of 5 **seconds**.
+The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both critical attacks have a cooldown of 6 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 3.5 seconds as long as it lands.
 
 ## Trivia
 
@@ -62,5 +62,6 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 -   Doing hell mode increases the spawn rate.
 -   Meeting the requirement of LHT and SHW, the damage is (23.19)
 -   At max LHT and SHW, the damage is (27.65)
--   The running critical damage can be reduced by using the Deepscorn Casque (Synergizes well by having the talent "Already Dead:)
+-   The running critical damage can be negated by the Unique equipment talent "Already Dead", available by equipping the Deepscorn Casque.
+-   The "wither" effect can be increased to 40% through the use of the Darkened Bastion Outfit.
 -   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the Deepscorn Casque, and the Deepspindle all at once

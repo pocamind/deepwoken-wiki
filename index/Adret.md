@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 99958
+revid: 105605
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -49,7 +49,7 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
 
 -   Siblings - For Adrets, siblings have to be the same racial variant, have the same last name, and same tattoos, with the possibility of different genders. (Because of twins.)
 -   Cousins - For Adrets, cousins have to be the same racial variant, have different last names, yet different tattoos.
--   Twins - For Adrets, twins have to be the same racial variant, have the same last name, the same tattoos, the same gender, and possibly the same age. (The age part is not fully confirmed.)
+-   Twins - For Adrets, twins have to be the same racial variant, have the same last name, the same gender, and possibly the same age. (The age part is not fully confirmed.)
 
 ## Miscellaneous
 
