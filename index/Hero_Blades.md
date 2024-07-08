@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 102667
+revid: 105626
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -176,3 +176,4 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
 -   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Thunder Clones](Thundercall.md)) will use the default starting sword critical instead of the Hero Blade crit.
 -   Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades.
 -   At max ELE, the damage is (28.3) for all the Hero Blades.
+-   The chest containing the hero blades will spawn at the location where Aelita's reward usually spawns.

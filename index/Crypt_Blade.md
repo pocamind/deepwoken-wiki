@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 102364
+revid: 105632
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-bas
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest |
+| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Ministry Cache Agent |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description

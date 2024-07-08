@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 103396
+revid: 105625
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Unique Critical]
@@ -113,3 +113,4 @@ File:ASTRALPURPLECLOUDYEAAAAAAAAAA.png
 -   May be inspired by the sword Enma from _One Piece_, as both are purple, have a will of their own and using it for an extended period of time can be fatal.
 -   May additionally be inspired by the Edict Edge 'Naught' from Honkai: Star Rail, as both are purple and are used similarly, unsheathing it only briefly for attacks.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average range, damage and attack speed as what you would expect from a medium weapon.
+-   It can be used both one-handed and two-handed, similar to most medium weapons.
