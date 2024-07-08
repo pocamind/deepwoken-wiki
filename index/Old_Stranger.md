@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 104934
+revid: 105571
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -27,50 +27,52 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 
 ## Dialogue
 
-**First encounter:**
+**First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
+  <td colspan="8">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
 </tr>
 <tr>
-  <td colspan="5">What're you trying to figure out?</td>
+  <td colspan="7">What're you trying to figure out?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="5">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's Murmur.</td>
+  <td colspan="7">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's Murmur.</td>
 </tr>
 <tr>
-  <td colspan="4">A Murmur, huh?</td>
+  <td colspan="6">A Murmur, huh?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="4">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
+  <td colspan="6">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
 </tr>
 <tr>
-  <td colspan="3">Can you teach me how?</td>
+  <td colspan="5">Can you teach me how?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="3">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
+  <td colspan="5">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
 </tr>
 <tr>
   <td>[Hand him your Canteen]</td>
   <td>[Collect water using Condensation Drip]</td>
   <td>[Give him Redd Juice]</td>
+  <td>???</td>
   <td>End</td>
 </tr>
 <tr>
   <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
   <td>Oh, neat trick! That hit the spot. Now, where were we...</td>
   <td>Ah, just like mama used to make! Now, where were we...</td>
+  <td>Ah, don't ye worry yerself. You've got other things on your mind, I can tell.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

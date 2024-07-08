@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 105409
+revid: 105579
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Bosses, Enemies]
@@ -41,3 +41,5 @@ hitting an enemy, they will be lifted into the air and smashed into the ground, 
 ## Trivia
 
 If you have Hero reputation with [The Ministry](The_Ministry.md), he will hand over the [Deepspindle](Deepspindle.md) without a fight.
+
+The Ministry Agent gives Resonance progress upon defeat, but the amount is currently unknown.

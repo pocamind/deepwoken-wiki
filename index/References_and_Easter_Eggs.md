@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 104552
+revid: 105588
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -137,7 +137,7 @@ categories: [Deepwoken]
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
 -   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto._
     -   Could also possibly be a reference to the [Accompany Card](<https://hunterxhunter.fandom.com/wiki/Accompany_(G.I_card)>) from the _Hunter X Hunter_ Greed Island Arc.
--   **Shard Bow** may be a possible reference to the [Grandbows](https://stormlightarchive.fandom.com/wiki/Grandbow) from _The Stormlight Archive._
+-   **Shard Bow** may be a possible reference to the [Grandbows](https://coppermind.net/wiki/Grandbow) from _The Stormlight Archive._
     -   It's triple-shot variant is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
 -   **Jar of Souls** is possibly a reference to _The Binding Of Isaac: Repentance_ item, [Urn of Souls](https://bindingofisaacrebirth.fandom.com/wiki/Urn_of_Souls).
     -   It may also be a reference to an [item of the same name](https://riskofrain.fandom.com/wiki/Jar_of_Souls) from _Risk of Rain._
@@ -269,7 +269,7 @@ categories: [Deepwoken]
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
--   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry%23Obligator) from _Mistborn_.
+-   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://coppermind.net/wiki/Steel_Ministry#Obligators) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
     -   On a broader reference, Canor surnames are German. Zweihanders, a weapon of German creation in real life, are used by Canor Borderwatchers.

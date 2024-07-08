@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 104006
+revid: 105576
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Unique Critical, "Multi-Weapon Scaling"]
@@ -65,7 +65,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on April 19th, 2024.
 -   It is one of nine weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md)
-    -   It also has the most amount of critical attack variations (5, one for nearly every possible previous input).
+    -   It also has the most amount of critical attack variations (Five, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
 
