@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 104543
+revid: 105738
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -41,15 +41,17 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 ### **Passives**
 
 -   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%. (Natural health regen is not affected, artificial health regen is.)
--   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is increased to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
+    -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is increased to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
+-   **Advanced Knowledge** - Unlike other monsters, the Broodlord is able to parry multiple mantras that attack from a far range, such as Blinding Dawn, Caltrops, Tornado, and many others.
 
 Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's healing is nullified by Broodlord's Rot. Confirms that Broodlord's Rot is 100% in the Diluvian.
 
 ## Tips
 
 -   Due to their obscene health and damage, it's advisable to take advantage of cannons on [boats](Ships_&_Sailing.md) to kill them when encountered at sea rather than directly engaging.
--   Be mindful of Bloodrot Smash, as they can easily board your boat using it.
--   They can accidentally hit their own Mudskippers and kill them.
+-   Be mindful of Broodrot Smash. This move allows the Broodlord to cover quite long distances with ease and catch up to you. Additionally, this move also allows them to easily board boats, especially larger ones.
+-   There has also been instances of the Broodlord using Broodrot Smash and accidentally clipping through walls, so keep your eyes peeled, especially in locations where the Broodlord is able to spawn.
+-   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move. Use this information however you want.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
 
 ## Trivia

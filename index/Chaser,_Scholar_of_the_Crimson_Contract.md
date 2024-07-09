@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 105704
+revid: 105745
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -69,6 +69,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   Chaser will be highlighted in red while this attack is in use.
 -   This attack is only available once there are no (or only a few) jars left.
+-   This attack also drains him for 250 health.
 
  | N/A | N/A | N/A | (★★☆) |
 

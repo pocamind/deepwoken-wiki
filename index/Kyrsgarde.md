@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 104790
+revid: 105753
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -24,7 +24,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Kyrsgarde Lancer is singlehandedly the most dangerous of them all as it has both short-range and long-ranged moves. They are infamous for their ability to leave someone ragdolled infinitely with their glacial javelins. They are told apart by their glowing **Burgundy** head. They can only spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+The most versatile and common version of the Kyrsgarde found in [New Kysa,](Second_Layer/New_Kyrsa.md) they can easily contend for the top spot in terms of danger as well. They are master wielders of [Frostdraw,](Frostdraw.md) using it for both devestating melee and ranged attacks. They can be distinguished by their Burgundy membranes.
 
 ## **Attacks**
 
@@ -71,7 +71,9 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Kyrsgarde Crawler is the weakest of them all for it only has 1 attack. They are told apart by their glowing **White** head. They can only spawn in **The Sunken Railways** which is accessed by going into a sewer grate in the ground in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+Wielders of [Murmur: Tacet,](Murmur.md) these stalkers known as Kyrgarde Crawlers are capable of going invisible at will to sneak up on their opponents. They seemingly cannot manipulate [Frostdraw](Frostdraw.md), instead using their stealth to their advantage to conduct melee attacks. One can tell a Kyrsgarde Crawler is present in the area by the occasional growling sound they make. When visible, they can easily be distinguished by their glowing white Membranes and the fact that they crawl.
+
+It should be noted that the Kyrsgarde Crawlers in the [Sunken Railways](The_Sunken_Railways.md) will not aggro on the player before the beacon down there is activated.
 
 ## **Attacks**
 
@@ -96,9 +98,11 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Kyrsgarde Sniper almost shares every attack with the Kyrsgarde Lancer except for assault. They are also told apart by their glowing blue head. They can spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) or by the [Scion of Ethiron](Scion_of_Ethiron.md).
+Distinguishable by their glowing blue Membranes, Kyrsgarde Snipers stay at the top of buildings in an attempt to snipe the players lurking below. Their glaring weakness is the fact that they can only throw their spears and cant use melee attacks, and are also a lot weaker than their Lancer counterparts.
 
-The Kyrsgarde Sniper spawned by the **Scion of Ethiron** will have it's health greatly reduced as it's purpose is to act as a health pack for the player(s).
+They can also spawn in the [Scion of Ethiron](Scion_of_Ethiron.md) fight by the Bone Altars with a lot less health, serving as easy kills to give the players a healthpack should they get low on health.
+
+  
 
 ## **Attacks**
 
@@ -137,7 +141,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-These aren't your typical stupid brute guys, they are an oddity when it comes to the Kyrsgarde. Comparing to the Kyrsan Lancers, they are very much buff and are in no way skinny (aside from the legs probably). They have a red color in their "membrane" and everytime they move it actually makes a stomp noise, however are slow and seem.. odd compared to the Lancers.
+An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt and relentless being that is not at all similar to the some-what elegance that the other Kyrsgarde have up to this point. They can be distinguished by their bigger build, glowing red Membrane as opposed to the Blue of the rest of the Kyrsgarde, and can be heard with their loud stomping. Contrary to the other Kyrsgarde, they seemingly have no ability to manipulate [Frostdraw,](Frostdraw.md) instead choosing their physical attributes to crush their foes into oblivion.
 
 ## **Attacks**
 

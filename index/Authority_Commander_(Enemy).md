@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 101048
+revid: 105746
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -57,11 +57,12 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Offic
 
 -   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
 -   At almost any given time they'll try to use their mantras while performing an M1 combo.
--   Expect [Authority Peacekeepers](Authority_Peacekeeper.md) to interfere with your fight.
+-   Expect [Authority Peacekeepers](Authority_Peacekeeper.md) and other nearby Authority NPCS to interfere with your fight.
 -   You'll frequently get into a parry battle with the Commander, so feint to disrupt it.
 
 ## Trivia
 
 -   You can pickpocket the Authority Commander for the Jail Keys, but it requires the Pickpocket Talent to do so.
+-   This is the only NPC you can pickpocket so far.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a [Khan Shield](Legion_Shield.md) or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.

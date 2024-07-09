@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 100314
+revid: 105743
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -60,4 +60,5 @@ A Lost Diver executes it's opponent after knocking them:
     -   Help us.
     -   Help us. Please.
 -   They only use [Galebreathe](Galebreathe.md), fitting as they are trapped in the Layer 2, The Eternal Gale.
--   Their outfit and name suggests that they were Black Divers who were sent on an expedition / fell into Layer 2. It's safe to assume that they have lost control and sanity down there.
+-   As their outfit and name suggests, these were most likely Divers (specifically Black Divers) who got lost during an expedition into the Second Layer, and lost their sanity.
+-   However, they still seem to have some humanity left in them, as they beg the player for help before attacking them.

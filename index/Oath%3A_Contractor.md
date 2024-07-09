@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 105064
+revid: 105757
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -84,8 +84,8 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   File:Contractor 10 knowledge.png
     
     You can now skip Contractor's progression with 10 knowledge, despite the fact that Lord Regent would kill you previously.
--   Upon obtaining the Oath, reputation with The Divers will be set to Hunted. Reputation may be gained back by defeating Chaser or Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp.](https://deepwoken.fandom.com/wiki/Diver%27s_Camp)
-    -   Reputation can no longer be bought for The Divers.
+-   Upon obtaining the Oath, reputation with The Divers will be set to Hunted. Reputation may be gained back by defeating Chaser or the Scion Ethiron, killing Nautilodaunts, doing Diver vs Monster events, and killing the four Mudskippers and Megalodaunt that spawns next to the [Diver's Camp](<Diver's_Camp.md>).
+    -   Reputation, however, can no longer be bought for The Divers.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
 -   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 oath grips\\
@@ -93,11 +93,6 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   Before 25/08/23, 4 specific Deep Shrines deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
 -   The Deep Shrines in Temple of Hearts are able to be used to meet Contractor requirements.
 -   Despite popular belief you can get Contractor without directly gripping Duke Erisia, you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
-
-File:Contractor String.png
-
-Up close Contractor strings
-
 -   Contractor strings are not actually solid dark red or black; the string's outside is red, and the interior is black.
 -   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.

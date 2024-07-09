@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 105369
+revid: 105748
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -21,21 +21,21 @@ Also referred to as, "Etris Raid Event", "[Etris](Etris.md) vs Authority Raid Ev
 
 ## Description
 
-The siege of Etris is a large event in which [the Authority](The_Central_Authority.md) makes its way into the heart of [Etrea](Etrea.md), the city of [Etris](Etris.md).
+The siege of Etris is a large and rare event in which [the Authority](The_Central_Authority.md) makes its way into the heart of [Etrea](Etrea.md), the city of [Etris](Etris.md).
 
 At the beginning of the event, [Seraphina](Seraphina.md) talks about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, starting from the docks, to the Etrea Wilds, and eventually reaching the main city, causing more and more havoc to break out.
 
 Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritise Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
 
-If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, [Wyrmtooth](Wyrmtooth.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
+If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
 
-You are bound to accidentally hit NPCS belonging to the Etrea faction. Don't worry, as even though it gives bad reputation then, the positive reputation given for beating the event overcomes the negative reputation by alot.
+You are bound to accidentally hit NPCS belonging to the Etrea faction. Don't worry, as even though it gives bad reputation then, the positive reputation given for beating the event overcomes the negative reputation by quite a lot.
 
 ## Types of NPCs
 
 Up to nine NPCs are in this event.
 
-| Faction | Enemy |
+| Faction | NPC |
 | --- | --- |
 | [Etrea](Etrea.md) | [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Etrea](Etrea.md) | [Etrean Soldier](Etrean_Soldier.md) |
@@ -63,7 +63,8 @@ One of the only places that will never burn in the Etris Raid Event is [Lord Reg
 
 -   The Children Of Navae unintentionally help Etris by attacking any Authority NPCS that come too close to their camp in Etrean Wilds.
 -   If you encounter this event and are too weak to fight, try staying low at the Nomad Camp, or find high ground.
--   In a nutshell, the lore behind this event is the Central Authority trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
+-   Additionally, Neil the Ice Trainer will help fight any Authority NPC that wanders too close.
+-   In a nutshell, the lore behind this event is the Central Authority taking action and trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
 -   This event was unable to spawn during the Winter season until the 5th of July 2024 Update.
 
 ## Images & Videos

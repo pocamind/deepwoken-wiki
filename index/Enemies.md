@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 105069
+revid: 105751
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Enemies]
 
 _This page is for human 'mob' enemies, for bosses, see [Bosses](Bosses.md). For monsters, see [Monsters](Monsters.md)._
 
-**Enemies** in _Deepwoken_ are neutral-hostile humanoid NPCs that will attack the players. However, instead of being agressive to everything, some of these NPCS will attack selectively, based on your reputation, etc.
+**Enemies** in _Deepwoken_ are neutral-hostile humanoid NPCs that will attack the players. However, instead of being agressive to everything, some of these NPCS will attack selectively, such as based on your reputation.
 
 ## Overview
 
@@ -20,7 +20,7 @@ Depending on who they are, they can vary in their skill, equipment, and attuneme
 
 This page consists of Humanoid NPCs that fight back or attack you on sight. Includes all Factions.
 
-Humanoid Enemies can have **enchanted** weapons; However, it's only given to certain enemies. (**They cannot have Curse of the No Life King or Curse of Yun'shul)**
+some Humanoid Enemies have a chance to spawn with **enchanted** weapons. (**cannot have Curse of the No Life King or Curse of Yun'shul)**
 
 ## Enemies
 
@@ -61,6 +61,8 @@ Humanoid Enemies can have **enchanted** weapons; However, it's only given to cer
 ## Ambush Events
 
 _Main Article - [Faction Ambushes](Faction_Ambushes.md)_
+
+These are the NPCS that factions will send after you if you have low enough reputation with them.
 
 **The Ministry File:Eylisiconfactoin.png**
 

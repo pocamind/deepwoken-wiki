@@ -1,11 +1,9 @@
 ---
 title: Deepspindle
-revid: 105683
+revid: 105756
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
 ---
 
 # Deepspindle
@@ -34,17 +32,22 @@ notices:
 
 The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forged through unknown means into a curving, ornate assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
 
+The Deepspindle can be acquired in 2 ways, one guaranteed, (albeit tied to a rare event,) and one through chance.
+
+Silhuett's Method:
+
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
 3.  Talk to Silhuett, then use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) on top of the black pentagram next to the Silhouette. You will then be teleported to the Understrand
-4.  After using Shadow's Flight or Shadow Travel, you will be teleported to the Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon and are brought back to the where Silhouette was.
+4.  After using Shadow's Flight or Shadow Travel, you will be teleported to a Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon and are brought back to the where Silhouette was.
+    -   Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon, [helmet](Deepscorn_Casque.md), and [outfit](Darkened_Bastion.md) immediately.
 
--   Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon immediately.
+Understrand Method:
 
-  
-
-  
-In the Celtor City in the Depths, random houses will have a purple aura to them which are quite easy to spot, as it is usually bright and hard to miss. Upon going to one, using Shadow Travel, or Shadow's Flight within the purple aura, will teleport you to the Understrand, where you will fight the Ministry Cache Agent. Instead of getting all 3 items, you will receive a chest with the chance to get one of the 3 items; chances are unknown and none are guaranteed.
+1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
+2.  Travel to the City of the Drowned or Outpost Penumbra and look for a purple aura inside buildings or near the Trial of One (can be easily spotted as it stick out in the environment)
+3.  Use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) next to the light.
+4.  You will be transported to a Ministry Cache and fight a Ministry Agent. Defeat them to obtain a chest that can **rarely** contain the Deepsindle.
 
 ## Critical
 
