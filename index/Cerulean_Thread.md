@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 103285
+revid: 105697
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Unique Critical]
@@ -41,5 +41,4 @@ On the first critical you'll thrust towards your opponent, placing a string on t
 -   The only light weapon to be sheathed behind you instead of along your waist.
 -   Meeting the requirement of LHT, the damage is (22.2)
 -   At max LHT, the damage is (23.4)
-
 -   The second half of the Cerulean Thread critical was temporally bugged but this was fixed in the 06/14/2024 update.
