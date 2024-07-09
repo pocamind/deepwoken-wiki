@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 105196
+revid: 105674
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -216,6 +216,10 @@ Applied by standing in the time stasis bubble made by the [Eylis Captains.](Subt
 ### Audacity
 
 Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE around everyone near them making them stuck in place for around 5 seconds. Signified by White Eyes in the moment of the execution.
+
+### Wither
+
+Applied by getting hit by an opponent with Emperor Flame active or [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ talent. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by resting and knocking opponents.
 
 ## **Deadly Status Effects**
 

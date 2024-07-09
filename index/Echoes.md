@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 105631
+revid: 105672
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -60,7 +60,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
--   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes. ([Idol of Yun'Shul](Relics.md) counts for this.)
+-   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes. ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this.)
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Hero's Blade of Frost or Crypt Blade, awarding 5 Echoes.

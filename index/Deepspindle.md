@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105664
+revid: 105683
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -61,9 +61,10 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 ## Trivia
 
 -   This item _can_ be dropped.
--   Doing hell mode increases the spawn rate.
+-   Doing hell mode increases the spawn rate of finding Silhuette.
 -   Meeting the requirement of LHT and SHW, the damage is (23.19)
 -   At max LHT and SHW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment talent "Already Dead", available by equipping the Deepscorn Casque.
--   The "wither" effect can be increased to 40% through the use of the Darkened Bastion Outfit.
--   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the Deepscorn Casque, and the Deepspindle all at once
+-   This weapon gains 40% wither on hit when paired with the Darkened Bastion outfit, instead of the normal 20% received by other weapons.
+-   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once.
+-   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).

@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 105138
+revid: 105681
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -30,3 +30,9 @@ This Outfit's Schematic can be found in:
 
 -   [Scyphozia, The First Layer](First_Layer.md)
     -   A drop when defeating Ministry Cache Agent, after using Shadow Flight/Shadow Travel infront of Silhuett, who spawns randomly in the Depths teleporting you to the Ministry Cache.
+
+## Trivia
+
+[https://www.roblox.com/catalog/13746116143/Moonseye](https://www.roblox.com/catalog/13746116143/Moonseye) - PANTS
+
+[https://www.roblox.com/catalog/13746114810/Moonseye](https://www.roblox.com/catalog/13746114810/Moonseye) - SHIRT

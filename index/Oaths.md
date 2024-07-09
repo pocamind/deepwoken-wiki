@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 105600
+revid: 105678
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -119,21 +119,8 @@ Proof of Time Magic's existence and it being an "Oath"
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
--   You can't Shrine of Order with an Oath.
-    -   This excludes Oathless.
--   There is no reason to not get an Oath as most of them give benefits with no downsides.
-    -   Furthermore, upon changing your mind, any Oath can be broken with Yun'Shul. Once.
--   Smelting a blindfold will still give you the night-vision effect Blindseer gives.
--   Unequipping your facial accessory while having Blindseer will automatically give you a cosmetic-only version of the normal Blindfold, which is pale in color.
--   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angels.
-    -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
-    -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
-    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
-    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
-    -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
     -   However, no Oath Mantras can be leveled up beyond level 1.
--   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the Song itself.
 -   Some Oaths change your character's eye color.
     -   Linkstrider gives the user Cyan eyes.
     -   Visionshaper gives the user Bright Magenta eyes.
@@ -141,15 +128,5 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Dawnwalker gives the user White eyes.
     -   Contractor gives the user Dark Maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
--   The developers have confirmed that Oathless is a "seatwarmer" since their objective is to make many Oaths so Oathless will be basically useless, causing community backlash due to the Oath's obtainment method being more tedious than some Oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
-    -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
--   ~[Stratos](Stratos.md) will never speak to Silenthearts.~ He will simply ask them to return when they have unlocked Galebreathe.
--   The Dawnwalker talents used to each give 5 extra health.
--   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, such as the "Silencer's" tree, Cheap Shot, Nullifying Clarity, and many other talents, this allowed them to be much stronger than even Silenthearts. In May 16th 2023's patch note, it was found to be a bug, and was subsequently patched.
--   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.
--   Arcwarder armor is similar to Bulats "Incursio" from the anime and manga series, Akame Ga Kill!.
--   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
--   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons.\[citation needed\]
-    -   Of course, it was later molded into one of the first Oaths.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the oath, and one for each subsequent talent.

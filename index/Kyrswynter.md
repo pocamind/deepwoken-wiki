@@ -1,9 +1,9 @@
 ---
 title: Kyrswynter
-revid: 105658
+revid: 105680
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -72,6 +72,7 @@ The Running Critical lets you leap forward and deliver 2 explosions; a small one
     
 
 -   Kyrswynter running crit cannot be parried, however CAN be blocked, but deals INSANE posture damage.
+-   The running crit could also be a reference to the Wolf's Assault Ash of War from Elden Ring.
 
 -   It is the first elemental legendary weapon to have innate bleed on hit.
 -   It is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
@@ -81,10 +82,6 @@ The Running Critical lets you leap forward and deliver 2 explosions; a small one
 -   Kyrswynter enchanted with Detonation
     
     The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release. Images of the Kyrswynter with enchants are on the right.
--   Kyrswynter can also be acquired already enchanted through the npc.
--   As of 7/7/2024, it seems that Kyrswynter is no longer enchantable and being enchantable was a bug/glitch.[\[1\]](#cite-note-1)
+-   Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
+-   As of 7/7/2024, it seems that Kyrswynter is no longer enchantable and being enchantable was a bug/glitch.
 -   The person who had the Providence Thorns Kyrswynter sent me a clip. [Press here to view the clip.](https://medal.tv/games/roblox/clips/idsFtr3OCKRzKGEjc/d1337uNpv45H?invite=cr-MSx0algsMTg2NTMxMTMxLA)
-
-1.  [↑](#cite-ref-1)
-    
-    File:Kyrswynterinfo.png

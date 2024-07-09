@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 105660
+revid: 105671
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
