@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 104696
+revid: 105714
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -61,6 +61,6 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.\[citation needed\]
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
 -   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.
--   It would take roughly 300-400 cannonball shots to kill a dread serpent.
+-   It would take roughly 300-400 cannonball shots to kill a dread serpent. At power 20 the amount is reduced to roughly 15-30 cannonball shots depending on PvE damage.
 -   This is the preferred boss to fight if you are trying to obtain the [Echo Talent: Chain of Perfection](Talent_Quests.md), as he can mostly be cheesed by staying behind his back. However, be careful because when the Dread Serpent comes out of the water it might hit you so be sure to dodge.
 -   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, especially in [Dimensional Travel](Dimensional_Travel.md)

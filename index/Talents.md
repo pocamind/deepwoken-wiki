@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105560
+revid: 105712
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -841,7 +841,7 @@ _**"I enjoy sea food."**_
 -   _Fishman_ \[Generic Talent, Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
     -   You normally cannot grip NPCs and players in water (due to a lack of ground to hold them down). Fishman allows you to drown them.
 
-### Flame dancer
+### Flame Dancer
 
 _**"I dance with the flames."**_
 

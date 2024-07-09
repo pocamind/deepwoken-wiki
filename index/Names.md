@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 104913
+revid: 105710
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1763,7 +1763,9 @@ Some players have access to customized, unique names.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in.
+-   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [https://en.wikipedia.org/wiki/Yakub\_(Nation\_of\_Islam)](<https://en.wikipedia.org/wiki/Yakub_(Nation_of_Islam)>)

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 104718
+revid: 105711
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -23,7 +23,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Flings you off a cliff for no reason | Once thrown enough times she will stop throwing you |
 | [Adar](Adar,_Master_of_Metal.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), in tower of the bridge | [Ironsing](Ironsing.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Adrofalis](Adrofalis.md) | The Old Stewards | [Boatman's Watch](<Boatman's_Watch.md>), Ferryman's Library | Grants the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md) |  |
-| [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event, required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) oath | Does not spawn during Winter |
+| [Aelita](Aelita.md) | Unaligned, possibly The Nestmind | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event, required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) oath | Does not spawn during Winter |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) and unlock the [Deepbound](Origins.md) origin | Choosing the second option without 75 Charisma will result in unavoidable death |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives a chest to those who give him ragdolled villagers | Cannot be given [Forgotten Villagers](Forgotten_Villager.md), can be given Navaen Nomads, dialogue changes after being given a villager for the first time |
 | [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker Oath](Oath%253A_Jetstriker.md) |  |
@@ -49,7 +49,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | Emel | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Erisae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
-| [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
+| [Ezra](Ezra.md) | Unaligned, possibly a worshipper of the dead Celestial | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
 | [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | Flabbermaster Filigree, the First Mate | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
@@ -79,7 +79,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, treefelling blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker |
 | [Kujae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
-| [Lake](Lake.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
+| [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
 | [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
@@ -122,7 +122,7 @@ Check the rest out for yourself, canonically smells really bad
 | Renau | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |
 | Rimil | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
-| [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |
+| [Samael](Samael.md) | Starkindred Faithful | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |
 | [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
