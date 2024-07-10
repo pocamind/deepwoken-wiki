@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 105209
+revid: 105780
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -61,7 +61,7 @@ A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspac
 
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis
 -   **Voidheart** is rougly 35k studs away from [Etris](Etris.md). Its coordinates are at -20000, 20000, -20000, putting it far away in the Southwest of the play area and high up in the air.
-    -   The Roblox engine tend to struggle rendering things when too far away from 0, 0, 0. This can be seen by zooming in very close to the player, their polygons becoming distorted.
+    -   The Roblox engine tends to struggle rendering things when too far away from 0, 0, 0. This can be seen by zooming in very close to the player and watching their polygons becoming distorted.
 -   Originally, The **Voidheart** was a leftover area marker far away into the Void Sea. It had nothing.
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://youtu.be/4KLGPkyCff0?t=102](https://youtu.be/4KLGPkyCff0?t=102))
     -   This has been partially confirmed, as there is now a chess board there.

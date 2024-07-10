@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 105696
+revid: 105792
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2457,8 +2457,8 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Scaling: [Revolver](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
-    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md) (1.3x)
-    -   Highest DPS: [Divine Flintlock](Crazy_Slots.md)
+    -   Swing Speed: [Divine Dagger](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.3x)
+    -   Highest DPS: [Divine Flintlock](Crazy_Slots.md) _(Likely not true)_
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
 -   Aranea is the first item to have an unobtainable stat prerequisite.

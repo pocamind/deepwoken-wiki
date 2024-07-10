@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105767
+revid: 105775
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -72,3 +72,4 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 -   This weapon gains 40% wither on hit when paired with the Darkened Bastion outfit, instead of the normal 20% received by other weapons.
 -   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once.
 -   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).
+-   The Silhuette method grants you the armor, casque, and weapon ONLY ONCE per slot. If you find this event more than once per life, the dialogue will change, and you do not get the whole set, instead you have a chance to get the drops (no chest, you see a black screen and get tped out just like as your first time but the rewards change as said before)
