@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 105768
+revid: 105794
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -319,6 +319,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
 -   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke states he is a Virgo.
+-   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that the Duke is a member of the band "The Seal Unleashed".
+    -   Duke Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
 
 ## Bugs
 
