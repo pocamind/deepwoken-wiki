@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 103558
+revid: 105765
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -97,7 +97,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 2.  Defeat any humanoid [Boss](Bosses.md) (any one of the following):
     -   [Duke Erisia](Duke_Ishamon_Erisia.md) in [his laboratory](<Duke_Erisia's_Laboratory.md>) ([The Lord Regent's Quest](Etris.md#the-lord-regents-quest) grants the key to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)),
     -   [The Ferryman](The_Ferryman.md) at [Boatman's Watch](<Boatman's_Watch.md>).
-    -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in the [Second Layer](Second_Layer.md#objectives), or.
+    -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in the [Second Layer](Second_Layer.md#objectives).
     -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) at [The Temple of The Blade](Temple_of_the_Blade.md).
 
 ## Notes
@@ -106,3 +106,4 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)
 -   Unlike normal attributes such as Fortitude and Willpower, [Attunements](Attunements.md) and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
 -   The Lost Sibling quest is also required to unlock the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) boss fight.
+-   In the order to unbound attunement you have to deal majority of the damage.

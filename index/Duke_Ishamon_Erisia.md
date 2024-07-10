@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 105643
+revid: 105768
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -318,6 +318,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
+-   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke states he is a Virgo.
 
 ## Bugs
 

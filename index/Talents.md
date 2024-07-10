@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105712
+revid: 105773
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1326,7 +1326,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
 -   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
-    -   Deal +30% posture damage against Fist of Navae and Legion Kata
+    -   Deal +30% posture damage against Way of Navae and Legion Kata
     -   Prerequisite: Jus Karita
 
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).

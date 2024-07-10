@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 105198
+revid: 105763
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -105,6 +105,9 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 Weapon Attributes dictate proficiency with your given weapon, and can unlock weapon talents based on what weapon you are using. Below is the method of training, followed by specifics provided by each weapon type.
 
 -   Weapons → _use the **Weapons Manual**_
+-   All of the weapons are:
+    -   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+    -   _**[Unbounded](Attributes_Unbound.md) by killing any [boss](Bosses.md).**_
 
 ### **Heavy Weapons**
 
@@ -113,8 +116,6 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   Unlocks heavy weapon related [Talents](Talents.md) and a [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras).
         -   Some weapon talents are locked to certain weapon types. For example, Greataxe talents differ from Greatsword talents, and cannot be used interchangeably unless states otherwise in the talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
--   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
--   _**[Unbounded](Attributes_Unbound.md) by killing any [boss](Bosses.md).**_
 
 ### **Medium Weapons**
 
@@ -123,8 +124,6 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   Unlocks medium weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Medium_Weapon_Mantras).
         -   Some weapon talents are locked to certain weapon types. For example, Spear talents differ from Rifle talents, and cannot be used interchangeably unless states otherwise in the talent card description.
 -   Gain medium weapons EXP by dealing damage with a medium weapon or parrying attacks.
--   [_**Unbounded**_](Attributes_Unbound.md) _**by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### **Light Weapons**
 
@@ -132,8 +131,6 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   Unlocks light weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras).
         -   Some weapon talents are locked to certain weapon types. For example, Dagger talents differ from Fist talents, and cannot be used interchangeably unless states otherwise in the talent card description.[\[1\]](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras)
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
--   [_**Unbounded**_](Attributes_Unbound.md) _**by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ## Attunement Attributes
 
@@ -146,6 +143,8 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Shadowcast → _use the **Pure Heart**_
 -   Ironsing → use the _**Ferrofluid**_
 -   Additionally, you can gain EXP on attunements by doing events/random encounters (needs confirming)
+-   All of the attunements are:
+    -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) (have to deal most of the damage)**_
 
 ### **Flamecharm**
 
@@ -153,7 +152,6 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Frostdraw**
 
@@ -161,7 +159,6 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Frostdraw Talents](https://deepwoken.fandom.com/wiki/Frostdraw#Talents).
     -   Increases slow and freeze times of abilities.
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using Hemafrost or eating [Frigid Prisms](Frigid_Prism.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Thundercall**
 
@@ -169,7 +166,6 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using Self-Conducting Loop or eating [Spark Glands](Spark_Gland.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Galebreathe**
 
@@ -177,7 +173,6 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using Gale Kata or eating [Gale Stones](Gale_Stone.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Shadowcast**
 
@@ -185,14 +180,12 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Shadowcast Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
     -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using Pure Heart or eating [Umbral Obsidian](Umbral_Obsidian.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Ironsing**
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing](Ironsing.md) [Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
 -   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using Ferrofluid.
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ## Tips
 

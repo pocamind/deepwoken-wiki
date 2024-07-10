@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 104079
+revid: 105772
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs, Eastern Luminant]
@@ -37,11 +37,9 @@ Applying Sparks to the mantra will alter what you disguise as, variations are li
 | Crate: 1 Tornado |  |
 | Lantern: 1 Blast |  |
 | Gobletto: 1 Reversal, 1 Tornado |  |
-| Campfire: 1 Tornado, 1 Blast
-
-(Based in what order you placed your sparks will make campfire unlit or lit, blast then tornado is lit campfire and tornado then blast is unlit campfire)
-
- |  |
+| Unlit Campfire: 1 Tornado, 1 Blast  
+Lit Campfire: 1 Blast, 1 Tornado  
+The order in which you place the ingredients on the board is essential to the state the campfire will be in. |  |
 | Skull: 1 Reversal, 1 Blast |  |
 
 ## Trivia

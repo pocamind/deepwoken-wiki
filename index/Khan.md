@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 105755
+revid: 105764
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -97,11 +97,9 @@ They hail from the Western Luminant and are the most prominent race in [The Hund
     -   Unlike [Canor](Canor.md), Khan sideburns cannot be removed.
 -   Weapons with tri-stat requirements can be equipped whilst nine points under their normal requirements, this also goes for weapons with a dual-stat requirement, which can be equipped whilst 6 points under the normal requirements.
 -   Khans are known to bet on fights.[\[1\]](#cite-note-1)
--   Some people have "Khan" as a last name in real life. These people are 100% major Deepwoken fans. For example, [Genghis Khan](https://en.wikipedia.org/wiki/Genghis_Khan) ganked lots of people and played conquest
-    -   Monkskipper
-        
-        Monkskipper
-        
+    
+    Monkskipper
+    
 
 1.  [↑](#cite-ref-1)
     

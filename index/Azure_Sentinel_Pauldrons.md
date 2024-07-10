@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 80880
+revid: 105758
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Pips |
+| innate stats | +2 Rare Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia |
-| description | ... |
+| description | "..." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105756
+revid: 105767
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -48,6 +48,7 @@ Understrand Method:
 2.  Travel to the City of the Drowned or Outpost Penumbra and look for a purple aura inside buildings or near the Trial of One (can be easily spotted as it stick out in the environment)
 3.  Use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) next to the light.
 4.  You will be transported to a Ministry Cache and fight a Ministry Agent. Defeat them to obtain a chest that can **rarely** contain the Deepsindle.
+    -   If you have Hero Reputation with the Ministry, you will fight a [Broodlord](Mudskipper_Broodlord.md) instead.
 
 ## Critical
 
