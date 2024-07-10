@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 105227
+revid: 105810
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,6 +32,8 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=znZiNGRjdZ0&ab_channel=TheDeepwokenGuide)._
+
+_This oath does not become locked after breaking it at Yun'Shul._
 
 ## Effects
 

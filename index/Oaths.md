@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 105678
+revid: 105813
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -64,6 +64,7 @@ Upon breaking an Oath, unique effects will occur:
     -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
+    -   This oath does not become locked after being broken.
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
     -   Talking to [Alirian](Alirian.md) will prompt the following conversation:
         -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." / **Please forgive me.**

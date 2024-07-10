@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 105713
+revid: 105821
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -85,3 +85,6 @@ The Running Critical lets you leap forward and deliver 2 explosions; a small one
 -   Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
 -   As of 7/7/2024, it seems that Kyrswynter is no longer enchantable and being enchantable was a bug/glitch.
 -   The person who had the Providence Thorns Kyrswynter sent me a clip. [Press here to view the clip.](https://medal.tv/games/roblox/clips/idsFtr3OCKRzKGEjc/d1337uNpv45H?invite=cr-MSx0algsMTg2NTMxMTMxLA)
+-   You can drop the weapon.
+-   You can bank the weapon and it doesn't cost 1 knowledge.
+-   You can sell the weapon for 100 notes ( IT GIVES NO WARNING )

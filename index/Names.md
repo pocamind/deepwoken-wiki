@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 105754
+revid: 105824
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1748,7 +1748,7 @@ Some players have access to customized, unique names.
 -   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
     -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
 -   The names Radovan and Ifrit are references to the game series, [Final Fantasy](https://www.finalfantasyxiv.com/).
--   The name Basil is a reference to the game [OMORI](https://www.omori-game.com/), and the only vegetable a Deepwoken player will ever see.
+-   The name Basil is a reference to the game [OMORI](https://www.omori-game.com/).
 -   The name Samwise is a reference to the series Lord of the Rings.
 -   The name Tharson may be a reference to the game Risk of Rain.
 -   The name Tristram may be a reference to a location in the game Diablo.

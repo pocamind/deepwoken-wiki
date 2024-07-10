@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 105443
+revid: 105808
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -1148,7 +1148,7 @@ Lightning Impact
 
  | 
 
--   This modifier seems to have no effect on the "Lightning Impact" mantra.
+-   This makes you move forward a little when using the mantra.
 
  |
 | 

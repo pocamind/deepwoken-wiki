@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 105620
+revid: 105820
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -114,5 +114,3 @@ Azure and Twisted Puppets variant of the critical does not change visual colors.
 -   This weapon is not droppable or bankable
     -   However, it _can_ be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) for 60 Echoes.
 -   Music notes in question.
-    
-    The particles coming off the blade is actually just small music notes.

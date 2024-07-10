@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 100743
+revid: 105815
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
+| innate stats | +1 Rare Pip1 Legendary Pip |
 | innate talent | Disbelief |
 | bankable | Yes |
 | droppable | Yes |

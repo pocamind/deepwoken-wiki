@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105773
+revid: 105822
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -54,8 +54,9 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Singularity_ **or** _Sightless Still;_
 -   _Million Ton Piercer_ **or** _Ether Overdrive;_
 -   _Bulldozer_ **or** _Dazing Finisher;_
--   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent_
--   _Wraith Path: Twisted Puppets_ **or** _Azure Flames_
+-   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent;_
+-   _Wraith Path: Twisted Puppets_ **or** _Azure Flames;_
+-   _Tough Love_ **or** _Narcissist_
 
 Certain talents lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
