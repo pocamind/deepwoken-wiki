@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 105827
+revid: 105843
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1468,7 +1468,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
 -   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their symbiotic powers.
--   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the East Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** which are marks of Celestials.
+-   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the East Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Suncross,** which are marks of Celestials.
 
 ### Starkindred
 

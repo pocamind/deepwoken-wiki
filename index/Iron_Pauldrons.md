@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 103546
+revid: 105842
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | None |
+| innate stats | +2 Rare Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:Duke Erisia |
-| description | ... |
+| description | "..." |
 
 ## Description
 

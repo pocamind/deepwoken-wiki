@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 95770
+revid: 105839
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations, Etrean Luminant, Islands]
@@ -77,6 +77,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
 -   [Gran Sudaruska](Gran_Sudaruska.md) (Extremely rare drop in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md))
 -   [Hivelord's Hubris](<Hivelord's_Hubris.md>) (Rare drop from [Rogue Constructs](Hive_Construct.md))
+-   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (VERY rare drop from Rogue Construct)
 
  | 
 
