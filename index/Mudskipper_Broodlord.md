@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 105738
+revid: 105833
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-_Also known as "Broodskippers", "Purpleskippers"_ Template:Creature Infobox V3
+_Also known as "Broodskippers", "Purpleskippers" or "Mahoraga"_ Template:Creature Infobox V3
 
 ## Description
 

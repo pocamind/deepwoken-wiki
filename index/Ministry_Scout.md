@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 102260
+revid: 105836
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -61,5 +61,4 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 ## Trivia
 
 -   Every NPC except the other members of [The Ministry](The_Ministry.md) are hostile towards them.
--   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra.
 -   When gripped by a [Gran Sudaruska](Gran_Sudaruska.md), the spirit of Sudaruska will speak.

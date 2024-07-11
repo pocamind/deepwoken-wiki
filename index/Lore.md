@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 105776
+revid: 105827
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -33,7 +33,7 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 _The Lord Regent, sitting atop his throne of coral._
 
--   The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md).
+-   The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the [capital city](Etris.md) and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md).
 -   Nobody in Etris is sure of where he originates, but they accept him for his formidable power, and his actions **appearing** to be in the best interests of Etris.
 -   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
 -   When talking to the Bookworm about Etris' previous rulers we learn all of their histories were recorded in books stored within the city's official history office, though said office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' past history.
@@ -126,9 +126,6 @@ The Duke
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)
--   The Duke is one of 7 members of the fictional band "The Seal Unleashed," credited for writing his boss music, Sin-Smelted Scoriae.[\[4\]](#cite-note-4)
-    -   It is implied that Duke's band is behind some or all of Deepwoken's OST, given their work on the theme for conquest.
-    -   Despite the name, Duke does not know what a seal is.
 
   
 
@@ -175,7 +172,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   Apparently, he also writes books, with the only known one being "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.[\[1\]](#cite-note-rag-1)
     -   A 'chill guy.'[\[1\]](#cite-note-rag-1)
--   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[5\]](#cite-note-firstlight-5)
+-   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[4\]](#cite-note-firstlight-4)
 -   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast were discovered.
 
 ### **Chaser, Scholar of the Burning Blood**
@@ -183,8 +180,8 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 _"Oh, a human? Far from home are we?" -Chaser._
 
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
--   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[6\]](#cite-note-doc-6)
--   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[6\]](#cite-note-doc-6)
+-   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
+-   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
 -   He later betrayed them and joined The Ministry following his graduation.[\[1\]](#cite-note-rag-1)
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethironal Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly Diver Apprentices so they couldn't cause any trouble for him.
@@ -205,12 +202,12 @@ _"Oh, a human? Far from home are we?" -Chaser._
 
 ### **Venn Kaelhand**
 
--   Deceased disciple of Amorus Pleeksty.[\[5\]](#cite-note-firstlight-5)
--   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon.[\[5\]](#cite-note-firstlight-5)
--   Original user of the First Light.[\[5\]](#cite-note-firstlight-5)
--   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed that it lead to his death.[\[5\]](#cite-note-firstlight-5)
--   Probably not very strong despite being a disciple of Amorus Pleeksty, due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[5\]](#cite-note-firstlight-5)
-    -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.[\[5\]](#cite-note-firstlight-5)
+-   Deceased disciple of Amorus Pleeksty.[\[4\]](#cite-note-firstlight-4)
+-   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon.[\[4\]](#cite-note-firstlight-4)
+-   Original user of the First Light.[\[4\]](#cite-note-firstlight-4)
+-   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed that it lead to his death.[\[4\]](#cite-note-firstlight-4)
+-   Probably not very strong despite being a disciple of Amorus Pleeksty, due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[4\]](#cite-note-firstlight-4)
+    -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.[\[4\]](#cite-note-firstlight-4)
 
 ### **Dr. Carrion, Father of Evolution**
 
@@ -254,7 +251,7 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend]
 -   Former student of Viqh, Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people along Nimea to have known Viqh.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
--   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[5\]](#cite-note-firstlight-5)
+-   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
 -   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
@@ -306,7 +303,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 -   It is theorized that Gunsmith Rosen was either the founding father or the creator of Summer Company which is a faction that consists of Gunsmiths and anything related to guns.
-    -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[7\]](#cite-note-stormseye-7)
+    -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[6\]](#cite-note-stormseye-6)
 -   He is a Vesperian.[\[2\]](#cite-note-arch-2)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
     -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.[\[2\]](#cite-note-arch-2)
@@ -446,7 +443,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   [The Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Voidsea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumors that summoning him leads to being granted a great treasure, however, few realize that to get the reward you are required to defeat him first.
--   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favor by tormenting the humans that dare dance with him.[\[8\]](#cite-note-yama-8)
+-   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favor by tormenting the humans that dare dance with him.[\[7\]](#cite-note-yama-7)
 -   A full power Ferryman can defeat Akira on the surface but not the Lord Regent with the throne buff[\[1\]](#cite-note-rag-1) unless it's in the Depths as the Ferryman is inhibited by the surface.[\[1\]](#cite-note-rag-1)
 -   Likely resides in an unknown layer of the Depths.
     -   Krulians are tied to The Depths and are weakened when on the surface.
@@ -472,7 +469,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources:** _Sudaruska's Soul, Gran Sudaruska Description_
 
--   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[9\]](#cite-note-gran-9)
+-   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 -   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt either was Sudaruska's final resting place or her home.
@@ -481,8 +478,8 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore Sources:** _Yamaketzel (Mentioned)_
 
--   Songseeker Mistress[\[8\]](#cite-note-yama-8)
--   A sort of teacher to the Songseekers. Encourages a level of freedom, so long as said freedom aligns with her beliefs.[\[8\]](#cite-note-yama-8)
+-   Songseeker Mistress[\[7\]](#cite-note-yama-7)
+-   A sort of teacher to the Songseekers. Encourages a level of freedom, so long as said freedom aligns with her beliefs.[\[7\]](#cite-note-yama-7)
 
 ## Locations
 
@@ -789,14 +786,14 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
-    -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[7\]](#cite-note-stormseye-7)
+    -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[6\]](#cite-note-stormseye-6)
 -   [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
     -   Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[2\]](#cite-note-arch-2)
         -   The [Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
--   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[7\]](#cite-note-stormseye-7)
+-   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[6\]](#cite-note-stormseye-6)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant being Miners Landing.
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[2\]](#cite-note-arch-2)
 
@@ -823,7 +820,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   Essentially enemies with every major faction in the game until proven otherwise.
--   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
+-   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
@@ -861,16 +858,16 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description),_
 
--   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[10\]](#cite-note-dsgs-10) and Railblade[\[11\]](#cite-note-railblade-11).
+-   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[9\]](#cite-note-dsgs-9) and Railblade[\[10\]](#cite-note-railblade-10).
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, falling behind in the First Layer compared to the Divers, but exceeding in the Second Layer, where they managed to create an outpost long before The Divers arrived there.
--   The Darksteel Greatsword[\[10\]](#cite-note-dsgs-10), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
+-   The Darksteel Greatsword[\[9\]](#cite-note-dsgs-9), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
 -   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there are still strong Deepdelvers such as Colonel Hoffa.
 -   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
     -   This is furthered by Deepdelver Gamma describing them in a sense that can be interpreted as classless.
--   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[12\]](#cite-note-alpha-12) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
+-   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[11\]](#cite-note-alpha-11) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
 
 ### The Central Authority
@@ -925,14 +922,14 @@ An Authority Captain
 -   **Enemies:** _The Kingdom of Etrea_
 -   **Lore Sources:** _Regek_
 
--   They are lead by various Hivelords that act under a Greatlord.[\[13\]](#cite-note-yaya-13)
-    -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[13\]](#cite-note-yaya-13)
+-   They are lead by various Hivelords that act under a Greatlord.[\[12\]](#cite-note-yaya-12)
+    -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
-    -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[13\]](#cite-note-yaya-13)
+    -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and join The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
     -   Their previous home, or some sort of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
-    -   Despite the impressive nature of the Aratel Constructs, these are outdated models, with superior ones reserved for more advanced Greathives.[\[13\]](#cite-note-yaya-13)
+    -   Despite the impressive nature of the Aratel Constructs, these are outdated models, with superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
 -   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for the Lord Regent's own interests.
 -   The Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
@@ -1256,8 +1253,8 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
--   Ganymede evolved to all posses baldness, but a millennium ago, the first Greatlord modified their species to give them their innate white hair.[\[13\]](#cite-note-yaya-13)
--   Ganymede have a closer connection to Lifeweave and therefore learn it more easily.[\[13\]](#cite-note-yaya-13)
+-   Ganymede evolved to all posses baldness, but a millennium ago, the first Greatlord modified their species to give them their innate white hair.[\[12\]](#cite-note-yaya-12)
+-   Ganymede have a closer connection to Lifeweave and therefore learn it more easily.[\[12\]](#cite-note-yaya-12)
 
 ### Chrysid
 
@@ -1396,7 +1393,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 **Lore Sources:** _Regek (Mentioned), The Lament of Cirryn_
 
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the four Greathives, one being [Greathive Aratel](Greathive_Aratel.md).[\[13\]](#cite-note-yaya-13)
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the four Greathives, one being [Greathive Aratel](Greathive_Aratel.md).[\[12\]](#cite-note-yaya-12)
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, though the Lifeweavers are determined to complete their goal.
     -   Though they only care for _their_ world, the lands beyond The Hive are a different case. As if The Hive and Lifeweavers advance their ways of progress, others would linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
@@ -1500,7 +1497,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
 -   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Kyrsan Medallions to Klaris.
     -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
--   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[13\]](#cite-note-yaya-13)
+-   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[12\]](#cite-note-yaya-12)
 
 ### **Silentheart**
 
@@ -1719,7 +1716,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Resonances are "Unique passages of the Song being brought out and wielded."[\[2\]](#cite-note-arch-2)
     -   In the game, you can only obtain your Resonance Bell in The Depths, as well as Sibex noting they are particularly good for drawing them out. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   Resonances can consist of any instrument, not just Bells.[\[2\]](#cite-note-arch-2)
--   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[8\]](#cite-note-yama-8) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
+-   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[7\]](#cite-note-yama-7) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the Song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the Tides are created by the further misuse of the Song. These resonances have a heavy toll not only on the user, but on the Song. Therefore creating the corrupted effect.
 
@@ -2173,13 +2170,12 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) Developer ragoozer
 2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
-4.  [↑](#cite-ref-4) Naktigonis' video "ONE ISHAMILLION PLAYS" [https://www.youtube.com/watch?v=DCCjnfrZBCc](https://www.youtube.com/watch?v=DCCjnfrZBCc)
-5.  ↑ [5.0](#cite-ref-firstlight-5-0) [5.1](#cite-ref-firstlight-5-1) [5.2](#cite-ref-firstlight-5-2) [5.3](#cite-ref-firstlight-5-3) [5.4](#cite-ref-firstlight-5-4) [5.5](#cite-ref-firstlight-5-5) [5.6](#cite-ref-firstlight-5-6) [5.7](#cite-ref-firstlight-5-7) [First Light](First_Light.md) description
-6.  ↑ [6.0](#cite-ref-doc-6-0) [6.1](#cite-ref-doc-6-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
-7.  ↑ [7.0](#cite-ref-stormseye-7-0) [7.1](#cite-ref-stormseye-7-1) [7.2](#cite-ref-stormseye-7-2) [Stormseye](Stormseye.md) description
-8.  ↑ [8.0](#cite-ref-yama-8-0) [8.1](#cite-ref-yama-8-1) [8.2](#cite-ref-yama-8-2) [8.3](#cite-ref-yama-8-3) [Yamaketzal](Yamaketzal.md)
-9.  ↑ [9.0](#cite-ref-gran-9-0) [9.1](#cite-ref-gran-9-1) [Gran Sudaruska](Gran_Sudaruska.md) description
-10.  ↑ [10.0](#cite-ref-dsgs-10-0) [10.1](#cite-ref-dsgs-10-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
-11.  [↑](#cite-ref-railblade-11-0) [Railblade](Railblade.md) description
-12.  [↑](#cite-ref-alpha-12-0) [Alpha](Alpha.md)
-13.  ↑ [13.0](#cite-ref-yaya-13-0) [13.1](#cite-ref-yaya-13-1) [13.2](#cite-ref-yaya-13-2) [13.3](#cite-ref-yaya-13-3) [13.4](#cite-ref-yaya-13-4) [13.5](#cite-ref-yaya-13-5) [13.6](#cite-ref-yaya-13-6) [13.7](#cite-ref-yaya-13-7) Developer yayafino
+4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description
+5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+6.  ↑ [6.0](#cite-ref-stormseye-6-0) [6.1](#cite-ref-stormseye-6-1) [6.2](#cite-ref-stormseye-6-2) [Stormseye](Stormseye.md) description
+7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [7.2](#cite-ref-yama-7-2) [7.3](#cite-ref-yama-7-3) [Yamaketzal](Yamaketzal.md)
+8.  ↑ [8.0](#cite-ref-gran-8-0) [8.1](#cite-ref-gran-8-1) [Gran Sudaruska](Gran_Sudaruska.md) description
+9.  ↑ [9.0](#cite-ref-dsgs-9-0) [9.1](#cite-ref-dsgs-9-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
+10.  [↑](#cite-ref-railblade-10-0) [Railblade](Railblade.md) description
+11.  [↑](#cite-ref-alpha-11-0) [Alpha](Alpha.md)
+12.  ↑ [12.0](#cite-ref-yaya-12-0) [12.1](#cite-ref-yaya-12-1) [12.2](#cite-ref-yaya-12-2) [12.3](#cite-ref-yaya-12-3) [12.4](#cite-ref-yaya-12-4) [12.5](#cite-ref-yaya-12-5) [12.6](#cite-ref-yaya-12-6) [12.7](#cite-ref-yaya-12-7) Developer yayafino

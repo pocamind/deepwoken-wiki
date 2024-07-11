@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 105821
+revid: 105828
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -88,3 +88,4 @@ The Running Critical lets you leap forward and deliver 2 explosions; a small one
 -   You can drop the weapon.
 -   You can bank the weapon and it doesn't cost 1 knowledge.
 -   You can sell the weapon for 100 notes ( IT GIVES NO WARNING )
+-   Like [Acheron Warspear](<Acheron's_Warspear.md>), [Serrated Warspear](Serrated_Warspear.md), and True Seraph's Spear. This type of polearm is categorized as a glaive
