@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 105828
+revid: 105850
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -31,7 +31,7 @@ notices:
 
 ## Description
 
-The Kyrswynter is a Legendary Spear; an intricate curved and wrapped white pole held under the arm, its blue-white coloration indicating the frost of, and the patterns under its hilt indicating the winds of, the Eternal Gale.
+The Kyrswynter is a Legendary Spear; an intricate curved and wrapped white spear held under the arm, its blue-white coloration indicating the frost of the Kyrsgarde, and the patterns under its hilt indicating the winds of the Eternal Gale.
 
 It can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
@@ -46,7 +46,11 @@ The Kyrswynter has two different criticals. The standing critical has 2 variatio
 
 The Standing Critical pokes your spear forward that ragdolls and knocks back. It then shortly summons a pyre of ice beneath your enemy. Standing on the pyre of ice allows you to combo into an uppercut. M1ing before the standing critical allows you to leap onto your enemy and commence the running critical.
 
-The Running Critical lets you leap forward and deliver 2 explosions; a small one on impact and a larger one that ragdolls and knocks back a brief moment after.
+The Running Critical lets you leap forward and deliver 2 explosions; a small one on impact that stuns them, and makes them lay on their back, followed by a larger explosion that ragdolls.
+
+## Gallery
+
+File:Kyrswynter crit right before finish.png
 
 ## Trivia
 

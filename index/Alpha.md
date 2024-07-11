@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 95138
+revid: 105852
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1, Quests]
@@ -12,7 +12,7 @@ notices:
 
 | Alpha | |
 |---|---|
-| name | Alpha |
+| name | Alpha Pack |
 | location | The Frontier Furnace |
 
 ## Description
@@ -24,4 +24,4 @@ He will also task you to rescue [Epsi](Epsi.md), a young Gremor boy lost in the 
 ## Trivia
 
 -   He is a Lion variant Canor.
--   He is roughly in his 50s.
+-   He is roughly in his 20s.
