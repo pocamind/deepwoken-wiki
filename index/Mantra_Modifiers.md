@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 105876
+revid: 105894
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -635,7 +635,7 @@ Fire Gun
 
 Frost Grab
 
-(☆☆☆)
+(★★☆)
 
  | 
 
@@ -761,7 +761,7 @@ File:Shadow Gun with Blast Spark.gif
 
 Rising Shadow
 
-(☆☆☆)
+(★☆☆)
 
  | 
 
@@ -1166,7 +1166,7 @@ Air Force
 
 Chain Pull
 
-(☆☆☆)
+(★☆☆)
 
  | 
 
@@ -1336,7 +1336,7 @@ Shade Bringer
 
 Metal Kick
 
-(☆☆☆)
+(★☆☆)
 
  | 
 

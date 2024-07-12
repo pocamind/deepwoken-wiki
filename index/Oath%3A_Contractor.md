@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 105770
+revid: 105890
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -30,7 +30,7 @@ categories: [Pages with broken file links, Oaths]
     -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md).
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
-3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue".
+3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md).
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?" (NOTE THAT THIS REQUIRES THE 4 DEEP SHRINE DEALS FIRST)

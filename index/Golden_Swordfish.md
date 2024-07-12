@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 104459
+revid: 105905
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Rapiers, Unique Critical]
@@ -83,6 +83,8 @@ File:Metal Golden Swordfish.png
 **Astral:**
 
 File:ASTRALFISHISREAL.png
+
+**Harrowing:**
 
 ## Trivia
 

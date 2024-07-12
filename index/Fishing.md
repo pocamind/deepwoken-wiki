@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 105066
+revid: 105900
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -163,26 +163,26 @@ File:Fishing Talents.png
 
 ## **Bait**
 
-_**(Note: This section needs more information and rewriting work.)**_
+A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the Den Master is.
 
-A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the Den Master is. It rained really often, and it was night a good few times as I had to server hop a lot due to lag.
+Below is a list of bait that can be used. Don't see a valid bait? Feel free to test and add data!
 
-Bait Testing: (**NOTE: LACK OF DATA OR SIGNIFICANT NUMBER OF TRIALS AND TESTS MAKES ALL OF THESE "EFFECTS" ALMOST MEANINGLESS!!**)
+**DISCLAIMER: LACK OF DATA. EFFECTS WILL VARY.**
 
--   100 No Bait Results for comparison: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) (this was tested with all 3 fishing talents)
--   Plumfruit Effect: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
--   Pomar Effect: Mainly caught bigger fish like tunas or red snappers.
--   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 Goblettos. 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
--   Squid Effect: Seemed to get a lot of squid using squid. Results from 3 Squids: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
--   Dentifilo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from 8 Dentiflos: 2 Seaweed, 6 Misses
--   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 2 Seabass and 1 Miss.
--   Urchin Effect: Decent speed of bites. Result from 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
--   Browncap Effect: Average bite times. Results from 10 Browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
--   Chum Effect: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) it took roughly 30 minutes to use all 100 Chum (this was tested with all 3 fishing talents)
--   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss.
--   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
--   Redd Effect: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
--   Pufferfish Effect: Higher chance of catching a Mudskipper (Needs further inspection)
+-   No Bait: Baseline for fishing. Results from **100 NoBait**: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult)
+-   Plumfruit: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results from **~18 Plumfruits**: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses).
+-   Pomar: Not Properly Documented.
+-   Gobletto: Getting bites was quite fast. Results from **7 Goblettos**: 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
+-   Squid: Seemed to get a lot of squid using squid. Results from **3 Squids**: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
+-   Dentifilo: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from **8 Dentiflos**: 2 Seaweed, 6 Misses
+-   Seaweed Bundle: Fast catches. Results from **2 Seaweed**: 2 Seabass and 1 Miss.
+-   Urchin: Decent speed of bites. Results from **4 Urchins**: 2 Sea Bass, 1 Squid, 1 Miss
+-   Browncap: Average bite times. Results from **10 Browncaps**: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
+-   Chum: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails. (All fishing talents used)
+-   Calabash: Not Properly Documented.
+-   Fish Meat: Results from **100 Fish Meat**: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails. (All fishing talents used.)
+-   Redd: Slightly lower than average bites. Results from **?? Redd**: 2 miss, 2 sea bass, 1 squid, 1 red snapper.
+-   Pufferfish: Not Properly Documented. (Possibly better chance of catching Mudskippers?)
 
 File:VigilsPillarZipline.png
 
