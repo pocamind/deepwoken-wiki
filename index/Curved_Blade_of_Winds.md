@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 105007
+revid: 105917
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -65,3 +65,4 @@ The user shoots a blast of air and on collision or after a short amount of time 
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has a meaning,\[citation needed\] but is currently unknown, and the other runes near the tip are a mix of different ancient runic dialects that don't translate to anything.
 -   Using The Curved Blade of Winds completely disables your shield's Posture buff. However, if you have the Turtle Shell Talent and are two handing the weapon, you can still negate Spine Cutter, as the shield appears on your back.
 -   Commonly abbreviated as "CBoW" or just "Curved"
+-   The original model was a Wardens Blade with wind particles put onto the blade.

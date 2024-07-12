@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 105891
+revid: 105913
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -39,7 +39,7 @@ Silhuett's Method:
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
 3.  Talk to Silhuett, then use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) on top of the black pentagram next to the Silhouette. You will then be teleported to the Understrand
-4.  After using Shadow's Flight or Shadow Travel, you will be teleported to a Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon and are brought back to the where Silhouette was.
+4.  After using Shadow's Flight or Shadow Travel, you will be teleported to a Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon, [helmet](Deepscorn_Casque.md), [outfit](Darkened_Bastion.md) and are brought back to the where Silhouette was.
     -   Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon, [helmet](Deepscorn_Casque.md), and [outfit](Darkened_Bastion.md) immediately.
 
 Understrand Method:

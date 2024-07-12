@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 105451
+revid: 105910
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -537,7 +537,7 @@ File:Disguising .gif
 -   **Requirements:** _**50 Heavy Weapon,**_ _Combat Mantra_
     -   Upon activation, a white circle will appear on the torso, if hit during the circle's animation, it'll turn red. Then proceed to go on a short cooldown. If not activated in time the effect will fade away.
     -   After the cooldown of punishment, activating it again will proceed to do a big AOE swing similar to master's flourish, that affects everyone nearby.
-    -   Deals low damage, is parryable.
+    -   Deals damage based off damage absorbed, parryable.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 105127
+revid: 105914
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -28,7 +28,7 @@ Talent: Tidekeeper - Losing 25% of your health within the span of 3 seconds gran
 
 This Outfit's schematic can be found in:
 
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Round 50)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Round 50, one is automatically granted and more may appear in chests.)
 
 ## Trivia
 
