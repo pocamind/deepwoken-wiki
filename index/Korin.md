@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 102719
+revid: 105881
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -37,7 +37,7 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 -   Greatly resembles [The Ferryman](The_Ferryman.md).
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions.
 
-## Gallery
+## Gallery (right side of your screen)
 
 1.  [↑](#cite-ref-1)
     

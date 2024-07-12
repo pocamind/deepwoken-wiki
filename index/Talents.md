@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105870
+revid: 105879
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1738,15 +1738,21 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
     -   Prerequisites: Friends in High Places, 45 Charisma
-    -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
-    -   This is very useful as a [Deepbound](https://deepwoken.fandom.com/wiki/Origins?so=search#Deepbound) as [Castle Light](Castle_Light.md) guards have extremely high health and will help you kill attackers.
-    -   With the buffs to the npcs this make this talent very useful.
+    -   The player will say "Hey, over here!" when this effect activates, attracting guards to the aggressor. This is similar to guards calling for help.
+    -   The guards will stop attacking the aggressor if he runs away or does not attack back after a while.
+    -   In [Etris](Etris.md), [The Kingdom of Etrea](Etrea.md) will call all the [guards](Etrean_Guardsmen.md) towards the aggressor while [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will also come to help (\*keep in mind that if the attacker runs away and you do not have enough reputation with Etrea the [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will start attacking you\*) and in [Vigils](Isle_of_Vigils.md) only the [temple guards](Blade_Temple_Guard.md) will help you.
+    -   In [Greathive Aratel](Greathive_Aratel.md), [The Hive](The_Hive.md) will also call all the [guards](Hive_Guard.md) while [Hive adjudicators](<Hive_Adjudicator_(NPC).md>) and [Hive Constructs](Hive_Construct.md) will appear throughout the levels of [Greathive Aratel](Greathive_Aratel.md) to attack the aggressor (\*be careful with the [Hive Constructs](Hive_Construct.md) as they can interfere a lot in a fight and even accidentally kill you with their AoE attacks\*)
+    -   In [Castle Light](Castle_Light.md), [The Divers](The_Divers.md) will send ALL their [guards](Journeyman_Diver_Guard.md) towards the aggressor while [Black Divers](<Black_Diver_(NPC).md>) will appear around the entire castle to help (\*this is where this talent is most effective since it can keep you safe in a [hostile environment](The_Depths.md) such as [Castle Light](Castle_Light.md) at the same time as [The Divers](The_Divers.md) have the best [guards](Journeyman_Diver_Guard.md) to control players\*)
+    -   In [Summer Isle](Summer_Isle.md), the [Summer Company](The_Summer_Company.md) will only call the surrounding [guards](Summer_Company_Guard.md) to help you and no special NPCs will appear, the same seems to happen in [Miners Landing](<Miner's_Landing.md>) with the [Ignition Union](The_Ignition_Union.md).
+    -   The faction territories that require testing to see if the talent works are [For Merit](Fort_Merit.md) ([The Central Authority](The_Central_Authority.md)), [Outpost Antumbra](Outpost_Antumbra.md) ([The ministry](The_Ministry.md)) and [Meteor Isle](Meteor_Isle.md) (The Children of Navae).
 
 -   Celebrity \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.
     -   Prerequisite: 40 Charisma
+    -   This talent was merged with old "diplomat" talent.
 
 -   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
     -   Prerequisite: 60 Charisma
+    -   If it is stacked with the "Celebrity" talent you can immediately avoid being hunted by [Voidwalkers](Origins.md) until you lose one of the two talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
 
 ### Pyroclast
 

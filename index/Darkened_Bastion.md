@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 105735
+revid: 105882
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -37,6 +37,6 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
-[https://www.roblox.com/catalog/13746116143/Moonseye](https://www.roblox.com/catalog/13746116143/Moonseye) - PANTS
+[https://www.roblox.com/catalog/13746116143/Moonseye](https://www.roblox.com/catalog/18372536268/Deepwoken-darkened-bastion) - PANTS
 
-[https://www.roblox.com/catalog/13746114810/Moonseye](https://www.roblox.com/catalog/13746114810/Moonseye) - SHIRT
+[https://www.roblox.com/catalog/13746114810/Moonseye](https://www.roblox.com/catalog/18372515009/Deepwoken-darkened-bastion) - SHIRT
