@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 105448
+revid: 105874
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -231,6 +231,7 @@ _Conjure and throw weapons of ice._
 -   Casting the mantra itself while standing on ice will summon more projectiles.
     -   Currently bugged.
 -   Can be modified with a magnet spark, making it instantly teleport to whoever got hit by the ice projectile and hits with 3 extra ice forge projectiles. However, requires some distance to teleport to the enemy. Does less dmg if you don't proc the ice forge teleport.
+-   Can be modified with a blast spark, making the shurikens explodes on impact.
 
  |
 |  | 
@@ -348,12 +349,12 @@ _An icy chokehold._
 
 -   After the windup the user gains iframes on teleport. (similar to radiant kick)
 -   First hit does mediocre dmg, second hit does light damage.
--   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
 -   Applies 12 sec chill base and 16 sec with 1 eternal.
 -   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
 -   The mantra takes too long to end on hit to proc insignia gem.
 -   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
 -   Base chilling duration scales with level requiring more than one logstone to get the full 16 seconds, recommended to only pick it if you plan to upgrade it to level 5.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and transforming the chains into ice pillars. (The size can be increased with vibrant gems and the talent Glacial ice.)
 
  |
 |  | 

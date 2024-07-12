@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 105808
+revid: 105876
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -641,11 +641,9 @@ Frost Grab
 
  | 
 
-File:Frost Grab with Blast Spark.gif
-
  | 
 
--   This modifier causes the "Frost Grab" mantra leaves a trail of ice over the distance traveled.
+-   This modifier causes the "Frost Grab" mantra leaves a trail of ice over the distance traveled and transforms the ice chains into ice pillars.
 
  |
 | 
@@ -674,8 +672,6 @@ Ice Forge
  | 
 
  | 
-
-File:Ice Forge with Blast Spark.gif
 
  | 
 
@@ -1212,8 +1208,6 @@ Ice Eruption
 
  | 
 
-File:Ice Eruption with Round Spark.gif
-
  | 
 
 -   This modifier causes the "Ice Eruption" mantra to summon a wall around the user.
@@ -1281,8 +1275,6 @@ Ice Carve
  | 
 
  | 
-
-File:Ice Carve with Spring Spark.gif
 
  | 
 

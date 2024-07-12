@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 105727
+revid: 105857
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Bosses, Enemies]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 The Ministry Cache Agent is an NPC located within [Scyphozia, The First Layer](First_Layer.md). He can be found by using [Shadow Travel](Talents.md) / [Shadow's Flight](<Shadow's_Flight.md>) near Silhuett, who spawns randomly around the [First Layer](First_Layer.md)
 
-If you have Hero reputation with [The Ministry](The_Ministry.md), he will hand over the [Deepspindle](Deepspindle.md), a [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) without a fight.
+If you have Ally reputation with [The Ministry](The_Ministry.md), he will hand over the [Deepspindle](Deepspindle.md), a [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) without a fight.
 
 ## Moves
 

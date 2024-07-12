@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105822
+revid: 105870
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1374,7 +1374,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
-    -   Prerequisites: All Eruption Path: Lava Serpent Talents, 100 Flamecharm
+    -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
 
