@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 100958
+revid: 105939
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -156,6 +156,9 @@ notices:
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
+
+-   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
+    -   In the July 12th update, this talent was removed. However, in the same update guards were changed to help more if your attacker had much less reputation than you.
 
 ## Other
 

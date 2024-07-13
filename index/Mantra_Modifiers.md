@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 105894
+revid: 105964
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -1253,6 +1253,21 @@ Skyshatter Kick
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Flame Repulsion
+
+(★★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Flame Repulsion" mantra to shoot out a projectile exploding into a repulsion of flame dealing knockback.
+
+ |
+| 
+
 Flame Ballista
 
 (★★★)

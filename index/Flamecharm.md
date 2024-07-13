@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 105153
+revid: 105961
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -83,6 +83,7 @@ _An exertion of flames._
 -   Taking damage while using it reflects the damage back to the attacker.
     -   The damage is stored in the Flame Repulsion itself.
 -   Compatible with Cloud/Stratus Stones.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md), making the mantra shoot a projectile that explodes into a repulsion of flame dealing knockback.
 
  |
 |  | 

@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 105204
+revid: 105944
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
 
 # Fountain Gates
 
-Fountain Gates are a sprawling network of teleportation devices invented by [The Hive](The_Hive.md). To gain access to this teleport feature you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots. On any future slots, you only have to visit the Eastern Luminant in order to gain access to the network.
+Fountain Gates are a sprawling network of teleportation devices invented by [The Hive](The_Hive.md). To gain access to this teleport feature you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) fountain located on [Aratel Island](Aratel_Island.md), which will permanently unlock it for all slots. On any future slots, you only have to use one of the Gates at the Greathive to unlock it.
 
 ## Fountain Locations (To Greathive Aratel)
 
