@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 103985
+revid: 106018
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes]
+categories: [Weapons, Greataxes, Event Item]
 ---
 
 # Skyreap Blade

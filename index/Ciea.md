@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 105924
+revid: 106033
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -54,7 +54,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
   <td colspan="4">I'm interested in a lesson.</td>
 </tr>
 <tr>
-  <td colspan="4">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [restore your life force](Rejuvinating potion)/[cause harm to it's victim](Disgusting potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
+  <td colspan="4">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [deplete the sanity of it's victim](Mindbreaking potion)/[restore your life force](Rejuvinating potion)/[cause harm to it's victim](Disgusting potion)/[restore your ether, to a satisfactory degree](Soothing potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
   <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
   <td colspan="8">I've made the potion.</td>
 </tr>
 <tr>
-  <td colspan="8">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [restore your lifeforce]/[cause harm to it's victim].</td>
+  <td colspan="8">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [deplete the sanity of it's victim]/[restore your lifeforce]/[cause harm to it's victim]/[restore your ether, to a satisfactory degree].</td>
 </tr>
 <tr>
   <td colspan="8">Here is my creation.</td>

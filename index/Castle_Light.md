@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 105185
+revid: 106008
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1]
@@ -43,7 +43,7 @@ Main Entrance
 ### The Library
 
 -   Contains a [cauldron](Cauldron.md)
--   The players can find the Antiquarian, [Mystic](Mystic.md), Banker and [Dr. Carrion](Monster_Mantras.md) here.
+-   The players can find the [Antiquarian](Antiquarian.md), [Mystic](Mystic.md), [Banker](Banker.md) and [Dr. Carrion](Monster_Mantras.md) here.
 -   Only [Deepbound](Origins.md) players are able to interact with the Antiquarian and Banker.
 
 An image showcasing the library.
@@ -58,10 +58,16 @@ The Armory.
 ### Vendors and Notable NPCs
 
 -   [Antiquarian](Antiquarian.md)
+-   [Banker](Banker.md)
+-   [Barber](Barber.md)
 -   [Blacksmith](Blacksmith.md)
+-   Dust
+-   Graha
+-   [Mark Adaset](Mark_Adaset.md)
+-   [Mystic](Mystic.md)
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in the random encounter)
--   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+-   [Klaris Llfiend, Mother of the Lights](Klaris_Llfiend,_Mother_of_Lights.md)
 -   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of the library puzzle in [New Kyrsa](Second_Layer/New_Kyrsa.md))
 
 ### Items

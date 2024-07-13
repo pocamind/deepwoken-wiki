@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 105999
+revid: 106037
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Unique Critical]
@@ -34,17 +34,17 @@ The Kanabo is a [Heavy Weapon](Weapons.md) that scales with and requires [Streng
 
 ## Criticals
 
-The Kanabo possess two different criticals.
+The Kanabo has **two** criticals.
 
-<table>
-<tbody>
-<tr>
-  <td>The regular critical is a heavy strike that sends the enemy flying.</td>
-  <td>The running critical is a multi-hit where the user bashes the weapon on the ground multiple times.</td>
-</tr>
-</tbody>
-</table>
+For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow. If there are no eligible target, the user stops after winding up.
+
+For the **running** critical, the user winds up before unleashing three devastating, unblockable slams that stuns on hit.
+
+Both criticals share the cooldown of **8 seconds**.
 
 ## Trivia
 
 -   A Kanabō, meaning "metal stick," was a weapon used in fuedal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works.
+-   The running critical references the [Oni](https://deadbydaylight.fandom.com/wiki/Kazan_Yamaoka)'s _Demon Strike_ from _Dead by Daylight_, both having the user striking their kanabo down three times to deal damage.
+-   Despite the M1 swing matches that of a greatsword it is still considered a greathammer
+-   Despite being a dual scaling with strength weapon like [Imperial Staff](Imperial_Staff.md). Kanabo for some reason can be enchanted unlike its younger brother

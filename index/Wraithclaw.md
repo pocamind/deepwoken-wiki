@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 105996
+revid: 106034
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -20,9 +20,9 @@ notices:
 | swing speed | 1.1x |
 | penetration | 10% |
 | chip damage | 20% |
-| special effect | ? |
+| special effect | Aftercut is applied to all attacks. |
 | stances | 1 Handed |
-| selling price | ? |
+| selling price | 300 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,9 +1,9 @@
 ---
 title: Putrid Edenstaff
-revid: 102356
+revid: 106019
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Unique Critical]
+categories: [Weapons, Greathammers, Unique Critical, Event Item]
 ---
 
 # Putrid Edenstaff

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 105820
+revid: 106031
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -85,9 +85,7 @@ It can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
-Unlike [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), it does not proc burn on basic attacks, only the criticals.
-
-Club talents also work. (Needs testing)
+The weapon will proc Club talents on hit and Flamecharm talents on critical hits.
 
 ## Critical
 
@@ -111,6 +109,3 @@ Azure and Twisted Puppets variant of the critical does not change visual colors.
 -   Regardless if the first part of the running critical hit or not, a projectile will still be fired.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
--   This weapon is not droppable or bankable
-    -   However, it _can_ be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) for 60 Echoes.
--   Music notes in question.

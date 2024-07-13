@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 105957
+revid: 106038
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2247,6 +2247,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
     -   Prerequisite: 20 Light Weapon, 15 Thundercall
+    -   Does not work with Hero Blades (Tested)
 -   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to follow up on your opponent with a less potent kick. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30 Thundercall, Thunder Kick
 
@@ -2272,6 +2273,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Gathering Electricity
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times. (+3 Elemental Intensity)
     -   Prerequisite: 40 Thundercall, 20 Medium Weapon
+    -   Works with Hero Blades (Tested)
 
 ### Thundercaller
 

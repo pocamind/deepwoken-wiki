@@ -1,9 +1,9 @@
 ---
 title: Hallowscleave
-revid: 103391
+revid: 106016
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Swords, Event Item]
 ---
 
 # Hallowscleave
