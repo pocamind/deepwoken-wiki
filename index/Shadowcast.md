@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 105766
+revid: 106050
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -392,24 +392,6 @@ Enter a rifted state when you successfully dodge, where you can't be damaged unt
  | 
 
 +4 Elemental Intensity
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Devour  
-(SHADOW 40, Dark God)
-
- | 
-
-Stealing enough ether to fill your bar now stores the extras in your Tempo.
-
- | 
-
-+3 Elemental Intensity
 
  |
 | 

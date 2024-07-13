@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 106037
+revid: 106048
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Unique Critical]
@@ -44,7 +44,6 @@ Both criticals share the cooldown of **8 seconds**.
 
 ## Trivia
 
--   A Kanabō, meaning "metal stick," was a weapon used in fuedal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works.
--   The running critical references the [Oni](https://deadbydaylight.fandom.com/wiki/Kazan_Yamaoka)'s _Demon Strike_ from _Dead by Daylight_, both having the user striking their kanabo down three times to deal damage.
+-   A Kanabō, meaning "metal stick," was a weapon used in fuedal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   Despite the M1 swing matches that of a greatsword it is still considered a greathammer
 -   Despite being a dual scaling with strength weapon like [Imperial Staff](Imperial_Staff.md). Kanabo for some reason can be enchanted unlike its younger brother
