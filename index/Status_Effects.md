@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 105674
+revid: 105989
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -90,7 +90,7 @@ These status effects won't kill you, but they can give you a debuff or drain you
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon that applies bleed, a weapon that applies bleed, or mantras that apply bleed (ironsing and revenge). Reduces your blood levels; signified by blood pouring out from your character. Lower blood levels mean lower healing.
+This effect can be applied by being hit by a weapon that applies bleed, a weapon that applies bleed, or mantras that apply bleed (ironsing and revenge). Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
 
 ### Burning
 
@@ -149,9 +149,9 @@ This can be applied by being flourished by someone using Thunder Wisp. While Sap
 
 Have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt mantras (ex. [Rising Shadow](Shadowcast.md)).
 
-### Anti-Heal
+### Heresy
 
-Completely disallows healing from **any** source while active. This effect can be applied through being hit by an M1 by someone that has the talent All the Dead Gods (signified by a purple aura around you) or by being hit by a Frostdraw mantra with the Frostbite talent.
+Completely disallows healing from **any** source while active. This effect can be applied through being hit by an M1 by someone that has the talent All the Dead Gods (signified by a purple aura around you) or by being hit by a Mudskipper broodlord.
 
 ### Charmed
 
@@ -189,7 +189,7 @@ Applied through being hit by the mantra [Taunt](Attunement-less.md). Receive 20%
 
 Take 25% more damage and 2x posture damage while also disabling [Murmur: Tacet.](Murmur.md) Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
 
-### Trapped
+### Hamstrung
 
 Can be applied by being hit by a critical attack if the user has Bear Trap. Become slowed and lose the ability to jump. Signified by one of the users legs bleeding.
 

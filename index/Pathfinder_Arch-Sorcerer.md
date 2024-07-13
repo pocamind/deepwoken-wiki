@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 100764
+revid: 106001
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -18,7 +18,7 @@ Template:ArmorInfobox
 
 This Outfit costs and requires five (5) Cloth and Fiber, ten (10) pieces of Irithine, one (1) Lionfish Scale and one (1) Strange Claw.
 
-This Outfit requires [Power Level](Power.md) 10 and [Intelligence](Attributes.md) 40.
+This Outfit requires [Power Level](Power.md) 10 and [Intelligence](Attributes.md) 25.
 
 ### _Armor Stats_
 

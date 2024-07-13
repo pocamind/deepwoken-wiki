@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 104926
+revid: 105991
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -126,7 +126,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
     -   Status/Elemental Effects
     -   Flinging
     -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) crit or Jolt Grab)
--   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal DAMAGE, hitting a monster fills their stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself.
+-   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, metal enchant don't). When armor bar is empty, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
 -   **All monsters have 25% physical armor and in some cases up to 50%. However humanoids dont have any armor and tanky by their hp. (Info from Arch\_Mage)**
 
 ## PVE Scaling

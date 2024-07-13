@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 105792
+revid: 105988
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2123,7 +2123,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Deepspindle"><font>Deepspindle</font></a></td>
-  <td>50 LHT 75 SHD</td>
+  <td>50 LHT, 75 SHD</td>
   <td>14</td>
   <td>20%</td>
   <td>N/A</td>
@@ -2131,7 +2131,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>??</td>
+  <td>N/A</td>
   <td>33</td>
 </tr>
 <tr>
@@ -2146,6 +2146,19 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.96x</td>
   <td>N/A</td>
   <td>43.8(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Wraithclaw"><font>Wraithclaw</font></a></td>
+  <td>25 LHT, 75 WND</td>
+  <td>15.5</td>
+  <td>10%</td>
+  <td>20%</td>
+  <td>LHT: 4 WND: 5.5</td>
+  <td>5</td>
+  <td>6</td>
+  <td>1.1x</td>
+  <td>N/A</td>
+  <td>30.9</td>
 </tr>
 </tbody>
 </table>

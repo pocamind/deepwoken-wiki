@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 105961
+revid: 106000
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -248,9 +248,11 @@ _Bear down on your foes with repeated fiery slashes._
 
  | User releases a flurry of seven slashes.
 
--   Only slashes once when an enemy isn't hit.
--   Inflicts burn.
--   Isn't cancellable.
+\- Only slashes once when an enemy isn't hit.
+
+\- Inflicts burn.
+
+\- You can cancel while using m2.
 
  |
 | 
