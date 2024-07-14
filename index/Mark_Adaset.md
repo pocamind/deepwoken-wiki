@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 106127
+revid: 106134
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

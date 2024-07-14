@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 105177
+revid: 106146
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -234,7 +234,7 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 
 ### Etris War Event
 
-This event is an extremely rare event that can happen on the second to third minute of a new server.
+This event is an extremely rare event that can happen on the second to third minute of a new server. (my server had 19 hours so i dont think this is true )
 
 NPCs at the Etris Docks will comment on the [Authority](The_Central_Authority.md) seeming to have been quiet today, signaling the start of the event.
 
