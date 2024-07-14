@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106049
+revid: 106091
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -33,7 +33,7 @@ notices:
 
 ## Description
 
-Wraithclaw is a Fisting Legendary Weapon, and it is the only fist weapon that has slash damage.
+Wraithclaw is a Fist Legendary Weapon, and it is the only fist weapon that has slash damage.
 
 It can be obtained from the unique Minityrsa NPC. Keep in mind that you need Galebreathe Uncapped talent, otherwise he won't spawn.
 

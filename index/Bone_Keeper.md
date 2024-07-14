@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 99493
+revid: 106099
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -43,6 +43,10 @@ Moving away from the leap is almost always enough to completely dodge the move.
 -   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
 
   
+
+## Gallery
+
+There are **16** images, be warned
 
 ## Trivia
 

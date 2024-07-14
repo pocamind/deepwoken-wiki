@@ -1,6 +1,6 @@
 ---
 title: Falei
-revid: 101536
+revid: 106128
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1]
@@ -15,7 +15,11 @@ categories: [NPCs, Layer 2, Floor 1]
 
 ## Description
 
-Kasen is a [Ganymede](Ganymede.md) NPC located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in the [Eternal Gale](Second_Layer.md). One of the [Apprentice Divers](Apprentice_Diver.md) whom joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into the Second Layer, before his betrayal. He gives tips about the strong gale winds in the layer.
+Falei is a [Ganymede](Ganymede.md) NPC located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in the [Eternal Gale](Second_Layer.md). One of the [Apprentice Divers](Apprentice_Diver.md) whom joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into the Second Layer before his betrayal. He gives tips about the strong gale winds in the layer.
+
+  
+
+  
 
 ## Dialogue
 
@@ -25,7 +29,7 @@ Kasen is a [Ganymede](Ganymede.md) NPC located in the [Sanctuary Gatehouse](Sanc
   <th colspan="3">*<i>The man lies hunched over on the ground, seeming defeated.</i>* My gut really is always right... This never seemed right. I should've... warned the others. *<i>He coughs violently.</i>*</th>
 </tr>
 <tr>
-  <td colspan="2">1. What happened?</td>
+  <td>1. What happened?</td>
   <td>2. Are you okay?</td>
 </tr>
 <tr>
@@ -46,6 +50,8 @@ Kasen is a [Ganymede](Ganymede.md) NPC located in the [Sanctuary Gatehouse](Sanc
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Trivia
 

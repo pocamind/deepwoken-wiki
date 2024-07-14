@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 37989
+revid: 106062
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Golem Constructs](Golem_Constructs%253Fredirect=no.md)
+-   [Golem Constructs#Rogue Construct](Golem_Constructs%253Fredirect=no.md#rogue-construct)

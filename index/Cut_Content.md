@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 105939
+revid: 106107
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -78,30 +78,32 @@ notices:
     -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
 -   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   in December 30th, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
+-   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
+    -   In the July 12th update, Bodyduard Detail was removed.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the December 20th, 2022 update, Boom, Headshot was merged into Lethal Precision.
 -   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.
     -   Boot Wallet was merged into Robber Baron.
 -   **Command: Leech \[Common Talent\] -** Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
-    -   In the March 13th, 2023 update, Command: Leech is now a base Vow of Mastery command.
+    -   In the March 13th, 2023 update, Command: Leech is became a base Vow of Mastery command.
 -   **Command: Locate \[Common Talent\] -** Locate one of your vow members (+4 Ether, +3 Health)
     -   In the December 6th, 2022 update, Command: Locate became a base Vow of Mastery command.
--   **The Cold Forge \[Common Talent\] -** Your forge more shurikens when casting on ice. (+5 Elemental Intensity)
-    -   The talent was removed from the game with 05/15/23 update, as it became a base behavior for Ice Forge.
+-   **The Cold Forge \[Common Talent\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
+    -   In the May 15th, 2023 update, Cold Forge became base behavior for Ice Forge.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
 -   **Crystal Breaker \[Common Talent\] -** When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
-    -   The talent was removed from the game with 05/15/23 update, as it became a base behavior for Crystal.
+    -   In the May 15th, 2023 update, Crystal Breaker became base behavior for Glass Path: Crystallization.
 -   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
 -   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
-    -   The talent was removed from the game with May 15th, 2023 update, Winded became a base effect of Galebreathe.
+    -   In the May 15th, 2023 update, Drifting Winds became base behavior for Galebreathe.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this talent effectively useless.
+    -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this Talent effectively useless.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
-    -   The talent was removed from the game with October 28th, 2023 update, as it became a base behavior for Ice Skate.
+    -   In October 28th, 2023 update, Frozone became base behavior for Ice Skate.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
@@ -156,9 +158,6 @@ notices:
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
-
--   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
-    -   In the July 12th update, this talent was removed. However, in the same update guards were changed to help more if your attacker had much less reputation than you.
 
 ## Other
 

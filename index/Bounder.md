@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 101747
+revid: 106100
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -35,6 +35,10 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 ### **Passives**
 
 -   **Strong Monster Resistance** - Physical attacks deal 50% less damage to Bounders.
+
+## Gallery
+
+There are **21** images, be warned
 
 ## Trivia
 

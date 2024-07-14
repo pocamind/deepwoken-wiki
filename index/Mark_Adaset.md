@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 103185
+revid: 106127
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -16,6 +16,12 @@ categories: [NPCs]
 ## Description
 
 Mark Adaset is a [Journeyman Diver](The_Divers.md) and the maintainer of [Castle Light](Castle_Light.md).
+
+  
+
+  
+
+  
 
 ## Trivia
 

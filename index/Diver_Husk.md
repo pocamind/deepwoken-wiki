@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 101745
+revid: 106078
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]

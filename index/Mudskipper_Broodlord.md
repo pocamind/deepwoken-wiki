@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 105833
+revid: 106095
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -53,6 +53,10 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   There has also been instances of the Broodlord using Broodrot Smash and accidentally clipping through walls, so keep your eyes peeled, especially in locations where the Broodlord is able to spawn.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move. Use this information however you want.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
+
+## Gallery
+
+There are **19** images, be warned
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 105854
+revid: 106088
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -110,6 +110,10 @@ When using **Feather Teleport** or **Owl Dash**, the Owl will likely then attemp
 The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key, similar to blocking multi-hit moves from other enemies.
 
 If looking for owls, it is recommended to join highly populated servers because this increases their spawn rate.
+
+## Gallery
+
+There are **13** of images, be warned
 
 ## Trivia
 
