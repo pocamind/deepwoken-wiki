@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 106118
+revid: 106156
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Graha is one of the NPC [Vesperian](Vesperian.md) who resides in [Castle Light](Castle_Light.md), he is one of the [Apprentice Divers](Apprentice_Diver.md), you can find him next to the stove, when we interact with him he tells us that this is the only stove on Layer 1 and the only way to cook Here, he also gives us a tip on how to make Urchin Stew, one of the foods produced in the [First Layer](First_Layer.md).
+Graha is one of the NPC [Vesperian](Vesperian.md) who resides in [Castle Light](Castle_Light.md), he is one of the [Apprentice Divers](Apprentice_Diver.md), you can find him next to the [stove](Campfire_Pit.md), when we interact with him he tells us that this is the only stove in Scyphozia and the only way to cook here, he also gives us a tip on how to make [Urchin Stew](Food.md#food-recipesinfo), one of the foods produced in the [First Layer](First_Layer.md).
 
   
 

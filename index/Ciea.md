@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 106033
+revid: 106157
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -16,7 +16,7 @@ Ciea is a female Vesperian that tells the player to make potions with specific e
 
 -   A potion that brings forth a surge of speed _**(Pomars or Coral)**_
 -   A potion that causes a person to lose sanity _**(Urchins or Seaweed)**_
--   A potion that causes a person to regain sanity _**(Bluecaps)**_
+-   ~A potion that causes a person to regain sanity _**(Bluecaps)**_~ (Possibly removed)
 -   A potion that restores some life force _**(Redds)**_
 -   A potion that harms its victims _**(Browncaps)**_
 -   A potion to regenerate ether _**(Dentifilos)**_
@@ -54,7 +54,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
   <td colspan="4">I'm interested in a lesson.</td>
 </tr>
 <tr>
-  <td colspan="4">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [deplete the sanity of it's victim](Mindbreaking potion)/[restore your life force](Rejuvinating potion)/[cause harm to it's victim](Disgusting potion)/[restore your ether, to a satisfactory degree](Soothing potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
+  <td colspan="4">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [bring forth a surge of speed](Hastening potion)/[deplete the sanity of it's victim](Mindbreaking potion)/[restore your life force](Rejuvinating potion)/[cause harm to it's victim](Disgusting potion)/[restore your ether, to a satisfactory degree](Soothing potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
   <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
   <td colspan="8">I've made the potion.</td>
 </tr>
 <tr>
-  <td colspan="8">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [deplete the sanity of it's victim]/[restore your lifeforce]/[cause harm to it's victim]/[restore your ether, to a satisfactory degree].</td>
+  <td colspan="8">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [bring forth a surge of speed]/[deplete the sanity of it's victim]/[restore your lifeforce]/[cause harm to it's victim]/[restore your ether, to a satisfactory degree].</td>
 </tr>
 <tr>
   <td colspan="8">Here is my creation.</td>

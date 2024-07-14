@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 106136
+revid: 106161
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -32,19 +32,25 @@ Begin
 
  |
 | --- |
-| Hmm.. Could you tell whoever's making that awful racket outside to give it a rest? The thundering sounds and the music is awfully distracting. |
+| Ah, greetings! Could you tell whoever's making that awful racket outside to give it a rest? The thundering sounds and the music is awfully distracting. |
 | 
 
 Ciea spoke highly of you.
 
  |
-| Ah! Ciea! Yes! Perhaps not my star pupil, on account of her lack of enthusiasm about joining the Old Stewards, but an excellent student nonetheless. If you've come here as a fellow researcher, perhaps you can lend me a hand and I'll share my findings. |
+| Ah! Ciea! Yes! Perhaps not my star pupil, on account of her lack of enthusiasm about joining the Old Stewards, but an excellent student nonetheless. If you've come here as a fellow researcher, perhaps you can lend me a hand and I'll share my findings? |
 | 
 
 What can I do to help?
 
  |
-| A fantastic attitude! This laboratory is fascinating - all Pre-Tidal, of course. It's easily the most sophisticated equipment I've seen outside of the Sunken Archives. If my theories are correct, it might even be possible to reproduce the **Root Panacea**. A lot is needed for a self-respecting alchemist to discover the means of its creation. The Root Panacea is said to be able to grant those who imbibe it the means to produce the components for alchemy from their own body. If you help me obtain some ingredients, we can get cracking on my theory and share the fruits of my research. |
+| A fantastic attitude! This laboratory is fascinating - all Pre-Tidal, of course. It's easily the most sophisticated equipment I've seen outside of the Sunken Archives. If my theories are correct, it might even be possible to reproduce the **Root Panacea** with all this gear. |
+| 
+
+The Root Panacea?
+
+ |
+| Ah - Ciea did not tell you? It is the long-held ambition of any self-respecting alchemist to discover the means of its creation. The Root Panacea is said to be able to grant those who imbibe it the means to _produce the components for alchemy from their own body_. If you help me obtain some ingredients, we can get cracking on my theory and share the fruits of my research. |
 | 
 
 What do you need?
@@ -56,6 +62,24 @@ What do you need?
 I'll do my best to retrieve them.
 
  |
+| Tremendous! Soon we shall be toasting to our success! |
+| 
+
+End
+
+ |
+| 
+
+Begin
+
+ |
+| Ah, my good friend! How goes your search for the components? |
+| 
+
+Could you remind me of the requirements to produce the Root Panacea?
+
+ |
+| Not to worry - I'm looking for Celestial Ichor, Stardust, and a Primordial Lotus of any kind. Safe travels! |
 | 
 
 End
