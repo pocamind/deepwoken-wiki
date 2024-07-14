@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 105588
+revid: 106209
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -18,7 +18,7 @@ categories: [Deepwoken]
 -   The Outfit **Black Diver's** original design was [Bondrewd's](https://madeinabyss.fandom.com/wiki/Bondrewd) outfit from [Made in Abyss](https://en.wikipedia.org/wiki/Made_in_Abyss).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.fandom.com/wiki/Big_Hat_Logan) from _Dark Souls_.
--   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter X Hunter._
+-   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter × Hunter._
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
 -   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from Guilty Gear Strive.
@@ -31,16 +31,15 @@ categories: [Deepwoken]
 ### **Flamecharm**
 
 -   **Flame of Denial** and **Flame Within** are inspired by similar spells in _Dark Souls_.
-    -   **Flame of Denial** works similarly to [Tears of Denial.](https://darksouls3.wiki.fextralife.com/Tears+of+Denial)
-    -   **Flame Within** works similarly to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within).
+    -   **Flame of Denial** works similarly to [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial).
+    -   **Flame Within** works similarly to [Power Within](https://darksouls.fandom.com/wiki/Power_Within).
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move (Fūga) that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
--   **Fire Forge** modified with a Tornado Spark may be a possible reference to [Kai's Fire Spinjitzu](https://ninjago.fandom.com/wiki/Spinjitzu) from _Ninjago._
 
 ### **Thundercall**
 
--   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical.
+-   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter × Hunter_ as it used to be blue, making it almost identical.
     -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _Naruto_, often called "Cloak of Lightning".
 -   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear), and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
 -   **Bolt Piercer** is a reference to Ishida Uryu's [Licht Regen](https://bleach.fandom.com/wiki/Licht_Regen#Variations) from _Bleach_. This becomes more apparent with the Surge path.
@@ -112,7 +111,6 @@ categories: [Deepwoken]
 ## Enemies/Bosses
 
 -   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giants/Giant Fishmen](https://bloodborne.fandom.com/wiki/Giant_Fishman) from _Bloodborne_.
-    -   Thousand Needles, an AoE attack where the Megalodaunt kneels down and shoots projectiles at the player, is most likely a reference to [Menthuthuyoupi](https://hunterxhunter.fandom.com/wiki/Menthuthuyoupi)'s Meat Skewer attack from Hunter x Hunter, where he also kneels down and shoots projectiles from his body.
 -   The [Mudskipper Brute](Mudskipper_Brute.md), and [Broodlord](Mudskipper_Broodlord.md) are both based on Clickers from _The Last of Us_.
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half-Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
@@ -130,14 +128,14 @@ categories: [Deepwoken]
 ## Resonance
 
 -   **Run It Back** is a reference to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) ultimate from _Valorant._
--   **Crazy Slots** is a reference to the Nen ability with the same name used by [Kite](https://hunterxhunter.fandom.com/wiki/Kite#Nen) from _Hunter X Hunter_.
--   **Wind Up** is a reference to the Nen ability, Ripper Cyclotron. It is used by [Phinks](https://hunterxhunter.fandom.com/wiki/Phinks_Magcub) from _Hunter X Hunter_.
+-   **Crazy Slots** is a reference to the Nen ability with the same name used by [Kite](https://hunterxhunter.fandom.com/wiki/Kite#Nen) from _Hunter × Hunter_.
+-   **Wind Up** is a reference to the Nen ability, Ripper Cyclotron. It is used by [Phinks](https://hunterxhunter.fandom.com/wiki/Phinks_Magcub) from _Hunter × Hunter_.
 -   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
 -   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto._
-    -   Could also possibly be a reference to the [Accompany Card](<https://hunterxhunter.fandom.com/wiki/Accompany_(G.I_card)>) from the _Hunter X Hunter_ Greed Island Arc.
--   **Shard Bow** may be a possible reference to the [Grandbows](https://coppermind.net/wiki/Grandbow) from _The Stormlight Archive._
+    -   Could also possibly be a reference to the [Accompany Card](<https://hunterxhunter.fandom.com/wiki/Accompany_(G.I_card)>) from the _Hunter × Hunter_ Greed Island Arc.
+-   **Shard Bow** may be a possible reference to the [Grandbows](https://stormlightarchive.fandom.com/wiki/Grandbow) from _The Stormlight Archive._
     -   It's triple-shot variant is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
 -   **Jar of Souls** is possibly a reference to _The Binding Of Isaac: Repentance_ item, [Urn of Souls](https://bindingofisaacrebirth.fandom.com/wiki/Urn_of_Souls).
     -   It may also be a reference to an [item of the same name](https://riskofrain.fandom.com/wiki/Jar_of_Souls) from _Risk of Rain._
@@ -178,7 +176,7 @@ categories: [Deepwoken]
 -   **Petra's Anchor** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
 -   [The Railblade's](Railblade.md) critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
--   The **[Krulian Knife](Krulian_Knife.md)** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
+-   The **[Krulian Knife](Krulian_Knife.md)** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter × Hunter._
 -   The **[Shattered Katana](Shattered_Katana.md)** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
     -   The current model was inspired by the [Seedler](https://terraria.fandom.com/wiki/Seedler) from _Terraria_.[\[2\]](#cite-note-2)
@@ -190,7 +188,7 @@ categories: [Deepwoken]
 ## Enchantments
 
 -   **Stormbreaker** is a reference to the weapon used by Thor of the same name from _Marvel Comics_.
--   **Elastic** is a reference to [Hisoka's](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) Bungee Gum from _Hunter x Hunter_.
+-   **Elastic** is a reference to [Hisoka's](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) Bungee Gum from _Hunter × Hunter_.
 -   **Obfuscation** and **Heroism** are references to [Artoria Pendragon's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Excalibur](https://typemoon.fandom.com/wiki/Excalibur?so=search) from the _Fate_ franchise.
 -   [Multiple enchants are taken directly](https://pixeldungeon.fandom.com/wiki/Enchantment) from _Pixel Dungeon. A list of these are..._
     -   Blazing.
@@ -269,7 +267,7 @@ categories: [Deepwoken]
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
--   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://coppermind.net/wiki/Steel_Ministry#Obligators) from _Mistborn_.
+-   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry%23Obligator) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
     -   On a broader reference, Canor surnames are German. Zweihanders, a weapon of German creation in real life, are used by Canor Borderwatchers.

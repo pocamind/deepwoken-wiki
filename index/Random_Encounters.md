@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 105591
+revid: 106213
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -263,7 +263,7 @@ A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking
 
 #### Supply the Diver Expedition
 
-One Diver Quartermaster and two [Diver Journeymen](Journeyman_Diver_Guard.md) spawn on an outpost at The Aratel Sea, prompting the quartermaster will start a quest where you have to bring in supplies from [Fort Merit](Fort_Merit.md) back to the outpost in exchange for the [Armorer's Needle](<Armorer's_Needle.md>) relic or [Smith's Alloy](<Smith's_Alloy.md>) relic. The Divers will return to the depths once this event is completed.
+One Diver Quartermaster and three [Diver Journeymen](Journeyman_Diver_Guard.md) spawn on an outpost at The Aratel Sea, prompting the quartermaster will start a quest where you have to bring in supplies from [Fort Merit](Fort_Merit.md) back to the outpost in exchange for the [Armorer's Needle](<Armorer's_Needle.md>) relic or [Smith's Alloy](<Smith's_Alloy.md>) relic. The Divers will return to the depths once this event is completed.
 
 WARNING: Dropping the supply crate into the ocean will softlock the quest; both the Quartermaster and Journeymen can die to mobs, also softlocking the quest. Do not attempt to drop the crate into the center of the structure; it'll drown the supply crate.
 

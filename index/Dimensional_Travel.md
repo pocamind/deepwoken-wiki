@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 103278
+revid: 106164
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -69,6 +69,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Origins.md) bounty expiring, you get teleported into the [Voidsea](Voidsea.md) (presumably the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat).
 -   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving [The Interstice](The_Interstice.md), due to your character being in the [Voidsea](Voidsea.md) for a short period.
 -   Gravity inside the Distortion Realm used to be reduced.
+-   You cannot take players that are knocked into Dimensional Travels realm.
 -   There used to be a bug where buildings could be found in the Distortion Realm.
 -   Functions similar to Naruto character, Tobi/Obito's Mangekyou Sharingan Dōjutsu "Kamui" ability.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).

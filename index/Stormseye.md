@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 105877
+revid: 106200
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -42,7 +42,7 @@ The Stormseye comes with 2 passive abilities:
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
     -   Oddly, this passive also applies to weapons pulled from [Crazy Slots](Crazy_Slots.md) or forced by other means.
 
-## Critical Attack
+## Critical
 
 The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them.
 

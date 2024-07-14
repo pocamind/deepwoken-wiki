@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 100709
+revid: 106212
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
@@ -49,15 +49,13 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 -   [Zi'eer](The_Lord_Regent.md)
 -   [Cestis](Cestis.md)
--   The Stranger
--   [Nostor, Master of Shadow](Attunement_Trainers.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Formerly belonged to [The Divers](The_Divers.md))
--   Emel
--   Imel
--   Rimil
+-   [The Stranger](Quiet_Stranger.md)
+-   [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Emel](Emel.md)
+-   [Imel](Imel.md)
+-   [Rimil](Rimil.md)
 
 ## Trivia
 
 -   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who possess it are persecuted.
-    -   This makes them the only faction to have an exclusive attunement.

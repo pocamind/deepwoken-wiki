@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106038
+revid: 106194
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1746,6 +1746,7 @@ _**"I seek the qualities of Lichtenberg."**_
 -   You'll Need To Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
 -   Prerequisite: 75 Charisma
 -   Cooldown of 60 seconds
+    -   Do note that this talent and the ally it spawns is affected by environmental scaling.
 
 ### Pyroclast
 
