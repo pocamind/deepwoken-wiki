@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 105184
+revid: 106253
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Layer 2, Floor 2]
@@ -28,6 +28,8 @@ Currently, New Kyrsa is the only location where Medallions can be found. There a
 -   They can be obtained via summon event inside the trap buildings. Activating the event via a button will result in 2 waves of [Kyrsgarde](Kyrsgarde.md) spawning. After defeating the enemies, multiple Kyrsan Medallions will spawn at the central point of the building.
 
 **Using the light hook or dying while in Second Layer, will result in collected Medallions being lost.** The only way to keep the currency is escaping via Klaris light hook after defeating the Scion of Ethiron. Once obtained, these medallions cannot be dropped or lost upon death.
+
+The limit of on-hand Medallions a player can have is 250. **The currency is bound to a slot and is lost upon wiping.**
 
 ## Usage
 

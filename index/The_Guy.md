@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 92187
+revid: 106423
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 106096
+revid: 106318
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -13,8 +13,6 @@ categories: [Monsters]
 ― Odd Tentacle description
 
 Mostly refered as "Squibbo".
-
-**Nautilodaunt:**
 
 Template:Creature Infobox V3
 
@@ -45,25 +43,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 | **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | X | ◯ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** their attacks. | N/A | N/A | N/A | (★★☆) |
 | **Vent** | If hit by any move that utilises the Song such as a Mantra, certain Resonances, or a Vent from the player, the Nautilodaunt will near-completely negate the damage of said mantra. Can happen even during other moves. | N/A | N/A | N/A | (★☆☆) |
-
-**Fury Nautilodaunt:**
-
-## Description
-
-Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Nautilodaunt, by some ungodly means having learnt and now actively utilizing the [Thundercall](Thundercall.md) Attunement. Their skin is noticeably darker than their regular counterparts, with a yellow tint, while their eyes glow a bright yellow, atypical to it's white-eyed original counterparts. Aside from the change in color, the Fury Nautilodaunt's Thundercall usage has given it the ability to electrify its prey with each and every one of its attacks, debilitating the prey in the process. Finally, it is also observed to be much more durable than a regular Nautilodaunt. All of this combined making it a far more dangerous threat, capable of taking out fully geared PVE builds if underestimated.
-
-## Attack Patterns
-
-| Name | Description | Parryable? | Blockable | Dodgable | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Fists of Thunder!** | All of Nautilodaunt's attacks now apply Electrify. Removing hyper-armor and applying true-stun. | N/A | N/A | N/A | (★★★★) |
-| **Punch** | The Fury Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | ◯ | ◯ | (★★☆) |
-| **Kick** | Fury Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick. | ◯ | ◯ | ◯ | (★★☆) |
-| **Flip- Kick** | Fury Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | ? | ◯ | (★★★) |
-| **Drop-Kick** | Fury Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | ? | ◯ | (★★★) |
-| **Electro Stomp** | Fury Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | X | ◯ | (★★★) |
-| **Feint** | Like [The Enforcer,](Enforcer.md) the Fury Nautilodaunt can also **feint** their attacks. | N/A | N/A | N/A | (★★☆) |
-| **Vent** | If hit by any move that utilises the Song such as a Mantra, certain Resonances, or a Vent from the player, the Fury Nautilodaunt will near-completely negate the damage of said mantra. Can happen even during other moves. | N/A | N/A | N/A | (★☆☆) |
 
 ### Finisher
 
@@ -105,12 +84,10 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   It respawns after roughly 5 minutes and 35 seconds.
 -   When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
 -   [Mortus](Mortus.md) mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
--   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800 HP.
 -   The vent it uses was the old vent before Deepwoken's release.
 -   Nautilodaunts can spawn in the overworld via [Mimic chests](Chests_&_Sacks.md)
 -   If encountered in the overworld, it has the ability to swim, however does not possess a swimming animation.
 -   They are named after the Nautilus, a family of shelled cephalopods.
--   The Fury Nautilodaunt has a chance to spawn instead of the normal variation outside of the elevator.
 -   Is internally referred to as ".squidward[\[1\]](#cite-note-1)"
 
 ## References

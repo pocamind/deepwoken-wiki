@@ -1,9 +1,9 @@
 ---
 title: Kyrswynter
-revid: 105878
+revid: 106312
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -50,36 +50,11 @@ The Running Critical lets you leap forward and deliver 2 explosions; a small one
 
 It also has a passive called **Subzero Strike,** which procs on flourish and doing an explosion that knocks enemies away and procs chilling or a crystallization stack.
 
-## Gallery
-
-File:Kyrswynter crit right before finish.png
-
 ## Trivia
-
--   File:Kyrswynter enchanted with Stone.png
-    
-    Kyrswynter enchanted with Stone
-    
-    Kyrswynter enchanted with Curse of The Bloodthirsty
-    
-    Kyrswynter is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md),
-    
-    Kyrswynter enchanted with PV
-    
-    Kyrswynter enchanted with Chilling
-    
-    Kyrswynter enchanted with Blazing
-    
-    Kyrswynter enchanted with Curse of the No Life King
-    
-    Kyrswynter enchanted with Storm
-    
-    Kyrswynter enchanted with Wild
-    
 
 -   Kyrswynter running crit cannot be parried, however CAN be blocked, but deals INSANE posture damage.
 -   The running crit could also be a reference to the Wolf's Assault Ash of War from Elden Ring.
-
+-   Kyrswynter is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md)
 -   It is the first elemental legendary weapon to have innate bleed on hit.
 -   It is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
 -   It is also the third [Frostdraw](Frostdraw.md) legendary, the first one being the [Hero Blade of Ice](Hero_Blades.md), the second being the [Gran Sudaruska](Gran_Sudaruska.md)

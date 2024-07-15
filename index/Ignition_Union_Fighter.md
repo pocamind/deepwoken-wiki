@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 97550
+revid: 106415
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]

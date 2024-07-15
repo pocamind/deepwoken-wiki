@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 106146
+revid: 106368
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]

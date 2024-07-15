@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 105610
+revid: 106315
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

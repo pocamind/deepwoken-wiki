@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 103967
+revid: 106353
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -207,8 +207,6 @@ Wind Forge
 
  |
 | 
-
-File:ZW4g IWWJys41-Q4KfelLg-ezgif.com-crop.gif
 
  | 
 

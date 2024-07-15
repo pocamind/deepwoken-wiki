@@ -1,0 +1,84 @@
+---
+title: Star Knight
+revid: 106323
+source: https://deepwoken.fandom.com/wiki/Star_Knight
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters]
+---
+
+# Star Knight
+
+Template:Creature Info Box v2
+
+## Description
+
+Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). They drop Astral Enchant Stones upon death, this is one of the ways to obtain them, along with a new event added to the game which grants you the Astral Enchant Stone if you're lucky.
+
+## **Moveset**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| 
+**Slash**
+
+ | Swings its sword at the opponent once or twice.
+
+-   **Insta-executes the player if health is low.**
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+**Kick**
+
+ | Deftly kicks the opponent with added momentum from its body.
+
+-   **Deals extra damage and dazes if the player is slammed against a wall.**
+
+ | ✗ | ◯\* | ◯ | (★★★) |
+| 
+
+**Energy Wave**
+
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
+| 
+
+**Terra Eruption**
+
+ | Punches the ground, causing a pillar to erupt below the player.
+
+-   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
+
+ | ✗ | ✗ | ◯ | (★★☆) |
+| 
+
+**Astral Rain**
+
+ | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical. | ✗ | ◯\* | ◯ | (★★☆) |
+
+### Passives
+
+-   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
+-   **Artificial Construct -** [Bloodless Gem](Deep_Gems.md) doesn't work on Stone Knights.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
+
+## **Finisher**
+
+A Stone Knight executes the player:
+
+| Name | Description |
+| --- | --- |
+| 
+**Death by Thousand Cuts**
+
+ | Slowly walks toward the player and then slashes the player with their sword, dismembering and killing them instantly. |
+
+## Tips
+
+-   Due to mainly being fought inside of the water, it should instead be advised to have a build that can "DPS Check" them rather than attempting to fight in a body of water.
+    -   However, if fought in Low detail mode while being atleast 10,000 studs away from 0,0,0 in an axis direction, the animations may be visible.
+
+## Trivia
+
+-   Previously was called "Michael"
+-   Immortal Guardians attack Astral Knights.
+-   Astral Knights tend to talk in full capital letters, like Rogue Constructs. They say "OUTSIDE INTERFERENCE PROBABLE.", "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT."

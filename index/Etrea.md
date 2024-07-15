@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 101952
+revid: 106366
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, SpoilerPages, Factions]

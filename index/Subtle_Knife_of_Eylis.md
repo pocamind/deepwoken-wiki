@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 102710
+revid: 106452
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths]

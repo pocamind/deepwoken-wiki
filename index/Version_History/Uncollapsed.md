@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 105963
+revid: 106417
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -9144,7 +9144,7 @@ Some assorted improvements, bugfixes, and balancing today.
   
 **Exoskeleton Rework**• We felt like Exoskeleton in its current state just wasn't a good talent for the game. It punished FTD & HP investment and was either far too strong or far too weak in different circumstances. It would either feel cheap for your opponents, or cheap for you when you got one-shot by a multi-hit. We've targeted it a lot with balancing, but we don't believe it has a place in the game in its current state. As such, Exoskeleton has been reworked into a new talent that we hope the users will accept as a better reimagining of the legendary talent. The new Exoskeleton behaves like an improved Vesperian Chitin, giving the user Natural Armor that regenerates when resting.  
   
-**Volume Slider  
+**Volume Slider**  
 • The music in-game now has a volume slider  
   
 **Balancing & Improvements**  
@@ -9175,7 +9175,7 @@ Some assorted improvements, bugfixes, and balancing today.
 • Fixed the circle in the Forest Arena closing in on the corner  
   
 **Optimizations**  
-• Patched multiple memory leaks**
+• Patched multiple memory leaks
 
 ### _**Patch 0.3.8a**_
 

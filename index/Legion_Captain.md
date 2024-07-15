@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 99777
+revid: 106442
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106240
+revid: 106262
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1615,7 +1615,7 @@ _**"I seek the qualities of Lichtenberg."**_
 -   _**Murmur: Ardour** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the Murmur into raw strength. Press H._
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
-    -   _Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md)._
+    -   _Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md). Talk with [Old Stranger](Old_Stranger.md)._
 
 -   _**Murmur: Rhythm** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).

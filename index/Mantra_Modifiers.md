@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 106252
+revid: 106347
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -658,8 +658,6 @@ Frozen Servants
 
  | 
 
-File:Frozen servants blast 2.gif
-
  | 
 
 -   This modifier changes the circular formation of Frozen Servants, instead making you summon one gigantic Frozen servant that fires out a cone of frost.
@@ -942,6 +940,19 @@ Tranquil Circle
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Ice Cubes
+
+ | (★★★) | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Ice Cubes" mantra to shoot out each cube individually having to use the mantra each time, from left to right
+
+ |
+| 
+
 Lightning Clones
 
 (★☆☆)
@@ -1111,8 +1122,6 @@ Frozen Servants
  | 
 
  | 
-
-File:Frozen servants reversal spark 3.gif
 
  | 
 

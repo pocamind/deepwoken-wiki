@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 103656
+revid: 106259
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -147,7 +147,7 @@ Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's Landing](<Miner's_L
 
 ## Effect
 
-For 1 Knowledge, unburn a card of your choice.
+For 1 Knowledge, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 
 ## Details
 
@@ -223,7 +223,9 @@ In all other cases, this shrine does nothing. Does NOT progress towards the Cont
 
 ## Pros/Cons
 
-Free Mystic for the Lone Warrior Origin / Trial of One and the Diluvian Mechanism.
+Free Mystic for the Lone Warrior Origin Free Mystic to those progressing via the Diluvian Mechanism
+
+Free Mystic available away from Castle Light in Temple of The Heart, this is primarly going to be Deepbounds due to their early access but can be accessed by anyone who own a Resonance.
 
 * * *
 

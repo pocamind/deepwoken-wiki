@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106242
+revid: 106367
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -27,12 +27,12 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating a unique NPC, located at:, Minityrsa, Starswept Valley |
+| obtainment | Defeating a unique NPC, located at:, Minityrsa, Starswept Valley, Upper Erisia, The Dephts (Scyphozia) |
 | description | "Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen." |
 
 ## Description
 
-The Wraithclaw is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), and it is the only Fist weapon that has Slash damage type. It can be obtained from the unique NPC named "Grunge" which you have to defeat (spawns at [Minityrsa](Minityrsa.md) or [Starswept Valley](The_Starswept_Valley.md)). It scales with Light Weapon and [Galebreathe](Galebreathe.md).
+The Wraithclaw is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), and it is the only Fist weapon that has Slash damage type. It can be obtained from the unique NPC named "Grudge" which you have to defeat (spawns at [Minityrsa](Minityrsa.md), [Upper Erisia](Upper_Erisia.md), [The Dephts (Scyphozia)](First_Layer.md) or [Starswept Valley](The_Starswept_Valley.md)). It scales with Light Weapon and [Galebreathe](Galebreathe.md).
 
 This weapon comes with a single passive ability:
 

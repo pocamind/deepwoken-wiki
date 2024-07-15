@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 106228
+revid: 106255
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -28,7 +28,7 @@ While the Duke is immune to instant guardbreaks, his posture pool is incredibly 
 
 ## Moveset
 
-Duke Erisia's arsenal consists of [Legion Kata](Legion_Kata.md) with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Erisia's arsenal consists of [Way of Nevae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
