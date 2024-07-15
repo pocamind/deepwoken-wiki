@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 103773
+revid: 106236
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec, Exclusive]
@@ -41,7 +41,7 @@ It posesses the properties of :
 3.  Greataxe's light attacks and critical attack animations
 4.  Being enchantable (most seen with Detonation)
 
-Upon getting hit, the enemy will get a purpleish pink halo on their head which change their moveset for 8 seconds:
+Upon getting hit, the enemy will get a purpleish pink halo on their head which will change their moveset for 8 seconds:
 
 -   Forwards (W) to Backward (S)
 -   Left (A) to Right (D)
