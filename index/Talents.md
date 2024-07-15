@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106216
+revid: 106240
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1862,7 +1862,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Unintuitive to most the community, using Windwaker is meant to grant a further speed boost only inside a Wind Gate.
-    -   Prerequisite: Sail along in the direction of the wind for roughly 20 minutes, 50 Galebreathe
+    -   Prerequisite: Sail with your mast pointed towards the wind in a sea highway for an unknown amount of time, 20 Galebreathe
 
 ### Scrapsinger
 

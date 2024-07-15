@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 106094
+revid: 106245
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -109,7 +109,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them.
--   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a high chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Stormseye](Stormseye.md), [Imperial Staff](Imperial_Staff.md). Relics are also able to be dropped in this chest.
+-   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a high chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Stormseye](Stormseye.md), Pyre Keeper, [Imperial Staff](Imperial_Staff.md). Relics are also able to be dropped in this chest.
 -   **Resonance progression -** Gives the second best resonance progress (4-7 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).)**
 -   **2 [Knowledge](Knowledge.md) -** On first kill, Primadon will reward you with 2 knowledge. Subsequent kills will reward 1 knowledge, however if you decide to defeat Primadon with multiple people you must do 20% (8,000) of his health to get the reward of one knowledge.
 

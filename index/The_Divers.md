@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 103697
+revid: 106249
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Reputation, Factions]
@@ -69,7 +69,7 @@ You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a de
 
 ## Trivia
 
--   Becoming a Contractor while being a Deepbound or being in The Divers guild will prevent your reputation from being decreased when you swear the Oath.
+-   While being in "The Divers" [Guild](Guilds.md), or having started as a Deepbound, you were previously able to gain [Contractor](Oath%253A_Contractor.md) without a reputation loss. However, in an update this was silently patched, and your reputation will now properly be set to hunted.
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
 -   The official Divers server is held at discord.gg/the-divers-citadel-919399201681592340
 -   The current leader of The Divers in-game is R0bustic.

@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 100085
+revid: 106251
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -37,3 +37,4 @@ If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is 
 -   Many elements share motifs with the [Authority](The_Central_Authority.md):
     -   There are 3 Authority emblems outside of the attachment.
     -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](https://deepwoken.fandom.com/wiki/Oaths#Warmaster) comes from.
+    -   The user cannot drop this equipment item, but it can be banked.

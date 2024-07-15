@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 106161
+revid: 106243
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -94,7 +94,7 @@ End
   <td><div>Begin</div></td>
 </tr>
 <tr>
-  <td>Warm greetings my friend. How may I help you?</td>
+  <td>Warm greetings my friend. Have you any need of some help?</td>
 </tr>
 <tr>
   <td><div>How might I further my studies?</div></td>

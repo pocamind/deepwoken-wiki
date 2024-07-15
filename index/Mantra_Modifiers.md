@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 105964
+revid: 106252
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
@@ -11,7 +11,7 @@ categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mant
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1IE3KIyizxEgHfTsasO0hCGvch6yNofdgNlRR__jA7jo/edit?usp=sharing)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0), just incase._
 
-Note: It’s likely that the spreadsheet is old as many of the modifiers do not work even though it says they do. It’s recommended you get mantra modifier from the deepwoken info discord.
+  
 
 **Mantra Modifiers** are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -23,9 +23,11 @@ Glass Stones and Magnifying Stones seem to have vastly different effects on mant
 
 Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible.
 
+## Modifiers
+
 **Regular:**
 
-## Regular Modifiers
+### Regular Modifiers
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesic Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
@@ -329,7 +331,7 @@ Gem
 
 **Deep Gems:**
 
-## Deep Gems
+### Deep Gems
 
 **Deep Gems** are rare Gems that can be applied to mantras to improve them at no additional cost.
 
@@ -401,7 +403,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 
 **Sparks:**
 
-## Sparks
+### Sparks
 
 Sparks are modifiers that are only able to be used on specific mantras.
 
@@ -611,9 +613,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
   
 
-**Blast Spark:**
+## Specific effects of Sparks
 
-## Specific Effects of Sparks
+**Blast Spark:**
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |

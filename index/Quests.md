@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 101800
+revid: 106239
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -170,7 +170,7 @@ Valikor
 
 **Quest Location**: [Isle of Vigils](Isle_of_Vigils.md)
 
-**Guide**: Talk to [Stratos](Stratos.md) at [The Temple of Blade](Temple_of_the_Blade.md). You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
+**Guide**: Talk to [Stratos](Stratos.md) at [The Temple of Blade](Temple_of_the_Blade.md). You must have Galebreathe. It is theorized that you need to sail with your mast pointed to the wind in a sea highway for an unknown amount of time to complete the quest.
 
 **Reward/s**: Windwaker
 

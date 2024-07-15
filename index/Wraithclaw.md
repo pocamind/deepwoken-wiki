@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106222
+revid: 106242
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -62,3 +62,4 @@ Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talen
 -   Not recolored if using Specter Path, including Critical Attack VFX.
 -   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary Fist weapon that ever have been added into the game.
     -   Despite it having Slash damage type, this weapon has no innate bleed.
+-   Inhaling a mantra will only make the right claw glow green or white (depending on mantra feinted and path being used)
