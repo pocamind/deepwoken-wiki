@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106206
+revid: 106222
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -32,7 +32,7 @@ notices:
 
 ## Description
 
-The Wraithclaw is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), and it is the only Fist weapon that has Slash damage type. It can be obtained from the unique NPC which you have to defeat, that could spawn at [Minityrsa](Minityrsa.md) or [Starswept Valley](The_Starswept_Valley.md). It scales with Light Weapon and [Galebreathe](Galebreathe.md).
+The Wraithclaw is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), and it is the only Fist weapon that has Slash damage type. It can be obtained from the unique NPC named "Grunge" which you have to defeat (spawns at [Minityrsa](Minityrsa.md) or [Starswept Valley](The_Starswept_Valley.md)). It scales with Light Weapon and [Galebreathe](Galebreathe.md).
 
 This weapon comes with a single passive ability:
 

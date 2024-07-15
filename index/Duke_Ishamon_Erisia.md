@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 105794
+revid: 106228
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses]
 
 # Duke Ishamon Erisia
 
-“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
+“ The ruins of that city will **never** cage me. And with what's at stake... I can't stop now. ”
 
 ― Duke Erisia
 

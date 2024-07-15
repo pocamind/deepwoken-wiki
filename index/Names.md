@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 105826
+revid: 106221
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1765,6 +1765,7 @@ Some players have access to customized, unique names.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.
 -   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
+-   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 106035
+revid: 106225
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -855,7 +855,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
   <td>75 MED</td>
   <td>22</td>
-  <td>5%</td>
+  <td>15%</td>
   <td>N/A</td>
   <td>MED: 6</td>
   <td>6</td>

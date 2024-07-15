@@ -1,12 +1,16 @@
 ---
 title: How to Make Friends
-revid: 105488
+revid: 106227
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
 ---
 
 # How to Make Friends
+
+“ Now we're gonna go 35 Charisma, cause you know.. Freddy talks to children and all.. ”
+
+― KeyExploits
 
 ## Overview
 

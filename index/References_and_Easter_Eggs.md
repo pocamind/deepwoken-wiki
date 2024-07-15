@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 106209
+revid: 106219
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -77,6 +77,7 @@ categories: [Deepwoken]
 ### **Ironsing**
 
 -   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura (better known as Uber Shinobi)](https://rogue-lineage.fandom.com/wiki/Uber_Shinobi?so=search) class.
+-   Being able to consume ores for buffs could be a reference to Allomancy from _Mistborn._
 
 ### **Attunementless**
 
