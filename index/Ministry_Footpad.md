@@ -1,6 +1,6 @@
 ---
 title: Ministry Footpad
-revid: 99443
+revid: 106459
 source: https://deepwoken.fandom.com/wiki/Ministry_Footpad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]

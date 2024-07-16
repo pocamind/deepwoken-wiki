@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 106050
+revid: 106492
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -32,7 +32,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
 -   To upgrade a Shadowcast Mantra from level 3 to level 4 costs.
--   To upgrade a Shadowcast Mantra from level 4 to level 6 costs.
+-   To upgrade a Shadowcast Mantra from level 4 to level 5 costs.
 
 ## Mantras
 

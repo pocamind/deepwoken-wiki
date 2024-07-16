@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106367
+revid: 106502
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -43,14 +43,14 @@ Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talen
 
 ## Critical
 
-### Standing Critical Attack
+### Standing Critical Attack \[6s CD\]
 
--   The user windups into a barrage of slashes, each dealing moderate damage & posture damage with low range.
+-   The user windups into a barrage of slashes, each dealing roughly small damage & posture damage with low range.
     -   This critical cannot be cancelled by user themself, and instead cancels after getting Hit or Parried.
 
-### Aerial Critical Attack
+### Aerial Critical Attack \[6s CD\]
 
--   The user quickly does a slash infront of them, dealing moderate damage and large amount of posture damage.
+-   The user quickly does a slash infront of them, dealing moderate damage and massive amount of posture damage.
     -   This Critical Attack can be activated in [Gale Dash](Talents.md).
 
 ## Trivia
@@ -62,4 +62,8 @@ Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talen
 -   Not recolored if using Specter Path, including Critical Attack VFX.
 -   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary Fist weapon that ever have been added into the game.
     -   Despite it having Slash damage type, this weapon has no innate bleed.
--   Inhaling a mantra will only make the right claw glow green or white (depending on mantra feinted and path being used)
+-   Aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or Uppercut because of incredible posture damage and low windup, but do keep in mind that the range is also low, meaning that it's overall on par with any other Aerial Critical Attack if used in a mix-up, but incredibly hard to use standalone.
+    -   Aerial Critical Attack is not AOE and does the Slash only infront of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
+-   Standing Critical Attack, despite being a multi-hit, has a great windup with low range and is not cancellable, so if you're not using it within the range and/or if your opponent has rolled out of it, you could be punished greatly because of the slowdown applied on the Critical Attack use.
+    -   Standing Critical Attack is overall, a worse [Imperial Staff](Imperial_Staff.md) Running Critical Attack, which are both similar to each other, but balancing & mix-up wise, one is more superior.
+    -   The Critical Attack is also extremely slow and delayed on servers that are lagging and could bring more harm than good to the user.

@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 105915
+revid: 106477
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Bosses, Enemies]
@@ -30,7 +30,8 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 | Revenge | A quick dash signified by a red-line effect, the mantra teleports him forward upon hitting the player or the player's block. | ◯ | ◯ | ◯ | (★☆☆) |
 | Shadow Assault | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. | ◯ | ◯ | ◯ | (★★☆) |
 | Eclipse Kick | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back. | ◯ | ◯ | ◯ | (★★☆) |
-| Shadow Eruption | The user swipes with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. | ◯ | ◯ | ◯ | (★★☆) | **Vent** | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ◯ | (★☆☆) |
+| Shadow Eruption | The user swipes with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. | ◯ | ◯ | ◯ | (★★☆) |
+| **Vent** | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ◯ | (★☆☆) |
 
 ## Trivia
 

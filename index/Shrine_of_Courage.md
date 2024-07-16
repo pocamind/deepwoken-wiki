@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 94709
+revid: 106503
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -14,7 +14,7 @@ categories: [The Depths, Layer 1, Deepwoken]
 
 ## Description
 
-The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 investment points when completed in exchange. If done with multiple players the reward is split between the people. **The Shrine of Courage can only be used once if you have completed it.**
+The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 free points when completed in exchange. If done with multiple players the reward is split between the people. **The Shrine of Courage can only be used once if you have completed it.**
 
 ## Trial Information
 

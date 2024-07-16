@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 106207
+revid: 106488
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -24,12 +24,6 @@ categories: [Weapons, Greathammers]
 | pass down | Yes |
 | obtainment | Rare drop from Hive Construct, Rare drop from Rogue Construct |
 | description | "...This isn't very efficient." |
-
-“ If you use this with Nemesis, I Wish a Thousand Plagues on your Family. ”
-
-― DanVR
-
-  
 
 ## Description
 

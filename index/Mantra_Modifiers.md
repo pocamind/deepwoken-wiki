@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 106347
+revid: 106517
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Gems, Pages with broken file links, Attunement, Spells, Mantras]
+categories: [Items, Gems, Attunement, Spells, Mantras]
 ---
 
 # Mantra Modifiers
@@ -750,8 +750,6 @@ Shadow Gun
 
  | 
 
-File:Shadow Gun with Blast Spark.gif
-
  | 
 
 -   This modifier causes the "Shadow Gun" mantra to hit multiple times but triples the ether cost.
@@ -834,6 +832,21 @@ Firing Line
 -   This modifier replaces the 5 rifles conjured behind the user, instead summoning two cannons that fire 1 cannonball each at the cursor.
 
  |
+| 
+
+Shoulder Bash
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Shoulder Bash" to push your opponent further after hitting them.
+
+ |
 
 **Magnet Spark:**
 
@@ -904,17 +917,17 @@ Electro Carve
  |
 | 
 
-Spark Swap
+Permafrost Prison
 
-(★★★)
-
- | 
+(★★☆)
 
  | 
 
  | 
 
--   This modifier seems to have no effect on the "Spark Swap" mantra.
+ | 
+
+-   This modifier causes the "Permafrost Prison" mantra to follow the character's movement.
 
  |
 | 
@@ -942,7 +955,9 @@ Tranquil Circle
 | 
 Ice Cubes
 
- | (★★★) | 
+(★★★)
+
+ | 
 
  | 
 
@@ -979,6 +994,21 @@ Grand Javelin
  | 
 
 -   This modifier causes the projectile from the "Grand Javelin" mantra to split into 3 smaller projectiles that fire off into different directions.
+
+ |
+| 
+
+Spark Swap
+
+(★★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Spark Swap" mantra to have a reduced cooldown and heavily reduced range, while also making the use snap their fingers audibly more than without the spark.
 
  |
 | 
@@ -1318,8 +1348,6 @@ Ice Lasers
 
  | 
 
-File:Ice Lasers with Spring Spark.gif
-
  | 
 
 -   This modifier causes the projectile from the "Ice Lasers" mantra to stop in place for a brief second after being shot before going forward.
@@ -1335,11 +1363,24 @@ Crystal Knee
 
  | 
 
-File:Crystal Knee with Spring Spark.gif
-
  | 
 
 -   This modifier causes the "Crystal Knee" mantra to perform a spin kick after the initial backflip kick that sends the opponent flying.
+
+ |
+| 
+
+Crystal Impale
+
+(★★☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifiers causes the "Crystal impale" mantra to make the user spin more and put more crystals on the opponent.
 
  |
 | 

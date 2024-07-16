@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 106342
+revid: 106480
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -430,7 +430,7 @@ _Impale your foes with a brutal crystal smash._
  | Ascend before performing a quick spinning dash towards the user's target.
 
 -   Deals light damage.
--   The last hit knocks down the target(s).
+-   Can be modified with a spring spark, making the user spin more.
 
  |
 |  | 
