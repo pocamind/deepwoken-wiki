@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 105188
+revid: 106583
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical]
@@ -16,7 +16,7 @@ categories: [Weapons, Swords, Unique Critical]
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.97x |
-| penetration | 5 |
+| penetration | 15 |
 | special effect | Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. Propels the user forward with every slash, making it difficult to land all three slashes. |
 | stances | 2 Handed, 1 Handed |
 | weight | 6 |
@@ -38,9 +38,7 @@ The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), kno
 -   At max MED Weapons, the Serpent's Edge is better than the [Shattered Katana](Shattered_Katana.md) in terms of damage. It also has 5% penetration.
 -   Has a unique critical. You do three slashes that move you a good deal forward.
     -   This critical can be used in water as a method of escape, due to the speed boost.
-    -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
--   Possibly a reference to the Flamberge from Dark Souls.
-    -   The Flamberge is also a real weapon
+    -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.
 
 ## Enchantments
 

@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 106551
+revid: 106585
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -46,23 +46,16 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 
 **This section contains spoilers. Read at your own risk.**
 
-The Deepspindle can be acquired in 2 ways, one guaranteed, (albeit tied to a rare event,) and one through chance.
-
-Silhuett's Method:
+The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent, or by chance from a random related event:
 
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
-2.  Find the Silhuett NPC in The Depths ([Hell Mode](Hell_Mode.md) increases rate, random encounter from The Depths, chance unknown yet.)
-3.  Talk to Silhuett, then use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) on top of the black pentagram next to the Silhouette. You will then be teleported to the Understrand
-4.  After using Shadow's Flight or Shadow Travel, you will be teleported to a Ministry Cache and fight the NPC wielding the Deepspindle. Once defeated, you obtain the weapon, [helmet](Deepscorn_Casque.md), [outfit](Darkened_Bastion.md) and are brought back to the where Silhouette was.
-    -   Alternatively, if you have Hero Reputation with the Ministry, you will outright skip the fight and get the weapon, [helmet](Deepscorn_Casque.md), and [outfit](Darkened_Bastion.md) immediately.
-
-Understrand Method:
-
-1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
-2.  Travel to the City of the Drowned or [Outpost Antumbra](Outpost_Antumbra.md) and look for a purple aura inside buildings or near the Trial of One (can be easily spotted as it stick out in the environment)
-3.  Use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) next to the light.
-4.  You will be transported to a Ministry Cache and fight a Ministry Agent. Defeat them to obtain a chest that can **rarely** contain the Deepsindle.
-    -   If you have Hero Reputation with the Ministry, you will fight a [Broodlord](Mudskipper_Broodlord.md) or Black Diver instead.
+2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of Silhuett's event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
+    -   [Output Antumbra](Outpost_Antumbra.md)
+    -   [The City of the Drowned](The_City_of_the_Drowned.md)
+3.  Use [Shadow Travel](Shadowcast.md) or [Shadow's Flight](<Shadow's_Flight.md>) on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
+    -   Depending on the type of event, the fight will initiate differently: Silhuett's entrance always guarantee a Ministry Cache Agent, while random spawned entrances will have the fight differ regarding your reputation with the Ministry.
+    -   The guaranteed drops from Silhuett's event can only be obtained once per slot; corresponding fights with the Ministry Cache Agent will only guarantee the [Deepscorn Casque](Deepscorn_Casque.md).
+    -   Assuming Hero reputation with the [Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead.
 
 ## Trivia
 
@@ -74,4 +67,3 @@ Understrand Method:
 -   This weapon gains 40% wither on hit when paired with the Darkened Bastion outfit, instead of the normal 20% received by other weapons.
 -   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once.
 -   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).
--   The Silhuette method grants you the armor, casque, and weapon ONLY ONCE per slot. If you find this event more than once per life, the dialogue will change, and you do not get the whole set, instead you have a chance to get the drops (no chest, you see a black screen and get tped out just like as your first time but the rewards change as said before)

@@ -1,9 +1,9 @@
 ---
 title: Cathedral of the Interstice
-revid: 99962
+revid: 106576
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Lost Celtor]
 ---
 
 # Cathedral of the Interstice

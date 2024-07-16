@@ -1,9 +1,9 @@
 ---
 title: Tideknight
-revid: 106470
+revid: 106572
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [InProgressPages, Enemies, Enemies that can wield Enchantments]
+categories: [InProgressPages, Enemies, Enemies that can wield Enchantments, Lost Celtor]
 ---
 
 # Tideknight

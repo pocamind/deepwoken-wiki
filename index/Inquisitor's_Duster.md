@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 106543
+revid: 106580
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, Developer Spec, Exclusive]
@@ -33,4 +33,7 @@ The Inquisitor's Duster is an unobtainable [Equipment](Equipment.md) item in the
 -   Given it's name, it's likely tied to Authority Inquisitors in some way.
     -   Thus it may become available to normal players or, at the very least, NPCs, similar to how the [Railblade](Railblade.md) used to be an exclusive weapon.
     -   YouTuber Nogo's Smoke variant is dyed black.
+
 -   The animations for this piece were turned into dynamic, just like every other animated equipment.
+
+-   This item will most likely become available when conquest drops, however it is unknown whether it will be a normal drop or from conquest itself.

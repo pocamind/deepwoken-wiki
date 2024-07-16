@@ -1,9 +1,9 @@
 ---
 title: The Hundred Legions
-revid: 106435
+revid: 106565
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions]
+categories: [Factions, The Hundred Legions]
 ---
 
 # The Hundred Legions
