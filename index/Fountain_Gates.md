@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 105944
+revid: 106525
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -36,4 +36,4 @@ Fountains located in Greathive Aratel
 
 ## Trivia
 
--   There is currently a bug which will not let you use the shrines even when meeting all the requirements. To combat this, join another server.
+-   There is currently a bug which will not let you use the fountains even when meeting all the requirements. To combat this, join another server.
