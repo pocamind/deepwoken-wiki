@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 106312
+revid: 106553
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -33,22 +33,32 @@ notices:
 
 The Kyrswynter is a Legendary Spear; an intricate curved and wrapped white spear held under the arm, its blue-white coloration indicating the frost of the Kyrsgarde, and the patterns under its hilt indicating the winds of the Eternal Gale.
 
-It can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
+The Kyrswynter comes with a single passive ability:
 
-1.  Have **75** Frostdraw and obtain the talent [Ethiron's Gaze](Talent_Quests.md). **IMPORTANT TO NOTE**: As of now, you _must_ be the one to interact with the bone in FirFire caverns for Ethiron's Gaze. Someone else interacting with it for you will _NOT_ allow you to open the door to speak to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md).
-2.  Speak to [Naerotiv](Frosviernr_Joraelnaero.md). He is on the right path of the first Shrine.
-3.  Defeat the [Scion of Ethiron](Scion_of_Ethiron.md).
-4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter.
+-   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks.
 
 ## Critical
 
-The Kyrswynter has two different criticals. The standing critical has 2 variations.
+The Kyrswynter has **two** different criticals.
 
-The Standing Critical pokes your spear forward that ragdolls and knocks back. It then shortly summons a pyre of ice beneath your enemy. Standing on the pyre of ice allows you to combo into an uppercut. M1ing before the standing critical allows you to leap onto your enemy and commence the running critical.
+For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath them. Standing on the blast allows you to combo into an uppercut.
 
-The Running Critical lets you leap forward and deliver 2 explosions; a small one on impact that stuns them, and makes them lay on their back, followed by a larger explosion that ragdolls.
+For the running critical, the user winds up before leaping forward with the weapon, finishing with an explosive ice blast.
 
-It also has a passive called **Subzero Strike,** which procs on flourish and doing an explosion that knocks enemies away and procs chilling or a crystallization stack.
+The criticals can be chained together by attacking before the standing critical, which allows you to perform the running critical after the standing critical hits.
+
+Both criticals share a cooldown of **9 seconds**.
+
+## Obtainment
+
+**This section contains spoiler. Read at your own risk.**
+
+The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
+
+1.  Have **75** Frostdraw and obtain the talent [Ethiron's Gaze](Talent_Quests.md). **NOTE**: As of now, you _must_ be the one to interact with the spear in Firfire Caverns for Ethiron's Gaze. Someone else interacting with it for you will _NOT_ allow you to open the door to speak to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md).
+2.  Speak to [Naerotiv](Frosviernr_Joraelnaero.md). He is on the right path of the first Shrine.
+3.  Defeat the [Scion of Ethiron](Scion_of_Ethiron.md).
+4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter.
 
 ## Trivia
 

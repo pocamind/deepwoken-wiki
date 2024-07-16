@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 106522
+revid: 106557
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Unique Critical, "Multi-Weapon Scaling"]
@@ -68,7 +68,6 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   It also has the most amount of critical attack variations (Five, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
--   Ysley's full name is Ysley Zithori Vhemm Diri As seen in this video at 3:21: [https://youtu.be/iJPMPuHRyE8?t=201](https://youtu.be/iJPMPuHRyE8?t=201)
 
 ## References
 

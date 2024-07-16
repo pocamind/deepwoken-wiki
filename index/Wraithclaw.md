@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106502
+revid: 106555
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -27,14 +27,14 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating a unique NPC, located at:, Minityrsa, Starswept Valley, Upper Erisia, The Dephts (Scyphozia) |
+| obtainment | Grudge |
 | description | "Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen." |
 
 ## Description
 
-The Wraithclaw is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), and it is the only Fist weapon that has Slash damage type. It can be obtained from the unique NPC named "Grudge" which you have to defeat (spawns at [Minityrsa](Minityrsa.md), [Upper Erisia](Upper_Erisia.md), [The Dephts (Scyphozia)](First_Layer.md) or [Starswept Valley](The_Starswept_Valley.md)). It scales with Light Weapon and [Galebreathe](Galebreathe.md).
+The Wraithclaw is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md) that scales off Light Weapon and [Galebreathe](Galebreathe.md).
 
-This weapon comes with a single passive ability:
+The Wraithclaw comes with a single passive ability:
 
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
     -   Inhaling a mantra will temporarily buff this up to the standard 10% that normal After Cut would give.
@@ -43,15 +43,26 @@ Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talen
 
 ## Critical
 
-### Standing Critical Attack \[6s CD\]
+The Wraithclaw has **two** criticals.
 
--   The user windups into a barrage of slashes, each dealing roughly small damage & posture damage with low range.
-    -   This critical cannot be cancelled by user themself, and instead cancels after getting Hit or Parried.
+For the **standing** critical, the user windups into a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack cannot be cancelled by user themselves, and instead cancels after receiving damage or getting parried.
 
-### Aerial Critical Attack \[6s CD\]
+For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md).
 
--   The user quickly does a slash infront of them, dealing moderate damage and massive amount of posture damage.
-    -   This Critical Attack can be activated in [Gale Dash](Talents.md).
+Both criticals share the cooldown of **6 seconds**.
+
+## Obtainment
+
+**This section contains spoilers. Read at your own risk.**
+
+The Wraithclaw can be obtained from the unique NPC named "Grudge" which you have to defeat. Various confirmed spawn locations for the NPC are:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [The Depths (Scyphozia)](First_Layer.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+
+The NPC requires 75 [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
 
 ## Trivia
 
@@ -60,10 +71,11 @@ Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talen
 -   With 100 LHT and 100 WND, it will deals 30.2 damage.
     -   Around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the talent.
 -   Not recolored if using Specter Path, including Critical Attack VFX.
--   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary Fist weapon that ever have been added into the game.
+-   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary fists weapon that ever have been added into the game.
+    -   Furthermore, it is the first fists Legendary that scales off an attunement.
     -   Despite it having Slash damage type, this weapon has no innate bleed.
--   Aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or Uppercut because of incredible posture damage and low windup, but do keep in mind that the range is also low, meaning that it's overall on par with any other Aerial Critical Attack if used in a mix-up, but incredibly hard to use standalone.
-    -   Aerial Critical Attack is not AOE and does the Slash only infront of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
--   Standing Critical Attack, despite being a multi-hit, has a great windup with low range and is not cancellable, so if you're not using it within the range and/or if your opponent has rolled out of it, you could be punished greatly because of the slowdown applied on the Critical Attack use.
-    -   Standing Critical Attack is overall, a worse [Imperial Staff](Imperial_Staff.md) Running Critical Attack, which are both similar to each other, but balancing & mix-up wise, one is more superior.
-    -   The Critical Attack is also extremely slow and delayed on servers that are lagging and could bring more harm than good to the user.
+-   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup, but do keep in mind that the range is also low, meaning that it's overall on par with any other aerial Critical Attack if used in a mix-up, but incredibly hard to use standalone.
+    -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
+-   The standing critical attack, despite being a multi-hit, has a great windup with low range and is not cancellable, so if you're not using it within the range and/or if your opponent has rolled out of it, you could be punished greatly because of the slowdown applied on the critical attack use.
+    -   The standing critical attack is overall, a worse [Imperial Staff](Imperial_Staff.md) Running Critical Attack, which are both similar to each other, but balancing & mix-up wise, one is more superior.
+    -   The critical attack is also extremely slow and delayed on servers that are lagging and could bring more harm than good to the user.

@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 106137
+revid: 106551
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -25,12 +25,26 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Un
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Silhuett |
+| obtainment | Ministry Cache Agent |
 | description | "This rapier's blade was not forged in the traditional sense; rather, it was grown from the darkest scoria of the abyss, taking shape as a twisting, malevolent shadow. Tales speak of a noble warrior from Celtor who, after discovering ancient ministry passages, was consumed by a twisted curiosity and nurtured this vile blade. As the dark ritual progressed, the warrior's soul was pulled deeper into darkness, their essence decaying and their mind unraveling into madness. Ultimately succumbing to the depths, thus stirs the Deepspindle." |
 
 ## Description
 
 The Deepspindle is a Legendary Rapier, a malevolent manifestation of shadow forged through unknown means into a curving, ornate assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
+
+## Critical
+
+The Deepspindle has two different critical attacks.
+
+For the **standing** critical, the user thrusts the weapon forward with both hands, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
+
+For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
+
+The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both critical attacks have a cooldown of 9 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 6.5 seconds as long as it lands.
+
+## Obtainment
+
+**This section contains spoilers. Read at your own risk.**
 
 The Deepspindle can be acquired in 2 ways, one guaranteed, (albeit tied to a rare event,) and one through chance.
 
@@ -49,18 +63,6 @@ Understrand Method:
 3.  Use [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Shadowcast.md) next to the light.
 4.  You will be transported to a Ministry Cache and fight a Ministry Agent. Defeat them to obtain a chest that can **rarely** contain the Deepsindle.
     -   If you have Hero Reputation with the Ministry, you will fight a [Broodlord](Mudskipper_Broodlord.md) or Black Diver instead.
-
-## Critical
-
-The Deepspindle has two different critical attacks.
-
-For the **standing** critical, the user thrusts the weapon forward with both hands, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
-
-For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out damaging projectiles, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
-
-The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both critical attacks have a cooldown of 9 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 6.5 seconds as long as it lands.
-
-  
 
 ## Trivia
 

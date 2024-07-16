@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 103754
+revid: 106543
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, Developer Spec, Exclusive]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Dusters, Developer Spec, Exclusive]
 | selling price | 14 |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | 2 Rare Pips |
+| innate stats | +2 Rare Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Unobtainable |
-| description | ... |
+| description | "..." |
 
 ## Description
 

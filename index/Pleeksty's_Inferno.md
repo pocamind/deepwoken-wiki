@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 106205
+revid: 106550
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -31,17 +31,9 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 Pleeksty's Inferno is a legendary Club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it.
 
-It can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
-
-1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer.md) without a Light Hook
-2.  Either wear [Flame Worshipper Armor](Flame_Worshipper_Armor.md), have the [Pleeksty's Will](Talent_Quests.md) Talent or have the [Pleeksty's Faith](Talents.md) Talent. Keep in mind you only need **one** of these three to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.
-3.  Head to [Firfire](Firfire.md). If you are hookless, you should see some orange particles near the back of Firfire.
-4.  Jump down to the small ledge near the Kyrsgarde. Do some parkour and head over to a small cave with 3 Orange Resonance Doors that require a fully progressed [Oath](Oaths.md), [Resonance](Resonance.md), and 75 Flamecharm (needs confirmation on the last door). You can still clip through these doors, but is dangerous because the last door could make you fall into the void and wipe.
-5.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will wipe immediately through burning.
-
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
-The weapon will proc Club Talents on hit and Flamecharm Talents on critical hits.
+The weapon will proc Club Talents on hit and Flamecharm talents on critical hits.
 
 ## Critical
 
@@ -54,6 +46,20 @@ For the **running** critical, the user imbues the club with flame, slashing in f
 Both criticals share a cooldown of **8 seconds** and can proc Flamecharm Talents.
 
 Azure and Twisted Puppets variant of the critical does not change visual colors. (Needs to be fixed as it should change colors depending on the variant.)
+
+## Obtainment
+
+**The following section contain spoilers. Read at your own risk.**
+
+The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
+
+1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer.md) without a Light Hook.
+2.  Fulfill one of the following criteria. Keep in mind you only need **one** of these two criterias to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.
+    -   Wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
+    -   Having the [Pleeksty's Will](Talent_Quests.md) talent, or having the [Pleeksty's Faith](Talents.md) Talent.
+3.  Head to [Firfire](Firfire.md). If you are Hookless, you should see orange particles near the back of Firfire.
+4.  Jump down to the small ledge near the Kyrsgarde. Do some parkour and head over to a small cave with 3 Orange Resonance Doors that require a fully progressed [Oath](Oaths.md), [Resonance](Resonance.md), and 75 Flamecharm. You can still clip through these doors, but is dangerous because the last door could make you fall into the void and wipe.
+5.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will wipe immediately through burning.
 
 ## Trivia
 

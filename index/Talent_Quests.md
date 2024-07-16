@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 105232
+revid: 106558
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -72,9 +72,9 @@ You get these talents by using the item [Repair Hammer](Repair_Hammer.md) on you
 
 ### Proficient Baiting, Hook, Line, and Sinker, and Fisher's Lure
 
-**Proficient Baiting:** Casting the line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)  
-**Hook Line, and Sinker:** Once something's caught your line, it's much harder for it to get loose. (+4 Ether)  
-**Fisher's Lure**: Fish are drawn to your line more quickly. (+4 Ether)
+**Proficient Baiting:** Casting the line excites ocean life, reducing the chances of fishing up trash.  
+**Hook Line, and Sinker:** Once something's caught your line, it's much harder for it to get loose. (+4 Carry Load)  
+**Fisher's Lure**: Fish are drawn to your line more quickly.
 
 You need to successfully fish a certain amount of times to get each talent, **10** times for Proficient Baiting, **30** times for Hook, Line, and Sinker, and **50** times for Fisher's Lure. Proficient Baiting Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boot, Hook, Line, and Sinker Reduces the chance of failure while fishing, and Fisher's Lure Increases the rate of hooking something while fishing.
 
