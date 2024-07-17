@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 105412
+revid: 106659
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, "Multi-Weapon Scaling"]
@@ -53,6 +53,5 @@ The cooldown for the critical is **10 seconds**.
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
 -   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
     -   This amount of range meant the Wyrmtooth was once rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Pale Briar](Pale_Briar.md). It even matched the ranges of some pistols, but was otherwise eclipsed by them.
--   In both appearance and function, the Wyrmtooth serves as Deepwoken's take on the "ridiculously large sword" trope used commonly in Japanese fantasy media. Its modeller, TheRealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_.
-    -   T̶h̶e̶ s̶t̶a̶n̶d̶i̶n̶g̶ c̶r̶i̶t̶i̶c̶a̶l̶ i̶s̶ s̶u̶p̶p̶o̶s̶e̶d̶ t̶o̶ h̶a̶v̶e̶ b̶e̶e̶n̶ i̶n̶s̶p̶i̶r̶e̶d̶ b̶y̶ S̶e̶p̶h̶i̶r̶o̶t̶h̶'s̶ i̶c̶o̶n̶i̶c̶ M̶a̶s̶a̶m̶u̶n̶e̶ s̶t̶a̶b̶ f̶r̶o̶m̶ t̶h̶e̶ F̶i̶n̶a̶l̶ F̶a̶n̶t̶a̶s̶y̶ s̶e̶r̶i̶e̶s̶.
-    -   The standing critical is ACTUALLY supposed to be inspired from the [Piercing Fang](https://eldenring.wiki.fextralife.com/Piercing+Fang) Ash Of War in _Elden Ring_ that is obtainable from the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba).
+-   Its modeller, TheRealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_. Nagakiba loosely translates to 'long fang', similar to the name Wyrmtooth.
+    -   The standing critical is inspired from the [Piercing Fang](https://eldenring.wiki.fextralife.com/Piercing+Fang) Ash Of War in _Elden Ring_ that is obtainable from the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba).

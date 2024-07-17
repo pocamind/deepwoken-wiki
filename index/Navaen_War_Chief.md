@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 100298
+revid: 106681
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Navaen War Chief** is a Master [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) Fiber, eight (8) [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore), two (2) [Frigid Prisms](Frigid_Prism.md), one (1) Odd Tentacle, two (2) Thresher Spines, and one (1) [Wind Gem](Deep_Gems.md).
+This Outfit costs and requires five (5) Cloth, five (5) Fiber, eight (8) [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore), two (2) [Frigid Prisms](Frigid_Prism.md), one (1) [Odd Tentacle](Odd_Tentacle.md), two (2) [Thresher Spines](Thresher_Spine.md), and one (1) [Wind Gem](Deep_Gems.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 

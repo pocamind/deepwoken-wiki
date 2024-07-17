@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 104951
+revid: 106679
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,7 +20,7 @@ Ironsing Icon
 
 Ironsing can be trained with a combination of Ferrofluid and Ironsing mantras.
 
-The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
+The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
 
 **The ores you need are:**
 

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 96621
+revid: 106680
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors, Items, Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Darksteel Plate** is an Expert [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, five (5) pieces of Erisore, one (1) Strange Claw and one (1) Dark Feather.
+This Outfit costs and requires five (5) Cloth and Fiber, five (5) pieces of [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore), one (1) [Strange Claw](Strange_Claw.md) and one (1) [Dark Feather](Dark_Feather.md).
 
 This Outfit requires [Power Level](Power.md) 10 and 20 [Fortitude](Attributes.md).
 

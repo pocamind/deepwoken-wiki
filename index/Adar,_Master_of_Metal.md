@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 102677
+revid: 106672
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers, NPCs]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 Adar is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Ironsing](Ironsing.md) trainer.
 
-In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
+In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained [Ironsing](Ironsing.md) before on a previous Slot. They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Moveset
 
@@ -157,7 +157,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tbody>
 </table>
 
-**After speaking to Rudral with a Pluripotent Alloy**
+**After speaking to Rudral with a Pluripotent Alloy / Having Obtained Ironsing Before**
 
 Adar: Hmm... Oh, sorry! Can I help you?
 
