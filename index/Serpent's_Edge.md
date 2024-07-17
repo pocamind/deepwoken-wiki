@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 106583
+revid: 106589
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical]
@@ -38,7 +38,9 @@ The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), kno
 -   At max MED Weapons, the Serpent's Edge is better than the [Shattered Katana](Shattered_Katana.md) in terms of damage. It also has 5% penetration.
 -   Has a unique critical. You do three slashes that move you a good deal forward.
     -   This critical can be used in water as a method of escape, due to the speed boost.
-    -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.
+    -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
+-   Possibly a reference to the [Flamberge](https://darksouls.wiki.fextralife.com/Flamberge) from Dark Souls.
+    -   The Flamberge is also a [real weapon](https://en.wikipedia.org/wiki/Flamberge).
 
 ## Enchantments
 

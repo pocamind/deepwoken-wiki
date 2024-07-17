@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 101939
+revid: 106594
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -135,3 +135,4 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   Tacet is the only murmur to have a corresponding mantra.
 -   As of May 3rd, 2024, you can now remove your Murmur at [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 -   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_
+-   Ardour Scream may be reference to Dragon scream from Dark Souls

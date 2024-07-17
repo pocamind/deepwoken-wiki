@@ -1,9 +1,9 @@
 ---
 title: Aska
-revid: 105667
+revid: 106588
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
+categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies, Pages with broken file links]
 ---
 
 # Aska
@@ -22,6 +22,8 @@ categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
 A [Flamecharm](Flamecharm.md)\-wielding miniboss found in Firfire, located in a cave behind three orange Resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him.
 
 Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will start burning to death until you wipe.
+
+There is a way to skip the Aska fight, though it is currently unknown.[\[1\]](#cite-note-1)
 
 ## Requirements
 
@@ -199,3 +201,9 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
     -   [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
     -   Hair ID: 6101425666 _(same as [Maestro Evengarde Rest's](Evengarde_Rest.md))_
     -   Aska's Outfit is dyed orange in-game.
+
+1.  [↑](#cite-ref-1)
+    
+    File:Aska CAN be skipped.png
+    
+    Proof that Aska can be skipped, we just dont know how

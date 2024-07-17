@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 105368
+revid: 106595
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -58,12 +58,12 @@ _Range limit but not too bad._
 | Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
  | 2 minutes |
-| Fight | Yes, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed.
+| Fight | No, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed.
 
 (It is presumed to increase the subject's damage by 50% but further testing may be required)
 
  | 3 minutes |
-| Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
+| Sacrifice | No, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
 
 _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
