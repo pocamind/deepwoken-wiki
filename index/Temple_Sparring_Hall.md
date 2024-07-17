@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall
-revid: 87086
+revid: 106642
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations, World, Etrean Luminant]
+categories: [In progress without reason, InProgressPages, Locations, World, Etrean Luminant, Etrea]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

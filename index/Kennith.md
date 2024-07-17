@@ -1,9 +1,9 @@
 ---
 title: Kennith
-revid: 100925
+revid: 106631
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, NPCs, Quests]
+categories: [SpoilerPages, NPCs, Quests, Etrea]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---

@@ -1,9 +1,9 @@
 ---
 title: Maestro Evengarde Rest
-revid: 106600
+revid: 106628
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Bosses]
+categories: [Bosses, Etrea]
 ---
 
 # Maestro Evengarde Rest

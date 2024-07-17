@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 106293
+revid: 106657
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,8 +29,6 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 | **Ground Slam** | The golem brings its arms over its head, before quickly slamming them down into the ground in a vicious swing. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Uppercut** | The golem winds up its arm behind it, before quickly swinging it outwards. | ✗ | ◯ | ◯ | (★★☆) |
 | **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player. | ✗ | ✗ | ◯ | (★★★) |
-
-</tabber>
 
 ### Passives
 

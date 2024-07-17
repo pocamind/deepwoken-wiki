@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106555
+revid: 106648
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -55,7 +55,7 @@ Both criticals share the cooldown of **6 seconds**.
 
 **This section contains spoilers. Read at your own risk.**
 
-The Wraithclaw can be obtained from the unique NPC named "Grudge" which you have to defeat. Various confirmed spawn locations for the NPC are:
+The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" which you have to defeat. Various confirmed spawn locations for the NPC are:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Upper Erisia](Upper_Erisia.md)

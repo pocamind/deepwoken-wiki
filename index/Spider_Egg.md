@@ -1,6 +1,6 @@
 ---
 title: Spider Egg
-revid: 106613
+revid: 106617
 source: https://deepwoken.fandom.com/wiki/Spider_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,4 +16,4 @@ For those wanting to farm spider eggs, server hopping with the [Harvester](Talen
 Known Spider Egg Spawns:  
 \- 2 In a cave in Lower Erisia, where Mudskippers are scripted to spawn  
 \- 1 at Vigils, inside a hollow log near the Banker/Antiquarian  
-\- 7 at [Widow's Hollow](<Widow's_Hollow.md>)
+\- 7 at [Widow's Hollow](<Widow's_Hollow.md>) (Can be gathered without alerting Widow in most cases)

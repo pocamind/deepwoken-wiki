@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 104879
+revid: 106620
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -27,6 +27,8 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 ★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP)  
 ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP)  
 ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP)
+
+However, these pips can be rerolled by the use of [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
 
 <table><caption>Pips Info</caption>
 <tbody>

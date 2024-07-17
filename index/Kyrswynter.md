@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 106604
+revid: 106655
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -62,21 +62,12 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 ## Trivia
 
--   Kyrswynter running crit cannot be parried, however CAN be blocked, but deals INSANE posture damage.
--   The running crit could also be a reference to the Wolf's Assault Ash of War from Elden Ring.
--   Kyrswynter is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md)
--   It is the first elemental legendary weapon to have innate bleed on hit.
--   It is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
--   It is also the third [Frostdraw](Frostdraw.md) legendary, the first one being the [Hero Blade of Ice](Hero_Blades.md), the second being the [Gran Sudaruska](Gran_Sudaruska.md)
+-   Despite the unblockable icon similar to Light's Final Toll's final critical, the Kyrswynter's running critical can be blocked.
+-   This is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md).
+-   This is the first elemental legendary weapon to have innate bleed on hit.
+-   This is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
+    -   This is also the first legendary spear that scales off an attunement.
 
 -   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) may have been the last ever modern Kyrsgarde to every conjure such a weapon, or it was safely passed down from his bloodline.
--   Kyrswynter enchanted with Detonation
-    
-    The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release. Images of the Kyrswynter with enchants are on the right.
--   Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
--   As of 7/7/2024, it seems that Kyrswynter is no longer enchantable and being enchantable was a bug/glitch.
--   The person who had the Providence Thorns Kyrswynter sent me a clip. [Press here to view the clip.](https://medal.tv/games/roblox/clips/idsFtr3OCKRzKGEjc/d1337uNpv45H?invite=cr-MSx0algsMTg2NTMxMTMxLA)
--   You can drop the weapon.
--   You can bank the weapon and it doesn't cost 1 knowledge.
--   You can sell the weapon for 100 notes ( IT GIVES NO WARNING )
--   Like [Acheron Warspear](<Acheron's_Warspear.md>), [Serrated Warspear](Serrated_Warspear.md), and True Seraph's Spear. This type of polearm is categorized as a glaive
+-   The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release.
+    -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.

@@ -1,6 +1,6 @@
 ---
 title: Gobletto
-revid: 100787
+revid: 106616
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients]
@@ -12,7 +12,7 @@ Template:Food Template V1
 
 ## Description
 
-A consumable mushroom that that is white and has a tube-like stalk. It can commonly be found in [Etris](Etris.md) and \[Placeholder\], in groups of ~3.
+A consumable mushroom that that is white and has a tube-like stalk. It can commonly be found in [Etris](Etris.md) and [Vigils](Isle_of_Vigils.md), in groups of ~3.
 
 ## Recipes used in
 
@@ -24,5 +24,5 @@ A consumable mushroom that that is white and has a tube-like stalk. It can commo
 
 -   With the [Disguise](Mime.md) mantra, you can turn into a gobletto. This requires it to be modified with 1 Reversal spark, and 1 Tornado spark.
     -   This is the only Ingredient that you can transform into.
--   If used in [Alchemy](Alchemy.md), the primary affect applied is **Invigorating**. Secondary effect is unknown, theorized to be **Decelerate**.
--   One of 4 mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and Bluecap.
+-   If used in [Alchemy](Alchemy.md), the primary affect applied is **Invigorating**. Secondary effect is **Decelerate**.
+-   One of 4 mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and [Bluecap](Bluecap.md).

@@ -1,9 +1,9 @@
 ---
 title: Blade Temple Guard
-revid: 106378
+revid: 106636
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Guards]
+categories: [Enemies, NPCs, Guards, Etrea]
 ---
 
 # Blade Temple Guard

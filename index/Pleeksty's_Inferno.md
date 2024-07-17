@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 106590
+revid: 106656
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -43,7 +43,7 @@ For the **standing** critical, the user plunges their club into the ground, crea
 
 For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile, ragdolling enemies. The projectile is directional and will fly in the direction of your characters momentum.
 
-Both criticals share a cooldown of **8 seconds** and can proc Flamecharm Talents.
+Both criticals share a cooldown of **8 seconds**.
 
 Azure and Twisted Puppets variant of the critical does not change visual colors. (Needs to be fixed as it should change colors depending on the variant.)
 
@@ -68,6 +68,6 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 -   You do not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately; You may use the Ignition Deepdriller if you wish. In the case that you wipe purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
     -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded with the weapon upon Chaser's death instead of Aska's.
 -   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors, however, this is the more dangerous method, as you risk falling into the void while clipping through the last door on your way back from the cave.
--   Regardless if the first part of the running critical hit or not, a projectile will still be fired.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
+-   Despite being the [Flamecharm](Flamecharm.md) equivalent of the new quest legendary weapons, the weapon cannot be banked, or dropped.

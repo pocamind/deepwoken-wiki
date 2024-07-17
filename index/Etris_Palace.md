@@ -1,9 +1,9 @@
 ---
 title: Etris Palace
-revid: 57320
+revid: 106644
 source: https://deepwoken.fandom.com/wiki/Etris_Palace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Deepwoken, Map, World]
+categories: [Pages with broken file links, Deepwoken, Map, World, Etrea]
 ---
 
 # Etris Palace
