@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 100507
+revid: 106614
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -339,7 +339,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Redds help more than normal in healing if the potion is thrown.
     -   Due to Redds decreasing the duration of potions, the 2 Beeswax provides little value. Meaning unless you have a surplus, it is not worth wasting 2 Beeswax. Instead, consider just using 3 Redds if you plan on making this potion
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much
--   **Health Regeneration** (Invigorating) - 3 Beeswax + 2 Spider Egg
+-   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg
     -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
     -   If you have the Potion Quaffer talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap

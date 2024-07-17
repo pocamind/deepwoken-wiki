@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 106389
+revid: 106599
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -153,6 +153,10 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 ### Soul Flower Locations
 
 Hive Test Tube
+
+## Gallery
+
+Aratel Rising
 
 ## Trivia
 

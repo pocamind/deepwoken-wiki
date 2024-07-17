@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 105736
+revid: 106605
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -120,7 +120,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
 -   _**Giantslayer**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **20 Willpower.**
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
--   **Damage Up** equipment with stat modifiers usually has a form of damage % bonus against monsters, which is useful.
+-   **%Damage vs Monsters (DvM) and %Monster Armor** equipment with stat modifiers usually has a form of DvM and/or Monster Armor, which is useful.
 
 ### **Tips and Tricks**
 
