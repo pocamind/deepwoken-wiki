@@ -1,9 +1,9 @@
 ---
 title: Vigil Hood
-revid: 104161
+revid: 106732
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hoods]
+categories: [Equipment, Head, Hoods, Etrea]
 ---
 
 # Vigil Hood

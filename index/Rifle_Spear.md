@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 103730
+revid: 106736
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Unique Critical]
+categories: [Weapons, Spears, Unique Critical, The Central Authority]
 ---
 
 # Rifle Spear

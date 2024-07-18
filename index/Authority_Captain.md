@@ -1,9 +1,9 @@
 ---
 title: Authority Captain
-revid: 106385
+revid: 106741
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
 ---
 
 # Authority Captain

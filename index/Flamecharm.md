@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 106618
+revid: 106720
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -302,9 +302,11 @@ Flare Volley
 
 Deals high posture damage
 
-(WORK IN PROGRESS)
+This mantra can pass through walls or
 
-  
+There are many bugs, such as cooldown effects that have not returned but appear to have returned.
+
+(WORK IN PROGRESS)
 
   
 

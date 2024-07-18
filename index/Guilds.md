@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 105740
+revid: 106758
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -32,13 +32,13 @@ Once you've founded your guild, you are given the Guild Officer tool. This tool 
 
 Within a guild there are four ranks;
 
--   **Guild Leader**
+-   **Guild Leader ♕**
     -   Can use Chime of Dwelling and Guild Officer abilities, can invite, promote, and kick out Guild members, officers, and leutenants. They can demote and kick people manually by using Guild Officer on the desired person. Or can use it remotely within Guild Base by clicking on it and typing in the name of who they want to kick. There can only be 1 guild leader per guild.
 
--   **Guild Lieutenant**
+-   **Guild Lieutenant ︽**
     -   Can use Chime of Dwelling and Guild Officer abilities, can invite, promote to Officer, and kick out Guild Members by using Guild Officer on the desired person. You can have as many lieutenants as you want.
 
--   **Guild Officer**
+-   **Guild Officer ⛨**
     -   Can use Chime of Dwelling and Guild Officer abilities, can invite and kick out Guild members by using Guild Officer on the desired person. You can have as many officers as you want.
 -   **Guild Member**
     -   Cannot use Chime of Dwelling nor Guild Officer abilities, and must buy Dwelling Charms to summon a [Guild Base](Guild_Bases.md).

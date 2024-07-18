@@ -1,9 +1,9 @@
 ---
 title: Summer Rifle
-revid: 101683
+revid: 106747
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifles]
+categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 ---
 
 # Summer Rifle
