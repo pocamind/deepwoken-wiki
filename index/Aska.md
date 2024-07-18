@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 106588
+revid: 106684
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies, Pages with broken file links]
@@ -41,8 +41,6 @@ _†A Resonance is only required to go through the doors, if you go through the 
 ## Moveset
 
 Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as his weapon.
-
-(Please fill in the media section if you have footage of the fight.)
 
 <table><caption></caption>
 <tbody>
