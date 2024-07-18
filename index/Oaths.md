@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 106698
+revid: 106714
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -63,7 +63,6 @@ Upon breaking an Oath, unique effects will occur:
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
-    -   _**DOWNSIDES MIGHT BE FALSE, I TESTED THIS AND MY REP WAS STILL FRIENDS AND I WAS ALSO ABLE TO GET THE OATH BACK IF THAT MATTERS. KLARIS DID CALL ME A FLAKE THOUGH. I CAN UPLOAD PROOF LATER IF NEEDED.**_
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
     -   This oath does not become locked after being broken.
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."

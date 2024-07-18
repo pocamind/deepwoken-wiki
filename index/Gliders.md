@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 97140
+revid: 106719
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -32,6 +32,8 @@ The Glider can only be crafted at a [Crafting Station](Crafting_Station.md) or u
 The Sharkscale Glider can also only be built at a Crafting Station or with the Master Craftsman Talent, and must be crafted with two Sticks and two Megalodaunt Hides.
 
 The Flimsy Glider can't be crafted, it is only usable in the [Battle Royale](Battle_Royale.md) gamemode.
+
+note: you no longer need a schematic to craft the glider
 
 ## Usage
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106524
+revid: 106716
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1131,6 +1131,7 @@ _**"I seek the qualities of Heat Column."**_
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
+        -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   The time you are knocked, as in having 0 health, is increased (tested with 100 Willpower and Perseverance before & after having the talent)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
