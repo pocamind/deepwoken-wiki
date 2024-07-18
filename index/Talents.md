@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106716
+revid: 106791
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1621,6 +1621,8 @@ _**"I seek the qualities of Lichtenberg."**_
 -   _**Murmur: Rhythm** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
 
+john shoelace : this talent allows you to beocome johnny shoelacing, you will then bust uncontrollably
+
 -   _**Murmur: Tacet** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
     -   Prerequisite: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md)
 
@@ -2405,6 +2407,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek to embrace the instability of lightning as a source of power."**_
 
+-   Battery Sapper \[Common Talent, Dual Attunement\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 

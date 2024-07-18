@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 105150
+revid: 106780
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,6 +34,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ## Progression
 
 Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume [Vibrant Gem](Mantra_Modifiers.md) and [Pluripotent Alloy](Pluripotent_Alloy.md). Might be a bug.
+
+## Effects
+
+This oath makes the Perpetual Distillery appear on your character's arm.
 
 ## Talents
 

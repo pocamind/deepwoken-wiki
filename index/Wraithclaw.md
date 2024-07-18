@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106693
+revid: 106789
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -62,9 +62,7 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 -   [The Depths (Scyphozia)](First_Layer.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 
-The NPC requires 75 [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
-
-There is a high likelyhood that there are more requirements than just 75 gale, as for many people the npc spawns on them within 10 minutes, and for others it never spawns, even if they have gale uncapped.
+The NPC requires Uncapped [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
 
 ## Trivia
 

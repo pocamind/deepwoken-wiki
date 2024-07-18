@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 103214
+revid: 106793
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -187,6 +187,14 @@ _verb_
 
 1.  When a passive talent or ability activates
     1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (talent) to proc.
+
+  
+**Void/Voiding**
+
+_verb_
+
+1.  _T_he action of jumping into the void in layer 1 of the depths while above 50% hp, to avoid getting wiped by a mob or player.
+    1.  Ex. "Someone is attacking me, im gonna void_"_
 
 ### Spin back/Spinback
 

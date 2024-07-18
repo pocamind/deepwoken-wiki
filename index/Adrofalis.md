@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 106243
+revid: 106788
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

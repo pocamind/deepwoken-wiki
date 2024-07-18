@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Laboratory"
-revid: 100883
+revid: 106782
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Laboratory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
