@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 105119
+revid: 106864
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -32,7 +32,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   The Voice of Solitude declares that you _"**discard your possessions**"_ before the first trial, in which you are forced to do so before continuing.
     -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfits.md) you are wearing will have its durability completely drained, and any equipped armors will be stripped right off you, and will not be returned at the end of the trial - including any consumables in your inventory such as potions or food.
 -   You must use all of the free points given to you to power up and get a hand of cards. Once you pick a card, the next challenge will begin.
--   if you are an adret, and you've chosen to use the autoaddict boon, you are kicked out of the trial early after completing the final trial, losing out of 10 free points.
+-   Having have used too much points (training equipment mid trial, extra autodidact points, etc.) the campfire orb will not come down with more points.
 
 ## Challenges
 
@@ -115,6 +115,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resistance.
 -   if you spawn in to the trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with talents/mantra choosing early on.
 -   If one angel dies the other despawns, allowing you to instantly win the angel trial. This can be done by burning a knocked angel.
+-   Using frostdraw and flamecharm for wardens blade and flame repulsion will get you extra damage and can burn the angels. By using wardens blades then critical when the npc spawns will do alot of damage and help
 
 ## Trivia
 

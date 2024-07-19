@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 103693
+revid: 106857
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -468,7 +468,7 @@ _Main article: [Status Effects](Status_Effects.md)_
 
 The Alliance mechanic assists players in minimizing damage from friendly fire, rather than a complete damage immunity mechanic typically found in other games. In _Deepwoken_, the game runs an "ally check" when calculating damage or deciding to proc abilities. Players and NPCs considered allies will receive less damage dealt by you. Some [Talents](Talents.md) increase this effect further and can also proc additional effects.
 
-Allies can view messages from you anywhere in a server through Shouts. In Dungeons and other instanced servers, all messages are automatically shouted to other allies in the server. In public servers, you can send a shout by prefixing your message with an exclamation mark (!). For example: "!give me 30,000 notes".
+Allies can view messages from you anywhere in a server through Shouts. In Dungeons and other instanced servers, all messages are automatically shouted to other allies in the server. In public servers, you can send a shout by prefixing your message with an exclamation mark (!). For example: "!give me 30,000 notes". It can also work through allies with **Vow of Allegiance**.
 
 If you are in a [guild](Guilds.md), all other members of that guild are treated as allies. You can form alliances with players outside of your guild through a **Vow of Allegiance**. To form a Vow of Allegiance, you must say "Wanna make a vow of allegiance \[name\]?" near your target. The target can accept the vow by saying "yes", which will then show the confirmation window. There are no stat or talent requirements to make this vow. Vows of Allegiance persist on the slot (not to be confused with the Character or Account), and each slot can only form 50 allegiances. You can break your Vows of Allegiance through a Yun’Shul wish (you must make this wish at the [Temple of Hearts](Temple_of_Hearts.md) as the [Idol of Yun'Shul](Relics.md) does not have this option). However, this breaks _**ALL**_ vows made on the slot.
 

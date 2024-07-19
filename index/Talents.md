@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106791
+revid: 106863
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1138,7 +1138,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
-    -   Spotter / Tacet Talent no longer shows how much health your character has.
+    -   Spotter (for your opponent's allies) / Rhythm no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
