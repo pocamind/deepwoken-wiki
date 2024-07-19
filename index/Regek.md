@@ -1,9 +1,9 @@
 ---
 title: Regek
-revid: 104254
+revid: 106835
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Spelltrainers, NPCs]
+categories: [Spelltrainers, NPCs, The Hive]
 ---
 
 # Regek

@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 104140
+revid: 106817
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -38,3 +38,4 @@ The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Gua
 -   When held, the light deactivates, showing empty space rather than some sort of projector.
 -   Immortality can even protect the user from moves that instantkill instead of knocking such as the [Lionfish's](Lionfish.md) Cero.
 -   The only currently known attack that can bypass Immortality's invincibility is the Mantra Prediction, which knocks as normal on proc.
+-   Fall damage with the high velocity echo prevents immortality from activating.

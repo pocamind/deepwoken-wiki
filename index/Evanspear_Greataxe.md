@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 105934
+revid: 106844
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -22,7 +22,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from Legion Captains, Crimson and Corrupt Terrapods.Can spawn inside Layer 2 (Eternal Gale) chests, Primadon. |
+| obtainment | Rare Drop from Legion Captains, Crimson and Corrupt Terrapods.Can spawn inside Layer 2 (Eternal Gale) chests. |
 
 ## Description
 
