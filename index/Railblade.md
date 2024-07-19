@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 104770
+revid: 106806
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical]
@@ -44,7 +44,7 @@ The flames emitted by the critical will proc burn and respective Flamecharm tale
 ## Trivia
 
 -   The Railblade was originally a Legendary Weapon, but was demoted during the 4/5/2024 update.
--   It is one of seven known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Deepspindle](Deepspindle.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), and the [Wyrmtooth](Wyrmtooth.md).
+-   It is one of nine known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Deepspindle](Deepspindle.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Wraithclaw](Wraithclaw.md), and the [Wyrmtooth](Wyrmtooth.md).
 -   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by contributor oNoodlez.

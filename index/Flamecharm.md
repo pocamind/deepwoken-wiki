@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 106720
+revid: 106798
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -289,28 +289,23 @@ _A rising tornado of flames._
 -   Does not send the user vertically into the air if no targets are hit.
 
  |
-| TBA | 
+| 
 
-  
+ | 
 
-  
 Flare Volley
 
 (★★☆)
 
- | Conjure up to 3 fireballs to vollery at your enemies | User releases a small projectile fireball and sets enemy on fire if hit
+ | 
 
-Deals high posture damage
+_Conjure up to 3 fireballs to vollery at your enemies._
 
-This mantra can pass through walls or
+ | User releases a small projectile fireball and sets enemy on fire if hit
 
-There are many bugs, such as cooldown effects that have not returned but appear to have returned.
-
-(WORK IN PROGRESS)
-
-  
-
-  
+-   Deals high posture damage.
+-   This mantra can pass through walls.
+-   There are many bugs, such as cooldown effects that have not returned but appear to have returned.
 
  |
 | 

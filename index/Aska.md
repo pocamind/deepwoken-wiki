@@ -1,9 +1,9 @@
 ---
 title: Aska
-revid: 106684
+revid: 106809
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies, Pages with broken file links]
+categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
 ---
 
 # Aska
@@ -23,7 +23,7 @@ A [Flamecharm](Flamecharm.md)\-wielding miniboss found in Firfire, located in a 
 
 Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will start burning to death until you wipe.
 
-There is a way to skip the Aska fight, though it is currently unknown.[\[1\]](#cite-note-1)
+If you do meet the requirements while having the Destined Echo modifier, Aska will still attempt to burn you to death, you will however survive and receive the weapon afterward, skipping the fight.
 
 ## Requirements
 
@@ -141,28 +141,28 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="15">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ashes to ashes, dust to dust</td>
+  <td colspan="15">Ashes to ashes, dust to dust</td>
 </tr>
 <tr>
-  <td colspan="12">...</td>
+  <td colspan="15">...</td>
 </tr>
 <tr>
-  <td colspan="12">Ah... I-is that you, Pleeksty?</td>
+  <td colspan="15">Ah... I-is that you, Pleeksty?</td>
 </tr>
 <tr>
   <td colspan="6">I am not the one you have been waiting for.</td>
-  <td colspan="6">I believe you have something that belongs to me.</td>
+  <td colspan="9">I believe you have something that belongs to me.</td>
 </tr>
 <tr>
   <td colspan="6">Oh... Of course... If by some chance you see him, let him know... Let him know that I still wait.</td>
-  <td colspan="6">You came back... I have been a waiting your return... All this time.. It pains me to meet you in this state, my lord.</td>
+  <td colspan="9">You came back... I have been a waiting your return... All this time.. It pains me to meet you in this state, my lord.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
-  <td colspan="6">[Take the Weapon]</td>
+  <td colspan="9">[Take the Weapon]</td>
 </tr>
 <tr>
   <td colspan="6"></td>
@@ -170,9 +170,11 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <b>[Didn't meet requirements and sets you on fire]</b></td>
   <td colspan="3">Though.. If you really are Pleeksty... Then you should have no trouble putting this old servant out of their long service.<br>
   <b>[Did meet requirements, starting a fight with Aska]</b></td>
+  <td colspan="3">Our fates, finally crossing once more... And mine, coming to an end...<br>
+  <b>[Did meet requirements with the Destined echo modifier, sets you on fire but lets you survive and grant the weapon]</b></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="15">End</td>
 </tr>
 </tbody>
 </table>
@@ -199,9 +201,3 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
     -   [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
     -   Hair ID: 6101425666 _(same as [Maestro Evengarde Rest's](Evengarde_Rest.md))_
     -   Aska's Outfit is dyed orange in-game.
-
-1.  [↑](#cite-ref-1)
-    
-    File:Aska CAN be skipped.png
-    
-    Proof that Aska can be skipped, we just dont know how

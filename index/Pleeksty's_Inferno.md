@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 106656
+revid: 106803
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -60,6 +60,7 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 3.  Head to [Firfire](Firfire.md) and approach the cliff behind it. You know you are at the right cliff if you see orange particles.
 4.  Jump down to the small ledge near the Kyrsgarde. Do some parkour and head over to a small cave with 3 Orange Resonance Doors that require a [Resonance](Resonance.md), and 75 Flamecharm. You can still clip through these doors, but is dangerous because the last door could make you fall into the void and wipe.
 5.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will wipe immediately through burning.
+    1.  Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
 
 ## Trivia
 
