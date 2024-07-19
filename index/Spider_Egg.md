@@ -1,6 +1,6 @@
 ---
 title: Spider Egg
-revid: 106617
+revid: 106813
 source: https://deepwoken.fandom.com/wiki/Spider_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -15,5 +15,7 @@ Spider eggs are common in Lower Erisia. They are found in low spaces such as cav
 For those wanting to farm spider eggs, server hopping with the [Harvester](Talents.md#prospector) talent is generally the fastest.  
 Known Spider Egg Spawns:  
 \- 2 In a cave in Lower Erisia, where Mudskippers are scripted to spawn  
+\- 2 In Towerstruck Lands, 1 Next to Arthur, and 1 at the doorway closest to the tower at the entrance.  
+\- 1 At Erisor's Church, next to the guild banner.  
 \- 1 at Vigils, inside a hollow log near the Banker/Antiquarian  
 \- 7 at [Widow's Hollow](<Widow's_Hollow.md>) (Can be gathered without alerting Widow in most cases)

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 106793
+revid: 106815
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -80,13 +80,15 @@ _verb_
 
 _verb_
 
-1.  To stop your while swinging, used to bait people to parry. Can be done by pressing M2 right after initiating your M1 attack.
+1.  To stop your weapon or mantra windup while swinging, used to bait people to parry which make them unable to parry the next immediate attack you use. Successfully done can make your opponent block your next attack, messing up their parry timing and increasing their posture. Can be performed by pressing M2 right after initiating your M1 attack.
+2.  "You can't just hit me while I'm feinting!!!"
 
 ### Flourish
 
 _verb_
 
 1.  To use the fourth attack of your weapon, knocking your opponent back.
+2.  "The freshie died to a single flourish from my SilentHeart detonation Perta's Anchor build."
 
 ### Gank
 
