@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106863
+revid: 106865
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1620,8 +1620,6 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   _**Murmur: Rhythm** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
-
-john shoelace : this talent allows you to beocome johnny shoelacing, you will then bust uncontrollably
 
 -   _**Murmur: Tacet** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
     -   Prerequisite: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md)

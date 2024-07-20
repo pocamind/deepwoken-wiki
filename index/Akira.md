@@ -1,9 +1,9 @@
 ---
 title: Akira
-revid: 106398
+revid: 106874
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Divers, Layer 1]
 ---
 
 # Akira

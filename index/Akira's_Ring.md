@@ -1,9 +1,9 @@
 ---
 title: "Akira's Ring"
-revid: 103216
+revid: 106880
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Rings]
+categories: [Armors, Equipment, Rings, The Divers]
 ---
 
 # Akira's Ring
