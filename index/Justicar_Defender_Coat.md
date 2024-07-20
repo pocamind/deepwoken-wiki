@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 96222
+revid: 106913
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aelita (10%), King Threshers (~1%), Corrupt King Threshers (~3%) |
+| obtainment | Chests from:Aelita (10%), King Threshers (~1%), Ferryman (Summer), Corrupt King Threshers (~3%) |
 | description | ... |
 
 ## Description

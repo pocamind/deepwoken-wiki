@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 105851
+revid: 106929
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -199,7 +199,7 @@ The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning 
     -   Spring - One [Knowledge](Knowledge.md). Repeatable. He speaks about him being a Krulian, Enlightening you.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Justicar Schematic,** **Stormseye,** **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
-    -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
+    -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted. Subsequent defeats also award an [Aelita](Aelita.md) chest.
 
 Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 106865
+revid: 106909
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1644,7 +1644,7 @@ _**"I seek the qualities of Lichtenberg."**_
         -   Despite the talent description saying "With a shield", blocking without a shield equipped will still make the talent work, thus removing slowdown on blocking completely.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
-    -   Prerequisites: Fists, 20 Fortitude
+    -   Prerequisites: Fists, 20 Fortitude, 20 LHT
     -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
     -   The Cooldown is 1 minute and 10 seconds.
     -   This Talent also works with [Jus Karita](Jus_Karita.md)

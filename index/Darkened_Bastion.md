@@ -1,11 +1,9 @@
 ---
 title: Darkened Bastion
-revid: 105882
+revid: 106922
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Armors, Items, Outfits]
 ---
 
 # Darkened Bastion

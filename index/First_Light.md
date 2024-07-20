@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 103995
+revid: 106902
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical]
@@ -15,12 +15,12 @@ categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical
 | damage | 25.5 |
 | scaling | 8 HVY |
 | range | 8.5 |
-| swing speed | 0.83x |
+| swing speed | 0.82x |
 | endlag | 0s |
 | penetration | 30% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 10 |
+| weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
