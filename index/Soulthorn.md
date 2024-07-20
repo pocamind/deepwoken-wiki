@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 106958
+revid: 106986
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -13,15 +13,15 @@ notices:
 | Soulthorn | |
 |---|---|
 | type | Sword |
-| requirements | 80 Med, 40 Int, Power 10. |
+| requirements | 80 MED, 40 INT, Power 10 |
 | damage | 17 |
 | scaling | 7 Medium, 3.5 Intelligence |
 | range | 7.5 |
-| swing speed | x1.02 |
+| swing speed | 1.02x |
 | endlag | n/a |
 | penetration | 30% |
 | chip damage | 30% |
-| special effect | n/a |
+| special effect | Every M1 of Soullthorn applies a soul stack to the victim, 3 at max. |
 | stances | 2 Handed, 1 Handed |
 | selling price | n/a |
 | weight | 5 |
@@ -34,16 +34,25 @@ notices:
 
 ## Description
 
-**This weapon hasn't been found yet please wait for further updates.**
+Can be obtained from the chest dropped from the Moon Knight in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>), though it's rare.
 
-  
+## Gallery
 
-## Obtainment
+### Criticals
 
-obtainment not fully known yet, all we know is that there is an island that is supposedly in the east luminant, right of E on the compass.
+The Soulthorn has 3 critical variants depends on the amount of soul stacks on your opponent.
 
-Said island is named the [Moon's Eyrie](<Moon's_Eyrie.md>)
+Every M1 of Soullthorn applies a soul stack, 3 at max. At max stacks your opponent will have a glowing aura.
+
+No stack: Nothing happens
+
+1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you.
+
+3 stacks: Teleports to your opponent and unleash many slashes to them.
 
 ## Trivia
 
 -   Soulthorn is the first Unique rarity weapon
+-   Strangely, it is bankable while Nocturne[\[1\]](#cite-note-1) isn't.
+
+1.  [↑](#cite-ref-1) [Nocturne](Nocturne.md)

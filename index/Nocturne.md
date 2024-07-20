@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 106959
+revid: 106981
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress without reason, InProgressPages]
@@ -13,7 +13,7 @@ notices:
 | Nocturne | |
 |---|---|
 | type | Sword |
-| requirements | 90 Med, Power 10 |
+| requirements | 90 MED, Power 10 |
 | damage | 19 |
 | scaling | 8 |
 | range | 7.5 |
@@ -30,4 +30,16 @@ notices:
 
 ## Description
 
-The **Nocturne** is a legendary (?) medium weapon exclusively found in the Moon's eyeris island located east of the compass at the Eastern Luminant. It is dropped by the Moon Knight rarely from his boss chest.
+The **Nocturne** is a medium weapon exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the Moon Knight rarely from his boss chest.
+
+## Gallery
+
+### Criticals
+
+Stabs your opponent and applies a moonseye symbol on them, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
+
+## Trivia
+
+-   Nocturne is enchantable
+
+-   Nocturne cannot be banked or dropped

@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 106947
+revid: 106962
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -14,7 +14,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura.
+Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have a _**chance**_ to to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart.
 
 ## **Moveset**
 
