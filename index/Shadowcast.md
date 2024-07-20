@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 106492
+revid: 106999
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -107,6 +107,7 @@ Shadow Eruption
 
 -   Unaffected by Glass & Magnifying Stones.
 -   Although, Stratus Stones and Cloud Stones do increase the size of the eruption.
+-   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
 
  |
 | 

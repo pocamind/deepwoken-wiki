@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 106986
+revid: 107016
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -21,7 +21,7 @@ notices:
 | endlag | n/a |
 | penetration | 30% |
 | chip damage | 30% |
-| special effect | Every M1 of Soullthorn applies a soul stack to the victim, 3 at max. |
+| special effect | Every M1 applies a soul stack to the target, capping at 3 stacks. |
 | stances | 2 Handed, 1 Handed |
 | selling price | n/a |
 | weight | 5 |
@@ -34,25 +34,24 @@ notices:
 
 ## Description
 
-Can be obtained from the chest dropped from the Moon Knight in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>), though it's rare.
+The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>), though it's rare.
 
-## Gallery
-
-### Criticals
+## Critical
 
 The Soulthorn has 3 critical variants depends on the amount of soul stacks on your opponent.
 
-Every M1 of Soullthorn applies a soul stack, 3 at max. At max stacks your opponent will have a glowing aura.
+Every M1 of Soulthorn applies a soul stack, 3 at max. At max stacks your opponent will have a glowing aura.
 
 No stack: Nothing happens
 
 1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you.
 
-3 stacks: Teleports to your opponent and unleash many slashes to them.
+3 stacks: Teleports to your opponent and unleash multiple slashes
 
 ## Trivia
 
--   Soulthorn is the first Unique rarity weapon
+-   Soulthorn is the first Unique rarity weapon.
+-   Sitting at the middle of the crossguard features a spherical object similar to the [pieces of The Forge](Artifacts.md), or preferably [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
 -   Strangely, it is bankable while Nocturne[\[1\]](#cite-note-1) isn't.
 
 1.  [↑](#cite-ref-1) [Nocturne](Nocturne.md)

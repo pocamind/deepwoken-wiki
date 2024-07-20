@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 106867
+revid: 107011
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -960,6 +960,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>32</td>
 </tr>
 <tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Soulthorn"><font>Soulthorn</font></a></td>
+  <td>85 MED, 40 INT, LVL 10</td>
+  <td>17</td>
+  <td>30%</td>
+  <td>30%</td>
+  <td>MED: 7, INT: 3.5</td>
+  <td>5</td>
+  <td>7.5</td>
+  <td>1.02x</td>
+  <td>35.6</td>
+</tr>
+<tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
   <td>90 MED, LVL 10</td>
   <td>20</td>
@@ -970,7 +982,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>8</td>
   <td>0.98x</td>
   <td>34.6</td>
-  <td></td>
+</tr>
+<tr>
+  <td><a href="Nocturne.md">Nocturne</a></td>
+  <td>90 MED, LVL 10</td>
+  <td>19</td>
+  <td>30%</td>
+  <td>N/A</td>
+  <td>MED: 8</td>
+  <td>5</td>
+  <td>7.5</td>
+  <td>1.02x</td>
+  <td>34.8</td>
 </tr>
 </tbody>
 </table>

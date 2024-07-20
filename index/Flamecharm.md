@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 106798
+revid: 107000
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -79,6 +79,7 @@ _An exertion of flames._
 -   Unable to move during wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
+-   Pretty similar to [Shadowcast's Shadow Eruption](Shadowcast.md), but with knockback.
 -   User takes reduced damage and has hyper-armor near the end of the cast.
 -   Taking damage while using it reflects the damage back to the attacker.
     -   The damage is stored in the Flame Repulsion itself.

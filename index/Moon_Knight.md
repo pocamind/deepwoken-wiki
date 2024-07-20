@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 106962
+revid: 106989
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]

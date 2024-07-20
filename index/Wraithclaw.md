@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 106965
+revid: 107012
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -45,7 +45,7 @@ Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talen
 
 The Wraithclaw has **two** criticals.
 
-For the **standing** critical, the user windups into a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack cannot be cancelled by user themselves, and instead cancels after receiving damage or getting parried.
+For the **standing** critical, the user windups into a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack can be cancelled by user themselves by pressing M2, and additionally cancels after receiving damage or getting parried.
 
 For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md).
 
@@ -75,8 +75,7 @@ The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiat
 -   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary fists weapon that ever have been added into the game.
     -   Furthermore, it is the first fists Legendary that scales off an attunement.
     -   Despite it having Slash damage type, this weapon has no innate bleed.
--   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup, but do keep in mind that the range is also low, meaning that it's overall on par with any other aerial Critical Attack if used in a mix-up, but incredibly hard to use standalone.
+-   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
--   The standing critical attack, despite being a multi-hit, has a great windup with low range and is not cancellable, so if you're not using it within the range and/or if your opponent has rolled out of it, you could be punished greatly because of the slowdown applied on the critical attack use.
-    -   The standing critical attack is overall, a worse [Imperial Staff](Imperial_Staff.md) Running Critical Attack, which are both similar to each other, but balancing & mix-up wise, one is more superior.
+-   The standing critical attack's main weakness of low range & great windup could be countered by early critical attack feint, which adds more options to mixups, but do keep in mind that cancelling the critical attack puts you in a small endlag.
     -   The critical attack is also extremely slow and delayed on servers that are lagging and could bring more harm than good to the user.

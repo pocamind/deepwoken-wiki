@@ -1,9 +1,9 @@
 ---
 title: Nocturne
-revid: 106981
+revid: 107013
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -30,16 +30,25 @@ notices:
 
 ## Description
 
-The **Nocturne** is a medium weapon exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the Moon Knight rarely from his boss chest.
+The **Nocturne** is a medium weapon, exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the [Moon Knight](Moon_Knight.md) rarely from his boss chest.
 
-## Gallery
-
-### Criticals
+## Critical
 
 Stabs your opponent and applies a moonseye symbol on them, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
 
 ## Trivia
 
--   Nocturne is enchantable
+-   Nocturne is enchantable.
+-   Nocturne can be used with a side weapon (Although this is most likely a bug).
+-   Nocturne cannot be banked or dropped.
+-   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+-   The Nocturne is most likely inspired off of _[Rellana's Twin Blades](https://eldenring.wiki.fextralife.com/Rellana%27s+Twin+Blades) from Elden Ring._
+    -   Similarly, the stance for Nocturne closely resembles [Rellana's](https://eldenring.wiki.fextralife.com/Rellana+Twin+Moon+Knight) stance.
 
--   Nocturne cannot be banked or dropped
+## Gallery
+
+File:Nocturne Full Stance.png
+
+Full view of the duel wielding stance.
+
+Close up view of one of the swords.

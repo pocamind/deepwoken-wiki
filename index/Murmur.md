@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 106594
+revid: 107014
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -61,6 +61,8 @@ Template:ImageCaption Infobox_"An application of the song that enables the user 
 
 **Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduces (or even negate in some scenarios) the aggro range of enemies. Activation is indicated by an inward ring and a fade-out noise, while deactivation with an outward ring and a fade-in noise.
 
+**BE WARNED:** Tacet in PvP scenarios may not prove reliable, as it may end up not even making you invisible upon use, instead just showing you crouching and moving as if it weren't active.
+
 The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet.
 
 You will also have a small window of 3 seconds (1.5s if you run) in which you can stand without losing Tacet, this allows you to move more agilely, climb walls and do parkour in general.
@@ -93,12 +95,6 @@ A screenshot of the Stranger NPC, found by Restative.
 Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The Stranger NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._
-
-  
-
-  
-
-  
 
 ## Murmur: Rhythm
 
