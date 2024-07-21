@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 106945
+revid: 107088
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations]
@@ -16,4 +16,13 @@ A beacon calling out from the Void to the Last Dead above. Dreams are so frequen
 
   
 
-Moon's Eyrie is a Location in Deepwoken found in the [Voidsea](Voidsea.md), located in the East Luminant, to the east of the map's compass.
+Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in the [Voidsea](Voidsea.md), located in the East Luminant approximately to the east of the map's compass.
+
+  
+Has exclusive drops [Nocturne](Nocturne.md) and [Soulthorn](Soulthorn.md), as well as spawning [Moon Knights](Moon_Knight.md) (2 on the island and 1 in the secret room).
+
+This location has 3 stone pillars with a twisting white glow going through them. You can attack these pillars and after enough hits they will no longer have the white glowing and instead will turn black. Once you attack all of the 3 pillars until deactivated, a small door on the island will be openable leading to a room containing 1 [Moon Knight](Moon_Knight.md). Killing it will reward a chest which contains the weapons listed above and some other Moon-related loot such as the Moonseye Tome, the Moon ring, and other random crap.
+
+Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 5% according to Skipper Gripper (take with a grain of salt, it’s Skipper after all)), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md).
+
+Similar to Boatman’s Watch or the Beloved Zofia, this island is not considered a Voidzone despite bring located far into the voidsea. You will not be sent to the depths when dying here at power 15+, nor will your healing be reduced.

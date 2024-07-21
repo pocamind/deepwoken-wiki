@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 107013
+revid: 107084
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -34,16 +34,16 @@ The **Nocturne** is a medium weapon, exclusively found in the [Moon's Eyrie](<Mo
 
 ## Critical
 
-Stabs your opponent and applies a moonseye symbol on them, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
+Stabs your opponent in a short range after a very slow wind-up and applies a moonseye symbol on them, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
+
+Can be cancelled by damage in wind-up.
 
 ## Trivia
 
 -   Nocturne is enchantable.
 -   Nocturne can be used with a side weapon (Although this is most likely a bug).
--   Nocturne cannot be banked or dropped.
+-   Nocturne can't be banked and dropped.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
--   The Nocturne is most likely inspired off of _[Rellana's Twin Blades](https://eldenring.wiki.fextralife.com/Rellana%27s+Twin+Blades) from Elden Ring._
-    -   Similarly, the stance for Nocturne closely resembles [Rellana's](https://eldenring.wiki.fextralife.com/Rellana+Twin+Moon+Knight) stance.
 
 ## Gallery
 

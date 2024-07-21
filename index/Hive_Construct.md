@@ -1,9 +1,9 @@
 ---
 title: Hive Construct
-revid: 106830
+revid: 107071
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, The Hive]
+categories: [Monsters, The Hive, Hive Enemies]
 ---
 
 # Hive Construct

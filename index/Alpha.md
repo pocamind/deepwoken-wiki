@@ -1,9 +1,9 @@
 ---
 title: Alpha
-revid: 106414
+revid: 107051
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1, Quests]
+categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1, Quests, The Ignition Union]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 106274
+revid: 107023
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ _Also known as Crocodiles, Crocs, Crocco, and many other crocodile names._ Templ
 
 ## Description
 
-Blind and using their amazing sense of smell to find prey, Threshers are hostile crocodilians that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a [Thresher Spine](Thresher_Spine.md) and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
+Blind and using their amazing sense of smell to find prey, Threshers are hostile crocodilians that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the [King Thresher](King_Thresher.md) as a family of Threshers. It drops a [Thresher Spine](Thresher_Spine.md) and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 106989
+revid: 107028
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -14,7 +14,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have a _**chance**_ to to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart.
+Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that may have another chance of obtaining an Astral.
 
 ## **Moveset**
 
@@ -44,17 +44,12 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
-**Terra Eruption**
+**Moonscorch Terra Eruption**
 
- | Punches the ground, causing a pillar to erupt below the player.
+ | Punches the ground, causing a pillar to erupt below the player, **followed by a rain of white flaming javelins from the sky**, similar to the critical attack of the [First Light](First_Light.md).
 
--   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
+-   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by the pillar summoned by Moonscorch Terra Eruption first.**
 
  | ✗ | ◯\* | ◯ | (★★☆) |
-| 
-
-**Moon Rain**
-
- | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical. | ✗ | ◯\* | ◯ | (★★☆) |
 
 \* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture

@@ -1,9 +1,9 @@
 ---
 title: Ignition Union Arcwarder
-revid: 106418
+revid: 107060
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths]
+categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Ignition Union, Ignition Union Enemies]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
