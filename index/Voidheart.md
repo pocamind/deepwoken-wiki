@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 107124
+revid: 107127
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -68,4 +68,4 @@ A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspac
     -   This has been partially confirmed, as there is now a chess board there.
     -   The chess board is 100% accurate to real [chess](Chessboard.md), it's just that the pieces have been replaced by Deepwoken monsters.
 -   It is very common to get attacked in the Voidheart, even though it is seen as dishonorable to do so.
-    -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak that resulted in them getting removed.
+    -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak/server crash that resulted in them getting removed.

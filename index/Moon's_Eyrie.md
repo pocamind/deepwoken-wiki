@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 107118
+revid: 107152
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations]
@@ -21,8 +21,8 @@ Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in
   
 Has exclusive drops [Nocturne](Nocturne.md) and [Soulthorn](Soulthorn.md), as well as spawning [Moon Knights](Moon_Knight.md) (2 on the island and 1 in the secret room).
 
-This location has 3 stone pillars with a twisting white glow going through them. You can attack these pillars and after enough hits they will no longer have the white glowing and instead will turn black. Once you attack all of the 3 pillars until deactivated, a small door on the island will be openable leading to a room containing 1 [Moon Knight](Moon_Knight.md). Killing it will reward a chest which contains the weapons listed above and some other Moon-related loot such as the Moonseye Tome, the Moon ring, and other random crap.
+This location has 3 stone pillars with a twisting white glow going through them. You can attack these pillars and after enough hits they will no longer have the white glowing and instead will turn black. Once you attack all of the 3 pillars until deactivated, a small door on the island will be openable leading to a room containing 1 [Moon Knight](Moon_Knight.md). Killing it will reward a chest which contains the weapons listed above and some other Moon-related loot such as the [Moonseye Tome](Moonseye_Tome.md), the [Moon ring](Equipment.md), and other random things.
 
 Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 5% according to Skipper Gripper (take with a grain of salt, it’s Skipper after all)), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md).
 
-Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), this island is not considered a [Voidzone](Voidzones.md) despite bring located far into the Voidsea. You will not be sent to the depths when dying here at power 15+, nor will your healing be reduced.
+Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), this island is not considered a [Voidzone](Voidzones.md) despite bring located far into the [Voidsea](Voidsea.md). You will not be sent to the depths when dying here at power 15+, nor will your healing be reduced.
