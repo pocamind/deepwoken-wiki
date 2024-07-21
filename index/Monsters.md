@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 106358
+revid: 107105
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -46,7 +46,7 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be Attuned.
 
-Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Thunder Nautilodaunts](Nautilodaunt.md) or [Crimson Megalodaunts](Megalodaunt.md)). In these cases, they are only able to become attuned with that type of Attunement effect.
+Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Fury Nautilodaunts](Fury_Nautilodaunt.md) or [Crimson Megalodaunts](Crimson_Megalodaunt.md)). In these cases, they are only able to become attuned with that type of Attunement effect.
 
 Certain Monsters have unique visual effects when attuned.
 

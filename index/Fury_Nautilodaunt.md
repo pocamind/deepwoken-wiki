@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 106317
+revid: 107098
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 
 | Name | Description | Parryable? | Blockable | Dodgable | Danger |
 | --- | --- | --- | --- | --- | --- |
-| **Electro-Fury** | All of Nautilodaunt's attacks now apply Electrify. Removing hyper-armor and applying true-stun. | N/A | N/A | N/A | (★★★★) |
+| **Fury-Fists of Thunder!** | All of Nautilodaunt's attacks now apply **Electrify**. Removing hyper-armor and applying true-stun. | N/A | N/A | N/A | (★★★★) |
 | **Punch** | The Fury Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | ◯ | ◯ | (★★☆) |
 | **Kick** | Fury Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick. | ◯ | ◯ | ◯ | (★★☆) |
 | **Flip- Kick** | Fury Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | ? | ◯ | (★★★) |

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 107011
+revid: 107116
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -961,7 +961,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Soulthorn"><font>Soulthorn</font></a></td>
-  <td>85 MED, 40 INT, LVL 10</td>
+  <td>80 MED, 40 INT, LVL 10</td>
   <td>17</td>
   <td>30%</td>
   <td>30%</td>
@@ -1157,7 +1157,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><font>MED: 7</font></td>
   <td>5</td>
   <td>9</td>
-  <td><font>0.69x</font></td>
+  <td><font>0.92x</font></td>
   <td>32.9</td>
 </tr>
 <tr>

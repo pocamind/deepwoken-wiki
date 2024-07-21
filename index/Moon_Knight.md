@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 107028
+revid: 107109
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -44,12 +44,21 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
-**Moonscorch Terra Eruption**
+**Maledicta Terra**
 
- | Punches the ground, causing a pillar to erupt below the player, **followed by a rain of white flaming javelins from the sky**, similar to the critical attack of the [First Light](First_Light.md).
+ | Punches the ground, causing a pillar to erupt below the player. The next attack from the stone-knight is usually guaranteed if this goes off. | ✗ | ◯\* | ◯ | (★★☆) |
+| 
 
--   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by the pillar summoned by Moonscorch Terra Eruption first.**
+**Moonscorched Blades**
 
- | ✗ | ◯\* | ◯ | (★★☆) |
+ | Causes a rain of white flaming javelins from the sky**, similar to the critical attack of the [First Light](First_Light.md).**
 
-\* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture
+-   Ironically these deal wind damage.
+
+ | ✗ | ◯ | ◯ | (★☆☆) |
+
+\* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture.
+
+## Tips
+
+In order to maximise your chance in order to get an Astral enchantment stone, make a build with [Vow of Thorns](Echoes.md), and [Lootskipper](Talents.md), and run around the Eylis in order to maximise drop chances.
