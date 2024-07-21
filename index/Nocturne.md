@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 107120
+revid: 107123
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -30,7 +30,7 @@ notices:
 
 ## Description
 
-The **Nocturne** is a medium weapon, exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the [Moon Knight](Moon_Knight.md) rarely from his boss chest.
+The **Nocturne** is a medium weapon, exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the [Moon Knight](Moon_Knight.md) commonly from his boss chest.
 
 ## Critical
 

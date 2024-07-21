@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 106447
+revid: 107124
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -44,6 +44,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items
 -   [Mystic](Mystic.md)
 -   A Table, which acts as a campfire.
+-   A [Banker](Banker.md)
 
 ## Lore
 
