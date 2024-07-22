@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 107062
+revid: 107714
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -10,7 +10,7 @@ categories: [Oaths, The Ignition Union]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 25 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 “ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
@@ -19,7 +19,7 @@ categories: [Oaths, The Ignition Union]
 
 ## Description
 
-**[Oath](Oaths.md): Arcwarder** is one of the 12 obtainable Oaths in _Deepwoken._ It heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however as dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
+**[Oath](Oaths.md): Arcwarder** is one of the 13 obtainable Oaths in _Deepwoken._ It heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however as dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
 
 ## Obtainment
 

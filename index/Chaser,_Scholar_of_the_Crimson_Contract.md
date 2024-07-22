@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 106877
+revid: 107696
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -208,6 +208,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
 -   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
+-   **Despite having visual armor, he has 0% resistance which making PEN stat useless against him. (Same to other humanoid bosses)**
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
 -   The Triple Blood Wave move used by Chaser closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.

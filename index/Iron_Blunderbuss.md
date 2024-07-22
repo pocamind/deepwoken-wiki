@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 106749
+revid: 107718
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -11,22 +11,22 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 | Iron Blunderbuss | |
 |---|---|
 | type | Rifle |
-| requirements | 75 MED |
+| requirements | 80 MED |
 | damage | 20 |
 | scaling | 7 |
 | range | 8 |
-| swing speed | 0.97x |
+| swing speed | 0.63x |
 | endlag | N/A |
 | penetration | 25% |
 | chip damage | N/A |
 | special effect | Behaves like a typical gun, then swings the weapon for a blunt attack. |
 | stances | 2 Handed |
-| weight | 5 |
+| weight | 14 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Summit, Duke Erisia, First Layer, Second Layer, Chaser, Diluvian Mechanism |
+| obtainment | Chests from:, Saramaed Summit, Duke Erisia, First Layer, Second Layer, Chaser, Diluvian Mechanism, Certain Sea events |
 | description | Rustic and shabby in design, this application of Rosen's gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer Company's earliest gunsmithing experiments. |
 
 ## Description

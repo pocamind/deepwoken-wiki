@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 93289
+revid: 107708
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ Villagers
 
 An NPC in Lower Erisia that claims to be the Royal Pathfinder for Erisia. He appears to be wounded, and rests past a boarded up door above the left pass on the left of the staircase. He asks for you to bring him hostages with the stranded outfit. They spawn fairly infrequently in pairs. Handing them in grants you a medium-sized chest, although be noted that it can spawn inside the rock that he sits next to.
 
-When returning villagers to him and completing his Quest, the player can ask questions about Lord Erisia and his weapon. The villager also dies rather than simply despawning. He doesn't kill the [Forgotten Villagers](Forgotten_Villager.md) who don't trust him or the Pathfinder hostage NPC, either indicating the deaths are voluntary, or he's just bugged.
+When returning villagers to him and completing his Quest, the player can ask questions about Lord Erisia and his weapon. The villager also dies rather than simply despawning. He doesn't kill the [Forgotten Villagers](Forgotten_Villager.md) who don't trust him or the Pathfinder hostage NPC, either indicating the deaths are voluntary, or he's just bugged. He has a [Hero Blade of Lightning](Hero_Blades.md) on his back, though it is hard to see.
 
 ## Dialogue Options
 
