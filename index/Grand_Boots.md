@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 104181
+revid: 107607
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]

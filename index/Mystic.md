@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 100013
+revid: 107242
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -21,7 +21,7 @@ categories: [NPCs, Talents]
 
 ## Overview
 
-Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get mantras or cards from the correlating family of talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](Talents.md#mental-fortress) talents. This interaction could be repeated infinite number of times with sufficient number of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
+Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get mantras or cards from the correlating family of Talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](Talents.md#mental-fortress) Talents. This interaction could be repeated infinite number of times with sufficient number of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
 
 -   Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.
 -   Cannot give Rare Talent Cards.
@@ -31,7 +31,7 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 
 ## Dialogue
 
-Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. **Note that Rare Talents are NOT affected by Mystics at all, even if you use Shrine of Chance.** Here are but a few of the possible prompts:
+Each family of Talents has a prompt for it. Note that you can only get prompts for Talent families that you are eligible to get a Talent card from and you may not get all the cards from a family. **Note that Rare Talents are NOT affected by Mystics at all, even if you use Shrine of Chance.** Here are but a few of the possible prompts:
 
 If you do not possess money, the Mystic will bear the dialogue;
 
@@ -203,7 +203,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I seek the qualities of Scrapsinger. **(Scrapsinger)**_
 -   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
 
-### **Dual Attunement**
+### Dual Attunement
 
 -   _I seek the qualities of Lichtenberg. **(Scorched Peak)**_
 -   _I seek the qualities of Heat Column. **(Heat Column)**_

@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 98516
+revid: 107540
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

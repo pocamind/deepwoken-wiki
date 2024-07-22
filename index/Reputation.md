@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 106497
+revid: 107290
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -31,7 +31,7 @@ Certain aspects of the game, such as certain NPCs dialogue or certain quests, re
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
 | Hero | 300 |  |
-| Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) now count as allies to you, allowing them to benefit from "on allies" effect, such as buffs or talent effects. |
+| Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) now count as allies to you, allowing them to benefit from "on allies" effect, such as buffs or Talent effects. |
 | Friend | 1 to 149 |  |
 | Neutral | 0 | N/A |
 | Enemy | ⁣-149 to -1 | NPCs tied to the relevant faction will attack on sight, including town guards.  
@@ -172,6 +172,6 @@ File:Ignition Union.png
 ## Trivia
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
--   The "Celebrity" Charisma talent increases your base reputation with all factions and increases the positive reputation you gain.
+-   The "Celebrity" Charisma Talent increases your base reputation with all factions and increases the positive reputation you gain.
 -   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction. This is negated if you have 51 charisma or more, as they will instead thank you.
--   Most of these downsides to bad reputation can be lessened or weakened by charisma talents.
+-   Most of these downsides to bad reputation can be lessened or weakened by charisma Talents.

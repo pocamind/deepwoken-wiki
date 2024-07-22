@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 106581
+revid: 107261
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -125,7 +125,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
     -   If Primadon does use **Disengage**, quickly close the distance so he doesn't use **Grab** or **Rock Throw**.
     -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.
-    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) talent or survived the fall.
+    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) Talent or survived the fall.
 -   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
     -   Debuffs from Mantras do affect Primadon.
 -   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
@@ -186,8 +186,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   All [Earrings](Equipment.md)
 
 -   [Celtor Commander Plate](Celtor_Commander_Plate.md)
--   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)  
-    
+-   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
 
  | 
 

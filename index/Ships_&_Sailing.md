@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 80798
+revid: 107356
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,9 +23,9 @@ You can buy boats through Shipwright Merchants, normally found at the Docks of T
 Once a boat has been purchased, you can deploy it through a Shipwright Merchant, Shipwright Pole, or the [Seafarer's Chime](<Seafarer's_Chime.md>) tool.
 
 Boats can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. [Repair Hammers](Repair_Hammer.md) will heal ??? health upon being used, but each usage will consume Wood.  
-Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the talent [Emergency Repairs](Talents.md) (+2 Carry Load).  
-Using the [Repair Hammer](Repair_Hammer.md) 50 times will grant the talent [Spare Nails](Talents.md) (+2 Carry Load).  
-Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the talents prerequisites.
+Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the Talent [Emergency Repairs](Talents.md) (+2 Carry Load).  
+Using the [Repair Hammer](Repair_Hammer.md) 50 times will grant the Talent [Spare Nails](Talents.md) (+2 Carry Load).  
+Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the Talents prerequisites.
 
 For more information on Ship Control and Sailing, click [here](Ships_&_Sailing.md).
 

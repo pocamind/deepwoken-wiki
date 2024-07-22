@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 105449
+revid: 107257
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,8 +25,8 @@ categories: [Oaths]
 
 -   Meet the following requirements:
     -   Have 40 Willpower
-    -   Have the 3 talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from talent rolls, not equipment.
-    -   Be blind, either through the **Blinded** talent from Blindfolds or the Blind Flaw.
+    -   Have the 3 Talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment.
+    -   Be blind, either through the **Blinded** Talent from Blindfolds or the Blind Flaw.
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
@@ -40,7 +40,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Progression
 
-To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players with no Oaths, in the Depths Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. A passive talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking).
+To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players with no Oaths, in the Depths Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking).
 
 The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -50,7 +50,7 @@ This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra slots and 10 San
 
 This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
 
-With the stat requirements, the talents, the blinded talent and the Oath Talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depths at no risk.
+With the stat requirements, the Talents, the blinded Talent and the Oath Talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depths at no risk.
 
 ## Abilities
 
@@ -78,7 +78,7 @@ With the stat requirements, the talents, the blinded talent and the Oath Talent 
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portal.
-    -   With this talent, the [Tacet Murmur](Murmur.md#murmur-tacet) is completely nullified, allowing you to see cloaked players normally.
+    -   With this Talent, the [Tacet Murmur](Murmur.md#murmur-tacet) is completely nullified, allowing you to see cloaked players normally.
     -   Obtainment: 4 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
@@ -99,7 +99,7 @@ With the stat requirements, the talents, the blinded talent and the Oath Talent 
 
 -   Having the Blind [Flaw](Boons_and_Flaws.md) removes the Blindfold requirement.
 -   Well-suited Oath for PvE.
--   Pairs well with Lose Your Mind, a talent that makes you deal more damage the more insane you are.
+-   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.
 
 ## Trivia
 

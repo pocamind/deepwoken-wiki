@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 107154
+revid: 107254
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -64,7 +64,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Lightning Clones will not disappear unless their attack is parried, blocked or dodged, or they land a hit on a player.
 -   He only uses Lightning Clones in Phase 1.
 -   If you attack lightning clones, your willpower will increase.
--   Curiously, killing the clones procs Time to Go and Carnivore talents.
+-   Curiously, killing the clones procs Time to Go and Carnivore Talents.
 
  | ◯ | ◯ | ◯ | (☆☆☆) | **I** |
 | 
@@ -159,7 +159,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 -   It is a good idea to turn on your in-game music in this fight as his theme changes with his phase.
 -   [Tacet](Murmur.md#murmur-tacet) can trivialise the fight. By going behind a rock and using Tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
 -   It is _highly_ recommended to have the Spine Cutter [Talent](Talents.md) for this fight, as you can get lots of extra hits in the fight.
--   The Thundercall talent Static Fakeout pairs well with his persistent teleportation.
+-   The Thundercall Talent Static Fakeout pairs well with his persistent teleportation.
     
 
 **Phase One:**
@@ -178,7 +178,7 @@ Phase one is obviously the easier phase, a way to ease you into the battle befor
 
 ### Phase Two
 
-Phase two is where it gets real -- the true fight. All of his previous attacks get upgraded, with him also ditching the easiest one, Lightning Clones, and replacing it with the most stress inducing: Grand Volley. Overall, he teleports faster, gives less delay between attacks, and teleports much more aggressively. However, your attack window after his Assault and Strike moves is increased.
+Phase two is where it gets real—the true fight. All of his previous attacks get upgraded, with him also ditching the easiest one, Lightning Clones, and replacing it with the most stress inducing: Grand Volley. Overall, he teleports faster, gives less delay between attacks, and teleports much more aggressively. However, your attack window after his Assault and Strike moves is increased.
 
 -   **Displacement** - As said before, Ferryman begins to teleport with less delay and much closer to the player, and even doing more attacks before giving time to hit him, can be especially deadly if getting hit something like Electromagnetic Pulse and then Grand Volley.
 -   **Lighting Strike** - Lightning strike is somewhat of a threat now, becoming much faster and dealing many more AoE's, along with more damage. If unlucky, you can get hit with one and just be forced to eat all the other ones and take massive damage, although if lucky, you can parry all of them by parrying the first one and simply holding. The attack tends to trail behind you if you're sprinting, however, so it can be easily punished. If you are not damaged, Medium Weapons can get about 3-4 hits in.

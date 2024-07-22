@@ -1,9 +1,9 @@
 ---
 title: Kyrswynter
-revid: 107158
+revid: 107690
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -55,8 +55,8 @@ Both criticals share a cooldown of **9 seconds**.
 
 The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
-1.  Have **75** Frostdraw and obtain the talent [Ethiron's Gaze](Talent_Quests.md). **NOTE**: As of now, you _must_ be the one to interact with the spear in Firfire Caverns for Ethiron's Gaze. Someone else interacting with it for you will _NOT_ allow you to open the door to speak to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md).
-2.  Speak to [Naerotiv](Frosviernr_Joraelnaero.md). He is on the right path of the first Shrine.
+1.  Have **75** Frostdraw and obtain the Talent [Ethiron's Gaze](Talent_Quests.md).
+2.  Speak to [Naerotiv](Frosviernr_Joraelnaero.md). He is along the path to the right of the first shrine near spawn.
 3.  Defeat the [Scion of Ethiron](Scion_of_Ethiron.md).
 4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter.
 

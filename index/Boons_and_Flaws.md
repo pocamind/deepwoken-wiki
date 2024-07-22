@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 107126
+revid: 107276
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -498,6 +498,6 @@ Gained from dying to Maestro Evengarde Rest.
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you. ([This Video Demonstrates this fact.](https://www.youtube.com/watch?v=QK2l_fndlBo))
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the 16/08/22 update, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was changed to be an unlockable [origin](Origins.md).
--   There used to be more boons and flaws. The currently known ones are Adept (likely the original version of the talent) and Seasick.
+-   There used to be more boons and flaws. The currently known ones are Adept (likely the original version of the Talent) and Seasick.
     
     Having the _Blind_ flaw at night. (Yes, this isn't just a black image. Look carefully.)

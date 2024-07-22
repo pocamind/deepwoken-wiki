@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 103695
+revid: 107409
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -15,7 +15,7 @@ categories: [NPCs, Quests]
 
 ## Overview
 
-Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.md). They provide the talent card [Pleeksty's Will](https://deepwoken.fandom.com/wiki/Talents#Inferno), which allows the player to gain significantly more ether from consuming elemental ingredients. This requires either 50 Charisma, 40 Flamecharm, or 3 [Dying Embers](Dying_Embers.md).
+Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.md). They provide the Talent card [Pleeksty's Will](https://deepwoken.fandom.com/wiki/Talents#Inferno), which allows the player to gain significantly more ether from consuming elemental ingredients. This requires either 50 Charisma, 40 Flamecharm, or 3 [Dying Embers](Dying_Embers.md).
 
 ## Dialogue
 
@@ -75,7 +75,7 @@ Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.
 </tr>
 <tr>
   <td colspan="6">[Began quest] Ah, hello friend! Do you have those embers?</td>
-  <td colspan="6">[Obtained talent] Ah, hello friend! I hope you're finding use with what I taught you.</td>
+  <td colspan="6">[Obtained Talent] Ah, hello friend! I hope you're finding use with what I taught you.</td>
 </tr>
 <tr>
   <td colspan="3">Yep.</td>

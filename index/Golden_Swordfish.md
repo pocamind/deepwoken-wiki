@@ -1,9 +1,9 @@
 ---
 title: Golden Swordfish
-revid: 105905
+revid: 107187
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Rapiers, Unique Critical]
+categories: [Pages with broken file links, Weapons, Rapiers, Weapons with Unique Criticals]
 ---
 
 # Golden Swordfish
@@ -96,5 +96,11 @@ File:ASTRALFISHISREAL.png
 -   Meeting the requirement of LHT, the damage is (21.8)
 -   At max LHT, the damage is (24)
 -   Despite acting like a Soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing knowledge, provided it is not [Enchanted](Enchantments.md).
+
+  
+
+## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1)

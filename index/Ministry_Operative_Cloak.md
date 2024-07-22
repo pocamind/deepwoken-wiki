@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 105927
+revid: 107533
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -29,4 +29,4 @@ The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arm
 
 ## Trivia
 
-This equipment gives the Ether Conduit talent. - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s.
+This equipment gives the Ether Conduit Talent. - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s.

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 104872
+revid: 107293
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -34,8 +34,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
-    
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 **(~1%)**
 
@@ -60,8 +59,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
-    
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 **(~1%)**
 
@@ -174,7 +172,7 @@ The ability is one-time-use, but is recharged by killing a boss or player of you
 
 File:Warmaster Medallion Relic.png
 
- | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the talent "Actions Speak Louder", reducing Critical Attack cooldown by 20% but doubles Resonance cooldown.
+ | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder", reducing Critical Attack cooldown by 20% but doubles Resonance cooldown.
 
   
 In areas where your Resonance is suppressed, your critical cooldown is 5% shorter instead.
@@ -190,7 +188,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 
 File:Tiran Pendant Relic.png
 
- | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the talent "Featherfall", which massively reduce fall damage.
+ | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the Talent "Featherfall", which massively reduce fall damage.
 
   
 After a certain amount of damage has been negated, the pendant will go on cooldown for 10 minutes.

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 107166
+revid: 107360
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,7 @@ Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Mo
 
 In addition to be found wandering around various places or loitering around in selected caves and locations, they can also be lured with the use of a [Megalodaunt Bait](Monster_Bait.md).
 
-## **Attacks**
+## Attacks
 
 | Name | Description | GIF | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |

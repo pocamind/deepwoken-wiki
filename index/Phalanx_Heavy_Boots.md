@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 104186
+revid: 107570
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]

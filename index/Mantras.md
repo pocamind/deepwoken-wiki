@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 106278
+revid: 107239
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -33,11 +33,11 @@ Mantras are a key aspect of combat, and it is incredibly important to master the
 
 ### Perfect Casting
 
-Perfect Casting a Mantra does not inherently do anything, it just activates certain talents (developer confirmed). To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
+Perfect Casting a Mantra does not inherently do anything, it just activates certain Talents (developer confirmed). To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various Talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
 
 ### Mantra Cancelling
 
-Mantra Cancelling is exactly what it sounds. You cancel a Mantra, which essentially feints the Mantra you used. Cancelling a Mantra will not put it in cooldown but will still take the Ether required to cast it. To cancel a Mantra, you need to click M2 as soon as you cast it. Some Mantras require you to perfect cast it before you are able to Mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for Mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed Mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling Mantras, such as Galebreathe users being able to Inhale their Mantras for buffs.
+Mantra Cancelling is exactly what it sounds. You cancel a Mantra, which essentially feints the Mantra you used. Cancelling a Mantra will not put it in cooldown but will still take the Ether required to cast it. To cancel a Mantra, you need to click M2 as soon as you cast it. Some Mantras require you to perfect cast it before you are able to Mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for Mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed Mantra cancel can lead to some crazy mix-ups. Some Talents even grant the user certain advantages when cancelling Mantras, such as Galebreathe users being able to Inhale their Mantras for buffs.
 
 ### Ranged Mantra
 
@@ -90,12 +90,12 @@ Also has a hybrid with Shadowcast called ''Permafrost Prison''.
 
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
--   It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world.
+-   It has a mix of close-range combo spells and long ranged options, along with multiple movement Talents for moving around the world.
 -   Haunted Path: Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to utilize suffocation, comes with the "Specter Bar".
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
--   Applies suffocate, negating Mantras of the opponent. Procs when using Wind Gun, Gale Trap, or can proc on any mantra if you have the talent "A World Without Song".
+-   Applies suffocate, negating Mantras of the opponent. Procs when using Wind Gun, Gale Trap, or can proc on any mantra if you have the Talent "A World Without Song".
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -121,7 +121,7 @@ Ironsing provides the widest ranged Mantras in the game and the best damage outp
 
 Hybrid mantras are obtained upon reaching the required level in multiple attunement attributes, they provide unique opportunities to mix the capabilities of multiple elemental effects.
 
--   Can provide powerful synergies between attunements allowing use of certain talents and paths in unique ways.
+-   Can provide powerful synergies between attunements allowing use of certain Talents and paths in unique ways.
 -   Versatility due to their ability to inherit the effects of two attunement paths such as Surge and Wraith Path.
 -   Typically requires high investment into your attunement attributes.
 
@@ -222,7 +222,7 @@ Elemental Intensity is the ability to affect the environment around you. If a Ma
 
 ### Obtaining more Elemental Intensity
 
-Getting Talent Cards from your Attunement is a great way to obtain more intensity. Those talents usually have intensity attached to their stats, so the more talents you get from your attunement, the more intensity you will get.
+Getting Talent Cards from your Attunement is a great way to obtain more intensity. Those Talents usually have intensity attached to their stats, so the more Talents you get from your attunement, the more intensity you will get.
 
 #### Vibrant Gems
 

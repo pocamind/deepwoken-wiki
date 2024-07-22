@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 104531
+revid: 107478
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

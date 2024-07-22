@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 83421
+revid: 107466
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Luck, Mechanics]
@@ -24,7 +24,7 @@ Having Luck allowed you to draw Rare and Legendary Talents, which would greatly 
 
 ## Effects of Luck
 
--   Luck increased the likelihood of Rare/Legendary Talents (Indicated by their color backgrounds (Red or Green/Teal) and particle effects. (Not to be confused with the _Oathless_ card, which is Dark Blue) per [Power](Power.md) Increase. The chance of obtaining a Rare talent directly scaled to your current luck value, and Legendary talent odds were also affected by it as well, although it is unknown how the chances scaled in comparison to the amount of luck you had at the time of drawing. There was a chance that Legendary Cards will replace the Rare card draw that you were initially supposed to get.
+-   Luck increased the likelihood of Rare/Legendary Talents (Indicated by their color backgrounds (Red or Green/Teal) and particle effects. (Not to be confused with the _Oathless_ card, which is Dark Blue) per [Power](Power.md) Increase. The chance of obtaining a Rare Talent directly scaled to your current luck value, and Legendary Talent odds were also affected by it as well, although it is unknown how the chances scaled in comparison to the amount of luck you had at the time of drawing. There was a chance that Legendary Cards will replace the Rare card draw that you were initially supposed to get.
 
 ## Obtaining Luck
 
@@ -74,35 +74,35 @@ Killing a Corrupted Monster provided you with a lot of luck. If a monster has a 
 
 Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 
-#### **Soul Orbs**
+#### Soul Orbs
 
 NPCs have a very small chance to drop a Soul Orb on death, which grants 1 free Autodidact point. They also used to give 3% luck
 
-### **From Artifacts**
+### From Artifacts
 
 Turning in an [Artifact](Artifacts.md) to the Banker provided you with 16% Luck.
 
-### **From the [Trial of One](Trial_of_One.md)**
+### From the [Trial of One](Trial_of_One.md)
 
-Successfully completing each stage of the trial could give you luck, and you could get around 1-3 rare talents with a chance for a legendary talent if you completed all of them.
+Successfully completing each stage of the trial could give you luck, and you could get around 1-3 rare Talents with a chance for a legendary Talent if you completed all of them.
 
 The first trial you complete in the Trial of One was guaranteed to give you max luck.
 
-### **From the Arena**
+### From the Arena
 
 Defeating someone in the Arena granted you 2.5% luck (3.33% with marauder)l. If you would kill someone who's on their last skull and send them to [The Depths](The_Depths.md), this value was doubled.
 
-### **From Fishing**
+### From Fishing
 
 There is a rare chance to catch a golden variation of fish/trash, which rewarded the player with 16% luck when caught.
 
-## **Losing Luck**
+## Losing Luck
 
 -   Taking a Rare or Legendary card. The amount lost **seems to be random** with no link between the card and the luck cost.
     -   Generally you'd lose 3% luck from a rare card and 10% luck from a legendary card.
 -   Being gripped by someone within the above mentioned Power ranges.
 
-## **Notes**
+## Notes
 
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   If you second wind after wiping, your luck stat will persist (Not very helpful as people rarely second wind but worth mentioning)
@@ -111,7 +111,7 @@ There is a rare chance to catch a golden variation of fish/trash, which rewarded
     -   This is further suggested as you can now gain luck from basic mobs like Megalodaunts who are easy to farm
 -   Luck didn't **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch\_Mage
 -   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop chests with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck. Doing the Trial of One is also a great choice for getting luck at the very start of your progression.
--   Gaining luck increased the chance of getting legendary/rare talents, but there is no guarantee of getting them. It was possible to gain no legendary/rare cards with max luck, just as it was possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
+-   Gaining luck increased the chance of getting legendary/rare Talents, but there is no guarantee of getting them. It was possible to gain no legendary/rare cards with max luck, just as it was possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
 -   Contrary to popular belief, it does _not_ boost your chances of getting Legendary Mantras, such as Lightning Cloak or Ice Fissure
 -   The luck indicator was seen at the bottom right of the screen above notes.
 -   Luck is confirmed to be removed entirely when the Layer 2 update comes out, instead being replaced by the once-scrapped Knowledge system. (Now removed)

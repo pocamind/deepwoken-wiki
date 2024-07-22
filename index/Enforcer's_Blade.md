@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Blade"
-revid: 107078
+revid: 107183
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Unique Critical]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals]
 ---
 
 # Enforcer's Blade
@@ -43,16 +43,16 @@ After a short windup, the user spins the Enforcer's Blade in a circle around the
 
 ## Version History
 
--   Version 1.6.8 (March 22nd 2024)
+-   Version 1.6.8 (March 22, 2024)
     -   Critical Cooldown increased from 5 seconds to 7 seconds.
--   Version 1.4.4 (October 6th 2023)
+-   Version 1.4.4 (October 6, 2023)
     -   Critical range and damage increased.
--   Version 1.0.4 (January 16th, 2023)
+-   Version 1.0.4 (January 16, 2023)
     -   Given the same critical as the Enforcer's Axe, albeit does not guardbreak.
--   Version 0.8.5 (October 24th 2022)
+-   Version 0.8.5 (October 24, 2022)
     -   Swingspeed increased (0.57x -> 0.59x), PEN added (0 -> 5%)
--   Version 0.8.3 (October 10th 2022)
+-   Version 0.8.3 (October 10, 2022)
     -   Remodelled to current model
     -   Swingspeed increased (0.54x -> 0.57x)
--   Version 0.3.5 (February 8th 2022)
+-   Version 0.3.5 (February 8, 2022)
     -   Added to lootpool (unlisted).

@@ -1,6 +1,6 @@
 ---
 title: Hive Scourge Cuirass
-revid: 73943
+revid: 107530
 source: https://deepwoken.fandom.com/wiki/Hive_Scourge_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses]

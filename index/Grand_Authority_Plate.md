@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 94458
+revid: 107487
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]

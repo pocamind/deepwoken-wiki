@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 104147
+revid: 107458
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Hats]
 
 ## Description
 
-The Big Alchemist's Hat is an [Equipment](Equipment.md) under the "Head" category. Equipping this will give you the [Pitcher](Talents.md) and [Apothecary](Talents.md) talents, along with the randomized stats you get from the Pips. It can only be found in Hive Chests.
+The Big Alchemist's Hat is an [Equipment](Equipment.md) under the "Head" category. Equipping this will give you the [Pitcher](Talents.md) and [Apothecary](Talents.md) Talents, along with the randomized stats you get from the Pips. It can only be found in Hive Chests.
 
 ## Trivia
 

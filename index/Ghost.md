@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 106532
+revid: 107352
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,7 @@ categories: [Enemies]
 
 # Ghost
 
-_This page is about the mob named Ghost. If you're looking for a talent of the same name, check the [Talents](https://deepwoken.fandom.com/wiki/Talents#Butterfly) page._ Template:EnemyInfobox1.0
+_This page is about the mob named Ghost. If you're looking for a Talent of the same name, check the [Talents](https://deepwoken.fandom.com/wiki/Talents#Butterfly) page._ Template:EnemyInfobox1.0
 
 ## Description
 

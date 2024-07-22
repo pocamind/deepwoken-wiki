@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 98814
+revid: 107545
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms]
 | obtainment | Erisia |
 | description | ... |
 
-The Leather Gloves are a common piece of equipment that can be found in [Erisia](Erisia.md)
+The **Leather Gloves** are a common piece of equipment that can be found in [Erisia](Erisia.md)
 
 ## Trivia
 

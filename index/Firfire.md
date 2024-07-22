@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 104887
+revid: 107379
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]
@@ -29,7 +29,7 @@ There is a small hidden cave locked behind doors that require different requirem
 
 ## Quests
 
-You can find a spear in the Firfire Caverns to obtain the Ethiron's Gaze talent from Erosius. The talent persists permanently on a slot after this; you merely have to speak to Erosius in the future instead of finding the spear to progress.
+You can find a spear in the Firfire Caverns to obtain the Ethiron's Gaze Talent from Erosius. The Talent persists permanently on a slot after this; you merely have to speak to Erosius in the future instead of finding the spear to progress.
 
 ## Trivia
 

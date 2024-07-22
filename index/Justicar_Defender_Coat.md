@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 106913
+revid: 107381
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -16,7 +16,6 @@ categories: [Equipment, Arms, Coats]
 | requirements | Power 13 |
 | weight | 2 |
 | innate stats | 2 Rare Pips |
-| innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,4 +29,4 @@ The Justicar Defender Coat is an animated [Equipment](Equipment.md) item under t
 
 ## Trivia
 
--   Used to not have a rarity for a long while upon release, which made it unsellable. On August 25th 2023, This was fixed and it's now sellable for 25 notes.
+-   Used to not have a rarity for a long while upon release, which made it unsellable. On August 25, 2023, This was fixed and it's now sellable for 25 notes.

@@ -1,6 +1,6 @@
 ---
 title: Terrains
-revid: 76775
+revid: 107670
 source: https://deepwoken.fandom.com/wiki/Terrains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Terrains
 
-Surfaces, are materials used in the game, such as slate.
+**Surfaces**, are materials used in the game, such as slate.
 
 All that is written is by me for now, and is from personal experience, so take it with a grain of salt.
 
@@ -24,7 +24,7 @@ Slate: Is weaker to physical mantras, thunder and shadow mantras (requires furth
 
 Ice: Is very weak to flame mantras, melting instead of breaking. Is resistant to shadow mantras (also further testing required) Is also slippery.
 
-Grass: Can be lit on fire with flame mantras such as fire gun, useful if your opponent is attumentless and you have talents to benefit you when your on fire.
+Grass: Can be lit on fire with flame mantras such as fire gun, useful if your opponent is attumentless and you have Talents to benefit you when your on fire.
 
 Glass: The weakness and resistance doesnt really even matter since most of the time its more sensitive than a rupert’s drop’s tail.
 
@@ -48,4 +48,4 @@ Frostdraw: Very good for boat vandalization until they used the new full auto ne
 
 Shadowcast only really has eclipse kick and darkblade.
 
-Ironsing and galebreathe… it seems material going at 200 mph that makes jack hammers and literla tornadoes dont do shit. These two attunements cannot break a single object. Pitiful.
+Ironsing and galebreathe: These two attunements cannot break a single object.

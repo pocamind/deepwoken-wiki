@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 103779
+revid: 107328
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
@@ -22,7 +22,7 @@ Chance of obtaining race: **N/A**
   <td>File:Seaborne.png</td>
   <td><b>None</b>
   <ul>
-    <li>No innate racial talent is given to Lightborns.</li>
+    <li>No innate racial Talent is given to Lightborns.</li>
   </ul></td>
 </tr>
 <tr>

@@ -1,9 +1,9 @@
 ---
 title: Pale Briar
-revid: 106539
+revid: 107630
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
+categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals]
 ---
 
 # Pale Briar
@@ -32,7 +32,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Unique Critical]
 
 The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Heavy Weapon. It is one of the three guaranteed drops from him, the others being the [Purple Cloud](Purple_Cloud.md) and the [Cerulean Thread](Cerulean_Thread.md).
 
-Its base damage is 23; at 100 HVY, it deals 35.9 damage. All Greataxe talents work on this, and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, is a multi-hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
+Its base damage is 23; at 100 HVY, it deals 35.9 damage. All Greataxe Talents work on this, and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, is a multi-hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
 
 Uniquely to it, each hits of the critical attack can trigger enchant stacks, instead of being limited to the usual 1 stack per multi hit use, this makes enchants such as Grim, Detonation and Chilling significantly stronger.
 

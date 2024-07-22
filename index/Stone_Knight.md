@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 106308
+revid: 107270
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Info Box v2
 
 Recognizable by their yellow body, blue eyes and blue sword, the Stone Knights are the variant encountered on [Aratel Island](Aratel_Island.md). They will not drop a chest if the Stone Knight emerged from a meteor, it will only spawn a chest if the knight spawned without a meteor.
 
-## **Moveset**
+## Moveset
 
 | Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Recognizable by their yellow body, blue eyes and blue sword, the Stone Knights a
 -   **Artificial Construct -** [Bloodless Gem](Deep_Gems.md) doesn't work on Stone Knights.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
 
-## **Finisher**
+## Finisher
 
 A Stone Knight executes the player:
 
@@ -82,7 +82,7 @@ A Stone Knight executes the player:
 
 ## Trivia
 
--   Stone Knights are artificial and are thus not affected by the "[Animal King](Regalia.md)" talent and will still attack if they spot you.
+-   Stone Knights are artificial and are thus not affected by the "[Animal King](Regalia.md)" Talent and will still attack if they spot you.
 -   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
 -   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Sand Knights.

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 106999
+revid: 107233
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,13 +8,11 @@ categories: [Pages with broken file links, Attunement]
 
 # Shadowcast
 
-## Description
-
 File:Shadowcast icon.png
 
 Shadowcast icon
 
-Shadowcast is an attunement that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its Mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain, obscuring vision and AoE.
+**Shadowcast** is an attunement that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its Mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on ether drain, obscuring vision and AoE.
 
 ## Obtainment & Training
 
@@ -36,7 +34,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 
 ## Mantras
 
-### **Combat**
+### Combat
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -219,7 +217,7 @@ Shadow Vortex
 
  |
 
-### **Support**
+### Support
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -266,7 +264,7 @@ Currently can bug, not allowing you to complete the ritual cast and requiring yo
 
  |
 
-### **Mobility**
+### Mobility
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -302,7 +300,7 @@ Shadow Assault
 
 **Darksiphon:**
 
-These are talents found in the **Darksiphon** category.
+These are Talents found in the **Darksiphon** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -434,7 +432,7 @@ Extra ether stolen with mantras are exerted as dark energy, damaging and absorbi
 
 **Death Speaker:**
 
-These are talents found in the **Death Speaker** category.
+These are Talents found in the **Death Speaker** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -476,7 +474,7 @@ N/A
 
 **Shadowcaster:**
 
-These are talents found in the **Shadowcaster** category.
+These are Talents found in the **Shadowcaster** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -662,7 +660,7 @@ Enemies will briefly hang in place when hit by a shadow move.
 
 **Twisted Puppets:**
 
-These talents are found in the _Twisted Puppets_ category.
+These Talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -686,7 +684,7 @@ Burning Puppets
 
  | 
 
-Your puppets can now inflict burn and fire-based talents when they explode.
+Your puppets can now inflict burn and fire-based Talents when they explode.
 
  | 
 

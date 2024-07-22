@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 92025
+revid: 107415
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics, Mantras]
@@ -13,7 +13,7 @@ categories: [World, Mechanics, Mantras]
 
 ## Description
 
-Mantra Tables are a utility item that are used to improve your existing [Mantras](Mantras.md). They are typically found in larger settlements like the Isle of Vigils or Etris. There is also one at [Castle Light](Castle_Light.md), for use in [The Depths](First_Layer.md).
+Mantra Tables are a utility item that are used to improve your existing [Mantras](Mantras.md). They are typically found in larger settlements like the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md). There is also one at [Castle Light](Castle_Light.md), for use in the [First Layer](First_Layer.md).
 
 Mantra Tables resemble typical tables with segments of what looks like sand inside. The five blue discs will start to illuminate with the value of your used Mantra Modifiers.
 
@@ -34,11 +34,11 @@ When going a certain distance away from the mantra table, your mantra will be re
 
 If applying sparks to your mantra, and it's incompatible with the mantra, a message will appear in front of your screen saying "Ingredients Incompatible". Looking at [Mantra Modifiers](Mantra_Modifiers.md) can help see if your mantra has the compatible spark or not.
 
-You can also rename Mantras by typing out your desired name into the chat box and pressing enter. Inappropriate names will be replaced with the original mantra's name. The edited name will also be used for the Spell Shout talent which you get from [Valikor](Valikor.md) in [Isle of Vigils.](Isle_of_Vigils.md)
+You can also rename Mantras by typing out your desired name into the chat box and pressing enter. Inappropriate names will be replaced with the original mantra's name. The edited name will also be used for the Spell Shout Talent which you get from [Valikor](Valikor.md) in [Isle of Vigils](Isle_of_Vigils.md).
 
   
 
 ## Trivia
 
--   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
+-   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13, 2022.
     -   [Knowledge](Knowledge.md) is now a currency added in the Verse 2 update.

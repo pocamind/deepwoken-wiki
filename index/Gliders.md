@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 106719
+revid: 107311
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -17,7 +17,7 @@ categories: [Pages with broken file links, Utilities, Items]
 
 ## Description
 
-Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain. There is also a special Feathered Glider, which is given to [Tirans](Tiran.md) as an innate talent.
+Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain. There is also a special Feathered Glider, which is given to [Tirans](Tiran.md) as an innate Talent.
 
 ## Obtaining
 
@@ -41,9 +41,9 @@ The Glider can only be used in the air and cannot be used in Acid Rain (if you d
 
 There is no difference between the Sharkscale Glider and the normal Glider except for its amount of uses. The Glider has 15 uses while the Sharkscale Glider has 150 uses, and the Flimsy has only 10, dropping down to 1 when the user touches the ground.
 
-An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtain "The Old Wind" talent, which greatly decreases the rate you descend and greatly increases the distance you can travel with a glider, which is very useful to have. Although, [Galebreathe](Galebreathe.md) users can also obtain the "Aerogliding" talent, which is a substitute for a glider, but it goes down much faster and has little to no horizontal distance, but it can be used in danger and is great for escaping a fight by gliding away.
+An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtain "The Old Wind" Talent, which greatly decreases the rate you descend and greatly increases the distance you can travel with a glider, which is very useful to have. Although, [Galebreathe](Galebreathe.md) users can also obtain the "Aerogliding" Talent, which is a substitute for a glider, but it goes down much faster and has little to no horizontal distance, but it can be used in danger and is great for escaping a fight by gliding away.
 
-"The Old Wind" and "Aerogliding" talents do NOT stack, but a pretty useful technique with "The Old Wind" is since [Greathive Aratel](Greathive_Aratel.md) is super high up, you can use this place to teleport to Summer Isle, [Upper Erisia](Upper_Erisia.md), and [Aratel](Aratel_Island.md), but not only that, if you have "The Old Wind", you can use a glider to glide all the way to [Monkey's Paw](<The_Monkey's_Paw.md>), [Songseeker](Songseeker_Wilds.md), And just about anywhere the teleports can't take you. Not that relevant to the page itself, but it only works with "The Old Wind" talent and a glider. You can glide to monkey's paw without this talent though.
+"The Old Wind" and "Aerogliding" Talents do NOT stack, but a pretty useful technique with "The Old Wind" is since [Greathive Aratel](Greathive_Aratel.md) is super high up, you can use this place to teleport to Summer Isle, [Upper Erisia](Upper_Erisia.md), and [Aratel](Aratel_Island.md), but not only that, if you have "The Old Wind", you can use a glider to glide all the way to [Monkey's Paw](<The_Monkey's_Paw.md>), [Songseeker](Songseeker_Wilds.md), And just about anywhere the teleports can't take you. Not that relevant to the page itself, but it only works with "The Old Wind" Talent and a glider. You can glide to monkey's paw without this Talent though.
 
 **BE CAREFUL.** Taking damage with a glider will Ragdoll your character. Flying in places that have acid rain like [Upper Erisia](Upper_Erisia.md) may be immensely dangerous. If you are suffering from ping issues, your glider may delay heavily when you are trying to deploy it which will likely cause fall damage from deploying the glider and subsequently plummeting.
 

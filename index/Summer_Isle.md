@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 106422
+revid: 107303
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -19,15 +19,15 @@ The smell of gunpowder blankets this tropical paradise.
   
 
   
-Summer Isle is a populated island in [The Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
+**Summer Isle** is a populated island in [The Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
 
 One of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment.
 
 ## Points Of Interest
 
-### _**The Castle**_
+### _The Castle_
 
-#### _**Gunsmiths**_
+#### _Gunsmiths_
 
 Main Article - [Weapons](Weapons.md)
 
@@ -48,7 +48,7 @@ Notes:
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
 
-#### _**Funke, Thundercall Trainer**_
+#### _Funke, Thundercall Trainer_
 
 On the second floor of the Summer Company's castle, the [Thundercall](Thundercall.md) trainer [Funke](Funke,_Master_of_Thunder.md) can be found.
 
@@ -59,19 +59,19 @@ On the second floor of the Summer Company's castle, the [Thundercall](Thundercal
 
   
 
-#### _**Blacksmith**_
+#### _Blacksmith_
 
 Within the tower on the right side of the castle's entrance stairs.
 
 -   Works like any other blacksmith, won't communicate with you if you have negative rep.
 
-#### _**Antiquarian**_
+#### _Antiquarian_
 
 Within the castle's ground floor, situated in the same room as the Gunsmith.
 
 -   Works like any other antiquarian, won't communicate with you if you have negative rep.
 
-#### _**Modifier Trader**_
+#### _Modifier Trader_
 
 Within the castle's ground floor, on the opposite side of where the Antiquarian/Gunsmith are.
 
@@ -79,7 +79,7 @@ Within the castle's ground floor, on the opposite side of where the Antiquarian/
 
 File:Red Crate.png
 
-#### _**Scope \[QUEST\]**_
+#### _Scope \[QUEST\]_
 
 Within the tower on the left side of the castle's entrance stairs, Scope needs to recover crates filled with explosives that have been stolen by the bandits/Ignition Union, and what other better way to retrieve the crates is there than just sending you to do it.
 
@@ -87,30 +87,30 @@ These boxes of explosives can be found all across Isle, usually being tended to 
 
 -   Scope could be a pun based on sniper rifles and other guns that have a "scope".
 
-### _**Shipwright**_
+### _Shipwright_
 
 The Shipwright is located on the rocky beach within a castle like structure.
 
 -   Works like any other shipwright, won't communicate with you if you have negative rep.
 
-### _**Inn**_
+### _Inn_
 
-#### _**The Innkeeper**_
+#### _The Innkeeper_
 
 -   Allows you to set your spawnpoint at Summer Isle for 5 notes.
 -   Won't communicate with you if you have negative reputation AND you will be kicked out if you set your spawnpoint at this inn and then get negative reputation.
 
-#### _**Kujae**_
+#### _Kujae_
 
 -   Can be found outside the Inn
 -   Will give you something random out of his sack for 350 notes.
 -   The sack can contain random equipment.
 
-#### _**The Guildmaster**_
+#### _The Guildmaster_
 
 -   Allows you to make a guild/leave an existing one.
 
-#### _**Trig \[QUEST\]**_
+#### _Trig \[QUEST\]_
 
 [Trig](Trig.md) is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company.
 
@@ -125,45 +125,45 @@ You will be given two quest dialogue options after answering why you're meeting 
 3.  \[ End Dialogue \]
 
 1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation, and zero EXP if you don't kill the guards.
-2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare talent called "Armor Piercing" that can be obtained from talent hands.** (obviously, it affects only guns)
+2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare Talent called "Armor Piercing" that can be obtained from Talent hands.** (obviously, it affects only guns)
 
 -   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
 
-### _**Crime Tax Collector**_
+### _Crime Tax Collector_
 
 -   Nepo, an NPC found on a bridge can reset your reputation with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
 
-### _**The Furnace**_
+### _The Furnace_
 
 _Main Page: [The Furnace](The_Furnace.md)_
 
 This place contains [Jarvis](Jarvis.md), a NPC who allows you smelt two equipments into one, and an Arena.
 
-### _**Cave**_
+### _Cave_
 
 A cave opening facing the Shipwright's building, easy to spot.
 
 -   Contains Coal, Rock and Iron, enough for bullets and flint.
 -   Within the cave is presumably a hive teleporter prototype, out of function
 
-### _**Circular Structure**_
+### _Circular Structure_
 
 -   A circular building located outside of the castle, near the blacksmith's place on the other side of the river
 -   Within the structure is presumably a hive teleporter prototype, out of function.
 -   In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oaths.md), hinting towards how to progress and unlock [Blindseer](Oaths.md) mantras.
 
-### _**Castle Ruins**_
+### _Castle Ruins_
 
 -   A castle like building in ruins, nothing of interest is inside or near it, _until you look closely._ Inside the ruins, on the left or right side of the inside, you may find a small crack in the floor which you may drop down into. Inside, a basement could be found with barrels, and possibly chests.
 
 The Summer Company cannon
 
-### _**The Cannon**_
+### _The Cannon_
 
 -   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is already on land, but will if a player is sailing nearby.
 -   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker WIlds.
 
-### _**[The Hidden Grove](The_Hidden_Grove.md)**_
+### _[The Hidden Grove](The_Hidden_Grove.md)_
 
 File:Fountain.png
 
@@ -209,11 +209,11 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 
 ## Loot Table & Purchasable Items
 
-### _**Purchasable Items/Blueprints/Weapons**_
+### _Purchasable Items/Blueprints/Weapons_
 
 Items and equipment that can be directly bought with currency.
 
-#### _**Items**_
+#### _Items_
 
 -   Encyclopedia
 -   Math Textbook
@@ -236,22 +236,22 @@ Items and equipment that can be directly bought with currency.
 -   Flint
 -   Bullet
 
-#### _**Blueprints**_
+#### _Blueprints_
 
 -   [Summer Company Uniform](Summer_Company_Uniform.md)
 
-#### _**Weapons**_
+#### _Weapons_
 
 -   [Flintlock](Flintlock.md)
 -   [Revolver](Repeater.md)
 -   [Dragoon](Dragoon.md)
 -   [Silver Dagger](Silver_Dagger.md)
 
-### _**Loot Table**_
+### _Loot Table_
 
 Items and equipment that can be obtained from loot chests.
 
-#### _**Weapons**_
+#### _Weapons_
 
 -   [Trident Spear](Trident_Spear.md) (0-1 star)
 -   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
@@ -262,7 +262,7 @@ Items and equipment that can be obtained from loot chests.
 -   [Ritual Spear](Ritual_Spear.md)
 -   [Dawnshot](Dawnshot.md) (0-2(1?) star)
 
-#### _**Equipment**_
+#### _Equipment_
 
 -   Practitioner's Earrings(0-1 star)
 -   Burgundy/Beige/Slate Tophat (0-2 star)
@@ -272,7 +272,7 @@ Items and equipment that can be obtained from loot chests.
 -   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
 -   Red Headband
 
-#### _**Treasury**_
+#### _Treasury_
 
 -   Amethyst(4-5)
 -   Ruby(3-4)
@@ -280,7 +280,7 @@ Items and equipment that can be obtained from loot chests.
 -   Emerald(3-4)
 -   Gold Bar(4)
 
-#### _**Blueprints**_
+#### _Blueprints_
 
 -   [Hive Drone](Hive_Drone.md)
 -   [Hive Tactician](Hive_Tactician_Armor.md)
@@ -289,7 +289,7 @@ Items and equipment that can be obtained from loot chests.
 -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
 
-#### _**Rings**_
+#### _Rings_
 
 -   Dawnfist's Ring
 -   Rosen's Ring
@@ -303,9 +303,9 @@ Items and equipment that can be obtained from loot chests.
 -   The Summer Isle Cannon can be clipped into, which once allowed for it to be picked up, prior to it being patched.[\[1\]](#cite-note-1)
 -   The music for this area is [Of Smoke And Steel](Deepwoken_OST.md) by Naktigonis
 -   The combat music for this area is [One For All, All For Gun](Deepwoken_OST.md) by Naktigonis
--   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a talent card related to Reputation.
+-   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a Talent card related to Reputation.
 -   The only place to buy guns in Eastern Luminant.
--   When a player with bad reputation comes near Summer Isle, the big cannon will activate, giving a warning sound. Then, the cannon will shoot after 3-5 seconds.
+-   When a player with bad reputation comes near Summer Isle, the big cannon will activate, giving a warning sound. Then, the cannon will shoot after 3–5 seconds.
 
 ## References
 

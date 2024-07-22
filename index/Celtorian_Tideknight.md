@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 107110
+revid: 107682
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Lost Celtor]
@@ -8,9 +8,7 @@ categories: [Items, Outfits, Lost Celtor]
 
 # Celtorian Tideknight
 
-_Not to be confused with the NPC in the [Deluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_  
-  
-**Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_. Template:ArmorInfobox
+_Not to be confused with the NPC in the [Deluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_ **Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_. Template:ArmorInfobox
 
 ### _Requirements_
 

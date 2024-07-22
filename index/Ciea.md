@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 106157
+revid: 107314
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -25,9 +25,9 @@ There may be different options when you talk to Ciea, but for the ones listed yo
 
 Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) oath.
 
-You can use diluted potions (potions with only 1 copy of an ingredient). This does not appear to have any effect on EXP or talent yields.
+You can use diluted potions (potions with only 1 copy of an ingredient). This does not appear to have any effect on EXP or Talent yields.
 
-Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#prospector) talent, it is unknown if she gives anything else at the moment.
+Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#prospector) Talent, it is unknown if she gives anything else at the moment.
 
 ## Dialogue
 

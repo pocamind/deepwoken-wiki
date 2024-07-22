@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 104717
+revid: 107307
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,11 +14,11 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are ranged weapons that are designed to fire projectiles if the user has bullets in their inventory which are capable of adding ranged capabilities (1H only) while also providing advantages and disadvantages depending on the [ore the bullets are made of](Bullet_Casings.md). Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), except for the [Dawnshot](Dawnshot.md) and the [Silversix](Silversix.md), with the latter being an advanced starting weapon that is purchased with echoes when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
+**Guns** are ranged weapons that are designed to fire projectiles if the user has bullets in their inventory which are capable of adding ranged capabilities (1H only) while also providing advantages and disadvantages depending on the [ore the bullets are made of](Bullet_Casings.md). Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), except for the [Dawnshot](Dawnshot.md) and the [Silversix](Silversix.md), with the latter being an advanced starting weapon that is purchased with echoes when creating a new character. Rifles are found only as drops from enemies. There are several different types of guns in game.
 
 For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
 
-Guns have their own talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related talents like [Outlaw](Talents.md) for pistols.
+Guns have their own Talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related Talents like [Outlaw](Talents.md) for pistols.
 
 All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you dont have any. You won't be slowed down during the crit.
 
@@ -36,11 +36,11 @@ Note that if your 1H gun is unloaded, pressing your crit button will just do a l
 
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the type you are using. The Dragoon, Flintlock and Dawnshot can hold 4 bullets, and the Revolver and Silversix can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the type you are using. The Dragoon, Flintlock and Dawnshot can hold 4 bullets, and the Revolver and Silversix can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
 
 ### Talents
 
-Pistols have their own talent trees - [Outlaw](Talents.md#outlaw)
+Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
 
 The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
 
@@ -48,9 +48,9 @@ If you use a side gun without a main gun, your side gun damage is reduced by 20%
 
 Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun). Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
 
-The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
+The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
 
-There is a gun talent you can learn from a quest giver named Trig outside the inn on Summer Isle. The man you need to find is on the shore to the left of the inn. If you decide to collect the man's debt you can return to Trig and give him the papers which will give you a large amount of reputation with the [Summer Company](The_Summer_Company.md) and opens up the possibility of obtaining [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up (requires 30 MED or LHT). However, if you decide to try to help the man by leaving without collecting the debt and try to confront Trig you will only get bad reputation with the [Summer Company](The_Summer_Company.md) while two summer gunmen will appear to kill you, this option opens the possibility of obtaining [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) (requires 20 MED or LTH or Fortitude), in case you were confused you can apologize to Trig and talk to the man again to collect his debt.
+There is a gun Talent you can learn from a quest giver named Trig outside the inn on Summer Isle. The man you need to find is on the shore to the left of the inn. If you decide to collect the man's debt you can return to Trig and give him the papers which will give you a large amount of reputation with the [Summer Company](The_Summer_Company.md) and opens up the possibility of obtaining [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up (requires 30 MED or LHT). However, if you decide to try to help the man by leaving without collecting the debt and try to confront Trig you will only get bad reputation with the [Summer Company](The_Summer_Company.md) while two summer gunmen will appear to kill you, this option opens the possibility of obtaining [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) (requires 20 MED or LTH or Fortitude), in case you were confused you can apologize to Trig and talk to the man again to collect his debt.
 
 Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
 
@@ -80,7 +80,7 @@ Your rifle has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are 
 
 ### Talents
 
-There are currently no talents exclusive towards the rifle.
+There are currently no Talents exclusive towards the rifle.
 
 The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
 
@@ -94,7 +94,7 @@ _**Stats:**_
 
 **[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **1x** attack speed, (40 MED, 75 Thundercall req)
 
-## Trivia:
+## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base and [The Furnance](The_Furnace.md).

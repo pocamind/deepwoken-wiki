@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 106714
+revid: 107227
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -22,7 +22,7 @@ _**"Oaths"** are viewpoints and beliefs that a character vows to live by until t
 
 Every character begins as a simple Pathfinder, meaning they are without an Oath (but not devoted to being Oathless). Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath, such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
-### **Obtainable Oaths**
+### Obtainable Oaths
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower, Suffer from Blindness & All 3 Mental Fortress Talents\]
@@ -37,7 +37,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
-### **Upcoming Oaths**
+### Upcoming Oaths
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   [Soulbreaker](Oath%253A_Soulbreaker.md) (?)
@@ -47,7 +47,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 
 If you've progressed to maximum a certain oath once before, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note that you still need to get the requirements of the oath you wish to skip.
 
-## **Oathbreaker - Oath Removal**
+## Oathbreaker - Oath Removal
 
 It is possible to remove your oath (once) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
 
@@ -130,4 +130,4 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Contractor gives the user Dark Maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
-    -   It takes 3 shards to obtain the oath, and one for each subsequent talent.
+    -   It takes 3 shards to obtain the oath, and one for each subsequent Talent.

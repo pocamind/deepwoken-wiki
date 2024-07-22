@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 106901
+revid: 107625
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
 ---
 
 # Crypt Blade
@@ -39,7 +39,7 @@ The Crypt Blade comes with 2 passive abilities:
 
 -   **Last Dead's Boon** - M1 attacks now steal ether.
 
--   **Shadow Affinity** - Non-mantra specific shadow talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
+-   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
 -   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to blazing enchant.
 
 ## Critical

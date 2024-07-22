@@ -1,6 +1,6 @@
 ---
 title: Wind Amulet
-revid: 94395
+revid: 107619
 source: https://deepwoken.fandom.com/wiki/Wind_Amulet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Necklaces, Torso, Equipment]

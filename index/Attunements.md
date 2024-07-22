@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 105928
+revid: 107253
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -37,7 +37,7 @@ These ingredients are typically dropped by those who wield the attunement, such 
 
 -   Alternatively, if you happen to spawn in with an attunement which you do not possess via the Random Attunement function in the character creation menu, it will become available to freely choose upon next-character-basis.
 
-By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the **Neuroplasticity** talent, both of which will help expand your Mantra arsenal.
+By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the **Neuroplasticity** Talent, both of which will help expand your Mantra arsenal.
 
 -   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 20 Strength alongside 50 Flamecharm.
 

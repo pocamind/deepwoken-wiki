@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 77904
+revid: 107433
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -15,7 +15,7 @@ categories: [NPCs, Quests]
 
 ## Description
 
-Jessamine is an NPC found underneath a broken castle, just outside of the entrance to [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md). Talking to them will start a quest that allows you to obtain the talent "Thresher Scales" to regain armor at campfires.
+Jessamine is an NPC found underneath a broken castle, just outside of the entrance to [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md). Talking to them will start a quest that allows you to obtain the Talent "Thresher Scales" to regain armor at campfires.
 
 ## Dialogue
 

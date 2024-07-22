@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 106705
+revid: 107678
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -23,7 +23,7 @@ The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters]
 
 ## Ardour Obtainment
 
-He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water\*. In exchange he grants you the [Murmur:Ardour](Murmur.md). If the player has the Condensation Drip [talent](Talents.md), a new prompt will appear, allowing them to receive Murmur without the need to hand him a canteen or redd juice. Water from the Voidheart well cannot be used either.
+He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water\*. In exchange he grants you the [Murmur:Ardour](Murmur.md). If the player has the Condensation Drip [Talent](Talents.md), a new prompt will appear, allowing them to receive Murmur without the need to hand him a canteen or redd juice. Water from the Voidheart well cannot be used either.
 
   
 

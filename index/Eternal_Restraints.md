@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 103753
+revid: 107440
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Exclusive, Developer Spec]
@@ -25,7 +25,7 @@ categories: [Equipment, Arms, Exclusive, Developer Spec]
 
 ## Description
 
-The Eternal Restraints are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +20% Health, +5 Posture, and the [Talents](Talents.md) Chains of Eternity & Cognito Hazard. Info on both talents are unknown.
+The Eternal Restraints are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +20% Health, +5 Posture, and the [Talents](Talents.md) Chains of Eternity & Cognito Hazard. Info on both Talents are unknown.
 
 ## Trivia
 

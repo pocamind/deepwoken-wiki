@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 97049
+revid: 107323
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,7 +31,7 @@ User summons a shimmering-white bow and kicks off of the floor, firing explosive
 
 Both variants have complete penetration (100% PEN), meaning that no armor outfit would reduce the damage from being shot by Shard Bow.
 
-If Shard Bow is corrupted, it deals double posture damage and hits apply White Flames that scales on INT. It also gains additional damage if the user has the talent Azure Flames. Appears to make you jump further back and higher up.
+If Shard Bow is corrupted, it deals double posture damage and hits apply White Flames that scales on INT. It also gains additional damage if the user has the Talent Azure Flames. Appears to make you jump further back and higher up.
 
 ### _Versions_
 
@@ -41,12 +41,12 @@ If Shard Bow is corrupted, it deals double posture damage and hits apply White F
 
 -   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. Does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
 
-_**It is also affected by a talent named “Wyvern’s Claw” which gives 10% damage while airborne, greatly increasing the damage.**_
+_**It is also affected by a Talent named “Wyvern’s Claw” which gives 10% damage while airborne, greatly increasing the damage.**_
 
 ## Trivia
 
 -   Does a little less damage than a Strong Left (presumably without 100 str scaling) according to Agamatsu.
--   It heavily depends on the talents and the other variables, meaning that it’s hard to account how much damage it does.
+-   It heavily depends on the Talents and the other variables, meaning that it’s hard to account how much damage it does.
 -   Reference to _The Stormlight Archive'_s Grandbows.
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts."
 -   Can be dodged/parried which somewhat makes it un-sufficent against an experienced player.

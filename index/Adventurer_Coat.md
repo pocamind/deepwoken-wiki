@@ -1,6 +1,6 @@
 ---
 title: Adventurer Coat
-revid: 105189
+revid: 107461
 source: https://deepwoken.fandom.com/wiki/Adventurer_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]

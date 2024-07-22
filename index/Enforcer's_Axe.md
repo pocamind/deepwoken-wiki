@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Axe"
-revid: 107107
+revid: 107638
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Unique Critical]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 ---
 
 # Enforcer's Axe
@@ -43,21 +43,21 @@ After a short windup, the user spins the Enforcer's Axe in a circle around thems
 -   Enforcer's Axe is considered one of the best Greataxes in Deepwoken.
     -   This is evermore prevalent with the nerfing of the [Evanspear Hand Axe](Evanspear_Greataxe.md) via the Bleed bugfix, dethroning it and placing the Enforcer's Axe at the top spot for fighting monsters.
 -   Usually considered the best Enforcer weapon variant compared to its [Blade](<Enforcer's_Blade.md>) and [Hammer](<Enforcer's_Hammer.md>) variants, due to it having no endlag and higher damage.
-    -   The Enforcer’s Hammer is sometimes used over the Greataxe due to the incredibly high posture damage, though the Blade is virtually never used over these two due to its inferior damage, critical attack and talents.
+    -   The Enforcer’s Hammer is sometimes used over the Greataxe due to the incredibly high posture damage, though the Blade is virtually never used over these two due to its inferior damage, critical attack and Talents.
 
 ## Version History
 
--   Version 1.6.8 (March 22nd 2024)
+-   Version 1.6.8 (March 22, 2024)
     -   Critical Cooldown increased from 5 seconds to 7 seconds.
--   Version 1.4.4 (October 6th 2023)
+-   Version 1.4.4 (October 6, 2023)
     -   Critical range and damage increased.
--   Version 1.2.9 (June 25th, 2023)
+-   Version 1.2.9 (June 25, 2023)
     -   PEN increased (5 -> 10)
--   Version 0.9.5 (December 24th 2022)
+-   Version 0.9.5 (December 24, 2022)
     -   Critical windup increased (0.5s -> 0.6s) due to addition of Uppercuts.
--   Version 0.8.7 (November 7th 2022)
+-   Version 0.8.7 (November 7, 2022)
     -   Model changed from old to current.
--   Version 0.8.5 (October 24th 2022)
+-   Version 0.8.5 (October 24, 2022)
     -   Swingspeed increased (0.55x -> 0.57x), PEN added (0 -> 5%)
--   Version 0.7.8 (September 5th 2022)
+-   Version 0.7.8 (September 5, 2022)
     -   Unique Critical Added.

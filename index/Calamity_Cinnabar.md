@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 103758
+revid: 107639
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords, Exclusive]
@@ -37,7 +37,7 @@ The Calamity Cinnabar comes with 2 passive abilities:
 
 -   **Last Dead's Boon** - M1 attacks now steal ether.
 
--   **Shadow Affinity** - Non-mantra specific shadow talents also proc on M1 attacks landed by a Calamity Cinnabar. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
+-   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Calamity Cinnabar. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
 
 ## Critical Attack
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 106816
+revid: 107255
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -275,7 +275,7 @@ Quickfang Echo Upgrade
 
 Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
 
-Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after. If you attempt to complete the quest again in another slot or another life, you will gain an extra talent hand (maximum of 3 or 4, may be more as updates keep rolling).
+Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after. If you attempt to complete the quest again in another slot or another life, you will gain an extra Talent hand (maximum of 3 or 4, may be more as updates keep rolling).
 
 ### Echo Quests
 
@@ -299,12 +299,12 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Landing a hit with your critical restores 30% of your posture.
 
-**(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
+**(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow](<Widow's_Hollow.md>).**_
 
 -   You regenerate your armour at campfires.
     -   Can be done at Power 20 for an extra deck of cards.
 
-**(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
+**(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple](Lightkeeper_Temple.md).**
 
 -   Following Hive R&D, the restrictions on the Fountain Gate network's Vow have been relaxed. Merely having seen the majesty of the Greathive from afar is enough to create the mental link that enables one to utilise the network. **Fountain Gates can now be used at any Power so long as you've visited the Eastern Luminant on that character and have unlocked the Hive Gate on your account**
 
@@ -328,7 +328,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for a mantra with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
--   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward **Echoes**.
+-   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
 -   Chain of perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self.

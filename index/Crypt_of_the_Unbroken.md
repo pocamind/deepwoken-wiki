@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 104779
+revid: 107310
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Voidzones]
@@ -82,7 +82,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by Immortal Guardians, similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the Immortal Guardians out of the dungeon to avoid going to The Depths because it is a Voidzone.
 
--   Tip: With the assassin talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
+-   Tip: With the assassin Talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.
 -   The Crypt of the Unbroken may be the resting place of [Sudaruska](Gran_Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.

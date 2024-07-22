@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 106810
+revid: 107649
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -81,7 +81,7 @@ Template:Creature Infobox V3 These Angels are like no other variants - they are 
 ## Trivia
 
 -   Similar to Mudskippers, Angels AI dictates them to keep out of your effective range. They will constantly back up but still keep you within the range of their spears.
--   All Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this. In other words, like all enemies who are capable of blocking your attacks: You cannot damage these things whatsoever without an absurd amount of PDPS (Posture Damage Per Second).
+-   All Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or Talents that will bypass this. In other words, like all enemies who are capable of blocking your attacks: You cannot damage these things whatsoever without an absurd amount of PDPS (Posture Damage Per Second).
 -   If you climbed up to escape Lesser Angels, they will not automatically despawn until after a prolonged period so **DO NOT JUMP DOWN TO THE SPOT WHERE YOU CLIMBED TO ESCAPE**
 -   Fire Blade and Rapid Punches can easily kill the Angels since these mantra stuns the enemy, and you can use that stun time to hit the Angel.
 -   Lesser Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.

@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 104749
+revid: 107652
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -18,7 +18,7 @@ Charm is a system used by Charisma builds to buff and debuff both allies and ene
 
 ## Talents
 
-Charm talents can be split into two categories; those that give enemies charm and usually an effect specific to that instance of charm, and those that modify your charm as a whole. It is yet unknown whether multiple of the first type of charm talents can stack, but the second type is always affecting those charmed by you.
+Charm Talents can be split into two categories; those that give enemies charm and usually an effect specific to that instance of charm, and those that modify your charm as a whole. It is yet unknown whether multiple of the first type of charm Talents can stack, but the second type is always affecting those charmed by you.
 
 ### Charm Giving Talents
 
@@ -46,7 +46,7 @@ Charm talents can be split into two categories; those that give enemies charm an
 
 Vow of Mastery is obtainable at 20 Charisma.
 
-You start with four commands when you obtain [Vow of Mastery,](Vow_of_Mastery.md) Say, Sleep, Drop and Eat.
+You start with four commands when you obtain [Vow of Mastery](Vow_of_Mastery.md), Say, Sleep, Drop and Eat.
 
 Sing has a fairly large hitbox.
 

@@ -1,6 +1,6 @@
 ---
 title: Burning Stone Gardens
-revid: 69386
+revid: 107654
 source: https://deepwoken.fandom.com/wiki/Burning_Stone_Gardens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
@@ -30,7 +30,7 @@ Burning Stone Gardens will precipitate Poison Rain, and the water found here wil
 
 ## Megalodaunt Hunt Quest
 
-At the entrance to Burning Stone Gardens, an Etrean guard named Arthur waits. To complete this quest, you need to kill one megalodaunt. After completing this quest, you will recieve the Engage and Critical Strike Echo talents, meaning you will always get these talents no matter what at level 3 and 5.
+At the entrance to Burning Stone Gardens, an Etrean guard named Arthur waits. To complete this quest, you need to kill one megalodaunt. After completing this quest, you will recieve the Engage and Critical Strike Echo Talents, meaning you will always get these Talents no matter what at level 3 and 5.
 
 ## Maps
 

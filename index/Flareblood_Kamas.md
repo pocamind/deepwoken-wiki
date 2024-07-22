@@ -1,9 +1,9 @@
 ---
 title: Flareblood Kamas
-revid: 106925
+revid: 107394
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Unique Critical]
+categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
 ---
 
 # Flareblood Kamas
@@ -50,4 +50,4 @@ The critical has a cooldown of eight seconds.
 -   While its damage is high, it is only rivaled by the [Alloyed Whaling Knife](Whaling_Knife.md) and the [Alloyed Tanto](Tanto.md). The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blade](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.
--   The Flareblood Kamas were the first weapon to be exclusive to a single source, with the [Kyrsieger](Kyrsieger.md) being the only other weapon to share this trait.
+-   The Flareblood Kamas were the first weapon to be exclusive to a single source.

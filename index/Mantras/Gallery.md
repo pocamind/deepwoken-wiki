@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 106800
+revid: 107427
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement]
 
 # Mantras/Gallery
 
-[Overview](../Mantras.md)Gifs
+[Overview](../Mantras.md)**Gifs**
 
 ## 
 
@@ -139,7 +139,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Rare Flamecharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
--   Buffed by the [Concussive Flash](../Talents.md) talent, causing all blinded enemies to be dazed.
+-   Buffed by the [Concussive Flash](../Talents.md) Talent, causing all blinded enemies to be dazed.
 -   Can be upgraded with Aeon Logstones to make the blind last longer.
 -   Great with Wayward Gem
 -   Like venting, this seemingly does no damage, but can actually knock opponents.[\[1\]](#cite-note-1)
@@ -160,7 +160,7 @@ _A blast of flame._
 -   Cone shaped hitbox.
 -   Deals moderate damage.
 -   Inflicts Burn.
--   Can be upgraded with the [Wildfire](../Talents.md) talent.
+-   Can be upgraded with the [Wildfire](../Talents.md) Talent.
 
  |
 |  | 
@@ -339,7 +339,7 @@ _Strike the ground, turning it to ash._
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -378,7 +378,7 @@ _Leap up leaving behind a burst of flames._
 
  |
 
-### **Support Mantras**
+### Support Mantras
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -453,7 +453,7 @@ _Undying flame._
 
 ### 
 
-> **Thundercall**
+> Thundercall
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -595,7 +595,7 @@ Thunder Kick
 -   Guard Breaks at Level 5
 -   8 Second Cooldown.
 -   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
-    -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the talent will not activate if being parried, blocked or dodged.
+    -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the Talent will not activate if being parried, blocked or dodged.
 
  |
 |  | 
@@ -671,7 +671,7 @@ Rising Thunder
 
  |
 
-### **Support Mantras**
+### Support Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -721,7 +721,7 @@ Spark Swap
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -747,7 +747,7 @@ Lightning Cloak
  | A cloak of lightning itself. | 20 Ether | Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges).
 
 -   A combative action, such as blocking parrying or attacking, must be used within **8 seconds** or the mantra is deactivated and goes on cooldown.
--   Lasts a duration of 6.5 - 60 seconds.
+-   Lasts a duration of 6.5 – 60 seconds.
 -   Cannot last longer than 60 seconds.
     -   Can be modified with **Aeon/Eternal Logstones** to make the dashes go further.
 
@@ -815,7 +815,7 @@ _An icy chokehold._
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
 -   If damage is enough to reduce opponent's health to 0, instantly kill them upon posture break.
--   Compatible with a [Blast Spark](../Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
+-   Compatible with a [Blast Spark](../Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the Talent Glacial ice.)
 -   Applies 4 second chill with one eternal logstone.
 
  |
@@ -837,7 +837,7 @@ _Revolving blades of ice._
 -   Deals light damage.
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
--   Incredibly good with the **Glass Path: Crystallization** talent.
+-   Incredibly good with the **Glass Path: Crystallization** Talent.
 -   the aoe can be increased with 2 stratus stones.
 
  |
@@ -856,7 +856,7 @@ _A legion of frost._
 
 -   Deals Moderate damage if both blows hit.
 -   Inflicts 2 seconds chill per hit. Can't be increased.
--   Leaves ice where the Mantra is casted. (With 3 vibrant gems and the talent glacial ice you can spawn massive ice floors with it)
+-   Leaves ice where the Mantra is casted. (With 3 vibrant gems and the Talent glacial ice you can spawn massive ice floors with it)
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](../Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](../Mantra_Modifiers.md) to get the same effect.
 -   Can be modified with [Blast Spark](../Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
 -   You can add 1 stratus stone to make it bigger.
@@ -1176,7 +1176,7 @@ _Swift bolts of frozen air._
   <td><center><i>A servant of ice.</i></center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
-    <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
+    <li>The "<b>Glacial Ice</b>" Talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1239,8 +1239,7 @@ _Skate freely on paths of ice._
 
 -   Knocked players cannot be held while this mantra is active.
 -   When below mantra level 5, gradually loses height similar to gliders.
--   Height loss gain at level 5 is negligible, but still present.  
-    
+-   Height loss gain at level 5 is negligible, but still present.
 
  |
 
@@ -1261,7 +1260,7 @@ _Slicing blades of wind._
  | 40 Ether | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
--   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
+-   Can be improved with the "_Tempest Wind" Talent_, a learnable Talent.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
@@ -1441,7 +1440,7 @@ _Grab your target and toss them with the power of gale._
 -   Procs "Breathing Impact" if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
--   The "**Skull Crusher**" talent is now innate with this mantra.
+-   The "**Skull Crusher**" Talent is now innate with this mantra.
 
  |
 |  | 
@@ -1538,7 +1537,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 <table><caption></caption>
 <tbody>
@@ -1570,7 +1569,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 </tbody>
 </table>
 
-### **Support Mantras**
+### Support Mantras
 
 | Image | Spell | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -1776,7 +1775,7 @@ Shadow Vortex
 
  |
 
-### **Support**
+### Support
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -1823,7 +1822,7 @@ Currently can bug, not allowing you to complete the ritual cast and requiring yo
 
  |
 
-### **Mobility**
+### Mobility
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -1925,7 +1924,7 @@ Shadow Assault
 -   Functions similar to Galebreathe's [Gale Trap](../Galebreathe.md) mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.
--   With the [Laced Traps](../Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
+-   With the [Laced Traps](../Talents.md) Talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
 -   Can be modified with **Cloudstones/Stratus Stones**.
 -   Applies Metal Rods on every 2 hits.
@@ -2019,7 +2018,7 @@ Shadow Assault
  | Crush your opponents bones with an iron infused grab. | 40 Ether | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
 -   The spell locks on to targets within a close frontal radius. Applies Metal Rods on hit.
--   With the [Metal Absorption](../Talents.md) talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
+-   With the [Metal Absorption](../Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
 
  |
 | 
@@ -2089,7 +2088,7 @@ Shadow Assault
  | Coat your skin with metal to reduce harm. | 20 Ether | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
 
 -   During usage, the user is unable to move nor act.
--   With the [Intuitive Repairs](../Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
+-   With the [Intuitive Repairs](../Talents.md) Talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
 -   Can be upgraded with **Aeon/Eternal Logstones** for increased duration.
 
 Does not negate deferred, fire or fall damage.
@@ -2125,6 +2124,10 @@ Metal Wisp
     -   Therefore at times, armor might be regenerated until 90% but others could be 100% depending on how much you placed in Ironsing.
 
  |
+
+## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=USPLPJLZQiw](https://www.youtube.com/watch?v=USPLPJLZQiw)
 2.  [↑](#cite-ref-2) With the opponent having 42 Posture and Murmur: Ardour, they will receive 96% of their posture.

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 105942
+revid: 107301
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -22,7 +22,7 @@ categories: [Weapons, Pages with broken file links, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Way of Navae) , Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata) , Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Jus Karita) , Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. |
+| obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. |
 | description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita, "Your bare fists. Worth a shot, right?" -"'Starting Weapon Description'" |
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
@@ -67,5 +67,5 @@ _Main Page: [Jus Karita](Jus_Karita.md)_
     -   Kind of makes sense as you're hitting metal with your bare fists.
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling up Light Weapon Scaling anyway.
 -   Fist's critical attacks are very good as they are unique. Using your critical attack in some situations can catch the enemies off guard giving free damage.
--   Previously, _Captain Etrea_ did nothing and it's description said it would let you wield a shield while using a fist style, but the talent has been reworked.
+-   Previously, _Captain Etrea_ did nothing and it's description said it would let you wield a shield while using a fist style, but the Talent has been reworked.
 -   Ragoozer has an exclusive fist style for his spec. This fist style is very similar to that of an advanced fist form in Rogue Lineage.

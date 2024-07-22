@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 106353
+revid: 107235
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -29,7 +29,7 @@ Like all other elements, users can see their Mantras become stronger with traini
 -   At Galebreathe level 1, Galebreathers receive the _Galebreather_ Talent. This allows players to use 0-star Galebreathe mantras.
 -   At Galebreathe level 20, players receive the _Adept Galebreather_ Talent. This allows players to use 1-star Galebreathe mantras.
 -   At Galebreathe level 30, players receive the _Expert Galebreather_ Talent. This allows players to use 2-star Galebreathe mantras.
--   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent. This finally allows Galebreathe users to unlock the last category, 3-star Mantras. This talent also grants +5 HP.
+-   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent. This finally allows Galebreathe users to unlock the last category, 3-star Mantras. This Talent also grants +5 HP.
 
   
 The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained at the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md) (assuming you have Galebreathe unlocked), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
@@ -41,7 +41,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ## Mantras
 
-### **Combat Mantras**
+### Combat Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ _Slicing blades of wind._
  | 40 Ether | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
--   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
+-   Can be improved with the "_Tempest Wind" Talent_, a learnable Talent.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
@@ -236,7 +236,7 @@ _Grab your target and toss them with the power of gale._
 -   Procs "Breathing Impact" if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
--   The "**Skull Crusher**" talent is now innate with this mantra.
+-   The "**Skull Crusher**" Talent is now innate with this mantra.
 
  |
 |  | 
@@ -333,7 +333,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 <table><caption></caption>
 <tbody>
@@ -365,7 +365,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 </tbody>
 </table>
 
-### **Support Mantras**
+### Support Mantras
 
 | Image | Spell | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -391,7 +391,7 @@ _A servant of wind._
 
 **Aeromancer:**
 
-These talents are found in the _Aeromancer_ category.
+These Talents are found in the _Aeromancer_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -499,7 +499,7 @@ N/A
 
 **Galebreather:**
 
-These talents are found in the _Galebreather_ category.
+These Talents are found in the _Galebreather_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -561,7 +561,7 @@ You can now obtain 3-star Galebreathe mantras.
 
 **Gale Duelist:**
 
-These talents are found in the _Gale Duelist_ category.
+These Talents are found in the _Gale Duelist_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -581,7 +581,7 @@ Sends user and opponent into the air.
 
 **Galeforce:**
 
-These talents are found in the _Galeforce_ category.
+These Talents are found in the _Galeforce_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -629,7 +629,7 @@ Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering
 
 **Legion Shock Trooper:**
 
-These talents are found in the _Legion Shock Trooper_ category.
+These Talents are found in the _Legion Shock Trooper_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -694,13 +694,13 @@ Create a step of wind below you when jumping in the air. Jumping while sliding d
 
 **Silencer:**
 
-These talents are found in the _Silencer_ category.
+These Talents are found in the _Silencer_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 | File:A World Without Song.jpg | 
 A World Without Song  
-(GALE 75, POWER 10, All Silencer talents)
+(GALE 75, POWER 10, All Silencer Talents)
 
  | 
 
@@ -728,7 +728,7 @@ Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
 
 **Whisper:**
 
-These talents are found in the _Whisper_ category.
+These Talents are found in the _Whisper_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -748,7 +748,7 @@ Every 3 hits landed by perfectly casted Galebreathe mantras will cause the targe
 
 **Vigil of Winds:**
 
-These talents are found in the _Vigil of Winds_ category.
+These Talents are found in the _Vigil of Winds_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -768,13 +768,13 @@ Inhaling a spell will cause the wind to be applied to your melee attack.
 
 **Scholar of the Cloud:**
 
-These talents are found in the _Scholar of the Cloud_ category.
+These Talents are found in the _Scholar of the Cloud_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
 Windwaker  
-(GALE 50, Quest talent)
+(GALE 50, Quest Talent)
 
  | 
 
@@ -788,7 +788,7 @@ N/A
 
 **Specter:**
 
-These talents are found in the _Specter_ category.
+These Talents are found in the _Specter_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -847,7 +847,7 @@ Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your ta
 N/A
 
  |
-| File:Possesion specter talent.gif | 
+| File:Possesion specter Talent.gif | 
 
 Possession  
 (Haunted Path: Specter, 75 GALE)
@@ -864,34 +864,34 @@ N/A
 
 ## Trivia
 
--   The **Windwaker** talent is a direct reference to the Legend of Zelda main series game "The Wind Waker," both in name and function, as there is a special song you can play to cause the winds to propel your boat.
+-   The **Windwaker** Talent is a direct reference to the Legend of Zelda main series game "The Wind Waker," both in name and function, as there is a special song you can play to cause the winds to propel your boat.
 -   After expressing a desire to make a new 0 Star Mantra for Galebreathe, developer ragoozer was presented with an image created by discord user Necros75, which he promptly added to the game as Gale Kick.[\[1\]](#cite-note-1)
 -   [Primadon](Primadon,_Titan_of_the_East.md) is completely immune to suffocation.
 -   Light Green Mudskippers are able to use a buffed version of the **Air Force** mantra, with greater knockback.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
     To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI. Like any other wisp in the game.
--   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
--   The _"Gale Leap"_ talent requires cliffs of certain height. Strangely, the talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
+-   The _"Wind Step"_ Talent can be used by other players for a short period after being placed.
+-   The _"Gale Leap"_ Talent requires cliffs of certain height. Strangely, the Talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
 -   The \[Q\] key activates Gale Dash.
 -   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
--   Jumping before activating the _"Tempest Wind"_ talent will propel the user forward by a few studs while releasing a sound cue.
+-   Jumping before activating the _"Tempest Wind"_ Talent will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know you're doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.
     -   _"Winded"_ reduces your opponent's attack speed.
     -   _"Suffocate"_ prevents the opponent from using mantras; the opponent will also have a resonance-like effect circling their neck when applied.
-        -   The duration can be extended with the _"Gale Coil"_ talent.
+        -   The duration can be extended with the _"Gale Coil"_ Talent.
     -   It is the only Attunement to be able to do this without any evolution paths.
 -   Allows for the most agile and swift mobility in Deepwoken.
 -   **Heavenly Wind** may also double as a mobility mantra as you can take advantage of its upward boost by cancelling the mantra.
--   **Wind Blade** with its talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
--   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
+-   **Wind Blade** with its Talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
+-   The "_Gale Leap_" Talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
 -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
--   The wind phantom visual from the "_Haunted Gale_" talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)
+-   The wind phantom visual from the "_Haunted Gale_" Talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)
 -   "_Tempest Wind_" can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
     -   Alternatively, you could cast it early to feint the M1 but due to its low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counterattack after blocking or rolling the M1, but this is negated by parries.
--   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. The [Gale Step and Aerogliding](Talents.md) talents, along with all of the [Jetstriker](Oath%253A_Jetstriker.md) talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
+-   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. The [Gale Step and Aerogliding](Talents.md) Talents, along with all of the [Jetstriker](Oath%253A_Jetstriker.md) Talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
 
 Galebreathe is also good for pressuring because of its high speed
 

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 105493
+revid: 107296
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -51,7 +51,7 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
 
   
 
-Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embrace the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
+Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those Talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embrace the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
 
 (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
@@ -59,8 +59,7 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 
   
 
--   Increased resistance to the effects of [The Depths](The_Depths.md)  
-    
+-   Increased resistance to the effects of [The Depths](The_Depths.md)
 -   Deep Shrines are cheaper for you, meaning that you have less of a need to gain Knowledge.
     
 
@@ -109,7 +108,7 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
     -   The mesh and texture for the old Ganymede hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
-    -   They are the only race to have their racial talent updated.
+    -   They are the only race to have their racial Talent updated.
 -   Ganymede's name and the names of its variants are taken from the moons of celestial bodies.
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.

@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 102821
+revid: 107606
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -28,4 +28,4 @@ categories: [Equipment, Legs, Boots]
 
 Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Summer Isle](Summer_Isle.md).
 
-Novice Boots are part of the "**Novice**" set; with the only other armor piece being the [**Novice Brace**](Novice_Brace.md).
+Novice Boots are part of the "**Novice**" set; with the only other armor piece being the **[Novice Brace](Novice_Brace.md)**.

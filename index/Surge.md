@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 91604
+revid: 107656
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -12,7 +12,7 @@ Template:NPC name
 
 ## Description
 
-Surge is a Canor man located in Scyphozia. He is interested in the [Deep Owl](Deep_Owl.md), and will teach you tricks of the mind in return for [Void Feathers](Dark_Feather.md). The first time you give him a [Dark Feather](Dark_Feather.md) he will teach you the [Visionshaper oath](Oath%253A_Visionshaper.md), provided you have the other requirements. You unlock mantras and talents by giving him [Void Feathers](Dark_Feather.md), a total of 5 to obtain all mantras and talents.
+Surge is a Canor man located in Scyphozia. He is interested in the [Deep Owl](Deep_Owl.md), and will teach you tricks of the mind in return for [Void Feathers](Dark_Feather.md). The first time you give him a [Dark Feather](Dark_Feather.md) he will teach you the [Visionshaper oath](Oath%253A_Visionshaper.md), provided you have the other requirements. You unlock mantras and Talents by giving him [Void Feathers](Dark_Feather.md), a total of 5 to obtain all mantras and Talents.
 
 In order to get to Surge, you must enter the [Deep Widow](Deep_Widow.md) cave in The Depths. Note that the Widow will continually pull you if you do not kill it beforehand, but it is possible to talk to Surge without killing it.
 

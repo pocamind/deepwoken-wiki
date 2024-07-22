@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 106891
+revid: 107645
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, The Divers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Funke is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Thundercall](Thundercall.md) trainer.
 
-In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five oath talents. They are found at the 2nd floor of the [Summer Isle's](Summer_Isle.md) castle inside the alchemy room.
+In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five oath Talents. They are found at the 2nd floor of the [Summer Isle's](Summer_Isle.md) castle inside the alchemy room.
 
 ## Moveset
 
@@ -64,7 +64,7 @@ Funke executes his opponent after knocking them:
 
 ## Trivia
 
--   Both he and [Nell](Nell,_Master_of_Frost.md) wear the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers. [\[1\]](#cite-note-1)
+-   Both he and [Nell](Nell,_Master_of_Frost.md) wear the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
     -   If they are indeed Divers, this would make him and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
 -   Funke is the German word for "spark".
 -   He did not wield the [Stormseye](Stormseye.md), after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.[\[2\]](#cite-note-2)
@@ -72,6 +72,8 @@ Funke executes his opponent after knocking them:
         -   Arch\_Mage stated the reason was rifles not being coded for NPCs, but [this was incorrect](<Summer_Dragoon_(NPC).md>).
 
 ## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)

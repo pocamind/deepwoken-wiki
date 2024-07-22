@@ -1,6 +1,6 @@
 ---
 title: Blizzard Knight
-revid: 106326
+revid: 107385
 source: https://deepwoken.fandom.com/wiki/Blizzard_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 Template:Creature Info Box v2
 
-## **Description**
+## Description
 
 Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of six.
 
@@ -18,7 +18,7 @@ They may only spawn in the area during the Winter [Season](Seasons.md). This wil
 
 Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
 
-## **Moveset**
+## Moveset
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -58,5 +58,5 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 ## Trivia
 
--   Stone Knights are artificial and are thus not affected by the "[Animal King](Regalia.md)" talent and will still attack if they spot you, and will just generally attack anything within their sight radius.
+-   Stone Knights are artificial and are thus not affected by the "[Animal King](Regalia.md)" Talent and will still attack if they spot you, and will just generally attack anything within their sight radius.
 -   **Do note that Rogue Hive Constructs will not attack Blizzard Knights, they will instead team up on you if you decide to aggravate both of them.**

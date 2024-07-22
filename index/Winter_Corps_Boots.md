@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 105065
+revid: 107463
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -29,4 +29,4 @@ Winter Corps Boots are accessories under the "_Boots_" category. They can be fou
 
 ## Trivia
 
--   The Winter Corps Boots is a part of the "**Winter Corps**" set; which currently only include the [**Winter Corps Parka**](Winter_Corps_Parka.md).
+-   The Winter Corps Boots is a part of the "**Winter Corps**" set; which currently only include the **[Winter Corps Parka](Winter_Corps_Parka.md)**.

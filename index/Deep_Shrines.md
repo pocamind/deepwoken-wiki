@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 106259
+revid: 107229
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -101,7 +101,7 @@ Trade a Talent of your choice and 5 Knowledges to perform a Talent Draw with 3 c
 
 ## Detail
 
--   One of the most valuable Deep Shrines, this let you obtain talents you might have missed.
+-   One of the most valuable Deep Shrines, this let you obtain Talents you might have missed.
 -   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
 -   To get a Rare Talent, you must trade in a Rare Talent.
 -   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite(s).
@@ -126,12 +126,12 @@ You need Power 8+ and NO OATH to perform this deal.
 
 -   The main purpose of the Shrine Of Order is allowing you to obtain expensive [Talents](Talents.md) or [Mantras](Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
 -   The stats that will be ordered are any of the stats that are non 0, beside racial stats, which need 3.
--   Certain talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
+-   Certain Talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
 -   A singular stat cannot lose more than 25 Points, with the exception of Attunement Stats.
--   Certain high requirement talents (e.g. All the Dead Gods, Reinforced Armor) will lose effectiveness if you go below their requirements with this shrine.
+-   Certain high requirement Talents (e.g. All the Dead Gods, Reinforced Armor) will lose effectiveness if you go below their requirements with this shrine.
     
 
 **Shrine of Conceit:**
@@ -174,12 +174,12 @@ For 10 Knowledges and a Mantra of your choice, obtain a Roll 2.
 
 ## Details
 
--   After you take 12 roll 2's, this shrine will no longer allow you to get any talents.
--   Lets you get 2 talents if you decide that you no longer want to use a mantra.
+-   After you take 12 roll 2's, this shrine will no longer allow you to get any Talents.
+-   Lets you get 2 Talents if you decide that you no longer want to use a mantra.
 -   Monster Mantras are not eligible to be divided.
--   You cannot obtain Rare talent cards.
--   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
--   If you do not meet the requirements for 2 or more talents, the shrine will not let you trade.
+-   You cannot obtain Rare Talent cards.
+-   There is a limit to the number of Talents you can get in general, this Shrine is not an infinite Talent generator.
+-   If you do not meet the requirements for 2 or more Talents, the shrine will not let you trade.
     
 
 **Shrine of Unification:**

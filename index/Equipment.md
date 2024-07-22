@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 106620
+revid: 107232
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -18,7 +18,7 @@ Equipment is a type of item found in chests, exchanged for using an [Artifact](A
 
 There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, and Rings.
 
-Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents (These talents cannot be used to obtain the talents for which they are required). Only some Head, Legs, Arms and Relics Equipments have talents. _These stats and talents are displayed in grey._
+Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be used to obtain the Talents for which they are required). Only some Head, Legs, Arms and Relics Equipments have Talents. _These stats and Talents are displayed in grey._
 
 All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
@@ -5215,7 +5215,7 @@ Found from:
 -   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
 -   Sanity pips give ether (+1, +2, +3, +4)
 -   Rare(Red) Monster Armor pips also gives +1% Physical Armor and +1% Elemental Armor
--   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12th, 2023)
+-   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
 -   The highest amount of Stealth you can achieve with equipment is 30%. (A Dark Owl Chapeau for +10%, a Mercenary's Garb/Ministry Cloak/Dark Owl Cloak for +6%, Shrouded Capes for +5%, a Duelist Mask for +6% and some Master Thief Earrings for +3%.)

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 102095
+revid: 107260
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1, InProgressPages]
@@ -32,9 +32,9 @@ Taking too long in a wave will automatically add the Timebomb modifier to the cu
 
 When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
 
-### **Shrine of Solitude**
+### Shrine of Solitude
 
-A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred talents and mantras regardless of origin.
+A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred Talents and mantras regardless of origin.
 
 ## Modifiers & Environmental Hazards
 
@@ -58,9 +58,9 @@ If during the waves, the text "Your past comes to haunt you..." appears, then en
 
 ## Recommendations and Advice
 
-The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
+The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right Talents and equipment to make haste of this trial.
 
--   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless you're Ironsing, have Bloodiron Spirit, or possess any Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
+-   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this Talent, unless you're Ironsing, have Bloodiron Spirit, or possess any Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
 -   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you ironically can't gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
@@ -206,5 +206,9 @@ Based on the power of the user(s), the starting wave will differ;
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
 -   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere,"\[Source Required\] referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
 -   The Diluvian Mechanism is one of the best ways to farm [Knowledge](Knowledge.md) by gaining [Moonseye Tomes](Moonseye_Tome.md) and just completing wave 50 in general.
+
+## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1) [Enchant Stone](Enchant_Stone.md)

@@ -1,6 +1,6 @@
 ---
 title: Eyeglasses
-revid: 104470
+revid: 107426
 source: https://deepwoken.fandom.com/wiki/Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]

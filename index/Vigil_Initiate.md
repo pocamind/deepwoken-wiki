@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 106623
+revid: 107396
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Etrea]
@@ -28,7 +28,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 
 This Outfit's Schematic can be found in:
 
--   Isle of Vigils, inside the Mantra shop.
+-   [Isle of Vigils](Isle_of_Vigils.md), inside the Mantra shop.
 
 ## Trivia/Notes
 

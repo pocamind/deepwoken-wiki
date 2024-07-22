@@ -1,9 +1,9 @@
 ---
 title: Whaling Knife
-revid: 104047
+revid: 107327
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Unique Critical]
+categories: [Weapons, Daggers, Weapons with Unique Criticals]
 ---
 
 # Whaling Knife
@@ -73,5 +73,5 @@ The user rushes forward while preforming a horizontal slash forward, the aforeme
     -   At max LHT, the alloyed damage is (24)
 -   The alloyed version has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
 -   Available on the Roblox catalog as a [waist accessory](https://www.roblox.com/catalog/14542129946/Whaling-Knife).
--   The critical formerly benefitted from the talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the talent stacked the chance to 40%.
+-   The critical formerly benefitted from the Talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the Talent stacked the chance to 40%.
 -   The model of this weapon its an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a special sword in [LotR](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) universe

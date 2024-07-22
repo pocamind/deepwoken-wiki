@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 97541
+revid: 107467
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -52,9 +52,9 @@ A Blacksteel pirate executes the player after knocking them:
 \[[Sword](<Sword_(weapon).md>) & [Messer](Messer.md)\] Pins down opponent and slices their throat with their blade.
 
  |
-| Drown | Since they do not have the Fishman talent, when you are knocked out in the water, they will spam mantras at you, eventually most
+| Drown | Since they do not have the Fishman Talent, when you are knocked out in the water, they will spam mantras at you, eventually most
 
-likely drowning you in the water. It is possible to survive this with the help of talents such as Scuba Drowner and Impervious Slumber.
+likely drowning you in the water. It is possible to survive this with the help of Talents such as Scuba Drowner and Impervious Slumber.
 
  |
 

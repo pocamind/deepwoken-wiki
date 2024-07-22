@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 106213
+revid: 107265
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -19,11 +19,11 @@ Random encounters are randomly spawning events that occur throughout target area
 
 A mother Thresher, Hive Construct, and an Authority Captain fighting each other at Starswept Valley.
 
-## **AI-Driven Encounters**
+## AI-Driven Encounters
 
 These events occur randomly in the world or within a location.
 
-### _**Etrean Luminant**_
+### _Etrean Luminant_
 
 #### Fight between Factions
 
@@ -90,7 +90,7 @@ Forgotten villagers
 
 A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire in [Erisor's Church](<Erisor's_Church.md>). Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five [Bandit Captains](Bandit_Leader.md) will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a [Rock Golem](Rock_Golem.md) will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
 
-#### **[Golden Warrior](Golden_Warrior.md)**
+#### [Golden Warrior](Golden_Warrior.md)
 
 **A Golden Warrior Bouncer in the neutral position.**
 
@@ -100,7 +100,7 @@ A fighter hailing from The [Rat's Den](<Rat's_Den.md>), recognizable by his gold
 
 A Hobo in the neutral position.
 
-#### **[Hobo](Hobo.md)**
+#### [Hobo](Hobo.md)
 
 The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned. The Hobo also uses the old AI of the Flamecharmer Monk.
 
@@ -140,7 +140,7 @@ An event that happens in[Starswept Valley](The_Starswept_Valley.md) or [Minityrs
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only aggro'd if it sees a player or provoked by an attack.
 
-### _**Eastern Luminant**_
+### _Eastern Luminant_
 
 #### Fight between Factions
 
@@ -195,7 +195,7 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
 
-### _**Sea Events**_
+### _Sea Events_
 
 Across the Luminants, events will appear in the seas. Some are challenges, some are rewards.
 
@@ -271,9 +271,9 @@ WARNING: Dropping the supply crate into the ocean will softlock the quest; both 
 
 A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur.md).
 
-Having the talent Condensation Drip will also allow the player to obtain the Murmur without a canteen.
+Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen.
 
-### _**The Depths (Scyphozia)**_
+### _The Depths (Scyphozia)_
 
 #### Mudskipper Attack
 
@@ -291,13 +291,13 @@ A randomly occurring event in which bounty hunters or faction soldiers will ambu
 
 These events are fixed at a certain place or time or are extremely rare.
 
-### **[Aelita](Aelita.md)**
+### [Aelita](Aelita.md)
 
 Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a [Felinor](Felinor.md) with the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 
 The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Blizzard Knight](Stone_Knight.md) event.
 
-### **[Akira](Akira.md)**
+### [Akira](Akira.md)
 
 An uncommon event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
@@ -319,18 +319,18 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), a [Rogue Construct](Hive_Construct.md) will spawn.
 
-### **[The Meat Lord](The_Meat_Lord.md)**
+### [The Meat Lord](The_Meat_Lord.md)
 
 The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md) and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
 
-### **Stranger NPC**
+### Stranger NPC
 
 An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Ministry Scout](Ministry_Scout.md) will reveal themselves with the Tacet effect, revealed sitting down. If you have 50 Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 5 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
 
-### **The Depths Collapse**
+### The Depths Collapse
 
 The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through the First Layer causing meteors to rain from above. 2-4 boulders slam down landing near the player and spawn monsters from each impact. These range from Threshers, Megalodaunts, and Deep Owls to even Nautilodaunts. These monsters are frequently hostile to each other and are eligible to be corrupted. After you killed all the mobs, a chest will spawn for each boulder that the event spawned. The loot has an extremely high likelihood of having at least one Master Schematic and Deep Gem per chest.
 
-### **Resonant Dawn**
+### Resonant Dawn
 
 A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Astral Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).

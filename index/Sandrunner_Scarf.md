@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 104768
+revid: 107547
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Scarves]
@@ -30,4 +30,4 @@ The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" cate
 
 ## Trivia
 
--   Part of the "Sandrunner" set; with the only other piece being the [Sandrunner Wraps.](Sandrunner_Wraps.md)
+-   Part of the "Sandrunner" set; with the only other piece being the [Sandrunner Wraps](Sandrunner_Wraps.md).

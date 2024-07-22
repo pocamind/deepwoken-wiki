@@ -1,6 +1,6 @@
 ---
 title: Woodland Pauldrons
-revid: 105140
+revid: 107589
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -31,4 +31,4 @@ The Woodland Pauldrons are an [Equipment](Equipment.md) item under the "Arms" ca
 ## Trivia
 
 -   The Woodland Pauldrons are part of the "Woodland" set; with the only other piece being the [Woodland Boots](Woodland_Boots.md).
--   Both the stats and talent given by them are completely identical to those given by the [Khan Pauldrons](Legion_Pauldrons.md).
+-   Both the stats and Talent given by them are completely identical to those given by the [Khan Pauldrons](Legion_Pauldrons.md).

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 106864
+revid: 107275
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -16,7 +16,7 @@ And now, a road that only one may walk...
 
 Entrance hallway of the Trial. The door ahead leads to the arena, two nonfunctional glowing gates to the left and right hallways.
 
-The **Trial of One** is a location in _Deepwoken_. It is currently one of the two wave-based dungeons in Deepwoken, the other being [The Diluvian Mechanism.](The_Diluvian_Mechanism.md)
+The **Trial of One** is a location in _Deepwoken_. It is currently one of the two wave-based dungeons in Deepwoken, the other being [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Overview
 
@@ -113,7 +113,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
 -   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resistance.
--   if you spawn in to the trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with talents/mantra choosing early on.
+-   if you spawn in to the trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with Talents/mantra choosing early on.
 -   If one angel dies the other despawns, allowing you to instantly win the angel trial. This can be done by burning a knocked angel.
 -   Using frostdraw and flamecharm for wardens blade and flame repulsion will get you extra damage and can burn the angels. By using wardens blades then critical when the npc spawns will do alot of damage and help
 
@@ -127,7 +127,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
 -   If you hold an armor piece in your hand when the trial would force you to discard it, it will allow you to keep it. (this might be a bug)
--   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
+-   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive Talent that allows you to use a stackable free point upon leveling up.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha Sharko.
 -   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.

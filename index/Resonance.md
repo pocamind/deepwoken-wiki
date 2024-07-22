@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 106851
+revid: 107620
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -71,7 +71,7 @@ Known side-effects include:
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
 -   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Poison**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
--   Some talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Megalomania.**
+-   Some Talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Megalomania.**
 
 In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.
 
@@ -140,12 +140,12 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <ul>
     <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a></li>
     <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Duke_Ishamon_Erisia.md">The Duke</a></li>
+    <li><a href="Duke_Ishamon_Erisia.md">Duke Erisia</a></li>
     <li><a href="The_Ferryman.md">The Ferryman</a></li>
     <li><a href="Stone_Knight.md#blizzard-knight">Blizzard Knights</a></li>
     <li><a href="Nautilodaunt.md">Nautilodaunt</a></li>
     <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser</a></li>
+    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Burning Blood</a></li>
   </ul></td>
   <td><b>Go to <a href="The_Depths.md">The Depths</a>, and kill Players, <a href="The_Depths.md">Corrupted Monsters</a>, and Monsters unique to The Depths.</b></td>
   <td><b>Fight and kill Players. Doing this via the <a href="Chime_of_Conflict.md">Chime Of Conflict</a> is recommended.</b></td>
@@ -166,24 +166,15 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   </p>
   <p><b>Listed from most to least preferred:</b></p>
   <ul>
-    <li><b><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></b> gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just 2-3 runs as well as dropping the best loot in the game. However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.<br>
-  </li>
-    <li><b><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Burning Blood</a></b> grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. Can be risky if the player is fighting Chaser for the first time, as the player can be wiped in the Second Layer. *<b><br>
-  </b></li>
-    <li><b><a href="Duke_Ishamon_Erisia.md">The Duke</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.<br>
-  </li>
-    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. However he is the most forgiving boss as he gives you more than enough time to set up a campfire and heal in between attacks (as long as you aren't too close to him). You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
-  </li>
-    <li><a href="Maestro_Evengarde_Rest.md"><b>Maestro Evengarde Rest</b></a> gives a good amount of progress and it's very easy to rematch him. However, he is extremely punishing to those unfamiliar with his moveset and has a lot of prerequisites (one of which includes high weapon investment meaning you simply can't fight him on an elemental build). Should you become familiar with his fight, you'll be rewarded with some of the best loot in the game and ease of access.<br>
-  </li>
-    <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. You can remove your murmur with a <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'shul wish</a><i><b>.</b></i><br>
-  </li>
-    <li><b><a href="Primadon,_Titan_of_the_East.md">Primadon</a></b> has been deemed less reliable to fight by the community upon the drop of <b><a href="Verse_2.md">Verse 2</a>.</b> While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. <b>Side: Primadon now provides Knowledge. See <a href="Knowledge.md">more</a>.</b><br>
-  </li>
-    <li><b><a href="Enforcer.md">The Enforcer</a></b> is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.<br>
-  </li>
-    <li><b><a href="Stone_Knight.md">Blizzard Knights</a></b> are, by far, one of the worst methods of getting Progress. They spawn in a <a href="Voidzones.md">voidzone</a> known as the <a href="The_Valley_of_Heroes.md">Valley of Heroes</a> in highly lethal swarms, during Winter in <a href="Minityrsa.md">Minityrsa</a>, and if that wasn't enough, they give almost no Progress... However, they can provide you with <a href="Hero_Blades.md">Hero Blades</a> if you're interested in getting one.<br>
-  </li>
+    <li><b><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></b> gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just 2-3 runs as well as dropping the best loot in the game. However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.</li>
+    <li><b><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Burning Blood</a></b> grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. Can be risky if the player is fighting Chaser for the first time, as the player can be wiped in the Second Layer. *<b></b></li>
+    <li><b><a href="Duke_Ishamon_Erisia.md">Duke Erisia</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.</li>
+    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. However he is the most forgiving boss as he gives you more than enough time to set up a campfire and heal in between attacks (as long as you aren't too close to him). You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b></li>
+    <li><b><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></b> gives a good amount of progress and it's very easy to rematch him. However, he is extremely punishing to those unfamiliar with his moveset and has a lot of prerequisites (one of which includes high weapon investment meaning you simply can't fight him on an elemental build). Should you become familiar with his fight, you'll be rewarded with some of the best loot in the game and ease of access.</li>
+    <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. You can remove your murmur with a <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'shul wish</a><i><b>.</b></i></li>
+    <li><b><a href="Primadon,_Titan_of_the_East.md">Primadon</a></b> has been deemed less reliable to fight by the community upon the drop of <b><a href="Verse_2.md">Verse 2</a>.</b> While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. <b>Side: Primadon now provides Knowledge. See <a href="Knowledge.md">more</a>.</b></li>
+    <li><b><a href="Enforcer.md">The Enforcer</a></b> is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.</li>
+    <li><b><a href="Stone_Knight.md">Blizzard Knights</a></b> are, by far, one of the worst methods of getting Progress. They spawn in a <a href="Voidzones.md">voidzone</a> known as the <a href="The_Valley_of_Heroes.md">Valley of Heroes</a> in highly lethal swarms, during Winter in <a href="Minityrsa.md">Minityrsa</a>, and if that wasn't enough, they give almost no Progress... However, they can provide you with <a href="Hero_Blades.md">Hero Blades</a> if you're interested in getting one.</li>
     <li><b><a href="Nautilodaunt.md">Nautilodaunts</a></b> are confirmed to give Progress, however due to being a rare and highly dangerous Depths mob that can be interrupted by other players, he is highly advised against, as this may as well just be the <b>worst way to get Progress</b> when looking at efficiency... Though, if you're interested in an <a href="Pathfinder_Elite.md">Elite Pathfinder</a>, you could try your luck.</li>
   </ul></td>
   <td>Only monsters unique to The Depths will count. This includes <a href="Gigamed.md">Gigamed</a>, <a href="Crustaceous_Rex.md">Crustaceous Rex</a>, <a href="Enforcer.md">The Enforcer</a>, and <a href="Nautilodaunt.md">Nautilodaunt</a>. <b>Other monsters WILL NOT give progress, unless they are Corrupted.</b><p><br>

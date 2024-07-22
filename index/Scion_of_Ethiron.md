@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 106231
+revid: 107272
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -62,7 +62,7 @@ File:Bone Toss.gif
 
 **Vehemens Ventus**
 
- | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses some variants of [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md), though it will be cancelled after a brief moment due to the amount of hits, will still work. Can be consistently parried or blocked with Hoplite + Paths Defender. Despite being called oneshot move, you can tank it with 500 hp, 37% monster and 37% phys armor, Keep in mind you will lose ~85% hp during that. | 
+ | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses some variants of [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md), though it will be cancelled after a brief moment due to the amount of hits, will still work. Can be consistently parried or blocked with Hoplite + Paths Defender. Despite being called oneshot move, you can tank it with 500 hp, 37% monster and 37% phys armor, Keep in mind you will lose ~85% hp during that. | 
 
 File:Ethi ult.gif
 
@@ -80,7 +80,7 @@ File:Ethi laser.gif
 
 **Whiplash**
 
- | Scion of Ethiron pulls its arm back and then swings it at the player. The arm will remain for 1-2 seconds after doing the attack, leaving the Scion vulnerable to a few hits. Does fairly high damage. | 
+ | Scion of Ethiron pulls its arm back and then swings it at the player. The arm will remain for 1–2 seconds after doing the attack, leaving the Scion vulnerable to a few hits. Does fairly high damage. | 
 
 File:Big fist.gif
 
@@ -110,7 +110,7 @@ To avoid, you must jump. You can just hold space and you'll be pretty much safe 
 
  | ✗ | ✗ | ◯ | (★★☆) |
 
-### **Passives**
+### Passives
 
 -   **Monster Resistance** - Physical attacks deal 25% less damage to the Scion of Ethiron.
 
@@ -120,7 +120,7 @@ This boss can be quite intimidating upon first glance at its sheer size. As with
 
 Immediately after you summon it, attempt to make your way over to the bone pillars located on the left side of the first floor. You must parry/block the bones thrown by the boss and place them in each pillar. Upon the placement of all 3 bones, stairs to the next floor will be conjured. The process will repeat itself for all 3 floors until placing the last bone on the third floor, in that case the boss will be restrained and subsequently allow you to attack it. If the boss is being beaten alone, this may take 2-3 cycles depending on the build of the player. Since it is unlikely it will be taken down in one cycle, it will most likely break free from the chains, causing it to begin attacking you again. There will be a bone missing from 1 pillar on each floor, thus requiring you to find them and replace them, although much more quickly. It's recommended to do the 2nd floor last, if possible, to minimize the amount of time running to one of its arms. Efficiently doing this will allow you to defeat the Scion of Ethiron.
 
-Most of the Scion's attacks are very easy to parry/dodge, as they are easily telegraphed by both the sound and its movements. Due to its sheer size, they're also quite slow, allowing more leeway to react. Regardless, its ultimate is undoubtedly it's most deadly attack. This attack can end you within seconds. Thus, it is **HIGHLY** recommended that you maintain your distance from it when it's charging it, along with having a mobility mantra at your disposal such as Shoulder Bash, Flame Assault, Dash, Lightning Assault, etc. If not, having the [Portals](Portals.md) resonance or Beast Burrow can also be used to evade it through invincibility frames. It is wise to wait for the for the moment it launches the attack before attempting to evade it, which is signaled by the lack of sound from the attack. Not having any of these leaves dodging your only reliable option. If you have the ghost talent, you can simply wait for the ultimate to reach you, then dodge it, and walk out of it in your invincibility frames. Keep in mind that dodging late will make you take a bit of damage and dodging early will wipe you instantly. If you do not have the ghost talent, you should slide jump then air dodge when the ultimate is near to you, since this way you travel the farthest the fastest. If on the third floor, do note that the attack will **NOT** collide with the floor and will still go straight for you. All in all, knowing how to evade this attack will effectively eliminate nearly all risks of dying to this boss. (**Note: You are unable to dodge properly when holding a bone.**)
+Most of the Scion's attacks are very easy to parry/dodge, as they are easily telegraphed by both the sound and its movements. Due to its sheer size, they're also quite slow, allowing more leeway to react. Regardless, its ultimate is undoubtedly it's most deadly attack. This attack can end you within seconds. Thus, it is **HIGHLY** recommended that you maintain your distance from it when it's charging it, along with having a mobility mantra at your disposal such as Shoulder Bash, Flame Assault, Dash, Lightning Assault, etc. If not, having the [Portals](Portals.md) resonance or Beast Burrow can also be used to evade it through invincibility frames. It is wise to wait for the for the moment it launches the attack before attempting to evade it, which is signaled by the lack of sound from the attack. Not having any of these leaves dodging your only reliable option. If you have the ghost Talent, you can simply wait for the ultimate to reach you, then dodge it, and walk out of it in your invincibility frames. Keep in mind that dodging late will make you take a bit of damage and dodging early will wipe you instantly. If you do not have the ghost Talent, you should slide jump then air dodge when the ultimate is near to you, since this way you travel the farthest the fastest. If on the third floor, do note that the attack will **NOT** collide with the floor and will still go straight for you. All in all, knowing how to evade this attack will effectively eliminate nearly all risks of dying to this boss. (**Note: You are unable to dodge properly when holding a bone.**)
 
 Both the bone and beam attacks can be parried with relative ease. For the beam, rapidly pressing F is the best option. The parry timing for the bones can be a bit janky as the bones seem to hit you sooner than you think they would. It's recommended you learn to parry them if you don't have a lot of posture to spare. The interval in between each bone is the same though, so once you get the rhythm down it should be smooth sailing from that point. There is also another type of attack it may use where bones sprout from the ground, instantly block-breaking you. They appear 3 times, each time right under you forcing you to either run or dodge. Getting hit will fling you into the air, ragdolling you in the process. It can also use a similar attack, but unlike the previous one, the bones will move in a wave like formation in a circle around the floor. This attack is used much less often though. It also has a blind attack but pay this little to no mind. Finally, it may attempt to hit you with its arms of course, but this can easily be parried and even allows you to sneak 2-3 hits in.
 

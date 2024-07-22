@@ -1,6 +1,6 @@
 ---
 title: Crafting Station
-revid: 96480
+revid: 107419
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics]
@@ -13,7 +13,7 @@ categories: [World, Mechanics]
 
 ## Description
 
-Crafting Stations are a utility item that are used to craft more advanced recipes. They are typically found in larger settlements like Etris or the Isle of Vigils.
+Crafting Stations are a utility item that are used to craft more advanced recipes. They are typically found in larger settlements like [Etris](Etris.md) or the [Isle of Vigils](Isle_of_Vigils.md).
 
 Crafting Stations resemble typical tables with a large open space in the center.
 
@@ -23,7 +23,7 @@ Crafting Stations can be used to build more complex items that can't be built in
 
 To use the Crafting Table, you must click E within a certain proximity of it, causing you to bend over and it and start looking around, and use the crafting section in your inventory. To see recipes that the Crafting Station can be used for, see Crafting Recipes & Alchemy.
 
-You can avoid using the crafting station with the talent "Master Craftsman", making it easier for you to craft without having to go to Etris or Isle of Vigils
+You can avoid using the crafting station with the Talent "Master Craftsman", making it easier for you to craft without having to go to Etris or the Isle of Vigils.
 
 A few items you build here must be learned with a Schematic.
 

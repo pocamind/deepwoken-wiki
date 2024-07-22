@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 103305
+revid: 107350
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]

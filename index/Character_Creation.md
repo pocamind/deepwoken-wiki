@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 104847
+revid: 107418
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -18,7 +18,7 @@ Character Creation screen
 
 The world of Deepwoken presents many [Races](Aspects.md), with each one of them having its own [lore](Lore.md) and origin. As a player, you start on each character slots with a random Race assigned to you by the game automatically. If you want to change your Race, you may re-roll it by buying an in-game service for 150 Robux (R$).
 
-Unlike in other games, Races do not give a player major advantage over other players. However, some Races do have special abilities related to the lore of the specific Race. For instance, [ships](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) race gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
+Unlike in other games, Races do not give a player major advantage over other players. However, some Races do have special abilities related to the lore of the specific Race. For instance, [Boats](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) race gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
 
 Currently the game contains a total of **twelve** obtainable Races, with their own special abilities, cosmetics, appearance and accessories that can change depending on the Race. Scars, eyes and face design is mostly the same for each Race, with some exceptions.
 
@@ -147,22 +147,22 @@ There are four total [Origins](Origins.md) you can decide between. **These can b
 
 Castaway is an Origin granted by joining Deepwoken for the first time, and gives a blank slate for starting your character; no pros or cons.
 
-### [Etris](Etris.md)
+### Etris
 
-Etris is a large set of islands and land formations and is very simply layout. There is a central island with a large tree that has white bark, which has 4 bridges each leading to the Blacksmith, Weapon and Mantra shops; Bank and General store.
+[Etris](Etris.md) is a large set of islands and land formations and is very simply layout. There is a central island with a large tree that has white bark, which has 4 bridges each leading to the Blacksmith, Weapon and Mantra shops; Bank and General store.
 
 Here is what makes Etris unique:
 
 -   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Darksteel Greatsword](Darksteel_Greatsword.md) with a rag, who gives you a [Gold Ring](Equipment.md#rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
 -   The NPC who greets you grants, unlike the NPC in Vigils who only gives.
--   You can do the [The Lord Regent's Quest](Etris.md#the-lord-regents-quest) in order to get the [Manor Key](Manor_Key.md) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
--   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the [Etris](Etris.md) blacksmith.
+-   You can do the Lord Regent's Quest in order to get the [Manor Key](Manor_Key.md) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
+-   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the Etris blacksmith.
 -   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.
 -   [Calabash](Calabash.md).
 
-### [Isle of Vigils](Isle_of_Vigils.md)
+### Isle of Vigils
 
-The Isle of Vigils is a small island with a fortress guarded by [Vigils](Blade_Temple_Guard.md) with [Katanas](Katana.md). The [Antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food. It is recommended for starters as it has an NPC that allows you to get better at combat and it is easier to get to [Erisia](Erisia.md) from the docks.
+The [Isle of Vigils](Isle_of_Vigils.md) is a small island with a fortress guarded by [Vigils](Blade_Temple_Guard.md) with [Katanas](Katana.md). The [Antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food. It is recommended for starters as it has an NPC that allows you to get better at combat and it is easier to get to [Erisia](Erisia.md) from the docks.
 
 Here is what makes the Isle of Vigils unique:
 

@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 104527
+revid: 107500
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

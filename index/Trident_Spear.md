@@ -1,9 +1,9 @@
 ---
 title: Trident Spear
-revid: 104898
+revid: 107308
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Unique Critical]
+categories: [Weapons, Spears, Weapons with Unique Criticals]
 ---
 
 # Trident Spear
@@ -66,6 +66,6 @@ The critical has a cooldown of **6 seconds**.
 -   At max MED, the non-alloyed damage is (27.6)
     -   At max MED, the alloyed damage is (29)
 -   Used by [Celtor Guards](Celtorian_Guard.md), referencing the city's previous fishing-based economy.
--   Alloyed form rivals, if not overtakes, the [Serrated Warspear](Serrated_Warspear.md) in terms of endgame damage if paired with Speed Demon talent at 100 MED stat.
+-   Alloyed form rivals, if not overtakes, the [Serrated Warspear](Serrated_Warspear.md) in terms of endgame damage if paired with Speed Demon Talent at 100 MED stat.
 -   The trident spears unique critical was capable of One-shotting players when paired with certain enchants.
 -   Using the critical mid-air will suspend the player and move them forward.

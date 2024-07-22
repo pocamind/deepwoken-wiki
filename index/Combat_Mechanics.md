@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 106857
+revid: 107273
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -52,7 +52,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Cooldown Indicators</th>
-  <td>Cooldown Indicators represent the cooldown for mostly everything in-game, from talents like kick-off, propagandist, and audacity, to criticals, feints, Resonances, and even special attacks like <a href="Gran_Sudaruska.md">Sudaruska's Fury</a>. It has the name of the cooldown on the left side, and the amount of time until you can use it on the right.<figure><figcaption></figcaption></figure></td>
+  <td>Cooldown Indicators represent the cooldown for mostly everything in-game, from Talents like kick-off, propagandist, and audacity, to criticals, feints, Resonances, and even special attacks like <a href="Gran_Sudaruska.md">Sudaruska's Fury</a>. It has the name of the cooldown on the left side, and the amount of time until you can use it on the right.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -162,7 +162,7 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
   <td><figure><figcaption></figcaption></figure><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <td><u>Abilities</u><p>1st place in the inventory. Consist of activatable talents like; Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of active mantras, ones that aren't recalled.</p>
+  <td><u>Abilities</u><p>1st place in the inventory. Consist of activatable Talents like; Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of active mantras, ones that aren't recalled.</p>
   <p>Weight: None</p></td>
   <td><u>Tools</u><p>2nd place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p></td>
   <td><u>Training Gear</u><p>3rd place in the inventory. Consist of items that train your characters attributes.</p>
@@ -215,7 +215,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   </p>
   <p>When 4 hits are swung consecutively without pauses, your character will kick your adversary away in an action called a Flourish. This is an "end" to your string of swings, and has a small amount of endlag before you can swing again- which can be circumvented by casting a Mantra directly after the Flourish. Landing a Flourish causes the target hit to be launched away from you, essentially preventing an infinite combo. Flourishes can only be feinted by casting a mantra.</p>
   <ul>
-    <li><i>Many talents modify your Flourish in different ways, from blurring someone's screen when they get pushed into a wall with the Concussion talent, burning someone with the Flaming Flourish talent or placing down Ice with the Chilling Flourish talent.</i></li>
+    <li><i>Many Talents modify your Flourish in different ways, from blurring someone's screen when they get pushed into a wall with the Concussion Talent, burning someone with the Flaming Flourish Talent or placing down Ice with the Chilling Flourish Talent.</i></li>
   </ul><p><br>
   Hitting or parrying opponents applies stun, which, for a slight moment, lowers their movement speed, disables their rolling, cancels their ability to attack, and nullifies the hitbox of any current mantras they are casting despite the continuing animation and visual effects.</p>
   <ul>
@@ -284,7 +284,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <td>Pressing <kbd>Q</kbd> allows you to Dash towards your desired direction, granting you immunity frames against most attacks, with the exception of a few.<p><br>
   </p>
   <p>You can roll-cancel by right-clicking- otherwise using <kbd>M2</kbd>- during the movement of your roll. For many experienced players, roll-canceling replaces Dashing as it is simply better in most cases, given that it cancels the endlag of your Dash as well as asserting yourself in combat and sizing up your adversary.<br>
-  Many talents exist to add properties to your Dashes. For example, if a <a href="Galebreathe.md">Galebreather</a> obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
+  Many Talents exist to add properties to your Dashes. For example, if a <a href="Galebreathe.md">Galebreather</a> obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
   <p><br>
   <i>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air, with the direction traveled depending on where your camera is facing.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
@@ -292,7 +292,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Stance Change</th>
   <td>Pressing the <kbd>Y</kbd> button will change your <i>Stance</i> from one-handed to two-handed. Many Light Weapons cannot switch their stance except for Fists, which can switch between their unlockable fist styles at will.<p><br>
-  <i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapon, and Heavy weapons can obtain this stance through the talent <i>One-Handed Training</i>. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
+  <i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapon, and Heavy weapons can obtain this stance through the Talent <i>One-Handed Training</i>. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
   <p><i><b>Two-Handed Stance:</b></i> This stance defaults to Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -313,12 +313,12 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <td>You may hit your adversaries up into the air with an <i>Uppercut</i> by pressing <kbd>M1</kbd> while holding <kbd>Ctrl</kbd>. If your opponent is a monster, they will fail to rise with you and instead remain grounded.<p><br>
   Uppercuts are advertised as anti-air tools, being able to counter an enemy that attempts to strike you from the air. The hitbox affects a wide area in front of you, covering the sides and front requiring you mostly to face your opponent when the move drives you forward to strike.</p>
   <p>Victims hit by Uppercuts are unable to block, and parry timing is seemingly tighter, which makes Uppercuts play a big role in combos. Comboing will keep you in the air, while feinting and parrying will drop both of you.</p>
-  <p>Certain talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some talents add properties to Flourishes.</p>
+  <p>Certain Talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some Talents add properties to Flourishes.</p>
   <p><br>
   </p>
   <p>Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy users (and furthermore for <i>those</i> <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users..).</p>
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
-  <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them to the floor, which will result in any wall-bang talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
+  <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
   <td></td>
 </tr>
@@ -331,7 +331,7 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 
 _Status Effects are present throughout the game, whether it be fighting or exploring, e.g. being engulfed in flames by [Flamecharm](Flamecharm.md) Mantras or stepping in acid pools in [Erisia](Erisia.md)._
 
-_Main article: [Status Effects](Status_Effects.md)_
+Main article: [Status Effects](Status_Effects.md)
 
 <table>
 <tbody>
@@ -344,8 +344,8 @@ _Main article: [Status Effects](Status_Effects.md)_
   <th>Charmed</th>
   <td>Represented by hearts on the victim's head.<p><br>
   </p>
-  <p><b>If your adversary is charmed, you can deal extra damage and take less damage from them, by obtaining talents such as <i>Charismatic Cast</i> and <i>Tough Love.</i></b></p>
-  <p><i>A common source is various Charisma talents, such as Charismatic Cast and Unnecessary Theatrics, as well as the Sing Mantra.</i></p></td>
+  <p><b>If your adversary is charmed, you can deal extra damage and take less damage from them, by obtaining Talents such as <i>Charismatic Cast</i> and <i>Tough Love.</i></b></p>
+  <p><i>A common source is various Charisma Talents, such as Charismatic Cast and Unnecessary Theatrics, as well as the Sing Mantra.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -383,7 +383,7 @@ _Main article: [Status Effects](Status_Effects.md)_
 <tr>
   <th>Electrified</th>
   <td>Confusingly, also represented by yellow sparks buzzing around the victim's body.<p><b>All outgoing attacks are converted to Electric/Thunder damage. Caster of this effect tends to pair this with Thunder-damage-reducing equipment/Talents to further nullify the victim's damage.</b></p>
-  <p><i>Common source is being hit by Thundercall Mantras from users with the Thundercall talent Resolve Crusher.</i></p></td>
+  <p><i>Common source is being hit by Thundercall Mantras from users with the Thundercall Talent Resolve Crusher.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ _Main article: [Status Effects](Status_Effects.md)_
 <tr>
   <th>Suffocate</th>
   <td>Represented by crosses spinning around the victim's neck violently.<p><b>The victim will take slight damage over time and be unable to cast Mantras.</b></p>
-  <p><i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the World Without Song talent.</i></p></td>
+  <p><i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the World Without Song Talent.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -417,7 +417,7 @@ _Main article: [Status Effects](Status_Effects.md)_
     <li>Blood Scourge</li>
     <li>Vampirism</li>
   </ul><p>Does not proc/work on people in the same guild as yours.</p>
-  <p><i>The only sources is being hit by a player that has the All the Dead Gods talent or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
+  <p><i>The only sources is being hit by a player that has the All the Dead Gods Talent or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
   <td></td>
 </tr>
 </tbody>
@@ -438,13 +438,13 @@ _Main article: [Status Effects](Status_Effects.md)_
 </tr>
 <tr>
   <th>Perfect Casting</th>
-  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and talents utilize Perfect Casting to better strengthen their power, but all around, Perfect Casting will:
+  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and Talents utilize Perfect Casting to better strengthen their power, but all around, Perfect Casting will:
   <ul>
     <li>Cast the spell faster.</li>
     <li>Increase damage.</li>
     <li>Increase posture damage.</li>
     <li>Increase spell size (unconfirmed)</li>
-  </ul><p>A successful Perfect Cast can be indicated by talents that are based around it.</p></td>
+  </ul><p>A successful Perfect Cast can be indicated by Talents that are based around it.</p></td>
 </tr>
 </tbody>
 </table>
@@ -470,9 +470,9 @@ The Alliance mechanic assists players in minimizing damage from friendly fire, r
 
 Allies can view messages from you anywhere in a server through Shouts. In Dungeons and other instanced servers, all messages are automatically shouted to other allies in the server. In public servers, you can send a shout by prefixing your message with an exclamation mark (!). For example: "!give me 30,000 notes". It can also work through allies with **Vow of Allegiance**.
 
-If you are in a [guild](Guilds.md), all other members of that guild are treated as allies. You can form alliances with players outside of your guild through a **Vow of Allegiance**. To form a Vow of Allegiance, you must say "Wanna make a vow of allegiance \[name\]?" near your target. The target can accept the vow by saying "yes", which will then show the confirmation window. There are no stat or talent requirements to make this vow. Vows of Allegiance persist on the slot (not to be confused with the Character or Account), and each slot can only form 50 allegiances. You can break your Vows of Allegiance through a Yun’Shul wish (you must make this wish at the [Temple of Hearts](Temple_of_Hearts.md) as the [Idol of Yun'Shul](Relics.md) does not have this option). However, this breaks _**ALL**_ vows made on the slot.
+If you are in a [guild](Guilds.md), all other members of that guild are treated as allies. You can form alliances with players outside of your guild through a **Vow of Allegiance**. To form a Vow of Allegiance, you must say "Wanna make a vow of allegiance \[name\]?" near your target. The target can accept the vow by saying "yes", which will then show the confirmation window. There are no stat or Talent requirements to make this vow. Vows of Allegiance persist on the slot (not to be confused with the Character or Account), and each slot can only form 50 allegiances. You can break your Vows of Allegiance through a Yun’Shul wish (you must make this wish at the [Temple of Hearts](Temple_of_Hearts.md) as the [Idol of Yun'Shul](Relics.md) does not have this option). However, this breaks _**ALL**_ vows made on the slot.
 
-The ally check can be disabled by turning on the "No Holds Barred" in-game setting, useful if you would like to spar with teammates as your attacks will deal normal damage and proc talents/abilities that normally would not.
+The ally check can be disabled by turning on the "No Holds Barred" in-game setting, useful if you would like to spar with teammates as your attacks will deal normal damage and proc Talents/abilities that normally would not.
 
 ## Trivia
 

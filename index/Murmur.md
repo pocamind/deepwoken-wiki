@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 107014
+revid: 107249
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -45,7 +45,7 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 2x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether.
 
-### **Obtainment**
+### Obtainment
 
 #### Method One - Serpent Slayer
 
@@ -76,7 +76,7 @@ Tacet has two different detection radius, one for PVE and PVP:
 -   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, the unaggro range is larger than 0 studs, so the user must make some distance to evade any fight. Do be aware that tacet is disabled during hellmode though, and attempted use of tacet to escape could possibly result in death.
 -   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet. The detection range in PVP is also reduced by the "stealth" stat which is the basis of some equipment.
 
-### **Obtainment**
+### Obtainment
 
 Murmur: Tacet can be obtained in three ways, only one of which does not require any Charisma.
 
@@ -84,7 +84,7 @@ Murmur: Tacet can be obtained in three ways, only one of which does not require 
 
 Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests, he will give you a random player in the server's current location and name asking you to kill them. Asking for a bounty from him requires 10 Charisma. You need 5 Kills to Obtain Tacet. (Must have the "hunted" reputation with Etrea)
 
-#### **Method Two - Born Assassin**
+#### Method Two - Born Assassin
 
 By completing 5 Bounty Hunting Contracts from any Bounty Board, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method. (Bounty Assists do not count)
 
@@ -110,7 +110,7 @@ This also allows the user to see a estimate of entities health (orange for 65%, 
 
 ### Spotter
 
-**Spotter** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Rhythm**, Callout, and 40 charisma. When callout is used in Rhythm, this talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health. This ability does not cost any ether to use. Getting spotter is not recommended if you plan on playing solo, as you can see the HP estimate of the target with base Rhythm.
+**Spotter** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Rhythm**, Callout, and 40 charisma. When callout is used in Rhythm, this Talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health. This ability does not cost any ether to use. Getting spotter is not recommended if you plan on playing solo, as you can see the HP estimate of the target with base Rhythm.
 
 ### Obtainment
 
@@ -129,6 +129,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring, but was later reintroduced into Verse 2 by said methods.
 -   Murmurs were introduced through [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding mantra.
--   As of May 3rd, 2024, you can now remove your Murmur at [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
+-   As of May 3, 2024, you can now remove your Murmur at [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 -   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_
 -   Ardour Scream may be reference to Dragon scream from Dark Souls

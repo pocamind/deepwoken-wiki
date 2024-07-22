@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 93026
+revid: 107583
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -27,4 +27,4 @@ categories: [Equipment, Torso, Necklaces]
 
 The Curseblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
-Can be found in [Second Layer](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), and [Fishing](Fishing.md).
+Can be found in the [Second Layer](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), and [Fishing](Fishing.md).

@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 106511
+revid: 107636
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -8,9 +8,7 @@ categories: [Mantras, Character, Attunement, Mechanics]
 
 # Hybrid Abilities
 
-## Description
-
-**"Hybrid Mantras"** are a special category of [mantras](Mantras.md) that require investment in multiple [attunements](Attunements.md) to use, these mantras typically use elemental effects and talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). Hybrid Mantras use dual scaling meaning that they typically scale off either one of their attunement stats.
+**"Hybrid Mantras"** are a special category of [mantras](Mantras.md) that require investment in multiple [attunements](Attunements.md) to use, these mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). Hybrid Mantras use dual scaling meaning that they typically scale off either one of their attunement stats.
 
 [The Mystic](Mystic.md) can be used to guarantee hybrid [mantras](Mantras.md) in your next whisper hand if the requirements have been met.
 

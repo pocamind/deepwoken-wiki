@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 95470
+revid: 107438
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits]
@@ -8,11 +8,9 @@ categories: [Armors, Outfits]
 
 # Summer Company Uniform
 
-**Summer Company Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox **Summer Company Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
-
-Template:ArmorInfobox
 
 ### _Requirements_
 
@@ -36,7 +34,7 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Innate talent is very nice If you are looking to have Armor Piercing in the early stages of the game.
+-   Innate Talent is very nice If you are looking to have Armor Piercing in the early stages of the game.
 -   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.
 -   [https://www.roblox.com/catalog/13743902770/Summer-Company-Uniform-deepwoken](https://www.roblox.com/catalog/13743902770/Summer-Company-Uniform-deepwoken) Pants
 -   [https://www.roblox.com/catalog/13743909059/Summer-company-uniform-deepwoken](https://www.roblox.com/catalog/13743909059/Summer-company-uniform-deepwoken)

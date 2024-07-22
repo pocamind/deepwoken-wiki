@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 77405
+revid: 107441
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]

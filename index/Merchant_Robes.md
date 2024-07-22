@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 98022
+revid: 107486
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -24,16 +24,14 @@ This Outfit has 1200 durability and grants no resistances.
 
 This Outfit also grants the [Talent Card](Talents.md) _Merchant's Accord;_ Merchants and [Antiquarians](Antiquarian.md) will do business with you no matter how poor your reputation is.
 
--   This talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md).
+-   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md).
 
 ## Location
 
 This Outfit's Schematic can be found by:
 
--   Buying it from [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)  
-    
--   Finding it in [The Depths](The_Depths.md)  
-    
+-   Buying it from [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Finding it in [The Depths](The_Depths.md)
 -   [Fishing](Fishing.md)
 
 ## Trivia/Notes

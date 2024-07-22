@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 96615
+revid: 107378
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Power.md) 10 and [Agility](Attributes.md) 25.
 
 This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance, +10% Wind resistance and 15% Ironsing resistance.
 
-### _**Armor Talent**_
+### _Armor Talent_
 
 -   **Brunt** - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).

@@ -1,9 +1,9 @@
 ---
 title: Kyrscleave
-revid: 107148
+revid: 107196
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Unique Critical]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals]
 ---
 
 # Kyrscleave
@@ -39,6 +39,6 @@ After a short windup, the user lunges forward, impaling the target and then slam
 
 Template:Header2
 
--   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**)
+-   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), Kyrscleave)
 -   Deals roughly 39.4 + 11.8 (BLEED) (For a total of 51.1) Damage at 100 Heavy.
 -   Its critical attack, as well as the Crescent Cleaver, is probably a reference to Shadow Fight 3's Shadow Ability; "Vane" as both share similar animations.

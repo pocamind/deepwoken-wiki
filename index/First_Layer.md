@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 107128
+revid: 107264
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -16,7 +16,7 @@ File:Depths New Lightning.png
 
 The **First Layer** of the Depths, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
-## **Points of Interest**
+## Points of Interest
 
 -   [The Varicosa District](Varicosa_District.md)
     -   [The Military District](The_Military_District.md)
@@ -27,7 +27,7 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the one of th
     -   Ignition Union Deepdriller
 -   [Marauder's Entrance](<Marauder's_Entrance.md>)
 
-## **Escaping First Layer**
+## Escaping First Layer
 
 Detailed map of the entire Depths First Layer
 
@@ -35,13 +35,13 @@ The main method to escape is by the tower, which houses the Trial in the center 
 
 The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
-## **Reaching the Elevator**
+## Reaching the Elevator
 
-### **Method 1:** City Bells
+### Method 1: City Bells
 
 There are 2 bells located in the District of Commerce (sloped gate). Once 2 bells are rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within. The metal gate located in the District of Commerce will then open for 10 minutes.
 
-### **Method 2:** Sub-Elevator / Toll
+### Method 2: Sub-Elevator / Toll
 
 A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator. If you do not wish to pay the fee, you can climb up the elevator shaft with mobility mantras or enough agility.
 
@@ -49,7 +49,7 @@ A small sub-elevator is located within the city section entered through the flat
 
 File:Depths Sub-Elevator.png
 
-### **Method 3:** Climbing Walls
+### Method 3: Climbing Walls
 
 Although directly climbing the City Walls with barrels atop roofs was once a popular strategy, its effectiveness has been reduced. The white city columns are no longer possible to climb. It is still possible to land directly atop the walls, however, as listed below.
 
@@ -61,7 +61,7 @@ _This method is no longer the recommended strategy for reaching the elevator._
 
 Find a rock, cliff, or something in a high place, and glide onto the wall. Though be careful with this method, as Gigameds (aka "Jellyfish) can jump extremely high, and hit you causing you to fall. This may send you to Layer 2, or lead to death from fall damage. (Only works if you have a glider)
 
-## **First Layer: The Trial**
+## First Layer: The Trial
 
 “ As a quasi-metaphysical realm, the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep. So to say, once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. ”
 
@@ -69,7 +69,7 @@ Find a rock, cliff, or something in a high place, and glide onto the wall. Thoug
 
 Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn three [Enforcers](Enforcer.md)).
 
-Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
+Completing the trial for the first time grants the Talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
 
 ### _Note:_
 
@@ -110,49 +110,49 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Curiously, a Power 1 Deepbound and Power 20 Non-Deepbound will spawn just one Enforcer.
 -   Once you have 15 drowns on your account, some of the voices lines are cut out, causing the trial to begin quicker.
 
-## **Farming in First Layer**
+## Farming in First Layer
 
 Scyphozia, being a naturally hostile location, is intentionally difficult to survive in, from perpetual monster spawnage to creeping death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers for players who are willing to risk wiping in seconds. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
-### **Talents & Equipment**
+### Talents & Equipment
 
--   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with Vegetarian flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
--   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
+-   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** Talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with Vegetarian flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
+-   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
 -   _**Giantslayer**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **20 Willpower.**
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
 -   **%Damage vs Monsters (DvM) and %Monster Armor** equipment with stat modifiers usually has a form of DvM and/or Monster Armor, which is useful.
 
-### **Tips and Tricks**
+### Tips and Tricks
 
 Information to keep in mind.
 
--   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character ends theirself. Willpower, talents, and equipment grant extra sanity.
-    -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
+-   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character ends theirself. Willpower, Talents, and equipment grant extra sanity.
+    -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 2.5x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
--   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the talent undying flame), you might want to consider bringing _**healing potions**_.
+-   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent undying flame), you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
--   _**Warrior's Respite**_ is an extremely useful talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
+-   _**Warrior's Respite**_ is an extremely useful Talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
 -   If you have the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 -   Seaweed is currently the only natural source of food for vegetarians in the Depths.
 
-## **Quests**
+## Quests
 
-### **Finding Morning**
+### Finding Morning
 
 -   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?".
     -   (As of now the quest is not done, which was started by Arch\_Mage. Morning doesn't exist in-game at the moment and will stay so until the quest is finished by developers.)
 
-### **Joining The Divers**
+### Joining The Divers
 
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
     -   You can confront Akira after he kills the Ignition Union, proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
 
-### **[Oath: Visionshaper](Oath%253A_Visionshaper.md)**
+### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
 
 Deep southeast in the Depths, you can find a secret room located near the Deep Widow. Here, there is a man who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
@@ -216,7 +216,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 
  |
 
-## **Tips**
+## Tips
 
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in The Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
 -   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the sharko, thresher, and enforcer), increasing your survival rate once you can conquer them.

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 95468
+revid: 107436
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -40,5 +40,5 @@ This outfit can be found in:
 -   The Pathfinder Thaumaturge is a recolored version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)
 -   The Pathfinder Thaumaturge is an superior version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)
 -   The Pathfinder Thaumaturge is an inferior version of the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md).
--   [https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken Shirt](https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken+Shirt)
+-   [Shirt https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken Shirt](https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken)
 -   [https://www.roblox.com/catalog/12994469891/Pathfinder-Thaumaturge-Deepwoken Pants](https://www.roblox.com/catalog/12994469891/Pathfinder-Thaumaturge-Deepwoken)

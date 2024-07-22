@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 106676
+revid: 107622
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,7 +43,7 @@ This oath is progressed via the killing of [Spelltrainers](Attunement_Trainers.m
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
-Alternatively, if you've fully progressed the oath in a previous life, 10 knowledge can be spent to immediately unlock all related talents.
+Alternatively, if you've fully progressed the oath in a previous life, 10 knowledge can be spent to immediately unlock all related Talents.
 
 ## Effects
 
@@ -96,9 +96,9 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 knowle
 ## Notes
 
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
--   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
+-   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random Talents.
     -   You're also still able to be given a whisper on level up.
-    -   The Mantra from [Kelsius](Kelsius.md) CAN be exchanged for talents.
+    -   The Mantra from [Kelsius](Kelsius.md) CAN be exchanged for Talents.
 -   The No Attunement trainer Regek cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse."
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
@@ -110,7 +110,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 knowle
 
 -   The lines that adorn a Silentheart's arms and chest are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
--   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
+-   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
 -   Several terms related to the Silentheart Oath reference the _Fire Emblem_ series.

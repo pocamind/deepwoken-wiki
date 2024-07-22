@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 104184
+revid: 107457
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]

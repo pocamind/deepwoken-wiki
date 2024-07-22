@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 106780
+revid: 107262
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume [Vibrant Gem](Mantra_Modifiers.md) and [Pluripotent Alloy](Pluripotent_Alloy.md). Might be a bug.
+Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt Talents. One craft makes all three, and doesn't seem to consume [Vibrant Gem](Mantra_Modifiers.md) and [Pluripotent Alloy](Pluripotent_Alloy.md). Might be a bug.
 
 ## Effects
 
@@ -45,7 +45,7 @@ This oath makes the Perpetual Distillery appear on your character's arm.
 
 Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
 
--   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
+-   Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
 -   Autodrink potions place other autodrink slots on a cooldown if they share buffs.
 -   When replacing a potion in the Distillery, the one that was previously there is voided and will have to be remade.

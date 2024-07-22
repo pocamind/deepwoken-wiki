@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 105811
+revid: 107245
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Jetstriker | |
 |---|---|
 | oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility, All Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive AgilityAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
 
 “ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
@@ -33,7 +33,7 @@ _This oath does not become locked after breaking it at Yun'Shul._
 
 ## Progression
 
-Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You have to return to her to get the talents. The location of these orbs are:
+Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You have to return to her to get the Talents. The location of these orbs are:
 
 -   On top of Lord Regent's palace in Etris.
 -   On the upper rim of The Birdcage, **not on the top** near The Viper's Jaw in Erisia.
@@ -55,7 +55,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 -   **Jetstream Pursuit - Talent**
     -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
         -   This works on humanoid mobs, Teleporting you to the middle of their hitbox.
-        -   This talent is the same as the old legendary talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
+        -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
 
 -   **Momentum Bar - Passive**
     -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the oath.
@@ -84,6 +84,6 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 -   The Knockdown for Vigil's Grace didn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
 -   Vigil's Grace card had another oath name instead of Jetstriker, this time being "Oath: Windrunner"
 -   Jetstriker did not have mantras prior to March 29, 2024.
--   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
+-   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility Talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
 -   Using a Dye Packet to dye the Jetstriker Anklets dyes the anklets as well as the Dash effect, Momentum bar, and Stratos Steps.
 -   The old name and Mystic quote for Jetstriker are both references to _The Stormlight Archive_

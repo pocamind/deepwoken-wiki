@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 94512
+revid: 107380
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -24,9 +24,9 @@ To complete the quest, you need to sail for ≈15 minutes total with your sail a
 
 ### The Reward
 
-After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" talent. Similarly to "[Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Flamecharmer)", "[Flame Within](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Amoran_Seeker)" and "[Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall?so=search#Thundercaller)", you can activate the talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown.
+After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Flamecharmer)", "[Flame Within](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Amoran_Seeker)" and "[Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall?so=search#Thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown.
 
 ## Trivia
 
--   The name of the talent is taken from _The Legend of Zelda: The Wind Waker_.
+-   The name of the Talent is taken from _The Legend of Zelda: The Wind Waker_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines: "Nice try." "What was that? I felt a calm breeze..."

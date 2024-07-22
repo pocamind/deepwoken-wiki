@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 106639
+revid: 107322
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant, Etrea]
@@ -37,7 +37,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), Encyclopedia (INT) for.
 -   Players can find [Kelsius](Kelsius.md) whom will give you a quest.
--   Players can find [Valkior](Valikor.md), a NPC who sells the talent [Spell Shout](Valikor.md).
+-   Players can find [Valkior](Valikor.md), a NPC who sells the Talent [Spell Shout](Valikor.md).
 -   Players can purchase the Math Textbook (INT) for.
 -   Players can find a [Mantra Table](Mantra_Lectern.md) in here, along with a [Crafting Station](Crafting_Station.md).
 
@@ -102,10 +102,10 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   You need to have [Galebreathe](Galebreathe.md) for this quest.
 -   Speak to Stratos with an unknown positive reputation with Etrea.
--   He will tell you that he is willing to teach you a talent, but you must learn to be one with the wind first.
+-   He will tell you that he is willing to teach you a Talent, but you must learn to be one with the wind first.
 -   Go to the docks and get on a boat, and once you begin sailing, turn your sails to match the directions of the wind trails on the sea for ~10 minutes.
--   Come back to Stratos and he will teach you the _Windwaker_ talent, which allows you to obtain a temporary massive speed boost while sailing akin to that of a sea gate.
-    -   To use the Windwaker talent, just click it in your inventory while you are sailing.
+-   Come back to Stratos and he will teach you the _Windwaker_ Talent, which allows you to obtain a temporary massive speed boost while sailing akin to that of a sea gate.
+    -   To use the Windwaker Talent, just click it in your inventory while you are sailing.
     -   It is not as effective in Fast Seas compared to the Normal Seas.
 
 ## Maps

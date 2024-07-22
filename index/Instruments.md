@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 89902
+revid: 107347
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,9 +8,7 @@ categories: [Mechanics]
 
 # Instruments
 
-## Description
-
-Instruments, or Shanties, is a feature that was added on the 2023 December 1st update. Purchasing any instrument gives you the "Worn Songbook" item, which you can use to play songs together with your friends or alone. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, slightly improves your passive HP regen, and a resistance to insanity while in the Depths. It may regen sanity if you have a way to stop gaining insanity, such as the Mark of Jurik [Capra](Capra.md) race talent or being [Deepbound](Origins.md#deepbound) and in [Castle Light](Castle_Light.md). However, movement is limited and you cannot use any other items.
+Instruments, or Shanties, is a feature that was added on the 2023 December 1 update. Purchasing any instrument gives you the "Worn Songbook" item, which you can use to play songs together with your friends or alone. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, slightly improves your passive HP regen, and a resistance to insanity while in the Depths. It may regen sanity if you have a way to stop gaining insanity, such as the Mark of Jurik [Capra](Capra.md) race Talent or being [Deepbound](Origins.md#deepbound) and in [Castle Light](Castle_Light.md). However, movement is limited and you cannot use any other items.
 
 Instruments can be purchased, for each, at:
 

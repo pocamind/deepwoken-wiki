@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 98581
+revid: 107641
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -36,7 +36,7 @@ Pressing C will activate the **Smite** Resonance.
 
 If Smite is corrupted, the orbs will instead appear red and black and makes the orbs have auto aim (possibly more).
 
-### _**Smite**_
+### _Smite_
 
 When obtained, Smite will spend its points on the following stats:
 
@@ -46,10 +46,9 @@ When obtained, Smite will spend its points on the following stats:
 
 -   **Speed: The amount of speed increases**
 
--   **Damage:** The amount of Damage Each orb does increases  
-    
+-   **Damage:** The amount of Damage Each orb does increases
 
-## Trivia/Notes
+## Trivia
 
--   Smite can trigger elemental talents, though it's quite inconsistent and complex, there's a gif above that shows azure-flamed corrupt smite balls, which is kinda cool!
+-   Smite can trigger elemental Talents, though it's quite inconsistent and complex, there's a gif above that shows azure-flamed corrupt smite balls, which is kinda cool!
 -   This resonance was added alongside [Smokescreen](Smokescreen.md) & [Preservation](Preservation.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.

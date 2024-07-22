@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 105834
+revid: 107332
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs, Eastern Luminant]
@@ -15,7 +15,7 @@ notices:
 | name | Mime |
 | location | Songseeker Wilds |
 
-Mime is an NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
+**Mime** is an NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Description
 
@@ -46,4 +46,4 @@ The order in which you place the ingredients on the board is essential to the st
 
 -   The statue you transform into is the white king piece from the chess board at [Voidheart](Voidheart.md).
     -   It is also the statue of the King of Etrea seen in Etris Palace.
--   Using the Campfire disguise while having the talent _Azure Flames_ will make your campfire have blue flames instead of orange or yellow. This doesn't work with _Wraith Path: Twisted Puppets_.
+-   Using the Campfire disguise while having the Talent _Azure Flames_ will make your campfire have blue flames instead of orange or yellow. This doesn't work with _Wraith Path: Twisted Puppets_.

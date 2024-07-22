@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 106438
+revid: 107383
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -8,9 +8,7 @@ categories: [StubPages, Game, Locations]
 
 # Battle Royale
 
-## Description
-
-Battle Royale is a [weekends only](Doubled_Rates_Weekends.md) gamemode that takes place on Kingmaker's Isle in the Open Sea. Players spawn with nothing but rags, a flimsy glider, and a weak sword, and must jump off the [Floating Keep](The_Floating_Keep.md) to gather loot, talents, mantras, and more to be the last pair/person standing while obtaining the most points.
+**Battle Royale** is a [weekends only](Doubled_Rates_Weekends.md) gamemode that takes place on Kingmaker's Isle in the Open Sea. Players spawn with nothing but rags, a flimsy glider, and a weak sword, and must jump off the [Floating Keep](The_Floating_Keep.md) to gather loot, Talents, mantras, and more to be the last pair/person standing while obtaining the most points.
 
 There is no rewards or punishments in Battle Royale mode. This mode is only active on weekends.
 
@@ -20,9 +18,9 @@ There is no rewards or punishments in Battle Royale mode. This mode is only acti
 -   Weapons have no requirement. Weapon scaling is currently unknown.
 -   Loot can be found around the map.
 -   Every kill rewards a point and the final round gives double points, the group with the most points wins.
--   You steal all of your opponents talents (Including mantras, and oaths) upon executing them.
+-   You steal all of your opponents Talents (Including mantras, and oaths) upon executing them.
 -   Every once in a a while a purple/pink meteor will fall that will grant a bell to you if you interact with them similar to the totems or healing shrines, it takes a while for the action to take in effect **(BE WARNED THAT YOU ARE HIGHLY VULNERABLE WHILE DOING THIS ACTION)**
--   You always start with the callout talent.
+-   You always start with the callout Talent.
 
 LocationL KINGMAKER'S ISLE LocationR
 
@@ -37,32 +35,31 @@ This island serves as the map for Battle Royale.
 
 Template:Areainfobox
 
-### **[King's Colosseum](<King's_Colosseum.md>)**
+### [King's Colosseum](<King's_Colosseum.md>)
 
 The center point of the map, ~this is the location the zone encloses.~ The zone actually closes in on random spaces, although the area is the center of the island and map.
 
 -   **Little to no loot, High risk, one healing shrine in center**
 
-### **Valiant Valley**
+### Valiant Valley
 
 Contains a small town,
 
 -   **Abundant loot, Possibly High risk**
 
-### **Yarix Yard**
+### Yarix Yard
 
 On the edge of the King's Colosseum, looks like a marketplace.
 
 **Has at least one healing shrine on the outskirts of the marketplace. Has a fair amount of loot and shrines for its small size.**
 
-### **Open Sea (Coastal areas)**
+### Open Sea (Coastal areas)
 
 A small dock rests on the coast, closer to sea level.
 
--   **Pros: Abundant loot, schematics, mantra shrines and talent shrines. Around two armor chests and two weapons.**
+-   **Pros: Abundant loot, schematics, mantra shrines and Talent shrines. Around two armor chests and two weapons.**
 
--   **Cons: No healing spots, may get swallowed up by storm quickly, in endgame, people may opt for combat in water.**  
-    
+-   **Cons: No healing spots, may get swallowed up by storm quickly, in endgame, people may opt for combat in water.**
 
   
 Please note the island is located in the [Open Sea](Open_Sea.md).
@@ -73,7 +70,7 @@ Please note the island is located in the [Open Sea](Open_Sea.md).
 
 -   Gray chests contain expert outfits
 -   Orange chests contain master outfits
--   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random oath and random talent/mantra of that oath
+-   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random oath and random Talent/mantra of that oath
 
 ### Deep totems
 
@@ -108,6 +105,6 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 -   You cannot obtain Warrior's Respite from totems.
--   As of August 29th 2023, Battle Royale is closed for more maintinence on the gamemode itself and squad/duos updates.
--   Battle Royale was accessible to youtubers during the Content Creator Royale on July 1st, 2023 and it was released to the public on August 25th, 2023 for limited-time testing.
+-   As of August 29, 2023, Battle Royale is closed for more maintinence on the gamemode itself and squad/duos updates.
+-   Battle Royale was accessible to youtubers during the Content Creator Royale on July 1, 2023 and it was released to the public on August 25, 2023 for limited-time testing.
 -   According to Agamatsu in his stream "[Official Deepwoken Youtuber Battle Royale](https://www.youtube.com/watch?v=eWXZPkM0Xpo&t=7909s)", the developers were supposedly debating whether or not to make this game mode public due to it potentially "being too much fun" and killing off the main game, thus they decided to restrict the game mode to only weekends.

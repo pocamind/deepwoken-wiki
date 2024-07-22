@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 97578
+revid: 107412
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -31,4 +31,4 @@ The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the A
 ## Trivia
 
 -   Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable but this was later changed due to it clogging players' inventories.
--   This used to have Hardened Nerves talent, before being replaced with Unwavering Resolve in April 5th, 2024.
+-   This used to have the Hardened Nerves Talent, before being replaced with Unwavering Resolve in April 5th, 2024.

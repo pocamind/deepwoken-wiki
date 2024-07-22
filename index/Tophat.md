@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 104157
+revid: 107501
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -28,7 +28,7 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 
 ## Description
 
-The Tophat is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, 2 Pips, And the innate talent Give And Take. **Give and Take** allows you to give and take less damage to and from your allies.
+The Tophat is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, 2 Pips, And the innate Talent Give And Take. **Give and Take** allows you to give and take less damage to and from your allies.
 
 ## Trivia
 

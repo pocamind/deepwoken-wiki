@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 106254
+revid: 107194
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Katanas, Unique Critical]
+categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
 ---
 
 # Katana
@@ -23,7 +23,7 @@ categories: [Weapons, Swords, Katanas, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, The Diluvian Mechanism |
-| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
+| description | '"An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."' |
 
 | Alloyed Katana | |
 |---|---|
@@ -42,7 +42,7 @@ categories: [Weapons, Swords, Katanas, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Using Pluripotent Alloy on Katana, Bounties, The Diluvian Mechanism |
-| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
+| description | '"An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."' |
 
 **Base:**
 

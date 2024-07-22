@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 94912
+revid: 107535
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]

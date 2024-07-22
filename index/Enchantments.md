@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 106946
+revid: 107226
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -71,7 +71,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 3 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm talents.<br>
+  <td><div><p>After landing 3 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm Talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
@@ -79,7 +79,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze (Putting the talent on cd too), negating all movement (7 second cooldown).<br>
+  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
   If the user has Crystallization, apply an ice crystal. (no limits, up to the amount of crystal to detonate) This applies a 0.4 second chill effect (only without crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
@@ -149,7 +149,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
-  <p>The critical can still trigger critical talents like Bear Trap and Manipulator.<br>
+  <p>The critical can still trigger critical Talents like Bear Trap and Manipulator.<br>
   <b>The range cap of the teleportation is 65-70 studs.</b><br>
   </p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
@@ -205,7 +205,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
-  By having the Surge Path: Unstable Capacitor talent, on proc the stun is replaced with a surge stack.<br>
+  By having the Surge Path: Unstable Capacitor Talent, on proc the stun is replaced with a surge stack.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 20%. Has a 5 second cooldown.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects .</div></td>
 </tr>
@@ -233,9 +233,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
-  <br>
-  Vampirism does not scale with power-based PvE damage scaling, so your healing from PvP &amp; PvE encounters should be identical.</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.</p>
+  <p>Vampirism does not scale with power-based PvE damage scaling, so your healing from PvP &amp; PvE encounters should be identical.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
 <tr>
@@ -279,7 +278,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled with this enchant.</b><br>
   <b>Conditioned Runner is disabled.</b><br>
-  <b>Cauterized Wounds and Alloyblood talents will have their effects significantly reduced.</b></p></div></td>
+  <b>Cauterized Wounds and Alloyblood Talents will have their effects significantly reduced.</b></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
   When sheathed, the flame spikes are invisible.</div></td>
 </tr>
@@ -346,8 +345,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 | **Name** | **Description** | **Visual Effect** |
 | --- | --- | --- |
 | 
-thumb
-
   
 Adhesive
 
@@ -367,7 +364,7 @@ Allure
 
  | 
 
-On proc, apply Charm on the enemy. All charm related talent that the user have are applied.
+On proc, apply Charm on the enemy. All charm related Talent that the user have are applied.
 
  | 
 
@@ -409,7 +406,7 @@ Drowned
 
  | 
 
-Drowned equipment grant, on top of their innate stats and talents:  
+Drowned equipment grant, on top of their innate stats and Talents:  
   
 10 Health  
 10 Ether  
@@ -525,7 +522,7 @@ Enchanted Legendary Weapons
 
  | 
 
-**January 2nd, 2022**  
+**January 2, 2022**  
 All enchanted legendary weapons (e.g Crypt, HB) were removed from lootpools, any equipped lost their enchants and any left un-equipped were voided.
 
  | 
@@ -540,7 +537,7 @@ N/A
 
  | 
 
-**February 13th, 2023**  
+**February 13, 2023**  
 Enchanted Light's Final Tolls were removed.
 
  | 
@@ -555,7 +552,7 @@ Face, Ears, Back accessories Enchants
 
  | 
 
-**February 18th, 2022**  
+**February 18, 2022**  
 Enchanted face, ears, back accessories were removed from the loot pool.
 
  | 
@@ -570,7 +567,7 @@ Curse of the Umbral Knight
 
  | 
 
-**January 4th, 2022**  
+**January 4, 2022**  
 On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage. Supposedly, the curse would make the weapon absorb you if you didn't grip someone once every real life day (Either making you lose a life, go straight to the Depths, or taking you to the Fragments of Self).
 
  | 
@@ -585,7 +582,7 @@ Dark clone with red fog surrounding it spawned in a barely visible red circle.
 
  | 
 
-**August 2nd, 2022**  
+**August 2, 2022**  
 On hit: Would steal thirst, essentially a worse version of Gluttony
 
  | 
@@ -618,8 +615,8 @@ Static flaming purple.
 
  | 
 
-**March 29th, 2024**  
-Upon landing any attack from your weapon, light the opponent on fire with a 2 second cooldown. This can be used to trigger Flamecharm talents.  
+**March 29, 2024**  
+Upon landing any attack from your weapon, light the opponent on fire with a 2 second cooldown. This can be used to trigger Flamecharm Talents.  
 Lava Serpent will create an explosion instead of creating a fire.  
 Twisted Puppets will summon a puppet instead of creating a fire.
 
@@ -631,23 +628,23 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 
 ## Changelogs
 
--   **January 2nd, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
--   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
--   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
--   **June 27th, 2022** - Enchanted equipment could be now smelted at **[Jarvis](Summer_Isle.md)**.
--   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
--   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
--   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
--   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
--   **December 24th, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
--   **January 16th, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
--   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
--   **August 25th, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
--   **September 29th, 2023** - Astral is made publicly available.
--   **November 3rd, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
--   **November 10th, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
--   **April 5th, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
+-   **January 2, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
+-   **February 18, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
+-   **March 27, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
+-   **April 11, 2022** - Enchant rates have been buffed by an unknown amount.
+-   **June 27, 2022** - Enchanted equipment could be now smelted at **[Jarvis](Summer_Isle.md)**.
+-   **September 12, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3, 2022**)
+-   **September 13, 2022** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
+-   **September 19, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
+-   **December 23, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
+-   **December 24, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
+-   **January 16, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
+-   **February 13, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
+-   **August 25, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
+-   **September 29, 2023** - Astral is made publicly available.
+-   **November 3, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
+-   **November 10, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
+-   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 
 ## Tips/Trivia
 
@@ -663,12 +660,12 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         
         -   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
--   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
+-   Umbral Knight lost its curse in a shadow update on **26-27 December 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag[\[3\]](#cite-note-3), and still holds that sentiment to this day.
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[3\]](#cite-note-3) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overriden by your main weapon, including the lack of an enchantment itself.
--   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1st, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
+-   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
 -   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
 -   Nemesis causes enemies to react to its critical even without a hitbox.
 -   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 107116
+revid: 107410
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -27,7 +27,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 [Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
 
-### Total Amount of Weapons Available in the Game :
+### Total Amount of Weapons Available in the Game
 
 #### Light Weapons
 
@@ -71,7 +71,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
 -   All **Medium Weapons** except for Rifles, [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [talent](Talents.md) "**One Handed Training"** (40 HVY), which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
+-   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [Talent](Talents.md) "**One Handed Training"** (40 HVY), which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
 
@@ -80,13 +80,13 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 ### Two-Handed
 
 -   Deal increased posture damage with hits.
--   Cannot use offhand weapons, though this can be changed with a talent.
+-   Cannot use offhand weapons, though this can be changed with a Talent.
 
 ## Key Terminology
 
 -   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
 -   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
--   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive talents.
+-   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive Talents.
 -   **Chip Damage:** Weapon damage bypassing through block (50% limit **when using Obfuscation**).
 -   **Scaling:** Scaling for weapon attribute(s).
 -   **Weight:** Posture damage dealt.
@@ -2205,7 +2205,7 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 
 **Shields:**
 
-Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Certain talents and mantras will also require having a shield.
+Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Certain Talents and mantras will also require having a shield.
 
 <table>
 <tbody>
@@ -2395,11 +2395,11 @@ Weapons that are exclusive for special people.
   <td>75 SDW, 40 HVY, Power 10</td>
   <td>22</td>
   <td>N/A</td>
-  <td>???</td>
+  <td>N/A</td>
   <td>9 SDW, 4 HVY</td>
   <td>9</td>
   <td>9</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>0.15s</td>
   <td>51.8</td>
 </tr>
@@ -2455,14 +2455,22 @@ Weapons that are exclusive for special people.
   <td>N/A</td>
   <td>50.4</td>
 </tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Paintbrush"><font>Paintbrush</font></a></td>
+  <td>?? MED</td>
+  <td>??</td>
+  <td>??</td>
+  <td>N/A</td>
+  <td>MED:&nbsp;?</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
+  <td>N/A</td>
+  <td>??</td>
+  <td></td>
+</tr>
 </tbody>
 </table>
-
-\-
-
-|[Paintbrush](https://deepwoken.fandom.com/wiki/Paintbrush) |?? MED |?? |?? |N/A |MED: ? |?? |?? |?? |N/A |?? |}
-
-}}
 
 ## Calculating Damage and Attack Speed
 

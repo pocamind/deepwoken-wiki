@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 100681
+revid: 107549
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -30,5 +30,5 @@ Imperial Boots are an [Equipment](Equipment.md) item under the "Legs" category. 
 
 ## Trivia
 
--   Imperial Boots are part of the "**Imperial**" set; with the only other armor piece being the **[Imperial Pauldrons.](Imperial_Pauldrons.md)**
--   Considered the best leg equipment in the game alongside the [Star Boots.](Star_Boots.md) (Although the best roll for star boots is 1 hp higher)
+-   Imperial Boots are part of the "**Imperial**" set; with the only other armor piece being the **[Imperial Pauldrons](Imperial_Pauldrons.md).**
+-   Considered the best leg equipment in the game alongside the [Star Boots](Star_Boots.md).

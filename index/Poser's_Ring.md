@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 103311
+revid: 107674
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]

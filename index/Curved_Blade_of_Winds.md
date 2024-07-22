@@ -1,9 +1,9 @@
 ---
 title: Curved Blade of Winds
-revid: 107007
+revid: 107267
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [OutdatedPages, Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -30,7 +30,7 @@ notices:
 | obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Diluvian Mechanism, Island Events |
 | description | "A prized blade supposedly forged during the Canticlysm by the first Galebreathers." |
 
-## **Description**
+## Description
 
 The Curved Blade of Winds is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md) that takes the form of a sword. It is a rare drop from the chests in [The Depths](The_Depths.md), from the [Scion of Ethiron](Scion_of_Ethiron.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and certain [sea events](Random_Encounters.md). It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
 
@@ -56,9 +56,9 @@ The user shoots a blast of air and on collision or after a short amount of time 
 ## Trivia
 
 -   With the minimum stat requirement to equip the weapon, the weapon will deal 24.1 damage.
-    -   Around 25.3 damage with the 5% innate After Cut effect, and around 26.5 with the 10% After Cut effect from the talent.
+    -   Around 25.3 damage with the 5% innate After Cut effect, and around 26.5 with the 10% After Cut effect from the Talent.
 -   With 100 MED and 100 WND, it will deals 30.6 damage
-    -   Around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the talent.
+    -   Around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the Talent.
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
     -   Additionally, the original model of the Curved Blade of Wind used to closely ressemble the Windshear from The Elder Scrolls V: Skyrim.

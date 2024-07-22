@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 73940
+revid: 107567
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

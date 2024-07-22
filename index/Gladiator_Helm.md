@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 104138
+revid: 107442
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 The Gladiator Helmet is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the number of pips.
 
-The talent Concussive Force: Enemies you knock remain downed longer than usual.
+The Talent Concussive Force: Enemies you knock remain downed longer than usual.
 
 ## Trivia
 

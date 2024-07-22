@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 106614
+revid: 107263
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -47,16 +47,16 @@ Finally, any potion with a positive Health Regeneration effect has its duration 
 
 ### Talents and Other Modifiers
 
-Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence; each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
+Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence; each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, Talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
 
--   Potions prepared by characters with the Apothecary talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
-    -   This talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
--   When brewing potions with the Wild Alchemy talent, there is a 25% chance to produce 2 potions instead of 1.
--   The Potion Quaffer talent reduces the slowdown from drinking potions, allows potions to be drunk much quicker, and increases the regeneration of health regeneration potions when drunk.
--   The Placebo Effect talent applies potion effects to your allies when you drink a potion near them.
--   The Chain Reaction talent amplifies the effects of potions if they are applied to characters that already have one (replacing the old effect). It also adds a 25% chance not to use up a potion when drinking one.
--   The Chemist's Bag talent causes potions to no longer be dropped on death.
--   The Pitcher talent allows potions to be thrown further. It is the only potion related talent not found in the Alchemist category.
+-   Potions prepared by characters with the Apothecary Talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
+    -   This Talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
+-   When brewing potions with the Wild Alchemy Talent, there is a 25% chance to produce 2 potions instead of 1.
+-   The Potion Quaffer Talent reduces the slowdown from drinking potions, allows potions to be drunk much quicker, and increases the regeneration of health regeneration potions when drunk.
+-   The Placebo Effect Talent applies potion effects to your allies when you drink a potion near them.
+-   The Chain Reaction Talent amplifies the effects of potions if they are applied to characters that already have one (replacing the old effect). It also adds a 25% chance not to use up a potion when drinking one.
+-   The Chemist's Bag Talent causes potions to no longer be dropped on death.
+-   The Pitcher Talent allows potions to be thrown further. It is the only potion related Talent not found in the Alchemist category.
 
 Unlike the other effects, the duration of a potion is unaffected by any of these modifiers. A potion's duration is always the same for any given combination of ingredients.
 
@@ -237,7 +237,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Plumfruit</td>
   <td>Deals a small amount of damage over the potion duration.</td>
-  <td>Opposite effect to <b>Invigorating</b>.<p>The prefix of a potion brewed using only plumfruit depends on the talents of the brewer - if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
+  <td>Opposite effect to <b>Invigorating</b>.<p>The prefix of a potion brewed using only plumfruit depends on the Talents of the brewer - if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
 </tr>
 <tr>
   <td><b>Steadfast</b></td>
@@ -319,7 +319,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Also deals a small amount of damage and instantly restores Ether.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops, with an Antithesis salt.
 -   **Insanity** (Mindbreaker) - 3 Urchins + 2 Seaweed/Scallops
-    -   With the Apothecary talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
+    -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
 -   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs
     -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or Browncaps) are added to reduce this effect.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
@@ -341,7 +341,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much
 -   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg
     -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
-    -   If you have the Potion Quaffer talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
+    -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
     -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
 -   **Long Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg

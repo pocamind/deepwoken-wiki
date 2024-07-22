@@ -1,6 +1,6 @@
 ---
 title: Crystal Pendant Earrings
-revid: 103019
+revid: 107543
 source: https://deepwoken.fandom.com/wiki/Crystal_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]

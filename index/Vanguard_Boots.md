@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 74423
+revid: 107563
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -10,9 +10,10 @@ categories: [Equipment, Legs, Boots]
 
 | Vanguard Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | ??? |
 | requirements | None |
+| weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |

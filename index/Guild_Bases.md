@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 104892
+revid: 107279
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -30,7 +30,7 @@ Currently, there are 9 NPCs that can join your Guild Base with a certain amount 
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for Notes.
 -   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
 
-The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
+The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
 
@@ -238,7 +238,7 @@ Bandits raiding a Guild Base.
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
     -   You simply need to reach the back of the Guild Base, being 4 rooms deep.
 -   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etrean Luminant, every carriable items inside the guild base will despawn unless there is another guildmate in the lobby still having the guild base active.
--   The Thundercall talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
+-   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.

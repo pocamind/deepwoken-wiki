@@ -1,9 +1,9 @@
 ---
 title: Cerulean Thread
-revid: 106746
+revid: 107174
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Unique Critical, The Ministry]
+categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry]
 ---
 
 # Cerulean Thread

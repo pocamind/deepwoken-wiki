@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 105900
+revid: 107628
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 **Fishing** is a mechanic that allows you to obtain seafood and various valuables using a Fishing Rod.
 
-## **How to Fish**
+## How to Fish
 
 To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for from a fishing pond room in a Guild Base.
 
@@ -24,7 +24,7 @@ Fishing can also level each physical attribute (except weapon) given enough time
 
 The frequency and quality of loot from fishing is also heavily based on the location you are fishing in. Even slight angle adjustments in the same spot can lead to significantly better results.
 
-## **Loot From Fishing**
+## Loot From Fishing
 
 Many varieties of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing is:
 
@@ -149,7 +149,7 @@ This spot is located just in front of the waterfall.
 
 **Miscellaneous:**
 
-## **Talents**
+## Talents
 
 There are currently three Talents related to fishing, each automatically obtained after reaching certain milestones. "Proficient baiting" is unlocked at 10 bites, "Hook, Line and Sinker" at 30, and "Fisher's Lure" at 50 respectively.
 
@@ -161,7 +161,7 @@ File:Fishing Talents.png
 | Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose. | +4 Carry Load |  |
 | Proficient Baiting | Casting your line excites ocean life, reducing the chances of fishing up trash. | N/A |  |
 
-## **Bait**
+## Bait
 
 A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the Den Master is.
 
@@ -178,9 +178,9 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 -   Seaweed Bundle: Fast catches. Results from **2 Seaweed**: 2 Seabass and 1 Miss.
 -   Urchin: Decent speed of bites. Results from **4 Urchins**: 2 Sea Bass, 1 Squid, 1 Miss
 -   Browncap: Average bite times. Results from **10 Browncaps**: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
--   Chum: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails. (All fishing talents used)
+-   Chum: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails. (All fishing Talents used)
 -   Calabash: Not Properly Documented.
--   Fish Meat: Results from **100 Fish Meat**: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails. (All fishing talents used.)
+-   Fish Meat: Results from **100 Fish Meat**: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails. (All fishing Talents used.)
 -   Redd: Slightly lower than average bites. Results from **?? Redd**: 2 miss, 2 sea bass, 1 squid, 1 red snapper.
 -   Pufferfish: Not Properly Documented. (Possibly better chance of catching Mudskippers?)
 
@@ -191,7 +191,7 @@ File:VigilsPillarZipline.png
 | 100 Dentifilos | 25 | 47 | 16 | 0 | 6 | 5 | 1 |
 | 100 Chum | 18 | 50 | 14 | 0 | 6 | 12 | 0 |
 
-## **Trivia**
+## Trivia
 
 -   The general format and delivery of the lines that your character speaks is a possible reference to the _Animal Crossing_ series.
 -   Some spots won't let you fish.

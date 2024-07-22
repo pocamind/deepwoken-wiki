@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 100749
+revid: 107295
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -19,7 +19,7 @@ Insanity is dictated by a meter that is not directly shown to the player, but it
 
 Players start with a base 80 sanity. Being in The Depths passively takes sanity at a rate of 1 point every 30 seconds, meaning you can spend about 40 minutes in The Depths with 0 Willpower and no equipment bonuses before you reach maximum insanity.
 
-Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking talent cards from the Mental Fortress deck, wearing a blindfold, or wearing equipment with sanity pips.
+Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking Talent cards from the Mental Fortress deck, wearing a blindfold, or wearing equipment with sanity pips.
 
 ## Insanity effects
 
@@ -55,7 +55,7 @@ Said "Blue Hue" and "New Motifs"
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion
 -   Being healed by a [Blindseer's](Oaths.md) Mindsoothe mantra
--   The [Conquer Your Fears](Talents.md) talent
+-   The [Conquer Your Fears](Talents.md) Talent
 -   The Castle Light sanity aura, which is exclusive to the [Deepbound](Origins.md) origin.
 
 ## Trivia

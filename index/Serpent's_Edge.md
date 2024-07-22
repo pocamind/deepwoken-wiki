@@ -1,9 +1,9 @@
 ---
 title: "Serpent's Edge"
-revid: 107115
+revid: 107209
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Unique Critical]
+categories: [Weapons, Swords, Weapons with Unique Criticals]
 ---
 
 # Serpent's Edge

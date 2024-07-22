@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 103325
+revid: 107294
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -42,12 +42,12 @@ User performs a suplex, turning their opponent upside down and firmly slamming t
 
 To obtain it, you must help the Legion Captain in the Legion vs. Authority Lieutenant event at [Starswept Valley](The_Starswept_Valley.md). It will take two successful attempts before the Legion gives you the commendation.
 
-Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
+Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 
 ## Trivia
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) uses this fist style in his boss fight.
--   If you have [Way of Navae](Way_of_Navae.md) and **Legion Kata** you can switch between them quickly by pressing Y.
+-   If you have [Way of Navae](Way_of_Navae.md) and Legion Kata you can switch between them quickly by pressing Y.
 -   The Legion Kata critical attack is a grab, yet it doesn't bypass block. Guardbreaking someone will only daze them, and you won't actually grab them.
--   Weapons you can equip while using Legion Kata are the fists (default), [Iron Cestus,](Iron_Cestus.md) [Legion Cestus,](Legion_Cestus.md) [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Coral Cestus](Coral_Cestus.md), and [Light's Final Toll.](<Light's_Final_Toll.md>) Same goes for [Way Of Navae.](Way_of_Navae.md)
+-   Weapons you can equip while using Legion Kata are the fists (default), [Iron Cestus](Iron_Cestus.md), [Legion Cestus](Legion_Cestus.md), [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Coral Cestus](Coral_Cestus.md), and [Light's Final Toll](<Light's_Final_Toll.md>). Same goes for [Way Of Navae.](Way_of_Navae.md)
 -   It takes roughly two authority grips at the Starswept Valley to obtain the recommendation, assuming you have not previously lost rep with the Legion and that you are not a Khan.

@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 84686
+revid: 107552
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The _Blackleaf Helm_ is a piece of Equipment in the "Head" category, obviously being a black variant of the [Goldleaf Helm](Goldleaf_Helm.md). Equipping this will give you +5 Health +2 Posture. Along with the talent Concussive Force.
+The _Blackleaf Helm_ is a piece of Equipment in the "Head" category, obviously being a black variant of the [Goldleaf Helm](Goldleaf_Helm.md). Equipping this will give you +5 Health +2 Posture. Along with the Talent Concussive Force.
 
 ## Trivia
 

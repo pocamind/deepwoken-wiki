@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 104909
+revid: 107326
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -66,7 +66,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **If you have [Blindseer](Oath%253A_Blindseer.md), wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat, but it can damage them which means they will take damage from the hit. They can still get heals from mobs when killing monsters. Other players that didn't ring the bell will get combat tagged so if you're with someone that didn't ring it, don't hit them.
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into [The Interstice](The_Interstice.md) and spawn Graceful Flame with no repercussions to you.
--   The best weapon for hell mode is definitely either the [Kyrscleave](Kyrscleave.md) or [Evanspear Hand Axe](Evanspear_Greataxe.md). Heroism and Providence Thorns are extremely good for Hell Mode, but the undeniably best enchant is Chilling paired with the [Nullifying Clarity](https://deepwoken.fandom.com/wiki/Talents?so=search#Ether_Adept) talent for +15% damage.
+-   The best weapon for hell mode is definitely either the [Kyrscleave](Kyrscleave.md) or [Evanspear Hand Axe](Evanspear_Greataxe.md). Heroism and Providence Thorns are extremely good for Hell Mode, but the undeniably best enchant is Chilling paired with the [Nullifying Clarity](https://deepwoken.fandom.com/wiki/Talents?so=search#Ether_Adept) Talent for +15% damage.
 -   If you have Blindseer Oath be sure to use [Oath](Oaths.md) mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 -   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap a Squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.

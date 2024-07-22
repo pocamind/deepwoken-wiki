@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 106556
+revid: 107372
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -28,7 +28,7 @@ categories: [Deepwoken]
 
 ## Attunements
 
-### **Flamecharm**
+### Flamecharm
 
 -   **Flame of Denial** and **Flame Within** are inspired by similar spells in _Dark Souls_.
     -   **Flame of Denial** works similarly to [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial).
@@ -37,7 +37,7 @@ categories: [Deepwoken]
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move (Fūga) that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
 
-### **Thundercall**
+### Thundercall
 
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter × Hunter_ as it used to be blue, making it almost identical.
     -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _Naruto_, often called "Cloak of Lightning".
@@ -48,7 +48,7 @@ categories: [Deepwoken]
 -   **Spark Swap** is a reference to the snap version of [Celeritas](https://rogue-lineage.fandom.com/wiki/Celeritas) from _Rogue Lineage_. Both abilities share the same utility, and both have a similar sound effects and lightning visuals on usage.
 -   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.[\[1\]](#cite-note-1)
 
-### **Frostdraw**
+### Frostdraw
 
 -   The **Ice Skate** mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
@@ -56,13 +56,13 @@ categories: [Deepwoken]
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
 -   **Ice Eruption,** much like **Ascension,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
 
-### **Galebreathe**
+### Galebreathe
 
--   The **Aerogliding** talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
+-   The **Aerogliding** Talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
 -   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://eldenring.wiki.fextralife.com/Moonlight+Greatsword) from the _Souls_ games.
 -   **Wind Forge** modified with a Multiplying Spark is a reference to [Gilgamesh's Noble Phantasm "Gate of Babylon"](https://typemoon.fandom.com/wiki/Gilgamesh#Noble_Phantasms) from the _Fate_ series.
 
-### **Shadowcast**
+### Shadowcast
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
@@ -74,12 +74,12 @@ categories: [Deepwoken]
 -   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 -   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203), one of Lannis' abilities from _Rogue Lineage_.
 
-### **Ironsing**
+### Ironsing
 
 -   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura (better known as Uber Shinobi)](https://rogue-lineage.fandom.com/wiki/Uber_Shinobi?so=search) class.
 -   Being able to consume ores for buffs could be a reference to Allomancy from _Mistborn._
 
-### **Attunementless**
+### Attunementless
 
 -   **Punishment** may be a reference to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) [Royal Guard](https://devilmaycry.fandom.com/wiki/Royalguard_Style) from _Devil May Cry._
 
@@ -105,7 +105,7 @@ categories: [Deepwoken]
     -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
     -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance.
     -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates._
-    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the talent, slicing the enemy multiple times.
+    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the Talent, slicing the enemy multiple times.
 -   **Dawnwalker's** Radiant Kick is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) dropkick attack where he says _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
 
@@ -118,7 +118,7 @@ categories: [Deepwoken]
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.
     -   While Kaidou's beast form is indeed based on Dragons from Eastern Mythology, The Dread Serpent shares many similarities with Kaidou, in specific.
     -   The Dread Serpent's roar comes from Monster hunter 4 Ultimate. its the same audio as Gore Magala's roar.
--   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
+-   **[The Duke](Duke_Ishamon_Erisia.md)** is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_. They also both laugh manically after landing a counter.
         -   Par, one of the developers of _Deepwoken_, who designed the Duke, also works on _Anime Battle Arena._ This could be the reason why their movesets are the same.
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
@@ -150,13 +150,13 @@ categories: [Deepwoken]
     -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
     -   The description is a reference to the [famous quote](https://www.youtube.com/watch?v=bjQRTFX1Lp4) made by [Qui Gon Jinn](https://starwars.fandom.com/wiki/Qui-Gon_Jinn) in _Star Wars: A Phantom Menace_.
 -   The **One Eyed King** is possibly a reference to [The One Eyed King](https://tokyoghoul.fandom.com/wiki/One-Eyed_King?so=search) in _Tokyo Ghoul._
-    -   One Eyed King is the category name for the talent "Strength Unbound", possibly referencing the one-eyed swordsman [Guts](https://berserk.fandom.com/wiki/Guts) due to his profound strength.
+    -   One Eyed King is the category name for the Talent "Strength Unbound", possibly referencing the one-eyed swordsman [Guts](https://berserk.fandom.com/wiki/Guts) due to his profound strength.
 -   The **Vow of Mastery** line of Talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** could be a reference to Haoshoku (Conqueror's) haki from _One Piece._
 -   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://i.imgur.com/Bz5xxxm.png), Referring to one of the Gods in Rogue Lineage.
--   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
--   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
+-   **Ice Age** Talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
+-   A bit of a stretch, but the **Safety Dance** Talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
 -   **Pocket Sand** is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
 -   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
@@ -217,7 +217,7 @@ categories: [Deepwoken]
 
 ## World
 
-### **The Etrean Luminant**
+### The Etrean Luminant
 
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) are based on [Whalers](https://dishonored.fandom.com/wiki/Whalers) from Dishonored due to multiple similarities.
     -   The Knives of Eylis wear Whaler Initiate and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
@@ -230,13 +230,13 @@ categories: [Deepwoken]
     -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
     -   He has negative Navaen Nomad reputation. He was probably gripping them for Frigid Prisms.
 
-### **The Eastern Luminant**
+### The Eastern Luminant
 
 -   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 -   The [Shrine of Order](Deep_Shrines.md) might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
 -   The [Derelict Highchurch's](Derelict_Highchurch.md) hidden library has a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in Rogue Lineage.
 
-### **The Depths**
+### The Depths
 
 -   **The** **Depths** itself was confirmed to have drawn inspiration _Salt and Sanctuary_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
@@ -257,14 +257,14 @@ categories: [Deepwoken]
     -   This is also reinforced by the fact that the spawning sounds for the white orbs are just the [Void Reaver](https://riskofrain2.fandom.com/wiki/Void_Reaver) death implosion sound effect.
 -   Among a hidden cliff, a frozen [Yeti](https://rogue-lineage.fandom.com/wiki/Yeti) from _Rogue Lineage_ can be found.
 
-### **Factions**
+### Factions
 
 -   **Etrea** is very similar to a mixture of various East Asian countries.
 -   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
 -   **The Knives of Eylis** is a reference to a faction in _Dishonored_ as they can travel to a place that only exists within dreams, are assassins and have a supernatural entity that allow said group to exist.
 -   **The Divers**, especially the Black Divers, are a reference to the Whistles of _Made in Abyss_, having the rank of Black Diver being very similar in design of the armor and concept of the White Whistles.
 
-### **Races**
+### Races
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
@@ -284,7 +284,7 @@ categories: [Deepwoken]
 -   Although this was likely unintentional, Tiran's Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
 
-### **Misc**
+### Misc
 
 -   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
     -   Perceiving them drives you to insanity.

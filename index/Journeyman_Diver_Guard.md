@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 106897
+revid: 107662
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]
@@ -46,7 +46,7 @@ This mantra has a [Magnet Spark](Mantra_Modifiers.md) on it.
 | Encircle | conjure shadows around your enemy before warp-striking tothem | ✗ | ◯ | (★☆☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
-### Boons:
+### Boons
 
 -   Impervious - Immune to PvE scaling.
 
@@ -88,7 +88,7 @@ A Journeyman Diver executes it's opponent after knocking them:
 ## Tips
 
 -   Don't try to fight them in any circumstances. They will jump you, and they have little to no cooldown on mantras.
--   Look at their enchant before attempting to engage in a fight with them, as if you lack necessary talents such as Carnivore or a form of Campfire in the depths, enchants such as Gluttony and Bloodthirsty may lead to an untimely end.
+-   Look at their enchant before attempting to engage in a fight with them, as if you lack necessary Talents such as Carnivore or a form of Campfire in the depths, enchants such as Gluttony and Bloodthirsty may lead to an untimely end.
 
 ## Trivia
 

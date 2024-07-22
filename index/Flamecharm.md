@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 107000
+revid: 107238
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -36,7 +36,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
 ## Mantras
 
-### **Combat Mantras**
+### Combat Mantras
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Rare Flamecharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
--   Buffed by the [Concussive Flash](Talents.md) talent, causing all blinded enemies to be dazed.
+-   Buffed by the [Concussive Flash](Talents.md) Talent, causing all blinded enemies to be dazed.
 -   Can be upgraded with Aeon Logstones to make the blind last longer.
 -   Great with Wayward Gem
 -   Like venting, this seemingly does no damage, but can actually knock opponents.[\[1\]](#cite-note-1)
@@ -185,7 +185,7 @@ _A blast of flame._
 -   Cone shaped hitbox.
 -   Deals moderate damage.
 -   Inflicts Burn.
--   Can be upgraded with the [Wildfire](Talents.md) talent.
+-   Can be upgraded with the [Wildfire](Talents.md) Talent.
 
  |
 |  | 
@@ -364,7 +364,7 @@ _Strike the ground, turning it to ash._
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -403,7 +403,7 @@ _Leap up leaving behind a burst of flames._
 
  |
 
-### **Support Mantras**
+### Support Mantras
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -480,7 +480,7 @@ _Undying flame._
 
 **Amoran Seeker:**
 
-These are talents found in "_Amoran Seeker_" Category.
+These are Talents found in "_Amoran Seeker_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -521,7 +521,7 @@ Using Flame Within, set your self on fire after being knocked down.
 
 **Duelist Flame:**
 
-These are talents found in "_Duelist Flame_" Category.
+These are Talents found in "_Duelist Flame_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -543,7 +543,7 @@ N/A
 
 **Falling Star Guard:**
 
-These are talents found in "_Falling Star Guard_" Category.
+These are Talents found in "_Falling Star Guard_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -597,7 +597,7 @@ Taking damage while using Flame Repulsion reflects the damage back to the attack
 
 **Flamecharmer:**
 
-These talents are found in the "_Flamecharmer_" Category.
+These Talents are found in the "_Flamecharmer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -749,7 +749,7 @@ Pressing \[F\] before releasing your Flame Impact will release a wider but short
 
 **Flame Brawler:**
 
-These are talents found in "_Flame Brawler_" Category.
+These are Talents found in "_Flame Brawler_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -771,7 +771,7 @@ Ignite flames on an enemy when you uppercut them.
 
 **Flame Dancer:**
 
-These are talents found in "_Flame Dancer_" Category.
+These are Talents found in "_Flame Dancer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -825,7 +825,7 @@ Landing a fire mantra immediately after flourishing an opponent will cause them 
 
 **Flame Warden:**
 
-These are talents found in "_Flame Warden_" Category.
+These are Talents found in "_Flame Warden_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -899,7 +899,7 @@ Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allo
 
 **Immolator:**
 
-These talents are found in the "_Immolator_" Category.
+These Talents are found in the "_Immolator_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -924,7 +924,7 @@ Fire spells cost 70% less while on fire. If you hit someone while on fire, apply
  | 
 
 Phoenix Flames  
-(FLAME 40, All Immolator talents)
+(FLAME 40, All Immolator Talents)
 
  | 
 
@@ -954,7 +954,7 @@ If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Inc
 
 **Inferno:**
 
-These talents are found in the "_Inferno_" Category.
+These Talents are found in the "_Inferno_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1024,7 +1024,7 @@ N/A
 
 **Lava Serpent:**
 
-These are talents found in "_Lava Serpent_" Category.
+These are Talents found in "_Lava Serpent_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1138,7 +1138,7 @@ N/A
 
 **Pyromancer:**
 
-These are talents found in "_Pyromancer_" Category.
+These are Talents found in "_Pyromancer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1160,7 +1160,7 @@ When you have no Ether, consume Stomach and Water to instantly cast your next fi
 
 **Tamed Flame:**
 
-These are talents found in "_Tamed Flame_" Category.
+These are Talents found in "_Tamed Flame_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1182,7 +1182,7 @@ N/A
 
 **The Demon Blade:**
 
-These are talents found in "_The Demon Blade_" Category.
+These are Talents found in "_The Demon Blade_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1220,7 +1220,7 @@ Set enemies on fire when you flourish them.
 
 **The Emperor's Blade:**
 
-These are talents found in "_The Emperor's Blade_" Category.
+These are Talents found in "_The Emperor's Blade_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1259,7 +1259,7 @@ When dodging an attack, you leave behind a fire clone that burns the attacking e
 
 **Undying Ember:**
 
-These talents are found in the "_Undying Ember_" Category.
+These Talents are found in the "_Undying Ember_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1313,7 +1313,7 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 
 **Twisted Puppets:**
 
-These talents are found in the _Twisted Puppets_ category.
+These Talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1337,7 +1337,7 @@ Burning Puppets
 
  | 
 
-Your puppets can now inflict burn and fire-based talents when they explode.
+Your puppets can now inflict burn and fire-based Talents when they explode.
 
  | 
 
@@ -1398,9 +1398,9 @@ N/A
 -   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
 -   The **Flame Ballista** Mantra is Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
--   If a player proc's "Meteor Impact" on another Flamecharm user who also has the talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
+-   If a player proc's "Meteor Impact" on another Flamecharm user who also has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
--   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the **Flame of Denial** mantra which can restore some sanity upon use, while also allowing you to not die.
+-   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a Talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the **Flame of Denial** mantra which can restore some sanity upon use, while also allowing you to not die.
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
 -   The **Graceful Flame** mantra does not allow anyone to cook food, regardless of its Level.
@@ -1410,7 +1410,7 @@ N/A
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
--   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
+-   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
 -   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.

@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 106753
+revid: 107623
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Unique Critical, "Multi-Weapon Scaling", Etrea]
+categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea]
 ---
 
 # Wyrmtooth
@@ -28,7 +28,7 @@ categories: [Weapons, Swords, Unique Critical, "Multi-Weapon Scaling", Etrea]
 
 ## Description
 
-The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and Power 15 to equip. Despite being a hybrid weapon, it is only compatible with medium weapon talents.
+The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and Power 15 to equip. Despite being a hybrid weapon, it is only compatible with medium weapon Talents.
 
 With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.1 damage at base and 35.6 damage when both MED and HVY are at 100.
 

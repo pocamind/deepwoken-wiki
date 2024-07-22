@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 103021
+revid: 107616
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,4 +26,4 @@ categories: [Equipment, Ears]
 
 ## Description
 
-Emerald Tusk Earrings are an [Equipment](Equipment.md) item under the "Ears" category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Emerald Tusk Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.

@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 105842
+revid: 107573
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-Iron Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
+Iron Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 

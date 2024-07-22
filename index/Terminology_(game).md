@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 106815
+revid: 107376
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -123,8 +123,7 @@ _verb_
 
 _verb_
 
-1.  (Perfect Dodge) To roll during the active frames of an attack, preventing damage.  
-    
+1.  (Perfect Dodge) To roll during the active frames of an attack, preventing damage.
 
 ### Spot Dodge
 
@@ -169,26 +168,26 @@ _verb_
 
 1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
-### **I-frames**
+### I-frames
 
 _verb_
 
 1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
-    1.  ex. The talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
+    1.  ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
-### **Counter**
+### Counter
 
 _verb, noun_
 
 1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
     1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counter**s.
 
-### **Proc**
+### Proc
 
 _verb_
 
-1.  When a passive talent or ability activates
-    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (talent) to proc.
+1.  When a passive Talent or ability activates
+    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (Talent) to proc.
 
   
 **Void/Voiding**
@@ -243,7 +242,7 @@ _noun_
 
 ## Outside Combat
 
-### **Drip**
+### Drip
 
 _verb, noun_
 
@@ -253,7 +252,7 @@ _verb, noun_
 
 ## Enemies / Monsters
 
-### **Sharko**
+### Sharko
 
 _noun_
 
@@ -322,7 +321,7 @@ _noun_
 1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
     1.  Ex. The Shattered Katana requires 90 MED to wield.
 
-### **AGL**
+### AGL
 
 _noun_
 
@@ -347,14 +346,14 @@ Not to be confused with the verb outside of Deepwoken _to clog_.
 
 To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.  
 
-### **Run 1**
+### Run 1
 
 _adjective_
 
 1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase= mostly indicates friendly spars
     1.  Ex. Yo bro can we run a 1?
 
-### **DvM**
+### DvM
 
 _noun_
 
@@ -367,7 +366,7 @@ _noun_
 
 1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement
 
-### **LFT**
+### LFT
 
 _noun_
 

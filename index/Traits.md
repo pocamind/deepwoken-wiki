@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 105682
+revid: 107643
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## What is a Trait?
 
-Traits are attributes given to you to further increase your strength beside basic attributes, gears and talents.
+Traits are attributes given to you to further increase your strength beside basic attributes, gears and Talents.
 
 Every player have a maximum of 12 trait points, given at every even number **[Power](Power.md)** up, so Powering up from Power **2, 4, 6, etc.** gives you a Trait point. The only exception are the **1st, 9th and 19th** Power up.
 

@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 104521
+revid: 107374
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -26,12 +26,12 @@ categories: [Equipment, Face, Blindfolds]
 
 ## Description
 
-The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. They are found in [Erisia](Erisia.md), [Minityrsa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md). Equipping this item gives you the [Blinded](Talents.md) talent. A Blindfold is required for the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
+The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. They are found in [Erisia](Erisia.md), [Minityrsa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md). Equipping this item gives you the [Blinded](Talents.md) Talent. A Blindfold is required for the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
 
 ## Trivia
 
 -   The Blindfold, Crimson Blindfold and Black Blindfold are all the same item, just with different appearances.
     -   Modelwise, the Crimson and Black blindfold are visually the same.
 -   [Gremors](Gremor.md) get a circle around them of clear vision.
--   The [Blinded](Talents.md) talent originally made the screen completely black so the user could not see anything other than chat messages and GUI
+-   The [Blinded](Talents.md) Talent originally made the screen completely black so the user could not see anything other than chat messages and GUI
     -   Many players would troll freshies by tricking them to put it on, because it cannot be taken off without a campfire or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you.

@@ -1,6 +1,6 @@
 ---
 title: Etrean Rogue
-revid: 84008
+revid: 107499
 source: https://deepwoken.fandom.com/wiki/Etrean_Rogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]

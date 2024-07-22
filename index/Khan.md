@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 105764
+revid: 107686
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -16,7 +16,7 @@ Chance of obtaining race: **8%**
 
 ## Description
 
-Khans are a rare race with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions.](The_Hundred_Legions.md)
+Khans are a rare race with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions](The_Hundred_Legions.md).
 
 ## Racial Traits
 
@@ -90,7 +90,7 @@ They hail from the Western Luminant and are the most prominent race in [The Hund
 -   Khan means "King" in Mongolian, Turkish and Hindi, Hence the reason why they have a crown as ornament.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Genghis Khan.
--   The Racial talent "Versatile" only works on stat points, not levels.
+-   The Racial Talent "Versatile" only works on stat points, not levels.
 -   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme.
 -   Hair dye affects the sideburns.

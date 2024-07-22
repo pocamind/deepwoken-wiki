@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 101477
+revid: 107648
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -606,7 +606,7 @@ Some books are obtained as part of specific quests and cannot be found outside o
 > 
 > He continued in a jovial tone "It’s simple, really. I shifted my body weight and thought only of killing you, and prepared to attack so as to end your life in an instant. Something only a seasoned fighter could pick up on. Yet, in an instant you reacted as if you had been on the battlefield your entire life. It’s obvious when paired with your story. Your eyes fail to perceive danger in a very literal sense. Growing up here in the Greathive, I’m sure you’ve never really had anything dangerous enough show up for you to notice before."
 > 
-> It's too much information at once, too much shock, yet I have no choice but to continue onward with this new information – my protestations die away on my lips before I can speak up. Nothing I can conjure up is able to disprove the old man’s theory. But what’s the point of being able to sense danger if I can’t even see it? He continues the conversation without me, as I’m still too stunned to speak. "Now, you could go back to your normal life as an Operator, but I have a better idea. I was serious about that bit I said before. We value Hivekin with great talents. Have you ever considered what you could truly accomplish if given the right opportunity? Come with me and we can yet find out."
+> It's too much information at once, too much shock, yet I have no choice but to continue onward with this new information – my protestations die away on my lips before I can speak up. Nothing I can conjure up is able to disprove the old man’s theory. But what’s the point of being able to sense danger if I can’t even see it? He continues the conversation without me, as I’m still too stunned to speak. "Now, you could go back to your normal life as an Operator, but I have a better idea. I was serious about that bit I said before. We value Hivekin with great Talents. Have you ever considered what you could truly accomplish if given the right opportunity? Come with me and we can yet find out."
 > 
 > Still in a daze, I looked up from the floor, where my chair still sits toppled over, and see his hand reaching out to me. "My name is Ysley". He adds while looking down at me.
 > 

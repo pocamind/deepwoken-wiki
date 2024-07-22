@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 107164
+revid: 107228
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -31,7 +31,7 @@ Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correc
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesic Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
-A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 20%, down to 8 and 16 Ether.
+A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The Talent Neuroplasticity reduce this increased cost by 20%, down to 8 and 16 Ether.
 
 After modifying a mantra and finishing its creation, uncompatible mods on the table will turn black when the mantra is granted, voiding any of their effect.
 
@@ -317,7 +317,7 @@ Gem
 
   
 
-### **Specific Effects of Modifiers**
+### Specific Effects of Modifiers
 
 #### Cloudstone
 
@@ -1531,7 +1531,7 @@ Lightning Clones
 
  | 
 
--   This combination of talent and modifier causes the clone in the "Lightning Clones" mantra conjure a Lightning Strike when it disappears.
+-   This combination of Talent and modifier causes the clone in the "Lightning Clones" mantra conjure a Lightning Strike when it disappears.
 
  |
 
@@ -1544,7 +1544,7 @@ Lightning Clones
 -   There is an NPC called the Den Master that sells mantra modifiers including Cloudstones, Amnesic Driftwood, Drift Shards, and Crystal Lenses for 10 notes each. He's located in a secret cave near Etris near sea level.
 -   Glass/Magnifying Stones are the only known mantra modifiers that are crafted from other mantra modifiers.
 -   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, 1 disk lights up.
-    -   The blue discs on the top formerly illuminated per each requirement of _Knowledge,_ a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022, persisting even after Knowledge's new reimplementation.
+    -   The blue discs on the top formerly illuminated per each requirement of _Knowledge,_ a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13, 2022, persisting even after Knowledge's new reimplementation.
 -   The Falseflame, Haunting Stone and Mirage Stones are unreleased material (as confirmed by Arch\_Mage) and not meant to be in the game yet, and as such do not do anything.
 -   Revenge requires Drift/Rush Shards to reach further instead of Lenses.
 -   Low-level mantra modifying (for example, 2 Cloudstones and a Blast Spark) does not cost notes. It only starts costing notes past a certain threshold.

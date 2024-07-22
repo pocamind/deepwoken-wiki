@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 95256
+revid: 107644
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -22,6 +22,6 @@ Once you complete the quest, return to Beriuul and she will grant you two knowle
 
 When fighting, Beiruul uses the [Way Of Navae](Fists.md) fist fighting style and [Frostdraw](Frostdraw.md) mantras, similar to a regular [Gremor Nomad](Eastern_Nomad.md).
 
-She has Fists of Fortitude and Fists of Navae as [talents](Talents.md).
+She has Fists of Fortitude and Fists of Navae as [Talents](Talents.md).
 
 Gripping Beiruul will **reduce your rep with the Children of Navae.**

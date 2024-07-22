@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 96671
+revid: 107660
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -53,7 +53,7 @@ categories: [World]
 <tr>
   <td>Day and Night Cycle</td>
   <td>Everywhere (Except Depths)</td>
-  <td>Only visual difference. Some talents and Flaws may cause various effects due to what time it is. <a href="Deep_Owl.md">Deep Owls</a> which spawn in the overworld will only spawn at night.</td>
+  <td>Only visual difference. Some Talents and Flaws may cause various effects due to what time it is. <a href="Deep_Owl.md">Deep Owls</a> which spawn in the overworld will only spawn at night.</td>
 </tr>
 <tr>
   <td>Parasites</td>

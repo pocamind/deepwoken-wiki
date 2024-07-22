@@ -1,6 +1,6 @@
 ---
 title: Canticlysm Pendant
-revid: 73877
+revid: 107512
 source: https://deepwoken.fandom.com/wiki/Canticlysm_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -20,7 +20,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser , Hell Mode |
+| obtainment | Chaser, Scholar of the Burning Blood , Hell Mode |
 | description | ... |
 
 ## Description

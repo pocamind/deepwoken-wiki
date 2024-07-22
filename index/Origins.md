@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 106900
+revid: 107251
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -122,7 +122,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ## Upcoming Origins
 
-### **Authority Origin**
+### Authority Origin
 
 -   An Authority based origin. Not much is known about it, other than you are able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
 
@@ -134,12 +134,12 @@ The following is speculation:
 -   Very high chances you may start this origin with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
 -   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with NPCs, having the Adret race (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
 
-### **Hive Origin**
+### Hive Origin
 
 -   Confirmed to release alongside Conquest.
 -   Stated to be a PvE centered origin for players who want to avoid PVP.
 
-### **Ignition Union Origin**
+### Ignition Union Origin
 
 -   Technically confirmed, but release timeframe is unknown.
 
@@ -159,7 +159,7 @@ The following is speculation:
 -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
--   With the Deepbound and Voidwalker origins having contract talents to factions belonging to The Divers and The Knives of Eylis faction respectfully, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority as well as the Ignition Union origin) that they will also contain contract based talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
+-   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectfully, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority as well as the Ignition Union origin) that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
 -   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)

@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 98262
+revid: 107341
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, Items]
@@ -10,7 +10,7 @@ notices:
 
 # Materials
 
-Materials are items in
+**Materials** are items in
 
 [Armor](Outfits.md) or [Quests](Quests.md).
 
@@ -51,4 +51,4 @@ Main page: [Ore](Ores.md)
 ## Notes
 
 -   Talk to the apprentice near the [Blacksmith](Blacksmith.md) in Etris and choose the first option to get a material discount.
--   The talent Survival Kit makes your flint never run out of uses.
+-   The Talent Survival Kit makes your flint never run out of uses.

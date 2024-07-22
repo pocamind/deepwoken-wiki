@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 106758
+revid: 107292
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -24,7 +24,7 @@ On changing and creating an emblem, you'll be given a screen with four controls.
 
 The guild color you chose becomes the color of your sails, and the emblem you make will be on the flag of the ship. The guild emblem will also be showcased on [Guild Banners](Guild_Banners.md).
 
-This emblem will be shown next to the guild name on the playerlist, on your sails, and on your [Guild Banners.](Guild_Banners.md) The colour used will become your sail colour, and your guild banner colour.
+This emblem will be shown next to the guild name on the playerlist, on your sails, and on your [Guild Banners](Guild_Banners.md). The colour used will become your sail colour, and your guild banner colour.
 
 ## Members
 
@@ -49,7 +49,7 @@ Members of a guild including its leader will stay in their guild after death and
 
 -   Being in the same guild as someone with a spawned boat will allow you to spawn on their boat upon dying or resetting your character. You also spawn in the Guild Base if you have the Quarters room.
 -   Nemesis, Radiant Kick, Taunt, Ankle Cutter and Mani Katti all don't work on guildmates. This helps prevent some friendly fire during guild wars.
--   [Canor's](Canor.md) Innate [Talent](Talents.md) and the talent "Give and Take," makes you deal and take less damage from any allies.
+-   [Canor's](Canor.md) Innate [Talent](Talents.md) and the Talent "Give and Take," makes you deal and take less damage from any allies.
 -   [Resurrection](Resurrection.md) and [Linkstrider](Oath%253A_Linkstrider.md) allows you to see your Allies health bars. Know that not all of your guildmates may be considered as an "ally". To set someone to ally forcefully, you can make a vow of allegiance with them.
 -   Shout feature, allowing you to read and send messages between any guildmate or allies via [Vow of Allegiance](Combat_Mechanics.md) in the server.
     -   In public servers, shouts are sent by prefixing "!" (without quotation marks) to your messages.

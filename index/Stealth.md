@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 100334
+revid: 107386
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,4 +68,4 @@ When a humanoid enemy detects you, a dark yellow **"!"** will appear above their
 
 [Murmur](Murmur.md): Tacet's range scales with both Power and Stealth.
 
-The highest possible stealth obtainable from armor alone is 80%, however this can be increased further with the [Felinor](Felinor.md) racial passive Nightchild, the talent Lowstride, and Agility.
+The highest possible stealth obtainable from armor alone is 80%, however this can be increased further with the [Felinor](Felinor.md) racial passive Nightchild, the Talent Lowstride, and Agility.

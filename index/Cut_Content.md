@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 106107
+revid: 107359
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -111,7 +111,7 @@ notices:
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
 -   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
-    -   in the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
+    -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
 -   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
     -   The talent was removed from the game with October 6th, 2023 update, as it became a base behavior for Flame Repulsion.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)

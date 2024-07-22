@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 105853
+revid: 107250
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,15 +20,15 @@ categories: [Mechanics]
 Your Knowledge **grows**...
 
   
-Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build-- aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
+Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build—aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 
-With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled [**Misérables**](Misérables.md) so long as they have sufficient _Knowledge._
+With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- Talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled **[Misérables](Misérables.md)** so long as they have sufficient _Knowledge._
 
 ## Overview
 
 _**Knowledge is a new feature introduced in the** **[Verse 2](Version_History/2026.md) update.**_
 
-Knowledge is a special in-game currency that can be used to engage in a deals with various [Deep Shrines](Deep_Shrines.md) and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways; however, Knowledge-related services reap much higher benefits for the player, such as gaining the ability to reroll your bell again-- at the cost of a higher degree of involvement for obtainment of the currency itself.
+Knowledge is a special in-game currency that can be used to engage in a deals with various [Deep Shrines](Deep_Shrines.md) and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways; however, Knowledge-related services reap much higher benefits for the player, such as gaining the ability to reroll your bell again—at the cost of a higher degree of involvement for obtainment of the currency itself.
 
 ### Ways of Obtaining Knowledge
 
@@ -65,7 +65,7 @@ A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-
 
 As stated at the beginning of this page, Knowledge can be used to bargain with powerful objects and beings.
 
--   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division-- read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes)
+-   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes)
 
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit**, uses 1 Knowledge.

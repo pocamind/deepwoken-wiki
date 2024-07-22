@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 106666
+revid: 107469
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -135,7 +135,7 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
   <td colspan="4">*<i>The bewildered lumberjack's expression reminds you of your intellectual quest to punch down <b>5</b> trees. Your research is crucial. The world must know.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">End, talent got</td>
+  <td colspan="4">End, Talent got</td>
   <td colspan="4">End</td>
 </tr>
 </tbody>
@@ -146,10 +146,10 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 -   If starting out with neutral reputation with [Etrea](Etrea.md), the player needs at least ~100 wood (likely less, untested) to begin the [Duke Erisia](Duke_Ishamon_Erisia.md) quest
     -   This translates to ~200 notes, if the wood is purchased from the blacksmith.
 -   Instead of manually acquiring wood, the player can buy it within etris to speed up the process, although this requires that the player have several hundred notes.
-    -   It is recommended to buy wood from the blacksmith, instead of the general store, as wood costs only 2 notes when bought from the blacksmith's store[\[1\]](#cite-note-1), whereas it costs 5 notes when bought from the general store[\[2\]](#cite-note-2).
--   If the player has the mantra [Strong Left](https://deepwoken.fandom.com/wiki/Attunement-less?so=search#Strength_Mantras), Korin can give them the quest to obtain the talent [Treefelling Blow](Talents.md#treefelling-blow).
-    -   As the name implies, this talent allows the player to get wood by punching down a tree with strong left.
-        -   Although this can be done without the talent, you need the talent to obtain the wood; otherwise, you will have gained nothing.
+    -   It is recommended to buy wood from the blacksmith, instead of the general store, as wood costs only 2 notes when bought from the blacksmith's store,[\[1\]](#cite-note-1) whereas it costs 5 notes when bought from the general store.[\[2\]](#cite-note-2)
+-   If the player has the mantra [Strong Left](https://deepwoken.fandom.com/wiki/Attunement-less?so=search#Strength_Mantras), Korin can give them the quest to obtain the Talent [Treefelling Blow](Talents.md#treefelling-blow).
+    -   As the name implies, this Talent allows the player to get wood by punching down a tree with strong left.
+        -   Although this can be done without the Talent, you need the Talent to obtain the wood; otherwise, you will have gained nothing.
 -   Greatly resembles [The Ferryman](The_Ferryman.md).
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions.
 

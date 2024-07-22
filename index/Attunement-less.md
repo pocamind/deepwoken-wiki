@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 106519
+revid: 107234
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -12,7 +12,7 @@ File:Attunement-less icon.png
 
 Attunement-less icon
 
-Attunement-less mantras, or Physical mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
+Attunement-less mantras, or Physical mantras consist of mantras that are chosen based on your attributes, similar to Talents, rather than your attunements.
 
 **NOTE: Attunement-less mantras are rarer if you have an attunement and depend on how much you have in said stat opposed to your attunement.**
 
@@ -31,7 +31,7 @@ In spite of its shortcomings, the potential of Attunement-less is nothing to sco
 -   Although the mantras have nothing to do with attunements, having an attunement can sometimes make certain attunement**less** mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
 -   _(Side Note: Do not confuse upgrading mantras with trainers as using modifiers.)_
 
-### _**Strength Mantras**_
+### _Strength Mantras_
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
@@ -55,7 +55,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <ul>
     <li>A powerful left cross that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
     <li>Strong Left scales with your Strength attribute.</li>
-    <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> talent, you can gain wood from fallen trees.</li>
+    <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> Talent, you can gain wood from fallen trees.</li>
     <li>Has a base posture damage of 22</li>
   </ul></li>
   </ul></td>
@@ -130,7 +130,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 </tbody>
 </table>
 
-### _**Fortitude Mantras**_
+### _Fortitude Mantras_
 
 Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a Training Vest, or feel the crushing weight of a Boulder.
 
@@ -196,7 +196,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
  |
 
-### _**Agility Mantras**_
+### _Agility Mantras_
 
 Agility mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
 
@@ -214,7 +214,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   The move teleports you forwards only upon hitting an opponent.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
     -   Scales with the user's Agility Attribute.
-    -   With the [Pursuit](Talents.md) talent, Revenge can be used twice in a row if the first use hits.
+    -   With the [Pursuit](Talents.md) Talent, Revenge can be used twice in a row if the first use hits.
     -   Wayward does **NOT** proc on revenge
     -   Can be upgraded with Stones and Shards. (Increases range of the Mantra).
 
@@ -246,14 +246,14 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
 
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
     -   Increases movement speed and parkour abilities
-    -   Procs the "Speed Demon" talent.
-    -   This Mantra can be further viable by using the talent "Action Surge" which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
+    -   Procs the "Speed Demon" Talent.
+    -   This Mantra can be further viable by using the Talent "Action Surge" which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
     -   Upgrading reduces cooldown.
     -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |
 
-### _**Intelligence Mantras**_
+### _Intelligence Mantras_
 
 Intelligence mantras act as "wildcards" in the user's arsenal as they complement well with existing mantras. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
@@ -289,7 +289,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
 
  |
 
-### _**Willpower Mantras**_
+### _Willpower Mantras_
 
 Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 
@@ -340,7 +340,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
  |
 
-### _**Charisma Mantras**_
+### _Charisma Mantras_
 
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends' to level up charisma. You do not have to read the book near an NPC or player, as you will still gain experience by correctly typing the instructed phrase.
 
@@ -394,7 +394,7 @@ File:Disguising .gif
 -   Their damage scales with the amount of weapon points you have.
 -   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual" (only to allocate stats, it cannot be used to train), parry, block and hit enemies with your weapon.
 
-### _**Light Weapon Mantras**_
+### _Light Weapon Mantras_
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -442,7 +442,7 @@ File:Disguising .gif
 
  |
 
-### _**Medium Weapon Mantras**_
+### _Medium Weapon Mantras_
 
 <table><caption></caption>
 <tbody>
@@ -509,7 +509,7 @@ File:Disguising .gif
 </tbody>
 </table>
 
-### _**Heavy Weapon Mantras**_
+### _Heavy Weapon Mantras_
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -595,9 +595,8 @@ In short: Every 20 points in a specific attribute will unlock the next level for
     -   Cloud/Stratus stone increased the hitboxes of moves so much, most of the time you wouldn't even have to look at the enemy.
     -   Before it was nerfed, Revenge would always teleport you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with shard modifiers.
     -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma mantra, the effect would last so long the mantra's cooldown would have ended before the effect wore off, this may have also applied to Reinforce.
-        -   Reinforce and Brace now upgrade duration by leveling them up at Regek.  
-            
--   Prediction has, by far, the most talent card upgrades out of all the attunement-less mantras.
+        -   Reinforce and Brace now upgrade duration by leveling them up at Regek.
+-   Prediction has, by far, the most Talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on YouTube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
 -   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.

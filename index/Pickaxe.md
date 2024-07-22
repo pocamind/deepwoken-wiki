@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 72067
+revid: 107377
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -13,7 +13,7 @@ categories: [Utilities, Items]
 | usage | Used to mine ores. |
 | recipe | Iron x2 + Wood x2 |
 
-The pickaxe is a utility item that allows players to mine [ore](Ores.md) deposits by pressing E on them.
+The **pickaxe** is a utility item that allows players to mine [ore](Ores.md) deposits by pressing E on them.
 
 ## Obtainment
 
@@ -90,6 +90,6 @@ The pickaxe in the [First Layer](First_Layer.md) is located on a table in the [N
 -   The easiest way to obtain a pickaxe is to buy it for free from the Bandit Camp at Lower Erisia (see above).
 -   The recipe for the pickaxe has the same ingredients and quantities as the lumber axe.
 -   The recipe for the pickaxe will not appear in your recipe list unless you have crafted one.
--   It takes roughly 3 seconds to mine an ore, and roughly 1.5 seconds with the Excavator [talent](Talents.md).
+-   It takes roughly 3 seconds to mine an ore, and roughly 1.5 seconds with the Excavator [Talent](Talents.md).
 -   You have a chance to mine a pure ore from any deposit except rock or coal.
-    -   To get the Excavator talent you must turn in any 5 pure ores to a [Blacksmith](Blacksmith.md), excluding pure iron or pure gold.
+    -   To get the Excavator Talent you must turn in any 5 pure ores to a [Blacksmith](Blacksmith.md), excluding pure iron or pure gold.

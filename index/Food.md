@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 106674
+revid: 107637
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -56,7 +56,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 -   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
 -   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.
 
-Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of talents.
+Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 
 ## Food Recipes/Info
 
@@ -195,5 +195,9 @@ Witherald lifting The Meat Lord
 ## Bugs
 
 -   Rejoining after eating a food that grants you a buff will make the Reinforced Hunger bar's color default to Purple. (Purely visual, the effects can still be seen by hovering over it)
+
+## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1) [https://youtu.be/Zdj637SL9TI](https://youtu.be/Zdj637SL9TI)

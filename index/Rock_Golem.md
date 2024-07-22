@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 106295
+revid: 107305
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,7 +17,7 @@ _Also referred to as Erisia Golem, or Duke's Golems_
 
 Template:Creature Infobox V3
 
-## **Description**
+## Description
 
 **Rock Golems** are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
 
@@ -28,7 +28,7 @@ Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [Burn
 
 In combat Rock Golems are very hardy, having moderately high health and high slash resistance. Despite this, their attacks are relatively predictable and easy to punish, its flashiest attacks are the easiest to exploit, and the remaining ones are very easy to avoid.
 
-## **Attacks**
+## Attacks
 
 | Name |  | Media | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   **Monster Resistance -** Physical attacks deal ??? less damage to Golems.
 -   **Artificial Construct-** Bloodless does not proc on Golems.
 
-## **Finisher**
+## Finisher
 
 | Name | Media | Description |
 | --- | --- | --- |
@@ -61,7 +61,7 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him.
 -   The **Spinning** attack can destroy the gate in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
--   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.
+-   These are known to attack you regardless if you have the "**Animal King**" Talent or not, likely due to their nature as inorganic constructs, rather than animals.
 -   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
 -   [Marcus](Marcus.md) seems to be a related golem, although he doesn't attack you on sight, drinks coffee and is infinitely more cool than the other Rock Golems as a result.
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.

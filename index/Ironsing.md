@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 106679
+revid: 107231
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -45,7 +45,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 ## Mantras
 
-### **Combat Mantras**
+### Combat Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -113,7 +113,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   Functions similar to Galebreathe's [Gale Trap](Galebreathe.md) mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.
--   With the [Laced Traps](Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
+-   With the [Laced Traps](Talents.md) Talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
 -   Can be modified with **Cloudstones/Stratus Stones**.
 -   Applies Metal Rods on every 2 hits.
@@ -206,7 +206,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
  | Crush your opponents bones with an iron infused grab. | 40 Ether | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
 -   The spell locks on to targets within a close frontal radius. Applies Metal Rods on hit.
--   With the [Metal Absorption](Talents.md) talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
+-   With the [Metal Absorption](Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
 
  |
 | 
@@ -222,7 +222,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -252,7 +252,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
  |
 
-### **Support Mantras**
+### Support Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -264,7 +264,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
  | Coat your skin with metal to reduce harm. | 20 Ether | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
 
 -   During usage, the user is unable to move nor act.
--   With the [Intuitive Repairs](Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
+-   With the [Intuitive Repairs](Talents.md) Talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
 -   Can be upgraded with **Aeon/Eternal Logstones** for increased duration.
 
 Does not negate deferred, fire or fall damage.
@@ -303,7 +303,7 @@ Metal Wisp
 
 **Ironsinger:**
 
-These are talents found in "_Ironsinger_" Category.
+These are Talents found in "_Ironsinger_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -340,7 +340,7 @@ You can now obtain 3-star Ironsinger mantras.
 
 **Rending Needle:**
 
-These are talents found in "_Rending Needle_" Category. (You can only have one of these talents, taking one prevents the others from appearing.)
+These are Talents found in "_Rending Needle_" Category. (You can only have one of these Talents, taking one prevents the others from appearing.)
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -394,7 +394,7 @@ If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of
 
 **Metallurgist:**
 
-These are talents found in "_Metallurgist_" Category.
+These are Talents found in "_Metallurgist_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -612,7 +612,7 @@ Bleed damage is halved and blood loss is reduced by 75%.
 
 **Adaptive Arsenal:**
 
-These are talents found in "_Adaptive Arsenal_" Category.
+These are Talents found in "_Adaptive Arsenal_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -628,7 +628,7 @@ Deal 10% more damage to opponents with no armor durability left.
 
  | 
 
-Increased damage talent
+Increased damage Talent
 
  |
 | 
@@ -666,7 +666,7 @@ Increased weapon range.
 
 **Scrapsinger:**
 
-These are talents found in "_Scrapsinger_" Category.
+These are Talents found in "_Scrapsinger_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -766,7 +766,7 @@ File:Iron2.png
  | 
 
 Reshape and Remold  
-(All Scrapsinger talents, METAL 70)
+(All Scrapsinger Talents, METAL 70)
 
  | 
 
@@ -783,7 +783,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
--   On release, Ironsing had 12 mantras and 11 talents.
+-   On release, Ironsing had 12 mantras and 11 Talents.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Rogue Lineage.
     -   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, in which her signature move is shooting a line of matchlock rifles towards her enemy. Or it may be a toned down version of an attack used by Gremmy Thoumeaux from the Bleach Series, where he summons an arsenal of guns behind him and shoots at the enemy.

@@ -1,6 +1,6 @@
 ---
 title: "King's Colosseum"
-revid: 73039
+revid: 107609
 source: https://deepwoken.fandom.com/wiki/King's_Colosseum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,7 +18,7 @@ TERRITORY OF THE HUNDRED LEGIONS
 
 With a healing orb in the middle and an open place nobody can hide, this is often a place where people fight, though not too often due to the lack of loot.
 
-Most of the loot is located on the sill-like structures of the colosseum but is spread out and hard to obtain quickly. Two totems/shrines for talent are almost always at a certain entrance.
+Most of the loot is located on the sill-like structures of the colosseum but is spread out and hard to obtain quickly. Two totems/shrines for Talent are almost always at a certain entrance.
 
 ## Trivia
 

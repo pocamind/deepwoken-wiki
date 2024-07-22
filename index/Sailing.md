@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 105567
+revid: 107663
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -74,8 +74,8 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
 ## Notes/Trivia
 
 -   It can be difficult when first sailing the boat. Enough practice and good ping will often help.
--   You can buy a repair hammer for 30 notes at Etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright talents.
-    -   Without talents, each repair with the hammer will recover 50 HP to your boat.
+-   You can buy a repair hammer for 30 notes at Etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright Talents.
+    -   Without Talents, each repair with the hammer will recover 50 HP to your boat.
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
     -   (Assumption) The Ironclad is the only boat to ignore this rule (Since its steam powered)
 -   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is an Ironclad, the side lining would change instead.

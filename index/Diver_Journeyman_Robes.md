@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 106885
+revid: 107475
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, The Divers]
@@ -34,4 +34,4 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 -   Stat wise, this outfit is an upgrade to Diver Apprentice in all ways (beside the lack of Ether Regen and the same durability).
     -   It has an additional 10% Physical Armor, 15% Elemental Armor and an extra 10% Blunt Armor, which Diver Apprentice does not have.
 -   All ingredients can be obtained in The Depths. Players with the Deepbound Origin should craft this armor as soon as possible, as it is the most easily achievable upgrade to their starter armor and will help them survive The Depth much more.
--   A good replacement for the hive drone as the only difference is the blunt resistance and the talent
+-   A good replacement for the hive drone as the only difference is the blunt resistance and the Talent

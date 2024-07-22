@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 105668
+revid: 107687
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,8 +60,6 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 
 **Strengths:**
 
-  
-
 -   +2 Willpower
 -   +2 Charisma
 -   Natural Autodidact
@@ -74,8 +72,6 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 \*Natural Autodidact is useless at power 20
 
 **Surnames:**
-
-  
 
 -   Adaset
 -   Ashet
@@ -116,7 +112,7 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 -   Adret are **not** fish.[\[1\]](#cite-note-1)
 -   According to Arc\_Mage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
--   Adret innate talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
+-   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md).
 -   In the book "Vows by the Sea: Inheritance", it is assumed that Adrets are a 'vowless' race, and all of other races were originally Adrets, just 'bred-out'.
 

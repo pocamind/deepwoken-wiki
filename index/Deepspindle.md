@@ -1,9 +1,9 @@
 ---
 title: Deepspindle
-revid: 106585
+revid: 107243
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
+categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
 ---
 
 # Deepspindle
@@ -17,7 +17,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Un
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |
-| special effect | Proccing Shadowcast talents on critical hits.Has synergies with the Darkscorn Casque and Darkened Bastion armor. |
+| special effect | Proccing Shadowcast Talents on critical hits.Has synergies with the Darkscorn Casque and Darkened Bastion armor. |
 | stances | 1 Handed |
 | selling price | 100 |
 | weight | 5 |
@@ -63,7 +63,7 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
 -   Doing hell mode increases the spawn rate of finding Silhuette.
 -   Meeting the requirement of LHT and SHW, the damage is (23.19)
 -   At max LHT and SHW, the damage is (27.65)
--   The running critical damage can be negated by the Unique equipment talent "Already Dead", available by equipping the Deepscorn Casque.
+-   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
 -   This weapon gains 40% wither on hit when paired with the Darkened Bastion outfit, instead of the normal 20% received by other weapons.
 -   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once.
 -   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).

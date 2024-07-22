@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 104009
+revid: 107391
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -16,7 +16,6 @@ categories: [Equipment, Arms, Cloaks]
 | requirements | None |
 | weight | 2 |
 | innate stats | 5 Health1 Posture, 2 + 1 Pips |
-| innate talent | Blade Dancer |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -31,5 +30,5 @@ The Deepwoken Cloak is an [Equipment](Equipment.md) item under the Arms category
 ## Trivia
 
 -   The Deepwoken Cloak is part of the "Deepwoken" set, with the only other piece being the [Deepwoken Hood](Deepwoken_Hood.md).
--   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason, and there were only 3 known people that had it after its removal. It was re-added on May 10th, 2022.
+-   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason, and there were only three known people that had it after its removal. It was re-added on May 10th, 2022.
 -   For at least two years, there was a bug that swapped the positions of the Deepwoken Cloak's sleeves when worn by players.

@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 103215
+revid: 107320
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,11 +8,9 @@ categories: [Mechanics]
 
 # Whisper Draw
 
-## Overview
+Whisper rolls are special hands of cards that provide the player with mantras. You can usually choose from 2-3 mantras, a random mantra or 'Roll 2', giving you 2 random Talents that are available to you.
 
-Whisper rolls are special hands of cards that provide the player with mantras. You can usually choose from 2-3 mantras, a random mantra or 'Roll 2', giving you 2 random talents that are available to you.
-
-### Info
+## Info
 
 Whisper rolls only present themselves on powering up to a certain level, by the time the player has reached level 20, they will have been offered 12 Whisper Rolls.
 

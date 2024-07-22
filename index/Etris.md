@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 106621
+revid: 107285
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant, Etrea]
@@ -148,7 +148,7 @@ General store
 
 ### Lumberjack Quest
 
--   Talk to the Etrean that is idling outside a house by the exit to the [Etrean Wilds.](Etrean_Wilds.md)
+-   Talk to the Etrean that is idling outside a house by the exit to the [Etrean Wilds](Etrean_Wilds.md).
 -   He will ask you to chop wood for him so that they have a sustainable supply of lumber for the winter.
 -   Accepting his quest gives you a lumber axe for free.
 -   6 wood for.
@@ -164,7 +164,7 @@ General store
 
 -   Talk to the same Etrean NPC that gives you the Lumberjack Quest, and tell her that you can't get wood through punching.
 -   Bewildered, the Etrean offers the Player to Strong Left 5 trees for research.
--   After 5 trees has been Strong Left'd, return to the Lumberjack and gain the talent.
+-   After 5 trees has been Strong Left'd, return to the Lumberjack and gain the Talent.
 
 ### Travelling Blade
 
@@ -250,22 +250,22 @@ After all Authority Guards are defeated, 3 large [chests](Chests_&_Sacks.md) hol
     -   2\. Perform a Charisma Check, which requires Charisma 50.
     -   3\. Perform a [Flamecharm](Flamecharm.md) Check, which requires Flamecharm 40.
 
--   Reward of doing Ploom's bidding is the _Pleeksty's Will_ talent, which increases [Ether](Ether.md) gain from consuming mantra ingredients.
--   The _Pleeksty's Will_ talent used to give increased [Reservoir](Reservoir.md) gain along with Ether but has since been removed, along with the removal of Reservoir.
+-   Reward of doing Ploom's bidding is the _Pleeksty's Will_ Talent, which increases [Ether](Ether.md) gain from consuming mantra ingredients.
+-   The _Pleeksty's Will_ Talent used to give increased [Reservoir](Reservoir.md) gain along with Ether but has since been removed, along with the removal of Reservoir.
 
 ### Frostdrawer Nell Quest
 
 -   Talk to Nell, located in the Alchemy House.
 -   Accepting Nell's quest requires you to bring 5 Frigid Prisms to her. (Frigid Prisms can be found by defeating enemies that use [Frostdraw](Frostdraw.md).)
 -   After giving her the required items, she will then use them and give you [Glassblood](Attunement_Potions.md).
--   Drinking Glassblood will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast Frostdraw and learn Frostdraw talents.
+-   Drinking Glassblood will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast Frostdraw and learn Frostdraw Talents.
 
 ### Navaen Tribe Rescue Quest
 
 -   Find and rescue a Navaen tribe member either in Erisia, in one of the many encounters there, or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn.
     -   Knocking a Navaen Nomad in the [Summer Isles](Summer_Isle.md)—or any other location—and turning them in will not work for this quest.
 -   Upon finding a Navaen tribe member, head back to the camp master in Etris and receive your reward.
--   The reward for this quest is the "[Way of Navae](Fists.md)" [fist style](Fists.md) and talent. In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae" to be a starting style in the start menu.
+-   The reward for this quest is the "[Way of Navae](Fists.md)" [fist style](Fists.md) and Talent. In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae" to be a starting style in the start menu.
 -   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [Lionfish](Lionfish.md) spawns, as the spawn chances for the Nomads seem to be higher than they are in Erisia as a random encounter.
 
 ## NPCs
@@ -288,8 +288,7 @@ After all Authority Guards are defeated, 3 large [chests](Chests_&_Sacks.md) hol
 -   [Serephina](Seraphina.md)
 -   [Eastern Camp Master](Cheral.md)
 -   [Barber](Barber.md)
--   Pori  
-    
+-   Pori
 
 ## Maps
 

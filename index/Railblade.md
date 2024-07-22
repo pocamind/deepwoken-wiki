@@ -1,9 +1,9 @@
 ---
 title: Railblade
-revid: 106806
+revid: 107629
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Unique Critical]
+categories: [Weapons, Weapons with Unique Criticals]
 ---
 
 # Railblade
@@ -39,7 +39,7 @@ For the **grounded** critical, the user prepares a wind-up stance, granting hype
 
 For the **airborne** critical, the user hovers and raises their weapon before unleashing an overhead slash, dealing damage.
 
-The flames emitted by the critical will proc burn and respective Flamecharm talents. The cooldown for the critical is **9 seconds**.
+The flames emitted by the critical will proc burn and respective Flamecharm Talents. The cooldown for the critical is **9 seconds**.
 
 ## Trivia
 

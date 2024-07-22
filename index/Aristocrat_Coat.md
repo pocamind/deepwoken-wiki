@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 106704
+revid: 107424
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]

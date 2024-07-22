@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 106480
+revid: 107236
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,15 +8,13 @@ categories: [Pages with broken file links, Attunement]
 
 # Frostdraw
 
-## Description
-
 Frostdraw icon
 
 A Hemafrosted Capra casting a beam of ice.
 
-Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
+**Frostdraw** grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
-Landing Frostdraw mantras applies Chill which slows down enemies and is able to be improved with certain talents. Adding Logstones to certain mantras can increase the duration of Chill.
+Landing Frostdraw mantras applies Chill which slows down enemies and is able to be improved with certain Talents. Adding Logstones to certain mantras can increase the duration of Chill.
 
 ## Training
 
@@ -40,7 +38,7 @@ This is where the Attunement trainer is located.
 
 ## Mantras
 
-### **Combat**
+### Combat
 
 **Standard:**
 
@@ -104,7 +102,7 @@ _Revolving blades of ice._
 -   Deals light damage.
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
--   Incredibly good with the **Glass Path: Crystallization** talent.
+-   Incredibly good with the **Glass Path: Crystallization** Talent.
 -   the aoe can be increased with 2 stratus stones.
 
  |
@@ -123,7 +121,7 @@ _A legion of frost._
 
 -   Deals Moderate damage if both blows hit.
 -   Inflicts 2 seconds chill per hit. Can't be increased.
--   Leaves ice where the Mantra is casted. (With 3 vibrant gems and the talent glacial ice you can spawn massive ice floors with it)
+-   Leaves ice where the Mantra is casted. (With 3 vibrant gems and the Talent glacial ice you can spawn massive ice floors with it)
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 -   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
 -   You can add 1 stratus stone to make it bigger.
@@ -350,11 +348,11 @@ _An icy chokehold._
 -   After the windup the user gains iframes on teleport. (similar to radiant kick)
 -   First hit does mediocre dmg, second hit does light damage.
 -   Applies 12 sec chill base and 16 sec with 1 eternal.
--   It doesn't apply chill with the talent Unyielding frost unless you hit your target making the talent have zero effects with this mantra.
+-   It doesn't apply chill with the Talent Unyielding frost unless you hit your target making the Talent have zero effects with this mantra.
 -   The mantra takes too long to end on hit to proc insignia gem.
 -   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
 -   Base chilling duration scales with level requiring more than one logstone to get the full 16 seconds, recommended to only pick it if you plan to upgrade it to level 5.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and transforming the chains into ice pillars. (The size can be increased with vibrant gems and the talent Glacial ice.)
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and transforming the chains into ice pillars. (The size can be increased with vibrant gems and the Talent Glacial ice.)
 
  |
 |  | 
@@ -485,7 +483,7 @@ _{{{desc}}}_
 
   
 
-### **Mobility**
+### Mobility
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -520,12 +518,11 @@ _Skate freely on paths of ice._
 
 -   Knocked players cannot be held while this mantra is active.
 -   When below mantra level 5, gradually loses height similar to gliders.
--   Height loss gain at level 5 is negligible, but still present.  
-    
+-   Height loss gain at level 5 is negligible, but still present.
 
  |
 
-### **Support**
+### Support
 
 <table><caption></caption>
 <tbody>
@@ -542,9 +539,9 @@ _Skate freely on paths of ice._
   <td><center><i>A servant of ice.</i></center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
-    <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
+    <li>The "<b>Glacial Ice</b>" Talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
     <li>All mods do not work or have 0 effect, do not modify this mantra.</li>
-    <li>On flourish it proc "Chilling flourish" without needing the talent.</li>
+    <li>On flourish it proc "Chilling flourish" without needing the Talent.</li>
   </ul></td>
 </tr>
 <tr>
@@ -570,11 +567,11 @@ _Skate freely on paths of ice._
 
   
 
-## **Talents**
+## Talents
 
 **Cryomancer:**
 
-These talents are found in the _Cryomancer_ category.
+These Talents are found in the _Cryomancer_ category.
 
 | Card Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -651,7 +648,7 @@ Press \[F\] during the wind up of your Ice Spikes to create traps around you ins
 
 **Cryoni:**
 
-These talents are found in the _Cryoni_ category.
+These Talents are found in the _Cryoni_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -709,7 +706,7 @@ When in Cryostasis inflict frost damage to the enemy who hit you.
 
 **Frostdrawer:**
 
-These talents are found in the _Frostdrawer_ category.
+These Talents are found in the _Frostdrawer_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -811,7 +808,7 @@ Your frost is now considerably more intense.
 
 **Frostthorn:**
 
-These talents are found in the _Frostthorn_ category.
+These Talents are found in the _Frostthorn_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -853,7 +850,7 @@ When landing a parry while standing on ice, automatically forms a ring of gravit
 
 **Frostforger:**
 
-These talents are found in the _Frostforger_ category.
+These Talents are found in the _Frostforger_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -893,7 +890,7 @@ N/A
 
 **Frozen Warrior:**
 
-These talents are found in the _Frozen Warrior_ category.
+These Talents are found in the _Frozen Warrior_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -917,7 +914,7 @@ Your slow effect prevents your opponents from rolling.
 
 **Glassdancer:**
 
-These talents are found in the _Glassdancer_ category.
+These Talents are found in the _Glassdancer_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -959,7 +956,7 @@ Your ice abilities no longer grant a slow effect or the ability to freeze and in
 
 **Ice Age:**
 
-These talents are found in the _Ice Age_ category.
+These Talents are found in the _Ice Age_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1102,15 +1099,17 @@ Your Chill can proc through block, with blocked Chilling proc lasting 80% of the
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
--   Recommended not to abuse the Chill duration as there is a talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
+-   Recommended not to abuse the Chill duration as there is a Talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
 -   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
 -   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
 -   Frozen legs applies on all ice mantras and has a fixed duration that can't be increased.
 -   Fragile freeze can be activated with anything else if the enemy is chilled.
 -   crystal and chilling enchant can be a good way to keep Saint jay active as every crystal you apply adds 2 second of saint jay and the enchant has no limit with how many crystals it can apply.
--   Bottom freeze has a global cooldown so only pick one source to proc bottom freeze (Example: If you have iceberg, it will put all the other methods like the talent bottom freeze or chilling enchant on cooldown so don't pick anything else if you using iceberg.)
+-   Bottom freeze has a global cooldown so only pick one source to proc bottom freeze (Example: If you have iceberg, it will put all the other methods like the Talent bottom freeze or chilling enchant on cooldown so don't pick anything else if you using iceberg.)
 -   Crystals dmg scales by your frost investment, 1 point of dmg every 10 frost. You are doing 8 dmg per crystal at 80 frost.
 
-## Navigation
+## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1)

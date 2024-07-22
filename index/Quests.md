@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 106239
+revid: 107274
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -12,13 +12,13 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential [talents](Talents.md), EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential [Talents](Talents.md), EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
 
-Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately.
+Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra Talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately.
 
 ## Echo Talent Quests
 
-These quests, when completed, give talents that will be unlocked on every character at a certain power level. If done on later lives, they will only give a bit of EXP.
+These quests, when completed, give Talents that will be unlocked on every character at a certain power level. If done on later lives, they will only give a bit of EXP.
 
 **Engage + Critical Assault:**
 
@@ -56,7 +56,7 @@ File:Jessamine .png
 
 ## Talent Quests
 
-When these quests are completed, they give a talent (or [mantra](Mantras.md) in the case of [Disguise](Mime.md)). They can sometimes be repeated.
+When these quests are completed, they give a Talent (or [mantra](Mantras.md) in the case of [Disguise](Mime.md)). They can sometimes be repeated.
 
 **Treefelling Blow:**
 
@@ -78,7 +78,7 @@ When these quests are completed, they give a talent (or [mantra](Mantras.md) in 
 
 **Quest Location**: [Starswept Valley](The_Starswept_Valley.md)
 
-**Guide**: Talking to the Vesperian NPC [Ciea](Ciea.md) deep in the Starswept Valley, near the Widow's Hollow, next to the Shrine of Mastery. She will ask you to make some potions. Each repeat gives EXP but the 3rd repeat gives the talent.
+**Guide**: Talking to the Vesperian NPC [Ciea](Ciea.md) deep in the Starswept Valley, near the Widow's Hollow, next to the Shrine of Mastery. She will ask you to make some potions. Each repeat gives EXP but the 3rd repeat gives the Talent.
 
 **Reward/s**: Harvester
 
@@ -154,7 +154,7 @@ Valikor
 
 Valikor
 
-**Guide**: Talk to the Etrean NPC [Valikor](Valikor.md) inside the library at Isle of Vigils. You must pay 50 notes or have 8 charisma (the 4th option is impossible) to get the talent.
+**Guide**: Talk to the Etrean NPC [Valikor](Valikor.md) inside the library at Isle of Vigils. You must pay 50 notes or have 8 charisma (the 4th option is impossible) to get the Talent.
 
 **Reward/s**: Spell Shout
 
@@ -252,7 +252,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Guide**: Talk to Atra, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
 
-**Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
+**Reward/s**: EXP, Talent hand if no other "Compassion" quests done yet.
 
 **Field Report:**
 

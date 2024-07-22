@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 103029
+revid: 107590
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]

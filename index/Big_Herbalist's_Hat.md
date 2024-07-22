@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 104148
+revid: 107534
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Hats]
 
 ## Description
 
-The Big Herbalist's Hat is an [Equipment](Equipment.md) item under the "_Head_" category. Equipping this item will give you the [Iron Gut](Talents.md) and [Herbivore](Talents.md) talents, along with random stats.
+The Big Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you the [Iron Gut](Talents.md) and [Herbivore](Talents.md) Talents, along with random stats.
 
 ## Notes
 

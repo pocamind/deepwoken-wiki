@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 100472
+revid: 107430
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, World]
@@ -15,13 +15,13 @@ categories: [NPCs, Quests, World]
 
 ## Description
 
-Elykris is an NPC at [Minityrsa](Minityrsa.md) that gives you a quest to find a report. This report is located right by the ladder to [Trial of One](Trial_of_One.md). The quest reward is 3 Aces and a talent next power up (assuming you haven't yet claimed any other Curiosity quests).
+Elykris is an NPC at [Minityrsa](Minityrsa.md) that gives you a quest to find a report. This report is located right by the ladder to [Trial of One](Trial_of_One.md). The quest reward is 3 Aces and a Talent next power up (assuming you haven't yet claimed any other Curiosity quests).
 
 He is located leaning on a tree, which is on a ledge to the left of a Ministry Camp above [Outpost Antumbra](Outpost_Antumbra.md).
 
 ## Field Report Quest
 
-### **First encounter**
+### First encounter
 
 > Elykris: They're lurking here. I know they are. The Trial has lured them to this land, in search of power.
 > 

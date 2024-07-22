@@ -1,6 +1,6 @@
 ---
 title: "Rebel's Bandana"
-revid: 104530
+revid: 107517
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]

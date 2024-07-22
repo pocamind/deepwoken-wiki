@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 106507
+revid: 107237
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -38,7 +38,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 
 ## Mantras
 
-### **Combat Mantras**
+### Combat Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -180,7 +180,7 @@ Thunder Kick
 -   Guard Breaks at Level 5
 -   8 Second Cooldown.
 -   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
-    -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the talent will not activate if being parried, blocked or dodged.
+    -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the Talent will not activate if being parried, blocked or dodged.
 
  |
 |  | 
@@ -256,7 +256,7 @@ Rising Thunder
 
  |
 
-### **Support Mantras**
+### Support Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -306,7 +306,7 @@ Spark Swap
 
  |
 
-### **Mobility Mantras**
+### Mobility Mantras
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
@@ -332,7 +332,7 @@ Lightning Cloak
  | A cloak of lightning itself. | 20 Ether | Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges).
 
 -   A combative action, such as blocking parrying or attacking, must be used within **8 seconds** or the mantra is deactivated and goes on cooldown.
--   Lasts a duration of 6.5 - 60 seconds.
+-   Lasts a duration of 6.5 – 60 seconds.
 -   Cannot last longer than 60 seconds.
     -   Can be modified with **Aeon/Eternal Logstones** to make the dashes go further.
 
@@ -340,11 +340,11 @@ Lightning Cloak
 
 ## Talents
 
-Below is a list of every single Thundercall exclusive talent.
+Below is a list of every single Thundercall exclusive Talent.
 
 **Surge Path: Unstable Capacitor:**
 
-These talents are found in the _Surge Path: Unstable Capacitor_ category.
+These Talents are found in the _Surge Path: Unstable Capacitor_ category.
 
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -440,7 +440,7 @@ N/A
 
 **Authority Interrogator:**
 
-These talents are found in the _Authority Interrogator_ category.
+These Talents are found in the _Authority Interrogator_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -512,7 +512,7 @@ N/A
 
 **Javelin Lord:**
 
-These talents are found in the _Javelin Lord_ category.
+These Talents are found in the _Javelin Lord_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -534,7 +534,7 @@ Grand Javelin now carries opponents with it through the skies. (Press F while ca
 
 **Rampant Static:**
 
-These talents are found in the _Rampant Static_ category.
+These Talents are found in the _Rampant Static_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -557,7 +557,7 @@ Your lightning attacks in water strike others near them with lightning.
 
 **Self-Shocker:**
 
-These talents are found in the _Self-Shocker_ category.
+These Talents are found in the _Self-Shocker_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -603,7 +603,7 @@ Static Withdraw
 
  | 
 
-When being carried use this talent to shock your captor, forcing them to drop you.
+When being carried use this Talent to shock your captor, forcing them to drop you.
 
  | 
 
@@ -613,7 +613,7 @@ N/A
 
 **Static Weaver:**
 
-These talents are found in the _Static Weaver_ category.
+These Talents are found in the _Static Weaver_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -767,7 +767,7 @@ N/A
 
 **Stormblade:**
 
-These talents are found in the _Stormblade_ category.
+These Talents are found in the _Stormblade_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -789,7 +789,7 @@ N/A
 
 **Thunderblade:**
 
-These talents are found in the _Thunderblade_ category.
+These Talents are found in the _Thunderblade_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -845,7 +845,7 @@ Static Blade
 
 **Thundercaller:**
 
-These talents are found in the _Thundercaller_ category.
+These Talents are found in the _Thundercaller_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1030,7 +1030,7 @@ When using lightning clones you disappear leaving behind a static clone for a sh
 
 **Thunder Brawler:**
 
-These talents are found in the _Thunder Brawler_ category.
+These Talents are found in the _Thunder Brawler_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1070,7 +1070,7 @@ After landing a lightning kick, press \[F\] to followup on your opponent with a 
 
 **Thunder Caster:**
 
-These talents are found in the _Thunder Caster_ category.
+These Talents are found in the _Thunder Caster_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |

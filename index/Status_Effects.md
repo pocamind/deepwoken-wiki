@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 105989
+revid: 107302
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 Status effects are effects that can negatively affect the player or give the player an advantage. Some of these are deadly and should be taken with caution.
 
-## **Supporting Status Effects**
+## Supporting Status Effects
 
 These status effects can be beneficial to the player.
 
@@ -30,7 +30,7 @@ Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% mor
 
 ### Lord's Tithe
 
-When Reinforce is applied to an ally with the talent Lord’s Tithe, steal their ether until your ether bar is full. Signified by red and yellow particles surrounding the body.
+When Reinforce is applied to an ally with the Talent Lord’s Tithe, steal their ether until your ether bar is full. Signified by red and yellow particles surrounding the body.
 
 ### Hyperarmor
 
@@ -66,11 +66,11 @@ Have your movement and parkour speed increased by 15%. Applied by the [Adrenalin
 
 ### Gone Berserk
 
-Gain a 20% defense boost to all sources. Applied after knocking someone with the talent [Berserker](https://deepwoken.fandom.com/wiki/Talents?so=search#Miscellaneous).
+Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](https://deepwoken.fandom.com/wiki/Talents?so=search#Miscellaneous).
 
 ### Overcharm
 
-Apply charm per every m1, and mantra used, even without having the Charismatic Cast talent. Also amplifies the speed for an execute. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) talent. (Can also be applied to self with the narcissist talent)
+Apply charm per every m1, and mantra used, even without having the Charismatic Cast Talent. Also amplifies the speed for an execute. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) Talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) Talent. (Can also be applied to self with the narcissist Talent)
 
 ### Mark of Jurik
 
@@ -84,7 +84,7 @@ Buffs the nourishment of food for one or more people near you. Applied if the pe
 
 Buffs the regen of one or more people near you. Applied if the person is near a campfire or level 5. Signified by light red particles surrounding the body.
 
-## **Harmful Status Effects**
+## Harmful Status Effects
 
 These status effects won't kill you, but they can give you a debuff or drain your health to a certain extent.
 
@@ -102,7 +102,7 @@ This effect can be applied by being hit with Galebreathe mantras or Galeforced m
 
 ### Suffocated
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chilled
 
@@ -114,7 +114,7 @@ Have a crystal stacked on you. When you reach 5 crystals, they will detonate, da
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw talents and mantras. Signified by being encased in a block of ice.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents and mantras. Signified by being encased in a block of ice.
 
 ### Shocked
 
@@ -131,7 +131,7 @@ Inflicted by being hit by [Ironsing](https://deepwoken.fandom.com/wiki/Ironsing)
 -   Normally: Allows you to be pulled in towards them when they press X
 -   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing mantra
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
--   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on talents they might have.) Signified by big metal rods in your body.
+-   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have.) Signified by big metal rods in your body.
 
 ### Poisoned
 
@@ -139,7 +139,7 @@ This can be applied by being hit by the Deep Widow's venomous bite. While poison
 
 ### Electrified
 
-Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
+Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
 
 ### Sapped
 
@@ -151,11 +151,11 @@ Have your parry window lowered for a brief period. Applied after being flourishe
 
 ### Heresy
 
-Completely disallows healing from **any** source while active. This effect can be applied through being hit by an M1 by someone that has the talent All the Dead Gods (signified by a purple aura around you) or by being hit by a Mudskipper broodlord.
+Completely disallows healing from **any** source while active. This effect can be applied through being hit by an M1 by someone that has the Talent All the Dead Gods (signified by a purple aura around you) or by being hit by a Mudskipper broodlord.
 
 ### Charmed
 
-Deal 10% less damage to the player who charmed you. If the charmer has the talent Tough Love, take 10% more damage to the player who has charmed you. Having the Mental Fortress talent Disbelief makes this last much shorter. Signified by hearts appearing around the user.
+Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the Mental Fortress Talent Disbelief makes this last much shorter. Signified by hearts appearing around the user.
 
 ### Drained
 
@@ -195,7 +195,7 @@ Can be applied by being hit by a critical attack if the user has Bear Trap. Beco
 
 ### Obscured
 
-Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) mantra with the talent Sightless Still.
+Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) mantra with the Talent Sightless Still.
 
 ### Cauterized
 
@@ -219,9 +219,9 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Applied by getting hit by an opponent with Emperor Flame active or [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ talent. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by resting and knocking opponents.
+Applied by getting hit by an opponent with Emperor Flame active or [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by resting and knocking opponents.
 
-## **Deadly Status Effects**
+## Deadly Status Effects
 
 These status effects cause certain death if nothing is done about them.
 
@@ -249,4 +249,4 @@ This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where 
 
 ### \[ Coral Fever \]
 
-This effect happened on April 1st of 2023 and it was obtained either when you got stabbed by a [Megalodaunt](Megalodaunt.md)'s Coral Spear, got scratched by a [Megalodaunt](Megalodaunt.md) or you got sneezed on by a [Megalodaunt](Megalodaunt.md) or emoting near the [Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).
+This effect happened on April 1 of 2023 and it was obtained either when you got stabbed by a [Megalodaunt](Megalodaunt.md)'s Coral Spear, got scratched by a [Megalodaunt](Megalodaunt.md) or you got sneezed on by a [Megalodaunt](Megalodaunt.md) or emoting near the [Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).

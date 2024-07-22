@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 106675
+revid: 107241
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -106,7 +106,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block. However, the Night Axe is the best weapon for this (assuming you fight him with heavy weapons) due to the incredibly high 80% chip. No need for obfuscation since it caps at 50% (if you have the enchant on the weapon)
--   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
+-   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this Talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.

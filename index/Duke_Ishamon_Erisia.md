@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 106783
+revid: 107248
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
@@ -163,7 +163,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Bulldozer - If flourished into a wall by Duke, you have a chance to break the wall and be guard broken on impact.
 -   Million Ton Piercer - Duke has 5% extra PEN and has no PEN cap.
 -   Shield Breaker - Blunt damage from Duke now deals full posture damage to shields (essentially your shield is useless for blocking).
--   Audacity - When Duke starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation. (Though this talent sucks, just use a ranged mantra)
+-   Audacity - When Duke starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation. (Though this Talent sucks, just use a ranged mantra)
 -   Matador - Duke deals +20% more damage to human enemies with hyperarmor.
 -   Showstopper - When you roll through one of Duke's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
 -   Berserker - When Duke knocks an enemy, he gains 20% DMG resistance for 15 seconds.

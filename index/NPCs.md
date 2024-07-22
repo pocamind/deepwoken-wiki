@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 106120
+revid: 107287
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -32,7 +32,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Andrea](Andrea.md) | Unaligned | [The Depths](First_Layer.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | [Aristo](Aristo.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Inn | Provides information to new players |  |
 | [Argo](Argo.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Reveals information about fishing |  |
-| [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |
+| [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |
 | [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Gives the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) if you defeat him in a fight | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 Flamecharm |
 | [Avian](Avian.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
@@ -42,7 +42,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
 | [The Captain](<Cap'n_Orlandeau.md>) | Unaligned | [Fragments of Self](Fragments_of_Self.md) | Lets you retake the [Tutorial](Tutorial.md) |  |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants Murmur: Tacet |  |
-| [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
+| [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
 | [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Dockson](Dockson.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
@@ -70,7 +70,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |
 | [Jeremiah](Jeremiah.md) | Unaligned | The Depths, Varicosa District | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
-| [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
+| [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
 | [Joshua](Joshua.md) | Unaligned | [Etris](Etris.md) | Talks about [Karliah](Karliah.md) |  |
 | Kana | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
@@ -115,7 +115,7 @@ Check the rest out for yourself, canonically smells really bad
 | Pete | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |
 | [Petris](Petris.md) | Unaligned | [The Depths](First_Layer.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |
 | [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |
-| [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
+| [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants Talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
@@ -130,14 +130,14 @@ Check the rest out for yourself, canonically smells really bad
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |
 | [The Stranger](Murmur.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant Murmur: Tacet to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
-| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |
+| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |
 | [Surge](Surge.md) | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
 | [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |
 | [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, race and weapon equipped |
 | [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
-| [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
-| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |
+| [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
+| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |
 | [Viridian](Oath%253A_Oathless.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |

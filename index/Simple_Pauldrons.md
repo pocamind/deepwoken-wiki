@@ -1,6 +1,6 @@
 ---
 title: Simple Pauldrons
-revid: 75667
+revid: 107568
 source: https://deepwoken.fandom.com/wiki/Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia , The Depths (First Layer), Erisia |
+| obtainment | Chests from:Duke Erisia, The Depths (First Layer), Erisia |
 | description | ... |
 
 ## Description

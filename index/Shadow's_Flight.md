@@ -1,6 +1,6 @@
 ---
 title: "Shadow's Flight"
-revid: 105411
+revid: 107672
 source: https://deepwoken.fandom.com/wiki/Shadow's_Flight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Craftable]
@@ -20,7 +20,7 @@ notices:
 | **Type** | Consumable |
 | Effects |
 
-Shadow's Flight is a craftable item that allows the user to teleport to their mouse cursor in exchange for health and ether, just like the rare talent [Shadow Travel](Talents.md). It is a weaker version, and thus drains health and ether at a greater rate than the normal talent. These are stackable and on use one will be consumed, opposed to the talent having unlimited uses.
+Shadow's Flight is a craftable item that allows the user to teleport to their mouse cursor in exchange for health and ether, just like the rare Talent [Shadow Travel](Talents.md). It is a weaker version, and thus drains health and ether at a greater rate than the normal Talent. These are stackable and on use one will be consumed, opposed to the Talent having unlimited uses.
 
 ## Obtainment
 

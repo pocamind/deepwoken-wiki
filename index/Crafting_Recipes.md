@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 100234
+revid: 107635
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -56,7 +56,7 @@ Picture of a Crafting Bench
 
 Certain foods grant a Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 
-### **Known Boosts:**
+### Known Boosts
 
 -   _"You feel your wounds closing up..."_ This buff significantly increases the user's health regeneration speed.
 -   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
@@ -113,7 +113,7 @@ Potions are made with the use of a cauldron. One can be found in Etris, right of
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
 -   Adding more of one ingredient to a single ingredient potion adds to it's strength. You can add up to 3.
 -   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, I've fixed this page up a lot)
--   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 3 talents: Apothecary (stronger beneficial potions), Exterminator (stronger negative potions) and Wild Alchemy (Has a chance to double the potion you’re mixing).
+-   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 3 Talents: Apothecary (stronger beneficial potions), Exterminator (stronger negative potions) and Wild Alchemy (Has a chance to double the potion you’re mixing).
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
@@ -172,8 +172,7 @@ _**Negative**_
 
 -   Great for casters.
 -   It's only regenerating ether due to the wheat, there has to be a secondary effect.
--   Seems to also remove Reservoir more than normal.  
-    
+-   Seems to also remove Reservoir more than normal.
 
  |
 | **Icky Bane** | 
@@ -242,8 +241,7 @@ _**Negative**_
  |
 | **Steadfast Potion** | 
 
--   2-3x Calabash  
-    
+-   2-3x Calabash
 
  | _**Negative**_
 
