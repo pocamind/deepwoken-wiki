@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 106517
+revid: 107164
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -534,6 +534,7 @@ Spark
 -   Dash
 -   Metal Kick
 -   Ice Carve
+-   Flame Repulsion
 
  | 
 

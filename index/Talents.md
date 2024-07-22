@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 107144
+revid: 107165
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -468,7 +468,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I have never lost."**_
 
 -   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you.
-    -   "Higher HP" refers to max HP. Due to this, this Talent is always active in PvE.
+    -   "Higher HP" refers to max HP. Due to this, this Talent is almost always active in PvE.
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
@@ -1934,7 +1934,7 @@ _**"I seek the qualities of Lichtenberg."**_
 -   _Master Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] -You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)_
     -   Prerequisite: 50 Shadowcast
 
--   Shadow Travel \[Rare Talent, Shadowcast Exclusive\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
+-   _Shadow Travel_ \[Rare Talent, Shadowcast Exclusive\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
     -   Can teleport users to the roof of the depths, and wipe them due to fall damage.
     -   Prerequisite: 75 Shadowcast, Dark God
 
@@ -2227,7 +2227,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Cancelled by pressing \[R\] again.
     -   Using Cap artist in the depths makes you have normal gravity
     -   Prerequisite: 25 Agility, 5 Charisma
-    -   Sometimes just doesn't work? I know a few people (including myself) who have the talent but it does nothing when pressed.
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.
     -   Prerequisites: Pickpocket, 25 Charisma

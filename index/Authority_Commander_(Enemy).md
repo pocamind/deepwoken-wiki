@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 106739
+revid: 107168
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -66,3 +66,4 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Offic
 -   This is the only NPC you can pickpocket so far.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a [Khan Shield](Legion_Shield.md) or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.
+-   They wear the [Authority Commander](Authority_Commander.md) Outfit, an [Authority Helm](Authority_Helm.md), and a Black Shrouded Cape.

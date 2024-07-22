@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 106586
+revid: 107167
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crafting |
+| obtainment | Crafting:, Craft Station + Galewax x2 + Leather Boots + Umbrite |
 | description | "A pair of boots with special metal grips attached. The grips are capable of deplying and retracting when desired, making them any delver's lifeline." |
 
 ## Description
