@@ -1,19 +1,31 @@
 ---
 title: Grudge
-revid: 107006
+revid: 107749
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Grudge
 
+| Grudge | |
+|---|---|
+| name | Grudge |
+| location | Minityrsa, Starswept Valley, Songseeker Wilds, Scyphozia, Upper Erisia |
+
 ## Description
 
-Grudge is an NPC that randomly spawns in [Minityrsa](Minityrsa.md), the [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths (Scyphozia)](First_Layer.md), and [Upper Erisia](Upper_Erisia.md).
+Grudge is an NPC that has a low chance to randomly spawn in [Minityrsa](Minityrsa.md), the [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths (Scyphozia)](First_Layer.md), and [Upper Erisia](Upper_Erisia.md).
 
-Killing them will give you the Wraithclaw along with a low tier chest.
+The only requirement for this NPC to spawn is having uncapped [Galebreath](Galebreathe.md), a strategy that may lead to more spawns is having multiple people with uncapped Gale in a server.
 
-Template:EnemyInfobox1.0
+Killing them will give you the [Wraithclaw](Wraithclaw.md) along with a low tier chest.
+
+Using [Rhythm](Murmur.md) to seek out event spawns is another strategy that seems to work.
+
+## Trivia
+
+Template:Header2
+
+Mambles asking if the Grudge NPC has any other requirements
+
+Arch confirming that Grudge does not have any other requirements to spawn that aren't uncapped Galebreath

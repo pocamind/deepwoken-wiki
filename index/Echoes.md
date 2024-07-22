@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 107255
+revid: 107760
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -75,6 +75,9 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes. (You have to CHOOSE it, not just have the resonance roll) (WARNING: If, for whatever reason, you decide to reroll your resonance in the Fragments of Self, it will count as not having chosen the resonance and the task will be left INCOMPLETE, EVEN IF you managed to acquire a resonance before dying.)
 
+  
+Echoes Checklist: [https://docs.google.com/document/d/1HTWQb7etQGvX7zZtmK8s3kPjE\_bChe3ocQDpBWSBtpw/edit?usp=sharing](https://docs.google.com/document/d/1HTWQb7etQGvX7zZtmK8s3kPjE_bChe3ocQDpBWSBtpw/edit?usp=sharing) (credit to simeon\_vbz)
+
 ## Guide For W and S Rank
 
 The Guide is finished! You can view it here:
@@ -82,8 +85,6 @@ The Guide is finished! You can view it here:
 (Created by Jfeondkthz, build by Skipper Gripper)
 
 File:Wrankguide.png
-
-  
 
 ## Upgrades and Modifiers
 

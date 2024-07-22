@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 107694
+revid: 107759
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -53,7 +53,7 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
 
  | Causes a rain of white flaming javelins from the sky**, similar to the critical attack of the [First Light](First_Light.md).**
 
--   Ironically these deal wind damage.
+-   Ironically, these deal wind damage.
 
  | ✗ | ◯ | ◯ | (★☆☆) |
 

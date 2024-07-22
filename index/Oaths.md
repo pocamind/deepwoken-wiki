@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 107709
+revid: 107758
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -36,7 +36,6 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Mantra Resistance, +10 HP, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
--   FazBear: +2 Combat Mantra, \[No Stat Requirements\]
 
 ### Upcoming Oaths
 
@@ -88,10 +87,6 @@ Upon breaking an Oath, unique effects will occur:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**
         -   "Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning." / **\[End Dialogue\]**
             -   You'll be brought to [A Conscious Intersection](A_Conscious_Intersection.md) again and by talking to [The Nestmind](The_Nestmind.md) again, you'll regain [Visionshaper](Oath%253A_Visionshaper.md) (You'll need void feathers).
-
--   FazBear: [Henry Emily](https://freddy-fazbears-pizza.fandom.com/wiki/Henry_Emily) - "I'm sorry to interrupt you \[player name\], if you still even remember that name."
-    -   Talking to [Henry Emily](https://freddy-fazbears-pizza.fandom.com/wiki/Henry_Emily) again will cause him to disappear and say "The darkest pit of Hell has opened to swallow you whole, so don't keep the devil waiting, old friend."
-    -   Be warned, this causes you to be **set on fire.**
 
 Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
 
