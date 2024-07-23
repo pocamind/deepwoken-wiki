@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 107812
+revid: 107816
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -64,7 +64,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
  | N/A | N/A | N/A |  |
 | **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilizing all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ◯ | (★★★) |
-| **Body Slam** | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. | ◯ | ◯ | ◯ | (★★★) |
+| **Body Slam** | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. The slams do a moderate amount of damage as well. | ◯ | ◯ | ◯ | (★★★) |
 | **Blood Frenzy** | Chaser laughs then use up to 4 attacks in quick succession.
 
 -   Chaser will be highlighted in red while this attack is in use.
