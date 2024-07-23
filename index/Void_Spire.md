@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 107597
+revid: 107851
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -26,7 +26,8 @@ The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Ra
 
 ## Trivia
 
--   Anyone that is within the field of the Void Spire will have their screen turned 95% Noir(Black & White)
+-   > Anyone that is within the field of the Void Spire will have their screen turned 95% Noir(Black & White)
+    
     -   The Noir Screen of Void Spire can still linger around after the Spire disappears. It lingers for 7 minutes before disappearing for good. This is most likely a bug.
 -   Void Spire can be placed in [Chime of Conflict](Chime_of_Conflict.md), but it won't function against the opponent.
 -   Void Spire is one of the two [Relics](Relics.md) that has infinite uses. The other one being [Rain Spire](Rain_Spire.md).
@@ -36,3 +37,4 @@ The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Ra
 -   The Void Spire can't be used by players below Power 15.
 -   The Void Spire can send people who were knocked before it was placed to The Depths.
 -   You can't place Void Spire in [The Interstice](The_Interstice.md).
+-   When put in [Voidsea](Voidsea.md) it inverts the normal colors
