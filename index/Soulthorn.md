@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 107218
+revid: 107764
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -33,7 +33,7 @@ notices:
 
 ## Description
 
-The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>), though it's rare.
+The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>), though it's rare. its maximum damage able to be achieved is 40.2 and a base of 18 if the user has 103 intelligence 100 medium and 6 proficiency with 3 star damage while equipping the Rosen ring.
 
 ## Critical
 
@@ -52,6 +52,6 @@ No stack: Nothing happens
 -   Soulthorn is the first Unique rarity weapon.
 -   Sitting at the middle of the crossguard features a spherical object similar to the [pieces of The Forge](Artifacts.md), or preferably [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
 -   Strangely, it is bankable while Nocturne[\[1\]](#cite-note-1) isn't.
--   While someone is holding the Soulthorn, it, strangely, has collision, meaning it can prevent someone from entering tight spaces while holding the weapon.
+-   While someone is holding the Soulthorn, it, strangely, has a collision, meaning it can prevent someone from entering tight spaces while holding the weapon.
 
 1.  [↑](#cite-ref-1) [Nocturne](Nocturne.md)
