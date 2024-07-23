@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 107304
+revid: 107793
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -74,6 +74,6 @@ A Kyrsgarde Lancer executes it's opponent:
 -   The Kyrsans in Firfire are not hostile, due to how far they are from the Ethiron's mist presence.
     -   In fact, they will give you a name similar to themselves, which is consistent with the UserID of the player, meaning it is shared across every slot.
 -   Kyrsgardes have quite a strong resemblance to the infamous Bone Keeper, which sparked theories that Bone Keepers are possibly Kyrsans gone rogue, were affected by the parasites, or a multitude of other factors, and it's possible they are Kyrsan brutes based on how they are built and their noises every time they walk, albeit seeming a bit shorter.
--   Ironically, despite the fact that the crawlers crawl around the floor, in their idle and in general they have functioning legs and can even stand up. It is unknown why they crawl, they also make the exact same noise as Figure from DOORS.
+-   Ironically, despite the fact that the crawlers crawl around the floor, in their idle and in general they have functioning legs and can even stand up. It is unknown why they crawl, they also make the exact same noise as Figure from _DOORS_.
 -   Sneaking behind the Kyrsgarde and attempting to talk with it prompts in special dialogue: "Waheit... Yaere fraeum aboeave!", which can be translated as "Wait... You're from above!".
-    -   In the dialogue box the Kyrsgarde, is named as New Kyrsa Guardian.
+    -   In the dialogue box the Kyrsgarde is named as New Kyrsa Guardian.

@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 107274
+revid: 107813
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -178,7 +178,7 @@ Valikor
 
 **Quest Location**: N/A
 
-**Guide**: Unbound your weapon mastery through either completing the lost brother quest or Defeating any of [Bosses](Bosses.md).
+**Guide**: Unbound your weapon (or attunement) mastery through either completing the lost brother quest or Defeating any of [Bosses](Bosses.md).
 
 **Reward/s**: Mercy Kill
 

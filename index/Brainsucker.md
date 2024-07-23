@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 106067
+revid: 107796
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

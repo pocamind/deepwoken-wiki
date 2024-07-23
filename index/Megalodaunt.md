@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 107360
+revid: 107807
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -67,7 +67,7 @@ Kick
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
-Coral Spear
+Thousand Needles
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
@@ -89,6 +89,12 @@ Roar
  | 
 
  | ✗ | ◯ | ◯ | (★★☆) |
+
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
 ## **Finisher**
 

@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 106078
+revid: 107787
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -49,4 +49,3 @@ A Diver Husk executes its opponent after knocking them:
 -   Diver Husks still have some humanity; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them with a feeling of hopelessness and grief as there is nothing to do for them.
 -   Diver Husks later transform into [Carbuncles](Carbuncle.md).
 -   Diver Husks, like their name suggests, are Divers who have fallen victim to the Eternal Gale's Parasites. They appear to be wearing [Diver Apprentice Robes](Diver_Apprentice_Robes.md), so they were most likely Diver Apprentices who accidentally fell into the Second Layer or those part of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) original team, and succumbed to the parasites.
--   They wield weapons, which are most likely the Diver Apprentice's previous weapon that they probably used to attempt to fight off the parasites.

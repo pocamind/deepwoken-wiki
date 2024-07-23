@@ -1,6 +1,6 @@
 ---
 title: Enforcer Eye
-revid: 104023
+revid: 107798
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients]
@@ -25,4 +25,4 @@ The **Enforcer Eye** is used to gain the "Enforcer Pull" [Monster Mantra](Monste
 ## Trivia
 
 -   Although the Hammer Enforcer has orange eyes, it's enforcer eye drop is still red.
--   The reason Enforcer (Eyes) turn to ash is unknown, but it could possibly be an enforcer "self-destructing" after death, as their only purpose is to serve the cathedral.
+-   The reason Enforcers turn to ash is unknown, but it could possibly be an enforcer "self-destructing" after death, as their only purpose is to serve the cathedral.

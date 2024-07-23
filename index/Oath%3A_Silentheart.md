@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 107754
+revid: 107808
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,7 +43,7 @@ This oath is progressed via the killing of [Spelltrainers](Attunement_Trainers.m
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
-Alternatively, if you've fully progressed the oath in a previous life, 10 knowledge can be spent to immediately unlock all related Talents.
+Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
 ## Effects
 

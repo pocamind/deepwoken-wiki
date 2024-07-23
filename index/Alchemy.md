@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 107263
+revid: 107810
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -94,7 +94,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
 | Sap |  |  |  |  |  | Strongest |  | Strongest |  |  |
 | Scallop |  |  |  |  |  |  |  |  | Strongest |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  | Strongest |  | Weakest |
+| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | Weakest |
 | Urchin |  |  |  |  |  |  |  |  | Strongest |  |
 | Wheat |  |  | Strongest |  |  |  |  | Weakest |  |  |
 

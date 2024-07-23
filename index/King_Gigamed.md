@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 107659
+revid: 107802
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 1]
@@ -47,4 +47,4 @@ Summon Gigameds
 -   Greater Stun Pulse & Static Discharge is one of the few attacks that can't ever be parried, even with Talents that allow you to parry un-parryable attacks.
 -   King Gigamed has an intentionally cowardly behavior, meaning it will jump around objects and move in ways that makes it harder for you to fight it.
 -   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md) on it.
--   You can fight king gigamed at low levels by venting when they are about to spawn gigameds to get a healthpack, this is a consistent way as you get a lot of tempo from m1ing.
+-   You can fight King Gigameds at low levels by venting when they are about to spawn Gigameds to get a healthpack, this is a consistent way as you get a lot of tempo from m1ing.
