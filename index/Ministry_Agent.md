@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 107844
+revid: 107867
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Bosses, Enemies]
@@ -36,3 +36,5 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 ## Trivia
 
 The Ministry Agent gives Resonance progress upon defeat, but the amount is currently unknown.
+
+Like the Duke Ishamon Erisia and Maestro Evanguard Rest, he is immune to instant guard breaks.

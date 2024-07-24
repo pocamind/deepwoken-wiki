@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 107193
+revid: 107870
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -36,7 +36,7 @@ The Kanabo is a [Heavy Weapon](Weapons.md) that scales with and requires [Streng
 
 The Kanabo has **two** criticals.
 
-For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow. If there are no eligible target, the user stops after winding up.
+For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow. If there are no eligible target, the user stops after winding up. The enemies (or unsuspecting guild members) hit by it will be ragdolled and launched a considerable distance.
 
 For the **running** critical, the user winds up before unleashing three devastating, unblockable slams that stuns on hit.
 

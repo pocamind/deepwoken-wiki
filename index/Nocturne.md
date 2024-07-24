@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 107836
+revid: 107879
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -41,6 +41,7 @@ Can be cancelled by damage in wind-up.
 ## Trivia
 
 -   Nocturne is enchantable.
+-   When enchanted, only one blade will appear with the effect. This is a visual bug and does not change how the weapon or enchant performs in battle.
 -   Nocturne can be used with a side weapon (Although this is most likely a bug).
 -   Nocturne can't be banked or dropped.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).

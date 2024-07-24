@@ -1,6 +1,6 @@
 ---
 title: Blizzard Knight
-revid: 107800
+revid: 107881
 source: https://deepwoken.fandom.com/wiki/Blizzard_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -55,6 +55,12 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
  | ✗ | ◯\* | ◯ | (★★☆) |
 
 \* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture
+
+## Tips
+
+-   Make sure to kill the Blizzard Knights one at a time, since it will be incredibly difficult to kill multiple of them, since they can infinite combo you.
+-   Blizzard Knights do have the exact same moves as Desert Knights, so if you know how to fight them, they are fairly easy.
+-   They only spawn in when you stand on the rock that Aelita spawns on, so if you are unconfident with fighting them, stay away from the Valley of Heros during the Winter and mainly the rock.
 
 ## Trivia
 

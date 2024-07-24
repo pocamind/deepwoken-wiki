@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 106323
+revid: 107874
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). They drop Astral Enchant Stones upon death, this is one of the ways to obtain them, along with a new event added to the game which grants you the Astral Enchant Stone if you're lucky.
+Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). They drop Astral Enchant Stones upon death, this is one of the ways to obtain them, along with a new event added to the game which grants you the Astral Enchant Stone if you're lucky. Like it's normal Stone Knight counter parts, the Star Knight can swim.
 
 ## **Moveset**
 
@@ -74,6 +74,7 @@ A Stone Knight executes the player:
 
 ## Tips
 
+-   Try to use mainly mantras to kill the Star Knight, since it seems to get posture broken very quickly from mantras.
 -   Due to mainly being fought inside of the water, it should instead be advised to have a build that can "DPS Check" them rather than attempting to fight in a body of water.
     -   However, if fought in Low detail mode while being atleast 10,000 studs away from 0,0,0 in an axis direction, the animations may be visible.
 

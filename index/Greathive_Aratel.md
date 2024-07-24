@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 106826
+revid: 107882
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, The Hive]
@@ -21,9 +21,9 @@ The stirring of life of all kinds fills the air as you enter the shade of the ca
 
 ## Overview
 
-Greathive Aratel a city built in a giant tree on the sea Inside this tree is a large settlement, the Greathive itself.
+Greathive Aratel is a city built in a giant tree on the sea. Inside this tree is a large settlement, the Greathive itself.
 
-To enter Greathive Aratel, you must have washed your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) (requires you to be at least power 10 to wash your face) on any character or slot, and have visited the eastern luminant at least once on that character. Once you meet these requirements, you will be able to use the Greathive Fountains found in [The Lordsgrove](The_Lordsgrove.md), in [The Hidden Village](The_Hidden_Village.md), behind The King's Palace in [Etris](Etris.md), and behind a tree near the gale trainer at vigils.
+To enter Greathive Aratel, you must have washed your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) (requires you to be at least power 10 to wash your face) on any character or slot, and have visited the eastern luminant at least once on your current character. Once you meet these requirements, you will be able to use the Greathive Fountains found in [The Lordsgrove](The_Lordsgrove.md), in [The Hidden Village](The_Hidden_Village.md), behind The King's Palace in [Etris](Etris.md), and behind a tree near [Spelltrainer Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md).
 
 Alternatively, you can [sail](Ships_&_Sailing.md) to Greathive Aratel, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players. If you washed your face at the Lightkeeper Temple and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.
 
@@ -47,7 +47,7 @@ Hive Fountains
 -   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:
     -   [The Lordsgrove](The_Lordsgrove.md)
     -   Inside the [Hidden Village](The_Hidden_Village.md)
-    -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze"
+    -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze."
         
         Here is the fountain at vigils
         
@@ -67,7 +67,7 @@ The doors to enter the Lordsgrove.
 
 -   Players can buy basic [training items,](Training_Gear.md)
 -   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
--   The mystic is here, going left past the training items will take you there.
+-   The [Mystic](Mystic.md) is here, going left past the training items will take you there.
 
 ### Root Plaza
 
@@ -93,7 +93,7 @@ The doors to enter the Lordsgrove.
 #### R&D
 
 -   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon, provided it's eligible.
--   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by Naktigonis.
+-   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A Memory of Tides](Deepwoken_OST.md)" by Naktigonis.
 
 ### Canopy Plaza
 
@@ -103,7 +103,7 @@ Honey Pool (Presumably)
 
 #### Honey Pool
 
--   A pool of, presumably, honey that can be used to fill up canteens
+-   A pool of, presumably, honey that can be used to fill up canteens.
 
 #### Blacksmith
 

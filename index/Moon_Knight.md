@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 107759
+revid: 107872
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -14,7 +14,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that may have another chance of obtaining an Astral.
+Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that may have another chance of obtaining an Astral. However, some Moon Knights may spawn clipped inside of a rock near the center of the island although getting it to kick should get it out.
 
 ## **Moveset**
 
@@ -61,4 +61,4 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
 
 ## Tips
 
-In order to maximise your chance in order to get an Astral enchantment stone, make a build with [Vow of Thorns](Echoes.md), and [Lootskipper](Talents.md), and run around the Eyris in order to maximise drop chances. Make sure to kill the Moon Knights both outside and inside.
+In order to maximise your chance in order to get an Astral enchantment stone, make a build with [Vow of Thorns](Echoes.md), and [Lootskipper](Talents.md), and run around the Eyris in order to maximise drop chances. Make sure to kill the Moon Knights both outside and inside. Beware though, the Moon's Eyrie currently has many gankers, so make sure your build can do PvP.
