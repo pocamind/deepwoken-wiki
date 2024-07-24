@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 107880
+revid: 107886
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations]
@@ -27,6 +27,6 @@ The center Knight has a chance to spawn glitched into a rock. If it uses the Kic
 
 This location has 3 stone pillars with a twisting white glow going through them. You can attack these pillars and after enough hits they will no longer have the white glowing and instead will turn black. Once you attack all of the 3 pillars until deactivated, a small door on the island will be openable leading to a room containing 1 [Moon Knight](Moon_Knight.md). Killing it will reward a chest which contains the weapons listed above and some other Moon-related loot such as the [Moonseye Tome](Moonseye_Tome.md), the [Moon ring](Equipment.md), and other random things.
 
-Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 5% according to Skipper Gripper (take with a grain of salt, it’s Skipper after all), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md).
+Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 5% according to Skipper Gripper (take with a grain of salt, it’s Skipper after all)(He's right, I farmed on an account that has Lootskipper and easily got Astral enchant stone after 3 Knights), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md).
 
-Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), since this island is it's own area and not just part of the [Voidsea](Voidsea.md), dying a PVE death on this island will not send you to The Depth.
+Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), since this island is it's own area and not just part of the [Voidsea](Voidsea.md), dying a PVE death on this island will not send you to The Depths.
