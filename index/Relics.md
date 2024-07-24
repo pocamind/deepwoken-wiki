@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 107859
+revid: 107892
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -139,6 +139,7 @@ It grants the user +30 knowledge on subsequent uses.
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 
  |
 | File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random pip per roll.

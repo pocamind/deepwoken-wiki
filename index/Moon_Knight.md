@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 107872
+revid: 107889
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -59,6 +59,10 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
 
 \* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture.
 
+#### Passives
+
+-   Slash Resistance: Has 55% Slash Resistance.
+
 ## Tips
 
-In order to maximise your chance in order to get an Astral enchantment stone, make a build with [Vow of Thorns](Echoes.md), and [Lootskipper](Talents.md), and run around the Eyris in order to maximise drop chances. Make sure to kill the Moon Knights both outside and inside. Beware though, the Moon's Eyrie currently has many gankers, so make sure your build can do PvP.
+In order to maximise your chance in order to get an Astral enchantment stone, make a build with [Vow of Thorns](Echoes.md), and [Lootskipper](Talents.md), and run around the Eyris in order to maximise drop chances. Make sure to kill the Moon Knights both outside and inside. Be warned that similar to the other knights, the Moon Knight has heavy slash resistance.

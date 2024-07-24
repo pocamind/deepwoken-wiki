@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 107870
+revid: 107891
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -36,7 +36,7 @@ The Kanabo is a [Heavy Weapon](Weapons.md) that scales with and requires [Streng
 
 The Kanabo has **two** criticals.
 
-For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow. If there are no eligible target, the user stops after winding up. The enemies (or unsuspecting guild members) hit by it will be ragdolled and launched a considerable distance.
+For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow. If there are no eligible target, the user stops after winding up. The players hit by it will be ragdolled and launched a considerable distance.
 
 For the **running** critical, the user winds up before unleashing three devastating, unblockable slams that stuns on hit.
 
@@ -44,7 +44,7 @@ Both criticals share the cooldown of **8 seconds**.
 
 ## Trivia
 
--   A Kanabō, meaning "metal stick," was a weapon used in fuedal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
+-   A Kanabō, meaning "metal stick," was a weapon used in feudal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   The weapon normal attack matches that of a greatsword.
 -   Has the second highest overall weapon requirement, only surpassed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 100 HVY and 60 STR.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.

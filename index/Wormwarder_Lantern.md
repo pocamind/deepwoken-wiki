@@ -1,6 +1,6 @@
 ---
 title: Wormwarder Lantern
-revid: 107402
+revid: 107896
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
@@ -33,3 +33,4 @@ A personal use lantern one can lug around to combat the parasites of the Eternal
 -   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item within the Second Layer, the Talent Master Craftsman or the recently added crafting station inside the Union's base will do.
 -   Due to the movement speed debuff from using this item, it is only useful for long expeditions within the Eternal Gale.
 -   The Wormward Lantern does not actually clear parasites, it only disables their ability to continue growing- meaning you will keep any parasites you had before equipping it.
+-   You cannot store this item in a safe deposit box, or drop it.
