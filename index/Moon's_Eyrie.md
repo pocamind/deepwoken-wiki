@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 107693
+revid: 107855
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations]
@@ -17,6 +17,8 @@ A beacon calling out from the Void to the Last Dead above. Dreams are so frequen
   
 
 Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in the [Voidsea](Voidsea.md), located in the East Luminant approximately to the east of the map's compass.
+
+Center of the island
 
   
 Has exclusive drops [Nocturne](Nocturne.md) and [Soulthorn](Soulthorn.md), as well as spawning [Moon Knights](Moon_Knight.md) (2 on the island and 1 in the secret room).

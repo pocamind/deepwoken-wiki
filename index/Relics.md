@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 107293
+revid: 107859
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -59,6 +59,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
+-   [Moon's Eyerie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 **(~1%)**

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 107248
+revid: 107858
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -311,6 +311,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
+-   Duke will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
 -   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
     -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."

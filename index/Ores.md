@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 103212
+revid: 107857
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -134,7 +134,7 @@ A vibrant green ore used for crafting certain armors. Found in [The Garden Reser
 
 ## Overview
 
-A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](The_Starswept_Valley.md), or inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from). The drop rate for Pure Astruline is around 15%.
+A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](The_Starswept_Valley.md), inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from) or from the Moonseye golem. The drop rate for Pure Astruline is around 15%.
 
 **Umbrite:**
 
@@ -153,8 +153,8 @@ The vein located in Nostor's Cave.
 ## Trivia
 
 -   Rocks can be thrown at people.
-    -   This however puts you in combat tag.
     -   This does no damage to the victim, this is more just for fun.
+    -   However, it does put the victim in combat.
 -   Normal and Pure ores have the same appearance when held in hand.
 -   Every Pure Ore can be given to the Blacksmith except for iron. (You can't get pure coal and pure rocks.) Additionally, Pure Ore can be converted into 3x of it's normal variant by attempting to craft with it.
 -   All ores other than rocks can be sold, and most pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
