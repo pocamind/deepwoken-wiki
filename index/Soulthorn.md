@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 107994
+revid: 108018
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
