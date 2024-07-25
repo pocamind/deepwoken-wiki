@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 107690
+revid: 107906
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -62,7 +62,8 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 ## Trivia
 
--   Despite the unblockable icon similar to Light's Final Toll's final critical, the Kyrswynter's running critical can be blocked.
+-   Despite the undodgeable icon similar to Light's Final Toll's final critical, the Kyrswynter's running critical can be dodged.
+    -   Also, the Eye Indicator used to be an Ice Blue, but was then changed to the default Red Indicator to show that it is unparryable.
 -   This is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md).
 -   This is the first elemental legendary weapon to have innate bleed on hit.
 -   This is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
@@ -71,3 +72,4 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 -   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) may have been the last ever modern Kyrsgarde to every conjure such a weapon, or it was safely passed down from his bloodline.
 -   The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release.
     -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
+-   This weapon is Bankable.
