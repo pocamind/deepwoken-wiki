@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 107764
+revid: 107994
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -53,5 +53,6 @@ No stack: Nothing happens
 -   Sitting at the middle of the crossguard features a spherical object similar to the [pieces of The Forge](Artifacts.md), or preferably [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
 -   Strangely, it is bankable while Nocturne[\[1\]](#cite-note-1) isn't.
 -   While someone is holding the Soulthorn, it, strangely, has a collision, meaning it can prevent someone from entering tight spaces while holding the weapon.
+-   It's likely to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
 
 1.  [↑](#cite-ref-1) [Nocturne](Nocturne.md)
