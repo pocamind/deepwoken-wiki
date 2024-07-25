@@ -1,9 +1,9 @@
 ---
 title: Ministry Enforcer
-revid: 106463
+revid: 107957
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Ambush Enemies, Enemies with Oaths]
+categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
 ---
 
 # Ministry Enforcer

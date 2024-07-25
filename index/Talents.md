@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 107221
+revid: 107971
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1828,7 +1828,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisite: Family Recipe
 
 -   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.
-    -   Prerequisite: Incendiary Formula
+    -   Prerequisite: Hot Potato
 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Prerequisite: Incendiary Formula

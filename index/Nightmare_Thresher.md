@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 106272
+revid: 107981
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Monsters]
@@ -12,7 +12,7 @@ _Also known as Radioactive Thresher and Poison Thresher_Template:Creature Info B
 
 ## Description
 
-Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves.
+Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves. They can also spawn in the [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## **Attacks**
 

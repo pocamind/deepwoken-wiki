@@ -1,9 +1,9 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 106428
+revid: 107915
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Ambush Enemies]
+categories: [Enemies, Ambush Enemies, Summer Company, Summer Company Enemies]
 ---
 
 # Summer Dragoon (NPC)

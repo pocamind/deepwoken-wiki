@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 107469
+revid: 107973
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -152,6 +152,7 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
         -   Although this can be done without the Talent, you need the Talent to obtain the wood; otherwise, you will have gained nothing.
 -   Greatly resembles [The Ferryman](The_Ferryman.md).
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions.
+-   It is implied in one of his dialogue options that he formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
 
 ## Gallery (right side of your screen)
 

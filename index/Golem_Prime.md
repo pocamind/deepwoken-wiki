@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 106657
+revid: 107977
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3**Also known as Duke Golems or Prime Golems.**
 
 Golem Primes are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than a regular **Rock Golem**.
 
-In combat, Golem Primes are very hardy, having moderately high health and high slash resistance. Despite essentially being the same as a regular Rock Golem, take high caution when fighting a Golem Prime as their attacks are much stronger compared to the latter.
+In combat, Golem Primes are very hardy, having moderately high health and high slash resistance. Despite essentially being the same as a regular Rock Golem, take high caution when fighting a Golem Prime as their attacks are much stronger compared to the latter, but they are still pretty easy once you know how to fight them.
 
 ## Attacks
 
@@ -41,3 +41,14 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 | Name | Media | Description |
 | --- | --- | --- |
 | Crushing Stomp |  | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
+
+## Tips
+
+-   Do not attempt to fight Golem Primes until you have mastered fighting normal golems.
+-   Since you can rapidly parry it's spinning move, the Providence Thorns enchant can kill Golem Primes incredibly fast.
+-   Golem Primes are incredibly dangerous, especially when there is multiple Golem Primes on you, so when in Duke's Manor, you would want to try aggro them one at a time, unless you have a good PVE build.
+
+## Trivia
+
+-   Golem Primes are special, more powerful versions of the Rock Golems, that serve the purpose of very high security over Duke's Labatory.
+-   Golem Primes were originally normal Rock Golems, but Duke Erisia added special modifications and strength to these golems, before giving them the name of 'Golem Primes'. He also gave them a sick black paint job. :)

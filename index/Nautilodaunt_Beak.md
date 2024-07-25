@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Beak
-revid: 107801
+revid: 107985
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Beak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients]
@@ -8,7 +8,7 @@ categories: [Items, Drops, Monster Mantra Ingredients]
 
 # Nautilodaunt Beak
 
-| Nautilodaunt Beak | |
+| Naultiodaunt Beak | |
 |---|---|
 | value | 200 |
 | weight | None |
@@ -16,7 +16,7 @@ categories: [Items, Drops, Monster Mantra Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | The sharp hidden beak of a Nautilodaunt, rarely seen due to their distaste for human flesh. |
+| desc | The sharp hidden beak of a Nautilodaunt, rarely seen due to their distaste for human flesh. That's gross. |
 
 ## Description
 

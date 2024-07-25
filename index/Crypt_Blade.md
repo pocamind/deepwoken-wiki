@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 107625
+revid: 107976
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -33,11 +33,11 @@ File:Ministry Chest crypt blade drop.png
 
 Proof that you can get a crypt blade of the ministry event
 
-The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
+The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. Sniff test Sniff test
 
 The Crypt Blade comes with 2 passive abilities:
 
--   **Last Dead's Boon** - M1 attacks now steal ether.
+-   **Last Dead's Boon** - M1 attacks now steal ether. DASAB ASAN DASNNSAND JOHNO JOHN GOOODOOGO BGSAGA
 
 -   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
 -   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to blazing enchant.

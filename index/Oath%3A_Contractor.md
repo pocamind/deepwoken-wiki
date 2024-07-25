@@ -1,9 +1,9 @@
 ---
 title: "Oath: Contractor"
-revid: 107240
+revid: 107959
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Pages with broken file links, Oaths, The Ministry]
 ---
 
 # Oath: Contractor

@@ -1,9 +1,9 @@
 ---
 title: Eastern Nomad
-revid: 106431
+revid: 107921
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Enemies that can wield Enchantments, Children of Navae, Children of Navae Enemies]
 ---
 
 # Eastern Nomad
