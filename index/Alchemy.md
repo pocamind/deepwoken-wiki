@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 108153
+revid: 108154
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -86,7 +86,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
 | Alestrian Coral |  |  | Weakest | Strongest |  | Strongest |  |  |  |  |
 | Crustacean Meat |  |  | Strongest |  |  |  |  |  |  | Weakest |
 | [Dentifilo](Dentifilo.md) | Weakest | Weakest |  |  |  |  |  |  |  |  |
-| [crack](Gobletto.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
+| [Gobletto](Gobletto.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | Strongest | Strongest |  |  |  |  |  |
 | Plumfruit |  |  | Strongest |  |  |  | Strongest |  |  |  |
 | [Pomar](Pomar.md) | Weak |  |  |  |  | Strongest |  |  |  |  |
@@ -110,7 +110,7 @@ Biotic Salts alter the potion to provide halved negative effects when applied to
 
 Aromatic Salts cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect and can improve the effective duration of the effect by up to 10 seconds.
 
-Antithetic Salts invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and cracks.
+Antithetic Salts invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and Goblettos.
 
 ## Effects
 
@@ -227,7 +227,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Elixir<br>
   Salve</td>
   <td>Beeswax<br>
-  crack</td>
+  Gobletto</td>
   <td>Applies a regeneration effect.</td>
   <td>Opposite effect to <b>Grueling.</b></td>
 </tr>
@@ -271,7 +271,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 <tr>
   <td><b>Slowing</b></td>
   <td>Blight</td>
-  <td>Beeswax<p>crack</p>
+  <td>Beeswax<p>Gobletto</p>
   <p>Sap</p></td>
   <td>Reduces speed for the duration of the potion.</td>
   <td>Opposite effect to <b>Hastening</b><p>This potion used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name, however, with the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for <b>Hastening</b> potions, allowed for its creation</p></td>
@@ -335,13 +335,13 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 -   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle
     -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
 -   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
-    -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or cracks to restore additional health over time, or wheat can be added to cancel out the ether drain.
+    -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or Goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.
     -   Redds help more than normal in healing if the potion is thrown.
     -   Due to Redds decreasing the duration of potions, the 2 Beeswax provides little value. Meaning unless you have a surplus, it is not worth wasting 2 Beeswax. Instead, consider just using 3 Redds if you plan on making this potion
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much
--   **Health Regeneration** (Invigorating) - 3 Beeswax or cracks + 2 Spider Egg
+-   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg
     -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
-    -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 cracks and 2 Beeswax.
+    -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
     -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
 -   **Long Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
@@ -369,7 +369,7 @@ These are not the only locations these ingredients can be found, but these are t
 -   Browncaps: [https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA)
 -   Calabash: [https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA)
 -   Pomar: [https://medal.tv/games/roblox/clips/25kTqSUJe\_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTqSUJe_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA)
--   cracks: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA)
+-   Goblettos: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA)
 -   Bluecaps: [https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA)
 -   Redds: [https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA)
 -   Spider Eggs: [https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA)

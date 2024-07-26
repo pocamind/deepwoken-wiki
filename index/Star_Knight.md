@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 108151
+revid: 108156
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). They drop Astral Enchant Stones upon death, this is one of the ways to obtain them, along with a new event added to the game which grants you the Astral Enchant Stone if you're lucky. Like it's normal Stone Knight counter parts, the Star Knight can swim.
+Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through the [Resonant Dawn](Random_Encounters.md), guarding the celestial meteor it arrived from. The Star Knight will drop a single guaranteed Astral Enchant Stone upon death. This is one of the few ways to obtain them, alongside the Moon Knights at the Moon's Eyrie island, and the [Weird Trader](Weird_Trader.md). Similar to it's normal Stone Knight counter parts, the Star Knight can swim.
 
 ## **Moveset**
 
