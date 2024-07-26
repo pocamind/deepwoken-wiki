@@ -1,9 +1,9 @@
 ---
 title: Locations
-revid: 99217
+revid: 108072
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Locations, World, Deepwoken]
+categories: [OutdatedPages, Locations, Deepwoken]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -12,7 +12,7 @@ notices:
 
 _This page lists links to their respective pages. If you were looking for maps, see [Maps](Maps.md)._
 
-A list of named locations that can be found in _Deepwoken_. Visiting these for the first time gives EXP.
+A list of named **locations** that can be found in _Deepwoken_. Visiting these for the first time gives EXP.
 
 ## Lumen's locations
 

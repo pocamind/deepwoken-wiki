@@ -1,9 +1,9 @@
 ---
 title: Songseeker Temple
-revid: 86524
+revid: 108102
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant]
+categories: [Locations, Eastern Luminant]
 ---
 
 # Songseeker Temple

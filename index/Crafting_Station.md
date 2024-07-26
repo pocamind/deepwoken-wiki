@@ -1,9 +1,9 @@
 ---
 title: Crafting Station
-revid: 107419
+revid: 108040
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Mechanics]
+categories: [Mechanics]
 ---
 
 # Crafting Station

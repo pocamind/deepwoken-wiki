@@ -1,9 +1,9 @@
 ---
 title: Kressa
-revid: 96396
+revid: 108068
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs, Eastern Luminant]
+categories: [NPCs, Eastern Luminant]
 ---
 
 # Kressa
@@ -13,9 +13,9 @@ categories: [World, NPCs, Eastern Luminant]
 | name | Kressa |
 | location | Miner's Landing |
 
-## Overview
+## Description
 
-Kressa is an NPC located in [Miner's Landing](<Miner's_Landing.md>), in a room across from the entrance to [Saramaed Summit](Saramaed_Summit.md). She provides some lore relating to the [Summer Company](The_Summer_Company.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
+**Kressa** is an NPC located in [Miner's Landing](<Miner's_Landing.md>), in a room across from the entrance to [Saramaed Summit](Saramaed_Summit.md). She provides some lore relating to the [Summer Company](The_Summer_Company.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 ## Dialogue
 

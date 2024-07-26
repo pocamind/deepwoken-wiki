@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 107871
+revid: 108148
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -27,6 +27,8 @@ The maximum amount of **Echoes** that a character can get (excluding rebargainin
 **Ranks** are granted to the character upon wiping, based on how much base echoes they have obtained (before multipliers)
 
 Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
+
+A Rank now gives 1 character slot for free.
 
 S Rank is achievable by doing all echoes tasks (listed below).
 

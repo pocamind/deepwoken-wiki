@@ -1,14 +1,12 @@
 ---
 title: Meteor
-revid: 88215
+revid: 108083
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, World]
+categories: [Mechanics]
 ---
 
 # Meteor
-
-## Description
 
 Meteor Fortuna
 

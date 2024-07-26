@@ -1,9 +1,9 @@
 ---
 title: The Floating Keep
-revid: 92167
+revid: 108119
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Etrean Luminant]
+categories: [Locations, Etrean Luminant]
 ---
 
 # The Floating Keep
@@ -50,9 +50,9 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
     -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for.
     -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for, a [Messer](Messer.md) for, a [Tanto](Tanto.md) for, an [Apprentice Rapier](Apprentice_Rapier.md) for, a [Trident Spear](Trident_Spear.md) for, a [Vigil Longsword](Vigil_Longsword.md) for, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for.
 
-### Exclusive NPCs and Variants:
+### Exclusive NPCs and Variants
 
-#### Lightborns:
+#### Lightborns
 
 -   Everis
 -   [Antiquarian](Antiquarian.md)
@@ -93,9 +93,9 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   The music for this area is [A Light In The Sky](Deepwoken_OST.md) by Naktigonis
 -   The combat music for this area is [A Darkness Beneath](Deepwoken_OST.md) by Naktigonis
--   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
+-   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13)
 -   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
 -   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."
 -   This location appears in the Battle Royale mode as an "intermission" before the game starts, but there are no Lightborn NPCs
--   On October 17th, 2023 there used to be a floating gate above the castle. However, it was presumably removed during one of the bug fix updates following the release of Hallowtide
+-   On October 17, 2023 there used to be a floating gate above the castle. However, it was presumably removed during one of the bug fix updates following the release of Hallowtide

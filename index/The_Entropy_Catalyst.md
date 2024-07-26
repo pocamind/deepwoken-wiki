@@ -1,9 +1,9 @@
 ---
 title: The Entropy Catalyst
-revid: 96739
+revid: 108117
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, World]
+categories: [Pages with broken file links, Locations]
 ---
 
 # The Entropy Catalyst
@@ -22,7 +22,7 @@ The Entropy Catalyst is a location within The Aratel Sea, in an island next to a
 
 This location is Voidzone, meaning that dying here will send you to the Depths. You can find Pristine Lotuses and Erisore here.
 
-## **How do I use this?**
+## How do I use this?
 
 It's simple, just take a good look at the four humanoid grave-esque spots adjacent from the center.
 

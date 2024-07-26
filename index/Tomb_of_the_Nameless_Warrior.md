@@ -1,9 +1,9 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 91463
+revid: 108130
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Etrean Luminant]
+categories: [Locations, Etrean Luminant]
 ---
 
 # Tomb of the Nameless Warrior

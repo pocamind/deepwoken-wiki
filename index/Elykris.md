@@ -1,9 +1,9 @@
 ---
 title: Elykris
-revid: 107430
+revid: 108048
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, World]
+categories: [NPCs, Quests]
 ---
 
 # Elykris

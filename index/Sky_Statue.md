@@ -1,9 +1,9 @@
 ---
 title: Sky Statue
-revid: 106141
+revid: 108101
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, World]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Sky Statue

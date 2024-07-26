@@ -1,9 +1,9 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 100824
+revid: 108127
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Dungeons, World]
+categories: [Locations, Dungeons]
 ---
 
 # The Scoundrel's Bounty
@@ -50,6 +50,8 @@ Template:Areainfobox
 -   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.[\[1\]](#cite-note-1)
 
 ## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1)
     

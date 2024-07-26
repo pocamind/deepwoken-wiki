@@ -1,9 +1,9 @@
 ---
 title: The Valley of Heroes
-revid: 100225
+revid: 108133
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Voidzones, World]
+categories: [Pages with broken file links, Locations, Voidzones]
 ---
 
 # The Valley of Heroes

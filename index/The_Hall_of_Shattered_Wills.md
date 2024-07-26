@@ -1,9 +1,9 @@
 ---
 title: The Hall of Shattered Wills
-revid: 102602
+revid: 108122
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World]
+categories: [Locations]
 ---
 
 # The Hall of Shattered Wills
@@ -65,7 +65,7 @@ It has no practical functions and merely acts as a safe place for moderators to 
 
 ## Maps
 
-A map can be found at [Maps#The\_Hall\_of\_Shattered\_Wills](Maps.md#the-hall-of-shattered-wills)
+A map can be found at [Maps#The Hall of Shattered Wills](Maps.md#the-hall-of-shattered-wills)
 
 ## Trivia
 

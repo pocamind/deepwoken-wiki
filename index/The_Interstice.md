@@ -1,9 +1,9 @@
 ---
 title: The Interstice
-revid: 79195
+revid: 108124
 source: https://deepwoken.fandom.com/wiki/The_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Map, World]
+categories: [Locations, Map]
 ---
 
 # The Interstice

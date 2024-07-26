@@ -1,9 +1,9 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 106781
+revid: 108042
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Dungeons, World]
+categories: [Locations, Dungeons]
 ---
 
 # Duke Erisia's Manor

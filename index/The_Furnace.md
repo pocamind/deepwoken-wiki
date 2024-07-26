@@ -1,9 +1,9 @@
 ---
 title: The Furnace
-revid: 92726
+revid: 108120
 source: https://deepwoken.fandom.com/wiki/The_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, World]
+categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -22,7 +22,7 @@ Template:Location2
 
 Jarvis
 
-#### _**Jarvis**_
+#### _Jarvis_
 
 [Jarvis](Jarvis.md) is a unique NPC in the Furnace hall. He will allow you to smelt two items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
 
@@ -34,7 +34,7 @@ Jarvis
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Take that stupid thing off." "Give me a break."
 -   Essential NPC so that you may retain good stats from armor pieces and cosmetics without looking like crap.
 
-#### _**Brawling Arena**_
+#### _Brawling Arena_
 
 -   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
 -   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.

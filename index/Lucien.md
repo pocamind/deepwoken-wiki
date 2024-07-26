@@ -1,9 +1,9 @@
 ---
 title: Lucien
-revid: 94391
+revid: 108077
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs, Quests, Eastern Luminant]
+categories: [NPCs, Quests, Eastern Luminant]
 ---
 
 # Lucien
@@ -13,9 +13,9 @@ categories: [World, NPCs, Quests, Eastern Luminant]
 | name | Lucien |
 | location | Songseeker Wilds |
 
-## Overview
+## Description
 
-Lucien is an NPC located in the [Songseeker Wilds](Songseeker_Wilds.md) who grants the recipe to crafting [Iron Bomb](Iron_Bomb.md)s through the [Quest](Quests.md) **Mineskipper Mayhem**.
+**Lucien** is an NPC located in the [Songseeker Wilds](Songseeker_Wilds.md) who grants the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) **Mineskipper Mayhem**.
 
 ## Dialogue
 

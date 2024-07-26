@@ -1,9 +1,9 @@
 ---
 title: "Pathfinder's Respite"
-revid: 100416
+revid: 108097
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Etrean Luminant]
+categories: [Locations, Etrean Luminant]
 ---
 
 # Pathfinder's Respite
@@ -33,8 +33,7 @@ Pathfinder's Respite is a small den with a small spot of flowers in the middle. 
 Events that spawn in Pathfinder's Respite that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Etrea](Etrea.md) vs [The Central Authority](The_Central_Authority.md)
--   [The Hundred Legion](The_Hundred_Legions.md) vs The Central Authority  
-    
+-   [The Hundred Legion](The_Hundred_Legions.md) vs The Central Authority
 
 ## Maps
 

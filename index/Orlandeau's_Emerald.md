@@ -1,9 +1,9 @@
 ---
 title: "Orlandeau's Emerald"
-revid: 102643
+revid: 108095
 source: https://deepwoken.fandom.com/wiki/Orlandeau's_Emerald
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, World]
+categories: [In progress without reason, InProgressPages]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

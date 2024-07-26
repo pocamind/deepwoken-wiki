@@ -1,9 +1,9 @@
 ---
 title: Temple Approach
-revid: 106647
+revid: 108110
 source: https://deepwoken.fandom.com/wiki/Temple_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Etrean Luminant, Etrea]
+categories: [Locations, Etrean Luminant, Etrea]
 ---
 
 # Temple Approach

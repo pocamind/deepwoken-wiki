@@ -1,9 +1,9 @@
 ---
 title: Greathive Aratel
-revid: 107882
+revid: 108061
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant, The Hive]
+categories: [Locations, Eastern Luminant, The Hive]
 ---
 
 # Greathive Aratel

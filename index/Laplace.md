@@ -1,9 +1,9 @@
 ---
 title: Laplace
-revid: 106833
+revid: 108071
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs, The Hive]
+categories: [NPCs, The Hive]
 ---
 
 # Laplace

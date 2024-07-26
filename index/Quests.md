@@ -1,9 +1,9 @@
 ---
 title: Quests
-revid: 107813
+revid: 108098
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
+categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

@@ -1,9 +1,9 @@
 ---
 title: Maps
-revid: 107771
+revid: 108081
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Sailing, Locations, Map, Deepwoken]
+categories: [Sailing, Locations, Map, Deepwoken]
 ---
 
 # Maps

@@ -1,9 +1,9 @@
 ---
 title: Mantra Collector
-revid: 99579
+revid: 108079
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, NPCs, World, Vendors]
+categories: [In progress with reason, InProgressPages, NPCs, Vendors]
 notices:
   - This page is currently being worked on. Prices are still being adjusted.
 ---

@@ -1,9 +1,9 @@
 ---
 title: Nimea
-revid: 102437
+revid: 108092
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Lore, World]
+categories: [In progress without reason, InProgressPages, NPCs, Lore]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -18,8 +18,6 @@ notices:
 “ Light is to Void as Paint is to a Canvas- it draws out substance. ”
 
 ― Nimea
-
-  
 
 ## Description
 

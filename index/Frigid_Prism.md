@@ -1,9 +1,9 @@
 ---
 title: Frigid Prism
-revid: 103509
+revid: 108060
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Items, Mantras, Elemental Ingredients]
+categories: [Items, Mantras, Elemental Ingredients]
 ---
 
 # Frigid Prism

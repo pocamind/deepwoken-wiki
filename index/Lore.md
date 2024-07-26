@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 107634
+revid: 108078
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
+categories: [SpoilerPages, Pages with broken file links, Deepwoken]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---

@@ -1,9 +1,9 @@
 ---
 title: Joshua
-revid: 87185
+revid: 108067
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [NPCs]
 ---
 
 # Joshua

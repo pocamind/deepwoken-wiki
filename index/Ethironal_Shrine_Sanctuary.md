@@ -1,9 +1,9 @@
 ---
 title: Ethironal Shrine Sanctuary
-revid: 86294
+revid: 108053
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Sanctuary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, The Depths, Locations, Layer 2, World]
+categories: [In progress with reason, InProgressPages, The Depths, Locations, Layer 2]
 notices:
   - This page is currently being worked on. Please check back later.
 ---

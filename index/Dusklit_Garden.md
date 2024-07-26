@@ -1,9 +1,9 @@
 ---
 title: Dusklit Garden
-revid: 52951
+revid: 108044
 source: https://deepwoken.fandom.com/wiki/Dusklit_Garden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World]
+categories: [Locations]
 ---
 
 # Dusklit Garden
@@ -24,7 +24,7 @@ Dusklit Garden
 
 ## Maps
 
-A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspace)
+A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace)
 
 ## Trivia/Notes
 

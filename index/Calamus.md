@@ -1,9 +1,9 @@
 ---
 title: Calamus
-revid: 103337
+revid: 108036
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, World]
+categories: [NPCs, Quests]
 ---
 
 # Calamus
@@ -13,9 +13,7 @@ categories: [NPCs, Quests, World]
 | name | Calamus |
 | location | Starswept Valley |
 
-## Overview
-
-Calamus is an NPC found in the [Starswept Valley](The_Starswept_Valley.md). He is a member of [The Hive](The_Hive.md). When you first talk to him, he tells you to kill a specific [Monster](Monsters.md), offering a reward. Upon completion of his quest, he will give you a chest with average loot, and grant positive [Reputation](Reputation.md) with The Hive. If you talk to him once again, he will let you retake the quest, making his quest repeatable.
+**Calamus** is an NPC found in the [Starswept Valley](The_Starswept_Valley.md). He is a member of [The Hive](The_Hive.md). When you first talk to him, he tells you to kill a specific [Monster](Monsters.md), offering a reward. Upon completion of his quest, he will give you a chest with average loot, and grant positive [Reputation](Reputation.md) with The Hive. If you talk to him once again, he will let you retake the quest, making his quest repeatable.
 
 If you talk to him before completing his task, he will remind you of what monster you need to kill. He also gives you the option to abandon the quest and retake it if you decide that you can't kill or find the monster you were assigned.
 

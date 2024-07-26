@@ -1,9 +1,9 @@
 ---
 title: Summer Isle
-revid: 107303
+revid: 108109
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
+categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---

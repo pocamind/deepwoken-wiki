@@ -1,9 +1,9 @@
 ---
 title: "Boatman's Watch"
-revid: 89427
+revid: 108034
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant]
+categories: [Locations, Eastern Luminant]
 ---
 
 # Boatman's Watch

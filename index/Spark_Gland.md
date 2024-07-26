@@ -1,9 +1,9 @@
 ---
 title: Spark Gland
-revid: 104783
+revid: 108104
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Items, Elemental Ingredients]
+categories: [Items, Elemental Ingredients]
 ---
 
 # Spark Gland

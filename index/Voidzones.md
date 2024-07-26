@@ -1,9 +1,9 @@
 ---
 title: Voidzones
-revid: 103820
+revid: 108136
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, World, Voidzones]
+categories: [In progress without reason, InProgressPages, Voidzones]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -31,7 +31,7 @@ While inside a Voidzone:
 
 ## Voidzones
 
-### **[Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**
+### [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
 “ The dimly lit halls echo with voices of those who once walked. ”
 
@@ -43,7 +43,7 @@ While inside a Voidzone:
 
 **Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool, [Gran Sudaruska](Gran_Sudaruska.md)
 
-### **[Ancient Rotlands](Ancient_Rotlands.md)**
+### [Ancient Rotlands](Ancient_Rotlands.md)
 
 “ The scent of decay suffocates this murky land, once home of a fallen Celestial. ”
 
@@ -56,7 +56,7 @@ While inside a Voidzone:
 
 **Rewards:** Miasmic and Zephyr Lotuses, Songseeker loot pool, Deep Angels chest loot pool
 
-### **[Lightkeeper Temple](Lightkeeper_Temple.md)**
+### [Lightkeeper Temple](Lightkeeper_Temple.md)
 
 “ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoulders. ”
 
@@ -69,7 +69,7 @@ While inside a Voidzone:
 
 **Rewards:** Eggs, Starswept Valley Loot Pool, Key Point of Interest towards Greathive Aratel
 
-### **[Saramaed Summit](Saramaed_Summit.md)**
+### [Saramaed Summit](Saramaed_Summit.md)
 
 “ The air itself feels as if it were becoming ash. as the embers around you radiate heat. ”
 
@@ -82,7 +82,7 @@ While inside a Voidzone:
 
 **Rewards:** Miner's Landing Loot Pool, Summer Dragoon Schematic
 
-### **[Valley of Heroes](The_Valley_of_Heroes.md)**
+### [Valley of Heroes](The_Valley_of_Heroes.md)
 
 “ A valley left forgotten, a place of power that draws the heavens downward. ”
 
@@ -95,7 +95,7 @@ While inside a Voidzone:
 
 **Rewards:** [Hero Blades](Hero_Blades.md) (Winter), [Ministry Cloak](Ministry_Cloak.md) \[Winter\], [Justicar Defender Coat](Justicar_Defender_Coat.md) \[Aelita\], Assassin Cloaks \[Aelita\], Minityrsa Loot Pool
 
-### **[Starfield Tundra](Starfield_Tundra.md)**
+### [Starfield Tundra](Starfield_Tundra.md)
 
 “ The beauty of the tundra, the Star Tree stands tall. ”
 
@@ -108,7 +108,7 @@ While inside a Voidzone:
 
 **Rewards:** TBD
 
-### **[Starfield Veldt](Starfield_Veldt.md)**
+### [Starfield Veldt](Starfield_Veldt.md)
 
 “ The beauty of the veldt, the Star Tree stands tall. ”
 
@@ -121,7 +121,7 @@ While inside a Voidzone:
 
 **Rewards:** TBD
 
-### **[Starfield Grove](Starfield_Grove.md)**
+### [Starfield Grove](Starfield_Grove.md)
 
 “ The beauty of the Valley, the Star Tree stands tall. ”
 
@@ -133,7 +133,7 @@ While inside a Voidzone:
 
 **Rewards:** Skyvalor Lotus
 
-### **[Deep Thresher Nest](Deep_Thresher_Nest.md)**
+### [Deep Thresher Nest](Deep_Thresher_Nest.md)
 
 “ Woah, there's some big lizards right there I wanna pet them ”
 
@@ -145,7 +145,7 @@ While inside a Voidzone:
 
 **Rewards:** Brilliant & Empyrean Lotuses, Eggs
 
-### **[The Entropy Catalyst](The_Entropy_Catalyst.md)**
+### [The Entropy Catalyst](The_Entropy_Catalyst.md)
 
 “ The machina hisses ominously against the nature surrounding it, standing to protest against life itself. ”
 

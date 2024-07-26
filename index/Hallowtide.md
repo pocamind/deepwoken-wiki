@@ -1,9 +1,9 @@
 ---
 title: Hallowtide
-revid: 88337
+revid: 108064
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Events]
+categories: [Events]
 ---
 
 # Hallowtide
@@ -21,7 +21,7 @@ categories: [World, Events]
 
 ## Description
 
-Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th 2022.
+Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th, 2022.
 
 It returned in 2023 on October 27th. The first Hallowtide added...
 
@@ -71,9 +71,9 @@ The second Hallowtide added...
 
 -   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to [Lysander Spellhardt](Lysander_Spellhardt.md) who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by going to a [Barber](Barber.md) and asking them to change your variant, or by wiping and choosing your Hallowtide Variant in the character customization screen.
 
-### Exclusive NPCs and Variants:
+### Exclusive NPCs and Variants
 
-#### Lightborns:
+#### Lightborns
 
 -   Everis
 -   [Antiquarian](Antiquarian.md)
@@ -88,7 +88,7 @@ The second Hallowtide added...
 
 #### Unknown/Exclusive
 
--   [Hallowtide Caller](Hallowtide.md)
+-   Hallowtide Caller
 -   [Suspicious Skeleton (Bone Rattler)](Suspicious_Skeleton.md)
 
 ### Trivia

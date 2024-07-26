@@ -1,14 +1,12 @@
 ---
 title: Loot Bag Gacha
-revid: 105257
+revid: 108073
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs, Mechanics]
+categories: [NPCs, Mechanics]
 ---
 
 # Loot Bag Gacha
-
-## Overview
 
 In various locations throughout both seas, certain NPCs can be spotted holding large bags. These NPCs offer random, low-tier loot correlating with their location, for a fee of. This is often considered a bad deal, since the loot always sells for less than, and can be obtained from any chest in that area.
 
@@ -20,7 +18,7 @@ Erisae.
 
 An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
 
-### **Lootpool**
+### Lootpool
 
 -   [Fur Boots](Fur_Boots.md)
 -   [Fur Pauldrons](Fur_Pauldrons.md)
@@ -32,7 +30,7 @@ An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
 
 An NPC located at [Summer Isle](Summer_Isle.md), outside the Inn.
 
-### **Lootpool**
+### Lootpool
 
 -   [Alchemist's Hat](<Alchemist's_Hat.md>)
 -   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -47,7 +45,7 @@ An NPC located at [Summer Isle](Summer_Isle.md), outside the Inn.
 
 An NPC located at [Songseeker Wilds](Songseeker_Wilds.md).
 
-### **Lootpool**
+### Lootpool
 
 -   Capes
 -   [Crescent Cleaver](Crescent_Cleaver.md)
@@ -62,7 +60,7 @@ An NPC located at [Songseeker Wilds](Songseeker_Wilds.md).
 
 An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 
-### **Lootpool**
+### Lootpool
 
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
@@ -78,7 +76,7 @@ An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 
 An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
 
-### **Lootpool**
+### Lootpool
 
 -   [Legion Cestus](Legion_Cestus.md)
 -   [Knight's Helm](<Silver_Knight's_Helm.md>)

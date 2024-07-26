@@ -1,9 +1,9 @@
 ---
 title: Voidheart
-revid: 107938
+revid: 108135
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins, The Knives of Eylis]
+categories: [Locations, Eastern Luminant, Etrean Luminant, Origins, The Knives of Eylis]
 ---
 
 # Voidheart
@@ -56,7 +56,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 
 ## Maps
 
-A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspace)
+A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace)
 
 ## Trivia
 
