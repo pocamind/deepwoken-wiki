@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 108090
+revid: 108186
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -59,13 +59,9 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
 <tr>
   <td colspan="6">End</td>
 </tr>
-</tbody>
-</table>
-
-**Subsequent Encounter:**
-
-<table>
-<tbody>
+<tr>
+  <td colspan="12"></td>
+</tr>
 <tr>
   <td colspan="12">Begin</td>
 </tr>
@@ -73,10 +69,32 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
   <td colspan="12">You're back... But he's not with you.</td>
 </tr>
 <tr>
-  <td colspan="12">I haven't been able to find him.</td>
+  <td colspan="6">[Sword Found]</td>
+  <td colspan="6">[Sword Not Found]</td>
 </tr>
 <tr>
-  <td colspan="12">No? Please, keep looking for him... I have to remain here. Just in case he shows up.</td>
+  <td colspan="6">I found his sword at the bottom of a cliff.</td>
+  <td colspan="6">I haven't been able to find him.</td>
+</tr>
+<tr>
+  <td colspan="6">No... His sword..? Ilji and I... were eachother's closest rivals in the way of the sword. We both trained to best eachother constantly. If there's one thing Ilji would never allow himself to be separated from... It's this.</td>
+  <td colspan="6">No? Please, keep looking for him... I have to remain here. Just in case he shows up.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Thank you for at least bringing me some confirmation...</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

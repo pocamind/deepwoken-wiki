@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 108148
+revid: 108190
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -79,6 +79,8 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
   
 Echoes Checklist: [https://docs.google.com/document/d/1HTWQb7etQGvX7zZtmK8s3kPjE\_bChe3ocQDpBWSBtpw/edit?usp=sharing](https://docs.google.com/document/d/1HTWQb7etQGvX7zZtmK8s3kPjE_bChe3ocQDpBWSBtpw/edit?usp=sharing) (credit to simeon\_vbz)
+
+Alternative Echoes Checklist: [https://docs.google.com/spreadsheets/d/17Ow\_fvnc6J\_6crQrJcnROYI8Ie\_nyJ2Pkz\_FhKUBz5s/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/17Ow_fvnc6J_6crQrJcnROYI8Ie_nyJ2Pkz_FhKUBz5s/edit?gid=0#gid=0) (made by EtoSan @etosan)
 
 ## Guide For W and S Rank
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 107984
+revid: 108188
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Odd Tentacle description
 
-Mostly refered as "Squibbo".
+Mostly refered as "Mesese, Sese, Fesese, Kesese, Hesese, MSS".
 
 Template:Creature Infobox V3
 

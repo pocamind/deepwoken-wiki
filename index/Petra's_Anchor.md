@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 108166
+revid: 108191
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers, Weapons with Unique Criticals]
@@ -29,7 +29,7 @@ categories: [Weapons, Pages with broken file links, Greathammers, Weapons with U
 
 ## Description
 
-**Petra's Anchor** is an endgame Greathammer that can be obtained from the [Dread Serpent](Dread_Serpent.md) or merchant ships. This weapon has a base damage of 26 with a swing speed of 0.8x, and requires 75 HVY and 10 STR to equip.
+**Petra's Anchor** is an endgame Greathammer that can be obtained from the [Arda](Dread_Serpent.md) or merchant ships. This weapon has a base damage of 26 with a swing speed of 0.8x, and requires 75 HVY and 10 STR to equip.
 
 ## Critical
 
@@ -43,6 +43,7 @@ The critical causes the user to lunge forward at their enemies and knock them do
 -   At max HVY, the damage is (41.6)
 -   You're able to use mantras during the second part of your critical, which cancels it, it's pretty good for mix ups.
 -   The **Petra's Anchor** is a reference to [May](https://guiltygear.fandom.com/wiki/May) from _[Guilty Gear](https://en.wikipedia.org/wiki/Guilty_Gear)._
+-   Bonk
     
     File:Image 2024-01-21 191315044.png
     

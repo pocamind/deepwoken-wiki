@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 107999
+revid: 108181
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -156,6 +156,7 @@ It grants the user +30 knowledge on subsequent uses.
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
+-   5\* VoidWalker Chests
 
  |
 | 
