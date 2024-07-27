@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 106504
+revid: 108193
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1766,6 +1766,7 @@ Some players have access to customized, unique names.
 -   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
+-   The name Corvo is a reference to Corvo Attano, the protagonist of Dishonored.
 
 ## References
 

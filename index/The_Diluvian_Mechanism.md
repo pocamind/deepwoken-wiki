@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 107260
+revid: 108203
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1, InProgressPages]
@@ -77,9 +77,9 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   Brown Chests (15-50)
 -   Enchant stones[\[1\]](#cite-note-1) ( ??? - ??? )
 -   [Stormseye](Stormseye.md) (15+)
--   [Authority Commander](Authority_Commander.md) (30+)
--   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
--   Relic Chests (Wave 30 & 50)
+-   [Authority Commander](Authority_Commander.md) (25+)
+-   [Ignition Deepdelver](Ignition_Deepdelver.md) (25+)
+-   Relic Chests (Wave 25 & 50)
 -   Guaranteed 2 Star loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
 
