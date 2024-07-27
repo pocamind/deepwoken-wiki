@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 106912
+revid: 108379
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,6 +16,73 @@ The update highest on the webpage (the one right below the legend) is the most r
 [Regular](2026.md)**Uncollapsed**
 
   
+
+## **July 26th, 2024**
+
+**Content & Systems**  
+• New Secret  
+• New INT Mantra: Ether Barrage  
+• You can now have up to 32 Character Slots total  
+• Having the Maximum Power badge now grants you a free Character Slot. Simply return to the slot select screen in the main menu to redeem this free slot  
+• Having the A Rank badge now grants you a free Character Slot. Simply return to the slot select screen in the main menu to redeem this free slot  
+• Chime of Conflict is now an account-wide unlock and not something you have to reacquire on every character you make  
+• You can now complete the Elykris quest backwards by finding the Field Report first before talking to them  
+• Completing the Kelsius quest will now shorten it on subsequent characters  
+• One Handed Training is now innate, with HVY users able to one-hand their weapons at 40 HVY without needing to roll a talent for it. If you had One Handed Training, you'll be refunded a hand of talents  
+• Added 25 new Neutral names, 14 new Masculine names, and 10 new Feminine names  
+  
+**Balancing & Tweaks**  
+• Following popular demand, Chime Skulls have been removed. You can now die multiple times in Chime of Conflict without going to the Depths  
+• Buffed Diluvian loot tables to include much better relic rates  
+• Buffed Hell Mode loot tables to include much better relic rates  
+• Buffed Primadon loot tables to include better relic rates  
+• Revised Ferryman loot table. Drops more rare weapons and equipment and less relics  
+• Buffed Navae rep gain from the Summer Nomads vs. Ministry event  
+• Assassinating a player in combat now deals the correct amount of damage (25% of non-combat damage)  
+• Nocturne can now be dropped, sold, and banked  
+• Nocturne followup is no longer an option if your target dodges  
+• Dustlunge now lets you assassinate players while you're in combat  
+• Increased Soulthorn length (7.5 -> 8.5)  
+• Increased Shattered Katana speed (0.98x -> 1x)  
+• Increased Aggressive Posture slow  
+• Aggressive Posture now procs with a reduced effect when you parry an enemy  
+• Wind Gun now has hitstun  
+• Lightning Blade endlag removed on no spark variant  
+• Cryostasis damage reduction decreased (100% -> 75%)  
+• Reduced Ice Cubes damage scaling with upgrades  
+• Legion Centurion damage buff decreased (15% -> 10%)  
+• Legion Kata critical windup increased (0.38s -> 0.42s)  
+• Lightning Beam windup increased (0.3s -> 0.4s), Lightning Beam base damage increased (25 -> 30)  
+• Lighting Stream windup increased (0.25s -> 0.4s)  
+  
+**Bugfixes & Optimization**  
+• Fixed movestacking mantras with slow M1's, now correctly feints the M1 or queues up the mantra if you're on feint CD  
+• Fixed a bug where Soulthorn wouldn't apply M1 Damage after reaching full stacks  
+• Fixed being able to Vow Command the dead  
+• Fixed being able to use Call of the Deep while in Fragments of Self  
+• Fixed being able to use your Resonance in FF  
+• Fixed being able to throw potions and bombs in FF  
+  
+• Getting a Soulthorn stack now extends the stack duration by 10s  
+• Posture damage on Soulthorn 1st and 2nd crits increased  
+  
+2x chest weekend btw
+
+### _**Patch 1.8.7a**_
+
+• Fixed Diluvian wave 25 loot pool not being the correct loot pool
+
+### _**Patch 1.8.7b**_
+
+• Fixed Chainwarden mantras not showing up in your tools
+
+### _**Patch 1.8.7c**_
+
+**Chainwarden Patch**  
+• New Chainwarden Talent: Perpetual Wrath  
+• New Chainwarden Talent: Chainlash  
+• Chainwarden progression now requires less negative Authority rep on your targets  
+• Chainwarden can now be progressed through humanoid mobs that are major enemies of the Authority
 
 ## **July 19th, 2024**
 
@@ -79,6 +146,10 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Fists of Fortitude now requires 20 LHT  
 • Fixed Kyrswynter, Nagakiba followups on M1 not always proccing if not using input buffering  
 • 2x chests extended until the 22nd btw
+
+### _**Patch 1.8.6a**_
+
+• Fixed unequipping from the Tab menu glitching you into the Rest screen
 
 ## **July 12th, 2024**
 

@@ -1,8 +1,9 @@
 ---
 title: Raen
-revid: 105207
+revid: 108370
 source: https://deepwoken.fandom.com/wiki/Raen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, The Knives of Eylis]
 ---
 
 # Raen
@@ -14,7 +15,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-An Adret [voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker) in the [voidheart](Voidheart.md), gives lore and a few pointers to new voidwalkers on what to do for progression. Having taken up the job to support his family, especially his mother.
+An Adret [Voidwalker](Origins.md#voidwalker) in the [Voidheart](Voidheart.md), gives lore and a few pointers to new Voidwalkers on what to do for progression. Having taken up the job to support his family, especially his mother.
 
 ## Dialogue
 

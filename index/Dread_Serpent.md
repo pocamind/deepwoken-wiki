@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 106759
+revid: 108412
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -49,10 +49,10 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 
 ## Trivia
 
--   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, ~and it is not confirmed whether you need to do a certain amount of damage~ m1d it once with stiletto then let my friend kill it, i still got the murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
+-   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
 
 -   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
--   Anyone can get the Murmur as long as you did enough damage, it doesn't matter how many people hit him, everyone will get the Murmur.
+-   Anyone can get the Murmur as long as you did any damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It's implied that a Dread Serpent took out the Petra's Dawn as the Petra's Anchor is one of the drops.
@@ -64,4 +64,4 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.
 -   It would take roughly 300-400 cannonball shots to kill a dread serpent. At power 20 the amount is reduced to roughly 15-30 cannonball shots depending on PvE damage.
 -   This is the preferred boss to fight if you are trying to obtain the [Echo Talent: Chain of Perfection](Talent_Quests.md), as he can mostly be cheesed by staying behind his back. However, be careful because when the Dread Serpent comes out of the water it might hit you so be sure to dodge.
--   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, especially in [Dimensional Travel](Dimensional_Travel.md)
+-   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, especially in [Dimensional Travel](Dimensional_Travel.md).

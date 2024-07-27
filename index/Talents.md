@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108029
+revid: 108413
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -329,7 +329,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
     -   Prerequisite: Power 1
 
--   Pitcher \[Common Talent\] - You can throw things further.
+-   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility)
     -   Prerequisites: 5 Strength, 5 Agility, throw an object
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
 
@@ -732,7 +732,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
 
--   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. ( +6 Carry Load, +2 Passive Agility)
+-   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
     -   Deals true damage.
         -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers, essentially dealing another fresh hit for free.
     -   Can proc from some physical mantras

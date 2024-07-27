@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 108299
+revid: 108400
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -626,3 +626,4 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Rapid Slashes is Vergil's move from Devil May Cry series.
 -   Revenge has its sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
 -   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance Ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
+-   Ether Barrage might be a reference to a bug that happened, where a duplicate of Rapid Punches would be available to pick as an Intelligence Combat Mantra.

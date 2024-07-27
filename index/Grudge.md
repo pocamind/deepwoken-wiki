@@ -1,8 +1,9 @@
 ---
 title: Grudge
-revid: 107856
+revid: 108364
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Random Encounters, NPCs]
 ---
 
 # Grudge

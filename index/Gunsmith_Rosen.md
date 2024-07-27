@@ -1,8 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 106315
+revid: 108365
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Lore]
 ---
 
 # Gunsmith Rosen

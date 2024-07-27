@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 106419
+revid: 108393
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -67,3 +67,4 @@ The Central Authority is among the factions to have a Bounty Board.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
 -   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply speculation.
 -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.
+-   The [Chainwarden](Oath%253A_Chainwarden.md) oath is granted by this faction.

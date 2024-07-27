@@ -1,8 +1,9 @@
 ---
 title: Deepscorn Casque
-revid: 107692
+revid: 108359
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Head, Helmets]
 ---
 
 # Deepscorn Casque

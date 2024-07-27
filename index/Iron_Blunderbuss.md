@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 107737
+revid: 108406
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -26,7 +26,7 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Summit, Duke Erisia, First Layer, Second Layer, Chaser, Diluvian Mechanism, Island events |
+| obtainment | Chests from:, Saramaed Summit, Duke Erisia, First Layer, Second Layer, Chaser, Diluvian Mechanism, Sea events |
 | description | Rustic and shabby in design, this application of Rosen's gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer Company's earliest gunsmithing experiments. |
 
 ## Description

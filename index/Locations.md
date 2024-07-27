@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 108072
+revid: 108422
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Deepwoken]
@@ -172,6 +172,7 @@ Please add miscellaneous islands or named landmarks here
 
 -   [Beloved Zofia](Beloved_Zofia.md)
 -   [Boatman's Watch](<Boatman's_Watch.md>)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidheart](Voidheart.md)
     -   [Dusklit Garden](Dusklit_Garden.md)
         
@@ -229,3 +230,4 @@ Please add miscellaneous islands or named landmarks here
 -   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](Books.md#stars-above-and-the-blade-between)
 
 -   At one point you didn't need to teleport/load into the Aratel sea and could just sail to it just like any other island.
+    -   This was prior to Verse 2, in which separation of the Luminants to Etrean and Eastern didn't exist.

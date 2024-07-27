@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 107275
+revid: 108418
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -115,7 +115,6 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resistance.
 -   if you spawn in to the trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with Talents/mantra choosing early on.
 -   If one angel dies the other despawns, allowing you to instantly win the angel trial. This can be done by burning a knocked angel.
--   Using frostdraw and flamecharm for wardens blade and flame repulsion will get you extra damage and can burn the angels. By using wardens blades then critical when the npc spawns will do alot of damage and help
 
 ## Trivia
 

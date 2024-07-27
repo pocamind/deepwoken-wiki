@@ -1,9 +1,9 @@
 ---
 title: "Etris: Siege"
-revid: 108059
+revid: 108363
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Random Encounters, Etrea, The Central Authority, Etrean Luminant]
 ---
 
 # Etris: Siege
