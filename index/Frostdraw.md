@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 107236
+revid: 108256
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1107,6 +1107,7 @@ Your Chill can proc through block, with blocked Chilling proc lasting 80% of the
 -   crystal and chilling enchant can be a good way to keep Saint jay active as every crystal you apply adds 2 second of saint jay and the enchant has no limit with how many crystals it can apply.
 -   Bottom freeze has a global cooldown so only pick one source to proc bottom freeze (Example: If you have iceberg, it will put all the other methods like the Talent bottom freeze or chilling enchant on cooldown so don't pick anything else if you using iceberg.)
 -   Crystals dmg scales by your frost investment, 1 point of dmg every 10 frost. You are doing 8 dmg per crystal at 80 frost.
+-   Nullifying clarity does not reduce chilled duration.
 
 ## References
 

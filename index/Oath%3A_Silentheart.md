@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 107839
+revid: 108277
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 12 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
+**[Oath](Oaths.md): Silentheart** is one of the 13 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
 
 ## Obtainment
 
@@ -80,7 +80,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
         -   Can be used while sliding down slopes at no cost to your speed.
         -   5 seconds cooldown.
 
--   **Mani Katti - Passive**
+-   **Mani Katti - Active**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   Is activated by using Ctrl + M2.
         -   Does not consume Dread stacks to use.

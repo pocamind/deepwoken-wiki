@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 107279
+revid: 108257
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -239,6 +239,7 @@ Bandits raiding a Guild Base.
     -   You simply need to reach the back of the Guild Base, being 4 rooms deep.
 -   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etrean Luminant, every carriable items inside the guild base will despawn unless there is another guildmate in the lobby still having the guild base active.
 -   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
+    -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.

@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 107976
+revid: 108327
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-bas
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Ministry Cache Agent |
+| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Ministry Cache Agent, The Ferryman |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
@@ -33,11 +33,11 @@ File:Ministry Chest crypt blade drop.png
 
 Proof that you can get a crypt blade of the ministry event
 
-The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. Sniff test Sniff test
+The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow.
 
 The Crypt Blade comes with 2 passive abilities:
 
--   **Last Dead's Boon** - M1 attacks now steal ether. DASAB ASAN DASNNSAND JOHNO JOHN GOOODOOGO BGSAGA
+-   **Last Dead's Boon** - M1 attacks now steal ether.
 
 -   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
 -   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to blazing enchant.

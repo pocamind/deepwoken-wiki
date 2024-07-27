@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 107234
+revid: 108299
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -286,6 +286,24 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
     -   **Deflects** an attack back to the attacker.
     -   Can be upgraded with Intelligence Talent Cards 'All Knowing,' 'Successive Prediction' and 'Twelve Steps Ahead.'
     -   Upgrading this Mantra extends the 'prediction' frames (iframes).
+
+ |
+| 
+
+File:Ether barrage3.gif
+
+ether barrage gif
+
+ | Ether Barrage
+
+(☆☆☆)
+
+ | _Conjure concentrated orbs of Ether to launch at your enemy._ | 
+
+-   **Requirements: UNSURE NEEDS TESTING** Combat _Mantra_
+-   User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact.
+-   Can be used from any height, and you will float.
+-   Does not negate fall damage, tested.
 
  |
 

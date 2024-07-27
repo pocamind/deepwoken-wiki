@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 98265
+revid: 108322
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,7 +17,6 @@ The difference between all seasons is the visuals and interactions to Items that
 -   If one year passes (4 real life days), your character will get one year older, unless it gets wiped.
     -   The year will also change, for example 1273 to 1274.
 -   All races will gain wrinkles and various other changes as they [age](Age.md).
--   Every time a season passes your arena skulls in [Chime of Conflict](Chime_of_Conflict.md) get restored. If you get on your last skull, all you have to do is wait for the next season and you'll get your skulls back.
 
 ## Seasons
 

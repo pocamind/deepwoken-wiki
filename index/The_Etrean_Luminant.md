@@ -1,9 +1,9 @@
 ---
 title: The Etrean Luminant
-revid: 20486
+revid: 108220
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Luminant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Map]
+categories: [Locations, Map]
 ---
 
 # The Etrean Luminant
@@ -11,5 +11,3 @@ categories: [Locations, World, Map]
 Redirect to:
 
 -   [Locations](Locations%253Fredirect=no.md)
-
-Placeholder (currently redirects)

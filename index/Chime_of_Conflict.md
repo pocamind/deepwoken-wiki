@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 107313
+revid: 108329
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -37,19 +37,6 @@ Afterwards, players will be waiting in the queue and be put in a match with thei
 -   **Elimination** **\-** Dying removes the player from the round.(3v3 and 2v2 only)
 -   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (approximately 4 minutes) the entire arena will be covered in the "circle of death" meaning you take constant damage.
 -   **Resonance limitation -** Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.(limit removed in 2v2 and 3v3)
-
-## Skulls
-
-The skulls in question
-
-Being set in an alternative reality, deaths in the arena are less impactful on the soul.
-
--   Players are granted lives in the form of Skulls. They can hold 3 skulls at once.
--   Dying shatters 1 skull. If the player has 3 or 2 skulls when this happens, they are not penalized.
-    -   Shattering the last skull will make the player drop items and send them to [The Depths](The_Depths.md).
--   You can see how many skulls you have by using The Chime Of Conflict but not choosing a game mode. The skull count will appear at the little UI in the middle of your screen.
--   Players recover one skull in case of a victory. They also recover all their skulls every season change (every real life day, at midnight GMT+0)
-    -   If they were sent to The Depths by the PvP Arena, they are granted 1 skull which they can use after escaping.
     
 
 ## Rewards
@@ -57,7 +44,6 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 -   [EXP](Attributes.md)
 -   One chest (1v1) or three chests (2v2, 3v3).
     -   Chest rewards may get better as you accumulate a win streak, or when you fight a high-level player. (A player has noticed better rewards such as 3-star weapons after a 6+ win streak; anecdotal evidence and needs testing. Another player has attained a high-level weapon after victory against a high-level opponent. It was also said that enchants appear more commonly than normal means. (?))
--   An extra Skull if the player does not have 3 skulls.
 -   Bell progression (heavily increased by the players current path) (around 25 wins for 1 stage of progression.)
 
 ## Rankings

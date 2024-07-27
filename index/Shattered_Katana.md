@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 107289
+revid: 108228
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
 | damage | 20 |
 | scaling | 7 |
 | range | 8 |
-| swing speed | 0.98x |
+| swing speed | 1x |
 | penetration | 30% |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
