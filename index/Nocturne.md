@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 108022
+revid: 108337
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -43,7 +43,7 @@ Can be cancelled by damage in wind-up.
 -   Nocturne is enchantable.
 -   When enchanted, only one blade will appear with the effect. This is a visual bug and does not change how the weapon or enchant performs in battle.
 -   Nocturne can be used with a side weapon (Although this is most likely a bug).
--   Nocturne can't be banked or dropped.
+-   Nocturne can't be banked or dropped. (As of the 27/07/24 weekly update you can now bank, sell and drop the Nocturne)
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 -   Nocturne can be banked if enchanted.
 -   is probably a reference to **Crystal Atelier** from [Library Of Ruina](https://library-of-ruina.fandom.com/wiki/Library_Of_Ruina_Wiki).

@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 107339
+revid: 108338
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -35,22 +35,43 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hold no quarter...</td>
+  <td colspan="6">[Requirements Met]</td>
+  <td colspan="6">[Requirements Unmet]</td>
 </tr>
 <tr>
-  <td colspan="12">Huh?</td>
+  <td colspan="6">Hold no quart'uh... S'what I told 'em... *<i>The vagabond takes a swig from his bottle and wipes his mouth with the back of his hand.</i>*</td>
+  <td colspan="6">No... Yuh jus' won't do... *<i>hic</i>*</td>
 </tr>
 <tr>
-  <td colspan="12">You a fighter?</td>
+  <td colspan="6">Huh?</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="12">PLACEHOLDER</td>
+  <td colspan="6">You a fighter?</td>
 </tr>
 <tr>
-  <td colspan="12">PLACEHOLDER</td>
+  <td colspan="3">Yeah.</td>
+  <td colspan="3">Nope.</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
+  <td colspan="3">Heh!... Knew you were, I did... Got an intuition I do... For these kinds of things...</td>
+  <td colspan="3">What're y'wasting me time for then?... *<i>hic</i>* Got things to be doin', I do...</td>
+</tr>
+<tr>
+  <td colspan="3">Uh huh...</td>
+  <td colspan="3">End</td>
+</tr>
+<tr>
+  <td colspan="3">*<i>The man sways on his feet, seeming to almost fall over onto you. You feel something being pressed into your hand before you can react. Opening it, you see a small brass chime.</i>*</td>
+</tr>
+<tr>
+  <td colspan="3">What is this?</td>
+</tr>
+<tr>
+  <td colspan="3">Y'can find others like yerself... Ones lookin' for glory... The chime attunes yuh... *<i>hic</i>*</td>
+</tr>
+<tr>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
