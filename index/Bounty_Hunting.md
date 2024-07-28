@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 108335
+revid: 108504
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -32,7 +32,7 @@ Examples:
 -   Aesop Truad - Pathfinder ★★
 -   River Hasteshi - Blindseer ★★★
 -   Mae Vendet - Linkstrider ★★★★
--   Teft Disii - Dawnwalker ★★★★★
+-   Dawn Zeneki - Dawnwalker ★★★★★
 
 ## Tips and Advice
 

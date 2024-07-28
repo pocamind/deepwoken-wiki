@@ -1,11 +1,9 @@
 ---
 title: Status Effects
-revid: 107302
+revid: 108501
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Mechanics]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Mechanics]
 ---
 
 # Status Effects
@@ -26,7 +24,7 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow/lime green particles surrounding the body.
+Applied after being hit by the Mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Lord's Tithe
 
@@ -50,7 +48,7 @@ Gain a speed boost, and an unstoppable urge to run. You're unable to stop runnin
 
 ### Rallied
 
-All posture damage given to you will instead be sent to the person who used [Rally.](Attunement-less.md) Signified by your character emitting white circles.
+All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md). Signified by your character emitting white circles.
 
 ### Cool Head
 
@@ -58,19 +56,19 @@ For the duration, you are unable to be lit on fire.
 
 ### Engulfed by Lightning
 
-Applied by the mantra [Lightning Cloak.](Thundercall.md) Have your swing speed and movement speed increased while active.
+Applied by the Mantra [Lightning Cloak.](Thundercall.md) Have your swing speed and movement speed increased while active.
 
 ### Adrenaline Surge
 
-Have your movement and parkour speed increased by 15%. Applied by the [Adrenaline Surge](Attunement-less.md) mantra. Signified by a white circle in your chest.
+Have your movement and parkour speed increased by 15%. Applied by the [Adrenaline Surge](Attunement-less.md) Mantra. Signified by a white circle in your chest.
 
 ### Gone Berserk
 
-Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](https://deepwoken.fandom.com/wiki/Talents?so=search#Miscellaneous).
+Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](Talents.md#miscellaneous).
 
 ### Overcharm
 
-Apply charm per every m1, and mantra used, even without having the Charismatic Cast Talent. Also amplifies the speed for an execute. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) Talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) Talent. (Can also be applied to self with the narcissist Talent)
+Apply charm per every m1, and Mantra used, even without having the Charismatic Cast Talent. Also amplifies the speed for an execute. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) Talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) Talent. (Can also be applied to self with the narcissist Talent)
 
 ### Mark of Jurik
 
@@ -90,7 +88,7 @@ These status effects won't kill you, but they can give you a debuff or drain you
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon that applies bleed, a weapon that applies bleed, or mantras that apply bleed (ironsing and revenge). Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
+This effect can be applied by being hit by a weapon that applies bleed, a weapon that applies bleed, or Mantras that apply bleed (ironsing and revenge). Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
 
 ### Burning
 
@@ -98,38 +96,38 @@ This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) 
 
 ### Winded
 
-This effect can be applied by being hit with Galebreathe mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green spirals on your character.
+This effect can be applied by being hit with Galebreathe Mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green spirals on your character.
 
 ### Suffocated
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chilled
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cerobeam. Signified by blue spirals on your character.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s bubbles, or from a [Glacial Lionfish](Glacial_Lionfish.md)'s Chilling Cero. Signified by cyan smoke on your character.
 
 ### Crystal
 
-Have a crystal stacked on you. When you reach 5 crystals, they will detonate, damaging you heavily. Applied by being hit by most mantras from a Frostdrawer using Glass Path: Crystalization. Signified by having a crystal stacked on you.
+Have a crystal stacked on you. When you reach 5 crystals, they will detonate, damaging you heavily. Applied by being hit by most Mantras from a Frostdrawer using Glass Path: Crystalization. Signified by having a crystal stacked on you.
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents and mantras. Signified by being encased in a block of ice.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents and Mantras. Signified by being encased in a block of ice.
 
 ### Shocked
 
-Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarily through [Thundercall](Thundercall.md) mantras. Signified by lightning particles on your character.
+Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
 ### Overloaded
 
-Inflicted by Thundercall Surge Path mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
+Inflicted by Thundercall Surge Path Mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
 
 ### Metal Rods
 
-Inflicted by being hit by [Ironsing](https://deepwoken.fandom.com/wiki/Ironsing) mantras. Effect varies depending on which path the Ironsinger uses:
+Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies depending on which path the Ironsinger uses:
 
--   Normally: Allows you to be pulled in towards them when they press X
--   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing mantra
+-   Normally: Allows you to be pulled in towards them when they press X.
+-   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing Mantra.
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
 -   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have.) Signified by big metal rods in your body.
 
@@ -139,19 +137,23 @@ This can be applied by being hit by the Deep Widow's venomous bite. While poison
 
 ### Electrified
 
-Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
+Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) Mantra with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
 
 ### Sapped
 
-This can be applied by being flourished by someone using Thunder Wisp. While Sapped, your mantra cool downs are increased, you will also be shocked when Sapping ends.
+This can be applied by being flourished by someone using Thunder Wisp. While Sapped, your Mantra cool downs are increased, you will also be shocked when Sapping ends.
 
 ### Dazed
 
-Have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt mantras (ex. [Rising Shadow](Shadowcast.md)).
+Have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt Mantras (ex. [Rising Shadow](Shadowcast.md)).
 
-### Heresy
+### Anti-Heal
 
-Completely disallows healing from **any** source while active. This effect can be applied through being hit by an M1 by someone that has the Talent All the Dead Gods (signified by a purple aura around you) or by being hit by a Mudskipper broodlord.
+Completely disallows healing from **any** source while active. This effect can be applied through being hit by an M1 by someone that has the Talent All the Dead Gods. Signified by purple smoke on your character.
+
+### Broodlord Rot
+
+Completely disallows healing from **any** source while active. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is halved in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Hell Mode](Hell_Mode.md). Signified by purple smoke on your character.
 
 ### Charmed
 
@@ -163,11 +165,11 @@ Takes a certain amount to all of the ether that you possess. if the user used th
 
 ### Bottom Freeze
 
-Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchant.](Enchantments.md) Signified by the legs of your character being frozen in ice.
+Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchantment](Enchantments.md). Signified by the legs of your character being frozen in ice.
 
 ### Silenced
 
-This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of mantras for its duration. Signified by a spinning circle matching the color of the silentheart markings of your attacker, around your character.
+This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of Mantras for its duration. Signified by a spinning circle matching the color of the silentheart markings of your attacker, around your character.
 
 ### Harrowing
 
@@ -183,7 +185,7 @@ Become marked for an auto aim katana critical. Signified by a pink-reddish eye o
 
 ### Angry
 
-Applied through being hit by the mantra [Taunt](Attunement-less.md). Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
+Applied through being hit by the Mantra [Taunt](Attunement-less.md). Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 
 ### Fear
 
@@ -195,7 +197,7 @@ Can be applied by being hit by a critical attack if the user has Bear Trap. Beco
 
 ### Obscured
 
-Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) mantra with the Talent Sightless Still.
+Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) Mantra with the Talent Sightless Still.
 
 ### Cauterized
 

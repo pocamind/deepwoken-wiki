@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 108326
+revid: 108503
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -309,6 +309,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   There is an extremely rare chance that you will not get anything in a chest. This is not a bug, because all of The Ferryman's drops are NOT guaranteed to get, this can be seen by opening a chest and immediately the UI to grab any loot closes up, the chest will remain but can not be interacted with.
 -   If you take too long to initiate the fight with The Ferryman, he will leave after a certain amount of time, and leave you with nothing but a portal to leave. (may be a bug)
 -   Grand Feast procs on his clones in the first phase.
+-   He is considered a significant enemy of the Authority by Chainwarden progression, possibly due to his connections with The Depths.
 
 ## Bugs
 
