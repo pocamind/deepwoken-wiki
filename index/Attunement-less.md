@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 108442
+revid: 108475
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -302,6 +302,7 @@ ether barrage gif
 
 -   **Requirements: _30 Intelligence,_** Combat _Mantra_
 -   User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact.
+-   Explosions will damage and ragdoll the user as well.
 -   Can be used from any height, and you will float.
 -   Does not negate fall damage, tested.
 

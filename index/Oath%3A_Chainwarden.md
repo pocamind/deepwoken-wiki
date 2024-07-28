@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108447
+revid: 108471
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -23,15 +23,21 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md), with at least friend reputation (About 2 Notches) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
+1.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
+2.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
 
 ## Progression
 
-After obtaining the oath, you progress it by either gripping players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained will progress the oath, giving you Rupture, or through humanoid mobs that are major enemies of the Authority. Or Ferryman, for some reason.
+After obtaining the Oath, you progress it by either gripping players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained, or through defeating humanoid mobs that are major enemies of the Authority.
+
+Known humanoids are:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [The Ferryman](The_Ferryman.md)
 
 ## Effects
 
-This oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. Both the chains and gauntlet are able to be dyed, and the gauntlet overrides any cestus on the left arm.
+This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. While the chains are able to be dyed, the gauntlet is not. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm. This strangely also applies to the [Anklets of Alsin](Anklets_of_Alsin.md), only having the right leg use the Anklet despite the gauntlet not being attached to the leg.
 
 ## Abilities
 

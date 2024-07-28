@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 107682
+revid: 108461
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Lost Celtor]
@@ -8,7 +8,8 @@ categories: [Items, Outfits, Lost Celtor]
 
 # Celtorian Tideknight
 
-_Not to be confused with the NPC in the [Deluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_ **Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_. Template:ArmorInfobox
+_Not to be confused with the NPC in the [Deluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_  
+**Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_. Template:ArmorInfobox
 
 ### _Requirements_
 
@@ -20,7 +21,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 This Outfit has 2800 durability and grants +30% Physical resistance, +25% Elemental resistance, +5% Blunt resistance, +10% Shadow resistance, +16 Sanity and +20% Ether Regen.
 
-Talent: Tidekeeper - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds (1 Minute CD)
+Talent: **Tidekeeper** - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds (1 Minute CD) **VISCOCITY WILL CAUSE THIS TALENT TO NOT PROC.**
 
 ## Location
 
