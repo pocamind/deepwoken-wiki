@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108471
+revid: 108481
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -28,7 +28,11 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Progression
 
-After obtaining the Oath, you progress it by either gripping players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained, or through defeating humanoid mobs that are major enemies of the Authority.
+To progress oath you need to:
+
+**•** Grip players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained
+
+**•** Defeating humanoid mobs that are major enemies of the Authority.
 
 Known humanoids are:
 
@@ -58,9 +62,6 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 
 -   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the talents it was missing.
--   Reminiscent of Type://Soul's 'Warden' weapon for Quincy Hakuda.
-
-  
 
 ## References
 
