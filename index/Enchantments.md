@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 107887
+revid: 108437
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -441,7 +441,7 @@ Ferocity
 
  | 
 
-On proc, gain a speed boost and damage reduction based on how much tempo you have. Does not proc on mobs.  
+On proc, gain a speed boost and damage reduction based on how much tempo you have.  
 
  | 
 
@@ -456,8 +456,6 @@ Multiplicity
  | 
 
 On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of (X) seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
-
-Does not proc against NPCs.
 
  | 
 

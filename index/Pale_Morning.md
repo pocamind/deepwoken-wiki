@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 101905
+revid: 108459
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers]
@@ -29,7 +29,7 @@ categories: [Pages with broken file links, Weapons, Greathammers]
 
 ## Description
 
-The Pale Morning is a midgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (Very Rare), [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives. The description mentions a [Canor](Canor.md) warlord whose name is currently unknown.
+The Pale Morning is a midgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (Very Rare), Merchant Ships (Extremely Rare) [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives. The description mentions a [Canor](Canor.md) warlord whose name is currently unknown.
 
 ## Enchantments
 
@@ -43,3 +43,5 @@ File:Providence's Thorns Pale Morning.png
 
 -   Meeting the requirement of HVY, the damage is (36.2)
 -   At max HVY, the damage is (40.2)
+    
+    Pale Morning found in a merchant ship

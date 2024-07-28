@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 107900
+revid: 108445
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -71,7 +71,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
 -   All **Medium Weapons** except for Rifles, [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining the [Talent](Talents.md) "**One Handed Training"** (40 HVY), which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
+-   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through hitting 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
 
@@ -1867,7 +1867,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.73x</td>
   <td>N/A</td>
-  <td>43.6</td>
+  <td>50.4</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Steel_Maul#Alloyed"><font>Alloyed Steel Maul</font></a></td>

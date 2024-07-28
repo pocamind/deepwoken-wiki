@@ -1,9 +1,9 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108429
+revid: 108447
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths, The Central Authority, Pages with broken file links]
+categories: [Pages with broken file links, Oaths, The Central Authority]
 ---
 
 # Oath: Chainwarden
@@ -19,16 +19,15 @@ categories: [Oaths, The Central Authority, Pages with broken file links]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 13 obtainable Oaths in _Deepwoken._
+**[Oath](Oaths.md): Chainwarden** is one of the 13 obtainable Oaths in _Deepwoken. This Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that increases in damage for each successful hit and can fling opponents. Being on the other end of those chains, people will soon realize that escape is futile while fighting this Oath._
 
 ## Obtainment
 
-1.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md), with at least friend reputation (About 2 Notches) or higher, and retrieve a hostage below an abandoned building at Summer Isle. Note: likely more than just friend, potential stat req too
-2.  The oath is progressed via killing players with [Villain Authority reputation](Reputation.md) while they are chained from Restrain.
+1.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md), with at least friend reputation (About 2 Notches) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
 
 ## Progression
 
-After obtaining the oath, you progress it by either gripping players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained will progress the oath, giving you Rupture, or through humanoid mobs that are major enemies of the Authority.
+After obtaining the oath, you progress it by either gripping players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained will progress the oath, giving you Rupture, or through humanoid mobs that are major enemies of the Authority. Or Ferryman, for some reason.
 
 ## Effects
 
@@ -51,12 +50,13 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 
 ## Trivia
 
--   ~By far the smallest (non-oathless) oath, as it only consists of two moves and no talents, of which it's creator melonbeard considers to be a finished oath.~[\[1\]](#cite-note-1) The oath was patched with new talents.
+-   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
+    -   This was confirmed to be an error when a shadow-patch gave Chainwarden the talents it was missing.
 -   Reminiscent of Type://Soul's 'Warden' weapon for Quincy Hakuda.
 
   
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1)
     

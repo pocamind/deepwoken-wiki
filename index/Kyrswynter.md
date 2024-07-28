@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 108199
+revid: 108446
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -65,7 +65,7 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 -   Despite the undodgeable icon similar to Light's Final Toll's final critical, the Kyrswynter's running critical can be dodged.
     -   Also, the Eye Indicator used to be an Ice Blue, but was then changed to the default Red Indicator to show that it is unparryable.
 -   This is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md).
--   This is the first elemental legendary weapon to have innate bleed on hit.
+-   This is the second elemental legendary weapon to have innate bleed on hit.
 -   This is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
     -   This is also the first legendary spear that scales off an attunement.
 
