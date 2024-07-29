@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 102689
+revid: 108585
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -38,7 +38,8 @@ In order to reroll your bell icon with the barber you must pay 1 knowledge
 7.  Change my variant. (Changes racial variant.)
 8.  Change my skin tone. (Changes skin tone.)
 9.  Change my name. \[100 Notes\] (Changes name for 100 [Notes](Notes.md))
-10.  How are you able to do all of this stuff?
+10.  Could you alter the shape of my Resonance? \[1 Knowledge\] (You can change and pick the shape of your resonance for 1 [Knowledge](Knowledge.md))
+11.  How are you able to do all of this stuff?
 
 1 - "All Done! It looks great!" / "Uhh... You gonna ask for anything?" (Canceling/not putting hair ID)
 

@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 102152
+revid: 108578
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -10,7 +10,6 @@ categories: [Random Encounters, NPCs]
 
 | The Meat Lord | |
 |---|---|
-| name | The Meat Lord |
 
 “ Very well, you may rise. ”
 
@@ -31,22 +30,21 @@ categories: [Random Encounters, NPCs]
 -   Cooked Fish
 -   Megurger - Boosts your Weapon Damage.
 
-## Known Spawn Locations
+## Locations
 
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Upper Erisia](Upper_Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [Towerstruck Lands](Towerstruck_Lands.md)
--   [Viper's Jaw](<The_Viper's_Jaw.md>)
--   [The Hidden Village](The_Hidden_Village.md)
--   [Towerstruck Lands](Towerstruck_Lands.md)
--   Temple Of The Forgotten Flame
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+-   [The Hidden Village](The_Hidden_Village.md)
 -   [Meteor Isle](Meteor_Isle.md)
+-   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Summer Isle](Summer_Isle.md)
+-   Temple Of The Forgotten Flame
+-   [Towerstruck Lands](Towerstruck_Lands.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [Viper's Jaw](<The_Viper's_Jaw.md>)
 
-_**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
+  
 
 ## Trivia
 
@@ -64,22 +62,7 @@ _**(Work in progress, add more locations if you know any and remove this text wh
     -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain."
     -   "Dress up as a salad and maybe then you'll get a reaction from me."
         -   Before November 3rd, 2022, The Meat Lord would've been spooked like any other ordinary static NPC.
--   In books, it is mentioned that The Meat Lord is related to Dr. Giggletouch.
-
-## Gallery
-
-The Meat Lord at Starswept Valleys
-
-Meatlord at pathfinders respite
-
-  
-
-  
 
 ## References
 
-  
-
 1.  [↑](#cite-ref-1)
-    
-    Ragoozer's message.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108561
+revid: 108587
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 | Oath: Chainwarden | |
 |---|---|
 | oath_req | Friend Reputation with The Central Authority15 Fortitude OR 15 Strength |
-| effects | +2 Combat Mantra |
+| effects | +2 Combat Mantra slots |
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
 
@@ -19,21 +19,21 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 13 obtainable Oaths in _Deepwoken. This Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that increases in damage for each successful hit and can fling opponents. Being on the other end of those chains, people will soon realize that escape is futile while fighting this Oath._
+**[Oath](Oaths.md): Chainwarden** is one of the 13 obtainable Oaths in _Deepwoken_. This Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that increases in damage for each successful hit and can fling opponents. Being on the other end of those chains, people will soon realize that escape is futile.
 
 ## Obtainment
 
 1.  15 Fortitude or 15 strength.
-2.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
 3.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
 
 ## Progression
 
-To progress oath you need to:
+There are two different methods of progressing the Oath:
 
-**•** Grip players who have hunted or below [Authority](The_Central_Authority.md) reputation whilst having them chained
+-   Gripping players who have Hunted or below reputation with [The Central Authority](The_Central_Authority.md) whilst having them chained.
 
-**•** Defeating humanoid mobs that are major enemies of the Authority.
+-   Defeating humanoid mobs that are major enemies of the Authority.
 
 Known humanoids are:
 

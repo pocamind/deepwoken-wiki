@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 108337
+revid: 108575
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -53,6 +53,8 @@ Can be cancelled by damage in wind-up.
 ## Gallery
 
 ### Enchantments
+
+Astral
 
 File:Nocturne Full Stance.png
 
