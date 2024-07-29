@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108505
+revid: 108591
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1549,7 +1549,7 @@ _**"I seek the qualities of Lichtenberg."**_
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Each rods will steal 20 armor durability.
     -   Prerequisite: 50 Ironsing
--   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
+-   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer

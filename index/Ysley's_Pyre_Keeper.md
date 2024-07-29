@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 107846
+revid: 108592
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -41,7 +41,7 @@ The Pyre Keeper comes with the following passives:
   
 As suggested by its item description, this blade was used by Ysley after it was crafted by a Greatlord of the Hive using the Flames of Life. The lore implications of this distinctive appearance may be written off by some, as its appearance may change color depending on the Azure Flame/Twisted Puppets path chosen by its user, though it is important to remember that its appearance could not be altered upon release.
 
-## Critical
+## Animations
 
 Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding.
 
