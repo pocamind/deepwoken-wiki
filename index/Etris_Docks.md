@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 108056
+revid: 108531
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -18,7 +18,7 @@ There are those who think of ports as a gateway between two worlds; that of the 
 
 File:Etris docks srping.jpg
 
-**Etris Docks** is a location in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in the [Etrean Sea](The_Etrean_Sea.md).
+**Etris Docks** is a location in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
 
@@ -54,7 +54,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ## Maps
 
-A map can be found at [Maps#Surface](Maps.md#surface)
+A map can be found at [Maps#Surface](Maps.md#surface).
 
 ## Trivia
 

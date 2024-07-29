@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108481
+revid: 108561
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 | Oath: Chainwarden | |
 |---|---|
-| oath_req | Friend Reputation with The Central Authority |
+| oath_req | Friend Reputation with The Central Authority15 Fortitude OR 15 Strength |
 | effects | +2 Combat Mantra |
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
@@ -23,8 +23,9 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
-2.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
+1.  15 Fortitude or 15 strength.
+2.  Speak to [Vice Warden Morreth](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
+3.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
 
 ## Progression
 
@@ -38,6 +39,7 @@ Known humanoids are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
 ## Effects
 

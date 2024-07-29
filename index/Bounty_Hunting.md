@@ -1,9 +1,9 @@
 ---
 title: Bounty Hunting
-revid: 108504
+revid: 108560
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Luck, Mechanics]
+categories: [Mechanics]
 ---
 
 # Bounty Hunting
@@ -16,15 +16,17 @@ A Bounty Board located in Etris.
 
 ## Description
 
--   Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction; once they are dead the hunter gets a chest full of loot and EXP. You can choose which player to hunt on Bounty Board. It will tell their name, race, and oath. If the player has no oath, it will appear as "Pathfinder".
--   Stars correspond to how high the power of a player is, with higher stars corresponding to higher power.
--   Below level 6 is 1 star, below level 11 is two stars, below level 15 is three stars, 16-19 is four stars and 20 is five stars. (Please test this to confirm)
--   When you take a bounty, at the top left corner of your screen it will say the name of the person you're hunting and where they are located. The location will be refreshed every 2 minutes.
+Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction; once they are dead the hunter gets a chest full of loot and EXP. You can choose which player to hunt on a Bounty Board via a poster. The poster will show their name, Race, and Oath. If the player has no Oath, it will read "Pathfinder."
+
+Stars correspond to how high the Power of a player is, with higher stars corresponding to higher Power: below Power 6 is 1 Star, below Power 11 is two Stars, below Power 15 is three Stars, 16-19 is four Stars and 20 is five Stars.
+
+When a bounty is taken, at the top left corner of your screen it will say the name of the person you're hunting and where they are located. The location will be refreshed every two minutes.
 
 The details of the Bounty.
 
--   When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot (depending on how many stars the person you hunted has), and some exp. The person who got killed will have their reputation pushed toward their default value (usually neutrality).
--   If you are being hunted instead and manage to kill off your hunter, YOU will get a chest filled with loot.
+When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot depending on how many stars the person you hunted has, as well as some exp. The person who got killed will have their reputation pushed towards their default value, usually neutrality.
+
+If you are being hunted instead and manage to kill off your hunter, YOU will get a chest filled with loot.
 
 Examples:
 

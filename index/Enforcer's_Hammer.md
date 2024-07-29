@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Hammer"
-revid: 107184
+revid: 108553
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weapons with Unique Criticals]
+categories: [Pages with broken file links, Weapons, Greathammers, Weapons with Unique Criticals]
 ---
 
 # Enforcer's Hammer
@@ -39,6 +39,60 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from th
 ## Critical
 
 After a short windup, the user spins the Enforcer's Hammer in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical also instantly guardbreaks. Moreover, this critical is also shared with [Enforcer's Axe](<Enforcer's_Axe.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>)., meaning that it deals slash damage instead of blunt damage. This critical does around half the damage of a basic attack per hit.
+
+### Enchantments
+
+**Astral:**
+
+File:Astral Hammer.png
+
+**Blazing:**
+
+**Chilling:**
+
+**Deferred:**
+
+**Elastic:**
+
+**Gluttony:**
+
+**Grim:**
+
+**Heroism:**
+
+**Metal:**
+
+**Nemesis:**
+
+**Obfuscation:**
+
+**Providence's Thorns:**
+
+**Sear:**
+
+**Solar:**
+
+**Stone:**
+
+**Storm:**
+
+**Stormbreaker:**
+
+**Tears of the Edenkite:**
+
+**Umbral Knight:**
+
+**Vampirism:**
+
+**Wild:**
+
+**Curse of the Bloodthirsty:**
+
+**Curse of No Life King:**
+
+**Curse of the Unbidden:**
+
+**Curse of Yun'Shul:**
 
 ## Notes & Trivia
 

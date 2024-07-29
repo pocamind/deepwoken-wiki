@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108413
+revid: 108505
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2062,7 +2062,7 @@ Prerequisite: Charisma
     -   Using Lightning Stream with a tether will instantly grab the target.
     -   Prerequisite: Static Link, 70 Thundercall
 
--   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+2 Health)
+-   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
     -   Prerequisite: Static Link, 50 Thundercall, 15 Intelligence
 
 ### Stormblade

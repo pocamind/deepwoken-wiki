@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 108301
+revid: 108559
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Oath Trainer, NPCs, Eastern Luminant]
@@ -8,9 +8,9 @@ categories: [The Central Authority, Oath Trainer, NPCs, Eastern Luminant]
 
 # Vice Warden Morredh
 
-| Vice Warden Morreth | |
+| Vice Warden Morredh | |
 |---|---|
-| name | Vice Warden Morreth |
+| name | Vice Warden Morredh |
 | location | Fort Merit |
 
 “ Hm? I'm busy, go bother one of the guards. ”
@@ -19,7 +19,7 @@ categories: [The Central Authority, Oath Trainer, NPCs, Eastern Luminant]
 
 ## Description
 
-Vice Warden Morreth is an NPC that appears within the confines of [Fort Merit](Fort_Merit.md).
+Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 

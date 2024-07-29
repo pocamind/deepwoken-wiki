@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 108085
+revid: 108532
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Eastern Luminant, The Ignition Union]
@@ -20,7 +20,7 @@ The pride and efforts of the Union have culminated in this research base.
 
 ## Overview
 
-Miner's Landing is an [Ignition Union](The_Ignition_Union.md) island past the [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway. It introduces a great deal of new NPCs, equipment, [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the [Mechalodaunt](Megalodaunt.md#mechalodaunt).
+Miner's Landing is an [Ignition Union](The_Ignition_Union.md) island past the [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway. It introduces a great deal of new NPCs, equipment, [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the [Mechalodaunt](Mechalodaunt.md).
 
 It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md).
 
@@ -48,7 +48,7 @@ You are able to buy all necessary training gears from Miner's Landing. Along wit
 
 ## Upper Landing
 
-High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one [Mechalodaunt](Megalodaunt.md#mechalodaunt).
+High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one Mechalodaunt.
 
 ## Boiler Room
 
@@ -64,7 +64,7 @@ _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 
 Miner's Landing contains a variety of locations containing chests. These chests contain loot from the Miner's Landing loot table.
 
-The Chests are in the Following Locations:
+The Chests are in the following Locations:
 
 (Photos to come in future)
 
@@ -95,7 +95,7 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 -   To start, you need to have a [Pluripotent Alloy](Pluripotent_Alloy.md) in your inventory.
 -   Speak to the Blacksmith. He will mention a friend who is interested in Alloys.
 -   Head up to the bridge overlooking Miner's Landing, go to the second pair of pillars, and go through the window on the left one.
--   Talk to [Adar](Adar,_Master_of_Metal.md). He will ask you to bring him the following [ores](Ores.md): **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
+-   Talk to [Adar](Adar,_Master_of_Metal.md). He will ask you to bring him the following [Ores](Ores.md): **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
 -   Once you have all these ores, go back to Adar. He will give you an Alloyed Elixir.
 -   Drink the potion to unlock [Ironsing](Ironsing.md).
 
@@ -135,17 +135,14 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
  | 
 
 -   Platinum Bar
--   TBA
 
  |
-
-  
 
 ## Maps
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Notes & Trivia
+## Trivia
 
 -   The music for this area is [Peregrine](Deepwoken_OST.md) by Naktigonis so far. Its own theme song has been confirmed to be released.
 -   Miner's Landing has many chests containing loot in various, unexpected areas.
@@ -153,4 +150,3 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   The business buildings are more spread out than normal, with the Bank only accessible by climbing a waterfall.
 -   There are also hooks that can be used to travel between those places quickly.
 -   A great place to farm for loot alongside Fort Merit.
--   Calypso very obviously hints at themselves being trans, by saying they picked their own name, and that their parents didn't understand, but the Ignition Union accepted them with open arms.

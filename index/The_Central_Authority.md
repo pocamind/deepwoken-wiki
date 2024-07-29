@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 108393
+revid: 108541
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -27,7 +27,7 @@ Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md
 
 Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
-Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers.
+Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers. The only exception to this rule are [Canor](Canor.md), who receive mild preferential treatment.
 
 ## Gameplay
 
@@ -52,19 +52,18 @@ The Central Authority is among the factions to have a Bounty Board.
 
 -   Drallis Ehr
 -   [Warden Jericho](Warden_Jericho.md)
+-   [Vice Warden Morreth](Vice_Warden_Morredh.md)
 
 ## Trivia
 
 -   It's very bizarre that this even has to be stated, but the Central Authority are very much racist. Them employing other Races is merely pragmatism, and is something that has been done by numerous infamously racist groups in real life.
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except Celtor.
--   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
-    -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children of Navae also seem to contradict with this mission.
+-   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
+    -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children Of Navae also seem to contradict with this mission.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Starswept.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
--   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply speculation.
 -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.
--   The [Chainwarden](Oath%253A_Chainwarden.md) oath is granted by this faction.

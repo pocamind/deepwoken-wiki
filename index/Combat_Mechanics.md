@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 107273
+revid: 108571
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -292,7 +292,8 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Stance Change</th>
   <td>Pressing the <kbd>Y</kbd> button will change your <i>Stance</i> from one-handed to two-handed. Many Light Weapons cannot switch their stance except for Fists, which can switch between their unlockable fist styles at will.<p><br>
-  <i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapon, and Heavy weapons can obtain this stance through the Talent <i>One-Handed Training</i>. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
+  </p>
+  <p><i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapon, and Heavy weapons can use this stance after obtaining 40 HVY. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
   <p><i><b>Two-Handed Stance:</b></i> This stance defaults to Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>

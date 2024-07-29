@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 108498
+revid: 108540
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Bluesteel Pauldrons are an [Equipment](Equipment.md) item under the item under the "Arms" category. Equipping them grants 3 Health and an unknown number of Pips. They are rarely found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), the [First Layer](First_Layer.md), and [Erisia](Erisia.md).
+The Bluesteel Pauldrons are an [Equipment](Equipment.md) item under the item under the "Arms" category. Equipping them grants 3 Health and an unknown number of Pips. They are rarely found in chests from [Chime of Conflict](Chime_of_Conflict.md), the [First Layer](First_Layer.md), and [Erisia](Erisia.md).
 
 ## Trivia
 

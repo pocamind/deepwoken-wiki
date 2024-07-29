@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 107869
+revid: 108567
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -11,14 +11,14 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | Flareblood Kamas | |
 |---|---|
 | type | Dagger |
-| requirements | 60 Light, 30 Intelligence |
+| requirements | 60 LHT, 30 INT |
 | damage | 13 + 3.9 BLD |
-| scaling | 8 LHT 2 INT |
+| scaling | LHT: 8, INT: 2 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
 | penetration | 30% |
-| special effect | On hit, take away medicore amounts of blood from your opponent. |
+| special effect | On hit, take away small amounts of blood from your opponent. |
 | stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |
@@ -49,6 +49,5 @@ The critical has a cooldown of eight seconds.
 -   Finishing touch does work when using Flareblood Kamas.
 -   While its damage is high, it is only rivaled by the [Alloyed Whaling Knife](Whaling_Knife.md) and the [Alloyed Tanto](Tanto.md). The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
--   There is a reskin of this weapon called the [Moon Blade](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.
+-   There is a reskin of this weapon called the [Moon Blades](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.
 -   The Flareblood Kamas were the first weapon to be exclusive to a single source.
--   Might be inspired by [Gyutaro’s](https://kimetsu-no-yaiba.fandom.com/wiki/Gyutaro?so=search) Blood Demon Art.

@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 107409
+revid: 108555
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -45,13 +45,13 @@ Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.
 </tr>
 <tr>
   <td colspan="4">Sure.</td>
-  <td colspan="2">I don't have time. Pretty Please? [Charisma]</td>
-  <td colspan="2">Actually, I am familiar with Pleektsy. Doesn't he go into great depths on the production of continuous flame using Ether? [Flamecharm]</td>
+  <td colspan="2">I don't have time. Pretty please? [Charisma]</td>
+  <td colspan="2">Actually, I am familiar with Pleeksty. Doesn't he go into great depths on the production of continuous flame using Ether? [Flamecharm]</td>
   <td colspan="2">End</td>
 </tr>
 <tr>
   <td colspan="4">Great! Please bring me back some dying embers for my research. 3 to be exact.</td>
-  <td>[50 Charisma] [Placeholder]</td>
+  <td>[50 Charisma] Well... I guess I can show you a couple things.</td>
   <td>[Under 50 Charisma] Well... No, I don't think so.</td>
   <td>[40 Flamecharm] Oh thats so wonderful! It's so difficult finding others familiar with Pleeksty here in the East.</td>
   <td>[Under 40 Flamecharm] No, no I don't think you are that familiar with Pleeksty. It is highly unlikely an Easterner would be familiar with one of the greatest Western Flamecharmers of our time...</td>
