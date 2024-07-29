@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 108216
+revid: 108597
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-_Also known as "Broodskippers", "Purpleskippers" or various other names._ Template:Creature Infobox V3
+_Also known as "Broodskippers", "Purpleskippers", "Mahoraga", or various other names._ Template:Creature Infobox V3
 
 ## Description
 
@@ -40,7 +40,7 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 
 ### **Passives**
 
--   **Broodlord Rot** - Upon striking an enemy, or using their shriek, inflict a light amount of insanity, along with applying 80% anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%. (Natural health regen is not affected, artificial health regen is.)
+-   **Broodlord Rot** - Upon striking an enemy, or using their shriek, the Mudskipper Broodlord inflicts a light amount of insanity, along with applying 80% anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%. (Natural health regen is not affected, artificial health regen is.)
     -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is increased to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
 -   **Advanced Knowledge** - Unlike other monsters, the Broodlord is able to parry multiple mantras that attack from a far range, such as Blinding Dawn, Caltrops, Tornado, and many others.
 
@@ -61,4 +61,4 @@ There are **19** images, be warned
 ## Trivia
 
 -   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
--   Despite what their appearance suggests, their sole reference is of "Clickers" from "The Last of Us" series.
+-   Despite what their appearance suggests, their sole reference is of "Clickers" from "The Last of Us" series, and not Mahoraga from JuJutsu Kaizen.

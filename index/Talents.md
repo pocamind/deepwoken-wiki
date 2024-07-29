@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108591
+revid: 108599
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2141,6 +2141,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab Talents.
     -   Merged with the old Shared Demise Talent.
+    -   as of 07/27/2024 "Dustlunge now lets you assassinate players while you're in combat"
     -   Prerequisites: All Assassin Talents, 90 Agility
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
     -   Pressing the V key on a knocked entity who's in close/medium range teleports you to them.
@@ -2352,7 +2353,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based Talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks.
-    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame In the 28/06/2024 update, Burning Sacrifce has received a buff which now makes you get a slight damage and speed boost, scaling on how many puppets you've sacrificed.
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
