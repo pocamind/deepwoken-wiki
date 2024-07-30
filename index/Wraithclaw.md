@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 108259
+revid: 108641
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
@@ -62,6 +62,7 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 -   [The Depths (Scyphozia)](First_Layer.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Bluster Rift](Bluster_Rift.md)
 
 The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
 

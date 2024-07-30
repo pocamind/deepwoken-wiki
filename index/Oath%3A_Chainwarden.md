@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108614
+revid: 108640
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -19,12 +19,12 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 13 obtainable Oaths in _Deepwoken_. This Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that increases in damage for each successful hit and can fling opponents. Being on the other end of those chains, people will soon realize that escape is futile.
+**[Oath](Oaths.md): Chainwarden** is one of the 13 obtainable Oaths in _Deepwoken_. This Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that increases in damage for each successful hit and can fling opponents.
 
 ## Obtainment
 
 1.  15 Fortitude or 15 strength.
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Castle_Ruins).
 
 1.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
 
@@ -39,8 +39,8 @@ There are two different methods of progressing the Oath:
 Known humanoids are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [The Ferryman](The_Ferryman.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Ferryman](The_Ferryman.md)
 
 ## Effects
 

@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 108217
+revid: 108642
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
@@ -27,7 +27,7 @@ The center Knight has a chance to spawn glitched into a rock. If it uses the Kic
 
 This location has 3 stone pillars with a twisting white glow going through them. You can attack these pillars and after enough hits they will no longer have the white glowing and instead will turn black. Once you attack all of the 3 pillars until deactivated, a small door on the island will be openable leading to a room containing 1 [Moon Knight](Moon_Knight.md). Killing it will reward a chest which contains the weapons listed above and some other Moon-related loot such as the [Moonseye Tome](Moonseye_Tome.md), the [Moon ring](Equipment.md), and other random things.
 
-Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 5%[\[1\]](#cite-note-1), take with a grain of salt), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md).
+Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 1%[\[1\]](#cite-note-1), take with a grain of salt), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md). It is also recommended to farm these knights using Lootskipper and Vow of Thorns in order to maximize your chances of obtaining astral.
 
 Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), since this island is it's own area and not just part of the [Voidsea](Voidsea.md), dying a PVE death on this island will not send you to The Depths.
 
