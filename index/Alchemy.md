@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 108154
+revid: 108633
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -337,6 +337,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 -   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
     -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or Goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.
     -   Redds help more than normal in healing if the potion is thrown.
+    -   For [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Browncaps + Antithetic Salt. Be warned as the Bluecaps will give you insanity.
     -   Due to Redds decreasing the duration of potions, the 2 Beeswax provides little value. Meaning unless you have a surplus, it is not worth wasting 2 Beeswax. Instead, consider just using 3 Redds if you plan on making this potion
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much
 -   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg

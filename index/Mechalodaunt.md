@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 107061
+revid: 108631
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -92,3 +92,7 @@ Roar
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
  | ✗ | ◯ | ◯ | (★★☆) |
+
+## Trivia
+
+-   Mechalodaunts can in fact speak, as if you were to get ambushed by the Ignition Union with hunted rep it could say " \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* "
