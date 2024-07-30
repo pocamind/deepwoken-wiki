@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 108099
+revid: 108601
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -17,7 +17,7 @@ Random encounters are randomly spawning events that occur throughout target area
 
 **Note:** This is not yet a comprehensive list of every single random encounter: more will be added.
 
-A mother Thresher, Hive Construct, and an Authority Captain fighting each other at Starswept Valley.
+A King Thresher, Hive Construct, and an Authority Captain fighting each other at Starswept Valley.
 
 ## AI-Driven Encounters
 

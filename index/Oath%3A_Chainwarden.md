@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108594
+revid: 108614
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -25,7 +25,8 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 1.  15 Fortitude or 15 strength.
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below an abandoned building at Summer Isle.
-3.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
+
+1.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
 
 ## Progression
 
@@ -62,6 +63,7 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 
 ## Trivia
 
+-   Luring Emar Vend into the water then shooting cannonballs at him is a recommended strategy.
 -   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the talents it was missing.
 -   If you break your oath using a Yunshul's wish at [Temple of Hearts,](Temple_of_Hearts.md) [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."

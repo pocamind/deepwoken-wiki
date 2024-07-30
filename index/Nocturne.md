@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 108575
+revid: 108618
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -51,6 +51,8 @@ Can be cancelled by damage in wind-up.
 -   At the same time the Nocturne was published, a sheathe model was also made, it fits perfectly.
 
 ## Gallery
+
+Stone
 
 ### Enchantments
 
