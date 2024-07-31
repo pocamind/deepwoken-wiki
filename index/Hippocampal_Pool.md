@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 105287
+revid: 108723
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -27,3 +27,4 @@ There are a few items that the Hippocampal Pool will not accept, meaning they wi
 -   [Training items](Training_Gear.md)
 -   [Food](Food.md)
 -   [Dwelling Charm](Dwelling_Charm.md)
+-   [Relics](Relics.md)

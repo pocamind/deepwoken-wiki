@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 106332
+revid: 108715
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -91,6 +91,8 @@ These are the NPCS that factions will send after you if you have low enough repu
 **The Ministry File:Eylisiconfactoin.png**
 
 **Attunement Trainers**
+
+**Starkindred**
 
 **Miscellaneous**
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 108475
+revid: 108720
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -616,7 +616,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
     -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma mantra, the effect would last so long the mantra's cooldown would have ended before the effect wore off, this may have also applied to Reinforce.
         -   Reinforce and Brace now upgrade duration by leveling them up at Regek.
 -   Prediction has, by far, the most Talent card upgrades out of all the attunement-less mantras.
--   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on YouTube.
+-   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6&t=379s) at the 6:20 mark on YouTube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
 -   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them, including Jus Karita mantras.

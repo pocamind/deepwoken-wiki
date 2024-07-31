@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108599
+revid: 108708
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -33,9 +33,9 @@ There are certain Talents that you receive automatically upon meeting their requ
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
 -   A high enough [Core Attribute](Attributes.md), whether it be Strength, Fortitude, Agility, Intelligence, Willpower, or Charisma.
-    -   E.G.: Overflowing Dam requires 40 INT as a prerequisite.
+    -   E.G.: O​​verflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
-    -   E.G.: Picking a MentaI Fortress Talent will make you more likely to pull another MentaI Fortress Talent in your next set of Talents.
+    -   E.G.: Picking a M​entaI Fortress Talent will make you more likely to pull another M​entaI Fortress Talent in your next set of Talents.
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
     -   E.G.: Drinking at least one potion is a prerequisite for potion Talents.
 -   Having a certain weapon equipped.
@@ -47,12 +47,12 @@ Some Talents are **mutually exclusive** with other Talents, meaning picking one 
 
 _When it comes to mutually exclusive Talents, you can have either:_
 
--   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
--   _Risky Moves_ **or** _Safety Dance/Observation;_
--   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
--   _Orbital Ice_ **or** _Fists of Fortitude;_
--   _Singularity_ **or** _Sightless Still;_
--   _Million Ton Piercer_ **or** _Ether Overdrive;_
+-   _E​verchanging Aegis_ **or** _R​eturn to the Dark Ages;_
+-   _Ri​sky Moves_ **or** _S​a​fety Dance/O​​bservation;_
+-   _Er​uption Path: Lav​​a Serpent_ **or** _Th​e Final Act;_
+-   _O​r​bital Ice_ **or** _F​is​ts of Fo​rtitude;_
+-   _S​ingularity_ **or** _S​ightless Still;_
+-   _M​illion Ton Piercer_ **or** _E​t​h​er Overdrive;_
 -   _Bulldozer_ **or** _Dazing Finisher;_
 -   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent;_
 -   _Wraith Path: Twisted Puppets_ **or** _Azure Flames;_

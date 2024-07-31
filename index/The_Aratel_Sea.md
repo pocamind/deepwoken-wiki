@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 98334
+revid: 108719
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -20,7 +20,7 @@ A turbulent region fraught with disputes major and minor.
 
 The Aratel Sea is a region in the East Luminant. It is through the gates in the wall in the Etrean Luminant. You can typically find more experienced players here.
 
-The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), with frequent pirate attacks and being inhabited by various monsters.
+The Aratel Sea is much more violent than [The Etrean Sea](The_Etrean_Sea.md), with frequent pirate attacks and being inhabited by various monsters.
 
 ## Points of Interest
 
@@ -48,7 +48,7 @@ The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), wi
 -   Bandit Tower
 -   Islands/Outposts
 
-## Trivia/Notes
+## Trivia
 
--   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by Naktigonis
--   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by Naktigonis.
+-   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md) by Naktigonis.

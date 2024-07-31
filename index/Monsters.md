@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 107105
+revid: 108716
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -14,15 +14,15 @@ _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enem
 
 ## Description
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters consist of a wide array of threats, ranging from beasts, zombies, robots, constructs, aliens, inter-dimensional entities, and even worse. They are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat an NPC Monster, what makes them think they can beat a boss or an entire dungeon?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters consist of a wide array of threats, ranging from beasts, zombies, cyborgs, constructs, aliens, inter-dimensional entities, and even worse. They are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat an NPC Monster, what makes them think they can beat a boss or an entire dungeon?
 
 While each Monster has unique attacks, behaviors, traits, and patterns, they all share one thing in common; **They can be overcome.** Every monster, even the strongest ones such as the Dread Serpent can be beaten with enough memorization, skill technique. (However, do note certain monsters have unique traits such as a Time Limit or Health Regeneration which actually does make them impossible without enough damage.)
 
 The vast majority non-humanoid monsters encountered in-game have hyper armor, meaning most, if not all of their attacks cannot be interrupted from being hit by a player.
 
-### **The Scyphozia**
+### Scyphozia
 
-In the **Scyphozia**, monsters have differences from their Overworld counterparts, ranging from small effects to gigantic differences in how they fight, their danger level, and how they must be dealt with.
+In **Scyphozia**, monsters have differences from their Overworld counterparts, ranging from small effects to gigantic differences in how they fight, their danger level, and how they must be dealt with.
 
 -   No longer attack each other based on species, instead completely focusing on players.
 -   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players. [Megalodaunts](Megalodaunt.md) especially benefit from this, as their jump is already high to begin with.
@@ -30,7 +30,7 @@ In the **Scyphozia**, monsters have differences from their Overworld counterpart
 -   Gaining new behaviors/abilities, such as Lionfish Cero.
 -   Becoming much more persistent in chasing, almost never stopping their pursuit until the death of themselves or their target. (Keep in mind that it is easier to run away in the depths, as the area is far more open and has more crevices to hide in)
 
-Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having two and a half times the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigameds](Gigamed.md) can be mistaken as not being corrupted. Ringing one of the Corrupted Bells in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
+Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having two and a half times the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigamed](King_Gigamed.md) can be mistaken as not being corrupted. Ringing one of the Corrupted Bells in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
 
 ### Attuned Monsters
 
@@ -46,13 +46,13 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be Attuned.
 
-Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Fury Nautilodaunts](Fury_Nautilodaunt.md) or [Crimson Megalodaunts](Crimson_Megalodaunt.md)). In these cases, they are only able to become attuned with that type of Attunement effect.
+Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Fury Nautilodaunts](Fury_Nautilodaunt.md) or [Crimson Megalodaunts](Crimson_Megalodaunt.md). In these cases, they are only able to become attuned with that type of Attunement effect.
 
 Certain Monsters have unique visual effects when attuned.
 
--   Thunderstruck [Gigameds](Gigamed.md) (Lightning is blue as opposed to yellow.)
+-   Thunderstruck [Gigamed](Gigamed.md) (Lightning is blue as opposed to yellow.)
 
-Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) in the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Humanoid Monsters
 
