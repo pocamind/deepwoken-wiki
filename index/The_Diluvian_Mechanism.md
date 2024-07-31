@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 108203
+revid: 108645
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1, InProgressPages]
@@ -118,7 +118,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupt Enforcer |  |
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
-| 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt, 1 Mudskipper Brute | Both Terrapods have a higher chance to be the red version |
+| 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt, 1 Corrupt Mudskipper Brute | Both Terrapods have a higher chance to be the red version |
 | 20 (Smough, Smough and Smough)
 
 **\*HOLLOW MODIFER\***

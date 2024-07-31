@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108640
+revid: 108651
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 1.  15 Fortitude or 15 strength.
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Castle_Ruins).
 
-1.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
+1.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy named Emar Vend that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
 
 ## Progression
 
@@ -34,7 +34,7 @@ There are two different methods of progressing the Oath:
 
 -   Gripping players who have Hunted or below reputation with [The Central Authority](The_Central_Authority.md) whilst having them chained.
 
--   Defeating humanoid mobs that are major enemies of the Authority.
+-   Defeating humanoid mobs that are major enemies of the Authority. They must be chained when they die to progress the Oath.
 
 Known humanoids are:
 
@@ -51,11 +51,9 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 -   **Restrain - Combat Mantra**
     
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
-    -   Applies through block. Restrain has no cooldown as long as you are landing it. When you whiff Restrain, it goes on cooldown. Chained targets are slowed when they run away from you. Every time you hit restrain, the damage increases, stacking up to double the base damage. Damage increase stacks are independent from person to person.
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
-    -   Using this mantra without a chained target instead unleashes two swift punches, dazing the opponent. Using this mantra on a chained target will break the current chain and ragdoll the target in the direction of your camera (IE, looking behind you will ragdoll them toward you).
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage.
 
@@ -63,7 +61,15 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 
 ## Trivia
 
--   Luring Emar Vend into the water then shooting cannonballs at him is a recommended strategy.
+-   Restrain applies short-lasting daze on successful hit.
+-   Restrain chains the opponent even if the hit was blocked.
+-   Restrain has no cooldown as long as you are landing the mantra, working even on dodge/block, but not parry. When you whiff Restrain, it goes on cooldown.
+-   Chained targets from Restrain are slowed when they run away from you.
+-   Every time you hit Restrain, the damage increases, stacking up to double the base damage.
+    -   Damage increase stacks are independent from person to person.
+-   Using Rupture without a chained target instead unleashes two swift punches, dazing the opponent.
+-   Using Rupture on a chained target will break the current chain and ragdoll the target in the direction of your camera (IE, looking behind you will ragdoll them toward you).
+-   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
 -   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the talents it was missing.
 -   If you break your oath using a Yunshul's wish at [Temple of Hearts,](Temple_of_Hearts.md) [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."

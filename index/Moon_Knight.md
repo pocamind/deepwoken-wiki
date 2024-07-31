@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 108496
+revid: 108652
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters, Knights]
@@ -69,5 +69,5 @@ In order to maximise your chance in order to get an Astral enchantment stone, ma
 
 ## Trivia
 
--   The Moon Knight is pretty much the Astral Knight if you were watching an Astral Knight on those old TV screens that had black and white instead of color.
+-   Moon Knights are recolored Star Knights.
 -   The [Star Knight](Star_Knight.md) is probably the newer and stronger design of the Moon Knight, which is why the Star Knights protect the Resonance Dawn meteor while the Moon Knights stay on their home island.
