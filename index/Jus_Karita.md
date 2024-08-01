@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 107278
+revid: 108756
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -28,11 +28,11 @@ categories: [Weapons, Fists]
 
 “ Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether. ”
 
-―
+― Style description
 
 ## Description
 
-Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. But in turn has only one equippable weapon, the [Anklets of Alsin](Anklets_of_Alsin.md).
+Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md) or as a [Starting Weapon](Character_Creation.md) if was previously unlocked. Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. But in turn has only one equippable weapon, the [Anklets of Alsin](Anklets_of_Alsin.md).
 
 Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its mantras, Karita Leap, Karita Divebomb and Tacet Dropkick. Plus, the [Justicar](<Justicar_(Origin).md>) armor Talent (The Path, Unveiled) gives it a 10% damage boost, about on par with the other fist-style armor Talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs.
 
@@ -40,7 +40,7 @@ Additionally, using the Jus Karita exclusive Weapon [Anklets of Alsin](Anklets_o
 
 ## Critical
 
-Dash forward while performing a kick. Can be upgraded with Justicar Renewal to remove the cooldown after landing with a 10s cooldown.
+Dash forward while performing a kick.
 
 ## Mantras
 
@@ -48,14 +48,19 @@ Jus Karita is the only fighting style as of now that has its own mantras. With t
 
 ## Obtainment
 
-To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. Do his first dialogue option and obtain the ring, then ask him about Justicar. Completing this will grant you the Jus Karita Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
+To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. Do his first dialogue option and obtain the ring, then ask him about Justicar.
+
+Completing this will grant you the Jus Karita Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 
 ## Trivia
 
--   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
--   This was buffed after developer Ragoozer was made to fight a (previously regenerating at 60 hp per second) corrupted [Bone Keeper](Bone_Keeper.md).
+-   Jus Karita's Critical Attack can be upgraded with Justicar Renewal, which removes the cooldown after landing the attack even on block or dodge, with a 10s cooldown.
+-   Justicar's Armor DMG Style boost was buffed after developer Ragoozer was made to fight a corrupted [Bone Keeper](Bone_Keeper.md).
+    -   Furthermore, [Bone Keeper's](Bone_Keeper.md) health regeneration was disabled and LHT & MED scaling in PVE was buffed.
 -   Selecting Jus Karita on the character selection will allow you to use the fist style without the criterion of 40 LHT, though the base damage will be reduced until you reach the aforementioned requirement.
-    -   You will also not be able to obtain a [Gold Ring](Equipment.md) from [Polis](Polis.md)
+    -   You're able to get [Jus Karita's Mantras](Attunement-less.md) as long as you have the requirements for them. (20 LHT)
+    -   You will also not be able to obtain a [Gold Ring](Equipment.md) from [Polis](Polis.md).
+-   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 108037
+revid: 108769
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -29,7 +29,7 @@ You can also get a Canteen from [Chili's merchant ship](Travelling_Merchant.md).
 
 The Canteen can be filled by holding it out and pressing M1 at a well or any source of freshwater (the rivers around Starswept Valley, Merit's Reach, Greathive Aratel, Minitrysia, and Songseeker Wilds all count as freshwater sources) storing 5 uses before it must be refilled again.
 
-The lake near the New Kyrsa also holds clean water, making it come in a clutch when neeeded.
+The lake near the New Kyrsa also holds clean water, making it come in a clutch when your water bar is low.
 
 ### Video Guide
 

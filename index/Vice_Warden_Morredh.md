@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 108559
+revid: 108766
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Oath Trainer, NPCs, Eastern Luminant]
@@ -19,7 +19,7 @@ categories: [The Central Authority, Oath Trainer, NPCs, Eastern Luminant]
 
 ## Description
 
-Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](Fort_Merit.md).
+Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](Fort_Merit.md). He is the crux of the [Chainwarden](Oath%253A_Chainwarden.md) obtainment process.
 
 ## Dialogue
 
@@ -28,14 +28,13 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">Hm? I'm busy. Go bother one of the guards.</td>
+  <td colspan="12">Hm? I'm busy. Go bother one of the guards.</td>
 </tr>
 <tr>
-  <td colspan="7"></td>
-  <td>End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -45,13 +44,13 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Hm? I don't have time for you, lowlife. There are bigger fish to fry.</td>
+  <td colspan="12">Hm? I don't have time for you, lowlife. There are bigger fish to fry.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -61,10 +60,10 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>I can't speak to two folks at once, y'know?</td>
+  <td colspan="12">I can't speak to two folks at once, y'know?</td>
 </tr>
 <tr>
   <td>End</td>
@@ -77,10 +76,11 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>I can't speak to two folks at once, y'know?</td>
+  <td colspan="12">You've impressed me, Chainwarden. What do you need?<p><br>
+  Chain down those that oppose our justice. Should you find someone truly worthy of being ensnared by your chains, the Words will surely find you.</p></td>
 </tr>
 <tr>
   <td>End</td>
