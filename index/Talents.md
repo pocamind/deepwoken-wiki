@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108708
+revid: 108816
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -769,9 +769,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Like Million Ton Piercer, removes 50% mantra and physical PEN cap.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
-
--   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
-    -   This is an innate Talent
 
 ### Empath
 

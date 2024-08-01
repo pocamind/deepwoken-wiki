@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 108019
+revid: 108825
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -11,7 +11,7 @@ categories: [Weapons, Daggers]
 | Stiletto | |
 |---|---|
 | type | Dagger |
-| requirements | 0 LHT |
+| requirements | 5640 LHT |
 | damage | 11 |
 | scaling | 3 |
 | range | 6 |

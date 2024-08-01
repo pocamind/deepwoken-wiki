@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 108807
+revid: 108822
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, The Central Authority]
@@ -28,7 +28,7 @@ categories: [Weapons, Greathammers, The Central Authority]
 
 ## Description
 
-The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit](Fort_Merit.md), [Aratel Island](Aratel_Island.md), [The Lordsgrove](The_Lordsgrove.md) and [Upper Erisia](Upper_Erisia.md). It boasts exceptionally high posture damage and penetration, though with a slow swingspeed and slightly lower scaled damage than other greathammers.
+The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit](Fort_Merit.md), [Aratel Island](Aratel_Island.md), [The Lordsgrove](The_Lordsgrove.md) and [Upper Erisia](Upper_Erisia.md). It boasts exceptionally high posture damage and penetration, though with a slow swing speed and slightly lower scaled damage than other greathammers.
 
 ## Trivia
 
