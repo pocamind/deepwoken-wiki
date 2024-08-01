@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 107232
+revid: 108834
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -1171,6 +1171,23 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+|  | 
+
+[Deepscorn Casque](Deepscorn_Casque.md)
+
+ | 
+
+_+5 Health_
+
+_+Talent: Already Dead_
+
+ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
 
  | N/A |
 |  | 

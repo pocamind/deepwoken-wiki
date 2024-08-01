@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 108098
+revid: 108838
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -216,6 +216,8 @@ These quests usually give EXP, Reputation and/or an item.
 
 **Guide**: Talk to [Kelsius](Kelsius.md) at librarian in the Isle of Vigils library. He will ask you to pick up some books. Go to the hut under Etrean Wild, talk to the NPCs there and come back to the librarian.
 
+If the quest has been completed before, the books can instead be found on a rock behind the Vigil's bank.
+
 **Reward/s**: Hand of Whispers
 
 Note: If you have done the tutorial from the Castaway origin, you cannot do this quest.
@@ -258,7 +260,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Quest Location**: [Minityrsa](Minityrsa.md)
 
-**Guide**: Talk to [Elykris](Elykris.md) in Minityrsa, he will ask you to find a book in [Outpust Antumbra.](Outpost_Antumbra.md) Return to him after finding it.
+**Guide**: Talk to [Elykris](Elykris.md) in Minityrsa, he will ask you to find a book in [Outpust Antumbra.](Outpost_Antumbra.md) Return to him after finding it. The quest can also be completed in reverse order by obtaining the book and then speaking to Elykris.
 
 **Reward/s**: 3 Aces, EXP, Curiosity
 

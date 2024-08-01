@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 108828
+revid: 108832
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Dee
 
 ## Description
 
-Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at nearly 69 feet (21 meters), with some features of marine life, featuring webbed feet and fins on its arms and head.
+Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its arms and head.
 
 It can be summoned by making an offering (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 3-minute cooldown and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown).
 
@@ -25,10 +25,6 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>
   <td>3</td>
-</tr>
-<tr>
-  <td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td>
-  <td>69</td>
 </tr>
 <tr>
   <td><a href="Dark_Feather.md">Dark Feather</a></td>
@@ -69,10 +65,6 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a></td>
   <td>1</td>
-</tr>
-<tr>
-  <td><a href="Ingredients.md">Stick</a></td>
-  <td>99</td>
 </tr>
 </tbody>
 </table>
