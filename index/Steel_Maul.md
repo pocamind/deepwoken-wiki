@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 101711
+revid: 108787
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]

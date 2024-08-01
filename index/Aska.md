@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 107993
+revid: 108810
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -8,14 +8,11 @@ categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
 
 # Aska
 
-| Aska | |
-|---|---|
-| name | Aska |
-| location | Firfire |
-
 “ KINDLE ANEW AND RETURN TO THE FLAME ”
 
 ― Aska
+
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -34,7 +31,7 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
 -   A [Resonance](Resonance.md)
--   [Pleeksty's Will](Talents.md#inferno) Talent **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit (When I got my Pleeksty's Inferno, I didnt have either of those and it worked idk)
+-   [Pleeksty's Will](Talents.md#inferno) Talent **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit
 
 _†A Resonance is only required to go through the doors, if you go through the doors via clipping, you do not need to have a Resonance._
 

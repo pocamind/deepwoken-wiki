@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 108766
+revid: 108813
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Oath Trainer, NPCs, Eastern Luminant]
@@ -63,7 +63,7 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">I can't speak to two folks at once, y'know?</td>
+  <td colspan="12">WHAT IS IT EHH??? IM BUSY WITH SOMEONE</td>
 </tr>
 <tr>
   <td>End</td>

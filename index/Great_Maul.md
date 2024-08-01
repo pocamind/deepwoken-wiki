@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 106619
+revid: 108796
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]

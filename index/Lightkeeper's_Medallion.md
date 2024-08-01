@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 107337
+revid: 108814
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -30,11 +30,11 @@ The Lightkeeper's Medallion is an [Equipment](Equipment.md) item under the "Tors
 
 Equipping it grants the Talent "Elegy of Light", Which grants the user an active Talent that protects the user from the effects of deep gems for three minutes. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the Talent cannot be reactivated unless a player of equal power or a [Boss](Bosses.md) is defeated.
 
-It's currently known to drop from Ferryman and Scion of Ethiron, but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
+It's currently known to drop from [Ferryman](The_Ferryman.md) and [Scion of Ethiron](Scion_of_Ethiron.md), but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
 
 ## Trivia
 
--   Elegy of Light works in [Chime of Conflict](Chime_of_Conflict.md). However, getting a grip in chime does not count towards refilling the ability, unless the opponent is sent to [The Depths](The_Depths.md).
--   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by Viqh under the Authority's control.
+-   The medallion used to recharge if you gripped someone on their last skull in the [Chime of Conflict](Chime_of_Conflict.md) and are sent to the [Depths](First_Layer.md), but this is no longer possible due to the removal of chime skulls.
+-   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by Viqh under the [Authority's](The_Central_Authority.md) control.
     -   The holder resembles the top part of the Lighthouse.
     -   The embelishment appears to be in the shape of the Lighthouse as a whole.

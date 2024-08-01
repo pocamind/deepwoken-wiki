@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 107386
+revid: 108811
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -27,6 +27,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 -   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched.
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
+    -   [Darkened Bastion](Darkened_Bastion.md) grants +50% Stealth.
     -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grant +50% Stealth.
     -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
