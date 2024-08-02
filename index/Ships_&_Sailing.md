@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 107356
+revid: 108866
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,6 +26,8 @@ Boats can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be b
 Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the Talent [Emergency Repairs](Talents.md) (+2 Carry Load).  
 Using the [Repair Hammer](Repair_Hammer.md) 50 times will grant the Talent [Spare Nails](Talents.md) (+2 Carry Load).  
 Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the Talents prerequisites.
+
+When a boat reaches 0% health, it will sink and then must be salvaged at a Shipwright Merchant or Shipyard for half its original price, where it can then be spawned again at full health. (The Dinghy is still free.)
 
 For more information on Ship Control and Sailing, click [here](Ships_&_Sailing.md).
 

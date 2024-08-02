@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 108495
+revid: 108861
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -75,7 +75,8 @@ A Stone Knight executes the player:
 ## Tips
 
 -   Try to use mainly mantras to kill the Star Knight, since it seems to get posture broken very quickly from mantras.
--   Due to mainly being fought inside of the water, it should instead be advised to have a build that can "DPS Check" them rather than attempting to fight in a body of water.
+-   To maximize your chances of getting the Star Knight to spawn, use a Ring of Curses and sail out into the [Voidsea](Voidsea.md) and go in a straight line. After travelling 150 studs, an event will be forced to spawn, with the Resonance Dawn event has a very low chance to spawn. Make sure to keep your audio up very high, so you can hear when you the meteor lands, since it takes a second to make noise. To be a bit quicker, you can open the events menu by pressing F3, the 1 until a small menu opens with green boxes on the left. Whenever an event spawns, some boxes will appear. 1-4 boxes will appear if a [Brainsucker](Brainsucker.md) spawns, 4-6 boxes for a [Lionfish](Lionfish.md) or the Glacial Lionfish, 9 boxes for the [Dread Serpent](Dread_Serpent.md) (many boxes will appear lit up around you when the Dread Serpent rises from the water), 5-10 boxes for a small island, and finally, 4 boxes for Resonance Dawn. For a more in-depth explanation, watch this video: [https://www.youtube.com/watch?v=\_xDcdzRMRuk](https://www.youtube.com/watch?v=_xDcdzRMRuk)
+-   Due to mainly being fought inside of the water, it should instead be advise to have a build that can "DPS Check" them rather than attempting to fight in a body of water.
     -   However, if fought in Low detail mode while being atleast 10,000 studs away from 0,0,0 in an axis direction, the animations may be visible.
 
 ## Trivia

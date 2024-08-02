@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 108653
+revid: 108859
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters, Knights]
@@ -14,7 +14,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that may have another chance of obtaining an Astral. However, some Moon Knights may spawn clipped inside of a rock near the center of the island although getting it to kick should get it out.
+Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that may have another chance of obtaining an Astral. However, some Moon Knights may spawn clipped inside of a rock near the center of the island although getting it to kick should get it out. Moon Knights will respawn every 2-3 minutes.
 
 ## **Moveset**
 
@@ -61,7 +61,8 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
 
 #### Passives
 
--   Slash Resistance: Has 55% Slash Resistance.
+-   **Slash Resistance -** Has 55% Slash Resistance.
+-   **Artificial Construct -** Bloodless Gems do not work against Moon Knights.
 
 ## Tips
 
