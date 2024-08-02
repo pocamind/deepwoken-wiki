@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 108876
+revid: 108885
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -42,7 +42,7 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 
 **All Criticals have a 5s Cooldown.**
 
-**NOTE: _[Way of Navae](Way_of_Navae.md)_ is the best style to use as the cycle progresses even if any of your Criticals was blocked, parried, or dodged. With _[Legion Kata](Legion_Kata.md)_ the cycle progresses only with successful critical.**
+**NOTE: _[Way of Navae](Way_of_Navae.md)_ is the best style to use as the cycle progresses even if any of your Criticals was blocked or dodged. With _[Legion Kata](Legion_Kata.md)_ the cycle progresses only with successful critical.**
 
 **The Blue Eye that pops up from the Final Critical signifies that it is undodgeable.**
 
