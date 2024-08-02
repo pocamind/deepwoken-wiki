@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108829
+revid: 108844
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1062,6 +1062,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
+    -   This talent simply removes armor damage from bullets, it has no effect on PEN of bullets.
 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand

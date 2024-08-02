@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 108128
+revid: 108845
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
@@ -24,7 +24,7 @@ Used for obtainment of the [Deepspindle](Deepspindle.md), via the Ministry Agent
 
 ## Description
 
-A network of tunnels used by [the Ministry](The_Ministry.md) to move supplies and themselves, tinted with a purple hue and an ominous atmosphere atmosphere
+A network of tunnels used by [the Ministry](The_Ministry.md) to move supplies and themselves, tinted with a purple hue and an ominous atmosphere.
 
 ## Points of Interest
 

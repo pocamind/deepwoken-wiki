@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 107637
+revid: 108846
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -175,7 +175,7 @@ Witherald lifting The Meat Lord
     -   Ongo = Apple
     -   Calabash = Calabash
     -   Plumfruit = Plum
-    -   Pomar = Pineapple or Mango (?)
+    -   Pomar = Peach
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
     -   Alternatively, may also represent a mango. Mango skin contains urushiol oil, which causes a reaction to the body near identical of that to poison ivy which may be why they damage you.
