@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 108844
+revid: 108869
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2752,7 +2752,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 10% more damage. (+3 Passive Agility)
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage. (+3 Passive Agility)
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.

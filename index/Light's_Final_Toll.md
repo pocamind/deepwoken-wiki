@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 107199
+revid: 108876
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -53,12 +53,12 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
     -   As of 03/23/2024, this information has became outdated as the weapon received it's new requirements (65 WIL → 60 WIL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
--   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), and Imperial Staff) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
+-   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), [Soulthorn](Soulthorn.md) and [Imperial Staff](Imperial_Staff.md)) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its actual hotbox.
 -   Before 10/20/2023, the weapon used the base critical for the active fist style.
 -   As this weapon is Legendary, it is completely unenchantable. Until the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
--   It is one of seven known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+-   It is one of seven known weapons to have multiple critical attacks, the others being [Soulthorn](Soulthorn.md), [Krulian Knife](Krulian_Knife.md), [Wraithclaw](Wraithclaw.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Kanabo](Kanabo.md), [Cerulean Thread](Cerulean_Thread.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Kyrswynter](Kyrswynter.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
 -   The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
 -   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling, and a variety of Criticals.

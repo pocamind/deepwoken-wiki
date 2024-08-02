@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 108756
+revid: 108870
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -34,7 +34,7 @@ categories: [Weapons, Fists]
 
 Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md) or as a [Starting Weapon](Character_Creation.md) if was previously unlocked. Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. But in turn has only one equippable weapon, the [Anklets of Alsin](Anklets_of_Alsin.md).
 
-Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its mantras, Karita Leap, Karita Divebomb and Tacet Dropkick. Plus, the [Justicar](<Justicar_(Origin).md>) armor Talent (The Path, Unveiled) gives it a 10% damage boost, about on par with the other fist-style armor Talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs.
+Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its mantras, Karita Leap, Karita Divebomb and Tacet Dropkick. Plus, the [Justicar](<Justicar_(Origin).md>) armor Talent (The Path, Unveiled) gives it a 15% damage boost, about on par with the other fist-style armor Talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs.
 
 Additionally, using the Jus Karita exclusive Weapon [Anklets of Alsin](Anklets_of_Alsin.md) will allows access to stars, [Enchantments](Enchantments.md) and give Chip Damage. Having the [Justicar](<Justicar's_Armor.md>) armor and 100 Light Weapon stat you will deal 30.36 damage.
 

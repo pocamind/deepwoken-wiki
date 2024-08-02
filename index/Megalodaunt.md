@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 108864
+revid: 108873
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -101,6 +101,10 @@ Roar
 
 -   A Megalodaunt can never use any move twice in a row, a swipe/kick will never be followed up by a swipe/kick and they will not use a raw kick multiple times in a row, by using this to your advantage you can accurately predict the enemies attacks.
 -   Their thousand needles (either variant) can be parried by simply tapping F once due to Autoparry frames, and allows you to get as many hits in as a Kick would.
+
+## Passives
+
+-   **Tough Skin:** Has an innate ~25% resistance to physical hits.
 
 ## **Gallery**
 

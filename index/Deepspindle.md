@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 108643
+revid: 108875
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -51,6 +51,7 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
 1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting 2 [Void Feathers](https://deepwoken.fandom.com/wiki/Dark_Feather#Void_Feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of Silhuett's event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
     -   [Outpost Antumbra](Outpost_Antumbra.md)
+    -   [Minityrsa](Minityrsa.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
 3.  Use [Shadow Travel](Shadowcast.md) or [Shadow's Flight](<Shadow's_Flight.md>) on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
     -   Depending on the type of event, the fight will initiate differently: Silhuett's entrance always guarantee a Ministry Cache Agent, while random spawned entrances will have the fight differ regarding your reputation with the Ministry.

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 108784
+revid: 108872
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -37,90 +37,113 @@ An amalgamation of souls dredged up from the "dregs of the dregs", he was mistre
 
 The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale greatly depending on how many players are present in the dungeon, and as such it is recommended to fight him alone.
 
-_For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
+_For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._ Note: Teal means phase 1, Violet means phase 2. If it isn't listed, then it doesn't happen during its respective phase.
 
 ## Moves
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger | Phase |
-| --- | --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
-**Displacement**
+**Displacement**  
+(★☆☆)  
+
+(★☆☆)
 
  | The Ferryman teleports to one of 6 fixed spots on the battlefield and immediately uses another attack. Always used before another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
 
 -   In Phase 2, this will be accompanied by a small pulse akin to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulsion move.
 
- | N/A | N/A | N/A | (★☆☆)
-
-(★☆☆)
-
- | **I**/**II** |
+ |  |
 | 
 
-**Lightning Clones**
+**Lightning Clones**  
+(☆☆☆)
 
  | The Ferryman will spin around and summon two clones of himself. They run up to nearby players and slash at them before quickly disappearing.
 
 -   Lightning Clones will not disappear unless their attack is parried, blocked or dodged, or they land a hit on a player.
 -   He only uses Lightning Clones in Phase 1.
 -   If you attack lightning clones, your willpower will increase.
--   Curiously, killing the clones procs Time to Go and Carnivore Talents.
+-   Curiously, killing the clones procs Time to Go and Carnivore Talents.  
+    
 
- | ◯ | ◯ | ◯ | (☆☆☆) | **I** |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Lightning Strike**
+**Lightning Strike**  
+(★☆☆)  
+
+(★★☆)
 
  | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 
 -   Targets an area relative to each player based on their movement (e.g. if standing still, will center strikes on the player, but if moving, will target a distance ahead of the player proportional to their movespeed).
 -   Becomes much faster in Phase 2.
--   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
+-   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.  
+    
 
- | ◯ | ◯ | ◯ | (★☆☆)
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
-(★★☆)
-
- | **I**/**II** |
+ |  |
 | 
 
-**Lightning Assault**
+**Lightning Assault**  
+(★★☆)  
+
+(★★★)
 
  | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 
 -   The frequency of the attacks is typically fixed, but The Ferryman will occasionally cast this at a much more rapid pace if he is placed next to a wall by the previous Lightning Assault.
 -   Becomes much faster in Phase 2.
--   Parrying all 3 attacks prevents him from beginning another attack after, allowing the player to get in damage. Failing to parry, even if blocking or dodging, will result in The Ferryman beginning another attack when the player gets closer.
+-   Parrying all 3 attacks prevents him from beginning another attack after, allowing the player to get in damage. Failing to parry, even if blocking or dodging, will result in The Ferryman beginning another attack when the player gets closer.  
+    
 
- | ◯ | ◯ | ◯ | (★★☆)
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
-(★★★)
-
- | **I**/**II** |
+ |  |
 | 
 
-**Grand Volley**
+**Grand Volley**  
+(★★★)
 
  | The most notorious attack in the Ferryman's moveset. The Ferryman throws four Grand Javelins across the battlefield in quick succession, dealing an absurd amount of damage to those who get in its way. (Each spear does is estimated to deal 220 damage.)
 
 -   He only uses this attack in Phase 2.
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
--   High posture damage.
+-   High posture damage.  
+    
 
- | ◯ | ◯ | ◯ | (★★★) | **II** |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Vent**
-
- | An explosion of blue ether around the user that pushes opponents away.
-
--   He always vents when an attack would daze him.
-
- | ◯ | ◯ | ✗ | (★☆☆)
+**Vent**  
+(★☆☆)  
 
 (★☆☆)
 
- | **I**/**II** |
+ | An explosion of blue ether around the user that pushes opponents away.
+
+-   He always vents when an attack would daze him.  
+    
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:✗
+
+ |  |
 
 ### Talents
 

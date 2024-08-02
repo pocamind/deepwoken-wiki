@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 107858
+revid: 108874
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -32,44 +32,69 @@ Duke Erisia's arsenal consists of [Way of Nevae](Way_of_Navae.md) light attacks 
 
 _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
-**Assault**
+**Assault**  
+(★☆☆)
 
  | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
 
--   Duke will always start using Assault after using Strong Left.
+-   Duke will always start using Assault after using Strong Left.  
+    
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Critical**
+**Critical**  
+(★★☆)
 
- | Attempts to grab his victim before slamming them into the ground head-first. | ◯ | ◯ | ◯ | (★★☆) |
+ | Attempts to grab his victim before slamming them into the ground head-first.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Counter**
+**Counter**  
+(★★☆)
 
  | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
--   Only used once the posture shield is down. (Phase 2)
+-   Only used once the posture shield is down. (Phase 2)  
+    
 
- | ◯ | N/A | N/A | (★★☆) |
+Parryable:◯  
+Blockable:N/A Dodgeable:N/A
+
+ |  |
 | 
 
-**Feint**
+**Feint**  
+(★★☆)
 
  | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
 
--   Essentially an average Legion Kata feint.
+-   Essentially an average Legion Kata feint.  
+    
 
- | ✗ | ✗ | ◯ | (★★☆) |
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Binding Tempest**
+**Binding Tempest**  
+(★★☆)
 
  | The Duke rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, the Duke teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
@@ -78,71 +103,104 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Projectiles have good tracking but have a limited turn angle, possibly delaying the hit if it orbits around you.
 -   If evaded for long enough and then hit by, the Duke will not teleport nor deal any damage.
 
-**This move will insta-grip you if you are hit by the second hit on low health/knocked**
+**This move will insta-grip you if you are hit by the second hit on low health/knocked**  
+Parryable:◯  
+Blockable:✗  
+Dodgeable:◯
 
- | ◯ | ✗ | ◯ | (★★☆) |
+ |  |
 | 
 
-**Aero Spear**
+**Aero Spear**  
+(★★☆)
 
  | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 
-**This move will insta-grip if it hits you while knocked or at low health**
+**This move will insta-grip if it hits you while knocked or at low health**  
+Parryable:◯  
+Blockable:✗  
+Dodgeable:◯
 
- | ◯ | ✗ | ◯ | (★★☆) |
+ |  |
 | 
 
-**Gale Stomp**
+**Gale Stomp**  
+(★★★)
 
  | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
 
-**This move will insta-grip if it hits you while knocked or at low health**
+**This move will insta-grip if it hits you while knocked or at low health**  
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
 
- | ✗ | ◯ | ◯ | (★★★) |
+ |  |
 | 
 
-**Cyclone Bomb**
+**Cyclone Bomb**  
+(★★★)
 
  | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
 
 -   Covers a large Area of Effect.
 
-**This move will insta-grip if it hits you while knocked or at low health**
+**This move will insta-grip if it hits you while knocked or at low health**  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
- | ◯ | ◯ | ◯ | (★★★) |
+ |  |
 | 
 
-**Strong Left**
+**Strong Left**  
+(★☆☆)
 
  | Duke will charge up a punch, and teleport to his target,
 
--   Duke transition to Assault after using Strong Left.
+-   Duke transition to Assault after using Strong Left.  
+    
 
- | ◯ | ✗ | ◯ | (★☆☆) |
+Parryable:◯  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Summon Mindless Servants**
+**Summon Mindless Servants**  
+(★☆☆)
 
  | The Duke snaps his fingers, summoning 2-3 [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
 -   If fought solo, they may deem threat as they will combo you while fighting duke if not killed fast enough.
--   Only used once the posture shield is down. (Phase 2)
+-   Only used once the posture shield is down. (Phase 2)  
+    
 
- | N/A | N/A | ◯ | (★☆☆) |
+Parryable:N/A  
+Blockable:N/A  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Vent**
+**Vent**  
+(★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
 
--   He always vents whenever he gets flourished into a wall.
+-   He always vents whenever he gets flourished into a wall.  
+    
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | (★☆☆) |
 
 ### Talents
 
