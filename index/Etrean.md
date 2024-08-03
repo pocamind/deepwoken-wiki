@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 108887
+revid: 108892
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -29,13 +29,10 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
   <ul>
     <li><i>"Ailments and blessings alike fade away more quickly."</i>
   <ul>
-    <li>The duration of Status Effects, good or bad, is reduced by 15%
-  <ul>
-    <li></li>
-  </ul></li>
-  </ul></li>
+    <li>The duration of Status Effects, good or bad, is reduced by 15%</li>
     <li>Take less damage in acid rain.</li>
     <li>+1 HP</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 108412
+revid: 108906
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,7 +12,7 @@ categories: [Monsters, Bosses]
 
 ― Lumen’s Folklore: Volume ‘North’
 
-_Commonly referred to by the community and developers as Kaido._ Template:Creature Infobox V3
+_Commonly referred to by the community as Kaido (Developers prefer that it is referred to as the Dread Serpent)._ Template:Creature Infobox V3
 
 ## Description
 
@@ -31,7 +31,7 @@ able?
 | --- | --- | --- | --- | --- |
 | Dread Breath | 
 
- | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. | ✗ | (★★★) |
+ | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. This attack deals enough damage to kill a **POWER 20** player in **UNDER TWO SECONDS** consistent fire. | ✗ | (★★★) |
 | Claw Swipe | 
 
  | Swipes two times in quick succession

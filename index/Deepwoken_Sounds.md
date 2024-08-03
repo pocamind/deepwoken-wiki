@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 105410
+revid: 108889
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -395,6 +395,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.3s | Twincleave |
 |  | 1.2s | Shoulder Bash (Windup) |
 |  | 0.9s | Shoulder Bash (End) |
+|  | 23.0s | Shoulder Bash Active (Non edited) |
 |  | 0.3s | Prominence Draw (Windup) |
 |  | 1.6s | Prominence Draw (Unleash) |
 |  | 2.0s | Ceaseless Slashes (Windup) |

@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 107459
+revid: 108893
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -20,7 +20,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Diluvian Mechanism, Second Layer, Miner's Landing, Deep Widow, Duke Erisia, Maestro Evengarde Rest |
+| obtainment | Chests from:, Diluvian Mechanism, Second Layer, Miner's Landing, Deep Widow, Duke Erisia, Maestro Evengarde Rest, Primadon |
 | description | "..." |
 
 ## Description
