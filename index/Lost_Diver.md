@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 106080
+revid: 108943
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,22 +20,43 @@ A Lost Diver's appearance only consists of a [Black Diver](Black_Diver.md) outfi
 
 A Lost Diver's arsenal consists of a [Markor's Inheritor](<Markor's_Inheritor.md>) along with the [Galebreathe](Galebreathe.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
-Assault
+Assault  
+(★☆☆)
 
- | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly swings blade at opponent before finishing up the combo by kicking them.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-Critical
+Critical  
+(★★☆)
 
- | Raises right leg before firmly slamming it down into the ground below. | ◯ | ✗ | (★★☆) |
+ | Raises right leg before firmly slamming it down into the ground below.  
+
+Parryable:◯  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
 | 
 
-Gale Lunge
+Gale Lunge  
+(★★☆)
 
- | Lost Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+ | Lost Diver lunges forward with their weapon coated in wind.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 
 ### **Boons**
 

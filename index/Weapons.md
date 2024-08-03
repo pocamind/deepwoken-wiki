@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 108600
+revid: 108944
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1986,6 +1986,8 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
 
 Elemental weapons scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon.
 
+**Flamecharm:**
+
 <table>
 <tbody>
 <tr>
@@ -2015,123 +2017,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>31.5</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
-  <td>75 THD, LVL 11</td>
-  <td>20</td>
-  <td>10%</td>
-  <td>N/A</td>
-  <td>THD: 5.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1x</td>
-  <td>N/A</td>
-  <td>31.5</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
-  <td>75 ICE, LVL 11</td>
-  <td>20</td>
-  <td>10%</td>
-  <td>N/A</td>
-  <td>ICE: 5.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1x</td>
-  <td>N/A</td>
-  <td>31.5</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
-  <td>75 WND, LVL 11</td>
-  <td>20</td>
-  <td>10%</td>
-  <td>N/A</td>
-  <td>WND: 5.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1x</td>
-  <td>N/A</td>
-  <td>31.5</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
-  <td>75 SDW, LVL 11</td>
-  <td>20</td>
-  <td>10%</td>
-  <td>N/A</td>
-  <td>SDW: 5.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1x</td>
-  <td>N/A</td>
-  <td>31.5</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
-  <td>75 THD, 40 MED</td>
-  <td>19.5</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>THD: 6, MED: 3</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1x</td>
-  <td>N/A</td>
-  <td>37.8</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
-  <td>75 ICE, 30 HVY, LVL 10</td>
-  <td>24</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>ICE: 8 HVY: 4</td>
-  <td>6</td>
-  <td>8.5</td>
-  <td>0.83x</td>
-  <td>N/A</td>
-  <td>54</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds"><font>Curved Blade of Winds</font></a></td>
-  <td>75 WND, 25 MED, LVL 10</td>
-  <td>17.5</td>
-  <td>15%</td>
-  <td>N/A</td>
-  <td>MED: 5, WND: 5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>1.04x</td>
-  <td>N/A</td>
-  <td>35.7</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>
-  <td>75 SDW, 40 HVY, LVL 10</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>SDW: 9 HVY: 4</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.85x</td>
-  <td>0.15s</td>
-  <td>51.8</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher</font></a></td>
-  <td>75 MTL, 40 MED,</td>
-  <td>18</td>
-  <td>20%</td>
-  <td>N/A</td>
-  <td>MTL: 4 MED: 3</td>
-  <td>4</td>
-  <td>8</td>
-  <td>1.05x</td>
-  <td>N/A</td>
-  <td>31.1</td>
-</tr>
-<tr>
   <td><p><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></p></td>
   <td>25 HVY, 75 FIR, 10 LHT</td>
   <td>23</td>
@@ -2157,18 +2042,51 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>N/A</td>
   <td>38</td>
 </tr>
+</tbody>
+</table>
+
+**Frostdraw:**
+
+<table>
+<tbody>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Deepspindle"><font>Deepspindle</font></a></td>
-  <td>50 LHT, 75 SHD</td>
-  <td>14</td>
-  <td>20%</td>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
+  <td>75 ICE, LVL 11</td>
+  <td>20</td>
+  <td>10%</td>
   <td>N/A</td>
-  <td>LHT: 4 SHD: 9</td>
+  <td>ICE: 5.5</td>
   <td>5</td>
   <td>8</td>
-  <td>1.09x</td>
+  <td>1x</td>
   <td>N/A</td>
-  <td>33</td>
+  <td>31.5</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
+  <td>75 ICE, 30 HVY, LVL 10</td>
+  <td>24</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>ICE: 8 HVY: 4</td>
+  <td>6</td>
+  <td>8.5</td>
+  <td>0.83x</td>
+  <td>N/A</td>
+  <td>54</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Kyrswynter"><font>Kyrswynter</font></a>(<b>Bleed</b>)</td>
@@ -2183,6 +2101,98 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>N/A</td>
   <td>43.8(<b>Bleed</b>)</td>
 </tr>
+</tbody>
+</table>
+
+**Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
+  <td>75 THD, LVL 11</td>
+  <td>20</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>THD: 5.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>N/A</td>
+  <td>31.5</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
+  <td>75 THD, 40 MED</td>
+  <td>19.5</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>THD: 6, MED: 3</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>N/A</td>
+  <td>37.8</td>
+</tr>
+</tbody>
+</table>
+
+**Galebreathe:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
+  <td>75 WND, LVL 11</td>
+  <td>20</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>WND: 5.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>N/A</td>
+  <td>31.5</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds"><font>Curved Blade of Winds</font></a></td>
+  <td>75 WND, 25 MED, LVL 10</td>
+  <td>17.5</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>MED: 5, WND: 5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1.04x</td>
+  <td>N/A</td>
+  <td>35.7</td>
+</tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Wraithclaw"><font>Wraithclaw</font></a></td>
   <td>25 LHT, 75 WND</td>
@@ -2195,6 +2205,98 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.1x</td>
   <td>N/A</td>
   <td>30.9</td>
+</tr>
+</tbody>
+</table>
+
+**Shadowcast:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
+  <td>75 SDW, LVL 11</td>
+  <td>20</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>SDW: 5.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>N/A</td>
+  <td>31.5</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>
+  <td>75 SDW, 40 HVY, LVL 10</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>SDW: 9 HVY: 4</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.85x</td>
+  <td>0.15s</td>
+  <td>51.8</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Deepspindle"><font>Deepspindle</font></a></td>
+  <td>50 LHT, 75 SHD</td>
+  <td>14</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>LHT: 4 SHD: 9</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1.09x</td>
+  <td>N/A</td>
+  <td>33</td>
+</tr>
+</tbody>
+</table>
+
+**Ironsing:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher</font></a></td>
+  <td>75 MTL, 40 MED,</td>
+  <td>18</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>MTL: 4 MED: 3</td>
+  <td>4</td>
+  <td>8</td>
+  <td>1.05x</td>
+  <td>N/A</td>
+  <td>31.1</td>
 </tr>
 </tbody>
 </table>

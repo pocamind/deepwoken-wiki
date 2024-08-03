@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108655
+revid: 108961
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  15 Fortitude or 15 strength, although as of currently we are not 100% sure.
+1.  The oath requires a combined 40 points into either Willpower/Strength/Fortitude, although as of currently we are not 100% sure.
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Castle_Ruins).
 
 1.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy named Emar Vend that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
@@ -41,6 +41,8 @@ Known humanoids are:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Ferryman](The_Ferryman.md)
+
+To get all mantras and the talents you'll need to do either of these 2 times, first time granting you Rupture and Perpetual Wrath and the second time Chain Lash
 
 ## Effects
 

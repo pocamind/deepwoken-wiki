@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 108066
+revid: 108946
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -51,7 +51,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
     -   [Vigil Initiate](Vigil_Initiate.md) for.
     -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for.
 
--   Near the Mantra Shop, there is a destructible wall. Behind the wall usually have 4-5 Erisia chests.
+-   Near the Mantra Shop, there is a destructible wall. Behind the wall usually have 4-5 Erisia chests plus **most**, but not all buyable mantra modifiers.
 
 The wall
 
@@ -72,7 +72,7 @@ The wall
 
 -   A zipline can be found near the Antiquarian, which is used as a shortcut to the docks.
 -   Up in the mountains, (climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, where a chest usually spawns up there.
--   The zipline near the Mantra Shop is essential for the [Nanji](Nanji.md) Quest.
+-   Taking the zipline near the mantra shop leads you to a sword needed to complete [Nanji's](Nanji.md) Quest.
 
 File:Unknownzipline.png
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 108720
+revid: 108953
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -74,6 +74,20 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>The user may cancel the barrage at any point during it by right clicking.</li>
     <li>Rapid Punches scales with your Strength attribute.</li>
     <li>Victims struck by the last punch are pushed away.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Table Flip<p>(☆☆☆)</p></td>
+  <td><i>Toss the ground infront of you.</i></td>
+  <td></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
+  <ul>
+    <li>Throw a piece of the ground that goes straight in the direction you're looking at.</li>
+    <li>Victims crushed by the rock will be dazed and will be thrown away.</li>
   </ul></li>
   </ul></td>
 </tr>

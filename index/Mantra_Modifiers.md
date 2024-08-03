@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 107228
+revid: 108938
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -180,9 +180,7 @@ Eternal Logstone
  |
 |  | 
 
-Drift
-
-Shard
+Drift Shard
 
  | 
 
@@ -249,9 +247,7 @@ Removes all Modifiers on a Mantra.
  |
 |  | 
 
-Glass
-
-Stone
+Glass Stone
 
  | 
 
@@ -292,9 +288,7 @@ Magnifying Stone
  |
 |  | 
 
-Vibrant
-
-Gem
+Vibrant Gem
 
  | 
 
@@ -432,9 +426,7 @@ Applies "Magnet Shot" to compatible Mantra.
 
  | 
 
-Round
-
-Spark
+Round Spark
 
  | 
 
@@ -452,9 +444,7 @@ Applies "Round Shot" to compatible Mantra.
 
  | 
 
-Blast
-
-Spark
+Blast Spark
 
  | 
 
@@ -522,9 +512,7 @@ Applies "Triple Shot" to compatible Mantra.
 
  | 
 
-Spring
-
-Spark
+Spring Spark
 
  | 
 
@@ -564,9 +552,7 @@ _"You feel dizzy when you hold it."_
 
  | 
 
-Mirage
-
-Stone
+Mirage Stone
 
  | 
 

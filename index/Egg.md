@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 101160
+revid: 108949
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -40,3 +40,11 @@ Eggs are a food item in Deepwoken. They can be used to make Cooked Eggs, Omelett
 #### [Greathive Aratel](Greathive_Aratel.md)
 
 -   In the tree to the left of the Balcony entrance up the stairs from the blacksmith
+
+#### [Lightkeeper Temple](Lightkeeper_Temple.md)
+
+-   Several Thresher eggs in nests scattered around the area.
+
+#### [Fort Merit](Fort_Merit.md)
+
+-   On a high rock wall facing [Meteor Isle](Meteor_Isle.md)

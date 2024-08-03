@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 108906
+revid: 108942
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -24,24 +24,32 @@ Though there are many seen today, the first Dread Serpent was born when a man, o
 
 _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)._
 
-| Name | Media | Description | Parry-
-able?
+| Name | Description | Media |
+| --- | --- | --- |
+| Dread Breath  
+(★★★) | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. This attack deals enough damage to knock a **POWER 20** player in **UNDER TWO SECONDS** consistent fire. If hit while knocked, it causes **extreme** amounts of blood loss.  
+Parryable:✗  
+Blockable:?  
+Dodgeable:?
 
- | Danger |
-| --- | --- | --- | --- | --- |
-| Dread Breath | 
+ |  |
+| Claw Swipe  
+(★☆☆) | Swipes two times in quick succession
 
- | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. This attack deals enough damage to kill a **POWER 20** player in **UNDER TWO SECONDS** consistent fire. | ✗ | (★★★) |
-| Claw Swipe | 
+Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe. If the opponent is low enough, It will **AUTO-GRIP** the player.  
+Parryable:◯  
+Blockable:?  
+Dodgeable:?
 
- | Swipes two times in quick succession
+ |  |
+| Tail Swipe  
+(★★☆) | An attack with the tail, often used after two claw swipes.  
 
-Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe. If the opponent is low enough, It will **AUTO-GRIP** the player.
+Parryable:◯  
+Blockable:?  
+Dodgeable:?
 
- | ◯ | (★☆☆) |
-| Tail Swipe | 
-
- | An attack with the tail. Is often used after two claw swipes. | ◯ | (★★☆) |
+ |  |
 
 ## Passives
 
