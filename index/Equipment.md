@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 108834
+revid: 108986
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -2054,25 +2054,6 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 -   Buying from [Chili](Travelling_Merchant.md)
-
- | N/A |
-|  | 
-
-[Hunter's Brace](<Hunter's_Brace.md>)
-
- | 
-
-When worn, unparryable attacks become parryable.
-
-(e.g. Megalodaunt's Kick, Primadon's Kick, Rock Golem's Punch)
-
-_Disappears on death or leaving the game._
-
- | 
-
-Found from:
-
--   The Store at [Summer Isle](Summer_Isle.md)
 
  | N/A |
 | File:Imperial Pauldrons.png | 

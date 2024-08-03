@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Sniper
-revid: 107042
+revid: 108981
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Distinguishable by their glowing blue Membranes, Kyrsgarde Snipers stay at the top of buildings in an attempt to snipe the players lurking below. Their glaring weakness is the fact that they can only throw their spears and cant use melee attacks, and are also a lot weaker than their Lancer counterparts.
+Distinguishable by their glowing blue membranes, Kyrsgarde Snipers stay at the top of buildings in an attempt to snipe the players lurking below. Their glaring weakness is the fact that they can only throw their spears and cant use melee attacks, and are also a lot weaker than their Lancer counterparts.
 
 They can also spawn in the [Scion of Ethiron](Scion_of_Ethiron.md) fight by the Bone Altars with a lot less health, serving as easy kills to give the players a healthpack should they get low on health.
 
