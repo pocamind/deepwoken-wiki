@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 108877
+revid: 108918
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -71,7 +71,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 3 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm Talents.<br>
+  <td><div><p>After landing 2/4/7 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm Talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>

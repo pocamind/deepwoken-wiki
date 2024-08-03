@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 108619
+revid: 108917
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
@@ -57,8 +57,10 @@ Stone
 
 Astral
 
+Detonation
+
 File:Nocturne Full Stance.png
 
-Full view of the duel wielding stance.
+Full view of the dual wielding stance.
 
 Close up view of one of the swords.

@@ -1,6 +1,6 @@
 ---
 title: "Hive Greatlord's Royal Adornment"
-revid: 107479
+revid: 108933
 source: https://deepwoken.fandom.com/wiki/Hive_Greatlord's_Royal_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Developer Spec, Exclusive]
@@ -35,7 +35,5 @@ The Hive Greatlord's Royal Adornment is an [Equipment](Equipment.md) item under 
 -   The design of this Hat is almost a 1:1 copy of [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) hat from the open world RPG, _Genshin Impact_.
 
 ## References
-
-Template:Reflist
 
 1.  [↑](#cite-ref-1)

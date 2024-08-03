@@ -1,9 +1,11 @@
 ---
 title: The Diluvian Mechanism
-revid: 108645
+revid: 108932
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Layer 1, InProgressPages]
+categories: [In progress without reason, InProgressPages, Layer 1]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The Diluvian Mechanism
@@ -67,7 +69,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the Tidekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
 -   _**Ardour: Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
 -   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
--   _**Vampirism;**_ This is easily one of the best enchants for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
+-   _**Vampirism;**_ This is easily one of the best enchantments for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
 -   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 
 ## Loot
@@ -75,7 +77,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md) and all [Relics](Relics.md) at all levels.
 -   Depths Chests (5 & 10)
 -   Brown Chests (15-50)
--   Enchant stones[\[1\]](#cite-note-1) ( ??? - ??? )
+-   [Enchant Stones](Enchant_Stone.md) ( ??? - ??? )
 -   [Stormseye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (25+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (25+)
@@ -178,12 +180,12 @@ Based on the power of the user(s), the starting wave will differ;
 -   Ironsing - Alloyed Darksteel Greatsword and Mecha Gatling
 
  |
-| 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers | The Black Divers wield enchants, and are an incredible nuisance. What is worse is that they can use dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. |
+| 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers | The Black Divers wield enchantments, and are an incredible nuisance. What is worse is that they can use Dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. |
 | 47 (Infection Spree)
 
 **\*THIN AIR MODIFIER\***
 
- | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchant-wielding Diver Husks |  |
+ | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchantment-wielding Diver Husks |  |
 | 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned(?) Deep Widow, 2 Corrupt Golem Primes |  |
 | 49 (Divine Humor) | 1 Lowly Bandit | The only wave that actually lets you take time. |
 | 50 (End of the Hell)
@@ -199,16 +201,10 @@ Based on the power of the user(s), the starting wave will differ;
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
--   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
+-   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
 
 -   The bandit at wave 49 serves as a health pack for players who are low or to rest and heal with a Graceful Flame.
 
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
 -   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere,"\[Source Required\] referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
 -   The Diluvian Mechanism is one of the best ways to farm [Knowledge](Knowledge.md) by gaining [Moonseye Tomes](Moonseye_Tome.md) and just completing wave 50 in general.
-
-## References
-
-Template:Reflist
-
-1.  [↑](#cite-ref-1) [Enchant Stone](Enchant_Stone.md)
