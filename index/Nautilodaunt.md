@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 108974
+revid: 109046
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -59,7 +59,7 @@ While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), mak
 
 While this mob can **not** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
 
-Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1000 (which can reach numbers as small as 200 with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) will make this mob into a far easier challenge.
+Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1000 (which can reach numbers as small as 200 with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) will make this mob into a far easier challenge. With such a weapon, simply block 2 or 3 attacks, then feint-critical to blockbreak him. Do this until he dies. This is still a very risky strategy, especially if you run out of posture to block with.
 
 However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 

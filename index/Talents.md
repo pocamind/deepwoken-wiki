@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109027
+revid: 109041
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1991,10 +1991,9 @@ _**"I seek the qualities of Lichtenberg."**_
 
 > _**"I get my way."**_
 
-Prerequisite: Charisma
-
 -   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
+    -   Prerequisite: Charisma 20
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
     -   One gives a Reinforce-like buff without healing, the other grants ~33% Ether.

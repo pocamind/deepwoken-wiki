@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 108998
+revid: 109057
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -35,7 +35,7 @@ The plate is the largest armor piece, coming with the talent _Diver's Resilience
 ## Trivia
 
 -   Due to the innate +10hp, the plate is one of the best in the game allowing it to have up to 44hp if drowned, and 34 without enchants.
-    -   This means it has the same stats as a [Diver's Light Plate](<Diver's_Light_Plate.md>), but without a hellmode requirement.
+    -   This means it has the same stats as a [Diver's Light Plate](<Diver's_Light_Plate.md>), but without a hellmode requirement and a lower fort requirement.
 -   Inspiration likely came from the [Arcwarder Oath](Oath%253A_Arcwarder.md), was it bears heavy resemblance to it's armor.
 -   The plate's talent acts very similarly to the [Ignition Deepdelver](Ignition_Deepdelver.md) armor, with the only difference being that the talent slows you down instead of taking away your armor on proc.
 -   The discovery of the obtainment method for the armor is credited to [StarPhil29](https://www.youtube.com/@StarPhil29).

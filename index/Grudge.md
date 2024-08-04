@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 108650
+revid: 109042
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -11,11 +11,11 @@ categories: [Random Encounters, NPCs]
 | Grudge | |
 |---|---|
 | name | Grudge |
-| location | Minityrsa, Starswept Valley, Songseeker Wilds, Scyphozia, Upper Erisia |
+| location | Minityrsa, Starswept Valley, Songseeker Wilds, Scyphozia, Upper Erisia, Meteor Isle |
 
 ## Description
 
-Grudge is a hostile NPC that has a low chance be randomly encountered in [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths (Scyphozia)](First_Layer.md), and [Upper Erisia](Upper_Erisia.md). He wields the legendary [Wraithclaw](Wraithclaw.md), and also utilizes [Galebreathe](Galebreathe.md).
+Grudge is a hostile NPC that has a low chance be randomly encountered in [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths (Scyphozia)](First_Layer.md), [Upper Erisia](Upper_Erisia.md) and [Meteor Isle](Meteor_Isle.md). He wields the legendary [Wraithclaw](Wraithclaw.md), and also utilizes [Galebreathe](Galebreathe.md).
 
 The only requirement for this NPC to spawn is having uncapped [Galebreathe](Galebreathe.md).
 

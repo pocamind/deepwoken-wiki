@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 109018
+revid: 109052
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1911,13 +1911,13 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></td>
   <td>100 HVY, 60 STR</td>
-  <td>30</td>
+  <td>29</td>
   <td>5%</td>
   <td>N/A</td>
   <td>HVY: 10</td>
   <td>10</td>
   <td>10</td>
-  <td>0.6x</td>
+  <td>0.62x</td>
   <td>N/A</td>
   <td>61.3</td>
 </tr>

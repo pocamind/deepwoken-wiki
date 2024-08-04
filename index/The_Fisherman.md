@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109030
+revid: 109056
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,12 +17,19 @@ The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fishe
 
 ## Moveset
 
-The Fisherman uses his enchanted [Halberd](Halberd.md) and thundercall mantras, along with his [Chainwarden](Oath%253A_Chainwarden.md) mantras.
+The Fisherman uses his enchanted [Halberd](Halberd.md) and [Thundercall](Thundercall.md) and [Chainwarden](Oath%253A_Chainwarden.md) mantras.
 
 | Name | Media | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
 | Basic Attack | N/A | The Fisherman hits the player with an ordinary attack. | ◯ | ◯ | ◯ | (☆☆☆) |
 | Critical | N/A | The Fisherman performs a wind-up before raising his sword and hitting. | ◯ | ✗ | ◯ | (★☆☆) |
+| Lightning Stream | N/A | The Fisherman casts a stream of lightning that pulls the opponent towards them. | ◯ | ◯ | ◯ | (☆☆☆) |
+| Lightning Strike | N/A | The Fisherman strikes his opponent from above with lightning. | ◯ | ◯ | ◯ | (★☆☆) |
+| Thunder Kick | N/A | The Fisherman raises his leg and kicks his opponent with thunder. | ◯ | ◯ | ◯ | (★☆☆) |
+| Storm Blades | N/A | The Fisherman conjures five blades of thunder in front of them. | ◯ | ◯ | ◯ | (★★☆) |
+| Restrain | N/A | The Fisherman delivers a powerful kick that chains the opponent to them. | ◯ | ✗ | ◯ | (★★☆) |
+| Rupture | N/A | If the opponent is chained (via Restraint, or if he flourishes you), detonate the opponent, dealing a high amount of damage. | ✗ | ✗ | ◯ | (★★★) |
+| Emotion Wave | N/A | The Fisherman stomps the ground, causing five surging waves of lightning to travel along the ground. | ◯ | ◯ | ◯ | (★★★) |
 
 ## Finisher
 
@@ -40,5 +47,5 @@ The Fisherman executes its opponents after knocking them.
 
 ## Trivia
 
--   It is believed that The Fisherman's armor set, the [Grand Fisher](Grand_Fisher_Plate.md) set, is based off of the Oath [Arcwarder](Oath%253A_Arcwarder.md), due to their striking resemblance.
+-   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of Sajin Komamura's armor from the anime Bleach, this is directly referenced in the concept art for the set.
 -   The [Grand Fisher set](Grand_Fisher_Helm.md) is a guaranteed drop from him (both items).
