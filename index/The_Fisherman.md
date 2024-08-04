@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109026
+revid: 109030
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

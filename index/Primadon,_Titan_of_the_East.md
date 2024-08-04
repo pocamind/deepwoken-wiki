@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 108832
+revid: 109031
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -43,16 +43,8 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
   <td>5</td>
 </tr>
 <tr>
-  <td><a href="Megalodaunt_Coral.md">Megalodaunt Coral</a></td>
-  <td>1</td>
-</tr>
-<tr>
   <td><a href="Thresher_Spine.md">Thresher Spine</a></td>
   <td>5</td>
-</tr>
-<tr>
-  <td><a href="Thresher_Talon.md">Thresher Talon</a></td>
-  <td>1</td>
 </tr>
 <tr>
   <td><a href="Lionfish_Scale.md">Lionfish Scale</a></td>
@@ -61,10 +53,6 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Strange_Claw.md">Strange Claw</a></td>
   <td>5</td>
-</tr>
-<tr>
-  <td><a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a></td>
-  <td>1</td>
 </tr>
 </tbody>
 </table>
