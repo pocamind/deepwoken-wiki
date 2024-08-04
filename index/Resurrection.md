@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 108324
+revid: 109002
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -39,7 +39,7 @@ While players have a marker on them if they are knocked, they will be lifted int
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
 
-**WARNING:** Resurrection **WILL NOT** activate if you are instant gripped (ex. Primadons' stomp or fall damage)
+**WARNING:** Resurrection **WILL NOT** activate if you are auto gripped (ex. fall damage) unless you have the auto grip variant.
 
 ### _Resonance Point usage_
 

@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 107566
+revid: 109013
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -22,8 +22,13 @@ categories: [Equipment, Head, Hats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | First Layer |
-| description | "A hat typically worn by those from the Western Luminant." |
+| description | "A hat typically worn by those from the Central Luminant." |
 
 ## Description
 
 The Strapped Hat is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +3 health, the innate Talent Exterminator, as well as extra randomized stats based on the amount of pips.
+
+## Trivia
+
+-   The description used to read "Western Luminant" instead of "Central."
+    -   It's unclear whether this was a typo or if the concept of the Western Luminant change with time.

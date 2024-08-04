@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 108944
+revid: 109018
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -449,7 +449,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. One Handed Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. If used as dual guns or as an off-hand, these only add PEN and the bullet effect with no projectile. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
+Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. One Handed Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, while also providing advantages and disadvantages depending on the ore the bullets are made of. If used as dual guns or as an off-hand, these only add the ore effect with no projectile. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
 
 <table>
 <tbody>

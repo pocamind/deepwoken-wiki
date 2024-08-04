@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 108984
+revid: 109021
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 | Oath: Chainwarden | |
 |---|---|
-| oath_req | Friend Reputation with The Central Authority15 Fortitude OR 15 Strength |
+| oath_req | Friend Reputation with The Central AuthorityA combined total of 40 in Strength, Fortitude and Willpower |
 | effects | +2 Combat Mantra slots |
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
@@ -23,10 +23,10 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  The oath requires a combined 40 points into either Willpower/Strength/Fortitude, although as of currently we are not 100% sure.
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation (about halfway to Ally Reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Castle_Ruins).
+1.  The Oath requires a combined 40 points into Strength, Fortitude and Willpower.
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend Reputation, about halfway to Ally Reputation, or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
 
-1.  After talking to the hostage below the building, go back up the ladder. This will spawn a difficult enemy named [Emar Vend](Emar_Vend.md) that uses Chainwarden's Mantras and wields a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating the enemy, you will be granted the Oath.
+1.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating him, you will be granted the Oath.
 
 ## Progression
 
@@ -67,6 +67,7 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 -   Restrain chains the opponent even if the hit was blocked.
 -   Restrain has no cooldown as long as you are landing the mantra, working even on dodge/block, but not parry. When you whiff Restrain, it goes on cooldown.
 -   Chained targets from Restrain are slowed when they run away from you.
+-   Chainwardens can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
 -   Every time you hit Restrain, the damage increases, stacking up to double the base damage.
     -   Damage increase stacks are independent from person to person.
 -   Using Rupture without a chained target instead unleashes two swift punches, dazing the opponent.

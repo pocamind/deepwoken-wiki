@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 107348
+revid: 109003
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -30,7 +30,7 @@ The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" ca
 
 ## Trivia
 
--   This is the best Arms [Equipment](Equipment.md) in Deepwoken, with the second being [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md). However, the [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) is usually the best overall choice since they're a lot easier to obtain than Diver's Light Plate.
+-   This was, formerly, the best Arms [Equipment](Equipment.md) in Deepwoken, but it now loses to the [Grand Fisher Plate](Grand_Fisher_Plate.md), which is not only more easily obtainable, and giving the same amount of Pips, but it also gives a better talent as well.
 -   This armor can't be dropped by the user. Transmogrifying it as a **vanity** also turns that equipment into a semi-soulbound item, where it is completely **undroppable** by any means (including death,) and can't be passed down/banked unless Enchanted. As of 28/06/2024, this armor can be banked and be passed down via the [Hippocampal Pool](Hippocampal_Pool.md).
 -   Can be obtained without killing any monsters during Hell Mode. You just need to ring the bell and stay in the server when hell mode begins and ends.
 -   This armor looks very similar to the Pre-verse 2 Black Diver outfit and takes clear inspiration from Bondrewd's outfit from the anime and manga series _Made in Abyss_.

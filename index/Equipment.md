@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 108986
+revid: 108999
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -757,6 +757,27 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Artifact Turn-ins](Artifacts.md)
+
+ | N/A |
+|  | 
+
+[Grand Fisher Helm](Grand_Fisher_Helm.md)
+
+ | 
+
+_+5 Health, +5% Ice Armor, +5% Lightning Armor_
+
++1 Rare Pip
+
++1 Legendary Pip
+
+_+Talent: Coldseep Reactor_
+
+ | 
+
+Found From:
+
+-   [The Fisherman](The_Fisherman.md)
 
  | N/A |
 | File:Guard's Kabuto.png | 
@@ -1968,6 +1989,25 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+|  | 
+
+[Grand Fisher Plate](Grand_Fisher_Plate.md)
+
+ | 
+
+_+10 Health, +1 Posture_
+
++3 Legendary Pip
+
+_+Talent: Diver's Resilience_
+
+ | 
+
+Found From:
+
+-   [The Fisherman](The_Fisherman.md)
 
  | N/A |
 | File:Grand Pauldrons.png | 

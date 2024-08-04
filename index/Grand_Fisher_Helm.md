@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 108990
+revid: 108995
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
