@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 109104
+revid: 109132
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -85,6 +85,8 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 
 **Treefelling Quest:**
 
+**Quest Start:**
+
 <table>
 <tbody>
 <tr>
@@ -120,9 +122,13 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 <tr>
   <td colspan="8">End</td>
 </tr>
-<tr>
-  <td colspan="8"></td>
-</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
 <tr>
   <td colspan="8">Begin</td>
 </tr>
@@ -135,7 +141,7 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
   <td colspan="4">*<i>The bewildered lumberjack's expression reminds you of your intellectual quest to punch down <b>5</b> trees. Your research is crucial. The world must know.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">End, Talent got</td>
+  <td colspan="4">End, talent got</td>
   <td colspan="4">End</td>
 </tr>
 </tbody>

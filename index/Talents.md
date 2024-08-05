@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109099
+revid: 109120
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -245,12 +245,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown once flames are cleared.
+    -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   Prerequisite: 25 Flamecharm
-
--   Last Laugh \[Common Talent, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity)
-    -   Enable the usage of Flame Within while knocked. This is meant to synergize with Phoenix Flames.
-    -   Will lower the strength of Phoenix Flames from 50% to 25% healing.
-    -   Prerequisites: 30 Flamecharm, Flame Within
 
 ### Angler
 
@@ -1198,12 +1194,9 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"All must burn."**_
 
--   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
-    -   Burn grip unconscious targets in 3 seconds (same time as a manual grip) intead of 5.
-    -   Prerequisites: Corpse Explosion
-
--   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
+-   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
+    -   Burn grip unconscious targets in 3 seconds (same time as a manual grip) intead of 5.
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma

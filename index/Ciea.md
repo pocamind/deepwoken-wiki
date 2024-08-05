@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 109014
+revid: 109146
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -32,13 +32,15 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 
 **First Encounter:**
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hm? You come stumbling into my research lab, but for what cause? If you're looking for potions, I'm not for hire, However, if you are looking to experiment and train your intellect to pursue being an apothecary, I do offer lessons, hehe.</td>
+  <td colspan="12">Hm? You come stumbling into my research lab, but for what cause? If you're looking for potions, I'm not for hire. However, if you are looking to experiment and train your intellect to pursue being an apothecary, I do offer lessons, hehe.</td>
 </tr>
 <tr>
   <td colspan="6">I'm interested in a lesson.</td>
@@ -53,15 +55,19 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
   <td colspan="6">I'm interested in a lesson.</td>
 </tr>
 <tr>
-  <td colspan="6">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [bring forth a surge of speed](<i><b><u>Hastening</u></b></i> potion)/[deplete the sanity of it's victim](<i><b><u>Mindbreaking</u></b></i> potion)/[restore your life force](<i><b><u>Rejuvinating</u></b></i> potion)/[cause harm to it's victim](<i><b><u>Disgusting</u></b></i> potion)/[restore your ether, to a satisfactory degree](<i><b><u>Soothing</u></b></i> potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
+  <td colspan="6">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [bring forth a surge of speed](<i><b><u>Hastening</u></b></i> potion)/[deplete the sanity of its victim](<i><b><u>Mindbreaking</u></b></i> potion)/[restore your life force](<i><b><u>Rejuvenating</u></b></i> potion)/[cause harm to its victim](<i><b><u>Disgusting</u></b></i> potion)/[restore your ether, to a satisfactory degree](<i><b><u>Soothing</u></b></i> potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6">End</td>
 </tr>
-<tr>
-  <td colspan="12"></td>
-</tr>
+</tbody>
+</table>
+
+**Turning in the potion:**
+
+<table>
+<tbody>
 <tr>
   <td colspan="12">Begin</td>
 </tr>
@@ -72,7 +78,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
   <td colspan="12">I've made the potion.</td>
 </tr>
 <tr>
-  <td colspan="12">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [bring forth a surge of speed]/[deplete the sanity of it's victim]/[restore your lifeforce]/[cause harm to it's victim]/[restore your ether, to a satisfactory degree].</td>
+  <td colspan="12">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [bring forth a surge of speed]/[deplete the sanity of its victim]/[restore your life force]/[cause harm to its victim]/[restore your ether, to a satisfactory degree].</td>
 </tr>
 <tr>
   <td colspan="12">Here is my creation.</td>
@@ -86,7 +92,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 <tr>
   <td colspan="3">No, no. Please hold out a fine concoction.</td>
   <td colspan="3">No, no, this isn't a potion dear apprentice! Surely you're not attempting to prank me, hehe.</td>
-  <td colspan="3">Ah, dear apprentice.. it seems your knowledge is lacking. Experiment with your creations, hehe! This potion lacks the ability to cause harm to it's victim. Perhaps you've shown me the wrong one? Please, hold out another and I'll inspect it.</td>
+  <td colspan="3">Ah, dear apprentice.. it seems your knowledge is lacking. Experiment with your creations, hehe! This potion lacks the ability to cause harm to its victim. Perhaps you've shown me the wrong one? Please, hold out another and I'll inspect it.</td>
   <td colspan="3">A protege! Dear apprentice, this is it! You truly are an inspiring apothecary! I hope you've gained newfound knowledge of this unique art. Please, I insist you return to me if you ever seek additional lessons; I'm available anytime.</td>
 </tr>
 <tr>

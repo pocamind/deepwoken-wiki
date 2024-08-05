@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 108186
+revid: 109137
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -20,6 +20,8 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
 ## Dialogue
 
 **First Encounter:**
+
+**Quest Start:**
 
 <table>
 <tbody>
@@ -59,9 +61,13 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
 <tr>
   <td colspan="6">End</td>
 </tr>
-<tr>
-  <td colspan="12"></td>
-</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
 <tr>
   <td colspan="12">Begin</td>
 </tr>
@@ -81,7 +87,8 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
   <td colspan="6">No? Please, keep looking for him... I have to remain here. Just in case he shows up.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6">End, quest complete</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>

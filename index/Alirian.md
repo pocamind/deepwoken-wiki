@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 108570
+revid: 109143
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -28,6 +28,8 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 ## Dialogue
 
 **First encounter:**
+
+**Race Start:**
 
 <table>
 <tbody>
@@ -74,37 +76,53 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>You're... Pretty good.</td>
+  <td colspan="12">You're... Pretty good.</td>
 </tr>
 <tr>
-  <td>Well, now what?</td>
+  <td colspan="12">Well, now what?</td>
 </tr>
 <tr>
-  <td>Do you know what that means?! Our rivalry.. it's meant to be! You and me. Runners for life. Got it? Do you vow to be my runner buddy- I mean, rival?</td>
+  <td colspan="12">Do you know what that means?! Our rivalry.. it's meant to be! You and me. Runners for life. Got it? Do you vow to be my runner buddy- I mean, rival?</td>
 </tr>
 <tr>
-  <td>Absolutely, I think we should be best friends.</td>
+  <td colspan="12">Absolutely, I think we should be best friends.</td>
 </tr>
 <tr>
-  <td>YEAAAH!! Oh my oh my oh my.. a friend! Gosh, I'm.. thank you! Say, my despicable rival friend.. would you perhaps like to take up the same oath as me? Think of it as.. confirming our rivalry will be everlasting!</td>
+  <td colspan="12">YEAAAH!! Oh my oh my oh my.. a friend! Gosh, I'm.. thank you! Say, my despicable rival friend.. would you perhaps like to take up the same oath as me? Think of it as.. confirming our rivalry will be everlasting!</td>
 </tr>
 <tr>
-  <td>I'll follow your oath, my dear rival. [Oath Given]</td>
+  <td colspan="12">I'll follow your oath, my dear rival. [Oath Given]</td>
 </tr>
 <tr>
-  <td>This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. Ah, it's so freeing.</td>
+  <td colspan="12">This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. Ah, it's so freeing.</td>
 </tr>
 <tr>
-  <td>How can I use Jetstriking to grow stronger?</td>
+  <td colspan="12">How can I use Jetstriking to grow stronger?</td>
 </tr>
 <tr>
-  <td>Aha! Curious little rival thinks they can keep up with me? Well, well, it's simple! Find more beacons such as the one we raced for out in the world, and then come back to me each time! I'll show you all their tricks, teehee..</td>
+  <td colspan="12">Aha! Curious little rival thinks they can keep up with me? Well, well, it's simple! Find more beacons such as the one we raced for out in the world, and then come back to me each time! I'll show you all their tricks, teehee..</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Race Lost:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Heh! Better luck next time, rival! I'll be heading back in a few, just need to..huff..catch my breath.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -114,24 +132,24 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">My despicable rival... it's a <i>DISPLEASURE</i> to see you again! In a friendly way though. Teehee.</td>
+  <td colspan="12">My despicable rival... it's a <i>DISPLEASURE</i> to see you again! In a friendly way though. Teehee.</td>
 </tr>
 <tr>
-  <td colspan="4">I'm looking to advance my Jetstriking.</td>
+  <td colspan="12">I'm looking to advance my Jetstriking.</td>
 </tr>
 <tr>
-  <td colspan="2">No orbs or 1-4 orbs obtained</td>
-  <td colspan="2">Quest finished</td>
+  <td colspan="6">No orbs or 1-4 orbs obtained</td>
+  <td colspan="6">Quest finished</td>
 </tr>
 <tr>
-  <td colspan="2">Ah, I see.. You have more to find out there in the world, my dear rival! Seek out the orbs of wind throughout this Luminant, and you'll maybe be able to catch up with me, hehe!</td>
-  <td colspan="2">Rival! You've done it! That's.. everything! I suppose I can.. begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done.</td>
+  <td colspan="6">Ah, I see.. You have more to find out there in the world, my dear rival! Seek out the orbs of wind throughout this Luminant, and you'll maybe be able to catch up with me, hehe!</td>
+  <td colspan="6">Rival! You've done it! That's.. everything! I suppose I can.. begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -141,45 +159,43 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 <table>
 <tbody>
 <tr>
-  <td colspan="7">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>Requirements unmet for Jetstriker</td>
-  <td>When you talk to her during the race</td>
-  <td>When the player loses the race</td>
-  <td>When another player talks to Alirian during the race, or when it finishes</td>
-  <td>Getting a Jetstriker orb</td>
-  <td>Breaking the oath with Alirian</td>
-  <td>Regaining the oath after you broke it</td>
+  <td colspan="2">Requirements unmet for Jetstriker</td>
+  <td colspan="2">When you talk to her during the race</td>
+  <td colspan="2">When another player talks to Alirian during the race, or when it finishes</td>
+  <td colspan="2">Getting a Jetstriker orb</td>
+  <td colspan="2">Breaking the oath with Alirian</td>
+  <td colspan="2">Regaining the oath after you broke it</td>
 </tr>
 <tr>
-  <td>You! You look... Boring! Very, very boring! Go run a lap or something, maybe then we can get along.</td>
-  <td>NOT NOW, GOTTA RUN! TALK TO 'YA LATER!</td>
-  <td>Heh! Better luck next time, rival! I'll be heading back in a few, just need to..huff..catch my breath.</td>
-  <td>Huff...huff...</td>
-  <td>I feel the winds rush through my body...</td>
-  <td>Huh. And here I thought I’d found a true rival. I had fun while it lasted, friend.</td>
-  <td>Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that.</td>
+  <td colspan="2">You! You look... Boring! Very, very boring! Go run a lap or something, maybe then we can get along.</td>
+  <td colspan="2">NOT NOW, GOTTA RUN! TALK TO 'YA LATER!</td>
+  <td colspan="2">Huff...huff...</td>
+  <td colspan="2">I feel the winds rush through my body...</td>
+  <td colspan="2">Huh. And here I thought I’d found a true rival. I had fun while it lasted, friend.</td>
+  <td colspan="2">Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td>Please forgive me.</td>
+  <td colspan="10">End</td>
+  <td colspan="2">Please forgive me.</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td>Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?</td>
+  <td colspan="10"></td>
+  <td colspan="2">Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td>I'll follow your oath, my dear rival.</td>
+  <td colspan="10"></td>
+  <td colspan="2">I'll follow your oath, my dear rival.</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td>This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing.</td>
+  <td colspan="10"></td>
+  <td colspan="2">This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing.</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td>End</td>
+  <td colspan="10"></td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

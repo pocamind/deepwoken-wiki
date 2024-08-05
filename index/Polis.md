@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 106637
+revid: 109144
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea]
@@ -22,7 +22,9 @@ Polis is an NPC normally found sitting below the white tree in the center of [Et
 
 ## Dialogue
 
-**First encounter:**
+**First Encounter:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -67,42 +69,62 @@ Polis is an NPC normally found sitting below the white tree in the center of [Et
 </tbody>
 </table>
 
+**Helped with Etris Siege event:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, if it isn't the hero of Etrea. How goes your wary travels?</td>
+</tr>
+<tr>
+  <td colspan="6">What are you doing here?</td>
+  <td colspan="6">How do I get strong like you?</td>
+</tr>
+<tr>
+  <td colspan="12">[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
 **After you hear his story:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Hm. Back again? You're more persistent than I gave you credit for.</td>
+  <td colspan="12">Hm. Back again? You're more persistent than I gave you credit for.</td>
 </tr>
 <tr>
-  <td colspan="4">Is there anything you can teach me?</td>
-  <td>What are you doing here?</td>
-  <td>How do I get as strong as you?</td>
+  <td colspan="6">Is there anything you can teach me?</td>
+  <td colspan="3">What are you doing here?</td>
+  <td colspan="3">How do I get as strong as you?</td>
 </tr>
 <tr>
-  <td colspan="2">[Requirements Met]</td>
-  <td colspan="2">[Requirements Unmet]</td>
-  <td colspan="2">[See first instance]</td>
+  <td colspan="3">[Requirements Met]</td>
+  <td colspan="3">[Requirements Unmet]</td>
+  <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="2">Hm... Perhaps you have the aptitude for <b>Jus Karita</b> after all...</td>
-  <td colspan="2">Hm... I don't think you're ready for <b>Jus Karita</b> quite yet...</td>
+  <td colspan="3">Hm... Perhaps you have the aptitude for <b>Jus Karita</b> after all...</td>
+  <td colspan="3">Hm... I don't think you're ready for <b>Jus Karita</b> quite yet...</td>
 </tr>
 <tr>
-  <td colspan="2">What is Jus Karita?</td>
-  <td colspan="2">End</td>
+  <td colspan="3">What is Jus Karita?</td>
+  <td colspan="3">End</td>
 </tr>
 <tr>
-  <td colspan="2">A Path that one may walk in combat. Refined by the Justicar before me, we use it to stand our ground without need of a blade. You seem to have the aptitude required it. Interested?</td>
+  <td colspan="3">A Path that one may walk in combat. Refined by the Justicar before me, we use it to stand our ground without need of a blade. You seem to have the aptitude required it. Interested?</td>
 </tr>
 <tr>
-  <td colspan="2">Yes.</td>
+  <td colspan="3">Yes.</td>
 </tr>
 <tr>
-  <td colspan="2">I've only started you on your jouruney. It's up to you to take the next steps in your Path.</td>
+  <td colspan="3">I've only started you on your jouruney. It's up to you to take the next steps in your Path.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -115,10 +137,10 @@ Polis is an NPC normally found sitting below the white tree in the center of [Et
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>How strange that our Paths should cross again so soon...</td>
+  <td colspan="12">How strange that our Paths should cross again so soon...</td>
 </tr>
 <tr>
   <td>End</td>

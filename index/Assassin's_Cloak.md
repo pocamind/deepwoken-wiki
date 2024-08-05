@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 107349
+revid: 109136
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -16,7 +16,7 @@ categories: [Equipment, Arms, Cloaks]
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | +6 HP, 3% Stealth, +2 Rare Pip , 1 Legendary Pip |
-| innate talent | Now You See Me |
+| innate talent | lowstride |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

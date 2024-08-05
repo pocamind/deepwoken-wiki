@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 107073
+revid: 109118
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards, Etrea, Kingdom of Etrea Enemies]
@@ -23,7 +23,7 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 | Assault | Firmly swings sword at opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Wind Blade | User sheathes and then slashes sending a piece of wind at their foe | ◯ | ◯ | (★☆☆) |
+| Wind Blade | User sheathes and then slashes sending a piece of wind at their foe | ◯ | ◯ | }== Finisher ==A Blade Temple Guard executes the player after knocking them:{| class="fandom-table"!Name!Description|- | Execute | \- | Flashdraw Strike | User switftly unsheathe their blade and deliver an upwards strike. | ◯ | ◯ | (★★★) |
 
   
 

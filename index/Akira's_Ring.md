@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 106880
+revid: 109140
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings, The Divers]
@@ -25,10 +25,22 @@ categories: [Armors, Equipment, Rings, The Divers]
 
 ## Description
 
-The Akira's Ring is a Ring [Equipment](Equipment.md) piece that applies 1.2x Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed). You are almost guaranteed to find it from defeating the 4 Deep Angels in the [Ancient Rotlands](Ancient_Rotlands.md). Otherwise, you can occasionally find it through killing [Ferryman](The_Ferryman.md) or chests in the [Second Layer](Second_Layer.md). Alternatively, if you're feeling cocky, you can farm [Aelita](Aelita.md), [Fort Merit](Fort_Merit.md), or [Duke Erisia](Duke_Ishamon_Erisia.md) for it. It's extremely rare from Aelita & Duke, though the last instance of finding an Akira's through Fort Merit was from VERSE ONE. If somehow, none of these methods are up to your standards, you can rock with a solid option: Trading with [Jeremiah](Jeremiah.md). If you give him 1 Deep Gem, there is a 20% chance you get a Legendary Ring, one of which can be your beloved Akira's Ring.
+**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed). The most reliable way to obtain any type of weapon scaling ring is through [The Ferryman](The_Ferryman.md) and the angels inside the [Ancient Rotlands](Ancient_Rotlands.md).
+
+## Obtainment
+
+-   [Aelita](Aelita.md) (**Unreliable**)
+-   [Ferryman](The_Ferryman.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Fort Merit](Fort_Merit.md) (**Unreliable**)
+-   Trading with [Jeremiah](Jeremiah.md)
 
 ## Trivia
 
+-   Akira's Ring refers to the [diver](Diver.md) named [Akira](Akira.md), who also is the NPC that unbounds the player's willpower.
 -   The Akira's Ring used to have an older model, as seen above. This model is currently being unused by any other Rings.
 -   The other Weapon Scaling Rings are the following: [Rosen's Ring](Equipment.md#ring), [Prophet's Ring](Equipment.md#ring), [Maestro's Ring](Equipment.md#ring), [Dawnfist's Ring](Equipment.md#ring)
 -   Akira's Ring, alongside Dawnfist's Ring, were the only weapon scaling rings to exist for a long while after public release.

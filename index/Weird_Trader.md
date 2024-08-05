@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 105831
+revid: 109121
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -61,6 +61,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Razor Cutlass](Razor_Cutlass.md)
         -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
         -   [Serpent's Edge](<Serpent's_Edge.md>)
+        -   [Shattered Katana](Shattered_Katana.md)
         -   [Shotel](Shotel.md)
         -   [Summer Rifle](Summer_Rifle.md)
         -   [Toothed Club](Toothed_Club.md)
@@ -97,6 +98,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Ongo](Ongo.md)
     -   [Redd](Redd.md)
     -   [Sap](Sap.md)
+    -   [Spider Egg](Spider_Egg.md)
     -   [Urchin](Urchin.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat, Chum**)
     -   [Pomar](Pomar.md)
@@ -104,6 +106,7 @@ The event despawns after 30 minutes have elapsed.
 -   Ores, including:
     -   [Erisore](Ores.md#erisore)
     -   [Gold](Ores.md#gold)
+    -   [Iron](Ores.md#iron)
     -   [Pure Astruline](Ores.md#astruline)
     -   [Pure Erisore](Ores.md#erisore)
     -   [Pure Gold](Ores.md#gold)
@@ -133,3 +136,61 @@ The event despawns after 30 minutes have elapsed.
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Stormseye](Stormseye.md)
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
+
+## Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hi. Give me Item1, Item2, Item3?</td>
+</tr>
+<tr>
+  <td colspan="6">I've got the items.</td>
+  <td colspan="6">What do you need them for?</td>
+</tr>
+<tr>
+  <td colspan="3">[If requirements met]</td>
+  <td colspan="3">[If requirements unmet]</td>
+  <td colspan="6">Hi. You know. Stuff?</td>
+</tr>
+<tr>
+  <td colspan="3">Ok. Bye. Thanks.</td>
+  <td colspan="3">Hi. No you don't.</td>
+  <td colspan="6">Not gonna elaborate?</td>
+</tr>
+<tr>
+  <td colspan="3">End, you get the item</td>
+  <td colspan="3">End, you get flung into the atmosphere</td>
+  <td colspan="6">Hi. No. I need my stuff. You have Item1, Item2, Item3?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">I've got the items.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hi. Already have items. Bye.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
