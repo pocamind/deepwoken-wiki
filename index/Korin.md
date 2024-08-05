@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 107973
+revid: 109104
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -17,7 +17,7 @@ categories: [Pages with broken file links, NPCs]
 
 Korin is an [Etrean](Etrean.md) living in Etris.
 
-He can be found near the Antiquitarian.
+He can be found near the Antiquarian.
 
 He is as a lumberjack, and his primary use as an NPC is to increase the player's reputation with [Etris](Etris.md), most often to obtain the manor key, which is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
 
@@ -150,7 +150,7 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 -   If the player has the mantra [Strong Left](https://deepwoken.fandom.com/wiki/Attunement-less?so=search#Strength_Mantras), Korin can give them the quest to obtain the Talent [Treefelling Blow](Talents.md#treefelling-blow).
     -   As the name implies, this Talent allows the player to get wood by punching down a tree with strong left.
         -   Although this can be done without the Talent, you need the Talent to obtain the wood; otherwise, you will have gained nothing.
--   Greatly resembles [The Ferryman](The_Ferryman.md).
+-   Has a near-identical appearance to [The Ferryman](The_Ferryman.md), the only difference being eye color.
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions.
 -   It is implied in one of his dialogue options that he formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 107238
+revid: 109098
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -206,6 +206,7 @@ _A pyroclastic eruption._
 -   The second explosion deals an extremely high amount of posture damage.[\[2\]](#cite-note-2)
 -   Inflicts Burn.
 -   Medium-Heavy endlag
+-   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions.
 
  |
 |  | 

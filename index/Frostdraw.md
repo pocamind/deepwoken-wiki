@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 108256
+revid: 109095
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1110,7 +1110,5 @@ Your Chill can proc through block, with blocked Chilling proc lasting 80% of the
 -   Nullifying clarity does not reduce chilled duration.
 
 ## References
-
-Template:Reflist
 
 1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 109067
+revid: 109105
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -332,6 +332,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   If you take too long to initiate the fight with The Ferryman, he will leave after a certain amount of time, and leave you with nothing but a portal to leave. (may be a bug)
 -   Grand Feast procs on his clones in the first phase.
 -   He is considered a significant enemy of the Authority by Chainwarden progression, possibly due to his connections with The Depths.
+-   He bears a near-identical appearance to [Korin](Korin.md), the only difference being eye coloration.
 
 ## Bugs
 
