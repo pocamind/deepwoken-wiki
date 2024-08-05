@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 108628
+revid: 109116
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -77,7 +77,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquarian, a working fire place, etc.).
 -   **\[CON\]** **You cannot do Trial of One.**
--   **\[PRO\]** You regain sanity from killing monsters in the Depths.
+-   **\[CON\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
 -   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (If you die in the overworld while on second life you can still enter)

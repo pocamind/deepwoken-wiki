@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 109047
+revid: 109114
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -60,6 +60,7 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
+    -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying.
 
 ## Trivia
 
@@ -68,9 +69,6 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 -   Restrain has no cooldown as long as you are landing the mantra, working even on dodge/block, but not parry. When you whiff Restrain, it goes on cooldown.
 -   Chained targets from Restrain are slowed when they run away from you.
 -   Chainwardens can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
--   Every time you hit Restrain, the damage increases, stacking up to double the base damage.
-    -   Damage increase stacks are independent from person to person.
--   Using Rupture without a chained target instead unleashes two swift punches, dazing the opponent.
 -   Using Rupture on a chained target will break the current chain and ragdoll the target in the direction of your camera (IE, looking behind you will ragdoll them toward you).
 -   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
 -   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)

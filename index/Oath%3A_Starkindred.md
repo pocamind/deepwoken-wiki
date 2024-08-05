@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 108576
+revid: 109115
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -59,7 +59,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   The mantra **[Fire Blade](Flamecharm.md)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a Reversal spark to **[Fire Blade](Flamecharm.md)**.
 
 -   **Ascension** **\- Combat Mantra**
-    -   _Description_
+    -   _Take to the skies for a devastating strike._
         -   The user rises into the air before swooping in.
         -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
         -   Applies hard knockdown on hit.
@@ -67,7 +67,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
         -   Can knockdown any enemy ingame.
 
 -   **Celestial Assault** **\- Combat Mantra**
-    -   _Description_
+    -   _Use your wings and deliver two critical blows._
         -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
 
 -   **Sinister Halo** **\- Combat Mantra**
