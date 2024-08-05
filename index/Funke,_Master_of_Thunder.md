@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 107645
+revid: 109092
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, The Divers]
@@ -72,8 +72,6 @@ Funke executes his opponent after knocking them:
         -   Arch\_Mage stated the reason was rifles not being coded for NPCs, but [this was incorrect](<Summer_Dragoon_(NPC).md>).
 
 ## References
-
-Template:Reflist
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)

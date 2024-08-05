@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 109048
+revid: 109082
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,9 +11,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 |---|---|
 | type | Helmet |
 | rarity | Mythic |
-| selling price | Not Sellable (correct me if im wrong) |
+| selling price | Not Sellable |
 | requirements | None |
-| innate stats | 5% ice and lightning armor and 1 legendary and 1 rare pip |
+| innate stats | 5% Ice Armor, 5% Lightning Armor, +5 Health, 1 Legendary Pip, 1 Rare Pip |
 | innate talent | Coldseep Reactor |
 | bankable | Yes |
 | droppable | Yes |
@@ -24,7 +24,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Grand Fisher set was made as the winner for the 2nd Official Equipment Concept Art Contest, won by TU5SK, making it one of the first community made armor sets in the game.
 
-The helmet is the 1st item you obtain along with the Grand Fisher Plate that is a guaranteed drop from an enemy in the [Depths](First_Layer.md) called "The Fisherman." The helm comes with an innate 5% ice and lightning armor, along with +5 health, making this a suitable option for those who are annoyed at those two attunements.
+The helmet is the 1st item you obtain along with the [Grand Fisher Plate](Grand_Fisher_Plate.md) that is a guaranteed drop from an enemy in the [Depths](First_Layer.md) called "[The Fisherman](The_Fisherman.md)." The helm comes with an innate 5% ice and lightning armor, along with +5 health, making this a suitable option for those who are annoyed at those two attunements.
 
 The helm comes with an innate talent, _Coldseep Reactor_: By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat. This talent grants the user **full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.**
 

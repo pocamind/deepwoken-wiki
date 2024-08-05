@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 107678
+revid: 109060
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Events]
@@ -113,6 +113,22 @@ He mentions that he is thirsty and asks you for a drink when prompted. He accept
 </tr>
 <tr>
   <td>I can't speak to two folks at once, y'know?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Has another murmur (not Ardour):**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah, don't ye worry yerself. You've got other things on your mind, I can tell.</td>
 </tr>
 <tr>
   <td>End</td>

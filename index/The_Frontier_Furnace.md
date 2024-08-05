@@ -1,6 +1,6 @@
 ---
 title: The Frontier Furnace
-revid: 107431
+revid: 109063
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1, The Ignition Union]
@@ -22,6 +22,7 @@ The Frontier Furnace is the [Ignition Union's](The_Ignition_Union.md) main base 
 
 -   [Alpha](Alpha.md), who you can talk to and acquire the Union Hook Talent as well as starting the quest that lets you obtain [Arcwarder](Oaths.md).
 -   [Llevyn](Llevyn.md), who activates the Union's Elevator, the Deep-drill.
+-   [Sunway](Sunway.md), who explains [Parasites](Second_Layer.md#dangers), lanterns, and the existence of [Carbuncles](Carbuncle.md).
 -   A lantern right next to [Sunway](Sunway.md).
 -   [Epsi](Epsi.md), who only appears after choosing the apply heat option at the [Firfire Caverns](Firfire_Caverns.md).
 

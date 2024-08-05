@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 108422
+revid: 109061
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Deepwoken]
@@ -209,6 +209,7 @@ Please add miscellaneous islands or named landmarks here
 **1v1:**
 
 -   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
+-   [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md)
 -   The Profane Cavern
 -   The Condemned Archives
 -   Kyrsan Railways

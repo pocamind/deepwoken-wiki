@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 108953
+revid: 109076
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -81,12 +81,12 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><figure><figcaption></figcaption></figure></td>
   <td>Table Flip<p>(☆☆☆)</p></td>
   <td><i>Toss the ground infront of you.</i></td>
-  <td></td>
+  <td>35 ether</td>
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
   <ul>
-    <li>Throw a piece of the ground that goes straight in the direction you're looking at.</li>
+    <li>Throw a piece of the ground that goes straight in the direction your character (not your camera) is looking at.</li>
     <li>Victims crushed by the rock will be dazed and will be thrown away.</li>
   </ul></li>
   </ul></td>
@@ -303,10 +303,6 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
 
  |
 | 
-
-File:Ether barrage3.gif
-
-ether barrage gif
 
  | Ether Barrage
 
@@ -591,7 +587,7 @@ File:Disguising .gif
 
 ## Upgrading Mantras
 
-The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.)
+The Attunement-less mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.)
 
 -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
 -   2 of them are located in the Blacksmith's area.

@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 97577
+revid: 109069
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -24,14 +24,6 @@ The orders are as follows:
 | Visual | Recipe | Ingredients | Campfire Required? |
 | --- | --- | --- | --- |
 | 
-File:UllaFriedEgg.png
-
- | Cooked Egg | 1 Egg | ◯ |
-| 
-
- | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
-| 
-
 File:UllaCandiedFruit.png
 
  | Candied Fruit | 2x Ongo/2x Plumfruit/1x Calabash/1x Pomar/2x Redd + Sap | ◯ |
@@ -47,12 +39,20 @@ File:UllaSweetBun.png
  | Sticky Bun | 3x Gathered Wheat + 1x Sap | ◯ |
 | 
 
+ | Urchin Stew | 3x Urchin | ◯ |
+| 
+
+File:UllaFriedEgg.png
+
+ | Cooked Egg | 1 Egg | ◯ |
+| 
+
+ | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
+| 
+
 File:UllaNoodles.png
 
  | Noodles | 1x Egg + 2x Gathered Wheat | ✗ |
-| 
-
- | Urchin Stew | 3x Urchin | ◯ |
 | 
 
  | Dried Seaweed | 1x Seaweed Bundle | ◯ |

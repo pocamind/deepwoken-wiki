@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 107231
+revid: 109065
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -42,6 +42,8 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
   
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
+
+The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary.
 
 ## Mantras
 
