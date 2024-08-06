@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 109194
+revid: 109210
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -63,11 +63,12 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
     -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying.
+        -   The Chain applied can be used for Rupture.
     -   The kick deals approximately 45 (blunt???) damage
 
 ## Trivia
 
--   Restrain applies short-lasting daze on successful hit.
+-   Ferryman is the worst way to farm talents/mantras, because he breaks chains after teleportation. Restrain applies short-lasting daze on successful hit.
 -   Restrain chains the opponent even if the hit was blocked.
 -   Restrain has no cooldown as long as you are landing the mantra, working even on dodge/block, but not parry. When you whiff Restrain, it goes on cooldown.
 -   Chained targets from Restrain are slowed when they run away from you.
