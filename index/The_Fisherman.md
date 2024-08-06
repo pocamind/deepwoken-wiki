@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109141
+revid: 109175
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Fisherman is a high level enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md)/[The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the oath [Chainwarden](Oath%253A_Chainwarden.md), implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess a large pool of Health and do a decent amount of damage.
+The Fisherman is a high level enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md)/[The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the oath [Chainwarden](Oath%253A_Chainwarden.md), implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess a large pool of Health and do a decent amount of damage. It MAY scale off the level of person that took the quest.
 
 The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fisher Plate](Grand_Fisher_Plate.md), and they use an enchanted [Halberd](Halberd.md) as his weapon.
 

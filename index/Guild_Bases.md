@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 108257
+revid: 109170
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -236,7 +236,7 @@ Bandits raiding a Guild Base.
 
 -   You will gain a small amount of experience for each unique guild base you visit
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
-    -   You simply need to reach the back of the Guild Base, being 4 rooms deep.
+    -   You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
 -   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etrean Luminant, every carriable items inside the guild base will despawn unless there is another guildmate in the lobby still having the guild base active.
 -   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
     -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.

@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 108985
+revid: 109156
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,6 +15,6 @@ He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) a
 
 -   He really isn't big of a deal. Try to think of him like a strong Bandit : just parry his attacks and strike just after with an M1. Just try not to block to much, as his weapons does a lot of posture Damage.
 
--   Putting your Guild Base outside and luring him in the basement of the building might be a good strategy : when below half Health, get out and get into your base to regenerate (only if you have a campfire). The alternative could be to place a campfire or having the Talent Warior's Respite.
+-   Putting your Guild Base outside and luring him in the basement of the building might be a good strategy : when below half Health, get out and get into your base to regenerate (only if you have a campfire). The alternative could be to place a campfire or having the Talent Warrior's Respite.
 
 -   He only has one Ranged attack. Using yours might give you a better chance against him.

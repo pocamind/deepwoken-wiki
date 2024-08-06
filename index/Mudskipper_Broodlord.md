@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 109135
+revid: 109165
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,8 +40,10 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
 
 ### **Passives**
 
--   **Broodlord Rot** - Upon striking an enemy, or using their shriek, the Mudskipper Broodlord inflicts a light amount of insanity, along with applying 80% anti-heal for 8 seconds. In [Hell Mode](Hell_Mode.md), this is reduced to 50%. (Natural health regen is not affected, artificial health regen is.)
-    -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), this is increased to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
+-   **Broodlord Rot** - Upon striking an enemy, or using their shriek, the Mudskipper Broodlord inflicts a light amount of insanity, along with applying 80% anti-heal for 8 seconds.
+    -   Natural health regen is not affected, artificial health regen is.
+    -   In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
+        -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is bumped up to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
 -   **Advanced Knowledge** - Unlike other monsters, the Broodlord is able to parry multiple mantras that attack from a far range, such as Blinding Dawn, Caltrops, Tornado, and many others.
 
 Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's healing is nullified by Broodlord's Rot. Confirms that Broodlord's Rot is 100% in the Diluvian.

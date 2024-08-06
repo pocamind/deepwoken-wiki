@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 109114
+revid: 109182
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -57,7 +57,8 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
 
--   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage.
+-   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
+    -   Damage stacks are independent from person to person.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
     -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying.

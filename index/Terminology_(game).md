@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 107376
+revid: 109184
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -64,11 +64,26 @@ _noun_
 
 This term originated from 2D fighting games such as [_Street Fighter_](https://en.wikipedia.org/wiki/Street_Fighter) and adopted to _Deepwoken_ from _[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)_ and _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
 
+### Block
+
+_verb_
+
+1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed out and take heavy damage as well as being stunned.
+
+1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
+
 ### Chip Damage
 
 _noun_
 
 1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md). Chip Damage will not occur if the attack is parried. E.g. 75% chip damage means that 75% of the supposed damage value if it is met by a block.
+
+### Counter
+
+_verb, noun_
+
+1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
+    1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counter**s.
 
 ### Execute
 
@@ -103,15 +118,22 @@ _noun_
 1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so
     1.  "I almost got wiped in a gank—thank god I escaped!"
 
-### Guard Break
-
-1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
-
 ### Grip
 
 _verb_
 
 1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
+
+### Guard Break
+
+1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
+
+### I-frames
+
+_verb_
+
+1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
+    1.  ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
 ### Knock
 
@@ -119,11 +141,41 @@ _verb_
 
 1.  To incapacitate a player or humanoid [enemy](Enemies.md) usually by reducing their health to 0%, ragdolling them. When a player is **knocked**, they can be gripped/executed (B) or carried (V). When a player is knocked, they are unable to do anything for the most part.
 
+### Knock-down
+
+1.  A type of stun that's almost identical to being guard broken but with its duration varying based off the source. Results in the victim getting knocked flat on the ground against their back.
+
+### Knock-up
+
+1.  An effect that hovers people above the ground with the person that caused this effect. The actions of the victim are limited. The most common source is "Uppercut".
+
+### Parry
+
+_verb_
+
+1.  To perfectly block an attack by pressing the "F" key at the right time. There will be a large, yellow spark at the clash of your weapon and their attack. This will stun the opponent for an extremely short duration. Parrying will reduce your posture, negate damage, remove End-lag, and is the cornerstone of Deepwoken's combat system.
+
+1.  Ex. When **parry**ing NPCs, try not to move around in order to focus on your timing.
+
 ### Pdodge
 
 _verb_
 
 1.  (Perfect Dodge) To roll during the active frames of an attack, preventing damage.
+
+### Proc
+
+_verb_
+
+1.  When a passive Talent or ability activates
+    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (Talent) to proc.
+
+### Spin back/Spinback
+
+_verb_
+
+1.  Going back to a player you died to previously, usually on a higher power slot, to rechallenge them
+    1.  Ex. Stay here imma spin back.
 
 ### Spot Dodge
 
@@ -138,71 +190,25 @@ _verb_
 1.  To overpower with [attributes](Attributes.md) (stats) as opposed to skill.
     1.  Ex. "Due to the fact that the Owl has 1.8k health, it is possible to **stat check** it if you are at a high enough [Power](Power.md) due to PvE scaling,"[(source)](Deep_Owl.md#notes)
 
+### Void/Voiding
+
+_verb_
+
+1.  The action of jumping into the void in layer 1 of the depths while above 50% hp, to avoid getting wiped by a mob or player.
+    1.  Ex. "Someone is attacking me, im gonna void_"_
+
+### Whiff
+
+_verb_
+
+1.  To miss an attack
+    1.  Ex. He whiffed that attack.
+
 ### Wipe
 
 _verb_
 
 1.  To die and spawn in Fragments of Self, in places such as Scyphozia or The Eternal Gale (The Depths)
-
-### Knock-up
-
-1.  An effect that hovers people above the ground with the person that caused this effect. The actions of the victim are limited. The most common source is "Uppercut".
-
-### Knock-down
-
-1.  A type of stun that's almost identical to being guard broken but with its duration varying based off the source. Results in the victim getting knocked flat on the ground against their back.
-
-### Parry
-
-_verb_
-
-1.  To perfectly block an attack by pressing the "F" key at the right time. There will be a large, yellow spark at the clash of your weapon and their attack. This will stun the opponent for an extremely short duration. Parrying will reduce your posture, negate damage, remove End-lag, and is the cornerstone of Deepwoken's combat system.
-
-1.  Ex. When **parry**ing NPCs, try not to move around in order to focus on your timing.
-
-### Block
-
-_verb_
-
-1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed out and take heavy damage as well as being stunned.
-
-1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
-
-### I-frames
-
-_verb_
-
-1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
-    1.  ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
-
-### Counter
-
-_verb, noun_
-
-1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
-    1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counter**s.
-
-### Proc
-
-_verb_
-
-1.  When a passive Talent or ability activates
-    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (Talent) to proc.
-
-  
-**Void/Voiding**
-
-_verb_
-
-1.  _T_he action of jumping into the void in layer 1 of the depths while above 50% hp, to avoid getting wiped by a mob or player.
-    1.  Ex. "Someone is attacking me, im gonna void_"_
-
-### Spin back/Spinback
-
-_verb_
-
-1.  Going back to a player you died to previously, usually on a higher power slot, to rechallenge them
-    1.  Ex. Stay here imma spin back.
 
 ## Resonance Terms
 

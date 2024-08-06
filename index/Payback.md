@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 103687
+revid: 109188
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -38,6 +38,7 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 -   The best PvE tool in the game _**if corrupted**__**.**_ This is due to how PvE scaling works, the game considers the reflected damage as from the player meaning at Power 20 you're able to fully heal your health bar. This makes it excellent for Hell Mode, Diluvian, Bosses, and so forth due to the massive damage mitigation this offers.
 -   Posture reflected will be based on how much damage was taken, with low damage dealing low posture while high damage deals high posture.
+-   80% of damage will be completely absorbed when the Payback is charging.
 
 ### **Variants**
 
