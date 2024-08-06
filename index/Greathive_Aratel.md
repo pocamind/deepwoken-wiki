@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 108061
+revid: 109213
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -56,6 +56,8 @@ Hive Fountains
 Fountain found at Etrea
 
 The doors to enter the Lordsgrove.
+
+Fountain in the Hidden Village
 
 #### Shipyard
 

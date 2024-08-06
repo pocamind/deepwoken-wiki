@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 108083
+revid: 109220
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,11 +22,11 @@ Only Linkstriders are currently known to be able to utilize these meteors, altho
 
 Upon interacting with a meteor, it will give you a message: "_Deep within your soul, '\[Name\]' calls out to you. Call it's name upon the flame, and embrace Entropy._" Each meteor has a different name.
 
-As a cost for actually teleporting to a meteor, one must have at least 1 [Stardust](Stardust.md) in their inventory, which is consumed on teleport. You can collect stardust from under Star Trees. There are 3 Star Trees in the world, each in their own hidden voidzone grove. The most notable of these groves would likely be the one connected to [Starswept Valley](The_Starswept_Valley.md). A person can only hold up to 10 Stardust at a time, since the star trees provide an unlimited source.
+As a cost for actually teleporting to a meteor, one must have at least 1 [Stardust](Stardust.md) in their inventory. You can collect stardust from under Star Trees. There are 3 Star Trees in the world, at [Starfield Veldt](Starfield_Veldt.md), [Starfield Tundra](Starfield_Tundra.md), and [Starfield Grove](Starfield_Grove.md). A person can only hold up to 10 Stardust at a time.
 
 Once you have Stardust, you can teleport to a meteor by sitting at an actual campfire and stating its name in text chat. You will be transported exactly to that meteors location, which can sometimes get you stuck in the ground.
 
-The currently known meteor names and locations are as follows (sorted by popularity):
+The currently known meteor names and locations are as follows:
 
 ## Etrean Luminant
 

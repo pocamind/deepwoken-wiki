@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 108634
+revid: 109217
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -33,7 +33,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
 -   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +20% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
--   [Saltchemist:](Oath%253A_Saltchemist.md) +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load \[75 Intelligence\]
+-   [Saltchemist](Oath%253A_Saltchemist.md): +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load \[75 Intelligence\]
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Mantra Resistance, +10 HP, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]

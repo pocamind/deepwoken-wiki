@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 109210
+revid: 109211
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  The Oath requires a combined 40 points into Strength, Fortitude and Willpower.
+1.  The Oath requires a combined 40 points into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower.
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Ally reputation (halfway to hero) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
 
 1.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating him, you will be granted the Oath.
