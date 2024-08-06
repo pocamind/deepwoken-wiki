@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 108885
+revid: 109203
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -16,7 +16,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | scaling | 10 WLL 4 LHT |
 | range | 7 |
 | swing speed | 1.1x |
-| penetration | 5% |
+| penetration | 10% |
 | stances | 1 Handed |
 | weight | 5 |
 | bankable | Yes |
@@ -61,5 +61,5 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 -   It is one of seven known weapons to have multiple critical attacks, the others being [Soulthorn](Soulthorn.md), [Krulian Knife](Krulian_Knife.md), [Wraithclaw](Wraithclaw.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Kanabo](Kanabo.md), [Cerulean Thread](Cerulean_Thread.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Kyrswynter](Kyrswynter.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
 -   The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
--   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling, and a variety of Criticals.
+-   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling (even tho it still has less damage regardless), and a variety of Criticals.
 -   Using this weapon with any big hat will almost fully cover m1 swing animation making it harder for you opponent to parry your attacks.

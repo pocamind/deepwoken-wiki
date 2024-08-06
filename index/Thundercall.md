@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 107237
+revid: 109200
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -191,10 +191,11 @@ Storm Blades
  | Conjure weapons of thunder with your ether. | 45 Ether | Conjure a ring of lightning blades that deal AoE damage.
 
 -   Deals light damage.
--   12 Second Cooldown.
+-   12 Second Cooldown
 -   Has a short delay before dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
+    -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
 
  |
@@ -236,7 +237,7 @@ Emotion Wave
  | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Conjure a throw a bolt of lightning from the user's right hand, causing volleys of lightning strikes to spread out.
 
 -   Deals moderate-high damage.
--   \[22\] Second Cooldown.
+-   \[30\] Second Cooldown.
 -   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
 -   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
 

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 109122
+revid: 109195
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -16,7 +16,7 @@ notices:
 | requirements | 80 MED, 40 INT, Power 10 |
 | damage | 17 |
 | scaling | 7 Medium, 3.5 Intelligence |
-| range | 8.5 |
+| range | 8 |
 | swing speed | 1.02x |
 | penetration | 30% |
 | chip damage | 30% |

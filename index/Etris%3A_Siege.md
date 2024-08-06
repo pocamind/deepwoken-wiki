@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 108363
+revid: 109206
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Random Encounters, Etrea, The Central Authority, Etrean Luminant]
@@ -27,7 +27,7 @@ At the beginning of the event, [Seraphina](Seraphina.md) talks about the Authori
 
 Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritise Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
 
-If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
+If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
 
 You are bound to accidentally hit NPCS belonging to the Etrea faction. Don't worry, as even though it gives bad reputation then, the positive reputation given for beating the event overcomes the negative reputation by quite a lot.
 
@@ -66,6 +66,7 @@ One of the only places that will never burn in the Etris Raid Event is [Lord Reg
 -   Additionally, Neil the Ice Trainer will help fight any Authority NPC that wanders too close.
 -   In a nutshell, the lore behind this event is the Central Authority taking action and trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
 -   This event was unable to spawn during the Winter season until the 5th of July 2024 Update.
+-   This event is easy XP as long as you know how to parry trade relatively well.
 
 ## Images & Videos
 

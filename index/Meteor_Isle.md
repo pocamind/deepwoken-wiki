@@ -1,9 +1,9 @@
 ---
 title: Meteor Isle
-revid: 108084
+revid: 109204
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Eastern Luminant, Children of Navae]
+categories: [Locations, Eastern Luminant, Children of Navae]
 ---
 
 # Meteor Isle
@@ -15,8 +15,6 @@ TERRITORY OF The Children of Navae
 Remnants of the stars themselves rain down upon this rocky spire.
 
   
-
-File:Meteor Isle.jpg
 
 **Meteor Isle** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](The_Aratel_Sea.md). It can be easily found by going to Fort Merit; where the Etrean Rescuer is.
 

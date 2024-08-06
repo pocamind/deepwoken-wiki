@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 109121
+revid: 109201
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -147,7 +147,7 @@ The event despawns after 30 minutes have elapsed.
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hi. Give me Item1, Item2, Item3?</td>
+  <td colspan="12">Hi. Give me [Item1], [Item2], [Item3]?</td>
 </tr>
 <tr>
   <td colspan="6">I've got the items.</td>
