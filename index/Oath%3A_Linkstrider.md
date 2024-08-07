@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 108274
+revid: 109226
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -54,7 +54,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voideye causes it to be white.)
     -   Limitations:
-        -   Requires [Stardust](Stardust.md) at first. After you consumed a stardust to teleport, it no longer requires stardust to use it. Stardust is obtainable in [Voidzones](Voidzones.md) that have a Startree. This is an intentional feature.
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
         -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied.
