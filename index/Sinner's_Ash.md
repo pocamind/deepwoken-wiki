@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 108897
+revid: 109231
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -30,5 +30,4 @@ _(one-time use, re-obtainable)_
 -   You can hold more than one of this item.
 -   Holding Sinner's Ash will surround your player in a purple highlight.
 -   Using Sinner's Ash whilst already having a Corrupted Resonance or not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
--   Unless you are going for Kyrsweapons and Blood items, Duke is recommended for farming Sinner's Ash, as it is overall faster.
 -   Its estimated drop chance is around 1/333 (Not confirmed)

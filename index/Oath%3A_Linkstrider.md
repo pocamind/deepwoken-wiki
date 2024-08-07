@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 109226
+revid: 109240
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -57,6 +57,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
         -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied.
+        -   Your **very first** teleport requires you to have a [Stardust](Stardust.md), all subsequent teleports are free.
     -   Comet names and locations:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
@@ -88,8 +89,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 ## Trivia
 
--   In order to use Entropy Link, you must gather [Stardust](Stardust.md), which is found at Startrees.
-    -   There is a maximum of 10 to be held at once.
 -   Recommended for support-based builds (e.g., Flame Vow of Mastery).
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
