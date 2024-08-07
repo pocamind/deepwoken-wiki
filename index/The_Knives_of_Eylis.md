@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 106566
+revid: 109246
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -19,7 +19,7 @@ categories: [Factions, The Knives of Eylis]
 
 ## Description
 
-The Knives of Eylis are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the Eastern Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant. They are currently one of the two factions that can be joined by the player as a guild, the other being The Divers. The guild colour/colour of the flags of members of the guild is orange.
+The Knives of Eylis, also known as the Silver Whalers, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the Eastern Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant. They are currently one of the two factions that can be joined by the player as a guild, the other being The Divers. The guild colour/colour of the flags of members of the guild is orange.
 
 The [Voidwalker Origin](Origins.md) is associated with this faction. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 109011
+revid: 109262
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -26,7 +26,7 @@ To start the fight with Maestro Evengarde Rest:
 
 1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
-2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
+2.  Complete [the Lost Sibling quest](Temple_of_the_Blade.md#a-lost-sibling-quest).
 3.  Have 80 in one Weapon Stat and be at Power 15+.
 4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 

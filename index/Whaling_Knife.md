@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 107327
+revid: 109248
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -61,8 +61,6 @@ The Whaling knife is a midgame dagger type weapon. It is dropped often from the 
 
 The user rushes forward while preforming a horizontal slash forward, the aforementioned slash having a red trail.
 
-  
-
 ## Trivia
 
 -   It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
@@ -74,4 +72,4 @@ The user rushes forward while preforming a horizontal slash forward, the aforeme
 -   The alloyed version has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
 -   Available on the Roblox catalog as a [waist accessory](https://www.roblox.com/catalog/14542129946/Whaling-Knife).
 -   The critical formerly benefitted from the Talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the Talent stacked the chance to 40%.
--   The model of this weapon its an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a special sword in [LotR](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) universe
+-   The model of this weapon its an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a blade from _[the Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)_.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 108624
+revid: 109259
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,12 +43,18 @@ This oath is progressed via the killing of [Spelltrainers](Attunement_Trainers.m
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
+Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
+
+-   Nell and Friid with Etrea
+-   Funke with Summer Companie
+-   Adar with Ignition Union
+
 Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
 ## Effects
 
 -   +10% mantra resistance.
--   **Entirely lose access to cast mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
+-   **Entirely lose access to cast mantras**, including learned (or future) mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
@@ -82,7 +88,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 
 -   **Mani Katti - Active**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
-        -   Is activated by using Ctrl + M2.
+        -   Is activated by using Crouch + Feint, though this is most commonly "Ctrl + M2"
         -   Does not consume Dread stacks to use.
         -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
         -   Deals 7 posture damage per hit.
@@ -105,6 +111,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game without using glitches, as it requires the player to cast a Mantra. If you find yourself playing it, keep logging and joining back until you happen to not be playing it.
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
+-   Mani Katti is not used by pressing your Control + M2 keys, but by pressing Crouch + Feint keybinds (whatever they are for you).
 
 ## Trivia
 

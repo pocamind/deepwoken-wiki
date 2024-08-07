@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 109199
+revid: 109241
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1323,7 +1323,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
 
 **Heavy:**
 
-Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch. They feature powerful critical attacks, that usually provide hyperarmor, instantly guard breaks if blocked and apply knockdown on the enemy.
+Heavy Weapons are two-handed weapons, but they can be wielded with one hand if you have 40 stat points into heavy weapon. They are slow, but have superior range and pack quite a punch. They feature powerful critical attacks, that usually provide hyperarmor, instantly guard breaks if blocked and apply knockdown on the enemy.
 
 **Greataxes:**
 
