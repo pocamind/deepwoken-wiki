@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109280
+revid: 109331
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1465,7 +1465,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 > _**"I often attack others."**_
 
--   Aggressive Posture \[Common Talent\] - Hitting your opponent with a basic attack causes them to slow down while walking backwards. (+1 Passive Agility)
+-   Aggressive Posture \[Common Talent\] - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
     -   Prerequisites: [Power](Power.md) 13
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
