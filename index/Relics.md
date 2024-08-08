@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 109313
+revid: 109322
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -77,7 +77,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~5%)**
--   [The Ferryman](The_Ferryman.md) **(~5%)**
+-   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
@@ -96,7 +96,7 @@ Can be used in any location.
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
--   [The Ferryman](The_Ferryman.md) **(~6%)**
+-   [The Ferryman](The_Ferryman.md) **(Exceedingly Rare)**
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -157,6 +157,19 @@ It grants the user +30 knowledge on subsequent uses.
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   5\* VoidWalker Chests
+
+ |
+| 
+
+File:Forge Needle.png
+
+ | [Forge Needle](Forge_Needle.md) - A needle that upgrades one equipment up one star.
+
+-   _(Consumed upon usage)_
+
+ | 
+
+-   Crafting
 
  |
 | 
