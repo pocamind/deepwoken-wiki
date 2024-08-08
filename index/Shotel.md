@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 103387
+revid: 109267
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
@@ -18,7 +18,6 @@ categories: [Weapons, Pages using duplicate arguments in template calls, Swords]
 | swing speed | 0.73x |
 | chip damage | 20% |
 | stances | 2 Handed, 1 Handed |
-| selling price | 25 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |

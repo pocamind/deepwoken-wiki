@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 105070
+revid: 109289
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -23,7 +23,7 @@ New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located i
 
 _Escape Guide: [New Kyrsa (F2)](Second_Layer.md#new-kyrsa-f2)_
 
-New Kyrsa is a beautiful and huge place with many buildings and "alien-like" technology, such as trains or artillery. The architecture is futuristic, with gold and white designs and streamlined structures. You can meet a lot of Kyrsgardes here and only one, Naerotiv, is not hostile. Many buildings are extremely tall, and streets are patrolled by large, bulky Kyrsgardes. There is an underground sewage system, along with an underground subway in New Kyrsa.
+New Kyrsa is a beautiful and huge place with many buildings and "alien-like" technology, such as trains or artillery. The architecture is futuristic, with gold and white designs and streamlined structures. You can meet a lot of Kyrsgardes here and only two, Naerotiv and his hidden brother, are not hostile. Many buildings are extremely tall, and streets are patrolled by large, bulky Kyrsgardes. There is an underground sewage system, along with an underground subway in New Kyrsa.
 
 Despite the beautiful outward appearance and the seemingly volatile enemies, New Kyrsa is stuck in a time loop. People stuck in the city are trapped in the time loop forever, unable to escape, or even die.
 
@@ -41,7 +41,7 @@ If you die here, you will wipe, or if you still have the Light Hook you will be 
 
 The Grand Library of New Kyrsa is a large library, containing a rotation puzzle and many hostile Kyrsgardes within it. If someone fails the rotation puzzle, everyone in the instance will be teleported back to the start of the library, no matter where they are. The code to the puzzle is as such:
 
-**" 1 - 2 - 1 - 2 - 2 - 2 - 1 - 2 - 3 - 1 - 4 - 2 - 3 - 1 "**
+**" 1 - 3 - 4 - 2 - 1 - 2 - 1 - 2 - 2 - 2 - 3 - 1 - 3 - 4 "**
 
 ### [The Sunken Railways](The_Sunken_Railways.md)
 
@@ -67,7 +67,7 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 -   [F'leche](<F'leche.md>)
 -   Kaide, The Drowned Light
 -   [Misérables](Misérables.md)
--   [Kennith](Kennith.md) (if met requirements to the Duke of Sin questline)
+-   [Kennith](Kennith.md)
 
 ## Lore
 
@@ -87,3 +87,4 @@ The Second Floor is the deepest point of the Eternal Gale. In here, you can find
 -   The Kyrsgarde Artillery on the outskirts of the city can be avoided by standing under cover. The spears do not go through objects.
 -   The Kyrsgarde Artillery may be a reference to the ~chase scene with Undyne in the game _Undertale_.~ the road to Caria Manor, Liurnia from _Elden Ring._
 -   New Kyrsa may be a reference to Amaurot from the game Final Fantasy XIV, with both having similar concept and design and Ethrion can be anagram of Therion, the final boss of Amaurot.
+-   Kennith will appear regardless of whether or not you have completed or even started the Duke of Sin questline.

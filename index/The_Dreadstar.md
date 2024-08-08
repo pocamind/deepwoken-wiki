@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 106690
+revid: 109271
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -83,6 +83,31 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
 </tr>
 <tr>
   <td>We will take our revenge, as the terms of our Oath declared. Across Lumen, there are masters of the heretical attunements, spreading their false teachings to the uninitiated. With each one slain, we shall grant you power to continue our redemption.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+## Oath maxed out
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Dreadstar talks<p><b>(if anyone knows what is said here, please complete the text)</b></p></td>
+</tr>
+<tr>
+  <td>Player talks<p><b>(if anyone knows what is said here, please complete the text)</b></p></td>
+</tr>
+<tr>
+  <td>*Dreadstar disappears will your screen goes completely black.</td>
+</tr>
+<tr>
+  <td>Hateful one, our revenge is complete. As for your own... we will walk with you, now. You will be our host, your Dreadstar to guide you to your revenge. Our being is tied to you now.</td>
 </tr>
 <tr>
   <td>End</td>

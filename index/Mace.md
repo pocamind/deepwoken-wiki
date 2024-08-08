@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 103732
+revid: 109268
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -11,11 +11,11 @@ categories: [Weapons, Clubs]
 | Mace | |
 |---|---|
 | type | Club |
-| requirements | 0 MED |
+| requirements | 10 MED |
 | damage | 20 |
 | scaling | 5 |
 | range | 7.5 |
-| swing speed | 9.3x |
+| swing speed | 0.93x |
 | penetration | 5% |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |

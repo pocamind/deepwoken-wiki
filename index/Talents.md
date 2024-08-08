@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109216
+revid: 109280
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -560,6 +560,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
     -   Drains tempo on proc.
+    -   If the user has the Apparitions talent, this can proc apparitions by inflicting suffocation.
     -   Prerequisite: 40 Shadowcast, 60 Galebreathe
 
 ### Critical Specialist
