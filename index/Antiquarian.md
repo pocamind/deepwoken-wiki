@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 109376
+revid: 109390
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Vendors]
@@ -21,6 +21,7 @@ Antiquarians are NPCs that purchase certain items. They are typically your main 
 They can be found in:
 
 -   [Isle of Vigils](Isle_of_Vigils.md) (right next to the banker)
+-   [Isle of Vigils](Isle_of_Vigils.md) (in the Library, there are two at Vigils total)
 -   [Etris](Etris.md) (right behind the lumberjack quest)
 -   [Greathive Aratel](Greathive_Aratel.md) (in the Root Plaza)
 -   [Summer Isle](Summer_Isle.md) (just to the right of the gun seller)
@@ -61,21 +62,27 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [Sword](<Sword_(weapon).md>) | 7 |
 | [Targe](Targe.md) | 7 |
 | [Apprentice Rapier](Apprentice_Rapier.md) | 14 |
+| [Canorian Axe](Canorian_Axe.md) | 14 |
 | [Dragoon](Dragoon.md) | 14 |
 | [Falchion](Falchion.md) | 14 |
 | [Flamekeeper Cestus](Flamekeeper_Cestus.md) | 14 |
+| [Flintlock](Flintlock.md) | 14 |
 | [Forge Greathammer](Forge_Greathammer.md) | 14 |
 | [Gilded Knife](Gilded_Knife.md) | 14 |
 | [Halberd](Halberd.md) | 14 |
+| [Katana](Katana.md) | 14 |
 | [Khan Shield](Legion_Shield.md) | 14 |
 | [Legion Cestus](Legion_Cestus.md) | 14 |
+| [Officer Saber](Officer_Saber.md) | 14 |
 | [Razor Cutlass](Razor_Cutlass.md) | 14 |
+| [Rifle Spear](Rifle_Spear.md) | 14 |
 | [Scimitar](Scimitar.md) | 14 |
 | [Shotel](Shotel.md) | 14 |
 | [Tanto](Tanto.md) | 14 |
 | [Trident Spear](Trident_Spear.md) | 14 |
 | [Vigil Longsword](Vigil_Longsword.md) | 14 |
 | [Champion's Sword](<Champion's_Sword.md>) | 25 |
+| [Crescent Cleaver](Crescent_Cleaver.md) | 25 |
 | [Darksteel Greatsword](Darksteel_Greatsword.md) | 25 |
 | [Dawnshot](Dawnshot.md) | 25 |
 | [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) | 25 |
@@ -84,7 +91,9 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [Pernach](Pernach.md) | 25 |
 | [Sacred Hammer](Sacred_Hammer.md) | 25 |
 | [Serpent's Edge](<Serpent's_Edge.md>) | 25 |
+| [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | 25 |
 | [Whaling Knife](Whaling_Knife.md) | 25 |
+| [Canor Fang](Canor_Fang.md) | 50 |
 | [Crucible Rapier](Crucible_Rapier.md) | 50 |
 | [Nemit's Sickle](<Nemit's_Sickle.md>) | 50 |
 | [Sovereign's Punishment](<Sovereign's_Punishment.md>) | 50 |

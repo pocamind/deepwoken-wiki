@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 102056
+revid: 109421
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -162,6 +162,17 @@ He also has a spec charisma legendary weapon, name unknown although Agamatsu lea
 
 10 dmg, 30 CHAR scaling, 5 weight, 9 range, 0.8 swingspeed.
 
+### Nuttoons / Stag Acrossus
+
+Nuttoons is cursed with something known as Bewitchment. We only know that this occurred near his birth, and that it does two things: making Stag immortal, and giving him "runes" on his arms that constantly burn and cause pain. The more these runes burn, the more powerful Nuttoons becomes. However, he wears an item known as the [Stag Wraps](Stag_Wraps.md) which stops them from burning (and essentially nerfs Stag). He can also see into the future due to his research in [The Ministry](The_Ministry.md).
+
+  
+
+  
+
+  
+_For more information about Stag Acrossus slash Nuttoons, read Stag Acrossus._
+
   
 
 ## Exclusive Items
@@ -197,6 +208,8 @@ Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www
 Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20g?t=566)
 
 CeoofIsaac's Destroyman IV and Synce's Destroyman III [https://twitter.com/CEOofIsaacs/status/1728239463451783358](https://twitter.com/CEOofIsaacs/status/1728239463451783358)
+
+Stag Acrossus / Nuttoons: [https://www.youtube.com/watch?v=GEFbxT9zfkM](https://www.youtube.com/watch?v=GEFbxT9zfkM)
 
 ## Trivia
 

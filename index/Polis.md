@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 109144
+revid: 109400
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea]
@@ -16,9 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the Celestial, Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
-
-  
+Polis is a [Vesperian](Vesperian.md) NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the [Celestial](Celestial.md), Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When The Central Authority invades [Etris](Etris.md), he fights to defend his home along with the guards.
 
 ## Dialogue
 

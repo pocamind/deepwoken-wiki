@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 108024
+revid: 109402
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists]
@@ -29,7 +29,7 @@ categories: [Pages with broken file links, Weapons, Fists]
 
 ## Description
 
-The Anklets of Alsin are a light weapon that can be found in all Depths chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chest, [Fort Merit](Fort_Merit.md) chests, [Deep Widow's](Deep_Widow.md) chest, Primadons chest, Dread Serpent (direct drop), Fishing chest, [Duke's](Duke_Ishamon_Erisia.md) chest, and Voidwalkers bounty chests. The only requirement is a Kick Style. As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
+The Anklets of Alsin are a light weapon that can be found in all [Depths](The_Depths.md) Chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chests, [Fort Merit](Fort_Merit.md) chests, [Deep Widow's](Deep_Widow.md) chests, [Primadon's](Primadon,_Titan_of_the_East.md) chests, [Dread Serpent](Dread_Serpent.md) (direct drop), [Fishing](Fishing.md) Chests (rare), [Duke's](Duke_Ishamon_Erisia.md) chest, and [Voidwalkers](Origins.md#voidwalker) bounty chests. It is also dropped from killing [Polis](Polis.md). The only requirement is a Kick Style. As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
 
 ## Trivia/Notes
 

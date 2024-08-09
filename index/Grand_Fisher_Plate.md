@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 109085
+revid: 109415
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -11,7 +11,7 @@ categories: [Equipment]
 | Grand Fisher Plate | |
 |---|---|
 | type | Arms |
-| rarity | Mythic |
+| rarity | Unique |
 | selling price | Not Sellable |
 | requirements | LVL 10, 5 FTD |
 | weight | 2 |
@@ -30,7 +30,7 @@ _For the helm, see [Grand Fisher Helm](Grand_Fisher_Helm.md)_
 
 ### Grand Fisher Plate
 
-The plate is the largest armor piece, coming with the talent _Diver's Resilience_: you can parry unparriable attacks from giant monsters, but due to the heft of your plate you have slightly reduced speed.
+The plate is the largest armor piece, coming with the talent _Diver's Resilience_: you can parry unparriable attacks from giant monsters, but due to the heft of your plate you have slightly reduced speed. (Slowdowns user by 3% from normal speed.)
 
 ## Trivia
 

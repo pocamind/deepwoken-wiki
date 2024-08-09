@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 109105
+revid: 109379
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -224,7 +224,7 @@ The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning 
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted. Subsequent defeats also award an [Aelita](Aelita.md) chest.
 
-Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
+Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a Elemental Legendary Weapons, or extremely rarely, a [Relic](Relics.md).
 
 -   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests.
 -   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests.
@@ -233,11 +233,13 @@ Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests contain
 -   **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - An exceptionally rare torso [Equipment](Equipment.md) that is obtained through the Ferryman's chests.
 -   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
 -   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon usage.
+-   **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - An incredibly rare drop that allows the user to redeem a Yun'Shul wish.
 -   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.
 -   [**Crypt Blade**](Crypt_Blade.md) - The Crypt Blade is a Legendary Greatsword; a dark gray blade adorned with symbols, and wreathed in shadow.
+-   [Deepspindle](Deepspindle.md) - A Shadow Rapier.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 109117
+revid: 109404
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **6.2%**
 
 ## Description
 
-Vesperians are described as a beetle themed race with organically grown masks and very dark skin. They are most commonly seen at Greathive Aratel and are mostly under ranked by fellow Ganymedes. Vesperians always start off with +3 Fortitude and +2 Willpower as well as natural armor that regenerates when you rest.
+Vesperians are described as a beetle themed race with organically grown masks and very dark skin. They are most commonly seen at Greathive Aratel and are mostly under ranked by fellow [Ganymedes](Ganymede.md). Vesperians always start off with +3 Fortitude and +2 Willpower as well as natural armor that regenerates when you rest.
 
 ## Racial Traits
 
@@ -52,6 +52,8 @@ Vesperians are described as a beetle themed race with organically grown masks an
   
 
 Aeons ago, a long extinct species faced a cultural schizm in response to the rising tides. Those Talented few were blessed with the art of Lifeweaving. They vowed to turn their backs to the tides and grow great living hives above the ocean deep becoming what we in the modern world know as Vesperians. The few embracing the coming waves sunk to the deep and settling in as it's latest drowned inhabitants. These adventurous folk became what we know as Ganymedes.
+
+Ganymedes are the antithesis to **Vesperians**. While the **Vesperians** fight against [The Depths](The_Depths.md), the [Ganymedes](Ganymede.md) adapt to it. However, both of them are considered "weird" and outcasted by other races.
 
 This fits with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
@@ -120,6 +122,7 @@ A layer of protective armor that regenerates at rest.
 -   Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian race name was changed to Maskskipper.
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
+-   Vesperians are considered one of the best races in the game, due to their Chitin being able to stack with Exoskeleton.
 
 A Vesperian with Blindseer
 

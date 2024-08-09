@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 107296
+revid: 109403
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -53,6 +53,8 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
 
 Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those Talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embrace the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
 
+Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperians](Vesperian.md) fight against [The Depths](The_Depths.md), the **Ganymedes** adapt to it. However, both of them are considered "weird" and outcasted by other races.
+
 (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
 **Strengths:**
@@ -61,13 +63,6 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 
 -   Increased resistance to the effects of [The Depths](The_Depths.md)
 -   Deep Shrines are cheaper for you, meaning that you have less of a need to gain Knowledge.
-    
-
-**Weaknesses:**
-
-  
-
--   Salt
     
 
 **Surnames:**
@@ -99,7 +94,7 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 
 ## Trivia
 
--   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat.
+-   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat. It may also be possible that their mouth is simply the exact same darkness as the rest of their face.
 -   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's race name was changed to Hatskipper.
 -   Ganymede is one of the rarest obtainable races in the game, the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
@@ -109,7 +104,8 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
     -   They are the only race to have their racial Talent updated.
+-   The Ganymede hat can be removed by holding P and pressing the hat icon.
 -   Ganymede's name and the names of its variants are taken from the moons of celestial bodies.
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
-    -   speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)
+    -   Speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)

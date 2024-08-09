@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 109082
+revid: 109416
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,7 +10,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Grand Fisher Helm | |
 |---|---|
 | type | Helmet |
-| rarity | Mythic |
+| rarity | Unique |
 | selling price | Not Sellable |
 | requirements | None |
 | innate stats | 5% Ice Armor, 5% Lightning Armor, +5 Health, 1 Legendary Pip, 1 Rare Pip |

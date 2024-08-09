@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109371
+revid: 109395
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -50,5 +50,4 @@ The Fisherman executes its opponents after knocking them:
 -   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime Bleach, this is directly referenced in the concept art for the set.
 -   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.
 -   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md).
--   ~It could be implied in lore that Grand Fishers are the Authority's version of [Black Divers](<Black_Diver_(NPC).md>) and Deepdelvers.~ ~Th~~e~ ~armor could also be the Authority's version of an [Arc Suit](Oath%253A_Arcwarder.md).~
-    -   _**These are both incorrect; the Authority FUNDS the Divers. It's more likely that Grand Fishermen are deserters of the Divers that took the armor.**_
+-   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md)

@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 109206
+revid: 109401
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Random Encounters, Etrea, The Central Authority, Etrean Luminant]
@@ -67,6 +67,7 @@ One of the only places that will never burn in the Etris Raid Event is [Lord Reg
 -   In a nutshell, the lore behind this event is the Central Authority taking action and trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
 -   This event was unable to spawn during the Winter season until the 5th of July 2024 Update.
 -   This event is easy XP as long as you know how to parry trade relatively well.
+-   This is the only time in the game that the name of a place changes due to an event.
 
 ## Images & Videos
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 108716
+revid: 109399
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -118,7 +118,7 @@ Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) 
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it, it _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving you more time to dodge. The only way to parry them is using [Hunters Brace](<Hunter's_Brace.md>) (not reccomended as they are only found at Summer Isle or rarely in merchant ships, and it disappears if you die, leave the server, or enter a new luminant/the depths) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
+-   **If an attack has a red aura/effect to it, it _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving you more time to dodge. The only way to parry them is using [Hunters Brace](<Hunter's_Brace.md>) (not reccomended as they are only found at Summer Isle or rarely in merchant ships, and it disappears if you die, leave the server, or enter a new luminant/the depths), the [Grand Fisher Plate](Grand_Fisher_Plate.md), or the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
 -   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the [Megalodaunt](Megalodaunt.md)'s long-range coral spear. If you absolutely have to run, be smart about it. Abuse buildings and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
 -   **Practice makes perfect.** Try and fight Monsters in situations where you have little to no risk of dying, such as the Megalodaunt cave ([https://www.youtube.com/watch?v=WZD9Akn0gjM](https://www.youtube.com/watch?v=WZD9Akn0gjM)). Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:

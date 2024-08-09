@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109335
+revid: 109382
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -122,7 +122,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Frostdraw: Blue
         -   Thundercall: Yellow
         -   Galebreath: Green
-        -   Shadowcast: Purple
+        -   Shadowcast: Ourple
         -   Ironsing: Grey
     -   Does not effect Oath, Attunement-less, or Monster mantras.
     -   Prerequisite: 25 Intelligence

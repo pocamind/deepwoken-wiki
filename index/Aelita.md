@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 104007
+revid: 109397
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -34,27 +34,27 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
     -   Stand next to Aelita, she has purple eyes.
 5.  _"See? That was fun right? You can have a lot more fun if you come back during the winter."_
 
--   After this she will spawn a chest in the same spot Blizzard Knights' chest spawns. Aelita does not spawn during the winter, instead [Blizzard Knights](Stone_Knight.md) spawn.
+-   After this she will spawn a chest in the same spot [Blizzard Knights](Stone_Knight.md#blizzard-knight)' chest spawns. Aelita does not spawn during the winter, instead [Blizzard Knights](Stone_Knight.md) spawn.
 
 ## Drops
 
--   Headbands (all colors) (Common)
--   Warrior's Eyepatch (Common)
+-   [Headbands](Headband.md) (all colors) (Common)
+-   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>) (Common)
 -   Scarves (Common)
 -   Gladiator Helmet (Common)
--   Diamonds (Common)
--   Platinum Bars (Common)
--   Justicar Defender (Rare)
--   Shattered Katana (Rare)
--   Iron Birch (Rare)
--   Finisher's Ring (Very rare)
--   Moon Ring (Very rare)
--   Akira's ring (Very rare)
--   Deepfire ring (Very rare)
--   Maestro's ring (Very rare)
--   Mist Assassin Cloak (Extremely rare) (rarer than enchants)
--   Gold Assassin Cloak (Extremely rare)
--   Crimson Assassin Cloak (Extremely rare)
+-   [Diamonds](Treasures.md) (Common)
+-   [Platinum Bars](Treasures.md) (Common)
+-   [Justicar Defender Coat](Justicar_Defender_Coat.md) (Rare)
+-   [Shattered Katana](Shattered_Katana.md) (Rare)
+-   [Iron Birch](Iron_Birch.md) (Rare)
+-   [Finisher's Ring](Equipment.md#rings) (Very rare)
+-   [Moon Ring](Moon_Ring.md) (Very rare)
+-   [Akira's Ring](<Akira's_Ring.md>) (Very rare)
+-   [Deepfire Ring](Equipment.md#rings) (Very rare)
+-   [Maestro's Ring](Equipment.md#rings) (Very rare)
+-   [Mist Assassin Cloak](<Assassin's_Cloak.md>) (Extremely rare)
+-   [Gold Assassin Cloak](<Assassin's_Cloak.md>) (Extremely rare)
+-   [Crimson Assassin Cloak](<Assassin's_Cloak.md>) (Extremely rare)
 
 ## Trivia
 
