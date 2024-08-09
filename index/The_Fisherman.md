@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109365
+revid: 109371
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -18,7 +18,7 @@ The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fishe
 
 ## Moveset
 
-The Fisherman uses their enchanted [Halberd](Halberd.md) and [Thundercall](Thundercall.md) and [Chainwarden](Oath%253A_Chainwarden.md) mantras.
+The Fisherman uses their enchanted [Halberd](Halberd.md) and [Thundercall](Thundercall.md) and [Chainwarden](Oath%253A_Chainwarden.md) mantras:
 
 | Name | Media | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) and [Thundercall](Thund
 
 ## Finisher
 
-The Fisherman executes its opponents after knocking them.
+The Fisherman executes its opponents after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -42,15 +42,13 @@ The Fisherman executes its opponents after knocking them.
 
 ## Tips
 
--   The Fisherman has a very high amount of health, so it is recommended to be high power when you fight them, or bring a friend along.
+-   The Fisherman has a very high amount of health, thus it is recommended for the player to be Power 16+ when engaging with them.
+    -   Simply bringing a friend along will also work.
 -   The best and easiest way to beat The Fisherman is to take it to Light's Causeway and parry its attacks until the turret kills it.
--   Due to the fact that The Fisherman uses [Chainwarden](Oath%253A_Chainwarden.md), it is difficult and not recommended to run, because they will pull you towards themselves.
-
-## Trivia
+-   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), thus it is highly unrecommended to run away due to their dreadful ability of pulling the player towards themselves.
 
 -   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime Bleach, this is directly referenced in the concept art for the set.
--   The [Grand Fisher set](Grand_Fisher_Helm.md) is a guaranteed drop from him (both items).
+-   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.
 -   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md).
--   ~It could be implied in lore that Grand Fishers are the Authority's version of [Black Divers](<Black_Diver_(NPC).md>) and Deepdelvers.~
--   ~This armor could also be the Authority's version of an [Arc Suit](Oath%253A_Arcwarder.md)~
--   _**These are both incorrect; the Authority funds the Divers. It's more likely that Grand Fishermen are deserters of the Divers that took the armor.**_
+-   ~It could be implied in lore that Grand Fishers are the Authority's version of [Black Divers](<Black_Diver_(NPC).md>) and Deepdelvers.~ ~Th~~e~ ~armor could also be the Authority's version of an [Arc Suit](Oath%253A_Arcwarder.md).~
+    -   _**These are both incorrect; the Authority FUNDS the Divers. It's more likely that Grand Fishermen are deserters of the Divers that took the armor.**_

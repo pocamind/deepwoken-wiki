@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 109240
+revid: 109370
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,7 @@ categories: [Oaths]
 
 ## **Progression**
 
-The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it. Alternatively, if the oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character.
+The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it. Alternatively, if the oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the machine.
 
 ## Effects
 
@@ -77,6 +77,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
     -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
+    -   If you wear a [Deepscorn Casque](Deepscorn_Casque.md), you can use sustain to heal others without losing health yourself.
 
 -   **Parasitic Leech (Mantra)**
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
@@ -91,7 +92,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 -   Recommended for support-based builds (e.g., Flame Vow of Mastery).
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
--   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
+-   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger. (To put it into perspective, thats 15% health healed every ~2 seconds.)
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it deals heavily reduced damage.
 -   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardles of who places them.
