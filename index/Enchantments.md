@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 108918
+revid: 109363
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -212,7 +212,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant, with the added benefit of having the 17.5% damage buff even while rain isn't active. Unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You can still parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1</p></div></td>
+  <td><div><p>Effects of the storm enchant. Unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You can still parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1</p></div></td>
   <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
@@ -288,6 +288,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
   Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
+  When missing an attack, lose some ether.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
   When sheathed, the weapon model is completely invisible.</div></td>

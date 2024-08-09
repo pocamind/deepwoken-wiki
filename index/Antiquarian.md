@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 109353
+revid: 109364
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Vendors]
@@ -63,9 +63,11 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [Apprentice Rapier](Apprentice_Rapier.md) | 14 |
 | [Dragoon](Dragoon.md) | 14 |
 | [Falchion](Falchion.md) | 14 |
+| [Flamekeeper Cestus](Flamekeeper_Cestus.md) | 14 |
 | [Forge Greathammer](Forge_Greathammer.md) | 14 |
 | [Gilded Knife](Gilded_Knife.md) | 14 |
 | [Halberd](Halberd.md) | 14 |
+| [Khan Shield](Legion_Shield.md) | 14 |
 | [Legion Cestus](Legion_Cestus.md) | 14 |
 | [Razor Cutlass](Razor_Cutlass.md) | 14 |
 | [Scimitar](Scimitar.md) | 14 |
@@ -73,12 +75,19 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [Tanto](Tanto.md) | 14 |
 | [Trident Spear](Trident_Spear.md) | 14 |
 | [Vigil Longsword](Vigil_Longsword.md) | 14 |
+| [Champion's Sword](<Champion's_Sword.md>) | 25 |
 | [Darksteel Greatsword](Darksteel_Greatsword.md) | 25 |
 | [Dawnshot](Dawnshot.md) | 25 |
 | [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) | 25 |
+| [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) | 25 |
 | [Pale Morning](Pale_Morning.md) | 25 |
+| [Pernach](Pernach.md) | 25 |
+| [Sacred Hammer](Sacred_Hammer.md) | 25 |
 | [Serpent's Edge](<Serpent's_Edge.md>) | 25 |
 | [Whaling Knife](Whaling_Knife.md) | 25 |
+| [Crucible Rapier](Crucible_Rapier.md) | 50 |
+| [Nemit's Sickle](<Nemit's_Sickle.md>) | 50 |
+| [Sovereign's Punishment](<Sovereign's_Punishment.md>) | 50 |
 
 **Items:**
 

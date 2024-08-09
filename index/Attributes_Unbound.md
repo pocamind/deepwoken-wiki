@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 107258
+revid: 109361
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
