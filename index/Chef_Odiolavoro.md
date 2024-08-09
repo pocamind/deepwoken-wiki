@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 109069
+revid: 109349
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -42,20 +42,20 @@ File:UllaSweetBun.png
  | Urchin Stew | 3x Urchin | ◯ |
 | 
 
-File:UllaFriedEgg.png
-
- | Cooked Egg | 1 Egg | ◯ |
-| 
-
- | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
-| 
-
 File:UllaNoodles.png
 
  | Noodles | 1x Egg + 2x Gathered Wheat | ✗ |
 | 
 
  | Dried Seaweed | 1x Seaweed Bundle | ◯ |
+| 
+
+File:UllaFriedEgg.png
+
+ | Cooked Egg | 1 Egg | ◯ |
+| 
+
+ | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
 | 
 
  | Sauteed Scallops | 2x Scallops | ◯ |

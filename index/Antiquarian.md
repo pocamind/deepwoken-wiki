@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 108030
+revid: 109353
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Vendors]
@@ -54,6 +54,7 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [Kite Shield](Kite_Shield.md) | 7 |
 | [Mace](Mace.md) | 7 |
 | [Messer](Messer.md) | 7 |
+| [Old World Greatshield](Old_World_Greatshield.md) | 7 |
 | [Silver Dagger](Silver_Dagger.md) | 7 |
 | [Steel Maul](Steel_Maul.md) | 7 |
 | [Stiletto](Stiletto.md) | 7 |
@@ -64,13 +65,19 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [Falchion](Falchion.md) | 14 |
 | [Forge Greathammer](Forge_Greathammer.md) | 14 |
 | [Gilded Knife](Gilded_Knife.md) | 14 |
+| [Halberd](Halberd.md) | 14 |
 | [Legion Cestus](Legion_Cestus.md) | 14 |
 | [Razor Cutlass](Razor_Cutlass.md) | 14 |
 | [Scimitar](Scimitar.md) | 14 |
 | [Shotel](Shotel.md) | 14 |
 | [Tanto](Tanto.md) | 14 |
 | [Trident Spear](Trident_Spear.md) | 14 |
+| [Vigil Longsword](Vigil_Longsword.md) | 14 |
+| [Darksteel Greatsword](Darksteel_Greatsword.md) | 25 |
+| [Dawnshot](Dawnshot.md) | 25 |
+| [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) | 25 |
 | [Pale Morning](Pale_Morning.md) | 25 |
+| [Serpent's Edge](<Serpent's_Edge.md>) | 25 |
 | [Whaling Knife](Whaling_Knife.md) | 25 |
 
 **Items:**
@@ -82,5 +89,7 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | [King Thresher Spine](King_Thresher_Spine.md) | 30 |
 | [Lionfish Scale](Lionfish_Scale.md) | 15 |
 | [Dark Feather](Dark_Feather.md) | 30 |
+| [Dying Embers](Dying_Embers.md) | 2 |
 | [Frigid Prism](Frigid_Prism.md) | 2 |
+| [Gale Stone](Gale_Stone.md) | 10 |
 | [Spark Gland](Spark_Gland.md) | 10 |

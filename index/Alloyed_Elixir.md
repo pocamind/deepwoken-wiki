@@ -1,6 +1,6 @@
 ---
 title: Alloyed Elixir
-revid: 74439
+revid: 109354
 source: https://deepwoken.fandom.com/wiki/Alloyed_Elixir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

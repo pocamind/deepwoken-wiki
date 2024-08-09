@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 109241
+revid: 109332
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2594,7 +2594,7 @@ The formula to calculate the damage of a weapon including bleed is
 
 The time it takes for your weapon to swing in seconds is approximately half the inverse of its swing speed (the higher the swing speed, the quicker the weapon swings). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, while a weapon with 1.0x swing speed would take close to 0.5 seconds to swing.
 
-Players can use this formula to figure out their attack speed.
+Players can use this formula to figure out their attack speed. (This formula is currently outdated due to attack speed show changes)
 
 A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack Speed = (\\tfrac{1}{SwingSpeed}) \\div 2} {\\displaystyle AttackSpeed=({\\tfrac {1}{SwingSpeed}})\\div 2}
 

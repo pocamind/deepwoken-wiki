@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 109317
+revid: 109336
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,9 +22,9 @@ categories: [Mechanics]
 
 Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will still aggro to the player on sight.
 
-Wiping below power 6 (**I kept It when wiping at power 7**) **(I did not keep it when i wiped at power 7)** is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
+Wiping below power 6 is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
-If you are attempting to get Mute, wiping on a high level file has a higher chance of giving you Mute on your next life.
+If you are attempting to get Mute, wiping on a high level file has a higher chance of giving you Mute on your next life. Mute is also considered the best and most useful **Regalia**, because it simply makes your life much easier.
 
 #### Exceptions
 
@@ -62,11 +62,11 @@ Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by a
 
 ### Inspired
 
-Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. Sibex dialogue doesn't change.
+Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. [Sibex](Sibex.md)'s dialogue doesn't change.
 
 ### **Worthy**
 
-Grants unique diologue with [The Legendary Boot](Legendary_Boot.md).
+Grants unique diologue with [The Legendary Boot](Legendary_Boot.md). In order to obtain it, you also need 100 [LHT](Weapons.md#light-weapons), and [Jus Karita](Jus_Karita.md). Functionally, this does nothing to progression, abillities, or anything crucial to the game, but it is just a silly piece of dialogue.
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 

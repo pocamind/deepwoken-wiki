@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109331
+revid: 109335
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -795,7 +795,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
     -   Prerequisites: 20 Willpower, 15 Strength
-        -   Pairs well with [Flame Within](Flamecharm.md).
+        -   Pairs well with [Flame Within](Flamecharm.md) and [Raging Static](https://deepwoken.fandom.com/wiki/Thundercall?so=search).
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
