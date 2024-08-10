@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 107780
+revid: 109455
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,7 +11,7 @@ categories: [Mechanics]
 | Knowledge | |
 |---|---|
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables, Increasing reputation with The Ministry through the Soothsayer, Instantly fully progressing an Oath completed on a previous slot |
-| obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating certain bosses, Defeating certain unique mobs for the first time, Echoes upgrades |
+| obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating certain bosses, Defeating certain unique mobs for the first time, Echoes upgrades, Using the Moonseye Tome relic |
 
 “ Do you have the knowledge within you then, my dull friend? ”
 
@@ -34,6 +34,7 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 
 Achieving milestones and completing certain quests will award the player with Knowledge.
 
+-   Obtaining a [Resonance](Resonance.md) awarding 5 knowledge.
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
@@ -65,7 +66,7 @@ A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-
 
 As stated at the beginning of this page, Knowledge can be used to bargain with powerful objects and beings.
 
--   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes)
+-   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes). Making a deal with the Shrine of Blasphemy will consume 5 knowledge but give 3 back as you level up 3 times when making a deal with the shrine of blasphemy.
 
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit**, uses 1 Knowledge.

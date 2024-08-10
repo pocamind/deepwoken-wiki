@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 109415
+revid: 109445
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -12,7 +12,7 @@ categories: [Equipment]
 |---|---|
 | type | Arms |
 | rarity | Unique |
-| selling price | Not Sellable |
+| selling price | ??? |
 | requirements | LVL 10, 5 FTD |
 | weight | 2 |
 | innate stats | +10 Health, +1 Posture, 3 Legendary Pips |

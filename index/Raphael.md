@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 109407
+revid: 109440
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -13,7 +13,9 @@ categories: [NPCs, Layer 1]
 | name | Raphael |
 | location | Lost Celtor, The Varicosa District; The First Layer of the Depths, Scyphozia |
 
-Raphael is a mysterious NPC located in the [First Layer of the Depths](First_Layer.md) (Scyphozia), in the [Varicosa District](Varicosa_District.md) of Lost Celtor. Not much is known about him, but he offers the player a quest to find a person/thing named "Morning." "Morning" has never been found, and it will most likely only be complete-able in future updates, sadly.
+Raphael is a mysterious NPC located in the [First Layer of the Depths](First_Layer.md) (Scyphozia), in the [Varicosa District](Varicosa_District.md) of [Lost Celtor.](Lost_Celtor.md) Not much is known about him, but he offers the player a quest to find a person/thing named "Morning." "Morning" has never been found, and it will most likely only be complete-able in future updates, sadly.
+
+Based on his dialogue after accepting the quest but not completing it, we can assume that he works for some kind of shadow organization, such as [The Ministry](The_Ministry.md). There is no way to tell, though.
 
 ## Dialogue
 

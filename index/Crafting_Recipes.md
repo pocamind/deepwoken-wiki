@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 108902
+revid: 109423
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,6 +30,7 @@ These are recipes that are not used to produce food or potions.
 -   **[Chum](Chum.md)** - _2 Fish Meat/ 2 Crustacean Meat/ 1 Pufferfish_
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
 -   **Void Feather** - _3 Dark Feather(s), 1 Umbral Obsidian_
+-   [Forge Needle](Forge_Needle.md) - _1 [Armorer's Needle](<Armorer's_Needle.md>), 5 [Smith's Alloy](<Smith's_Alloy.md>)_
 
 Picture of a Crafting Bench
 

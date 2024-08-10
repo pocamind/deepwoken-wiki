@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 108642
+revid: 109425
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
@@ -30,5 +30,7 @@ This location has 3 stone pillars with a twisting white glow going through them.
 Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (around 1%[\[1\]](#cite-note-1), take with a grain of salt), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md). It is also recommended to farm these knights using Lootskipper and Vow of Thorns in order to maximize your chances of obtaining astral.
 
 Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), since this island is it's own area and not just part of the [Voidsea](Voidsea.md), dying a PVE death on this island will not send you to The Depths.
+
+There is a chance that you could possibly be teleported away from the island due to Void Sea's teleportation mechanic. If this happens unfortunetly you'll have to swim back to the island and try another time.
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=5UlpMOiYA8o&t=36s](https://www.youtube.com/watch?v=5UlpMOiYA8o&t=36s)

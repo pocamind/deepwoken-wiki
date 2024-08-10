@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 109116
+revid: 109438
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -152,6 +152,13 @@ The following is speculation:
 -   Kind of confirmed, unknown release timeframe.
 -   Stated to be an exotic origin, where progression is different from all others, being more based on guarding and taking explosive crates than going out for grinding.
 -   Very high chances that when you start with this origin, you will have positive reputation with the [Authority](The_Central_Authority.md) and negative reputation with the [Ignition Union](The_Ignition_Union.md).
+
+### Vigil Origin
+
+-   Technically confirmed, but release timeframe is unknown.
+-   Stated to be an origin where you will progress by fighting [Authority](The_Central_Authority.md) and [Knives of Eylis](The_Knives_of_Eylis.md) soldiers.
+-   You will most likely start with the [Vigil Initiate outfit](Vigil_Initiate.md), rising through getting the [Vigil Swordsman outfit](Vigil_Swordsman.md) and, finally, the [Cloak of Winds](Cloak_of_Winds.md). Possibly alongside a [Vigil Hood](Vigil_Hood.md).
+-   This will most likely have a buff or something special when using the [Vigil Longsword](Vigil_Longsword.md) or the [Katana](Katana.md), but this is just speculation.
 
 ## Trivia
 
