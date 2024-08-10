@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 109524
+revid: 109569
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Outfits]
@@ -25,6 +25,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
+-   [Bandits](Bandit.md)
 
 ### _Armor Stats_
 

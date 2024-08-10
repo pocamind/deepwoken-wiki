@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 109531
+revid: 109584
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, NPCs, Quests, Etrea]
@@ -208,7 +208,10 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
     -   Being a [Contractor](Oath%253A_Contractor.md) does not unlock any unique dialogue with him.
 -   The reason he's in the [Second Layer](Second_Layer.md) is because a [satirical video](https://www.youtube.com/watch?v=wd7Qp4SlxTM) was made, showing him bonding with and then entering in a relationship with Ambrosius. Developer Arch\_Mage saw this video, and decided to add Kennith to Layer 2 as a result.[\[1\]](#cite-note-1)
     -   Ironically, the video shows Kennith in [Firfire](Firfire.md), while he was ultimately placed in the Kyrsan Wilds.
+
 -   Kennith's corpse still has a talk hitbox, but nothing happens if you try to talk to him,
+
+-   Kennith shares the same hair as a [Ministry Necromancer](Ministry_Necromancer.md). HAIR ID: 4735347390
 
 ## References
 

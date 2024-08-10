@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 109101
+revid: 109586
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, The Ignition Union]
@@ -41,7 +41,6 @@ This Outfit's Schematic can be found in:
 
 -   Combining this outfit with the Metal [enchant](Enchantments.md) (steal/replenish armor durability on hit) allows you to essentially negate the durability cost of the Talent.
 -   There are a few attacks that cannot be parried even with the Deepdelver on. These include (not exhaustive):
-    -   **Laser** ([Golem](Rock_Golem.md)) & **Laser Barrage** ([Golem Prime](Rock_Golem.md))
     -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
     -   **Cero** ([Lionfish](Lionfish.md))
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks

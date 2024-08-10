@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 104014
+revid: 109583
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -99,11 +99,11 @@ Capes are an [Equipment](Equipment.md) item under the "Torso" category. They can
 
 ## Description
 
-The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md) and wave 50 chests from [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md) and wave 50 chests from [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Trivia
 
--   The cape, along with the entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)
+-   The cape, along with the entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn).
 -   Brilliant Cape is a part of the "**Brilliant**" set; with the other armor pieces being the **[Brilliant Pauldron](Brilliant_Pauldrons.md)** and the **[Brilliant Boots](Brilliant_Boots.md)**.
     
 

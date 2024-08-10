@@ -1,9 +1,9 @@
 ---
 title: Boltcrusher
-revid: 109559
+revid: 109582
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Critical, Greathammers]
+categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
 ---
 
 # Boltcrusher
@@ -19,7 +19,7 @@ categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Cr
 | endlag | 0.15 |
 | penetration | 20% |
 | chip damage | 30% |
-| special effect | Applies Sapped on critical (Needs Testing) |
+| special effect | Applies Sapped on critical (Needs Testing)Applies Electrified/Surge stacks on hit |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 8 |
@@ -39,6 +39,16 @@ The **Boltcrusher** is a Legendary [Greathammer](Weapons.md): a heavy industrial
 ## Obtainment
 
 It is obtained via the "Drowned Delver" job on the Job Board in Layer 1 of the Depths. It drops from the Delver NPC itself.
+
+## Critical
+
+Standing: Charge up and swing the boltcrusher into the opponents, then swap to the other side and drill it into their body, blowing them away with a strong force.(ragdolls)
+
+Running: Lift the Boltcrusher above your head and slightly move forward, then slams down the boltcrusher and creates a big lightning-imbued shockwave after it.(knockdown, 2 hits)
+
+## Trivia
+
+It is both droppable and bankable.
 
 ## References
 

@@ -1,9 +1,9 @@
 ---
 title: Golden Swordfish
-revid: 108930
+revid: 109587
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Rapiers, Weapons with Unique Criticals]
+categories: [Weapons, Rapiers, Weapons with Unique Criticals]
 ---
 
 # Golden Swordfish
@@ -36,59 +36,9 @@ This weapon cannot be dropped by any means, similar to a Soulbound item or the [
 
 The Critical is identical to that of the [Trident Spear](Trident_Spear.md) critical. However, it does less posture damage.
 
-## Gallery
-
-### Enchantments
-
-**Wild:**
-
-**Stone:**
-
-File:Stone Fish.png
-
-**Vampirism:**
-
-**Heroism:**
-
-**Blazing (Regular):**
-
-**Gluttony:**
-
-**Curse of Yun'Shul:**
-
-**Grim:**
-
-**Chilling:**
-
-**Metal:**
-
-File:Metal Golden Swordfish.png
-
-**Detonation:**
-
-**Solar:**
-
-**Elastic:**
-
-**Tears of the Edenkite:**
-
-**Obfuscation:**
-
-**Curse of the No Life King:**
-
-**Umbral Knight:**
-
-**Deferred:**
-
-**Astral:**
-
-File:ASTRALFISHISREAL.png
-
-**Harrowing:**
-
 ## Trivia
 
--   Stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range, making it marginally better.
+-   The stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range, making it marginally better.
 -   The first rapier with a special critical.
 -   Most likely a reference to how many players suggested for the swordfish to be an equippable weapon.
 -   The critical to be a reference to the belief that swordfish hunt by "skewering."[\[1\]](#cite-note-1) However, this is a myth. Swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, it would be more accurate for this weapon to be a medium sword.

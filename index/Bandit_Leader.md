@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 101720
+revid: 109574
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -21,7 +21,7 @@ Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_
 -   Faction Ambush- 3 Bandit Leader
 -   Bandit Leader and lowly bandits vs Summer Company Guards
 
-A Bandit Leader wears the unobtainable Bounty Hunter [Outfit](Outfits.md) with their [Race](Aspects.md) varying.
+A Bandit Leader wears the obtainable Bounty Hunter [Outfit](Outfits.md) with their [Race](Aspects.md) varying.
 
 ## Moveset
 

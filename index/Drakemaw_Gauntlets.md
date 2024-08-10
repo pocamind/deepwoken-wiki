@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 107181
+revid: 109591
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
@@ -28,13 +28,13 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
 
 ## Description
 
-The Drakemaw Gauntlets is a Light Weapon in the Fists category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime. Meeting the requirement of LHT, the weapon deals 21.3 damage, but it becomes 27.7 with bleed. At max LHT, the weapon deals 23.4 damage, but it becomes 30.5 with bleed.
+The Drakemaw Gauntlets is a Light Weapon in the Fists category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 [Knowledge](Knowledge.md) anytime. Meeting the requirement of LHT, the weapon deals 21.3 damage, but it becomes 27.7 with bleed. At max LHT, the weapon deals 23.4 damage, but it becomes 30.5 with bleed.
 
 ## Critical
 
-The Drakemaw Gauntlets has a unique critical that does not change whether you have [Way of Navae](Way_of_Navae.md) or [Legion Kata](Legion_Kata.md) Equipped.
+The Drakemaw Gauntlets have a unique critical that does not change whether you have [Way of Navae](Way_of_Navae.md) or [Legion Kata](Legion_Kata.md) equipped.
 
-The user performs a fast forward thrust that **does not** instantly guard break, however it does a large amounts of posture.
+The user performs a fast forward thrust that, while it does not instantly guardbreak, does a large amounts of posture.
 
 ## Trivia
 
