@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 107023
+revid: 109476
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -33,7 +33,9 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 
 ## Passives
 
--   **Serrated Claws** - Threshers have 100% PEN.
+-   **Serrated Claws** - Threshers have 100% PEN and inflict Bleed on hit.
+
+-   **Thresher Scales** - Threshers have 40% Physical attack resistance.
 
 ## Tips and Tricks
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 107191
+revid: 109562
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -27,7 +27,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 
 ## Description
 
-The Ignition Deepcrusher is a Legendary medium weapon tied to the Ironsing Attunement.
+The **Ignition Deepcrusher** is a Legendary medium weapon: an invention of ferrofluid metal, that can take two forms through Ironsing as either a mace for clubbing, or a sword for cutting. The first form takes bordered hilt before a chesspiece cross that makes the club, its gambit choosing to impart with the targets body Ironsing rods that inhibit, rather than its second form which is used to slash through victims, done with a simple sword that has both speed and cause for the opponent to bleed.
 
 This weapon has 1 passive by default:
 

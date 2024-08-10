@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 109397
+revid: 109536
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -62,14 +62,14 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Aelita is a [Felinor](Felinor.md).
     -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [oaths](Oaths.md).\[citation needed\]
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
--   Aelita is a Visionshaper, she doesn't have the oath particle for optimization purposes.
+-   Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
     
     Aelita sitting in the fetal position on a rock
     
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
 -   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
--   Silentheart's are unable to beat her game without abusing glitches due to a lack of Mantras.
+-   [Silentheart](Oath%253A_Silentheart.md)'s are unable to beat her game without abusing glitches due to a lack of Mantras.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID : 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.

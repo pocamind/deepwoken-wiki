@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 107601
+revid: 109517
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -20,12 +20,12 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Depths, Arena |
+| obtainment | Chests from:, Fort Merit, The Depths, Arena, Knives of Eylis Events |
 | description | "..." |
 
 ## Description
 
-Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md) and by winning matches in [Arena](Chime_of_Conflict.md).
+Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md), by winning matches in [Arena](Chime_of_Conflict.md) and Knives of Eylis Events.
 
 ## Trivia
 

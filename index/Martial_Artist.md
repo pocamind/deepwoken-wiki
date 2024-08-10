@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 109058
+revid: 109492
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -9,6 +9,12 @@ categories: [Items, Outfits]
 # Martial Artist
 
 Template:ArmorInfobox**Martial Artist** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+
+## Requirements
+
+This Outfit costs and requires seven (7) Cloth, five (5) Fiber and one (1) Odd Tentacle.
+
+This Outfit requires [Power Level](Talents.md) 10 and 15 Strength.
 
 ## Armor Stats
 
@@ -25,8 +31,8 @@ This Outfit's Schematic can be obtained from:
 -   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Mudskipper Brute](Mudskipper_Brute.md)
--   [Fury Nautilodaunt](Nautilodaunt.md#fury-nautilodaunt)[\[1\]](https://deepwoken.fandom.com/wiki/Martial_Artist)
+-   [Fury Nautilodaunt](Nautilodaunt.md#fury-nautilodaunt)
 
 ## Trivia
 
--   It changes appearance depending on the character gender. It appears shirtless when your character is masculine, But sports a sleeve-less shirt on top if you’re feminine or gender neutral.
+-   It changes appearance depending on the character gender. It appears shirtless when your character is masculine, but sports a sleeve-less shirt on top if you’re feminine or gender neutral.

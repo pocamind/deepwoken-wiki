@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 106629
+revid: 109530
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards, Etrea]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Etrean Guardsmen are NPC type of passive [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Upon killing one, more tend to come, quickly swarming the player. After killing a sufficient amount of them, [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will start hunting you.
 
-Etrean Guardsmen wear an Unknown outfit, and are [Etreans](Etrean.md).
+Etrean Guardsmen wear the [Etrean Guard](Etrean_Guard.md) Expert [Outfit](Outfits.md).
 
 ## Behavior
 

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 108420
+revid: 109558
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-The Curved Blade of Winds is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md) that takes the form of a sword. It is a rare drop from the chests in [The Depths](The_Depths.md), from the [Scion of Ethiron](Scion_of_Ethiron.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and certain [sea events](Random_Encounters.md). It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
+The **Curved Blade of Winds** is a Legendary [Sword](Weapons.md): a curved sword in likeness to a scimitar, to cut through both air and guards with breeze. Visible within its blade is trapped energy ending in swirling eddies and dots, the blade curving too like the start of such a spiral. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
 
 This weapon comes with two passive abilities:
 

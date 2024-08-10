@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 108962
+revid: 109556
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 
 ## Description
 
-The Deepspindle is a Legendary [Rapier](Weapons.md#rapiers), a malevolent manifestation of shadow forged through unknown means into a curving, ornate assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
+The **Deepspindle** is a Legendary [Rapier](Weapons.md#rapiers), a malevolent manifestation of shadow forged through unknown means into a curving, ornate assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
 
 ## Critical
 

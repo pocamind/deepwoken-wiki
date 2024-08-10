@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 106631
+revid: 109531
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, NPCs, Quests, Etrea]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-Kennith is an [Etrean](Etrean.md) working for law enforcement in [Etris](Etris.md), suspicious of his leader, [The Lord Regent](The_Lord_Regent.md) of Etrea. He keeps an eye on suspicious individuals. He wears an [Investigator's Hat](<Investigator's_Hat.md>) and [Brigand's Cloak](<Brigand's_Cloak.md>), as well as an Unknown outfit shared by [Etrean Guardsmen](Etrean_Guardsmen.md).
+Kennith is an [Etrean](Etrean.md) working for law enforcement in [Etris](Etris.md), suspicious of his leader, [The Lord Regent](The_Lord_Regent.md) of Etrea. He keeps an eye on suspicious individuals. He wears an [Investigator's Hat](<Investigator's_Hat.md>) and [Brigand's Cloak](<Brigand's_Cloak.md>), as well as the [Etrean Guard](Etrean_Guard.md) Expert [Outfit](Outfits.md), which is shared by [Etrean Guardsmen](Etrean_Guardsmen.md).
 
 Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kennith will implore them to find information on the Lord Regent. Upon interviewing Bookkeeper Andros, Kennith is dragged to the Lord Regent, killed and pinned out in the [Etrean Wilds](Etrean_Wilds.md) to be found. This results in him being sent to the [Kyrsan Wilds](Kyrsan_Wilds.md), where he can be found and informed of the situation in Etris.
 

@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 109435
+revid: 109496
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -49,7 +49,7 @@ You can reset your reputation with Maura, who is standing inside a house on top 
 
 The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Origins.md).
 
-Having Hunted reputation will cause you to be hunted by [Arcwarders](Ignition_Union_Arcwarder.md) and [Mechalodaunts](Megalodaunt.md)
+Having Hunted reputation will cause you to be hunted by [Arcwarders](Ignition_Union_Arcwarder.md) and [Mechalodaunts](Mechalodaunt.md)
 
 ### Dialogue
 

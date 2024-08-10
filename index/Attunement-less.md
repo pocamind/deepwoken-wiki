@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 109413
+revid: 109488
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -120,7 +120,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
     <li>In game it is still labeled as a light weapon mantra</li>
-    <li><i>(Used to be 5 strength, was shadow changed to be 20 strength.)</i></li>
+    <li><i>(Used to be 20 strength, was shadow changed to be 5 strength.)</i></li>
   </ul></li>
   </ul></td>
 </tr>

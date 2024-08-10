@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 72773
+revid: 109533
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits, Items, Exclusive Outfits]
@@ -10,8 +10,11 @@ categories: [Armors, Outfits, Items, Exclusive Outfits]
 
 Template:ArmorInfobox**Veteran Adventurer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
+## Location
+
+Obtained in Minityrsa
+
 ## Trivia/Notes
 
 -   A reference to Sol Badguy from Guilty Gear.
 -   Worn by f3bian during the [Battle Royale](Battle_Royale.md).
--   Only obtainable in battle royale right now.

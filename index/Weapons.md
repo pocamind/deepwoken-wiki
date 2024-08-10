@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 109430
+revid: 109489
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2146,6 +2146,19 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1x</td>
   <td>N/A</td>
   <td>37.8</td>
+</tr>
+<tr>
+  <td><p><a href="https://deepwoken.fandom.com/wiki/Boltcrusher"><font>Boltcrusher</font></a></p></td>
+  <td>80 THD, 55 HVY, 20 STR</td>
+  <td>25</td>
+  <td>20%</td>
+  <td>30%</td>
+  <td>THD: 5, HVY: 4.2</td>
+  <td>8</td>
+  <td>8.5</td>
+  <td>0.87x</td>
+  <td>0.15</td>
+  <td>49</td>
 </tr>
 </tbody>
 </table>

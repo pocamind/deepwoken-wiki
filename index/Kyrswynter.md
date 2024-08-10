@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 108905
+revid: 109555
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -31,7 +31,7 @@ notices:
 
 ## Description
 
-The Kyrswynter is a Legendary Spear; an intricate curved and wrapped white spear held under the arm, its blue-white coloration indicating the frost of the Kyrsgarde, and the patterns under its hilt indicating the winds of the Eternal Gale.
+The **Kyrswynter** is a Legendary Spear; an intricate curved and wrapped white spear held under the arm, its blue-white coloration indicating the frost of the Kyrsgarde, and the patterns under its hilt indicating the winds of the Eternal Gale.
 
 The Kyrswynter comes with a single passive ability:
 

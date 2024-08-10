@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 109203
+revid: 109545
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -58,7 +58,7 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 -   Has misleading animations that extend the weapons visual reach way outside of its actual hotbox.
 -   Before 10/20/2023, the weapon used the base critical for the active fist style.
 -   As this weapon is Legendary, it is completely unenchantable. Until the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
--   It is one of seven known weapons to have multiple critical attacks, the others being [Soulthorn](Soulthorn.md), [Krulian Knife](Krulian_Knife.md), [Wraithclaw](Wraithclaw.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Kanabo](Kanabo.md), [Cerulean Thread](Cerulean_Thread.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Kyrswynter](Kyrswynter.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+-   It is one of fourteen known weapons to have multiple critical attacks, the others being [Soulthorn](Soulthorn.md), [Krulian Knife](Krulian_Knife.md), [Wraithclaw](Wraithclaw.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Kanabo](Kanabo.md), [Cerulean Thread](Cerulean_Thread.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Kyrswynter](Kyrswynter.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
 -   The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
 -   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling (even tho it still has less damage regardless), and a variety of Criticals.

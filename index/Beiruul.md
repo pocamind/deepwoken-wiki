@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 107644
+revid: 109539
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,3 +25,5 @@ When fighting, Beiruul uses the [Way Of Navae](Fists.md) fist fighting style and
 She has Fists of Fortitude and Fists of Navae as [Talents](Talents.md).
 
 Gripping Beiruul will **reduce your rep with the Children of Navae.**
+
+Beiruul has 3000 HP

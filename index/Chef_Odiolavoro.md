@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 109367
+revid: 109523
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -58,14 +58,6 @@ File:UllaPlumfruitMuffin.png
  | Plumfruit Muffin | 1x Gathered Wheat + 1x Plumfruit | ◯ |
 | 
 
-File:UllaFriedEgg.png
-
- | Cooked Egg | 1 Egg | ◯ |
-| 
-
- | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
-| 
-
 File:UllaCake.png
 
  | Cake | 1x Egg + 3x Gathered Wheat + 1x Sap | ◯ |
@@ -82,6 +74,14 @@ File:YummerGrilledCheese.png
 | 
 
  | Fish Omelette | 2x Egg + 1x Fish Meat | ◯ |
+| 
+
+File:UllaFriedEgg.png
+
+ | Cooked Egg | 1 Egg | ◯ |
+| 
+
+ | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
 | 
 
 File:Mushroom omlette.jpg

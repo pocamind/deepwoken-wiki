@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 109306
+revid: 109481
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -27,7 +27,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower, Suffer from Blindness & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
--   [Chainwarden](Oath%253A_Chainwarden.md): +2 Combat Mantra \[Strength, Fortitude or Willpower can add to a total of 40 \]
+-   [Chainwarden](Oath%253A_Chainwarden.md): +1 Wildcard Mantra, +1 Combat Mantra \[Strength, Fortitude or Willpower can add to a total of 40 \]
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility \[50 Agility\]
