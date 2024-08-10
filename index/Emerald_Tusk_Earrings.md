@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 107616
+revid: 109623
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,7 +15,7 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
+| innate stats | +1 Common Pip,, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

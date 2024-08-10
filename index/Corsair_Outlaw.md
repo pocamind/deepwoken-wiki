@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 109569
+revid: 109702
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Outfits]
@@ -20,18 +20,14 @@ This Outfit has no cost and requires five (5) Cloth and Fiber and one (1) Aeon L
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
+  
+
 ## Location
 
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Bandits](Bandit.md)
-
-### _Armor Stats_
-
-This Outfit has 1200 durability and grants the user with +15% Physical resistance and +10% Elemental resistance.
-
-This Outfit also grants the [Talent Card](Talents.md) _Lightweight_, which makes you move faster when your armor runs out of durability.
 
 ## Trivia
 

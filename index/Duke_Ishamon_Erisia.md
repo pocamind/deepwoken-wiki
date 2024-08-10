@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 109579
+revid: 109699
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -176,10 +176,11 @@ Dodgeable:◯
 **Summon Mindless Servants**  
 (★☆☆)
 
- | The Duke snaps his fingers, summoning 2-3 [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
+ | The Duke snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
--   If fought solo, they may deem threat as they will combo you while fighting duke if not killed fast enough.
+-   If fought solo, they may become a threat as they will combo you while fighting Duke if not killed fast enough.
+-   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)  
     
 

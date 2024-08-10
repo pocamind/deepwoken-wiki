@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 108212
+revid: 109686
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, Layer 1]
@@ -37,8 +37,9 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 
 ## Passives
 
--   **Serated Claws** - Threshers have 100% PEN.
--   **Thresher Scales** - Threshers have 40% physical resistance.
+-   **Serrated Claws** \- King Threshers have 100% PEN and inflict Bleed on hit.
+
+-   **Thresher Scales** - King Threshers have 40% physical attack resistance.
 
 ## Tips
 

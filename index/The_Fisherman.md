@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109395
+revid: 109674
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -46,6 +46,8 @@ The Fisherman executes its opponents after knocking them:
     -   Simply bringing a friend along will also work.
 -   The best and easiest way to beat The Fisherman is to take it to Light's Causeway and parry its attacks until the turret kills it.
 -   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), thus it is highly unrecommended to run away due to their dreadful ability of pulling the player towards themselves.
+
+## Trivia
 
 -   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime Bleach, this is directly referenced in the concept art for the set.
 -   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.

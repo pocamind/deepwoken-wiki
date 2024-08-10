@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 109363
+revid: 109706
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -273,12 +273,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <br>
   Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life in PVE combat, this doesn't change anything in PvP. Unequipping it from your character will restore that life, (assuming NLK actually took one away in the first place.)<br>
   Take 2x blood damage from all sources when in the overworld.<br>
-  When unsheathed in The Depths, you will instantly lose 100 sanity (each time you equip it). Unless you have a huge amount of willpower, this will kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
-  While equipped, if you reach Tier 3 Insanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
-  <b>Disabled in Arena.</b><br>
+  When held in The Depth, lose 2 Sanity per second.<br>
+  While held, losing all your Sanity result in an automatic death.<br>
+  <abbr><b>Some talents are disabled or reduced in efficiency.</b></abbr><br>
   <b>Viscosity is disabled with this enchant.</b><br>
-  <b>Conditioned Runner is disabled.</b><br>
-  <b>Cauterized Wounds and Alloyblood Talents will have their effects significantly reduced.</b></p></div></td>
+  <b>Disabled in Arena.</b></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
   When sheathed, the flame spikes are invisible.</div></td>
 </tr>

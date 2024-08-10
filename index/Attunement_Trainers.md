@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 106121
+revid: 109707
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -28,9 +28,9 @@ An Attunement trainer **WILL NOT** train you if you do not have the element lear
 | Representation | Trainer | Name | Island | Location | Description |
 | --- | --- | --- | --- | --- | --- |
 | 
- | [Galebreathe](Galebreathe.md) | [Friid](Friid,_Master_of_Gale.md) | [Isle of Vigils](Isle_of_Vigils.md) | He is found sitting next to a campfire at a tent in a small area close to the entrance to the temple. | Friid is a [Celtor](Celtor.md) who uses [Galebreath](Galebreathe.md).
+ | [Galebreathe](Galebreathe.md) | [Friid](Friid,_Master_of_Gale.md) | [Isle of Vigils](Isle_of_Vigils.md) | She is found sitting next to a campfire at a tent in a small area close to the entrance to the temple. | Friid is a [Celtor](Celtor.md) who uses [Galebreath](Galebreathe.md).
 
-When fought, he uses a [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+When fought, she uses a [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 104199
+revid: 109646
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack]
@@ -15,14 +15,14 @@ categories: [Equipment, Torso, Backpack]
 | selling price | 14 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +35 Carry Load |
+| innate stats | +35 Carry Load, +1 Uncommon Pip |
 | innate talent | Robber Baron |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | High-Tier Voidwalker Bounties, Duke Erisia, First Layer |
-| description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
+| description | "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels." |
 
 ## Description
 

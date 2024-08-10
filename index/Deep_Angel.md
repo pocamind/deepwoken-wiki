@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 109237
+revid: 109697
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,11 @@ categories: [Monsters, Enemies, Enemies that can wield Enchantments]
 
 # Deep Angel
 
-Template:Creature Infobox V3These Angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Deep Angels spawns in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
+Template:Creature Infobox V3
+
+## Description
+
+These Angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Deep Angels spawns in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
 
 ## Moveset
 

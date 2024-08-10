@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 109604
+revid: 109609
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -90,15 +90,15 @@ File:UllaOmlette.png
  | Mushroom Bisque | 1x Crustacean Meat + 1x Gobletto/1x Browncap/1x Dentifilo | ◯ |
 | 
 
+ | Calamari | 1x Gathered Wheat + 1x Squid | ◯ |
+| 
+
 File:UllaFriedEgg.png
 
  | Cooked Egg | 1 Egg | ◯ |
 | 
 
  | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
-| 
-
- | Calamari | 1x Gathered Wheat + 1x Squid | ◯ |
 | 
 
  | Kyrsdog | 1x Bread + 1x Frozen Membrane + 1x Ongo | ✗ |

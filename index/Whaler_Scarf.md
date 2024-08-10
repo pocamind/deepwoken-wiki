@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 109324
+revid: 109663
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -13,15 +13,16 @@ categories: [Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | 3% Elemental Armor |
+| innate stats | 3% Elemental Armor, +1 Legendary Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Etrea VS Eylis Sea Event |
-| description | The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void. |
+| description | "The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void." |
 
 ## Description
 

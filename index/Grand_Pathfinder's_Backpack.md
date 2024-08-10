@@ -1,6 +1,6 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 107449
+revid: 109665
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack]
@@ -13,16 +13,16 @@ categories: [Equipment, Torso, Backpack]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | +50 Carry Load+2 Rare Pips |
+| innate stats | +50 Carry Load+2 Rare Pip |
 | innate talent | Robber Baron |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Fort Merit (Very Common), Aratel Island, Minityrsa, Songseeker Wilds, Chime of Conflict, Duke Erisia, Maestro Evengarde Rest, First Layer, Second Layer, Chaser, Primadon |
-| description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
+| description | "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels." |
 
 ## Description
 

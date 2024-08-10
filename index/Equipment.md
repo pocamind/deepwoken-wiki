@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 109394
+revid: 109628
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3493,7 +3493,7 @@ Found from:
  | Black & Golden |
 | File:Brilliant Cape.png | 
 
-Brilliant Cape
+[Brilliant Cape](Brilliant_Cape.md)
 
  | 
 
@@ -3573,7 +3573,7 @@ Found from:
  | N/A |
 |  | 
 
-Dark Owl Cape
+[Dark Owl Cape](Dark_Owl_Cape.md)
 
  | 
 

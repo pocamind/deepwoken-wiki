@@ -1,8 +1,9 @@
 ---
 title: Silhuett
-revid: 109427
+revid: 109692
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Random Encounters]
 ---
 
 # Silhuett

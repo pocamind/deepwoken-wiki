@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 108812
+revid: 109671
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,6 +13,7 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
+| requirements | None |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | Actions Speak Louder |
