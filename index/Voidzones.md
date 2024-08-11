@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 108136
+revid: 109821
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -41,7 +41,7 @@ While inside a Voidzone:
 
 **Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt), [Immortal Guardians](Immortal_Guardian.md)
 
-**Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool, [Gran Sudaruska](Gran_Sudaruska.md)
+**Rewards:** [Hellfire and Skyvalor Lotuses](Ingredients.md#lotuses), Minityrsa Loot Pool, [Gran Sudaruska](Gran_Sudaruska.md)
 
 ### [Ancient Rotlands](Ancient_Rotlands.md)
 
@@ -54,7 +54,7 @@ While inside a Voidzone:
 
 **Dangers:** Insanity-inflicting Environment, [Nightmare Threshers](Thresher.md#nightmare-thresher), [Deep Angels](Hollow_Angel.md#deep)
 
-**Rewards:** Miasmic and Zephyr Lotuses, Songseeker loot pool, Deep Angels chest loot pool
+**Rewards:** [Miasmic and Zephyr Lotuses](Ingredients.md#lotuses), Songseeker loot pool, Deep Angels chest loot pool
 
 ### [Lightkeeper Temple](Lightkeeper_Temple.md)
 
@@ -63,7 +63,7 @@ While inside a Voidzone:
 ― Lightkeeper Temple's Flavour Text
 
   
-**Location:** [Starswept Valley](The_Starswept_Valley.md), East Luminant
+**Location:** [Starswept Valley](The_Starswept_Valley.md), Eastern Luminant
 
 **Dangers:** [Thresher, King Thresher](Thresher.md)
 
@@ -76,11 +76,11 @@ While inside a Voidzone:
 ― Saramaed Summit's Flavour Text
 
   
-**Location:** [Miner's Landing](<Miner's_Landing.md>), East Luminant
+**Location:** [Miner's Landing](<Miner's_Landing.md>), Eastern Luminant
 
 **Dangers:** [Mechalodaunt](Megalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
 
-**Rewards:** Miner's Landing Loot Pool, Summer Dragoon Schematic
+**Rewards:** Miner's Landing Loot Pool, Summer Dragoon Schematic, [Hellfire and Brilliant Lotuses](Ingredients.md#lotuses)
 
 ### [Valley of Heroes](The_Valley_of_Heroes.md)
 
@@ -106,7 +106,7 @@ While inside a Voidzone:
 
 **Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Megalodaunt.md#alpha-megalodaunt)
 
-**Rewards:** TBD
+**Rewards:** [Stardust](Stardust.md)**,** [Fishing Spot](Fishing.md#fishing-spots)
 
 ### [Starfield Veldt](Starfield_Veldt.md)
 
@@ -117,9 +117,9 @@ While inside a Voidzone:
   
 **Location:** Past Upper [Miner's Landing](<Miner's_Landing.md>), East Luminant
 
-**Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Red & Alpha Megalodaunts](Megalodaunt.md)
+**Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Crimson & Alpha Megalodaunts](Megalodaunt.md)
 
-**Rewards:** TBD
+**Rewards:** [Stardust](Stardust.md)**,** [Fishing Spot](Fishing.md#fishing-spots)
 
 ### [Starfield Grove](Starfield_Grove.md)
 
@@ -131,7 +131,7 @@ While inside a Voidzone:
 
 **Dangers:** [Stone Knights](Stone_Knight.md)
 
-**Rewards:** Skyvalor Lotus
+**Rewards:** [Skyvalor Lotus](Ingredients.md#lotus), [Stardust](Fishing.md#fishing-spots)**[,](Fishing.md#fishing-spots)** [Fishing Spot](Fishing.md#fishing-spots)
 
 ### [Deep Thresher Nest](Deep_Thresher_Nest.md)
 
@@ -143,7 +143,7 @@ While inside a Voidzone:
 
 **Dangers:** [King Thresher](Thresher.md#king-thresher), [Thresher](Thresher.md)
 
-**Rewards:** Brilliant & Empyrean Lotuses, Eggs
+**Rewards:** [Brilliant & Empyrean Lotuses](Ingredients.md#lotus), Eggs
 
 ### [The Entropy Catalyst](The_Entropy_Catalyst.md)
 
@@ -151,8 +151,8 @@ While inside a Voidzone:
 
 ― The Entropy Catalyst Flavor Text
 
-**Location:** Eastern Luminant- To the right of the gate that you come out of by Isle of Vigils, Up two waterfalls
+**Location:** Eastern Luminant, to the right of the gate that you come out of by Isle of Vigils, Up two waterfalls
 
-**Dangers: People trying to get linkstrider**
+**Dangers:** People trying to obtain [Linkstrider](Oath%253A_Linkstrider.md)
 
-**Rewards:** Erisore, Linkstrider [Oath](Oaths.md)
+**Rewards:** Erisore, [Oath: Linkstrider](Oath%253A_Linkstrider.md), [Pristine Lotuses](Oath%253A_Linkstrider.md), [Fishing Spot](Fishing.md#fishing-spots)

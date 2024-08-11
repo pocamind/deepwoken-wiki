@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 73021
+revid: 109820
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -33,3 +33,4 @@ The Widow's hollow is a large cave with its entrance found near the top of the g
 ## Trivia/Notes
 
 -   Legion Snipers have a small chance to spawn here.
+-   While not being present through normal gameplay, clipping outside of the Lightkeeper Temple brings up the marker for Widow's Hollow, instead being a [voidzone](Voidzones.md).

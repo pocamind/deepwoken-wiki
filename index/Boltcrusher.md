@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 109788
+revid: 109819
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
@@ -16,10 +16,10 @@ categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Cr
 | scaling | 4.2 HVY, 5 LTN |
 | range | 8.5 |
 | swing speed | 0.87x |
-| endlag | 0.15 |
+| endlag | 0.15s |
 | penetration | 20% |
 | chip damage | 30% |
-| special effect | Applies Sapped on critical (Needs Testing)Applies Electrified/Surge stacks on hit |
+| special effect | Applies Sapped on criticalApplies Electrified/Surge stacks on hit |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 8 |
@@ -42,17 +42,22 @@ It is obtained via the "[Drowned Delver](Finnegan_The_Lost.md)" job on the Job B
 
   
 
-Standing: The user reels back the weapon and flips it to the backhand side with the drill, then swings it forward and drills into the opponent. They then spin around and clobber the enemy with the hammerhead side of the weapon.
+The Boltcrusher has **two** criticals.
 
-Running: Lift the Boltcrusher up above your head, and slam it into the ground, using the hammerhead side, creating 3 shockwaves of lightning.
+**Standing**: The user reels back the weapon and flips it to the backhand side with the drill, then swings it forward and drills into the opponent. They then spin around and clobber the enemy with the hammerhead side of the weapon.
+
+**Running**: Lift the Boltcrusher up above your head, and slam it into the ground, using the hammerhead side, creating a shockwave of lightning.
+
+Both criticals share the cooldown of **5.5 seconds**, **4.3 seconds** when [Warmaster Medallion](<Warmaster's_Medallion.md>) is equipped.
 
 ## Trivia
 
-It is both droppable and bankable.
-
-This weapon has the highest stat requirement out of any elemental weapon, being 155 stat points, however in terms of pure stat points, it is second only to [Hivelord's Hubris](<Hivelord's_Hubris.md>), which requires 160 points
-
-It does nothing to Gigameds as of now, if you do choose to use the weapon, Do not fight King Gigameds if you are strictly Thundercall
+-   At this very moment, currently if you get guardbroken by Running Critical Attack, **you will not be allowed to M1 after.**
+    -   This is a bug, and is unknown what exactly causes this. You may as well get bugged while using this weapon with unknown cause as well, while using Critical Attacks.
+-   It is both droppable and bankable.
+-   Uniquely, this weapon seems to pair with [Gilded Path: Scrapsinger](Ironsing.md#scrapsinger), turning the metallic parts from blackish-brown to a gold color.
+-   This weapon has the highest stat requirement out of any elemental weapon, being 155 stat points, however in terms of pure stat points, it is second only to [Hivelord's Hubris](<Hivelord's_Hubris.md>), which requires 160 points
+-   It does no damage whatsoever to Gigameds as of now with both M1s & Critical Attacks. If you do choose to use the weapon, do not fight King Gigameds if you are strictly Thundercall.
 
 ## Gallery
 
