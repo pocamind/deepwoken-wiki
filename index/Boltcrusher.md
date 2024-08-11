@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 109781
+revid: 109788
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
@@ -51,6 +51,8 @@ Running: Lift the Boltcrusher up above your head, and slam it into the ground, u
 It is both droppable and bankable.
 
 This weapon has the highest stat requirement out of any elemental weapon, being 155 stat points, however in terms of pure stat points, it is second only to [Hivelord's Hubris](<Hivelord's_Hubris.md>), which requires 160 points
+
+It does nothing to Gigameds as of now, if you do choose to use the weapon, Do not fight King Gigameds if you are strictly Thundercall
 
 ## Gallery
 

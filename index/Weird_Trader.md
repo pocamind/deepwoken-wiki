@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 109785
+revid: 109794
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -137,6 +137,7 @@ The event despawns after 30 minutes have elapsed.
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Stormseye](Stormseye.md)
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
+-   [Nocturne](Nocturne.md)
 
 ## Dialogue
 
