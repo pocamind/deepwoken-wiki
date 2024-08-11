@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 109680
+revid: 109735
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits, Items]
@@ -12,7 +12,9 @@ Template:ArmorInfobox**Veteran Adventurer** is an Expert [Outfit](Outfits.md) in
 
 ## Location
 
-Obtained in Minityrsa
+-   Minityrsa
+
+-   Songseeker Wilds
 
 ## Trivia/Notes
 

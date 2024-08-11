@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 109195
+revid: 109761
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -54,3 +54,4 @@ No stack: Nothing happens
 -   While someone is holding the Soulthorn, it, strangely, has a collision, meaning it can prevent someone from entering tight spaces while holding the weapon.
 -   It's likely to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
 -   Not droppable (most likely a bug)
+-   Soulthorn cost 1 knowledge to be banked regardless you have been equip it or not.

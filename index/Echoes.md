@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 109495
+revid: 109749
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -148,6 +148,13 @@ There are 13 upgrades to purchase, and each can be purchased a maximum of 2 to 5
   <td><center>25 Echoes</center></td>
   <td><center>2%</center></td>
   <td><center>10%</center></td>
+</tr>
+<tr>
+  <td><center><b>Carrying Capacity</b></center></td>
+  <td><center>Your abillity to carry more items.</center></td>
+  <td><center>50 Echoes</center></td>
+  <td><center>5</center></td>
+  <td><center>30</center></td>
 </tr>
 <tr>
   <td><center><b>Passdown Capacity</b></center></td>

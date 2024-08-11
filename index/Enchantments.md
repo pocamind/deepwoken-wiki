@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 109706
+revid: 109758
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -71,7 +71,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 2/4/7 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm Talents.<br>
+  <td><div><p>After landing 2/3/4 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm Talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
@@ -139,7 +139,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  Works on any enemies/monsters with armor.</p></div></td>
+  Works on any enemies/monsters with armor but doesnt PVE scale.</p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
@@ -659,7 +659,15 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         -   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December 2021**
-    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
+    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true tho and has been confirmed by Yayafino to be a big lie._
+        
+        Yayafino confirming the old Umbral Knight curse was never real.
+        
+        
+        
+        
+        
+        _
     -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[3\]](#cite-note-3) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overriden by your main weapon, including the lack of an enchantment itself.
