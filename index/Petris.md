@@ -1,8 +1,9 @@
 ---
 title: Petris
-revid: 109347
+revid: 109773
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Petris

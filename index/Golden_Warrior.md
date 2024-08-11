@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 98039
+revid: 109766
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -18,7 +18,7 @@ The Golden Warrior is a rare random encountered enemy NPC that spawns leaning on
 
 They will start fighting back after being hit 3 times. The fight isn't too difficult as long you can parry half of the time. A chest will appear will upon killing them.
 
-They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored Etrean Guard outfit, and a pair of [Flameguard Boots](Flameguard_Boots.md).
+They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored [Etrean Guard](Etrean_Guard.md) outfit, and a pair of [Flameguard Boots](Flameguard_Boots.md).
 
 ## Attacks
 

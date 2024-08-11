@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 109201
+revid: 109785
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -79,6 +79,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Pale Morning](Pale_Morning.md)
         -   [Steel Maul](Steel_Maul.md)
         -   [Zweihander](Zweihander.md)
+        -   [Halberd](Halberd.md)
     -   Other
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
         -   [Old World Greatshield](Old_World_Greatshield.md)

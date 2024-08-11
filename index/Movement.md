@@ -1,6 +1,6 @@
 ---
 title: Movement
-revid: 73014
+revid: 109772
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,6 +15,12 @@ A common movement technique people use to go faster than usual is to utilize Jum
 To do this, do the following.
 
 Gain **Momentum** > Slide > Jump > Slide > Jump > Dash (repeat ⟳)
+
+If you use [Konga's Clutch Ring](Equipment.md), instead of the combo above, you can simply do this:
+
+Gain Momentum > Slide > Jump > Slide > Jump > Repeat
+
+The speed is boosted with [Konga's Clutch Ring](Equipment.md). Remember not to run out of momentum!
 
 ## Momentum
 

@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 103777
+revid: 109767
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races, Exclusive, Developer Spec]
@@ -83,6 +83,8 @@ According to their description, they are "auspicious mediators of conflict", mea
 
 -   Awarded to “moderators and VERY active testers” (stated by Punchee)
 -   The reason for Drakkard's passive EXP gain is supposedly, according to Mods, due to them constantly being afk doing restores.
--   Moderators can obtain the race through the Mod Shop for 750 moderation points.
+-   Because the [Edenkite](Edenkite.md) are usually prophets, it makes sense that they would have taught the Drakkard the secrets of passively gaining EXP.
+-   Moderators can obtain the race through the Mod Shop for 750 moderation points
+-   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) race, except with more colourful horns.
     
     The Drakkard prompt.

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 109554
+revid: 109784
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -29,7 +29,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weap
 
 ## Description
 
-The **Pleeksty's Inferno** is a legendary Club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on its flat sides glowing with it.
+The **Pleeksty's Inferno** is a legendary Club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on the flat sides glowing with it.
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 

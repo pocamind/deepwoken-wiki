@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 109759
+revid: 109781
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
@@ -32,7 +32,7 @@ categories: [Weapons, Pages with broken file links, Legendary Weapons, Unique Cr
 
 ## Description
 
-The **Boltcrusher** is a Legendary [Greathammer](Weapons.md): a heavy industrial and charged pick-hammer picked up as a weapon to be used for its explosive power. It uses explosive electrical charges made by the engine attached to the weapon, in order to drive energy that will drill rock or down foe. Its designation: to destroy. It scales off both [Thundercall](Thundercall.md) and [Heavy Weapons](Weapons.md). Much like the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and [Railblade](Railblade.md), it was created by [The Ignition Union](The_Ignition_Union.md) for it's deepdelvers.
+The **Boltcrusher** is a Legendary [Greathammer](Weapons.md); a heavy charged pick-hammer picked up as a weapon to be used for destructive power. It utilizes explosive charges made by the engine attached to the weapon in order to drive energy that will drill rock and down foe. Its designation: to destroy. It scales off both [Thundercall](Thundercall.md) and [Heavy Weapons](Weapons.md). Much like the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and [Railblade](Railblade.md), it was created by [The Ignition Union](The_Ignition_Union.md) for its Deepdelvers.
 
 ## Obtainment
 

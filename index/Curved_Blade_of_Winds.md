@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 109558
+revid: 109778
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-The **Curved Blade of Winds** is a Legendary [Sword](Weapons.md): a curved sword in likeness to a scimitar, to cut through both air and guards with breeze. Visible within its blade is trapped energy ending in swirling eddies and dots, the blade curving too like the start of such a spiral. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
+The **Curved Blade of Winds** is a Legendary [Sword](Weapons.md); that can cut through both air and guards with breeze. Sealed within its blade is Galebreathe energy showing in swirling eddies and dotted spirals, the blade curving too like the start of a spiral. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
 
 This weapon comes with two passive abilities:
 

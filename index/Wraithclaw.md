@@ -1,11 +1,9 @@
 ---
 title: Wraithclaw
-revid: 109564
+revid: 109779
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Legendary Weapons, "Attunement-based Weapons"]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", InProgressPages]
 ---
 
 # Wraithclaw
@@ -32,7 +30,7 @@ notices:
 
 ## Description
 
-The **Wraithclaw** is a Legendary [Cestus](Weapons.md): metal matched in spiralettes of wind around the hand underset by black wraps which anchor six small blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It scales off Light Weapon and [Galebreathe](Galebreathe.md).
+The **Wraithclaw** is a Legendary [Cestus](Weapons.md); spiralettes of wind around the hand underset by wraps and sinew which anchor six blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It scales off Light Weapon and [Galebreathe](Galebreathe.md).
 
 The Wraithclaw comes with a single passive ability:
 
@@ -78,6 +76,6 @@ The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiat
     -   Despite it having Slash damage type, this weapon has no innate bleed.
 -   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
--   The standing critical attack's main weakness of low range & great windup could be countered by early critical attack feint, which adds more options to mixups, but do keep in mind that cancelling the critical attack puts you in a small endlag.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas.
+-   The standing critical attack's main weakness of low range & great windup could be countered by early critical attack feint, which adds more options to mixups, but do keep in mind that cancelling the critical attack puts you in a small endlag.
     -   The critical attack is also extremely slow and delayed on servers that are lagging and could bring more harm than good to the user.
