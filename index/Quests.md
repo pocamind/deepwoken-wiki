@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 109877
+revid: 109912
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -398,21 +398,51 @@ The Job Board found in the [Etris Docks](Etris_Docks.md).
 
 The completion of a Job typically requires the player to travel to a specific area and accomplish a certain task. This task can vary and ranges from a request to transport cargo to the dispatching of an enemy patrol.
 
-Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etrea](Etrea.md)) will only offer Jobs given by its dominant faction, but Job Boards found in other areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
+Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etrea](Etrea.md)) will only offer Jobs given by its dominant faction, but Job Boards found in neutral areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
 
 **Etrean Luminant:**
 
 **Erisia:**
 
-(text goes here)
+_Jobs relating to Erisia can be given by [Etrea](Etrea.md)._
+
+-   **Authority Patrol**
+    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
+
+-   **Bandit Camp**
+    -   Tasks the player with defeating two [Bandits](Bandit.md) and one [Bandit Leader](Bandit_Leader.md).
+
+-   **Megalodaunt Infestation**
+    -   Tasks the player with slaying one [Megalodaunt](Megalodaunt.md).
+        
 
 **Eastern Luminant:**
 
 **Songseeker Wilds:**
 
+_Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_Ignition_Union.md) and [The Central Authority](The_Central_Authority.md)._
+
+-   **Authority Patrol**
+    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
+
+-   **Songseeker Fanatics**
+    -   Tasks the player with defeating one Songseeker Monk; the Monk can use [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md), or [Galebreathe](Songseeker_Galebreather.md).
+        
+
 **Summer Isle:**
 
+_Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Company.md)._
+
 **Starswept Valley:**
+
+_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) and [The Hive](The_Hive.md)._
+
+-   **Thresher Infestation**
+    -   Tasks the player with defeating one [Thresher](Thresher.md).
+
+-   **Thresher Regicide**
+    -   Tasks the player with defeating one [King Thresher](King_Thresher.md).
+        
 
 **The Depths:**
 

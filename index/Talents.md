@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109592
+revid: 109927
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1188,7 +1188,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
-    -   If burn was procced by the Last Laugh Talent, the healing is reduced to 25%.
+    -   If burn was procced by the Flame Within Talent, the healing is reduced to 25%.
     -   Prerequisites: All Immolator Talents
 
 ### Inferno
@@ -1341,16 +1341,16 @@ _**"I seek the qualities of Heat Column."**_
 > _**"I am a master of the spear."**_
 
 -   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
-    -   Prerequisites: 30 Medium, Using a spear
+    -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% PEN for 3 seconds.
-    -   Prerequisites: 50 Medium, Using a spear
+    -   Prerequisites: 50 Medium Weapon, Using a spear
 
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage.
-    -   Prerequisites: 30 Medium, Using a spear
+    -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
-    -   Prerequisites: 30 Medium, Using a spear
+    -   Prerequisites: 30 Medium Weapon, Using a spear
 
 ### Lava Serpent
 

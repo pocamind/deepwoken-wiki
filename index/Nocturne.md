@@ -1,9 +1,9 @@
 ---
 title: Nocturne
-revid: 108917
+revid: 109940
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Pages with broken file links]
+categories: [In progress without reason, InProgressPages, Weapons]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -48,19 +48,3 @@ Can be cancelled by damage in wind-up.
 -   Nocturne can be banked if enchanted.
 -   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created [https://www.roblox.com/library/13975923074/RenderMesh](https://www.roblox.com/library/13975923074/RenderMesh).
 -   At the same time the Nocturne was published, a sheathe model was also made, it fits perfectly.
-
-## Gallery
-
-Stone
-
-### Enchantments
-
-Astral
-
-Detonation
-
-File:Nocturne Full Stance.png
-
-Full view of the dual wielding stance.
-
-Close up view of one of the swords.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 109601
+revid: 109911
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -83,7 +83,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><a href="Etrea.md">Etrea</a></td>
   <td></td>
   <td><a href="Vigil_Initiate.md">Vigil Initiate</a></td>
-  <td><a href="Cloak_of_Winds.md">Cloak of Winds</a></td>
+  <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Etrean_Guard.md">Etrean Guard</a></td>
   <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></td>
 </tr>
 <tr>
