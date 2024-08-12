@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 109762
+revid: 109845
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -289,7 +289,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">So you're the one running about tripping my alarms. Care to explain yourself?</td>
+  <td colspan="12">So you're the one running about tripping my alarms. Care to explain yourself?<br>
+  </td>
 </tr>
 <tr>
   <td colspan="4">The Lord Regent sent me to retrieve the Forge.</td>
@@ -298,7 +299,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   Let's skip the pleasantries, you know why I'm here.</td>
 </tr>
 <tr>
-  <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.</td>
+  <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
+  </td>
   <td colspan="4"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you <i>indolent worm</i>. With it, I turn <i>useless fools</i> like you into something of use... <i>You don't know what I do for mankind.</i></td>
   <td colspan="4">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
 </tr>
@@ -307,7 +309,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i></td>
+  <td colspan="4"><i>*The Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
+  </td>
 </tr>
 <tr>
   <td colspan="4">What?</td>
@@ -318,7 +321,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td><a href="Origins.md"><b>Voidwalker</b></a></td>
 </tr>
 <tr>
-  <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...</td>
+  <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
+  </td>
   <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...</td>
   <td><i>*The Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
 </tr>
@@ -326,7 +330,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="3">What are you talking about?</td>
 </tr>
 <tr>
-  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.</td>
+  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.<br>
+  </td>
 </tr>
 <tr>
   <td colspan="3">End</td>

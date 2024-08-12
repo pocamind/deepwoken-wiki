@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 107598
+revid: 109864
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -10,11 +10,12 @@ categories: [Equipment, Legs, Boots]
 
 | Ranger's Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
-| innate stats | N/A |
+| weight | 1 |
+| innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,10 +26,10 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Ranger's Boots are an [Equipment](Equipment.md) piece under the "_Boots_" category. They can be found through chests in Song Seeker Wilds. and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
+Ranger's Boots are an [Equipment](Equipment.md) piece under the "**Legs**" category. They can be found through chests in Song Seeker Wilds. and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
 
 Ranger's Boots are part of the "**Ranger's**" set; with the only other armor piece being the **[Ranger's Brace](<Ranger's_Brace.md>)**.
 
 ## Trivia
 
--   These boots may have some correlation to the [First **Ranger** Duster](First_Ranger_Duster.md)?
+-   These boots may have some correlation to the [First **Ranger** Duster](First_Ranger_Duster.md)

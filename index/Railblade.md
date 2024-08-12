@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 109593
+revid: 109831
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals]
@@ -33,11 +33,11 @@ The **Railblade** is a [Heavy Greatsword](Weapons.md) obtained exclusively from 
 
 ## Critical
 
-For the **grounded** critical, the user braces themselves in a wind-up stance emitting the critical particles, granting Hyperarmor before enemies ahead and applying knockdown, followed by exhausting the Railblade to unleash a flaming blow. Only the secondary hit will apply Burn; the first will only knockdown. Cancellable in the initial windup, however becomes uncancellable as the attack itself unfolds.
+For the **grounded** critical, the user braces themselves in a wind-up stance emitting the critical particles, applying knockdown, followed by exhausting the Railblade to unleash a flaming blow. Only the secondary hit will apply Burn, and; the first will only knockdown. Cancellable in the initial windup, however becomes uncancellable as the attack itself unfolds.
 
-For the **airborne** critical, the user hovers and raises their weapon overhead before unleashing a diagonal downwards slash, dealing high damage, short knockdown, and proccing Flame.
+For the **airborne** critical, the user hovers and raises their weapon overhead before unleashing a diagonal downwards slash, dealing high damage, short knockdown, and applying Burn.
 
-The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
+The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & talents such as Azure Flames. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
 
 ## Trivia
 

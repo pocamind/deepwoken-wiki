@@ -1,6 +1,6 @@
 ---
 title: Silver Sabatons
-revid: 107577
+revid: 109865
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -10,11 +10,12 @@ categories: [Equipment, Legs, Sabatons]
 
 | Silver Sabatons | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
-| innate stats | +3 Health |
+| weight | 1 |
+| innate stats | +3 Health+2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,6 +26,6 @@ categories: [Equipment, Legs, Sabatons]
 
 ## Description
 
-Silver Sabatons are accessories under the "_Boots_" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md).
+Silver Sabatons are accessories under the "**Legs**" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md).
 
 Silver Sabatons are part of the "**Silver**" set; with the only other armor piece being the **[Silver Pauldrons](Silver_Pauldrons.md)**.

@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 107615
+revid: 109858
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -10,12 +10,13 @@ categories: [Equipment, Legs, Boots]
 
 | Iron Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Common |
 | selling price | 7 |
 | requirements | None |
-| innate stats | None |
-| innate talent | None |
+| weight | 1 |
+| innate stats | +2 Rare Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -25,6 +26,6 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Iron Boots are accessories under the "_Boots_" category. They can be found through chests in [The Depths](The_Depths.md).
+Iron Boots are accessories under the "**Leg_s_**" category. They can be found through chests in [The Depths](The_Depths.md).
 
 Iron Boots are part of the "_Iron_" set, with the only other being the [Iron Pauldrons](Iron_Pauldrons.md).

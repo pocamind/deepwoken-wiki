@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 107462
+revid: 109866
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -12,10 +12,10 @@ categories: [Equipment, Legs, Boots]
 |---|---|
 | type | Legs |
 | rarity | Rare |
-| selling price | (assumed) |
+| selling price | 25 |
 | requirements | Power 10 |
 | weight | 1 |
-| innate stats | +5 Health |
+| innate stats | +5 Health+2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

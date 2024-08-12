@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 108838
+revid: 109877
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential [Talents](Talents.md), EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
 
 Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra Talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately.
 
@@ -389,3 +389,31 @@ Orion from Summer's Dusk quest
 **Guide**: Talk to the Vesperian NPC [Calamus](Calamus.md) on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). He will ask you to kill a monster in Aratel Island. Kill one and return.
 
 **Reward/s**: EXP, Hive Reputation and a chest with loot.
+
+## Jobs
+
+The Job Board found in the [Etris Docks](Etris_Docks.md).
+
+**Jobs** are repeatable quests offered by certain factions, accessed via Job Boards found in populated territories. Upon completion, Jobs will reward [event EXP](Power.md), a [Chest](Chests_&_Sacks.md), and a substantial amount of positive [reputation](Reputation.md) towards the corresponding faction.
+
+The completion of a Job typically requires the player to travel to a specific area and accomplish a certain task. This task can vary and ranges from a request to transport cargo to the dispatching of an enemy patrol.
+
+Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etrea](Etrea.md)) will only offer Jobs given by its dominant faction, but Job Boards found in other areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
+
+**Etrean Luminant:**
+
+**Erisia:**
+
+(text goes here)
+
+**Eastern Luminant:**
+
+**Songseeker Wilds:**
+
+**Summer Isle:**
+
+**Starswept Valley:**
+
+**The Depths:**
+
+**Celtor Wastes:**

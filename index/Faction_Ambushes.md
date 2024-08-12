@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 100914
+revid: 109907
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -10,9 +10,9 @@ categories: [Reputation, Mechanics]
 
 ## Description
 
-Faction Ambushes are an event that can occur nearly anywhere in the overworld besides towns, Summer Isle Castle. They can also occur in the middle of the ocean. They occur when a player has the Hunted status or worse (-150 rep or below) with a faction. The faction will occasionally send NPCS relating to their faction with a goal to hunt and kill the player. Killing these sent NPCS will further lower your reputation with the respective faction, so avoid killing them if you want to maintain your reputation.
+Faction Ambushes are a [Random Encounter](Random_Encounters.md) that involves a squad of several faction-affiliated [Enemies](Enemies.md) being sent to kill a player that has sufficiently negative [Reputation](Reputation.md) with their respective faction. The encounter can occur nearly anywhere in Lumen, and will only happen to players who have Hunted reputation or lower with at least one faction. Unlike other random encounters, killing the enemies sent after the player will incur a reputation penalty and therefore lead to an even lower reputation with the respective faction. In exchange, defeating all the enemies will reward a decent-sized [Chest](Chests_&_Sacks.md) filled with items pertaining to that faction.
 
-The enemies sent differ depending on if you have villain or hunted reputation. the loot drops differ depending on the faction sending them. Below is a list of possible ambushes.
+The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. Below is a list of possible ambushes.
 
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |

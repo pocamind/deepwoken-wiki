@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 109808
+revid: 109843
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -12,7 +12,7 @@ categories: [Equipment]
 |---|---|
 | type | Helmet |
 | rarity | Unique |
-| selling price | ??? |
+| selling price | 100 |
 | requirements | None |
 | innate stats | 5% Ice Armor, 5% Lightning Armor, +5 Health, 1 Legendary Pip, 1 Rare Pip |
 | innate talent | Coldseep Reactor |
@@ -20,12 +20,14 @@ categories: [Equipment]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The "Fisherman" job from the Divers. |
-| description | ... |
+| obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |
+| description | "..." |
 
 The helmet is the 1st item you obtain along with the [Grand Fisher Plate](Grand_Fisher_Plate.md) that is a guaranteed drop from an enemy in the [Depths](First_Layer.md) called "[The Fisherman](The_Fisherman.md)." The helm comes with an innate 5% ice and lightning armor, along with +5 health, making this a suitable option for those who are annoyed at those two attunements.
 
-The helm comes with an innate talent, _Coldseep Reactor_: By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat. This talent grants the user **full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.**
+The helm comes with an innate talent, _Coldseep Reactor_: "By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat." This talent grants the user **full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.**
+
+  
 
 ## Trivia
 

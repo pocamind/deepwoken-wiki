@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 107570
+revid: 109863
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | N/A |
+| innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Phalanx Heavy Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in the [Second Layer](Second_Layer.md) of the Depths.
+Phalanx Heavy Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. They can be found through chests in the [Second Layer](Second_Layer.md) of the Depths.
 
 ## Trivia
 

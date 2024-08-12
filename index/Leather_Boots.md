@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 107457
+revid: 109860
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 7 |
 | requirements | None |
 | weight | 1 |
-| innate stats | + 2 Health |
+| innate stats | + 2 Health, +1 Common Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Leather Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md).
+Leather Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. They can be found through chests in [Erisia](Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md).
 
 ## Trivia
 

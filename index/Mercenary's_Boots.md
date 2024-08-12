@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 93021
+revid: 109861
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Mercenary Boots are an [Equipment](Equipment.md) item under the "Legs" category. This equipment grants +2 health and a Talent named Endurance Runner, which negates the speed penalty of low health.
+Mercenary Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. This equipment grants +2 health and a Talent named Endurance Runner, which negates the speed penalty of low health.
 
 The Mercenary's Boots are part of the **Mercenary's** set; with the only other armor piece being the **[Mercenary's Garb](<Mercenary's_Garb.md>)**.
 

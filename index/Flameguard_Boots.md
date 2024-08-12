@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 104179
+revid: 109856
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -10,11 +10,12 @@ categories: [Equipment, Legs, Boots]
 
 | Flameguard Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Common |
-| selling price | Unknown |
-| requirements | N/A |
-| innate stats | +3 Health |
+| selling price | 7 |
+| requirements | None |
+| weight | 1 |
+| innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,7 +26,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Flameguard Boots are an [Equipment](Equipment.md) item under the "Boots" category. They can be found through Hell Mode.
+Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through Hell Mode.
 
 ## Trivia
 

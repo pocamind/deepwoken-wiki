@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 93987
+revid: 109898
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -23,15 +23,15 @@ The Temple of Hearts can be entered in two ways:
 -   Opening the Resonance doors, which requires a [Resonance](Resonance.md).
 -   Having the Deepbound [Origin,](Origins.md) which grant access to an alternative entrance that only they can interact with.
 
-Entering will lead you into an overgrown hall decorated with underwater foliage and Deep Shrines on the sides.
+Entering will lead the player into an overgrown hall decorated with underwater foliage and Deep Shrines on the sides.
 
-Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a mysterious, eldritch entity who can be communed with using the shrine in the room. It can be inspected, and if you have a wish and have obtained your resonance (or you're using an [idol](Relics.md)), you can choose one out of five wishes from Yun'Shul. (Refer to [its page](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for information on its wishes.)
+At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a sprawling altar to one of the mysterious [Drowned Gods](Lore.md#drowned-gods). Players possessing a [Resonance](Resonance.md) can interact with the shrine and call forth the Voice of Yun'Shul, who can confer upon the player one out of five potential benefits. These benefits range from a rerolling of their Resonance to an instant escape from the Depths, with the main cost to this bargain being the consumption of a "wish". Players who have consumed their wish are unable to bargain with the shrine until it is recharged.
 
 ### Contents
 
 #### [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 
--   A shrine to the [Drowned God](Lore.md#drowned-gods), which will grant those with a [Resonance](Resonance.md) wishes.
+-   A shrine to Yun’Shul. Those wielding a [Resonance](Resonance.md) are able to commune with the shrine, which grants one wish from one of five preset options.
 
 #### [Deep Shrines](Deep_Shrines.md)
 
@@ -42,4 +42,4 @@ Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Sh
 
 ## Trivia
 
--   Talking to Yun'Shul will instantly kill the player by exploding their head if they do not have a [Resonance](Resonance.md). (Unless you speak to him through an idol, or you're a deepbound)
+-   Attempting to commune with the Shrine of Yun'Shul without a Resonance or the Deepbound Origin will cause the player's head to explode, killing them instantly.

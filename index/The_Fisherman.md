@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109674
+revid: 109901
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -53,3 +53,4 @@ The Fisherman executes its opponents after knocking them:
 -   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.
 -   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md).
 -   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md)
+-   According to their dialogues when first spawning in, they could be an Authority or Diver member that has been brainwashed by The Ministry, or they have gone insane due to being in the First Layer for too long.

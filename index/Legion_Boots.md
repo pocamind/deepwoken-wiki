@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 107511
+revid: 109859
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health |
+| innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
