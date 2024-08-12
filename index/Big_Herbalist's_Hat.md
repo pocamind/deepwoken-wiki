@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 107534
+revid: 109981
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | 1 Rare Pip |
+| innate stats | +1 Rare Pips |
 | innate talent | Iron Gut, Herbivore |
 | bankable | Yes |
 | droppable | Yes |

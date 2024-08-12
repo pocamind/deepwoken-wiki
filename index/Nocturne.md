@@ -1,11 +1,9 @@
 ---
 title: Nocturne
-revid: 109940
+revid: 109972
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Swords, Weapons with Unique Criticals]
 ---
 
 # Nocturne

@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 107458
+revid: 109980
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 1 |
-| innate stats | 1 Rare Pip |
+| innate stats | +1 Rare Pips |
 | innate talent | Apothecary, Pitcher |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 107538
+revid: 109979
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 14 |
 | requirements | 10 Fortitude |
 | weight | 1 |
-| innate stats | +5 Health |
+| innate stats | +5 Health, +1 Uncommon Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

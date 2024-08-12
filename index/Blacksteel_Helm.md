@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 107488
+revid: 109983
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | 10 Fortitude |
 | weight | 1 |
-| innate stats | +10 Health |
+| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

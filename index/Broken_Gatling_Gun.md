@@ -1,6 +1,6 @@
 ---
 title: Broken Gatling Gun
-revid: 109915
+revid: 109964
 source: https://deepwoken.fandom.com/wiki/Broken_Gatling_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,6 +16,7 @@ categories: [Items]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | "A broken gun from the back of a mechanical megalodaunt..." |
 
 ## Description
 

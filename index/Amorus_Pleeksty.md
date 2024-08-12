@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 109823
+revid: 109966
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, The Divers]
@@ -32,3 +32,4 @@ He is also the only known person to go to the Third Layer. He is worshipped by t
 -   Ploom, an NPC found in Lance Leshi's shop, can be seen reading a book of Amorus.
     -   Additionally, Ploom says that not many competent Flamecharmers are out in the East Luminant, signifying that Amorus may be from the West Luminant.
 -   Amorus was originally a [Ganymede](Ganymede.md), and set to appear in the main game. The NPC that was originally Pleeksty was reworked into [Ploom](Ploom.md). He was later said to be a Vesperian, but was then said to be a Tiran, which led to some doubt on what race Pleeksty was supposed to be.
+-   According to Ragoozer, [he has the best dance moves.](https://discord.com/channels/920707638034067486/972707935484538911/1221849431482171512)
