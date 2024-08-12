@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 109159
+revid: 109944
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -25,7 +25,7 @@ She is a young Canor, who sports curly bangs that end onto her shoulders. Her pu
 
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
-She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md), for disagreeing with her and how she reacts to players under power 15 talking to her.[\[3\]](#cite-note-3)
+She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md), for disagreeing with her and how she reacts to players under power 15 talking to her.[\[3\]](#cite-note-0-3)
 
 ## Dialogue
 
@@ -256,6 +256,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
 -   The name Klaris is likely derived from the French name Claris, which fittingly means "bright" or "clear."
+-   Arch\_Mage has previously stated that Klaris is canonically lesbian.
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
     -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
 
@@ -263,6 +264,6 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 2.  [↑](#cite-ref-2) [Mark Adaset](Mark_Adaset.md)
-3.  [↑](#cite-ref-3) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
+3.  [↑](#cite-ref-0-3-0) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
 4.  [↑](#cite-ref-4)
 5.  [↑](#cite-ref-5)

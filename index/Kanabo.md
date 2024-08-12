@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 109328
+revid: 109952
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -46,6 +46,6 @@ Both criticals share the cooldown of **8 seconds**.
 
 -   A Kanabō, meaning "metal stick," was a weapon used in feudal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   The weapon normal attack matches that of a greatsword.
--   Has the second highest overall weapon requirement, only surpassed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 100 HVY and 60 STR.
+-   Has the third highest overall weapon requirement, only surpassed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 100 HVY and 60 STR, and the [Boltcrusher](Boltcrusher.md) at 55 HVY, 20 STR and 80 LTN.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.
 -   Can easily do over 2 bars of health per critical paired with the Silentheart oath, Max Proficiency and Berserk.
