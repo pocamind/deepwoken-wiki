@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 109874
+revid: 110059
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -195,7 +195,7 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
 
-### _Sea Events_
+## _Sea Events_
 
 Across the Luminants, events will appear in the seas. Some are challenges, some are rewards.
 
