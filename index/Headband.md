@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 109626
+revid: 110091
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Bandanas]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Erisia |
-| description | "..." |
+| description | "A stylish (color) headband. Capable of hiding even the most dire of hairlines." |
 
 ## Description
 

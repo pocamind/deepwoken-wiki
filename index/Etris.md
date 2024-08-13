@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 108185
+revid: 110088
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -256,7 +256,7 @@ After all Authority Guards are defeated, 3 large [chests](Chests_&_Sacks.md) hol
 ### Frostdrawer Nell Quest
 
 -   Talk to Nell, located in the Alchemy House.
--   Accepting Nell's quest requires you to bring 5 Frigid Prisms to her. (Frigid Prisms can be found by defeating enemies that use [Frostdraw](Frostdraw.md).)
+-   Accepting Nell's quest requires you to bring 2 Frigid Prisms to her. (Frigid Prisms can be found by defeating enemies that use [Frostdraw](Frostdraw.md).)
 -   After giving her the required items, she will then use them and give you [Glassblood](Attunement_Potions.md).
 -   Drinking Glassblood will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast Frostdraw and learn Frostdraw Talents.
 

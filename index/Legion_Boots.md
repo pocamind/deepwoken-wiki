@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 109859
+revid: 110090
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Khan Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md) and [Deep Widow](Deep_Widow.md).
+Khan Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and [Deep Widow](Deep_Widow.md).
 
 ## Trivia
 

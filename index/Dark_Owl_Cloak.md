@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 107425
+revid: 110093
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -30,4 +30,4 @@ The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" categor
 
 ## Trivia
 
--   This item is part of the Dark Owl series consisting of the [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and the Dark Owl Cape.
+-   This item is part of the Dark Owl series consisting of the [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and the [Dark Owl Cape](Dark_Owl_Cape.md).

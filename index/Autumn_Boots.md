@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 107612
+revid: 110092
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -10,21 +10,23 @@ categories: [Equipment, Legs, Boots]
 
 | Autumn Boots | |
 |---|---|
-| type | Boots |
-| rarity | ??? |
+| type | Legs |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
-| innate stats | +3 Health |
+| weight | 1 |
+| innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia |
+| obtainment | Chests from:, Erisia, Duke Erisia, Blacksteel Pirate, First Layer |
 | description | "..." |
 
 ## Description
 
-Autumn Boots are accessories under the "Boots" category. They can only be found through chests in [Erisia](Erisia.md).
+Autumn Boots are accessories under the "_Legs_" category. They can only be found through chests in [Erisia](Erisia.md).
 
 ## Trivia
 
