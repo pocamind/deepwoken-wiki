@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 108710
+revid: 110074
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | type | Spear |
 | requirements | 40 STR; 40 MED |
 | damage | 19 |
-| scaling | MED: 5, STR: 3 |
+| scaling | MED: 5, STR: 3.5 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
@@ -43,12 +43,12 @@ The Imperial Staff possess three different criticals, all of which grant the use
 
  |
 | --- | --- | --- |
-| The regular critical is a long-ranged one where the user stabs their staff forward and extends it. Ragdolls opponents on hit. | The aerial critical is a slam, where the staff grows in size and slams back down onto the floor which block-breaks the opponent. | The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking. |
+| The regular critical is a long-ranged one where the user stabs their staff forward and extends it. Ragdolls opponents on hit. | The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor which block-breaks the opponent. | The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking. |
 
 ## Trivia
 
--   Meeting the requirement of MED and STR, the weapon deals 23.6 damage.
--   At max MED and STR, the weapon deals 30.4 damage.
+-   Meeting the requirement of MED and STR, the weapon deals 23.8 damage.
+-   At max MED and STR, the weapon deals 31.1 damage.
 -   The Imperial Staff is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore.
 -   The first (and currently only) weapon (that isn't a Heavy weapon) to scale off of Strength, and the only Medium Weapon that requires Strength.
 -   The first blunt spear.

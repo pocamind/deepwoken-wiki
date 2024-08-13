@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 109912
+revid: 110069
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -446,4 +446,39 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 **The Depths:**
 
-**Celtor Wastes:**
+**Celtor:**
+
+_Jobs relating to Summer Isle can be given by the [The Ignition Union](The_Ignition_Union.md) or [The Divers](The_Divers.md)._
+
+-   **Megalodaunt Extermination**
+    -   Tasks the player with defeating one [Megalodaunt](Megalodaunt.md).
+
+-   **Alpha Rescue**
+    -   Tasks the player with defeating one [Alpha Megalodaunt](Alpha_Megalodaunt.md). Three [Divers](Diver.md) will spawn to assist the player.
+
+-   **Thresher Extermination**
+    -   Tasks the player with defeating one [Thresher](Thresher.md).
+
+-   **Thresher Regicide**
+    -   Tasks the player with defeating one [King Thresher](King_Thresher.md).
+
+-   **Thresher Rescue**
+    -   Tasks the player with defeating one [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
+
+-   **Brute Extermination**
+    -   Tasks the player with defeating one [Mudskipper Brute](Mudskipper_Brute.md). The Brute will spawn with two [Bloatskippers](Mudskipper.md#bloatskipper).
+
+-   **Broodlord Extermination**
+    -   Tasks the player with defeating one [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+
+-   **Deep Owl Extermination**
+    -   Tasks the player with defeating one [Deep Owl](Deep_Owl.md).
+
+-   **Nautilodaunt Extermination**
+    -   Tasks the player with defeating one [Nautilodaunt](Nautilodaunt.md).
+
+-   **The Fisherman**
+    -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
+
+-   **Drowned Delver**
+    -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
