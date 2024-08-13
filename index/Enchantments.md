@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 109764
+revid: 110017
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -65,7 +65,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
   This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
   Critical attack or parrying 3 times in a row, shoots down a star that explodes and does 100 PvE AoE damage, 3% in PvP.<br>
-  Can be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
+  Can be obtained via an enchant stone dropped by an <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>

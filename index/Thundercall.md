@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 109765
+revid: 110030
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -281,7 +281,7 @@ Lightning Stream
 Thunder Wisp  
 (★★☆)
 
- | A servant of lightning. | 70 Ether | Conjure a wisp of lightning that applies "Sapping" to a target upon being flourished.
+ | A servant of lightning. | 70 Ether | Conjure a wisp of lightning that applies "Sapping" to a target upon being Uppercutted or flourished.
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 109322
+revid: 110023
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -29,15 +29,12 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
  | 
 
 -   [Second Layer](Second_Layer.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
-**(~1%)**
-
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -54,16 +51,13 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
  | 
 
 -   [Second Layer](Second_Layer.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
--   [Moon's Eyerie](<Moon's_Eyrie.md>)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
-**(~1%)**
-
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -76,7 +70,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~5%)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -95,7 +89,7 @@ Can be used in any location.
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md) **(Exceedingly Rare)**
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
@@ -113,8 +107,8 @@ File:Sinner's Ash.png
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (~0.33%)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (~0.33%)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Fishing](Fishing.md)
@@ -134,8 +128,8 @@ It grants the user +30 knowledge on subsequent uses.
  | 
 
 -   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.5%)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
@@ -149,8 +143,8 @@ It grants the user +30 knowledge on subsequent uses.
 
  | 
 
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -196,7 +190,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 
  | 
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
