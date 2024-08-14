@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 110030
+revid: 110101
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -63,7 +63,7 @@ Jolt Grab
 
  | An electrified chokehold. | 60 Ether | Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user.
 
--   Deals moderate damage.
+-   Deals 45 thunder damage.
 -   10 Second Cooldown.
     -   Activates only when the cursor is locked onto a target.
     -   Knockdown is also removed for the mantra variant.
@@ -111,7 +111,7 @@ Fleeting Sparks
 
   
 
--   Deals moderate damage.
+-   Deals 45 thunder damage. (Probablly 15 per spark)
 -   \[\] Second Cooldown.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured.
     -   This modifier does the same amount of damage as default.
@@ -176,7 +176,7 @@ Thunder Kick
 
  | An unrelenting kick like a clap of thunder. | 60 Ether | Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any target(s) hit.
 
--   Deals moderate damage.
+-   Deals 50 thunder damage.
 -   Guard Breaks at Level 5
 -   8 Second Cooldown.
 -   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
@@ -206,7 +206,7 @@ Grand Javelin
 
  | A javelin made out of lightning. | 60 Ether | Conjure and throw a spear of lightning towards where the character is facing.
 
--   Deals moderate damage.
+-   Deals 60 thunder damage.
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
 -   \[\] Second Cooldown.
@@ -249,7 +249,7 @@ Rising Thunder
 
  | Rise up with your opponent and crash down as a bolt of lightning. | 70 Ether | Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground.
 
--   Deals high damage.
+-   Deals 77 thunder damage.
 -   Short wind-up and completely safeguards user when landed.
 -   Ragdolls target(s).
 -   Can be blocked.
@@ -1130,6 +1130,10 @@ After successfully casting lightning impact, strike down countless thunder at th
 -   During the early days of Deepwoken, Grand Skewer was notorious for a bug that allowed it to instantly kill whatever it hit if an entity was already stuck on it. This often occurred when the already-skewered victim died. Dying to this bug would take lives in the overworld and wipe you in [The Depths](The_Depths.md), and it was fixed a little over two months after the game's release.
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
 -   **Emotion Wave** is a direct reference to the Ancient Dragons' Lightning Spear incantation from Elden Ring
+-   **The source for thundercall mantras damage:**
+    
+    File:Thundercall mantras damage.png
+    
 
 Virudhaka's Sword
 

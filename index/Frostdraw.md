@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 109095
+revid: 110098
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -243,7 +243,7 @@ _A colossal mace of ice._
 
  | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
--   Deals high damage.
+-   Deals 60 frost damage.
 -   Slightly knocks back target(s)
 -   Can break objects.
 -   Breaks block at mantra level 5.
@@ -264,7 +264,7 @@ _Form an ice spear and lunges forward._
 
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
--   Deals moderate damage.
+-   Deals 58 frost damage.
 -   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   Both the impact and the detonation are parriable.
@@ -284,7 +284,7 @@ _Conjure a glaive of frost and launch your opponents skyward._
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
 -   The aoe can be increased with 2 stratus stones.
--   Deals moderate damage.
+-   Deals frost 72 damage.
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 
@@ -346,7 +346,7 @@ _An icy chokehold._
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
 -   After the windup the user gains iframes on teleport. (similar to radiant kick)
--   First hit does mediocre dmg, second hit does light damage.
+-   It does 54 frost damage
 -   Applies 12 sec chill base and 16 sec with 1 eternal.
 -   It doesn't apply chill with the Talent Unyielding frost unless you hit your target making the Talent have zero effects with this mantra.
 -   The mantra takes too long to end on hit to proc insignia gem.
@@ -366,7 +366,7 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 
  | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
 
--   Deals moderate damage.
+-   (WE GOT DAMAGE NUMBERS BOIIIS) It does 90 frost damage. (30 per icecube probablly)
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
@@ -1108,6 +1108,10 @@ Your Chill can proc through block, with blocked Chilling proc lasting 80% of the
 -   Bottom freeze has a global cooldown so only pick one source to proc bottom freeze (Example: If you have iceberg, it will put all the other methods like the Talent bottom freeze or chilling enchant on cooldown so don't pick anything else if you using iceberg.)
 -   Crystals dmg scales by your frost investment, 1 point of dmg every 10 frost. You are doing 8 dmg per crystal at 80 frost.
 -   Nullifying clarity does not reduce chilled duration.
+-   **The source for the frost mantras damage:**
+    
+    File:Frost Mantras damage.png
+    
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 109271
+revid: 110126
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -108,6 +108,28 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
 </tr>
 <tr>
   <td>Hateful one, our revenge is complete. As for your own... we will walk with you, now. You will be our host, your Dreadstar to guide you to your revenge. Our being is tied to you now.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+## If you previously obtained all Oath talents on another character, you can spend 10 Knowledge to instantly unlock all talents.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Hateful one, what is it you seek?</td>
+</tr>
+<tr>
+  <td>I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
+</tr>
+<tr>
+  <td>Our revenge was merely a vehicle for the realisation of this Bond. You offer your heart to the Keeper, and lo, fate has claimed our enemies. In time, it will claim them all.</td>
 </tr>
 <tr>
   <td>End</td>

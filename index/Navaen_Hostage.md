@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 107923
+revid: 110105
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, Children of Navae]
@@ -17,7 +17,7 @@ _Looking for the [combat style?](Fists.md)_
 
 Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They appear as [Gremors](Gremor.md), having brown hair and long horns. They have magenta eyes that fade into a darker shade toward the bottom of the iris. As for their clothing, they sport the [Navaen Nomad](Navaen_Nomad_Robes.md) robes, as all the [Children of Navae](Reputation.md) do.
 
-They are found kneeled down on both knees and having their arms behind them, seemingly being locked together with a rope or some sort of cuffs. They usually randomly spawn randomly in [Erisia](Erisia.md) or in the prison cells in [Fort Merit](Fort_Merit.md). They seem to spawn especially often in the [Towerstruck Lands](Towerstruck_Lands.md), [The Garden Reservoir](The_Garden_Reservoir.md) and near [The Birdcage](The_Birdcage.md).
+They are found in a prisoner pose, kneeled down on both knees and having their arms behind them, though they are forced into a standard pose when being knocked back. They usually randomly spawn randomly in [Erisia](Erisia.md) or in the prison cells in [Fort Merit](Fort_Merit.md). They seem to spawn especially often in the [Towerstruck Lands](Towerstruck_Lands.md), [The Garden Reservoir](The_Garden_Reservoir.md) and near [The Birdcage](The_Birdcage.md).
 
 You can pick them up using V. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn unless you travel to a new Luminant.
 
@@ -35,7 +35,6 @@ Giving back what is rightfully theirs.
 -   They **can** be gripped, but there is little reward outside of a little EXP.
 -   They can be turned in to [Alastir](Alastir.md) for a chest.
 -   Despite spawning in the exact same event, [Knives of Eylis](Knife_of_Eylis.md) and [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) will attack and attempt to grip them because Deepwoken has good game design.
--   There is actually no rope or cuffs holding the hostage's hands together.
 -   One way to get the Way of Navae fighting style relatively easily is by hiding in a bush near the Navae Camp in [Etris](Etris.md) and kidnapping the hostage from another person who found them. Be warned though, the other person will try and get them back, and, if they are a much higher level than you, guarantees your death, even if you get the style.
     -   It's also worth being wary of people doing this, so don't go near bushes that people could be hiding in.
     -   As time goes on, and more people unlock the fighting style, the chance of finding someone carrying one using this method becomes smaller and smaller, so attempting to get it legitimately becomes more viable with time.

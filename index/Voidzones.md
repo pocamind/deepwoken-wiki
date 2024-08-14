@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 109821
+revid: 110111
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -39,7 +39,7 @@ While inside a Voidzone:
 
 **Location:** Upper [Minityrsa](Minityrsa.md) (Highest Peak), Etrean Luminant
 
-**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt), [Immortal Guardians](Immortal_Guardian.md)
+**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Immortal Guardians](Immortal_Guardian.md)
 
 **Rewards:** [Hellfire and Skyvalor Lotuses](Ingredients.md#lotuses), Minityrsa Loot Pool, [Gran Sudaruska](Gran_Sudaruska.md)
 
@@ -52,7 +52,7 @@ While inside a Voidzone:
   
 **Location:** [Songseeker Wilds](Songseeker_Wilds.md), East Luminant
 
-**Dangers:** Insanity-inflicting Environment, [Nightmare Threshers](Thresher.md#nightmare-thresher), [Deep Angels](Hollow_Angel.md#deep)
+**Dangers:** Insanity-inflicting Environment, [Nightmare Threshers](Nightmare_Thresher.md), [Deep Angels](Deep_Angel.md)
 
 **Rewards:** [Miasmic and Zephyr Lotuses](Ingredients.md#lotuses), Songseeker loot pool, Deep Angels chest loot pool
 
@@ -65,7 +65,7 @@ While inside a Voidzone:
   
 **Location:** [Starswept Valley](The_Starswept_Valley.md), Eastern Luminant
 
-**Dangers:** [Thresher, King Thresher](Thresher.md)
+**Dangers:** [Thresher](Thresher.md), [King Thresher](King_Thresher.md)
 
 **Rewards:** Eggs, Starswept Valley Loot Pool, Key Point of Interest towards Greathive Aratel
 
@@ -78,7 +78,7 @@ While inside a Voidzone:
   
 **Location:** [Miner's Landing](<Miner's_Landing.md>), Eastern Luminant
 
-**Dangers:** [Mechalodaunt](Megalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
+**Dangers:** [Mechalodaunt](Mechalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
 
 **Rewards:** Miner's Landing Loot Pool, Summer Dragoon Schematic, [Hellfire and Brilliant Lotuses](Ingredients.md#lotuses)
 
@@ -91,7 +91,7 @@ While inside a Voidzone:
   
 **Location:** [Minityrsa](Minityrsa.md), Etrean Luminant
 
-**Dangers:** [Blizard Knight](Stone_Knight.md) (Winter), [Ministry Necromancer](Ministry_Necromancer.md), [Frostdrawer Monk](Songseeker_Frostdrawer.md)
+**Dangers:** [Blizard Knight](Stone_Knight.md#blizzard-knight) (Winter), [Ministry Necromancer](Ministry_Necromancer.md), [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 **Rewards:** [Hero Blades](Hero_Blades.md) (Winter), [Ministry Cloak](Ministry_Cloak.md) \[Winter\], [Justicar Defender Coat](Justicar_Defender_Coat.md) \[Aelita\], Assassin Cloaks \[Aelita\], Minityrsa Loot Pool
 
@@ -104,7 +104,7 @@ While inside a Voidzone:
   
 **Location:** Upper [Minityrsa](Minityrsa.md) (Frozen Lake), Etrean Luminant
 
-**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Megalodaunt.md#alpha-megalodaunt)
+**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Alpha_Megalodaunt.md)
 
 **Rewards:** [Stardust](Stardust.md)**,** [Fishing Spot](Fishing.md#fishing-spots)
 
@@ -117,7 +117,7 @@ While inside a Voidzone:
   
 **Location:** Past Upper [Miner's Landing](<Miner's_Landing.md>), East Luminant
 
-**Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Crimson & Alpha Megalodaunts](Megalodaunt.md)
+**Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Crimson](Crimson_Megalodaunt.md) & [Alpha Megalodaunts](Alpha_Megalodaunt.md)
 
 **Rewards:** [Stardust](Stardust.md)**,** [Fishing Spot](Fishing.md#fishing-spots)
 
@@ -141,7 +141,7 @@ While inside a Voidzone:
 
 **Location:** [Lightkeeper Temple](Lightkeeper_Temple.md) (Connected via Jail Room), East Luminant. Alternatively, the opposite side of Lightkeeper Temple's entrance.
 
-**Dangers:** [King Thresher](Thresher.md#king-thresher), [Thresher](Thresher.md)
+**Dangers:** [King Thresher](King_Thresher.md), [Thresher](Thresher.md)
 
 **Rewards:** [Brilliant & Empyrean Lotuses](Ingredients.md#lotus), Eggs
 

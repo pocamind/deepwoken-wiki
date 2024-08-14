@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 110033
+revid: 110128
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]

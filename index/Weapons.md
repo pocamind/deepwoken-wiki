@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 110070
+revid: 110135
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2488,7 +2488,7 @@ Offhand weapons are weapons that can be wielded at the same time along with your
 
 **Exclusive:**
 
-Weapons that are exclusive for special people.
+Weapons/Weapon Skins that are exclusive for special people.
 
 <table>
 <tbody>
@@ -2527,7 +2527,7 @@ Weapons that are exclusive for special people.
   <td>13 INT</td>
   <td>5</td>
   <td>9</td>
-  <td>0.72x</td>
+  <td>0.72x (Outdated)</td>
   <td>N/A</td>
   <td>43.6</td>
 </tr>
@@ -2561,14 +2561,27 @@ Weapons that are exclusive for special people.
   <td><a href="https://deepwoken.fandom.com/wiki/Unsung_Scythern"><font>Unsung Scythern</font></a></td>
   <td>75 HVY, LVL 10</td>
   <td>26</td>
-  <td>10</td>
+  <td>10%</td>
   <td>N/A</td>
   <td>HVY: 9</td>
   <td>8</td>
   <td>8</td>
-  <td>0.6x</td>
+  <td>0.6x (Outdated)</td>
   <td>N/A</td>
   <td>50.4</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Quartzstone_Scythe"><font>Quartzstone Scythe</font></a></td>
+  <td>Unknown</td>
+  <td>20</td>
+  <td>30%</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.74x (Outdated)</td>
+  <td>N/A</td>
+  <td>34.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Paintbrush"><font>Paintbrush</font></a></td>

@@ -1,11 +1,9 @@
 ---
 title: Calamity Cinnabar
-revid: 107639
+revid: 110116
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Greatswords, Exclusive]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Greatswords, Exclusive]
 ---
 
 # Calamity Cinnabar
@@ -17,7 +15,7 @@ notices:
 | damage | 22 |
 | scaling | SDW: 9, HVY: 4 |
 | range | 9 |
-| swing speed | 0.64x |
+| swing speed | 0.85x |
 | endlag | 0.15s |
 | special effect | Some Shadowcast Passives will be applied on hit. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -26,10 +24,12 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | N/A |
+| obtainment | Unobtainable |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
+
+**The Calamity Cinnabar is a reskined Crypt Blade it does not have unique properties only a unique model.**
 
 The **Calamity Cinnabar** is a dark gray lance with eyes on it and a bloody red tip.
 

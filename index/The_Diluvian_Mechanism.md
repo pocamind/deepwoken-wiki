@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 108932
+revid: 110109
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -63,6 +63,7 @@ If during the waves, the text "Your past comes to haunt you..." appears, then en
 The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right Talents and equipment to make haste of this trial.
 
 -   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this Talent, unless you're Ironsing, have Bloodiron Spirit, or possess any Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
+-   _**Resonance ;**_ Having a good bell is the key to survival in the Diluvian Mechanism as if you have a bell that isn't good for diluvian for example Smite it is mainly used for pvp and no one uses it for pve as it provides much little use for pve.The bell you wanna mainly aim for is Sacred Field,Corrupted Payback and Run it back These are the main bells you wanna get.
 -   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you ironically can't gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
@@ -77,7 +78,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md) and all [Relics](Relics.md) at all levels.
 -   Depths Chests (5 & 10)
 -   Brown Chests (15-50)
--   [Enchant Stones](Enchant_Stone.md) ( ??? - ??? )
+-   [Enchant Stones](Enchant_Stone.md) ( 25 - 50 )
 -   [Stormseye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (25+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (25+)
@@ -185,21 +186,21 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*THIN AIR MODIFIER\***
 
- | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchantment-wielding Diver Husks |  |
+ | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchantment-wielding Diver Husks | This wave is really easy if you do not rely mainly on your mantra's. |
 | 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned(?) Deep Widow, 2 Corrupt Golem Primes |  |
 | 49 (Divine Humor) | 1 Lowly Bandit | The only wave that actually lets you take time. |
 | 50 (End of the Hell)
 
 \***TIMEBOMB** **MODIFIER**\*
 
- | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Corrupt Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | Pray. |
+ | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Corrupt Broodlord Brute. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | Try not to get stunlocked by the squibbo's |
 
 ## Tips/Trivia
 
 -   Most mobs spawned during the Diluvian Mechanism can be corrupted which will make them a major threat.
 -   The Mute [Regalia](Regalia.md) does technically function in the Diluvian Mechanism; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
--   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
+-   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.Note that there is a slight delay before all the mobs in the arena dies, so in that slight delay there is a chance that you may wipe.
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
 -   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
 
