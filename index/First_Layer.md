@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 110201
+revid: 110203
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -14,7 +14,7 @@ File:Depths New Lightning.png
 
 ## Overview
 
-The **First Layer** of the Depths, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
+The **First Layer** of the Depths, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## Points of Interest
 
@@ -31,7 +31,7 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the one of th
 
 Detailed map of the entire Depths First Layer
 
-The main method to escape is by the tower, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
+The main method to escape is by the Cathedral of Interstice, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
 
 The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
@@ -135,7 +135,7 @@ Information to keep in mind.
 -   _**Warrior's Respite**_ is an extremely useful Talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
 -   If you have the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will rapidly restore your sanity.
--   Seaweed is currently the only natural source of food for vegetarians in the Depths.
+-   Seaweed is currently the only natural source of food for vegetarians in the Depths, although it will drain a sliver of your thirst.
 
 ## Quests
 
@@ -226,18 +226,18 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
     -   Certain guilds are known for purposefully wiping players in the depths, such as the **Nightcrawlers and Attuned**.
         -   Do note this information is mercurial and may quickly become outdated. Regardless, it's advised to switch servers if you see a player from these guilds.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
--   Environmental awareness is vital to survival within The Depths. Falling into the void below will send you to [Layer 2](Second_Layer.md) with no [Light Hook](Klaris_Llfiend,_Mother_of_Lights.md) (which means you're basically dead unless you can do deepdrill), unless if you are below half health or are Power 1-2 - then you'll wipe. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
+-   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller to leave.
 -   Ringing the bells (not corrupted bells) in the Drowned City will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the deepbound origin.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights.
--   AVOID fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge.
--   AVOID the [Nautilodaunt](Nautilodaunt.md) if you're unexperienced with it. The Nautilodaunt will make loud noises when in it's idle spawn state. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
--   Avoid any monsters you have little to no experience with, especially Dark Owls, King Threshers and Nautilodaunts, which have comparatively high mobility. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
+-   AVOID fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge. If you do happen to fight one near a pitfall/cliff, face your character towards the edge of the cliff. The Megalodaunt will always attack facing the characters front.
+-   AVOID the [Nautilodaunt](Nautilodaunt.md) if you're unexperienced with it. The Nautilodaunt will make loud noises when in it's idle spawn state. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log after your combat tag disappears.
+-   Avoid any monsters you have little to no experience with, especially Deep Owls, King Threshers and Nautilodaunts, which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
--   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe.
+-   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with graceful flame. Thresher scales does not work with the Diver lockers.
--   If within the vicinity of Castle Light, it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and can shift aggro, effectively protecting you.
+-   If within the vicinity of Castle Light, it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
 -   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target.
 
 ## Trivia
@@ -246,11 +246,11 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The ability for monsters to spawn corrupted appears to be intrinsic to the First Layer rather than the monsters themselves, as monsters from the Second Layer can be corrupted if spawned in the First Layer.
 -   [Resonances](Resonance.md) can resurrect a player one time when they are knocked in the Depths, once progress is sufficient.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. This permanently unlocks [Shadowcast](Shadowcast.md) for the account.
--   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
+-   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyeballs from their sockets and succumb to the void.
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 
--   The Boulder Event in the Depths can spawn most monsters including 2 threshers, a Megalodaunt, an Alpha Megalodaunt, a King Thresher, and a Nautilodaunt. Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight.
+-   The Boulder Event in the Depths can spawn most monsters including 2 threshers, a Megalodaunt, an Alpha Megalodaunt, a King Thresher, and a Nautilodaunt. Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.
     -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.
-    -   In the same update, one of the elevator entrances were replaced with the sub-elevator.
+    -   In the same update, one of the elevator entrances were replaced with the sub-elevator, with a risky approach.

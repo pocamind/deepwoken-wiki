@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 103209
+revid: 110206
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -19,7 +19,7 @@ categories: [Relics]
 
 ## Description
 
-**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef. It can be crafted into the [Gilded Needle](Gilded_Needle.md) with 5 Armorer's Needles and gold.
+**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef. It can be crafted into the [Gilded Needle](Gilded_Needle.md) with 5 Armorer's Needles and 1 gold or you can craft the [Forge Needle](Forge_Needle.md) with 1 Arnorer's Needles and 5 [Smith's Alloy](<Smith's_Alloy.md>).
 
 Currently known to drop from Voidwalker chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Fishing](Fishing.md), [Hell Mode](Hell_Mode.md), [Primadon](Primadon,_Titan_of_the_East.md), [suppyling the Divers' Expedition](Random_Encounters.md#supply-the-diver-expedition) and likely other sources as well.
 

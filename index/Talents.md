@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 109960
+revid: 110210
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1994,7 +1994,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   The buff is random for each person affected.
     -   Prerequisite: 40 Charisma
 
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
+-   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 

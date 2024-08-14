@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 110191
+revid: 110207
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -980,7 +980,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.98x</td>
+  <td>1.00x</td>
   <td>34.6</td>
 </tr>
 <tr>
@@ -1082,7 +1082,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>19</td>
   <td>10%</td>
   <td>N/A</td>
-  <td>MED: 5; STR: 3</td>
+  <td>MED: 5; STR: 3.5</td>
   <td>6</td>
   <td>8</td>
   <td>1x</td>
@@ -1659,9 +1659,9 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>30%</td>
   <td>N/A</td>
   <td>HVY: 8</td>
-  <td>10</td>
+  <td>9</td>
   <td>8.5</td>
-  <td>0.83x</td>
+  <td>0.82x</td>
   <td>N/A</td>
   <td>46.8</td>
 </tr>
@@ -2214,7 +2214,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>20%</td>
   <td>LHT: 4 WND: 5.5</td>
   <td>5</td>
-  <td>6</td>
+  <td>6.5</td>
   <td>1.1x</td>
   <td>N/A</td>
   <td>30.9</td>
@@ -2259,7 +2259,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>N/A</td>
   <td>N/A</td>
   <td>SDW: 9 HVY: 4</td>
-  <td>9</td>
+  <td>8.5</td>
   <td>9</td>
   <td>0.85x</td>
   <td>0.15s</td>

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 110198
+revid: 110209
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -200,8 +200,6 @@ Phase Two is when the fight ironically is easier than the first phase if you hav
 As with all the other boss-fights within Deepwoken, the Ferryman is more of a knowledge and parry check rather than a stat-check. It is highly recommended to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) rather than go in a group due to how his scaling works. The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and, and must instead wait for Your Turn to attack him.
 
 ## Rewards
-
-**HAVENT WRITTEN PAST THIS POINT YET**
 
 **"Progress":** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on defeat, scaling with damage done along with whoever got the last hit.
 

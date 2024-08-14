@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 110022
+revid: 110208
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -344,7 +344,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
 -   Chain of perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self.
--   Vow of thorns is recomended if you are going on a PVE Silentheart build due to the depth trial being cheesed by the heavy damage and enchancing your build with faster prog and rarer drop(only mob drops are affected by Vow of thorns,)Be carefull if you are going deepbound,as this will get you to fight an thunder squibo,bonekeeper or king thresher every time you try to leave the depths
+-   Vow of thorns is recomended if you are going on a PVE Silentheart build due to the depth trial being cheesed by the heavy damage and enchancing your build with faster prog and rarer drop(only mob drops are affected by Vow of thorns,)Be carefull if you are going deepbound,as this will get you to fight an thunder Nautilodaunt,bonekeeper or king thresher every time you try to leave the depths
 
 ## References
 
