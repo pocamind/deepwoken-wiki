@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 110194
+revid: 110198
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,14 +23,14 @@ Template:Creature Infobox V3
 
 According to the stories of old, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though most fail to mention that these gifts aren't earned without a fight. The Ferryman actively despises the mortals who dwell on the surface, offering up unfair wagers, with the mortal betting their life, and him only betting a "Relic."
 
-According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged up from the "dregs of the dregs", he was mistreated by the people of the surface and returns the favor by tormenting them.
+According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged up from the "dregs of the dregs." He was mistreated by the people of the surface and returns the favor by tormenting them.
 
 #### Summoning The Ferryman
 
 1.  Find the [Boatman's Watch](<Boatman's_Watch.md>), and within the middle, find the ritual circle.
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
 3.  Place a campfire on each circle outside the center, (up to a total of **4** campfires).
-4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual.
+4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing _B._**
 5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
 6.  The Ferryman will spawn in the middle. Talk with him and initate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
