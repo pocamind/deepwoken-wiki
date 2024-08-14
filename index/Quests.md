@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 110069
+revid: 110174
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md), [Job Boards](Job_Boards.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
 
 Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra Talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately.
 
@@ -389,96 +389,3 @@ Orion from Summer's Dusk quest
 **Guide**: Talk to the Vesperian NPC [Calamus](Calamus.md) on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). He will ask you to kill a monster in Aratel Island. Kill one and return.
 
 **Reward/s**: EXP, Hive Reputation and a chest with loot.
-
-## Jobs
-
-The Job Board found in the [Etris Docks](Etris_Docks.md).
-
-**Jobs** are repeatable quests offered by certain factions, accessed via Job Boards found in populated territories. Upon completion, Jobs will reward [event EXP](Power.md), a [Chest](Chests_&_Sacks.md), and a substantial amount of positive [reputation](Reputation.md) towards the corresponding faction.
-
-The completion of a Job typically requires the player to travel to a specific area and accomplish a certain task. This task can vary and ranges from a request to transport cargo to the dispatching of an enemy patrol.
-
-Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etrea](Etrea.md)) will only offer Jobs given by its dominant faction, but Job Boards found in neutral areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
-
-**Etrean Luminant:**
-
-**Erisia:**
-
-_Jobs relating to Erisia can be given by [Etrea](Etrea.md)._
-
--   **Authority Patrol**
-    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
-
--   **Bandit Camp**
-    -   Tasks the player with defeating two [Bandits](Bandit.md) and one [Bandit Leader](Bandit_Leader.md).
-
--   **Megalodaunt Infestation**
-    -   Tasks the player with slaying one [Megalodaunt](Megalodaunt.md).
-        
-
-**Eastern Luminant:**
-
-**Songseeker Wilds:**
-
-_Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_Ignition_Union.md) and [The Central Authority](The_Central_Authority.md)._
-
--   **Authority Patrol**
-    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
-
--   **Songseeker Fanatics**
-    -   Tasks the player with defeating one Songseeker Monk; the Monk can use [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md), or [Galebreathe](Songseeker_Galebreather.md).
-        
-
-**Summer Isle:**
-
-_Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Company.md)._
-
-**Starswept Valley:**
-
-_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) and [The Hive](The_Hive.md)._
-
--   **Thresher Infestation**
-    -   Tasks the player with defeating one [Thresher](Thresher.md).
-
--   **Thresher Regicide**
-    -   Tasks the player with defeating one [King Thresher](King_Thresher.md).
-        
-
-**The Depths:**
-
-**Celtor:**
-
-_Jobs relating to Summer Isle can be given by the [The Ignition Union](The_Ignition_Union.md) or [The Divers](The_Divers.md)._
-
--   **Megalodaunt Extermination**
-    -   Tasks the player with defeating one [Megalodaunt](Megalodaunt.md).
-
--   **Alpha Rescue**
-    -   Tasks the player with defeating one [Alpha Megalodaunt](Alpha_Megalodaunt.md). Three [Divers](Diver.md) will spawn to assist the player.
-
--   **Thresher Extermination**
-    -   Tasks the player with defeating one [Thresher](Thresher.md).
-
--   **Thresher Regicide**
-    -   Tasks the player with defeating one [King Thresher](King_Thresher.md).
-
--   **Thresher Rescue**
-    -   Tasks the player with defeating one [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
-
--   **Brute Extermination**
-    -   Tasks the player with defeating one [Mudskipper Brute](Mudskipper_Brute.md). The Brute will spawn with two [Bloatskippers](Mudskipper.md#bloatskipper).
-
--   **Broodlord Extermination**
-    -   Tasks the player with defeating one [Mudskipper Broodlord](Mudskipper_Broodlord.md).
-
--   **Deep Owl Extermination**
-    -   Tasks the player with defeating one [Deep Owl](Deep_Owl.md).
-
--   **Nautilodaunt Extermination**
-    -   Tasks the player with defeating one [Nautilodaunt](Nautilodaunt.md).
-
--   **The Fisherman**
-    -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
-
--   **Drowned Delver**
-    -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).

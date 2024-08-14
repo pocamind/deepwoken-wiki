@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 109937
+revid: 110196
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -54,6 +54,7 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it adds a chained gau
     
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
     -   **Supposedly** deals true damage (Like most oath mantras)
+    -   **CURRENTLY BUGGED: BLOODLESS GEMS DO NOT WORK WITH THIS MANTRA**
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._

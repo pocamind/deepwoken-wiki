@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 110135
+revid: 110191
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -80,7 +80,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 ### Two-Handed
 
 -   Deal increased posture damage with hits.
--   Cannot use offhand weapons, though this can be changed with a Talent.
+-   Cannot use offhand weapons, though this can be changed with a Talent. (now innate talent)
 
 ## Key Terminology
 
