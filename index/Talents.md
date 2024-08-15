@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110210
+revid: 110234
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -724,7 +724,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+2 Posture, +4 Carry Load)
     -   Prerequisites: 20 Strength
 
--   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+-   Precise Swing \[Common Talent\] - After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
@@ -2193,6 +2193,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"My blade burns through my foes."**_
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
+    -   Does not proc the talent "Dazing Finisher".
     -   Prerequisite: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity)
@@ -2514,6 +2515,7 @@ _**"I seek the qualities of vocalist."**_
 
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. ( )
     -   Prerequisite: 50 Heavy Weapon, Greatsword/Greathammer equipped
+    -   Doesn't work on [Railblade](Railblade.md). (Intended)
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
@@ -2588,7 +2590,7 @@ _**"I seek the qualities of vocalist."**_
 
 > _**"Uh..."**_
 
--   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for a short duration.
+-   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
     -   Prerequisite: [Power](Power.md) 10
 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.

@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 98564
+revid: 110237
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -59,3 +59,4 @@ If you wish to turn it off, go to settings in order to disable Spell Shouting.
 ## Trivia
 
 -   Spell Shout does not work with Golden Tongue.
+-   If you talk to him again after getting Spell Shout he says "IN DUE TIME EVERY SHOP WILL BAN YOU FROM ENTRY TOO! 'DISRUPTIVE BEHAVIOR', THEY SAY!".

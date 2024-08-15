@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 110218
+revid: 110231
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -855,7 +855,7 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm, Thundercall_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description),_
+-   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description), Deepdelver Gamma (Dialogue)_
 
 -   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[9\]](#cite-note-dsgs-9) and Railblade.[\[10\]](#cite-note-railblade-10)
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
