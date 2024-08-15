@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 109020
+revid: 110218
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -19,75 +19,75 @@ beware - the Tide comes too for thee. ”
 
 ## Description
 
-The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be found through [dialogues](Dialogue.md), books, descriptions, landscapes and places, such as the Towerstruck Lands, The City of the Drowned, and many more.
+The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through [dialogues](Dialogue.md), [books](Books.md), descriptions, landscapes, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Devs themselves (Arch\_Mage, Naktigonis, ragoozer etc...)
+**DISCLAIMER:** Contributors of this page may input misinformation about lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is based on the game and the developers themselves (Arch\_Mage, Naktigonis, Ragoozer, etc.).
 
-This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
+**This page is for lore only.** If you want to see which factions can be reputable, consider [here](Reputation.md).
 
 ## Figures
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
-"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [The Duke](Duke_Ishamon_Erisia.md) and returns back to him before he promptly kills you.
+"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [Duke Erisia](Duke_Ishamon_Erisia.md) and returns back to him before he promptly kills them.
 
 _The Lord Regent, sitting atop his throne of coral._
 
--   The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the [capital city](Etris.md) and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md).
--   Nobody in Etris is sure of where he originates, but they accept him for his formidable power, and his actions **appearing** to be in the best interests of Etris.
--   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
--   When talking to the Bookworm about Etris' previous rulers we learn all of their histories were recorded in books stored within the city's official history office, though said office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' past history.
--   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace even while remaining the ruler of Etrea.
--   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
+-   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual and [contractor](Oaths.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [the Ministry](The_Ministry.md).
+-   Nobody in [Etris](Etris.md) is sure of where he originates, but they accept him for his formidable power, and his actions _appear_ to be in the best interests of Etris.
+-   Lord Regent is the Fourth Prophet out of nine Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
+-   When speaking with the Bookworm about Etris' previous rulers, we learn all of their histories were recorded in books stored within the city's official history office, though the office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' history.
+-   Many locals believe that Lord Regent is stricken with some illness because he never leaves his palace even while remaining the ruler of Etrea.
+-   His strength and power come directly from [the Depths](The_Depths.md), almost equivalent to the [Krulians](Krulian.md), though at the cost of movement.
     -   The Lord Regent is not a Krulian.
-    -   In the [book](Books.md#operation-puppet-master-report) "_Operation 'Puppet\_Master' Report_", we learn that after shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form:_"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ and breaking this veil also caused the guard's eyes to explode.
-    -   Lord Regent has his power increased an incredible amount by sitting on his throne. He is able to go from barely defeating Akira to easily defeating Akira with "low difficulty". It also allows him to surpass The Ferryman when at full strength.[\[1\]](#cite-note-rag-1)
-    -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, but this is may not be indicative of his true age, as he is likely immortal.
--   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
--   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
-    -   Though it is not Shadowcast,[\[2\]](#cite-note-arch-2) it is similar in appearance to it and in God in the Machine, after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
--   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
-    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
--   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
-    -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
--   His goal is seemingly to manipulate Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
-    -   As it is unknown how long ago this event was it may have been caused by the same person. \[Speculation\]
--   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious [Shadowcaster](Shadowcast.md), who may well be linked to the [Ministry](The_Ministry.md), orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent, Zi'eer, to ascend into power.
+    -   In the book "[Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report)_,_" we learn that after shattering an Etrean guard's mental veil, an [Authority](The_Central_Authority.md) inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
+    -   Lord Regent's power is increased incredibly by sitting on his throne. He can go from barely defeating [Akira](Akira.md) to easily defeating Akira with "low difficulty." It also allows him to surpass [the Ferryman](The_Ferryman.md) when at full strength.[\[1\]](#cite-note-rag-1)
+    -   The Lord Regent's age is somewhere in his 40s, given that he has Tier 1 Wrinkles, but this may not indicate his actual age, as he is likely immortal.
+-   Based on [Jericho's](Warden_Jericho.md) journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
+-   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
+    -   Though it is not [Shadowcast](Shadowcast.md),[\[2\]](#cite-note-arch-2) it is similar in appearance to it, and in "[God in the Machine](Books.md#god-in-the-machine)," after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgment attack.
+-   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts about Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "[the Forge of Sin](Relics.md#lore-relics)."
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
+-   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel notes that the "new leader is very strange," suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
+    -   This may be because of the Canor's history with the Authority, with whom they are currently at war; however, considering that player Canors are met with little discrimination, it may be simply because Schnitzel appears to have rather little education.
+-   His goal is seemingly to manipulate Etris' prospects to seize the island to the Tides, as once happened to Celtor in the south thanks to their mysterious new leader.
+    -   Considering it is unknown how long ago this event occurred, it is speculated that it may have been caused by the same person.
+-   The book "[Stars Above, and the Blade Between](https://deepwoken.fandom.com/wiki/Books?so=search#Stars_Above,_and_the_Blade_between)_"_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent, Zi'eer, to ascend into power.
 
 ### Sovereign Drallis Ehr, Overseer of Epochs
 
--   Grand Sovereign of The Central Authority.[\[1\]](#cite-note-rag-1)
--   Often called Lumens Savior.
--   Presumably an Adret, given the biases of the Authority.
+-   Grand Sovereign of [the Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-rag-1)
+-   Often called "Lumen's Savior."
+-   Presumably an [Adret](Adret.md), given the biases of the Authority.
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
-    -   When asked, developer ragoozer simply stated that it is up the interpretation of the reader.
--   Even more powerful than the Lord Regent.[\[1\]](#cite-note-rag-1)
--   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the Celestials with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
--   Both the Etrean Luminant and East Luminant maps were commissioned under his name.
+    -   When asked, developer Ragoozer simply stated that it is up to the interpretation of the reader.
+-   Even more powerful than the [Lord Regent](The_Lord_Regent.md).[\[1\]](#cite-note-rag-1)
+-   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the [Celestials](Celestial.md) with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
+-   Both the [Etrean Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=EtreanLuminant.png) and [Eastern Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=DWmapEast.png) maps were commissioned under his name.
 
 ### The First Prophet
 
--   The strongest Ministry Prophet.[\[1\]](#cite-note-rag-1)
--   Surpasses all the world leaders, including the Lord Regent and Drallis Ehr.[\[1\]](#cite-note-rag-1)
--   On par with even the strongest/higher Krulians.[\[1\]](#cite-note-rag-1)
--   A Deepwoken, along with Pleeksty.[\[1\]](#cite-note-rag-1)
--   It is said that the First Prophet created the Ministry since the tides came, suggesting he is as old as Pleeksty or even more.[\[1\]](#cite-note-rag-1)
+-   The strongest [Ministry](The_Ministry.md) Prophet.[\[1\]](#cite-note-rag-1)
+-   Surpasses all the world leaders, including the [Lord Regent](The_Lord_Regent.md) and Drallis Ehr.[\[1\]](#cite-note-rag-1)
+-   On par with even the strongest/higher [Krulians](Krulian.md).[\[1\]](#cite-note-rag-1)
+-   A Deepwoken, along with [Pleeksty](Amorus_Pleeksty.md).[\[1\]](#cite-note-rag-1)
+-   It is said that the First Prophet created the Ministry since the Tides came, suggesting he is as old as Pleeksty or even more.[\[1\]](#cite-note-rag-1)
 -   It is speculated that he lost his humanity.[\[1\]](#cite-note-rag-1)
 -   It is said that if the First Prophet and Pleeksty were to fight, the First Prophet would win in a difficult battle.[\[1\]](#cite-note-rag-1)
 
 ### The Second Prophet
 
--   The second strongest of the nine Ministry Prophets.[\[1\]](#cite-note-rag-1)
--   Gave Chaser his hemokinetic abilities.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
+-   The second strongest of the nine [Ministry](The_Ministry.md) Prophets.[\[1\]](#cite-note-rag-1)
+-   Gave [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) his hemokinetic abilities.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   Master of Chaser and probably other apprentices.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   His only known power is blood control, which is likely much more powerful than Chaser's blood powers.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 
 ### The 5th King of Etrea
 
--   The previous Ruler of the Kingdom of Etrea, before his rule was taken by the Lord Regent under his banner.
--   Not much is known about The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
+-   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) under his banner.
+-   Not much is known about the King of Etrea, but [Theadre](Theadre.md) speaks of him.
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea take?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.

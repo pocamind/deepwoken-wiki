@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 110128
+revid: 110215
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
@@ -31,13 +31,13 @@ categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Igni
 
 ## Description
 
-The **Boltcrusher** is a Legendary [Greathammer](Weapons.md); a heavy [Thundercall](Thundercall.md)\-charged pick-hammer created by the [Ignition Union](The_Ignition_Union.md) to harvest resources from [The Depths](The_Depths.md), its explosive power pulverizes rock and foe alike. Its designation: to destroy.
+The **Boltcrusher** is a Legendary [Thundercall](Thundercall.md) Greathammer that scales off of and requires investment in both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats.
 
-As a hybrid weapon, the Boltcrusher scales off of and requires investment from both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats.
+It was created by the Ignition Union to pulverize the environment and enemies in The Depths (but ironically is incapable of killing a Gigamed).
 
 ## Obtainment
 
-The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" quest. The quest itself can be taken from the Job Boards found in populated areas.
+The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" Job. The Job itself can be taken from the Job Boards located near the entrance to Castle Light and the entrance to Celtor City.
 
 ## Critical
 

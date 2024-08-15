@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 109777
+revid: 110221
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -62,8 +62,8 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
 
 -   This item _can_ be dropped.
 -   Doing hell mode increases the spawn rate of finding Silhuette.
--   Meeting the requirement of LHT and SHW, the damage is (23.19)
--   At max LHT and SHW, the damage is (27.65)
+-   Meeting the requirement of LHT and SDW, the damage is (23.19)
+-   At max LHT and SDW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
 -   This weapon gains 40% wither on hit when paired with the Darkened Bastion outfit, instead of the normal 20% received by other weapons.
 -   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once (when sent via Silhuette).

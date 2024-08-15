@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 107445
+revid: 110212
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Hoods, Etrea]
 
 ## Description
 
-The Vigil Hood is an Equipment item under the "_Head_" category. Equipping it grants 2 Pips and (One guaranteed legendary Pip). It can be obtained from [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), and the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
+The Vigil Hood is an Equipment item under the "_Head_" category. Equipping it grants 2 Pips and (One guaranteed legendary Pip). It can be obtained from [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), and the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
 
 ## Trivia
 

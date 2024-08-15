@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 109274
+revid: 110220
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -206,3 +206,4 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 -   Alirian uses the [Windrunner Robes](Windrunner_Robes.md) outfit.
 -   She seems to value her and the player's frenemy relationship a lot.
 -   It is not advisable to break the oath with Alirian, as she would be sad. (Crybaby😭😭😭😭)
+-   If you break the oath with Alirian, nobody will like you. Don't do it. If you even think about it, you might not have too many friends. Don't even think about doing it.

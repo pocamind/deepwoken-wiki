@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 110203
+revid: 110219
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -14,7 +14,7 @@ File:Depths New Lightning.png
 
 ## Overview
 
-The **First Layer** of the Depths, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
+The **First Layer** of the Depths, also known as **Schizophrenia,** is the one of the nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## Points of Interest
 
@@ -45,7 +45,7 @@ There are 2 bells located in the District of Commerce (sloped gate). Once 2 bell
 
 A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator. If you do not wish to pay the fee, you can climb up the elevator shaft with mobility mantras or enough agility.
 
-**Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present.)
+**Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present. If it is present, you can usually outrun in by getting on top of the elevator and jumping up that way, but if you are inexperienced it is best to simply leave.)
 
 File:Depths Sub-Elevator.png
 
