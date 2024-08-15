@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 110056
+revid: 110266
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -323,7 +323,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 <tr>
   <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...</td>
+  <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
+  </td>
   <td><i>*The Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
 </tr>
 <tr>
@@ -347,7 +348,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">The ruins of that city will <b>never</b> cage me. And with what's at stake... I can't stop now.</td>
+  <td colspan="12">The ruins of that city will <b>never</b> cage me. And with what's at stake... I can't stop now.<br>
+  </td>
 </tr>
 <tr>
   <td colspan="12">Let's get on with it.</td>
@@ -357,7 +359,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="6"><b><a href="Oath%253A_Contractor.md">Contractor</a></b></td>
 </tr>
 <tr>
-  <td colspan="6">You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.</td>
+  <td colspan="6">You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.<br>
+  </td>
   <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
 </tr>
 <tr>

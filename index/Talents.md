@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110234
+revid: 110273
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -303,18 +303,18 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
-    -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this Talent.
+    -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
     -   Prerequisite: 35 Agility
 
 -   Lowstride \[Common Talent, Agility\] - Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Crouching already increase your stealth, but Lowstride amplify this.
+    -   Crouching already increases your stealth, but Lowstride amplifies this.
     -   Prerequisites: 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. Assassinating an opponent now blinds them for 5s. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
-    -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypass this immunity.
+    -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
     -   Merged with the old Low Blow Talent.
     -   Prerequisite: 60 Agility
 

@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 110241
+revid: 110257
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits, Items]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 10.
 
 This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, +5% Shadow resistance and +50% Stealth.
 
-This Outfit also grants the [Talent Card](Talents.md) _Foolish Outburst,_ which _absorbs the Tempo cost of a vent should you block or parry it_.
+This Outfit also grants the [Talent Card](Talents.md) _Foolish Outburst,_ which absorbs the [Tempo](Combat_Mechanics.md#gui) cost of a [Vent](Combat_Mechanics.md#combat-basics) should the wearer block or parry it.
 
 ## Location
 
@@ -32,10 +32,10 @@ This Outfit's Schematic can be obtained from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Summer Isle](Summer_Isle.md)
 
-## Trivia/Notes
+## Trivia
 
--   A clear reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) appearance in _[GUILTY GEAR -STRIVE-](https://en.wikipedia.org/wiki/Guilty_Gear_Strive)._
-    -   Even its chosen talent is a reference to the series' _"_Psych Burst" mechanic, which is the inspiration for Deepwoken's vent.
+-   This Outfit's appearance is a reference to _[Guilty Gear](https://en.wikipedia.org/wiki/Guilty_Gear)_ protagonist [Sol Badguy](https://guiltygear.fandom.com/wiki/Sol_Badguy); specifically, it references his appearance in the seventh installment _[GUILTY GEAR -STRIVE-](https://en.wikipedia.org/wiki/Guilty_Gear_Strive)._
+    -   The Equipment Talent affecting Vents is a nod to the series' "[Psych Burst](https://guiltygear.fandom.com/wiki/Psych_Burst)" mechanic, which served as a direct inspiration.
 -   Worn by f3bian during the [Battle Royale](Battle_Royale.md).
--   Formerly worn exclusively by Serena, before becoming publicly-available only in the Battle Royale gamemode. It was made obtainable in the main game due to popular demand.
+-   Formerly worn exclusively by [Serena](Serena.md), before becoming publicly-available only in the Battle Royale gamemode. It was made obtainable in the main game due to popular demand.
 -   Clothing IDs: [Shirt](https://www.roblox.com/catalog/6155128410/Crimson-Paladin), [Pants](https://www.roblox.com/catalog/6155129851/Crimson-Paladin-Pants)

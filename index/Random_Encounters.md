@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 110139
+revid: 110270
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -309,7 +309,7 @@ If the player were to have more than 75 charisma, you can side with The Union an
 
 ### [Blizzard Knights](Stone_Knight.md)
 
-Blizzard Knights is an event that only occurs in Winter, encountered in the Valley of Heroes of Minityrsa. The Blizzard Knights are huge monsters, sporting a white body, red eyes, and a menacing red sword. They're the more stronger version of the Rock Knight; having more health, completely disabling healing from Bloodless gems, and spawning in a group of six.
+Blizzard Knights is an event that only occurs in Winter, encountered in the Valley of Heroes of Minityrsa. The Blizzard Knights are huge monsters, sporting a white body, red eyes, and a menacing red sword. They're the more stronger version of the Stone Knight; having more health, completely disabling healing from Bloodless gems, and spawning in a group of six.
 
 Once entering the main area, your screen will start shaking as giant blue meteors come crashing from the sky. Upon impact, these meteors will explode into the aforementioned Blizzard Knights.
 

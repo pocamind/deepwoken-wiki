@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 110182
+revid: 110267
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-_Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-Winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you. She posses the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), allowing her to cast illusions and create false versions of herself.
+_Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-Winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you. She possesses the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), allowing her to cast illusions and create false versions of herself.
 
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player comes\] back during the winter." This is a trap, as 4 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
 
@@ -34,7 +34,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
     -   Stand next to Aelita, she has purple eyes.
 5.  _"See? That was fun right? You can have a lot more fun if you come back during the winter."_
 
--   After this she will spawn a chest in the same spot [Blizzard Knights](Stone_Knight.md#blizzard-knight)' chest spawns. Aelita does not spawn during the winter, instead [Blizzard Knights](Stone_Knight.md) spawn.
+-   After this she will spawn a chest in the same spot [Blizzard Knights](Stone_Knight.md#blizzard-knight)' chest spawns. Aelita does not spawn during the winter, instead Blizzard Knights spawn.
 
 ## Drops
 
@@ -67,7 +67,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
     
     Aelita sitting in the fetal position on a rock
     
--   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
+-   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.
 -   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   [Silentheart](Oath%253A_Silentheart.md)'s are unable to beat her game without abusing glitches due to a lack of Mantras.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID : 6536255505

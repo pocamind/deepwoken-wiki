@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 110231
+revid: 110245
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -21,7 +21,7 @@ beware - the Tide comes too for thee. ”
 
 The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through [dialogues](Dialogue.md), [books](Books.md), descriptions, landscapes, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation about lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is based on the game and the developers themselves (Arch\_Mage, Naktigonis, Ragoozer, etc.).
+**DISCLAIMER:** Contributors of this page may input misinformation about lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is based on the game and the developers themselves (Arch\_Mage, Naktigonis, ragoozer, etc.).
 
 **This page is for lore only.** If you want to see which factions can be reputable, consider [here](Reputation.md).
 
@@ -62,7 +62,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
-    -   When asked, developer Ragoozer simply stated that it is up to the interpretation of the reader.
+    -   When asked, developer ragoozer simply stated that it is up to the interpretation of the reader.
 -   Even more powerful than the [Lord Regent](The_Lord_Regent.md).[\[1\]](#cite-note-rag-1)
 -   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the [Celestials](Celestial.md) with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
 -   Both the [Etrean Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=EtreanLuminant.png) and [Eastern Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=DWmapEast.png) maps were commissioned under his name.
@@ -100,9 +100,9 @@ _The Lord Regent, sitting atop his throne of coral._
     -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
 -   File:RagsHonestReaction.png
     
-    Ragoozer after being asked 'was the old king of Etris also buffed by the throne?'
+    ragoozer after being asked 'was the old king of Etris also buffed by the throne?'
     
-    When Ragoozer was asked if he was also strengthened by the throne, his reaction was:
+    When ragoozer was asked if he was also strengthened by the throne, his reaction was:
 
   
 
@@ -196,7 +196,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 
 ### Colonel Hoffa
 
--   (Ragoozer) Powerful Ignition Union Deepdelver.[\[1\]](#cite-note-rag-1)
+-   (ragoozer) Powerful Ignition Union Deepdelver.[\[1\]](#cite-note-rag-1)
 -   On par with Akira.[\[1\]](#cite-note-rag-1)
 -   Possibly an Arcwarder.
 
@@ -265,7 +265,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
 -   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
--   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
+-   ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
         1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
         2.  He has the power to kill anything he pleases, yet chooses to do what he enjoys instead of displaying his strength as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
@@ -403,7 +403,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 ### Drowned Gods
 
-**Lore Sources:** Kaide_, Yun'Shul, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
+**Lore Sources:** Kaide_, Yun'Shul, Klaris, Arch\_Mage (Discord), ragoozer (Discord)_
 
 -   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   They are not fighters, but more so natural disasters waiting to happen.[\[2\]](#cite-note-arch-2)
@@ -1005,7 +1005,7 @@ An Authority Captain
 -   **Attunements:** _Unknown_
 -   **Alliances:** _The Ministry File:Eylisiconfactoin.png_
 -   **Enemies:** _The Central Authority, The Warmasters, The Divers._
--   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
+-   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, ragoozer (Discord)_
 
 -   Contractors are a group of individuals that have taken an Oath with a Prophet of the Ministry.
 -   They act as freelance Ministry Operatives.
@@ -1100,7 +1100,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunments:** _Flamecharm_
 -   **Alliances:** _Amorus Pleeksty(?)_
 -   **Enemies:** _The Depths(?)_
--   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, Ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), Mystic._
+-   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), Mystic._
 
 -   A group of Flamecharmers who follow the teachings of the Black Diver and Deepwoken, Amorus Pleeksty.
 -   One of the few faiths from the Canticlysm that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
@@ -1118,7 +1118,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunements:** _Unknown_
 -   **Alliances:** _The Central Authority(?)_
 -   **Enemies:** _Contractors, The Ministry(?)_
--   **Lore Sources:** _Ragoozer, Warden Jericho Journal, Windrunner._
+-   **Lore Sources:** _ragoozer, Warden Jericho Journal, Windrunner._
 
 -   Creators and source of power of the Warmaster Oath.[\[1\]](#cite-note-rag-1)
 -   Likely composed of important members of the Authority.
@@ -1534,7 +1534,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### Deepwoken
 
--   **Lore Sources:** Ragoozer (Discord)
+-   **Lore Sources:** ragoozer (Discord)
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
     -   A common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
@@ -2160,7 +2160,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   Despite the often unclear nature of the lore, with developers at time contradicting each other, there is indeed some form of document that contains it all.
 -   The Central Authority was sometimes referred to as the Adretian Authority in-game at release, though this has since been corrected by the devs.
 -   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
--   Ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
+-   ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
 -   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the Old World and is most likely why there were so few Oaths at the beginning of the game. Though, Vow of Mastery and Murmurs potentially use vow magic, as only one can be obtained or made.
 
 ## References

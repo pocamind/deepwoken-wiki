@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 110177
+revid: 110244
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -18,7 +18,7 @@ Job Board at Etris docks
 
 The completion of a Job typically requires the player to travel to a specific area and accomplish a certain task. This task can vary and ranges from a request to transport cargo to the dispatching of an enemy patrol.
 
-Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etrea](Etrea.md)) will only offer Jobs given by its dominant faction, but Job Boards found in neutral areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
+Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will only offer Jobs given by its dominant faction, but Job Boards found in neutral areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
 
 ## Etrean Luminant
 
@@ -93,7 +93,7 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md)Diversic
     -   Tasks the player with defeating one [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
 
 -   **Brute Extermination**
-    -   Tasks the player with defeating one [Mudskipper Brute](Mudskipper_Brute.md). The Brute will spawn with two [Bloatskippers](Mudskipper.md#bloatskipper).
+    -   Tasks the player with defeating one [Mudskipper Brute](Mudskipper_Brute.md).
 
 -   **Broodlord Extermination**
     -   Tasks the player with defeating one [Mudskipper Broodlord](Mudskipper_Broodlord.md).

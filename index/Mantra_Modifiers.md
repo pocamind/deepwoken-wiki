@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 109005
+revid: 110258
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -408,18 +408,102 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | 
  | 
 
+Blast Spark
+
+ | 
+
+-   Fire Gun
+-   Frost Grab
+-   Frozen Servants
+-   Ice Forge
+-   Electro Carve
+-   Lightning Clones
+-   Lightning Stream
+-   Wind Gun
+-   Shadow Gun
+-   Rising Shadow
+-   Shade Devour
+-   Shadow Assault
+-   Needle Barrage
+-   Firing line
+-   Shoulder Bash
+-   Disguise
+
+ | 
+
+Applies "Explosion" to compatible Mantra.
+
+ |
+| 
+
+ | 
+
 Magnet Spark
 
  | 
 
+-   Flame Sentinel
+-   Ice Forge
 -   Jolt Grab
 -   Lightning Blade
+-   Fleeting Sparks
+-   Electro Carve
+-   Iron Tether
+-   Permafrost Prison
 -   Tranquil Circle
--   Flame Sentinel
+-   Illusory Realm
 
  | 
 
 Applies "Magnet Shot" to compatible Mantra.
+
+ |
+| 
+
+ | 
+
+Multiplying Spark
+
+ | 
+
+-   Ice Cubes
+-   Lightning Clones
+-   Fleeting Sparks
+-   Grand Javelin
+-   Spark Swap
+-   Wind Forge
+-   Wind Gun
+-   Shade Bringer
+-   Shade Devour
+-   Eclipse Kick
+-   Iron Tether
+
+ | 
+
+Applies "Triple Shot" to compatible Mantra.
+
+ |
+| 
+
+ | 
+
+Reversal Spark
+
+ | 
+
+-   Fire Blade
+-   Burning Servants
+-   Flame Leap
+-   Frozen Servants
+-   Lightning Stream
+-   Lightning Impact
+-   Air Force
+-   Chain Pull
+-   Disguise
+
+ | 
+
+Applies "Reversal" to compatible Mantra.
 
  |
 | 
@@ -444,86 +528,19 @@ Applies "Round Shot" to compatible Mantra.
 
  | 
 
-Blast Spark
-
- | 
-
--   Frozen Servants
--   Frost Grab
--   Wind Gun
--   Ice Forge
--   Lightning Clones
--   Lightning Stream
--   Shadow Assault
--   Shade Devour
--   Shadow Gun
--   Rising Shadow
--   Shoulder Bash
--   Needle Barrage
--   Firing line
--   Fire Gun
-
- | 
-
-Applies "Explosion" to compatible Mantra.
-
- |
-| 
-
- | 
-
-Reversal Spark
-
- | 
-
--   Flame Leap
--   Fire Blade
--   Lightning Impact
--   Air Force
--   Disguise
--   Burning Servants
--   Frozen Servants
-
- | 
-
-Applies "Reversal" to compatible Mantra.
-
- |
-| 
-
- | 
-
-Multiplying Spark
-
- | 
-
--   Eclipse Kick
--   Wind Gun
--   Shade Bringer
--   Shade Devour
--   Grand Javelin
-
- | 
-
-Applies "Triple Shot" to compatible Mantra.
-
- |
-| 
-
- | 
-
 Spring Spark
 
  | 
 
+-   Flame Repulsion
+-   Flame Ballista
+-   Ice Carve
 -   Ice Laser
 -   Crystal Knee
+-   Crystal Impale
 -   Shade Bringer
--   Dash
 -   Metal Kick
--   Ice Carve
--   Flame Ballista
--   Flame Repulsion
+-   Dash
 
  | 
 
@@ -538,9 +555,10 @@ Tornado Spark
 
  | 
 
+-   Fire Forge
 -   Storm Blades
 -   Dark Blade
--   Fire Forge
+-   Disguise
 
  | 
 
@@ -843,6 +861,21 @@ Shoulder Bash
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Flame Sentinel
+
+(★★☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the turret of the "Flame Sentinel" mantra to follow you.
+
+ |
+| 
+
 Ice Forge
 
 (★☆☆)
@@ -890,6 +923,21 @@ Lightning Blade
  |
 | 
 
+Fleeting Sparks
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes "Fleeting Sparks" mantra to home in on the enemy more aggressively and not shoot out lasers.
+
+ |
+| 
+
 Electro Carve
 
 (★☆☆)
@@ -901,6 +949,21 @@ Electro Carve
  | 
 
 -   This modifier causes "Electro Carve" mantra to be thrown as a projectile if hit by the projectile the target will make 3 sound queues before discharging electric waves that deal AoE damage.
+
+ |
+| 
+
+Iron Tether
+
+(★★☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes "Iron Tether" to slowly home in on the nearest target.
 
  |
 | 
@@ -931,6 +994,21 @@ Tranquil Circle
  | 
 
 -   This modifier causes the zone from the "Tranquil Circle" mantra to follow the character's movement.
+
+ |
+| 
+
+Illusory Realm
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the user of "Illusory Realm" mantra to become the center of the realm.
 
  |
 
@@ -967,6 +1045,21 @@ Lightning Clones
  | 
 
 -   This modifier causes the "Lightning Clones" mantra to conjure an additional clone, making it 2 clones conjured for everytime the mantra is casted.
+
+ |
+| 
+
+Fleeting Sparks
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Fleeting Sparks" mantra to shoot out 6 sparks into of 3.
 
  |
 | 
@@ -1076,6 +1169,21 @@ Eclipse Kick
 
 -   This modifier makes Eclipse Kick perform a kick that dazes, even on block or dodge.
     -   If this lands, Eclipse Kick can be casted again to perform the regular attack.
+
+ |
+| 
+
+Iron Tether
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Iron Tether" mantra to shoot out 3 tethers instead of 1.
 
  |
 
@@ -1477,6 +1585,66 @@ Dark Blade
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
 | 
+Fire Gun
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Blast Spark**
+-   **Round Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Fire Gun" mantra to fire multiple shoots in random directions that explode on impact with a person.
+
+ |
+| 
+
+Fleeting Sparks
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Multiplying Spark**
+-   **Magnet Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Fleeting Sparks" mantra to fire 6 sparks that home in aggresively on the target until the hit them, also removes the lasers being shot out.
+
+ |
+| 
+
+Lightning Clones
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Multiplying Spark**
+-   **Blast Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Lightning Clones" mantra to spawn 2 lightning clones that explode into lightning when they hit an enemy (this can deal damage to the user too).
+
+ |
+| 
+
 Wind Gun
 
 (★★☆)
@@ -1493,6 +1661,46 @@ Wind Gun
  | 
 
 -   This combination of modifiers causes the "Wind Gun" mantra to fire 3 rounds of short wind bullets.
+
+ |
+| 
+
+Shade Bringer
+
+(★★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Multiplying Spark**
+-   **Spring Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Shade Bringer" mantra to jump forward into an explosive blast and then do 2 slashes.
+
+ |
+| 
+
+Shade Devour
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Blast Spark**
+-   **Multiplying Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Shade Devour" mantra to perform 3 shockwaves that are much bigger than normal.
 
  |
 

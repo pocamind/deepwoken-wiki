@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 110215
+revid: 110271
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
@@ -33,11 +33,11 @@ categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Igni
 
 The **Boltcrusher** is a Legendary [Thundercall](Thundercall.md) Greathammer that scales off of and requires investment in both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats.
 
-It was created by the Ignition Union to pulverize the environment and enemies in The Depths (but ironically is incapable of killing a Gigamed).
+The cutting-edge of [Ignition Union](The_Ignition_Union.md) technology, the Boltcrusher was devised by [Ignition Deepdelvers](Ignition_Deepdelver.md) in order to assist in [Depths](The_Depths.md) resource extraction and the elimination of "those who can't hold up their end of the deal".
 
 ## Obtainment
 
-The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" Job. The Job itself can be taken from the Job Boards located near the entrance to Castle Light and the entrance to Celtor City.
+The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" Job. The Job itself can be taken from [Job Boards](Job_Boards.md) scattered in a variety of locations, with an increased spawnrate at [the Chariot's Spire](<The_Chariot's_Spire.md>).
 
 ## Critical
 
@@ -45,13 +45,13 @@ The Boltcrusher has _two_ variants of its Critical Attack, which will change dep
 
 **Standing**: The user reels back the weapon and flips it to the backhand side with the drill, then swings it forward and drills into the opponent. They then spin around and clobber the enemy with the hammerhead side of the weapon.
 
-**Running**: Lift the Boltcrusher up above your head, and slam it into the ground, using the hammerhead side, creating a shockwave of lightning.
+**Running**: The user lifts the Boltcrusher up above their head before slamming it into the ground using the hammerhead side, creating a shockwave of lightning.
 
 Both the running and the standing version share a cooldown of **5.5 seconds**. This cooldown is decreased to **4.3 seconds** if the user has the [Warmaster Medallion](<Warmaster's_Medallion.md>) equipped.
 
 ## Trivia
 
--   The line _"Onwards we march, powered by a spark."_ from the item's description is a direct reference to [The Hammer's Call](Books.md#the-hammers-call), the Ignition Union's in-universe anthem.
+-   The line _"From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."_ from the item's description is a reference to [The Hammer's Call](Books.md#the-hammers-call), the Ignition Union's in-universe anthem.
 -   This weapon can both be dropped and [banked](Item_Bank.md).
 -   Due to a bug, being guardbroken by the Boltcrusher's running Critical will prevent M1 attacks.
 -   This weapon has the highest stat requirement of any elemental weapon at 155 stat points. In terms of total attribute requirement, it is second only to the [Hivelord's Hubris](<Hivelord's_Hubris.md>), which has a requirement of 160 points.

@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 109906
+revid: 110242
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, InProgressPages]
@@ -14,14 +14,19 @@ Template:EnemyInfobox1.0 **Finnegan The Lost** or the Drowned Delver is an enemy
 
 Although the Drowned Delver job is typically offered by [The Ignition Union](The_Ignition_Union.md) at the Job Board located in [The Chariot's Spire](<The_Chariot's_Spire.md>), it can rarely be given as a [Diver](The_Divers.md)\-affiliated job at [Castle Light](Castle_Light.md) or [The City of the Drowned](The_City_of_the_Drowned.md).
 
+  
+
 ## Moveset
 
 | Name | Media | Description | Parryable | Blockable | Dodgeable | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
 | Basic Attack | N/A | Finnegan hits the player with a normal attack. | ◯ | ◯ | ◯ | (☆☆☆) |
-| Critical | N/A | Finnegan runs forward and uses the running critical. (See [Boltcrusher](Boltcrusher.md)) | ◯ | ◯ | ◯ | (★★☆) |
+| Critical | N/A | Finnegan flips the Boltcrusher backwards before slamming it into the player, followed by a twirling strike that sends them flying. | ◯ | ◯ | ◯ | (★★☆) |
+| Critical Variant | N/A | If Finnegan is running towards the player, their critical is instead a short dash forward followed by a devastating lightning-charged slam. | ◯ | ◯ | ◯ | (★★☆) |
 | Grand Javelin | N/A | Finnegan conjures a lance of Thundercall and throws it towards the player. | ◯ | ◯ | ◯ | (★★☆) |
 | Iron Tether | N/A | Finnegan conjures cubes of Ironsing and tethers them together with Thundercall. | ◯ | ✗ | ◯ | (★☆☆) |
+| Metal Ball | N/A | Finnegan wraps themself in a spiked metal ball and rapidly rolls towards the player. | ◯ | ◯ | ◯ | (★★☆) |
+| Emotion Wave | N/A | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning. | ✗ | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 109098
+revid: 110248
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -271,7 +271,7 @@ _Conjure a turret of flames._
 
  | User creates an orb that will shoot out fireballs to nearby targets.
 
--   Applying magnet spark will make the turret follow the user
+-   Can be modified with a magnet spark, making the turret follow the user.
 
  |  |
 |  | 

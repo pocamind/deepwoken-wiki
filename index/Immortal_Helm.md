@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 109398
+revid: 110261
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,17 +26,15 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category. A helmet of the [Immortal Guardians](Immortal_Guardian.md).
-
-This grants the [Talent](Talents.md) "Immortality", which gives knock prevention for two seconds for one hit whilst at 1% HP.
+The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants the wearer randomized stat boosts based on the pips rolled at the item's creation and the _Immortality_ [Talent](Talents.md), which prevents the wearer from being knocked out for two seconds at 1% HP. The effect only lasts for one hit or until the duration expires.
 
 The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
 
 ## Trivia
 
--   The Helmet is a reference to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from Made In Abyss, as it closely resembles his style, and the Talent seems similar to an ability of his that gives him "Immortality."
+-   The appearance of the Immortal Helm is a reference to the headgear worn by the character [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from the manga series _[Made In Abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)_.
+    -   The Equipment Talent, _Immortality_, also references the character.
 -   When held, the light deactivates, showing empty space rather than some sort of projector.
 -   Immortality can even protect the user from moves that instantkill instead of knocking such as the [Lionfish's](Lionfish.md) Cero.
--   The only currently known attack that can bypass Immortality's invincibility is the Mantra Prediction, which knocks as normal on proc.
--   Fall damage with the high velocity echo prevents immortality from activating.
--   This is an amazing helmet for early progression, seeing as it has no requirements and a good talent for escaping death.
+-   The only currently known attack that can bypass Immortality's invincibility is the [Intelligence](Attunement-less.md#intelligence-mantras) [Mantra](Mantras.md) **Prediction**, which will knock out the wearer as normal if triggered.
+-   Fall damage with the High Velocity [Echo Modifier](Echoes.md#upgrades-and-modifiers) will prevent Immortality from activating.

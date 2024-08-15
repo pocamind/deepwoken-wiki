@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 110036
+revid: 110260
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -27,6 +27,11 @@ The orders are as follows:
 File:UllaCandiedFruit.png
 
  | Candied Fruit | 2x Ongo/2x Plumfruit/1x Calabash/1x Pomar/2x Redd + Sap | ◯ |
+| 
+
+File:YummerCrabPizza.png
+
+ | Crab Pizza | 1x Crustacean Meat + 1x Bread + 1x Cheese | ✗ |
 | 
 
 File:UllaBread.png
