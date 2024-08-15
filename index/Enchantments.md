@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 110017
+revid: 110224
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -117,7 +117,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
   the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
-  <td><div>Weapon turns completely black and is covered in a black and light red mist.</div></td>
+  <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -227,7 +227,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><br>
   On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 5 seconds.<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
-  <td><div>Weapon is covered in a black &amp; light red mist, just like Grim. Weapon's metal parts glow arctic blue.<br>
+  <td><div>Weapon is covered in a black &amp; light red aura, just like Grim. Weapon's metal parts glow arctic blue.<br>
   When sheathed, the particles are completely invisible.</div></td>
 </tr>
 <tr>
@@ -263,7 +263,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
-  <td><div>Weapon is completely red, surrounded by a red mist.<br>
+  <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>
 <tr>

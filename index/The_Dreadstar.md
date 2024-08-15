@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 110126
+revid: 110230
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -98,10 +98,10 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Dreadstar talks<p><b>(if anyone knows what is said here, please complete the text)</b></p></td>
+  <td>Hateful one, what is it you seek&nbsp;?</td>
 </tr>
 <tr>
-  <td>Player talks<p><b>(if anyone knows what is said here, please complete the text)</b></p></td>
+  <td>What must i do next&nbsp;?</td>
 </tr>
 <tr>
   <td>*Dreadstar disappears will your screen goes completely black.</td>
