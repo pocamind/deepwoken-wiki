@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 109849
+revid: 110320
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -30,5 +30,6 @@ categories: [Equipment, Rings]
 ## Trivia
 
 -   It is the only ring named after an unknown lore character. Every other ring's namesake has some kind of mentions in other places.
--   The other Weapon Scaling Rings are the following: [Rosen's Ring](Equipment.md#ring), [Prophet's Ring](Equipment.md#ring), [Maestro's Ring](Equipment.md#ring), [Akira's Ring](<Akira's_Ring.md>)
+-   The other Weapon Scaling Rings are the following: [Rosen's Ring](Equipment.md#ring), [Prophet's Ring](Equipment.md#ring), [Maestro's Ring](Equipment.md#ring), [Akira's Ring](<Akira's_Ring.md>).
+-   All Attribute Rings seem to have 2HP more then what is stated.
 -   Dawnfist's Ring, alongside Akira's Ring were the only weapon scaling rings to exist for a long while after public release.
