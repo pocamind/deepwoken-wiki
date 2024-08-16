@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 109901
+revid: 110300
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -31,6 +31,14 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) and [Thundercall](Thund
 | Restrain | N/A | The Fisherman delivers a powerful kick that chains the opponent to them. | ◯ | ✗ | ◯ | (★★☆) |
 | Rupture | N/A | If the opponent is chained (via Restraint, or if they flourish you), detonate the opponent, dealing a high amount of damage. | ✗ | ✗ | ◯ | (★★★) |
 | Emotion Wave | N/A | The Fisherman stomps the ground, causing five surging waves of lightning to travel along the ground. | ◯ | ◯ | ◯ | (★★★) |
+
+## Dialogues
+
+The Fisherman is able to speak and usually says some phrases when he spawns such as:
+
+-   "The Prophets spoke the truth! KEHAHAH!"
+-   "What's the point?! Why struggle?!"
+-   "Kehah... KEHAHAHAH!"
 
 ## Finisher
 

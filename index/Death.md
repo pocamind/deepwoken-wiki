@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 108182
+revid: 110310
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Death, Mechanics, Character]
@@ -29,7 +29,7 @@ See Escaping The Depths [here](https://deepwoken.fandom.com/wiki/The_Depths#Esca
 ## Trivia
 
 -   It is very unwise to kill people in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough.
--   Being sucked in by a Whirlpool, losing your last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with [Hollow](Echoes.md), dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
+-   Being sucked in by a Whirlpool, dying with [Hollow](Echoes.md), dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
     -   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
 -   Dying to hunger and then immediately dying to hunger again in The Depths is restorable. This note is important because people didn't know this fact and lost their progression.
 -   Falling into the void of the [First Layer](First_Layer.md) while above 50% HP and at Power 3 and above does not result in a death. Instead, you will be sent to the [Second Layer](Second_Layer.md).

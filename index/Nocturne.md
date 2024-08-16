@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 110216
+revid: 110309
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -28,11 +28,11 @@ categories: [Weapons, Swords, Weapons with Unique Criticals]
 
 ## Description
 
-The **Nocturne** is a medium weapon, exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the [Moon Knight](Moon_Knight.md) commonly from his boss chest. This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
+The **Nocturne** is a rare medium weapon, exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the [Moon Knight](Moon_Knight.md) commonly from his boss chest. This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
 
 ## Critical
 
-Stabs your opponent in a short range after a very slow wind-up and applies a Moonseye symbol on them, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
+Stabs your opponent in a short range after a very slow wind-up and applies a Moonseye symbol on them, applying through block, parry, and on hit, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
 
 Can be cancelled by damage in wind-up.
 

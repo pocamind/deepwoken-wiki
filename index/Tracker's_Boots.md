@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Boots"
-revid: 107605
+revid: 110307
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -11,15 +11,16 @@ categories: [Equipment, Legs, Boots]
 | Tracker's Boots | |
 |---|---|
 | type | Boots |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
-| innate stats | N/A |
+| innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Starswept Valley |
+| obtainment | Chests from:, Erisia, Aratel Island |
 | description | "..." |
 
 ## Description

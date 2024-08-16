@@ -1,6 +1,6 @@
 ---
 title: Moon Ring
-revid: 109700
+revid: 110302
 source: https://deepwoken.fandom.com/wiki/Moon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -40,5 +40,4 @@ The **Moon Ring** is a Ring [Equipment](Equipment.md) piece that conceals your c
 ## Trivia
 
 -   For a long period of time, this ring did not work properly. It was fixed in May of 2022.
--   We have no idea what a "vain miser" that the description references, is. Perhaps this will be revealed in a later update?
 -   The Moon's Ring is in a category of "Moon" weapons, equipment and relics, other "Moon" items are the [Moonseye Tome](Moonseye_Tome.md), [Moon Blades](Moon_Blades.md), [Moonlit Earrings](Crescent_Earrings.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), [Moonseye Scalpel](Moonseye_Scalpel.md), and the [Moonseye](Moonseye.md). All of these items are commonly found at [Moon's Eyrie](<Moon's_Eyrie.md>) from the [Moon Knights](Moon_Knight.md).

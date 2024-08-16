@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 110279
+revid: 110308
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -46,14 +46,14 @@ Scarves are an [Equipment](Equipment.md) item under the "Torso" category. They c
 </tr>
 <tr>
   <td>Black</td>
-  <td></td>
-  <td></td>
+  <td>Uncommon</td>
+  <td>3% Shadow Armor</td>
   <td></td>
 </tr>
 <tr>
   <td>Crimson</td>
-  <td></td>
-  <td></td>
+  <td>Common</td>
+  <td>3% Fire Armor</td>
   <td></td>
 </tr>
 <tr>
@@ -70,14 +70,14 @@ Scarves are an [Equipment](Equipment.md) item under the "Torso" category. They c
 </tr>
 <tr>
   <td>Forest</td>
-  <td></td>
-  <td></td>
+  <td>Rare</td>
+  <td>3% Lightning Armor</td>
   <td></td>
 </tr>
 <tr>
   <td>Tundra</td>
-  <td></td>
-  <td></td>
+  <td>Uncommon</td>
+  <td>3% Ice Armor</td>
   <td></td>
 </tr>
 <tr>

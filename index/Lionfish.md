@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 110285
+revid: 110301
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -63,7 +63,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
     -   Also based on the actual Lionfish, a species of poisonous fish that can extend spines outward that resemble the mane of a lion.
 -   Funnily enough, a Lionfish can spawn Frostmantled in the Depths despite the existence of Glacial Lionfishes.
 -   The Cero attack is inspired by the [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sfx and with the Lionfish's pose before firing it resembling the [Menos Grande](https://bleach.fandom.com/wiki/Hollow%23Gillian) that introduced the technique.
--   The Cero is Galebreathe based.\[citation needed\]
+-   The Cero is Galebreathe based.
 -   If you use a sea highway, even a dinghy can outrun them.
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
 -   Glacial Lionfish can spawn in the overworld in extremely rare occasions. If this happens, it's able to use its Cero unlike the normal variant of the Lionfish.
