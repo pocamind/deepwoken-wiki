@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 101889
+revid: 110289
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -73,7 +73,7 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
   
 
 -   Stealth isn't particularly useful unless you depend on it, such as for assassinations or [Tacet](Murmur.md).
-    
+Another issue brought from the community is that people are known to be sometimes aroused near a felinor, causing a higher chance to be kidnapped for being this race. As it isn't common but an known issue to happen to felinors.
 
 **Surnames:**
 
