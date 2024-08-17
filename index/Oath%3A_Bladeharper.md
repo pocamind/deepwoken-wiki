@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110479
+revid: 110492
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -12,7 +12,7 @@ notices:
 
 | Oath: Bladeharper | |
 |---|---|
-| oath_req | Weapon stat min 75 but could be lower (also might be higher instead for hvy/lht)20 or 25 STR (unsure) Other stats unknown |
+| oath_req | 75 MED or 90 HVY/LHT, 25 AGL |
 | effects | +2 Combat Mantra |
 
 “ Your presence here... We both know what it means. If you believe yourself ready, this is where you shall pledge yourself to the Blade. ”
@@ -25,15 +25,15 @@ notices:
 
 ## Obtainment
 
-The Oath is obtained by inspecting one of the many [Sky Statues](Sky_Statue.md) located around the overworld, you are required to have 75(MED)/90(HVY/LHT) Weapon stat and 25 STR/AGL along with a bladed weapon to obtain the oath. After inspecting the statue, you will be teleported to a new server and a location called "The Blade Within" where you will fight a replica of your slot after pledging yourself to the sword statue located in the middle. Defeat the clone to obtain the oath.
+The Oath is obtained by inspecting one of the many [Sky Statues](Sky_Statue.md) located around the overworld, you are required to have 75(MED) or 90(HVY/LHT) Weapon stat, 25 STR and other unknown requirement along with a bladed weapon to obtain the oath. After inspecting the statue, you will be teleported to a new server and a location called "The Blade Within" where you will fight a replica of your slot after pledging yourself to the sword statue located in the middle. Defeat the clone to obtain the oath.
 
 ## Progression
 
-After obtaining the Oath, go to the other statues and click "Seize your Future," where you will fight the replica npc 3 more times. Grip the NPC to progress. Additionally, you will need to fight the NPC 1 more time to open the portal to escape the domain. (Light and Heavy go to another statue and interact with it.)
+After obtaining the Oath, go to the other statues and choose "Seize your Future," where you will fight the replica NPC 3 more times. Grip the NPC to progress. Additionally, you will need to fight the NPC 1 more time to open the portal to escape the domain. (Light and Heavy go to another statue and interact with it.)
 
 ## Effects
 
-_Upon obtaining this oath, two snake breacelets will wrap around your arms._
+_Upon obtaining this oath, two snake bracelets will wrap around your arms._
 
 ## Abilities
 
@@ -65,3 +65,4 @@ _Upon obtaining this oath, two snake breacelets will wrap around your arms._
 ## Trivia
 
 -   The Blade Within statue will change model depending on your equipped weapon.
+-   The visual might be inspired by Minos Prime from Ultrakill
