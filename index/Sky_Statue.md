@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 108101
+revid: 110477
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -23,14 +23,20 @@ Sky Statue located next to Lower Erisia
 
 1.  On top of a mountain next to lower Erisia's sea gate
 2.  Behind Lord Regent's Manor
+3.  On top of songseeker's mountain by the MINITYRSA gate
 
 Sky Statue located in Etris behind Lord Regent's Manor.
 
-  
-Probably used in a quest we do not know about yet, if the quest is found in the future feel free to add it to this page.
+These are relevant to the [Bladeharper oath](Oath%253A_Bladeharper.md).
 
 File:Sky Statue Puzzle Dialogue (Might be edited).png
 
 Sky Statue Puzzle Dialogue (Might be edited)
+
+Sky statue located near songseeker
+
+File:Sky Statue.png
+
+Sky statue to the left of songseeker temple on the map, on the mountain peak.
 
 As stated by TheRealPunchee, a mod for the game, the statues looks towards the [The Floating Keep](The_Floating_Keep.md) from the Hallowtide event

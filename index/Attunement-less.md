@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 109488
+revid: 110469
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -84,7 +84,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>35 ether</td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
+    <li><b><u>Requirements:</u></b> 40 <i><b>Strength,</b></i> <i>Combat Mantra</i>
   <ul>
     <li>Throw a piece of the ground that goes straight in the direction your character (not your camera) is looking at.</li>
     <li>Victims crushed by the rock will be dazed and will be thrown away.</li>

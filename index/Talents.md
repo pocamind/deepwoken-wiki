@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110273
+revid: 110447
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2572,19 +2572,29 @@ _**"I seek the qualities of vocalist."**_
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: Sacrifice 4 players with oaths in [The Entropy Catalyst](The_Entropy_Catalyst.md).
+    -   Prerequisites: Sacrifice 4 players with oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 -   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility)
-    -   Prerequisites: 50 agility and beat [Alirian](Alirian.md) in race.
+    -   Prerequisites: 50 Agility and beat [Alirian](Alirian.md) in race.
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 40 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
+    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +2 Posture)
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 Weapon, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
-    -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
+    -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
+-   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.
+    -   Prerequisites: 75 Intelligence, complete Ciea's quest once.
+-   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them backw here they belong. There are those in this world who should not be free.
+    -   Prerequisites: Combinied total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
+-   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blade as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilties ahead of you into just one. The blade keeps you as much as you keep it.
+    -   Prerequisites: 75 MED OR 100 LHT/HVY (TBD), defeat yourself after interacting with a Sky Statue.
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
+    -   Prerequisites:
+-   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - TBD
+    -   Prerequisites:
 
 ### Miscellaneous
 

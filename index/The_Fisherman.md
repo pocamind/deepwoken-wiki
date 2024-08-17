@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 110300
+revid: 110445
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -58,6 +58,7 @@ The Fisherman executes its opponents after knocking them:
 ## Trivia
 
 -   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime Bleach, this is directly referenced in the concept art for the set.
+    -   Furthermore, the name of the armor set may reference the Hollow [Grand Fisher](https://bleach.fandom.com/wiki/Grand_Fisher) from the same series.
 -   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.
 -   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md).
 -   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md)

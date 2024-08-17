@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 107418
+revid: 110424
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -28,13 +28,9 @@ _\[More information about [races](Aspects.md) can be found on their correspondin
 
 ## Attunements
 
-Upon your first character customization, you can either choose an [Attunement](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras. Choosing the option "Random" will randomely select an Attunement for you out of the four already present ones (this option will not save the selected Attunement on your character slot for your next character).
+Upon your first character customization, you can either choose an [Attunement](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras. Choosing the option "Random" will randomely select an Attunement for you out of the four already present ones (this option will lock you out of the 3 unchosen Attunements until they are either learned or spun from random Attunement picks on future lives, at which point they will be available on all future character slots).
 
-To obtain the [Shadowcast](Shadowcast.md) Attunement, you need to unlock it with a specific [quest](Shadowcast.md#obtainment--training). Once unlocked, it will save on your slot as a permanent progression among all your characters on that account (the same way any other Attunement unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
-
-To obtain the [Ironsing](Ironsing.md) Attunement, you need to unlock it with a specific [quest](Ironsing.md#description). Once unlocked, it will save on your slot as a permanent progression among all your characters on that account (the same way any other Attunement unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
-
-### Starting Attunements
+To obtain the [Shadowcast](Shadowcast.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
 
 Attunement-less
 
@@ -78,7 +74,11 @@ _\[More information about [attunements](Attunements.md) can be found on their co
 
 ## Weapon Classes
 
-When customizing your character, there is a total of three [Weapon Classes](Weapons.md) you can choose from: [Heavy Weapons](Weapons.md#heavy-weapons), _([Battleaxe](Battleaxe.md), [Avenger](Avenger.md))_ [Medium](Weapons.md#medium-weapons), _([Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md))_ and [Light](Weapons.md#light-weapons), _([Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), and [Jus Karita](Jus_Karita.md) if formerly unlocked)_.
+When customizing your character, there is a total of three [Weapon Classes](Weapons.md) you can choose from:
+
+-   **[Heavy Weapons](Weapons.md#heavy-weapons):** _[Battleaxe](Battleaxe.md), [Avenger](Avenger.md)_
+-   **[Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons):** _[Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md)_
+-   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), (Plus [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), and [Jus Karita](Jus_Karita.md) if formerly unlocked)_.
 
 _([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
 
@@ -130,14 +130,14 @@ Legion Kata 
 
   
 
--   _Learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
--   _Using 25 [Echoes](Echoes.md)_ _(each)_ _unlocks the four new starting weapons shown above._
+-   _Learning the [Way of Navae](Way_of_Navae.md), [Jus Karita](Jus_Karita.md), and [Legion Kata](Legion_Kata.md) fighting styles on a character will unlock that combat style as an option on all slot, and for the next characters._
+-   _Using 25 [Echoes](Echoes.md)_ _(each, 100 total)_ _unlocks the four new starting weapons shown above._
 
 ## Boons and Flaws
 
 [Boons and Flaws](Boons_and_Flaws.md) are character modifiers that you pick upon character customization which can't be changed during your progression unlike some other features (you may select new Boons and new Flaws each time you make a new character). These modifiers give you benefits and detriments that will affect your gameplay and your quality of life.
 
-You are required to have at least one Boon and one Flaw to create your character. Each Flaw gives you one point that you can invest in a Boon, with some exceptions (the Flaw "Simple" gives two Boon points).
+At minimum, you must have one Boon, and one Flaw to make a character, and at maximum you can have 2 each, each Boon and Flaw gives you 1 point with the exception of the "Simple" Flaw that gives 2 points.
 
 ## Origins
 
@@ -158,7 +158,7 @@ Here is what makes Etris unique:
 -   You can do the Lord Regent's Quest in order to get the [Manor Key](Manor_Key.md) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
 -   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the Etris blacksmith.
 -   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.
--   [Calabash](Calabash.md).
+-   [Calabash](Calabash.md), a [food](Food.md) item that replenishes a lot of thirst, and can be used to craft a [Canteen](Canteen.md) can be found here.
 
 ### Isle of Vigils
 
