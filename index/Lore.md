@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 110311
+revid: 110497
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -164,49 +164,50 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
 -   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
--   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: Ganymede, Vesperian or Tiran.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
--   Is or was a very prestigious Black Diver, having the respect of most of the Divers, however his actual relation to The Divers is unknown.
+-   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) Currently, it is believed that he is a [Tiran](Tiran.md) from the [West Luminant](Luminants.md).
+-   Is or was a very prestigious Black Diver, having the respect of most of the [Divers](The_Divers.md), however his actual relation to The [Divers](The_Divers.md) is unknown.
 -   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
--   Apparently, he also writes books, with the only known one being "Flame and the failure of man."
+-   Apparently, he also writes books, with the only known one being "Flame and the failure of man", which [Ploom](Ploom.md) was reading.
 -   Has maintained his sanity despite living in the Third Layer for so long.[\[1\]](#cite-note-rag-1)
     -   A 'chill guy.'[\[1\]](#cite-note-rag-1)
 -   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[4\]](#cite-note-firstlight-4)
 -   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast were discovered.
+-   He is referenced in many mantras and items, [Flame Within](Flamecharm.md#talents) is an example.
 
 ### Chaser, Scholar of the Burning Blood
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
--   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The [Ministry](The_Ministry.md), under the orders of the Second Prophet.
+-   For unknown reasons, he joined The [Divers](The_Divers.md), receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
--   He later betrayed them and joined The Ministry following his graduation.[\[1\]](#cite-note-rag-1)
--   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
+-   He later betrayed them and joined The [Ministry](The_Ministry.md) following his graduation.[\[1\]](#cite-note-rag-1)
+-   He made a deal with the [Kyrsgarde](Kyrsgarde.md). The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethironal Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly Diver Apprentices so they couldn't cause any trouble for him.
--   He killed two more expeditions after this, and may have killed even more, such as Ignition Union members.
+-   He killed two more expeditions after this, and may have killed even more, such as [Ignition Union](The_Ignition_Union.md) members.
     -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
--   Though he is an Adret, he has a never before seen facial markings for the race.
+-   Though he is an [Adret](Adret.md), he has a never before seen facial markings for the race.
 -   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.[\[1\]](#cite-note-rag-1)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
--   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
--   Despite not using them in the fight against him, he uses a pair of Kamas designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
+-   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+-   Despite not using them in the fight against him, he uses a pair of [Flareblood](Flareblood_Kamas.md) [Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
 
 ### Colonel Hoffa
 
 -   (ragoozer) Powerful Ignition Union Deepdelver.[\[1\]](#cite-note-rag-1)
--   On par with Akira.[\[1\]](#cite-note-rag-1)
--   Possibly an Arcwarder.
+-   On par with Akira.[\[1\]](#cite-note-rag-1) Maybe [The Ignition Union](The_Ignition_Union.md)'s equivalent to [Akira](Akira.md)?
+-   Possibly an [Arcwarder](Oath%253A_Arcwarder.md).
 
 ### Venn Kaelhand
 
--   Deceased disciple of Amorus Pleeksty.[\[4\]](#cite-note-firstlight-4)
--   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon.[\[4\]](#cite-note-firstlight-4)
--   Original user of the First Light.[\[4\]](#cite-note-firstlight-4)
+-   Deceased disciple of [Amorus Pleeksty](Amorus_Pleeksty.md).[\[4\]](#cite-note-firstlight-4)
+-   Most probably a user of [Flamecharm](Flamecharm.md) who was able to mix [Flamecharm](Flamecharm.md) with this weapon.[\[4\]](#cite-note-firstlight-4)
+-   Original user of the [First Light](First_Light.md).[\[4\]](#cite-note-firstlight-4)
 -   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed that it lead to his death.[\[4\]](#cite-note-firstlight-4)
--   Probably not very strong despite being a disciple of Amorus Pleeksty, due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[4\]](#cite-note-firstlight-4)
+-   Probably not very strong despite being a disciple of [Amorus Pleeksty,](Amorus_Pleeksty.md) due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[4\]](#cite-note-firstlight-4)
     -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.[\[4\]](#cite-note-firstlight-4)
 
 ### Dr. Carrion, Father of Evolution
@@ -221,7 +222,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
 -   He is known to the Divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
--   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems.
+-   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems, and also being seemingly immune to [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) mist that brainwashed the [Kyrsgarde](Kyrsgarde.md), as well as [New Kyrsa's](Second_Layer/New_Kyrsa.md) time dilation.
 -   He uses a unique weapon called the "Moonseye Scalpel."
 
 ### Deukalion Akarad, the First Black Diver
@@ -253,7 +254,7 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend]
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
 -   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
--   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
+-   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned [Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) over a disagreement, with [Orlandeau](<Cap'n_Orlandeau.md>) noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
 ### The Meat Lord
@@ -265,7 +266,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
 -   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
--   ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
+-   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
         1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
         2.  He has the power to kill anything he pleases, yet chooses to do what he enjoys instead of displaying his strength as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
@@ -284,13 +285,13 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   One of the few people that knows the true intentions and identity of the Lord Regent while not being aligned with the Ministry.
 -   Very probably is under the direct command of Drallis Ehr.
 -   Presumably an Adret or Canor.
--   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in Fort Merit or anywhere else in the Eastern Luminant, yet is directing the war as he gave Sibex orders recently.
+-   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in [Fort](Fort_Merit.md) [Merit](Fort_Merit.md) or anywhere else in the Eastern Luminant, yet is directing the war as he gave [Sibex](Sibex.md) orders recently.
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
--   He is currently hunting and trying to destroy the Ministry and Contractors.
--   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
+-   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
+-   Writer of Journals, one of his journals can be found in the [Tomb](Tomb_of_the_Nameless_Warrior.md) [of](Tomb_of_the_Nameless_Warrior.md) [the](Tomb_of_the_Nameless_Warrior.md) [Nameless](Tomb_of_the_Nameless_Warrior.md) [Warrior](Tomb_of_the_Nameless_Warrior.md) in [Erisia](Erisia.md), also possibly leading that [Jericho](Warden_Jericho.md) was in [Erisia](Erisia.md) not so long ago
 -   Possibly he is attunement-less, but has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
--   Genuinely believes in The Central Authority as a force of peace.
--   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the Eastern Interstital Lighthouse being closed due to Viqh's reluctance to open it, being able to capture Fort Merit with his forces.
+-   Genuinely believes in [The](The_Central_Authority.md) [Central](The_Central_Authority.md) [Authority](The_Central_Authority.md) as a force of peace.
+-   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the [Eastern](Eastern_Interstitial_Lighthouse.md) [Interstital](Eastern_Interstitial_Lighthouse.md) [Lighthouse](Eastern_Interstitial_Lighthouse.md) being closed due to Viqh's reluctance to open it, being able to capture [Fort](Fort_Merit.md) [Merit](Fort_Merit.md) with his forces.
 -   Possible member of the Circle of Honor.
 
 ### Gunsmith Rosen
@@ -303,20 +304,20 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
--   It is theorized that Gunsmith Rosen was either the founding father or the creator of Summer Company which is a faction that consists of Gunsmiths and anything related to guns.
+-   It is theorized that Gunsmith Rosen was either the founding father or the creator of [Summer](The_Summer_Company.md) [Company](The_Summer_Company.md) which is a faction that consists of Gunsmiths and anything related to guns.
     -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[6\]](#cite-note-stormseye-6)
--   He is a Vesperian.[\[2\]](#cite-note-arch-2)
--   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
+-   He is a [Vesperian](Vesperian.md).[\[2\]](#cite-note-arch-2)
+-   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the [Authority](The_Central_Authority.md).
     -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.[\[2\]](#cite-note-arch-2)
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
 ### The Dreadstar
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
--   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
+-   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
--   Despite cutting all relations with the Song, a silentheart is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
+-   Despite cutting all relations with the Song, a [silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.
@@ -326,14 +327,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
 -   Previous king of Constellia.
--   Apparently he fought against the Kyrsgarde alongside the Celestials and other Lightborn, but stopped fighting when the Celestials fled, resulting in his capture and imprisonment in New Kyrsa.
--   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborn's as clueless and arrogant as them.
--   Apparently he despises the Celestials, stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
+-   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New](Second_Layer/New_Kyrsa.md) [Kyrsa](Second_Layer/New_Kyrsa.md).
+-   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
+-   Apparently he despises the [Celestials](Celestial.md), stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
 -   Kaide has great knowledge of the Song as he knows how the Song manifests through humans and throughout New Kyrsa.
 
 ### Mother Ku
 
--   A religious figure worshipped by some Capra.
+-   A religious figure worshipped by some [Capra](Capra.md).
 -   Perhaps granted the ability to the Capra who worshipped her to aid people in their wounds. (Capra race ability for Ku variant)
 -   The Derelict Highchurch was a church where Ku was worshipped, but eventually both the Songseekers and Starkindred took over the church kicking out Ezra, the pastor in charge of the church, and forcing him to flee to a small tower nearby.
 -   It is unknown if they are related to Jurik and Nemit, the other beings that are worshipped by the Capra.
@@ -348,9 +349,9 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Religious figure and Celestial.
 -   Worshipped by the Navaen Nomads.
--   Pioneer of Frostdraw.
+-   Pioneer of [Frostdraw](Frostdraw.md).
 -   Possibly a more eldritch being.[\[2\]](#cite-note-arch-2)
--   Exists on an island moving through the world, independent of the Voidsea.
+-   Exists on an island moving through the world, independent of the [Voidsea](Voidsea.md).
 -   She was rescued by a nomad who nursed her back to health after descending from Constellia, making a Hereditary Vow with her which resulted in the nomads offspring receiving Navae's guidance.
 
 ### Yun'shul

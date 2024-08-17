@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 98547
+revid: 110502
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Vendors]
@@ -27,11 +27,18 @@ To get to the Den Master, you have to go to the Etris Docks and hug the right wa
 
 -   The Den Master sells Crystal Lens (Further mantra projectile range), Drift Shards (Faster mantra projectile speed), Cloudstones (Larger mantra size), Eternal Logstones (Extended mantra duration), and Amnesic Driftwood (Removes mantra modifiers).
 -   Great for getting Mantra Modifiers without killing mobs for them (Bandits, Megalodaunts, Rock Golems, etc.)
--   It is unknown whether or not his den was made to be hidden on purpose or not, and why.  
-    
+
+It is unknown whether or not his den was made to be hidden on purpose or not, and why.  
+theres another Den Master named "Cave Master" in Isle of vigils behind the house where you buy the mantra training tools and armors
+
+-   **Cave Master sells more kinds of modifiers than Den Master**
 
 File:Den master.png
 
 The Den Master’s inside.
 
 The Location of the den
+
+File:Vigils cave.pnginside
+
+File:Vigils house.png Outside of the cave

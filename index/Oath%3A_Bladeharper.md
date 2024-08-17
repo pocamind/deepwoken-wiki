@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110492
+revid: 110519
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -25,7 +25,9 @@ notices:
 
 ## Obtainment
 
-The Oath is obtained by inspecting one of the many [Sky Statues](Sky_Statue.md) located around the overworld, you are required to have 75(MED) or 90(HVY/LHT) Weapon stat, 25 STR and other unknown requirement along with a bladed weapon to obtain the oath. After inspecting the statue, you will be teleported to a new server and a location called "The Blade Within" where you will fight a replica of your slot after pledging yourself to the sword statue located in the middle. Defeat the clone to obtain the oath.
+The Oath is obtained by inspecting one of the many [Sky Statues](Sky_Statue.md) located around the overworld, you are required to have 75(MED) or 90(HVY/LHT) Weapon stat, 25 AGL and a bladed weapon to obtain the oath. After inspecting the statue, you will be teleported to a new server and a location called "The Blade Within" where you will fight a replica of your slot after pledging yourself to the sword statue located in the middle. Defeat the clone to obtain the oath.
+
+Template:Areainfobox
 
 ## Progression
 
@@ -65,4 +67,5 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 ## Trivia
 
 -   The Blade Within statue will change model depending on your equipped weapon.
--   The visual might be inspired by Minos Prime from Ultrakill
+-   The visual might be inspired by Minos Prime from Ultrakill.
+-   Even though the moves from the oath (Decimate) require your weapon to be a balde (not blunt), it seems like Imperial Staff works just fine. This is probably due to Imperial Staff technically being a spear.

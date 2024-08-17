@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 106568
+revid: 110514
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, Lost Celtor]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-A once great kingdom ruling over the [Southern Luminant](Luminants.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital.
+A once great kingdom ruling over the [Southern Luminant](Luminants.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital. Their once great capital city, now [The City of the Drowned](The_City_of_the_Drowned.md), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](The_Ministry.md) was responsible for, as an offering to Yun’Shul.
 
 ## Reputation
 
@@ -32,4 +32,5 @@ Their dialogue does not change with reputation.
 -   The Guards seem to either be unable to talk or are harmed when you talk to them. Their dialogue says that "It sounds as if they are trying to talk through a punctured lung"
     -   Despite this they can still have random conversations with each other like any random mob
 -   If you have Hunted reputation, Angels will spawn around certain places for you even if you were not seen by a Watcher.\[citation needed\]
+-   This was formerly the residence of [Duke Erisia](Duke_Ishamon_Erisia.md), before it sunk to [The Depths](The_Depths.md).
 -   They used to attack [Angels](Hollow_Angel.md) on sight, but this was changed in the 10/6/23 update.

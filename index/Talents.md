@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110447
+revid: 110517
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1636,7 +1636,7 @@ _**"I seek the qualities of Lichtenberg."**_
         -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
-    -   Prerequisites: Fists, 20 Fortitude, 20 LHT
+    -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
     -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
     -   The Cooldown is 1 minute and 10 seconds.
     -   This Talent also works with [Jus Karita](Jus_Karita.md)
@@ -2525,11 +2525,7 @@ _**"I seek the qualities of vocalist."**_
     -   Prerequisite: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: Unbound Element or Weapon.
-
--   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
-    -   Grants you the ability to equip an offhand while one-handing
-    -   Prerequisite: 40 Heavy Weapon
+    -   Prerequisite: Unbound Element or Weapon
 
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
