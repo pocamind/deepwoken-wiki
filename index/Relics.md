@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 110023
+revid: 110364
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -19,7 +19,7 @@ Relics that can be obtained & used by players.
 | Image | Description | Obtainment |
 | --- | --- | --- |
 | 
- | **[Rain Spire](Rain_Spire.md)** - A reusable Relic that summons [Rain](Environmental_Hazards.md) for 5 minutes within a massive radius of the Relic.
+ | **[Rain Spire](Rain_Spire.md)** - A reusable Relic that summons [Rain](Environmental_Hazards.md) and [Fishing Spots](Fishing.md) for 5 minutes within a massive radius of the Relic.
 
   
 Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Environmental_Hazards.md) (depending on the area)
@@ -151,6 +151,17 @@ It grants the user +30 knowledge on subsequent uses.
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   5\* VoidWalker Chests
+
+ |
+| 
+
+ | [Gilded Needle](Gilded_Needle.md) - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations)
+
+-   (_Consumed upon usage)_
+
+ | 
+
+-   Crafting
 
  |
 | 

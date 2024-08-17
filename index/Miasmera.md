@@ -1,6 +1,6 @@
 ---
 title: Miasmera
-revid: 83987
+revid: 110336
 source: https://deepwoken.fandom.com/wiki/Miasmera
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -16,9 +16,10 @@ Template:Creature Infobox V3
 
 Miasmera were a Monster designed for Deepwoken that were scrapped.
 
-They were bipedal jellyfish-like entities with a gaping maw on their dome. Suspended above it was a small crystal like structure.
+They were bipedal jellyfish-like entities with a gaping maw on their dome. Suspended above it was a small crystal like structure, much like the [Chick](Chick.md).
 
 ## Trivia
 
--   Their appearance is very similar to that of the [Kyrsgarde](Kyrsgarde.md).
+-   Their appearance is very similar to that of the [Kyrsgarde](Kyrsgarde.md), especially in the way they stand.
+-   It can be inferred that there was some kind of crystal theme in the original concept art, which is also present in the [Chick](Chick.md). This seems to be a precursor to the [Kyrsgarde](Kyrsgarde.md).
 -   It's design was a product of developer Arch\_Mage trying to figure out how to make things look "otherworldly and weird."

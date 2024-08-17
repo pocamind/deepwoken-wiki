@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 108572
+revid: 110386
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Fadetrimmer** is one of the 13 obtainable Oaths in _Deepwoken._ It's a utility oath that grants you the abilities of a [barber](Barber.md).
+**[Oath](Oaths.md): Fadetrimmer** is one of the 14 obtainable Oaths in _Deepwoken._ It's a utility oath that grants you the abilities of a [barber](Barber.md).
 
 ## Obtainment
 

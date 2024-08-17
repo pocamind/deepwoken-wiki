@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 109545
+revid: 110337
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -14,7 +14,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | requirements | 60 WLP, 35 LHT & Fist Style |
 | damage | 12 |
 | scaling | 10 WLL 4 LHT |
-| range | 7 |
+| range | 6.5 |
 | swing speed | 1.1x |
 | penetration | 10% |
 | stances | 1 Handed |

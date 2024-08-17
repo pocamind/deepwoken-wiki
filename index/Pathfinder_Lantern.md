@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 110228
+revid: 110324
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -11,6 +11,8 @@ categories: [Equipment, Torso]
 | Pathfinder Lantern | |
 |---|---|
 | type | Torso |
+| rarity | Common |
+| selling price | 7 |
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +10 Sanity |

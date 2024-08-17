@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 110274
+revid: 110331
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -240,7 +240,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>On proc, deal 75% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
+  <td><div><p>On proc, deal 85% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.<br>
   <i>Note: This only means the damage is distributed in an area. Does not cause the weapon to deal more damage than usual.</i></p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>

@@ -1,6 +1,6 @@
 ---
 title: Salamander
-revid: 92818
+revid: 110335
 source: https://deepwoken.fandom.com/wiki/Salamander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -17,3 +17,5 @@ Template:Creature Infobox V3
 The Salamanders were [Monsters](Monsters.md) created early in Deepwoken's development that were scrapped.
 
 They were ultimately never rigged or animated, and it was later decided that they didn't fit in the game anymore.
+
+The body of the Salamander resembles the shape of a [Thresher](Thresher.md), so it's possible they may have been scrapped in favour of the [Thresher](Thresher.md). However, as it goes with much of the cut content, we will likely never know why it was removed.

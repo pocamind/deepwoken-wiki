@@ -1,6 +1,6 @@
 ---
 title: Enforcer Boots
-revid: 107572
+revid: 110323
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -11,10 +11,11 @@ categories: [Equipment, Legs, Boots]
 | Enforcer Boots | |
 |---|---|
 | type | Legs |
-| rarity | ??? |
+| rarity | Common |
+| selling price | 7 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | ??? |
+| innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 110062
+revid: 110390
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -253,6 +253,7 @@ Some players have access to customized, unique names.
 -   Guadalupe
 -   Gunther
 -   Hal
+-   Halflight
 -   Hank
 -   Hans
 -   Harlequin
@@ -1711,6 +1712,7 @@ Some players have access to customized, unique names.
 ## Trivia
 
 -   The name Adolin seems to be removed due to the similarity with the name Adolf
+-   The name Halflight is a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.

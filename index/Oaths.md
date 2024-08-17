@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 110202
+revid: 110389
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -25,6 +25,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 ### Obtainable Oaths
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
+-   [Bladeharper](Oath%253A_Bladeharper.md): +2 Combat Mantra \[???\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower, Suffer from Blindness & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
 -   [Chainwarden](Oath%253A_Chainwarden.md): +1 Wildcard Mantra, +1 Combat Mantra \[Strength, Fortitude or Willpower can add to a total of 40 \]
@@ -37,6 +38,8 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Mantra Resistance, +10 HP, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
+
+  
 
 ### Upcoming Oaths
 
@@ -57,6 +60,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
+-   [Bladeharper](Oath%253A_Bladeharper.md):
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative rep with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).

@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 110137
+revid: 110332
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Developer Spec, Exclusive]
@@ -33,3 +33,5 @@ notices:
 ## Description
 
 The **Quartzstone Scythe** an exclusive weapon given to certain members of the **Order of the Unsung** guild. It has two unique criticals, not much else is known besides it most of it's stats.
+
+It may be related to the [Drakkard](Drakkard.md) race and the [Edenkite](Edenkite.md) because of the description and that it resembles something like the [Tears of the Edenkite](Enchantments.md) enchantment.

@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 110271
+revid: 110334
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union]
@@ -13,7 +13,7 @@ categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Igni
 | type | Greathammer |
 | requirements | 55 HVY, 20 STR, 80 LTN |
 | damage | 25 |
-| scaling | 4.2 HVY, 5 LTN |
+| scaling | 4.2 HVY, 7 LTN |
 | range | 8.5 |
 | swing speed | 0.87x |
 | endlag | 0.15s |
@@ -31,7 +31,7 @@ categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Igni
 
 ## Description
 
-The **Boltcrusher** is a Legendary [Thundercall](Thundercall.md) Greathammer that scales off of and requires investment in both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats.
+The **Boltcrusher** is a Legendary [Thundercall](Thundercall.md) [Greathammer](Weapons.md) that scales off of and requires investment in both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats.
 
 The cutting-edge of [Ignition Union](The_Ignition_Union.md) technology, the Boltcrusher was devised by [Ignition Deepdelvers](Ignition_Deepdelver.md) in order to assist in [Depths](The_Depths.md) resource extraction and the elimination of "those who can't hold up their end of the deal".
 
