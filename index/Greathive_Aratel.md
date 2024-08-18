@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 109213
+revid: 110550
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -143,6 +143,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 -   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement (taking damage), though, so he suggests taking the safest route.
 -   If you come back to Suri after completing this quest, you get a Vibrant Gem.
+-   A reference to a quest in [Hollow](https://en.m.wikipedia.org/wiki/Hollow_Knight) [Knight](https://en.m.wikipedia.org/wiki/Hollow_Knight) with the same premise.
 
 ### Blooming Souls Quest (Soul Flower Quest)
 

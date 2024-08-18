@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110535
+revid: 110551
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -25,7 +25,7 @@ notices:
 
 ## Obtainment
 
-1.  The oath requires a total of 90 Medium Weapon points, **or** a total of 90 cumulative points allocated throughout any Weapon stats, alongside 25 AGL or STR. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the oath quest.
+1.  The oath requires a total of 75 Medium Weapon points, **or** a total of 90 cumulative points allocated throughout any Weapon stats, alongside 25 AGL or STR. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the oath quest.
 2.  Interact with one of the numerous Sky Statues located throughout both Luminants. Doing so will teleport you to a new server where a fight with an NPC will commence.
 3.  Upon executing the NPC, the Oath will be granted to the player.
 
@@ -53,6 +53,7 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 -   **Untouchable - Passive**
     -   By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.
         -   Upon proccing Untouchable, enter the True Strength state where your critical, air attack, and oath mantras is empowered.
+        -   To proc the talent you must land 5 hits with any weapon, meaning m1s or criticals. Multi-hit criticals like the [Curved Blade of Winds](Curved_Blade_of_Winds.md) 1H crit or the [Trident Spear](Trident_Spear.md) critical will proc the talent upon 5 hits of the critical landing.
             
 -   **Reveal - Utility**
     -   Pour your heart out, and reveal your true strength.

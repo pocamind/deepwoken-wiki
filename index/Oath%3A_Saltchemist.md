@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 110527
+revid: 110553
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -15,7 +15,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 14 obtainable Oaths in _Deepwoken._ It's a highly customizable utility Oath based around [Alchemy](Alchemy.md). Where it's benefits and applications vary greatly on the potions in your arsenal, allowing for various buffs to yourself and debuffs to your enemies. It is the _only_ Oath that requires intelligence. Except [Contractor](Oath%253A_Contractor.md) on release. [Contractor](Oath%253A_Contractor.md) had an [intelligence](Attributes.md#int) requirement when it came out, but the requirement was removed shortly after.
+**[Oath](Oaths.md): Saltchemist** is one of the 14 obtainable Oaths in _Deepwoken._ It's a highly customizable utility Oath based around [Alchemy](Alchemy.md). Where it's benefits and applications vary greatly on the potions in your arsenal, allowing for various buffs to yourself and debuffs to your enemies. It is the _only_ Oath that requires intelligence.
 
 ## Obtainment
 
@@ -83,6 +83,6 @@ The tower is located next to Ferrymans ritual.
 ## Trivia
 
 -   Saltchemist is the second Oath to have no Mantras (after [Silentheart](Oath%253A_Silentheart.md)). It's also the second Oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and is currently the only Oath for which _both_ are true simultaneously.
--   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath, before losing its INT requirement and scaling.
+-   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath upon its release, before losing its INT requirement and scaling.
 -   The idea of an Alchemist Oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an Oath.
 -   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 100895
+revid: 110548
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,14 +18,13 @@ Template:Races-Main
 
 ## Description
 
--   The People of the Stars, so to speak. They are not to be confused with [Lightborns](Lightborn.md), their descendants.
--   Celestials evacuated to the Luminants from the stars when the [Canticlysm](The_Canticlysm.md) descended upon the Old World due to the invasion of their city, Constellia, by the Kyrsgarde under Ethiron's will.
--   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
--   The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials.
--   Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features.
+The People of the Stars, so to speak. They are not to be confused with [Lightborns](Lightborn.md), their descendants. Celestials evacuated to the Luminants from the stars when the [Canticlysm](The_Canticlysm.md) descended upon the Old World due to the invasion of their city, Constellia, by the [Kyrsgarde](Kyrsgarde.md) under [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) will. Known Celestials include Navae and Alsin, who have become religious figures in modern times. The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. It has been said that they resemble both eldritch beings and humans.[\[1\]](#cite-note-0-1)
 
 ## Trivia
 
 -   Celestials are referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
 -   The crucified celestial may be a reference to Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
 -   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of deepwoken.
+-   Ragoozer has stated that the Celestials resemble both eldritch beings AND normal human beings. [\[1\]](#cite-note-0-1)
+
+1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) Dev Ragoozer \[\[https://discord.com/channels/920707638034067486/972707935484538911/1221849708528402553\]\]

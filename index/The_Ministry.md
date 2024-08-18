@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 106567
+revid: 110544
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
@@ -24,6 +24,8 @@ notices:
 The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to achieve Godhood. They are led by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who gifted Chaser his hemokinetic abilities and the Fourth Prophet being the current Lord Regent of Etrea. They have some sort of hostility against the Children of Navae, and desire to clear them out of [Summer Isle](Summer_Isle.md), presumably due to the Children of Navae's allegiance with a [Celestial](Celestial.md), Navae, while the Ministry seeks the favor of the Drowned Gods.
 
 Many years ago, they conquered Minityrsa and made it their own territory. After the King of Etrea disappeared, which they may well have had a hand in, they installed the Fourth Prophet as its Lord Regent.
+
+They are responsible for the drowning of [Celtor](Lost_Celtor.md), also known as the Great Drowning. The city was drowned as an offering to Yun’Shul, which may not be the last time they cause a drowning.
 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 
@@ -58,4 +60,5 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 ## Trivia
 
--   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   Yun’Shul refers to **The Ministry** as "godseekers". The word "godseeker" is also used by [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), which leads us to believe that it is how Drowned Gods see us mortals; godseekers, those seeking to become infinitely powerful
