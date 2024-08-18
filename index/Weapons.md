@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 110207
+revid: 110536
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -409,7 +409,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
   <td>60 WLL, 35 LHT</td>
   <td>12</td>
-  <td>5%</td>
+  <td>10%</td>
   <td>N/A</td>
   <td>WLL: 10 LHT: 4</td>
   <td>5</td>
@@ -920,7 +920,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>MED: 6</font></td>
   <td>4</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.97x</td>
   <td>35.8</td>
 </tr>
 <tr>
