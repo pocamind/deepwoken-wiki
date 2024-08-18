@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 109061
+revid: 110560
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Deepwoken]
@@ -232,3 +232,4 @@ Please add miscellaneous islands or named landmarks here
 
 -   At one point you didn't need to teleport/load into the Aratel sea and could just sail to it just like any other island.
     -   This was prior to Verse 2, in which separation of the Luminants to Etrean and Eastern didn't exist.
+-   The Depths is a force that surrounds the entire world, with the Voidsea and Voidfog layers preventing further travel. With that, Lumen seems to be inspiried by the _Gnostic firmament_ in Early Herbrew mythology.

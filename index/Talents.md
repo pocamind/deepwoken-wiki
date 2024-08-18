@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110540
+revid: 110561
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2586,7 +2586,7 @@ _**"I seek the qualities of vocalist."**_
 -   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them backw here they belong. There are those in this world who should not be free.
     -   Prerequisites: Combinied total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 -   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blade as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilties ahead of you into just one. The blade keeps you as much as you keep it.
-    -   Prerequisites: 75 MED OR 100 LHT/HVY (TBD), defeat yourself after interacting with a Sky Statue.
+    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a Sky Statue.
 -   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
     -   Prerequisites:
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - TBD

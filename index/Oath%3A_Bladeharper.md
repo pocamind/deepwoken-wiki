@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110551
+revid: 110555
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -26,12 +26,12 @@ notices:
 ## Obtainment
 
 1.  The oath requires a total of 75 Medium Weapon points, **or** a total of 90 cumulative points allocated throughout any Weapon stats, alongside 25 AGL or STR. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the oath quest.
-2.  Interact with one of the numerous Sky Statues located throughout both Luminants. Doing so will teleport you to a new server where a fight with an NPC will commence.
+2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. Doing so will teleport you to a new server where a fight with an NPC will commence.
 3.  Upon executing the NPC, the Oath will be granted to the player.
 
 ## Progression
 
-The oath can be progressed through interaction with the different other Sky Statues and defeating the NPC again with each, up to three times, granting the player up to 2 mantras and corresponding talents.
+The oath can be progressed through interaction with the different other [Sky Statues](Sky_Statue.md) and defeating the NPC again with each, up to three times, granting the player up to 2 mantras and corresponding talents.
 
 ## Effects
 
