@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 108585
+revid: 110568
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -34,12 +34,16 @@ In order to reroll your bell icon with the barber you must pay 1 knowledge
 3.  Restore me to my natural hair. (Changes hairstyle to the one your avatar is currently wearing.)
 4.  Change my eyelashes. (Changes your eyelashes as said.)
 5.  Change my gender representation. (Changes gender to male, female, or neutral.)
-6.  Change my face. (Changes face decal.)
-7.  Change my variant. (Changes racial variant.)
-8.  Change my skin tone. (Changes skin tone.)
-9.  Change my name. \[100 Notes\] (Changes name for 100 [Notes](Notes.md))
-10.  Could you alter the shape of my Resonance? \[1 Knowledge\] (You can change and pick the shape of your resonance for 1 [Knowledge](Knowledge.md))
-11.  How are you able to do all of this stuff?
+6.  Change my face markings. (Changes face decal.)
+7.  Change my race ornament. (Changes racial ornament if have)
+8.  Change my body shape. (Changes body shape)
+9.  Could you remove some of my dyes? (You can pick the dye you want to remove)
+10.  Change my face (Changes your face emote)
+11.  Change my variant. (Changes racial variant.)
+12.  Change my skin tone. (Changes skin tone.)
+13.  Change my name. \[100 Notes\] (Changes name for 100 [Notes](Notes.md))
+14.  Could you alter the shape of my Resonance? \[1 Knowledge\] (You can change and pick the shape of your resonance for 1 [Knowledge](Knowledge.md))
+15.  How are you able to do all of this stuff?
 
 1 - "All Done! It looks great!" / "Uhh... You gonna ask for anything?" (Canceling/not putting hair ID)
 

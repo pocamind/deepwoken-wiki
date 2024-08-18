@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 110497
+revid: 110573
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -165,7 +165,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
 -   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
 -   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) Currently, it is believed that he is a [Tiran](Tiran.md) from the [West Luminant](Luminants.md).
--   Is or was a very prestigious Black Diver, having the respect of most of the [Divers](The_Divers.md), however his actual relation to The [Divers](The_Divers.md) is unknown.
+-   Is or was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
 -   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
@@ -181,9 +181,9 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 _"Oh, a human? Far from home are we?" -Chaser._
 
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The [Ministry](The_Ministry.md), under the orders of the Second Prophet.
--   For unknown reasons, he joined The [Divers](The_Divers.md), receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
+-   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
--   He later betrayed them and joined The [Ministry](The_Ministry.md) following his graduation.[\[1\]](#cite-note-rag-1)
+-   He later betrayed them and joined [The Ministry](The_Ministry.md) following his graduation.[\[1\]](#cite-note-rag-1)
 -   He made a deal with the [Kyrsgarde](Kyrsgarde.md). The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethironal Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly Diver Apprentices so they couldn't cause any trouble for him.
 -   He killed two more expeditions after this, and may have killed even more, such as [Ignition Union](The_Ignition_Union.md) members.
@@ -193,7 +193,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.[\[1\]](#cite-note-rag-1)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
 -   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
--   Despite not using them in the fight against him, he uses a pair of [Flareblood](Flareblood_Kamas.md) [Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
+-   Despite not using them in the fight against him, he uses a pair of [Flareblood Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
 
 ### Colonel Hoffa
 

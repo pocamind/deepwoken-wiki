@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 110101
+revid: 110578
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,13 +14,13 @@ _Thundercall icon_
 
 _A Thundercall infused sword_
 
-The Attunement "Thundercall" grants the user the ability to control, conjure and create thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
+**Thundercall** is an [Attunement](Attunements.md) which grants the user the ability to control, conjure and create thunder and electricity, giving them access to abilities which focus on combat, stunning, and movement.
 
 Thundercall makes use of a highly unpredictable nature due to its speed and high slow/stun potential.
 
 ## Training
 
-Thundercall can be trained by using a combination of the Self-Conducting Loop and Thundercall Mantras.
+Thundercall can be trained by using a combination of the [Self-Conducting Loop](https://deepwoken.fandom.com/wiki/Training_Items#Attunement_Training) and Thundercall [Mantras](Mantras.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercall mantras.
 -   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent. This finally allows Thundercall users to unlock the last category, 3-star Mantras.
 
-The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) from [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) on the second floor of the castle by using two [Spark Glands](Spark_Gland.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) from [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) on the second floor of the [castle](https://deepwoken.fandom.com/wiki/Summer_Isle#The_Castle) by using two [Spark Glands](Spark_Gland.md), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
 -   To upgrade a Thundercall Mantra from level 1 to level 2 costs.
 -   To upgrade a Thundercall Mantra from level 2 to level 3 costs.

@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 107377
+revid: 110572
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -82,6 +82,12 @@ The pickaxe at [Greathive Aratel](Greathive_Aratel.md) is located on a table nex
 **City of the Drowned:**
 
 The pickaxe in the [First Layer](First_Layer.md) is located on a table in the [Nautilodaunt](Nautilodaunt.md)'s marketplace.
+
+-   Costs.
+
+**Castle Light:**
+
+This pickaxe in the [First Layer](First_Layer.md) is located on a barrel in the front of the castle.
 
 -   Costs.
 
