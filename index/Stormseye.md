@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 110297
+revid: 110620
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -13,12 +13,9 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | type | Rifle |
 | requirements | 40 Medium, 75 Thunder |
 | damage | 19.5 |
-| scaling | 3 Medium, 6 Thunder |
+| scaling | 3 MED, 6 LTN |
 | range | 8 |
 | swing speed | 1x |
-| endlag | N/A |
-| penetration | N/A |
-| chip damage | N/A |
 | special effect | On flourish, fire a shockwave that stuns and pushes opponents back.Applies Thundercall Talents. Aerial attacks will teleport you to the enemy. |
 | stances | 2 Handed |
 | weight | 5 |
@@ -27,7 +24,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Ferryman, Primadon, Fury Nautilodaunt, Fishing (Chest), The Diluvian Mechanism |
-| description | Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
+| description | "Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval." |
 
 ## Description
 

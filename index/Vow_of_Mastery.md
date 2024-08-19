@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 107269
+revid: 110631
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -98,6 +98,5 @@ _Has a range limit. (Roughly a bit before till the player's name can't be seen a
     -   Similarly using the say command to force your vow to use a roblox chat command will make them say it, but not use it, for example: "\[Name\] say /e dance" will make the subject say "/e dance" but they won't start dancing.
 
 -   The leech command will always drain the subject of all their ether, no matter if the master has 40%, 50%, 60% or even 99% ether.
--   Quite possibly a reference to Cursed Speech from the hit anime "Jujutsu Kaisen"
 
 -   _If a Vow Master (A) has a Vow on another Vow Master (B), (A) can use their commands on (B)'s Subjects (granted that both are in the same server)._

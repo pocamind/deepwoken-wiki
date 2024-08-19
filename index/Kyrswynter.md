@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 110292
+revid: 110626
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -19,7 +19,7 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 | penetration | 20% |
 | special effect | Upon flourishing, unleash a frigid explosion. Procs chilled and ragdolls your opponent. |
 | stances | 2 Handed, 1 Handed |
-| weight | 5 |
+| weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
