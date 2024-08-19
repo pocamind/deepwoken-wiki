@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 85009
+revid: 110639
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -65,3 +65,4 @@ Serena executes her opponent after knocking them:
 -   One of [two enemies](Authority_Captain.md) that utilizes the unobtainable "Glacial Shower" mantra.
 -   She is basically an [Authority Captain](Authority_Captain.md), but has half of their HP.
 -   Her Shotel animation is glitched: she does pull it out but it is not in her hand.
+-   Her hair ID is : 4997322761

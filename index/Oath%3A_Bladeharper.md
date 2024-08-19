@@ -1,11 +1,9 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110636
+revid: 110658
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Oaths]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Oaths]
 ---
 
 # Oath: Bladeharper

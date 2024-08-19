@@ -1,8 +1,9 @@
 ---
 title: Cerulean
-revid: 110633
+revid: 110660
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Cerulean
@@ -132,3 +133,4 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 ## Trivia
 
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [Cerulean City](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
+-   The [Cerulean Thread](Cerulean_Thread.md) may also be named after him.

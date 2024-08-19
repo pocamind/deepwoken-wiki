@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 110477
+revid: 110661
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -17,7 +17,7 @@ Sky Statue located next to Lower Erisia
 -   _Sky Statue: \*A statue of a person looking skyward.\*_
 -   _Player: \[Inspect\]_
 -   _Sky Statue: \*It's an interesting statue but the significance escapes you.\*_
--   also a note, there are 2 other statues
+-   If you have the requirements for [Oath: Bladeharper](Oath%253A_Bladeharper.md), the dialogue will change and you will be teleported to the arena.
 
 ## Locations
 

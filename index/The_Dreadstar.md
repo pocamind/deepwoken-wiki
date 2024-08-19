@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 110230
+revid: 110659
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -115,7 +115,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
 </tbody>
 </table>
 
-## If you previously obtained all Oath talents on another character, you can spend 10 Knowledge to instantly unlock all talents.
+## Oath previously obtained
 
 <table>
 <tbody>

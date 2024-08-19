@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 110174
+revid: 110640
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -242,7 +242,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Reward/s**: Poser’s Ring
 
-**Ghost Ship:**
+**Ghost Hunting:**
 
 **Quest Location**: [Isle of Vigils](Isle_of_Vigils.md), [Beloved Zofia](Beloved_Zofia.md) **Guide**: Talk to [Suyuan](Suyuan.md) in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan. Tied to Silentheart oath, but can be done without an oath or with another oath.
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 107793
+revid: 110650
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -23,7 +23,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The most versatile and common version of the Kyrsgarde found in [New Kysa,](Second_Layer/New_Kyrsa.md) they can easily contend for the top spot in terms of danger as well. They are master wielders of [Frostdraw](Frostdraw.md), using it for both devestating melee and ranged attacks. They can be distinguished by their Burgundy membranes.
+The most versatile and common version of the Kyrsgarde found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). they can easily contend for the top spot in terms of danger as well. They are master wielders of [Frostdraw](Frostdraw.md), using it for both devestating melee and ranged attacks. They can be distinguished by their Burgundy membranes.
 
 ## Attacks
 

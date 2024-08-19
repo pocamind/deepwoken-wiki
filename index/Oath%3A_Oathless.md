@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 110385
+revid: 110664
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,24 +19,24 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 14 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five Oaths that have no direct stat requirements. It functionally acts as though you have no oath for any event tied to having an Oath, such as contractor's gaining a skill or being sacrificed to Linkstrider.
+**[Oath](Oaths.md): Oathless** is one of the 14 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five [Oaths](Oaths.md) that have no direct stat requirements. It functionally acts as though you have no oath for any event tied to having an Oath, such as contractor's gaining a skill or being sacrificed to Linkstrider.
 
 ## Obtainment
 
-To start the Oathless quest, head to the docks at [Miner's Landing](<Miner's_Landing.md>) and pass through the entrance. Climb up to the [Mystic](Mystic.md) in front and turn right, walking onwards until you find a log by the ledge facing the sea highway. Through this log is a cave in which Cerulean can be found leaning against a wall. They'll inform you that, in order to understand the freedom of being Oathless, you must seek out their disciples.
+To start the Oathless quest, head to the docks at [Miner's Landing](<Miner's_Landing.md>) and pass through the entrance. Climb up to the [Mystic](Mystic.md) in front and turn right, walking onwards until you find a log by the ledge facing the sea highway. Through this log is a cave in which [Cerulean](Cerulean.md) can be found leaning against a wall. They'll inform you that, in order to understand the freedom of being Oathless, you must seek out their disciples.
 
-If you have obtained Oathless, you may speak to Cerulean again to permanently unlock it. This skips the quest on all of your future characters/slots.
+If you have obtained Oathless, you may speak to [Cerulean](Cerulean.md) again to permanently unlock it. This skips the quest on all of your future characters/slots.
 
 Aforementioned log tunnel
 
   
 Though order does not matter, the following order is recommended.
 
--   Viridian is located at [Fort Merit](Fort_Merit.md), in a house near the elevator.
+-   [Viridian](Viridian.md) is located at [Fort Merit](Fort_Merit.md), in a house near the elevator.
 
--   Saffron is located at [Meteor Isle](Meteor_Isle.md), in a 2-story house.
+-   [Saffron](Saffron.md) is located at [Meteor Isle](Meteor_Isle.md), in a 2-story house.
 
--   Celadon is located at [Summer Isle](Summer_Isle.md), on the second floor of the guildhall.
+-   [Celadon](Celadon.md) is located at [Summer Isle](Summer_Isle.md), on the second floor of the guildhall.
 
 After talking to all three of their disciples, return to Cerulean to receive the Oath.
 
@@ -46,7 +46,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath Resistance. Oath Resistance decreases the damage received from all Oath-related attacks,[\[1\]](#cite-note-1) including Mantras and [Silentheart](Oath%253A_Silentheart.md) Talents.
 
-As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not. Unless seen in a Bounty Board
+As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an oath. Unless seen in a Bounty Board.
 
 ## Trivia
 
@@ -63,6 +63,9 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   It is one of the few Oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
 -   Oathless will give you echoes for an Oath upon wiping.
 -   It is the only Oath that you can, realistically, get at Power 1.
+-   A bit of an oxymoron, because by being Oathless, you therefore have an Oath.
+-   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
+    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
 
 ## References
 

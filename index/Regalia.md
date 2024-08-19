@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 109336
+revid: 110657
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,6 +30,7 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
 
 -   Mute does **not** work in some locations.
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), unless the monster was summoned by another monster
+    -   Any Dungeon, such as the [Second Layer](Second_Layer.md) or [Trial of One](Trial_of_One.md)
 -   Mute does **not** work against some monsters.
     -   [Desert Knights](Stone_Knight.md#desert-knight)
     -   [Blizzard Knights](Stone_Knight.md)
