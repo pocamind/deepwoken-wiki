@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 110360
+revid: 110602
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -2924,6 +2924,23 @@ Sources:
 -   [Developer Specs](Developer_Specs.md)
 
  | N/A |
+|  | 
+
+[Phoenix Duster](Phoenix_Duster.md)
+
+(**Unobtainable**)
+
+ | 
+
+Confidential Information
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
 
 **Legs:**
 
@@ -3721,6 +3738,26 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) (**Rare**)
+
+ | N/A |
+| File:PathfinderLantern.png | 
+
+[Pathfinder Lantern](Pathfinder_Lantern.md)
+
+ | 
+
+_+10 Sanity_  
+
++1 Uncommon Pip
+
+_+Talent: Breathing Exercise_
+
+ | 
+
+Found from:
+
+-   [Lower Erisia](Lower_Erisia.md)
+-   [Crafting](Crafting_Station.md)
 
  | N/A |
 |  | 

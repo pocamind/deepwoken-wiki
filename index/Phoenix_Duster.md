@@ -1,14 +1,30 @@
 ---
 title: Phoenix Duster
-revid: 110581
+revid: 110600
 source: https://deepwoken.fandom.com/wiki/Phoenix_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Developer Spec]
+categories: [Equipment, Arms, Dusters, Developer Spec, Exclusive]
 ---
 
 # Phoenix Duster
 
-Phoenix Duster (dyed red) being worn by Zartania.
+| Phoenix Duster | |
+|---|---|
+| type | Arms |
+| rarity | ??? |
+| selling price | ??? |
+| requirements | ??? |
+| weight | 2 |
+| innate stats | ??? |
+| innate talent | ??? |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | (Unobtainable) |
+| description | ??? |
+
+## Description
 
 The Phoenix Duster is a [developer-exclusive](Developer_Specs.md) item.
 

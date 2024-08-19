@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 108863
+revid: 110597
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -35,7 +35,7 @@ It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md). If you ar
 
 ## Critical
 
-The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. The critical is unable to be parried, signified by the red eye icon and sound que before firing. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range and posture damage dealt. The critical also applies charm upon hit.
+The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. The critical is unable to be parried, signified by the red eye icon and sound que before firing. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range, posture damage dealt and becomes an insta-guard break at max charge. The critical also applies charm upon hit.
 
 The critical has a cooldown of eight seconds.
 
@@ -51,3 +51,4 @@ The critical has a cooldown of eight seconds.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
 -   At max HVY and CHA, the weapon deals 40.3 damage.
+-   This weapon DOES NOT help your issues of sucking so you WILL need aim to effectively use the critical or just summon a Visionshaper Clone and shoot them while they're fighting your clone

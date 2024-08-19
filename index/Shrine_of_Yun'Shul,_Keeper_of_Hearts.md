@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 107761
+revid: 110598
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -30,7 +30,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 
 -   You need to have a Resonance. You would have needed this to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a Deepbound (such as glitching in or being carried in by another player), you will be instantly killed and wipe.**
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't apply on the first Wish.
-    -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md).
+    -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md) or by removing it at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 knowledge.
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge. Wishes do **NOT** stack, so if you get your Resonance at Power 18 or higher you will be unable to get another wish (without the use of [Misérables](Misérables.md) or the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>).)
     -   Wishes are also occasionally reset on patch updates.

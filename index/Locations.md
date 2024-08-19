@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 110560
+revid: 110584
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Deepwoken]

@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 107487
+revid: 110596
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia, The Eternal Gale, Miner's Landing, Primadon |
+| obtainment | Chests from:Duke Erisia, The Eternal Gale, Miner's Landing, Primadon, Maestro Evengarde Rest |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 110445
+revid: 110612
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -40,6 +40,8 @@ The Fisherman is able to speak and usually says some phrases when he spawns such
 -   "What's the point?! Why struggle?!"
 -   "Kehah... KEHAHAHAH!"
 
+Their mannerisms of speech are somewhat similar to [Regek](Regek.md)'s. They also reference "the prophets" which could mean [The Ministry](The_Ministry.md)'s prophets have had a hand in his insanity.
+
 ## Finisher
 
 The Fisherman executes its opponents after knocking them:
@@ -57,9 +59,9 @@ The Fisherman executes its opponents after knocking them:
 
 ## Trivia
 
--   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime Bleach, this is directly referenced in the concept art for the set.
+-   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime [Bleach](<https://en.m.wikipedia.org/wiki/Bleach_(TV_series)>), this is directly referenced in the concept art for the set.
     -   Furthermore, the name of the armor set may reference the Hollow [Grand Fisher](https://bleach.fandom.com/wiki/Grand_Fisher) from the same series.
 -   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.
--   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md).
+-   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md), implying he was formerly a member turned against them.
 -   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md)
--   According to their dialogues when first spawning in, they could be an Authority or Diver member that has been brainwashed by The Ministry, or they have gone insane due to being in the First Layer for too long.
+-   According to their dialogues when first spawning in, they could be an Authority or Diver member that has been brainwashed by The Ministry, or they have gone insane due to being in the First Layer for too long. Furthermore, they speak of "the prophets", which could be the nine [Ministry](The_Ministry.md) prophets.

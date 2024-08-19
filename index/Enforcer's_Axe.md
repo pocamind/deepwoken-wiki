@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 107638
+revid: 110587
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -44,6 +44,7 @@ After a short windup, the user spins the Enforcer's Axe in a circle around thems
     -   This is evermore prevalent with the nerfing of the [Evanspear Hand Axe](Evanspear_Greataxe.md) via the Bleed bugfix, dethroning it and placing the Enforcer's Axe at the top spot for fighting monsters.
 -   Usually considered the best Enforcer weapon variant compared to its [Blade](<Enforcer's_Blade.md>) and [Hammer](<Enforcer's_Hammer.md>) variants, due to it having no endlag and higher damage.
     -   The Enforcer’s Hammer is sometimes used over the Greataxe due to the incredibly high posture damage, though the Blade is virtually never used over these two due to its inferior damage, critical attack and Talents.
+-   This weapon is better than Evanspear in everyway, anyone who disagrees are still mad on the innate bleed bug fix
 
 ## Version History
 
