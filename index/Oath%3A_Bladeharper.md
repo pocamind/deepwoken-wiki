@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110604
+revid: 110636
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -45,6 +45,7 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
         -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
 -   **Palm Strike - Combat Mantra**
     -   Slice your opponent with your palm.
+    -   You are slowed down when using this mantra.
     -   If True Strength is active, an additional flurry of slashes is created, ascending both you and your target into the air.
 -   **Soaring Storm - Passive**
     -   Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an oath ability.

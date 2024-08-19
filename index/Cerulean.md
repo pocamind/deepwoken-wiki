@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 110630
+revid: 110633
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,6 +23,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic](Mystic.md), head right until you see a log tunnel. Inside the log hides a passageway into a dimly lit cave. He is located there.
 
 ## Dialogue
+
+**First Encounter:**
+
+**Quest Start:**
 
 <table>
 <tbody>
@@ -64,3 +68,67 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 </tr>
 </tbody>
 </table>
+
+**Quest Ongoing:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Traveler, it is a pleasure to see you once more. Have you found my disciples?</td>
+</tr>
+<tr>
+  <td colspan="12">I have yet to find the disciples.</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, let me remind you of your task. Seek out my three disciples, all of which are scattered on various settlements within this Aratel Sea. Once you've spoken to them, return to me.</td>
+</tr>
+<tr>
+  <td colspan="12">Where can I find the disciples?</td>
+</tr>
+<tr>
+  <td colspan="12">Seek them within the settlements of this Luminant, they don the same robes as myself. Once you've met those three, return to me.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">TEMPLATE</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">TEMPLATE</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+## Trivia
+
+-   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [Cerulean City](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).

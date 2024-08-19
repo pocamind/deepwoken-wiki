@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 110627
+revid: 110637
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -56,7 +56,7 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
 3.  Use [Shadow Travel](Shadowcast.md) or [Shadow's Flight](<Shadow's_Flight.md>) on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
     -   Depending on the type of event, the fight will initiate differently: Silhuett's entrance always guarantee a Ministry Cache Agent, while random spawned entrances will have the fight differ regarding your reputation with the Ministry.
     -   The guaranteed drops from Silhuett's event can only be obtained once per slot; corresponding fights with the Ministry Cache Agent will only guarantee the [Deepscorn Casque](Deepscorn_Casque.md).
-    -   Assuming Hero reputation with the [Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead.
+    -   Assuming Ally reputation with the [Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead.
 
 ## Trivia
 
