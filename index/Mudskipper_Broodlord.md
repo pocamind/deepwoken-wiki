@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 109521
+revid: 110696
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -63,4 +63,4 @@ There are **19** images, be warned
 ## Trivia
 
 -   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
--   Despite what their appearance suggests, their sole reference is of "Clickers" from "The Last of Us" series, and not Mahoraga from JuJutsu Kaizen.
+-   Despite what their appearance suggests, their sole reference is of [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series, and not [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga) from Jujutsu Kaisen.
