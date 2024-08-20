@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 110353
+revid: 110700
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,6 +30,7 @@ These are recipes that are not used to produce food or potions.
 -   **[Chum](Chum.md)** - _2 Fish Meat/ 2 Crustacean Meat/ 1 Pufferfish_
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
 -   **Void Feather** - _3 Dark Feather(s), 1 Umbral Obsidian_
+-   **Dark Feather(3x)** - _1 Void Feather_
 -   [Armorer's Needle](<Armorer's_Needle.md>) - _5_ [_Smith's Alloys_](<Smith's_Alloy.md>)
 -   [Forge Needle](Forge_Needle.md) - _1 [Armorer's Needle](<Armorer's_Needle.md>), 5 [Smith's Alloys](<Smith's_Alloy.md>) or 1 [Gilded Needle](Gilded_Needle.md), 1 [Smith's Alloy](<Smith's_Alloy.md>)_
 -   [Gilded Needle](Gilded_Needle.md) - _5 [Armorer's Needles](<Armorer's_Needle.md>), 1 [Gold](Ores.md)_
@@ -52,6 +53,9 @@ Picture of a Crafting Bench
 -   **Flask of Intelligence** - _2 Brilliant Lotus_
 -   **Flask of Willpower** - _2 Skyvalor Lotus_
 -   **Flask of Charisma** - _2 Miasmic Lotus_
+-   **[Pathfinder Lantern](Pathfinder_Lantern.md)** - _1 Dying Embers, 1 Iron, 1 Fiber_
+-   **[Delver Boots](Delver_Boots.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _Leather boots, 2 Galewax, 2 Umbrite_
+-   **[Wormwarder Lantern](Wormwarder_Lantern.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 Galewax, 4 Irithine, 1 Spark Gland_
 
 ## Food Recipes
 
@@ -353,7 +357,7 @@ _**Negative**_
 
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
--   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.
+-   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted on the bottom left of the screen.
 -   There are a few modifier ingredients you can add that are not listed here, such as redds, sticks, and beeswax. These can increase various effects. Making an invigorating elixer with 3 goblettos and 2 redds is excellent healing.
 -   Due to being a generally useless item, the recipe and item _**Sack**_, has been removed from the game as of Jan 10, 2022. Its recipe used to be 3 Cloth.
 -   The word "Elixir" comes from "al iksir", which is the Arabic word for miracle substances. Dating back to the third century BC.

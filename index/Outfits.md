@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 110168
+revid: 110708
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -137,7 +137,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
 </tr>
 <tr>
   <td><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></td>
-  <td>Whaler Initate</td>
+  <td><a href="Whaler_Initiate.md">Whaler Initiate</a></td>
   <td></td>
   <td><a href="Whaler_Coat.md">Whaler Coat</a></td>
   <td></td>

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 110695
+revid: 110706
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -113,7 +113,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability has a 10-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
--   **\[PRO\]** You spawn with Whaler Initiate Armor.
+-   **\[PRO\]** You spawn with [Whaler Initiate](Whaler_Initiate.md) Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   Your starting reputations are:
@@ -126,11 +126,11 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ### Authority Origin
 
--   An Authority based origin. Not much is known about it, other than you are able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
+-   An Authority based origin. Not much is known about it, other than you are able to rise the ranks of the Authority with it. (Confirmed by ragoozer and many devs)
 
 The following is speculation:
 
--   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
+-   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the Whaler Initiate coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
 -   Similar to how Voidwalker may have its own origin oath in the future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base.
 -   Very high chances you may start this origin with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.

@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 109277
+revid: 110709
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -34,7 +34,7 @@ This Outfit's Schematic can be found in:
 
 -   The Outfit is worn by [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   A downgraded version of this armor is granted for free upon starting with the [Voidwalker Origin](Origins.md#voidwalker).
--   The Outfit used to share its appearance with the Whaler Initate Outfit.
+-   The Outfit used to share its appearance with the [Whaler Initiate](Whaler_Initiate.md) Outfit.
 -   The Outfit used to be near identical to [Volke](https://fireemblem.fandom.com/wiki/Volke)'s outfit from _Fire Emblem: Radiant Dawn_.
 -   **Current** whaler coat is an outfit made by **KAHAEL**:
 -   [https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt](https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt)

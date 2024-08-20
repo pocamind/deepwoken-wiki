@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 108811
+revid: 110707
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,7 +31,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grant +50% Stealth.
     -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
-    -   Whaler Initate grants 25% Stealth.
+    -   [Whaler Initiate](Whaler_Initiate.md) grants 25% Stealth.
     -   [Shadow Hunter](Shadow_Hunter.md) grants the [Talent Card](Talents.md) _Lowstride._
     -   Authority Peacekeeper Armour grants the [Talent Card](Talents.md) _Lowstride._
 

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 109278
+revid: 110705
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -220,7 +220,7 @@ categories: [Deepwoken]
 ### The Etrean Luminant
 
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) are based on [Whalers](https://dishonored.fandom.com/wiki/Whalers) from Dishonored due to multiple similarities.
-    -   The Knives of Eylis wear Whaler Initiate and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
+    -   The Knives of Eylis wear [Whaler Initiate](Whaler_Initiate.md) and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
 
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
 -   A golem named [Marcus](Marcus.md) can be found in an area hidden under a house in the [Hidden Village](The_Hidden_Village.md).
