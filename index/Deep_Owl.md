@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 109870
+revid: 110692
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -102,6 +102,7 @@ If choosing to fight the Deep Owl for the first time, there are several things t
 -   Typically, the Owl becomes reasonable to kill from level 7 onwards, but may be powerchecked around level 12.
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
+-   It will also become hostile if the player turns their back on it.
 
 The most important part of this fight is parrying the **Talon Swipe** attack. Afterwards, the Owl can usually be hit once by any weapon type. It is best to look out for this move specifically for damage opportunities, but only get one or two swings - greed will usually lead to the player taking unnecessary damage. The Owl will typically, but not always, repeat the **Talon Swipe** attack once more. The alternative is usually that it'll use **Feather Teleport** or **Owl Dash**, both of which can be parried on reaction.
 

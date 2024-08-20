@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 110536
+revid: 110693
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1956,7 +1956,7 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
   <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Wyrmtooth"><font>Wyrmtooth</font></a></td>
+  <td><a href="Wyrmtooth.md">Wyrmtooth</a></td>
   <td>60 MED, 40 HVY</td>
   <td>20</td>
   <td>20%</td>
