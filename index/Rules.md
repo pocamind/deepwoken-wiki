@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 95065
+revid: 110691
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -61,6 +61,11 @@ A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division 
 
  | 1 Week Namespace Block |
 | **Irrelevant Image** | Adding an image that is for jokes or vandalism. | 
+
+1
+
+ | 1 Week Namespace Block |
+| **Drawing Attention To/Encouraging Vandalism; Feeding The Trolls** | Many trolls thrive on attention, and giving it to them only encourages further vandalism. Report vandalism to moderators instead of giving them attention. Do not screenshot and post it in the comments, or you are encouraging vandalism. | 
 
 1
 

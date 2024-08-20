@@ -1,9 +1,9 @@
 ---
 title: Cerulean
-revid: 110660
+revid: 110682
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Oaths]
 ---
 
 # Cerulean
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-**Cerulean** is a [Celtor](Celtor.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He starts you on the Oathless quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+**Cerulean** is a ??? [Celtor](Celtor.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He starts you on the Oathless quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
 
 Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic](Mystic.md), head right until you see a log tunnel. Inside the log hides a passageway into a dimly lit cave. He is located there.
 
@@ -106,7 +106,25 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">TEMPLATE</td>
+  <td colspan="12">Traveler, it is a pleasure to see you once more. Have you found my disciples?</td>
+</tr>
+<tr>
+  <td colspan="12">I've met the three disciples.</td>
+</tr>
+<tr>
+  <td colspan="12">Disicple, then listen with your utmost focus. Taking an Oath is not a decision to make lightly; this shall permanently affect your path in this life. Do you understand?</td>
+</tr>
+<tr>
+  <td colspan="12">I understand.</td>
+</tr>
+<tr>
+  <td colspan="12">Very well. Disciple, do you wish to become Oathless, vowing to follow your own path?</td>
+</tr>
+<tr>
+  <td colspan="12">I vow to walk my own path. [Oath given]</td>
+</tr>
+<tr>
+  <td colspan="12">Then... it is done. My fourth disciple, you are now one of us; an Oathless, through and through. May your travels be everlasting.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -122,7 +140,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">TEMPLATE</td>
+  <td colspan="12">May your travels be everlasting, Oathless one.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -130,7 +148,44 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 </tbody>
 </table>
 
+**Random Dialogues:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="3">Already having an Oath</td>
+  <td colspan="3">speedrunning oathless?!?!</td>
+  <td colspan="3">Breaking the Oath</td>
+  <td colspan="3">Regaining the Oath after you break it</td>
+</tr>
+<tr>
+  <td colspan="3">Ah, so you have found purpose.. very well. I cannot offer you anything, traveler.</td>
+  <td colspan="3">TEMPLATE</td>
+  <td colspan="3">The way opens more to you, my disciple. Safe travels.</td>
+  <td colspan="3">Ah, my friend, it is good to see you. Have you need of anything?</td>
+</tr>
+<tr>
+  <td colspan="9">End</td>
+  <td colspan="3">I'd like to become Oathless once more</td>
+</tr>
+<tr>
+  <td colspan="9"></td>
+  <td colspan="3">TEMPLATE</td>
+</tr>
+<tr>
+  <td colspan="9"></td>
+  <td colspan="3">End</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
--   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [Cerulean City](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
+-   His [Celtor](Celtor.md) race variant is ???.
+-   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Cerulean City_](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
+    -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Saffron](Saffron.md), [Celadon](Celadon.md), and [Viridian](Viridian.md).
+-   Cerulean usually means the shade of the color blue.
 -   The [Cerulean Thread](Cerulean_Thread.md) may also be named after him.

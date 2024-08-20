@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110561
+revid: 110690
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2131,8 +2131,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   _**Dustlunge**_ \[Advanced Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab Talents.
-    -   Merged with the old Shared Demise Talent.
-    -   as of 07/27/2024 "Dustlunge now lets you assassinate players while you're in combat"
+    -   Also grant the ability to assassinate player who are in combat.
     -   Prerequisites: All Assassin Talents, 90 Agility
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
     -   Pressing the V key on a knocked entity who's in close/medium range teleports you to them.

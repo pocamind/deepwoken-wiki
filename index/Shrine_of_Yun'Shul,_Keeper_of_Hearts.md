@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 110598
+revid: 110672
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -44,7 +44,7 @@ If you meet all the criteria, you are able to make one of six wishes:
     -   Randomly rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
         -   **You can only make this wish once**. You can still, however, use Shrines.
         -   Essentially useless, due to the [Shrine of Blasphemy](Deep_Shrines.md) which does the exact same thing with less risks (you can't be given the Vacant flaw), and for only 5 knowledge.
-3.  **"The Vows I made give me much regret, I wish to break."**
+3.  **"The Vows I made give me much regret, I wish to break them."**
     -   Erase all your active vow of masteries, whether they be as a servant or as a master.
 4.  **"The powers I have been granted displease me, I wish for new gifts."**
     -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant) (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).

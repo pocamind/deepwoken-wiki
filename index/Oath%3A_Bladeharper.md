@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110658
+revid: 110686
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,7 +61,7 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
         -   While in the True Strength state, you passively build up Wither (reduced max HP) on yourself.
 -   **Float Like a Butterfly - Passive**
     -   In display of your true strength, cancel your air dash to enter a frenzy of slashes.
-        -   Only accessible when Reveal is active.
+        -   Only accessible when True Strength is active.
 -   **Decimate - Combat Mantra**
     -   Cut through your opponent.
     -   If True Strength is active, this attack will extend to nearby enemies. **Fists** cannot use this mantra.

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 110052
+revid: 110681
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -123,6 +123,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 **Unlockable Dialogues:**
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -132,64 +134,208 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
 </tr>
 <tr>
-  <td colspan="2">Beat Chaser? Got beaten by Chaser? Saw Chaser?</td>
-  <td colspan="2">Talked to radio? Opened generator? Walked inside the base? Talked to the guy? Got union hook?</td>
-  <td colspan="2">Completed Deepshore Fossil quest?</td>
-  <td colspan="2">Talked to Nimea?</td>
-  <td colspan="2">Met Carrion? Saw Carrion? Talked to Carrion? Completed Carrion dialogue?</td>
-  <td colspan="2">Got Kyrsan Medallions?</td>
+  <td colspan="2">Regarding Chaser</td>
+  <td colspan="2">The Ignition Union</td>
+  <td colspan="2">Deepshore Fossil</td>
+  <td colspan="2">A Lightkeeper</td>
+  <td colspan="2">Dr. Diver</td>
+  <td colspan="2">Kyrsan Medallions</td>
 </tr>
 <tr>
-  <td colspan="2">Chaser betrayed you.</td>
-  <td colspan="2">The Ignition Union have set up a base down there.</td>
-  <td colspan="2">Here's all my findings within the Gale.</td>
-  <td colspan="2">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
-  <td colspan="2">Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
-  <td colspan="2">Know anything about this? [Show Kyrsan Medallion]</td>
+  <td colspan="2">[See Chaser]</td>
+  <td colspan="2">[See Union]</td>
+  <td colspan="2">[See Fossil]</td>
+  <td colspan="2">[See Lightkeeper]</td>
+  <td colspan="2">[See Carrion]</td>
+  <td colspan="2">[See Medallions]</td>
 </tr>
 <tr>
-  <td colspan="2">*She sighs.* I knew sending him down there was a mistake. But for him to turn on us like this…</td>
-  <td colspan="2">Ugh. How typical of them. They must have found some kind of grift down there. I'll tell the others to be wary of them on any expeditions. Still, I find it disturbing that they managed to establish a base there before us... We can't afford to underestimate those opportunists.</td>
-  <td colspan="2">*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.* ...I see. You've done a great deal for us. This is the least can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
-  <td colspan="2">Ah... You must mean Vigh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
-  <td colspan="2">Her nose wrinkles in a look of disgust*. I can only assume you found Dr. Carrion. Pay him no mind, hes absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
-  <td colspan="2">*Her eyes light up briefly* Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Chaser:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">I thought you'd be more surprised.</td>
-  <td colspan="2">End</td>
-  <td colspan="2">End</td>
-  <td colspan="2">...How is she?</td>
-  <td colspan="2">End</td>
-  <td colspan="2">What do you have to offer?</td>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
 </tr>
 <tr>
-  <td colspan="2">Black Divers are all driven by their ideals. For Akira and I, it's a desire to learn all we can about this place. For Chaser... It's clear he wants the spoils of whatever's down there all for himself. He's already got what he wanted from us, I suppose.</td>
-  <td colspan="4"></td>
-  <td colspan="2">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
-  <td colspan="2"></td>
-  <td colspan="2">Opens Shop UI</td>
+  <td colspan="6">Beat Chaser? Got beaten by Chaser? Saw Chaser?</td>
+  <td colspan="6">Chaser still alive???</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="4"></td>
-  <td colspan="2">Writing?</td>
-  <td colspan="4"></td>
+  <td colspan="6">Chaser betrayed you.</td>
+  <td colspan="6">He is????</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="2">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
-  <td colspan="4"></td>
+  <td colspan="6">*She sighs.* I knew sending him down there was a mistake. But for him to turn on us like this…</td>
+  <td colspan="6">TEMPLATE</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="2">End</td>
-  <td colspan="4"></td>
+  <td colspan="6">I thought you'd be more surprised.</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Black Divers are all driven by their ideals. For Akira and I, it's a desire to learn all we can about this place. For Chaser... It's clear he wants the spoils of whatever's down there all for himself. He's already got what he wanted from us, I suppose.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Union:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+</tr>
+<tr>
+  <td colspan="12">Talked to radio? Opened generator? Walked inside the base? Talked to the guy? Got union hook?</td>
+</tr>
+<tr>
+  <td colspan="12">The Ignition Union have set up a base down there.</td>
+</tr>
+<tr>
+  <td colspan="12">Ugh. How typical of them. They must have found some kind of grift down there. I'll tell the others to be wary of them on any expeditions. Still, I find it disturbing that they managed to establish a base there before us... We can't afford to underestimate those opportunists.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Fossil:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+</tr>
+<tr>
+  <td colspan="12">Completed Deepshore Fossil quest?</td>
+</tr>
+<tr>
+  <td colspan="12">Here's all my findings within the Gale.</td>
+</tr>
+<tr>
+  <td colspan="12">*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.* ...I see. You've done a great deal for us. This is the least can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Lightkeeper:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+</tr>
+<tr>
+  <td colspan="12">Talked to Nimea?</td>
+</tr>
+<tr>
+  <td colspan="12">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+</tr>
+<tr>
+  <td colspan="12">Ah... You must mean Vigh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
+</tr>
+<tr>
+  <td colspan="12">...How is she?</td>
+</tr>
+<tr>
+  <td colspan="12">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
+</tr>
+<tr>
+  <td colspan="12">Writing?</td>
+</tr>
+<tr>
+  <td colspan="12">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Carrion:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+</tr>
+<tr>
+  <td colspan="12">Met Carrion? Saw Carrion? Talked to Carrion? Completed Carrion dialogue?</td>
+</tr>
+<tr>
+  <td colspan="12">Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
+</tr>
+<tr>
+  <td colspan="12">Her nose wrinkles in a look of disgust*. I can only assume you found Dr. Carrion. Pay him no mind, hes absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Medallions:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+</tr>
+<tr>
+  <td colspan="12">Got Kyrsan Medallions?</td>
+</tr>
+<tr>
+  <td colspan="12">Know anything about this? [Show Kyrsan Medallion]</td>
+</tr>
+<tr>
+  <td colspan="12">*Her eyes light up briefly* Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
+</tr>
+<tr>
+  <td colspan="12">What do you have to offer?</td>
+</tr>
+<tr>
+  <td colspan="12">Opens Shop UI</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
 
 **Shop UI:**
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -204,41 +350,64 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="2">Knowledge [5 Medallions]</td>
-  <td>Enchant Stone [5 Medallions]</td>
-  <td>Equipment Enchantment [5 Medallions]</td>
+  <td colspan="2">Enchant Stone [5 Medallions]</td>
+  <td colspan="2">Equipment Enchantment [5 Medallions]</td>
   <td colspan="2">Equipment Dye [1 Medallion]</td>
-  <td colspan="2">Can you teach me the secret of Radiant magic? [30 Medallions]</td>
-  <td colspan="4">While already having Dawnwalker</td>
+  <td colspan="2">Regarding Dawnwalker</td>
+  <td colspan="2">Not enough Medallions for any purchase</td>
 </tr>
 <tr>
   <td colspan="2">Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
-  <td>End (Enchant Stone Given)</td>
-  <td>End (Equipment Enchanted)</td>
+  <td colspan="2">End, Enchant Stone Given</td>
+  <td colspan="2">End, Equipment Enchanted</td>
   <td colspan="2">Ah, good deal. Come my way if you come across any more of these things-they're fascinating.</td>
-  <td colspan="2">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To weild the Song only as a Radiant Blade against that which it beckons?</td>
-  <td colspan="4">Can you enhance my Radiant mastery? [15 Medallions]</td>
+  <td colspan="2">[See Dawnwalker]</td>
+  <td colspan="2">I don't think you have enough on hand.</td>
 </tr>
 <tr>
   <td colspan="2">End</td>
-  <td colspan="2"></td>
-  <td colspan="2">End</td>
-  <td colspan="2">I vow it.</td>
-  <td colspan="2">I will teach you the next stages of the morning light. Now, listen...</td>
-  <td>Not enough Medallions</td>
-  <td>Completed Dawnwalker</td>
+  <td colspan="4"></td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Dawnwalker:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="2">Very well. You shall connect with the Light around us, surrounding all of Lumen.</td>
-  <td colspan="2">End</td>
-  <td>template</td>
-  <td>I have taught you all I know. Go forth and bring Light to the world, my student.</td>
+  <td colspan="6">Not having Dawnwalker</td>
+  <td colspan="6">Already having Dawnwalker</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="2">End</td>
-  <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td colspan="6">Can you teach me the secret of Radiant magic? [30 Medallions]</td>
+  <td colspan="6">Can you enhance my Radiant mastery? [15 Medallions]</td>
+</tr>
+<tr>
+  <td colspan="3">Requirements Met</td>
+  <td colspan="3">Already having an Oath</td>
+  <td colspan="3">Progressing Dawnwalker</td>
+  <td colspan="3">Finished Dawnwalker</td>
+</tr>
+<tr>
+  <td colspan="3">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To weild the Song only as a Radiant Blade against that which it beckons?</td>
+  <td colspan="3">Your soul belongs to another. I cannot teach you.</td>
+  <td colspan="3">I will teach you the next stages of the morning light. Now, listen...</td>
+  <td colspan="3">I have taught you all I know. Go forth and bring Light to the world, my student.</td>
+</tr>
+<tr>
+  <td colspan="3">I vow it.</td>
+  <td colspan="9">End</td>
+</tr>
+<tr>
+  <td colspan="3">Very well. You shall connect with the Light around us, surrounding all of Lumen.</td>
+</tr>
+<tr>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
