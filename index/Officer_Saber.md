@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 106737
+revid: 110710
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, The Central Authority]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords, The Central Authority]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort MeritThe Depths, Blacksmith (Hive) |
+| obtainment | Fort MeritThe Depths |
 | description | "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories." |
 
 ## Description

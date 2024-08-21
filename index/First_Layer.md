@@ -1,11 +1,9 @@
 ---
 title: First Layer
-revid: 110537
+revid: 110722
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map, Hellmode and Diluvian]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
 ---
 
 # First Layer
@@ -21,11 +19,16 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the one of th
 -   [The Varicosa District](Varicosa_District.md)
     -   [The Military District](The_Military_District.md)
     -   [The Cathedral of Interstice](Cathedral_of_the_Interstice.md)
+    -   [District of Commerce](District_of_Commerce.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Castle Light](Castle_Light.md)
+    -   [Light's Causeway](<Light's_Causeway.md>)
+
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
     -   Ignition Union Deepdriller
 -   [Marauder's Entrance](<Marauder's_Entrance.md>)
+-   [Celtor Wastes](Celtor_Wastes.md)
+-   [The City of the Drowned](The_City_of_the_Drowned.md)
 
 ## Escaping First Layer
 
@@ -45,7 +48,7 @@ There are 2 bells located in the District of Commerce (sloped gate). Once 2 bell
 
 A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator. If you do not wish to pay the fee, you can climb up the elevator shaft with mobility mantras or enough agility.
 
-**Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present. If it is present, you can usually outrun in by getting on top of the elevator and jumping up that way, but if you are inexperienced it is best to simply leave.)
+**Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present, and the Nautilodaunt has a long spawn timer anyways. If it is present, you can usually outrun in by getting on top of the elevator and jumping up that way, but if you are inexperienced it is best to simply leave.)
 
 File:Depths Sub-Elevator.png
 
@@ -126,8 +129,9 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 Information to keep in mind.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character gains maximum insanity. Although impossible to die to natural insanity in the depths, insanity can severely affect your combat abilities and having max insanity will make you **die instantly when downed or below 10% health.** Willpower, Talents, and equipment grant extra sanity.
-    -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
+    -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and [Castle](Castle_Light.md) [Light](Castle_Light.md) do not restore sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
+    -   [Deepbound](Origins.md) players can rest in [Castle Light](Castle_Light.md) at the campfire to restore sanity and craft food. Do note that only Deepbound players can use the campfire.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 2.5x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better loot.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent undying flame), you might want to consider bringing _**healing potions**_.
@@ -147,15 +151,15 @@ Information to keep in mind.
 ### Joining The Divers
 
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
-    -   You can confront Akira after he kills the Ignition Union, proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
+    -   You can confront [Akira](Akira.md) after he kills the [Ignition](The_Ignition_Union.md) [Union](The_Ignition_Union.md) goons, proposing 2 dialogue options.
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the [Divers](The_Divers.md) and unlock the origin [Deepbound](Origins.md).
+        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the [Ignition](The_Ignition_Union.md) [Union](The_Ignition_Union.md) group. Success causes him to leave, although this has no result other than that.
 
 ### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
 
-Deep southeast in the Depths, you can find a secret room located near the Deep Widow. Here, there is a man who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
+Deep southeast in the Depths, you can find a secret room located near the [Deep](Deep_Widow.md) [Widow](Deep_Widow.md). Here, there is a man named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
-Once you have spoken with surge, the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the Deep Owls and the Depths.
+Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep](Deep_Owl.md) [Owls](Deep_Owl.md) and the Depths.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
@@ -221,24 +225,25 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in The Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
 -   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the sharko, thresher, and enforcer), increasing your survival rate once you can conquer them.
--   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
+-   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths. There is also certain quests such as obtaining [Contractor](Oath%253A_Contractor.md) that require the player to grip people in The Depths.
 -   The same goes if there many people of the same guild flooding the server. It's not worth risking your chances.
     -   Certain guilds are known for purposefully wiping players in the depths, such as the **Anguish, Attuned, Freshie Saviors (ironic), Toilet Cloggers, Akers, Sakura, Amongst Us, Vino, and Retsu**.
         -   Do note this information is mercurial and may quickly become outdated. Regardless, it's advised to switch servers if you see a player from these guilds.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller to leave.
--   Ringing the bells (not corrupted bells) in the Drowned City will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
--   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the deepbound origin.
+-   Ringing the bells (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
+-   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Origins.md) origin.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights.
 -   AVOID fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge. If you do happen to fight one near a pitfall/cliff, face your character towards the edge of the cliff. The Megalodaunt will always attack facing the characters front.
 -   AVOID the [Nautilodaunt](Nautilodaunt.md) if you're unexperienced with it. The Nautilodaunt will make loud noises when in it's idle spawn state. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log after your combat tag disappears.
--   Avoid any monsters you have little to no experience with, especially Deep Owls, King Threshers and Nautilodaunts, which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**.
+-   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with graceful flame. Thresher scales does not work with the Diver lockers.
--   If within the vicinity of Castle Light, it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
+-   If within the vicinity of [Castle](Castle_Light.md) [Light](Castle_Light.md), it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
 -   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target.
+-   If [Finnegan The Lost](Finnegan_The_Lost.md) or [The Fisherman](The_Fisherman.md) randomly spawn upon you, and you are not powerful enough to defeat them, run. It is not worth risking it against an enemy that has too much HP for you to properly deal with.
 
 ## Trivia
 
@@ -246,11 +251,11 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The ability for monsters to spawn corrupted appears to be intrinsic to the First Layer rather than the monsters themselves, as monsters from the Second Layer can be corrupted if spawned in the First Layer.
 -   [Resonances](Resonance.md) can resurrect a player one time when they are knocked in the Depths, once progress is sufficient.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. This permanently unlocks [Shadowcast](Shadowcast.md) for the account.
--   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyeballs from their sockets and succumb to the void.
+-   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyeballs from their sockets and succumb to the void, known commonly as _"headpopping"_.
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 
--   The Boulder Event in the Depths can spawn most monsters including 2 threshers, a Megalodaunt, an Alpha Megalodaunt, a King Thresher, and a Nautilodaunt. Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
+-   The Boulder Event in the Depths can spawn most monsters including 2 threshers, a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.
     -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.
     -   In the same update, one of the elevator entrances were replaced with the sub-elevator, with a risky approach.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 109464
+revid: 110719
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -28,10 +28,6 @@ There are multiple layers to the Depths, with as many as nine known to exist, li
 
 The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, as well as dealing with unsavory players, it is strongly recommended that you do not intentionally go to the Depths.
 
-(Edit from a different person) **PLEASE NOTE:**
-
-\- **Do not attempt** to use the Enchant: '**Curse of the No Life King**' (See this, and all other enchants [here](Enchantments.md)) whilst inside of the Depths, doing so will cause your character to **INSTANTLY WIPE** if your Sanity ( See causes for [Insanity](Insanity.md) here) is below 250. This was later changed following the update on 08/10/24, where Curse of the No Life King no longer instantly drains sanity upon unsheeth.
-
 \- Whilst the Depths poses a greater risk as failure to kill a monster can result in your character being wiped, monsters which are slain in the Depths will yield more experience, making it great for higher power players who receive insufficient experience outside of this zone.
 
 ## Whirlpools
@@ -58,7 +54,7 @@ Whirlpools can also rarely spawn on the edges of highways and other random locat
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [the Second Layer](Second_Layer.md), aka the Eternal Gale. There is also a Third Layer, aka the Vents, a lava covered hellscape where Korilfiend resides.
+The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [the Second Layer](Second_Layer.md), aka the Eternal Gale. There is also a Third Layer, aka the Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, although this content has not been added to the game yet.
 
 Please visit their respective pages below by clicking on them for more information:
 

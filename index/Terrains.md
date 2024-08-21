@@ -1,6 +1,6 @@
 ---
 title: Terrains
-revid: 107670
+revid: 110716
 source: https://deepwoken.fandom.com/wiki/Terrains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,44 +8,49 @@ categories: [Mechanics]
 
 # Terrains
 
-**Surfaces**, are materials used in the game, such as slate.
+## Description
 
-All that is written is by me for now, and is from personal experience, so take it with a grain of salt.
+**Surfaces** are materials used in the game, such as slate, metal, or wood.
 
-The bigger a material part is, the more elemental intensity, i believe is required to break it.
+The bigger a part is, the more elemental intensity is required to break it. Some surfaces are tougher than others and require more elemental intensity to break, which is a lesser-known fact in the Deepwoken community, and it is actually something that, although rarely, can be used to one's advantage in PvP and PvE.
 
-Some materials are not just aesthetic, but have effects.
+## Material Types
 
-Some surfaces are tougher than others and require more elemental intensity to break.
+-   Wood
+    -   Easier to destroy with [Flamecharm](Flamecharm.md) mantras, is quite weak, and gives a 1.5x climb boost for [Felinors](Felinor.md) instead of the 1.25x like other materials.
+    -   Commonly found in forests, trees, and houses.
 
-Wood: Is easier to destroy with fire mantras, is quite weak, and can be used to create a certain type of machine from minecraft that shall not be mentioned. It also gives a 1.5x climb boost for felinors instead of the 1.25x like other materials.
+-   Slate
+    -   Weakest to [Physical](Attunement-less.md) mantras, [Thundercall](Thundercall.md) and [Shadowcast](Shadowcast.md) mantras.
+    -   Commonly found on paths, not used as a housing or wall material.
 
-Slate: Is weaker to physical mantras, thunder and shadow mantras (requires further testing.)
+-   Ice
+    -   Weakest to [Flamecharm](Flamecharm.md) mantras, melting instead of breaking. Is resistant to [Shadowcast](Shadowcast.md) mantras
+    -   Very slippery
+    -   Mainly found in [Minityrsa](Minityrsa.md), especially on the frozen lake with the [Rogue Construct](Rogue_Construct.md).
 
-Ice: Is very weak to flame mantras, melting instead of breaking. Is resistant to shadow mantras (also further testing required) Is also slippery.
+-   Grass
+    -   Can be lit on fire with [Flamecharm](Flamecharm.md) mantras such as Fire Gun
+    -   Useful if your opponent is [Attunementless](Attunement-less.md) and you have Talents to benefit you when you're under the effects of fire, seeing as you can light the ground on fire and use that to your advantage.
+    -   Found literally everywhere.
 
-Grass: Can be lit on fire with flame mantras such as fire gun, useful if your opponent is attumentless and you have Talents to benefit you when your on fire.
+-   Glass
+    -   Very, very sensitive and easy to break.
+    -   Any [Attunement](Attunements.md) can break this material
 
-Glass: The weakness and resistance doesnt really even matter since most of the time its more sensitive than a rupert’s drop’s tail.
+-   Metal
+    -   Very strong.
+    -   Requires a lot of elemental intensity to break, however you can use [Flamecharm](Flamecharm.md), which requires a bit less elemental intensity.
+    -   Found in many locations, most notably [Miner's Landing](<Miner's_Landing.md>), and [Summer Isle](Summer_Isle.md)
 
-Metal: Very strong. Requires a lot of elemental intensity to break, a shit ton, however you can use flames to require a little less intensity to melt it.
+-   Sand
+    -   Unbreakable, commonly found on beaches
 
-Sand: for some reason, this shit doesnt break. Or well theres only very few spots, in any case it doesnt matter, as most of it is intangible.
+-   Fabric
+    -   Functions the same as wood, except a bit weaker.
 
-Water: Boats and frostdrawers benefit from it.
+## Trivia/Notes
 
-Fabric: Wood without steroids.
-
-Attunements from personal experiment ranked by destructivity:
-
-Flamecharm: you can literally break the entirity of the inn… And rampage etris- enough said. Also using firegun on an ironclad will land you a few dozen death threaths.
-
-Attumentless: Flamecharm without the buff against wood, seems to also break rock more easily.
-
-Thundercall: Lighting strike and lighting beam do some damage. So does thunder kick.
-
-Frostdraw: Very good for boat vandalization until they used the new full auto nerf gun on it.
-
-Shadowcast only really has eclipse kick and darkblade.
-
-Ironsing and galebreathe: These two attunements cannot break a single object.
+-   In general, the most destructive and powerful attunement is [Flamecharm](Flamecharm.md).
+-   [Galebreathe](Galebreathe.md) and [Ironsing](Ironsing.md) cannot destroy any materials, This makes sense for [Galebreathe](Galebreathe.md), because it is the wind rather than anything destructive like fire.
+-   Your weapon's critical can often be used to destroy breakable walls - this is especially useful if you don't have a destructive mantra to do so.
