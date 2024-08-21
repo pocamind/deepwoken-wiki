@@ -1,6 +1,6 @@
 ---
 title: Ezra
-revid: 107587
+revid: 110754
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Eastern Luminant, Quests]
@@ -14,4 +14,6 @@ Template:NPC name
 
 ## Description
 
-Ezra is a NPC in [Songseeker Wilds](Songseeker_Wilds.md) who gives you a quest to kill Songseekers in [Derelict Highchurch](Derelict_Highchurch.md). He also provides some information about songseeker lore. Upon completing his quest, you gain a Bravery Talent hand.
+Ezra is a [Capra](Capra.md) NPC in [Songseeker Wilds](Songseeker_Wilds.md) who gives you a quest to kill Songseekers in [Derelict Highchurch](Derelict_Highchurch.md). He also provides some information about songseeker lore. Upon completing his quest, you gain a Bravery Talent hand.
+
+Before [Samael](Samael.md) and the [Starkindred](Oath%253A_Starkindred.md) took over the [Derelict Highchurch](Derelict_Highchurch.md), it was a place for Ezra and the [Capra](Capra.md) to worship Mother [Ku](Capra.md), a [Celestial](Celestial.md). When [Samael](Samael.md) took over, he turned it into a place to "worship" an unknown [Celestial](Celestial.md).

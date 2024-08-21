@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 110376
+revid: 110758
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -46,7 +46,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 
 -   Nell and Friid with Etrea
--   Funke with Summer Companie
+-   Funke with Summer Company
 -   Adar with Ignition Union
 
 Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.

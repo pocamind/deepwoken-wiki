@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 110749
+revid: 110769
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -16,15 +16,15 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
 ## Overview
 
-**The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Luminants](Luminants.md).
+**The Voidsea** is a location in _Deepwoken_. It functions as an effective boundary for the playable [Luminants](Luminants.md).
 
-The **Voidsea** is an weird and dangerous region. It is speculated to be an ecological deadzone. It is incredibly easy to mistakenly sail into during travelling, as it covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
+The **Voidsea** is an elusive and dangerous region which lays outside of Lumen. It is incredibly easy to mistakenly sail into during travelling if one strays too far from major islands or sea highways. The **Voidsea** covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
 
-you may also experience illusions with time since the **Voidsea** is nothing but void.
+The **Voidfog** within the sea can cover vision making navigation difficult, you may also experience illusions with time since the **Voidsea** is nothing but void.
 
-The **Voidsea** is considered as a voidzone even if it's not told by the game, so be careful. Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player.
+The **Voidsea** is similar to Voidzones in many ways, though no extra experience is granted here, so coming here specifically for training is NOT Recommended. Dying to the environment while in **Voidsea** will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player, though all over threats or methods of death (including drowning and starvation.) will Depthsend you.
 
-Sometimes, when you are sailing through Voidsea, you may be teleported to a random location in Voidsea. This will also damage your boat based on distance traveled by the teleport. This can also break boats instantly or deal incredibly heavy damage.
+Sometimes, when you are sailing through **Voidsea**, you may be teleported to a random location within The **Voidsea**. This will damage your boat based on distance travelled by the teleport. This can also break boats instantly or deal incredibly heavy damage, So bringing wood and a repair hammer is heavily advised if not mandatory.
 
 ## Points of Interest
 
@@ -40,5 +40,6 @@ Sometimes, when you are sailing through Voidsea, you may be teleported to a rand
 -   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md).
 -   If you are playing on Low Graphics mode, sailing past 100k in an axis will remove the sea texture, causing you to sail above "the void." Note that it is safe to jump off your boat and swim, and turning off Low GFX will make the sea re-appear.
+-   The Voidsea is Directly inspired by "The Pale" from Disco Elysium.\[_Citation Needed_\]
     
     A boat Floating over the Void.

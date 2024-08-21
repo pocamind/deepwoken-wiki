@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 108635
+revid: 110757
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -27,5 +27,5 @@ The chest appears to be an ordinary hive chest, containing what you would usuall
 
 ## Trivia
 
--   The amount of times you need to complete her quest before he tells you to set up the device seems to vary.
+-   The amount of times you need to complete her quest before she tells you to set up the device seems to vary.
 -   The location of this device is undocumented; it may be bugged, not yet implemented, or in a very obscure location.

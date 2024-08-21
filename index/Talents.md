@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110751
+revid: 110774
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2410,7 +2410,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple. May affect Arcwarder in the future.
+    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md), [Hero Blade of Lightning](Hero_Blades.md) and Boldcrusher blurple. May affect Arcwarder in the future.
     -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman

@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 108092
+revid: 110773
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Lore]
@@ -25,60 +25,71 @@ Nimea is a NPC inside a house in [The Hidden Village](The_Hidden_Village.md) to 
 
 ## Dialogue
 
-<table><caption></caption>
+**First Encounter:**
+
+<table>
 <tbody>
 <tr>
-  <th colspan="3"><div>Begin</div></th>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="3">Heavy is the burden of the Lightkeeper, for the world rests on their shoulders.</td>
+  <td colspan="12">Heavy is the burden of the Lightkeeper, for the world rests on their shoulders.</td>
 </tr>
 <tr>
-  <td colspan="2"><div>Huh.</div></td>
-  <td><div>What is this place?</div></td>
+  <td colspan="6">Huh.</td>
+  <td colspan="6">What is this place?</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*She smiles.*</i> It's an old saying.</td>
-  <td>That's what I'm trying to figure out. It contradicts the other architecture of this Driftland - as if this village was constructed by a completely different culture.</td>
+  <td colspan="6"><i>*She smiles.*</i> It's an old saying.</td>
+  <td colspan="6">That's what I'm trying to figure out. It contradicts the other architecture of this Driftland - as if this village was constructed by a completely different culture.</td>
 </tr>
 <tr>
-  <td colspan="2"><div>What's a lightkeeper?</div></td>
-  <td><div>Why do you think that is?</div></td>
+  <td colspan="6">What's a lightkeeper?</td>
+  <td colspan="6">Why do you think that is?</td>
 </tr>
 <tr>
-  <td colspan="2">A lightkeeper is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between Luminants - the Interstitial Lighthouses.</td>
-  <td>The way the people of this village lived seems to suggest that they were salvagers. Presumably, they came here the last time this Driftland appeared and made a living salvaging what they could from the ruins, much like how Pathfinders today search for objects of interest here.</td>
+  <td colspan="6">A Lightkeeper is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between Luminants - the Interstitial Lighthouses.</td>
+  <td colspan="6">The way the people of this village lived seems to suggest that they were salvagers. Presumably, they came here the last time this Driftland appeared and made a living salvaging what they could from the ruins, much like how Pathfinders today search for objects of interest here.</td>
 </tr>
 <tr>
-  <td colspan="2"><div>What's Light in this context?</div></td>
-  <td><div>What happened to them?</div></td>
+  <td colspan="6">What's Light in this context?</td>
+  <td colspan="6">What happened to them?</td>
 </tr>
 <tr>
-  <td colspan="2">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. Lightkeepers must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
-  <td rowspan="5">There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day they were in the Light. The next... Not.</td>
+  <td colspan="6">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. Lightkeepers must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
+  <td colspan="6">There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day, they were in the Light. The next... Not.</td>
 </tr>
 <tr>
-  <td colspan="2"><div>You seem pretty knowledgeable on these things.</div></td>
+  <td colspan="6">You seem pretty knowledgeable on these things.</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the Luminant in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift,</td>
+  <td colspan="6"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the Luminant in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift,</td>
 </tr>
 <tr>
-  <td><div>Duty Calls, I suppose.</div></td>
-  <td><div>I'm sorry.</div></td>
+  <td colspan="3">Duty Calls, I suppose.</td>
+  <td colspan="3">I'm sorry.</td>
 </tr>
 <tr>
-  <td>Naturally. What use is a normal life to a world fading away? What would an idle experience grant to its memory? <i>*She stares at the table, lost in her thoughts with a pained expression.*</i></td>
-  <td>There's no need. She still lives, I'm sure of it. They wouldn't let her Light drown.</td>
+  <td colspan="3">Naturally. What use is a normal life to a world fading away? What would an idle experience grant to its memory? <i>*She stares at the table, lost in her thoughts with a pained expression.*</i></td>
+  <td colspan="3">There's no need. She still lives, I'm sure of it. They wouldn't let her Light drown.</td>
 </tr>
 <tr>
-  <td rowspan="2"><div>End</div></td>
-  <td rowspan="2"><div>End</div></td>
-  <td></td>
+  <td colspan="6">What is this place?</td>
 </tr>
 <tr>
-  <td><div>End</div></td>
+  <td colspan="6">[See first instance.]</td>
 </tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**After Talking to Klaris:**
+
+<table>
+<tbody>
 <tr>
   <td colspan="3"><div>Begin (After Talking to Klaris)</div></td>
 </tr>

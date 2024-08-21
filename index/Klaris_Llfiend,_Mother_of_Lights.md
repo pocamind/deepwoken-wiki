@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 110681
+revid: 110764
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -358,16 +358,36 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="2">Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
-  <td colspan="2">End, Enchant Stone Given</td>
-  <td colspan="2">End, Equipment Enchanted</td>
-  <td colspan="2">Ah, good deal. Come my way if you come across any more of these things-they're fascinating.</td>
+  <td colspan="2">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
+  <td colspan="2">Ah, good deal. There's a trick to using these Enchant Stones y'know..</td>
+  <td colspan="2">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
   <td colspan="2">[See Dawnwalker]</td>
   <td colspan="2">I don't think you have enough on hand.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="4"></td>
+  <td colspan="4">End</td>
+  <td colspan="2">Not Holding Anything</td>
   <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">You gonna show me what you want enchanted or not? C'mon.</td>
+  <td colspan="6"></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Holding Ineligible Item</td>
+  <td colspan="6"></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Yeah, this won't do. Try something else.</td>
+  <td colspan="6"></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">End</td>
+  <td colspan="6"></td>
 </tr>
 </tbody>
 </table>
