@@ -1,9 +1,9 @@
 ---
 title: Adrofalis
-revid: 110608
+revid: 110746
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Adrofalis
@@ -17,7 +17,9 @@ categories: [NPCs]
 
 ― Adrofalis
 
-  
+File:Adrofalis.png
+
+Adrofalis.
 
 ## Description
 
@@ -113,3 +115,7 @@ End
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+Location of saltchemist in boatman's watch.
