@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110690
+revid: 110751
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2554,7 +2554,7 @@ _**"I seek the qualities of vocalist."**_
 -   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +15% Oath Resistance, +10 Health)
+-   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +20% Oath Resistance, +10 Health)
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)

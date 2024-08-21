@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 107466
+revid: 110748
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Luck, Mechanics]
@@ -114,4 +114,3 @@ There is a rare chance to catch a golden variation of fish/trash, which rewarded
 -   Gaining luck increased the chance of getting legendary/rare Talents, but there is no guarantee of getting them. It was possible to gain no legendary/rare cards with max luck, just as it was possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
 -   Contrary to popular belief, it does _not_ boost your chances of getting Legendary Mantras, such as Lightning Cloak or Ice Fissure
 -   The luck indicator was seen at the bottom right of the screen above notes.
--   Luck is confirmed to be removed entirely when the Layer 2 update comes out, instead being replaced by the once-scrapped Knowledge system. (Now removed)

@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 110058
+revid: 110749
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,9 +18,11 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
 **The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Luminants](Luminants.md).
 
-The **Voidsea** is an extremely dangerous region. It is speculated to be an ecological deadzone. It is incredibly easy to mistakenly sail into during travelling, as it covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
+The **Voidsea** is an weird and dangerous region. It is speculated to be an ecological deadzone. It is incredibly easy to mistakenly sail into during travelling, as it covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
 
-Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player.
+you may also experience illusions with time since the **Voidsea** is nothing but void.
+
+The **Voidsea** is considered as a voidzone even if it's not told by the game, so be careful. Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player.
 
 Sometimes, when you are sailing through Voidsea, you may be teleported to a random location in Voidsea. This will also damage your boat based on distance traveled by the teleport. This can also break boats instantly or deal incredibly heavy damage.
 
