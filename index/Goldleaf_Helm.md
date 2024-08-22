@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 107544
+revid: 110885
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,13 +15,13 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | 10 Fortitude |
 | weight | 1 |
-| innate stats | +5 Health |
+| innate stats | +5 Health, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Golden Warrior, First Layer, Starswept Valley |
+| obtainment | Chests from:, Duke Erisia, Aratel Island, First Layer, Second LayerDrops from:, Golden WarriorFound From:, Artifact Turn-ins |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

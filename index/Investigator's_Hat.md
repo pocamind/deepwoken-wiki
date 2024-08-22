@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 107561
+revid: 110893
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -10,18 +10,19 @@ categories: [Equipment, Head, Hats]
 
 | Investigator's Hat | |
 |---|---|
-| type | Helmet |
+| type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
-| innate stats | N/A |
+| requirements | None |
+| weight | 1 |
+| innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Diplomat |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island |
-| description | - ... |
+| obtainment | Chests from:, Aratel Island, Duke Erisia |
+| description | "..." |
 
 ## Description
 

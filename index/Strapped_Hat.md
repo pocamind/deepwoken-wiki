@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 109013
+revid: 110879
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -15,13 +15,13 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 HP |
+| innate stats | +3 Health, +2 Rare Pips |
 | innate talent | Exterminator |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer |
+| obtainment | Chests from:, First Layer, Duke Erisia |
 | description | "A hat typically worn by those from the Central Luminant." |
 
 ## Description

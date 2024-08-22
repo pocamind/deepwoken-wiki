@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 107567
+revid: 110888
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Deep Widow, Primadon |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Primadon, Voidwalker BountiesFound From:, Artifact Turn-ins |
 | description | "The imposing helm of a guardian." |
 
 ## Description

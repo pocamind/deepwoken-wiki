@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Helm"
-revid: 107496
+revid: 110881
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item]
@@ -13,8 +13,9 @@ categories: [Equipment, Head, Helmets, Event Item]
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
+| requirements | None |
 | weight | 1 |
-| innate stats | +10 HP, 1 + 1 Pips |
+| innate stats | +10 HP, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

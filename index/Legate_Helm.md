@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 107613
+revid: 110896
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,13 +15,13 @@ categories: [Equipment, Head, Helmets]
 | selling price | 14 |
 | requirements | 5 Fortitude |
 | weight | 1 |
-| innate stats | +5 Health+2 Posture |
+| innate stats | +5 Health+1 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Deep Widow, Chime of Conflict |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, First LayerFound from:, Artifact Turn-ins |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

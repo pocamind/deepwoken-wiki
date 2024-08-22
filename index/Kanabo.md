@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 110809
+revid: 110843
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -54,7 +54,7 @@ Both criticals share the cooldown of **8 seconds**.
 
 **Providence's Thorns:**
 
-**Solar:**
+**Sear:**
 
 **Stone:**
 

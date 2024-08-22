@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 107454
+revid: 110878
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hoods]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | N/A |
+| innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

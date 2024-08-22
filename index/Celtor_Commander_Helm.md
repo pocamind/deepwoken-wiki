@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 107452
+revid: 110875
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +5 Health |
+| innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Grasp On Reality |
 | bankable | Yes |
 | droppable | Yes |

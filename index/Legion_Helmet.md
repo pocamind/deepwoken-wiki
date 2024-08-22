@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 107540
+revid: 110894
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,13 +15,13 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +10 HP+2 Posture |
+| innate stats | +10 HP, +2 Posture, +1 Uncommon Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, Chili |
+| obtainment | Chests from:, Aratel Island, Duke ErisiaPurchased from:, Chili |
 | description | "..." |
 
 ## Description

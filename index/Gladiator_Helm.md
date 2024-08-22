@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 107442
+revid: 110884
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,14 +15,14 @@ categories: [Equipment, Head, Helmets]
 | selling price | 14 |
 | requirements | 15 Fortitude |
 | weight | 1 |
-| innate stats | +10 Health+2 Posture |
+| innate stats | +10 Health, +2 Posture, +1 Rare Pip |
 | innate talent | Concussive Force |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, Duke Erisia, Deep Widow, First Layer |
-| description | - "The visage of a gladiator who has seen many battles." |
+| obtainment | Chests from:, Aratel Island, Voidwalker Bounties, Duke Erisia, Deep Widow, First Layer |
+| description | "The visage of a gladiator who has seen many battles." |
 
 ## Description
 

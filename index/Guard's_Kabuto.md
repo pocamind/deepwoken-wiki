@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 107555
+revid: 110887
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -15,13 +15,13 @@ categories: [Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +8 Health |
+| innate stats | +8 Health, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer |
+| obtainment | Chests from:, First Layer, Duke ErisiaFound from:, Artifact Turn-ins |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

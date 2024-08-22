@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 109982
+revid: 110865
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,13 +15,13 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | 20 Fortitude |
 | weight | 1 |
-| innate stats | +5 Health, +2 Rare Pips+2 Posture |
+| innate stats | +5 Health, +2 Posture, +2 Rare Pips |
 | innate talent | Concussive Force |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Aratel Island, Arena |
+| obtainment | Chests from:, Aratel Island, First Layer, Chime of Conflict |
 | description | "..." |
 
 ## Description

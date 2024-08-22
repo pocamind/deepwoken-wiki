@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 107448
+revid: 110895
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | 15 Fortitude |
 | weight | 1 |
-| innate stats | +10 Health |
+| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

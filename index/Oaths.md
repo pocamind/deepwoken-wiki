@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 110541
+revid: 110871
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -60,7 +60,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
--   [Bladeharper](Oath%253A_Bladeharper.md):
+-   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative rep with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
@@ -83,7 +83,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
         -   You'll regain [Oathless](Oath%253A_Oathless.md).
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
-    -   Talk to [Adrofalis](Adrofalis.md) again will give you the prompt to regain [Saltchemist](Oath%253A_Saltchemist.md)
+    -   Talking to [Adrofalis](Adrofalis.md) again will give you the prompt to regain [Saltchemist](Oath%253A_Saltchemist.md).
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
     -   If you attempt to regain the Oath, The Dreadstar will not spawn after you survive the Ghosts on the Beloved Zofia.

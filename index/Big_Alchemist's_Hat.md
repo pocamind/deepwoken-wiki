@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 109980
+revid: 110862
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer |
+| obtainment | Chests from:, Aratel Island, First Layer, Duke Erisia |
 | description | "..." |
 
 ## Description

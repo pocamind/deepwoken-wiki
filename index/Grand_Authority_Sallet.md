@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 107491
+revid: 110873
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health |
+| innate stats | +3 Health, +1 Rare Pip, +1 Legendary Pips |
 | innate talent | Strong Hold |
 | bankable | Yes |
 | droppable | Yes |

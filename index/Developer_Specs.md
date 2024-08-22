@@ -1,9 +1,9 @@
 ---
 title: Developer Specs
-revid: 109421
+revid: 110852
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [Deepwoken, Developer Specs]
 ---
 
 # Developer Specs
@@ -13,6 +13,14 @@ categories: [Deepwoken]
 A spec is custom ability often given to mod and/or developers that is unique to the person. For instance, Arch\_Mage has a Soul Stealer ability.
 
 ## Specs
+
+### Level 6+ Mantras / Unobtainable Mantras (Friends of Developers / Community Figures)
+
+A Spec given by a developer to a member they see fit to have, infamous for impossible builds such as "0 Thundercall Lightning Cloak" or "God Left" among other mantras. Typically awarded to people who report game-breaking bugs or have their soul stolen by Haske Vantage, but many have these unobtainable builds due to being friends with a developer.
+
+### Titles (Developer Friends / Community Figures)
+
+Unique Names/Titles given to certain members of the community.
 
 ### Arch\_Mage (Haske Vantage)
 
@@ -192,6 +200,18 @@ _For more information about Stag Acrossus slash Nuttoons, read Stag Acrossus._
 [Moderator Cap](Moderator_Cap.md) - Mod shop only
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>) - Dev interaction (?)
+
+## Exclusive Races
+
+[Drakkard](Drakkard.md) - Mod Shop Only
+
+[Primal Vesperian](Primal_Vesperian.md) - Arch\_Mage, Nuttoons.
+
+Abberant Capra -
+
+[Auroran](Auroran.md) -
+
+[Heliodar](Heliodar.md) -
 
 ## Sources
 

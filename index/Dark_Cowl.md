@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 107582
+revid: 110876
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Cowls]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, First Layer |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, First Layer, Artifact Turn-ins |
 | description | "..." |
 
 ## Description

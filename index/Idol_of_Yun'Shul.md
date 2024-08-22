@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 110086
+revid: 110857
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, The Ferryman (Exceedingly Rare), First Layer + Hell Mode (Brown Chests), Fishing, Primadon, The Diluvian Mechanism, Maestro Evengarde Rest |
+| obtainment | Duke Erisia, The Ferryman, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, The Diluvian Mechanism, Maestro Evengarde Rest |
 | description | "An idol utilised in rituals to call forth the Voice of Yun'Shul." |
 
 ## Description

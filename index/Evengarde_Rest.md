@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 107417
+revid: 110855
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea]
@@ -157,10 +157,11 @@ End
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
--   ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
+-   Ragoozer stated Maestro Evengarde Rest is as strong as [Amorous Pleeksty](Amorus_Pleeksty.md) when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
 -   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
     -   Evengarde Rest and [Aska](Aska.md) share the same hair id
 -   The coat Rest is wearring is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
     -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect
 -   After starting the teleport to the fight there is another dialog box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
+-   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.

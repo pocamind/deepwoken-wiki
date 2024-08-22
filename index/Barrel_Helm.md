@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 109979
+revid: 110861
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, First Layer, Second Layer |
+| obtainment | Chests from:, Duke Erisia, First Layer, Voidwalker Bounties, Second LayerFound from:, Artifact Turn-ins |
 | description | "A sturdy helmet shaped like a barrel." |
 
 ## Description

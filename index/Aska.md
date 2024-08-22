@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 110819
+revid: 110846
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -183,7 +183,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
--   DO NOT Attempt to run away for a heal. leaving the boss chamber to heal with cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though chaser or the deepdrill.
+-   DO NOT Attempt to run away for a heal. leaving the boss chamber to heal with cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
 
 ## Trivia
 
@@ -193,6 +193,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   If Aska falls off the map, you can escape through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and still obtain the weapon.
     -   Aska can land on platforms that are between the void, softlocking you until you either fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or use the [Deepdrill](The_Frontier_Furnace.md). He will respawn in the same place unharmed.
 -   He has anti-blockbreak Talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+-   He mistakes you for [Amorus Pleeksty](Amorus_Pleeksty.md), and sees him as his lord, meaning he is most likely either a disciple or a member of the [Flame Worshippers](Flame_Worshipper_Armor.md).
 -   Aska's Outfit:
     -   [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)
     -   [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)

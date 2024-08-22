@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 110573
+revid: 110845
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -853,7 +853,7 @@ A Dark Mage, located in Minityrsa.
 
 -   **Territory:** _Miner's Landing, The Chariot's Spire, The Frontier Furnace._
 -   **Encountered In:** _Summer Isle, Celtor Wastes, Miner's Landing, The Chariot's Spire, The Frontier Furnace_
--   **Attunements:** _Flamecharm, Thundercall_
+-   **Attunements:** _Flamecharm, Thundercall, & Ironsing_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description), Deepdelver Gamma (Dialogue)_

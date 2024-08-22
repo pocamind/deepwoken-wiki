@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 107501
+revid: 110901
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +4 Health |
+| innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Give and Take |
 | bankable | Yes |
 | droppable | Yes |
