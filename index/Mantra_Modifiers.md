@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 110258
+revid: 110835
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -39,17 +39,16 @@ Applying _Amnesic Driftwood_ on a mantra will remove all previous upgrades inclu
 
 **Note**: On the 08/02/2022, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts. These numbers would be appreciated.
 
-| Image | Modifier | Effect | Notes | Drops |
-| --- | --- | --- | --- | --- |
-|  | 
-Cloudstone
+| Modifier | Effect | Notes | Drops |
+| --- | --- | --- | --- |
+| 
+Cloud Stone
 
  | 
 
-+2 Size
-
-\-1 Speed  
-+10 Ether Cost
+-   +2 Size
+-   \-1 Speed
+-   +10 Ether Cost
 
  | 
 
@@ -65,37 +64,31 @@ Cloudstone
 -   Brainsuckers
 
  |
-|  | 
+| 
 
 Stratus Stone
 
  | 
 
-+3 Size  
+-   +3 Size
+-   +20 Ether Cost
 
-+20 Ether Cost
-
- | 
-
--   Increases mantra/hitbox size.
-
- | 
+ | Increases mantra/hitbox size. | 
 
 -   All Megalodaunt Variants
 -   Rock Golem
 -   Threshers
 
  |
-|  | 
+| 
 
 Crystal Lens
 
  | 
 
-+2 Range
-
-\-1 Size  
-+10 Ether Cost
+-   +2 Range
+-   \-1 Size
+-   +10 Ether Cost
 
  | 
 
@@ -110,37 +103,31 @@ Crystal Lens
 -   Brainsuckers
 
  |
-|  | 
+| 
 
 Perfect Lens
 
  | 
 
-+3 Range  
+-   +3 Range
+-   +20 Ether Cost
 
-+20 Ether Cost
-
- | 
-
--   Increases range of Projectiles and targeting range of auto-aim moves.
-
- | 
+ | Increases range of Projectiles and targeting range of auto-aim moves. | 
 
 -   All Megalodaunt Variants
 -   Rock Golem
 -   Threshers
 
  |
-|  | 
+| 
 
 Aeon Logstone
 
  | 
 
-+2 Duration
-
-\-1 Range  
-+10 Ether Cost
+-   +2 Duration
+-   \-1 Range
+-   +10 Ether Cost
 
  | 
 
@@ -156,15 +143,14 @@ Aeon Logstone
 -   Brainsuckers
 
  |
-|  | 
+| 
 
 Eternal Logstone
 
  | 
 
-+3 Duration  
-
-+20 Ether Cost
+-   +3 Duration
+-   +20 Ether Cost
 
  | 
 
@@ -178,16 +164,15 @@ Eternal Logstone
 -   Threshers
 
  |
-|  | 
+| 
 
 Drift Shard
 
  | 
 
-+2 Speed
-
-\-1 Duration  
-+10 Ether Cost
+-   \-1 Duration
+-   +2 Speed
+-   +10 Ether Cost
 
  | 
 
@@ -202,15 +187,14 @@ Drift Shard
 -   Brainsuckers
 
  |
-|  | 
+| 
 
 Rush Shard
 
  | 
 
-+3 Speed
-
-+20 Ether Cost  
+-   +3 Speed
+-   +20 Ether Cost
 
  | 
 
@@ -224,19 +208,11 @@ Rush Shard
 -   Threshers
 
  |
-|  | 
+| 
 
 Amnesic Driftwood
 
- | 
-
-Removes all Modifiers on a Mantra.
-
- | 
-
--   Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether. This also gives back the modifiers you used on the mantra this does not count for sparks.
-
- | 
+ | Removes all Modifiers on a Mantra. | Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidentally added too many modifiers which pushed the ether cost past max ether. This also gives back the modifiers you used on the mantra this does not count for sparks. | 
 
 -   Bandits
 -   Bandit Leaders
@@ -245,15 +221,15 @@ Removes all Modifiers on a Mantra.
 -   All Mudskipper Variants
 
  |
-|  | 
+| 
 
 Glass Stone
 
  | 
 
-+2 AoE  
-\-1 Duration  
-+10 Ether Cost  
+-   +2 AoE
+-   \-1 Duration
+-   +10 Ether Cost
 
  | 
 
@@ -265,17 +241,17 @@ Glass Stone
 -   Crafted with a Cloudstone and Crystal lens
 
  |
-|  | 
+| 
 
 Magnifying Stone
 
  | Same as Glass Stone, just better
 
-+3 AoE  
-\-1 Duration  
-+20 Ether Cost  
+-   +3 AoE
+-   \-1 Duration
+-   +20 Ether Cost
 
-"Images percieved through the stone seem to give off an expanding aura." -flavor text
+"Images perceived through the stone seem to give off an expanding aura." -flavor text
 
  | 
 
@@ -286,7 +262,30 @@ Magnifying Stone
 -   Crafted with a Stratus Stone and Perfect Lens
 
  |
-|  | 
+| 
+
+Vibrant Gem
+
+ | 
+
+-   +2 Intensity
+-   +20 Ether Cost
+
+ | 
+
+Elemental intensity affects the ability of mantras to interact/break terrain.
+
+-   For example, higher intensity for flamecharm allows burning larger patches of grass or melting bigger ice sheets.
+
+ | 
+
+-   All Megalodaunt Variants
+-   Rock Golem
+-   Threshers
+-   Duke Erisia
+
+ |
+| 
 
 Vibrant Gem
 
@@ -298,7 +297,7 @@ Vibrant Gem
 
  | 
 
--   Elemental intensity affect the ability of mantras to interact/break terrain. For example, higher intensity for flamecharm allow burning larger patch of grass or melt bigger ice sheets.
+-   Elemental intensity affects the ability of mantras to interact/break terrain. For example, higher intensity for flamecharm allows burning larger patches of grass or melting bigger ice sheets.
 
  | 
 

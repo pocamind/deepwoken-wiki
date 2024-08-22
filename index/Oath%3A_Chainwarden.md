@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 110508
+revid: 110831
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -52,6 +52,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
     -   Deals true damage.
+    -   Applies a chain.
     -   **CURRENTLY BUGGED: BLOODLESS GEM DO NOT WORK WITH THIS MANTRA.**
 
 -   **Rupture** - **Combat Mantra**
