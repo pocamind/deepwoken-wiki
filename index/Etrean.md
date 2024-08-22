@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 108892
+revid: 110822
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -101,5 +101,5 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
--   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, etc)
+-   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
 -   When under the effect of a Potion, you'll only be affected by them for roughly 75% of the duration. This may be true for Chilling and Suffocate as well. (Needs testing.)
