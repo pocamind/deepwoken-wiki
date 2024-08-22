@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 110603
+revid: 110806
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -34,5 +34,7 @@ The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" ca
 
 ## Trivia
 
--   The glow of the lantern remains when smelted onto another torso equipment, allowing one to have the light of the lantern without compromising on stats
--   Dyeing the lantern does not effect the glow's color.
+-   The glow of the lantern remains when smelted onto another torso equipment, allowing one to have the light of the lantern without compromising on stats.
+-   Dyeing the lantern does **not** affect the glow's color.
+-   The lantern is situated on the right hip, unfortunately where your resonance should be. If you wish to use this equipment endgame to smelt onto a better piece of equipment for drip purposes, it's recommended to have your resonance be the "sphere" model so the lantern will fully encase it and not be visible.
+    -   Doing this; whenever you use your resonance it will appear as though your lantern shined for a second, a nice touch.

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 110764
+revid: 110792
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -31,18 +31,15 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 **First Encounter:**
 
+**Player is above power 15:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="24">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">Players above power 15</td>
-  <td colspan="12">Players below power 15</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
   <td colspan="12">Someone competent? That's rare.</td>
-  <td colspan="12">Ugh, I don't have time to train you Apprentices. SCRAM!</td>
 </tr>
 <tr>
   <td colspan="6">1. Why do you need competent people?</td>
@@ -73,8 +70,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="2">The Light Hook is a special technique of the Radiant Tones. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no Light Hook will save you then.</td>
   <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the First Layer are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the 'Light Hook' is ready.</td>
   <td colspan="3">[See first instance.]</td>
-  <td colspan="3">The landscape here... It reacts. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us. as if we were fuel. Or worse, a waste product.</td>
-  <td colspan="3">[See first instance.]</td>
+  <td colspan="3">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
+  <td colspan="3">[See Unlockable Dialogues --&gt; Lightkeeper.]</td>
 </tr>
 <tr>
   <td colspan="2">1. I'm ready.</td>
@@ -97,7 +94,54 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tbody>
 </table>
 
-**Starting Dialogue:**
+**Player is below power 15:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ugh, I don't have time to train you Apprentices. SCRAM!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+</tr>
+<tr>
+  <td colspan="3">Why do you need competent people?</td>
+  <td colspan="3">Who are you?</td>
+  <td colspan="3">I'm ready.</td>
+  <td colspan="3">(Others)</td>
+</tr>
+<tr>
+  <td colspan="6">[See First Encounter]</td>
+  <td colspan="3">Alright. Bring 4 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
+  <td colspan="3">[See Unlockable Dialogues]</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+  <td colspan="3">End (Portal Opening)</td>
+  <td colspan="3">End</td>
+</tr>
+</tbody>
+</table>
+
+**Starting Dialogues:**
 
 <table>
 <tbody>

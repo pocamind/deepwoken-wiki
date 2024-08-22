@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 109492
+revid: 110807
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -36,3 +36,4 @@ This Outfit's Schematic can be obtained from:
 ## Trivia
 
 -   It changes appearance depending on the character gender. It appears shirtless when your character is masculine, but sports a sleeve-less shirt on top if you’re feminine or gender neutral.
+-   Changing your gender at a barber will change the visual appearance of the outfit, allowing male characters to use the female variant and (hopefully not) vice versa.

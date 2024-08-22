@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110774
+revid: 110810
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1064,7 +1064,7 @@ _**"I'm built different" - Cannot Give Talents**_
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
 
--   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+-   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.

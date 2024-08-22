@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 108810
+revid: 110819
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A [Flamecharm](Flamecharm.md)\-wielding miniboss found in Firfire, located in a cave behind three orange Resonance doors. These doors are located under the cliff near the Kyrsgarde that asks you to sit with him.
+A [Flamecharm](Flamecharm.md)\-wielding miniboss found in [Firfire](Firfire.md), located in a cave behind three orange [Resonance](Resonance.md) doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him.
 
 Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will start burning to death until you wipe.
 
@@ -188,10 +188,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 ## Trivia
 
 -   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
--   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight.
+-   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight, if you have Pleetsky's Will, which anyone can obtain by talking to [Ploom](Ploom.md).
 -   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire.
--   If Aska falls off the map, you can escape through Chaser and still obtain the weapon.
-    -   Aska can land on platforms that are between the void, softlocking you until you either fight Chaser or use the Deepdrill. He will respawn in the same place unharmed.
+-   If Aska falls off the map, you can escape through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and still obtain the weapon.
+    -   Aska can land on platforms that are between the void, softlocking you until you either fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or use the [Deepdrill](The_Frontier_Furnace.md). He will respawn in the same place unharmed.
 -   He has anti-blockbreak Talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Aska's Outfit:
     -   [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)

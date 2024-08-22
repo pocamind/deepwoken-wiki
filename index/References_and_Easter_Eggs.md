@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 110705
+revid: 110808
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -35,7 +35,8 @@ categories: [Deepwoken]
     -   **Flame Within** works similarly to [Power Within](https://darksouls.fandom.com/wiki/Power_Within).
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
--   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move (Fūga) that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
+-   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
+-   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo#Jujutsu).
 
 ### Thundercall
 
@@ -51,6 +52,7 @@ categories: [Deepwoken]
 ### Frostdraw
 
 -   The **Ice Skate** mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
+    -   Previously, there was an advanced/legendary talent with the same name, allowing the user of **Ice Skates** to skate on solid ground.
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
@@ -108,6 +110,12 @@ categories: [Deepwoken]
     -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the Talent, slicing the enemy multiple times.
 -   **Dawnwalker's** Radiant Kick is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) dropkick attack where he says _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
+-   **Bladeharper** appears to heavily reference other media in all of its abilities.
+    -   The obtainment resembles the method of obtaining [Bankai](https://bleach.fandom.com/wiki/Zanpakutō#Bankai) in _Bleach_. Both are fights against your ['inner spirit'](https://bleach.fandom.com/wiki/Zanpakutō).
+        -   The inner world you are taken to reinforces this by being named 'The Blade Within', which is similar to the title of the 13th episode of _Bleach: Thousand-Year Blood War_: ['THE BLADE IS ME'](<https://bleach.fandom.com/wiki/THE_BLADE_IS_ME_(episode)>).
+    -   **Lithe Step** resembles [Shunpo](https://bleach.fandom.com/wiki/Hohō?so=search#Shunpo) or [Sonido](https://bleach.fandom.com/wiki/Sonído) from _Bleach._
+    -   Having **True Strength** active, activating **Soaring Storm**, using **Float Like a Butterfly**, or using **Decimate**, create slashes that strongly resemble [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) [Cleave and Dismantle](https://jujutsu-kaisen.fandom.com/wiki/Sukuna#Jujutsu), from _Jujutsu Kaisen_.
+    -   The Oath's appearance resembles the same rings that [Minos Prime](https://ultrakill.fandom.com/wiki/Minos_Prime) wears, in _ULTRAKILL_.
 
 ## Enemies/Bosses
 
@@ -214,6 +222,7 @@ categories: [Deepwoken]
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Roland**," "**Tiphereth**," "**Xiao**", "**Zena**", "**Iori**", and "**Argalia**", are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
 -   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
+-   The name **Halflight** is a reference to a [certain skill](https://discoelysium.fandom.com/wiki/Half_Light) from _Disco Elysium_.
 
 ## World
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes of Bloodshed
-revid: 43373
+revid: 110811
 source: https://deepwoken.fandom.com/wiki/Echoes_of_Bloodshed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Chime of Conflict]
@@ -16,4 +16,4 @@ When all is said and done, all that will be remembered of this battle are the st
 
   
 
-**Echoes of Bloodshed** is a location in _Deepwoken_. It is a unique map in the Arena or Mission experience.
+**Echoes of Bloodshed** is a location in _Deepwoken_. It is a unique map in the Arena or Mission experience. To reach this area, enter [Chime of Conflict](Chime_of_Conflict.md), where it can be randomly selected.

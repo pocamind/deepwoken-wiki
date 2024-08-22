@@ -1,6 +1,6 @@
 ---
 title: Monster Bait
-revid: 79959
+revid: 110818
 source: https://deepwoken.fandom.com/wiki/Monster_Bait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,7 +12,7 @@ categories: [Items]
 
 ― "The Dangers of Overfishing," page 42
 
-  
+Monster Bait
 
 ## Overview
 
@@ -22,7 +22,7 @@ Like the name suggests, it is used to spawn monsters. The three craftable baits 
 
 ## How to Use
 
-To use Monster Bait, it must not be within a certain radius of another enemy NPC/bait and has a cooldown before you can place it. Then, you must wait around 1-5+ minutes for the monster to spawn in the place of the bait.
+To use Monster Bait, it must not be within a certain radius of another enemy NPC/bait and has a 30 second cooldown before you can place it again. Then, you must wait around 1-5+ minutes for the monster to spawn in the place of the bait.
 
 Monsters spawned through bait _do not_ give chests.
 
@@ -40,3 +40,4 @@ Monsters spawned through bait _do not_ give chests.
 ## Bugs
 
 -   Sometimes upon use of bait, the item will be removed but the bait won't be placed.
+    -   You can avoid this by always placing beneath your character in first person mode

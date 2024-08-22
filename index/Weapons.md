@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 110693
+revid: 110785
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2153,12 +2153,12 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>25</td>
   <td>20%</td>
   <td>30%</td>
-  <td>THD: 5, HVY: 4.2</td>
+  <td>THD: 7, HVY: 4.2</td>
   <td>8</td>
   <td>8.5</td>
   <td>0.87x</td>
   <td>0.15</td>
-  <td>49</td>
+  <td>54.2</td>
 </tr>
 </tbody>
 </table>
