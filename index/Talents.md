@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110810
+revid: 110921
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1054,7 +1054,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 > _**"I always shoot first."**_
 
--   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 20% of an opponent's physical armor.
+-   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 20% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
@@ -1838,6 +1838,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   _**Will o' Wisp**_ \[Advanced Talent, Attunement Exclusive\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
+    -   Believe it or not, I actually know the guy who made this talent. Yep. His name was William O. Wisp.
     -   Prerequisites: Attunement Wisp mantra, 25 Element
 
 ### Saint of Blades

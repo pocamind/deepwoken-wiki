@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 110080
+revid: 110919
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -24,13 +24,13 @@ A group of powerful adventurers must join forces in this hellish variant to obta
 
 ## Activation Method and Effects
 
-The Hell Mode Bell can be found within the [Celtor Wastes](Celtor_Wastes.md). To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15. **The moment you ring the hell bell, your _Mute_ [Regalia](Regalia.md) is disabled, (Note: you can still use this if you haven't rung the bell)**
+The Hell Mode Bell can be found within the [Celtor Wastes](Celtor_Wastes.md). To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15.
 
 Once the conditions are met, [The Depths](The_Depths.md) (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
 -   Spawn rates are increased by 10x.
 -   Increased chance for [Deepspindle](Deepspindle.md) event
--   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of [King Threshers](Thresher.md) and [Alpha Megalodaunts](Megalodaunt.md), but [Mudskipper Broodlord](Mudskipper_Broodlord.md) will not spawn as always corrupted.
+-   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of [King Threshers](Thresher.md) and [Alpha Megalodaunts](Megalodaunt.md), but [Mudskipper Broodlords](Mudskipper_Broodlord.md) will not spawn as always corrupted.
 -   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
     -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   King Thresher's burrowing attack is disabled.
@@ -65,16 +65,16 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful. **Please be aware that** people can be peaceful only when hell mode is active, but with the [Contractor Oath](Oath%253A_Contractor.md) implemented, there is a **VERY HIGH CHANCE** that you will get raided as soon as the hell mode ends, this can be due to Contractors, people trying to steal your loot, or only people who want to wipe people. To have a high chance of not facing these people, once there are 10 or less monsters to kill to end hell mode, go to a place where there is no one, get all the loot when hell mode ends and change servers as quick as possible.
 -   **If you have [Blindseer](Oath%253A_Blindseer.md), wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat, but it can damage them which means they will take damage from the hit. They can still get heals from mobs when killing monsters. Other players that didn't ring the bell will get combat tagged so if you're with someone that didn't ring it, don't hit them.
--   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into [The Interstice](The_Interstice.md) and spawn Graceful Flame with no repercussions to you.
--   The best weapon for hell mode is definitely either the [Enforcer's Axe](<Enforcer's_Axe.md>) or [Evanspear Hand Axe](Evanspear_Greataxe.md). Chilling with [Nullifying Clarity](https://deepwoken.fandom.com/wiki/Talents?so=search#Ether_Adept) talent and Providence Thorns are extremely good for Hell Mode, but the undeniably best enchant is Astral.
--   If you have Blindseer Oath be sure to use [Oath](Oaths.md) mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
+-   If you want to **survive** Hell Mode, it's better to you have a group of People with Sacred Field Bell, And go to the [Temple of Hearts](Temple_of_Hearts.md). Get someone with Undying Flame to regen hp and sanity. The [Dimensional Travel](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into [The Interstice](The_Interstice.md) and spawn Graceful Flame with no repercussions to you.
+-   The best weapon for hell mode is definitely either the [Enforcer's Axe](<Enforcer's_Axe.md>) or [Evanspear Hand Axe](Evanspear_Greataxe.md). Chilling with the [Nullyfying clarity](Talents.md) talent and Providence Thorns are extremely good for Hell Mode, but the undeniably best enchant is Astral.
+-   If you have the [Blindseer Oath](Oath%253A_Blindseer.md) be sure to use its mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 -   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap a Squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.
 -   Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit. It is dangerous near other players, however.
 -   If you are low on health try to kill a weaker monster, such as a [Lionfish](Lionfish.md), [Thresher](Thresher.md), or [Megalodaunt](Megalodaunt.md).
--   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack. Nautilodaunts are a lot easier to beat in a team.
+-   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack. [Nautilodaunts](Nautilodaunt.md) are a lot easier to beat in a team.
 -   If most of your team has wiped and you are scared to wipe your slot, just get a health pack from weak monsters (such as [Thresher](Thresher.md) or [Lionfish](Lionfish.md)) and jump into the void. This trick will send you to [Second Layer](Second_Layer.md) and probably will save you from wiping. This trick also can be done when you obtained your [Resonance](Resonance.md) and after this immediately jumped into the void. **NOTE:** You will be send to the [Second Layer](Second_Layer.md) only if your HP more than 50% (2,5 bars), if you jumped into the void and was below 50% HP you will wipe, so remember this before jumping.
--   Be very careful of Broodlords. They are probably the most dangerous thing in Hell Mode, with huge damage and health if corrupted, and the anti-heal.
+-   Be very careful of [Mudskipper Broodlords](Mudskipper_Broodlord.md). They are probably the most dangerous thing in Hell Mode, with huge damage and health if corrupted, and the anti-heal.
 
 ## Trivia
 

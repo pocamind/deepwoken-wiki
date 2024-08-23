@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 107194
+revid: 110922
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -62,13 +62,10 @@ The user sheaths their katana before lunging forward and slashing horizontally. 
 
 Storm Enchant
 
-## Notes
+## Trivia
 
 -   [Paired Soul](Talents.md#vigil) only gives a +5% damage buff with the Alloyed Katana to bring it closer to the [Shattered Katana](Shattered_Katana.md).
 -   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana critical when 2 handing.
-
-## Trivia
-
 -   Meeting the non-alloyed requirement of MED, the damage is (20)
     -   Meeting the alloyed requirement, the damage is (27.9)
 -   At max MED, the non-alloyed damage is (26.1)

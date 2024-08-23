@@ -1,9 +1,9 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110827
+revid: 110916
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Bladeharper
@@ -16,6 +16,10 @@ categories: [Oaths]
 “ Your presence here... We both know what it means. If you believe yourself ready, this is where you shall pledge yourself to the Blade. ”
 
 ― The Blade Within
+
+File:Sky statue near erisia location.png
+
+Sky statue near erisia location
 
 ## Description
 
