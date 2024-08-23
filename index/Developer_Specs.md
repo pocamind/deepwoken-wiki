@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 110852
+revid: 110931
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Developer Specs]
@@ -201,17 +201,25 @@ _For more information about Stag Acrossus slash Nuttoons, read Stag Acrossus._
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>) - Dev interaction (?)
 
+Paintbrush - Winning an Art Contest
+
+[Worldshaper's Laurel](<Worldshaper's_Laurel.md>) - Winning the Banner Contest
+
+[Mod Suit](Mod_Suit.md) / [Mod Skirt](Mod_Skirt.md) - Mod Shop Only
+
 ## Exclusive Races
 
 [Drakkard](Drakkard.md) - Mod Shop Only
 
 [Primal Vesperian](Primal_Vesperian.md) - Arch\_Mage, Nuttoons.
 
-Abberant Capra -
+[Abberant Capra](Aberrant_Capra.md) -
 
 [Auroran](Auroran.md) -
 
 [Heliodar](Heliodar.md) -
+
+[Lightborn](Lightborn.md) - Developers / Outstanding Community Members
 
 ## Sources
 

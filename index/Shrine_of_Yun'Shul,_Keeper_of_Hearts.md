@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 110927
+revid: 110933
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -8,7 +8,7 @@ categories: [Drowned Gods, NPCs, Layer 1]
 
 # Shrine of Yun'Shul, Keeper of Hearts
 
-“ Ṕ̸̕ͅĻ̸̭̤Ừ̶͔̔C̷̨̠K̴̨̲ ̶͚͠Ỏ̸̞ÙT ȚḦĪNȨ ÉYẼS; ŢȨĄR OȔṰ TH̵͍̀I̵͈̟Ņ̸Ë THRƠ̪͛A̸T; LẠÝ WÄ̶̧Ŝ̷̨̡Ț̸E̴͇̲ ̸ṪÓ ĄLL ẀHḬÇH̸̭̃ ̷̘͔ĬS SAC̞R̶̯̩Ê̸D; THE ͊ṀȎOŅ̲͠S̵̡EYḘ ̵̮̰C̶̹ÕŅVEŘĢES ̶̰̱W̸̤Í̵̗̙Ţ̸̘Ḩ TḨAT BËĻǪ̶͔W̶̝. ”
+“ PLUCK OUT THINE EYES TEAR OUT THINE THROAT LAY WASTE TO ALL WHICH IS SACRED THE MOONSEYE CONVERGES WITH THAT BELOW. ”
 
 ― Yun'Shul to the unworthy
 

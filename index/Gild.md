@@ -1,8 +1,9 @@
 ---
 title: Gild
-revid: 110923
+revid: 110930
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Layer 1]
 ---
 
 # Gild

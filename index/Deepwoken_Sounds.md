@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 108889
+revid: 110944
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -460,6 +460,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.2s | Lightning Beam (Unleash) |
 |  | 4.7s | Lightning Bolts |
 |  | 5.1s | Lightning Crash |
+|  | 5.0s | Electro crave \[Magnet spark\] |
 |  | 1.9s | Lightning Strikes \[1\] |
 |  | 1.6s | Lightning Strikes \[2\] |
 |  | 2.0s | Lightning Slash |
@@ -595,6 +596,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 3.7s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Miasma Ring Attack |
 |  | 3.2s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion + Rising Shadow (Windup) |
 |  | 3.3s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Laugh |
+|  | 4.1s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Old laugh |
 |  | 1.0s | [Carbuncle](Carbuncle.md) Roar (1) |
 |  | 5.1s | [Lost Diver](Lost_Diver.md) Wispers \[1\] |
 |  | 2.6s | [Lost Diver](Lost_Diver.md) Wispers \[2\] |
@@ -614,6 +616,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.8s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap \[1\] |
 |  | 3.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar \[1\] (Unofficial Edit) |
 |  | 1.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar \[2\] |
+|  | 2.2s | Ethiron Death/Breaks out of ropes |
 |  | 2.4s | [Scion of Ethiron](Scion_of_Ethiron.md) Ultimate Attack Launch |
 |  | 2.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Ultimate Attack Launch (Unofficial Edit) |
 |  | 1.9s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Flap \[1\] |
