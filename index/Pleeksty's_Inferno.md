@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 109784
+revid: 110953
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -33,7 +33,7 @@ The **Pleeksty's Inferno** is a legendary Club; a knapped obsidian macuahuitl cr
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought Aska with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
-The weapon will proc Club Talents on hit and Flamecharm Talents on critical hits.
+The weapon will proc Club Talents on hit and Flamecharm Talents on critical hits. The critical also instantly gives you maximum Emperor Flame Stacks if it lands (Even if you do not have the talent).
 
 ## Critical
 

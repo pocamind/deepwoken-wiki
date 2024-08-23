@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110921
+revid: 110952
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1366,7 +1366,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
 -   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
--   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
+-   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
@@ -2411,7 +2411,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md), [Hero Blade of Lightning](Hero_Blades.md) and Boldcrusher blurple. May affect Arcwarder in the future.
+    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md), [Hero Blade of Lightning](Hero_Blades.md) and [Boltcrusher](Boltcrusher.md) blurple. May affect Arcwarder in the future.
     -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman
