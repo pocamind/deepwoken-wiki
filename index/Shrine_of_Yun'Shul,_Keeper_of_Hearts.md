@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 110702
+revid: 110927
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -57,7 +57,6 @@ If you meet all the criteria, you are able to make one of six wishes:
 ## Trivia
 
 -   Originally, only [Oathless](Oath%253A_Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
--   You are combat tagged immediately upon speaking to Yun'Shul’s shrine without a Resonance, making it impossible to survive.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
 -   There is an [Enchantment](Enchantments.md) named after Yun'Shul.

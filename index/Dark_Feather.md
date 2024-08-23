@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 107676
+revid: 110926
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -71,6 +71,7 @@ The Void Feather is used in these recipes:
 
 -   [Ferryman's Coat](<Ferryman's_Coat.md>)
 -   [Royal Etrean Guard](Royal_Etrean_Guard.md)
+-   [Darkened Bastion](Darkened_Bastion.md)
 -   [Shadow's Flight](<Shadow's_Flight.md>)
 -   Dark Feathers, which gives 3 of them per Void Feather.
 
