@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 106893
+revid: 111037
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -8,13 +8,13 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, T
 
 # Black Diver (NPC)
 
-Template:EnemyInfobox1.0
+_This is the Black Diver NPC. To see the Master [Armour](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._Template:EnemyInfobox1.0
 
 ## Description
 
-(This page is referring to the NPC. To view the master armour, check [Black Diver.](Black_Diver.md)) Divers are town guard reinforcements that can appear within Castle Light.
+Black Divers Divers are town guard reinforcements that can appear within [Castle Light](Castle_Light.md).
 
-They are also enemies that appear as part of "Villain" reputation [ambush events](Faction_Ambushes.md) for high level players from The Divers.
+They are also enemies that appear as part of "Villain" reputation [ambush events](Faction_Ambushes.md) for high level players from [The Divers](The_Divers.md).
 
 ## Moveset
 

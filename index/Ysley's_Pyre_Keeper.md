@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 111018
+revid: 111044
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -65,10 +65,11 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on April 19, 2024.
 -   You cannot use running critical attacks at [The Interstice](The_Interstice.md), instead you will proc the air critical attacks. Probably a bug or it was just because [The Interstice](The_Interstice.md) is a place that was above the Void Sea,
--   It is one of nine weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md)
+-   It is one of nine weapons to have multiple critical attacks, the others being: [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md)
     -   It also has the most amount of critical attack variations (Five, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
+-   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
 
 ## References
 

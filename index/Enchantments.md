@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 111016
+revid: 111039
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -690,7 +690,7 @@ Drowned Grease
 -   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)
 -   Blazing can be used to ignite campfires that are unlit by m1's.
 -   Enchantments can be obtained very easily on island events on 2x chest weekends.
--   There is now armor grease witch is just enchant stones for armor/equipment
+-   There is now armor grease which is just enchant stones for armor/equipment
 
 ## References
 
