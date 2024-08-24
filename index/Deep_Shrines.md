@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 109325
+revid: 110961
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -171,7 +171,7 @@ Located in [The Lordsgrove](The_Lordsgrove.md) in the absurd large tunnel system
 
 ## Effect
 
-For 10 Knowledges and a Mantra of your choice, obtain a Roll 2.
+For 5 Knowledges and a Mantra of your choice, obtain a Roll 2.
 
 ## Details
 

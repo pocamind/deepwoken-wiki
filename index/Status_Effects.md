@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 109173
+revid: 110960
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -221,7 +221,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Applied by getting hit by an opponent with Emperor Flame active or [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by resting and knocking opponents.
+Applied by getting hit by an opponent with Emperor Flame active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent or can be applied to self with [Oath: Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by resting and knocking opponents.
 
 ## Deadly Status Effects
 
