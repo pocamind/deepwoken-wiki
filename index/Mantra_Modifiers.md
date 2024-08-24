@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 110835
+revid: 111026
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -276,28 +276,6 @@ Vibrant Gem
 Elemental intensity affects the ability of mantras to interact/break terrain.
 
 -   For example, higher intensity for flamecharm allows burning larger patches of grass or melting bigger ice sheets.
-
- | 
-
--   All Megalodaunt Variants
--   Rock Golem
--   Threshers
--   Duke Erisia
-
- |
-| 
-
-Vibrant Gem
-
- | 
-
-+2 Intensity  
-
-+20 Ether Cost
-
- | 
-
--   Elemental intensity affects the ability of mantras to interact/break terrain. For example, higher intensity for flamecharm allows burning larger patches of grass or melting bigger ice sheets.
 
  | 
 

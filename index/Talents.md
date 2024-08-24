@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 110952
+revid: 111023
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -750,6 +750,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
     -   Prerequisite: 60 Agility
 
+### Pursuer
+
+> _**"N/A"**_
+
+-   _Going Nowhere_ \[Rare Talent\] - When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)
+    -   Prerequisites: 25 Strength, 25 Agility
+
 ### Duelist Flame
 
 > _**"My flame fights for me."**_
@@ -905,6 +912,12 @@ _**"I dance with the flames."**_
 
 -   Temperature Shock \[Common Talent, Dual Attunement\] - Your fire mantras now detonate any stacked crystals.
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
+
+  
+
+  
+
+  
 
 ### Freak Of Nature
 

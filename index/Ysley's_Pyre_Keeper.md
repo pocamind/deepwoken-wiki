@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 110031
+revid: 111018
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -31,7 +31,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-**Ysley's Pyre Keeper** or Ysley's Pyre Cleaver "Callow & Verdant" is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). The drop rate of this weapon is extremely low from these sources. It can also drop from [Fishing](Fishing.md). It most notably drops from the small chest after defeating [Primadon](Primadon,_Titan_of_the_East.md) alongside the [Imperial Staff](Imperial_Staff.md), and the chest rewarded by defeating the [Rogue Construct](Rogue_Construct.md) found in [Minityrsa](Minityrsa.md). It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
+**Ysley's Pyre Keeper** or Ysley's Pyre Cleaver "Callow & Verdant" is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). The drop rate of this weapon is extremely low from these sources. It can also drop from [Fishing](Fishing.md). It most notably drops from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) alongside the [Imperial Staff](Imperial_Staff.md), and the chest rewarded by defeating the [Rogue Construct](Rogue_Construct.md) found in [Minityrsa](Minityrsa.md). It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
 
 The Pyre Keeper comes with the following passives:
 

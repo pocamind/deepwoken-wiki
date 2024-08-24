@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 107295
+revid: 111021
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -43,8 +43,8 @@ Said "Blue Hue" and "New Motifs"
 -   Being hit by a player with Insanity and [Shared Misery](Talents.md)
 -   Being hit by the [Deep Widow](Deep_Widow.md) web and bite attack
 -   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general.
--   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you -100 sanity when you unsheathe your weapon while in [The Depths](The_Depths.md). Without any Willpower, it instantly kills you, as you start with 80 sanity.
-    -   The effects of this can be reduced through increasing Willpower
+-   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which constantly gives you insanity when you unsheathe your weapon while in [The Depths](The_Depths.md).
+    -   The effects of this can be reduced through increasing Willpower. However, you'll still die if you don't regenerate your sanity.
 -   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease
 -   Being in the immediate vicinity of the pulsating brains with eyes and looking at them in [Ancient Rotlands](Ancient_Rotlands.md)
 

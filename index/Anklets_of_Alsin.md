@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 109402
+revid: 111004
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Weapons, Fists]
 | Anklets of Alsin | |
 |---|---|
 | type | Kick Style (Jus Karita) |
-| requirements | [REQUIRES A KICK STYLE] |
+| requirements | 25 LHT [REQUIRES A KICK STYLE] |
 | damage | 13.5 |
 | scaling | 9 |
 | range | 7 |

@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 100801
+revid: 111028
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]

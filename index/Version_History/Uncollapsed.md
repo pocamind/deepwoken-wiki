@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 110340
+revid: 111019
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,6 +16,59 @@ The update highest on the webpage (the one right below the legend) is the most r
 [Regular](2026.md)**Uncollapsed**
 
   
+
+## **August 23rd, 2024**
+
+**Content & System**  
+• New Ironsing Mantra: Iron Quills  
+• New STR/AGL Talent: Going Nowhere  
+• Added Enchant Grease; a powerful oil coating capable of enchanting your Equipment  
+• The Shrine of Mastery now offers you the ability to reallocate up to 3 attribute points to correct accidental investments you've made. Unlike the Shrine of Order, this cannot be used to bypass requirements. Note that if you have used the Shrine of Order this point reallocation may not be possible, as it doesn't allow you to use it if you would not meet the requirements for your talents/weapons/equipment after  
+• You can now purchase multiple Yun'Shul wishes from Miserables at a time, though the costs will increase each time depending on how many you have stored ()  
+• Chrysid Starkindreds now sprout moth wings  
+• Vesperian and Ganymede Starkindreds now sprout beetle wings  
+• Hovering over talents in the Tab list now shows you the talent cards  
+• The Tab Talent list now has categories for talent sources, has color-coded rarities, and a counter is visible next to the search bar for how many talents are currently displayed  
+• Your Tab Equipment menu now shows enchants visually like your inventory does  
+• Enchant Stones now have the visuals of their corresponding enchants  
+• Enchant Stones are now sorted into the Relic category in your inventory  
+• Boulder Climb has been merged into Kick Off. If you had Boulder Climb you'll get a hand of talents refunded to you  
+  
+**Pyre Keeper Remodel**  
+• Ysley's Pyre Keeper has received new models for both the sword and the dagger  
+• Hyperarmor frames reduced on Pyre Keeper running crit variant (0.8s > 0.3s)  
+• Damage reduced on Pyre Keeper crouching crit, but the leg sweep now knockdowns and stabs them on the ground  
+• Pyre Keeper running crit no longer grabs, but uppercuts and has a smoother startup. If landed it will reset the crit's cooldown and enable you to chain it into a second crit  
+• Reduced distance on running crit slightly  
+• Getting hit during the 2nd or 3rd slashes of the standing crit now cancels it  
+  
+**Balancing & Tweaks**  
+• Klaris now sells Enchant Grease instead of giving your equipment a random enchantment  
+• Laplace now sells Enchant Grease  
+• Shrine of Division Knowledge cost reduced (10 -> 5)  
+• Lightning Attuned mobs no longer have the chain lightning trait  
+• Lightning Attuned mobs only proc Shock on damaging moves  
+• Buffed Primadon relic drop rates  
+• Buffed Etris Raid relic drop rates  
+• Reduced Chainlash initial windup (1s -> 0.7s), reduced endlag (0.3s -> 0.1s). Chainlash's followup hit can now connect as soon as they're in range  
+• Audacity ally buff duration increased (10s -> 15s)  
+• Reduced Ice Beam endlag (0.3s -> 0.15s), increased windup (0.3s -> 0.35s), increased base width  
+• Gravity Bell High Gravity variant now has a reduced duration  
+• Anklets of Alsin now has a req (25 LHT)  
+• Storm Cages now destroy other Storm Cages in their radius  
+• Parrying Flame Repulsion no longer knocks you back  
+• Greatly reduced knockback from parrying Kyrsan spears  
+• Reduced climb boost of Boulder Climb's effect that has now been merged into Kick Off  
+• Capra Marks now have visible CD's  
+  
+**Bugfixes & Optimization**  
+• Fixed pulling a fast one on Korin/Drefa  
+• Fixed dungeons having overly high ingredient spawn rates  
+• Fixed summoning Dread Serpent outside of the Voidsea  
+• Fixed Gigamed Extermination event being listed improperly on job boards  
+• Reduced Storm Cage lag  
+  
+• 2x chests also 🐘
 
 ## **August 16th, 2024**
 
