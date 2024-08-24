@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 108071
+revid: 111052
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Hive]
@@ -24,6 +24,8 @@ He lets you trade three [enchantments](Enchantments.md) for a random enchant on 
 -   Laplace cannot enchant legendary weapons (ex. Crypt Blade, Curved Blade of Winds) or any weapon that cannot hold an enchant.
 -   Laplace cannot enchant duped weapons. It's impossible to know if your weapon is duped if you trade for it.
 -   Laplace cannot imbue weapons with Enchantments that are either unique or came out after the Verse 2 update. Such enchants are Tears of the Edenkite, Nemesis, Stormbreaker, Solar, Astral and Harrowing.
+
+Laplace will now also give you a random enchant grease for 5 knowledge if you ask what other things he can do for you.
 
 ## Trivia
 

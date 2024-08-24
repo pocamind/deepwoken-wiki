@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111023
+revid: 111055
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -498,7 +498,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same race or oath as you charms them briefly.
-    -   Does not effect mantra damage.
     -   Prerequisite: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
 
@@ -2376,7 +2375,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
-    -   Allies within AoE get a 10% DMG Buff
+    -   Allies within AoE get a 10% DMG Buff for 15 seconds.
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   Prerequisites: 100 Charisma, 50 Strength
 

@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 110959
+revid: 111059
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,8 +14,7 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
   
 
-\==Overview==SORRY
-
+  
 **The Voidsea** is a location in _Deepwoken_. It functions as an effective boundary for the playable [Luminants](Luminants.md).
 
 The **Voidsea** is an elusive and dangerous region which lays outside of Lumen. It is incredibly easy to mistakenly sail into during travelling if one strays too far from major islands or sea highways. The **Voidsea** covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
