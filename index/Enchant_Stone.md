@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 111138
+revid: 111147
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -16,7 +16,7 @@ categories: [Items, Relics, Layer 2]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | "A shard of enchantment, it can apply its given Enchant to your currently equiped weapon" |
+| desc | "A shard of enchantment, it can apply its given Enchant to your currently equipped weapon" |
 
 The **Enchant Stone** is a mythical-tier item that can be used to apply an [Enchantment](Enchantments.md) to your currently held weapon. Each stone is imbued with a random enchant/curse. When used, an option will appear to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone.
 
@@ -32,13 +32,13 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 -   Chance to obtain from final chest of [Hell Mode](Hell_Mode.md)
 -   Chance to obtain from a chest in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
-The Astral Enchant Stone is unique in that it can only be obtained through the [Weird Trader](Weird_Trader.md) or as a drop from [Star Knights](Star_Knight.md).
+The Astral Enchant Stone is unique in that it can only be obtained through the [Weird Trader](Weird_Trader.md) or as a drop from [Star Knights](Star_Knight.md) or [Moon Knights](Moon_Knight.md).
 
 ## Trivia
 
 -   You can't use enchant stones to enchant legendary weapons.
 -   You can use enchant stones on already enchanted weapons, it'll just switch the enchant.
--   Enchant Stones are undroppable, but sell for 200 notes! Cha-ching! (Do not do this.)
+-   Enchant Stones are undroppable, but sell for 200 notes! Cha-ching! (Do not do this unless you're desperate.)
 -   You can pass down Enchant Stones through the [Hippocampal Pool](Hippocampal_Pool.md) for 60 [Echoes](Echoes.md).
 
 -   Complex to explain, but you can use enchant stones on starter weapons you bought. However, you can't use them on the very first starter weapon your character begins with(if it's not an advanced starter). When trying to use on your first starter weapon, dialogue appears saying "This weapon is corrupted, denying the stone." For some ungodly reason with advanced starters; if you unequip then re-equip the weapon, the weapon isn't corrupt anymore.

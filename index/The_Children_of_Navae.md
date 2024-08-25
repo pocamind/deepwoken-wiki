@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 106564
+revid: 111151
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Factions, The Children of Navae]
@@ -38,6 +38,8 @@ There is only one [random encounter](Random_Encounters.md) in which you may assi
 -   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
 
 In the aftermath of this event, it is possible to give a Navaen hostage to the tribal leader if they are still alive.
+
+With the Jobs update that came out you can now gain reputation by doing Jobs for The Children of Navae.
 
 Reputation is gained more slowly with The Children of Navae than most other factions.
 

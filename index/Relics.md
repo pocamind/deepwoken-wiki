@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 110364
+revid: 111141
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -222,6 +222,46 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  |
+
+## Enchanting Relics
+
+Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weapons.md).
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Image</th>
+  <th>Description</th>
+  <th>Obtainment</th>
+</tr>
+<tr>
+  <td><figure>File:Umbral Knight Stone.png<figcaption></figcaption></figure></td>
+  <td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant a selected equipment item.
+  <ul>
+    <li><i>(Consumed upon usage)</i></li>
+  </ul></td>
+  <td>
+  <ul>
+    <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
+    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
+    <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with a random equipment enchant. Used to enchant a held weapon.
+  <ul>
+    <li><i>(Consumed upon usage)</i></li>
+  </ul></td>
+  <td>
+  <ul>
+    <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
+    <li>Exchange <a href="Knowledge.md">Knowledge</a> with <a href="Laplace.md">Laplace</a></li>
+    <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Lore Relics
 
