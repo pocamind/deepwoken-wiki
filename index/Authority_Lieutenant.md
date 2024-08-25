@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 106742
+revid: 111093
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -23,8 +23,8 @@ Their arsenal is composed of an Officer Sabre/Adretian Axe along with the [Flame
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | (Officier Sabre):Does a windup with the arm before hitting you with a lunge attack.
-(Adretian Axe):Does a windup by rising the weapon before slamming it's blade on you.
+| Critical | ([Officier Saber](Officer_Saber.md)):Does a windup with the arm before hitting you with a lunge attack.
+([Adretian Axe](Adretian_Axe.md)):Does a windup by rising the weapon before slamming it's blade on you.
 
  | ◯ | ◯ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
@@ -49,8 +49,8 @@ An Authority Lieutenant executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | (Officer Saber):Pins down opponent before slicing their throat.
-(Adretian Axe):Pins down the opponent before splitting their skull with the weapon.
+| Execute | ([Officer Saber](Officer_Saber.md)):Pins down opponent before slicing their throat.
+([Adretian Axe](Adretian_Axe.md)):Pins down the opponent before splitting their skull with the weapon.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 87940
+revid: 111112
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -28,6 +28,7 @@ This Outfit's Schematic can be found in:
 
 -   [Erisia](Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
--   [The Depths](The_Depths.md) (Chest)
--   [Deep Widow](Deep_Widow.md) (Chest)
+-   [The Depths](The_Depths.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)

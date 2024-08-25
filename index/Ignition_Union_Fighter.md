@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 107058
+revid: 111086
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -47,7 +47,7 @@ An Ignition Union Fighter executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Razor Cutlass](Razor_Cutlass.md) & [Silver Dagger](Silver_Dagger.md)\] Pins down opponent before slicing their throat.  
+| Execute | \[[Falchion](Falchion.md)\] Pins down opponent before slicing their throat.  
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
 
  |

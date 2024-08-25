@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 111073
+revid: 111108
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -88,3 +88,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   The Halo, upper, and lower feathers are all dye-able.
 -   You can Dye the Upper Feathers by dyeing your Primary Hair, If you want to have your wings as a different color from the hairs you have on, make this your Hair 1. (First Hair slot at the Barber) (14022927544) It is a Buzz Cut that can hide underneath most hairs.
 -   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md). However, drinking it will simply make you vomit.
+-   Updated on 25th August 2024 to be affected by Ganymede, Vesperian, and Chrysid.
+-   The color of the Hivekin wings do not change based on its variant, Instead you will have to dye your hair.

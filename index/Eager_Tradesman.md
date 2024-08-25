@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 110689
+revid: 111109
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found in:
 
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Fishing Chests](Fishing.md)
 
 ## Trivia

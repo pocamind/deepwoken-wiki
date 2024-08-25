@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 111070
+revid: 111075
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -31,7 +31,7 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 
 ## Description
 
-The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>), though it's rare. its maximum damage able to be achieved is 40.2 and a base of 18 if the user has 103 intelligence 100 medium and 6 proficiency with 3 star damage while equipping the Rosen ring.
+The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>) and it has a %1 drop chance. its maximum damage able to be achieved is 40.2 and a base of 18 if the user has 103 intelligence 100 medium and 6 proficiency with 3 star damage while equipping the Rosen ring.
 
 ## Critical
 

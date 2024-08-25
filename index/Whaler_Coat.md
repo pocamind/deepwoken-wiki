@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 110709
+revid: 111120
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -27,6 +27,7 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +15% Elemen
 This Outfit's Schematic can be found in:
 
 -   [The Depths](The_Depths.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Sea Event](The_Aratel_Sea.md)
 

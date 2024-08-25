@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 111068
+revid: 111125
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -2003,9 +2003,10 @@ Found from:
 
  | 
 
-_+10 Health, +1 Posture_
+_+10 Health  
++1 Posture_
 
-+3 Legendary Pip
++3 Legendary Pips
 
 _+Talent: Diver's Resilience_
 

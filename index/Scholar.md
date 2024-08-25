@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 107443
+revid: 111110
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -29,6 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Scholar's Intuition_, whi
 This Outfit's Schematic can be found in:
 
 -   [The Depths](First_Layer.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 

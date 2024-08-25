@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 110550
+revid: 111098
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -94,7 +94,7 @@ Fountain in the Hidden Village
 
 #### R&D
 
--   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon, provided it's eligible.
+-   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon, provided it's eligible. You can also purchase Enchant Grease from Laplace for knowledge, allowing the user to apply an enchant to their Equipment.
 -   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A Memory of Tides](Deepwoken_OST.md)" by Naktigonis.
 
 ### Canopy Plaza
@@ -129,13 +129,13 @@ The most powerful being in the universe rules over his subjects
 
 ## Observatory
 
-Greathive Aratel is home to the Celestial Telescope, which can give players insight on the [Lore](Lore.md) of Constellia and the Celestials.
+.Greathive Aratel is home to the Celestial Telescope, which can give players insight on the [Lore](Lore.md) of Constellia and the Celestials.
 
 Players can crank the telescope clockwise or counterclockwise to position it to other celestial objects:
 
 -   Turning it clockwise will show these images:
 
--   Turning it counterclockwise will show these images and give you a good chunk of experience (with a side effect of making you incredibly sad):
+-   Turning it counterclockwise will show these images, play the song "To Sleep, Dreaming \[Contours - 1\]" and give you a good chunk of experience (with a side effect of making you incredibly sad):
 
 ## Quests
 

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 107450
+revid: 111114
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -29,6 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Environmentalist_, which 
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   Bought at the Wind Trainer in [Isle of Vigils](Isle_of_Vigils.md)
 -   Chests from [Primadon](Primadon,_Titan_of_the_East.md)

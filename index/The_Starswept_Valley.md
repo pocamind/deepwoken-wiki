@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 108108
+revid: 111092
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Eastern Luminant]
@@ -20,7 +20,7 @@ Glimmers of starlight mingle with the pungent rot that afflicts these lifeless s
 
 ## Overview
 
-Starswept Valley is the middle and northern part of [Aratel Island](Aratel_Island.md). Most of the area is a dead desert and is filled with conflicts between various factions and monsters. There is a large green-lined doors in the center that leads to [The Lordsgrove](The_Lordsgrove.md), which opens after you wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md). This is also the largest grinding area for Eastern Luminant.
+Starswept Valley is the middle and northern part of [Aratel Island](Aratel_Island.md). Most of the area is a dead desert and is filled with conflicts between various factions and monsters. There is a large green-lined doors in the center that leads to [The Lordsgrove](The_Lordsgrove.md), which open after you wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md). This is also the largest land mass in the Eastern Luminant.
 
 ## Points of Interest
 
@@ -133,11 +133,12 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 ## Trivia/Notes
 
--   The music for this area is [In Starstruck Sands](Deepwoken_OST.md) by Naktigonis
--   The combat music for this area is [Pyres of Glass](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [In Starstruck Sands](Deepwoken_OST.md) by Naktigonis.
+-   The combat music for this area is [Pyres of Glass](Deepwoken_OST.md) by Naktigonis.
 -   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
 -   Based on the skeletons and corals that can be seen everywhere, as well as the condition of the Lordsgrove, it can be speculated that this was once an undersea area or a forest full of life, but the nutrients were sucked away by the planting of [Greathive](Greathive_Aratel.md).
--   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision, so you won't be able to tell when to dodge its 200 damage moves.
+-   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision, so you won't be able to tell when to dodge its 200 damage move.
 -   Be wary of [Stone Knights](Stone_Knight.md) or [King Threshers](Thresher.md#king-thresher) as they can spawn randomly without warning.
--   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to Mercille at the [Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for loot.
+-   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to [Mercille](Mercille.md) at the [Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for Aratel Island loot.
+-   If, during the Authority Captain vs Hive Mech event, the battle is interrupted by an outside aggressor and said aggressor is then slain, both the [Hive mech](Hive_Construct.md) and [Authority Captain](Authority_Captain.md) will sometimes stop fighting each other, a bug which has been in the game for a long period of time.

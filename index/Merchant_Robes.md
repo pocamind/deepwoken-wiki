@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 107486
+revid: 111121
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -32,6 +32,7 @@ This Outfit's Schematic can be found by:
 
 -   Buying it from [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   Finding it in [The Depths](The_Depths.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Fishing](Fishing.md)
 
 ## Trivia/Notes

@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 110082
+revid: 111122
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -33,6 +33,7 @@ This Outfit's Schematic can be found in:
 -   [Megalodaunt On a Ship (chest)](Random_Encounters.md#megalodaunt-on-a-ship)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [The Depths](The_Depths.md) (Chest)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [False Merchant Ships (Chest)](Random_Encounters.md#false-merchant-ship)
 -   [Rogue Construct](Rogue_Construct.md) (Chest)
 

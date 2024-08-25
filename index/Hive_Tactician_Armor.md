@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 107378
+revid: 111115
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -33,6 +33,7 @@ This Outfit's Schematic can be found in:
 
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Aratel Island](Aratel_Island.md)
 -   [Minityrsa](Minityrsa.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)

@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 108014
+revid: 111119
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, The Central Authority]
@@ -28,6 +28,7 @@ This Outfit's Schematic can be found:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [The Depths](The_Depths.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 
 ## Trivia
