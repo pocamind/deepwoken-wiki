@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 109170
+revid: 111152
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -243,7 +243,7 @@ Bandits raiding a Guild Base.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
--   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, Primadon's Hunting Grounds, and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
+-   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, The Monkey's Paw and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
 -   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
 -   All the books will be saved if you delete the library.
 -   As training Charisma requires an audience, you can always train charisma inside your guild base as all of the guild NPCS are counted as an audience.

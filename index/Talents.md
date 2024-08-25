@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111095
+revid: 111164
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -90,6 +90,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   You can fall further before incurring fall damage.
+    -   The Boulder Climb talent has been merged into Kick Off.
     -   3 Second cooldown.
     -   Prerequisite: 20 Agility
 
@@ -1593,13 +1594,6 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
     -   Prerequisites: 85 Willpower
-
-### Mountain Climber
-
-> _**"I scale the tallest peaks."**_
-
--   Boulder Climb \[Common Talent\] - Your climb height increases when you slide jump. (+1 Passive Agility)
-    -   Prerequisite: 30 Agility
 
 ### Mr Charm
 

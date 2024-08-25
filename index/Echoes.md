@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 110208
+revid: 111159
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -65,7 +65,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes. ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this.)
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
--   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Hero's Blade of Frost or Crypt Blade, awarding 5 Echoes.
+-   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a [Hero's Blade of Frost](Hero_Blades.md) or [Crypt Blade](Crypt_Blade.md), awarding 5 Echoes.
 -   Using an [Enchant Stone](Enchant_Stone.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
@@ -322,6 +322,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Trivia
 
+-   Buying echo modifiers will apply their affects to previously created slots
 -   In order to max out every single Echo upgrade, you need exactly 1,700 Echoes. (13 S-Ranks or 4 W-Ranks)
 -   ~Combining all Modifiers awards a 3.2x increase.~ This is only true visually, as dividing 441/3.2 will give you 137.8125. However, dividing 441/3.15 will give you 140. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.

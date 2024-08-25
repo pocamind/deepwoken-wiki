@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 107929
+revid: 111155
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations, The Hundred Legions]
@@ -92,7 +92,7 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   [All hero blade variants](Hero_Blades.md)
 -   All legendary weapons
 
--   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Flimsy Glider](Gliders.md) which can only be used 10 times despite its number of uses description. It also sort of falls more than glides and is mainly used for preventing fall damage.
+-   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Flimsy Glider](Gliders.md) which can only be used once after its initial use to drop from the spawn. It also falls faster than a normal glider and will auto deploy if once you go under a certain height threshold.
     -   Flimsy Gliders auto-deploy when you're about to hit the ground.
 -   Only one group can win.
 -   Participants are currently known to be grouped in parties of two.
@@ -105,6 +105,6 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 -   You cannot obtain Warrior's Respite from totems.
--   As of August 29, 2023, Battle Royale is closed for more maintinence on the gamemode itself and squad/duos updates.
+-   If you spawn with the Tiran race in the lobby you still gain the feather glider which retains its infinite uses and falls slower than the flimsy glider.
 -   Battle Royale was accessible to youtubers during the Content Creator Royale on July 1, 2023 and it was released to the public on August 25, 2023 for limited-time testing.
 -   According to Agamatsu in his stream "[Official Deepwoken Youtuber Battle Royale](https://www.youtube.com/watch?v=eWXZPkM0Xpo&t=7909s)", the developers were supposedly debating whether or not to make this game mode public due to it potentially "being too much fun" and killing off the main game, thus they decided to restrict the game mode to only weekends.
