@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 110077
+revid: 111070
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -41,7 +41,7 @@ Every M1 of Soulthorn applies a soul stack, 3 at max. At max stacks your opponen
 
 No stack: Nothing happens
 
-1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you.
+1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you. If used with 2 stacks, Block-breaks the opponent
 
 3 stacks: Teleports to your opponent and unleash multiple slashes
 

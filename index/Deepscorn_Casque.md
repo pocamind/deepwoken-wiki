@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 110909
+revid: 111066
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -12,7 +12,7 @@ categories: [Equipment, Head, Helmets]
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | Cant be sold |
+| selling price | 100 |
 | requirements | None |
 | weight | 1 |
 | innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |

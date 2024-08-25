@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111055
+revid: 111061
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2670,6 +2670,7 @@ _**"I seek the qualities of vocalist."**_
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
     -   Prerequisite: 5 Fortitude.
+-   Diver's Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
 
 ## Other
 

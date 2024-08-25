@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 110776
+revid: 111068
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3922,6 +3922,21 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+
+ | N/A |
+| File:Wormwarder regular.png | 
+
+[Wormwarder Lantern](Wormwarder_Lantern.md)
+
+ | 
+
+_+10 Carry Load_  
+
+ | 
+
+Found from:
+
+-   [Crafting](Crafting_Station.md)
 
  | N/A |
 |  | 
