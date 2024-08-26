@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 109791
+revid: 111176
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Layer 2, Floor 2]
@@ -37,8 +37,8 @@ Kyrsan Medallions can be exchanged for lots of services, crucial for the end-gam
 
 1.  [Knowledge](Knowledge.md) \[5 Medallions\] - Gives you five knowledge points.
 2.  [Enchant Stone](Enchant_Stone.md) \[5 Medallions\] - Gives you an enchant stone engraved with a random enchant that can be used to enchant your current weapon.
-3.  [Equipment Enchant](Enchantments.md) \[5 Medallions\] - Applies a random enchant to a piece of equipment that you're holding out.
-4.  Equipment Dye \[1 Medallion\] - Gives you an item that allows you to dye one of your armor pieces, your Bell, your Oath colors or your Hairs. To remove dye talk to barber
+3.  [Enchant Grease](Enchant_Grease.md) \[5 Medallions\] - Gives you an enchant grease engraved with a random enchant that can be used to enchant any of your currently equipped [Equipment](Equipment.md).
+4.  [Equipment Dye](Dye_Packet.md) \[1 Medallion\] - Gives you an item that allows you to dye one of your armor pieces, your Bell, your Oath colors or your Hairs. To remove dye talk to barber
 5.  Can you teach me the secret of Radiant magic? \[30 Medallions\] - Grants you the [Oath: Dawnwalker](Oaths.md). Requires additional Medallions in order to unlock Talents and mantras.
 6.  \[if you have the Dawnwalker Oath\] Can you enhance my Radiant mastery? \[15 Medallions\] - Gives Dawnwalker users an additional skill. There are three skills in total and the base oath costs 30 medallions to obtain, meaning it costs 75 medallions to max out the oath.
 
@@ -49,5 +49,5 @@ Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 ## Trivia
 
 -   There is proof of obtaining them from Fishing in the past; whether or not this has been shadow patched is unclear.
--   Dyes cannot be dropped, but this can easily be bypassed by dyeing a piece of armor and then dropping that armor piece to whoever needs it.
--   The medallions used to be kept as a physical item after leaving the Second Layer. This was changed after rework in order to fight exploiters abusing the system.
+-   [Dye Packets](Dye_Packet.md) cannot be dropped, but this can easily be bypassed by dyeing a piece of armor and then dropping that armor piece to whoever needs it.
+-   The medallions used to be kept as a physical item after leaving the [Second Layer](Second_Layer.md). This was changed in order to fight exploiters abusing the system.

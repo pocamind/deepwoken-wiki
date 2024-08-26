@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 111165
+revid: 111166
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -50,7 +50,7 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 ## Trivia
 
--   Payback (excluding mirror variant) can be either blocked, parried or dodged.
+-   Payback (excluding instant and delayed variant) can be either blocked, parried or dodged.
 -   The 1st variation can reflect any status effects given to the user during the timeframe i.e. getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".

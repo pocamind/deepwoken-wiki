@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 107311
+revid: 111170
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -21,7 +21,7 @@ Gliders are a utility that can be crafted with a schematic given in [Pathfinder'
 
 ## Obtaining
 
-The _Glider Schematic_ can be found in [Lower Erisia](Lower_Erisia.md), making your way through the Mudskipper cave. Alastir can be found near a shrine above the Pathfinder's Respite. Talking to them will give you the respective echo schematic. The _Glider Schematic_ can't be used to build both the **Glider** and the **Sharkscale Glider** you will always get this at Power 2.
+Anyone is able to craft a glider at any point. Simply head to a [Crafting Station](Crafting_Station.md), use the glider recipe (x2 Stick, x2 Cloth) and craft it. **You no longer need a schematic to craft it.**
 
 Both Gliders and Sharkscale Gliders can also be sold by [Chili](Travelling_Merchant.md) in merchant ships.
 
@@ -32,8 +32,6 @@ The Glider can only be crafted at a [Crafting Station](Crafting_Station.md) or u
 The Sharkscale Glider can also only be built at a Crafting Station or with the Master Craftsman Talent, and must be crafted with two Sticks and two Megalodaunt Hides.
 
 The Flimsy Glider can't be crafted, it is only usable in the [Battle Royale](Battle_Royale.md) gamemode.
-
-note: you no longer need a schematic to craft the glider
 
 ## Usage
 
@@ -50,3 +48,4 @@ An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtai
 ## Trivia
 
 -   The Feathered Glider comes in 4 different colors, each matching the race variant of the Tiran using it. (Crow variant pictured.)
+-   The glider used to require a schematic to craft, however this is no longer the case. It is unlocked by default.

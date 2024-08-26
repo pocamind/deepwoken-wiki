@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 110961
+revid: 111167
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -82,11 +82,12 @@ Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's 
 
 ## Effect
 
-For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another Trait.
+For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another Trait. You can also remove attribute points.
 
 ## Detail
 
 -   Bare in mind, you still cannot add more than 6 Points into a given Trait.
+-   You also cannot remove more than 3 attribute points.
     
 
 **Shrine of Chance:**

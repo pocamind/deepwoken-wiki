@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 111077
+revid: 111178
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -381,7 +381,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 </tr>
 <tr>
   <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
-  <td>0 LHT</td>
+  <td>25 LHT</td>
   <td>13.5</td>
   <td>20%</td>
   <td>10%</td>
@@ -2635,7 +2635,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 -   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: [Hivelord Hubris](<Hivelord's_Hubris.md>), [Divine Greatsword](Crazy_Slots.md) (30)
-    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY)
+    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md) (100 HVY)
     -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kystreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernarch](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Soulthorn](Soulthorn.md)/[Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 109065
+revid: 111174
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -159,6 +159,11 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 -   Applies Metal Rod on hit.
 
  |
+|  | Iron Quills
+
+(★★☆)
+
+ | Conjure metal from within, impaling surrounding entities |  |  |
 | 
 
  | Metal Armament
