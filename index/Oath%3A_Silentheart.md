@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 110958
+revid: 111206
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -112,6 +112,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
 -   Mani Katti is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti.
+-   If Dreadstar doesnt't appear, interact with one of the Ghosts on the ship.
 
 ## Trivia
 

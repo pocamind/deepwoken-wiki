@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 110841
+revid: 111211
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
@@ -19,9 +19,9 @@ categories: [NPCs, Lore]
 
 ## Description
 
-Nimea is a NPC inside a house in [The Hidden Village](The_Hidden_Village.md) to shares information about [Lightkeepers](Lightkeep.md). As well as a backstory on the situation of the Hidden Village, on the status of the civilians and what may have happened to them.
+Nimea is an NPC located inside a house in [The Hidden Village](The_Hidden_Village.md). She shares information about [Lightkeepers](Lightkeep.md), as well as a backstory on the situation of the Hidden Village, on the status of the civilians and what may have happened to them. She also talks about her relationship with the Lightkeeper of the Eastern Lighthouse, Viqh.
 
-She is a File [Etrean](Etrean.md) that wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Looking at her wrinkles, it could be concluded that she is in Stage 2 of [Aging](Age.md), making her 50-59 years old.
+She is a File [Etrean](Etrean.md) that wears the [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Looking at her wrinkles, it could be concluded that she is in Stage 2 of [Aging](Age.md), making her possibly 50-59 years old.
 
 ## Dialogue
 
@@ -119,26 +119,29 @@ She is a File [Etrean](Etrean.md) that wears a [Hive Tactician Armor](Hive_Tacti
   <td colspan="6">Oh... Yes, I suppose that's right. They wouldn't squander her Gift... Tell me. Does she... Does she remember me?</td>
 </tr>
 <tr>
-  <td colspan="6">...</td>
-  <td colspan="3">I don't know... Sorry.</td>
-  <td colspan="3">She writes poetry.</td>
+  <td colspan="6">End (Poetry End)</td>
+  <td colspan="3">I'm not sure, sorry.</td>
+  <td colspan="3">Well, she's writing poems.</td>
 </tr>
 <tr>
-  <td colspan="6">Thank you for giving me some peace of mind, friend. It lightens my heart to know that she still lives. And that she still writes those soppy poems, even if I'm not there to receive them. <i>*She smiles wearily, her mind in other places.*</i></td>
-  <td colspan="6">Thank you... For at least letting me know that she still lives. I only hope that her heart remains strong after these years, despite her imprisonm- ...despite her gift.</td>
+  <td colspan="6"></td>
+  <td colspan="3"><i>*She holds her head in her hands and shakes, sobbing.*</i> I... I need a moment...</td>
+  <td colspan="3">TEMPLATE (May lead to [See first instance.])</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6"></td>
+  <td colspan="3">End (Too Busy End)</td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
 
-**Subsequent Encounters:**
+**Subsequent Encounters (Poetry):**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin (After telling Nimea the News)</td>
+  <td colspan="12">Begin (After telling Nimea that Viqh still does poetry)</td>
 </tr>
 <tr>
   <td colspan="12">Thank you for giving me some peace of mind, friend. It lightens my heart to know that she still lives. And that she still writes those soppy poems, even if I'm not there to receive them. <i>*She smiles wearily, her mind in other places.*</i></td>
@@ -181,3 +184,29 @@ She is a File [Etrean](Etrean.md) that wears a [Hive Tactician Armor](Hive_Tacti
 </tr>
 </tbody>
 </table>
+
+**Subsequent Encounters (Too Busy):**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin (After telling Nimea that we don't know)</td>
+</tr>
+<tr>
+  <td colspan="12">Thank you... For at least letting me know that she still lives. I only hope that her heart remains strong after all these years, despite her impronm- ...despite her Gift.</td>
+</tr>
+<tr>
+  <td colspan="12">What is this place?</td>
+</tr>
+<tr>
+  <td colspan="12">[See first instance.]</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+## Trivia
+
+-   You can get locked out of additional dialogue from Nimea if you press the right options. The right options being "I'm not sure, sorry."

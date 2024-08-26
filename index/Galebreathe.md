@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 107235
+revid: 111214
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -704,7 +704,7 @@ A World Without Song
 
  | 
 
-All of your wind attacks apply 'Suffocate'.
+Every 3 hits with a Wind Mantra now procs Suffocate.
 
  | 
 

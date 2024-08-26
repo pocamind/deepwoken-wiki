@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111164
+revid: 111207
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1361,6 +1361,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.
     -   Prerequisites: 30 Medium Weapon, Using a spear
+    -   Does not work with the [Imperial Staff](Imperial_Staff.md)
 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
