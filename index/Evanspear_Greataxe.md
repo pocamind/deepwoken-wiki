@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 111197
+revid: 111199
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -26,7 +26,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Evanspear Hand Axe is a [Light](Weapons.md)that requires 70 Heavy Weapons Scaling to use. It's one of the few Heavy Weapons dealing additional Bleed Damage (7.8), balanced out by its subpar swing speed.
+The Evanspear Hand Axe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional Bleed Damage (7.8), balanced out by its subpar swing speed.
 
 It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md) as well.
 

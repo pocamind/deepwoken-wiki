@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 107674
+revid: 111201
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -35,7 +35,7 @@ While using a Katana, the Poser's Ring makes it so that your Katana's attacks an
 -   Mantras are useable with Poser's Ring.
 -   It cannot be dropped as it will be soulbounded to your character.
 -   The Poser Ring sheathe damage cannot be parried or nullified in any way.
--   Damage from the Poser's Ring sheathe cannot exceed 70% of a player's health.
+-   Damage from the Poser's Ring sheathe cannot exceed 70% of a Player's Max Health.
 -   It is possible to obtain this the moment Power 2 is achieved if [Attunement-less](Attunement-less.md) was chosen and only Weapon points were invested.
 -   Actually does a very little amount of dmg until sheathed rather than doing "0" dmg (around 10 or so if using shattered katana, a little less with normal katana)
 -   Shares the same model as [Diver's Ring](<Diver's_Ring.md>)
