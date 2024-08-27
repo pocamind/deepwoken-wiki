@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 111227
+revid: 111229
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -108,7 +108,8 @@ File:ASTRALPURPLECLOUDYEAAAAAAAAAA.png
 
 -   Meeting the requirement of MED, the weapon deals 26 damage.
 -   At max MED, the weapon deals 27.6 damage.
--   Despite being considered a "katana," the Poser's Ring doesn't work with it, as the purple cloud does blunt damage and uses your fists, only exception being its critical attack.
+-   Despite being considered a "katana," the Poser's Ring doesn't work with it.
+    -   This is because the Purple Cloud is sheathed most of the time, and when it is unsheathed for the critical, the blade is put right back in its place; so it would just deal delayed critical damage
 -   Despite being a pseudo fist-type weapon, it does not proc/activate Talents related to fists.
 -   Its critical attack is based off the martial art "Iaido."
 -   Currently bugged when enchanted with [Stormbreaker](Enchantments.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.

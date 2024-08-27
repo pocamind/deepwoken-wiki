@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 111223
+revid: 111232
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community, Deepwoken]
@@ -80,7 +80,7 @@ notices:
 -   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   in December 30th, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
 -   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
-    -   In the July 12th update, Bodyduard Detail was removed.
+    -   In the July 12th update, Bodyguard Detail was removed.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the December 20th, 2022 update, Boom, Headshot was merged into Lethal Precision.
 -   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.
