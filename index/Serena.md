@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 111234
+revid: 111255
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Serena is a lynx [Felinor](Felinor.md) who wears the Veteran Adventurer [Outfit](Outfits.md) and can randomly spawn around [Starswept Valley](The_Starswept_Valley.md). When talked to, she asks for water. If you have a canteen with water, you can give her a sip. From here, two things can happen:
+Serena is a lynx [Felinor](Felinor.md) who wears the [Veteran Adventurer](Veteran_Adventurer.md) [Outfit](Outfits.md) and can randomly spawn around [Starswept Valley](The_Starswept_Valley.md). When talked to, she asks for water. If you have a canteen with water, you can give her a sip. From here, two things can happen:
 
 -   She thanks the player and rewards them with a chest.
 -   She attacks the player, if defeated, will still grant the chest.

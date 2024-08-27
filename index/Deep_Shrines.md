@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 111167
+revid: 111251
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -235,7 +235,7 @@ Free Mystic available away from Castle Light in Temple of The Heart, this is pri
 ## Trivia
 
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit and the Shrine of Mastery.
--   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, may be a reference to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
+-   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, are obivous references to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
     -   Ironically, in that game, Shrine of Order was more or less a joke, providing no utility whatsoever.
         -   It was theorized this was the intent behind Deepwoken's Shrine of Order, but due to it actually allowing for the creation of extremely powerful builds, the developers found themselves unable to roll back the change without creating huge backlash as well as resulting in builds that existed before any changes to the Shrine being far more powerful than any new ones after the changes.
