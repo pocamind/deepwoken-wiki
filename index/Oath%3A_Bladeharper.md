@@ -1,9 +1,9 @@
 ---
 title: "Oath: Bladeharper"
-revid: 110947
+revid: 111221
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Bladeharper
@@ -24,12 +24,12 @@ categories: [Oaths]
 ## Obtainment
 
 1.  The oath requires a total of 75 Medium Weapon points, **or** a total of 90 cumulative points allocated throughout any Weapon stats, alongside 25 AGL or STR. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the oath quest.
-2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. Doing so will teleport you to a new server where a fight with an NPC will commence.
-3.  Upon executing the NPC, the Oath will be granted to the player.
+2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. This will transport you to Blade Within.
+3.  Defeat Mind's Reflection (a 1:1 copy of yourself, including weapon, talents and mantras) to obtain the oath.
 
 ## Progression
 
-The oath can be progressed through interaction with the different other [Sky Statues](Sky_Statue.md) and defeating the NPC again with each, up to three times, granting the player up to 2 mantras and corresponding talents.
+The oath can be progressed through interaction with the different other [Sky Statues](Sky_Statue.md) and defeating Mind's Reflection again with each, up to three times, granting the player up to 2 mantras and corresponding talents.
 
 ## Effects
 
@@ -73,3 +73,9 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 -   The "Blade Within" fight is a reference to Bleach's bankai obtainment.
 -   The NPC's moveset doesn't change if you die and go back to fight it again.
 -   You are unable to skip the progression of this oath using the usual 10 knowledge skip, similar to [Chainwarden](Oath%253A_Chainwarden.md).
+
+## Gallery
+
+rip bozo
+
+Minds reflection being Held

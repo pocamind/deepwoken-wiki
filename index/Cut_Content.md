@@ -1,9 +1,9 @@
 ---
 title: Cut Content
-revid: 108433
+revid: 111223
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Community]
+categories: [In progress with reason, InProgressPages, Community, Deepwoken]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -45,8 +45,9 @@ notices:
 -   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation.
 -   **Mantra Creation** - Mantras used to be created via ingredients found as loot. This was eventually replaced with gaining Mantras in your hands from levelling up.
 -   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
--   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on (XX/XX/XX).
--   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge. Now it absorbs some of the damage from your burn tick damage and turns it into healing; some of the damage from Lava Serpent eruptions is also converted into healing.
+-   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27th 2021, just 7 days after release.
+-   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18th 2022.
+-   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
 
 ## Sparks
 
