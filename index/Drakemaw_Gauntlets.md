@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 109591
+revid: 111256
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
@@ -38,6 +38,7 @@ The user performs a fast forward thrust that, while it does not instantly guardb
 
 ## Trivia
 
+-   This weapon is not droppable even though its not a weapon that can soulbound
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.
 -   This weapon comes with a light source. The light source is still visible when using Curse of Yun'Shul.
