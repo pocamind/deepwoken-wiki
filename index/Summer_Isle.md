@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 109760
+revid: 111273
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
@@ -75,7 +75,7 @@ Within the castle's ground floor, situated in the same room as the Gunsmith.
 
 Within the castle's ground floor, on the opposite side of where the Antiquarian/Gunsmith are.
 
--   Didn't check if you need neutral/positive reputation to communicate with them.
+-   You can talk to them even as an enemy of Summer Company.
 
 File:Red Crate.png
 

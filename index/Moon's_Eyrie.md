@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 111058
+revid: 111274
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
@@ -31,4 +31,4 @@ Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments
 
 Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), since this island is it's own area and not just part of the [Voidsea](Voidsea.md), dying a PVE death on this island will not send you to The Depths.
 
-There is a chance that you could possibly be teleported away from the island due to Void Sea's teleportation mechanic. If this happens unfortunately you'll have to swim back to the island and try another time.
+There is a chance that you could possibly be teleported away from the island due to Void Sea's teleportation mechanic. If this happens unfortunately you'll have to swim back to the island and try another time. Facing the island with your character may reduce the chances of getting teleported. (Take it with a grain of salt.)
