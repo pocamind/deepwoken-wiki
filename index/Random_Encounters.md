@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 110270
+revid: 111289
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -271,7 +271,7 @@ WARNING: Dropping the supply crate into the ocean will softlock the quest; both 
 
 A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur.md).
 
-Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen.
+Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen. He will also accept a [Redd Juice](Redd.md) instead of a canteen of water.
 
 ### _The Depths (Scyphozia)_
 
@@ -329,8 +329,8 @@ An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so f
 
 ### The Depths Collapse
 
-The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through the First Layer causing meteors to rain from above. 2-4 boulders slam down landing near the player and spawn monsters from each impact. These range from Threshers, Megalodaunts, and Deep Owls to even Nautilodaunts. These monsters are frequently hostile to each other and are eligible to be corrupted. After you killed all the mobs, a chest will spawn for each boulder that the event spawned. The loot has an extremely high likelihood of having at least one Master Schematic and Deep Gem per chest.
+The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through the First Layer causing meteors to rain from above. 2-4 boulders slam down landing near the player and spawn monsters from each impact. These range from [Threshers](Thresher.md), [Megalodaunts](Megalodaunt.md), and [Deep Owls](Deep_Owl.md) to even [Nautilodaunts](Nautilodaunt.md). These monsters are frequently hostile to each other and are eligible to be corrupted. After you killed all the mobs, a chest will spawn for each boulder that the event spawned. The loot has an extremely high likelihood of having at least one [Master Schematic](Outfits.md) and [Deep Gem](Mantra_Modifiers.md) per chest.
 
 ### Resonant Dawn
 
-A meteor crashes down into the area, spawning an [Astral Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Astral Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
+A meteor crashes down into the area, spawning an [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).

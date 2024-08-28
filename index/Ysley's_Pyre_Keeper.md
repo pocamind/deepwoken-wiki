@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 111217
+revid: 111295
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -54,6 +54,8 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 **Sliding:** Leaps forward slashing with a flurry of 3 blows.
 
 **Crouching:** Performs the normal critical, but sped up significantly.
+
+поверь в гитлера сука мудвокен вернётся
 
 ## Trivia
 
