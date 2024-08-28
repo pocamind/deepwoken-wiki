@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 108541
+revid: 111270
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -56,14 +56,14 @@ The Central Authority is among the factions to have a Bounty Board.
 
 ## Trivia
 
--   It's very bizarre that this even has to be stated, but the Central Authority are very much racist. Them employing other Races is merely pragmatism, and is something that has been done by numerous infamously racist groups in real life.
+-   The Central Authority is often considered to be very racist, and reasonably so, seeing as their upper ranks are composed nearly exclusively of [Adrets](Adret.md). However, in the book [The Hammer's Call](Books.md#the-hammers-call), in the final paragraph, the Authority is compared to the [Ignition Union](The_Ignition_Union.md), both of which are described as "a boiling pot of ethnicities and cultures." That being said, the Authority still has a clear favor for Adrets, at least militarily.
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
--   The Central Authority has clear relations with every faction except Celtor.
+-   The Central Authority has clear relations with every faction except [Celtor](Lost_Celtor.md).
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
     -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children Of Navae also seem to contradict with this mission.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
--   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Starswept.
--   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
+-   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Aratel.
+-   There will be an Authority Origin in future updates, possibly alongside the Warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
 -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.

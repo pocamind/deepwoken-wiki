@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 111141
+revid: 111269
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -236,7 +236,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
 </tr>
 <tr>
   <td><figure>File:Umbral Knight Stone.png<figcaption></figcaption></figure></td>
-  <td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant a selected equipment item.
+  <td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant a held weapon.
   <ul>
     <li><i>(Consumed upon usage)</i></li>
   </ul></td>
@@ -249,7 +249,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with a random equipment enchant. Used to enchant a held weapon.
+  <td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with a random equipment enchant. Used to enchant a selected equipment item.
   <ul>
     <li><i>(Consumed upon usage)</i></li>
   </ul></td>

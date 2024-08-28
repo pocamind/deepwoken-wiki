@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 110845
+revid: 111263
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -47,7 +47,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
     -   Though it is not [Shadowcast](Shadowcast.md),[\[2\]](#cite-note-arch-2) it is similar in appearance to it, and in "[God in the Machine](Books.md#god-in-the-machine)," after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgment attack.
 -   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts about Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "[the Forge of Sin](Relics.md#lore-relics)."
-    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads with his contractor oath before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel notes that the "new leader is very strange," suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be because of the Canor's history with the Authority, with whom they are currently at war; however, considering that player Canors are met with little discrimination, it may be simply because Schnitzel appears to have rather little education.
 -   His goal is seemingly to manipulate Etris' prospects to seize the island to the Tides, as once happened to Celtor in the south thanks to their mysterious new leader.

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 110960
+revid: 111268
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -72,15 +72,15 @@ Apply charm per every m1, and Mantra used, even without having the Charismatic C
 
 ### Mark of Jurik
 
-Buffs the sanity of one or more people near you. Applied if the person is near a campfire or level 5. Signified by teal particles surrounding the body.
+Buffs the sanity and health regeneration of one or more people near you. Applied if the person is near a campfire or level 5. Signified by teal particles surrounding the body.
 
 ### Mark of Nemit
 
-Buffs the nourishment of food for one or more people near you. Applied if the person is near a campfire or level 5. Signified by light green particles surrounding the body.
+Buffs the nourishment of food and health regeneration for one or more people near you. Applied if the person is near a campfire or level 5. Signified by light green particles surrounding the body.
 
 ### Mark of Ku
 
-Buffs the regen of one or more people near you. Applied if the person is near a campfire or level 5. Signified by light red particles surrounding the body.
+Buffs the blood and health regeneration of one or more people near you. Applied if the person is near a campfire or level 5. Signified by light red particles surrounding the body.
 
 ## Harmful Status Effects
 

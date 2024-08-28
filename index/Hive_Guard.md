@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 111205
+revid: 111266
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -72,7 +72,7 @@ A Hive Guard executes it's opponent after knocking them:
 
 ## Tips
 
--   Don't underestimate them. Voidwalkers who entirely ignore them and focus on chasing their target are often quickly overwhelmed by Hive Guards due to their Flame Assault allowing them to quickly catch up with and ragdoll players.
+-   Don't underestimate them. Anyone who entirely ignore them and focus on chasing their target are often quickly overwhelmed by Hive Guards due to their Flame Assault allowing them to quickly catch up with and ragdoll players.
 
 ## Trivia
 
