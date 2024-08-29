@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111258
+revid: 111338
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -825,6 +825,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)
     -   Prerequisites: 15 Strength, 5 Intelligence
+    -   Does not work with Critical Attacks
 
 ### Falling Star Guard
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 111172
+revid: 111330
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]

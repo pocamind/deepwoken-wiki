@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 106602
+revid: 111341
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2, Quests]
@@ -17,7 +17,7 @@ categories: [NPCs, Floor 2, Layer 2, Quests]
 
 ― Naerotiv
 
-An NPC found in **Floor 2** of the [Second Layer](Second_Layer.md), behind a wall on the right side of the escape path. He made and wields the [Kyrswynter](Kyrswynter.md).
+An NPC found in **Floor 2** of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
 
 He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
 
