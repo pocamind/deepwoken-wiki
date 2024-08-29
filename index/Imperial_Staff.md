@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 110156
+revid: 111352
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals]
@@ -50,7 +50,7 @@ The Imperial Staff possess three different criticals, all of which grant the use
 -   Meeting the requirement of MED and STR, the weapon deals 23.8 damage.
 -   At max MED and STR, the weapon deals 31.1 damage.
 -   The Imperial Staff is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore.
--   The first (and currently only) weapon (that isn't a Heavy weapon) to scale off of Strength, and the only Medium Weapon that requires Strength.
+-   The first weapon to scale off of Strength, and the only Medium Weapon that requires Strength.
 -   The first blunt spear.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers.
 -   This weapon cannot be enchanted.

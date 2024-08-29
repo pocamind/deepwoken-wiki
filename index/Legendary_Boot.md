@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 84237
+revid: 111355
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, NPCs]
@@ -22,11 +22,11 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 
 ### Dialogue
 
-> Legendary Boot: The Legendary Boot waits for the day that one worthy would claim it.
+> Legendary Boot: The Legendary Boot waits for the day that one _**worthy**_ would claim it.
 
 > 1\. \[ Claim it\]
 
-> Something stirs within the depths of your soul, It's as if your very birth, your very reason for existing was meant for this moment. (Requires 100 Light Weapon, Jus Karita, and the Worth [Regalia](Regalia.md).)
+> Something stirs within the depths of your soul, It's as if your very birth, your very reason for existing was meant for this moment. **(Requires 100 Light Weapon, Jus Karita, and the _WORTH_ [Regalia](Regalia.md).)**
 
 > \[Just take it already\]
 
@@ -34,29 +34,29 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 
 > \[Wear it\]
 
-> As you slip your foot into the boot, a sudden realisation dawns on you.
+> As you slip your foot into the boot, a sudden realization dawns on you.
 
 > What?
 
-> Your feet are too big for the Legendary Boot.
+> Your feet are too big for the **Legendary Boot.**
 
 > 2\. \[End Dialogue\]
 
-> Legendary Boot: Someone WORTHY.
+> **Legendary Boot**: Someone _**WORTHY**_.
 
-> 1\. But I'm very powerful, I should be worthy. (Requires power 8)
+> 1\. But I'm very powerful, I should be _worthy_. (Requires power 8)
 
-> Legendary Boot: Not powerful enough to be WORTHY.
+> **Legendary Boot: Not powerful enough to be _WORTHY_.**
 
-> 2\. But I've unlocked my resonance, I should be worthy.
+> 2\. But I've unlocked my resonance, I should be _worthy_.
 
-> Legendary Boot: You think wielding a musical instrument makes you WORTHY?
+> **Legendary Boot: You think wielding a musical instrument makes you _WORTHY?_**
 
 Dialogue
 
 ### Notes
 
 -   It's probably impossible to obtain the legendary boot. It's just a joke.
--   Perhaps, we don't know yet what it means to be worthy.
+-   Perhaps, we don't know yet what it means to be _**WORTHY**_.
 -   Justicar will get attention soon -Arch Mage
     -   This is the anklets of alsin + mantras

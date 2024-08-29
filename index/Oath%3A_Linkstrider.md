@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 110384
+revid: 111354
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -35,6 +35,8 @@ categories: [Oaths]
         -   Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
     3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 4 [Scarlet Lotuses.](Pristine_Lotus.md)
     4.  Interact with the white orb that appears in the middle.
+
+Extra note: You can use a mix of both knocked players and Scarlet Lotus.
 
 ## **Progression**
 
