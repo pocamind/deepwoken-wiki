@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 111339
+revid: 111343
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement, Elemental Ingredients]
@@ -20,9 +20,9 @@ categories: [Items, Attunement, Elemental Ingredients]
 
 ## Description
 
-Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md). They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils and thus unlock fighting [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md).
+Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md). They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils and thus unlock fighting [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md). They are also required for the [Windrunner Robes](Windrunner_Robes.md) or the [Justicar](<Justicar_(Origin).md>) outfits.
 
-## Tips
+## Obtainment Tips
 
 -   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldier](Etrean_Soldier.md) can drop Gale Stones, and you will not lose reputation among killing them in events at [Erisia](Erisia.md).
 -   The [Etrean Guardsmen](Etrean_Guardsmen.md) at [Etris](Etris.md) do not drop Gale Stones.

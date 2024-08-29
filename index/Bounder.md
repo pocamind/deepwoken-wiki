@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 110649
+revid: 111344
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -48,3 +48,4 @@ There are **21** images, be warned
 -   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
 -   It was said by Arch\_Mage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Their cry is a heavily distorted wolf howl.
+-   Their item drop, the Bounder Claw, can be taken out of Layer 2 without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller)

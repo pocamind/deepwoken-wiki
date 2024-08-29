@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 107735
+revid: 111349
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1270,454 +1270,525 @@ O pardoner of mine, your Lachrymosa is the cancer that keeps me up at night. We 
   
 O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it pulls us closer towards a demise we can never crawl out of. Your devotion to the slaughter of ourselves is not the future for us, my Pardoner. I seek light, just as you. But, oh pardoner of mine, why must we light ourselves ablaze?
 
-### Operation 'Puppet Master' Report
+  
 
-> \[CLASSIFIED\]
-> 
-> //-- The contents of this document are entrusted to reach Warden Class command. Should this document be found by Central Authority personnel ranking below Warden Class it is to be thoroughly destroyed in the scenario where it cannot be safely delivered to High Command. --// Authorized Operation : Puppet Master Classification : Opposition Commander Status Correspondent : Lotus - Authority Inquisitor, Class II Operation Status : Compromised
+### Operation 'Distant Light' Report
+
+> > \[CLASSIFIED - ADMIRAL THORM EREBET'S EYES ONLY\]
+> > 
+> > // - CLASSIFIED INFORMATION - CLEARANCE LEVEL 'TEMPEST' - NO UNAUTHORISED ACCESS - // // Authorized Operation : Distant Light Classification: Reconnaissance - Territorial Survey Correspondent : Alaric Kesset - Authority Navy Captain (CASS 'Shallow Grave') Operation Status : Complete
+> > 
+> > // Operation\_Description
+> > 
+> > Operation Distant Light is a Class 1 reconnaissance operation. The Captain assigned to this mission is to survey the shores and territories of The Lullaby Isles from sea as precisely as possible, in order to assess the archipelago's strategic value in the Central Luminant. The operation's findings are to be reported to Admiral Thorm Erebet post-haste. The nature of the operation's Class 1 designation permits retaliatory actions and escalation where they are tactically advantageous.
+> > 
+> > // Operation\_Report\_In\_Full
+> > 
+> > TO: ADM. THORM EREBET
+> > 
+> > \--------------
+> > 
+> > Fleet Admiral Erebet,
+> > 
+> >   
+> > Glory to the Cause. As requested by High Command, the CASS 'Shallow Grave' has accomplished the requested strategic survey of the Lullaby Isles archipelago. The survey was conducted almost entirely at sea, at an observational distance. However, due to unforeseen adverse weather conditions, we were forced to moor the ship on the shores of the Stoneseye mountain range. We did so at my orders, to avoid damage to our vessel from the sudden appearance of a harsh centric storm. During this period, we also conducted a cautious and brief external land survey, before our return to sea. Overall, including our unforeseen forced landing, the operation spanned the course of five days. Presented below are our findings in full.
+> > 
+> > Topographically, the Lullaby Isles are a broad-spanning archipelago surrounded by a continuous ring of mountains called the Stoneseye Range, not unlike the so-called Spine of the East that parts the Eastern and Etrean Luminant. Upon our inspection, having circumnavigated the mountain circle twice, the Stoneseye Range appears to have very few identifiable natural passages in its structure - however, said handful of passages are obstructed by heavily reinforced stone walls and defensive fortifications. Accompanying the walls are tall defensive towers, with incredibly dated artillery pieces manned and mounted on the top, in the form of antique ballistae, onagers, and multiple trebuchets. Crow's nest reported ridges embedded within the walls themselves, beneath which the placement of slabs misaligned, implying a gateway of sorts. We remain uncertain of the mechanism which operated the gates.
+> > 
+> > Due to those defensive positions, our crew was unable to survey the obstructed passageways. On the third day of our mission, at 1400 hours, while sailing a closer distance to one of the fortified walls, our ship was spotted. The defending force attempted to communicate with us using some unknown system of guided intermittent lens-light, and smoke signals. The CASS 'Shallow Grave' did not reciprocate communications. The encounter passed without incident as we disappeared out of the wall's sightline at around 1430 hours, and neither side engaged in hostile action.
+> > 
+> > Upon assessing the situation in my capacity as a Captain, I did not deem escalation necessary. It would have taken more than our ship's reserves of gunpowder to even put a dent in their defensive walls - furthermore, though their artillery is dated, its high ground advantage and piercing projectile potential posed a substantial threat to our hull integrity in the event of an engagement.
+> > 
+> > During our survey, we observed that aside from the aforementioned fortifications, the outer side of the Stoneseye Range is essentially barren of settlement. No cities, towns, or villages can be seen externally. The sole form of outer settlement we managed to discover appeared in our sights on the fourth day, at 1530 hours. It was a small contraband smugglers' outpost, consisting of seven wooden shacks. Crow's nest identified painted symbols on the buildings there as belonging to the Shackled Shank smugglers' ring, well-known to our naval patrols, and not native to the Lullaby Isles. The CASS 'Shallow Grave' swiftly opened fire on the outpost, shelling it with multiple broadsides. The outpost, alongside its handful of defenders, was promptly eliminated, and a small amount of explosives stored therein was set off in the process. (See also "Operation 'Distant Light': Appendix 1", where details of smugglers' activities are detailed.)
+> > 
+> > \--------------
+> > 
+> > On the fourth day of our survey, at around 2005 hours, an unexpected centricl storm swept through the seas surrounding the Lullaby Isles, and the CASS 'Shallow Grave' was forced to anchor at the nearest shore to avoid damage, at my orders. This manoeuvre landed us on an unoccupied portion of the outer edge of the Stoneseye Range. During the night, after the gale had passes by around 2300 hours, we delegated First Lieutenant Grim Adaset to lead a scouting expedition to the area, accompanied by seven volunteers. This unexpected opportunity allowed us to examine the ranges outer topography up close.
+> > 
+> > As we discovered, the soils on the shores of the mountain ring are rich in soot and ash. The mountains themselves appear to be volcanic in origin. Plumes of smoke have been observed rising from the peaks along the Stoneseye Range, as well as beyond them, from within the mountain ring. Shrouding the outer shores of the mountain range is a continuous span of centric rainforests, with lush flora populating the underbrush, and tall trees covering the skyline. We cannot attest to the presence of fauna on the outer ring, as our crew did not encounter any. We remain unsure whether the storm forced the wildlife on the surface to shelter further away from shore or whether the shore is truly and wholly barren of fauna.
+> > 
+> > At around 0025 hours, the scouts also founds a curious cavity in one of the mountain walls, which, judging by the sound of trickling water, might have led to some deeper cavern, or underground hollow. Upon the scouts' return, attempts to make a small probing excavation in the cavity were made by the crew at 0045 hours, but we were unable to investigate the discovery much further. The space was thoroughly caved in, and even appeared fortified with large bricks and mortar after a certain point, much to our bewilderment. The use of explosives was briefly considered, but ultimately considered futile without further intel. Upon the crew's return from the scouting expedition, the CASS 'Shallow Grave' raised anchor, and set sail to finish reconnaissance. The remainder of the operation passed without incident, and our ship departed the region on the fifth day at 1650 hours.
+> > 
+> > Due to the archipelago natural and man-made defences, we could not scout beyond the outer ring of the mountains, not even from afar, for lack of line of sight.
+> > 
+> > \--------------
+> > 
+> > When conjecture is of no use to High Command and the venerable Fleet Admiral, I would like to draw a few logical conclusions from the intel we have, through a principle of deduction.
+> > 
+> > Due to the widely present volcanic activity, it is reasonable to assume the archipelago itself is agriculturally fertile - and as a result, possibly entirely autarkic, or self-sustaining. This could explain why the Lullaby Isles are able to pursue their broadly isolationist policies despite their dated ways of living.
+> > 
+> > If their external defences are any indication of the level of their technology and science, the Lullaby Isles are far behind any regional force that emerged in the Central Luminant during the Resurgence period. But, then, their implied self-sustainability could suggest one of three things - one, a small population residing in the archipelago; two, incredibly fertile soil within the archipelago (further supported by high volcanic activity in the region); or three - advanced applications of the Song by hand in the field of agriculture.
+> > 
+> > With all that in mind, we can infer that the inhabitants of the Lullaby Isles do not appear to pose us any major offensive threat. As learned during our previous covert inquiries with former subjects of the Isles, the archipelago does not seem to possess a large enough militarized navy, even less so a large enough oceanic fleet, to mount sustained hostile action. In terms of reserves, there are very few ocean-worthy civilian vessels in the Isles - business between the islands within the archipelago is broadly conducted using bicangalans, or double-cangalan boats.
+> > 
+> > From a defensive standpoint, however, the Lullaby Isles would prove to be an incredibly difficult target for conquest. The peaks of the stoney range, by our in-person estimation, would prove practically insurmountable even to the most skilled and best-equipped of climbers. Furthermore, the walls guarding the natural passageways of the mountain range are made up of large cut slabs of pale stone - likely some variety of pillar, diorite, basalt, or perhaps marble. The supposes stone-wrought 'gates' would also pose a challenge to our artillery. Either intense shelling, or a high explosive payload would be required to breach either of them.
+> > 
+> > In either of these hypothetical scenarios, however, the Isles' defensive artillery would remain a problem. Though the equipment appears to be antiquated, the height of the walls gives the artillery a tremendous high-ground advantage - meaning even a single heavy boulder fired from one of their onagers or trebuchets would likely do some serious damage on its way down. Furthermore, the ballistae stationed on the walls could still easily pierce the hulls of our ironclads, as their ammunition is practically just whole tree trunks, carved, shaped, and tipped with metal. In the wise words of the retired venerable Fleet Admiral Rickard Ashet, "Anything's a bullet if you launch it fast enough."
+> > 
+> > A potential strategic weakness of the island's defences could be the mysterious underground caverns and hollows, which we could not investigate further. The apparent reinforcement of such underground spaces indicated the potential presence of tunnels, or subterranean reinforcements. Unfortunately, I cannot provide further comment on this specific matter.
+> > 
+> > Nevertheless, with their lows offensive capacity, high defensive capability, likely meagre level of technology, and an unknown level of wealth, in my capacity as a Captain, I believe that seizing the archipelago would not be a useful prospect. While the possibly high levels of soil fertility within the Stoneseye range could be useful to us in the future, we are currently more than capable of sustaining the Central Authority's logistical efforts through our own agricultural holdings. Launching an assault against the Lullaby Isles would see us waste resources crashing against a hard wall for little gain, and distract our attention away from where it is more needed - such as the hotspots of Aratel, or even our repeated siege attempts in Etris.
+> > 
+> > In addition to all this, as former intel indicates, the local populace is faithful to their local religious beliefs, and quite zealously so. Having served in the Eastern and Etrean Luminant myself before, I believe that any form of hostile action against the Lullaby Isles would result in the archipelago's populace undertaking some form of protracted asymmetrical warfare against the Authority, not unlike our ongoing conflict with the Navaen nomads. I am sure High Command, as well as the venerable Fleet Admiral, are well-aware of how resource-hungry that particular endeavor is, and no need of reminding of it.
+> > 
+> > \--------------
+> > 
+> > Thus concludes the mission report of Operation 'Distant Light'. The crew of CASS 'Shallow Grave' hope that High Command and the venerable Fleet Admiral Thorm Erebet find our assessment satisfactory. Our vessel and crew are ready and willing to serve in further reconnaissance operations in the region, should the naval seniority call upon us for the duty.
+> > 
+> > Three Cheers,
+> > 
+> > Cpt. Alaric Kesset
 > 
 >   
-> //Operation\_Description
 > 
-> Operation Puppet Master is a Class II espionage operation. The Inquisitor assigned to this operation is to find the identity of Etrea's acting Lord Regent and keep log of interactions with Etris inhabitants. The nature of Class II forbades this Operation from resulting in unnecessary escalation.
+> ### Operation 'Puppet Master' Report
 > 
->   
-> //Report 01\_Initial\_Encounters\_13:20
+> > \[CLASSIFIED\]
+> > 
+> > //-- The contents of this document are entrusted to reach Warden Class command. Should this document be found by Central Authority personnel ranking below Warden Class it is to be thoroughly destroyed in the scenario where it cannot be safely delivered to High Command. --// Authorized Operation : Puppet Master Classification : Opposition Commander Status Correspondent : Lotus - Authority Inquisitor, Class II Operation Status : Compromised
+> > 
+> >   
+> > //Operation\_Description
+> > 
+> > Operation Puppet Master is a Class II espionage operation. The Inquisitor assigned to this operation is to find the identity of Etrea's acting Lord Regent and keep log of interactions with Etris inhabitants. The nature of Class II forbades this Operation from resulting in unnecessary escalation.
+> > 
+> >   
+> > //Report 01\_Initial\_Encounters\_13:20
+> > 
+> > Initial surveyings of the public offered inconclusive or insufficient information on the identity of the Lord Regent. Few are willing to speak at all, let alone in great detail. I will need to apply different methods if I am to gather anything concrete. Perhaps one of the local guards could be of use.
+> > 
+> >   
+> > //Report 02\_Subject\_Interrogation\_01:00
+> > 
+> > Subject is a male Etrean guard by the name of Aster Leshi. Subject was removed from his night post and replaced with an Authority Soldier of similar likeness as to avoid suspicion from his colleagues. Subject responds well to initial attempts at Manipulative Thundercall probing but appears to only be able to offer surface level information. Subject describes the Lord Regent as a humble man who came into power when his grandparents were still young, but is either misinformed or delirious from the constant interrogation. Our reports suggest the Lord Regent has only been active in the Etrean Luminant for the past decade. Attempts to probe the Subject's mind further does not result in new details. Attempts at reaching further in to the subject's mind seem to stop short, as if being barricaded off. Tonight's questioning provided little value but the potential presence of a mind veil warrants keeping the subject for further interrogation.
+> > 
+> >   
+> > //Report 03\_Subject\_Interrogation\_05:00
+> > 
+> > Subject was interrogated again but was administered an amnesiac before questioning. Subject's answers on the identity of the Lord Regent seems to have changed, as the subject now claims to have met him as he was rising to power. He claims the Lord Regent saved the people of Etrea from the Authority in their time of need and even visited his home personally. The lack of any consistency in the subject's answers on the Lord Regent further confirms my suspicions. I knew the subject may very well be compromised if I attempted the procedure, but to be so close in making a discovery I persisted anyways. I increased the voltage of the Thundercall far beyond the limits of a normal hippocampal shock. The subject began to scream wildly as the voltage increased, the severity of the situation warranted the subject being terminated by the procedure if need be. The Subject began to lose control of all motor functions and spasm wildly, if he died then so would his secrets. Pouring all of my remaining ether into the attempt, the voltage continued to climb and climb and climb until I suddenly felt it. Exhausting the last of my ether in a final surge I felt the wall within the Subject's mind shatter. A horrible scream pierced my ears followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness. I awoke to the subject's body on the floor, eyes burnt out. There was no time to apply amnesics to those who may have known the Subject. Whatever the creature was that I had witnessed, it now knew I was here.
+> > 
+> >   
+> > //Report 04\_Extraction\_Summary\_09:00
+> > 
+> > I fear I may not escape back to Authority controlled space, but even if I were to find home I doubt I would ever find safety again. The Authority member left in the place of Aster Leshi did not rendevouz for our evacuation, yet somehow he speaks to me.. I hear him in my thoughts. I now know what I saw in that vision, by breaking that mind veil I was able to peer into the true form of that grotesque Lord. Following the breaking of the mind veil I have felt hands pulling at the edges of my mind, looking for recompense of the soul that was lost. The Etreans appear to have had a mental veil put over them in order to subjugate and control them, the same veil we Inquisitor's use as a shield. But this veil was different, it was cold and held like a leech siphoning its host. Authority veils are administered by a single handler, powerful seals like this require intense concentration to keep active. But a mental veil capable of subjugating an entire city? The very notion is unprecedented. This report must reach Warden Jericho's hands. Whatever this Lord Regent actually is, it is clear peace was never an option. This conflict between the Authority and Etrea is intentional and there are forces at play that we are yet to understand. Should I feel the hands of this creature pry too close to my mind, I will take the necessary measures to insure I am not captured.
 > 
-> Initial surveyings of the public offered inconclusive or insufficient information on the identity of the Lord Regent. Few are willing to speak at all, let alone in great detail. I will need to apply different methods if I am to gather anything concrete. Perhaps one of the local guards could be of use.
-> 
->   
-> //Report 02\_Subject\_Interrogation\_01:00
-> 
-> Subject is a male Etrean guard by the name of Aster Leshi. Subject was removed from his night post and replaced with an Authority Soldier of similar likeness as to avoid suspicion from his colleagues. Subject responds well to initial attempts at Manipulative Thundercall probing but appears to only be able to offer surface level information. Subject describes the Lord Regent as a humble man who came into power when his grandparents were still young, but is either misinformed or delirious from the constant interrogation. Our reports suggest the Lord Regent has only been active in the Etrean Luminant for the past decade. Attempts to probe the Subject's mind further does not result in new details. Attempts at reaching further in to the subject's mind seem to stop short, as if being barricaded off. Tonight's questioning provided little value but the potential presence of a mind veil warrants keeping the subject for further interrogation.
-> 
->   
-> //Report 03\_Subject\_Interrogation\_05:00
-> 
-> Subject was interrogated again but was administered an amnesiac before questioning. Subject's answers on the identity of the Lord Regent seems to have changed, as the subject now claims to have met him as he was rising to power. He claims the Lord Regent saved the people of Etrea from the Authority in their time of need and even visited his home personally. The lack of any consistency in the subject's answers on the Lord Regent further confirms my suspicions. I knew the subject may very well be compromised if I attempted the procedure, but to be so close in making a discovery I persisted anyways. I increased the voltage of the Thundercall far beyond the limits of a normal hippocampal shock. The subject began to scream wildly as the voltage increased, the severity of the situation warranted the subject being terminated by the procedure if need be. The Subject began to lose control of all motor functions and spasm wildly, if he died then so would his secrets. Pouring all of my remaining ether into the attempt, the voltage continued to climb and climb and climb until I suddenly felt it. Exhausting the last of my ether in a final surge I felt the wall within the Subject's mind shatter. A horrible scream pierced my ears followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness. I awoke to the subject's body on the floor, eyes burnt out. There was no time to apply amnesics to those who may have known the Subject. Whatever the creature was that I had witnessed, it now knew I was here.
-> 
->   
-> //Report 04\_Extraction\_Summary\_09:00
-> 
-> I fear I may not escape back to Authority controlled space, but even if I were to find home I doubt I would ever find safety again. The Authority member left in the place of Aster Leshi did not rendevouz for our evacuation, yet somehow he speaks to me.. I hear him in my thoughts. I now know what I saw in that vision, by breaking that mind veil I was able to peer into the true form of that grotesque Lord. Following the breaking of the mind veil I have felt hands pulling at the edges of my mind, looking for recompense of the soul that was lost. The Etreans appear to have had a mental veil put over them in order to subjugate and control them, the same veil we Inquisitor's use as a shield. But this veil was different, it was cold and held like a leech siphoning its host. Authority veils are administered by a single handler, powerful seals like this require intense concentration to keep active. But a mental veil capable of subjugating an entire city? The very notion is unprecedented. This report must reach Warden Jericho's hands. Whatever this Lord Regent actually is, it is clear peace was never an option. This conflict between the Authority and Etrea is intentional and there are forces at play that we are yet to understand. Should I feel the hands of this creature pry too close to my mind, I will take the necessary measures to insure I am not captured.
-
-### Our Fortress (Of Smoke And Steel)
-
-  
-from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
-  
-  
-    
-   
-We're workers of Summer Company,  
-That fortress of smoke and steel!  
-For guns we forge and bullets make,  
-Leave fire in our wake -  
-We work for the Summer Company!  
-  
-The Isle of Summer marks our home -  
-Our fortress of smoke and steel!  
-The bellows roar and anvils ring,  
-We serve no lord or king -  
-Except for the isle that marks our home!  
-  
-We're limited liability,  
-We sell neither game nor toy:  
-We trade in death, our merchandise  
-Can end in your demise -  
-We'll take no responsibility!  
-  
-If gunpowder's what you're looking for,  
-We've plenty for all to spare!  
-Enough for all to sell and trade,  
-Or be perhaps unmade -  
-Be careful which one you're looking for!  
-  
-Don't make the mistake of crossing us -  
-It will be your last, for sure!  
-We're one for all, and all for one,  
-The barrel of a gun -  
-No soul will be ever jostling us!  
-  
-To fight and be wealthy's what we want -  
-These things bring us joy in life!  
-Rough up a rookie in the ring,  
-Wear jackets, furs and bling -  
-Our fortune and strength we'll always flaunt!  
-  
-  
-We're workers of Summer Company,  
-That fortress of smoke and steel!  
-For guns we forge and bullets make,  
-Leave fire in our wake -  
-We work for the Summer Company!  
-  
-We're workers of Summer Company,  
-We work for the Summer Company...
-
-> "Our Fortress", also known as "Our Fortress Of Smoke And Steel" or simply "The Summer Company Song" is a song and composition written by Gunsmith Severin Smolkin in the year 1062 CE. Smolkin, a smith of small arms and expert flamecharmer, often experimented with utilising flamecharming in small-scale steel smithing, producing thin steel wires for the firing mechanisms of his wepaons. While testing the testion of such wires in a clamp set atop a half-open barrel, he noticed that they often made a pleasant resonant sound when pulled or plucked.
-> 
-> Intrigued by this property, Smolkin experimented further. Realising that the barrel acted as a sort of amplifier for the sound's volume, he tested out various designs, before settling on a rather unusual one. The instrument's body consists of an oblong round wooden resonation chamber with a convex back, covered in a membrane of fine animal skin at the front, with a long neck attached to the top, and a small retractable peg at the bottom. The neck has six thin steel strings attached to it, spanning from its top where it is wrapped around pegs, to the bottom where it is fastened to a metal plate bed.
-> 
-> Smolkin dubbed the instrument the 'canjolin', likely from an Old World term for an ancient type of boat, the 'cangalan', which the instrument resembles. The canjolin is tuned to the melodic scheme of Z-V-B-N-Z-C, much like the Old World guitarrons - a type of plucked string instrument with a wooden resonation chamber. This instrument, however, is played vertically, not unlike a lyre or harp. Its retractable peg allows it to be played either placed on one's knee, or set firmly on the ground.
-> 
-> Smolkin, whose father initially trained him to become a luthier, drew on his experience with musical instruments, and combined the properties of the zitherin and lutelen instrument families. Smolkin's luthier training also meant that he was taught to play Old World guitarrons in some middling capacity - and thus, by extension, he could play the canjolin, as it relied on many conventional guitarron practices in construction and tuning.
-> 
-> Thus, to test out his new instrument, he composed the base melody for "Our Fortress". Its iconic opening tune of Z-V-Z-V-B-B|-N|-B-V is a melody that feels very natural to play on the canjolin - no surprise given the its tuning. And although Smolkin's steel wire designs for small arms firing mechanisms did not catch on, his musical instrument innovation did. The canjolin gained widespread popularity among Summer Company employees over the coming years, likely owing it to its ease of tuning, its portability, versatility, and sharp carefree sound.
-> 
-> And close behind the canjolin, "Our Fortress" followed. Quickly, it became a popular tune for beginners learning to play the instrument, as well as a sort of an identifying anthem of the Company. Future players of the canjolin innovated on its use - some artists prefer to play it horizontally, like a zitherin instrument; and some mantra users incorporate their attunements while playing, with flamecharmers and frostdrawers manipulating tuning mid-play by using heat and frost, and thundercallers spawning a method of play known as 'overdrive' with electrified strings.
-
-### Stars Above, and the Blade between
-
->   
-> Stars scatter across the sky on this night. I’ve watched the same scenery time and time again, but for just this once I felt particularly uneased. “Truly, is this what must be done for our people? For Etrea?” I mumble to myself, clutching my blade in hand. “Each star has a story,” I remember my old companion told me upon nights similar to these. Her words echo through my head as I gaze upon this sky, although it is not the same. Upon this field, I sit without her now, as grass waves across the field with the night-touched wind. “You’re too sentimental, Rali,” I’d often reply to her, unamused by those fairy tales. After all this time though, I suppose she was right. The stars above speak more to me now than ever before, and for each gleaming light in the sky, I know there must be a being above, watching us. An audience I’ll never see, but cherish nonetheless.
-> 
-> “Tavi!” A man calls out to me, though I am too entranced to notice at first. “Tavi! Tavi Ytreshi! Wake up! Sire?” He calls out once more, and I’m shaken out of my trance abruptly. I look over to the voice, and recognize A’ras. “Huh? What do you need at this hour, A’ras? The stars are already out.” I reply, looking up at him with a confused expression. The man flashes a wide grin, evidently he had just finished some sort of mischievous activity. “The King requires us. One last meeting, I promise. Then, we’re off to bed for the voyage tomorrow,” A’ras said in a cheerful tone. I still cannot understand how a man of such renown can remain so carefree, despite the battles he’s fought. A’ras looks over to my hand, eying it carefully. “Quite a blade there, Tavi. What could you be doing with a weapon in such a serene place?” He chuckles as he gestures toward the Queensblade. “...Just appreciating fine craftsmanship, is all. You needn’t worry about such frivolities.” I quickly reply, although too quickly to a fault, perhaps. I don’t want to raise suspicion, especially tonight of all nights. A’ras shrugs, chuckling. “How charming. Now then, enough niceties, we have a meeting to attend... at this dreadful hour.” He pulls me up off the grass, though I struggle to gather my balance for a moment. “S’pose I’ve sat here for a while.” I mumble to myself, standing up on my feet. “Let’s get going then.” A’ras spoke hastily, dragging me along to the royal palace.
-> 
-> Dimly lit candles stretch across the halls of the Etrean palace, I observe as my fellow attendants walk toward the throne room, each man’s armor clanking with each step. The carpet below my feet must be more expensive than my life’s worth, so much so I almost feel bad for dirtying it with my soil-tainted boots. As we continue through the hall, servants quickly scramble to clean the mess our footprints left behind. “It’s a shame this is the life they’re destined to live,” one of my fellow attendants discusses amidst our group. Destiny, they say... only a fool would consider their life already foretold. I glance at my ‘ally’, and contain a chuckle quiet enough to myself. Four of us, myself included, will be entrusted to protecting the king upon his royal voyage tomorrow. Our destination is Markor, one of the largest islands of the Central Luminant. “The king has politics to deal with,” is the simplified version of what we’ve been told. The details are not meant for us lowly guards, the last thing they want is us forming our own opinions on the matter. A loud knock echoes throughout the halls, as we reach the door to the throne room. “Men, here’s to a quick meeting. Pray,” A’ras jests, before opening the door to the royal chamber.
-> 
-> A large chandelier hangs overhead above the King of Etrea, surrounded by paintings depicting events of our history, and a large window overhead the throne. Royal palace guards line the walls in an orderly fashion, evidently a formation in the king’s tastes. “So the Four Braves finally arrive,” the king muses. I lower my head, and kneel. The rest of my men follow. “Your highness, what requires our presence at such an hour?” A’ras asks politely, lowering his head as he finishes his sentence. The king laughs, amused by the question as if it was obvious. It’s not. “Oh, my boy, I simply wanted to ensure you’re all still living for our arrangement tomorrow! At dawn, we depart for Markor. Red prepared us a beauty of a vessel... the Brave Hoshi, she calls it! What a lovely name!” He lets out a hearty laugh, the likes of which make me sick to my stomach. How can a man so foul appear so calm? Does he not have any regrets for what he’s done? I feel myself gripping my knee in frustration, before catching myself and exhaling. Calm. I need to remain calm for what lies ahead. “Your highness,” I begin to inquire, “Are there private quarters on the ship for our voyage? It shall be a long week, I hope we may sleep soundly upon the harsh waves of Markor waters.” The king nods with a dumbfounded look on his face, as if it were obvious. “Of course, my boy! Each attendant shall have their own quarters to rest in for when the day is done. You’re my only four passengers, after all, you shall live as my guests, in addition to my protectors.” I nod. “Thank you, my lord.” Private quarters at night shall make this much easier. The others will be asleep when the time comes. Rali, please watch over me for that night, as I’ll ensure your people are remembered by the stars above, the witness to my legacy to be. For the corruption in this king lies unknown to the people of Etrea, I know the truth. Legacy, they say. Legacy... I’ll make you remembered.
-> 
-> The meeting comes to an uneventful, short end, as the king becomes tired. It must be truly hard work sitting on a throne and ordering the slaughter of my people, my loved ones. As the other Braves mingle on their way out, I retreat to my chambers hastily, as I have a more important meeting to attend to tonight. Bephalos has some final words for me, “On the night of the last star,” is what he told me. I can only assume that means ‘right now,’ as there won’t be stars in our sky for days. I enter my chambers and slam the door shut, locking it behind me. The shadowcaster appears, to no fanfare or grandeur. “Tavi, you look anxious, friend. Tell me, what is the matter?” Bephalos inquires, as his spell fades. “Surely, you’ve aware of the procedure tomorrow?” he adds on. “I’m aware, Bephalos. And yes, the blade, I know...” I reply, looking toward the Queensblade with my hand. He’s emphasized to me before that this must be the blade to end it, although the reasoning is unclear to me. Perhaps it’s some sort of ancient seal? I trust in him, nonetheless. “Very good, Tavi. The day of your revenge is finally dawning upon you. How does it feel? Rali will surely rest better in her tomb, knowing her murderer shall fall with her.” The shadowcaster muses, sneering toward me. I grip the blade tightly, then release as I sigh. “...I’d appreciate it if you avoided using her name in such ways. I am doing this for her, but that does not mean I’ll allow you to disrespect her, fiend.” I glare at the man, staring into his vacant purple eyes. Empty, unshaken by my words. “Oh, so scary! Let’s not make enemies with the ally that has granted you such an opportunity now, hm? It’s taken me great efforts to procure this blade for you, you know. Without it, the king would surely return!” The man responds hastily, irritated most likely. “Fine.” I reply, calming myself down. Tomorrow is the day... “I want to rest, Bephalos. What do you require of me?” I ask, sitting down on my desk chair as I look up at the shadowcaster. “I simply need to leave one last touch, is all. Quality assurance is one way to put it.” He laughs, and I stare blankly. “Very well. Go ahead.” The shadowcaster takes the blade and focuses on it intensely. Shadows emit from it briefly, although I’m not knowledgeable on why. Shadowcast is a very rare sight in Etrea, and the know-how of such topics is restricted to only the most elite of scholars to prevent misuse, so I’ve been told. Although, I’ve been told a great many deal of things that carry merit no more, as Bephalos has told me the truths of this kingdom. “That is all, then. Rest well, Tavi. You’ll need it.” Bephalos smiles cheekily as he retreats to the window, before becoming a shade and fading. I look down to the Queensblade once more, listening to it idly hum. “So this is the fate we’re making, Rali...” I ponder to myself, placing it on the desk. Without further delay, I retreat to my bedsheets.
-> 
-> The morning of the fated day has come. Bright and early, boarding the ‘Brave Hoshi,’ so the king says. “Here, here!” A’ras calls out to me from the dock, more excited then he should be. I wave, and approach him. “Take a look at that, Tavi! I’ve never seen a grander vessel in my life!” He exclaims, pushing me along onto the ship. “Aye, let me take my time, friend.” I reply, trying to scope out the surroundings of the ’Brave Hoshi’. I stand upon the central deck, looking around. “Large main deck... private chambers that way... a kitchen of some sort the other way... and...” I mumble to myself, looking around the ship carefully. It seems my best option remains to be confronting the king within his private chambers, lest the others take notice of what’s happening. A large hand smacks my shoulder, and as I jump from the startle. “My boy! Isn’t it beautiful?” the king speaks, towering over me. “Aye, it is, my lord. Indeed, it is.” I sneer, looking off to the chambers. “Say, my lord, which one of these are we occupying? There’s seven chambers here, four for us Braves, one for you, one for the chef, and one for the captain.. How do we know which is which?” I ask politely, ensuring I maintain composure. The king walks over to the chambers, and proudly knocks on a large wooden door, taller than the rest. “This here would be mine! If any matters or problems arise, please come see me, no matter the time. You are a part of the Braves, after all.” He laughs. “Noted, my lord.” I reply, staring at the door intently. How convenient.
-> 
-> We depart from the Etris docks, to a celebrated fanfare. Many Etrean citizens gather around and wave and cheer as we depart, wishing the king a safe journey. As our home fades from the sight of all of us onboard, I’m reminded once more of our city, and what the king has taken from it. Yet they cheer him on... blissfully unaware. Unaware and controlled, all of his people. Bephalos’ truth echoes throughout my head as I sit upon the deck, watching the waves of the Etrean waters roll by whilst the day passes. I wait patiently for the arrival of the Voidsea. “This, this is when you strike,” Bephalos instructed me during one of our initial meetings. The search for the lighthouse takes priority for all crew members, and for the others it is a time for rest. But for me, it is when the final hour begins. Upon the arrival of the Voidsea waters, the others become busy or fatigued. I’ve remained in my place throughout the entire first day of our voyage, watching the waves. I look up at the sky, and just as was foretold, no stars are to be seen.
-
-### Strange Missives
-
-> A collection of mysterious letters \*The book itself is littered with pages of letters and notes, some stray sheets within in an unintelligible language, scrawled in an unknown print. Some documents are easy to make out - archived correspondence.\*
-> 
-> \*From the wear and condition of the first letter sheaved in the book, this is old. Most certainly written several generations ago.\* Th'armati, most hold greetings from the Echelon.
-> 
-> The counsell has decre'd it! Nostri eclipse is upon us once again, and we send out tidings and caution to our distant kin. As our aecti surge below the surface into our ossuaries, we urge your kin to avoid trespassing upon our festivities, and keep their craft clear from our islands - the all-too-familiar matercrypt will receive those who do not heed this warning into its sunk'n shores.
-> 
-> As always, we send our kindest tidings from our Lady, for th'armato will be glad to know of the peace we have enjoyed since her sacrifice long since. Have faith in our practices - her guidance continues to crade our isles well. True faith survives such troublesome events - there is peace as she had promis'd, we have rebuilt plentifully since our most worrying ordeal, our crypts have expanded greatly to all reaches of the archipelago.
-> 
-> We pray for the safety of your own and th'ambulo living your protection.
-> 
-> \- Galvika, our confessors' Acolyte.
+> ### Our Fortress (Of Smoke And Steel)
 > 
 >   
-> \*Rifling through, a sleeker page appears - almost pearlescent in contrast to the previous letters' wear. It's silk to the touch. Part of the letter is again in the obscure language, yet it seems that there is a translation neatly printed beneath.\*
+> from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
+>   
+>   
+>     
+>    
+> We're workers of Summer Company,  
+> That fortress of smoke and steel!  
+> For guns we forge and bullets make,  
+> Leave fire in our wake -  
+> We work for the Summer Company!  
+>   
+> The Isle of Summer marks our home -  
+> Our fortress of smoke and steel!  
+> The bellows roar and anvils ring,  
+> We serve no lord or king -  
+> Except for the isle that marks our home!  
+>   
+> We're limited liability,  
+> We sell neither game nor toy:  
+> We trade in death, our merchandise  
+> Can end in your demise -  
+> We'll take no responsibility!  
+>   
+> If gunpowder's what you're looking for,  
+> We've plenty for all to spare!  
+> Enough for all to sell and trade,  
+> Or be perhaps unmade -  
+> Be careful which one you're looking for!  
+>   
+> Don't make the mistake of crossing us -  
+> It will be your last, for sure!  
+> We're one for all, and all for one,  
+> The barrel of a gun -  
+> No soul will be ever jostling us!  
+>   
+> To fight and be wealthy's what we want -  
+> These things bring us joy in life!  
+> Rough up a rookie in the ring,  
+> Wear jackets, furs and bling -  
+> Our fortune and strength we'll always flaunt!  
+>   
+>   
+> We're workers of Summer Company,  
+> That fortress of smoke and steel!  
+> For guns we forge and bullets make,  
+> Leave fire in our wake -  
+> We work for the Summer Company!  
+>   
+> We're workers of Summer Company,  
+> We work for the Summer Company...
 > 
-> Th'armati of Aratel, most insistent greetings from the Echelon.
+> > "Our Fortress", also known as "Our Fortress Of Smoke And Steel" or simply "The Summer Company Song" is a song and composition written by Gunsmith Severin Smolkin in the year 1062 CE. Smolkin, a smith of small arms and expert flamecharmer, often experimented with utilising flamecharming in small-scale steel smithing, producing thin steel wires for the firing mechanisms of his wepaons. While testing the testion of such wires in a clamp set atop a half-open barrel, he noticed that they often made a pleasant resonant sound when pulled or plucked.
+> > 
+> > Intrigued by this property, Smolkin experimented further. Realising that the barrel acted as a sort of amplifier for the sound's volume, he tested out various designs, before settling on a rather unusual one. The instrument's body consists of an oblong round wooden resonation chamber with a convex back, covered in a membrane of fine animal skin at the front, with a long neck attached to the top, and a small retractable peg at the bottom. The neck has six thin steel strings attached to it, spanning from its top where it is wrapped around pegs, to the bottom where it is fastened to a metal plate bed.
+> > 
+> > Smolkin dubbed the instrument the 'canjolin', likely from an Old World term for an ancient type of boat, the 'cangalan', which the instrument resembles. The canjolin is tuned to the melodic scheme of Z-V-B-N-Z-C, much like the Old World guitarrons - a type of plucked string instrument with a wooden resonation chamber. This instrument, however, is played vertically, not unlike a lyre or harp. Its retractable peg allows it to be played either placed on one's knee, or set firmly on the ground.
+> > 
+> > Smolkin, whose father initially trained him to become a luthier, drew on his experience with musical instruments, and combined the properties of the zitherin and lutelen instrument families. Smolkin's luthier training also meant that he was taught to play Old World guitarrons in some middling capacity - and thus, by extension, he could play the canjolin, as it relied on many conventional guitarron practices in construction and tuning.
+> > 
+> > Thus, to test out his new instrument, he composed the base melody for "Our Fortress". Its iconic opening tune of Z-V-Z-V-B-B|-N|-B-V is a melody that feels very natural to play on the canjolin - no surprise given the its tuning. And although Smolkin's steel wire designs for small arms firing mechanisms did not catch on, his musical instrument innovation did. The canjolin gained widespread popularity among Summer Company employees over the coming years, likely owing it to its ease of tuning, its portability, versatility, and sharp carefree sound.
+> > 
+> > And close behind the canjolin, "Our Fortress" followed. Quickly, it became a popular tune for beginners learning to play the instrument, as well as a sort of an identifying anthem of the Company. Future players of the canjolin innovated on its use - some artists prefer to play it horizontally, like a zitherin instrument; and some mantra users incorporate their attunements while playing, with flamecharmers and frostdrawers manipulating tuning mid-play by using heat and frost, and thundercallers spawning a method of play known as 'overdrive' with electrified strings.
 > 
-> We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'sourvenir' of our heritage laid upon our walls, and henceforth shall not be reutnring to your Greathive. For their trespass againsst our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
+> ### Stars Above, and the Blade between
 > 
-> We have since sent the other ambassadors onto their return, and they have been equipped with the requested copies of our archives - we hope the reminder of our common ancestry contained within them will kindle our distant friendships.
+> >   
+> > Stars scatter across the sky on this night. I’ve watched the same scenery time and time again, but for just this once I felt particularly uneased. “Truly, is this what must be done for our people? For Etrea?” I mumble to myself, clutching my blade in hand. “Each star has a story,” I remember my old companion told me upon nights similar to these. Her words echo through my head as I gaze upon this sky, although it is not the same. Upon this field, I sit without her now, as grass waves across the field with the night-touched wind. “You’re too sentimental, Rali,” I’d often reply to her, unamused by those fairy tales. After all this time though, I suppose she was right. The stars above speak more to me now than ever before, and for each gleaming light in the sky, I know there must be a being above, watching us. An audience I’ll never see, but cherish nonetheless.
+> > 
+> > “Tavi!” A man calls out to me, though I am too entranced to notice at first. “Tavi! Tavi Ytreshi! Wake up! Sire?” He calls out once more, and I’m shaken out of my trance abruptly. I look over to the voice, and recognize A’ras. “Huh? What do you need at this hour, A’ras? The stars are already out.” I reply, looking up at him with a confused expression. The man flashes a wide grin, evidently he had just finished some sort of mischievous activity. “The King requires us. One last meeting, I promise. Then, we’re off to bed for the voyage tomorrow,” A’ras said in a cheerful tone. I still cannot understand how a man of such renown can remain so carefree, despite the battles he’s fought. A’ras looks over to my hand, eying it carefully. “Quite a blade there, Tavi. What could you be doing with a weapon in such a serene place?” He chuckles as he gestures toward the Queensblade. “...Just appreciating fine craftsmanship, is all. You needn’t worry about such frivolities.” I quickly reply, although too quickly to a fault, perhaps. I don’t want to raise suspicion, especially tonight of all nights. A’ras shrugs, chuckling. “How charming. Now then, enough niceties, we have a meeting to attend... at this dreadful hour.” He pulls me up off the grass, though I struggle to gather my balance for a moment. “S’pose I’ve sat here for a while.” I mumble to myself, standing up on my feet. “Let’s get going then.” A’ras spoke hastily, dragging me along to the royal palace.
+> > 
+> > Dimly lit candles stretch across the halls of the Etrean palace, I observe as my fellow attendants walk toward the throne room, each man’s armor clanking with each step. The carpet below my feet must be more expensive than my life’s worth, so much so I almost feel bad for dirtying it with my soil-tainted boots. As we continue through the hall, servants quickly scramble to clean the mess our footprints left behind. “It’s a shame this is the life they’re destined to live,” one of my fellow attendants discusses amidst our group. Destiny, they say... only a fool would consider their life already foretold. I glance at my ‘ally’, and contain a chuckle quiet enough to myself. Four of us, myself included, will be entrusted to protecting the king upon his royal voyage tomorrow. Our destination is Markor, one of the largest islands of the Central Luminant. “The king has politics to deal with,” is the simplified version of what we’ve been told. The details are not meant for us lowly guards, the last thing they want is us forming our own opinions on the matter. A loud knock echoes throughout the halls, as we reach the door to the throne room. “Men, here’s to a quick meeting. Pray,” A’ras jests, before opening the door to the royal chamber.
+> > 
+> > A large chandelier hangs overhead above the King of Etrea, surrounded by paintings depicting events of our history, and a large window overhead the throne. Royal palace guards line the walls in an orderly fashion, evidently a formation in the king’s tastes. “So the Four Braves finally arrive,” the king muses. I lower my head, and kneel. The rest of my men follow. “Your highness, what requires our presence at such an hour?” A’ras asks politely, lowering his head as he finishes his sentence. The king laughs, amused by the question as if it was obvious. It’s not. “Oh, my boy, I simply wanted to ensure you’re all still living for our arrangement tomorrow! At dawn, we depart for Markor. Red prepared us a beauty of a vessel... the Brave Hoshi, she calls it! What a lovely name!” He lets out a hearty laugh, the likes of which make me sick to my stomach. How can a man so foul appear so calm? Does he not have any regrets for what he’s done? I feel myself gripping my knee in frustration, before catching myself and exhaling. Calm. I need to remain calm for what lies ahead. “Your highness,” I begin to inquire, “Are there private quarters on the ship for our voyage? It shall be a long week, I hope we may sleep soundly upon the harsh waves of Markor waters.” The king nods with a dumbfounded look on his face, as if it were obvious. “Of course, my boy! Each attendant shall have their own quarters to rest in for when the day is done. You’re my only four passengers, after all, you shall live as my guests, in addition to my protectors.” I nod. “Thank you, my lord.” Private quarters at night shall make this much easier. The others will be asleep when the time comes. Rali, please watch over me for that night, as I’ll ensure your people are remembered by the stars above, the witness to my legacy to be. For the corruption in this king lies unknown to the people of Etrea, I know the truth. Legacy, they say. Legacy... I’ll make you remembered.
+> > 
+> > The meeting comes to an uneventful, short end, as the king becomes tired. It must be truly hard work sitting on a throne and ordering the slaughter of my people, my loved ones. As the other Braves mingle on their way out, I retreat to my chambers hastily, as I have a more important meeting to attend to tonight. Bephalos has some final words for me, “On the night of the last star,” is what he told me. I can only assume that means ‘right now,’ as there won’t be stars in our sky for days. I enter my chambers and slam the door shut, locking it behind me. The shadowcaster appears, to no fanfare or grandeur. “Tavi, you look anxious, friend. Tell me, what is the matter?” Bephalos inquires, as his spell fades. “Surely, you’ve aware of the procedure tomorrow?” he adds on. “I’m aware, Bephalos. And yes, the blade, I know...” I reply, looking toward the Queensblade with my hand. He’s emphasized to me before that this must be the blade to end it, although the reasoning is unclear to me. Perhaps it’s some sort of ancient seal? I trust in him, nonetheless. “Very good, Tavi. The day of your revenge is finally dawning upon you. How does it feel? Rali will surely rest better in her tomb, knowing her murderer shall fall with her.” The shadowcaster muses, sneering toward me. I grip the blade tightly, then release as I sigh. “...I’d appreciate it if you avoided using her name in such ways. I am doing this for her, but that does not mean I’ll allow you to disrespect her, fiend.” I glare at the man, staring into his vacant purple eyes. Empty, unshaken by my words. “Oh, so scary! Let’s not make enemies with the ally that has granted you such an opportunity now, hm? It’s taken me great efforts to procure this blade for you, you know. Without it, the king would surely return!” The man responds hastily, irritated most likely. “Fine.” I reply, calming myself down. Tomorrow is the day... “I want to rest, Bephalos. What do you require of me?” I ask, sitting down on my desk chair as I look up at the shadowcaster. “I simply need to leave one last touch, is all. Quality assurance is one way to put it.” He laughs, and I stare blankly. “Very well. Go ahead.” The shadowcaster takes the blade and focuses on it intensely. Shadows emit from it briefly, although I’m not knowledgeable on why. Shadowcast is a very rare sight in Etrea, and the know-how of such topics is restricted to only the most elite of scholars to prevent misuse, so I’ve been told. Although, I’ve been told a great many deal of things that carry merit no more, as Bephalos has told me the truths of this kingdom. “That is all, then. Rest well, Tavi. You’ll need it.” Bephalos smiles cheekily as he retreats to the window, before becoming a shade and fading. I look down to the Queensblade once more, listening to it idly hum. “So this is the fate we’re making, Rali...” I ponder to myself, placing it on the desk. Without further delay, I retreat to my bedsheets.
+> > 
+> > The morning of the fated day has come. Bright and early, boarding the ‘Brave Hoshi,’ so the king says. “Here, here!” A’ras calls out to me from the dock, more excited then he should be. I wave, and approach him. “Take a look at that, Tavi! I’ve never seen a grander vessel in my life!” He exclaims, pushing me along onto the ship. “Aye, let me take my time, friend.” I reply, trying to scope out the surroundings of the ’Brave Hoshi’. I stand upon the central deck, looking around. “Large main deck... private chambers that way... a kitchen of some sort the other way... and...” I mumble to myself, looking around the ship carefully. It seems my best option remains to be confronting the king within his private chambers, lest the others take notice of what’s happening. A large hand smacks my shoulder, and as I jump from the startle. “My boy! Isn’t it beautiful?” the king speaks, towering over me. “Aye, it is, my lord. Indeed, it is.” I sneer, looking off to the chambers. “Say, my lord, which one of these are we occupying? There’s seven chambers here, four for us Braves, one for you, one for the chef, and one for the captain.. How do we know which is which?” I ask politely, ensuring I maintain composure. The king walks over to the chambers, and proudly knocks on a large wooden door, taller than the rest. “This here would be mine! If any matters or problems arise, please come see me, no matter the time. You are a part of the Braves, after all.” He laughs. “Noted, my lord.” I reply, staring at the door intently. How convenient.
+> > 
+> > We depart from the Etris docks, to a celebrated fanfare. Many Etrean citizens gather around and wave and cheer as we depart, wishing the king a safe journey. As our home fades from the sight of all of us onboard, I’m reminded once more of our city, and what the king has taken from it. Yet they cheer him on... blissfully unaware. Unaware and controlled, all of his people. Bephalos’ truth echoes throughout my head as I sit upon the deck, watching the waves of the Etrean waters roll by whilst the day passes. I wait patiently for the arrival of the Voidsea. “This, this is when you strike,” Bephalos instructed me during one of our initial meetings. The search for the lighthouse takes priority for all crew members, and for the others it is a time for rest. But for me, it is when the final hour begins. Upon the arrival of the Voidsea waters, the others become busy or fatigued. I’ve remained in my place throughout the entire first day of our voyage, watching the waves. I look up at the sky, and just as was foretold, no stars are to be seen.
 > 
-> We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acoltye.
+> ### Strange Missives
 > 
-> \*The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
-
-### Studies on Canticlysm, Vol. IV
-
-> compiled by Steward Amross, Steward Bridges, et. al
+> > A collection of mysterious letters \*The book itself is littered with pages of letters and notes, some stray sheets within in an unintelligible language, scrawled in an unknown print. Some documents are easy to make out - archived correspondence.\*
+> > 
+> > \*From the wear and condition of the first letter sheaved in the book, this is old. Most certainly written several generations ago.\* Th'armati, most hold greetings from the Echelon.
+> > 
+> > The counsell has decre'd it! Nostri eclipse is upon us once again, and we send out tidings and caution to our distant kin. As our aecti surge below the surface into our ossuaries, we urge your kin to avoid trespassing upon our festivities, and keep their craft clear from our islands - the all-too-familiar matercrypt will receive those who do not heed this warning into its sunk'n shores.
+> > 
+> > As always, we send our kindest tidings from our Lady, for th'armato will be glad to know of the peace we have enjoyed since her sacrifice long since. Have faith in our practices - her guidance continues to crade our isles well. True faith survives such troublesome events - there is peace as she had promis'd, we have rebuilt plentifully since our most worrying ordeal, our crypts have expanded greatly to all reaches of the archipelago.
+> > 
+> > We pray for the safety of your own and th'ambulo living your protection.
+> > 
+> > \- Galvika, our confessors' Acolyte.
+> > 
+> >   
+> > \*Rifling through, a sleeker page appears - almost pearlescent in contrast to the previous letters' wear. It's silk to the touch. Part of the letter is again in the obscure language, yet it seems that there is a translation neatly printed beneath.\*
+> > 
+> > Th'armati of Aratel, most insistent greetings from the Echelon.
+> > 
+> > We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'sourvenir' of our heritage laid upon our walls, and henceforth shall not be reutnring to your Greathive. For their trespass againsst our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
+> > 
+> > We have since sent the other ambassadors onto their return, and they have been equipped with the requested copies of our archives - we hope the reminder of our common ancestry contained within them will kindle our distant friendships.
+> > 
+> > We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acoltye.
+> > 
+> > \*The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
 > 
-> Perhaps there are those who, in their own perspectives, see the Canticlysm as something wholly detrimental to our civilisation, to our way of life. That the idle decadence and reckless inquiries into the Song of our forefathers could only have ever brought ruin, devastation, to the soul of our culture and our world.
+> ### Studies on Canticlysm, Vol. IV
 > 
-> As scholars we must look past our desire to condemn the actions of those who came before us, as though we live through the consequences, they were not privy to the knowledge that is now tacit to our generation.
+> > compiled by Steward Amross, Steward Bridges, et. al
+> > 
+> > Perhaps there are those who, in their own perspectives, see the Canticlysm as something wholly detrimental to our civilisation, to our way of life. That the idle decadence and reckless inquiries into the Song of our forefathers could only have ever brought ruin, devastation, to the soul of our culture and our world.
+> > 
+> > As scholars we must look past our desire to condemn the actions of those who came before us, as though we live through the consequences, they were not privy to the knowledge that is now tacit to our generation.
+> > 
+> > To them, it was a renaissance born from the advent of their greater understanding of the surrounding planes. The very powers of creation seemed only a hair's breadth away, a tantalisingly small gulf for them to cross.
+> > 
+> > Were we in the same position as they, I’m sure that we would not hesitate to make use of the powers that it brought. And even in our current era, many do not grasp the correlation between the state of the world now and the unmistakable effects of the Song.
+> > 
+> > To truly appreciate the world that our forebearers damned, it seems pertinent to set the scene.
+> > 
+> > From what we know, the Old World took the form of five major landmasses. In those days, the Luminants were mostly contiguous, with what was known as the World’s Edge delineating its circumference. The World’s Edge, of course, is what we now call the Voidsea, and from their histories we can attest that it was equally impassable in their day as it is in ours.
+> > 
+> > The skies are also said to have been clearer, seemingly devoid of the outstretched fingers of Voidfog that have blotted out our stars and confounded our instruments for centuries. The Voidfog is, of course, one of many lesser-known effects of the Tides. With the naked eye, they appear merely as clouds. Any observer who paid enough attention would realise that these formations are fixed in relative space, moving across our skies in a cycle. When observed through a telescope, the lensing effect becomes apparent, the light seeming to bend and distort around it.
+> > 
+> > In these broad and interrupted lands, its people lived lives of plenty, well-fed from their expansive farmland and connected by a flourishing network of trade. Many comparisons can be drawn between their way of life and that of the Felinor fieldfolk of Markor - a topic that has been well documented by our cousins at the Citadel.
+> > 
+> > And far beneath these plentiful lands, deeper in those days, lurked the danger that we know now to be the source of our maladies - the Depths. What little accounts we have dredged up of these outer planes in the times before the threat became apparent seem to have largely persisted in the realms of folklore and mythology - tales of sea monsters emerging from the depths of the ocean were often recanted on dark stormy nights, some having more foundation than others.
+> > 
+> > Furthermore, though the Song had not yet been discovered, its effects could still be seen. In the years before the Canticlysm, strange creatures would sometimes be found on the shores. Pale gelatinous flesh stretched over their bones, seemingly due to decompression. Bearing no visible relation to any of the animal life they had yet documented, these creatures were kept for research and dissected. Those that lived were unresponsive and did not last long in captivity, seeming to lack some form of nutrition.
+> > 
+> > With the creatures often came strange curios and trinkets; artifacts of civilisations that did not belong to the surface world. It is thought it is through the nobles’ fascination with these artifacts that the Song was first discovered.
+> > 
+> > What began as a faint whisper heard only by those attuned soon grew into an enthralling melody that was never far away. Even the mere snippets of it that the researchers had retrieved were potent and intoxicating, seeming to promise something ever deeper and ever greater than what they had ever known.
+> > 
+> > And in capturing the Song and trying to replicate its melodies, strange phenomena began to occur. In the dingy basement of a tavern, a practising musician’s viola burst into flames. A temple erected in service to the growing religion surrounding this newfound Song has its steeple struck by lightning in the middle of their morning prayers.
+> > 
+> > Those that memorised more and more of its tones seemed to gain an ever greater understanding of the world around them and the powers that drove it.
+> > 
+> > It took a mere generation after its discovery for a renaissance of technology and culture to blossom forth. This great era became known as the Canticlysm - the advent and heyday of the Song. With an easily accessible source of power that came at seemingly no cost beyond one’s stamina, mundane tasks were swiftly trivialised.
+> > 
+> > As with early man’s discovery of the means to start a fire, the discovery of its manipulation through the Song, known as ‘Flamecharming’, was similarly fundamental in uplifting the world’s technology. Contraptions and new technologies could be fueled simply by the energy of its user, and the greatest asset to mankind’s progress soon became so-called Songwork.
+> > 
+> > Songworkers were instructed in the use of a limited subset of Flamecharming and were put to work powering machines and foundries. Concentration was vital, and safety was often cast aside in favour of greater efficiency, costing many Songworkers their lives.
+> > 
+> > As new processes were developed to advance technology, Songworkers were saddled with ever-increasing workloads. The dissent of the labourers grew with every passing day - given a taste of the Song, the very powers of creation were dangled like a carrot on a string in front of them.
+> > 
+> > Labourers began to gather in secret in the few hours they were afforded to rest a day, pooling their experience together and furthering their understanding of Flamecharming. It’s sometimes mused that in these times, the lowliest Songworker had a better grasp of the Song than the loftiest academic did. While scholars lounged and ruminated on its potential, the labourers were made to use it every minute of every day, coming to know it through intuition.
+> > 
+> > With a growing network of support among the labourers, talk of an uprising soon spread across the factories of the world. Unable to hide their anxiety, the ruling class sought to make an example of the dissidents, and with the execution of a prominent labour activist they lit the spark that would soon ignite revolution. Armed with the Song, many Songworkers soon earnt their rights through fire and blood.
+> > 
+> > Those governments unable to smother the embers of rebellion were toppled and replaced, though not always for the better. Wise to the power the workers held, the long-forgotten arts of Vows were resurrected by the surviving powers, now forcing the Songworkers of many nations into lifelong servitude.
+> > 
+> > With the widespread devastation exacted on the world by the wars waged through the Song, many did not fully realise the changes that were coming to it. The creatures that emerged from the seas were no longer pallid comatose things, and were now presenting a growing threat to the peoples of seaside settlements.
+> > 
+> > In time, this threat spread even further inland. Year after year, record flood highs were reached. Mass evacuations sparked across the world, its people frantic to escape a catastrophe they hadn’t foreseen.
+> > 
+> > But in their flight, they did not abandon the Song. As the tides drew in ever closer, they held it as tightly to their chests as a prayerbook. Seeking the fabled mountaintops of the world’s spine, the Song’s Tides carried the people higher and higher.
+> > 
+> > Where pastures and orchards had once sustained a vast population, the mountain peaks could never sustain nearly enough. Mankind’s understanding withered as its population dwindled. Without fervent research into the Song and its applications, technological advancements ground to a halt.
+> > 
+> > Despite the relative abandonment of the Song, the Tides never stopped rising, and the Edge of the World hemmed itself inwards. This Edge, the Voidsea, soon extended its fingers into the oceans - no longer seas - that parted the continents of the world. Where once the Voidsea had been a border between the known and the unknown, it now drew its borders between the nations of the world, a seemingly insurmountable obstacle to cross.
+> > 
+> >   
 > 
-> To them, it was a renaissance born from the advent of their greater understanding of the surrounding planes. The very powers of creation seemed only a hair's breadth away, a tantalisingly small gulf for them to cross.
-> 
-> Were we in the same position as they, I’m sure that we would not hesitate to make use of the powers that it brought. And even in our current era, many do not grasp the correlation between the state of the world now and the unmistakable effects of the Song.
-> 
-> To truly appreciate the world that our forebearers damned, it seems pertinent to set the scene.
-> 
-> From what we know, the Old World took the form of five major landmasses. In those days, the Luminants were mostly contiguous, with what was known as the World’s Edge delineating its circumference. The World’s Edge, of course, is what we now call the Voidsea, and from their histories we can attest that it was equally impassable in their day as it is in ours.
-> 
-> The skies are also said to have been clearer, seemingly devoid of the outstretched fingers of Voidfog that have blotted out our stars and confounded our instruments for centuries. The Voidfog is, of course, one of many lesser-known effects of the Tides. With the naked eye, they appear merely as clouds. Any observer who paid enough attention would realise that these formations are fixed in relative space, moving across our skies in a cycle. When observed through a telescope, the lensing effect becomes apparent, the light seeming to bend and distort around it.
-> 
-> In these broad and interrupted lands, its people lived lives of plenty, well-fed from their expansive farmland and connected by a flourishing network of trade. Many comparisons can be drawn between their way of life and that of the Felinor fieldfolk of Markor - a topic that has been well documented by our cousins at the Citadel.
-> 
-> And far beneath these plentiful lands, deeper in those days, lurked the danger that we know now to be the source of our maladies - the Depths. What little accounts we have dredged up of these outer planes in the times before the threat became apparent seem to have largely persisted in the realms of folklore and mythology - tales of sea monsters emerging from the depths of the ocean were often recanted on dark stormy nights, some having more foundation than others.
-> 
-> Furthermore, though the Song had not yet been discovered, its effects could still be seen. In the years before the Canticlysm, strange creatures would sometimes be found on the shores. Pale gelatinous flesh stretched over their bones, seemingly due to decompression. Bearing no visible relation to any of the animal life they had yet documented, these creatures were kept for research and dissected. Those that lived were unresponsive and did not last long in captivity, seeming to lack some form of nutrition.
-> 
-> With the creatures often came strange curios and trinkets; artifacts of civilisations that did not belong to the surface world. It is thought it is through the nobles’ fascination with these artifacts that the Song was first discovered.
-> 
-> What began as a faint whisper heard only by those attuned soon grew into an enthralling melody that was never far away. Even the mere snippets of it that the researchers had retrieved were potent and intoxicating, seeming to promise something ever deeper and ever greater than what they had ever known.
-> 
-> And in capturing the Song and trying to replicate its melodies, strange phenomena began to occur. In the dingy basement of a tavern, a practising musician’s viola burst into flames. A temple erected in service to the growing religion surrounding this newfound Song has its steeple struck by lightning in the middle of their morning prayers.
-> 
-> Those that memorised more and more of its tones seemed to gain an ever greater understanding of the world around them and the powers that drove it.
-> 
-> It took a mere generation after its discovery for a renaissance of technology and culture to blossom forth. This great era became known as the Canticlysm - the advent and heyday of the Song. With an easily accessible source of power that came at seemingly no cost beyond one’s stamina, mundane tasks were swiftly trivialised.
-> 
-> As with early man’s discovery of the means to start a fire, the discovery of its manipulation through the Song, known as ‘Flamecharming’, was similarly fundamental in uplifting the world’s technology. Contraptions and new technologies could be fueled simply by the energy of its user, and the greatest asset to mankind’s progress soon became so-called Songwork.
-> 
-> Songworkers were instructed in the use of a limited subset of Flamecharming and were put to work powering machines and foundries. Concentration was vital, and safety was often cast aside in favour of greater efficiency, costing many Songworkers their lives.
-> 
-> As new processes were developed to advance technology, Songworkers were saddled with ever-increasing workloads. The dissent of the labourers grew with every passing day - given a taste of the Song, the very powers of creation were dangled like a carrot on a string in front of them.
-> 
-> Labourers began to gather in secret in the few hours they were afforded to rest a day, pooling their experience together and furthering their understanding of Flamecharming. It’s sometimes mused that in these times, the lowliest Songworker had a better grasp of the Song than the loftiest academic did. While scholars lounged and ruminated on its potential, the labourers were made to use it every minute of every day, coming to know it through intuition.
-> 
-> With a growing network of support among the labourers, talk of an uprising soon spread across the factories of the world. Unable to hide their anxiety, the ruling class sought to make an example of the dissidents, and with the execution of a prominent labour activist they lit the spark that would soon ignite revolution. Armed with the Song, many Songworkers soon earnt their rights through fire and blood.
-> 
-> Those governments unable to smother the embers of rebellion were toppled and replaced, though not always for the better. Wise to the power the workers held, the long-forgotten arts of Vows were resurrected by the surviving powers, now forcing the Songworkers of many nations into lifelong servitude.
-> 
-> With the widespread devastation exacted on the world by the wars waged through the Song, many did not fully realise the changes that were coming to it. The creatures that emerged from the seas were no longer pallid comatose things, and were now presenting a growing threat to the peoples of seaside settlements.
-> 
-> In time, this threat spread even further inland. Year after year, record flood highs were reached. Mass evacuations sparked across the world, its people frantic to escape a catastrophe they hadn’t foreseen.
-> 
-> But in their flight, they did not abandon the Song. As the tides drew in ever closer, they held it as tightly to their chests as a prayerbook. Seeking the fabled mountaintops of the world’s spine, the Song’s Tides carried the people higher and higher.
-> 
-> Where pastures and orchards had once sustained a vast population, the mountain peaks could never sustain nearly enough. Mankind’s understanding withered as its population dwindled. Without fervent research into the Song and its applications, technological advancements ground to a halt.
-> 
-> Despite the relative abandonment of the Song, the Tides never stopped rising, and the Edge of the World hemmed itself inwards. This Edge, the Voidsea, soon extended its fingers into the oceans - no longer seas - that parted the continents of the world. Where once the Voidsea had been a border between the known and the unknown, it now drew its borders between the nations of the world, a seemingly insurmountable obstacle to cross.
+> ### Tale of the Storm
 > 
 >   
-
-### Tale of the Storm
-
-  
-from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
-  
-  
-   
-Come, gather 'round,  
-Hear, sailors, my tale -  
-What awful fate did I meet at the gale!  
-  
-\---  
-  
-A fine ship I owned,  
-Though crewless it lay  
-At anchor, alone, at the tip of the quay.  
-When a merchant did offer  
-For me to make trade -  
-He told me for this I'd be handsomely paid.  
-  
-The cargo was plain -  
-Some boxes and crates,  
-Each stamped with a name and delivery date.  
-And the merchant kept silent  
-On what was inside -  
-And never I asked him, perhaps out of pride.  
-  
-He told me to sail  
-Tomorrow at morn -  
-He ordered me haste, and of penalties warned.  
-So I set out to town  
-And I sought me a crew -  
-From there one by one did I gather a few.  
-  
-   
-I found me a host -  
-Some eighteen at most  
-Now followed my orders and tended each post.  
-And with confidence vast,  
-I barked, 'anchors aweigh!'  
-And soon my dear ship journeyed out from the bay.  
-  
-We sailed for a while,  
-And thunder I heard.  
-That moment, a worry inside of me stirred -  
-For a storm was approaching,  
-And said I, "So what?"  
-"We'll hold through this weather - I'll follow my gut."  
-  
-The clouds darker grew,  
-And worried the crew.  
-The first mate then muttered, "This might go askew."  
-"Superstition!", I scorned him,  
-And onwards we pressed,  
-The wind growing stronger, against it we wrest.  
-  
-I thought we'd escape,  
-But things took for worse -  
-Recall I this moment, and still myself curse!  
-We were now in the claws  
-Of a cold, heartless gale,  
-Our masts and the mainsail it quickly assailed.  
-  
-   
-The sea rocked our ship,  
-The tides knocked our course,  
-The wind ripped our sails without any remorse;  
-And when forced to make landing  
-We set on the shore,  
-We hoped to find shelter, but found something more:  
-  
-Four chitinous beasts,  
-Four terrors unleashed,  
-Their web-ridden lair filled with bodies deceased!  
-As we scrambled away  
-From their skittering forms,  
-A few of us stumbled, and fell to their swarm.  
-  
-And lived they were no more -  
-They never will oar,  
-Nor tread on a ship, from the aft to the fore...  
-With their fates quickly sealed -  
-By the spiders consumed! -  
-We mourned for a moment, our plight then resumed.  
-  
-We followed the coast,  
-Our shambling host  
-Of raggedy sailors, some fourteen at most.  
-When we heard a grim gurgle  
-That came from the rear -  
-A mudskipper's gale gave us plenty to fear.  
-  
-   
-Two men lost their ground,  
-And slipped on the stones -  
-They fell to the water with naught but a groan;  
-And they too were soon gurgling -  
-The sea filled their lungs.  
-We slew the damned creature, and onwards we sprung.  
-  
-Soon, over a hill,  
-We stumbled across  
-A cavernous respite much-covered in moss!  
-As we thought we found shelter,  
-A thunderous smite  
-Did strike the ground brightly and offered some light.  
-  
-We settled inside,  
-And briefly did rest,  
-But fear gripped us quickly again in our chests;  
-For we felt the cave stirr  
-And a few boulders shake -  
-A beast in the cavern was coming awake!  
-  
-A terrible thing,  
-Enormous in size -  
-A snub shark-like head slowly opened its eyes!  
-As it rose to its legs  
-In a thunderous roar,  
-Some crewfolk it snagged, and to pieces them tore.  
-  
-Its jaws opened wide,  
-And razor-sharp teeth  
-Did flash in the storm to the sailors beneath.  
-In a ravenous hunger  
-Its maw claimed a few,  
-Through numerous others its claws would soon hew.  
-  
-   
-I stumbled away  
-And fled through the rain,  
-Still clutching my wounds and ignoring the pain.  
-When I stopped for a moment  
-To look for my crew,  
-I saw none behind me, not even a few.  
-  
-Alone I was left,  
-My sides almost cleft...  
-But wait! What is this? I've committed a theft!  
-When I fled from the monster,  
-A stone I had snatched,  
-But no! It's an egg! Warm, and yet still unhatched.  
-  
-I made for the ship -  
-There's rowboats unmaimed.  
-The beast now comes after for what I have claimed!  
-As I lowered the rowboat  
-And started to oar,  
-The beast cried ashore in a bellowing roar!  
-  
-A sorrow I felt -  
-My comrades are gone,  
-My ship lays abandoned, from dusk until dawn...  
-But I rowed through the storm,  
-And I wrestled the sea,  
-And when came the morning, a port did I see!  
-  
-   
-I made for the docks  
-And fell on the quay -  
-Exhausted and starving, unconscious I lay.  
-When I came to my senses,  
-I lay in a bed -  
-A merchant had nursed me to life from the dead.  
-  
-"What happened?", he asked.  
-I told him my tale -  
-What terrible fate did we meet in the gale!  
-Then he looked at the egg,  
-Said "To you I would pay  
-A marvelous sum, if you sold it today."  
-  
-I thanked for his aid,  
-His offer I took -  
-He handled the egg, and our hands they were shook.  
-When I made my way home,  
-At my door was a chest -  
-A lifetime of wealth, it allowed me to rest.  
-  
-\---  
-  
-Now sail I no more,  
-I never will oar,  
-Or serve on a ship, from the aft to the fore.  
-And I weep for my comrades -  
-Their fates are my fault!  
-I weep for them still, my tears bitter as salt...
-
-> "Tale of the Storm" is a sailors' ballad originating from the Eastern Luminant. Although its author and creation date remain unknown - such is the nature of many folk songs, after all, - given the context of the song, it can be confidently dated to after the Tide. It is difficult to say whether this ballad is based in any true events, though some of it certainly indicates the original author was either a well-travelled sailor, or was familiar with the farther reaches of the sea.
+> from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
+>   
+>   
+>    
+> Come, gather 'round,  
+> Hear, sailors, my tale -  
+> What awful fate did I meet at the gale!  
+>   
+> \---  
+>   
+> A fine ship I owned,  
+> Though crewless it lay  
+> At anchor, alone, at the tip of the quay.  
+> When a merchant did offer  
+> For me to make trade -  
+> He told me for this I'd be handsomely paid.  
+>   
+> The cargo was plain -  
+> Some boxes and crates,  
+> Each stamped with a name and delivery date.  
+> And the merchant kept silent  
+> On what was inside -  
+> And never I asked him, perhaps out of pride.  
+>   
+> He told me to sail  
+> Tomorrow at morn -  
+> He ordered me haste, and of penalties warned.  
+> So I set out to town  
+> And I sought me a crew -  
+> From there one by one did I gather a few.  
+>   
+>    
+> I found me a host -  
+> Some eighteen at most  
+> Now followed my orders and tended each post.  
+> And with confidence vast,  
+> I barked, 'anchors aweigh!'  
+> And soon my dear ship journeyed out from the bay.  
+>   
+> We sailed for a while,  
+> And thunder I heard.  
+> That moment, a worry inside of me stirred -  
+> For a storm was approaching,  
+> And said I, "So what?"  
+> "We'll hold through this weather - I'll follow my gut."  
+>   
+> The clouds darker grew,  
+> And worried the crew.  
+> The first mate then muttered, "This might go askew."  
+> "Superstition!", I scorned him,  
+> And onwards we pressed,  
+> The wind growing stronger, against it we wrest.  
+>   
+> I thought we'd escape,  
+> But things took for worse -  
+> Recall I this moment, and still myself curse!  
+> We were now in the claws  
+> Of a cold, heartless gale,  
+> Our masts and the mainsail it quickly assailed.  
+>   
+>    
+> The sea rocked our ship,  
+> The tides knocked our course,  
+> The wind ripped our sails without any remorse;  
+> And when forced to make landing  
+> We set on the shore,  
+> We hoped to find shelter, but found something more:  
+>   
+> Four chitinous beasts,  
+> Four terrors unleashed,  
+> Their web-ridden lair filled with bodies deceased!  
+> As we scrambled away  
+> From their skittering forms,  
+> A few of us stumbled, and fell to their swarm.  
+>   
+> And lived they were no more -  
+> They never will oar,  
+> Nor tread on a ship, from the aft to the fore...  
+> With their fates quickly sealed -  
+> By the spiders consumed! -  
+> We mourned for a moment, our plight then resumed.  
+>   
+> We followed the coast,  
+> Our shambling host  
+> Of raggedy sailors, some fourteen at most.  
+> When we heard a grim gurgle  
+> That came from the rear -  
+> A mudskipper's gale gave us plenty to fear.  
+>   
+>    
+> Two men lost their ground,  
+> And slipped on the stones -  
+> They fell to the water with naught but a groan;  
+> And they too were soon gurgling -  
+> The sea filled their lungs.  
+> We slew the damned creature, and onwards we sprung.  
+>   
+> Soon, over a hill,  
+> We stumbled across  
+> A cavernous respite much-covered in moss!  
+> As we thought we found shelter,  
+> A thunderous smite  
+> Did strike the ground brightly and offered some light.  
+>   
+> We settled inside,  
+> And briefly did rest,  
+> But fear gripped us quickly again in our chests;  
+> For we felt the cave stirr  
+> And a few boulders shake -  
+> A beast in the cavern was coming awake!  
+>   
+> A terrible thing,  
+> Enormous in size -  
+> A snub shark-like head slowly opened its eyes!  
+> As it rose to its legs  
+> In a thunderous roar,  
+> Some crewfolk it snagged, and to pieces them tore.  
+>   
+> Its jaws opened wide,  
+> And razor-sharp teeth  
+> Did flash in the storm to the sailors beneath.  
+> In a ravenous hunger  
+> Its maw claimed a few,  
+> Through numerous others its claws would soon hew.  
+>   
+>    
+> I stumbled away  
+> And fled through the rain,  
+> Still clutching my wounds and ignoring the pain.  
+> When I stopped for a moment  
+> To look for my crew,  
+> I saw none behind me, not even a few.  
+>   
+> Alone I was left,  
+> My sides almost cleft...  
+> But wait! What is this? I've committed a theft!  
+> When I fled from the monster,  
+> A stone I had snatched,  
+> But no! It's an egg! Warm, and yet still unhatched.  
+>   
+> I made for the ship -  
+> There's rowboats unmaimed.  
+> The beast now comes after for what I have claimed!  
+> As I lowered the rowboat  
+> And started to oar,  
+> The beast cried ashore in a bellowing roar!  
+>   
+> A sorrow I felt -  
+> My comrades are gone,  
+> My ship lays abandoned, from dusk until dawn...  
+> But I rowed through the storm,  
+> And I wrestled the sea,  
+> And when came the morning, a port did I see!  
+>   
+>    
+> I made for the docks  
+> And fell on the quay -  
+> Exhausted and starving, unconscious I lay.  
+> When I came to my senses,  
+> I lay in a bed -  
+> A merchant had nursed me to life from the dead.  
+>   
+> "What happened?", he asked.  
+> I told him my tale -  
+> What terrible fate did we meet in the gale!  
+> Then he looked at the egg,  
+> Said "To you I would pay  
+> A marvelous sum, if you sold it today."  
+>   
+> I thanked for his aid,  
+> His offer I took -  
+> He handled the egg, and our hands they were shook.  
+> When I made my way home,  
+> At my door was a chest -  
+> A lifetime of wealth, it allowed me to rest.  
+>   
+> \---  
+>   
+> Now sail I no more,  
+> I never will oar,  
+> Or serve on a ship, from the aft to the fore.  
+> And I weep for my comrades -  
+> Their fates are my fault!  
+> I weep for them still, my tears bitter as salt...
 > 
-> Though not mentioned by name, the descriptions suggest the ballad's narrator and their crew faced off against some beasts still around in our days. Namely, the 'four chitinous beasts' seem to indicate the presence of giant recluse spiders not unlike the so-called Deep Widow found underneath the surface of Aratel (though perhaps smaller), while the 'snub shark-like head' implies a deadly encounter with what we now know as a Megalodaunt.
+> > "Tale of the Storm" is a sailors' ballad originating from the Eastern Luminant. Although its author and creation date remain unknown - such is the nature of many folk songs, after all, - given the context of the song, it can be confidently dated to after the Tide. It is difficult to say whether this ballad is based in any true events, though some of it certainly indicates the original author was either a well-travelled sailor, or was familiar with the farther reaches of the sea.
+> > 
+> > Though not mentioned by name, the descriptions suggest the ballad's narrator and their crew faced off against some beasts still around in our days. Namely, the 'four chitinous beasts' seem to indicate the presence of giant recluse spiders not unlike the so-called Deep Widow found underneath the surface of Aratel (though perhaps smaller), while the 'snub shark-like head' implies a deadly encounter with what we now know as a Megalodaunt.
+> > 
+> > The unfamiliar landscape and unusual fauna described in the song's narrative - a high-cliffed island some distance away from civilisation, with the presence of several giant nesting spiders in close proximity to the territorial Megalodaunts' breeidng grounds, - suggests that the surface world inhabited by the ballad's original author may have been much different to the one we live in today.
+> > 
+> > While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost Driftland, a type of migratory island that shifts in and out of the precarious Voidsea - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
+> > 
+> > Furthermore, it has been proposed that it may have existed during the Shallows - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the Tides rose. It is known, through scarce remaining texts, that Driftland shift was most prominent and fast-paced immediately after the era of the Tides. However, the Shallows are notorious for being a dark spot in the annals of history, for its lack of preserved records.
 > 
-> The unfamiliar landscape and unusual fauna described in the song's narrative - a high-cliffed island some distance away from civilisation, with the presence of several giant nesting spiders in close proximity to the territorial Megalodaunts' breeidng grounds, - suggests that the surface world inhabited by the ballad's original author may have been much different to the one we live in today.
+> ### Vows by the Sea: Inheritance
 > 
-> While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost Driftland, a type of migratory island that shifts in and out of the precarious Voidsea - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
-> 
-> Furthermore, it has been proposed that it may have existed during the Shallows - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the Tides rose. It is known, through scarce remaining texts, that Driftland shift was most prominent and fast-paced immediately after the era of the Tides. However, the Shallows are notorious for being a dark spot in the annals of history, for its lack of preserved records.
-
-### Vows by the Sea: Inheritance
-
-> by Steward Bridges
+> > by Steward Bridges
+> > 
+> >   
+> > The contemporary understanding of the origins of the Races of Lumen can be said to stem primarily from the ‘Gremor Hypothesis’ posed by Steward Heidegard in his 877 CE study. In this essay, Heidegard delves into the spoken histories and folklore of the Gremor nomads, and proposes that the poorly understood mechanisms of Vows might be behind the internal ‘compass’ spoken of by the nomads.
+> > 
+> > Gremor folklore speaks of the descent of Navae to this world, the nursing of the falling goddess back to life by a wandering nomad, and a Vow made between this nomad and the celestial Navae. While there are naturally accounts of the deer-horned Gremor during the Old World, it is only in post-tide sources that we find any mention of the innate compass the nomads use to navigate the seas.
+> > 
+> > Heidegard suggests that the Vow made in the stories was a ‘Hereditary Vow’, one that would be passed on to future descendants as part of the terms of the Vow. It is said that through this Vow, the children of the nomad were blessed with ‘Navae’s guidance’, though not the nomad herself. The mechanics of such a Vow have not yet been replicated to such an extent through modern experimentation, but the question is posed - if a supernatural gift such as the blessing of Navae could be conveyed through a Hereditary Vow, what else could be a result of such an effect that we have taken for granted?
+> > 
+> > It is well known that while there are hybrids in nature, there are not hybrids between the races of Man - we are of the same species, but bear only one distinct race each.
+> > 
+> > The traits we inherit are not a mixture of the different races we hold as our heritage - the child of a Gremor and a Celtor will take after the traits of only one of the parents. The mechanics of which parent takes priority in this assignment of traits are poorly understood and have widely been concluded to be down to a variety of disparate factors, such as the ‘liveliness of one’s spirit’ \[sic\], one’s aptitude with the Song, or the intensity of one’s Soul Murmur.
+> > 
+> > There is naturally a taboo surrounding the use of Vows to enforce religious tenets. The origins of this taboo are unclear, but there exist some records of the religious institutions present in the days between the Tides and the establishment of the Citadel. Recovered holy texts speak of sacraments made and promises broken on pain of death, and of the mandatory persecution of non-adherents. Of the faiths that survive from those days, such as the Covenant of Flame, none extant today enforce Vows upon their members.
+> > 
+> > Many isolated and less integrated cultures often adhere to the worship of animal deities, of spirits that embody nature. Without the taboo brought by history - or perhaps ancestral memory - it is believed that some of these pagan faiths may utilise Vows on some level. These cultures may resemble the early days of our own cultures, and this can perhaps be seen in the continued reverence of our ‘patron’ animal counterparts. The wild deer hunted by the Gremor nomads are afforded the same burial rites as their own kind, after all.
+> > 
+> > It is a somewhat poorly understood but apparent property of Vows that the number of those sworn to one magnifies the resultant effects of the Vow. This can be seen in the strength granted by Oaths to their adherents. It can therefore be theorised that this may lead to potent and dramatic effects if extended to the size of a religion thousands - or even millions - strong.
+> > 
+> > So, having stated the relevant background information, I posit that the races of Lumen are the result of a Hereditary Vow. Supposing that a Vow was able to bestow upon the Gremor a preternatural ability such as Navae’s guidance, I believe that as a matter of course another Vow made long in the past may have originally bestowed the traits that the races of Lumen exhibit today.
+> > 
+> > Free of the taboo of Religious Vows, the animal worship of our ancestors gave way to an attribution of the traits of the animals worshipped as tenets of the Vow. In the urging of the Vow’s adherents to emulate the traits of sacred animals in their actions (e.g. in the case of Canor, the loyalty of a wolf), they were physically granted the traits of said animals as the Vow was brought into fruition.
+> > 
+> > This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
+> > 
+> > If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
 > 
 >   
-> The contemporary understanding of the origins of the Races of Lumen can be said to stem primarily from the ‘Gremor Hypothesis’ posed by Steward Heidegard in his 877 CE study. In this essay, Heidegard delves into the spoken histories and folklore of the Gremor nomads, and proposes that the poorly understood mechanisms of Vows might be behind the internal ‘compass’ spoken of by the nomads.
 > 
-> Gremor folklore speaks of the descent of Navae to this world, the nursing of the falling goddess back to life by a wandering nomad, and a Vow made between this nomad and the celestial Navae. While there are naturally accounts of the deer-horned Gremor during the Old World, it is only in post-tide sources that we find any mention of the innate compass the nomads use to navigate the seas.
+> ## Trivia
 > 
-> Heidegard suggests that the Vow made in the stories was a ‘Hereditary Vow’, one that would be passed on to future descendants as part of the terms of the Vow. It is said that through this Vow, the children of the nomad were blessed with ‘Navae’s guidance’, though not the nomad herself. The mechanics of such a Vow have not yet been replicated to such an extent through modern experimentation, but the question is posed - if a supernatural gift such as the blessing of Navae could be conveyed through a Hereditary Vow, what else could be a result of such an effect that we have taken for granted?
+> -   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, Operation 'Distant Light' Report, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
+> -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
+> -   Stars Above, and the Blade between was written by former developer iltria.
+> -   Ossuary Maintenance and Strange Missives was written by contributor Hautdesert.
+> -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
+> -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
+> -   The canjolin instrument could be loosely based off of the [mandolin](https://en.wikipedia.org/wiki/Mandolin).
+> -   The book 'A Deathscribe's Journal' contains numerous Easter Eggs and references.
+>     -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore.
+>     -   Douglas Douglas Vondren is a reference to YouTuber and streamer DougDoug.
+>     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
+>     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
+>     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
+>     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[1\]](#cite-note-1)
+> -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
+>     -   In both stories, they are [Vesperians](Vesperian.md).
+>     -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.
 > 
-> It is well known that while there are hybrids in nature, there are not hybrids between the races of Man - we are of the same species, but bear only one distinct race each.
+> ## References
 > 
-> The traits we inherit are not a mixture of the different races we hold as our heritage - the child of a Gremor and a Celtor will take after the traits of only one of the parents. The mechanics of which parent takes priority in this assignment of traits are poorly understood and have widely been concluded to be down to a variety of disparate factors, such as the ‘liveliness of one’s spirit’ \[sic\], one’s aptitude with the Song, or the intensity of one’s Soul Murmur.
-> 
-> There is naturally a taboo surrounding the use of Vows to enforce religious tenets. The origins of this taboo are unclear, but there exist some records of the religious institutions present in the days between the Tides and the establishment of the Citadel. Recovered holy texts speak of sacraments made and promises broken on pain of death, and of the mandatory persecution of non-adherents. Of the faiths that survive from those days, such as the Covenant of Flame, none extant today enforce Vows upon their members.
-> 
-> Many isolated and less integrated cultures often adhere to the worship of animal deities, of spirits that embody nature. Without the taboo brought by history - or perhaps ancestral memory - it is believed that some of these pagan faiths may utilise Vows on some level. These cultures may resemble the early days of our own cultures, and this can perhaps be seen in the continued reverence of our ‘patron’ animal counterparts. The wild deer hunted by the Gremor nomads are afforded the same burial rites as their own kind, after all.
-> 
-> It is a somewhat poorly understood but apparent property of Vows that the number of those sworn to one magnifies the resultant effects of the Vow. This can be seen in the strength granted by Oaths to their adherents. It can therefore be theorised that this may lead to potent and dramatic effects if extended to the size of a religion thousands - or even millions - strong.
-> 
-> So, having stated the relevant background information, I posit that the races of Lumen are the result of a Hereditary Vow. Supposing that a Vow was able to bestow upon the Gremor a preternatural ability such as Navae’s guidance, I believe that as a matter of course another Vow made long in the past may have originally bestowed the traits that the races of Lumen exhibit today.
-> 
-> Free of the taboo of Religious Vows, the animal worship of our ancestors gave way to an attribution of the traits of the animals worshipped as tenets of the Vow. In the urging of the Vow’s adherents to emulate the traits of sacred animals in their actions (e.g. in the case of Canor, the loyalty of a wolf), they were physically granted the traits of said animals as the Vow was brought into fruition.
-> 
-> This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
-> 
-> If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
-
-  
-
-## Trivia
-
--   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, Operation 'Distant Light' Report, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
--   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
--   Stars Above, and the Blade between was written by former developer iltria.
--   Ossuary Maintenance and Strange Missives was written by contributor Hautdesert.
--   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
--   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
--   The canjolin instrument could be loosely based off of the [mandolin](https://en.wikipedia.org/wiki/Mandolin).
--   The book 'A Deathscribe's Journal' contains numerous Easter Eggs and references.
-    -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore.
-    -   Douglas Douglas Vondren is a reference to YouTuber and streamer DougDoug.
-    -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
-    -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
-    -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
-    -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[1\]](#cite-note-1)
--   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
-    -   In both stories, they are [Vesperians](Vesperian.md).
-    -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.
-
-## References
-
-1.  [↑](#cite-ref-1)
+> 1.  [↑](#cite-ref-1)
