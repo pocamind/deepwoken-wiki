@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 111334
+revid: 111364
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1291,7 +1291,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>17</td>
   <td>N/A</td>
   <td>MED: 6</td>
-  <td>5</td>
+  <td>4</td>
   <td>8</td>
   <td>1x</td>
   <td>27.6</td>

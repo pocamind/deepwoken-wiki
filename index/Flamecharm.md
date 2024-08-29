@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 110248
+revid: 111363
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -398,6 +398,7 @@ _Leap up leaving behind a burst of flames._
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire.
 -   Compatible with Cast Speed and Visibility Modifiers.
+-   Can be modified with Crystal/Perfect Lenses to make it go further.
 -   Provides adequate mobility.
 -   Moves in a straight path.
     -   Can propel the user midair.

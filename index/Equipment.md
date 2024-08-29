@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 111125
+revid: 111361
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -951,6 +951,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
