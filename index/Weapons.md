@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 111364
+revid: 111376
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1878,7 +1878,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><font>HVY: 8</font></td>
   <td>7</td>
   <td>9</td>
-  <td>0.64x</td>
+  <td>0.85x</td>
   <td>0.1s</td>
   <td>44</td>
 </tr>

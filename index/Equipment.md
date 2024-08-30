@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 111361
+revid: 111373
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5233,6 +5233,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Pure Ore Turn-ins](Blacksmith.md) (**Extremely Rare**)
 
  |
 |  | 

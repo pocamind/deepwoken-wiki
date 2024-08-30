@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 111075
+revid: 111381
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -31,11 +31,11 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 
 ## Description
 
-The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of [Moon's Eyrie](<Moon's_Eyrie.md>) and it has a %1 drop chance. its maximum damage able to be achieved is 40.2 and a base of 18 if the user has 103 intelligence 100 medium and 6 proficiency with 3 star damage while equipping the Rosen ring.
+The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. Its base damage is 18, but the maximum damage able to be achieved is 40.2 if the user has 103 intelligence, 100 medium, and 6 proficiency while equipping the Rosen ring and using the 3 star damage modifier.
 
 ## Critical
 
-The Soulthorn has 3 critical variants depends on the amount of soul stacks on your opponent.
+The Soulthorn has 3 critical variants, which depend on the amount of soul stacks on your opponent.
 
 Every M1 of Soulthorn applies a soul stack, 3 at max. At max stacks your opponent will have a glowing aura.
 

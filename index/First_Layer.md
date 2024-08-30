@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 110722
+revid: 111372
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -87,7 +87,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 7-9 | Lesser Angel |
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
 | 14-16.66 | High chances for a Corrupted [Megalodaunt](Megalodaunt.md) |
-| 16.67+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md) or [corrupted bonekeeper](Bone_Keeper.md)) |
+| 16.67+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | Drowned 20+ Times or Vow of Thorns and [deepbound](Origins.md), or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), or [Fury Nautilodaunt](Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**

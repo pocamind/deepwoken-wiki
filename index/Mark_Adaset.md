@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 108895
+revid: 111388
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -22,6 +22,34 @@ If you still have the [Deepbound](Boons_and_Flaws.md) flaw, he will replace it f
   
 
   
+
+## Dialogue
+
+Speaking to him:
+
+Ah you're back. What do you need?
+
+1.  Isn't this place dangerous?
+2.  Can I join you?
+3.  Why did you move out of the other room?
+4.  \[End Dialogue\]
+
+1\. _\*He looks you over as if calculating your life's worth.\*_ I think this Layer should be light work for someone like you. _(Only at high power level, exact numbers unknown)_
+
+1.  Can i join you?
+2.  \[End Dialogue\]
+
+1.1 I don't really manege recruitment - you should talk to Akira.
+
+1.  \[End Dialogue\]
+
+2\. I don't really manege recruitment - you should talk to Akira.
+
+1.  \[End Dialogue\]
+
+3\. Miss Llfiend described me as a 'bubble chugging waste of air' and told me to leave.
+
+1.  \[End Dialogue\]
 
 ## Trivia
 

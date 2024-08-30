@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 111251
+revid: 111393
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 
 ## Limitations
 
-**Deep Shrines** can only be interacted with after approximately 10~ minutes of spawning, so trying to Deepbound won't work.
+**Deep Shrines** can only be interacted with after approximately ~10 minutes of spawning, so trying to Deepbound won't work.
 
 ## Shrines
 
@@ -35,7 +35,7 @@ Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa, i
 
 ## Effect
 
-Trade a Mantra of your choice and 5 Knowledges to gain a Whisper Draw.
+Trade a Mantra of your choice and 5 Knowledge to gain a Whisper Draw.
 
 ## Details
 
@@ -60,13 +60,13 @@ Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vi
 
 This shrine has 2 effects depending on your Power:
 
--   Power 1-16: For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws. However, you gain a Flaw and must catch up the 45 Investment points of these 3 Power Ups. This can only be done once per character.
+-   Power 1-16: For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws. However, you gain a Flaw and must catch up on the 45 Investment points of these 3 Power Ups. This can only be done once per character.
 -   Power 17-20: For 5 Knowledge, reroll a Flaw of your choice into another, random Flaw.
 
 ## Details
 
--   Bare in mind that the many card draws you will perform are based on your current stats, **you do not gain any attributes point from this**.
--   The 45 Investment Points you need to catch up will make it trouble to recover a Life while in the Overworld.
+-   Bear in mind that the many card draws you will perform are based on your current stats, **you do not gain any attribute points from this**.
+-   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld.
 -   With the 3 Power Ups granted, you immediately gain 3 Knowledge.
 -   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage.
     
@@ -78,15 +78,15 @@ This shrine has 2 effects depending on your Power:
 ― Shrine of Mastery
 
   
-Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>)
+Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>).
 
 ## Effect
 
 For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another Trait. You can also remove attribute points.
 
-## Detail
+## Details
 
--   Bare in mind, you still cannot add more than 6 Points into a given Trait.
+-   Bear in mind that you still cannot add more than 6 Points into a given Trait.
 -   You also cannot remove more than 3 attribute points.
     
 
@@ -94,19 +94,19 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 
 Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell).
 
-When using this shrine, please make sure to **check if you burned the card you're trying to get**, or **if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
+When using this shrine, please make sure to **check if you burned the card you're trying to get** or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 ## Effect
 
-Trade a Talent of your choice and 5 Knowledges to perform a Talent Draw with 3 cards.
+Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with 3 cards.
 
-## Detail
+## Details
 
--   One of the most valuable Deep Shrines, this let you obtain Talents you might have missed.
+-   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
 -   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
 -   To get a Rare Talent, you must trade in a Rare Talent.
 -   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite(s).
--   You cannot trade away a Talent if it is a prerequiste to another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
+-   You cannot trade away a Talent if it is a prerequisite of another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
     
 
 **Shrine of Order:**
@@ -126,14 +126,14 @@ You need Power 8+ and NO OATH to perform this deal.
 ## Details
 
 -   The main purpose of the Shrine Of Order is allowing you to obtain expensive [Talents](Talents.md) or [Mantras](Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
--   The stats that will be ordered are any of the stats that are non 0, beside racial stats, which need 3.
+-   The stats that will be ordered are any of the stats that have at least 1 point (besides racial stats, which need 3).
 -   Certain Talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
--   Mantras upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
+-   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
 -   A singular stat cannot lose more than 25 Points, with the exception of Attunement Stats.
--   Certain high requirement Talents (e.g. All the Dead Gods, Reinforced Armor) will lose effectiveness if you go below their requirements with this shrine.
--   Does not progress towards Contractor Oath
+-   Certain high-requirement Talents (e.g. All the Dead Gods, Reinforced Armor) will lose effectiveness if you go below their requirements with this shrine.
+-   Does not progress towards Contractor Oath.
     
 
 **Shrine of Conceit:**
@@ -172,15 +172,15 @@ Located in [The Lordsgrove](The_Lordsgrove.md) in the absurd large tunnel system
 
 ## Effect
 
-For 5 Knowledges and a Mantra of your choice, obtain a Roll 2.
+For 5 Knowledge and a Mantra of your choice, obtain a Roll 2.
 
 ## Details
 
--   After you take 12 roll 2's, this shrine will no longer allow you to get any Talents.
+-   After you take 12 roll 2s, this shrine will no longer allow you to get any Talents.
 -   Lets you get 2 Talents if you decide that you no longer want to use a mantra.
 -   Monster Mantras are not eligible to be divided.
 -   You cannot obtain Rare Talent cards.
--   There is a limit to the number of Talents you can get in general, this Shrine is not an infinite Talent generator.
+-   There is a limit to the number of Talents you can get in general. This Shrine is not an infinite Talent generator.
 -   If you do not meet the requirements for 2 or more Talents, the shrine will not let you trade.
     
 
@@ -202,8 +202,8 @@ For 5 Knowledge and 2 Talents of your choice, get a Whisper Draw.
 ## Details
 
 -   If you are out of Mantra Draws but need more mantras and don't want to get rid of mantras you already have, you can use this shrine.
--   You can trade common cards and rares to get mantra.
-    -   Not recommended as you can only get rare talents from leveling up.
+-   You can trade common and rare cards to get a mantra.
+    -   Not recommended to trade rare talents as you can only get them from leveling up.
         
 
 **Shrine of Solitude:**
@@ -226,16 +226,17 @@ In all other cases, this shrine does nothing. Does NOT progress towards the Cont
 
 ## Pros/Cons
 
-Free Mystic for the Lone Warrior Origin Free Mystic to those progressing via the Diluvian Mechanism
-
-Free Mystic available away from Castle Light in Temple of The Heart, this is primarly going to be Deepbounds due to their early access but can be accessed by anyone who own a Resonance.
+-   Free Mystic for the Lone Warrior Origin
+-   Free Mystic to those progressing via the Diluvian Mechanism.
+-   Free Mystic available away from Castle Light in Temple of The Heart, this is primarily going to be for Deepbounds due to their early access but can be accessed by anyone who owns a Resonance.
+    
 
 * * *
 
 ## Trivia
 
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit and the Shrine of Mastery.
--   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, are obivous references to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
+-   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, are obvious references to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
     -   Ironically, in that game, Shrine of Order was more or less a joke, providing no utility whatsoever.
         -   It was theorized this was the intent behind Deepwoken's Shrine of Order, but due to it actually allowing for the creation of extremely powerful builds, the developers found themselves unable to roll back the change without creating huge backlash as well as resulting in builds that existed before any changes to the Shrine being far more powerful than any new ones after the changes.
