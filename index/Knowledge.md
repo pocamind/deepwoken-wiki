@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 109713
+revid: 111414
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,7 +68,7 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit**, uses 1 Knowledge.
--   Engaging in a deal with **Shrine of Division**, uses 10 knowledge.
+-   Engaging in a deal with **Shrine of Division**, uses 5 knowledge.
 -   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge.
 
 -   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage_ and _Tales from the Valley_, which in turn are references to _[Insight](https://bloodborne.fandom.com/wiki/Insight)_ from _Bloodborne_.
