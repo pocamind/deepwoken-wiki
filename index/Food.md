@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 111254
+revid: 111443
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -19,7 +19,7 @@ Food is a necessary need for your Character's survival.
 _To get food, one must collect ingredients from various Luminants or buy the food from vendors in certain places._
 
 -   Mushrooms, fruit and wheat are all very easy to get, as they are plentiful and various on both starter islands.
--   In every season (except Winter), the player can find fruit on smaller trees and some bushes, which is an easy and safe source of nutrition.
+-   In every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, which is an easy and safe source of nutrition.
 -   You can buy food from [Lance Leshi](Lance.md), [his brother](<Lance's_Brother.md>) (?), and [The Meat Lord](The_Meat_Lord.md).
 -   Alternatively, you can turn in specific dishes that you cook to [Chef Odiolavoro](Chef_Odiolavoro.md) for some experience, although he is not a chef and should not be regarded as such.
 

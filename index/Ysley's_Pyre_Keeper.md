@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 111316
+revid: 111435
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -70,6 +70,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
+-   Note, the running critical is able to be feinted before the critical starts rushing forward. This feint has no cooldown unlike mantra or m1 feints.
 
 ## References
 

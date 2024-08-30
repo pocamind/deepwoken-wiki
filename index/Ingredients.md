@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 110505
+revid: 111442
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -41,7 +41,7 @@ Raw materials harvested from the environment.
 ### Fruits
 
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
--   Redd - Small round, orange fruit. Most commonly found in Songkeeper and Vigils.
+-   [Redd](Redd.md) - Small round, orange fruit. Most commonly found in Songkeeper and Vigils.
 -   Ongo - Red, roundish fruit. Basically, an apple. Most commonly found in the [Etrean Wilds](Etrean_Wilds.md)
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   [Plumfruit](Plumfruit.md) - It's a plum, what did you expect?
@@ -49,8 +49,8 @@ Raw materials harvested from the environment.
 ### Miscellaneous
 
 -   Gathered Wheat - Self-explanatory.
--   Bamboo Bundle - Bamboo sticks, growing mostly on beaches and shores.
--   Alestrian Coral: Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
+-   [Bamboo](Bamboo_Bundle.md) [Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly on beaches and shores.
+-   [Alestrian Coral](Alestrian_Coral.md): Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
 -   Sap: Amber streak of sap that appears on large trees.
 -   Scallop: Found in [Scyphozia](First_Layer.md).
 

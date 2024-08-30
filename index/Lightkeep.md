@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 98109
+revid: 111448
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -16,7 +16,13 @@ categories: [Lore]
 
 ## Description
 
-Lightkeep grants the user the ability to call upon their own soul to radiate lights outwards. The role of a Lightkeeper is to guide others through the [Luminants](Luminants.md) and endow [vessels](Ships_&_Sailing.md) with their protection.
+The Gift of Light, dubbed "Lightkeep" by the community\* grants the user the ability to call upon their own soul to radiate lights outwards. The role of a Lightkeeper is to guide others through the [Luminants](Luminants.md) and endow [vessels](Ships_&_Sailing.md) with their protection.
+
+\*("Lightkeeping" is an occupation, it has nothing to do with the presence of a "Lightkeep", but the community doesn't care, so it'll be referred to as "Lightkeep" from now on anyways).
+
+-   In all dialogue, it is referenced to as "Light" or the "Gift", with the term "Lightkeep" never being used.
+
+The current lightkeeper is Viqh, Lightkeeper of the Eastern Lighthouse, who resided in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), but was kidnapped by [The Central Authority](The_Central_Authority.md) as a child.
 
 ## Trivia
 
@@ -34,4 +40,4 @@ Lightkeep grants the user the ability to call upon their own soul to radiate lig
 -   Viqh is the currently only known Lightkeeper and childhood friend of [Nimea](Nimea.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using Radiant Tones to help her develop the Dawnwalker Oath.
 -   **Lightkeep has no relation to [Lightborn](Lightborn.md).**
 -   Despite frequent request to add it to the game, Lightkeep is not stated to have any combat application, or indeed, any application outside of illuminating the Voidsea.
-    -   Ironically, being born with it is almost a disability, as it restricts the users ability to harness the Song.
+    -   Ironically, being born with it is almost a disability, as it restricts the users ability to harness the Song, preventing the use of attunements, and possibly even murmurs/soul resonances.

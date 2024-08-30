@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 108633
+revid: 111444
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -77,13 +77,13 @@ If multiple ingredients have the same listed effect strength (for example, are m
 
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bamboo |  | Strongest |  |  | Strongest |  |  |  |  |  |
+| [Bamboo](Bamboo_Bundle.md) |  | Strongest |  |  | Strongest |  |  |  |  |  |
 | [Beeswax](Beeswax.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
 | Bluecap | Strongest | Strongest |  |  |  |  |  |  | Strongest |  |
 | [Browncaps](Browncap.md) | Strong |  | Strongest |  |  |  |  |  |  |  |
 | [Calabash](Calabash.md) |  |  |  |  | Strongest |  |  | Strongest |  |  |
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| Alestrian Coral |  |  | Weakest | Strongest |  | Strongest |  |  |  |  |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | Weakest | Strongest |  | Strongest |  |  |  |  |
 | Crustacean Meat |  |  | Strongest |  |  |  |  |  |  | Weakest |
 | [Dentifilo](Dentifilo.md) | Weakest | Weakest |  |  |  |  |  |  |  |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
@@ -378,4 +378,4 @@ These are not the only locations these ingredients can be found, but these are t
 ## Trivia
 
 -   [Attunement](Attunements.md) potions are not brewed using Alchemy but are instead obtained by completing a quest given by the respective [Trainer](Attunement_Trainers.md).
--   [Ciea](Ciea.md), found near the Widow's Den, offers quests to make different potions and bring them to her.
+-   [Ciea](Ciea.md), found near the Widow's Den, offers quests to make different potions and bring them to her. This is a prerequisite for [Saltchemist](Oath%253A_Saltchemist.md).
