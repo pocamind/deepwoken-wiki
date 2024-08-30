@@ -1,6 +1,6 @@
 ---
 title: Malte
-revid: 111387
+revid: 111404
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,13 +26,23 @@ You can find her muttering about her research, if you talk to her she will tell 
 
 ## Dialogue
 
-Speack to her:
-
-If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? _\*They mutter something incomprehensible about academia.\*_
-
-1.  What are you researching?
-2.  \[End Dialogue\]
-
-1\. You're interested? Hm, well, I've been reading up on the **Sky Statues** dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? <i>*They mutter something incomprehensible about academia.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">What are you researching?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="12">You're interested? Hm, well, I've been reading up on the <b>Sky Statues</b> dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>

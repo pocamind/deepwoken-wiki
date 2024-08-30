@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 111262
+revid: 111410
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -78,14 +78,15 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 
 -   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md), and all [Relics](Relics.md) at all levels.
 -   Depths Chests (5 & 10)
--   Brown Chests (15-50)
--   [Enchant Stones](Enchant_Stone.md) ( 25 - 50 )
+-   Brown Chests (15 - 50)
 -   [Stormseye](Stormseye.md) (15+)
--   [Authority Commander](Authority_Commander.md) (25+)
--   [Ignition Deepdelver](Ignition_Deepdelver.md) (25+)
+-   [Enchant Stones](Enchant_Stone.md) (25 - 50)
+-   [Enchant Grease](Enchant_Grease.md) (25 - 50)
+-   [Authority Commander,](Authority_Commander.md) [Ignition Deepdelver](Ignition_Deepdelver.md) (25+)
 -   Relic Chests (Wave 25 & 50)
+-   [Railblade](Railblade.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Gran Sudaruska](Gran_Sudaruska.md) and [Ignition Deepcrusher](Ignition_Deepcrusher.md) (30+)
 -   Guaranteed 2 Star loot (40+)
--   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
+-   [Celtorian Tideknight](Celtorian_Tideknight.md), [Pathfinder Elite](Pathfinder_Elite.md), [Justicar Defender](Justicar_Defender_Coat.md) (50)
 
 ## Waves
 

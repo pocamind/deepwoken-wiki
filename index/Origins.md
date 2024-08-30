@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 110706
+revid: 111411
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -66,7 +66,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     Call of the Deep animation
     
     -   If you use the ability you will spawn at [Castle Light](Castle_Light.md) just like how you would spawn when out of layer 1/2
-        -   If used within Scyphozia, it will instead teleport you to the entrance of Castle Light, similar to using it on the surface, with a 20 minute cooldown.
+        -   If used within Scyphozia (Layer 1), it will instead teleport you to the entrance of Castle Light, similar to using it on the surface, with a 20 minute cooldown.
         -   If used while in the depths trial, You will instead be sent into the middle of the arena.
     -   Cannot be used in combat or in any dungeons, though can be used anywhere else including [Voidzones](Voidzones.md).
     -   Returning to the main menu during the animation will cancel the teleport.
