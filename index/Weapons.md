@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 111376
+revid: 111528
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1398,7 +1398,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td><a href="Iron_Birch.md">Iron Birch</a></td>
-  <td>55 HVY</td>
+  <td>50 HVY</td>
   <td>26.5</td>
   <td>N/A</td>
   <td>N/A</td>

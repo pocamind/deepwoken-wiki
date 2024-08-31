@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 107532
+revid: 111532
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Helmets]
@@ -11,11 +11,11 @@ categories: [Equipment, Head, Hats, Helmets]
 | Miner's Hardhat | |
 |---|---|
 | type | Head |
-| rarity | Common |
-| selling price | N/A |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +1 Posture, 2 Rare Pips |
+| innate stats | +1 Posture, +2 Rare Pips |
 | innate talent | Rock BlasterExcavator |
 | bankable | Yes |
 | droppable | Yes |

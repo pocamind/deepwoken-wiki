@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 111524
+revid: 111527
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -29,7 +29,7 @@ Currently, there are 10 NPCs that can join your Guild Base with a certain amount
 -   The [Artisan](https://deepwoken.fandom.com/wiki/Jarvis), which can be hired after building the Trophy Room for Notes.
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for Notes.
 -   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
--   the Songwright which can be hired in the Song Room after building 9+ rooms for
+-   the Songwright which can be hired in the Song Room after building 9+ rooms for 20,000 Notes.
 
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 

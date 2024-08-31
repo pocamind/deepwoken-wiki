@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 110390
+revid: 111533
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1737,6 +1737,8 @@ Some players have access to customized, unique names.
 -   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
+    -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
+    -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   Various names reference the works of William Shakespeare:
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
@@ -1770,6 +1772,7 @@ Some players have access to customized, unique names.
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
 -   The name Corvo is a reference to Corvo Attano, the protagonist of Dishonored.
+-   The name "Heathcliff" is a reference to the protagonist with the same name from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) by Emily Brontë.
 
 ## References
 
