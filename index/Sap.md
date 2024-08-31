@@ -1,15 +1,16 @@
 ---
 title: Sap
-revid: 111453
+revid: 111492
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Uses, Ingredients]
 ---
 
 # Sap
 
 | Sap | |
 |---|---|
-| value | Not Sellable |
+| value | N/A |
 | weight | 1 |
 | type | Ingredient |
 | bankable | Yes |
@@ -19,7 +20,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Sap is an [Ingredient](Ingredients.md) in Deepwoken. It is found on any kind of trees, and looks like a small, yellow liquid coming out of the tree. It can be harvested all-year round. It is used frequently in recipes, specifically food items that require sweetness. It also gives the strongest negative speed buff and the strongest positive Ether regen buff.
+**Sap** is an [Ingredient](Ingredients.md) in Deepwoken. It is found on any kind of trees, and looks like a small, yellow liquid coming out of the tree. It can be harvested all-year round. It is used frequently in recipes, specifically food items that require sweetness. It also gives the strongest negative speed buff and the strongest positive Ether regen buff.
 
 For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.md).
 

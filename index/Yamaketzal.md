@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 108338
+revid: 111516
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -17,9 +17,9 @@ categories: [NPCs, Chime of Conflict]
 
 Yamaketzal is an NPC found outside the fire temple on **[Songseeker Wilds](Songseeker_Wilds.md).** He appears to be drunk, as he is swaying around and talking in an odd manner.
 
-Talking to him will give you the Talent card "[Chime of Conflict](Chime_of_Conflict.md)", giving you a skill of the same name that allows you to access the **[PvP Arena](Chime_of_Conflict.md)** if you're [Power](Power.md) 5 or above.
+Talking to him used to give you the talent card "[Chime of Conflict](Chime_of_Conflict.md)". but it is now automatically given on all slots when they start out.
 
-After attaining "Chimes of Conflict", he will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the [Lord Regent](The_Lord_Regent.md), Wardens and Gunsmith Rosen. He also speaks of a Driver, riding horses.
+talking to him will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the [Lord Regent](The_Lord_Regent.md), Wardens and Gunsmith Rosen. He also speaks of a Driver, riding horses.
 
 Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" flaw, Yamaketzal can remove it from the player for the price of 1000 [notes](Notes.md), making it possible to reroll their [Resonance](Resonance.md) again.
 

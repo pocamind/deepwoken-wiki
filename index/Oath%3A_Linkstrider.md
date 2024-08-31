@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 111354
+revid: 111509
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,7 +40,7 @@ Extra note: You can use a mix of both knocked players and Scarlet Lotus.
 
 ## **Progression**
 
-The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it. Alternatively, if the oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the machine.
+The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it. Alternatively, if the oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the machine (SHORTLY AFTER GETTING OATH).
 
 ## Effects
 

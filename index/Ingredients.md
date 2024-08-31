@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 111452
+revid: 111490
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -53,6 +53,7 @@ Raw materials harvested from the environment.
 -   [Alestrian Coral](Alestrian_Coral.md): Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
 -   [Sap](Sap.md): Amber streak of sap that appears on large trees.
 -   Scallop: Found in [Scyphozia](First_Layer.md).
+-   [Urchin](Urchin.md): Found in [First Layer](First_Layer.md)
 
 ## Lotuses
 

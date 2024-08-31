@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 111060
+revid: 111525
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -44,7 +44,7 @@ _Range limit._
 
  | None |
 | Eat | No | "_\[Name\]_, eat _\[food item\]_" | Forces the Subject to eat a desired item. | None |
-| Use | No | "_\[Name\], use \[item\]._" | Forces the Subject to use a desired item, if the item can't be used the subject will simply hold it in their hand. | None |
+| Use | No | "_\[Name\], use \[item\]._" | Forces the Subject to use a desired item, if the item can't be used the subject will simply hold it in their hand. (you cant make Subject cast mantras.) | None |
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop an item. (Does not work with equipment or weapon items.) | None |
 | Leech | No | _"Leech \[Name\]"_ | 
 
@@ -68,9 +68,9 @@ _Range limit but not too bad._
 _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
  | None |
-| Return | Yes, 60
+| Return | no, 60
 
-Charisma, Rare
+Charisma,
 
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls.
 

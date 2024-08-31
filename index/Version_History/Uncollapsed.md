@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 111019
+revid: 111508
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,6 +16,63 @@ The update highest on the webpage (the one right below the legend) is the most r
 [Regular](2026.md)**Uncollapsed**
 
   
+
+## **August 30th, 2024**
+
+**Content & Systems**  
+• New Saltchemist Mantra: Lethal Injection  
+• New CHA Talent: Command: Summon  
+• New Echo Upgrade: Soul Plasticity; makes you immune to the Tarnished flaw. Obtaining this upgrade like other Echo upgrades will apply to existing characters too  
+• You can now hire the esteemed Songwright for your Guild Base. If you can afford their fees, they'll upgrade Mantras of any attribute for you  
+• Symbiotic Link is now a talent activated with X by default. This can be keybinded to another key  
+• Yamaketzal can now help you obtain Talents that you've unlocked as Echo Talents  
+• Added new icons for Weapon Mantra cards, made by zyzyth. Huge thanks to them for the help!  
+• Added 5 new Talent Icons  
+• Ysley's Pyre Keeper is now orange with Eruption Path (other recolors take priority)  
+• Maestro's Blade has been merged into Inhale. If you had Maestro's Blade, you'll be refunded a hand of talents  
+• Command: Return is now automatically available with 60 CHA. If you had Command: Return, you'll be refunded a hand of talents  
+• Volt Kick is now innate to Thunder Kick. If you had Volt Kick, you'll be refunded a hand of talents  
+• Gale Coil is now innate. If you had Gale Coil, you'll be refunded a hand of talents  
+  
+**Balancing & Tweaks**  
+• You can now have up to 100 Bank Slots  
+• Bank Slot costs up to 60 slots have been reduced considerably. Slots past 60 cost 10k a pop  
+• Ardour Manifestation drop rolls now have pity. You're now guaranteed to get an Ardour Manifestation if you go 5 boss kills without getting one  
+• You now get your Ether refunded if you whiff Linkstrider Sustain/Leech  
+• Buffed Wraith Ambush event chance  
+• Pillars of Erisia no longer has a STR req  
+• Iron Birch HVY req reduced (55 -> 50)  
+• Inhale WND req increased (50 -> 60)  
+• Fleeting Sparks can now be blocked from any direction  
+• Sightless Beam can now be blocked from any direction, but has increased posture damage  
+• Mindsoothe is no longer a ritual cast, but AoE modifications have been reduced  
+• Reduced Flame Sentinel base damage (30 -> 25), now slightly closer to the ground  
+• Lightning Clones base Ether cost increased (30 -> 50)  
+• Cool Head CD increased (15s -> 25s)  
+• Cryostasis damage resist reduced (75% -> 50%)  
+• Suffocating Impact STR req reduced (30 -> 15)  
+• Soulthorn crit CD increased (3s -> 5s)  
+• Nocturne crit CD is now refreshed if you use the followup  
+• Shadow Vortex is now destructible  
+• Reduced Bloodless proc on Parasitic Leech  
+• You can no longer use Symbiotic Link on summons  
+• Static Flash Clones are no longer collideable. Using Lightning Clones now briefly prevents you wall-jumping  
+• Gale Leap now has a CD (5s in combat, 1s out of combat)  
+• Jet Kick now has endlag when used without a target (0.3s)  
+• Rush of Ancients now has less of a buff to your dodge distance if you're on low HP  
+• Armor Piercing effect reduced (20% -> 15%)  
+• Pyre Keeper crouching crit windup increased (0.35s -> 0.45s)  
+  
+**Bugfixes & Optimization**  
+• Fixed a glitch where you could wield a LW with an enchant using Way of Navae/Legion Kata/Jus Karita  
+• Optimized a lot of code that was still using legacy Roblox time-stepping. Should have some big performance improvements  
+• Optimized Dread Breath by a lot  
+• Fixed a lot of the out-of-bounds spots people camp at in the Voidheart  
+• Fixed majority of Pyre Keeper neon clipping issues  
+• Fixed Fort Merit & Meteor Isle wells being nonfunctional  
+  
+• New Surge/Crystal Talent: Fulgurite Formation  
+• 2x chests btw
 
 ## **August 23rd, 2024**
 

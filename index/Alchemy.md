@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 111451
+revid: 111478
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -79,24 +79,24 @@ If multiple ingredients have the same listed effect strength (for example, are m
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Bamboo](Bamboo_Bundle.md) |  | Strongest |  |  | Strongest |  |  |  |  |  |
 | [Beeswax](Beeswax.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
-| Bluecap | Strongest | Strongest |  |  |  |  |  |  | Strongest |  |
+| [Bluecap](Bluecap.md) | Strongest | Strongest |  |  |  |  |  |  | Strongest |  |
 | [Browncaps](Browncap.md) | Strong |  | Strongest |  |  |  |  |  |  |  |
 | [Calabash](Calabash.md) |  |  |  |  | Strongest |  |  | Strongest |  |  |
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Alestrian Coral](Alestrian_Coral.md) |  |  | Weakest | Strongest |  | Strongest |  |  |  |  |
-| Crustacean Meat |  |  | Strongest |  |  |  |  |  |  | Weakest |
+| [Crustacean Meat](Crustacean_Meat.md) |  |  | Strongest |  |  |  |  |  |  | Weakest |
 | [Dentifilo](Dentifilo.md) | Weakest | Weakest |  |  |  |  |  |  |  |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | Strongest | Strongest |  |  |  |  |  |
-| Plumfruit |  |  | Strongest |  |  |  | Strongest |  |  |  |
+| [Plumfruit](Plumfruit.md) |  |  | Strongest |  |  |  | Strongest |  |  |  |
 | [Pomar](Pomar.md) | Weak |  |  |  |  | Strongest |  |  |  |  |
 | [Redd](Redd.md) | Strongest |  |  |  |  |  |  | Strongest |  | Strongest |
 | [Sap](Sap.md) |  |  |  |  |  | Strongest |  | Strongest |  |  |
-| Scallop |  |  |  |  |  |  |  |  | Strongest |  |
+| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | Weakest |
-| Urchin |  |  |  |  |  |  |  |  | Strongest |  |
-| Wheat |  |  | Strongest |  |  |  |  | Weakest |  |  |
+| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | Strongest |  |
+| [Wheat](Gathered_Wheat.md) |  |  | Strongest |  |  |  |  | Weakest |  |  |
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 

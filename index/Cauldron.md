@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 92678
+revid: 111520
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -24,7 +24,7 @@ Cauldrons are a form of utility that allow players to mix [ingredients](Ingredie
 
 **Etris:**
 
-The cauldron in [Etris](Etris.md) is located in [Nell](Nell,_Master_of_Frost.md)'s house.
+The cauldron in [Etris](Etris.md) is located in [Nell](Nell,_Master_of_Frost.md)'s house, found near the guildhouse (follow the path to the right) in Etris.
 
 **Guild Base:**
 

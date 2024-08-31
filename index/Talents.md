@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111338
+revid: 111518
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -172,10 +172,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 20 Galebreathe, Gale Punch
 
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisites: 30 Strength, 35 Galebreathe
-
--   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
+    -   Prerequisites: 15 Strength, 35 Galebreathe
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
     -   Will also cancel all momentum from jumping.
@@ -1023,7 +1020,7 @@ _**"I'm built different" - Cannot Give Talents**_
     -   Prerequisites: 30 Galebreathe
 
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra. While also gaining a speed boost after a successful inhale. (+1 Elemental Intensity)
-    -   Prerequisites: 50 Galebreathe, Breathing Impact
+    -   Prerequisites: 60 Galebreathe, Breathing Impact
     -   Speed boost has a 2 second cooldown.
 
 ### Genius Intellect
@@ -2250,8 +2247,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
     -   Prerequisite: 20 Light Weapon, 15 Thundercall
     -   Does not work with Hero Blades (Tested)
--   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, follow up on your opponent with a less potent kick. (+7 Carry Load, +2 Elemental Intensity)
-    -   Prerequisite: 30 Thundercall, Thunder Kick
 
 ### Thunder Caster
 
@@ -2479,18 +2474,17 @@ _**"I seek the qualities of vocalist."**_
 
 -   Vow of Mastery \[Common Talent\] - The [Vow of Mastery](Vow_of_Mastery.md) grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
     -   Players who take the vow are considered allies with their master and others who take the vow.
-    -   Commands Given: "Sleep", "Drop", "Run, "Eat", "Say (Text)", "Use", "Locate", "Leech"
+    -   Commands Given: "Sleep", "Drop", "Run, "Eat", "Say (Text)", "Use", "Locate", "Leech" at base, and "Return" at 60 Charisma.
     -   Prerequisite: 20 Charisma
 
--   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
+-   _**Command: Live**_ \[Common Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
     -   Prerequisites: 75 Charisma, other Vow of Mastery Talents
     -   Effect: Will fully heal your servant if they have lower than 40% hp
     -   40 Minutes cooldown, 60 if less than 75 charisma.
 
--   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side.
-    -   Prerequisites: 60 Charisma, Vow of Mastery
-    -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
-    -   15 Seconds cooldown, 30 if less than 60 charisma.
+-   _Command: Summon_ \[Advanced Talent\] - Command your servant to obey your summons and appear before you no matter the distance.
+    -   Prerequisites: 80 Charisma, Vow of Mastery
+    -   Effect:
 
 ### Warrior
 

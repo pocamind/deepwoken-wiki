@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 110079
+revid: 111496
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -11,13 +11,12 @@ categories: [Weapons, Greataxes]
 | Iron Birch | |
 |---|---|
 | type | Greataxe |
-| requirements | 55 HVY |
+| requirements | 50 HVY |
 | damage | 26 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.85x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

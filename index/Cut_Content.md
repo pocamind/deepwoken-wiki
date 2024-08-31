@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 111467
+revid: 111472
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Deepwoken, Cut Content]
@@ -42,8 +42,10 @@ This page is about content that has either been removed or changed drastically i
 
 ## Mantras
 
--   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation.
+-   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation. Certain talents still had remnants of the Core system, such as Static Ace calling Lightning Stream "Stream Core."
+    -   Removed due to being too grindy.
 -   **Mantra Creation** - Mantras used to be created via ingredients found as loot. This was eventually replaced with gaining Mantras in your hands from levelling up.
+-   **Falseflame / ? / ? Stones** - Were used for old Visionshaper, causing illusory effects. Were still in the Gigamed drop table until an unknown update.
 -   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
 -   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27th 2021, just 7 days after release.
 -   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18th 2022.

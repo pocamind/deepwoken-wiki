@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 111213
+revid: 111515
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -198,6 +198,13 @@ There are 13 upgrades to purchase, and each can be purchased a maximum of 2 to 5
   <td><center>1</center></td>
   <td><center>4</center></td>
   <td>The list of Advanced Weapons and Advanced Tools is available in the Trivia section.</td>
+</tr>
+<tr>
+  <td><center><b>Soul Plasticity</b></center></td>
+  <td><center>Grants immunity to the Tarnished flaw.</center></td>
+  <td><center>500 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>1</center></td>
 </tr>
 </tbody>
 </table>
