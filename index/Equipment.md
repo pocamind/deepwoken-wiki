@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 111373
+revid: 111554
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4751,7 +4751,7 @@ Found from:
  |
 |  | 
 
-Dazed Band
+[Dazed Band](Dazed_Band.md)
 
  | 
 
@@ -5014,7 +5014,7 @@ Found from:
  |
 |  | 
 
-Moon Ring
+[Moon Ring](Moon_Ring.md)
 
 (Legendary)
 
@@ -5210,7 +5210,7 @@ Found from:
  |
 |  | 
 
-Rosen's Ring
+[Rosen's Ring](<Rosen's_Ring.md>)
 
 (Legendary)
 

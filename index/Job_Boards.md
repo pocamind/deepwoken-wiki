@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 110244
+revid: 111537
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -109,3 +109,6 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md)Diversic
 
 -   **Drowned Delver**
     -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
+
+-   **A Daunting Task**
+    -   Tasks the player with Defeating one [Megalodaunt](Megalodaunt.md).

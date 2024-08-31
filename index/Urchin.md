@@ -1,8 +1,9 @@
 ---
 title: Urchin
-revid: 111491
+revid: 111545
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Ingredients]
 ---
 
 # Urchin
