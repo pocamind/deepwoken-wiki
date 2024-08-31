@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 110260
+revid: 111455
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -13,11 +13,11 @@ categories: [Pages with broken file links, NPCs, Quests]
 | name | Chef Odiolavoro |
 | location | Etris |
 
-Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in Etris recently and is hoping to one day be able to compete with the Leshi brothers.
+Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in [Etris](Etris.md) recently and is hoping to one day be able to compete with the [Leshi](Lance.md) brothers.
 
 ## Description
 
-Chef Odiolavoro can be found in Etris across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests only give EXP,, and random food recipes. [Artisan](Talents.md#tavernkeep) food rewards. After a few orders there is a very short cooldown.
+Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests only give EXP,, and random food recipes. [Artisan](Talents.md#tavernkeep) food rewards. After a few orders there is a very short cooldown.
 
 The orders are as follows:
 

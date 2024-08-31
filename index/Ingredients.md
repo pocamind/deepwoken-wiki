@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 111442
+revid: 111452
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -51,7 +51,7 @@ Raw materials harvested from the environment.
 -   Gathered Wheat - Self-explanatory.
 -   [Bamboo](Bamboo_Bundle.md) [Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly on beaches and shores.
 -   [Alestrian Coral](Alestrian_Coral.md): Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
--   Sap: Amber streak of sap that appears on large trees.
+-   [Sap](Sap.md): Amber streak of sap that appears on large trees.
 -   Scallop: Found in [Scyphozia](First_Layer.md).
 
 ## Lotuses
