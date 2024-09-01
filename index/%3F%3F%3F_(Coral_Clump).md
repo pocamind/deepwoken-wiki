@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 111457
+revid: 111591
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -17,28 +17,25 @@ Template:NPC name "???" is an NPC who is apparently the only [Mudskipper](Mudski
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="3">*What you thought was a clump of coral begins to move.* Gh... Hail there... come now... Won't you speak wi'h me...?</td>
+  <td colspan="12">*What you thought was a clump of coral begins to move.* Gh... Hail there... come now... Won't you speak wi'h me...?</td>
 </tr>
 <tr>
-  <td>Gah! What are you?</td>
-  <td colspan="2">End</td>
+  <td colspan="12">Gah! What are you?</td>
 </tr>
 <tr>
-  <td colspan="2">Grgh... Just a talkative stranger, that's all... It's so... Tranquil here... *The creature wheezes as it takes in another breath.* Just watchin' it all go by...</td>
-  <td></td>
+  <td colspan="12">Grgh... Just a talkative stranger, that's all... It's so... Tranquil here... *The creature wheezes as it takes in another breath.* Just watchin' it all go by...</td>
 </tr>
 <tr>
-  <td>This is a nightmare.</td>
-  <td colspan="2">End</td>
+  <td colspan="12">This is a nightmare.</td>
 </tr>
 <tr>
-  <td colspan="3">No dreams when we're already dead, friend... This is what the Grrrgh... The Gods left us in the end... Come, won't you sit with me?... We have so much talk about...</td>
+  <td colspan="12">No dreams when we're already dead, friend... This is what the Grrrgh... The Gods left us in the end... Come, won't you sit with me?... We have so much talk about...</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

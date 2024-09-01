@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111567
+revid: 111589
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2004,6 +2004,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
     -   One gives a Reinforce-like buff without healing and damage buff, the other grants ~33% Ether.
+    -   Reinforce-like buff provides protection completely identical to Reinforce, it does not stack with regular or green Reinforce.
     -   The buff is random for each person affected.
     -   Prerequisite: 40 Charisma
 

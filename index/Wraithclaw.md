@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 110621
+revid: 111585
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons"]
@@ -25,7 +25,7 @@ categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attuneme
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Grudge |
+| obtainment | GrudgeVoidwalker Chests |
 | description | "Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen." |
 
 ## Description
