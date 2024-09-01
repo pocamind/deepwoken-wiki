@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 111097
+revid: 111581
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Miner's Landing, Maestro Evengarde Rest, Duke Erisia (not confirmed) |
+| obtainment | Chests from:, Second Layer, Miner's Landing, Maestro Evengarde Rest, Duke Erisia |
 | description | "..." |
 
 ## Description

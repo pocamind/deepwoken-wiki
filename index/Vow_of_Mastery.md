@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 111525
+revid: 111582
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Talents, Vows]
 
 # Vow of Mastery
 
-“ Wanna make a Vow of Mastery, Freshie? ”
+“ Come on, boys. Won't you shake a poor sinners hand? ”
 
-― Freshie Gripper
+― Celtor trying to solo his Linkstrider Oath
 
 ## Description
 
@@ -63,26 +63,27 @@ _Range limit but not too bad._
 (It is presumed to increase the subject's damage by 50% but further testing may be required)
 
  | 3 minutes |
-| Sacrifice | No, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
+| Sacrifice | No, 50 Charisma | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
 
 _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
  | None |
-| Return | no, 60
+| Return | No, 60
 
-Charisma,
+Charisma
 
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls.
 
 Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried. _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
  | 20 seconds |
-| Explode | No, 75 charisma | "_\[Name\]_, explode" | Explodes the head of the Subject, just like the NLK Enchant, but with explosion | ? |
-| Live | Yes, 75 Charisma, Advanced | "_\[Name\]_, live" | Fully heals the subject, reviving them if they are knocked, cancelling any grip or carry.
+| Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the Subject, just like the NLK Enchant, but with explosion | ? |
+| Live | Yes, 75 Charisma, Rare | "_\[Name\]_, live" | Fully heals the subject, reviving them if they are knocked, cancelling any grip or carry.
 
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 
  | 10 minutes. 40 minutes on the last subject used on. |
+| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. | ? |
 
 ## Trivia
 
