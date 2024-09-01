@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 110831
+revid: 111593
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -79,7 +79,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the talents it was missing.
 -   If you break your oath using a Yunshul's wish at [Temple of Hearts,](Temple_of_Hearts.md) [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
--   Currently, this is the only Oath where you cannot skip progression with knowledge.
+-   Currently, this is one of two Oaths where you cannot skip progression with knowledge. (The other being [Bladeharper](Oath%253A_Bladeharper.md).)
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 
 ## References

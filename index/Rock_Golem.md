@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 108603
+revid: 111595
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -67,5 +67,3 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
 -   It is possible to block the **Laser** using the pillars created by the [Relic Axe's](Relic_Axe.md) critical attack
 -   Rock Golems will always win their fights against Megladounts, due to having more health and do more damage and attacks.
-
-\==Navigation

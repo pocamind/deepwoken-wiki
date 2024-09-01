@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111589
+revid: 111592
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1749,9 +1749,10 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisite: 60 Charisma
     -   If it is stacked with the "Celebrity" Talent you can immediately avoid being hunted by [Voidwalkers](Origins.md) until you lose one of the two Talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
 -   You'll Need To Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
--   Prerequisite: 75 Charisma
--   Cooldown of 60 seconds
-    -   Do note that this Talent and the ally it spawns is affected by environmental scaling.
+    -   Prerequisite: 75 Charisma
+    -   Cooldown of 60 seconds
+    -   Note that an ally appearing with the talent only works with players and is scaled by the level of the attacking enemy.
+        -   An ally is able to appear anywhere on the map and in any locations (aka Luminants, Depths and Dungeons).
 
 ### Pyroclast
 

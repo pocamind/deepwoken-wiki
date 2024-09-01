@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 110723
+revid: 111612
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -21,104 +21,19 @@ Using Ardour Scream.
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You must be at least [Power](Power.md) 6 to obtain a Murmur.
-
-## Murmurs Strengths
+Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You must be at least [Power](Power.md) 6 to obtain a Murmur. Should you wish, they can be removed via the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using a Wish.
 
 Murmurs are strong but hard to master abilities. A weak user will have a harder time making good use of them until they become stronger and more experienced.
 
 Murmurs scale with the user's Power, reaching their maximum potential at Power 20.
 
-## Murmur: Ardour
+## Murmurs
 
-Template:ImageCaption Infobox_"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
+There are currently three Murmurs:
 
-**Murmur: Ardour** is a Murmur that when active gives extra 15% posture damage on outgoing M1 posture damage and reduces incoming posture damage by 50%. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum as long as it is active. It will also add a vibrato to the sound of your weapon's swings.
-
-By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
-
-This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour) and has been likened to Busoshoku Haki from the anime One Piece.
-
-### Ardour Scream
-
-_"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
-
-**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 2x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether.
-
-### Obtainment
-
-#### Method One - Serpent Slayer
-
-Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it in the [Voidsea](Voidsea.md) or summoning it with a [Ardour](Ardour_Manifestation.md) [Manifestation](Ardour_Manifestation.md).
-
-#### Method Two - The Old Stranger
-
-Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing fresh water or [Redd Juice](Food.md), granting you the Murmur as thanks. Do note that not only is this event very rare, only a single player can obtain Ardour per event, so this is far less consistent than Method 1.
-
-## Murmur: Tacet
-
-Template:ImageCaption Infobox_"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
-
-**Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduces (or even negate in some scenarios) the aggro range of enemies. Activation is indicated by an inward ring and a fade-out noise, while deactivation with an outward ring and a fade-in noise.
-
-**BE WARNED:** Tacet in PvP scenarios may not prove reliable, as it may end up not even making you invisible upon use, instead just showing you crouching and moving as if it weren't active.
-
-The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet.
-
-You will also have a small window of 3 seconds (1.5s if you run) in which you can stand without losing Tacet, this allows you to move more agilely, climb walls and do parkour in general.
-
-The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
-
-Some monsters might still aggro when in tacet if too close in some situations (might be bug needs testing)
-
-Tacet has two different detection radius, one for PVE and PVP:
-
--   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, the unaggro range is larger than 0 studs, so the user must make some distance to evade any fight. Do be aware that tacet is disabled during hellmode though, and attempted use of tacet to escape could possibly result in death.
--   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet. The detection range in PVP is also reduced by the "stealth" stat which is the basis of some equipment.
-
-### Obtainment
-
-Murmur: Tacet can be obtained in three ways, only one of which does not require any Charisma.
-
-#### Method One - Fetch Quest
-
-Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests, he will give you a random player in the server's current location and name asking you to kill them. Asking for a bounty from him requires 10 Charisma. You need 5 Kills to Obtain Tacet. (Must have the "hunted" reputation with Etrea)
-
-#### Method Two - Born Assassin
-
-By completing 5 Bounty Hunting Contracts from any Bounty Board, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method. (Bounty Assists do not count)
-
-A screenshot of the Stranger NPC, found by Restative.
-
-#### Method Three - The Stranger NPC
-
-Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The Stranger NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
-
-_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._
-
-## Murmur: Rhythm
-
-Template:ImageCaption Infobox_"An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched."_
-
-**Murmur: Rhythm** is a Murmur that, when activated, will point out entities nearby. Similar to ESP, but range-limited. It also mutes background music and amplifies sounds made by entities, be that parrying or mantra usage for players, or sounds and attacks by mobs.
-
-Pressing G while crouched, the player will be granted vision of entities and where their event origin is. Entities, such as players, will emit a white ping, while event origin locations beat at 1/4 the speed of normal heartbeats and are yellow with white outlines.
-
-The detection range scales with the user level: higher level means the player will be able to point out sound from further away. Detection range also scales with usage time, gradually growing greater with use, up to a limit of your power level.
-
-This also allows the user to see a estimate of entities health (orange for 65%, red for under 33%(tested)).
-
-### Spotter
-
-**Spotter** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Rhythm**, Callout, and 40 charisma. When callout is used in Rhythm, this Talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health. This ability does not cost any ether to use. Getting spotter is not recommended if you plan on playing solo, as you can see the HP estimate of the target with base Rhythm.
-
-### Obtainment
-
--   In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge near the original [Bonekeeper](Bone_Keeper.md) mini-boss fight). Required to be at least power 6 in order to initiate a conversation.
--   You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly. Repeat this task 3 times and you will be granted the murmur.
--   Failed attempts will lead to 2-3 Parasites forming into your body. If you have the [Wormwarder Lantern](Wormwarder_Lantern.md) or [Grand Fisher Helm](Grand_Fisher_Helm.md) equipped, no parasites form on your body, allowing you to retry the task as needed.
-
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=z_D3wekcclg&ab_channel=TheDeepwokenGuide)._
+-   [Ardour](Murmur%253A_Ardour.md) - A Murmur that increases outgoing posture and increases your own, with a tool mantra that debuffs the enemies defense and posture by 50%.
+-   [Tacet](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing ones self, with a mantra that goes out of sight for a powerful dropkick.
+-   [Rhythm](Murmur%253A_Rhythm.md) - A support-based Murmur that allows for tracking of others and their health.
 
 ## Trivia
 
@@ -129,6 +44,5 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring, but was later reintroduced into Verse 2 by said methods.
 -   Murmurs were introduced through [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding mantra.
--   As of May 3, 2024, you can now remove your Murmur at [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using a wish.
 -   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_
 -   Ardour Scream may be reference to Dragon scream from Dark Souls

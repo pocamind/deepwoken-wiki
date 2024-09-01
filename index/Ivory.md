@@ -1,11 +1,9 @@
 ---
 title: Ivory
-revid: 43351
+revid: 111610
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, NPCs]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [NPCs]
 ---
 
 # Ivory
@@ -29,4 +27,4 @@ To complete the quest, head to the Temple Of The Forgotten Flame. Go inside the 
 
 ### Reward
 
-Ivory congratulates the player for completing the quest and teaches them the [Air Dash](Talents.md#air-dash) [Talent](Talents.md). Press Q mid-air to dash a short distance forward.
+Ivory congratulates the player for completing the quest and teaches them the [Air Dash](Talents.md#air-dash) [Talent](Talents.md). Press Q mid-air to dash a short distance forward. This is an [Echo Talent](Echoes.md) that you will always obtain on any slot at Power 2.

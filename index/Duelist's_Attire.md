@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 88610
+revid: 111606
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -32,3 +32,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Used to be worn by the [Celtorian Guard](Celtorian_Guard.md).
+-   Unbeknownst to many, Crystal Lenses and Cloudstones, when crafted, result in a Glass Stone which is what you need 5 of in order to craft this armor, making it nearly as simple to craft as the Traveler's Cloak series which require only 10 Notes and 1 Cloth.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 111464
+revid: 111596
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -169,7 +169,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
   <font>Providence's Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
-  PVP: parrying 3 attacks within 3 seconds deals damage to the attacker after a delay.<br>
+  PVP: parrying 3 attacks within 7 seconds deals damage to the attacker after a delay.<br>
   Deal 4% HP damage, ignores all resistances.<br>
   Scaling 30% from PVE scaled damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
