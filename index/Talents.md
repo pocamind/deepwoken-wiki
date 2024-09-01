@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111529
+revid: 111567
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -961,6 +961,13 @@ _**"I'm built different" - Cannot Give Talents**_
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Prerequisites: 50 Frostdraw
+
+### **Frozen Lightning**
+
+> _**"I seek the qualities of Frozen Lightning."**_
+
+-   Fulgurite Formation \[Common Talent, Dual Attunement\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s
+    -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
 
 ### Frostthorn
 
@@ -2576,8 +2583,8 @@ _**"I seek the qualities of vocalist."**_
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
 -   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.
     -   Prerequisites: 75 Intelligence, complete Ciea's quest once.
--   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them backw here they belong. There are those in this world who should not be free.
-    -   Prerequisites: Combinied total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
+-   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free.
+    -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 -   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blade as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilties ahead of you into just one. The blade keeps you as much as you keep it.
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a Sky Statue.
 -   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD

@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 111155
+revid: 111568
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations, The Hundred Legions]
@@ -70,7 +70,7 @@ Please note the island is located in the [Open Sea](Open_Sea.md).
 
 -   Gray chests contain expert outfits
 -   Orange chests contain master outfits
--   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random oath and random Talent/mantra of that oath
+-   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random oath and random Talent/mantra of that oath (Grants any Oath except [Saltchemist](Oath%253A_Saltchemist.md) and [Silentheart](Oath%253A_Silentheart.md))
 
 ### Deep totems
 

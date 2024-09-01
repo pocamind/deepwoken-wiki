@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 101545
+revid: 111565
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

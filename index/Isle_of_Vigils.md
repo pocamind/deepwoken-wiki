@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 108946
+revid: 111570
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -105,7 +105,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 
 **\[This Quest requires the 'Strong Left' Strength Mantra.\]**
 
--   Talk to the same Etrean NPC that gives you the Lumberjack Quest; and tell her that you can't get wood through punching.
+-   Talk to the same Etrean NPC that gives you the Lumberjack Quest; and tell her that you can get wood through punching.
 -   Bewildered, the Etrean offers the Player to Strong Left 5 Trees for research.
 -   After 5 Trees has been Strong Left'd, return to the Lumberjack and gain the Talent.
 

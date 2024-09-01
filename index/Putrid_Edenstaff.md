@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 110539
+revid: 111557
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item]
@@ -45,3 +45,4 @@ The user spins around their staff and summons a green colored mist that surround
 -   This weapon has a Unique idle animation when held 1-handed, This was the first of 2 weapons to use this animation, The other being the [Pale Briar](Pale_Briar.md).
 -   Meeting the requirement of HVY, the damage is (37)
 -   At max HVY, the damage is (40.9)
+-   This weapon is the only greathammer that doesn't have a strength requirement.

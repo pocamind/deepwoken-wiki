@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 107242
+revid: 111563
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -205,9 +205,17 @@ _"No money, friend? How ever will I feed myself?_
 
 ### Dual Attunement
 
+-   _I seek the qualities of Cold Phantom. **(Cold Phantom)**_
+-   _I seek the qualities of Cosmic Wind. **(Cosmic Wind)**_
+-   _I seek the qualities of FlashFreeze. **(Flashfreeze)**_
+-   _I seek the qualities of Stormcaller. **(Stormcaller)**_
+-   _I seek the qualities of Pyroclast. **(Pyroclast)**_
+-   _I seek the qualities of twisted puppets. **(Twisted Puppets)**_
+-   _I seek the qualities of Superconductor. **(Superconductor)**_
 -   _I seek the qualities of Lichtenberg. **(Scorched Peak)**_
 -   _I seek the qualities of Heat Column. **(Heat Column)**_
 -   _I seek the qualities of Doomsday Engine. **(Doomsday Engine)**_
+-   _I seek the qualities of Frozen Lightning. **(Frozen Lightning)**_
 
 ## Mantras
 
