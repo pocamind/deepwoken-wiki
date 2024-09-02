@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 111492
+revid: 111670
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Ingredients]
@@ -38,4 +38,4 @@ For more information, you can read [Food](Food.md).
 -   Unlike other ingredients, sap can be harvested all-year round on any tree.
 -   The model when you are holding sap is just a translucent, orange block.
 -   Sap can be harvested on the main tree in [Greathive Aratel](Greathive_Aratel.md).
--   Up to 20 Sap can be harvested by going to [Boatman's Watch](<Boatman's_Watch.md>), entering [The Ferryman](The_Ferryman.md)'s instance and harvesting the sap behind the teleporter
+-   **(Patched)** Up to 20 Sap can be harvested by going to [Boatman's Watch](<Boatman's_Watch.md>), entering [The Ferryman](The_Ferryman.md)'s instance and harvesting the sap behind the teleporter

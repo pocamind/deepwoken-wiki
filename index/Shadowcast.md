@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 107233
+revid: 111671
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -64,7 +64,7 @@ Shadow Gun
 -   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 -   Guardbreaks at Lvl 5.
--   Can be modifief with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
+-   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
 
  |
 | 
