@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 111675
+revid: 111678
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1]
@@ -20,9 +20,9 @@ Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eye
 
 ### Doctor carrion can now untarnish [Bells](Resonance.md).
 
-As far as known so far, if you go to him, talk to him twice(?) even without exchanging a Monster Drop, he'll say something about the player having a tarnished bell and he could fix it for the player(?), the player could ignore and talk about Monster Mantras or say something like "Oh, please do." to untarnished for (1 [Knowledge](Knowledge.md)).
+If you talk to him with a tarnished bell, he will offer to untarnish it for 1 Knowledge, this can be unlocked permanently after meeting him for the first time in New Kyrsa
 
-Upon meeting him for the first time in New Kyrsa, he will be available in the Castle Light to untarnish your bell, but to unlock monster mantras you must have to go down to meet him again.
+Upon meeting him for the first time in New Kyrsa, he will be available in the Castle Light to untarnish your bell on all future characters, but to unlock monster mantras you must have to go down to meet him again.
 
 ### List of Obtainable [Monster Mantras](Monster_Mantras.md)
 
