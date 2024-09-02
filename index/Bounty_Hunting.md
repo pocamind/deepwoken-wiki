@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 108560
+revid: 111643
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -43,7 +43,7 @@ Examples:
 -   If you are struggling to find targets you may have better luck by using the server browser to locate populated servers with more targets.
 -   Fort Merit (due to the popularly grinded hostage quest) and [Etris](Etris.md) are your best chances for finding valid bounties, although Greathive Aratel will occasionally have enemies that need hunting as well.
 -   Carrying rocks as well as either an Alchemist hat or the "[pitcher](Talents.md)" Talent will prove useful to prevent your adversaries from logging as not many people will appreciate your hunting.
--   Bounty hunting is [Tacet's](Murmur.md) best application as it allows you to get within range of your opponent to enter combat without giving them the chance to log; be wary of what time you choose to attack however, and take advantage of your environment to achieve the greatest effect.
+-   Bounty hunting is [Tacet](Murmur%253A_Tacet.md)'s best application as it allows you to get within range of your opponent to enter combat without giving them the chance to log; be wary of what time you choose to attack however, and take advantage of your environment to achieve the greatest effect.
 -   Players who take the Fugitive flaw will appear on every single faction's bounty board as soon as they reach power 5 if they haven't fixed their reputation with each of them.
 
 ## Trivia

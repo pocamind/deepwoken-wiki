@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 110470
+revid: 111623
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, InProgressPages]
@@ -27,6 +27,13 @@ Although the Drowned Delver job is typically offered by [The Ignition Union](The
 | Iron Tether | N/A | Finnegan conjures cubes of Ironsing and tethers them together with Thundercall. | ◯ | ✗ | ◯ | (★☆☆) |
 | Metal Ball | N/A | Finnegan wraps themself in a spiked metal ball and rapidly rolls towards the player. | ◯ | ◯ | ◯ | (★★☆) |
 | Emotion Wave | N/A | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning. | ✗ | ◯ | ◯ | (★★☆) |
+
+## Dialogues
+
+Finnegan retains his ability to speak and usually says phrases when he spawns such as:
+
+-   "Just a bit further, Finn. Just a bit further."
+-   "I´ll find it. I´ll find it. I´ll find it."
 
 ## Finisher
 

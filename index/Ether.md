@@ -1,6 +1,6 @@
 ---
 title: Ether
-revid: 94529
+revid: 111640
 source: https://deepwoken.fandom.com/wiki/Ether
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras]
@@ -10,7 +10,7 @@ categories: [Character, Mantras]
 
 ## Description
 
-**Ether** is the magical essence used to cast [Mantras](Mantras.md), though some [Murmurs](Murmur.md) like Ardour will drain your ether upon using it. It is represented by the blue-ish green bar. If you try to cast a mantra without enough ether, it will make an error sound and not cast.
+**Ether** is the magical essence used to cast [Mantras](Mantras.md), though some [Murmurs](Murmur.md) like [Murmur: Ardour](Murmur%253A_Ardour.md) will drain your ether upon using it. It is represented by the blue-ish green bar. If you try to cast a mantra without enough ether, it will make an error sound and not cast.
 
 ## Interactions
 

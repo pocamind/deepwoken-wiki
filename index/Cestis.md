@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 93105
+revid: 111642
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,7 +15,7 @@ categories: [NPCs]
 
 ## Description
 
-A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably working for the Ministry. His main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur.md) Murmur.
+A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably working for the Ministry. His main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur%253A_Tacet.md) murmur.
 
 ## Dialogue
 
@@ -127,5 +127,5 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably w
 ## Trivia
 
 -   Cestis was originally located in [The Hidden Village](The_Hidden_Village.md).
--   For those trying to get [Tacet](Murmur.md), Doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required number of assassinations in order to obtain Tacet from Cestis.
+-   For those trying to get [Murmur: Tacet](Murmur%253A_Tacet.md), Doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required number of assassinations in order to obtain Tacet from Cestis.
     -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue. - Note, You require Hunted reputation with Etrea, Not Enemy

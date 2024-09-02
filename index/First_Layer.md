@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 111372
+revid: 111646
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -100,7 +100,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.
     -   This corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players in the cathedral's elevator.
-        -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate. In an unlikely but possible scenario, if the player has [Blindseer](Oath%253A_Blindseer.md) or [Rhythm](Murmur.md) they can use it to detect any invisible players.
+        -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate. In an unlikely but possible scenario, if the player has [Blindseer](Oath%253A_Blindseer.md) or [Rhythm](Murmur%253A_Rhythm.md) they can use it to detect any invisible players.
             -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
 -   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, ~and enforcers~, do not allow this. At the top of the chain, players cannot be pulled by an enforcer unless they fall.

@@ -1,6 +1,6 @@
 ---
 title: Rhythm
-revid: 106053
+revid: 111626
 source: https://deepwoken.fandom.com/wiki/Rhythm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Murmur#Murmur: Rhythm](Murmur.md#murmur-rhythm)
+-   [Murmur: Rhythm](Murmur%253A_Rhythm.md)

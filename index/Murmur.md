@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 111612
+revid: 111617
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -21,7 +21,7 @@ Using Ardour Scream.
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You must be at least [Power](Power.md) 6 to obtain a Murmur. Should you wish, they can be removed via the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using a Wish.
+Currently, there are three known obtainable Murmurs; [Ardour](Murmur%253A_Ardour.md), [Tacet](Murmur%253A_Tacet.md), and [Rhythm](Murmur%253A_Rhythm.md). You must be at least [Power](Power.md) 6 to obtain a Murmur. Should you wish, they can be removed via the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using a Wish.
 
 Murmurs are strong but hard to master abilities. A weak user will have a harder time making good use of them until they become stronger and more experienced.
 

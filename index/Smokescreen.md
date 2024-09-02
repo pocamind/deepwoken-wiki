@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 97708
+revid: 111650
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -25,7 +25,7 @@ notices:
 
 ### _Appearance_
 
-When used, a cloud of smoke appears around the user. This smoke cloud hides the user and acts as sort of a mini [tacet](Murmur.md) murmur.
+When used, a cloud of smoke appears around the user. This smoke cloud hides the user and acts as sort of a mini [Tacet](Murmur%253A_Tacet.md) murmur.
 
 ## Usage
 

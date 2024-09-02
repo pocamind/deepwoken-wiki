@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Crawler
-revid: 107036
+revid: 111658
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Crawler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Wielders of [Murmur: Tacet,](Murmur.md) these stalkers known as Kyrgarde Crawlers are capable of going invisible at will to sneak up on their opponents. They seemingly cannot manipulate [Frostdraw](Frostdraw.md), instead using their stealth to their advantage to conduct melee attacks. One can tell a Kyrsgarde Crawler is present in the area by the occasional growling sound they make. When visible, they can easily be distinguished by their glowing white Membranes and the fact that they crawl.
+Wielders of [Murmur: Tacet](Murmur%253A_Tacet.md), these stalkers known as Kyrgarde Crawlers are capable of going invisible at will to sneak up on their opponents. They seemingly cannot manipulate [Frostdraw](Frostdraw.md), instead using their stealth to their advantage to conduct melee attacks. One can tell a Kyrsgarde Crawler is present in the area by the occasional growling sound they make. When visible, they can easily be distinguished by their glowing white Membranes and the fact that they crawl.
 
 It should be noted that the Kyrsgarde Crawlers in the [Sunken Railways](The_Sunken_Railways.md) will not aggro on the player before the beacon down there is activated.
 

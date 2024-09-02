@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 110944
+revid: 111629
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -681,14 +681,14 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.0s | [Ardour Murmur](Murmur.md) (Activation) |
-|  | 19.4s | [Ardour Murmur](Murmur.md) Loop |
-|  | 1.0s | [Ardour Murmur](Murmur.md) (Deactivation) / [Voidwalker](Origins.md#voidwalker) Successful Hunt |
-|  | 2.3s | [Ardour](Murmur.md) Scream |
-|  | 2.0s | [Tacet Murmur](Murmur.md) (Activation) |
-|  | 1.0s | [Tacet Murmur](Murmur.md) (Deactivation) |
-|  | 1.8s | Tacet Drop Kick (Windup) |
-|  | 2.1s | [Rhythm Murmur](Murmur.md) (Activation) |
+|  | 1.0s | [Ardour Murmur](Murmur%253A_Ardour.md) (Activation) |
+|  | 19.4s | [Ardour Murmur](Murmur%253A_Ardour.md) Loop |
+|  | 1.0s | [Ardour Murmur](Murmur%253A_Ardour.md) (Deactivation) / [Voidwalker](Origins.md#voidwalker) Successful Hunt |
+|  | 2.3s | [Ardour](Murmur%253A_Ardour.md) Scream |
+|  | 2.0s | [Tacet Murmur](Murmur%253A_Tacet.md) (Activation) |
+|  | 1.0s | [Tacet Murmur](Murmur%253A_Tacet.md) (Deactivation) |
+|  | 1.8s | [Tacet](Murmur%253A_Tacet.md) Drop Kick (Windup) |
+|  | 2.1s | [Rhythm Murmur](Murmur%253A_Rhythm.md) (Activation) |
 
 ### **[Enchantments](Enchantments.md)**
 
@@ -795,7 +795,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.7s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Magic Whoosh) |
 |  | 0.9s | [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Smack) |
 |  | 3.5s | Passing Through Barriers / Aratel's Green Jump Pads / [Forge Piece](Artifacts.md) Picked Up |
-|  | 3.7s | [Forge Piece](Artifacts.md) Loop + [Ardour Murmur](Murmur.md) Obtained |
+|  | 3.7s | [Forge Piece](Artifacts.md) Loop + [Ardour Murmur](Murmur%253A_Ardour.md) Obtained |
 |  | 1.8s | Gourskipperfication |
 |  | 3.4s | Gourskipperfication Alt |
 |  | 0.7s | [Layer 2, Floor 1](Second_Layer.md) Key Grab |

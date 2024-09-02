@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 111268
+revid: 111639
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -189,7 +189,7 @@ Applied through being hit by the Mantra [Taunt](Attunement-less.md). Receive 20%
 
 ### Fear
 
-Take 25% more damage and 2x posture damage while also disabling [Murmur: Tacet.](Murmur.md) Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
+Take 25% more damage and 2x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
 
 ### Hamstrung
 

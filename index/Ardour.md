@@ -1,6 +1,6 @@
 ---
 title: Ardour
-revid: 106051
+revid: 111625
 source: https://deepwoken.fandom.com/wiki/Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Murmur#Murmur: Ardour](Murmur.md#murmur-ardour)
+-   [Murmur: Ardour](Murmur%253A_Ardour.md)

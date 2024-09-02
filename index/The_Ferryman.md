@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 110740
+revid: 111632
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -283,7 +283,7 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 </tbody>
 </table>
 
-Additionally, The Ferryman used to have a dialogue for beating him under a certain time limit, as the pre-release obtainment method for the [Murmur](Murmur.md) Rhythm.
+Additionally, The Ferryman used to have a dialogue for beating him under a certain time limit, as the pre-release obtainment method for the [Rhythm](Murmur%253A_Rhythm.md) murmur.
 
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
     -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)

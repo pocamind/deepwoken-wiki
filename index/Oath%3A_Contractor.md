@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 111412
+revid: 111618
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -98,7 +98,7 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
 -   Changes dialogue with [Duke](Duke_Ishamon_Erisia.md) [Erisia](Erisia.md).
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
--   Completing the Contractor quest with an Oath will cause Lord Regent to say, "Then you are a fool." and kill you, instead of obtaining Contractor.
+-   Completing the Contractor quest with an Oath will cause Lord Regent to say, "Then you are truly a fool." and kill you, instead of obtaining Contractor.
 -   Being a member of [The](The_Divers.md) [Divers](The_Divers.md) will prevent your reputation from being drained when you swear the Oath.
 -   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
 -   Lord's Slice is heavy reminiscent to Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 111363
+revid: 111621
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1289,23 +1289,7 @@ Undying Flame
 
  | 
 
-Your flame can be casted in the depths.
-
- | 
-
-+1 Elemental Intensity
-
- |
-| 
-
- | 
-
-Soundness of Mind  
-(FLAME 40, WILL 40, Undying Flame)
-
- | 
-
-Standing close to your graceful flame will slowly restore sanity for others in the area.
+Your flame can be casted in the depths. Those that gather around it are soothed and regain sanity.
 
  | 
 

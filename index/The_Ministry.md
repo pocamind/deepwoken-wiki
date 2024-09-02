@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 110577
+revid: 111648
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
@@ -37,7 +37,7 @@ Doing the repeatable bounty quest(called "Party Trick") increases your reputatio
 
 Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputation as well, but it also obviously results in you being wiped.
 
-Doing the bounty quest and obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you some reputation.
+Doing the bounty quest and obtaining [Murmur: Tacet](Murmur%253A_Tacet.md) from [Cestis](Cestis.md) will also net you some reputation.
 
 Going to the [Soothsayer](Soothsayer.md) in the [Starfield Tundra](Starfield_Tundra.md) and giving them [Knowledge](Knowledge.md) will also grant you Ministry reputation.
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 111289
+revid: 111636
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -269,7 +269,7 @@ WARNING: Dropping the supply crate into the ocean will softlock the quest; both 
 
 #### Old Stranger
 
-A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur.md).
+A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur%253A_Ardour.md).
 
 Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen. He will also accept a [Redd Juice](Redd.md) instead of a canteen of water.
 
@@ -325,7 +325,7 @@ The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starsw
 
 ### Stranger NPC
 
-An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Ministry Scout](Ministry_Scout.md) will reveal themselves with the Tacet effect, revealed sitting down. If you have 50 Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 5 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
+An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Ministry Scout](Ministry_Scout.md) will reveal themselves with the Tacet effect, revealed sitting down. If you have 50 Charisma, you can initiate a dialogue to gain the murmur [Murmur: Tacet](Murmur%253A_Tacet.md) without having to go through the 5 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
 
 ### The Depths Collapse
 

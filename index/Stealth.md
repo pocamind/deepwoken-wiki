@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 110707
+revid: 111638
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -51,8 +51,8 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 When crouching:
 
 -   Players can Assassinate other humanoids by pressing M1 behind them. You must be out of combat to assassinate.
--   Players can activate [Murmur: Tacet](Murmur.md#murmur-tacet), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
--   Players can activate [Murmur: Rhythm](Murmur.md), a Murmur that points out nearby entities by making them "pulse".
+-   Players can activate [Murmur: Tacet](Murmur%253A_Tacet.md), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
+-   Players can activate [Murmur: Rhythm](Murmur%253A_Rhythm.md), a Murmur that points out nearby entities by making them "pulse".
 -   Parkour is restricted.
 -   Increased stealth.
 -   Cancels the obvious [flaw](Boons_and_Flaws.md).
@@ -67,6 +67,6 @@ An alert bandit.
 
 When a humanoid enemy detects you, a dark yellow **"!"** will appear above their head. Enemies who are alert are unable to be assassinated.
 
-[Murmur](Murmur.md): Tacet's range scales with both Power and Stealth.
+[Murmur: Tacet](Murmur%253A_Tacet.md)'s range scales with both Power and Stealth.
 
 The highest possible stealth obtainable from armor alone is 80%, however this can be increased further with the [Felinor](Felinor.md) racial passive Nightchild, the Talent Lowstride, and Agility.

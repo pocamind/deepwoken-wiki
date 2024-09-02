@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 111574
+revid: 111649
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -77,7 +77,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
-    -   With this Talent, the [Tacet Murmur](Murmur.md#murmur-tacet) is completely nullified, allowing you to see cloaked players normally.
+    -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   Obtainment: 4 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**

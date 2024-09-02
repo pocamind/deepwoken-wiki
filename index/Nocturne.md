@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 111614
+revid: 111661
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -39,7 +39,6 @@ Can be cancelled by damage in wind-up.
 ## Trivia
 
 -   Nocturne originates from the game [Kill Simulator](https://www.roblox.com/games/13997333541/Kill-Simulator) by Toons Incorporated.
--   Nocturne is enchantable.
 -   When enchanted, only one blade will appear with the effect. This is a visual bug and does not change how the weapon or enchant performs in battle.
 -   Nocturne can be equipped with a side weapon but the side weapon will not visually appear on the character.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).

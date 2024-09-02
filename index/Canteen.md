@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 108769
+revid: 111630
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -41,7 +41,7 @@ You can easily get canteen at power level 1 if you know where to look: [https://
     -   As well as this, you can use the blood pool in the [Derelict Highchurch](Derelict_Highchurch.md), no [Starkindred](Oath%253A_Starkindred.md) included.
 -   The canteen is known by many as the red calabash.
 -   Collecting water from the ocean or acid can cause you to vomit unless you have a purifying ring equipped.
--   The [Old Stranger](Random_Encounters.md#old-stranger) asks for water. If you have a canteen full with freshwater and you speak to him, he will grant you [Ardour](Murmur.md#murmur-ardour). Therefore, for players who do not have a [Murmur](Murmur.md), it is recommended to keep a full canteen of freshwater on them at all times.
+-   The [Old Stranger](Random_Encounters.md#old-stranger) asks for water. If you have a canteen full with freshwater and you speak to him, he will grant you [Ardour](Murmur%253A_Ardour.md). Therefore, for players who do not have a [Murmur](Murmur.md), it is recommended to keep a full canteen of freshwater on them at all times.
 -   [Serena](Serena.md) requests water.
 -   The pond located in your [guild](Guild_Bases.md) base can also refill your canteen.
     -   However, drinking this water without a purifying ring equipped will cause you to throw up.
