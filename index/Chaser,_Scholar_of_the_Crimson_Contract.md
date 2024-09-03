@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 109292
+revid: 111707
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -259,23 +259,22 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
 -   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
--   **Despite having visual armor, he has 0% resistance which making PEN stat useless against him. (Same to other humanoid bosses)**
+-   Despite having visual armor, he has 0% resistance which making PEN stat useless against him.
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
 -   The Triple Blood Wave move used by Chaser closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.
 -   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
-    -   He is still viewed as the easiest boss ingame, due to his insanely predictable attacks with loud sound queues, with his only troublesome move being the stalactites as they stall the fight as well as being completely random.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
--   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
+-   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
 -   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered or if the mystery key hasn't been taken/resonance door opened.
--   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
+-   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Used to have the title, Scholar of the Crimson Contract.
     -   He still has this title if you hover over the Combat Tag skull whilst combat tagged by him.
 -   His hair ID is 77799954 & the beard ID is 4995497755
 -   Chaser Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
--   Due to Chaser's attacks ignoring armor damage resistance, the only threat he presents to W Rank players is Doubled Damage from Fragileheart.
+-   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is Doubled Damage from Fragileheart.
 
 ## References
 

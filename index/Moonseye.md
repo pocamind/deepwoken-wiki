@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 111696
+revid: 111705
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -30,9 +30,9 @@ An image of [Moon's Eyrie](<Moon's_Eyrie.md>), the Moonseye in the center.
 
 ## Lore
 
-**The Moonseye** is a commonly used symbol in Deepwoken that represents the night slash darkness, much like the Moon, dreams, life, death and rebirth.[\[1\]](#cite-note-1) It may even be the moon itself, but this is unconfirmed. The opposite of the Moonseye is the Suncross, which represents the sun, and the light. While some, like the [Capra](Capra.md) and the [Celestials](Celestial.md)worship it, others fight against it, seeking the Suncross. The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light. For many, it is a symbol of remembrance, to the dead and to the gods above.
+**The Moonseye** is a commonly used symbol in Deepwoken that represents the night slash darkness, much like the Moon, and also dreams, life, death and rebirth.[\[1\]](#cite-note-1) It may even be the moon itself, but this is unconfirmed. The opposite of the Moonseye is the Suncross, which represents the sun, and the light. While some, like the [Capra](Capra.md) and the [Celestials](Celestial.md) worship it, others fight against it, seeking the Suncross. The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light. For many, it is a symbol of remembrance, to the dead and to the gods above.
 
-This is easily displayed through the symbol in [The Entropy Catalyst](The_Entropy_Catalyst.md), which is a Suncross with a Moonseye over it. The [Soothsayer](Soothsayer.md) says that both the Moonseye and Suncross are "blinding", and that they both produce their own light. Both the Moonseye and the Suncross can be used to siphon power, for [Celestials](Celestial.md)[\[2\]](#cite-note-2). On top of that, any [Dawnwalker](Oath%253A_Dawnwalker.md) will obtain a moonseye symbol floating above their head, which makes sense for an oath that produces light. The [Linkstriders](Oath%253A_Linkstrider.md) are inbetween the Suncross and the Moonseye, existing in a new state of reality.
+This is displayed clearly through the symbol in [The Entropy Catalyst](The_Entropy_Catalyst.md), which is a Moonseye with a Suncross inside of it. The [Soothsayer](Soothsayer.md) says that both the Moonseye and Suncross are "blinding", and that they both produce their own light. Both the Moonseye and the Suncross can be used to siphon power, for [Celestials](Celestial.md)[\[2\]](#cite-note-2). On top of that, any [Dawnwalker](Oath%253A_Dawnwalker.md) will obtain a moonseye symbol floating above their head, which makes sense for an oath that produces light. The [Linkstriders](Oath%253A_Linkstrider.md) exist inbetween the Suncross and the Moonseye, existing in a new state of reality.
 
 The Moonseye can make humans go insane, either by directly coming in contact with it, or by theorizing themselves to insanity. This is seen in the [Moonseye Tome](Moonseye_Tome.md), which is an prophet-turned-insane's dream, and with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md), who attempted to create and drink the [Moonseye Vigor](Lore.md#dr-carrion-father-of-evolution) and went insane because of it. The goal of the above potion is to "transcend" people, but such a potion has never been properly made, although the [Apocathery](Lore.md#the-apothecary) intends to.
 
