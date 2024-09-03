@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 110712
+revid: 111719
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry]
@@ -41,6 +41,12 @@ For the normal critical, the user winds up before thrusting their weapon forward
 For the follow-up critical, the user performs the normal critical, extending with a strike that sends your opponent upwards with multiple slashes and ending with a ragdolling backstab.
 
 The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on the follow-up.
+
+## Gallery
+
+### Enchantments
+
+**Chilling (Crystallization):**
 
 ## Trivia
 

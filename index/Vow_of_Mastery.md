@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 111662
+revid: 111714
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -83,7 +83,7 @@ Works on knocked players, cancelling the knocked state and grips, but does not w
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 
  | 10 minutes. 40 minutes on the last subject used on. |
-| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 5 minutes |
+| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 20 seconds. 5 minutes on the last subject used on. |
 
 ## Trivia
 
@@ -92,7 +92,7 @@ _Has a range limit. (Roughly a bit before till the player's name can't be seen a
 -   As long as you have alts, you may use Vow of Mastery to improve a bossraid. You can hide a bunch of alts in an nearby location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
 -   The Live command is almost definitely a reference to the anime "Code Geass"
 -   You can still make the Vow of Mastery in Fragments of Self, however no commands work there.
-    -   If the master is in Fragments of Self and their vow isn't however, they can still use commands without a range limit on them.
+    
 
 -   Mentioning any other command or name of any other command while using the say command will use the respective command.
 -   Trying to use the say command to force a vow to say "Sorry \[Name\]" or "My bad \[Name\]" won't work.

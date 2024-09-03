@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 111264
+revid: 111712
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -187,3 +187,4 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 -   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   They're named "avatar" in the game files.
 -   The Further you are from Ethiron the lesser chance he aggro's you when you have a friend
+-   Although had some leaks, Ethiron is still one of the two bosses to not have a theme song (The other being [Dread Serpent](Dread_Serpent.md))
