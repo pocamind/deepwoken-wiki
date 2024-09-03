@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 111472
+revid: 111687
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Deepwoken, Cut Content]
@@ -165,10 +165,9 @@ This page is about content that has either been removed or changed drastically i
 ## Other
 
 -   [Chime of Conflict](Chime_of_Conflict.md) Skulls
+    -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
 
 The skulls in question
-
--   -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
 
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[1\]](#cite-note-1)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111637
+revid: 111700
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -19,7 +19,7 @@ File:DeepwokenThumbnail.png
 -   FIND A SPECIFIC TALENT: Input the Talent name to find the specific Talent and its requirements.
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
 -   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find Talents that require that many points in that attribute.
-    -   _(i.e "40 Agility" to find Talents that you will have access to at 40 AgiIity)_
+    -   _(i.e "40 Agility" to find Talents that you will have access to at 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each Talent tree/category name will be the respective [Mystic](Mystic.md) quote.
@@ -1003,16 +1003,16 @@ _**"I'm built different" - Cannot Give Talents**_
 
 ### Galebreather
 
--   Adept Galebreather \[Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
+-   Adept Galebreather \[Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras.
     -   Prerequisites: 20 Galebreathe
 
--   Expert Galebreather \[Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras. (+5 Elemental Intensity)
+-   Expert Galebreather \[Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras.
     -   Prerequisites: 30 Galebreathe
 
--   Galebreather \[Galebreathe Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity)
+-   Galebreather \[Galebreathe Exclusive\] - Grants you the ability to command wind as a Galebreather.
     -   Prerequisites: Galebreathe at power 1 or obtain from Galebreathe trainer (Friid)
 
--   Master Galebreather \[Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +5 Health)
+-   Master Galebreather \[Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+5 Health)
     -   Prerequisites: 50 Galebreathe
 
 ### Galeforce

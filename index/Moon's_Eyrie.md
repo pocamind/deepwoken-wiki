@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 111274
+revid: 111679
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
@@ -12,7 +12,7 @@ notices:
 
 LocationL Moon's Eyrie LocationR
 
-A beacon calling out from the Void to the Last Dead above. Dreams are so frequently Dragged beneath the mires of time.
+A beacon calling out from the Void to the Last Dead above. Dreams are so frequently dragged neath the mires of time.
 
   
 
@@ -20,15 +20,21 @@ Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in
 
 Center of the island
 
-  
-Has exclusive drops [Nocturne](Nocturne.md) and [Soulthorn](Soulthorn.md), as well as spawning [Moon Knights](Moon_Knight.md) (2 on the island and 1 in the secret room).
+## Overview
 
-The center Knight has a chance to spawn glitched into a rock. If it uses the Kick move, it will be able to escape.
+Moon's Eyrie is a mysterious island found within the Voidsea, potentially made as a sort of vault for the Celestials' weapons. It has strange architecture, many evident ties to the Moonseye, and is guarded by several [Moon Knights](Moon_Knight.md).
 
-This location has 3 stone pillars with a twisting white glow going through them. You can attack these pillars and after enough hits they will no longer have the white glowing and instead will turn black. Once you attack all of the 3 pillars until deactivated, a small door on the island will be openable leading to a room containing 1 [Moon Knight](Moon_Knight.md). Killing it will reward a chest which contains the weapons listed above and some other Moon-related loot such as the [Moonseye Tome](Moonseye_Tome.md), the [Moon ring](Equipment.md), and other random things. The chest also has a small chance of having astral in it, About the same chance as dropping from a moon knight.
+## Points of Interest
 
-Note that the Moon Knights here can drop the [Astral enchant stone](Enchantments.md) (with around 5% chance), and so by killing the 3 [Moon Knights](Moon_Knight.md) that spawn on the island, you can farm for Astral much easier than farming [Astral Knights](Star_Knight.md). It is also recommended to farm these knights using Lootskipper and Vow of Thorns in order to maximize your chances of obtaining astral.
+### Unnamed
 
-Similar to [Boatman’s Watch](<Boatman's_Watch.md>) or the [Beloved Zofia](Beloved_Zofia.md), since this island is it's own area and not just part of the [Voidsea](Voidsea.md), dying a PVE death on this island will not send you to The Depths.
+-   At the top of the island, a very large Moonseye symbol can be found, with a beam reaching skyward.
+-   Below the Moonseye symbol, accessible through a door on the cliff beside it, is an arena with a [Moon Knight](Moon_Knight.md) that drops a chest, including unique drops [Soulthorn](Soulthorn.md) and [Nocturne](Nocturne.md), as well as other various Moonseye-related drops, including the [Moonseye Tome](Moonseye_Tome.md).
+    -   To open the door, attack the stone pillars with a twisting white glow around them. Once deactivated, they will no longer glow. Do this for all three pillars to gain access to the door.
 
-There is a chance that you could possibly be teleported away from the island due to Void Sea's teleportation mechanic. If this happens unfortunately you'll have to swim back to the island and try another time. Facing the island with your character may reduce the chances of getting teleported. (Take it with a grain of salt.)
+## Notes/Trivia
+
+-   Although this island is located within the [Voidsea](Voidsea.md), it does not have Voidzone properties, and you will not be sent to [The Depths](The_Depths.md) on death unless stained.
+-   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
+-   A good place to farm for the [Astral Enchant Stone](Enchantments.md#list-of-enchantments) as [Moon Knights](Moon_Knight.md) have a chance to drop it (around 5%).
+-   Kaide, The Drowned Light gives some insight on where to find this island, as well as some lore about it.

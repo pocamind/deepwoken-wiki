@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 95374
+revid: 111698
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -12,9 +12,9 @@ Power or Level is the leveling mechanic of Deepwoken that enables players to inc
 
 An example of a player's Power and stat allotment
 
-Each level of Power grants 15 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 15 points have been invested a player will increase their Power upon meeting EXP requirements. As players Power up further the EXP required to invest a point will also increase. The maximum Power is currently 20.
+Each level of Power grants 15 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 15 points have been invested a player will increase their Power upon meeting EXP requirements. As players Power up further the EXP required to invest a point will also increase. The maximum **Power** is currently 20.
 
-Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, or rarely a fifth card which is fold. Additionally, their health is restored, and their health bar is unstained (if they were previously stained). Hunger and thirst are also brought back to full.
+Once powered up, players will be given a selection of cards to choose from which can be [Talents](Talents.md), [Mantras](Mantras.md), or rarely a fifth card which is fold. Additionally, their health is restored, and their health bar is unstained (if they were previously stained). Hunger and thirst are also brought back to full.
 
 Fold cards will postpone the player's reception of a Card until their next Power up. If you fold, you will receive an additional hand on your next Power Increase. This second hand will be randomized and differ from the previously folded one.
 
@@ -29,30 +29,30 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 ### Base Attributes
 
--   Strength (**STR**)
--   Fortitude (**FTD**)
--   Agility (**AGL**)
--   Intelligence (**INT**)
--   Willpower (**WLL**)
--   Charisma (**CHA**)
+-   [Strength (**STR**)](Attributes.md)
+-   [Fortitude (**FTD**)](Attributes.md)
+-   [Agility (**AGL**)](Attributes.md)
+-   [Intelligence (**INT**)](Attributes.md)
+-   [Willpower (**WLL**)](Attributes.md)
+-   [Charisma (**CHA**)](Attributes.md)
 
 ### Weapon Attributes
 
--   Heavy Weapons (**HVY**)
--   Light Weapons (**LHT**)
--   Medium Weapons (**MED**)
+-   [Heavy Weapons (**HVY**)](Weapons.md)
+-   [Light Weapons (**LHT**)](Weapons.md)
+-   [Medium Weapons (**MED**)](Weapons.md)
 
 ### Attunement Attributes
 
--   Flamecharm (**FLM**)
--   Frostdraw (**ICE**)
--   Galebreathe (**WND**)
--   Thundercall (**LTN**)
--   Shadowcast (**SDW**)
--   Ironsing (**MTL**)
+-   [Flamecharm](Flamecharm.md) (**FLM**)
+-   [Frostdraw](Frostdraw.md) (**ICE**)
+-   [Galebreathe](Galebreathe.md) (**WND**)
+-   [Thundercall](Thundercall.md) (**LTN**)
+-   [Shadowcast](Shadowcast.md) (**SDW**)
+-   [Ironsing](Ironsing.md) (**MTL**)
 
 ## Trivia
 
 -   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the Power 60 to Power 20 compression.
--   You deal about 30% of your base damage of any weapon or mantra added to your NPC damage per Power level. Remember this when fighting high-level mobs like Golems, Stone Knights, and King Threshers.
+-   You deal about 30% of your base damage of any [weapon](Weapons.md) or [mantra](Mantras.md) added to your NPC damage per Power level. Remember this when fighting high-level mobs like [Golems](Rock_Golem.md), [Stone Knights](Stone_Knight.md), and [King Threshers](King_Thresher.md).
 -   When powering up, you regain your hunger, thirst, and blood.
