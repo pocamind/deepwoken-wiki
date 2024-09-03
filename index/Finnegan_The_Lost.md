@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 111623
+revid: 111728
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, InProgressPages]
@@ -44,3 +44,10 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 ## Tips
 
 -   The Drowned Delver can be led to [Light's Causeway](<Light's_Causeway.md>), greatly lessening the difficulty of the fight.
+
+## Trivia
+
+-   Finnegan hails from the Ignition Union, and is speculated to be a Deepdelver who wielded the first prototype of the Union's explosive picks - The Boltcrusher.
+-   He also betrayed the Ignition Union in someway, as the faction rewards you good reputation once you execute him.
+-   As of now, nobody knows what Finn is searching for, as mentioned in his spawn dialogue.
+-   This one's sanity must've already crumbled.

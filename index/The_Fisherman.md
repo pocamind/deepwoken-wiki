@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 110612
+revid: 111727
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Fisherman is a high level enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md)/[The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the oath [Chainwarden](Oath%253A_Chainwarden.md), implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess a large pool of Health and do a decent amount of damage. It MAY scale off the level of person that took the quest.
 
-The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fisher Plate](Grand_Fisher_Plate.md), and they use an enchanted [Halberd](Halberd.md) as his weapon.
+The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fisher Plate](Grand_Fisher_Plate.md), and they use an enchanted [Halberd](Halberd.md) as his weapon. (The halberd has a random enchantment every time he spawns)
 
 ## Moveset
 
@@ -54,8 +54,12 @@ The Fisherman executes its opponents after knocking them:
 
 -   The Fisherman has a very high amount of health, thus it is recommended for the player to be Power 16+ when engaging with them.
     -   Simply bringing a friend along will also work.
--   The best and easiest way to beat The Fisherman is to take it to Light's Causeway and parry its attacks until the turret kills it.
--   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), thus it is highly unrecommended to run away due to their dreadful ability of pulling the player towards themselves.
+-   The best and easiest way to beat The Fisherman is to take it to Light's Causeway and parry its attacks until the Castle turret kills him.
+-   Luring him into the Light's Causeway is also good for free [healthpacks](Gigamed.md) incase you get low.
+-   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), making it highly unrecommended to run away while amidst the fight for his dreadful ability to restrain you with a chain and lock you down from moving away from him. Using his rupture, you are sent back into the fight again.
+-   He doesnt have a boatload of posture, so using guardbreak mantras or criticals should stun him for a brief moment.
+-   Engaging in a simple parry trade is also a good strategy if you are experienced enough.
+-   Shoving him into a corner also works (kind of like the [Duke Erisia](Duke_Ishamon_Erisia.md))
 
 ## Trivia
 
@@ -63,5 +67,5 @@ The Fisherman executes its opponents after knocking them:
     -   Furthermore, the name of the armor set may reference the Hollow [Grand Fisher](https://bleach.fandom.com/wiki/Grand_Fisher) from the same series.
 -   The [Grand Fisher Set](Grand_Fisher_Helm.md) is a guaranteed drop from The Fisherman.
 -   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md), implying he was formerly a member turned against them.
--   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md)
+-   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md).
 -   According to their dialogues when first spawning in, they could be an Authority or Diver member that has been brainwashed by The Ministry, or they have gone insane due to being in the First Layer for too long. Furthermore, they speak of "the prophets", which could be the nine [Ministry](The_Ministry.md) prophets.

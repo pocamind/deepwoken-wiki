@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 111719
+revid: 111724
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry]
@@ -47,6 +47,12 @@ The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on 
 ### Enchantments
 
 **Chilling (Crystallization):**
+
+**Gluttony:**
+
+**Heroism:**
+
+**Vampirism:**
 
 ## Trivia
 
