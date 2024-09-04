@@ -1,9 +1,8 @@
 ---
 title: Moonseye
-revid: 111769
+revid: 111782
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
 ---
 
 # Moonseye
@@ -12,40 +11,29 @@ _Not to be confused with the outfit, **Moonseye**._
 
 ## Description
 
-The Moonseye is a symbol in Deepwoken. It is referenced in many pieces of armor, islands, and race descriptions. Items like the [Moonseye Tome](Moonseye_Tome.md), [Moonseye Scalpel](Moonseye_Scalpel.md), [Soulthorn](Soulthorn.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), the [Dawnwalker oath](Oath%253A_Dawnwalker.md), [Moon's Eyrie](<Moon's_Eyrie.md>) and [The Entropy Catalyst](The_Entropy_Catalyst.md), all have one similarity, which is the symbol of The Moonseye. It is also referenced in the [Capra](Capra.md) race in the Mark of Jurik, **the Moonseye**. Yun’Shul, through the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), even tells the unworthy that "the Moonseye converges with that below"
+The Moonseye is a common symbol in Deepwoken. It is referenced in many pieces of armor, islands, and race descriptions. Items like the [Moonseye Tome](Moonseye_Tome.md), [Moonseye Scalpel](Moonseye_Scalpel.md), [Soulthorn](Soulthorn.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), the [Dawnwalker oath](Oath%253A_Dawnwalker.md), [Moon's Eyrie](<Moon's_Eyrie.md>) and [The Entropy Catalyst](The_Entropy_Catalyst.md), all share the same importance with the Moonseye. It is also referenced in the [Capra](Capra.md) race in the Mark of Jurik, **the Moonseye**. Yun’Shul, through the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), even tells the unworthy that "the Moonseye converges with that below."
 
-It is always seen as a white circle, with two vertical points, and another circle. A Moonseye symbol can be seen in the sky during nighttime.
+It is always seen as a white circle, with two vertical points, and another circle within. The Moonseye itself can be seen at nighttime, essentially identical to the moon.
 
-An image of [Moon's Eyrie](<Moon's_Eyrie.md>), the Moonseye in the center.
-
-  
-
-  
-
-  
-
-  
-
-  
+An image of [Moon's Eyrie](<Moon's_Eyrie.md>), with the Moonseye in the center.
 
 ## Lore
 
-**The Moonseye** is a commonly used symbol in Deepwoken that represents the moon, and also dreams, life, death and rebirth.[\[1\]](#cite-note-1) It may even be the moon itself, but this is unconfirmed. The opposite of the Moonseye is the Suncross, which represents the sun, and the light. While some, like the Jurik [Capra](Capra.md), the [Celestials](Celestial.md), and [Lunar](Moonseye_Tome.md) [Cult](Moonseye_Tome.md) of [Lullaby](Moonseye_Tome.md) [Isles](Moonseye_Tome.md) worship it, others fight against it, seeking the Suncross. The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light. For many, it is a symbol of remembrance, to the dead and to the gods above.
+**The Moonseye** is a commonly used symbol in Deepwoken that represents the moon, but also life, death, and rebirth[\[1\]](#cite-note-1). While technically unconfirmed, the Moonseye itself is commonly referred to as a celestial body, analogous to the moon itself- for example, the [Soothsayer](Soothsayer.md) claims the Moonseye "makes its own light." The opposite of the Moonseye is the Suncross, which represents the sun and the light. While some, like the Jurik [Capra](Capra.md), the [Celestials](Celestial.md), and [Lunar](Moonseye_Tome.md) [Cult](Moonseye_Tome.md) of [Lullaby](Moonseye_Tome.md) [Isles](Moonseye_Tome.md) worship it, others fight against it, seeking the Suncross\[Citation needed\]. The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light.
 
-This is displayed clearly through the symbol in [The Entropy Catalyst](The_Entropy_Catalyst.md), which is a Moonseye with a Suncross inside of it. The [Soothsayer](Soothsayer.md) says that both the Moonseye and Suncross are "blinding", and that they both produce their own light. Both the Moonseye and the Suncross can be used to siphon power, for [Celestials](Celestial.md)[\[2\]](#cite-note-2). On top of that, any [Dawnwalker](Oath%253A_Dawnwalker.md) will obtain a moonseye symbol floating above their head, which makes sense for an oath that produces light. The [Linkstriders](Oath%253A_Linkstrider.md) exist inbetween the Suncross and the Moonseye, existing in a new state of reality.
+This is displayed clearly through the symbol in [The Entropy Catalyst](The_Entropy_Catalyst.md), which is a Moonseye with a Suncross inside of it. The [Soothsayer](Soothsayer.md) says that both the Moonseye and Suncross are "blinding", and that the Moonseye produces its own light (presumably, instead of reflecting the light of the Suncross). The Moonseye was also supposedly "siphoned for power" by [Celestials](Celestial.md)[\[2\]](#cite-note-2). Additionally, [Dawnwalkers](Oath%253A_Dawnwalker.md) possess a Moonseye symbol floating above their head, which is both reasonable and questionable for an oath related to Light, compared to the Suncross.
 
-The Moonseye can make humans go insane, either by directly coming in contact with it, or by theorizing themselves to insanity. This is seen in the [Moonseye Tome](Moonseye_Tome.md), which is an prophet-turned-insane's dream, and with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md), who attempted to create and drink the [Moonseye Vigor](Lore.md#dr-carrion-father-of-evolution) and went insane because of it. The goal of the above potion is to "transcend" people, but such a potion has never been properly made, although the [Apothecary](Lore.md#the-apothecary) intends to.
+The Moonseye also has an abundant relation to [insanity](Insanity.md). This can be seen in the [Moonseye Tome](Moonseye_Tome.md), which is a prophet-turned-insane's dream, and with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md), who attempted to create and drink the [Moonseye Vigor](Lore.md#dr-carrion-father-of-evolution) and went insane because of it. The goal of the Moonseye Vigor was to "transcend" people, but such a potion has never been properly made, although the [Apothecary](Lore.md#the-apothecary) intends to.
 
-The Moonseye, physically, is most likely the Deepwoken universe's version of the Moon, although it does produce it's own light.
+The Moonseye, physically, is most likely the Deepwoken equivalent of the moon, although it does produce its own light, according to the [Soothsayer](Soothsayer.md).
 
 ## Trivia
 
--   Most of the markings of the Moonseye and Suncross have been made by [Celestials](Celestial.md), who, as star people, come into contact with the Moonseye and Suncross quite often.
--   When a mortal comes into contact with the Moonseye, they have dreams that turn them insane, most likely because they are simply beyond our comprehension and are for [those above us](Celestial.md) to understand, seen in the [Moonseye Tome](Moonseye_Tome.md).
--   [Knowledge](Knowledge.md) is not just information, it is forbidden knowledge, which is why something like the [Moonseye Tome](Moonseye_Tome.md) gives us so much: the [Moonseye Tome](Moonseye_Tome.md) is a burned book, something that was removed from libraries for it's sheer insanity.
--   From all we know, many, many more people worship the Moonseye over the Suncross. Either the lore is not fully fleshed out, or people just don't like the Suncross.
--   [Moon's Eyrie](<Moon's_Eyrie.md>)'s Moonseye is actually a beacon calling out to any remaining [Celestials](Celestial.md).
+-   A majority of the relation to the Moonseye involves Celestials, which is reasonable, considering they live among the stars.
+-   From all we know, many, many more people worship the Moonseye than the Suncross. Seeing as it has religious significance, this makes sense, although it's unknown why the Suncross does not have such significance (that we see in game, at least).
+-   The Moonseye at [Moon's Eyrie](<Moon's_Eyrie.md>) is a beacon calling out to "the Last Dead," which, as the Crypt Blade description states, are "the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
 -   While the Moonseye is circular, the Suncross is spiked, furthering the Yin and Yang analogy.
+-   The player's cursor whilst in shift-lock can actually be seen as a tiny Moonseye.
 
 1.  [↑](#cite-ref-1) [Moonseye Gauntlets](Moonseye_Gauntlets.md)
 2.  [↑](#cite-ref-2) [Soulthorn](Soulthorn.md) description

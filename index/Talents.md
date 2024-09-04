@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111700
+revid: 111787
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1072,7 +1072,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 > _**"I always shoot first."**_
 
--   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 20% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
+-   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 15% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
@@ -2786,7 +2786,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   Hovering over the Talent category in a campfire reveals the [Mystic](Mystic.md) prompt for it, even prompts for categories that cannot obtained via Mystic (Innate, Genius Intellect, Comrade etc.).
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
 -   The Pocket Sand Talent, especially its description, is a reference to Rogue Lineage.
-    -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
+    -   Paying [Tal](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest Talent.
 -   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
 -   Lava serpent's and Azure flame's can both be used simultaneously.

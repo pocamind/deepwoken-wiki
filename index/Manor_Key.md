@@ -1,6 +1,6 @@
 ---
 title: Manor Key
-revid: 100884
+revid: 111780
 source: https://deepwoken.fandom.com/wiki/Manor_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]

@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 109635
+revid: 111791
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds |
+| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Duke Erisia, Maestro Evengarde Rest, Saramaed Summit |
 | description | "..." |
 
 ## Description
