@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 107681
+revid: 111802
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Monsters]
 ― Mortus, on the Terrapod
 
   
-**Also known as Headcrabs, Turtles, or Bedbuges**
+**Also known as Headcrabs, Turtles, or Bedbugs**
 
 **Normal:**
 
@@ -67,7 +67,10 @@ Crimson Terrapods are similar to their purple counterparts but are dyed a crimso
 | **Cruentare** | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | N/A | N/A | N/A | (★★★) |
 | **Quick Strike** | The Terrapod does a singular slice at its opponent and then quickly retreats. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
-| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | ◯ | ◯ | ◯ | (★★★) |
+| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.
+Deals insane posture damage.
+
+ | ◯ | ◯ | ◯ | (★★★) |
 
 ## Finisher
 

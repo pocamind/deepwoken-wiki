@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 111724
+revid: 111815
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry]
@@ -54,6 +54,8 @@ The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on 
 
 **Vampirism:**
 
+**Astral:**
+
 ## Trivia
 
 -   This is the only light weapon to be sheathed behind you instead of along your waist.
@@ -62,3 +64,4 @@ The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on 
 -   Meeting the requirement of LHT, the damage is (22.2).
 -   At max LHT, the damage is (23.4).
 -   The second half of the Cerulean Thread critical was temporarily bugged, but this was fixed in the 06/14/2024 update.
+-   The Cerulean Knife is inspire by Jett's knife from Valorant
