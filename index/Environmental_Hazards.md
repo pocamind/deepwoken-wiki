@@ -1,9 +1,9 @@
 ---
 title: Environmental Hazards
-revid: 108362
+revid: 111749
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [Mechanics]
 ---
 
 # Environmental Hazards

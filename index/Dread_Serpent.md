@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 111711
+revid: 111744
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -58,7 +58,6 @@ Dodgeable:?
 ## Trivia
 
 -   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
-
 -   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   Anyone can get the Murmur as long as you did any damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
@@ -73,4 +72,4 @@ Dodgeable:?
 -   It would take roughly 300-400 cannonball shots to kill a dread serpent. At power 20 the amount is reduced to roughly 15-30 cannonball shots depending on PvE damage.
 -   This is the preferred boss to fight if you are trying to obtain the [Echo Talent: Chain of Perfection](Talent_Quests.md), as he can mostly be cheesed by staying behind his back. However, be careful because when the Dread Serpent comes out of the water it might hit you so be sure to dodge.
 -   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, especially in [Dimensional Travel](Dimensional_Travel.md).
--   Currently one of the two bosses to not have a theme song (The other being [Scion of Ethiron](Scion_of_Ethiron.md))
+-   The only boss to not have a unique combat theme.

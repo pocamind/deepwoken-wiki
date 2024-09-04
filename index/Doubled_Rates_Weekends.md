@@ -1,12 +1,17 @@
 ---
 title: Doubled Rates Weekends
-revid: 101950
+revid: 111767
 source: https://deepwoken.fandom.com/wiki/Doubled_Rates_Weekends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics]
 ---
 
 # Doubled Rates Weekends
+
+| Doubled Rates Weekends | |
+|---|---|
+| date2 | Every Saturday-Monday |
+| effects | The number of items found in chests are multiplied by 2. |
 
 Every real life weekend, certain changes to Deepwoken's quality of life will occur, typically spanning between Saturday 00:00UTC - Monday/Tuesday 00:00UTC. Starting times may vary due to how it **starts when an update drops**, but doubled rates weekends will always end consistently.
 

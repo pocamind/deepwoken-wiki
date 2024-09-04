@@ -1,14 +1,14 @@
 ---
 title: Cut Content
-revid: 111687
+revid: 111748
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Community, Deepwoken, Cut Content]
+categories: [Cut Content]
 ---
 
 # Cut Content
 
-This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the Flame Wisp rework, while a removal would be talents that get merged such as Heartstopper, or content that is flat removed, such as Isle of Crows.
+This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the Flame Wisp rework, while a removal would be Talents that get merged such as Heartstopper, or content that is flat removed, such as Isle of Crows.
 
 ## Locations
 
@@ -42,14 +42,14 @@ This page is about content that has either been removed or changed drastically i
 
 ## Mantras
 
--   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation. Certain talents still had remnants of the Core system, such as Static Ace calling Lightning Stream "Stream Core."
+-   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation. Certain Talents still had remnants of the Core system, such as Static Ace calling Lightning Stream "Stream Core."
     -   Removed due to being too grindy.
 -   **Mantra Creation** - Mantras used to be created via ingredients found as loot. This was eventually replaced with gaining Mantras in your hands from levelling up.
 -   **Falseflame / ? / ? Stones** - Were used for old Visionshaper, causing illusory effects. Were still in the Gigamed drop table until an unknown update.
 -   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
--   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27th 2021, just 7 days after release.
--   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18th 2022.
--   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
+-   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27, 2021, just 7 days after release.
+-   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18, 2022.
+-   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19, 2023
 
 ## Sparks
 
@@ -67,7 +67,7 @@ This page is about content that has either been removed or changed drastically i
 ## Talents
 
 -   **A Deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
-    -   This talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
+    -   This Talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
 -   **Adept \[ Legendary Talent\] -** Taking this Talent will make it easier to progress.
 -   All Aerial Talents were removed and instead became a part of base combat
@@ -76,11 +76,11 @@ This page is about content that has either been removed or changed drastically i
     -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
 -   **Agitating Static \[Common Talent, Thundercall exclusive\] -** Using Discovery of Fire will light nearby downed enemies aflame.
-    -   in October 6th, 2023 update, Agitating Static was merged into Discovery of Fire.
+    -   in October 6, 2023 update, Agitating Static was merged into Discovery of Fire.
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
 -   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
-    -   in December 30th, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
+    -   in December 30, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
 -   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
     -   In the July 12th update, Bodyguard Detail was removed.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
@@ -106,7 +106,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this Talent effectively useless.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
-    -   In October 28th, 2023 update, Frozone became base behavior for Ice Skate.
+    -   In October 28, 2023 update, Frozone became base behavior for Ice Skate.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
@@ -116,7 +116,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
     -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
 -   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
-    -   The talent was removed from the game with October 6th, 2023 update, as it became a base behavior for Flame Repulsion.
+    -   The Talent was removed from the game with October 6, 2023 update, as it became a base behavior for Flame Repulsion.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
     -   In the December 16th, 2023 update, True Pain was removed due to Knife's Journey rework.
 -   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
@@ -135,11 +135,11 @@ This page is about content that has either been removed or changed drastically i
 -   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Legendary Echoes -** Receive a random Legendary Talent.
-    -   With Verse 2 update most Legendary talents have turned into Advanced talents, while other - decreased in rarity to Rare.
+    -   With Verse 2 update most Legendary Talents have turned into Advanced Talents, while other - decreased in rarity to Rare.
 -   **Lethal Force \[Common Talent\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Lethal Precision \[Common Talent\] -** When you attack an enemy much weaker than you, you kill them instantly.
-    -   In the October 6th, 2023, Lethal Precision was changed into the quest talent Mercy Kill.
+    -   In the October 6th, 2023, Lethal Precision was changed into the quest Talent Mercy Kill.
 -   **Lord Commander \[Rare Talent\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   In the August 15th, 2023 update, Lord Commander was merged into Grand Support.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
@@ -155,7 +155,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
 -   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
-    -   The talent was removed from the game with May 15th, 2023 update, as it became a base behavior for Ice Lance.
+    -   The Talent was removed from the game with May 15, 2023 update, as it became a base behavior for Ice Lance.
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   In the January 3rd, 2023 update, Unyielding Focus was merged into Disbelief.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
@@ -184,5 +184,9 @@ The skulls in question
 -   **Stormcaller** **\-** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 -   **Shrine of Dominion/Domination** - Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
+
+## References
+
+Template:Reflist
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)

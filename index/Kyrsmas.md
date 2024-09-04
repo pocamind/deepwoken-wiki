@@ -1,9 +1,9 @@
 ---
 title: Kyrsmas
-revid: 109429
+revid: 111765
 source: https://deepwoken.fandom.com/wiki/Kyrsmas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Events]
+categories: [Events]
 ---
 
 # Kyrsmas
@@ -23,4 +23,4 @@ Kyrsmas has only taken place once, from the 22nd of December 2023, to the 5th of
 
 ## Trivia
 
--   This is Deepwoken's Christmas update, several other games do similar things to this when the holiday season rolls around.[\[1\]](https://en.wikipedia.org/wiki/Christmas)
+-   Unlike [Hallowtide](Hallowtide.md), Kyrsmas appears to have no in-universe justification.

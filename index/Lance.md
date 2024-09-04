@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 111536
+revid: 111743
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -32,4 +32,3 @@ Lance Leshi is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside 
 -   Lance Leshi has purple eyes and black hair, which isn't actually doable by etreans.
 -   Lance Leshi wears the [Merchant Robes](Merchant_Robes.md) and a [Yellow Headband](Headband.md).
 -   LANCE LESHI
--   His food taste good!

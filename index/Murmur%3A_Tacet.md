@@ -1,8 +1,9 @@
 ---
 title: "Murmur: Tacet"
-revid: 111600
+revid: 111770
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Murmurs]
 ---
 
 # Murmur: Tacet
@@ -13,7 +14,7 @@ Template:ImageCaption Infobox_"An application of the song that enables the user 
 
 **Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduces (or even negate in some scenarios) the aggro range of enemies. Activation is indicated by an inward ring and a fade-out noise, while deactivation with an outward ring and a fade-in noise.
 
-**BE WARNED:** Tacet in PvP scenarios may not prove reliable, as it may end up not even making you invisible upon use, instead just showing you crouching and moving as if it weren't active.
+**BE WARNED:** Tacet in PvP scenarios may not prove reliable, as it may end up not even making you invisible upon use, instead just showing you crouching and moving as if it weren't active. It is also removed when Ardour Scream is used.
 
 The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet.
 

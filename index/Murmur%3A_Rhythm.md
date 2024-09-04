@@ -1,8 +1,9 @@
 ---
 title: "Murmur: Rhythm"
-revid: 111601
+revid: 111771
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Rhythm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Murmurs]
 ---
 
 # Murmur: Rhythm

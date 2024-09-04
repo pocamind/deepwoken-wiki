@@ -1,9 +1,8 @@
 ---
 title: References and Easter Eggs
-revid: 111260
+revid: 111756
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
 ---
 
 # References and Easter Eggs
@@ -24,7 +23,7 @@ categories: [Deepwoken]
 -   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from Guilty Gear Strive.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight Helmet**, respectively.
--   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
+-   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)_.
 
 ## Attunements
 
@@ -52,7 +51,7 @@ categories: [Deepwoken]
 ### Frostdraw
 
 -   The **Ice Skate** mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
-    -   Previously, there was an advanced/legendary talent with the same name, allowing the user of **Ice Skates** to skate on solid ground.
+    -   Previously, there was an advanced/legendary Talent with the same name, allowing the user of **Ice Skates** to skate on solid ground.
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._

@@ -1,9 +1,9 @@
 ---
 title: Amorus Pleeksty
-revid: 111225
+revid: 111746
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, The Divers, The Deepwoken]
+categories: [Lore, The Divers, Deepwoken]
 ---
 
 # Amorus Pleeksty
