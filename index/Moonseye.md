@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 111782
+revid: 111794
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ An image of [Moon's Eyrie](<Moon's_Eyrie.md>), with the Moonseye in the center.
 
 ## Lore
 
-**The Moonseye** is a commonly used symbol in Deepwoken that represents the moon, but also life, death, and rebirth[\[1\]](#cite-note-1). While technically unconfirmed, the Moonseye itself is commonly referred to as a celestial body, analogous to the moon itself- for example, the [Soothsayer](Soothsayer.md) claims the Moonseye "makes its own light." The opposite of the Moonseye is the Suncross, which represents the sun and the light. While some, like the Jurik [Capra](Capra.md), the [Celestials](Celestial.md), and [Lunar](Moonseye_Tome.md) [Cult](Moonseye_Tome.md) of [Lullaby](Moonseye_Tome.md) [Isles](Moonseye_Tome.md) worship it, others fight against it, seeking the Suncross\[Citation needed\]. The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light.
+**The Moonseye** is a commonly used symbol in Deepwoken that represents the moon, but also life, death, and rebirth[\[1\]](#cite-note-1). While technically unconfirmed, the Moonseye itself is commonly referred to as a celestial body, analogous to the moon itself- for example, the [Soothsayer](Soothsayer.md) claims the Moonseye "makes its own light." The opposite of the Moonseye is the Suncross, which represents the sun and the light. While some, like the Jurik [Capra](Capra.md), the [Celestials](Celestial.md), and the Moonlit Faith worship it, others fight against it, seeking the Suncross\[Citation needed\]. The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light.
 
 This is displayed clearly through the symbol in [The Entropy Catalyst](The_Entropy_Catalyst.md), which is a Moonseye with a Suncross inside of it. The [Soothsayer](Soothsayer.md) says that both the Moonseye and Suncross are "blinding", and that the Moonseye produces its own light (presumably, instead of reflecting the light of the Suncross). The Moonseye was also supposedly "siphoned for power" by [Celestials](Celestial.md)[\[2\]](#cite-note-2). Additionally, [Dawnwalkers](Oath%253A_Dawnwalker.md) possess a Moonseye symbol floating above their head, which is both reasonable and questionable for an oath related to Light, compared to the Suncross.
 
