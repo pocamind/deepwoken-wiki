@@ -1,11 +1,16 @@
 ---
 title: Thorm Erebet
-revid: 111817
+revid: 111832
 source: https://deepwoken.fandom.com/wiki/Thorm_Erebet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Thorm Erebet
+
+| Thorm Erebet | |
+|---|---|
+| name | Thorm Erebet |
+| alias | Fleet Admiral |
 
 ## Description
 

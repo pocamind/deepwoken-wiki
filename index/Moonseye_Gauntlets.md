@@ -1,6 +1,6 @@
 ---
 title: Moonseye Gauntlets
-revid: 109619
+revid: 111828
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -24,7 +24,7 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category.
+The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category. It is a pair of two metal gauntlets bearing many symbols of[The Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.
 
   
 

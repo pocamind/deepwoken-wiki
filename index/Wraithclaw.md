@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 111672
+revid: 111826
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons"]
@@ -76,7 +76,6 @@ The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiat
     -   Around 24.5 damage with the 5% innate After Cut effect, and around 25.7 with the 10% After Cut effect from the Talent.
 -   With 100 LHT and 100 WND, it will deals 30.2 damage.
     -   Around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
--   Not recolored if using Specter Path, including Critical Attack VFX.
 -   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary fists weapon that ever have been added into the game.
     -   Furthermore, it is the first fists Legendary that scales off an attunement.
     -   Despite it having Slash damage type, this weapon has no innate bleed.

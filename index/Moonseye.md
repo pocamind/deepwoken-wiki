@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 111794
+revid: 111827
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ The Moonseye, physically, is most likely the Deepwoken equivalent of the moon, a
 
 -   A majority of the relation to the Moonseye involves Celestials, which is reasonable, considering they live among the stars.
 -   From all we know, many, many more people worship the Moonseye than the Suncross. Seeing as it has religious significance, this makes sense, although it's unknown why the Suncross does not have such significance (that we see in game, at least).
--   The Moonseye at [Moon's Eyrie](<Moon's_Eyrie.md>) is a beacon calling out to "the Last Dead," which, as the Crypt Blade description states, are "the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
+-   The Moonseye at [Moon's Eyrie](<Moon's_Eyrie.md>) is a beacon calling out to "the Last Dead," which, as the [Crypt](Crypt_Blade.md) [Blade](Crypt_Blade.md) description states, are "the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
 -   While the Moonseye is circular, the Suncross is spiked, furthering the Yin and Yang analogy.
 -   The player's cursor whilst in shift-lock can actually be seen as a tiny Moonseye.
 

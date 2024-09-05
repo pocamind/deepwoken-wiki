@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 107687
+revid: 111821
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -110,7 +110,7 @@ The Adrets are a historically recently arrived race of spiritually adept individ
     -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However, without the keepers of the Lighthouse it becomes impossible to traverse the Voidsea, stalemating a losing war.
 -   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
 -   Adret are **not** fish.[\[1\]](#cite-note-1)
--   According to Arc\_Mage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
+-   According to Arch\_Mage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
 -   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md).
