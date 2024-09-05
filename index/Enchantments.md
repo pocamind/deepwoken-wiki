@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 111715
+revid: 111865
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -34,6 +34,12 @@ Enchanted items cannot be dropped on death.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
 -   Enchanted items appear as light purple in your inventory.
 -   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
+-   NPCs that wield enchantment against players use their PVP effects if the enchantment has one.
+-   Weapon enchantments are either passively active or activate based on certain conditions, which can either be:
+    -   Hit count
+    -   Cooldown, in which case, the first hit after the cooldown will trigger the effect
+    -   Critical usage
+-   Equipment enchantments have a % chance of triggering their effect when taking damage (exception of Drowned)
 
   
 
@@ -86,8 +92,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.07x damage over time.<br>
-  The victim takes 10.7% of the initial damage every 0.25s, 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
+  <td><div><p>Weapon deals 1.07x damage and deal damage overtime.<br>
+  Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -196,9 +202,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
-  <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
-  Deal bonus damage on a posture break.<br>
-  Scales linearly with weapon damage.<sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
+  <td><div><p>Posture damage is increased, between 0.5 and 5.5. Scales off weapon damage.<sup><a href="#cite-note-2">[2]</a></sup><br>
+  Deal bonus damage on a posture break. Scale inverserly with weapon damage (more damage = less bonus).</p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>
@@ -233,8 +238,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.</p>
-  <p>Vampirism does not scale with power-based PvE damage scaling, so your healing from PvP &amp; PvE encounters should be identical.</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
+  The healing is not affected by PVE Scaling.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
 <tr>

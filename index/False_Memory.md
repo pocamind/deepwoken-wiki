@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 103376
+revid: 111867
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

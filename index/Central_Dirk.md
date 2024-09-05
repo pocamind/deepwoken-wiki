@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 103282
+revid: 111859
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 50 LHT |
 | damage | 15 |
-| scaling | 6.5 |
+| scaling | 7 |
 | range | 6.5 |
 | swing speed | 1.23x |
 | endlag | 0.05s |
@@ -29,7 +29,7 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 15 and a weapon scaling of 7. It is a very good dagger but not very optimal to get, so it's best to get a [Krulian Knife](Krulian_Knife.md) instead of grinding for this. It's a rare drop from [King Thresher](Thresher.md). This weapon can also be obtained from a Voidwalker's chest.
+Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 15 and a weapon scaling of 7. It is a very good dagger, but not very optimal to get, so it's best to get a [Krulian Knife](Krulian_Knife.md) instead of grinding for this. Furthermore, it's a rare drop from [King Thresher](Thresher.md). This weapon can also be obtained from a Voidwalker's chest or rarely in a merchant ship.
 
 ## Trivia
 

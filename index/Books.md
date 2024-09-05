@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 111799
+revid: 111858
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1781,7 +1781,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > -   The book 'A Deathscribe's Journal' contains numerous Easter Eggs and references.
 >     -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore.
 >     -   Douglas Douglas Vondren is a reference to YouTuber and streamer DougDoug.
->     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
+>     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashet fights a [Crustaceous Rex](Crustaceous_Rex.md).
 >     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
 >     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
 >     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[1\]](#cite-note-1)
