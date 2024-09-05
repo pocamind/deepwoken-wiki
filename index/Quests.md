@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 111462
+revid: 111854
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -196,7 +196,7 @@ These quests usually give EXP, Reputation and/or an item.
 
 **Etrean Guide:**
 
-**Quest Location**: Etris / Vigils
+**Quest Location**: [Etris](Etris.md) / [Isle of Vigils](Isle_of_Vigils.md)
 
 **Guide**: Talk to an NPC in Etris / Vigils to get a short introduction to the game.
 
@@ -292,7 +292,7 @@ File:Theguy.png
 
 **Soulblooms:**
 
-**Quest Location**: Greathive Aratel
+**Quest Location**: [Greathive Aratel](Greathive_Aratel.md)
 
 **Guide**: Talk to Regek at Greathive Aratel's archives. He will ask you to find every Soulbloom. They can be found in the Greathive.
 
@@ -300,11 +300,19 @@ File:Theguy.png
 
 **Telescope:**
 
-**Quest Location**: Greathive Aratel
+**Quest Location**: [Greathive Aratel](Greathive_Aratel.md)
 
-**Guide**: Adjust a telescope to look at the stars, tells you some informations about Celestial.
+**Guide**: Adjust a telescope to look at the stars, tells you some information about [Celestial](Celestial.md).
 
 **Reward/s**: EXP
+
+**Jim:**
+
+**Quest Location**: [Etris](Etris.md)(Etris Docks)
+
+**Guide**: Bring him 2 [Dying Embers](Dying_Embers.md)
+
+**Reward/s**: EXP, Curiosity
 
 ## Repeatable Ordinary Quests
 
