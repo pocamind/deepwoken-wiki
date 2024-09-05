@@ -1,8 +1,9 @@
 ---
 title: Rickard Ashet
-revid: 111834
+revid: 111835
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [The Central Authority]
 ---
 
 # Rickard Ashet

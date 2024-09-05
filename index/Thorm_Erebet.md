@@ -1,8 +1,9 @@
 ---
 title: Thorm Erebet
-revid: 111832
+revid: 111836
 source: https://deepwoken.fandom.com/wiki/Thorm_Erebet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [The Central Authority]
 ---
 
 # Thorm Erebet
