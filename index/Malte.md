@@ -1,6 +1,6 @@
 ---
 title: Malte
-revid: 111441
+revid: 111890
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Npc]
@@ -11,13 +11,11 @@ categories: [NPCs, Npc]
 | Malte | |
 |---|---|
 | name | Malte |
-| location | Isle of Vigils, Library |
+| location | Isle of Vigils |
 
 “ If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? ”
 
 ― Malte, upon being spoken to.
-
-  
 
 ## Description
 

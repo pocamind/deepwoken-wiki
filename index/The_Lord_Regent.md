@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 111587
+revid: 111886
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -150,6 +150,10 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+Lord Regent killing a player whom dared to step on his Coral Throne.
 
 ## Trivia
 
