@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 107662
+revid: 111875
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]
@@ -54,7 +54,6 @@ This mantra has a [Magnet Spark](Mantra_Modifiers.md) on it.
 
 -   Battle Tendency - You can breathe more easily with +20% faster posture regen.
 -   Brick Wall - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious.
--   Firmly Planted - All slow debuffs towards you are reduced by 30%.
 -   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
 -   Showstopper - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
 -   Strong Stern - The duration you are dazed from wall bangs is cut in half
