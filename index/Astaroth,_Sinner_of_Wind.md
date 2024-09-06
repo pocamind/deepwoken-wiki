@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 86972
+revid: 111881
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Astaroth, Sinner of Wind, is a powerful Starkindred apostate located in [Songseeker Wilds](Songseeker_Wilds.md). He must be defeated to obtain a [Starkindred](Oath%253A_Starkindred.md) mantra, he uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Galebreather; he uses Starkindred mantras alongside his Galebreathe ones and quickly become overwhelming for unprepared players attempting to kill him solo. He bears a green [Hivelord Mask](Hivelord_Mask.md).
+Astaroth, Sinner of Wind, is a powerful Starkindred apostate located in [Songseeker Wilds](Songseeker_Wilds.md). He must be defeated to obtain a [Starkindred](Oath%253A_Starkindred.md) mantra, he uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Galebreather. He uses Starkindred mantras alongside Galebreathe mantras and can become overwhelming for unprepared players attempting to kill him solo. He bears a green [Hivelord Mask](Hivelord_Mask.md).
 
 ## Moveset
 
