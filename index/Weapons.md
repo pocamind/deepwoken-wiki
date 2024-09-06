@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 111682
+revid: 111871
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -109,7 +109,7 @@ Light weapons are one-handed weapons. They are fast and agile, with high attack 
 
 **Daggers:**
 
-Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. They typically deal more blood damage than other weapons. Despite this, they have very low damage and range. Demanding aggression from users to lay down consistent damage.
+Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. They typically deal more blood damage than other weapons. Despite this, they have very low damage and range, demanding aggression from users to lay down consistent damage.
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Rickard Ashet
-revid: 111857
+revid: 111872
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority]
@@ -15,7 +15,9 @@ categories: [The Central Authority]
 
 ## Description
 
-Rickard Ashet is an [Adretian](Adret.md) Fleet Admiral who served in [The Central Authority](The_Central_Authority.md) navy, before later retiring.
+Rickard Ashet is an [Adretian](Adret.md) Fleet Admiral who served in [The Central Authority](The_Central_Authority.md) navy, before later retiring. Notable for his quote, "Anything's a bullet if you launch it fast enough."
+
+He is mentioned in the book _Operation: Distant Light._
 
 ## Trivia
 
