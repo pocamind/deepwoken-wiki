@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112002
+revid: 112059
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -126,11 +126,11 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 **Obtainment:** On any character, go to Layer 2, go and save Epsi then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get Arcwarder, and you also arent required to go to delta in the overworld.
 
-Also obtained from [Orion](Orion.md)'s quest. You must first do his quest, by clearing out the Summer Goons upstairs, then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this **doesn't** mean that you need to do his quest _twice_!
+Also obtained from Orion's quest. You must first do his quest, by clearing out the Summer Goons upstairs, then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
 
 You'll spawn at Miners Landing with the [Union Initiate](Union_Initiate.md) outfit, Union Hook talent, and Union Card talent, which allows you to gain more exp from Dungeons and Jobs, but you'll gain less exp from any other sources. You'll also start with enough exp to gain level 10 due to spawning in the Eastern Luminant. Additionally, you have friend reputation with The Ignition Union, similar to how Stranded has friend reputation with Etrea.
 
-Still able to do Trial of One like Stranded, so the only advantage that is has over Lone Warrior is the increased EXP from Jobs and Dungeons. [\[Youtube Proof\]](https://www.youtube.com/watch?v=UhaKmyBYXAU)
+You can do Trial of One.
 
 ## Upcoming Origins
 

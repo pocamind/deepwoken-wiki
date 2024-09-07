@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 111766
+revid: 112033
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -99,3 +99,4 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardles of who places them.
 -   Keep in mind that the obtainment has to be done in the same server, because if you change servers after you placed the lotuses in, they will not save and only stay for that server only.
+-   If you use the guild campfire to teleport with entropy link talent it will worked but instead teleporting your character to the meteor, you will teleported out from the guild base. Probably a bug or maybe because guild base is too far high in the sky.
