@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 111341
+revid: 111892
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2, Quests]
@@ -47,20 +47,20 @@ He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Alehai, [-]</td>
+  <td colspan="12">Aelahi... I haven't seen anyone around here in ages, gods below. It feels like... I'm not even sure how long. Do you sense it too? Like our time is slipping away, Fringewalker.</td>
 </tr>
 <tr>
-  <td colspan="12">That spear... Your brother mentioned something about it</td>
+  <td colspan="12">That spear... Your brother mentioned something about it.</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, Naerotiv</td>
+  <td colspan="12">Ah, Naerotiv... Please... Give my brother my regards. Before this all ends, what is the name of the one who stands before me?</td>
 </tr>
 <tr>
   <td colspan="6">[Your Kyrsan Name]</td>
   <td colspan="6">[Your Luminant Name]</td>
 </tr>
 <tr>
-  <td colspan="6">A fine name.</td>
+  <td colspan="6">A fine name... I see you have earned the respect of our kin. You are perhaps more fit to wield this spear than I am...</td>
   <td colspan="6">[?]</td>
 </tr>
 <tr>

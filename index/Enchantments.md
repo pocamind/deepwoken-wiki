@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 111865
+revid: 111891
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -35,10 +35,12 @@ Enchanted items cannot be dropped on death.
 -   Enchanted items appear as light purple in your inventory.
 -   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
 -   NPCs that wield enchantment against players use their PVP effects if the enchantment has one.
--   Weapon enchantments are either passively active or activate based on certain conditions, which can either be:
+-   Weapon enchantments are either passively active or activate based on certain conditions, which can either be, depending on the enchantment:
     -   Hit count
     -   Cooldown, in which case, the first hit after the cooldown will trigger the effect
-    -   Critical usage
+    -   Critical
+    -   Flourish
+    -   Uppercut
 -   Equipment enchantments have a % chance of triggering their effect when taking damage (exception of Drowned)
 
   

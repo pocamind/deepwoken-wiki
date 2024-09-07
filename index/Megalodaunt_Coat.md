@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt Coat
-revid: 107435
+revid: 111904
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats]
+categories: [Equipment, Arms, Coats, Cool, Taxes]
 ---
 
 # Megalodaunt Coat
@@ -31,3 +31,4 @@ The Megalodaunt Coat is an animated [Equipment](Equipment.md) item under the "Ar
 
 -   The power requirement for the coat used to be much higher, but was later reduced as anyone who could meet the power requirement would already have far better options.
 -   How the player can instantly create a coat from the leather of a Megalodaunt the second it dies before instantly dying it despite most likely being below power 10 and not even knowing who [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) is and how to get equipment dyes is presumed to be via the use of [Witchcraft](https://en.wikipedia.org/wiki/Witchcraft).
+    -   Perhaps even more concerning is how the player is able to obtain this item from [Mechalodaunts](Mechalodaunt.md), who do not even possess hides, nor any visible biological matter whatsoever.
