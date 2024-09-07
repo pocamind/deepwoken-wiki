@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 111411
+revid: 111932
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -122,6 +122,12 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
         -   If you are one of the 3 Hive races (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
 -   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive. (Or other factions which may've put your bounty on their boards.)
 
+## Ignition Delver
+
+**Obtainment: Obtain Arcwarder**
+
+You'll spawn at Miners Landing, spawning with the Union Hook talent and Union Card, which allows you to gain more exp from Dungeons and Jobs, but you'll gain less exp from any other sources. You'll also start with enough exp to gain level 10 due to spawning in the Eastern Luminant.
+
 ## Upcoming Origins
 
 ### Authority Origin
@@ -140,10 +146,6 @@ The following is speculation:
 
 -   Confirmed to release alongside Conquest.
 -   Stated to be a PvE centered origin for players who want to avoid PVP.
-
-### Ignition Union Origin
-
--   Technically confirmed, but release timeframe is unknown.
 
 ### Hundred Legions Origin
 

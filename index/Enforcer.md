@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 111899
+revid: 111913
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -25,26 +25,26 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 | Name | Media | Description | Parry-able? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
 | **High Swing** | 
- | The Enforcer lifts its axe high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Enforcer lifts its weapon high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Low Swing** | 
 
- | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Enforcer puts its weapon to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Kick** | 
 
  | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. This does low damage, and now has a higher quality animation shown by the Enforcer turning sideways and chambering its leg. | ◯ | ◯ | ◯ | (★★☆) |
 | **Whirlwind** | 
 
- | The Enforcer begins to spin rapidly from the waist-up while holding its axe out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Kick if it lands) | ◯ | ◯ | ◯ | (★★☆) |
+ | The Enforcer begins to spin rapidly from the waist-up while holding its weapon out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Kick if it lands) | ◯ | ◯ | ◯ | (★★☆) |
 | **Space Pull** |  | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player runs too far away. The Enforcer will never feint its' first hit after a Space Pull. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★☆☆) |
 | **Feint (The Feint Part)** | 
 
- | The Enforcer swings his weapon and retracts it, catching the player out. | ✗ | ✗ | ✗ | (☆☆☆) |
+ | The Enforcer swings its weapon and retracts it, catching the player out. | ✗ | ✗ | ✗ | (☆☆☆) |
 
 ## Finishers
 
 | Name | Media | Description |
 | --- | --- | --- |
-| Headsplitter |  | The Enforcer holds its axe up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
+| Headsplitter |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
 
 ## Passives
 
