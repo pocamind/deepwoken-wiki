@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 110700
+revid: 111992
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -65,7 +65,7 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 
 ### Known Boosts
 
--   _"You feel your wounds closing up..."_ This buff significantly increases the user's health regeneration speed.
+-   _"You feel your wounds closing up..." =_ This buff significantly increases the user's health regeneration speed.
 -   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
@@ -92,7 +92,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[C\] [Omelette](Food.md)** - _2 Eggs_
 -   **\[C\] [Cooked Egg](Food.md)** - _1 Egg_
 -   **\[N\] [Mushroom Omelette](Food.md)** - _2 Eggs 1 Mushroom (Any)_ (Increased weapon damage)
--   **\[C\] [Fish Omelette](Food.md)** - _1 Fish Meat, 2 Eggs_ **(Buffs Mantra damage)**
+-   **\[C\] [Fish Omelette](Food.md)** - _1 Fish Meat, 2 Eggs_ (Buffs Mantra damage)
 -   **\[V\] [Sticky Bun](Food.md)** - 1 _Sap, 3 Gathered Wheat_ (Makes your ether regen faster.)
 -   **\[C\] [Cooked Fish Meat](Food.md)** - _1 Fish Meat_
 -   **\[G\] [Plumfruit Muffin](Food.md)** - _1 Plumfruit, 1 Gathered Wheat_

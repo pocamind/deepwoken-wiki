@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 107176
+revid: 112000
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals]
 |---|---|
 | type | Greatsword |
 | requirements | 40 HVY, 10 STR |
-| damage | 22 + ? BLD |
+| damage | 22 + 8.2 BLD |
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.8x |
@@ -59,8 +59,8 @@ After a short windup, the user lunges forward, impaling the target and then slam
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of HVY, the damage is (27.8), but becomes (36.1) with bleed.
+-   Meeting the non-alloyed requirement of HVY, the damage is (27.3), but becomes (35.5) with bleed.
     -   Meeting the alloyed requirement, the damage is (34.4), but becomes (44.7) with bleed.
--   At max HVY, the non-alloyed damage is (35.8), but becomes (46.5) with bleed.
+-   At max HVY, the non-alloyed damage is (35.2), but becomes (45.8) with bleed.
     -   At max HVY, the alloyed damage is (38.4), but becomes (49.9) with bleed
 -   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.

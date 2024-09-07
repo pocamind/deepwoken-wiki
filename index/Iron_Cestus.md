@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 108759
+revid: 112011
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -12,8 +12,8 @@ categories: [Weapons, Fists]
 |---|---|
 | type | Light Weapon |
 | requirements | 0 LHT & Fist Style |
-| damage | 13.5 |
-| scaling | 7 |
+| damage | 13.8 |
+| scaling | 7.5 |
 | range | 6 |
 | swing speed | 1.11x |
 | weight | 5 |
@@ -26,9 +26,10 @@ categories: [Weapons, Fists]
 
 ## Description
 
-**Iron Cestus** is a Light Weapon that requires no LHT to use. It has no penetration, 7 scaling, 5 weight, 6 range, 1.14x Swing Speed, and a base damage of 13.5. The first [Fist](Fists.md) weapon for players.
+**Iron Cestus** is a Light Weapon that requires no LHT to use. It has no penetration, 7.5 scaling, 5 weight, 6 range, 1.11x Swing Speed, and a base damage of 13.8. The first [Fist](Fists.md) weapon for players.
 
 ## Trivia
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) famously uses this weapon.
--   At max LHT, the damage is (20.6)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) famously uses this weapon. (Would make a little more sense for him to use a [Wraithclaw](Wraithclaw.md) tho.)
+
+-   At max LHT, the damage is (21.6)

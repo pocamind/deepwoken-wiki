@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 111871
+revid: 112026
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -343,15 +343,15 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td><a href="Iron_Cestus.md">Iron Cestus</a></td>
   <td>0 LHT</td>
-  <td>13.5</td>
+  <td>13.8</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>LHT: 7</td>
+  <td>LHT: 7.5</td>
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
   <td>N/A</td>
-  <td>23.4</td>
+  <td>24.6</td>
 </tr>
 <tr>
   <td><a href="Legion_Cestus.md">Legion Cestus</a></td>
@@ -808,11 +808,11 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>45 MED</td>
   <td>22</td>
   <td>N/A</td>
-  <td>15%</td>
+  <td>20%</td>
   <td>MED: 5</td>
   <td>4</td>
   <td>8</td>
-  <td>1x</td>
+  <td>0.97x</td>
   <td>33.5</td>
 </tr>
 <tr>
@@ -1220,14 +1220,14 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 <tr>
   <td><a href="Toothed_Club.md">Toothed Club</a></td>
   <td>30 MED</td>
-  <td>15</td>
+  <td>15.5</td>
   <td>10%</td>
   <td>5%</td>
   <td>MED: 5</td>
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>29.7(<b>Bleed</b>)</td>
+  <td>30.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Morning_Star.md">Morning Star</a></td>
@@ -1245,10 +1245,10 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
   <td>65 MED</td>
   <td>19.5</td>
-  <td>10%</td>
+  <td>15%</td>
   <td>N/A</td>
   <td>MED: 7</td>
-  <td>5</td>
+  <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
   <td>33.7</td>
@@ -1256,14 +1256,14 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 <tr>
   <td><a href="Pernach.md">Pernach</a></td>
   <td>75 MED</td>
-  <td>17</td>
+  <td>18.5</td>
   <td>30%</td>
-  <td>10%</td>
+  <td>5%</td>
   <td>MED: 6</td>
-  <td>4</td>
+  <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>35.9(<b>Bleed</b>)</td>
+  <td>39.1(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -1386,15 +1386,15 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
   <td>35 HVY</td>
-  <td>23.5</td>
+  <td>24.5</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>HVY: 7</td>
-  <td>4</td>
+  <td>6</td>
   <td>8</td>
   <td>0.83x</td>
   <td>N/A</td>
-  <td>40.6</td>
+  <td>42.4</td>
 </tr>
 <tr>
   <td><a href="Iron_Birch.md">Iron Birch</a></td>
@@ -1603,7 +1603,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<b>Bleed</b>)</td>
   <td>40 HVY, 10 STR</td>
-  <td>22.4</td>
+  <td>22</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>HVY: 8</td>
@@ -1924,7 +1924,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><a href="Kanabo.md">Kanabo</a></td>
   <td>100 HVY, 40 STR</td>
-  <td>25.5</td>
+  <td>25</td>
   <td>N/A</td>
   <td>10%</td>
   <td>HVY: 6, STR: 3</td>
@@ -1932,7 +1932,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.8x</td>
   <td>0.1s</td>
-  <td>50.8</td>
+  <td>48.5</td>
 </tr>
 </tbody>
 </table>
@@ -1957,12 +1957,12 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
 </tr>
 <tr>
   <td><a href="Wyrmtooth.md">Wyrmtooth</a></td>
-  <td>60 MED, 40 HVY</td>
+  <td>60 MED, 40 HVY, LV 15</td>
   <td>20</td>
   <td>20%</td>
   <td>N/A</td>
   <td>MED: 6.2, HVY: 4.2</td>
-  <td>6</td>
+  <td>7</td>
   <td>9</td>
   <td>0.93x</td>
   <td>41.7</td>
@@ -2198,7 +2198,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>75 WND, 25 MED, LVL 10</td>
   <td>17.5</td>
   <td>15%</td>
-  <td>N/A</td>
+  <td>5%</td>
   <td>MED: 5, WND: 5</td>
   <td>5</td>
   <td>8</td>

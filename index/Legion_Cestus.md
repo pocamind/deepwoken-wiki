@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 105345
+revid: 112003
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -29,7 +29,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-**Legion Cestus** is a Light Weapon that requires 30 LHT to use. It has 9 LHT scaling, 5% penetration, 5 weight, 7 range, and 1.14x Swing Speed, and a base damage of 15.
+**Legion Cestus** is a Light Weapon that requires 30 LHT to use. It has 9 LHT scaling, 5% penetration, 5 weight, 7 range, and 1.11x Swing Speed, and a base damage of 15.
 
 ## Trivia
 

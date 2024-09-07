@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 111148
+revid: 112020
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -17,6 +17,7 @@ categories: [Weapons, Swords]
 | range | 8 |
 | swing speed | 0.94x |
 | penetration | 25% |
+| chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
 | weight | 8 |
 | bankable | Yes |

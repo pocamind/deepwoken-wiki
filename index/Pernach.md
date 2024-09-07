@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 103735
+revid: 112019
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -12,14 +12,14 @@ categories: [Weapons, Clubs]
 |---|---|
 | type | Club |
 | requirements | 75 MED |
-| damage | 17 + 5.1 BLD |
+| damage | 18.5 + 5.5 BLD |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.98x |
 | penetration | 30% |
-| chip damage | 10% |
+| chip damage | 5% |
 | stances | 2 Handed, 1 Handed |
-| weight | 4 |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -35,7 +35,7 @@ It can be considered the endgame version of the [Mace](Mace.md).
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 22.7 damage, but it becomes 29.6 with bleed.
--   At max MED, the weapon deals 24.7 damage, but it becomes 32 with bleed.
+-   Meeting the requirement of MED, the weapon deals 24.7 damage, but it becomes 32.1 with bleed.
+-   At max MED, the weapon deals 26.8 damage, but it becomes 34.8 with bleed.
 -   This weapon can be used as a mid to endgame club.
 -   Most likely based off the real life Pernach, a flanged mace
