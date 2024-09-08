@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 111842
+revid: 112131
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1268,6 +1268,9 @@ _**"I seek the qualities of Heat Column."**_
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
 
 -   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of [equipment](Equipment.md) quicker than others. You can equip things at 3 points lower than the requirement. (Power level doesn't count)
+
+-   Teachings of the Edenkite \[[Drakkard](Drakkard.md) Exclusive\] - Find your centre.
+    -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
 
 ### Ironsinger
 

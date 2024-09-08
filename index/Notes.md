@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 96788
+revid: 112129
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Notes
 
-**Notes** () is the standard currency in _Deepwoken_. They are used to purchase various things, such as [Food](Food.md), [Weapons](Weapons.md), and tools.
+Sand Dollars() is the standard currency in _Deepwoken_. They are used to purchase various things, such as [Food](Food.md), [Weapons](Weapons.md), and tools.
 
 “ Show me shiny, show me magic! I give you sand dollar. ”
 
@@ -40,6 +40,6 @@ At the [Banker](Banker.md) you can access your account which allow you to bank y
 
 ## Trivia/Notes
 
--   Modifier buyers refer to Notes as "Sand Dollars," which is the same.
+-   Modifier buyers refer to Notes as "Notes," which is the same.
 -   The cap for the Notes were 10,000 but they extended it to 15,000.
 -   The name "Notes" may be a reference to musical notes, given how many other things in Deepwoken are named after musical terms.

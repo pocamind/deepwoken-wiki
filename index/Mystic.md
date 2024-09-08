@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 111563
+revid: 112130
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -41,17 +41,18 @@ _"No money, friend? How ever will I feed myself?_
 
 ### [Strength](Attributes.md#strength)
 
--   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery)**_
--   _I seek the qualities of Annihilator. **(Collapsed Lung)**_
--   _I seek the qualities of Rampaging Brute. **(Unwavering Resolve; Shield Breaker; Million Ton Piercer)**_
+-   _I seek the qualities of Annihilator. **(Annihilator)**_
+-   _I seek the qualities of Berserker. **(Berserker)**_
+-   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery, Unstoppable Force)**_
+-   _I seek the qualities of Rampaging Brute. **(Rampaging Brute)**_
 -   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer)**_
 
 ### [Fortitude](Attributes.md)
 
 -   _I am an everlasting bastion. **(Bastion)**_
--   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
+-   My shield is my ally. _**(Shieldmaster)**_
 -   _In nature, I am at home. **(Survivor)**_
--   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To The Finish, Potion Quaffer)**_
+-   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To The Finish)**_
 
 ### [Agility](Attributes.md#agility)
 
@@ -61,7 +62,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _Light on my feet, I sting like a bee. **(Butterfly) (Note; Cannot give Risky Moves, Evasive Expert)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)**_
 -   _I am a competent duelist. **(Duelist) (Note; Cannot give Concussion, Spine Cutter, Strong Stern, Tap Dancer)**_
--   _I scale the tallest peaks. **(Mountain Climber; Boulder Climb)**_
+-   _I scale the tallest peaks. **(Mountain Climber)**_
 -   _I seek the qualities of Nimble Blade. **(Nimble Blade) (Note; Cannot give Lightspeed Reflexes)**_
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman) (Note; Cannot give Speed Demon, Air Counter)**_
 -   _I seek the qualities of Swiftshade. **(Swiftshade)**_
@@ -69,25 +70,25 @@ _"No money, friend? How ever will I feed myself?_
 ### [Intelligence](Attributes.md#intelligence)
 
 -   _I think before I fight. **(Tactician) (Note; Cannot give Punishing Blow)**_
--   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Perfect Flash)**_
--   _I enjoy mixing potions. **(Alchemist) (Note; Cannot give Placebo Effect, Subsistence)**_
+-   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Perfect Flash, Overflowing Dam)**_
+-   _I enjoy mixing potions. **(Alchemist) (Note; Cannot give Placebo Effect, Potion Quaffer)**_
 -   _I am an expert on ether. **(Ether Adept) (Note; Cannot give Eureka)**_
 -   _I am all knowing. **(Omniscient) (Note; Cannot give All Knowing)**_
 -   _I sabotage others. **(Saboteur)**_
 -   _I am an artist. **(Artisan)**_
 -   _I seek the qualities of Elementalist. **(Elementalist) (Note; Cannot give Elemental Rebound)**_
--   _I seek the qualities of All-Knowing._ **(All-Knowing)**
+-   _I seek the qualities of All-Knowing._ _**(All-Knowing)**_
 
 ### [Willpower](Attributes.md#willpower)
 
--   _I am a slayer of beasts. **(Beast Slayer; Giantslayer)**_
--   _I have never lost. **(Champion; Underdog) (Note; Cannot give Champion's Regalia, Defiance)**_
--   _I will save my people. **(Liberator; Savior)**_
+-   _I am a slayer of beasts. **(Beast Slayer)**_
+-   _I have never lost. **(Champion) (Note; Cannot give Champion's Regalia, Defiance)**_
+-   _I will save my people. **(Liberator)**_
 -   _I go beyond my limits. **(Limitbreaker) (Note; Cannot give Dirty Boxing, Lose Your Mind, Piercing Will)**_
 -   _My mind is indomitable. **(Mental Fortress)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
--   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
--   _I seek the qualities of Human Architecture._ _**(Brick Wall; Not A Scratch)**_
+-   _I dominate the minds of others. **(Mindbreaker)**_
+-   _I seek the qualities of Human Architecture._ _**(Human Architecture)**_
 
 ### [Charisma](Attributes.md#charisma)
 
@@ -106,13 +107,13 @@ _"No money, friend? How ever will I feed myself?_
 
 ### Weaponry
 
--   _I am a master of creating openings. **(Critical Specialist) (Note; Cannot give Knifes Journey, Thresher Fangs, True Pain)**_
+-   _I am a master of creating openings. **(Critical Specialist) (Note; Cannot give Knifes Journey)**_
 -   _I am a master of the spear. **(Lancer)**_
 -   _I am a master of all weapons. **(Weapon Master) (Note; Cannot give Showstopper)**_
 -   _I fight to preserve my way. **(Justicar)**_
 -   _I do not need a weapon. **(Brawler)**_
 -   _I always shoot first. **(Gunslinger) (Note; Cannot give True Ether Bullets, Armor Piercing)**_
--   _I am a master with my hands._ _**(Bruiser)**_
+-   _I am a master with my hands._ _**(Bruiser) (Note; Cannot give Heavy Fatigue, Rending Impact)**_
 -   _I seek the qualities of Outlaw. **(Outlaw)**_
 -   _I seek the qualities of Needle. **(Needle)**_
 
@@ -120,7 +121,7 @@ _"No money, friend? How ever will I feed myself?_
 
 -   _My hunt is inescapable. **(Apex Predator) (Note; Cannot give Carnivore)**_
 -   _I am nature's master. **(Master Survivalist)**_
--   _I am athletic. **(Athlete; Triathlete, Pitcher)**_
+-   _I am athletic. **(Athlete)**_
 -   _I wish to escape. **(Escape Artist; Robber Baron)**_
 -   _I often attack others. **(Marauder) (Note; Cannot give Aggressive Posture, Thresher Claws)**_
 -   _I want to WIN. **(Metamancer) (Note; Cannot give Lootskipper)**_
@@ -162,7 +163,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Saint Jay)**_
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
 -   _I seek the qualities of FlashFreeze._ **(FlashFreeze)**
--   _I seek the qualities of Cold Phantom._ **(_Cold Phantom,_** Gives Freezing Wight, however for some reason in the Deepwoken Builder it is listed as an "unknown category" so some do not know this.)
+-   _I seek the qualities of Cold Phantom._ **(_Cold Phantom)_**
 
 ### [Thundercall](Thundercall.md)
 
