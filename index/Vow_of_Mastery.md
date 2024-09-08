@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 111714
+revid: 112085
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -83,7 +83,7 @@ Works on knocked players, cancelling the knocked state and grips, but does not w
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 
  | 10 minutes. 40 minutes on the last subject used on. |
-| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 20 seconds. 5 minutes on the last subject used on. |
+| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 20 seconds. 2 minutes on the last subject used on. |
 
 ## Trivia
 

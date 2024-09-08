@@ -1,9 +1,9 @@
 ---
 title: Origins
-revid: 112059
+revid: 112082
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Mechanics, Creation]
+categories: [Pages with broken file links, Character, Mechanics, Creation]
 ---
 
 # Origins
@@ -113,7 +113,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability has a 10-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
--   **\[PRO\]** You spawn with [Whaler Initiate](Whaler_Initiate.md) Armor.
+-   **\[PRO/CON\]** You spawn with [Whaler Initiate](Whaler_Initiate.md) Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   Your starting reputations are:
@@ -124,13 +124,24 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ## Ignition Delver
 
-**Obtainment:** On any character, go to Layer 2, go and save Epsi then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get Arcwarder, and you also arent required to go to delta in the overworld.
+_**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld.
 
-Also obtained from Orion's quest. You must first do his quest, by clearing out the Summer Goons upstairs, then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
-
-You'll spawn at Miners Landing with the [Union Initiate](Union_Initiate.md) outfit, Union Hook talent, and Union Card talent, which allows you to gain more exp from Dungeons and Jobs, but you'll gain less exp from any other sources. You'll also start with enough exp to gain level 10 due to spawning in the Eastern Luminant. Additionally, you have friend reputation with The Ignition Union, similar to how Stranded has friend reputation with Etrea.
+Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the Summer Goons upstairs, then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
 
 You can do Trial of One.
+
+-   Your starting reputations are:
+    -   Friend of The Ignition Union and Lost Celtor
+    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
+-   Grants the Innate Talent "Union Card"
+    -   Your starting location is [Miners Landing](<Miner's_Landing.md>).
+    -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex. layer 2, fisherman quest)...
+    -   **\[CON\]** ...but reduced EXP Gain from anything else.
+-   **\[PRO\]** Start with enough EXP to reach Power 10. You still need training EXP however.
+-   Grants the Ignition Union Talent "Union Hook"
+    -   **\[PRO\]** You get to skip doing part of layer 2
+    -   **\[PRO\]** Useful for getting around aratel luminant
+-   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 
 ## Upcoming Origins
 
@@ -173,7 +184,7 @@ The following is speculation:
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin during the 8/22/2022 update.
 -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
--   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
+-   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[2\]](#cite-note-2)
 -   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectfully, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority as well as the Ignition Union origin) that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
 -   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
@@ -182,3 +193,9 @@ The following is speculation:
 ## References
 
 1.  [↑](#cite-ref-1)
+    
+    File:Archmage undercooked ignition.png
+    
+    Arch\_Mage confirming the oath was undercooked
+    
+2.  [↑](#cite-ref-2)

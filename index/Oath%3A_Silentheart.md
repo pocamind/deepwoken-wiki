@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 111566
+revid: 112100
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
+| oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, 40 Fortitude, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health, +10% Mantra Resistance |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
@@ -69,7 +69,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   **Dread Fighter - Passive**
     -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 10%, and mantra resistance up to 15%, however, upon being hit by a Mantra, you lose one stack of Dread.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-        -   Stacks up to 5 times and each stacks grant 3% mantra resistance and 2% damage buffs.
+        -   Stacks up to 3 times and each stacks grant 3% mantra resistance and 2% damage buffs.
 
 -   **Lodestar - Passive**
     -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
@@ -93,7 +93,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
         -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
         -   Deals 7 posture damage per hit.
         -   Is 360 degree blockable.
-        -   12 seconds cooldown.
+        -   2 seconds cooldown.
 
 -   **Vengeful Pursuit - Passive**
     -   Your running attacks that miss send out a mid-range crescent projectile that slows on hit.

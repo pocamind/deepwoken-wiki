@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 111026
+revid: 112089
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -323,6 +323,7 @@ Deep Gems can be obtained from:
 -   Depths Collapse Event in the Depths (Common)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (Common)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Common)
+-   [Saramaed Hollow](Saramaed_Hollow.md) (Common)
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 111686
+revid: 112101
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -835,6 +835,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   Using Erisore gives a blue particle effect. Effects unknown.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
--   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th August, 2024 update.
+-   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th August, 2024 update, 466 days after the attunement's release.
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

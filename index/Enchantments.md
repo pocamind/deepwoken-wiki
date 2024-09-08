@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 111891
+revid: 112106
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -633,7 +633,6 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 
 ## Changelogs
 
--   **August 23, 2024** - Equipment enchantment can now be obtained via Enchantment grease [relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   **January 2, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
 -   **February 18, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
 -   **March 27, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
@@ -651,6 +650,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **November 3, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
 -   **November 10, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
 -   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
+-   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 
 ## Gallery
 

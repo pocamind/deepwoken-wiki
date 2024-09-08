@@ -1,32 +1,41 @@
 ---
 title: Saramaed Hollow
-revid: 112062
+revid: 112108
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Eastern Luminant, Dungeons]
+categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Saramaed Hollow
 
-File:Crystal Tresher?.jpg
+LocationL Saramaed Hollow LocationR
 
-I found this on saramaed hollow, It kinda like a tresher butt his is a photo of his dead body
+The deeper one digs, the more the fruits of the earth avail themselves, though there are things better left interred within...
 
+  
 **Saramaed Hollow** is a dungeon in Deepwoken. It is a sub-location of [Miner's Landing](<Miner's_Landing.md>),
 
 ## Description
 
 **Deepdelver Tau**. NPC that sends you to **Saramaed Hollow.**
 
-This dungeon is the primary method of progression for the [Ignition Delver](Origins.md) Origin. You enter **Saramaed Hollow** by interacting **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind watermill. You can choose to work as a team or go solo. The dungeon concept is similar to [The Diluvian Mechanism](The_Diluvian_Mechanism.md) — it's wave-based, but instead of waves, it progresses by depth (every 100 meters). To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. Mobs spawn randomly every 100 meters, and you can encounter a [Thresher](Thresher.md), [Megalodaunt](Megalodaunt.md), [Mudskipper](Mudskipper.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md),[Desert Knight](Stone_Knight.md#sand-knight) or [Mudskipper Brute](Mudskipper_Brute.md). None of the mobs are corrupted; they can only be Attuned. Be aware that all the maps contain lava, which deals significant Damage.
+This dungeon is the primary method of progression for the [Ignition Delver](Origins.md) Origin, however, it is not limited to them and anyone can partake in this dungeon.. You enter **Saramaed Hollow** by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work as a team or go solo. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned. Be aware that all the maps contain lava, which deals significant Damage.
 
-## How to Enter and Complete Dungeon
+## Dungeon Features
 
 Orb which used to refuel Union Drill
 
-First, talk to **Deepdelver Tau**. You can choose to play with friends or go solo. Afterward, you'll be teleported to **Saramaed Hollow**. From there, head to the Union Drill to start the dungeon and pull the lever. The depth at which you start depends on your power level, with Power 20 moving you to 800m automatically.
+**Saramaed Hollow** features 21 Floors in 100 meter increments. Floor 0/0 Meter is the lobby of the dungeon.
 
-To progress further, you need to mine orbs and place them beside the Union Drill to refuel it. After refuelling you can pull lever and go further. Every lever pull gives 100 meters. The current max depth is 2 km.
+Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to leave the dungeon, which can notably be used anytime, even while in danger.
+
+There are 4 room layouts, featuring randomized enemy spawns.
+
+Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added (at least 5 fuel ore is needed, +2 per extra person). Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras or crits while carrying Fuel Ore.
+
+However, to actually be rewarded during this activity, players are required to kill every monster in a given floor. Doing so will grant a large amount of EXP, along with attribute training EXP and chests spawning near the Ignition Deepdrill.
 
 ## Monster adaptations
 
@@ -41,14 +50,13 @@ Adaptations list:
 
 Loot is based on the type of mob you kill. It can be:
 
+-   [Outfits](Outfits.md)
 -   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md)
--   HP Kits
 -   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md)
 -   [Pluripotent Alloy](Pluripotent_Alloy.md)
--   [Relics](Relics.md) **(???)**
+-   [Relics](Relics.md)
 -   [Crypt Blade](Crypt_Blade.md) **(???)**
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md) **(???)**
-
-_(???) – It's unknown whether you can obtain this or not or with low chances._
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md), Since they drop [The Depths](First_Layer.md) Chest, which could contain items from the list. Loot is also increased by bringing more players. However, bringing more people will result in a higher number of mobs.

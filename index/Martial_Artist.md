@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 110807
+revid: 112098
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -32,6 +32,7 @@ This Outfit's Schematic can be obtained from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Mudskipper Brute](Mudskipper_Brute.md)
 -   [Fury Nautilodaunt](Nautilodaunt.md#fury-nautilodaunt)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Beak
-revid: 110054
+revid: 112083
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Beak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients]
@@ -25,3 +25,5 @@ The **Nautilodaunt Beak** is used to gain the "Abyssal Ridge" [Monster Mantra](M
 ## Trivia
 
 -   Their distaste for human flesh means they most certainly only attack out of curiosity, or for territorial reasons, most likely the former.
+-   Can't be dropped.
+-   Costs 1 knowledge upon banking.
