@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112108
+revid: 112118
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -50,13 +50,15 @@ Adaptations list:
 
 Loot is based on the type of mob you kill. It can be:
 
--   [Outfits](Outfits.md)
--   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md)
--   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md)
--   [Pluripotent Alloy](Pluripotent_Alloy.md)
--   [Relics](Relics.md)
--   [Crypt Blade](Crypt_Blade.md) **(???)**
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
+-   [Outfits](Outfits.md) (confirmed)
+-   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md) (confirmed)
+-   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md) (confirmed)
+-   [Pluripotent Alloy](Pluripotent_Alloy.md) (confirmed)
+-   [Spires](Relics.md#rain-spire) (confirmed)
+-   [Needles, Idols, Alloys](Relics.md#armorers-needles) (confirmed
+-   [Delver's Duster](<Delver's_Duster.md>) (confirmed
+-   [Crypt Blade](Crypt_Blade.md) (confirmed)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (confirmed
+-   [Ignition Deepcrusher](Ignition_Deepcrusher.md) (confirmed)
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md), Since they drop [The Depths](First_Layer.md) Chest, which could contain items from the list. Loot is also increased by bringing more players. However, bringing more people will result in a higher number of mobs.

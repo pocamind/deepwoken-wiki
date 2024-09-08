@@ -1,9 +1,9 @@
 ---
 title: Thorm Erebet
-revid: 111836
+revid: 112112
 source: https://deepwoken.fandom.com/wiki/Thorm_Erebet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Central Authority]
+categories: [Naval personnel of The Central Authority]
 ---
 
 # Thorm Erebet

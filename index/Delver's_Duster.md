@@ -1,9 +1,9 @@
 ---
 title: "Delver's Duster"
-revid: 107361
+revid: 112123
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters]
+categories: [Equipment, Arms, Dusters, The Ignition Union]
 ---
 
 # Delver's Duster
@@ -20,7 +20,7 @@ categories: [Equipment, Arms, Dusters]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests:Chaser, Scholar of the Burning Blood, Scion of Ethiron, Miner's Landing, Saramaed Summit, Starfield Veldt, Other Sources:, Merchant Ships |
+| obtainment | Chests:Chaser, Scholar of the Burning Blood, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow]], Starfield Veldt, Other Sources:, Merchant Ships |
 | description | "..." |
 
 ## Description
