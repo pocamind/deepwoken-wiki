@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112127
+revid: 112132
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -137,7 +137,7 @@ You can do Trial of One.
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>).
     -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex. layer 2, fisherman quest)...
     -   **\[CON\]** ...but reduced EXP Gain from anything else.
--   **\[PRO\]** Start with enough EXP to reach Power 10. You still need training EXP however.
+-   **\[PRO\]** Gain bonus EXP until Power 10.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** You get to skip doing part of layer 2
     -   **\[PRO\]** Useful for getting around aratel luminant

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 112091
+revid: 112134
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,11 +8,11 @@ categories: [Pages with broken file links, Monsters]
 
 # Mudskipper Brute
 
-_Also known as "Bruteskipper"._ Template:Creature Infobox V3
+_Also known as "Bruteskipper" or "Brutelords"._ Template:Creature Infobox V3
 
 ## Description
 
-The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), boasting higher innate stats, a wider moveset, and a unique, beefy pectoral body. Despite their quite menacing look, they have a simple moveset compared to most other monsters and don't have that much health, being easily learnable. However, it's relative, the [Mudskipper Broodlord](Mudskipper_Broodlord.md) is a more powerful variant of this monster.
+The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), boasting higher innate stats, a wider moveset, and a unique, beefy pectoral body. Despite their quite menacing look, they have a simple moveset compared to most other monsters and don't have that much health, being easily learnable. However, it's relative, the [Mudskipper Broodlord](Mudskipper_Broodlord.md), is a more powerful variant of this monster.
 
 ## Moveset
 

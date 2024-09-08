@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 112130
+revid: 112144
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -56,7 +56,7 @@ _"No money, friend? How ever will I feed myself?_
 
 ### [Agility](Attributes.md#agility)
 
--   _I once performed in a Circus. **(Acrobat)**_
+-   _I go high beyond others, trying to impress them. **(Acrobat)**_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
 -   _I prefer to attack unseen. **(Assassin) (Note; the Assassin category requires at least one assassination done)**_
 -   _Light on my feet, I sting like a bee. **(Butterfly) (Note; Cannot give Risky Moves, Evasive Expert)**_

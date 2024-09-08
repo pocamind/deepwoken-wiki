@@ -1,6 +1,6 @@
 ---
 title: Silhuett
-revid: 110643
+revid: 112135
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -23,4 +23,3 @@ If the player has Ally [reputation](Reputation.md) with [The Ministry](The_Minis
 
 -   Silhuett is much easier to find if you use the [Hell Bell](Hell_Mode.md), except that also increases monster spawn rates and will make your journey very dangerous.
 -   He is notoriously annoying to find.
--   Although he wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md), he very clearly works for [The Ministry](The_Ministry.md).

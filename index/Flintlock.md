@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 103295
+revid: 112140
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -35,4 +35,4 @@ The Flintlock has a Bullet capacity of 4 when held without a second gun.
 
 -   Like all other pistols, Using this with 1 hand grants 1 set of "M1" attacks unloaded and 1 set of M1 attacks when loaded + 1 Critical attack only available when reloaded with Z/Y by default
 -   Meeting the requirement of LHT, the damage is (13)
--   At max LHT, the damage is (21)
+-   At max LHT, the damage is (20.9)

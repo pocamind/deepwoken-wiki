@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 110626
+revid: 112149
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2, Floor 2 after defeating the Scion of Ethiron |
+| obtainment | Crypt of the unbroken, Layer 2 floor 2, after defeating the scion of Ethiron. |
 | description | "Forged in an age lost to history and salvaged from the Eternal Gale, this relic hails from a forgotten era. As the last whispered remnant of its kind, it comes from a time before the people of New Kyrsa fell under the command of the Drowned God Ethiron. The spear is extremely cold to the touch, with an unsettling chill that clings to your skin, leaving a lingering numbness. It embodies the delicate and refined artistry of the Kyrsgarde, showcasing their elegance and sophistication prior to their corruption. Though the Kyrsgarde still wield spears of frost, the craftsmanship of their modern weaponry pales in comparison, having become crude and uninspired under Ethiron's thrall." |
 
 ## Description
@@ -62,6 +62,7 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 -   Despite the undodgeable icon similar to Light's Final Toll's final critical, the Kyrswynter's running critical can be dodged.
     -   Also, the Eye Indicator used to be an Ice Blue, but was then changed to the default Red Indicator to show that it is unparryable.
+-   The running crit is almost identical to (and probably inspired by) the Royal Greatswords "Wolf's Assault" in Elden Ring
 -   This is the second legendary weapon to have an inbuilt flourish effect, the first being [Stormseye](Stormseye.md).
 -   This is the second elemental legendary weapon to have innate bleed on hit.
 -   This is the second legendary spear, the first being the [Imperial Staff](Imperial_Staff.md).
@@ -69,5 +70,5 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 -   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) may have been the last ever modern Kyrsgarde to every conjure such a weapon, or it was safely passed down from his bloodline.
 -   The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release.
-    -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
--   This weapon is Bankable.
+    -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself. (It was made enchantable again)
+    -   This weapon is Bankable.

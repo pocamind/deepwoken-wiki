@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 108793
+revid: 112138
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union]
@@ -32,7 +32,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition U
 | type | Greatsword |
 | requirements | 75 HVY , 10 STR |
 | damage | 26 |
-| scaling | 7.5 |
+| scaling | 8 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
