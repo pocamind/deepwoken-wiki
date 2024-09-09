@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 112134
+revid: 112258
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -45,6 +45,7 @@ File:Mudskipper Brute Roar.gif
 
 ## Trivia
 
+-   This mob is usually called "Mahoraga" by the players.
 -   This mob was added to the game in the weekly update of April 12th, 2024.
     -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release and then got replaced back by the Megalodaunts again the week after.
 -   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from _The Last of Us_.
