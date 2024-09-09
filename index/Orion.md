@@ -1,6 +1,6 @@
 ---
 title: Orion
-revid: 112124
+revid: 112240
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCS, Quests]
@@ -93,4 +93,5 @@ Orion is named after a legendary demigod and hunter in Greek Mythology. He works
 ## Trivia
 
 -   He wears the [Ignition Union Uniform](Ignition_Union_Uniform.md) and does not don a weapon.
--   You can get to him by going through the water wheel in the front of [Miner's Landing](<Miner's_Landing.md>).
+-   You can get to him by going through the water wheel in the front of [Miner's Landing](<Miner's_Landing.md>).'
+-   As of 9/8/24 the quest is extremely buggy with finishing it

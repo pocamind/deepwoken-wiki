@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 109214
+revid: 112245
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -23,7 +23,9 @@ It is a starting location for those using the [Deepbound](Origins.md) origin.
 
 ## Overview
 
-Castle Light is a safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw, or is using the [Deepbound Origin](Origins.md). However, you can still enter if you died in [Trial of One](Trial_of_One.md) with the [Lone Warrior](Origins.md#lone-warrior) origin. It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md). It is also the only place the First Layer of the depths in which you can regenerate sanity / not go insane naturally, only if you are deepbound.
+Castle Light is a (relatively) safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and stationary light-armed turrets that fire at monsters and hostile players. Additionally, it also has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw, or is using the [Deepbound Origin](Origins.md). However, you can still enter if you died in [Trial of One](Trial_of_One.md) with the [Lone Warrior](Origins.md#lone-warrior) origin. It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md).
+
+It is also the only place the First Layer of the depths in which you can regenerate sanity / not go insane naturally, only if you are deepbound. It also features a stove, which functions as a campfire. It is the only natural campfire in the entirety of the depths. (Which, of course, you have to be Deepbound in order to use it.)
 
 ## Contents
 
@@ -103,9 +105,10 @@ The Armory.
     -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a Deepbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
 -   Castle Light is a common spot for ganks, it is advised to be wary of large groups of players.
+-   Castle Light is the only place where along with guards, there are also turrets that attack hostiles.
 -   It is advised to not attack the guards as they have a large amount of health and can quickly become a problem even for experienced players.
--   Used to have normal divers, then got replaced by Black divers, then got replaced with Journeyman Divers.
--   The [Antiquarian](Antiquarian.md) can only be interacted with if you are Deepbound, even with ally reputation.
+-   Castle Light used to have normal divers guarding, then got replaced by Black divers, then got replaced with Journeyman Divers.
+-   The [Antiquarian](Antiquarian.md) can only be interacted with if you are Deepbound. Any player that is not Deepbound cannot use the Antiquarian, regardless of their reputation with the Divers.
 -   It is possible to enter despite drowning, but requires the assistance of another player.
     -   Do note that if you defeat Chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the Depths via a whirlpool.
 -   Defeating Ethiron spawns you in Castle Light if you entered via the Layer 1 void, but you still will not be allowed to pass through the barrier, forcing you to reset.
