@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 112230
+revid: 112268
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -610,9 +610,9 @@ File:Boundary lore 1.png
 
 Arch using a crude map to explain where the boundary is.
 
--   The boundary is right below Saramaed hollows.
--   The first black diver, Deukalion Akarad, died trying to get through here.
--   The Boundary is the boundary between the Depths and Lumen, getting through without a "ritual" will end up with you having your soul in the Depths. Rituals like Yun'shul's wish and the Depths trial allow you to get through. Source (Book, oscillation): Though it was not well understood at the time, it is now believed the cause of the Pioneers' demise was what is now known to be 'boundary death' ... the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep ... once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. And, since the person's soul is in the Depths at the time of their death, they therefore perish wholly, without a chance to return to the surface.
+-   The Boundary is the interstice located between Lumen and the Depths.
+-   The first Black Diver, Deukalion Akarad, died trying to get through here.
+-   Exiting the Boundary from the Depths results in the soul not remaining in the body due to the constant downward pull the Depths puts on it, resulting in the eventual death of the individual, though this can be negated by certain rituals.
 
 #### Boatman's Watch (Voidsea)
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 111903
+revid: 112274
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,19 @@ categories: [Oaths]
 | oath_req | 75 Intelligence, Complete Ciea's quest (1 time) |
 | effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
 
+“ A wave of transcendent energy washes over you, and you feel as though you can see all of the fundamental building blocks of matter sprawled out like a wave in front of you. ”
+
+― Drinking the Root Panacea
+
 ## Description
 
 **[Oath](Oaths.md): Saltchemist** is one of the 14 obtainable Oaths in _Deepwoken._ It's a highly customizable utility Oath based around [Alchemy](Alchemy.md). Where it's benefits and applications vary greatly on the potions in your arsenal, allowing for various buffs to yourself and debuffs to your enemies. It is the _only_ Oath that requires intelligence.
+
+“ Every atom, every bond. You understand that All is One, and One is All. ”
+
+― Drinking the Root Panacea
+
+The effects of this Oath happen as a result of drinking the **Root Panacea**, a an ancient mysterious concoction that allows the consumer to turn their own body into a factory for brewing. The user also is capable of using the **Virtuous Salts**, ancient ingredients that act as tremendously potent catalysts for alchemy.
 
 ## Obtainment
 

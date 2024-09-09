@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 111764
+revid: 112278
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,7 +17,7 @@ categories: [Mechanics]
 | Name | Image | Difficulty | Description | Times Obtained |
 | --- | --- | --- | --- | --- |
 | [Oathsworn](https://www.roblox.com/badges/2143198609/Oathsworn) | 
- | 0.1% | _"Swear an [Oath](Oaths.md). An indescribable power emanates from words spoken from the soul. You now wield it."_ | 299,654 |
+ | 0.1% | _"Swear an [Oath](Oaths.md). An indescribable power emanates from words spoken from the soul. You now wield it."_ | 413,037 |
 | [Soul Resonance](https://www.roblox.com/badges/2143198840/Soul-Resonance) | 
 
  | 0.1% | _"Your soul has resonated with the Song, now producing its own distinct Tone. This [resonance](Resonance.md) has manifested as the instrument now kept at your hip."_ | 210,260 |
