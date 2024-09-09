@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 111879
+revid: 112234
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -20,6 +20,8 @@ categories: [Oaths]
 ## Description
 
 **[Oath](Oaths.md): Starkindred** is one of the 14 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
+
+The Starkindred Church is a malevolent cult that worships [Celestials](Celestial.md) and believes that they are capable of "transcending" by consuming parts of them. This very Oath is a result of the player drinking the Holy Ichor, the blood of a celestial, and cannibalizing several Starkindred. Drinking the Ichor Seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial equivalent of becoming a [Deepwoken](Deepwoken.md).
 
 ## Obtainment
 

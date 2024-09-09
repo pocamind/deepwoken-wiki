@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112125
+revid: 112231
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -21,7 +21,7 @@ The deeper one digs, the more the fruits of the earth avail themselves, though t
 
 **Deepdelver Tau**. NPC that sends you to **Saramaed Hollow.**
 
-This dungeon is the primary method of progression for the [Ignition Delver](Origins.md) Origin, however, it is not limited to them and anyone can partake in this dungeon.. You enter **Saramaed Hollow** by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work as a team or go solo. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned. Be aware that all the maps contain lava, which deals significant Damage.
+This dungeon is the primary method of progression for the [Ignition Delver](Origins.md) Origin, however, it is not limited to them and anyone can partake in this dungeon as long as you have above neutral reputation with the Ignition Union. You enter **Saramaed Hollow** by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work as a team or go solo. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned. Be aware that all the maps contain lava, which deals significant Damage.
 
 ## Dungeon Features
 
@@ -50,15 +50,15 @@ Adaptations list:
 
 Loot is based on the type of mob you kill. It can be:
 
--   [Outfits](Outfits.md) (confirmed)
--   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md) (confirmed)
--   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md) (confirmed)
--   [Pluripotent Alloy](Pluripotent_Alloy.md) (confirmed)
--   [Spires](Relics.md#rain-spire) (confirmed)
--   [Needles, Idols, Alloys](Relics.md#armorers-needles) (confirmed
--   [Delver's Duster](<Delver's_Duster.md>) (confirmed
--   [Crypt Blade](Crypt_Blade.md) (confirmed)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (confirmed)
--   [Ignition Deepcrusher](Ignition_Deepcrusher.md) (confirmed)
+-   [Outfits](Outfits.md)
+-   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md)
+-   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md)
+-   [Pluripotent Alloy](Pluripotent_Alloy.md)
+-   [Spires](Relics.md#rain-spire)
+-   [Needles, Idols, Alloys](Relics.md#armorers-needles)
+-   [Delver's Duster](<Delver's_Duster.md>)
+-   [Crypt Blade](Crypt_Blade.md)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md), Since they drop [The Depths](First_Layer.md) Chest, which could contain items from the list. Loot is also increased by bringing more players. However, bringing more people will result in a higher number of mobs.

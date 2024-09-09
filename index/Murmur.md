@@ -1,9 +1,9 @@
 ---
 title: Murmur
-revid: 111617
+revid: 112188
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Talents, Character, Mechanics]
+categories: [Talents, Character, Mechanics, Murmurs]
 ---
 
 # Murmur
@@ -32,7 +32,7 @@ Murmurs scale with the user's Power, reaching their maximum potential at Power 2
 There are currently three Murmurs:
 
 -   [Ardour](Murmur%253A_Ardour.md) - A Murmur that increases outgoing posture and increases your own, with a tool mantra that debuffs the enemies defense and posture by 50%.
--   [Tacet](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing ones self, with a mantra that goes out of sight for a powerful dropkick.
+-   [Tacet](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing oneself, that can lead to unlocking a [mantra](Attunement-less.md) that leaves you out of sight for a powerful dropkick. [Jus Karita](Jus_Karita.md) and 5 strength is needed alongside this to unlock **Tacet Drop Kick**
 -   [Rhythm](Murmur%253A_Rhythm.md) - A support-based Murmur that allows for tracking of others and their health.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 111901
+revid: 112176
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -32,7 +32,7 @@ The **Nocturne** is a rare medium weapon, exclusively found in the [Moon's Eyrie
 
 ## Critical
 
-Stabs your opponent in a short range after a very slow wind-up and applies a Moonseye symbol on them, applying through block, parry, and on hit, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
+Stabs your opponent in a short range after a very slow wind-up and applies a [Moonseye](Moonseye.md) symbol on them, applying through block, parry, and on hit, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
 
 Can be cancelled by damage in wind-up.
 

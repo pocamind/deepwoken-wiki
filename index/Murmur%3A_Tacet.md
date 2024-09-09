@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 111770
+revid: 112189
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -12,7 +12,7 @@ categories: [Murmurs]
 
 Template:ImageCaption Infobox_"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-**Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduces (or even negate in some scenarios) the aggro range of enemies. Activation is indicated by an inward ring and a fade-out noise, while deactivation with an outward ring and a fade-in noise.
+**Murmur: Tacet** is one of the 3 [Murmurs](Murmur.md) that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduces (or even negate in some scenarios) the aggro range of enemies. Activation is indicated by an inward ring and a fade-out noise, while deactivation with an outward ring and a fade-in noise.
 
 **BE WARNED:** Tacet in PvP scenarios may not prove reliable, as it may end up not even making you invisible upon use, instead just showing you crouching and moving as if it weren't active. It is also removed when Ardour Scream is used.
 
@@ -45,6 +45,6 @@ A screenshot of the Stranger NPC, found by Restative.
 
 #### Method Three - The Stranger NPC
 
-Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The Stranger NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
+Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: [The Stranger](Quiet_Stranger.md) NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._
