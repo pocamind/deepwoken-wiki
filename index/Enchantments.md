@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 112262
+revid: 112331
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -691,7 +691,7 @@ Drowned Grease
 -   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
 -   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
--   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain it.
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain the enchant.
 -   Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 -   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)

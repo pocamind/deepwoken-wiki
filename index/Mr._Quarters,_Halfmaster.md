@@ -1,8 +1,9 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 112323
+revid: 112325
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Mr. Quarters, Halfmaster

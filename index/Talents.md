@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 112322
+revid: 112326
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -129,7 +129,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
-    -   "Full ether" refers to having more than 95% ether.
     -   Prerequisite: 40 Intelligence
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112281
+revid: 112327
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -54,6 +54,10 @@ Monsters within the Saramaed Hollow have adapted to the fiery heat of their doma
 
 -   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note that this only nullifies DvM from gear. Innate PvE scaling, like from levels, stay.)
 -   _Magma Flow_ - The monster procs an effect on hit that weakens your armor and nullifies your Monster Armor temporarily. These monsters will drip with molten lava.
+
+## Monsters
+
+Monster shown here will start showing up and replacing other monsters the deeper one goes in the order shown, but may show up much earlier or even show up later on. A Mudskipper Broodlord can appear in Floor 3 for example, while a regular Megalodaunt might show up in Floor 20.
 
 ## Loot
 
