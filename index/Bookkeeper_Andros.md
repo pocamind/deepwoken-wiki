@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 96061
+revid: 112287
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrean Luminant]
@@ -34,7 +34,7 @@ Bookkeeper Andros is an NPC located at the [Etris](Etris.md) library, near the i
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="6">Well, I was reading through a book my grandfather left me... one of the <b>old world</b>, yes?... It spoke of the trade routes frequented in those days, but peculiarly these journeys were taken by horse and carriage, rather than by sea.</td>
+  <td colspan="6">Well, I was reading through a book my grandfather left me... one of the old world, yes?... It spoke of the trade routes frequented in those days, but peculiarly these journeys were taken by horse and carriage, rather than by sea.</td>
 </tr>
 <tr>
   <td colspan="3">[Continue]</td>

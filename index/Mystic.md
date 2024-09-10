@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 112144
+revid: 112285
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -130,7 +130,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
 -   _Water is my home. **(Waterborne) (Note; Cannot give Scuba Drowner)**_
 -   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
--   _Uh... **(Miscellaneous) (Note; Cannot give Impervious Slumber, Return to the Dark Ages)**_
+-   _Uh... **(Miscellaneous) (Note; Cannot give Impervious S Return to the Dark Ages)**_
 -   _My soul is an instrument with its own frequency. **(Murmur)**_
 
 ## Attunements

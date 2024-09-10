@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112263
+revid: 112281
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -42,7 +42,7 @@ There are 4 room layouts, featuring randomized enemy spawns:
 -   The rail tracks
 -   The open field
 
-Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added (at least 5 fuel ore is needed, +2 per extra person). Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras or crits while carrying Fuel Ore.
+Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player beyond the first) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras or crits while carrying Fuel Ore.
 
 To actually be rewarded during this activity, players are required to kill every monster in a given floor. Doing so will grant a large amount of EXP, along with attribute training EXP and chests spawning near the Ignition Deepdrill.
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 112139
+revid: 112291
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2647,6 +2647,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
 -   Aranea is the first item to have an unobtainable stat prerequisite.
+-   The Rifle weapons are the only type of weapon that have four basic m1s before a flourish.
 
 ## References
 

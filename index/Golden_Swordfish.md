@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 111824
+revid: 112284
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals]
@@ -34,11 +34,11 @@ This weapon cannot be dropped by any means, similar to a Soulbound item or the [
 
 ## Drop chance
 
-0,114285714285714% (using [Chum](Chum.md)) on [Boatman's Watch](<Boatman's_Watch.md>) fishing spot.
+0.114285714285714% (using [Chum](Chum.md)) on [Boatman's Watch](<Boatman's_Watch.md>) fishing spot.
 
 ## Critical
 
-The Critical is identical to that of the [Trident Spear](Trident_Spear.md) critical. However, it does less posture damage.
+The user winds up before charging forward with the weapon, dealing damage multiple times. The critical has a cooldown of 5 seconds.
 
 ## Trivia
 
