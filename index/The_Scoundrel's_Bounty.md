@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 109091
+revid: 112304
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]

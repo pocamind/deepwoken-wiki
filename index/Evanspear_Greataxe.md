@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 112145
+revid: 112294
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -12,7 +12,7 @@ categories: [Weapons, Greataxes]
 |---|---|
 | type | Greataxe |
 | requirements | 70 HVY |
-| damage | 25 + 7.8 BLD |
+| damage | 25 [base damage] + 7.8 BLD |
 | scaling | 9.5 |
 | range | 8.5 |
 | swing speed | 0.73x |
@@ -99,6 +99,7 @@ It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)
 ## Trivia
 
 -   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
+-   This could explain why it can be dropped from Legion Captain NPCS.
 -   The damage dealt with no proficiency and 100 HVY is approximately 55.6 DMG accounting for the Bleed damage.
 -   Damage with 6 proficiency and 100 HVY (52.2 + 15.7 BLD)
     -   With an additional +6% damage from stars, this weapon deals 52.7 + 15.8 BLD, for a total of 68.5 damage.

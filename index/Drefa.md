@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 112264
+revid: 112301
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrean Luminant]
@@ -11,7 +11,7 @@ categories: [NPCs, Etrean Luminant]
 | Drefa | |
 |---|---|
 | name | Drefa |
-| location | Isle of Vigils, Temple Approach |
+| location | Isle of Vigils, Temple ApproachRight across from the bank and antiquarian at the chopped log. Visible to anyone with eyes. |
 
 ## Description
 
@@ -39,4 +39,4 @@ Uh... It seems like you don't much on you. Come back with more wood and we can s
 ## Trivia
 
 -   Drefa's racial variant appears to be Coral.
--   She woman
+-   She woman \[keep this here\]

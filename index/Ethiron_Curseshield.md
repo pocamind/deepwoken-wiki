@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 112290
+revid: 112298
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -19,7 +19,7 @@ categories: [Weapons, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Pure Ore Rewards, Layer 2 Chests, Layer 1 Chests, Fishing Chests, Chime Chests, Deep widow Chests (Depths), Depths Chests, Voidwalker Chests |
+| obtainment | Pure Ore Rewards, Fishing Chests, Layer 2 Chests (The Eternal Gale), Chime Of Conflict Chests, Layer 1 Chests (Scyphozia/Lost Celtor/Depths), Deep Widow Chests (Depths), Voidwalker Chests, The Diluvian Mechanism |
 | description | A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 109776
+revid: 112305
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -27,7 +27,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 
 ## Description
 
-The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferrofluid that can become either a mace for clubbing, or a sword for cutting. The mace is held by a bordered hilt in both hands, under a chess piece cross that makes the club, its gambit being to inhibit with Ironsing rods. When held with one hand, it can instead slash through victims, done with a simple sword that has both speed and cause for the opponent to bleed.
+The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferrofluid that can become either a mace for clubbing, or a sword for cutting. The mace is held by a bordered hilt in both hands, under a chess piece cross that makes the club, its gambit being to inhibit with Ironsing rods. When held with one hand, it can instead slash through victims, done with a simple sword that has cause for the opponent to bleed.
 
 This weapon has 1 passive by default:
 

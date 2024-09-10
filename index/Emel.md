@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 112279
+revid: 112299
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Emel is an [Adret](Adret.md) NPC who resides in the territory of [the Summer Company](The_Summer_Company.md) faction, being a member of [the Ministry](The_Ministry.md) faction, you can find him leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
 
-If you decide to talk to him, he will give you a quest to kill some enemies in [Songseeker Wilds](Songseeker_Wilds.md), if you complete it you will gain morale with the Ministry and a payment for your deeds.
+If you decide to talk to him, he will give you a quest to kill some enemies in [Songseeker Wilds](Songseeker_Wilds.md), if you complete it, you will gain morale with the Ministry and a payment for your deeds. Like the NPC in Etrean luminant on the statue island, you must grip (kill) a person on songseeker and return back to him for reputation and rewards.
 
 ## Dialogue
 
@@ -53,4 +53,4 @@ AH! Have you forgotten your _TASK_? Kill a living being as smart as you anywhere
 ## Trivia
 
 -   Emel's racial variant appears to be Boulder.
--   To another member of the Ministry with the same quest as Emel in the Etrean Sea.
+-   Another member of the Ministry with the same quest as Emel in the Etrean Sea on the statue island (insert proper name) gives you the mission to kill on erisias island instead.
