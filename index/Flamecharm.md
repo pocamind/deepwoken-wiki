@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 111870
+revid: 112348
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1383,6 +1383,7 @@ N/A
 -   The **Fire Gun** mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
 -   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
 -   The **Flame Ballista** Mantra is Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
+-   The spring spark variant of the **Flame Repulsion** mantra takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless) move from **Jujutsu Kaisen**
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "Meteor Impact" on another Flamecharm user who also has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.

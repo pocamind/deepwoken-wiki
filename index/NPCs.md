@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 112324
+revid: 112342
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -28,7 +28,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives a chest to those who give him ragdolled villagers | Cannot be given [Forgotten Villagers](Forgotten_Villager.md), can be given Navaen Nomads, dialogue changes after being given a villager for the first time |
 | [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker Oath](Oath%253A_Jetstriker.md) |  |
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style |  |
-| [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Amashi](Amashi,_Master_of_Flame.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Andrea](Andrea.md) | Unaligned | [The Depths](First_Layer.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | [Aristo](Aristo.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Inn | Provides information to new players |  |
 | [Argo](Argo.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Reveals information about fishing |  |
@@ -64,7 +64,7 @@ Check the rest out for yourself, canonically smells really bad
 
  |
 | [Hiri](Hiri.md) | [The Hive](The_Hive.md) | In the Library section | None |  |
-| Imel | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
+| [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Infamous Baz](Infamous_Baz.md) | Unaligned | Etris Palace | None | "The lore is a straight line and Infamous Baz is a bump," removed from the game |
 | [Ishan](Ishan.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |

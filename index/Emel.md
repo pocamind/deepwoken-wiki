@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 112299
+revid: 112341
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,4 +53,5 @@ AH! Have you forgotten your _TASK_? Kill a living being as smart as you anywhere
 ## Trivia
 
 -   Emel's racial variant appears to be Boulder.
--   Another member of the Ministry with the same quest as Emel in the Etrean Sea on the statue island (insert proper name) gives you the mission to kill on erisias island instead.
+-   Due to the similarity in name and breed variant, Imel may be the brother of [Imel](Imel.md).
+-   Another member of the Ministry ([Imel](Imel.md)) with the same quest as Emel in the Etrean Sea on the statue island (insert proper name) gives you the mission to kill on erisias island instead.

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 111732
+revid: 112338
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,7 +52,7 @@ All posture damage given to you will instead be sent to the person who used [Ral
 
 ### Cool Head
 
-For the duration, you are unable to be lit on fire.
+For the duration, you are unable to be lit on fire, signified by a cold breath coming out of your character's mouth periodically.
 
 ### Engulfed by Lightning
 
@@ -88,7 +88,7 @@ These status effects won't kill you, but they can give you a debuff or drain you
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon that applies bleed, a weapon that applies bleed, or Mantras that apply bleed (ironsing and revenge). Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
+This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed (ironsing and revenge). Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
 
 ### Burning
 
@@ -153,7 +153,7 @@ Completely disallows healing from **any** source while active. This effect can b
 
 ### Broodlord Rot
 
-Completely disallows healing from **any** source while active. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is halved in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Hell Mode](Hell_Mode.md). Signified by purple smoke on your character.
+While active, suffer from 80% Anti heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). Signified by purple smoke on your character.
 
 ### Charmed
 
@@ -171,6 +171,10 @@ Unable to move during the duration while active while still being able to block,
 
 This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of Mantras for its duration. Signified by a spinning circle matching the color of the silentheart markings of your attacker, around your character.
 
+### Lifelord's Blaze
+
+Become engulfed in green-yellowish flames that cut your mobility in half. This has a 4 second cooldown before it can proc from another hit. Applied through being hit by the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+
 ### Harrowing
 
 This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
@@ -183,13 +187,17 @@ Become tethered to your attacker, being pulled towards them forcefully. Applied 
 
 Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis enchant](Enchantments.md)
 
+### **Moonseye Mark**
+
+Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use a followup crit on you or users of the [Soulthorn](Soulthorn.md) to use their stage 2 and 3 crits on you depending on your Moonseye Mark stacks.
+
 ### Angry
 
 Applied through being hit by the Mantra [Taunt](Attunement-less.md). Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 
 ### Fear
 
-Take 25% more damage and 2x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt](Megalodaunt.md)'s roar, [Primadon](Primadon,_Titan_of_the_East.md)'s Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
+Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt](Megalodaunt.md)'s roar, [Primadon](Primadon,_Titan_of_the_East.md)'s Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
 
 ### Hamstrung
 
@@ -237,11 +245,19 @@ This effect happens when you are low on thirst/water. When this occurs, your vis
 
 ### Starved
 
-This effect happens when you are low on hunger/food. When this occurs, you will become slower, swing slower, and deal less damage. If it ever does reach 0, you won't get knocked or take damage as a result unless your thirst is also gone.
+This effect happens when you are low on hunger/food. When this occurs, you will become slower, swing slower, deal less damage and you will be unable to heal past 90% of your HP. If it ever does reach 0, you won't get knocked or take damage as a result unless your thirst is also gone.
 
 ### Acid
 
 Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health at a time. If your health reaches 0 or if you're unconscious while in Acid, your character will instantly die. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
+
+### Tier 1 Insanity
+
+This effect happens when you've reached Tier 1 of [Insanity](Insanity.md) where your character will start occasionally shivering, which will stop any action you may have been doing while it happens. This can be deadly if you shiver while using a [Glider](Gliders.md) at a great height, as it will immediatly make you drop down.
+
+### Tier 2 Insanity
+
+This effect happens when you've reached Tier 2 of [Insanity](Insanity.md) where your character will start to be unable to recognize people around them, hiding their names and censoring their faces.
 
 ### Tier 3 Insanity
 

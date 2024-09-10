@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 111886
+revid: 112346
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -40,6 +40,14 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
 <table><caption>First Meeting (<a href="https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest">Starting His Questline</a>)</caption><tbody><tr><th colspan="4">Ah, if it isn't [NAME]! I've been expecting you. How have your travels been?</th></tr><tr><td>1. Fine.</td><td colspan="3">2. [End Dialogue]<p><small>(Speaking again, he says: <b>"So, [NAME], I'll be recruiting your service."</b> See "Recruit my service?".)</small></p></td></tr><tr><th colspan="4">Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?</th></tr><tr><td>1. Yes.</td><td colspan="3">2. No.</td></tr><tr><th>Really? You knew I was going to recruit your service already? You're really full of surprises, aren't you.</th><th colspan="3">An experienced adventurer like yourself who has become quite a big name in Etrea, and you haven't a clue? I called you to recruit your service, of course.</th></tr><tr><td colspan="4">1. Recruit my service?</td></tr><tr><th colspan="4">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.</th></tr><tr><td colspan="4">1. What do you need from Erisia?</td></tr><tr><th colspan="4">What else? The forge of Sin. It should be located in the manor of the one known as 'Duke Erisia'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.</th></tr><tr><td>1. I'll go.</td><td>2. Why do you have the key?</td><td>3. The Forge of Sin?</td><td>4. Who is this Duke?</td></tr><tr><th>Splendid! Here's the key. You're of course welcome back once you've retrieved the Forge. Nice chatting with you.<pre>(This is a lie) 
 </pre></th><th>*<i>The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning</i>*</th><th>*<i>The Lord Regent seems bothered by your questioning, but relents.</i>* An artifact from below... One with properties much to my liking.</th><th>*<i>The Lord Regent scoffs in derision, letting his demeanour slip.</i>* A remnant of some long-dead backwater of a nation. His use of the Forge is amateur at best. If it were in *<i>our</i>* hands...</th></tr><tr><td>[End Dialogue.]</td><td>1. I'll go.</td><td>1. I'll go.<p>2. Why do you have the key?</p><p>3. What do you intend to do with it?</p></td><td>1. I'll go.<p>2. Why do you have the key?</p><p>3. Who do you mean by 'our'?</p></td></tr><tr><td colspan="2"></td><td colspan="2"><small>(Asking <b>any other questions</b> leads to: <b>*<i>The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning</i>*</b>. Ending dialogue early before: "I'll go" still allows you to ask the other questions.")</small></td></tr><tr><th colspan="2">Have you brought the Forge? (Quest in Progress)</th><th colspan="2">Have you brought the Forge? (Quest in Progress, died to <a href="Duke_Ishamon_Erisia.md">The Duke</a>)</th></tr><tr><td colspan="2">1. Not yet.</td><td colspan="2">1. I wasn't able to drive the Duke out.<p><small>(Picking this option <b>WILL LOCK YOU OUT OF THE <a href="Oath%253A_Contractor.md">CONTRACTOR OATH</a></b> for the slot. End dialogue early <i>will still allow</i> you to complete the quest.)</small></p></td></tr><tr><th colspan="2">*<i>The Lord Regent tilts his head, as if wondering why you're even here, then.</i>*</th><th colspan="2">So you came back empty handed? *<i>Sigh.</i>* Another one for the pile then, I guess.</th></tr><tr><td colspan="2">[End Dialogue.]</td><td colspan="2"><b>[Player is Killed]</b><small>(Going back <b>EVEN IF YOU SUCCESSFULLY COMPLETE THE QUEST</b> will <i>still get you killed</i>.)</small></td></tr></tbody></table>
+
+<table>
+<tbody>
+<tr>
+  <td>1. Fine.</td>
+</tr>
+</tbody>
+</table>
 
   
 
