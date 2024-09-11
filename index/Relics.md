@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 112371
+revid: 112401
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -152,6 +152,7 @@ It grants the user +30 knowledge on subsequent uses.
 -   [Fishing](Fishing.md)
 -   5\* VoidWalker Chests
 -   Crafting
+-   Etris Raid
 
  |
 | 

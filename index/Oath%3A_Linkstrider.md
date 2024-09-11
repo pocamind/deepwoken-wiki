@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 112033
+revid: 112418
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -20,6 +20,12 @@ categories: [Oaths]
 ## Description
 
 **[Oath](Oaths.md): Linkstrider** is one of the 14 obtainable Oaths in _Deepwoken. This Oath specializes entirely on support. Excels at controlling the battlefield by offering various buffs and granting heals to allies, while also inflicting debuffs and lifesteal for fighting enemies. Granted the power of this Oath is exceptional for fights in groups, having this Oath while alone will hardly give benefits, thus making it one of (if not) the worst Oath for solo players._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+
+“ The world is broken, linked by fragile webs. ”
+
+― Entropy Link Description
+
+The Oath is acquired after taking the lives of 4 players and conducting a ritual at the [Entropy Catalyst](The_Entropy_Catalyst.md), a mysterious ancient mechanism that allows the conductor to exist in two states at the same time. With the knowledge you acquire in this new state, you are able to morph the bonds that connect all souls have.
 
 ## Obtainment
 

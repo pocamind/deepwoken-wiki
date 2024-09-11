@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 112328
+revid: 112417
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -52,7 +52,7 @@ If you've progressed a certain oath once before to max, you are able to skip the
 
 ## Oathbreaker - Oath Removal
 
-It is possible to remove your oath (once) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
+It is possible to remove your oath (you can do this as many times as you want) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
 
 Upon breaking an Oath, unique effects will occur:
 

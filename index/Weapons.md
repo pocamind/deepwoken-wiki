@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 112293
+revid: 112413
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -188,14 +188,14 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
   <td>50 LHT</td>
-  <td>14.5</td>
+  <td>15.1</td>
   <td>N/A</td>
   <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
   <td>1.28x</td>
   <td>0.05s</td>
-  <td>26.6</td>
+  <td>27.7</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -383,13 +383,13 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
   <td>25 LHT</td>
   <td>13.5</td>
-  <td>20%</td>
+  <td>15%</td>
   <td>10%</td>
   <td>LHT: 9</td>
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>0.05</td>
+  <td>0.05s</td>
   <td>26.2</td>
 </tr>
 <tr>
@@ -1373,7 +1373,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td><a href="Adretian_Axe.md">Adretian Axe</a></td>
   <td>35 HVY</td>
-  <td>24</td>
+  <td>24.5</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>HVY: 7</td>
@@ -1520,7 +1520,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>10%</font></td>
   <td><font>10%</font></td>
   <td><font>HVY: 8</font></td>
-  <td><font>8</font></td>
+  <td><font>7</font></td>
   <td>8</td>
   <td><font>0.87x</font></td>
   <td>N/A</td>
