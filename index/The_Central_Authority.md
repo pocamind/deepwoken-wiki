@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 111270
+revid: 112370
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -35,7 +35,7 @@ Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial p
 -   Their base of operations in the Eastern Luminant is [Fort Merit](Fort_Merit.md).
 -   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md).
 
-## Reputation
+## Relationships
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
 -   Enemies with [The Kingdom of Etrea](Etrea.md).
@@ -46,7 +46,26 @@ Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial p
 -   Contracts with the [Ignition Union](The_Ignition_Union.md) to kill monsters in the Depths.
 -   Occasionally hires [The Knives of Eylis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
-The Central Authority is among the factions to have a Bounty Board.
+## Reputation
+
+All [origins](Origins.md) start with a neutral [reputation](Reputation.md) with The Central Authority. The Authority is notorious for being an extremely easy faction to anger.
+
+The Central Authority is a [bounty board](Bounty_Hunting.md) faction. They also have a reputation reset NPC located in [Merit's Reach](<Merit's_Reach.md>).
+
+The Central Authority has [jobs](Job_Boards.md) on every job board in the game excluding [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md).
+
+While the Authority lacks in reputation beneficial quests, it benefits from having the most [Random Encounters](Random_Encounters.md) of any other faction in the game. Assisting the Authority in any of these events will grant you positive reputation:
+
+-   [Authority Officers](Authority_Officer.md)Authorityiconfaction vs [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction([Erisia](Erisia.md))
+-   Authority OfficersAuthorityiconfaction vs [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction([Upper Erisia](Upper_Erisia.md))
+-   Authority OfficersAuthorityiconfaction vs [Legion Soldiers](Legion_Soldier.md)(Upper Erisia)
+-   Authority OfficersAuthorityiconfaction vs Legion Soldier + [Legion Captain](Legion_Captain.md)([The Viper's Jaw](<The_Viper's_Jaw.md>)/Upper Erisia)
+-   [Authority Lieutenant](Authority_Lieutenant.md)Authorityiconfaction vs Legion Captain([Starswept Valley)](The_Starswept_Valley.md)
+-   [Authority Captain](Authority_Captain.md)Authorityiconfaction vs [Hive Construct](Hive_Construct.md)Hiveiconfaction(Starswept Valley)
+
+Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) exclusive NPC's such as the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) as usual.
+
+Note: [The Fort Merit rescue quest](Quests.md) automatically lowers your reputation with the Authority upon completion.
 
 ## Notable Members
 

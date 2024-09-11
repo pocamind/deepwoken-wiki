@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 111399
+revid: 112371
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -218,7 +218,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 
  | 
 
--   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 112332
+revid: 112382
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -55,7 +55,6 @@ An NPC located at [Songseeker Wilds](Songseeker_Wilds.md).
 -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
 -   [Glassdancer Wraps](Glassdancer_Wraps.md)
 -   [Royal Duelist](Royal_Duelist.md)
--   [Curved Blade of Winds](https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds?so=search)
 
 ## Malisae
 

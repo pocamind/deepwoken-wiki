@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 112367
+revid: 112377
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,11 +22,11 @@ If you talk to him, he will tell you that the last explorers who went to the sec
 
 Talking to him:
 
-Last trip's batch seemed... Er. Uniderqualified. Young Epsi got sent down despite my protestations. Poor kid. He's barely ready for this layer, let alone the second.
+Last trip's batch seemed... Er. Underqualified. Young Epsi got sent down despite my protestations. Poor kid. He's barely ready for this layer, let alone the second.
 
 1.  \[End Dialogue\]
 
 ## Trivia
 
 -   Renau's racial variant appears to be Lion.
--   Renau along with Gamma are the only Deepdelvers responsible for Chariot's Spire.
+-   Renau along with [Gamma](Deepdelver_Gamma.md) are the only Deepdelvers responsible for Chariot's Spire.

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 112122
+revid: 112373
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -217,14 +217,15 @@ Danger:(★★★)
 
 -   [Celtor Commander Plate](Celtor_Commander_Plate.md)
 -   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
+-   [Tiran Pendant](Tiran_Pendant.md)
 
  | 
 
--   Deep gems
--   Vibrant gems
--   Umbral Obsidian
--   Ardour Manifestation
--   All relics
+-   [Deep Gems](Mantra_Modifiers.md)
+-   [Vibrant gems](Mantra_Modifiers.md)
+-   [Umbral Obsidian](Umbral_Obsidian.md)
+-   [Ardour Manifestation](Ardour_Manifestation.md)
+-   Most [Relics](Relics.md)
 
  |
 
