@@ -1,8 +1,9 @@
 ---
 title: Rimil
-revid: 112386
+revid: 112389
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Rimil

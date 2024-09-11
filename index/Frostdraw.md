@@ -1,12 +1,16 @@
 ---
 title: Frostdraw
-revid: 110574
+revid: 112391
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
 ---
 
 # Frostdraw
+
+“ Here we go again... Another ice cheese build... ”
+
+― The (now) 500 chime elo demon
 
 Frostdraw icon
 

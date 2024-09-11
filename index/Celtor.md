@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 99947
+revid: 112394
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -62,18 +62,19 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 
   
 
--   +2 Intelligence
--   +2 Charisma
+-   +2 Intelligence.
+-   +3 Charisma.
 -   Increased health for owned ships.
 -   Cheaper ship prices at the shipwright.
--   Useful
+-   Useful.
+-   The Bonus Charisma and Intelligence give a neat boost in ether.
     
 
 **Weaknesses:**
 
   
 
--   Seaborne isn't useful in combat, except the very specific scenario of a ship fight.
+-   Seaborne isn't useful in combat, except the very specific scenario of a ship fight. Because off this Celtor is the second worst race being beaten by felinor with the "hate crime" flaw.
 -   Ships don't actually \*move\* faster, they just \*turn\* faster.
 -   Despite the health bonus, ships will still be destroyed by whirlpools and hateful players all the same.
     
