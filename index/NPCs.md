@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 112342
+revid: 112368
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -72,7 +72,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
 | [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
 | [Joshua](Joshua.md) | Unaligned | [Etris](Etris.md) | Talks about [Karliah](Karliah.md) |  |
-| Kana | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
+| [Kana](Kana.md) | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
 | [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
@@ -93,7 +93,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Malte](Malte.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None | He talks about the Bladeharper oath. |
 | [Marae](Loot_Bag_Gacha.md) | Unaligned | [The Lordsgrove](The_Lordsgrove.md) | Gacha NPC. Will give you something random from the hive lootpool in exchange for 350 notes. |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill rock golem | Marcus. |
-| Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
+| [Marro](Marro.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
 | [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice | None |
 | [Mercille](Mercille.md) | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
@@ -122,7 +122,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
 | [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
 | [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |
-| Renau | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |
+| [Renau](Renau.md) | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |
 | Rimil | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Samael](Samael.md) | Starkindred Faithful | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 111858
+revid: 112369
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1288,7 +1288,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > \--------------
 > > 
-> > Fleet Admiral Erebet,
+> > Fleet Admiral Erebet,j
 > > 
 > >   
 > > Glory to the Cause. As requested by High Command, the CASS 'Shallow Grave' has accomplished the requested strategic survey of the Lullaby Isles archipelago. The survey was conducted almost entirely at sea, at an observational distance. However, due to unforeseen adverse weather conditions, we were forced to moor the ship on the shores of the Stoneseye mountain range. We did so at my orders, to avoid damage to our vessel from the sudden appearance of a harsh centric storm. During this period, we also conducted a cautious and brief external land survey, before our return to sea. Overall, including our unforeseen forced landing, the operation spanned the course of five days. Presented below are our findings in full.
@@ -1327,7 +1327,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > A potential strategic weakness of the island's defences could be the mysterious underground caverns and hollows, which we could not investigate further. The apparent reinforcement of such underground spaces indicated the potential presence of tunnels, or subterranean reinforcements. Unfortunately, I cannot provide further comment on this specific matter.
 > > 
-> > Nevertheless, with their lows offensive capacity, high defensive capability, likely meagre level of technology, and an unknown level of wealth, in my capacity as a Captain, I believe that seizing the archipelago would not be a useful prospect. While the possibly high levels of soil fertility within the Stoneseye range could be useful to us in the future, we are currently more than capable of sustaining the Central Authority's logistical efforts through our own agricultural holdings. Launching an assault against the Lullaby Isles would see us waste resources crashing against a hard wall for little gain, and distract our attention away from where it is more needed - such as the hotspots of Aratel, or even our repeated siege attempts in Etris.
+> > Nevertheless, with their low offensive capacity, high defensive capability, likely meagre level of technology, and an unknown level of wealth, in my capacity as a Captain, I believe that seizing the archipelago would not be a useful prospect. While the possibly high levels of soil fertility within the Stoneseye range could be useful to us in the future, we are currently more than capable of sustaining the Central Authority's logistical efforts through our own agricultural holdings. Launching an assault against the Lullaby Isles would see us waste resources crashing against a hard wall for little gain, and distract our attention away from where it is more needed - such as the hotspots of Aratel, or even our repeated siege attempts in Etris.
 > > 
 > > In addition to all this, as former intel indicates, the local populace is faithful to their local religious beliefs, and quite zealously so. Having served in the Eastern and Etrean Luminant myself before, I believe that any form of hostile action against the Lullaby Isles would result in the archipelago's populace undertaking some form of protracted asymmetrical warfare against the Authority, not unlike our ongoing conflict with the Navaen nomads. I am sure High Command, as well as the venerable Fleet Admiral, are well-aware of how resource-hungry that particular endeavor is, and no need of reminding of it.
 > > 

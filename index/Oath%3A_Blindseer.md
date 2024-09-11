@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 111649
+revid: 112360
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -70,7 +70,6 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Adds 10% Monster Armor to players standing in its radius.
     -   About the size of a medium Sacred field roll.
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle much smaller but makes it follow the user.
-    -   Can be modified with Glass Stones to increase range.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **All-Seeing Eye - Passive**

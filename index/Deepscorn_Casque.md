@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 111066
+revid: 112365
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 The **Deepscorn Casque** is a Unique [Equipment](Equipment.md) Item found under the "_Head"_ category. This Helmet can be obtained by clearing the Ministry Cache Event and is obtainable alongside the Darkened Bastion schematic on the first clear. It can be cleared by either beating him or talking to him with Ally [Ministry](The_Ministry.md) reputation.
 
-Grants the user the "Already Dead" Unique Equipment [Talent](Talents.md), which reduces self-damaging moves like Static Withdraw's Jumpstart buff and the [Deepspindle](Deepspindle.md) running critical. Now works on [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain, to take no damage but still heal allies.
+Grants the user the "Already Dead" Unique Equipment [Talent](Talents.md), which reduces self-damaging moves like Static Withdraw's Jumpstart buff and the [Deepspindle](Deepspindle.md) running critical. Now works on [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain, to take halved damage but still heal allies normally.
 
 ## Trivia
 
