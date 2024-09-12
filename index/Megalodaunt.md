@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 112473
+revid: 112498
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,14 @@ categories: [Monsters]
 
 # Megalodaunt
 
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._
+
 “ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between each other. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowess, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
 
 ― Archivist Journal: 'Megalodaunt'
 
-Megalodaunt Template:Creature Infobox V3
+  
+Template:Creature Infobox V3
 
 ## **Description**
 
@@ -36,10 +39,11 @@ In addition to be found wandering around various places or loitering around in s
 
 ## Attacks
 
-| Name | Description | GIF | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
 | 
-Slash
+Slash  
+(★☆☆)
 
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
@@ -47,12 +51,17 @@ Slash
 -   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
     -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯  
+
  | 
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Kick
+Kick  
+(★★☆)
 
  | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
@@ -63,39 +72,53 @@ Kick
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯  
+
  | 
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ |
 | 
 
-Thousand Needles
+Thousand Needles  
+(★☆☆)
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   Easily parryable.
 -   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
 
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯  
+
  | 
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Roar
+Roar  
+(★★☆)
 
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
+Parryable:◯  
+Blockable:\-  
+Dodgeable:◯  
+
  | 
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ |
 
 ## **Finisher**
 
 | Name | Description |
 | --- | --- |
-| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
 ## Tips
 

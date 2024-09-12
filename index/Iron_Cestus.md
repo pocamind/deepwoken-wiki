@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 112011
+revid: 112482
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -12,7 +12,7 @@ categories: [Weapons, Fists]
 |---|---|
 | type | Light Weapon |
 | requirements | 0 LHT & Fist Style |
-| damage | 13.8 |
+| damage | 13.5 |
 | scaling | 7.5 |
 | range | 6 |
 | swing speed | 1.11x |
@@ -21,12 +21,12 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Erisia , Minityrsa , Songseeker , Summer Isle , First Layer |
+| obtainment | Chests from:Erisia , Minityrsa , Songseeker Wilds , Summer Isle , First Layer |
 | description | [REQUIRES A FIST STYLE] |
 
 ## Description
 
-**Iron Cestus** is a Light Weapon that requires no LHT to use. It has no penetration, 7.5 scaling, 5 weight, 6 range, 1.11x Swing Speed, and a base damage of 13.8. The first [Fist](Fists.md) weapon for players.
+**Iron Cestus** is a Light Weapon that requires no LHT to use. It has no penetration, 7.5 scaling, 5 weight, 6 range, 1.11x Swing Speed, and a base damage of 13.5. The first [Fist](Fists.md) weapon for players.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 111554
+revid: 112509
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5320,6 +5320,7 @@ Found from:
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
 -   The highest amount of Stealth you can achieve with equipment is 30%. (A Dark Owl Chapeau for +10%, a Mercenary's Garb/Ministry Cloak/Dark Owl Cloak for +6%, Shrouded Capes for +5%, a Duelist Mask for +6% and some Master Thief Earrings for +3%.)
 -   Highest theoretical ETH kit in game is 423 ETH. (4x 32 ETH Moon and Waning Rings, 68 ETH Diver's Light Plate, 42 ETH Scarf, 64 ETH Hood, 64 ETH Boots, 32 ETH Mask, 37 ETH Old Blood Earrings)
+-   Highest theoretical Posture kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Diver's Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings)
 -   Highest theoretical DvM kit in game is 64 DvM. (4x 4 DvM Rings, 20 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings)
 -   Highest theoretical Monster Armor in game is 45% (16% Pathfinder Elite, 16% Vigil's Hood, 5% Drowned, 8% Echoes upgrade)

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 112465
+revid: 112517
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -91,7 +91,7 @@ _Has a range limit. (Roughly a bit before till the player's name can't be seen a
 (60 minutes if you have less than 75 Charisma)
 
  |
-| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 20 seconds. 2 minutes on the last subject used on. |
+| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 30 seconds. 2 minutes on the last subject used on. |
 
 ## Trivia
 

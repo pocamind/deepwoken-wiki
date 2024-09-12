@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 112463
+revid: 112518
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2479,15 +2479,15 @@ _**"I seek the qualities of vocalist."**_
     -   Commands Given: "Sleep", "Drop", "Run", "Eat", "Say (Text)", "Use", "Locate", "Leech" at base, "Fight", "Sacrifice" at 50 Charisma, "Return" at 60 Charisma and "Explode" at 75 Charisma.
     -   Prerequisite: 20 Charisma
 
--   _**Command: Live**_ \[Common Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
-    -   Prerequisites: 75 Charisma
+-   Command: Live \[Common Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
+    -   Prerequisites: 75 Charisma, Vow of Mastery
     -   Effect: Will fully heal your servant if they have lower than 40% hp
-    -   10 Minutes for master and 40 Minutes for Subject cooldown. 60 if less than 75 charisma
+    -   10 Minutes for Master and 40 Minutes for Subject cooldown. 60 if less than 75 Сharisma
 
--   _Command: Summon_ \[Advanced Talent\] - Command your servant to obey your summons and appear before you no matter the distance.
+-   _**Command: Summon**_ \[Advanced Talent\] - Command your servant to obey your summons and appear before you no matter the distance.
     -   Prerequisites: 80 Charisma, Vow of Mastery
     -   Effect: Teleports the subject to the master regardless of distance. Teleportation takes a few seconds to complete, and any hit will cancel it
-    -   20 Second for Master and 2 MInutes for Subject
+    -   30 Second for Master and 2 Minutes for Subject
 
 ### Warrior
 
