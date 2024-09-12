@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112237
+revid: 112474
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -139,7 +139,6 @@ You can do Trial of One.
     -   **\[CON\]** ...but reduced EXP Gain from anything else.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
 -   Grants the Ignition Union Talent "Union Hook"
-    -   **\[PRO\]** You get to skip doing part of layer 2
     -   **\[PRO\]** Useful for getting around aratel luminant
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 

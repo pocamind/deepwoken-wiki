@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 112373
+revid: 112442
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Dee
 
 ## Description
 
-Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its arms and head.
+Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at nearly 270 feet (90 meters), with some features of marine life, featuring webbed feet and fins on its arms and head.
 
 It can be summoned by making an offering (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 3-minute cooldown and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown).
 
@@ -239,16 +239,16 @@ There are **14** images, be warned
     -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.
     -   This cooldown is account wise for the player who summoned Primadon and any who dealt damage to him.
--   In the game files, it is called "MonkyWorldBoss."
+-   In the game files, it is called "BigN###aMonsterBoss."
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
-    -   It takes ~80 parries to kill Primadon without damaging him.
+    -   It takes ~500 parries to kill Primadon without damaging him.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
--   It would take roughly 15-35 cannonballs alone to kill the Primadon, depending on your weapon's damage.
+-   It would take roughly 50 - 123 cannonballs alone to kill the Primadon, depending on your weapon's damage.
 -   As of 3/29/2024, Primadon was slightly tweaked to have a bluer color scheme.
     -   The purple "nose" is due to developer Arch\_Mage explaining how primates flip their lips.[\[1\]](#cite-note-1)
 -   Primadon, during Verse One, stood at a height of 25 meters (81 feet)
 
 1.  [↑](#cite-ref-1) [https://media.discordapp.net/attachments/888259230082146385/1224049575174734005/image.png?ex=6679ae80&is=66785d00&hm=a3e8eb76f2338817dffc2e4147788e6c09c63fccd04ed1d54edde3951a54e5a3&=&format=webp&quality=lossless&width=838&height=816](https://media.discordapp.net/attachments/888259230082146385/1224049575174734005/image.png?ex=6679ae80&is=66785d00&hm=a3e8eb76f2338817dffc2e4147788e6c09c63fccd04ed1d54edde3951a54e5a3&=&format=webp&quality=lossless&width=838&height=816)
 
--   Primadon's chests has around a 10% chance of containing Ysley's Pyre Keeper
+-   Primadon's chests has a guarantee of containing Ysley's Pyre Keeper

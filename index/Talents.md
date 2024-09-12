@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 112326
+revid: 112463
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2476,17 +2476,18 @@ _**"I seek the qualities of vocalist."**_
 
 -   Vow of Mastery \[Common Talent\] - The [Vow of Mastery](Vow_of_Mastery.md) grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
     -   Players who take the vow are considered allies with their master and others who take the vow.
-    -   Commands Given: "Sleep", "Drop", "Run, "Eat", "Say (Text)", "Use", "Locate", "Leech" at base, and "Return" at 60 Charisma.
+    -   Commands Given: "Sleep", "Drop", "Run", "Eat", "Say (Text)", "Use", "Locate", "Leech" at base, "Fight", "Sacrifice" at 50 Charisma, "Return" at 60 Charisma and "Explode" at 75 Charisma.
     -   Prerequisite: 20 Charisma
 
 -   _**Command: Live**_ \[Common Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
-    -   Prerequisites: 75 Charisma, other Vow of Mastery Talents
+    -   Prerequisites: 75 Charisma
     -   Effect: Will fully heal your servant if they have lower than 40% hp
-    -   40 Minutes cooldown, 60 if less than 75 charisma.
+    -   10 Minutes for master and 40 Minutes for Subject cooldown. 60 if less than 75 charisma
 
 -   _Command: Summon_ \[Advanced Talent\] - Command your servant to obey your summons and appear before you no matter the distance.
     -   Prerequisites: 80 Charisma, Vow of Mastery
-    -   Effect:
+    -   Effect: Teleports the subject to the master regardless of distance. Teleportation takes a few seconds to complete, and any hit will cancel it
+    -   20 Second for Master and 2 MInutes for Subject
 
 ### Warrior
 

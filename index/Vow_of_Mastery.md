@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 112085
+revid: 112465
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -67,7 +67,7 @@ _Range limit but not too bad._
 
 _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
- | None |
+ | 2 minutes |
 | Return | No, 60
 
 Charisma
@@ -76,13 +76,21 @@ Charisma
 
 Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried. _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
- | 20 seconds |
+ | 20 seconds
+
+(30 seconds if you have less than 60 Charisma)
+
+ |
 | Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the Subject, just like the NLK Enchant, but with explosion | ? |
 | Live | Yes, 75 Charisma, Rare | "_\[Name\]_, live" | Fully heals the subject, reviving them if they are knocked, cancelling any grip or carry.
 
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 
- | 10 minutes. 40 minutes on the last subject used on. |
+ | 10 minutes. 40 minutes on the last subject used on.
+
+(60 minutes if you have less than 75 Charisma)
+
+ |
 | Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 20 seconds. 2 minutes on the last subject used on. |
 
 ## Trivia

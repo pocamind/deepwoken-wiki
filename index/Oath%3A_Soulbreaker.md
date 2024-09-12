@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 110752
+revid: 112436
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Upcoming content, Oaths]
@@ -29,7 +29,7 @@ notices:
 
 -   It is possible that this Oath is one of the few that were mentioned to release with [Conquest](Conquest.md).
 -   It is also possible that it may not even be an Oath, although unlikely.
--   It is rumored that the True King of Etris swore by this Oath.
+-   It is rumored that the True King of Etrea swore by this Oath.
 
 ## References
 
