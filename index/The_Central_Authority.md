@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 112370
+revid: 112424
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -65,7 +65,7 @@ While the Authority lacks in reputation beneficial quests, it benefits from havi
 
 Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) exclusive NPC's such as the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) as usual.
 
-Note: [The Fort Merit rescue quest](Quests.md) automatically lowers your reputation with the Authority upon completion.
+[The Fort Merit rescue quest](Quests.md) automatically lowers your reputation with the Authority upon completion.
 
 ## Notable Members
 

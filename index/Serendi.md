@@ -1,6 +1,6 @@
 ---
 title: Serendi
-revid: 112319
+revid: 112426
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,4 +36,5 @@ _Shut up_! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna
 
 ## Trivia
 
+-   Although Serendi claims to be short, she is the same height as everyone else. This means she actually towers over you, being on those boxes.
 -   Serenedi's racial variant appears to be File.

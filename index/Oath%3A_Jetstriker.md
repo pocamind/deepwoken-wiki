@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 110432
+revid: 112419
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,13 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Jetstriker** is one of the 14 obtainable Oaths in _Deepwoken_. It is highly praised (and hated) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath.
+**[Oath](Oaths.md): Jetstriker** is one of the 14 obtainable Oaths in _Deepwoken_. It is highly praised (and hated) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath. Jetstriker is infamous for being able to nope-out of any engagement at will if the user knows what they're doing.
+
+“ I can begrudgingly congratulate you! No more easy race wins for me, I suppose! ”
+
+― Alirian
+
+The Oath's powers are attained by Vowing to flow with the Song itself, going wherever it leads you. You are carefree of wherever you end up as long as the Song takes you there. Journey before destination.
 
 ## Obtainment
 

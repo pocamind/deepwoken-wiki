@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 112329
+revid: 112425
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -46,7 +46,6 @@ Template:Areainfobox
 
 -   Despite [Mr. Quarter's](Mr._Quarters,_Halfmaster.md) status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
 -   You can drop barrels into the water.
--   Although [Serendi](Serendi.md) claims to be short, she is the same height as everyone else. This means she actually towers over you, being on those boxes.
 -   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.[\[1\]](#cite-note-1)
 
 ## References
