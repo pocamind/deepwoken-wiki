@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 112315
+revid: 112434
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,3 +37,4 @@ Ye can bet yer soul I'll swab all there is to swab. They call me **The Swabber**
 ## Trivia
 
 -   Frank F'alzone's racial variant appears to be Marten.
+-   He bears a striking resemblance to [Duke Erisia](Duke_Ishamon_Erisia.md) as he bears the same hair, race and racial variant.
