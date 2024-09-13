@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 111272
+revid: 112602
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also, though extremely rare, spawn within a large chest, upon you opening it. It will spawn with feathers and smoke erupting from the chest until attacking you.
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from mimic chests after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you.
 
 While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
 
@@ -34,47 +34,112 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 ## Attack Patterns
 
-| Name | Description | Parryable? | Blockable? | Dodgable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Kick** | Nautilodaunt's punches would randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you or using **Flip-Kick**. | ◯ | ◯ | ◯ | (★★☆) |
-| **Flip-Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | ◯ | ◯ | (★★★) |
-| **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey. | ◯ | ◯ | ◯ | (★★★) |
-| **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | ✗ | ◯ | (★★★) |
-| **Feint** | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** their attacks. | N/A | N/A | N/A | (★★☆) |
-| **Vent** | If hit by any move that utilises the Song such as a Mantra, certain Resonances, or a Vent from the player, the Nautilodaunt will near-completely negate the damage of said mantra. Can happen even during other moves. | N/A | N/A | N/A | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Punch**  
+(★☆☆)
+
+ | The Nautilodaunt attempts to punch their prey with a variety of different punches.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Kick**  
+(★★☆)
+
+ | Nautilodaunt's punches randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you, or using **Flip-Kick**.
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Flip-Kick**  
+(★★★)
+
+ | Nautilodaunt flips into the air and attempts to strike their prey with a kick.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Drop-Kick**  
+(★★★)
+
+ | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Grand Stomp**  
+(★★★)
+
+ | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.**
+
+  
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** their attacks. |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said mantra. This can happen even during other moves. |
 
 ### Finisher
 
--   **"Mudskipperification"** - The Nautilodaunt punches the now-incapactiated player one final time, turning them into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperification"** - The Nautilodaunt punches the now-incapacitated player one final time, turning them into a [Mudskipper](Mudskipper.md).
 
 ### Talents
 
--   **Monster Resistance** - Physical attacks deal ??? less damage to Nautilodaunts.
 -   **Monster Resistance** - has 70-80% elemental reduction.
 
 ## **Combat / Tips**
 
 While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it's unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
-While this mob can **not** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
+While this mob **cannot** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from its much higher damage. Even with its near-immunity to [Mantras](Attunements.md), it can still be posture broken quickly and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
 
-Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1000 (which can reach numbers as small as 200 with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) will make this mob into a far easier challenge. With such a weapon, simply block 2 or 3 attacks, then feint-critical to blockbreak him. Do this until he dies. This is still a very risky strategy, especially if you run out of posture to block with.
+Keep in mind that standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and that due to its incredibly low health of 1000 (which can reach numbers as small as 200 with PvE Scaling), it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) turn this mob into a far easier challenge. With such a weapon, simply block 2 or 3 attacks, then feint-critical to blockbreak him. Do this until he dies. This is still a very risky strategy, especially if you run out of posture to block with.
 
 However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 
--   The Nautilodaunt has a wide variety of punch variations, which all possess their own speed and animations, throwing off any players who believe to have hit a rhythm. Their animations are desynced, so what could be a Parry ends up as a Block, usually with the hit coming before the animation finishes. After a punch, it can followup with any of it's other punches instead of pausing like the Enforcer would, this can be chained infinitely leading to infamous "Infinite Combos," especially from the Fury variant.
+-   The Nautilodaunt has a wide variety of punch variations, which all possess their own speed and animations, throwing off any players who believe to have hit a rhythm. Their animations are desynced, so what could be a Parry ends up as a Block, usually with the hit coming before the animation finishes. After a punch, it can follow up with any of it's other punches instead of pausing like the Enforcer would, this can be chained infinitely leading to infamous "Infinite Combos," especially from the Fury variant.
 -   Nautilodaunt's kick is basically identical to The Enforcer's. It will usually use it as an extension of his other attacks, placing it after his normal or double punches. While dealing less damage than its punches, it is painfully quick and the second hit will low profile.
 -   Attempting to Vent to disengage, or use any mantras, will proc it's Vent regardless of what action its doing, leading to incredibly heavy Mantra resistance but not Immunity. This action is not considered an attack and as such can be "movestacked" with.
 -   Flip-Kick and Drop-Kick share many similarities. Normally, Nautilodaunt power-walks towards its targets. But right before it uses these two attacks, it will perform a much different "Naruto-Run" towards the opponent. Flip-kick is used when the Nautilodaunt gets somewhat close, rapidly closing the gap in the air with a kick. This is INCREDIBLY fast, but also somewhat delayed for when the attack actually lands, being an easy source of whiplash. Alternatively, it will plow right into the player with a sliding Drop-Kick, dealing high damage, and also being rather fast. However, these moves will only be used at a distance.
     -   In theory, it should be easy to avoid these attacks as it clearly telegraphs them with the sprint, but in practice, both of the attacks have radically different executions, speeds, and delays, basically forcing you to have to react fast enough. If it keeps running towards you after a distance it WOULD HAVE flipped from, its almost certainly a Drop-Kick.
 -   Its third attack is made when distance is made that's too far for a Flip or Drop-Kick, the Nautilodaunt instead stomps the floor with a loud audio cue. Depending on your distance, it can either be highly telegraphable as the pillars go progressively, or nigh unreactable if it is incredibly close to you. While this move is the most dangerous, realistically you should not be seeing this attack outside of being on top of a building.
 
-Always keep calm while fighting the Nautilodaunt, and rely on parries before doing a Critical Attack to break their posture and kill it in one or two guardbreaks. **If** you have an incredibly high damage mantra such as Tornado or Caltrops, instead those may be used as it will choose to ignore them in order to vent, which leads to a Posture Break thus allowing you to kill the Nautilodaunt while having only blocked or parried and using one move.
+Always keep calm while fighting the Nautilodaunt, and rely on parries before doing a Critical Attack to break their posture and kill it in one or two guardbreaks. If you have an incredibly high damage mantra (such as Tornado or Caltrops), instead those may be used as the Nautilodaunt will choose to ignore them in order to vent, which leads to a Posture Break that will allow you to kill it while having only blocked or parried and using one move.
 
-On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack. It's agro range is pretty big so be cautious if you are entering on it's side of the city, listen out for the digging because it's loud enough for you to be able to hear it from outside the agro range.
-
-  
+On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack. It's aggro range is pretty big so be cautious if you are entering on it's side of the city, listen out for the digging because it's loud enough for you to be able to hear it from outside the agro range.  
 
 ## Trivia
 
