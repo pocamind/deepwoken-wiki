@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 110734
+revid: 112592
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -21,7 +21,7 @@ categories: [Weapons, Flintlocks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Summer Isle, Songseeker Wilds, Chaser, Scholar of the Burning Blood |
+| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Songseeker Wilds, Chaser, Scholar of the Burning Blood |
 | description | "..." |
 
 | Dawnshot | |
@@ -39,7 +39,7 @@ categories: [Weapons, Flintlocks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on base weapon, Duke Erisia, Chaser, Scholar of the Burning Blood, Maestro Evengarde RestSea Events |
+| obtainment | Using a Pluripotent Alloy on base weapon, Duke Erisia, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest, Sea Events |
 | description | "..." |
 
 **Base:**

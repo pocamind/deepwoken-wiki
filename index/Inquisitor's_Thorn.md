@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 103298
+revid: 112593
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -23,7 +23,7 @@ categories: [Weapons, Rapiers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Deep Widow , The Depths, Duke Erisia, Songseeker Wilds, Minityrsa |
+| obtainment | Minityrsa, Songseeker Wilds, Starswept Valley, Deep Widow , Duke Erisia, Moon's Eyrie, The Depths |
 | description | "Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'." |
 
 ## Description

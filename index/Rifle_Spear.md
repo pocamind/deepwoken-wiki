@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 108709
+revid: 112586
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, The Central Authority]
@@ -23,7 +23,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, The Central Authori
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, The Depths, Deep Widow, Starswept Valley, Fishing |
+| obtainment | Fort Merit, Starswept Valley, Deep Widow, Moon's Eyrie, Fishing, The Depths |
 | description | "A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets." |
 
 _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) and [Iron Blunderbuss](Iron_Blunderbuss.md)._

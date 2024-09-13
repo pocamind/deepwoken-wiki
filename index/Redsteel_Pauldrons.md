@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 109516
+revid: 112595
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Primadon, Chime of Conflict, Knives of Eylis Events |
+| obtainment | Chests from:Summer Isle, Knives of Eylis Events, Chime of Conflict, Primadon |
 | description | ... |
 
 ## Description
