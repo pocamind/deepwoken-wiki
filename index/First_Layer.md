@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 111646
+revid: 112577
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -244,6 +244,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   If within the vicinity of [Castle](Castle_Light.md) [Light](Castle_Light.md), it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
 -   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target.
 -   If [Finnegan The Lost](Finnegan_The_Lost.md) or [The Fisherman](The_Fisherman.md) randomly spawn upon you, and you are not powerful enough to defeat them, run. It is not worth risking it against an enemy that has too much HP for you to properly deal with.
+-   Stay aware of your surroundings. With the recent job updates, the presence of more players increases the likelihood of monster spawns, which could make your situation worse if you're fighting a monster or players.
 
 ## Trivia
 

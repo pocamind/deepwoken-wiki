@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 111632
+revid: 112569
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -63,10 +63,8 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   He only uses Lightning Clones in Phase 1.
 -   He may be attacked while summoning the clones, but there is no ending attack opportunity.
 
-Parryable:◯
-
-Blockable:◯
-
+Parryable:◯  
+Blockable:◯  
 Dodgeable:◯
 
  |  |
@@ -82,10 +80,8 @@ Dodgeable:◯
 -   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
 -   The attack opportunity lasts for around one second in phase 1, while it lands around three in phase 2, not counting hitting him during the move.
 
-Parryable:◯
-
-Blockable:◯
-
+Parryable:◯  
+Blockable:◯  
 Dodgeable:◯
 
  |  |
@@ -100,10 +96,8 @@ Dodgeable:◯
 -   Becomes much faster in Phase 2. However, this causes the second assault to be impacted by Auto-Parry frames, requiring only two parries instead of the initial three.
 -   Parrying all 3 attacks prevents him from beginning another attack after, allowing the player to get in damage. If this attack is not fully parried, you will not get an attack opportunity, even if the damage was otherwise mitigated.
 
-Parryable:◯
-
-Blockable:◯
-
+Parryable:◯  
+Blockable:◯  
 Dodgeable:◯
 
  |  |
@@ -119,10 +113,8 @@ Dodgeable:◯
 -   High posture damage.
 -   This attack does not have an attack opportunity, even if fully parried.
 
-Parryable:◯
-
-Blockable:◯
-
+Parryable:◯  
+Blockable:◯  
 Dodgeable:◯
 
  |  |
@@ -135,10 +127,8 @@ Dodgeable:◯
 
 -   He always vents when an attack would daze him.
 
-Parryable:◯
-
-Blockable:◯
-
+Parryable:◯  
+Blockable:◯  
 Dodgeable:✗
 
  |  |

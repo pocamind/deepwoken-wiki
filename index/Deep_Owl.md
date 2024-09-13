@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 110694
+revid: 112570
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,39 +40,77 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 ## Attacks
 
-| Name | Media | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
 | 
-**Talon Swipe**
+**Talon Swipe**  
+(★☆☆)
 
- |  | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat. | ◯ | ◯ | ◯ | (★☆☆) |
+ | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Feather Teleport**
-
- | 
+**Feather Teleport**  
+(★☆☆)
 
  | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.  
-Typically used after Talon Swipe. | ◯ | ◯ | ◯ | (★☆☆) |
-| 
+Typically used after Talon Swipe.
 
-**Owl Dash**
-
- |  | Kneels on the ground for a moment before performing a spinning assault in the target's direction. | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-**Overhead Grab**
-
- |  | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
-Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you. | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-**Flock of Feathers**
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
  | 
 
+ |
+| 
+
+**Owl Dash**  
+(★☆☆)
+
+ | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
+
+  
+Parrable◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| 
+
+**Overhead Grab**  
+(★★★)
+
+ | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
+Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you.
+
+  
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
+| 
+
+**Flock of Feathers**  
+(★★☆)
+
  | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.  
-Overhead Grab/Owl Dash is typically used after this. | ◯ | ◯ | **\-** | (★★☆) |
+Overhead Grab/Owl Dash is typically used after this.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:**\-**
+
+ |  |
 
 ## Finisher
 

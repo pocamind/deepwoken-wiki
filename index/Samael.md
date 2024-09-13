@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 110755
+revid: 112568
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -99,9 +99,13 @@ His [race](Aspects.md) is hidden by his hair, and even so there are no distingui
 > 
 > Samael: _**You are complete. A masterwork under the Stars.**_
 > 
-> If spoken to without meeting the requirements for Starkindred:
+> If spoken to without having gripped a player:
 > 
 > Samael: Look at you. Little innocent one, gaze upon a beauty known not to this realm. Perhaps you too can drink upon its _**Holy Ichor**_ one day, once you've consumed the blood of those like yourself. Only then you shall be able to comprehend true strength...
+> 
+> If spoken to **with** having gripped a player, but **without** 40 Strength:
+> 
+> Samael: Samael: Look at you. Little innocent one, gaze upon a beauty known not to this realm. Perhaps you too can drink upon its _**Holy Ichor**_ one day, once you have the strength to withstand it...
 > 
 > If spoken to while being sworn to another Oath.
 > 

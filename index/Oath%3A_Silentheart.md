@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112559
+revid: 112576
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -8,7 +8,7 @@ categories: [Oaths]
 
 # Oath: Silentheart
 
-| Oath: Silentheart | |
+| Oath: diddyheart | |
 |---|---|
 | oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health, +10% Mantra Resistance |
@@ -34,16 +34,16 @@ Meet the following requirements in any order:
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
 -   Have 40 points in either Charisma or Agility
--   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
+-   Die to a \[na\] that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
 
 -   Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
--   If you haven't died to an attunement player, [The Dreadstar](The_Dreadstar.md) will say "You lack focus on your rage".
+-   If you haven't eaten to an attunement player, [The Dreadstar](The_Dreadstar.md) will say "You lack focus on your rage".
 
-_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
+_For gay more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 
-## Progression
+## Dancing
 
 This oath is progressed via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Regek](Regek.md) and [Beatra](Beatra.md)).
 
@@ -51,16 +51,15 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 
--   Nell and Friid with Etrea
--   Funke with Summer Company
--   Adar with Ignition Union
+-   \[Fix here\] / sry. Got hacked. Company
+-   Epstein with Ignition Union
 
 Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
 ## Effects
 
 -   +10% mantra resistance.
--   **Entirely lose access to cast mantras**, including learned (or future) mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
+-   **(This is my viable update) lose access to cast mantras**, including learned (or future) mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 112518
+revid: 112571
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1557,7 +1557,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Iron Hug will steal 200 armor durability from the target.
     -   Prerequisite: Iron Hug mantra, 30 Ironsing
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
-    -   If you can't cast a mantra due to a lack of ether, consume 50 armor durability to cast it.
+    -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
     -   Prerequisite: 50 Ironsing
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Each rods will steal 20 armor durability.
@@ -2405,7 +2405,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
     -   Graceful Flame can now be casted in the depths. Graceful Flame passively restores sanity and health to those around it.
     -   Merged with the old Soundness of Mind Talent.
-    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
+    -   Prerequisites: Azure Flames, 40 Willpower, Graceful Flame
 
 ### Unstable Capacitor
 
