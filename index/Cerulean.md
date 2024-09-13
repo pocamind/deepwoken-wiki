@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 110682
+revid: 112552
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -19,7 +19,7 @@ categories: [NPCs, Oaths]
 
 ## Description
 
-**Cerulean** is a ??? [Celtor](Celtor.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He starts you on the Oathless quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+**Cerulean** is a Marten(?) [Celtor](Celtor.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He starts you on the Oathless quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
 
 Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic](Mystic.md), head right until you see a log tunnel. Inside the log hides a passageway into a dimly lit cave. He is located there.
 
@@ -184,7 +184,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 
 ## Trivia
 
--   His [Celtor](Celtor.md) race variant is ???.
+-   His [Celtor](Celtor.md) race variant is Marten(?).
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Cerulean City_](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Saffron](Saffron.md), [Celadon](Celadon.md), and [Viridian](Viridian.md).
 -   Cerulean usually means the shade of the color blue.

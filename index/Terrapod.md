@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 111802
+revid: 112566
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -31,46 +31,120 @@ It struggles with reaching high places due to not being able to jump very high. 
 
   
 
-## **Moves**
+## Moves
 
-| Name |  | GIFs | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Quick Slash** | The Terrapod does a singular slice at its opponent and then quickly retreats. | 
+| Name/Danger | Description | GIFs |
+| --- | --- | --- |
+| 
+**Quick Slash**  
+(★☆☆)
+
+ | The Terrapod does a singular slice at its opponent and then quickly retreats.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
 File:1 swing.gif
 
- | ◯ | ◯ | ◯ | (★☆☆) |
-| **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | 
+ |
+| 
+
+**Triple Slash**  
+(★★☆)
+
+ | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
 
 File:Headcrab 3 swings.gif
 
- | ◯ | ◯ | ◯ | (★★☆) |
-| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | 
+ |
+| 
+
+**Relentless Strikes**  
+(★★★)
+
+ | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
 
 File:A lot of swings (online-video-cutter.com).gif
 
- | ◯ | ◯ | ◯ | (★★★) |
+ |
 
 **Crimson:**
 
 Template:Creature Infobox V3
 
-## **Description**
+## Description
 
 The Terrapod is a [monster](Monsters.md) notorious for having weird parry timings and attack animations, having very high movement during attacks and shredding health quickly if you're not careful.
 
 Crimson Terrapods are similar to their purple counterparts but are dyed a crimson red. They seem to have undergone a metamorphosis which turns their shell a blood-red and makes their claws much more deadly. Their ability to swim hasn't gotten any better though.
 
-## **Moves**
+## Moves
 
-| Name |  | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Cruentare** | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | N/A | N/A | N/A | (★★★) |
-| **Quick Strike** | The Terrapod does a singular slice at its opponent and then quickly retreats. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
-| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Cruentare**  
+(★★★)
+
+ | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. |
+| 
+
+**Quick Strike**  
+(★☆☆)
+
+ | The Terrapod does a singular slice at its opponent and then quickly retreats.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Triple Slash**  
+(★★☆)
+
+ | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Relentless Strikes**  
+(★★★)
+
+ | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.  
 Deals insane posture damage.
 
- | ◯ | ◯ | ◯ | (★★★) |
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
 
 ## Finisher
 

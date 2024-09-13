@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 112516
+revid: 112529
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Monsters]
@@ -74,7 +74,7 @@ Dodgeable◯
 Cursed Flame  
 (★☆☆)
 
- | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge/parry when you hear this. ~Must be dodged.~ This attack is parryable, but it's hard to parry every single proc of the attack. It's recommended to just dodge if you're inexperienced with fighting this, because if you don't parry every dingle proc you'll be set on fire. Not very dangerous if you parry at least some of the procs or just dodge the attack.
+ | The Nightmare Thresher breathes black and green flames in front of itself.
 
   
 Parryable:◯  
@@ -87,7 +87,7 @@ Dodgeable◯
 Ram  
 (★★☆)
 
- | The Nightmare Thresher bites you, before leaping backwards and jumping into the air with a sound cue. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. Has a similar danger level as the tail swipe attack, as both will ragdoll you. Parryable if you know the timing well, but just dodge if you're inexperienced with this attack.
+ | The Nightmare Thresher bites you, before leaping backwards and jumping into the air.
 
   
 Parryable:◯  

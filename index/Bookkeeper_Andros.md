@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 112287
+revid: 112558
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrean Luminant]
@@ -60,23 +60,39 @@ Bookkeeper Andros is an NPC located at the [Etris](Etris.md) library, near the i
   <td colspan="12">These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the old world. Don't you wonder what things were like back then?</td>
 </tr>
 <tr>
-  <td colspan="4">Is there anything you can tell me about Etris?</td>
-  <td colspan="4">Is there anything you can tell me about the old world?</td>
-  <td colspan="4">End</td>
+  <td colspan="6">Is there anything you can tell me about Etris?</td>
+  <td colspan="6">Is there anything you can tell me about the Old World?</td>
 </tr>
 <tr>
-  <td colspan="4">If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
-  <td colspan="4">There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of knowledge of the Old World. Perhaps if you were aeble to find one of those Old Stewards they might be able to answer any burning questions of yours.</td>
+  <td colspan="6">If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
+  <td colspan="6">There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of the knowledge of the Old World. Perhaps if you were able to find one of these Old Stewards they might be able to answer any burning questions of yours.</td>
 </tr>
 <tr>
-  <td colspan="4">Who is this lord regent exactly?</td>
-  <td colspan="4">End</td>
+  <td colspan="6">Who is this Lord Regent exactly?</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="4">The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
+  <td colspan="6">The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="6">Do you know anything about his rise to power? A guard I met is curious about what has become of Etreans politics.<br>
+  (Unlocks when on the Duke questline)</td>
+</tr>
+<tr>
+  <td colspan="6">What's perhaps more interesting is that we <i>don't</i> know all too much about his rise to power. Before his rise to power, there was an officially recognised historian in the Etrean court. I had once hoped that I myself could fill such a position, but it no longer exists. It's said that when the Lord Regent came to power, half of the books in the libraries disappeared overnight.</td>
+</tr>
+<tr>
+  <td colspan="6">Do you know what happened to those records?</td>
+</tr>
+<tr>
+  <td colspan="6">It didn't seem wise to make a fuss over them. They were simply articles of public knowledge at the time, so I doubt they were stolen or anything like that. Whatever became of them is clearly nothing of anyone's business, so I recommend you don't dig further either.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   You could theorize him to be a Celtor, considering the fact that he has green eyes.

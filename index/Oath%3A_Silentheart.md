@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112519
+revid: 112559
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,11 @@ categories: [Oaths]
 
 **[Oath](Oaths.md): Silentheart** is one of the 14 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
 
-Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song -hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgomated, blashpemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreadstar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God Yun'Shul, the Keeper of Hearts.
+“ You feel as though a part of yourself has drifted away, into the vast nothingness of the Song. As sudden as this sensation arrived, a new piece of you took place. This heart beats differently, it drums to the beat of the world, not the Song, ever silent. ”
+
+― Obtaining Silentheart
+
+Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song -hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgomated, blashpemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreads tar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God Yun'Shul, the Keeper of Hearts.
 
 ## Obtainment
 

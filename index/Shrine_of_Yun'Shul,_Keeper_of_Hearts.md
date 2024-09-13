@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 111158
+revid: 112527
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -32,7 +32,8 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't apply on the first Wish.
     -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md), which also grants a wish, or by removing it at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge.
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
-    -   A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge. Wishes do stack, so if you get your Resonance at Power 18 or higher you will be able to get another wish ( the use of [Misérables](Misérables.md) or the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) can also acumulate wishes.)
+    -   A wish can be obtained by levelling up 3 times, the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge. You can accumulate wishes through Misérables as many times as you want, though the more wishes you have accumulated, the more costly each repeating purchase becomes.
+    -   Wishes do not stack (Without the use of [Misérables](Misérables.md)), so if you get your Resonance at Power 18 or higher you will be unable to get another wish. Though the use of [Misérables](Misérables.md) or the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) circumvents this.
     -   Wishes are also occasionally reset on patch updates.
 
   
@@ -57,6 +58,7 @@ If you meet all the criteria, you are able to make one of six wishes:
 ## Trivia
 
 -   Originally, only [Oathless](Oath%253A_Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
+-   You are combat tagged immediately upon speaking to Yun'Shul’s shrine without a Resonance, making it impossible to survive.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
 -   There is an [Enchantment](Enchantments.md) named after Yun'Shul, the Curse of Yun'Shul.

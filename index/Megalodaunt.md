@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 112498
+revid: 112564
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,7 +17,7 @@ _This might have not been the page you were looking for, if you were looking for
   
 Template:Creature Infobox V3
 
-## **Description**
+## Description
 
 The Megalodaunt is a giant humanoid shark [monster](Monsters.md) commonly found in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and in _[The Depths](The_Depths.md)_.
 
@@ -42,7 +42,7 @@ In addition to be found wandering around various places or loitering around in s
 | Name/Danger | Description | GIF |
 | --- | --- | --- |
 | 
-Slash  
+**Slash**  
 (★☆☆)
 
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
@@ -60,7 +60,7 @@ Dodgeable:◯
  |
 | 
 
-Kick  
+**Kick**  
 (★★☆)
 
  | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
@@ -81,7 +81,7 @@ Dodgeable:◯
  |
 | 
 
-Thousand Needles  
+**Thousand Needles**  
 (★☆☆)
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
@@ -98,7 +98,7 @@ Dodgeable:◯
  |
 | 
 
-Roar  
+**Roar**  
 (★★☆)
 
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
@@ -114,7 +114,7 @@ Dodgeable:◯
 
  |
 
-## **Finisher**
+## Finisher
 
 | Name | Description |
 | --- | --- |
@@ -129,7 +129,7 @@ Dodgeable:◯
 
 -   **Monster Resistance:** Has an innate ~25% resistance to physical hits.
 
-## **Gallery**
+## Gallery
 
 There are **10** images, be warned
 

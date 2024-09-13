@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 112526
+revid: 112546
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -142,3 +142,4 @@ Completing her sidequest will reward you with EXP, positive Etris reputation, an
 -   For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on Youtube.
 -   If you complete the quest, you will get a line of text that says, "Your compassion is growing..." (TAKES UP THE COMPASSION PATH AND GIVES YOU A TALENT DRAW)
 -   It is also suspected that [Ilji](Ilji.md) is in the depths or could be in layer 2 floor 2 like [Kennith](Kennith.md).
+-   She is a File [Etrean](Etrean.md)
