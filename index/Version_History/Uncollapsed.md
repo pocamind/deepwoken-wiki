@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 112398
+revid: 112674
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,6 +16,72 @@ The update highest on the webpage (the one right below the legend) is the most r
 [Regular](2026.md)**Uncollapsed**
 
   
+
+## **September 13th, 2024**
+
+**Content & Systems**  
+• New Chainwarden Mantra: Impel  
+• New Equipment Set (Arms/Legs): Abyss Wanderer, designed by IronKronoXD  
+• New Equipment: Simmerbloom Diadem  
+• New Unique Equipment Talent: Simmerbloom  
+• New Equipment: Ignition Gauntlets  
+• New Ignition Delver Talent: Union Pager; a handset that lets you remotely take on jobs  
+• New Advanced Talent: Switchblade  
+• New Spark: Reversal Rupture  
+• Your Parry cooldown duration is now visible above your posture bar  
+• The settings screen now scales with your screen resolution and has a scrollbar  
+• Equipment Dye will now apply to particle effects present on the Equipment  
+  
+**Silentheart: Unparalleled Vengeance Rework**  
+• New Talent: Flow State  
+• New Talent: Unmatched Dexterity  
+• New Talent: Relentless Hunt  
+• New Talent: Rising Star  
+• New Talent: Mayhem  
+• Silentheart now subtracts 25 from the Weapon Stat requirement of weapons. e.g. If you have 50 HVY you can wield weapons that require 75 HVY  
+• Lodestar has been removed  
+• Mani Katti has been replaced with Rising Star  
+• Silentheart no longer innately has 10% Mantra resistance  
+• Dread Stacks no longer give a damage multiplier to your M1's and crits  
+  
+**Voidwalker Changes**  
+• You can once again speak with the Voidmother to depart the Voidheart while in combat, but doing so will create a rift that will take you to a random location. Others can follow you through these rifts to give chase  
+• The Voidheart is no longer a Spawn Location/Inn. New Voidwalkers still spawn at the Voidheart when they spawn in for the first time, but your Spawn Location/'Inn' by default is Erisia. Naturally, you can still access the Voidheart via your Voideye  
+• The Voidheart has shrunk somewhat, with the Dusklit Garden being removed and its Blacksmith relocating to the main hall. The Void is unpredictable and ever-shifting  
+• You can no longer place Guild Bases while on a Voidwalker hunt. Some NPC's are unavailable while on a Voidwalker hunt  
+• Dying now resets your Voideye and Grasp cooldowns  
+• Grasp of Eylis ESP highlight is now red, reappears more often. Now appears even when your target isn't close to escaping  
+  
+**Balancing & Tweaks**  
+• Blockstun duration for those hitting blocks is now based on the attacker's swingspeed. The base is 0.2s, with 0.9x swingspeed weapons having 0.25s of blockstun, and 1.1x swingspeed weapons having 0.15s of blockstun. Previously, HVY weps in general had 0.35s of blockstun, and LHT weps didn't have any blockstun  
+• LVL 10 req added to Celtor Commander Plate, Ironsinger Heavy Plate, Etrean Siege Cuirass, Grand Authority Plate, Hive Scourge Cuirass, Legion Phalanx Plate, Moonseye Gauntlets, Providence Coat, Imperial Pauldrons, Warden Pauldrons, Deepwoken Cloak, Assassin Cloak  
+• LVL 10 req added to Khan Helmet, Authority Helm, Blackleaf Helm, Pale Assassin's Hood  
+• LVL 10 req added to Imperial Boots  
+• LVL 6 req added to Glassdancer Wraps  
+• LVL 6 req added to Gladiator Helm, Investigator's Hat, Knight's Helm  
+• LVL 6 req added to Flameguard Boots, Bluesteel Boots, Silver Sabatons, Tracker's Boots, Vanguard Boots, Woodland Boots  
+• Reduced the knockback on Chainlash (buff, allows for combos)  
+• Chainlash posture damage increased  
+• Chainlash now only displays hit effects if you actually hit your opponent  
+• Float Like a Butterfly now has a 5 second cooldown. To compensate, it now deals true damage  
+• Float Like a Butterfly can no longer backstab  
+• Charged Return damage buff reduced (20% -> 15%)  
+• Flame Within damage buff increased (5% -> 10%), as Charged Return got nerfed  
+• Added invisible walls to Echoes of Bloodshed as polled  
+• Added invisible walls to The Condemned Archives as polled  
+• Added damage modifier values to the descriptions of a variety of Talents and Mantras  
+  
+**Bugfixes & Optimization**  
+• Fixed a very long-standing issue with combat tags where kill credit wasn't correctly assigned. Kill contributions still worked completely fine, but the ultimate credit for who got the kill wasn't always correct, effectively being random. Kill credit prioritised players over mobs/environment correctly, but didn't prioritise for who did the most damage correctly. This fixes bounties going to the wrong player, PvP score going to the wrong guild, and a lot of other things. Whenever some guy m1'd you once and got credit for the kill instead of the demon who did 90% of your health, it was probably this bug  
+• Fixed a very long-standing issue of tools in your inventory not always being categorised correctly  
+• Fixed Shrine of Chance overwriting special hands like your Resonance roll  
+• Optimized client-side tool categorisation  
+• Fixed not being able to get Deepshore Fossil with Ignition Delver Origin  
+• Fixed hitting your own Metal Rampart  
+• Fixed Explosive Rage proccing without the talent  
+• Fixed not being able to sell Gold Plates  
+• Fixed Flintlocks/Pistols not counting as LHT weapons in a few interactions  
+• New Outfit: Ignition Trailblazer
 
 ## **September 6th, 2024**
 
@@ -74,6 +140,12 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Training Gear is now available in the Dungeon lobby (the bit where you first step onto the drill)  
 • Using the Radio in the Deepdrill now returns you to the lobby, letting you rest and access the amenities there  
 • Added a Blacksmith, Antiquarian, Mystic, Mantra Table, and Crafting Table to the Deepdrill lobby
+
+### _**Patch 1.9.3**_
+
+• The ELO algorithm for Chime 1v1's has been adjusted to be less punishing on a loss, especially against players with a very different ELO to you. This does also mean that your rating gain from winning has been reduced slightly, though the system is designed moreso to reduce the punishment of losing  
+  
+• Changed up ELO again to have better win scores. Will mean that loss penalties go up a bit too
 
 ## **August 30th, 2024**
 

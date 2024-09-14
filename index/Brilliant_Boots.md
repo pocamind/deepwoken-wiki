@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 109853
+revid: 112640
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -28,7 +28,7 @@ categories: [Equipment, Legs, Boots]
 
 Brilliant Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. They can be found through chests in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md) & [Minityrsa](Minityrsa.md).
 
-Brilliant Boots are part of the "**Brilliant**" set; with the other armor pieces being the **[Brilliant Pauldron](Brilliant_Pauldrons.md)** and the **Brilliant Cape**.
+Brilliant Boots are part of the "**Brilliant**" set; with the other armor pieces being the **[Brilliant Pauldron](Brilliant_Pauldrons.md)** and the **[Brilliant Cape](Brilliant_Cape.md)**.
 
 ## Trivia
 

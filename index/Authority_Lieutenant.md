@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 111093
+revid: 112641
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](The_Starswept_Valley.md).
 
-Their appearance consists of a Authority Captain Uniform, a Shrouded Cape and, unusually for an Authority member, [Polarised Sunglasses](Eyeglasses.md). They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>). Their race can only be an [Adret](Adret.md).
+Their appearance consists of a Authority Captain Uniform, a Black Shrouded Cape and, unusually for an Authority member, [Polarised Sunglasses](Eyeglasses.md). They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>). Their race can only be an [Adret](Adret.md).
 
 ## Moveset
 

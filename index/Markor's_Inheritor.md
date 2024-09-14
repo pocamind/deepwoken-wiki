@@ -1,9 +1,9 @@
 ---
 title: "Markor's Inheritor"
-revid: 107200
+revid: 112661
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Central Authority]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority]
 ---
 
 # Markor's Inheritor

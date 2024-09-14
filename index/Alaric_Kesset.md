@@ -1,9 +1,9 @@
 ---
 title: Alaric Kesset
-revid: 112239
+revid: 112615
 source: https://deepwoken.fandom.com/wiki/Alaric_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Naval personnel of The Central Authority, The Central Authority]
+categories: [Naval personnel of The Central Authority]
 ---
 
 # Alaric Kesset

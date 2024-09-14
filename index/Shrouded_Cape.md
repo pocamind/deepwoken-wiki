@@ -1,6 +1,6 @@
 ---
 title: Shrouded Cape
-revid: 109846
+revid: 112635
 source: https://deepwoken.fandom.com/wiki/Shrouded_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso, Capes]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | 1 Rare Pip , +1 Legendary Pip |
+| innate stats | +5% Stealth , 1 Rare Pip, 1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

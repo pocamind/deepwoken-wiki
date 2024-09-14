@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 112602
+revid: 112609
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from mimic chests after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you.
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from [Mimic Chests](Chests_&_Sacks.md) after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you.
 
 While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
 
@@ -146,14 +146,13 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   The Nautilodaunt cannot vent in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 -   The Nautilodaunt is likely inspired by the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans. Dagon from Jujutsu Kaisen also bears similarity to the Nautilodaunt.
 -   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).
--   When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
--   Spawns roughly every 18 minutes.
+-   When it isn't in combat, it will automatically begin healing, going from 250 to full health within a matter of seconds.
+-   It spawns roughly every 18 minutes.
 -   [Mortus](Mortus.md) mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
 -   The vent it uses was the old vent before Deepwoken's release.
--   Nautilodaunts can spawn in the overworld via [Mimic chests](Chests_&_Sacks.md)
--   If encountered in the overworld, it has the ability to swim, however does not possess a swimming animation.
--   They are named after the Nautilus, a family of shelled cephalopods.
--   Is internally referred to as ".squidward[\[1\]](#cite-note-1)"
+-   If encountered in the overworld, it has the ability to swim. However, it does not possess a swimming animation.
+-   It is named after the Nautilus, a family of shelled cephalopods.
+-   It is internally referred to as ".squidward[\[1\]](#cite-note-1)"
 
 ## References
 

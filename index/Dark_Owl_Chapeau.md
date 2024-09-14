@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 111789
+revid: 112642
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -31,5 +31,5 @@ The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" categ
 ## Tips/Trivia
 
 -   Can be useful as a swapout for PvE on a PvP build that did not take Giantslayer, due to the innate Talent.
--   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and Dark Owl Cape.
+-   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and [Dark Owl Cape](Dark_Owl_Cape.md).
 -   "Chapeau" is French for "Hat."

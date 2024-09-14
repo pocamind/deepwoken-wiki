@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 110267
+revid: 112657
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -38,23 +38,24 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 ## Drops
 
--   [Headbands](Headband.md) (all colors) (Common)
+-   [Headbands](Headband.md) (Black, Blue, Green, White) (Common)
 -   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>) (Common)
--   Scarves (Common)
--   Gladiator Helmet (Common)
+-   Black Scarf (Common)
 -   [Diamonds](Treasures.md) (Common)
 -   [Platinum Bars](Treasures.md) (Common)
 -   [Justicar Defender Coat](Justicar_Defender_Coat.md) (Rare)
--   [Shattered Katana](Shattered_Katana.md) (Rare)
+-   [Authority Commander Coat](Authority_Commander_Coat.md) (Rare)
+-   [Adjudicator's Coat](<Adjudicator's_Coat.md>) (Rare)
+-   [Shattered Katana](Shattered_Katana.md) (Rare) (?)
 -   [Iron Birch](Iron_Birch.md) (Rare)
 -   [Finisher's Ring](Equipment.md#rings) (Very rare)
 -   [Moon Ring](Moon_Ring.md) (Very rare)
 -   [Akira's Ring](<Akira's_Ring.md>) (Very rare)
 -   [Deepfire Ring](Equipment.md#rings) (Very rare)
 -   [Maestro's Ring](Equipment.md#rings) (Very rare)
--   [Mist Assassin Cloak](<Assassin's_Cloak.md>) (Extremely rare)
--   [Gold Assassin Cloak](<Assassin's_Cloak.md>) (Extremely rare)
--   [Crimson Assassin Cloak](<Assassin's_Cloak.md>) (Extremely rare)
+-   [Armorer's Ring](<Armorer's_Ring.md>) (Very rare)
+-   [Assassin's Hood](<Assassin's_Hood.md>) (Mist, Gold, Crimson) (Very rare)
+-   [Assassin's Cloak](<Assassin's_Cloak.md>) (Mist, Gold, Crimson) (Extremely rare)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 112396
+revid: 112670
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -415,6 +415,7 @@ Some players have access to customized, unique names.
 -   Michael
 -   Mike
 -   Minos
+-   MlgDude1oof
 -   Moash
 -   Mordred
 -   Murphy

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112578
+revid: 112651
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -12,6 +12,8 @@ categories: [Oaths]
 |---|---|
 | oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health, +10% Mantra Resistance |
+
+g
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
@@ -133,7 +135,6 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
     -   Both [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) and [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) reference obtainable classes in different _Fire Emblem_ games.
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
-        -   (Mani Katti = Many Cuts)
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
 
 ## References

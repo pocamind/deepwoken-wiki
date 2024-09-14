@@ -1,9 +1,9 @@
 ---
 title: Warden Pauldrons
-revid: 107557
+revid: 112667
 source: https://deepwoken.fandom.com/wiki/Warden_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons, The Central Authority]
+categories: [Equipment, Arms, Pauldrons, Equipment of The Central Authority]
 ---
 
 # Warden Pauldrons
