@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 112133
+revid: 112724
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,6 +44,7 @@ A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Bru
     -   Natural health regen is not affected, artificial health regen is.
     -   In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
         -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is bumped up to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
+-   **Sturdy** - The Broodlord remains posture broken for much less time compared to other monsters.
 -   **Advanced Knowledge** - Unlike other monsters, the Broodlord is able to parry multiple mantras that attack from a far range, such as Blinding Dawn, Caltrops, Tornado, and many others.
 
 Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's healing is nullified by Broodlord's Rot. Confirms that Broodlord's Rot is 100% in the Diluvian.

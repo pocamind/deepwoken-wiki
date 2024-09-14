@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 106634
+revid: 112691
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies, Etrea]
@@ -12,26 +12,73 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Vigil Swordsman is a type of enemy NPC found in [Lower Erisia](Lower_Erisia.md) and [Starswept Valley](The_Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Vigil Swordsmen's clad is colored white. They can be found in the following [Random Encounters](Random_Encounters.md):
+The Vigil Swordsman is a type of enemy NPC found in [Lower Erisia](Lower_Erisia.md) and [Starswept Valley](The_Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Vigil Swordsmen's clad is colored white. They can be found in the following [Random Encounters](Random_Encounters.md):
 
 -   Vigil Swordsmen vs Authority Officers ([Erisia](Erisia.md))
 -   Vigil Swordsmen vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
--   Etrean ambush event (Anywhere)
+-   Etrean Ambush event (anywhere)
 
 ## Moveset
 
-A Vigil Swordsman's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) along with the [Galebreathe](Galebreathe.md) attunement:
+The Vigil Swordsman's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (☆☆☆) |
-| Critical | Performs a windup before thrusting blade forward. | ◯ | ◯ | (★☆☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
-| Wind Blade | User shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(☆☆☆)
+
+ | Firmly swings blade at opponent and continues to combo them until knocked.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Critical**  
+(★☆☆)
+
+ | Performs a windup before thrusting their blade forward.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Gale Lunge**  
+(★☆☆)
+
+ | Lunges forward with their weapon coated in wind.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Wind Blade**  
+(★☆☆)
+
+ | Shoots out an arc of gale.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
 
 ## Finisher
 
-A Vigil Swordsman executes its opponent after knocking them:
+The Vigil Swordsman executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

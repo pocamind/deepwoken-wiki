@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 112577
+revid: 112678
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -60,9 +60,9 @@ Locate a building near the walls of the city, and create an immense tower of bar
 
 _This method is no longer the recommended strategy for reaching the elevator._
 
-**Method 4:** **Gliding**
+### Method 4: Gliding
 
-Find a rock, cliff, or something in a high place, and glide onto the wall. Though be careful with this method, as Gigameds (aka "Jellyfish) can jump extremely high, and hit you causing you to fall. This may send you to Layer 2, or lead to death from fall damage. (Only works if you have a glider)
+Find a rock, cliff, or another high place, and use a glider to reach the top of the wall. Be careful with this method, as Gigameds (Jellyfish) can jump extremely high, and can hit you out of glide. This may send you to Layer 2, or lead to death from fall damage.
 
 ## First Layer: The Trial
 

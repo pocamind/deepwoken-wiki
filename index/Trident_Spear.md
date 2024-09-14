@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 109209
+revid: 112680
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals]
@@ -54,7 +54,6 @@ The Trident Spear is a midgame medium weapon in the form of a three-pronged spea
 
 ## Critical
 
-  
 The user winds up before charging forward with the weapon, dealing damage multiple times.
 
 The critical has a cooldown of **5 seconds**.

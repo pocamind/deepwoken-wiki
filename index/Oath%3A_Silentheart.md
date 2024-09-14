@@ -1,9 +1,9 @@
 ---
 title: "Oath: Silentheart"
-revid: 112651
+revid: 112752
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Silentheart
@@ -11,9 +11,7 @@ categories: [Oaths]
 | Oath: Silentheart | |
 |---|---|
 | oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
-| effects | +2 Posture, +10 Health, +10% Mantra Resistance |
-
-g
+| effects | +2 Posture, +10 Health |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
@@ -27,7 +25,7 @@ g
 
 ― Obtaining Silentheart
 
-Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song -hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgomated, blashpemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreads tar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God Yun'Shul, the Keeper of Hearts.
+Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song- hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgamated, blasphemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreadstar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God Yun'Shul, the Keeper of Hearts.
 
 ## Obtainment
 
@@ -35,7 +33,7 @@ Meet the following requirements in any order:
 
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
--   Have 40 points in either Charisma or Agility
+-   Have 25 points in either Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
@@ -61,7 +59,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 
 ## Effects
 
--   +10% mantra resistance.
+-   Ability to wield weapons with 25 investment points lower than its weapon stat requirement.
 -   **Entirely lose access to cast mantras**, including learned (or future) mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
@@ -69,42 +67,54 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 
 ## Abilities
 
+-   **Ankle Cutter - Passive**
+    -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+        -   Damage and speed of the attack scales on your weapon.
+        -   Can be used while sliding down slopes at no cost to your speed.
+        -   5 seconds cooldown.
+
+-   **Dread Fighter - Passive**
+    -   Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
+        -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
+        -   Stacks up to ? times and each stacks grant ?% mantra resistance.
+
+  
+
+-   **Flow State - Active**
+    -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
+        -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
+        -   Given as a talent tool.
+        -   Active for 1 second. ??s CD.
+
+-   **Mayhem - Passive**
+    -   Initiate a special dash attack by pressing M1 during the start of your dodge.
+        -   Movesets differ depending on the weapon type.
+
 -   **Merciless Blade - Passive**
     -   You can now execute enemies much faster.
         -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
         -   Comes with the Oath.
 
--   **Dread Fighter - Passive**
-    -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 10%, and mantra resistance up to 15%, however, upon being hit by a Mantra, you lose one stack of Dread.
-        -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-        -   Stacks up to 3 times and each stacks grant 3% mantra resistance and 2% damage buffs.
+-   **Relentless Hunt - Passive**
+    -   M1 while doing an Aerial Attack to initiate a special gap closer attack.
+        -   Can be used at a great range.
+        -   Movesets differ depending on the weapon type.
 
--   **Lodestar - Passive**
-    -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
-        -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
+-   **Rising Star - Passive**
+    -   Press CTRL + M2 to activate a special uppercut attack
+        -   Movesets differ depending on the weapon type.
 
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
             -   If you have used Dyes, instead turns your vents to your tattoo colour.
 
--   **Ankle Cutter - Passive**
-    -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
-        -   Damage and speed of the attack scales on your weapon.
-        -   Can be used while sliding down slopes at no cost to your speed.
-        -   5 seconds cooldown.
-
--   **Mani Katti - Active**
-    -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
-        -   Is activated by using Crouch + Feint, though this is most commonly "Ctrl + M2"
-        -   Does not consume Dread stacks to use.
-        -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
-        -   Deals 7 posture damage per hit.
-        -   Is 360 degree blockable.
-        -   2 seconds cooldown.
+-   **Unmatched Dexterity - Passive**
+    -   Press X to Quick Swap between weapons within your toolbar.
+        -   Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.
 
 -   **Vengeful Pursuit - Passive**
-    -   Your running attacks that miss send out a mid-range crescent projectile that slows on hit.
+    -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
         -   8 seconds cooldown.
 
 ## Notes
@@ -120,7 +130,13 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
 -   Mani Katti is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti.
+    
+    File:Unmatched Dexterity alongside old talents.png
+    
+
 -   If Dreadstar doesnt't appear, interact with one of the Ghosts on the ship.
+
+-   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ talent card with a different description alongside the old talent set. (image attached)
 
 ## Trivia
 
@@ -130,12 +146,13 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
 -   Ankle Cutter is a reference to Ankle Cutter from _Black Desert Online._
--   Several terms related to the Silentheart Oath reference the _Fire Emblem_ series.
+-   Several terms related to the Silentheart Oath before its rework reference the _Fire Emblem_ series.
     -   The Beloved Zofia references Celica's [weapon of the same name](https://fireemblem.fandom.com/wiki/Beloved_Zofia) in _Fire Emblem Echoes: Shadows of Valentia_.
     -   Both [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) and [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) reference obtainable classes in different _Fire Emblem_ games.
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
+-   Silentheart was reworked on 2024-09-13's Weekly update.
 
 ## References
 

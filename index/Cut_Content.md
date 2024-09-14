@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 111748
+revid: 112718
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -39,6 +39,10 @@ This page is about content that has either been removed or changed drastically i
     -   Replaced with Advanced Cards in the December 23rd, 2022 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
     -   Was removed on the December 23rd, 2022 Verse 2 Update.
+
+## Oaths
+
+-   **([OLD](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy + boring. Reworked on the 13th of August 2024, the old version can be found [Here](Oath%253A_Silentheart/Old_Silentheart.md).
 
 ## Mantras
 

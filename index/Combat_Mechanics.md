@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 111747
+revid: 112746
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,10 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
   The player will lose one life on death (excluding <a href="Echoes.md#modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
-  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure></td>
+  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure>
+  <ul>
+    <li>Spitting with <kbd>T</kbd> on Humanoids also restores ~5% of your HP. (Not recommended as you'll be forced to stand still for the taunt).</li>
+  </ul></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
@@ -36,7 +39,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <ul>
     <li>Posture decreases if the player lands parries and/or stops blocking.</li>
     <li>When blocking while in shaky/weak block frames, your posture bar glows red to indicate that your block isn't full yet.</li>
-    <li>Spitting with <kbd>T</kbd> on NPCs also restores posture by a great amount. (Not recommended as you'll be forced to stand still for the taunt)</li>
+    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount. (Not recommended as you'll be forced to stand still for the taunt).</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -240,10 +243,11 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>Tapping the <kbd>F</kbd> key causes your character to enter a stance of deflection for a moment. Enemies hitting you during this timeframe causes them to be parried, causing them momentary stun and posture damage, as well as reducing your posture on a successful parry.<p>Successful parries gives your character brief frames of auto-parry in which all incoming attacks are parried automatically. Parrying also resets its cooldown so that you may parry immediately again. <i><b>It's also possible to attack during it's auto-parry frames, but this is difficult to do safely.</b></i> Parrying will cancel all attacks (except for some monster attacks), as well as the damage for that attack, even if they come from behind your character. <i><b>However, this is not the case for Blocking (see below).</b></i></p>
+  <td>Pressing the <kbd>F</kbd> key causes your character to enter a stance of deflection for a moment. Enemies hitting you during this timeframe have their attacks parried, causing them to be momentarily stunned and dealing posture damage to them, as well as reducing your own posture. It should be noted that whether your tap or hold <kbd>F</kbd> doesn't matter, as it will result in a parry at the beginning of the button press regardless.<p>Successful parries gives your character brief frames of auto-parry in which all incoming attacks are parried automatically. Parrying also resets its cooldown so that you may parry immediately again. <i><b>It's also possible to attack during it's auto-parry frames, but this is difficult to do safely.</b></i> Parrying will cancel all attacks (except for some monster attacks), as well as the damage for that attack, even if they come from behind your character. <i><b>However, this is not the case for Blocking (see below).</b></i></p>
   <p><br>
   <i>Parrying has a 1.4 second cooldown. If you miss your parry, you may hold <kbd>F</kbd> to Block and nullify/reduce any imminent damage you would otherwise take for missing the parry.</i></p>
-  <p>Parrying physical attacks like Mantras or M1s will completely interrupt your opponents action, even if the animation continues. So, without their action getting in the way of their parry, they are able to parry whatever move you throw out next. This does not apply to all mantras however, especially projectile based ones. You may alternatively attempt to roll their mantra which MAY have an 100% chance of an M1 if you throw it out quick enough.</p></td>
+  <p>Parrying physical attacks like Mantras or M1s will completely interrupt your opponents action, even if the animation continues. So, without their action getting in the way of their parry, they are able to parry whatever move you throw out next. This does not apply to all mantras however, especially projectile based ones. You may alternatively attempt to roll their mantra which MAY have an 100% chance of an M1 if you throw it out quick enough.</p>
+  <p><i>Whilst Blocking and Parrying share the same hotkey (<kbd>F</kbd>), you'll perform a parry instead of a block if a parryable attack hits you during parry frames. You can know when you're currently in a state of parry frames by taking note of your character's distinct stance and hearing a subtle "whoosh" sound immediately after pressing <kbd>F</kbd>.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -321,6 +325,11 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
   <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Taunt</th>
+  <td>By pressing <kbd>T</kbd>, you can perform a taunt, colloquially refered to as a "spit" or "spitting". When taunting, the player character spits directly in-front of them. Whilst initially unassuming, the taunt has a special application in combat.<p>By spitting while your face is right up against another Humanoid's face (or perhaps spitting towards a Humanoid whilst they're facing the opposite direction you are when they're a few studs away from you), their vision will be briefly blurred (exact amount of time unconfirmed) and you will heal ~5% of your health and restore a large sum of your posture (exact amounts unconfirmed). This is a risky maneuver, though, as taunting has a considerable amount of startup and endlag, and you're usually better off just attacking your opponent. Due to this glaring flaw, the Taunt should only be used as a method of, well, taunting foes you deem inferior, or perhaps even as a risky mixup. <i>Based on the name, it's possible that more taunts were meant to be added, but this is not confirmed by any developers. It's very likely that the developers simply wanted the Taunt to be a spit, though.</i></p></td>
   <td></td>
 </tr>
 </tbody>
@@ -479,5 +488,5 @@ The ally check can be disabled by turning on the "No Holds Barred" in-game setti
 
 -   The overall parry-based combat is heavily inspired by _Sekiro: Shadows Die Twice_, even possessing [Perilous Attacks](https://sekiroshadowsdietwice.wiki.fextralife.com/Perilous+Attacks) in the form of unparriable attacks. The inclusion and appearance of a [Posture Bar](https://sekiroshadowsdietwice.wiki.fextralife.com/Posture) is also very similar to _Sekiro_.
 -   The Health and Survival GUI has 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
--   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen. Spitting on guards angers them, but makes them say "Thanks." if you have high charisma (55 charisma).
--   Blocking and Parrying shares the same hotkey (F), and will prioritize parrying first then blocking the 2nd.
+-   Taunting/Spitting on passive NPCs angers them. If you have at least 55 Charisma, though, they will instead say thank you for spitting on them.
+-   Some people refer to Ragdoll Cancelling as a Tech/Teching, a reference to a common mechanic in FGC Games where if you block/parry right before hitting a surface whilst being launched, your movement will be cancelled, you'll leave hitstun, and you'll be able to act again almost immediately.

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112474
+revid: 112701
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -137,6 +137,7 @@ You can do Trial of One.
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>).
     -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex. layer 2, fisherman quest)...
     -   **\[CON\]** ...but reduced EXP Gain from anything else.
+-   Grants the Tool "Union Pager", allowing you to gain jobs from anywhere in the luminant remotely.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around aratel luminant

@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 112565
+revid: 112683
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Monsters]
 
 Template:Creature Infobox V3
 
-## **Description**
+## Description
 
 The result of a rare case where a Megalodaunt gets exposed to the Vents of Korilfied of the Third Layer, resulting in this unique species able to utilize [Flamecharm.](Flamecharm.md)
 
