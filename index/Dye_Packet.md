@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 111684
+revid: 112759
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -12,7 +12,7 @@ Dye Packet's GUI
 
 ## Description
 
-Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in one [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, or very rarely in [Merchant Ships](Travelling_Merchant.md) for around. It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dye can be removed at a [Barber](Barber.md), or Dye Remover can be bought for. The maximum Dye Packets that can be held per slot is ten but the [Item Bank](Item_Bank.md) can hold up to twenty. However, due to how withdrawing items from banks works, any Dye Packets in the bank over the stack capacity of 10 will be voided if withdrawn.
+Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in one [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, or very rarely in [Merchant Ships](Travelling_Merchant.md) for around. It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dye can be removed at a [Barber](Barber.md), or Dye Remover can be bought for. The maximum Dye Packets that can be held per slot is 99 but the [Item Bank](Item_Bank.md) can hold up to twenty (needs testing). However, due to how withdrawing items from banks works, any Dye Packets in the bank over the stack capacity of 99 will be voided if withdrawn. (needs testing)
 
 File:Pinkheart.png
 

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112701
+revid: 112767
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -126,7 +126,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 _**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld.
 
-Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the Summer Company enemies (may have to clear out at least 1 [Mechalodaunt](Mechalodaunt.md), I only had to kill 1) upstairs, then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
+Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the Summer Company enemies (which is oddly completed after defeating a random number of [Mechalodaunt](Mechalodaunt.md)s upstairs), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
 
 You can do Trial of One.
 
@@ -187,6 +187,7 @@ The following is speculation:
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[2\]](#cite-note-2)
 -   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectfully, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority) that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
+-   Ignition Delver is apparently hated on for being "overhyped" and "overrated".
 -   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
 

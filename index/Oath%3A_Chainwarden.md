@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 112688
+revid: 112768
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 14 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that increases in damage for each successful hit and can fling opponents.
+**[Oath](Oaths.md): Chainwarden** is one of the 14 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant true damage if used correctly.
 
 ## Obtainment
 
@@ -36,7 +36,7 @@ Up to an amount of two times in total can these corresponding methods be applied
 
 Known humanoids enemies are:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) (recommended)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Ferryman](The_Ferryman.md)
 
@@ -54,6 +54,11 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   Deals true damage.
     -   Applies a chain.
     -   **CURRENTLY BUGGED: BLOODLESS GEM DO NOT WORK WITH THIS MANTRA.**
+
+-   **Impel** - **Combat Mantra**
+    -   _Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains)._
+    -   There's a very small chance of Impel spawning a Bounty Hunter that attacks anybody in sight (Including the user).
+    -   PICTURE NEEDED
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
@@ -81,6 +86,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   If you break your oath using a Yunshul's wish at [Temple of Hearts,](Temple_of_Hearts.md) [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
 -   Currently, this is one of two Oaths where you cannot skip progression with knowledge. (The other being [Bladeharper](Oath%253A_Bladeharper.md).)
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.
+-   Chainwarden recently got a new Mantra in 9/14/2024, making the oath significantly better and an oath with 3 mantras.
 
 ## References
 

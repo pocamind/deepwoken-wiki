@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 112741
+revid: 112770
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Dungeon |
+| obtainment | Saramaed Hollow |
 | description | "..." |
 
 ## Description

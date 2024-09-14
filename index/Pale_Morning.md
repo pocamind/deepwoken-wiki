@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 109590
+revid: 112778
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -17,7 +17,7 @@ categories: [Weapons, Greathammers]
 | range | 9 |
 | swing speed | 0.83x |
 | endlag | 0.1s |
-| penetration | 20% |
+| penetration | 15% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
 | weight | 10 |
