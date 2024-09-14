@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112380
+revid: 112826
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -72,8 +72,14 @@ Loot is based on the type of mob you kill. It can be:
 -   [Delver's Duster](<Delver's_Duster.md>)
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+
 -   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
+
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
+
+-   [Ignition Gauntlets](Ignition_Gauntlets.md)
+
+-   [Simmerbloom Diadem](Simmerbloom_Diadem.md)
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot from [The Depths](First_Layer.md).
 

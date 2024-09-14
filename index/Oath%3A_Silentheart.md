@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112752
+revid: 112829
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 14 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
+**[Oath](Oaths.md): Silentheart** is one of the 14 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
 
 “ You feel as though a part of yourself has drifted away, into the vast nothingness of the Song. As sudden as this sensation arrived, a new piece of you took place. This heart beats differently, it drums to the beat of the world, not the Song, ever silent. ”
 
@@ -129,7 +129,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game without using glitches, as it requires the player to cast a Mantra. If you find yourself playing it, keep logging and joining back until you happen to not be playing it.
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
--   Mani Katti is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti.
+-   Mani Katti is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti (outdated as of 13/9/24).
     
     File:Unmatched Dexterity alongside old talents.png
     

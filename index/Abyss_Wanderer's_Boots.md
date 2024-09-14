@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 112783
+revid: 112792
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | obtainment | Saramaed Hollow |
 | description | None |
 
-## Abyss wanderer boots
+## Abyss Wanderer Boots
 
 The item has no description and i as of now only know to be obtained from [Saramaed Hollow](Saramaed_Hollow.md)
 

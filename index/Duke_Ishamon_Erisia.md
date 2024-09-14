@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 111634
+revid: 112793
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -391,7 +391,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke states he is a Virgo.
 -   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that the Duke is a member of the band "The Seal Unleashed" as the vocalist.
     -   Duke Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
--   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack. He is able to do this despite seemingly lacking the [talent](Talents.md) Bruiser's Mixup.
+-   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
 
 ## Bugs
 
