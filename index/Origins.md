@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112890
+revid: 112943
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -135,12 +135,13 @@ You can do Trial of One.
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 -   Grants the Innate Talent "Union Card"
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>).
-    -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex. layer 2, fisherman quest)...
-    -   **\[CON\]** ...but reduced EXP Gain from anything else.
--   Grants the Tool "Union Pager", allowing you to gain jobs from anywhere in the luminant remotely.
+    -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex: layer 2, Saramaed hollow, Duke, and Ferryman)
+    -   **\[CON\]** reduced EXP Gain from everything else.
+-   Grants the Innate Talent "Union Pager"
+    -   **\[PRO\]** Allows you to remotely accept jobs.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
 -   Grants the Ignition Union Talent "Union Hook"
-    -   **\[PRO\]** Useful for getting around aratel luminant
+    -   **\[PRO\]** Useful for getting around Eastern Luminant
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 
 ## Upcoming Origins

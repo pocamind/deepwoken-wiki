@@ -1,29 +1,158 @@
 ---
 title: Beiruul
-revid: 109539
+revid: 112949
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Enemies, Children of Navae Enemies, Children of Navae]
 ---
 
 # Beiruul
 
-Beiruul is just outside of [Meteor Isle](Meteor_Isle.md) and faces towards [Fort Merit](Fort_Merit.md)
+“ Change will come. No matter the cost. ”
 
-Where Beiruul is located relative to [Fort Merit](Fort_Merit.md).
+― Beiruul
 
-A gif of someone receiving [knowledge](Knowledge.md) after finishing Beiruul's quest.
+Template:EnemyInfobox1.0
 
-Beiruul is a [Gremor](Gremor.md) NPC located on the side of [Meteor Isle](Meteor_Isle.md) nearest to [Fort Merit](Fort_Merit.md).
+## Description
 
-Beiruul offers the user a [Quest](Quests.md). This quest involves raiding [Fort Merit](Fort_Merit.md) and killing guards. If you choose to accept, heading over to the side of Fort Merit nearest to Beiruul will cause Beiruul to spawn there alongside weakened [Authority Peacekeeper](Authority_Peacekeeper.md) at the top of the elevator. Killing all of these guards will allow you to finish the quest and receive two [knowledge](Knowledge.md) and Navae reputation from Beiruul.
+Beiruul is a Redwood [Gremor](Gremor.md) NPC located on the side of [Meteor Isle](Meteor_Isle.md) nearest to [Fort Merit](Fort_Merit.md), she rests under a tree above the docks of Meteor Isle. She wants to take revenge on the Central Authority for the constant harassment her people receive by it; choosing the correct dialogue responses will begin the Navae's Retribution sidequest.
 
-Once you complete the quest, return to Beriuul and she will grant you two knowledge.
+During the Navae's Retribution quest, she will fight alongside the player to defeat several [Authority Peacekeepers](Authority_Peacekeeper.md) and [Authority Officers](Authority_Officer.md).
 
-When fighting, Beiruul uses the [Way Of Navae](Fists.md) fist fighting style and [Frostdraw](Frostdraw.md) mantras, similar to a regular [Gremor Nomad](Eastern_Nomad.md).
+## Quest Details
 
-She has Fists of Fortitude and Fists of Navae as [Talents](Talents.md).
+Completing her sidequest will reward you with EXP, positive Children of Navae reputation, two [knowledge](Knowledge.md), and Bravery.
 
-Gripping Beiruul will **reduce your rep with the Children of Navae.**
+1.  Head over to the side of Fort Merit nearest to Beiruul.
+2.  Climb up Fort Merit with the elevator or the air vents.
+3.  Once having climbed up, Beiruul will spawn alongside several Authority Peacekeepers and Authority Officers.
+4.  Kill all of the weakened Authority Peacekeepers.
+5.  Return to Beiruul and interact with her.
 
-Beiruul has 3000 HP
+## Dialogue
+
+**First Encounter:**
+
+**Quest Start:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Tch. To think our enemy resides only a ferry ride away from here... It's sickening.</td>
+</tr>
+<tr>
+  <td colspan="6">I guess. What's the deal?</td>
+  <td colspan="6">I suppose you've all faced great hardship due to the Authority's actions.</td>
+</tr>
+<tr>
+  <td colspan="6">*She rolls her eyes at you.* Ignorant as ever... The Authority is ruthless, and the fact they've been able to proceed with their actions without consequence is disgusting.</td>
+  <td colspan="6">Acting sympathetic won't change anything, <i>Pathfinder</i>. There's no time for words anymore. Words won't change anything. The Authority is ruthless, and the fact they've been able to proceed with their actions without consequence is disgusting.</td>
+</tr>
+<tr>
+  <td colspan="12">Are you still seeking a greater change?</td>
+</tr>
+<tr>
+  <td colspan="12">I don't know, are you still seeking purpose in your life? I've had enough, Pathfinder. I'm tired. I don't want to see my people suffer for who knows what... and I see no other way to change this other than action.</td>
+</tr>
+<tr>
+  <td colspan="12">What sort of action?</td>
+</tr>
+<tr>
+  <td colspan="12">The only kind that matters. Taking the fight to their home-turf, Fort Merit. You Pathfinders have already done a great deal to save the Etrean prisoners from the prison complex, but for the town itself it remains unharmed. Attacking their barracks doesn't change that they still can function normally. Their town should be next.</td>
+</tr>
+<tr>
+  <td colspan="6">Very well. I can assist in the fight.</td>
+  <td colspan="6">Whatever.</td>
+</tr>
+<tr>
+  <td colspan="6">Surprising to hear, Pathfinder. You're courageously foolish, you know that? When you're ready.. come to the Fort, and we'll take them on. Rendezvous with me back here once we're done, alright?</td>
+  <td colspan="6">*<i>She scowls at you</i>.* Change will come. No matter the cost.</td>
+</tr>
+<tr>
+  <td colspan="6">End, Quest Accepted</td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Mmm.. the wind's calm today.</td>
+</tr>
+<tr>
+  <td colspan="6">[Siege completed]</td>
+  <td colspan="6">[Siege not completed]</td>
+</tr>
+<tr>
+  <td colspan="6">Are you satisfied? (+2 Knowledge)</td>
+  <td colspan="6">Where are we holding the siege?</td>
+</tr>
+<tr>
+  <td colspan="6">I suppose you could say that, Pathfinder. Thank you. It brings me at least some peace, I suppose...</td>
+  <td colspan="6">The main town of Fort Merit. Come there when you're ready to take on their primary guard force head on with me, then we'll rendezvous here.</td>
+</tr>
+<tr>
+  <td colspan="6">End, Quest Complete</td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I suppose it's time to rest, then.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+## Moveset
+
+Beiruul's arsenal consists of [Way of Nave](Fists.md) and the [Frostdraw](Frostdraw.md) attunement:
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| **Critical** | Raises right leg before firmly slamming it down into the ground below. | ◯ | ✗ | (★★☆) |
+| **Strong Left** | _A powerful, flinging punch that shatters the air._ | ◯ | ✗ | (★★★) |
+| **Rapid Punches** | _User unleashes a barrage of blows at their opponent._ | ◯ | ◯ | (★★☆) |
+| **Ice Blade** | Creates two blades of ice and rushes forward rapidly slashing. | ◯ | ◯ | (★☆☆) |
+| **Ice Smash** | Creates a giant mace of ice to smash opponents with. | ◯ | ✗ | (★★☆) |
+| **Ice Lance** | Creates a lance of ice to impale opponents with. | ◯ | ◯ | (★★☆) |
+
+  
+
+#### Talents
+
+-   Fists of Fortitude - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%.
+-   Fists of Navae - Nomads have a larger flourishing window.
+
+## Finisher
+
+Beiruul executes her opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| **Execute** | Pins down opponent before firmly bashing their face. |
+
+## Trivia
+
+-   Gripping Beiruul will reduce your rep with the Children of Navae.
