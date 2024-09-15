@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112829
+revid: 112845
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -31,6 +31,7 @@ Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a 
 
 Meet the following requirements in any order:
 
+-   Be Attunementless
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
 -   Have 25 points in either Charisma or Agility
@@ -134,7 +135,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
     File:Unmatched Dexterity alongside old talents.png
     
 
--   If Dreadstar doesnt't appear, interact with one of the Ghosts on the ship.
+-   If the Dreadstar doesn't appear, interact with one of the Ghosts on the ship.
 
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ talent card with a different description alongside the old talent set. (image attached)
 

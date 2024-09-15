@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 112274
+revid: 112854
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -44,7 +44,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt Talents. One craft makes all three, and doesn't seem to consume [Vibrant Gem](Mantra_Modifiers.md) and [Pluripotent Alloy](Pluripotent_Alloy.md). Might be a bug.
+Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt Talents, granted all at once. This only consumes the Stardust.
 
 ## Effects
 
@@ -59,7 +59,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
 -   Autodrink potions place other autodrink slots on a cooldown if they share buffs.
--   When replacing a potion in the Distillery, the one that was previously there is voided and will have to be remade.
+-   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
 -   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
 
 ### Biotic Salts
@@ -67,28 +67,28 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
     -   Halves negative effects for allies, and positive effects for enemies.
     -   Useful when throwing things like Heartening or Hastening Potions at allies.
+    -   This should be used in every potion possible, as it has no downsides whatsoever.
 
 ### Aromatic Salts
 
 -   Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
-    -   Lasts for roughly 10 seconds
-        -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds
+    -   Lasts for roughly 10 seconds.
+        -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
+    -   It is unclear if the potion effects from this stack in any way.
 
 ### Antithetic Salts
 
 -   Alter your brews to invert their effects. Does not count towards the ingredient limit.
-    -   Inversions can work vice versa, meaning you can use Mindbreaking to Heartening, and Heartening to Mindbreaking.
-    -   The name of the potion will change, but not the color. A Mindbreaking potion turned Heartening will remain purple.
-        -   This seems to not be consistent across all effects. Turning a Heartening potion into a Mindbreaker will change its color.
-    -   Some examples of inversions consist of;
+    -   This reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
+    -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent. Some examples of inversions include;
         -   Disgusting -> Dulling
         -   Mindbreaking -> Heartening
         -   Invigorating -> Grueling
 
 ## Location
 
-The tower is located next to Ferrymans ritual.
+The tower is located next to the Ferryman's ritual.
 
 ## Trivia
 
