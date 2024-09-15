@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 111666
+revid: 112868
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,10 +68,6 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 -   Bonus damage against [Monsters](Monsters.md).
 
 ## Talent Bonuses
-
-### Elemental Intensity
-
--   A terrain damage increase to most Mantras. Starting value is 0.
 
 ### Passive Agility
 

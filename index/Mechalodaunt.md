@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 108631
+revid: 112860
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112846
+revid: 112877
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -31,7 +31,7 @@ Note that all the maps contain lava as an environmental hazard, which deal a res
 
 Orb which used to refuel Union Drill
 
-**Saramaed Hollow** features 21 Floors in 100 meter increments. Floor 0/0 Meter is a lobby area that features a campfire, training gear, an Antiquarian, a Mystic and a Blacksmith.
+**Saramaed Hollow** features 20 Floors in 100 meter increments. Floor 0/0 Meter is a lobby area that features a campfire, training gear, an Antiquarian, a Mystic and a Blacksmith.
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
 
@@ -72,15 +72,15 @@ Loot is based on the type of mob you kill. It can be:
 -   [Delver's Duster](<Delver's_Duster.md>)
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
-
 -   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
-
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
-
 -   [Ignition Gauntlets](Ignition_Gauntlets.md)
-
 -   [Simmerbloom Diadem](Simmerbloom_Diadem.md)
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot from [The Depths](First_Layer.md).
 
 More loot will appear if bringing more players, but naturally, this will also result in more monsters. Be cautious!
+
+## Trivia
+
+-   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.

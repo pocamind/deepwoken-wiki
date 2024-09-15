@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 112258
+revid: 112866
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -53,3 +53,4 @@ File:Mudskipper Brute Roar.gif
 -   When attacked by a cannon ball it will be killed instantly.
 -   It appears that Mudskipper Brutes can parry projectiles, this has no animation or particle effects but still inflicts parry stun if possible.
 -   This mob can sometimes noclip with the Lumbering Smash, along with the [Mudskipper Broodlord.](Mudskipper_Broodlord.md)
+-   He can sometimes drop [Coral Cestus](Coral_Cestus.md) enchanted.

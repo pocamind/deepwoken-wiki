@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 109695
+revid: 112873
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -27,6 +27,7 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 ### Methods
 
 -   Killing a boss for the first time (per character), if you contribute enough damage.
+-   As a potential drop from chests in [Saramaed Hollow](Saramaed_Hollow.md).
 
 ### Bosses that drop Pluripotent Alloy
 

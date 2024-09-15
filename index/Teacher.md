@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 82620
+revid: 112881
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -24,6 +24,62 @@ The Teacher is a Pathfinder NPC that effectively grants you a free attribute poi
 After a story has been told, you will have to wait until another event spawn to listen to another story.
 
 The Teacher spawns along with 2 more NPCs sitting next to a campfire with set races and features (one being an Adret, the other unconfirmed), two of which wield powerful modified [Frostdraw](Frostdraw.md) mantras. They seem to be hostile on-sight towards the Authority and Etrean forces.
+
+## Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, a fellow Pathfinder? What might you need?</td>
+</tr>
+<tr>
+  <td colspan="12">Do you have any stories?</td>
+</tr>
+<tr>
+  <td colspan="12">I do, are there any you would like to hear in particular?</td>
+</tr>
+<tr>
+  <td colspan="2">A story of bravery. [Willpower]</td>
+  <td colspan="2">A story of cunning. [Intelligence]</td>
+  <td colspan="2">A story of speed. [Agility]</td>
+  <td colspan="2">A story of power. [Strength]</td>
+  <td colspan="2">A story of great leadership. [Charisma]</td>
+  <td colspan="2">A story of survival. [Fortitude]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The Pathfinder tells you a story of a man who slew a great beast. You feel empowered by his bravery.*</i></td>
+  <td colspan="2">TEMPLATE</td>
+  <td colspan="2">TEMPLATE</td>
+  <td colspan="2">TEMPLATE</td>
+  <td colspan="2">TEMPLATE</td>
+  <td colspan="2">TEMPLATE</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I don't have anymore stories, come back some other time.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

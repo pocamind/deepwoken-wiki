@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112845
+revid: 112872
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -89,6 +89,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 
 -   **Mayhem - Passive**
     -   Initiate a special dash attack by pressing M1 during the start of your dodge.
+        -   18s CD per weapon type.
         -   Movesets differ depending on the weapon type.
 
 -   **Merciless Blade - Passive**
@@ -99,10 +100,12 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
 -   **Relentless Hunt - Passive**
     -   M1 while doing an Aerial Attack to initiate a special gap closer attack.
         -   Can be used at a great range.
+        -   18s CD per weapon type.
         -   Movesets differ depending on the weapon type.
 
 -   **Rising Star - Passive**
     -   Press CTRL + M2 to activate a special uppercut attack
+        -   12s CD per weapon type.
         -   Movesets differ depending on the weapon type.
 
 -   **True Vantage - Passive**
@@ -153,7 +156,7 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
--   Silentheart was reworked on 2024-09-13's Weekly update.
+-   Silentheart was reworked on 2024-09-13's Weekly update. The old version can be found [here](Oath%253A_Silentheart/Old_Silentheart.md).
 
 ## References
 

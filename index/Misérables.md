@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 103181
+revid: 112880
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -87,7 +87,7 @@ _**Clarity:**_
 
 1.  I'm interested in that.
 
-"Do you have the knowledge within you then, my dull friend? Fifteen shards will do. My kin grow hungry..."
+"Do you have the knowledge within you then, my dull friend? (15 + (Wishes \*5)) shards will do. My kin grow hungry..."
 
 1.  Take it.
 

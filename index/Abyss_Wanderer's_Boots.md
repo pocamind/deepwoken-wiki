@@ -1,8 +1,9 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 112792
+revid: 112878
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, The Divers]
 ---
 
 # Abyss Wanderer's Boots
@@ -25,8 +26,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Abyss Wanderer Boots
 
-The item has no description and i as of now only know to be obtained from [Saramaed Hollow](Saramaed_Hollow.md)
+The item has no description. Only known to be obtained from [Saramaed Hollow](Saramaed_Hollow.md)
 
-Part of the Abyss wanderer set which consists of 3 pieces
+Part of the Abyss wanderer set which consists of 2 pieces
 
-[Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), Abyss wander boots and Abyss wanderer Garbs
+[Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>) and Abyss Wanderer's Boots

@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 107624
+revid: 112875
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -92,7 +92,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requiring 75 in their respective attunement and level 11+.
 
-The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing sets of 5 rounds in mysterious [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with several of the blades though they will have random attunements.
+The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing sets of 5 rounds in mysterious [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with several of the blades though they will have random attunements.
 
 Each of the Hero Blades have their own unique critical attack.
 
