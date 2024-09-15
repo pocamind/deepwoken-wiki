@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 109962
+revid: 112891
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,40 +36,41 @@ Dimensional Travel cannot be used in the [Etris Palace](Etris_Palace.md), [Voidh
 
 The function activating the Resonance has is dependent on what state of 'using the resonance' you're in:
 
--   If activated whilst in the overworld, the user will be transported into [The Interstice](The_Interstice.md) and leave a portal behind for others to enter, with the portal only lasting only a few seconds.
+-   If activated whilst in the overworld, the user will be transported into [The Interstice](The_Interstice.md) and leave a portal behind for others to enter, the portal only lasting only a few seconds.
     -   If any players inside [The Interstice](The_Interstice.md) jump into the void through the cracks in the floor or get downed, they will be teleported to the equivalent overworld position.
--   If activated whilst in [The Interstice](The_Interstice.md), the user's camera will move to the location they're at in the overworld, giving them a visual indicator of where they are. Since it tries to cast a ray from the sky to the ground, it can be obstructed by trees or invisible barriers (such as ones around the [Boatman's Watch](<Boatman's_Watch.md>) ritual circle)
-    -   After ~10 seconds, the user's camera moves back to their character and ends the 'visual indicator' state automatically. This can be ended early by moving your character.
+-   If activated whilst in [The Interstice](The_Interstice.md), the user's camera will move to the location they're at in the overworld, giving them a visual indicator of where they are. Since it tries to cast a ray from the sky to the ground, it can be obstructed by trees or invisible barriers, or obscure vision by penetrating underwater.
+    -   After ~10 seconds automatically or moving the character, the user's camera moves back to their character and ends the 'visual indicator' state.
 -   If activated whilst the visual indicator is active, the user creates a portal in [The Interstice](The_Interstice.md) leading to the location from the visual indicator, effectively completing the usage cycle.
 
 ### Resonance Points
 
-When obtained, Dimensional Travel will spend it's Resonance points on the following stats:
+When obtained, Dimensional Travel will spend its Resonance points on the following stats:
 
--   **Use in Combat:** If this stat is invested into, the user can use the Resonance while in combat. Deducts a sizeable amount of Resonance points
+-   **Use in Combat:** If this stat is invested into, the user can use the Resonance while in combat. Deducts a sizeable amount of Resonance points.
 -   **Capacity:** The more points that are invested into this stat, the higher the amount of players that can enter the realm before the portal automatically closes.
 -   **Travel Speed:** The more points are invested into this stat, the faster that players will travel through [The Interstice](The_Interstice.md).
     -   The math behind it is complicated, but at its simplest form, the multiplier to your distance travelled is in 0.333 increments, being a minimum of 1.333x and a maximum of 6.333x.
         -   Whilst in [The Interstice](The_Interstice.md), you can view your current location in the overworld by opening your map, which will accurately show your equivalent overworld location.
-        -   Upon using Dimensional Travel, the game will log your raw offset and adjusted offset coordinates, you can find these in the Roblox F9 menu, by dividing your raw offset coordinates by your adjusted offset coordinates, you can find your multiplier for Dimensional Travel.
+        -   Upon using Dimensional Travel, the game will log your raw offset and adjusted offset coordinates. You can find these in the Roblox F9 menu; by dividing your raw offset coordinates by your adjusted offset coordinates, you can find your multiplier for Dimensional Travel.
         -   Despite being obsolete with the introduction of the map mechanic, you can use [this Google document](https://docs.google.com/document/d/1NgO8UEaPPCDxv1CiVzfERxjHIU0Q2p7GxjtoyPeCm9I/edit) to travel using coordinates. You can view your coordinates by pressing Shift + F3, then Shift + 1 four times.
 
 If Dimensional Travel is Drowned, in addition to the extra Resonance points to spend, the _Use in Combat_ stat is given by default, essentially combining both variants of base Kamui.
 
 ## Tips/Trivia
 
--   If your Dimensional travel gets a multipler of 5x or higher its recommended to just keep it as its very difficult to get a multiplier that high.
--   Like [Portals](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking other players.
--   Similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
--   Despite looking like a better than average area for combat, it is _incredibly dangerous_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.
+-   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing/ganking other players. It is even harder to detect than Portals.
+-   Despite looking like a better than average area for combat, it is _**incredibly dangerous**_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.
+-   You cannot take players that are knocked into The Interstice.
+-   Functions similarly and is likely inspired by Tobi's "Kamui" ability from Naruto; both involve entering a largely featureless separate dimension with a floor composed of black blocks that also enable transportation over long distances. Both also invoke swirl patterns when used.
+    -   Amusingly also similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   When in the [First Layer](First_Layer.md), if you leave the map and fall out of the world or get stuck inside of terrain, it will act as a reset and spawn you at one of the spawn locations.
 -   Attempting to use **Dimensional Travel** in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying “FALSE REALMS WILL NOT SAVE YOU.”
-    -   If used properly, timing a jump to change the angle of your momentum can allow you to gain great amounts of distance in a desirable direction over a short time.
--   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Origins.md) bounty expiring, you get teleported into the [Voidsea](Voidsea.md) (presumably the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat).
--   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving [The Interstice](The_Interstice.md), due to your character being in the [Voidsea](Voidsea.md) for a short period.
+    -   If used properly, timing a jump to change the angle of your momentum can allow you to gain great amounts of distance in a desirable direction over a short time. This is frequently used for speedrunning.
+-   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Origins.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat.)
+    -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.
+-   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.
+    -   This formerly enabled spawning the [Dread Serpent](Dread_Serpent.md) anywhere you could use Dimensional Travel, but this has since been patched.
 -   Gravity inside the Distortion Realm used to be reduced.
--   You cannot take players that are knocked into Dimensional Travels realm.
--   There used to be a bug where buildings could be found in the Distortion Realm.
--   Functions similar to Naruto character, Tobi/Obito's Mangekyou Sharingan Dōjutsu "Kamui" ability.
+-   There used to be a bug where buildings could be found in The Interstice.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).
 -   You can fish in the cracks of the floor.

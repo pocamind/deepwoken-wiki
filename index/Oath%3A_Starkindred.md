@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 112760
+revid: 112902
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 ― Drinking the Holy Ichor
 
-The Starkindred Church is a malevolent cult that worships [Celestials](Celestial.md) and believes that they are capable of "transcending" by consuming parts of them. This very Oath is a result of the player drinking the Holy Ichor, the blood of a celestial, and cannibalizing several Starkindred. Drinking the Ichor Seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial equivalent of becoming a [Deepwoken](Deepwoken.md).
+The Starkindred Church is a malevolent cult that worships [Celestials](Celestial.md) and believes that they are capable of "transcending" by consuming parts of them. This very Oath is a result of drinking the Holy Ichor, the blood of a Celestial, and cannibalizing several Starkindred. Drinking the Ichor Seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial equivalent of becoming a [Deepwoken](Deepwoken.md).
 
 ## Obtainment
 
@@ -34,7 +34,7 @@ The Starkindred Church is a malevolent cult that worships [Celestials](Celestial
     1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church. Or, if you have [Union Hook](Talent_Quests.md#union-hook), there are two hooks on the backside of the Church that lead directly to it.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
 3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)**, located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
-    1.  If you lack the [Union Hook](Talent_Quests.md#union-hook), careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it. There is also a long, sloped rock that you can go up from the left of [The Lordsgrove](The_Lordsgrove.md) that leads you directly to the voidzone.
+    1.  If you lack the [Union Hook](Talent_Quests.md#union-hook), careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it. There is also a long, sloped rock that you can go up from the left of [The Lordsgrove](The_Lordsgrove.md) that leads you directly to the Voidzone.
 4.  Return to Samael to get the Oath.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=IBey9g9dZLo)._

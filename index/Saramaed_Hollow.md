@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 112877
+revid: 112904
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Eastern Luminant, Dungeons]
@@ -84,3 +84,4 @@ More loot will appear if bringing more players, but naturally, this will also re
 ## Trivia
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
+-   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112872
+revid: 112903
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -12,6 +12,8 @@ categories: [Pages with broken file links, Oaths]
 |---|---|
 | oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health |
+
+_For the version that existed prior to the 13th September, 2024, see [here](Oath%253A_Silentheart/Old_Silentheart.md)._
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
@@ -25,7 +27,7 @@ categories: [Pages with broken file links, Oaths]
 
 ― Obtaining Silentheart
 
-Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song- hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgamated, blasphemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreadstar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God Yun'Shul, the Keeper of Hearts.
+Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md) made from the souls of various deceased individuals. Vengeful due to its death at the hands of the users of Mantras, it falsely believes it can rewire the hearts of those willing to engage in a Vow with it to avoid using the Song. Upon the Silentheart reaching their true potential, the Dreadstar fuses with them to form a single entity. Unfortunately, the Song is so permeating that the Silentheart is only able to sidestep the Mantras that killed them; their newfound abilities too rely on the Song. Had it truly become disconnected, the Silentheart would have become an ordinary human being with little strength or durability, akin to a [Lightkeeper](Lightkeep.md) and their inability to use the Song. The Dreadstar references a "Keeper," implying it to have connections to Yun’Shul.
 
 ## Obtainment
 
@@ -35,18 +37,18 @@ Meet the following requirements in any order:
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
 -   Have 25 points in either Charisma or Agility
--   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in [Layer 2](Second_Layer.md) with a light hook.
+-   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in the [Second Layer](Second_Layer.md) with a Light Hook.
 
-Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to [The Dreadstar](The_Dreadstar.md)
+Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to The Dreadstar
 
--   Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude.
--   If you haven't died to an attunement player, [The Dreadstar](The_Dreadstar.md) will say "You lack focus on your rage".
+-   Failing to meet any of the first 3 will cause The Dreadstar to say you do not have aptitude.
+-   If you haven't died to an attunement player, The Dreadstar will say "You lack focus on your rage".
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)
 
 ## Progression
 
-This oath is progressed via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Regek](Regek.md) and [Beatra](Beatra.md)).
+This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md) and [Beatra](Beatra.md)).
 
 This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
@@ -56,7 +58,7 @@ Note that killing the Spelltrainers **will make you lose Reputation** with some 
 -   Funke with Summer Company
 -   Adar with Ignition Union
 
-Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
+Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
 ## Effects
 
@@ -156,7 +158,6 @@ Alternatively, if you've fully progressed the oath in a previous life, 10 [Knowl
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
--   Silentheart was reworked on 2024-09-13's Weekly update. The old version can be found [here](Oath%253A_Silentheart/Old_Silentheart.md).
 
 ## References
 

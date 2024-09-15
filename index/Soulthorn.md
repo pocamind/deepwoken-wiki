@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 111381
+revid: 112920
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -31,24 +31,28 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 
 ## Description
 
-The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the Core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. Its base damage is 18, but the maximum damage able to be achieved is 40.2 if the user has 103 intelligence, 100 medium, and 6 proficiency while equipping the Rosen ring and using the 3 star damage modifier.
+The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance.
 
 ## Critical
 
-The Soulthorn has 3 critical variants, which depend on the amount of soul stacks on your opponent.
+The Soulthorn has 3 critical variants which depend on the amount of soul stacks on your opponent.
 
-Every M1 of Soulthorn applies a soul stack, 3 at max. At max stacks your opponent will have a glowing aura.
+Every M1 of Soulthorn that connects applies a soul stack, up to 3 at max. At max stacks, your opponent will have a rotating, star-like aura.
 
-No stack: Nothing happens
+0 stacks: The sword glows but nothing happens.
 
-1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you. If used with 2 stacks, Block-breaks the opponent
+1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.
 
-3 stacks: Teleports to your opponent and unleash multiple slashes
+3 stacks: Teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.
 
-## Trivia
+## Tips/Trivia
 
 -   Soulthorn is the first Unique rarity weapon.
--   Sitting at the middle of the crossguard features a spherical object similar to the [pieces of The Forge](Artifacts.md), or preferably [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
--   While someone is holding the Soulthorn, it, strangely, has a collision, meaning it can prevent someone from entering tight spaces while holding the weapon.
--   It's likely to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
+-   Soulthorn has unusually high PEN and chip damage for its damage potential.
+    -   The high PEN makes damage stars good to aim for when getting a Soulthorn.
+-   Works well with high-INT builds, especially [Saltchemists](Oath%253A_Saltchemist.md).
+-   Is base damage is 18. The maximum damage able to be achieved is 40.2 if the user has 103 intelligence, 100 medium, and 6 proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
+-   Sitting at the middle of the crossguard is a spherical object similar to the [pieces of The Forge](Artifacts.md) or [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
+-   Strangely, the held item form of the Soulthorn (not the equipped weapon) has collision, preventing the player from easily entering doorways while held.
+-   It appears to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
 -   Not droppable (most likely a bug)

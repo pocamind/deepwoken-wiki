@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 112805
+revid: 112910
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -111,7 +111,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><a href="The_Ignition_Union.md">The Ignition Union</a></td>
   <td><a href="Union_Initiate.md">Union Initiate</a></td>
   <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></td>
-  <td></td>
+  <td><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></td>
   <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 112470
+revid: 112921
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters, Knights]
@@ -14,7 +14,9 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that may have another chance of obtaining an Astral. However, some Moon Knights may spawn clipped inside of a rock near the center of the island although getting it to kick should get it out. Moon Knights will respawn every 2-3 minutes.
+Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that has a chance of dropping the Astral Enchant Stone in addition to sought-after items like the [Moonseye Tome](Moonseye_Tome.md) and [Soulthorn](Soulthorn.md). Knights will respawn every 2-3 minutes.
+
+Some Moon Knights may spawn clipped inside of a rock near the center of the island. Getting it to kick can help clip it out.
 
 ## **Moveset**
 
@@ -66,9 +68,11 @@ Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie
 
 ## Tips
 
-In order to maximise your chance in order to get an Astral enchantment stone, make a build with [Vow of Thorns](Echoes.md), and [Lootskipper](Talents.md), and run around the Eyris in order to maximise drop chances. Make sure to kill the Moon Knights both outside and inside. Be warned that similar to the other knights, the Moon Knight has heavy slash resistance.
+-   [Vow of Thorns](Echoes.md) and [Lootskipper](Talents.md) can help boost the chance of getting an Enchant Stone directly from a Moon Knight. Make sure to kill the Moon Knights both outside and inside.
+-   Moonscorched Blades do a decent amount of damage, but mostly serve as a distraction. Pay attention to the Moon Knight itself even if you take a few hits.
+-   Moonscorched Blades cannot pierce terrain, meaning it does nothing in the "arena" of Moon's Eyrie.
 
 ## Trivia
 
 -   Moon Knights are recolored Star Knights.
--   The [Star Knight](Star_Knight.md) is probably the newer and stronger design of the Moon Knight, which is why the Star Knights protect the Resonance Dawn meteor while the Moon Knights stay on their home island.
+-   The [Star Knight](Star_Knight.md) is probably the newer and stronger design of the Moon Knight, which is why the Star Knights protect the Resonant Dawn meteor while the Moon Knights stay on their home island.

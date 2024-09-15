@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 111478
+revid: 112893
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -100,7 +100,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
-Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of minerals and pure minerals are also valid ingredients, but they don't appear to have any effects.
+Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of minerals are also valid ingredients, but don't have any known effect after thorough testing.
 
 ### Salts
 
@@ -133,7 +133,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Bamboo Bundle</td>
   <td>Instantly decrease ether</td>
-  <td>Opposite effect to <b>Soothing.</b></td>
+  <td>Opposite effect to <b>Soothing.</b> Signified by pastel green particles.</td>
 </tr>
 <tr>
   <td><b>Soothing</b></td>
@@ -153,14 +153,14 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <p>Dentilfo</p>
   <p>Pomar</p></td>
   <td>Instantly deals a small amount of damage.</td>
-  <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option. However, the damage is increased against mobs, making them a somewhat viable choice when attempting to kill a mob while running away or getting a bit of damage in before it notices you. It is currently unknown by exactly how much the damage is increased.</p></td>
+  <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option. The damage is affected by PvE scaling, however, making them a decent choice when attempting to kill a mob while running away or dealing damage from where it can't reach you. It is currently unknown by exactly how much the damage is increased.</p></td>
 </tr>
 <tr>
   <td><b>Rejuvenating</b></td>
   <td>Salve</td>
   <td>Redd</td>
   <td>Instantly restores a small amount of health.</td>
-  <td>Opposite effect to <b>Disgusting</b>. Signified by a green flash. Strangely, seems to only work when thrown.<p>The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
+  <td>Opposite effect to <b>Disgusting</b>. Signified by a burst of square green particles from the character.<p>The strongest effect on a Redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
 </tr>
 <tr>
   <td><b>Dulling</b></td>
@@ -169,9 +169,8 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Crustacean Meat<p>Gathered Wheat</p>
   <p>Alestrian Coral</p></td>
-  <td>Reduces damage dealt.<br>
-  Appears to have a reduced effect on low damage attacks (like daggers).</td>
-  <td>Opposite effect to <b>Strengthening</b>.</td>
+  <td>Reduces damage dealt.</td>
+  <td>Opposite effect to <b>Strengthening</b>.<p>Likely a percentage decrease, and scales less than other potion effects.</p></td>
 </tr>
 <tr>
   <td><b>Strengthening</b></td>
@@ -181,7 +180,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Plumfruit<br>
   Browncap</td>
   <td>Slightly increases damage dealt.</td>
-  <td>Opposite effect to <b>Dulling</b>.</td>
+  <td>Opposite effect to <b>Dulling</b>.<p>Likely a percentage increase, and scales less than other potion effects.</p></td>
 </tr>
 <tr>
   <td><b>Icky</b></td>
@@ -190,7 +189,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Calabash<br>
   Redd</td>
   <td>Rapidly drain Ether from affected targets</td>
-  <td>Opposite effect to <b>Focusing</b>.</td>
+  <td>Opposite effect to <b>Focusing</b>.<p>Very quickly begins to drain a flat amount of Ether every tick as it increases in potency, leaving even <a href="Shadowcast.md">Shadowcast</a> users struggling.</p></td>
 </tr>
 <tr>
   <td><b>Focusing</b></td>
@@ -198,8 +197,8 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Salve<p>Tincture</p></td>
   <td>Gathered Wheat<p>Sap</p></td>
   <td>Greatly increase Ether regeneration.</td>
-  <td>Opposite effect to <b>Icky</b>.<br>
-  The strongest effect on wheat is Dulling, so a potion with the Focusing prefix can only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</td>
+  <td>Opposite effect to <b>Icky</b>.<p>Very quickly begins to grant a flat amount of Ether every tick as it increases in potency, making it very hard to run out of Ether while active.<br>
+  The strongest effect on wheat is Dulling; prior to the addition of Saltchemist, a potion with the Focusing prefix could only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</p></td>
 </tr>
 <tr>
   <td><b>Heartening</b></td>
@@ -210,7 +209,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Elixir</td>
   <td>Bluecap</td>
   <td>Rapidly restores Sanity.</td>
-  <td>Opposite effect to <b>Mindbreaker</b>.</td>
+  <td>Opposite effect to <b>Mindbreaker</b>. Signified by bright pink particles.<p>Effective at any strength and can cheaply help ensure longevity in <a href="The_Depths.md">The Depths</a>.</p></td>
 </tr>
 <tr>
   <td><b>Mindbreaker</b></td>
@@ -218,7 +217,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight<p>Potion</p></td>
   <td>Urchin<p>Seaweed Bundle Scallop Chum</p></td>
   <td>Gives Insanity.</td>
-  <td>Opposite effect to <b>Heartening</b>.<p>These potions surprisingly have many uses, since opponents at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed, it allows these potions to act a budget version of the <a href="Blood_Scourge.md">Blood Scourge</a> <a href="Resonance.md">Resonance</a></p></td>
+  <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant talents, though.</p></td>
 </tr>
 <tr>
   <td><b>Invigorating</b></td>
@@ -229,7 +228,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Beeswax<br>
   Gobletto</td>
   <td>Applies a regeneration effect.</td>
-  <td>Opposite effect to <b>Grueling.</b></td>
+  <td>Opposite effect to <b>Grueling.</b> Signified by bright green particles.</td>
 </tr>
 <tr>
   <td><b>Grueling</b></td>
@@ -237,7 +236,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Plumfruit</td>
   <td>Deals a small amount of damage over the potion duration.</td>
-  <td>Opposite effect to <b>Invigorating</b>.<p>The prefix of a potion brewed using only plumfruit depends on the Talents of the brewer - if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
+  <td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
 </tr>
 <tr>
   <td><b>Steadfast</b></td>
@@ -248,7 +247,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Calabash<br>
   Bamboo Bundle</td>
   <td>Increases maximum posture for the duration of the potion.</td>
-  <td>Opposite effect to <b>Buckling.</b></td>
+  <td>Opposite effect to <b>Buckling.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
@@ -256,7 +255,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Ongo</td>
   <td>Decreases maximum posture for the duration of the potion.</td>
-  <td>Opposite effect to <b>Steadfast.</b></td>
+  <td>Opposite effect to <b>Steadfast.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
 </tr>
 <tr>
   <td><b>Hastening</b></td>
@@ -266,7 +265,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Tincture</td>
   <td>Alestrian Coral<p>Pomar</p></td>
   <td>Applies a speed boost for the duration of the potion.</td>
-  <td>Opposite effect to <b>Slowing.</b></td>
+  <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras or carrying something. It is reduced in water, however.</p></td>
 </tr>
 <tr>
   <td><b>Slowing</b></td>
@@ -274,21 +273,28 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Beeswax<p>Gobletto</p>
   <p>Sap</p></td>
   <td>Reduces speed for the duration of the potion.</td>
-  <td>Opposite effect to <b>Hastening</b><p>This potion used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name, however, with the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for <b>Hastening</b> potions, allowed for its creation</p></td>
+  <td>Opposite effect to <b>Hastening.</b><p>This potion type used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name. With the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for Hastening potions enabled its creation.</p></td>
 </tr>
 <tr>
   <td><b>Staggering</b></td>
   <td>Salve</td>
   <td>Ongo</td>
   <td>Increases posture damage dealt.</td>
-  <td>Opposite effect to <b>Weakening.</b></td>
+  <td>Opposite effect to <b>Weakening.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
 </tr>
 <tr>
   <td><b>Weakening</b></td>
   <td>Potion</td>
   <td>Alestrian Coral</td>
   <td>Decreases posture damage dealt.</td>
-  <td>Opposite effect to <b>Staggering.</b></td>
+  <td>Opposite effect to <b>Staggering.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
+</tr>
+<tr>
+  <td><b>Diluted</b></td>
+  <td>Potion<p>Elixir Salve Tincture</p></td>
+  <td>Using invalid ingredients<p>Using too many ingredients</p></td>
+  <td>No effect.</td>
+  <td>Signified by pure white particles.<p>Override's a potion's effects and causes it to do absolutely nothing. Primarily exists to show that something went wrong with brewing.</p></td>
 </tr>
 </tbody>
 </table>
@@ -317,7 +323,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 -   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores Ether.
-    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops, with an Antithesis salt.
+    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops with an Antithesis salt.
 -   **Insanity** (Mindbreaker) - 3 Urchins + 2 Seaweed/Scallops
     -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
 -   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs

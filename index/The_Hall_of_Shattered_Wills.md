@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 111918
+revid: 112908
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -77,7 +77,7 @@ A map can be found at [Maps#The Hall of Shattered Wills](Maps.md#the-hall-of-sha
     -   Funnel points into renovations/upgrades to the mod office.
         -   Top contributors get their own desk.
     -   Buy a picture frames for a drawing of their character to be displayed in the office.
--   If a non-moderator is found in this room, whether it be by methods such as Wayward Gem, or alternative methods, they will be forcibly reset back to their spawn, or worse.
+-   If a non-moderator is found in this room, they are usually forcibly reset, though evidence of reaching it through illegitimate means will lead to worse...
 
 ## References
 

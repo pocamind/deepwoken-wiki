@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 112801
+revid: 112927
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -57,7 +57,6 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Impel** - **Combat Mantra**
     -   _Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains)._
-    -   There's a very small chance of Impel spawning a Bounty Hunter that attacks anybody in sight (Including the user).
     -   Aimable with your mouse.
 
 -   **Rupture** - **Combat Mantra**

@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 103296
+revid: 112907
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -37,6 +37,7 @@ The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on A
 -   Known for being used by 20 power players for ranged bullet shots before the ability was removed on silversix.
 -   At max LHT, the damage is (19.8)
 -   If you choose this as your starter you will spawn with two of them.
+-   Despite being called Silver**six**, the gun can only hold 2 bullets at a time.
 
 ## Gallery
 
