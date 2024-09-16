@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 112939
+revid: 112970
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -26,7 +26,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
 -   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from Guilty Gear Strive.
--   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
+-   Every Familiar Helmet from the Hallowtide event are helmets taken from _Rogue Lineage_.
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight Helmet**, respectively.
 -   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)_.
 
@@ -48,10 +48,10 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _Naruto_, often called "Cloak of Lightning".
 -   **Grand Javelin** is inspired by the Lightning Spear spells: [Lightning Spear](https://darksouls.fandom.com/wiki/Lightning_Spear), [Great Lightning Spear](https://darksouls.fandom.com/wiki/Great_Lightning_Spear), and [Sunlight Spear](https://darksouls.fandom.com/wiki/Sunlight_Spear) in _Dark Souls_.
 -   **Bolt Piercer** is a reference to Ishida Uryu's [Licht Regen](https://bleach.fandom.com/wiki/Licht_Regen%23Variations) from _Bleach_. This becomes more apparent with the Surge path.
--   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer._
-    -   It also bears striking resemblance to the spell ["Shock Assault"](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
+-   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma%23Techniques) from _Demon Slayer._
+    -   It also bears striking resemblance to the spell [Shock Assault](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
 -   **Spark Swap** is a reference to the snap version of [Celeritas](https://rogue-lineage.fandom.com/wiki/Celeritas) from _Rogue Lineage_. Both abilities share the same utility, and both have a similar sound effects and lightning visuals on usage.
--   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.[\[1\]](#cite-note-1)
+-   Contrary to popular belief, **Rising Thunder** was not based on [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.[\[1\]](#cite-note-1)
 
 ### Frostdraw
 
@@ -72,7 +72,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
-    -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
+    -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist](https://rogue-lineage.fandom.com/wiki/Duelist), better known as Uber Spy, Class.
 -   **Eclipse Kick** resembles the Axe Kick, an attack from _Rogue Lineage_ used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
     -   Oni itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
 -   **Shadow Assault** resembles Akuma's [Ashura Senku](https://streetfighter.fandom.com/wiki/Ashura_Senku) technique.
@@ -82,7 +82,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ### Ironsing
 
--   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura (better known as Uber Shinobi)](https://rogue-lineage.fandom.com/wiki/Uber_Shinobi?so=search) class.
+-   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura](https://rogue-lineage.fandom.com/wiki/Shura), better known as Uber Shinobi, class.
 -   Being able to consume ores for buffs could be a reference to Allomancy from _Mistborn._
 
 ### Attunementless
@@ -107,7 +107,7 @@ This is a page dedicated to all of the easter eggs and references to other works
         -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death.
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
     -   Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
--   **Silentheart** takes inspiration from the _Fire Emblem_ series:
+-   **Silentheart** originally inspiration from the _Fire Emblem_ series:
     -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
     -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance.
     -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates._
@@ -119,7 +119,6 @@ This is a page dedicated to all of the easter eggs and references to other works
         -   The inner world you are taken to reinforces this by being named 'The Blade Within', which is similar to the title of the 13th episode of _Bleach: Thousand-Year Blood War_: ['THE BLADE IS ME'](<https://bleach.fandom.com/wiki/THE_BLADE_IS_ME_(episode)>).
     -   **Lithe Step** resembles [Shunpo](https://bleach.fandom.com/wiki/Hohō?so=search#Shunpo) or [Sonido](https://bleach.fandom.com/wiki/Sonído) from _Bleach._
     -   Having **True Strength** active, activating **Soaring Storm**, using **Float Like a Butterfly**, or using **Decimate**, create slashes that strongly resemble [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) [Cleave and Dismantle](https://jujutsu-kaisen.fandom.com/wiki/Sukuna#Jujutsu), from _Jujutsu Kaisen_.
-    -   The Oath's appearance resembles the same rings that [Minos Prime](https://ultrakill.fandom.com/wiki/Minos_Prime) wears, in _ULTRAKILL_.
 
 ## Enemies/Bosses
 
@@ -133,10 +132,10 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[The Duke](Duke_Ishamon_Erisia.md)** is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_. They also both laugh manically after landing a counter.
         -   Par, one of the developers of _Deepwoken_, who designed the Duke, also works on _Anime Battle Arena._ This could be the reason why their movesets are the same.
--   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
+-   **[The Enforcer](Enforcer.md)'s** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
--   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. [**Nautilodaunts**](Nautilodaunt.md) also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical. You could also note that the name "Dagon" is not unique to Jujutsu Kaisen, as it is also featured in other media. Namely: Oblivion / Skyrim, Lovecraft, the film "Dagon" and the religious figure.
+-   **[Nautilodaunts](Nautilodaunt.md)** draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. They also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical.
 
 ## Resonance
 
@@ -170,7 +169,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Ice Age** Talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** Talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
--   **Pocket Sand** is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
+-   **Pocket Sand** is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand)" move from _Rogue Lineage_, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
 -   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
 -   The name of the Talent, **Ultrakill**, is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
     -   However, it actually consistently spells the name incorrectly.
@@ -226,7 +225,6 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Roland**," "**Tiphereth**," "**Xiao**", "**Zena**", "**Iori**", and "**Argalia**", are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
 -   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
--   The name **Halflight** is a reference to a [certain skill](https://discoelysium.fandom.com/wiki/Half_Light) from _Disco Elysium_.
 
 ## World
 
@@ -247,8 +245,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 -   The [Shrine of Order](Deep_Shrines.md) might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
--   The [Derelict Highchurch's](Derelict_Highchurch.md) hidden library has a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in Rogue Lineage.
--   The [Saramaed Hollow](Saramaed_Hollow.md) and [Ignition Delver Origin](Origins.md#ignition-delver) are a big reference to the 2020 video game [Deep Rock Galactic](https://en.m.wikipedia.org/wiki/Deep_Rock_Galactic), in which players are tasked with mining ore while monsters are attempting to kill them.
+-   The [Derelict Highchurch's](Derelict_Highchurch.md) hidden library has a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in _Rogue Lineage_.
+-   The [Saramaed Hollow](Saramaed_Hollow.md) and [Ignition Delver Origin](Origins.md#ignition-delver) are a homage to the 2020 video game [Deep Rock Galactic](https://en.m.wikipedia.org/wiki/Deep_Rock_Galactic), in which players are tasked with mining ore while monsters are attempting to kill them.
 
 ### The Depths
 

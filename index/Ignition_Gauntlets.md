@@ -1,6 +1,6 @@
 ---
 title: Ignition Gauntlets
-revid: 112713
+revid: 112963
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,4 +30,4 @@ The Ignition Gauntlets is an Equipment Armor in the "Arms" category. Equipping t
 
 ## Trivia
 
--   The only previous way to get the talent Force Your Way was by equipping the [Ignition Deepdelver](Ignition_Deepdelver.md)
+-   The only previous way to get the talent Force Your Way was by equipping the [Ignition Deepdelver](Ignition_Deepdelver.md), Grand Fisher Plate and Hunter’s Brace also give you the ability to parry most unparriable moves in PvE.

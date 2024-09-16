@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 112863
+revid: 112954
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -30,5 +30,5 @@ The **Simmerbloom Diadem** is an [Equipment](Equipment.md) item under the "Head"
 ## Trivia
 
 -   One of the few mythical equipment pieces, the others being [Bloodforged Crown](Bloodforged_Crown.md), [Delver's Duster](<Delver's_Duster.md>), [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>).
-
 -   The first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension.
+-   This serves as a direct upgrade to Pleeksty's Inferno.

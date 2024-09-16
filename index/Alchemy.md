@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 112893
+revid: 112982
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -265,7 +265,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Tincture</td>
   <td>Alestrian Coral<p>Pomar</p></td>
   <td>Applies a speed boost for the duration of the potion.</td>
-  <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras or carrying something. It is reduced in water, however.</p></td>
+  <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras, carrying something, or being pushed by the wind in the <a href="Second_Layer.md">Second Layer</a>. It is reduced in water, however.</p></td>
 </tr>
 <tr>
   <td><b>Slowing</b></td>
@@ -294,7 +294,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Potion<p>Elixir Salve Tincture</p></td>
   <td>Using invalid ingredients<p>Using too many ingredients</p></td>
   <td>No effect.</td>
-  <td>Signified by pure white particles.<p>Override's a potion's effects and causes it to do absolutely nothing. Primarily exists to show that something went wrong with brewing.</p></td>
+  <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Does nothing by itself. Invalid ingredients won't cancel the potion's other effects, but using too many ingredients will.</p></td>
 </tr>
 </tbody>
 </table>

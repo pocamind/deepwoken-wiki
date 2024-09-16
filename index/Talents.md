@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 112892
+revid: 112964
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1184,7 +1184,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
-    -   Is currently bugged, and will not heal the user regardless of circumstance.
+    -   Contrary to popular belief, you can steal healing with Saint Jay (only green healing, though). However, the second passive of Saint Jay is bugged.
     -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support Talent etc.).
     -   If using Glass Path: Crystallization then every crystal applied will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   Prerequisite: Frostbite

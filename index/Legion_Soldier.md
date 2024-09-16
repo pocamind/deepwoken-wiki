@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 107934
+revid: 112966
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -56,5 +56,5 @@ A Legion Soldier executes its opponent after knocking them:
 
 ## Trivia
 
--   The two Legion soldiers at Legion Camp inside the Viper's Jaw are not equipped with Khan shields.
--   They are hostile towards the villagers that you turn over to Alastir.
+-   The two Legion soldiers at Legion Camp inside the Viper's Jaw are not equipped with Khan shields, except if they aggro you.
+-   They are hostile towards [Forgotten Villagers](Forgotten_Villager.md).

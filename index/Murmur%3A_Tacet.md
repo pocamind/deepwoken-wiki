@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 112189
+revid: 112981
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -16,7 +16,7 @@ Template:ImageCaption Infobox_"An application of the song that enables the user 
 
 **BE WARNED:** Tacet in PvP scenarios may not prove reliable, as it may end up not even making you invisible upon use, instead just showing you crouching and moving as if it weren't active. It is also removed when Ardour Scream is used.
 
-The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet.
+The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrouching, attacking, being hit, or interacting with the world will deactivate Tacet.
 
 You will also have a small window of 3 seconds (1.5s if you run) in which you can stand without losing Tacet, this allows you to move more agilely, climb walls and do parkour in general.
 

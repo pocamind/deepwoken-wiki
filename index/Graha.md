@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 106325
+revid: 112972
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -11,7 +11,7 @@ categories: [NPCs, Layer 1]
 | Graha | |
 |---|---|
 | name | Graha |
-| location | Castle light |
+| location | Castle Light |
 
 ## Description
 

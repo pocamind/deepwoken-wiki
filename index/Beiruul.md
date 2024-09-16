@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 112949
+revid: 112950
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, Children of Navae]
@@ -27,7 +27,7 @@ Completing her sidequest will reward you with EXP, positive Children of Navae re
 1.  Head over to the side of Fort Merit nearest to Beiruul.
 2.  Climb up Fort Merit with the elevator or the air vents.
 3.  Once having climbed up, Beiruul will spawn alongside several Authority Peacekeepers and Authority Officers.
-4.  Kill all of the weakened Authority Peacekeepers.
+4.  Kill all of the Authority Peacekeepers and Authority Officers.
 5.  Return to Beiruul and interact with her.
 
 ## Dialogue
