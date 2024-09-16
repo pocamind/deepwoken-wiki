@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 112284
+revid: 113007
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals]
@@ -34,7 +34,12 @@ This weapon cannot be dropped by any means, similar to a Soulbound item or the [
 
 ## Drop chance
 
-0.114285714285714% (using [Chum](Chum.md)) on [Boatman's Watch](<Boatman's_Watch.md>) fishing spot.
+Getting the **Golden Swordfish** implies succesfully achieving 2 rare events in fishing:
+
+-   The fish caught must be a Swordfish
+-   It must be a golden fish
+
+The combination of these 2 factors makes the **Golden Swordfish** extraordinaly rare. Using bait, fishing talents and fishing spots is required to improve your odds.
 
 ## Critical
 
@@ -46,6 +51,7 @@ The user winds up before charging forward with the weapon, dealing damage multip
 -   Most likely a reference to how many players suggested for the swordfish to be an equippable weapon.
 -   The critical to be a reference to the belief that swordfish hunt by "skewering."[\[1\]](#cite-note-1) However, this is a myth. Swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, it would be more accurate for this weapon to be a medium sword.
     -   The so-called "sword" bill of a typical swordfish is not particularly strong, but there is a historical precedent for it being used as a weapon.
+    -   The critical itself is the same critical used by the [Trident Spear](Trident_Spear.md).
 -   Meeting the requirement of LHT, the damage is (21.8)
 -   At max LHT, the damage is (24)
 -   Despite acting like a Soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing knowledge, provided it is not [Enchanted](Enchantments.md).

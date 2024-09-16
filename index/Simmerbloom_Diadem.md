@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 112954
+revid: 113017
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -11,7 +11,8 @@ categories: [Equipment]
 | Simmerbloom Diadem | |
 |---|---|
 | type | Head |
-| rarity | Mythic |
+| rarity | Unique |
+| selling price | 100 |
 | requirements | Power 15 FLM 80 |
 | weight | 1 |
 | innate stats | + 5 Health |
@@ -29,6 +30,7 @@ The **Simmerbloom Diadem** is an [Equipment](Equipment.md) item under the "Head"
 
 ## Trivia
 
--   One of the few mythical equipment pieces, the others being [Bloodforged Crown](Bloodforged_Crown.md), [Delver's Duster](<Delver's_Duster.md>), [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>).
+-   The second equipment with the 'Unique' rarity.
+-   One of 5 items with the 'Unique' rarity, others include [Ferryman's Coat](<Ferryman's_Coat.md>), [Deepscorn Casque](Deepscorn_Casque.md), [Darkened Bastion](Darkened_Bastion.md) and [Soulthorn](Soulthorn.md).
 -   The first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension.
--   This serves as a direct upgrade to Pleeksty's Inferno.
+-   This serves as a direct upgrade for Pleeksty's Inferno.
