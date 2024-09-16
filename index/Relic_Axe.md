@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 112971
+revid: 113004
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -39,4 +39,4 @@ The critical is seemingly identical to that of standard Greataxes, but generate 
 
 -   Meeting the requirement of HVY, the damage is (37.7)
 -   At max HVY, the damage is (41.9)
--   The stone pillars spawned by the critical though can be stood on cannot be climbed.
+-   The stone pillars spawned by the critical though can be stood on cannot be climbed, but they have collision.

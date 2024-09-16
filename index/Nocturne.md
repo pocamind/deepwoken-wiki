@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 112421
+revid: 113003
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals]
 
 ## Description
 
-The **Nocturne** is a rare medium weapon, exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass at the Eastern Luminant. It is dropped by the [Moon Knight](Moon_Knight.md) commonly from his boss chest. This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
+The **Nocturne** is a dual-wielded medium weapon exclusively found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass in the Eastern Luminant. It is a common drop from a [Moon Knight](Moon_Knight.md)'s boss chest. This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
 
 ## Critical
 
@@ -43,7 +43,7 @@ Can be cancelled by damage in wind-up.
 -   Nocturne can be equipped with a side weapon but the side weapon will not visually appear on the character.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 -   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[1\]](#cite-note-1)
-    -   At the same time the Nocturne was published, a sheathe model was also made, it fits perfectly.
+    -   At the same time the Nocturne was published, a sheath model was also made.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 111905
+revid: 113005
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -43,5 +43,5 @@ This Outfit's Schematic can be found in:
 -   The pants can be found [here](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
 -   This item can't be dropped, however it can be banked.
     -   Prior to the addition of [Item Banks](Item_Bank.md), the schematic was able to be dropped.
--   If you have Thundercall with the Resolve Crusher Talent, when you electrify opponents by hitting them with a Mantra all their attacks will be converted into Lightning damage, allowing you to make great use of the heavy Lightning resistance granted by this Outfit.
--   This Outfit can go extremely well with the [Oath: Silentheart](Oath%253A_Silentheart.md), the elemental resistance and Ferryman's Curse pairing well together with the high mantra resistance of Silentheart builds can make many Mantras (specifically multi-hits) lose more than 60% of their damage.
+-   If you have [Thundercall](Thundercall.md) with the [Resolve Crusher](https://deepwoken.fandom.com/wiki/Talents#Authority_Interrogator) Talent, when you electrify opponents by hitting them with a Mantra all their attacks will be converted into Lightning damage, allowing you to make great use of the heavy Lightning resistance granted by this Outfit.
+-   ~This Outfit can go extremely well with the [Oath: Silentheart](Oath%253A_Silentheart.md), the elemental resistance and Ferryman's Curse pairing well together with the high mantra resistance of Silentheart builds can make many Mantras (specifically multi-hits) lose more than 60% of their damage.~ After the Silentheart rework this no longer works.
