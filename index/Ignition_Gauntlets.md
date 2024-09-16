@@ -1,8 +1,9 @@
 ---
 title: Ignition Gauntlets
-revid: 112963
+revid: 112987
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, The Ignition Union]
 ---
 
 # Ignition Gauntlets
@@ -14,7 +15,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | ??? |
 | requirements | Level 8 |
 | weight | 2 |
-| innate stats | +8 Health, +1 Posture, +2 Legendary Pips, +1 Rare Pip= |
+| innate stats | +8 Health, +1 Posture, +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Force Your Way |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,4 +31,5 @@ The Ignition Gauntlets is an Equipment Armor in the "Arms" category. Equipping t
 
 ## Trivia
 
--   The only previous way to get the talent Force Your Way was by equipping the [Ignition Deepdelver](Ignition_Deepdelver.md), Grand Fisher Plate and Hunter’s Brace also give you the ability to parry most unparriable moves in PvE.
+-   The only previous way to get the talent Force Your Way was by equipping the [Ignition Deepdelver](Ignition_Deepdelver.md), [Grand Fisher Plate](Grand_Fisher_Plate.md) and [Hunter’s Brace](<Hunter's_Brace.md>) also give you the ability to parry most unparriable moves in PvE, however, with a different talent.
+-   Compared to the Grand Fisher's Plate, this sacrifices one Legendary pip for a Rare pip, along with Force your Way using armor durability, but does not have the -3% movespeed penalty. This may prove it to be more useful if a stat such as Monster Armor is preferred.

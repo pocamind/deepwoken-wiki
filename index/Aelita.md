@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 112657
+revid: 112995
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -46,7 +46,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   [Justicar Defender Coat](Justicar_Defender_Coat.md) (Rare)
 -   [Authority Commander Coat](Authority_Commander_Coat.md) (Rare)
 -   [Adjudicator's Coat](<Adjudicator's_Coat.md>) (Rare)
--   [Shattered Katana](Shattered_Katana.md) (Rare) (?)
+-   [Shattered Katana](Shattered_Katana.md) (Rare)
 -   [Iron Birch](Iron_Birch.md) (Rare)
 -   [Finisher's Ring](Equipment.md#rings) (Very rare)
 -   [Moon Ring](Moon_Ring.md) (Very rare)

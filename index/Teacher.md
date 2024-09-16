@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 112958
+revid: 113002
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -53,11 +53,11 @@ The Teacher spawns along with 2 more NPCs sitting next to a campfire with set ra
 </tr>
 <tr>
   <td colspan="2"><i>*The Pathfinder tells you a story of a man who slew a great beast. You feel empowered by his bravery.*</i></td>
+  <td colspan="2"><i>*The Pathfinder tells you a story of an old wise fisherman. You feel empowered by his wisdom. You still don’t know how to catch a fish.*</i></td>
   <td colspan="2">TEMPLATE</td>
   <td colspan="2">TEMPLATE</td>
   <td colspan="2">TEMPLATE</td>
-  <td colspan="2">TEMPLATE</td>
-  <td colspan="2">TEMPLATE</td>
+  <td colspan="2"><i>*The Pathfinder tells you a story of a man who withstood a great storm as he stood atop a mountain. You feel empowered by his durability. You plan to go stand on a mountain at one point.*</i></td>
 </tr>
 <tr>
   <td colspan="12">End</td>

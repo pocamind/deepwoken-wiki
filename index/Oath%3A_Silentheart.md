@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 112951
+revid: 113001
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -87,13 +87,13 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
         -   Given as a talent tool.
-        -   Mayhem (medium and heavy) Is able to Autogrip people if affected by Flow State.
         -   Active for 1 second. ??s CD.
 
 -   **Mayhem - Passive**
     -   Initiate a special dash attack by pressing M1 during the start of your dodge.
         -   18s CD per weapon type.
-        -   Movesets differ depending on the weapon type.
+        -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
+        -   Medium and Heavy variants are capable of autogripping with Flow State active.
 
 -   **Merciless Blade - Passive**
     -   You can now execute enemies much faster.
@@ -104,12 +104,12 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   M1 while doing an Aerial Attack to initiate a special gap closer attack.
         -   Can be used at a great range.
         -   18s CD per weapon type.
-        -   Movesets differ depending on the weapon type.
+        -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
 
 -   **Rising Star - Passive**
     -   Press CTRL + M2 to activate a special uppercut attack
         -   12s CD per weapon type.
-        -   Movesets differ depending on the weapon type.
+        -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
 
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
@@ -119,6 +119,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   **Unmatched Dexterity - Passive**
     -   Press X to Quick Swap between weapons within your toolbar.
         -   Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.
+        -   This talent passively allows Silenthearts to manually swap equipment while in danger as well.
 
 -   **Vengeful Pursuit - Passive**
     -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.

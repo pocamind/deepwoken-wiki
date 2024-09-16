@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 112964
+revid: 112997
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -238,7 +238,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 > _**"I seek out Amorus Pleeksty."**_
 
--   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 5% extra damage and 10% extra speed.
+-   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown once flames are cleared.
@@ -1462,8 +1462,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Stacks with Last Second Negotiation. (with both a grip takes about 6.5 seconds)
     -   Prerequisite: 20 Willpower
 
--   Last Resort \[Common Talent\] - Deal 10% more damage when your health is significantly low. (+10 Sanity)
-    -   When below 25% HP, gain +10% damage.
+-   Last Resort \[Common Talent\] - Deal +10% more damage when your health is below 25%. (+10 Sanity)
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
@@ -1611,9 +1610,7 @@ _**"I seek the qualities of Lichtenberg."**_
 
 > _**"My soul is an instrument with its own frequency."**_
 
--   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Tool in your inventory) (+9 Sanity).
-    -   Affected targets takes 25% more damage and has their posture stat halved (multipliers ignored).
-    -   Since the **target's** posture is halved, **you** do not take extra posture damage when parried.
+-   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
     -   Takes 100% ether to be used, therefore deactivating ardour.
     -   Will also combat tag anybody hit.
     -   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.

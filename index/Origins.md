@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112943
+revid: 112994
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -132,7 +132,7 @@ You can do Trial of One.
 
 -   Your starting reputations are:
     -   Friend of The Ignition Union and Lost Celtor
-    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
+    -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions
 -   Grants the Innate Talent "Union Card"
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>).
     -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex: layer 2, Saramaed hollow, Duke, and Ferryman)

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 106917
+revid: 112999
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -72,7 +72,7 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
 -   All races can be acquired from initial game/slot purchase.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
--   The most common race attribute is Charisma, granted by 6 races: Adret, Canor, Celtor, Chrysid, Felinor, and Tiran.
-    -   The second most common is Agility, granted by 5 races: Chrysid, Etrean, Felinor, Khan, and Tiran.
-    -   4 grant Intelligence (Capra, Celtor, Etrean, Ganymede), 4 grant Willpower (Adret, Capra, Ganymede, Vesperian) and 3 grant Strength (Canor, Gremor, Khan).
+-   The most common race attribute is Charisma, tied with Agility, granted by 5 races: Adret, Canor, Celtor, Chrysid, and Felinor.
+    -   Tied for the most common attribute is Agility, granted by 5 races: Chrysid, Etrean, Felinor, Khan, and Tiran.
+    -   Four races grant Intelligence (Capra, Celtor, Etrean, Ganymede), 4 grant Willpower (Adret, Capra, Ganymede, Vesperian) and three races grant Strength (Canor, Gremor, Khan).
     -   The least common is Fortitude, only granted by Vesperian and Gremor.
