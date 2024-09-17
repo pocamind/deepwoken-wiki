@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 108087
+revid: 113042
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -80,4 +80,3 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 ## Trivia
 
 -   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
-    -   However, since they're exclusive to The Depths, this implies his fishing line is somehow interdimensional.

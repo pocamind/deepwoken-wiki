@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 111110
+revid: 113051
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -32,6 +32,7 @@ This Outfit's Schematic can be found in:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
+-   [nyanna](Nyanna.md)
 
 ## Trivia
 

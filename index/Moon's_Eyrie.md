@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 112178
+revid: 113052
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
@@ -38,3 +38,4 @@ Moon's Eyrie is a mysterious island found within the Voidsea, potentially made a
 -   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
 -   A good place to farm for the [Astral Enchant Stone](Enchantments.md#list-of-enchantments) as [Moon Knights](Moon_Knight.md) have a chance to drop it (around 5%).
 -   Kaide, The Drowned Light gives some insight on where to find this island, as well as some lore about it.
+-   If your stuck inside the room you can spam the interact to open the door while dashing and jumping at the same time
