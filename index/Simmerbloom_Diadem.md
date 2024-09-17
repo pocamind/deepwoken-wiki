@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 113017
+revid: 113023
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -31,6 +31,6 @@ The **Simmerbloom Diadem** is an [Equipment](Equipment.md) item under the "Head"
 ## Trivia
 
 -   The second equipment with the 'Unique' rarity.
--   One of 5 items with the 'Unique' rarity, others include [Ferryman's Coat](<Ferryman's_Coat.md>), [Deepscorn Casque](Deepscorn_Casque.md), [Darkened Bastion](Darkened_Bastion.md) and [Soulthorn](Soulthorn.md).
+-   One of 5 items with the 'Unique' rarity, others include [Ferryman's Coat](<Ferryman's_Coat.md>), [Deepscorn Casque](Deepscorn_Casque.md), [Darkened Bastion](Darkened_Bastion.md).
 -   The first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension.
 -   This serves as a direct upgrade for Pleeksty's Inferno.
