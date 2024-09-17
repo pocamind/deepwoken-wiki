@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 111367
+revid: 113025
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1131,6 +1131,7 @@ After successfully casting lightning impact, strike down countless thunder at th
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
 -   **Emotion Wave** is a direct reference to the Ancient Dragons' Lightning Spear incantation from Elden Ring
 -   **The source for thundercall mantras damage:**
+-   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
     
     File:Thundercall mantras damage.png
     

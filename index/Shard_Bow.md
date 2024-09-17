@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 110629
+revid: 113031
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -11,7 +11,7 @@ categories: [Resonances]
 | Shard Bow | |
 |---|---|
 | effect | Leaps backwards to fire 1 or 3 arrows at the opponent. |
-| appearance | A silvery bow, seemingly made of pure light. |
+| appearance | A bright, transparent bow, seemingly made of pure light. |
 
 “ Conjure a mythical bow that hails down crystallized arrows. ”
 
@@ -29,24 +29,19 @@ User summons a shimmering-white bow and kicks off of the floor, firing explosive
 
 **Pressing C will activate the "Shard Bow" Resonance.**
 
-Both variants have complete penetration (100% PEN), meaning that no armor outfit would reduce the damage from being shot by Shard Bow.
-
 If Shard Bow is corrupted, it deals double posture damage and hits apply White Flames that scales on INT. It also gains additional damage if the user has the Talent Azure Flames. Appears to make you jump further back and higher up.
 
-### _Versions_
+#### _**Variants**_
 
-#### _Variants_
+-   **Variant 1** allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. The damage can vary depending on the user's and their opponents stats. It does ~62 damage (with Wyvern's Claw).
 
--   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. Damage can vary between bow users and their opponents. ~62 dmg (with wyverns) easier to hit
+-   **Variant 2** allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. It does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
 
--   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. Does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
-
-_**It is also affected by a Talent named “Wyvern’s Claw” which gives 10% damage while airborne, greatly increasing the damage.**_
+_**It is affected by “Wyvern’s Claw” which gives 10% damage while airborne, greatly increasing the damage.**_
 
 ## Trivia
 
+-   Both variants of Shard Bow do true damage, meaning the damage bypasses any form of resistance.
 -   Does a little less damage than a Strong Left (presumably without 100 str scaling) according to Agamatsu.
--   It heavily depends on the Talents and the other variables, meaning that it’s hard to account how much damage it does.
 -   Reference to _The Stormlight Archive'_s Grandbows.
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts."
--   Can be dodged/parried which somewhat makes it un-sufficent against an experienced player.

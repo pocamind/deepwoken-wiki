@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 112377
+revid: 113026
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,3 +30,4 @@ Last trip's batch seemed... Er. Underqualified. Young Epsi got sent down despite
 
 -   Renau's racial variant appears to be Lion.
 -   Renau along with [Gamma](Deepdelver_Gamma.md) are the only Deepdelvers responsible for Chariot's Spire.
+    -   Looks very similar to [Funke, Master of Thunder](Funke,_Master_of_Thunder.md)
