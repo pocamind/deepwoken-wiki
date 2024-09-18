@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 111892
+revid: 113073
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2, Quests]
@@ -61,7 +61,7 @@ He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
 </tr>
 <tr>
   <td colspan="6">A fine name... I see you have earned the respect of our kin. You are perhaps more fit to wield this spear than I am...</td>
-  <td colspan="6">[?]</td>
+  <td colspan="6">Ah, a good name... Thank you for bringing me some peace in my final moments, [Your First Name]...</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

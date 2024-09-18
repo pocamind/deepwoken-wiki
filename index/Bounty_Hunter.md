@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter
-revid: 110496
+revid: 113074
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -29,6 +29,7 @@ This Outfit grants the [Talent card](Talents.md) _Lightweight_, which increases 
 This outfit can be found in:
 
 -   [Erisia](Erisia.md)
+-   Sea Events
 
 ## Trivia
 

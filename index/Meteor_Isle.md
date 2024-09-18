@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 112575
+revid: 113084
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, Children of Navae]
@@ -24,7 +24,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 -   [Beiruul](Beiruul.md), the Gremor - Quest Giver
 -   [Cestis](Cestis.md), the Ganymede - Tacet Obtainment
 -   [Eres](Eres.md), Etrean Outcast - Etrea Lore
--   Exter, Gremor
+-   [Exter](Exter.md), Gremor
 -   Mercille, Vesparian - Meteor Isle > Starswept Sack Rewards
 -   [The Guy](The_Guy.md) - Summer Isle > Cannon Quest
 -   [Sekh](Sekh.md), Vesperian Hivekin - Meteor Isle Lore

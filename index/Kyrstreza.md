@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 106988
+revid: 113075
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -28,14 +28,15 @@ categories: [Weapons, Rapiers]
 
 ## Description
 
-The Kyrstreza is an Endgame [Light Weapon](Weapons.md) under the Rapier category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the default Rapier Critical Attack, which consists of a short windup followed by multiple quick thrusts forward.
+The Kyrstreza is an endgame [Light Weapon](Weapons.md) under the Rapier category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the default Rapier Critical Attack, which consists of a short windup followed by multiple quick thrusts forward.
 
   
   
   
 
-## Trivia
+## Tips/Trivia
 
+-   The Kyrsteza tends to shine when you don't need the [Crucible Rapier](Crucible_Rapier.md)'s bit of extra weight or the [Skullpiercer](Skull_Piercer.md)'s bleed or extra range.
 -   Meeting the requirement of LHT, the damage is (22.2)
 -   At max LHT, the damage is (24.6)
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrstreza**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md))
