@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 113083
+revid: 113091
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,7 +10,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Exter | |
 |---|---|
 | name | Exter |
-| location | Metero Isle |
+| location | Meteor Isle |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 112179
+revid: 113096
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -71,7 +71,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the First Layer are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the 'Light Hook' is ready.</td>
   <td colspan="3">[See first instance.]</td>
   <td colspan="3">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
-  <td colspan="3">[See Unlockable Dialogues --&gt; Lightkeeper.]</td>
+  <td colspan="3">[See Unlockable Dialogues --&gt; Lightkeeper]</td>
 </tr>
 <tr>
   <td colspan="2">1. I'm ready.</td>
@@ -102,7 +102,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ugh, I don't have time to train you Apprentices. SCRAM!</td>
+  <td colspan="12">Ugh, I don't have time to train you Apprentices. <b>SCRAM!</b></td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -360,7 +360,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Got Kyrsan Medallions?</td>
 </tr>
 <tr>
-  <td colspan="12">Know anything about this? [Show Kyrsan Medallion]</td>
+  <td colspan="6">Know anything about this? [Show Kyrsan Medallion]</td>
+  <td colspan="6">What do you have to offer?</td>
 </tr>
 <tr>
   <td colspan="12">*Her eyes light up briefly* Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
@@ -395,43 +396,19 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 <tr>
   <td colspan="2">Knowledge [5 Medallions]</td>
   <td colspan="2">Enchant Stone [5 Medallions]</td>
-  <td colspan="2">Equipment Enchantment [5 Medallions]</td>
+  <td colspan="2">Enchant Grease [5 Medallions]</td>
   <td colspan="2">Equipment Dye [1 Medallion]</td>
   <td colspan="2">Regarding Dawnwalker</td>
   <td colspan="2">Not enough Medallions for any purchase</td>
 </tr>
 <tr>
   <td colspan="2">Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
-  <td colspan="2">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
-  <td colspan="2">Ah, good deal. There's a trick to using these Enchant Stones y'know..</td>
-  <td colspan="2">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
+  <td colspan="6">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
   <td colspan="2">[See Dawnwalker]</td>
   <td colspan="2">I don't think you have enough on hand.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-  <td colspan="2">Not Holding Anything</td>
-  <td colspan="6">End</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="2">You gonna show me what you want enchanted or not? C'mon.</td>
-  <td colspan="6"></td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="2">Holding Ineligible Item</td>
-  <td colspan="6"></td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="2">Yeah, this won't do. Try something else.</td>
-  <td colspan="6"></td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="2">End</td>
-  <td colspan="6"></td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -491,6 +468,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 -   The name Klaris is likely derived from the French name Claris, which fittingly means "bright" or "clear."
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
     -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
+-   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
+    -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
 
 ## Footnotes
 

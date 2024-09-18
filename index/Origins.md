@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 112994
+revid: 113095
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -123,6 +123,10 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive. (Or other factions which may've put your bounty on their boards.)
 
 ## Ignition Delver
+
+“ Just another day on the job. The riches below ain't gonna extract themselves now, are they? ”
+
+― Flavor Text
 
 _**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld.
 

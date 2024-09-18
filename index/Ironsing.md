@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 112392
+revid: 113090
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -834,7 +834,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
 -   Ironsing is called 'Element' in the game's code.
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
--   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect.
+-   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect.
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   Using Erisore gives a blue particle effect. Effects unknown.
