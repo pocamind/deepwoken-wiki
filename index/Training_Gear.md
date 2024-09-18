@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 112163
+revid: 113109
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -34,7 +34,7 @@ A boulder in front of the Antiquarian shop at Etris
 
 -   Training Vest - Template:Cost / **50 uses**
 -   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, [Fort Merit](Fort_Merit.md) Guildhall House, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
--   Training - Taking damage while the item is active
+-   Training - Taking damage while the item is active, kills player at 1%.
 -   Boulder - Template:Cost / **200 uses**
 -   Location - Right outside of [Etris](Etris.md) Antiquarian, right next to [Stratos](Stratos.md) in the [Isle of Vigils](Isle_of_Vigils.md), First Floor [Greathive Aratel](Greathive_Aratel.md) Library, Outside of [Summer Isle](Summer_Isle.md) Shop in the pathway, right outside of [Castle Light](Castle_Light.md), and right outside of the [Miner's Landing](<Miner's_Landing.md>) banker.
 -   Training - Prolonged usage of the item[\[1\]](#cite-note-boulder-1), taking damage

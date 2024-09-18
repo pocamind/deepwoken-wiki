@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 111749
+revid: 113112
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -62,8 +62,8 @@ categories: [Mechanics]
 </tr>
 <tr>
   <td>Heavy Wind</td>
-  <td><a href="Second_Layer.md">Second Layer</a></td>
-  <td>Halts movement to a crawl when affecting a player. If the player does not face the wind and move forward it will ragdoll the player and fling them in the direction of the wind. It is unknown if the Survivalist <a href="Boons_and_Flaws.md">Boon</a> helps against this. Only found in Floor 1 of the <a href="Second_Layer.md">Second Layer</a>, and only on bridges in the 2nd part of the floor. Also increases parasite gain.</td>
+  <td><a href="Second_Layer.md">Second Layer</a> and <a href="Moon's_Eyrie.md">Moon's Eyrie</a></td>
+  <td>Halts movement to a crawl when affecting a player. If the player does not face the wind and move forward it will ragdoll the player and fling them in the direction of the wind. It is unknown if the Survivalist <a href="Boons_and_Flaws.md">Boon</a> helps against this. Found in Floor 1 of the <a href="Second_Layer.md">Second Layer</a>, on bridges in the 2nd part of the floor and in the bridges to go to the top of Moon's Eyrie. Also increases parasite gain.</td>
 </tr>
 </tbody>
 </table>

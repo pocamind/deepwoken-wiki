@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 111322
+revid: 113105
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Fadetrimmer | |
 |---|---|
-| oath_req | Power 12, 10 non-unique haircuts |
+| oath_req | Power 12, 15 non-unique haircuts |
 | effects | +1 Combat Mantra Slot, +1 Wildcard Mantra Slot |
 
 “ Yeah. We are a pretty underground Oath. You probably haven't heard of us. ”
@@ -27,7 +27,7 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Power 12+
 
--   Change your hair 10 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 10 times will work also)._
+-   Change your hair 15 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 15 times will work also)._
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
 

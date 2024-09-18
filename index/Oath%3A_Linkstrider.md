@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 112420
+revid: 113108
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -85,7 +85,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
     -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
-    -   If you wear a [Deepscorn Casque](Deepscorn_Casque.md), you can use sustain to heal others without losing health yourself.
+    -   Strongly recommended to be used with [Deepscorn Casque](Deepscorn_Casque.md), since it reduces the damage done to you from the mantra by about 50%.
 
 -   **Parasitic Leech (Mantra)**
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.

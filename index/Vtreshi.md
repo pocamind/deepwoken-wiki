@@ -1,6 +1,6 @@
 ---
 title: Vtreshi
-revid: 103743
+revid: 113113
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,7 +30,7 @@ An [Etrean](Etrean.md) [apprentice diver](Apprentice_Diver.md) in the snow below
 </tr>
 <tr>
   <th>*<i>She reaches up toward the sky, before dropping her arm back to her side out of weakness.</i>* The escape I need... and denied. Ignition Union is bitter even to the very end, letting us die out here... a rivalry so cruel, humanity is lost in its name.</th>
-  <th>I snuck away from the group while they slept... I tried to mee with the Union, I wanted to ask for their help. But, I'm a Diver, and the Union doesn't take kindly... so now I lay lost. I cannot return to my other Divers, I don't know where they are, and Chaser would kill me... now, I lay cold.</th>
+  <th>I snuck away from the group while they slept... I tried to meet with the Union, I wanted to ask for their help. But, I'm a Diver, and the Union doesn't take kindly... so now I lay lost. I cannot return to my other Divers, I don't know where they are, and Chaser would kill me... now, I lay cold.</th>
 </tr>
 <tr>
   <td>1. What does the Ignition Union have to do with this?</td>
