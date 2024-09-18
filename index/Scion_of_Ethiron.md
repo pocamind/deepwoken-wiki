@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 112500
+revid: 113065
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -29,9 +29,7 @@ Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)*
 
 Do keep in mind that the Scion of Ethiron is extremely resistant to the effects of [Vampirism](Enchantments.md) and [Bloodless Gems](Mantra_Modifiers.md). The healing is reduced enough as to be rendered quite literally negligible.
 
-But don't be afraid when fighting him, as he is made to be suitable to defeat without a PvE build. You can defeat Ethiron on a PvP build.
-
-Activating the boss fight will remove any light hook time immediately.
+> **Activating the boss fight will remove any light hook time immediately.**
 
 ## Attacks
 
@@ -184,7 +182,5 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 -   Due to the Vampirism enchant being mostly ineffective on bosses, the player must rely on other sources of healing like [Flamecharm's](Flamecharm.md) Flame Wisp and the health obtained from killing [Kyrsgarde](Kyrsgarde.md).
 -   The branches on its head are inspired by dendrites in neuron diagrams. The Scion only has four braincells.
 -   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
--   They're named "avatar" in the game files.
--   The Further you are from Ethiron the lesser chance he aggro's you when you have a friend
--   Although had some leaks, Ethiron is still one of the two bosses to not have a theme song (The other being [Dread Serpent](Dread_Serpent.md))
--   There was an ''Incident'' Where the scion of Ethiron was found in minitrysa, the crypt of the unbroken. Could this be the great drowning?
+-   Named "avatar" in the game files.
+-   Although some leaks have been presented, Ethiron is still one of two bosses to not have a theme song (the other being the [Dread Serpent](Dread_Serpent.md).)

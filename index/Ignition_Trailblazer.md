@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 112807
+revid: 113058
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, The Hive]
@@ -33,6 +33,7 @@ This Outfit's Schematic can be found in:
 -   [Summer Isle](Summer_Isle.md) Chests
 -   [Rogue Construct](Hive_Construct.md#rogue-construct) chests on [Minityrsa](Minityrsa.md)
 -   [The Depths](The_Depths.md)
+-   [Saramaed Hallow](Saramaed_Hollow.md)
 
 ## Trivia/Notes
 

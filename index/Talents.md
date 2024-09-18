@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113036
+revid: 113068
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1123,12 +1123,13 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1, you apply 100% prevention of your enemy's healing for 8 seconds.
-        -   Anti-heal percentage scales with investment up to its requirement, which causes a 40 Will, 15 Int investment to apply a ~33% anti-heal. (Only applies to [Shrine of Order](Deep_Shrines.md) users)
-    -   Lower anti-heal procs add up, causing 3 M1s to always apply full anti-heal regardless of investment.
+        -   Anti-heal percentage scales with investment up to its requirement for those who have used the [Shrine of Order](Deep_Shrines.md).
     -   Does not work on allies.
-    -   Blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), passive health regen, campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
+    -   Blocks spit healing, [Bloodless Gem](Deep_Gems.md), passive health regen, campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
+        -   Passive health regeneration and campfire regeneration are fully blocked even if the full requirements are not met.
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
+
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from Talents that require insanity to use (namely Lose Your Mind)

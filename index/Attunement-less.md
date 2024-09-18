@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 111228
+revid: 113062
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -119,6 +119,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
+    <li>Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.</li>
     <li><i>(Used to be 20 strength, was shadow changed to be 5 strength.)</i></li>
   </ul></li>
   </ul></td>

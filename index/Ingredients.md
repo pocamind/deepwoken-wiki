@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 111572
+revid: 113059
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -28,8 +28,6 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 
 Raw materials harvested from the environment.
 
-(Not completed)
-
 ### Mushrooms
 
 -   [Gobletto](Gobletto.md) - A mushroom that is white and has a tube-like stalk.
@@ -49,7 +47,8 @@ Raw materials harvested from the environment.
 ### Miscellaneous
 
 -   [Gathered Wheat](Gathered_Wheat.md) - Self-explanatory.
--   [Bamboo](Bamboo_Bundle.md) [Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly on beaches and shores.
+-   [Bamboo Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly on beaches and shores.
+-   [Egg](Egg.md) - Bird eggs, found in trees.
 -   [Alestrian Coral](Alestrian_Coral.md): Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
 -   [Sap](Sap.md): Amber streak of sap that appears on large trees.
 -   Scallop: Found in [Scyphozia](First_Layer.md).
