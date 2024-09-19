@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 112918
+revid: 113191
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,43 +12,96 @@ _Also known as "Bruteskipper" or "Brutelords"._ Template:Creature Infobox V3
 
 ## Description
 
-The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md), boasting higher innate stats, a wider moveset, and a unique, beefy pectoral body. Despite their quite menacing look, they have a simple moveset compared to most other monsters and don't have that much health, being easily learnable. However, it's relative, the [Mudskipper Broodlord](Mudskipper_Broodlord.md), is a more powerful variant of this monster.
+The Mudskipper Brute is a mutated version of the [Mudskipper](Mudskipper.md). It boasts higher innate stats, unique attacks, and a much beefier body. Despite their menacing look, they have a simple moveset and low health compared to most other monsters, making them easily learnable. They are not to be confused with the [Mudskipper Broodlord](Mudskipper_Broodlord.md), which is a more powerful variant of this monster.
 
 ## Moveset
 
-| Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| Lumbering Strike | Delivers a deliberate punch. | 
+| Name | Description/Danger | GIF |
+| --- | --- | --- |
+| 
+**Punch**  
+(★☆☆)
+
+ | The Brute throws a brutal and powerful punch.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
 File:Mudskipper Brute Punch1.gif
 
- | ◯ | ◯ | ◯ | (★☆☆) |
-| Lumbering Jab | Delivers a sucker punch. | 
+ |
+| 
+
+**Left Hook**  
+(★☆☆)
+
+ | The Brute throws another brutal and heavy blow. Typically used right after Punch.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
 
 File:Mudskipper Brute Punch2.gif
 
- | ◯ | ◯ | ◯ | (★☆☆) |
-| Lumbering Thrust | Delivers a stronger, unparriable thrust with its fist. | 
+ |
+| 
+
+**Lumbering Thrust**  
+(★★☆)
+
+ | Delivers a stronger, unparriable thrust with its fist.
+
+  
+Parryable:X  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
 
 File:Mudskipper Brute Thrust.gif
 
- | X | ◯ | ◯ | (★★☆) |
-| Lumbering Smash | Leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable slam. This move autogrips knocked enemies. | 
+ |
+| 
+
+**Lumbering Smash**  
+(★★★)
+
+ | Leaps forward and raises its arms into the air, swinging down on its prey with an unparriable slam. This move autogrips knocked enemies.
+
+  
+Parryable:X  
+Blockable:X  
+Dodgeable:◯
+
+ | 
 
 File:Mudskipper Brute Slamdown.gif
 
- | X | X | ◯ | (★★★) |
-| Call of the Horde | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summon two random [Mudskippers](Mudskipper.md). | 
+ |
+| 
+
+**Call of the Horde**  
+(★★★)
+
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two random [Mudskippers](Mudskipper.md). | 
 
 File:Mudskipper Brute Roar.gif
 
- | N/A | N/A | N/A | (★★★) |
+ |
 
 ## Trivia
 
--   This mob was added to the game in the weekly update of April 12th, 2024.
-    -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release and then got replaced back by the Megalodaunts again the week after.
--   This mob's design, along with the [Broodlords](Mudskipper_Broodlord.md) variants, are inspired by the Clickers from _The Last of Us_.
+-   It was added to the game in the weekly update of April 12th, 2024.
+    -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release, only to be swapped back with the Megalodaunts the week after.
+-   Its design, along with the [Broodlord](Mudskipper_Broodlord.md) variant, are inspired by the Clickers from _The Last of Us_.
     -   The design could also be influenced by the Bloater from the same game.
--   When attacked by a cannonball it will be killed instantly.
--   It appears that Mudskipper Brutes can parry projectiles, this has no animation or particle effects but still inflicts parry stun if possible.
--   This mob can sometimes noclip with the Lumbering Smash, along with the [Mudskipper Broodlord.](Mudskipper_Broodlord.md)
+-   It will be killed instantly when attacked by a cannonball.
+-   It appears that Mudskipper Brutes can parry projectiles. This has no animation or particle effects but still inflicts parry stun if possible.
+-   Both it and the [Mudskipper Broodlord](Mudskipper_Broodlord.md) can sometimes noclip when using Lumbering Smash.

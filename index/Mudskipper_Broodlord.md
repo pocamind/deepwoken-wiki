@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 112919
+revid: 113190
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,38 +12,110 @@ _Also known as "Broodskippers", "Purpleskippers", "Mahoraga" or various other na
 
 ## Description
 
-A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear more intelligent, capable of using their fellow Mudskippers as tools, and are distinguished thanks to their purple hue.
+A far more powerful & dangerous variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear more intelligent, capable of using their fellow Mudskippers as tools, and are distinguished from their weaker counterparts by their purple hue.
 
-**They inflict heavy antiheal** similar to the Talent "All the Dead Gods" whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md) by hindering your healing significantly.
+**They inflict heavy anti-heal** similar to the Talent "All the Dead Gods" whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Moveset
 
-| Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| Punch | The Broodlord throws a brutal and powerful punch. | 
- | ◯ | ◯ | ◯ | (★☆☆) |
-| Left Hook | The Broodlord throws another brutal and heavy blow. Typically used right after punch. | 
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
+| 
+**Punch**  
+(★☆☆)
 
- | ◯ | ◯ | ◯ | (★☆☆) |
-| Broodrot Thrust | Delivers a stronger, unparriable thrust with its rotten fist. | 
+ | The Broodlord throws a brutal and powerful punch.
 
- | X | ◯ | ◯ | (★★☆) |
-| Broodrot Smash | Rigorously leaps forward and raises its arms into the air, aiming towards its prey in with an unparriable rotten slam. This move autogrips knocked enemies. | 
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
- | X | X | ◯ | (★★★) |
-| Call of the Horde | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summon two random [Mudskippers](Mudskipper.md). Applies Anti-heal, scream can be blocked to avoid anti heal. | 
+ | 
 
- | N/A | ◯ | N/A | (★★★) |
-| Rotten Mudtoss | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact. | 
+ |
+| 
 
- | X | ? | ◯ | (★★★) |
+**Left Hook**  
+(★☆☆)
+
+ | The Broodlord throws another brutal and heavy blow. Typically used right after Punch.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
+ |
+| 
+
+**Broodrot Thrust**  
+(★★☆)
+
+ | Delivers a stronger, unparriable thrust with its rotten fist.
+
+  
+Parryable:X  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
+ |
+| 
+
+**Broodrot Smash**  
+(★★★)
+
+ | Rigorously leaps forward and raises its arms into the air, swinging down on its prey with an unparriable rotten slam. This move autogrips knocked enemies.
+
+  
+Parryable:X  
+Blockable:X  
+Dodgeable:◯
+
+ | 
+
+ |
+| 
+
+**Call of the Horde**  
+(★★★)
+
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two random [Mudskippers](Mudskipper.md). Applies anti-heal. The scream can be blocked to avoid anti heal.
+
+  
+Parryable: N/A  
+Blockable:◯  
+Dodgeable: N/A
+
+ | 
+
+ |
+| 
+
+**Rotten Mudtoss**  
+(★★★)
+
+ | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
+
+  
+Parryable:X  
+Blockable:?  
+Dodgeable:◯
+
+ | 
+
+ |
 
 ### **Passives**
 
 -   **Broodlord Rot** - Upon striking an enemy, or using their shriek, the Mudskipper Broodlord inflicts a light amount of insanity, along with applying 80% anti-heal for 8 seconds.
-    -   Natural health regen is not affected, artificial health regen is.
+    -   Natural health regen is not affected. Artificial health regen is.
     -   In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
-        -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is bumped up to 100%, confirmed by a Restoration Moderator, this includes Corrupted Payback, however, it excludes health packs received from killing entities.
+        -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is bumped up to 100%, confirmed by a Restoration Moderator. This includes Corrupted Payback, however, it excludes health packs received from killing entities.
 -   **Sturdy** - The Broodlord remains posture broken for much less time compared to other monsters.
 -   **Advanced Knowledge** - Unlike other monsters, the Broodlord is able to parry multiple mantras that attack from a far range, such as Blinding Dawn, Caltrops, Tornado, and many others.
 

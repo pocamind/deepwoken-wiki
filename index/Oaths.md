@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 112417
+revid: 113179
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -16,7 +16,7 @@ notices:
 
 ## Description
 
-_**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements. Yun shul is yo mama
+_**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
 **Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but... "_it's called an Oath for a reason._" Heed the consequences that come with being an Oathbreaker.
 
@@ -35,7 +35,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath 
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
 -   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +20% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
 -   [Saltchemist](Oath%253A_Saltchemist.md): +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load \[75 Intelligence\]
--   [Silentheart](Oath%253A_Silentheart.md): +10% Mantra Resistance, +10 HP, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
+-   [Silentheart](Oath%253A_Silentheart.md): +10 HP, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 

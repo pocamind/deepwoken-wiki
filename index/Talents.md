@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113169
+revid: 113188
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1125,10 +1125,11 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1, you apply 100% prevention of your enemy's healing for 8 seconds.
-        -   Anti-heal percentage scales with investment up to its requirement for those who have used the [Shrine of Order](Deep_Shrines.md).
+        -   Anti-heal percentage scales with the total investment of Willpower + Intelligence, up to 105. Relevant for [Shrine of Order](Deep_Shrines.md).
     -   Does not work on allies.
     -   Blocks spit healing, [Bloodless Gem](Deep_Gems.md), passive health regen, campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
         -   Passive health regeneration and campfire regeneration are fully blocked even if the full requirements are not met.
+    -   While only M1s are specified, it's also applied on criticals.
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 
