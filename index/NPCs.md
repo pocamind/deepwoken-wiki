@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 113086
+revid: 113129
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -37,6 +37,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md) | apparently you know her from somewhere... |
 | [Avian](Avian.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
+| [Beiruul](Beiruul.md) | The Children Of Navae | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | Unaligned | [Etris](Etris.md), library near the inn | Duke of Sin questline |  |
 | [Calamus](Calamus.md) | [The Hive](The_Hive.md) | [Starswept Valley](The_Starswept_Valley.md) | Gives you a quest to hunt a monster. Quest completion gives Hive rep |  |
@@ -49,6 +50,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Dockson](Dockson.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
 | [Drefa](Drefa.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
+| [Eres](Eres.md) | [The Kingdom of Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Emel](Emel.md) | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Erisae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
@@ -129,6 +131,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Rimil](Rimil.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Samael](Samael.md) | Starkindred Faithful | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |
+| [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |
 | [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |
 | [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |

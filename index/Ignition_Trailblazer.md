@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 113058
+revid: 113125
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, The Hive]
@@ -29,13 +29,14 @@ This Outfit also grants the [Talent Cards](Talents.md) _Perseverance_ and _Low S
 This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   [Summer Isle](Summer_Isle.md) Chests
+-   [Saramaed Hallow](Saramaed_Hollow.md)
+-   [Summer Isle](Summer_Isle.md)
 -   [Rogue Construct](Hive_Construct.md#rogue-construct) chests on [Minityrsa](Minityrsa.md)
 -   [The Depths](The_Depths.md)
--   [Saramaed Hallow](Saramaed_Hollow.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 
 -   One of the cheapest Expert armors to make.
--   Literally Hive Drone with different stats.
+-   Has the same stats as [Hive Drone](Hive_Drone.md) but with an extra talent.

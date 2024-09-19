@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 112490
+revid: 113144
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -31,7 +31,7 @@ New Kyrsa contains numerous large, pink glowing chests. They contain 8-10 **Kyrs
 
 In order to escape New Kyrsa, you must activate all 5 Obelisks and defeat [Scion of Ethiron](Scion_of_Ethiron.md). Along with that, you have 45 minutes to activate all Obelisks. On the first and second 15 minute mark, you will be sent to the start with all Obelisks still activated. When the time is up, you die instantly. This timer is tracked by the Old Diver Watch you gain upon entering. After activating all the Obelisks, time will halt and you may freely explore the floor without dying.
 
-This place is currently one of the most challenging places in-game, since you can meet numerous hostile Kyrsgardes that are extremely difficult to fight. The final enemy, Scion of Ethiron, is a very challenging boss fight, by far the biggest wall of clearing Second Floor.
+This place is currently one of the most challenging places in-game, since you can meet numerous hostile Kyrsgardes that are extremely difficult to fight. The final enemy, Scion of Ethiron, is a very "challenging" boss fight, by far the biggest wall of clearing Second Floor.
 
 If you die here, you will wipe, or if you still have the Light Hook you will be sent back to [Castle Light](Castle_Light.md).
 

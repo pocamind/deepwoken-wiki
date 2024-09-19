@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 112589
+revid: 113120
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -26,7 +26,7 @@ categories: [Weapons, Flintlocks]
 
 ## **Description**
 
-The **Dragoon** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
+The **Dragoon** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), from [Bounties](Bounty_Hunting.md), or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light Weapon to be equipped.
 
 ## Trivia
 

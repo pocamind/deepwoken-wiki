@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 106741
+revid: 113151
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -35,17 +35,18 @@ Critical
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
 
  | ◯ | ✗ | (★★☆) |
-| Ice Smash | _A colossal mace of ice._ | ◯ | ◯ |  |
+| Ice Smash | _A colossal mace of ice._ | ◯ | ◯ | (★★☆) |
 | 
 
 Ice Eruption
 
- | _A flurry of ice spikes._ | ? | ✗ | (★★☆) |
+ | _A flurry of ice spikes._ | ✗ | ✗ | (★★☆) |
 | 
 
 Glacial Shower
 
  | _Rains down shards of ice._ | ◯ | ◯ | (★★☆) |
+| Iceberg | _A state of cryostasis._ | ◯ | ◯ | (★☆☆) |
 
 ## Talents
 
@@ -75,4 +76,4 @@ An Authority Captain executes it's opponent after knocking them:
 
 -   This and the Authority Lieutenant are the only Authority Soldiers with completely unobscured faces.
 -   The Authority Captain has no chance of winning if it fights against the Hive Construct.
--   The spawn of an Authority Captain may occasionally be affected by a glitch, in which case they may not spawn with a weapon with which to fight but can still parry or use Mantras.
+-   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(Enemy).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct...](Hive_Construct.md))

@@ -1,9 +1,9 @@
 ---
 title: Ministry Agent
-revid: 109428
+revid: 113135
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Bosses, Enemies, The Ministry, Ministry Enemies]
+categories: [In progress without reason, InProgressPages, NPCs, Enemies, The Ministry, Ministry Enemies]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -32,9 +32,3 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 | Eclipse Kick | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back. | ◯ | ◯ | ◯ | (★★☆) |
 | Shadow Eruption | The user swipes with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. | ◯ | ◯ | ◯ | (★★☆) |
 | **Vent** | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ◯ | (★☆☆) |
-
-## Trivia
-
-The Ministry Agent gives Resonance progress upon defeat, but the amount is currently unknown.
-
-Like the [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md), he is immune to instant guard breaks.

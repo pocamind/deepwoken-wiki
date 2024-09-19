@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 112427
+revid: 113150
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,7 +68,7 @@ Gain a 20% defense boost to all sources. Applied after knocking someone with the
 
 ### Overcharm
 
-Apply charm per every m1, and Mantra used, even without having the Charismatic Cast Talent. Also amplifies the speed for an execute. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) Talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) Talent. (Can also be applied to self with the narcissist Talent)
+Apply charm per every M1 and Mantra used, even without having the Charismatic Cast Talent. Also amplifies the speed for an execute and grants +10% damage. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) Talent, using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) Talent and can also be applied to self with the narcissist Talent.
 
 ### Mark of Jurik
 

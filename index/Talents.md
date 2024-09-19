@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113068
+revid: 113159
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -354,6 +354,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
+    -   Damage is reduced by ~20%.
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   Prerequisites: 25 Fortitude
 
@@ -725,9 +726,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
-    -   Deals true damage.
-        -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers, essentially dealing another fresh hit for free.
-    -   Can proc from some physical mantras
+    -   The second slash has no PEN.
+    -   Can proc from some physical Mantras.
     -   Prerequisites: 20 Strength, 25 Agility
 
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
@@ -2332,13 +2332,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Charismatic Cast, 60 Charisma
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Prerequisites: Charismatic Cast, 60 Charisma
-    -   Mutual Exclusives: Tough Love
+    -   Mutual Exclusives: Tough Lovechea
 
 ### Trickster
 
 **"I often like to play pranks on others."**
 
--   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
+-   Cheap Shot \[Common Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
     -   Prerequisite: 75 Agility
@@ -2386,8 +2386,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Scoundrel
 
 -   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
+    -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
+        -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   5 Second Cooldown.
     -   Prerequisites: Trained Fist, 25 Agility
+
 -   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
     -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
 

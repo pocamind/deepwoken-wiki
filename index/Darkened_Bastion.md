@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 110910
+revid: 113142
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -27,8 +27,8 @@ This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemen
 This Outfit's Schematic can be found in:
 
 -   [Scyphozia, The First Layer](First_Layer.md)
-    -   A drop when defeating Ministry Cache Agent, after using Shadow Flight/Shadow Travel infront of Silhuett, who spawns randomly in the Depths teleporting you to the Ministry Cache.
-    -   Alternatively can be gained by having Ally [Ministry](The_Ministry.md) reputation and talking to him in the Ministry Cache
+    -   A drop when defeating a [Ministry Agent](Ministry_Agent.md), after using Shadow Flight/Shadow Travel infront of Silhuett, who spawns randomly in the Depths teleporting you to the Ministry Cache.
+    -   Alternatively can be gained by having high Ally [Ministry](The_Ministry.md) reputation and talking to him in the Ministry Cache
     -   Or gained by using the purple lights to access the Ministry Cache at a low (~1%) chance.
 -   [Etrean Luminant](Luminants.md), [Outpost Antumbra](Outpost_Antumbra.md)
     -   Gained via the purple lights event.
