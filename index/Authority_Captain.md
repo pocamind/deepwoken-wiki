@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 113151
+revid: 113163
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -77,3 +77,4 @@ An Authority Captain executes it's opponent after knocking them:
 -   This and the Authority Lieutenant are the only Authority Soldiers with completely unobscured faces.
 -   The Authority Captain has no chance of winning if it fights against the Hive Construct.
 -   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(Enemy).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct...](Hive_Construct.md))
+-   Very rare but they can sometimes beat a Hive Construct.
