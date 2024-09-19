@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 106721
+revid: 113165
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -30,9 +30,9 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
 
  | ◯ | ✗ | (★★☆) |
-| Fire Blade | Slicing blades of flame | ◯ | ✗ | (☆☆☆) |
-| Burning Servants | Summon a legion of flaming spearmen that lunge inwards. | ◯ | ? | (☆☆☆) |
-| Flame Grab | A fiery chokehold | ? | ? | (☆☆☆) |
+| Fire Blade | Slicing blades of flame | ◯ | ◯ | (★☆☆) |
+| Burning Servants | Summon a legion of flaming spearmen that lunge inwards. | ◯ | ◯ | (★☆☆) |
+| Flame Grab | A fiery chokehold | ◯ | ◯ | (★☆☆) |
 
 ## Talents
 

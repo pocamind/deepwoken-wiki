@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 110597
+revid: 113164
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -31,7 +31,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 
 The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, manipulating a fraction of Ethiron's power to unleash a devastating blast of energy.
 
-It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md). If you are lucky enough to trade with the [Weird Trader](Weird_Trader.md), you might obtain this weapon.
+It drops surprisingly commonly, exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md). If you are lucky enough to trade with the [Weird Trader](Weird_Trader.md), you might obtain this weapon.
 
 ## Critical
 
@@ -51,4 +51,3 @@ The critical has a cooldown of eight seconds.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
 -   At max HVY and CHA, the weapon deals 40.3 damage.
--   This weapon DOES NOT help your issues of sucking so you WILL need aim to effectively use the critical or just summon a Visionshaper Clone and shoot them while they're fighting your clone

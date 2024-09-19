@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113159
+revid: 113169
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -363,7 +363,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
-    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower, down to 3(?) seconds at 100 Willpower.
+    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds.
+    -   Perseverance scaling with willpower is a myth as higher willpower will make you wakeup faster wether you have preserverance or not.
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
@@ -461,7 +462,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I have never lost."**_
 
 -   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you.
-    -   "Higher HP" refers to max HP. Due to this, this Talent is almost always active in PvE.
+    -   "Higher HP" refers to current HP.
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
@@ -481,6 +482,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
     -   Synergizes greatly with healing, allowing for you to heal 20% more effective health when low.
     -   Will apply combat tag against opponents.
+    -   Deals a very very small damage (like 1 damage) whenever it procs.
     -   Effect Lasts 15s (7.5s against Disbelief Talent)
     -   Proc Cooldown: 0.25s
     -   Prerequisite 55 Charisma, Charismatic Cast

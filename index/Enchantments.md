@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 113063
+revid: 113170
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -371,7 +371,7 @@ Allure
 
  | 
 
-On proc, apply Charm on the enemy. All charm related Talent that the user have are applied.
+On proc, apply Charm on the enemy for 10s (5s against the talent "Disbelief"). All charm related Talent that the user have are applied.
 
  | 
 
