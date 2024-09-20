@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 110822
+revid: 113245
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -103,3 +103,8 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
 -   When under the effect of a Potion, you'll only be affected by them for roughly 75% of the duration. This may be true for Chilling and Suffocate as well. (Needs testing.)
+-   Molt does not affect speed boost duration[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1)
+    
+    File:Molt speedboost.png

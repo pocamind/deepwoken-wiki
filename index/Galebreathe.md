@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 111500
+revid: 113243
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -155,6 +155,7 @@ _A strike from the heavens._
 -   Feinting it leaves the user unable to use gale lunge and heavenly wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
+-   Can be used in combination with cap artist to ragdoll and fling yourself insanely far.
 
  |
 |  | 
@@ -614,7 +615,7 @@ Knocking enemies into objects with wind spells deals additional blunt damage bas
 |  | 
 
 Inhale  
-(GALE 50, Breathing Impact)
+(GALE 60, Breathing Impact)
 
  | 
 
@@ -757,7 +758,7 @@ Maestro's Blade
 
  | 
 
-Inhaling a spell will cause the wind to be applied to your melee attack.
+Inhaling a spell will cause the wind to be applied to your melee attack. (WAS MERGED TO INHALE)
 
  | 
 

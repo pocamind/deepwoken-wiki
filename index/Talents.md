@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113237
+revid: 113239
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1028,7 +1028,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. (+1 Elemental Intensity)
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Inhaling a Galebreathe Mantra adds 10% of that Mantra's damage to the next Galebreathe Mantra used.
+    -   Inhaling a Galebreathe Mantra adds (Mantra Level/2) damage to the next Galebreath Mantra.
     -   Prerequisites: 60 Galebreathe, Breathing Impact
     -   Speed boost has a 2 second cooldown.
 
