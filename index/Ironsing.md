@@ -1,16 +1,12 @@
 ---
 title: Ironsing
-revid: 113104
+revid: 113280
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
 ---
 
 # Ironsing
-
-“ Everything is a cheese build if you're salty enough right? right? ”
-
-― Little Timmy while stepping into the darkside
 
 Your ability to harness and control metal from your surroundings.
 

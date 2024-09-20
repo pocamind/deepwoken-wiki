@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 113062
+revid: 113260
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -88,6 +88,9 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <ul>
     <li>Throw a piece of the ground that goes straight in the direction your character (not your camera) is looking at.</li>
     <li>Victims crushed by the rock will be dazed and will be thrown away.</li>
+    <li>20/30/40/50/60 damage per level</li>
+    <li>72 damage at 100 Strength level 5</li>
+    <li>2 Strength scaling</li>
   </ul></li>
   </ul></td>
 </tr>

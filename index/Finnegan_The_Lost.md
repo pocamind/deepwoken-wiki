@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 113103
+revid: 113255
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, InProgressPages]
@@ -52,3 +52,5 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 -   As of now, nobody knows what Finn is searching for, as mentioned in his spawn dialogue.
 -   This one's sanity must've already crumbled.
 -   Finn also mentions a 'her' when spawning in, as of now we don't know who this is.
+
+(If anyone would like to help please find all his spawn dialogue, I'll add them if you dm me or comment them.)

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 113035
+revid: 113279
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -78,7 +78,7 @@ This shrine has 2 effects depending on your Power:
 ― Shrine of Mastery
 
   
-Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>).
+Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>), in the little house where [Ciea](Ciea.md) is located.
 
 ## Effect
 

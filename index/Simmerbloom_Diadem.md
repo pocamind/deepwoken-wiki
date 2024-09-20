@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 113023
+revid: 113261
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]

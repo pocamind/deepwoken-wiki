@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 113087
+revid: 113282
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -19,7 +19,7 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-**Ata** is a [Celtor](Celtor.md) NPC, that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each. She is located in front of the [Mystic](Mystic.md) on [Meteor Isle](Meteor_Isle.md), Apparently you know somewhere...
+**Ata** is a [Celtor](Celtor.md) NPC, that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each. She is located in front of the [Mystic](Mystic.md) on [Meteor Isle](Meteor_Isle.md), Apparently you know her from somewhere...
 
 ## Dialogue
 
