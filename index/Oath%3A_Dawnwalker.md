@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 113034
+revid: 113202
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -20,6 +20,12 @@ categories: [Oaths, The Divers]
 ## Description
 
 **[Oath](Oaths.md): Dawnwalker** is one of the 14 obtainable Oaths in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements (except the power 15 requirement to talk to Klaris). It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath. (While still possible in one run, requires you to have a [Resonance](Resonance.md) healthpack to survive the collapse, alongside being VERY risky and not recommended, and also possible with 40 medallions if you have fully progressed the oath before, thanks to the new oath prog skip feature)
+
+“ Child, do you swear to carry the Light as a weapon against the Deep? To wield the Song only as a Radiant Blade against that which it beckons? ”
+
+― Klaris Llfiend, Mother of Lights
+
+This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, the same Light that Lightkeepers use to illuminate the Voidsea as a means of traversal between luminants. [The Divers,](The_Divers.md) instead of utilising it to traverse the Voidsea, use the Radiant Tones to fight against The Depths itself, resulting in the creation of this Oath.
 
 ## Obtainment
 
@@ -41,13 +47,22 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 -   **Blinding Dawn (★★★) - Combat Mantra**
     
-    -   _Spin rapidly to unleash powerful rays of light._
+
+_Spin rapidly to unleash powerful rays of light._
 
 -   **Radiant Kick** (★★★) - **Combat Mantra**
-    -   _Kick your foes at the speed of light._
+
+_Kick your foes at the speed of light._
+
+  
 
 -   **Radiant Dawn** (★★★) - **Combat Mantra**
-    -   _Strike down your foes with your blinding light._
+
+_Strike down your foes with your blinding light._
+
+-   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
+-   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
+    -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
 
 Luminous Flash on proc
 

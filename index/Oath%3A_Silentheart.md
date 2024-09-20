@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 113011
+revid: 113222
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -131,7 +131,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random Talents.
     -   You're also still able to be given a whisper on level up.
     -   The Mantra from [Kelsius](Kelsius.md) CAN be exchanged for Talents.
--   The No Attunement trainer Regek cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse."
+-   The No Attunement trainer Regek cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadheart.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game without using glitches, as it requires the player to cast a Mantra. If you find yourself playing it, keep logging and joining back until you happen to not be playing it.

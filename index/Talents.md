@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113188
+revid: 113223
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -89,8 +89,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Can stack with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
+    -   While not mentioned in the Talent description, your climb height increases when you slide jump.
     -   You can fall further before incurring fall damage.
-    -   The Boulder Climb talent has been merged into Kick Off.
     -   3 Second cooldown.
     -   Prerequisite: 20 Agility
 
@@ -1026,7 +1026,9 @@ _**"I'm built different" - Cannot Give Talents**_
     -   The following Galebreath Mantras have knockback and can benefit from this Talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
     -   Prerequisites: 30 Galebreathe
 
--   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra. While also gaining a speed boost after a successful inhale. (+1 Elemental Intensity)
+-   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. (+1 Elemental Intensity)
+    -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   Inhaling a Galebreathe Mantra adds 10% of that Mantra's damage to the next Galebreathe Mantra used.
     -   Prerequisites: 60 Galebreathe, Breathing Impact
     -   Speed boost has a 2 second cooldown.
 
@@ -2782,8 +2784,9 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
 
-## Tips/Trivia
+## Trivia
 
+-   Despite both [Boulder Climb and Maestro's Blade](Cut_Content.md#talents) being merged with Kick Off and Inhale respectively, their respective descriptions were not updated to indicate this.
 -   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
@@ -2791,14 +2794,10 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1).
 -   Hovering over the Talent category in a campfire reveals the [Mystic](Mystic.md) prompt for it, even prompts for categories that cannot obtained via Mystic (Innate, Genius Intellect, Comrade etc.).
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
--   The Pocket Sand Talent, especially its description, is a reference to Rogue Lineage.
-    -   Paying [Tal](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
+-   The Pocket Sand Talent, especially its description, is a reference to Rogue Lineage. Paying [Tal](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest Talent.
 -   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
 -   Lava serpent's and Azure flame's can both be used simultaneously.
 -   The Strength stat unbounded Talent (Strength Unbounded) is under the category "One Eyed King" which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
--   The Giantslayer talent used to not specify the amount of extra damage you dealt to monsters. (past: "Deal more damage to larger foes."
-
-current: "Deal 10% more damage to larger foes.")
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)

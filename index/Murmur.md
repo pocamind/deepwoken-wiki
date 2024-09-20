@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 112188
+revid: 113228
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics, Murmurs]
@@ -23,9 +23,7 @@ Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
 Currently, there are three known obtainable Murmurs; [Ardour](Murmur%253A_Ardour.md), [Tacet](Murmur%253A_Tacet.md), and [Rhythm](Murmur%253A_Rhythm.md). You must be at least [Power](Power.md) 6 to obtain a Murmur. Should you wish, they can be removed via the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using a Wish.
 
-Murmurs are strong but hard to master abilities. A weak user will have a harder time making good use of them until they become stronger and more experienced.
-
-Murmurs scale with the user's Power, reaching their maximum potential at Power 20.
+Murmurs are strong but hard to master abilities. A weak user will have a harder time making good use of them until they become stronger and more experienced. As such, Murmurs scale with the user's Power, reaching their maximum potential at Power 20.
 
 ## Murmurs
 
@@ -41,8 +39,7 @@ There are currently three Murmurs:
     -   Tacet translates to 'silent', while the Murmur completely silences your actions by making you invisible.
     -   Rhythm, meaning the systematic arrangement of musical sounds, in which the user listens to beats emanating from entities.
     -   Ardour means great enthusiasm or passion, but is also the name of a [software](<https://en.wikipedia.org/wiki/Ardour_(software)>) that allows for the creation of music.
--   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring, but was later reintroduced into Verse 2 by said methods.
--   Murmurs were introduced through [Mur of Light](Mur_Of_Light.md).
+-   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring. This was scrapped in Verse 2.
+-   Murmurs were likely introduced to the world of Deepwoken through the being [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding mantra.
 -   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_
--   Ardour Scream may be reference to Dragon scream from Dark Souls

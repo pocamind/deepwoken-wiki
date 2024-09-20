@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 113184
+revid: 113224
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -74,6 +74,7 @@ Loot is based on the type of mob you kill. It can be:
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 -   [Ignition Gauntlets](Ignition_Gauntlets.md)
 -   [Simmerbloom Diadem](Simmerbloom_Diadem.md)
+-   [Abyss Wanderer Plate](<Abyss_Wanderer's_Plate.md>) / Boots
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot from [The Depths](First_Layer.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 113170
+revid: 113208
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -666,14 +666,14 @@ Drowned Grease
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
     -   Stormbreaker is based mechanically on Thor from _God of War_ and it's namesake is the mythical axe _Stormbreaker_ wielded by Thor from _Avengers: Infinity War._
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
-    -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/The_No_Life_King) from _Fantasy of Grimgar and Ash. It might also be a refference to Hellsing, where Alucard's alias is "No-Life King"._
+    -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/The_No_Life_King) from _Fantasy of Grimgar and Ash. It might also be a reference to Hellsing, where Alucard's alias is "No-Life King"._
         
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
         
         -   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December 2021**
-    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true tho and has been confirmed by Yayafino to be a big lie._
+    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true though and has been confirmed by Yayafino to be a big lie._
         
         Yayafino confirming the old Umbral Knight curse was never real.
         
@@ -684,7 +684,7 @@ Drowned Grease
         _
     -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[3\]](#cite-note-3) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
-    -   Equipping an enchanted item as a sidearm will have its enchantment be overriden by your main weapon, including the lack of an enchantment itself.
+    -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
 -   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
 -   Nemesis causes enemies to react to its critical even without a hitbox.
@@ -696,7 +696,7 @@ Drowned Grease
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 -   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)
 -   Blazing can NOT be used to ignite campfires that are unlit by m1's.
--   Enchantments can be obtained very easily on island events on 2x chest weekends.
+-   Due to larger loot pools on 2x chest weekends, enchantments can be obtained easier.
 
 ## References
 

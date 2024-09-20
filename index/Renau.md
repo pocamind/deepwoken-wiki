@@ -1,8 +1,9 @@
 ---
 title: Renau
-revid: 113026
+revid: 113205
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, The Depths, The Ignition Union]
 ---
 
 # Renau

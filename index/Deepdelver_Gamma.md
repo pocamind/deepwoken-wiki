@@ -1,8 +1,9 @@
 ---
 title: Deepdelver Gamma
-revid: 112379
+revid: 113204
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, The Depths, The Ignition Union]
 ---
 
 # Deepdelver Gamma
