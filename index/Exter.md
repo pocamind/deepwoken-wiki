@@ -1,8 +1,9 @@
 ---
 title: Exter
-revid: 113091
+revid: 113537
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Exter

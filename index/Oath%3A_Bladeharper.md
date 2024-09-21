@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 113186
+revid: 113541
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,9 +69,9 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 
 ## Trivia
 
--   The Blade Within statue will change model depending on your equipped weapon. Devs sold the bag by calling it Snakerings when dyeing the Bladeharper
+-   The Blade Within statue will change model depending on your equipped weapon. ~Devs sold the bag by calling it Snakerings when dyeing the Bladeharper~ At an unknown date, this was changed to "Bladeharper bracelets" instead of snakerings.
 -   The "Blade Within" fight is a reference to Bleach's bankai obtainment.
--   The NPC's moveset doesn't change if you die and go back to fight it again.
+-   The NPC's moveset doesn't change if you die and go back to fight it again. It seems to reuse the AI from Maestro.
 -   This Oath may be a reference to [Isshin](<Isshin's_Ring.md>): both are elegant blade-wielding combatants with a snake motif.
 -   Currently, this is one of two Oaths where you cannot skip progression with knowledge. (The other being [Chainwarden](Oath%253A_Chainwarden.md).)
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.

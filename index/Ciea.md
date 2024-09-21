@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 113389
+revid: 113521
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -12,7 +12,7 @@ Template:NPC name
 
 ## Description
 
-Brandon is a female Vesperian that tells the player to make potions with specific effects. So far she is known to ask you to make:
+Ciea is a female Vesperian that tells the player to make potions with specific effects. So far she is known to ask you to make:
 
 -   A potion that brings forth a surge of speed _**(Pomars or Coral)**_
 -   A potion that causes a person to lose sanity _**(Urchins or Seaweed)**_
@@ -20,7 +20,7 @@ Brandon is a female Vesperian that tells the player to make potions with specifi
 -   A potion that harms its victims _**(Browncaps)**_
 -   A potion to regenerate ether _**(Dentifilos)**_
 
-There may be different options when you talk to Brandon, but for the ones listed you'll have to use those specific ingredients or else she won't take it.
+There may be different options when you talk to Ciea, but for the ones listed you'll have to use those specific ingredients or else she won't take it.
 
 Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) oath.
 

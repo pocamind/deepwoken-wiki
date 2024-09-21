@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 79130
+revid: 113528
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -32,7 +32,7 @@ Emote Screen
 |  | Crying | Emote Pack 1 |
 |  | Sway | Emote Pack 1 |
 |  | Headbang | [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) |
-|  | Caramelldansen | Emote Pack 2 |
+|  | Caramell | Emote Pack 2 |
 |  | Grizzly | Emote Pack 2 |
 |  | Shrug | Emote Pack 2 |
 |  | Meditate | Emote Pack 2 |

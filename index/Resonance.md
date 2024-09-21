@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 113182
+revid: 113534
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonances, Mechanics]
+categories: [Pages with broken file links, Resonances, Mechanics]
 ---
 
 # Resonance
@@ -250,5 +250,9 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
 -   You can corrupt your resonance by using [Sinner's Ash](<Sinner's_Ash.md>).
 -   Unlocking your resonance will give you 5 knowledge.
+-   Person getting "PVP Bells" on a "PVE Build", he was trying to get Payback.
+    
+    Person getting "PVP Bells" on a "PVE Build", he was trying to get Payback.
+    
 
 1.  [↑](#cite-ref-1)

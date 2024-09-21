@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 113125
+revid: 113531
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, The Hive]
@@ -20,9 +20,9 @@ This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance, +5% Blunt Armor and +5% Wind Armor
+This Outfit has 1000 durability and grants +25% Physical Resistance, +25% Elemental Resistance, +5% Blunt Armor and +5% Fire Armor
 
-This Outfit also grants the [Talent Cards](Talents.md) _Perseverance_ and _Low Stride_
+This Outfit also grants the [Talent Cards](Talents.md) _Perseverance_ and _Strong Stern_
 
 ## Location
 
@@ -39,4 +39,3 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   One of the cheapest Expert armors to make.
--   Has the same stats as [Hive Drone](Hive_Drone.md) but with an extra talent.

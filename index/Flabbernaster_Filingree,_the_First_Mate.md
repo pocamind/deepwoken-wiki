@@ -1,8 +1,9 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 112307
+revid: 113538
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Flabbernaster Filingree, the First Mate

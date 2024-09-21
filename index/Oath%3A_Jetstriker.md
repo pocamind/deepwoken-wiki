@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 112419
+revid: 113527
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -12,6 +12,8 @@ categories: [Oaths]
 |---|---|
 | oath_req | 50 Agility |
 | effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive AgilityAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
+
+_For the version that existed prior to the March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
 
 “ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 

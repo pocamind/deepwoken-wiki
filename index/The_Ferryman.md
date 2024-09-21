@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 113407
+revid: 113539
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -19,7 +19,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the Eastern Luminant's [Void Sea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is a member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
+**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the Eastern Luminant's [Void Sea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
 
 According to the stories of old, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though most fail to mention that these gifts aren't earned without a fight. The Ferryman actively despises the mortals who dwell on the surface, offering up unfair wagers, with the mortal betting their life, and him only betting a "Relic."
 
@@ -197,7 +197,7 @@ As with all the other boss-fights within Deepwoken, the Ferryman is more of a kn
     -   Spring - One [Knowledge](Knowledge.md). Repeatable. He speaks about him being a Krulian, Enlightening you.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), along with many miscellaneous Legendary Rings.
     -   Autumn - Identical to Summer, being an additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), along with many miscellaneous Legendary Rings.
-    -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted. Subsequent defeats also award an [Aelita](Aelita.md) chest.
+    -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted. Subsequent defeats award an [Aelita](Aelita.md) chest, but does not give additional Krulian Knives.
 
 Aside from his seasonal rewards, the Ferryman also provides a line of five chests which may drop Earrings, Legendary Rings, Weapons, and rarely, [Relics](Relics.md).
 
@@ -210,8 +210,8 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage by 10%.
 -   [**Ferryman's Coat**](<Ferryman's_Coat.md>) - A Schematic to create the coat worn by the Ferryman himself, grants high Lightning Resistance and a unique talent that converts elemental damage into Lightning damage.
 -   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
--   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon their first usage, and +30 on subsequent uses.
--   **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - An incredibly rare drop that allows the user to redeem a Yun'Shul wish.
+-   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon their first usage, and +50 on subsequent uses.
+-   ~**[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - An incredibly rare drop that allows the user to redeem a Yun'Shul wish~ (may have been completely removed from his lootpool; in over 500 Ferrymen, not a single chest has dropped it. Please feel free to delete this extra message if you have proof otherwise, but until then Ferryman does NOT drop idols)
 -   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.

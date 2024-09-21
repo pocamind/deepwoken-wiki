@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 113406
+revid: 113424
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -32,6 +32,8 @@ Upon entering you can walk up to [The Ferryman](The_Ferryman.md) behind the bar 
 At starswept valley to the right of the door
 
 Each record play's their respective songs when nearby.
+
+Unlocking on one slot will unlock it for all other slots.
 
   
 Each of the gilded instruments obtained after completing the quest.
