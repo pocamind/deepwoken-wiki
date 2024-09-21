@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 112902
+revid: 113371
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -96,5 +96,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md). However, drinking it will simply make you vomit.
 -   Updated on 25th August 2024 to be affected by Ganymede, Vesperian, and Chrysid.
 -   The color of the Hivekin wings do not change based on its variant, Instead you will have to dye your hair.
--   Typing "I will never be a memory." give you one wing instead of two, this is an easter egg referring to [Sepiroth](https://finalfantasy.fandom.com/wiki/Sephiroth)
+-   Typing "I will never be a memory." give you one wing instead of two, this is an easter egg referring to [Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth).
     -   This does not work with the Hivekin races

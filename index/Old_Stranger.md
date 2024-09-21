@@ -1,9 +1,9 @@
 ---
 title: Old Stranger
-revid: 111729
+revid: 113382
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Events]
+categories: [NPCs]
 ---
 
 # Old Stranger

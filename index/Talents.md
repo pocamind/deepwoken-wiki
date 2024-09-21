@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113331
+revid: 113417
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2338,7 +2338,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Charismatic Cast, 60 Charisma
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Prerequisites: Charismatic Cast, 60 Charisma
-    -   Mutual Exclusives: Tough Lovechea
+    -   Mutual Exclusives: Tough Love
 
 ### Trickster
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 113309
+revid: 113404
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -91,7 +91,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
 | [Plumfruit](Plumfruit.md) |  |  | Strongest |  |  |  | Strongest |  |  |  |
 | [Pomar](Pomar.md) | Weak |  |  |  |  | Strongest |  |  |  |  |
 | [Redd](Redd.md) | Strongest |  |  |  |  |  |  | Strongest |  | Strongest |
-| [Sap](Sap.md) |  |  |  |  |  | Strongest |  | Strongest |  |  |
+| [Brandon](Sap.md) |  |  |  |  |  | Strongest |  | Strongest |  |  |
 | [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | Weakest |
@@ -290,7 +290,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Opposite effect to <b>Staggering.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
 </tr>
 <tr>
-  <td><b>Diluted</b></td>
+  <td><b>Diluted/Bland</b></td>
   <td>Potion<p>Elixir Salve Tincture</p></td>
   <td>Using invalid ingredients<p>Using too many ingredients</p></td>
   <td>No effect.</td>

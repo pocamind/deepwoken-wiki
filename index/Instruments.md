@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 107347
+revid: 113388
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,3 +32,5 @@ To access songs, you must read the corresponding book. These books can be obtain
 -   [_The Song of Fathoms_](https://youtu.be/I6rD5jW1qv0)
 -   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8)
 -   _[Carol of Resonances](https://www.youtube.com/watch?v=t89tvQBZhWQ)_
+
+**The [Nightwish](Yesterwynde_Tavern.md) event contains an quest which allows you to get gilded (black and gold) variants of the default instruments, they function/sound exactly the same.**

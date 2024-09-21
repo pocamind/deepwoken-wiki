@@ -1,9 +1,9 @@
 ---
 title: Mudwoken
-revid: 98549
+revid: 113383
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [April Fools]
+categories: ["April Fools' Day events"]
 ---
 
 # Mudwoken

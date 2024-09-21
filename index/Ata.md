@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 113299
+revid: 113372
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -124,7 +124,7 @@ Although she says she knows you, this is likely an attempt to _scam_ you. Furthe
   <td>5. Round Spark.</td>
   <td>6. Spring Spark.</td>
   <td>7. Tornado Spark.</td>
-  <td colspan="2">[Not enough Notes for any purcahse]</td>
+  <td colspan="2">[Not enough Notes for any purchase]</td>
 </tr>
 <tr>
   <td colspan="10">That'll only be 350 Notes. Friend's discount, of course!</td>
