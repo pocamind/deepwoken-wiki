@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 111344
+revid: 113283
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -16,21 +16,56 @@ Template:Creature Info Box v2
 
 ## Description
 
-Bounders are monsters that dwell within the Second Layer of The Depths. They are infamously known for their lethality, with an equally horrific appearance.
+Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of The Depths. They are infamous for their lethality, with an equally horrific appearance.
 
-Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, is presented in a much more awful form. They feature a significantly hunched posture, elongated limbs, six ringed eyes and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
+Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, are present in a much more awful form. They have significantly hunched posture, elongated limbs, six ringed eyes, and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
-Whenever an entity (in most cases, prey) enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence, though not necessarily their aggression. By default, they will only crawl around in a relatively slow pace, only ever displaying its speed and agility while hunting.
+Whenever an entity enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence (though not necessarily their aggression). By default, they will crawl around at a relatively slow pace, only ever displaying their speed and agility while hunting.
 
-Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken both thanks for their exceptional lethality and their above average health pool. While they have a relatively discernible pattern of behavior, there is still potential for Bounders to have behavior that is more erratic and unpredictable, amplifying its already impressive lethality in the form of hard hitting moves. An absolutely unforgiving terror that can finish off anyone who isn't accustomed to their behavior within seconds.
+Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken due to their exceptional lethality and their above average health pool. While they have a relatively simple moveset, their erratic movements and hard-hitting strikes make them difficult to pin down. They are unforgiving terrors that can finish off anyone who isn't accustomed to their behavior within seconds.
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Leap | Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them. | ✗ | ✗ | (★★☆) |
-| Slash | Bounder slashes their arms at their prey either once or twice, utilizing their claws to tear through them. | ◯ | ◯ | (★☆☆) |
-| Charge | The Bounder will lowers its head and continuously stomps it's foot before charging in the direction of their prey, knocking them down and damaging them in the process. | ✗ | ✗ | (★★★) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Leap**  
+(★★☆)
+
+ | The Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them.
+
+  
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |
+| 
+
+**Slash**  
+(★☆☆)
+
+ | The Bounder slashes its arms at its prey either once or twice, utilizing their claws to tear through them.
+
+  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+**Charge**  
+(★★★)
+
+ | The Bounder lowers its head and continuously stomps its foot before charging in the direction of their prey, knocking them down and damaging them in the process.
+
+  
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |
 
 ### **Passives**
 
@@ -45,7 +80,7 @@ There are **21** images, be warned
 -   It's considered the spiritual successor to [Jack](Jack.md), the second Monster ever created for Deepwoken.
 -   Despite its resemblance to the Megalodaunt, its anatomy more-so resembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
 -   Like every other Layer 2 monster, [Mute](Regalia.md#mute) has no effect on Bounders.
--   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
--   It was said by Arch\_Mage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
+-   Curiously, Bounders are social creatures, as shown by their ability to create nests and live as a pack. Beyond this, there isn't much evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
+-   It was said by Arch\_Mage that there was supposed to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Their cry is a heavily distorted wolf howl.
--   Their item drop, the Bounder Claw, can be taken out of Layer 2 without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller)
+-   Their item drop, the Bounder Claw, can be taken out of Layer 2 without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller).

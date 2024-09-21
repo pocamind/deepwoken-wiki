@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113239
+revid: 113284
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2544,8 +2544,10 @@ _**"I seek the qualities of vocalist."**_
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisite: 35 Light Weapon
 
+-   _**Switchblade**_ \[Advanced Talent\] - You can now utilize Dagger talents when not wielding a dagger.
+    -   Prerequisite: 50 Light Weapon, 50 Medium Weapon/50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
-    -   Prerequisite: 30 Heavy Weapon,
+    -   Prerequisite: 30 Heavy Weapon
 
 ### Whisper
 
