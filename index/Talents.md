@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 113284
+revid: 113331
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -185,12 +185,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown
     -   Prerequisites: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
-    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown. (More info on the [potions](Alchemy.md) page.)
+    -   The negative components of potions have a stronger effect when thrown. (More info on the [potions](Alchemy.md) page.)
         -   This Talent was merged with the old Exterminator Talent. (Although the [Alchemist's Hat](<Alchemist's_Hat.md>) and [Big Alchemist Hat](<Big_Alchemist's_Hat.md>) still have this Talent)
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Will proc on any player with a potion effect, does not replace the current effect.
-    -   Synergizes with [Aromatic Salts](Oath%253A_Saltchemist.md), as it will automatically reapply potion effects.
+    -   Synergizes with [Aromatic Salts](Oath%253A_Saltchemist.md), as it automatically reapply potion effects.
     -   Prerequisite: 80 Intelligence
         -   This Talent was merged with the old Taste Test Talent.
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
@@ -198,7 +198,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
     -   Was reworked to have 100% chance of proccing (Previously 25%) but with a much smaller range.
-    -   Also procs potion sickness, causing allies to throw up upon usage, on potion sickness inflicted players.
+    -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
     -   Prerequisites: 60 Intelligence
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
@@ -207,7 +207,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
         -   This Talent was merged with the old Subsistence Talent.
 -   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
-    -   Around ~20-25% chance.
+    -   Around ~20-25% chance. Gives a duplicate of the created potion.
     -   Prerequisites: 25 Intelligence
 
 ### Alley Cat
@@ -1888,7 +1888,7 @@ _**"I seek the qualities of Lichtenberg."**_
     -   Prerequisite: Gilded Path: Scrapsinger, 45 Ironsing
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
     -   Prerequisite: Gilded Path: Scrapsinger, 50 Ironsing
--   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal slightly more damage.
+-   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +5% damage.

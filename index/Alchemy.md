@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 113225
+revid: 113309
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -294,7 +294,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Potion<p>Elixir Salve Tincture</p></td>
   <td>Using invalid ingredients<p>Using too many ingredients</p></td>
   <td>No effect.</td>
-  <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Weakens the overall effect of the potion. Invalid ingredients won't cancel the potion's other effects, but using too many ingredients will.</p></td>
+  <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Massively weakens the overall effect of the potion.</p></td>
 </tr>
 </tbody>
 </table>

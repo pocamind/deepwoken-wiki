@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 113282
+revid: 113299
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -19,7 +19,11 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-**Ata** is a [Celtor](Celtor.md) NPC, that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each. She is located in front of the [Mystic](Mystic.md) on [Meteor Isle](Meteor_Isle.md), Apparently you know her from somewhere...
+**Ata** is a Marten [Celtor](Celtor.md) NPC that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each. She is located in front of the [Mystic](Mystic.md) on [Meteor Isle](Meteor_Isle.md).
+
+She wears what appears to be a darkened version of the [Corsair Outlaw](Corsair_Outlaw.md) outfit.
+
+Although she says she knows you, this is likely an attempt to _scam_ you. Further evidenced by the fact that she weaponizes your empathy against you, eventually making you accept her high prices. Despite that, you'd still buy from her anyways, right? She's your friend after all.
 
 ## Dialogue
 
@@ -116,22 +120,29 @@ categories: [NPCs, Vendors]
   <td colspan="2">1. Blast Spark.</td>
   <td colspan="2">2. Magnet Spark.</td>
   <td colspan="2">3. Multiplying Spark.</td>
-  <td colspan="2">4. Reversal Spark.</td>
-  <td colspan="2">5. Round Spark.</td>
+  <td>4. Reversal Spark.</td>
+  <td>5. Round Spark.</td>
   <td>6. Spring Spark.</td>
   <td>7. Tornado Spark.</td>
+  <td colspan="2">[Not enough Notes for any purcahse]</td>
 </tr>
 <tr>
-  <td colspan="12">That'll only be 350 Notes. Friend's discount, of course!</td>
+  <td colspan="10">That'll only be 350 Notes. Friend's discount, of course!</td>
+  <td colspan="2"><i>*sniff*</i> I don't remember you being so broke... You'll come back when you have money, won't you?</td>
 </tr>
 <tr>
-  <td colspan="12">[Slider from 1-10] 350 Notes Submit Exit</td>
+  <td colspan="10">[Slider from 1-10] 350 Notes Submit Exit</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="12">Pleasure doing business, friend. Ah, doesn't this remind you of the good old days? *<i>She counts the notes.</i>*</td>
+  <td colspan="10">Pleasure doing business, friend. Ah, doesn't this remind you of the good old days? *<i>She counts the notes.</i>*</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="10">End</td>
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Currently the best and most guaranteed way to obtain specific [Sparks](Mantra_Modifiers.md) without grinding.

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 107998
+revid: 113298
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -216,17 +216,19 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 
 Each Mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain Mantras have different effects at level 5, such as Thunder Kick becoming an Instant Guardbreak.
 
-## Elemental Intensity
+## ~Elemental Intensity~
 
-Elemental Intensity is the ability to affect the environment around you. If a Mantra has a high enough intensity, it is able to break certain objects. For example, a more intense Flamecharm Mantra will be able to melt metal.
+~Elemental Intensity is the ability to affect the environment around you. If a Mantra has a high enough intensity, it is able to break certain objects. For example, a more intense Flamecharm Mantra will be able to melt metal.~
 
-### Obtaining more Elemental Intensity
+### ~Obtaining more Elemental Intensity~
 
-Getting Talent Cards from your Attunement is a great way to obtain more intensity. Those Talents usually have intensity attached to their stats, so the more Talents you get from your attunement, the more intensity you will get.
+~Getting Talent Cards from your Attunement is a great way to obtain more intensity. Those Talents usually have intensity attached to their stats, so the more Talents you get from your attunement, the more intensity you will get.~
 
-#### Vibrant Gems
+#### ~Vibrant Gems~
 
-Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for those specific Mantras.
+~Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for those specific Mantras.~
+
+**RIP ELEMENTAL INTENSITY.**
 
 ## Trivia
 
@@ -234,3 +236,4 @@ Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for
 -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Song keeper Temple](Songseeker_Temple.md).
     -   According to Kaide, The Drowned Light, Mantras are "A cheap imitation of the power held within the Song that Drowned Gods wield as their birthright", implying that they are an inferior form of the song's true power, which aren't intended for humanity
 -   Elemental Intensity once affected the damage of certain Mantras, but no longer does.
+-   Mantra scale is damage is multiplied by (1 + (0.7 \* (stat/100))) (ignoring Songchant)

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 113025
+revid: 113286
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1135,6 +1135,7 @@ After successfully casting lightning impact, strike down countless thunder at th
     
     File:Thundercall mantras damage.png
     
+    Spark Swap is a refrence to Boogie Woogie from Jujutsu Kaisen
 
 Virudhaka's Sword
 

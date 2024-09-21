@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 113260
+revid: 113297
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -57,6 +57,9 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Strong Left scales with your Strength attribute.</li>
     <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> Talent, you can gain wood from fallen trees.</li>
     <li>Has a base posture damage of 22</li>
+    <li>20/30/40/50/60 base damage per level</li>
+    <li>72 damage at 100 Strength level 5</li>
+    <li>2 Strength scaling</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -74,6 +77,9 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>The user may cancel the barrage at any point during it by right clicking.</li>
     <li>Rapid Punches scales with your Strength attribute.</li>
     <li>Victims struck by the last punch are pushed away.</li>
+    <li>60/65/70/75/80 base damage per level</li>
+    <li>96 damage at 100 Strength level 5</li>
+    <li>2 Strength scaling</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -140,6 +146,10 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Can be parried, blocked and dodged.</li>
     <li>Has long wind-up.</li>
     <li>Skyshatter kick can be modified with a <a href="Mantra_Modifiers.md">Round Spark</a> to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)</li>
+    <li>20/30/40/50/60 damage per level, per kick</li>
+    <li>72 damage at 100 Strength level 5, per kick</li>
+    <li>2 Strength scaling</li>
+    <li>If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)</li>
     <li></li>
   </ul></li>
   </ul></td>
@@ -368,7 +378,11 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
     -   The user empties their posture damage, and transfers it to their opponent.
     -   The posture transfer cannot guardbreak.
     -   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 50% at Level 1 to 100% at Level 5.
-    -   Incredibly quick windup
+    -   20/22/24/26/28 damage per level
+    -   50%/62.5%/75%/87.5%/100% posture transfer per level
+    -   32.2 damage at 100 Willpower level 5
+    -   1.5 Willpower scaling
+    -   0.5s wind up
 
  |
 
