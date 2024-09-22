@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 112250
+revid: 113582
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -56,6 +56,8 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 **Crouching:** Performs the normal critical, but sped up significantly.
 
 ## Trivia
+
+-   **NOTE: This Weapon wont proc greatsword hyper-armor related talents. (tested)**
 
 -   The weapon's original design (And it's criticals) is a reference to the from _Blade Ball_, a large and over-saturated neon-green sword. It's five criticals are a reference to the various abilities in _Blade Ball_, these being [Raging Deflection](https://bladeball.fandom.com/wiki/Raging_Deflection) (Normal Crit), [Pulse](https://bladeball.fandom.com/wiki/Pulse) (Aerial Crit), [Slashes Of Fury](https://bladeball.fandom.com/wiki/Slashes_Of_Fury) (Crouching Crit), [Thunder Dash](https://bladeball.fandom.com/wiki/Thunder_Dash) (Running Crit), and [Dash](https://bladeball.fandom.com/wiki/Dash) (Sliding Crit).
 -   It is the weapon with the most different stat requirements, being Heavy, Flamecharm and Light.

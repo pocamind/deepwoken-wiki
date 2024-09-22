@@ -1,9 +1,9 @@
 ---
 title: Yesterwynde Tavern
-revid: 113563
+revid: 113591
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links]
+categories: [In progress without reason, InProgressPages]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -31,7 +31,9 @@ The event quest requires the player to collect 3 records across Lumen, giving th
 
 _\- The Ferryman_
 
-The hint indicates towards each record being located at [Upper Erisia](Upper_Erisia.md), [Minityrsa](Minityrsa.md), and [Miner's Landing](<Miner's_Landing.md>). Upon collecting all three and returning to the Ferryman, the player will be rewarded with gilded [Instruments](Instruments.md). This reward applies immediately to all slots on the account.
+The hint indicates towards each record being located at [Upper Erisia](Upper_Erisia.md), [Minityrsa](Minityrsa.md), and [Miner's Landing](<Miner's_Landing.md>). Upon collecting all three and returning to the Ferryman, the player will be rewarded with gilded [Instruments](Instruments.md). This reward applies to all slots on the account.
+
+Additionally, the Ferryman provides free [Redd Juice](Food.md) to the player.
 
 ## Obtainment
 
@@ -41,27 +43,10 @@ The hint indicates towards each record being located at [Upper Erisia](Upper_Eri
 -   The third and final record can be found in [Miner's Landing](<Miner's_Landing.md>). Make your way through [Saramaed Summit](Saramaed_Summit.md) and keep progressing through the volcano until you have almost reached the top and are met by two large stone statues against the walls. Climb up the one on the right, and near its head on a ledge you can find the final record.
 -   Return to the tavern and claim your reward from [The Ferryman](The_Ferryman.md).
 
-## Gallery
-
-File:Guilded Accordian.PNG
-
-Gilded Accordion
-
-File:Guilded Violin.PNG
-
-Gilded Violin
-
-File:Guilded Drum.PNG
-
-Gilded Drum
-
-File:Guilded Trumpet.PNG
-
-Gilded Trumpet
-
 ## Trivia
 
 -   When approaching each record, they will play their respective song. Make sure your music volume is up!
 -   The Yesterwynde Tavern will play Nightwish songs, indicating which song is playing on the left of the screen.
--   This confirms that [The Ferryman](The_Ferryman.md) has access to vinyl records, means to play them, and is a fan of metal. This was one of the fiercest-debated topics in Deepwoken history.
+-   This confirms that [The Ferryman](The_Ferryman.md) has access to vinyl records, means to play them, and is a fan of metal.
 -   Every tavern door leads to the same instance of the Yesterwynde Tavern, meaning it can get quite overpopulated and dangerous. You can always exit by walking up to the tavern doors again.
+-   You must already have the songbook to obtain the skins

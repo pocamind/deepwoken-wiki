@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 113539
+revid: 113592
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -295,6 +295,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would get 1 knowledge, instead of a Krulian Knife.
 -   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
+-   The Ferryman has also hosted the [Yesterwynde Tavern](Yesterwynde_Tavern.md) in the Nightwave event where you can obtain a quest to obtain three vinyls for unique instrument skins. He also gives Redd Juice for free.
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
 -   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that the fight music is infact, diegetic.
 -   If you take too long to initiate the fight with The Ferryman, he will leave after a certain amount of time, and leave you with nothing but a portal to leave.

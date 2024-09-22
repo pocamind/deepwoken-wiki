@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 112642
+revid: 113658
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
