@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 112860
+revid: 113701
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -95,4 +95,4 @@ Roar
 
 ## Trivia
 
--   Mechalodaunts can in fact speak, as if you were to get ambushed by the Ignition Union with hunted rep it could say " \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* "
+-   Mechalodaunts probably have a radio built into them, as if you were to get ambushed by the Ignition Union with hunted rep it could say " \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* " Alternatively, they could also have the ability to talk (although this is probably not true).

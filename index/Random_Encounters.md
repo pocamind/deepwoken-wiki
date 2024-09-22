@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 111636
+revid: 113708
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -102,7 +102,7 @@ A Hobo in the neutral position.
 
 #### [Hobo](Hobo.md)
 
-The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned. The Hobo also uses the old AI of the Flamecharmer Monk.
+The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned. The Hobo also uses the old AI of the Flamecharm Songseeker.
 
   
 
@@ -110,7 +110,7 @@ A Pathfinder
 
 #### Pathfinders
 
-Rarely, the player may find 2 [Pathfinders](Pathfinder.md) sitting around a campfire with a [teacher](Teacher.md). Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to the teacher will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. This will use one of your investment points. Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia.
+Rarely, the player may find 2 [Pathfinders](Pathfinder.md) sitting around a campfire with a [teacher](Teacher.md). Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to the teacher will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. This will use one of your investment points. Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia. Curiously, they hate all factions and vice versa.
 
 #### Erisia Merchant
 
@@ -138,7 +138,7 @@ An event that happens in[Starswept Valley](The_Starswept_Valley.md) or [Minityrs
 
 #### Ministry Necromancer
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only aggro'd if it sees a player or provoked by an attack.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only be aggro'd if it sees a player or provoked by an attack.
 
 ### _Eastern Luminant_
 
@@ -158,7 +158,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 #### Legion Sniper
 
-A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to(with a good reputation) and can also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
+A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to (with a good reputation) and can also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
 
 #### Serena
 
@@ -251,7 +251,7 @@ _They do add new sound effects to threshers!_
 
 #### Traveling Merchant
 
-A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely Dye Packets.
+A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely, Dye Packets.
 
 #### False Merchant Ship
 
@@ -334,3 +334,5 @@ The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble thro
 ### Resonant Dawn
 
 A meteor crashes down into the area, spawning an [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
+
+This event is **VERY RARE** and the odds of it happening are near zero. You have a better chance just getting Resonance yourself.

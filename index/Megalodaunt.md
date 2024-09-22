@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 112564
+revid: 113706
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -25,7 +25,7 @@ The Megalodaunt is a giant humanoid shark [monster](Monsters.md) commonly found 
 
 ― Archivist Journal: 'Megalodaunt'
 
-Megalodaunts are particularly known for being social creatures, evident by how a Megalodaunt can become an Alpha within a pack, though they are more often observed to be alone rather than the contrary. They are bipedal creatures with pale skin and a set of corals growing on their back, which are observed to only be used for offensive purposes. Documented as Carnivores, they have traits that matches this nature, featuring two sets of sharp teeth in their mouth, as well as durable hides and impressive looking claws.
+Megalodaunts are particularly known for being social creatures, evident by how a Megalodaunt can become an Alpha within a pack, though they are more often observed to be alone rather than the contrary. They are bipedal creatures with pale skin and a set of corals growing on their back, which are observed to only be used for offensive purposes. Documented as Carnivores, they have traits that matches this nature, featuring two sets of sharp teeth in their mouth, as well as durable hides and impressive looking claws. They can also be seen eating the corpse of an Authority Soldier, solidifying the fact that it is a carnivore.
 
 There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a Megalodaunt, which will reward you with two Talents, Engage at Power 3 and Critical Attack at Power 5. This quest can be completed/recompleted if you already have the Talents to receive 1-2 hands of cards.
 
@@ -122,6 +122,7 @@ Dodgeable:◯
 
 ## Tips
 
+-   Most likely the first non-humanoid enemy you will encounter as a new player. They may appear menacing but they are easily learnable.
 -   A Megalodaunt can never use any move twice in a row, a swipe/kick combo will not be used back to back, and they will not use a raw kick multiple times in a row, by using this to your advantage you can accurately predict the enemies attacks. Do note that Swipe/Kick does not count as a Kick usage, and is why they are infamously regarded to kick "multiple times in a row."
 -   Their thousand needles (either variant) can be parried by simply tapping F once due to Autoparry frames, and allows you to get as many hits in as a Kick would.
 
@@ -150,3 +151,5 @@ There are **10** images, be warned
 -   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md). They are hostile to most other humanoids and monsters, including [Golems](Hive_Construct.md) and [Stone Knights](Stone_Knight.md).
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 2 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts. According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
 -   Megalodaunts participated in the 2024 April fools event under the name of Red Daunts and won.
+-   [Destroyman III](Destroyman_III.md) is a small, chibi Megalodaunt that can talk.
+-   Megalodaunts are _probably_ one of the most iconic characters in the game.

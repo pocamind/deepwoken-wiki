@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 110106
+revid: 113712
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths, The Divers]
@@ -15,7 +15,7 @@ categories: [NPCs, The Depths, The Divers]
 
 ## Description
 
-Dust is a [Celtor](Celtor.md) NPC who resides in the [Castle Light](Castle_Light.md), being one of the [Diver's Apprentices](Apprentice_Diver.md), you can find her praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light.
+Dust is a [Celtor](Celtor.md) NPC who resides in the [Castle Light](Castle_Light.md), being one of the [Diver's Apprentices](Apprentice_Diver.md), you can find her praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning her fallen fellow Divers.
 
   
 
@@ -41,3 +41,4 @@ Dust is a [Celtor](Celtor.md) NPC who resides in the [Castle Light](Castle_Light
 ## Trivia
 
 -   Dust's racial variant appears to be Badger.
+-   She shares the same hair combo as [Karliah](Karliah.md).

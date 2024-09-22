@@ -1,6 +1,6 @@
 ---
 title: Petris
-revid: 109773
+revid: 113713
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,9 +15,11 @@ categories: [NPCs]
 
 ## Description
 
-Petris is a middle-aged [Etrean](Etrean.md) in [The Depths](The_Depths.md), in [The City of the Drowned](The_City_of_the_Drowned.md), right next to the Merchant Stalls where [Nautilodaunt](Nautilodaunt.md) spawns. He speaks of [The Ferryman](The_Ferryman.md), which implies that he was sent to the [First Layer](First_Layer.md) by [The Ferryman](The_Ferryman.md). This is also the game hinting at how to spawn [The Ferryman](The_Ferryman.md).
+Petris is a middle-aged [Etrean](Etrean.md) in [The Depths](The_Depths.md), in [The City of the Drowned](The_City_of_the_Drowned.md), right next to the Merchant Stalls where [Nautilodaunt](Nautilodaunt.md) spawns. This is also the game hinting at how to spawn [The Ferryman](The_Ferryman.md).
 
 Due to his wrinkles next to his eyes, you can concur that he is in Stage 1 of [Age](Age.md), meaning he is about 40-49 years old.
+
+From his dialogue, it is likely that he summoned the Ferryman in hopes of getting gifts, but instead Ferryman killed him and likely sent him to the Depths, where we see him.
 
 ## Dialogue
 

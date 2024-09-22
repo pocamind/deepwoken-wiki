@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 111092
+revid: 113707
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Eastern Luminant]
@@ -140,5 +140,6 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   Based on the skeletons and corals that can be seen everywhere, as well as the condition of the Lordsgrove, it can be speculated that this was once an undersea area or a forest full of life, but the nutrients were sucked away by the planting of [Greathive](Greathive_Aratel.md).
 -   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision, so you won't be able to tell when to dodge its 200 damage move.
 -   Be wary of [Stone Knights](Stone_Knight.md) or [King Threshers](Thresher.md#king-thresher) as they can spawn randomly without warning.
--   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to [Mercille](Mercille.md) at the [Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for Aratel Island loot.
+-   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to [Mercille](Mercille.md) at the [Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for Aratel Island loot. This is pointless though, as who would go all the way to Summer Isle from Starswept just for a chest?
 -   If, during the Authority Captain vs Hive Mech event, the battle is interrupted by an outside aggressor and said aggressor is then slain, both the [Hive mech](Hive_Construct.md) and [Authority Captain](Authority_Captain.md) will sometimes stop fighting each other, a bug which has been in the game for a long period of time.
+-   Many events can spawn at a time, making it quite chaotic at times.

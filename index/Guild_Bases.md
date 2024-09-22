@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 111616
+revid: 113696
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -163,7 +163,9 @@ Song Room
 
 Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras. The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.
 
-[Attunment Training Items](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Attunement_Training) are sold in this room
+This room also allows the hiring of a Songwright, which allows you to upgrade mantras for the same price as attunment trainers (albeit being more convenient). [Attunment Training Items](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Attunement_Training) are also sold in this room.
+
+  
 
  |
 | 
@@ -244,7 +246,9 @@ Bandits raiding a Guild Base.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
--   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, The Monkey's Paw and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
+-   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, Dungeons, The Monkey's Paw and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
+-   They are also very convenient, and allow you to access NPCS which you usually have to travel around the map for, including the Chef, Songwright, etc.
+-   There is a small area above Monkey's Paw which is considered to be part of the Aratel Sea, allowing you to place a guild base.
 -   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
 -   All the books will be saved if you delete the library.
 -   As training Charisma requires an audience, you can always train charisma inside your guild base as all of the guild NPCS are counted as an audience.

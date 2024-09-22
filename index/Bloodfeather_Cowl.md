@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 113607
+revid: 113686
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -31,4 +31,5 @@ The Talent Bloodletter: Hitting opponents on the ground lowers their blood.
 
 ## Trivia
 
--   This is part of the "Bloodfeather" set, the only other piece being [Bloodfeather Mask](Bloodfeather_Mask.md).
+-   This is part of the "Bloodfeather" set, the only other piece being [Bloodfeather Mask](Bloodfeather_Mask.md)
+-   The talent provided, Bloodletter, is now effectively useless, as it was made base behavior in a weekly update on [June 6, 2024](Version_History/2026.md).

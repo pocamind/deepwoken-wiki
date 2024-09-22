@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 113145
+revid: 113717
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -48,7 +48,7 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
 
 The Deepspindle has two different critical attacks.
 
-For the **standing** critical, the user thrusts the weapon forward with both hands, marking an enemy before dealing damage multiple times. This critical attack uniquely apply true stun, preventing any and all actions while being hit, including venting. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
+For the **standing** critical, the user thrusts the weapon forward with both hands, marking an enemy before dealing damage multiple times. You cannot parry the damage which occurs after the initial hit, however, you can vent out of it. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
 
 For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out two shadow blasts, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
 

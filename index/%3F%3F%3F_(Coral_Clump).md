@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 111591
+revid: 113709
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -43,3 +43,4 @@ Template:NPC name "???" is an NPC who is apparently the only [Mudskipper](Mudski
 ## Trivia
 
 -   He gives a lot of lore about [Mudskippers](Mudskipper.md), implying that they are simply beings that, like the [Celtorian Guards](Celtorian_Guard.md), lost themselves to [The Depths](The_Depths.md). He is currently undergoing this phase, seen by his wheezing and him "letting it all go by".
+-   His skin tone is slightly darker compared to other Mudskippers and he still has the ability to talk.

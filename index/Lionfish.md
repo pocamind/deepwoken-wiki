@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 112690
+revid: 113703
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -104,3 +104,5 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 -   If you use a sea highway, even a dinghy can outrun them.
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
 -   Glacial Lionfish can spawn in the overworld in extremely rare occasions. If this happens, it's able to use its Cero, unlike the normal variant of the Lionfish.
+-   [Lionfish](https://en.wikipedia.org/wiki/Pterois) in real life are nothing like the Lionfish in-game.
+-   Despite being a fish it can survive infinitely on land.

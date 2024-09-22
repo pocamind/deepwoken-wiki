@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 113224
+revid: 113700
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -42,9 +42,11 @@ There are 4 room layouts, featuring randomized enemy spawns:
 
 Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player beyond the first) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras and critical attacks while carrying Fuel Ore.
 
+Do note that carrying these ores will not allow you to attack with your weapon, or dodge.
+
 To actually be rewarded during this activity, players are required to kill every monster in a given floor. Doing so will grant a large amount of EXP, along with attribute training EXP and chests spawning near the Ignition Deepdrill.
 
-It is worth noting that the lava is not as deadly as one might expect. Falling into it is not a death sentence, one can easily climb up on a nearby rock to go back to the main area.
+It is worth noting that the lava is not as deadly as one might expect. Falling into it is not a death sentence, one can easily climb up on a nearby rock to go back to the main area. However, the deal quick damage over time, making it _not so ideal_ to fight monsters down there.
 
 ## Monster adaptations
 
@@ -62,7 +64,7 @@ Monster shown here will start showing up and replacing other monsters the deeper
 Loot is based on the type of mob you kill. It can be:
 
 -   [Outfits](Outfits.md)
--   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md)
+-   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md)
 -   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md)
 -   [Pluripotent Alloy](Pluripotent_Alloy.md)
 -   [Spires](Relics.md#rain-spire)
@@ -80,7 +82,19 @@ The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudski
 
 More loot will appear if bringing more players, but naturally, this will also result in more monsters. Be cautious!
 
+Relics and enchant stones can drop from any chest at any floor.
+
+## **Tips**
+
+-   The Saramaed Hollow is a very low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
+-   Additionally, if you are low / about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m.
+    -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio.
+-   The Saramaed Hollow is also a good grinding fodder for all levels, having weak mobs like mudskippers and Megalodaunts to boost early game progression, Brutes, Threshers, and Desert Knights to help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
+
 ## Trivia
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
+-   The cave paintings show that civilisation has once been here long before the Union have.
+-   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast.
+-   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.

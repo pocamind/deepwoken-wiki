@@ -1,6 +1,6 @@
 ---
 title: Arthur
-revid: 94392
+revid: 113710
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -15,7 +15,7 @@ categories: [NPCs, Quests]
 
 ## Overview
 
-Arthur is an NPC located at the [Towerstruck Lands](Towerstruck_Lands.md) who offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md).
+Arthur is an NPC located at the [Towerstruck Lands](Towerstruck_Lands.md) who offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md), in order to avenge his fellow soldiers.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Aratel Island
-revid: 109225
+revid: 113698
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -29,5 +29,6 @@ Most of its surface is either part of the [Starswept Valley](The_Starswept_Valle
 ## Trivia
 
 -   Frequently referred to as "Hive" by players.
--   Small, blue meteorites often fall from Constellia.
--   A great place to grind for low-level players, due to the abundance of [Threshers](Thresher.md) and [King Threshers](King_Thresher.md).
+-   Small, blue meteorites uncommonly fall from Constellia. These meteorites will spawn in [Sand Knights](Stone_Knight.md).
+-   Funny enough, the stationary blue meteors in Meteor Isle won't spawn in Sand Knights. Go figure.
+-   A great place to grind for medium-level players, due to the abundance of [Threshers](Thresher.md) and [King Threshers](King_Thresher.md).
