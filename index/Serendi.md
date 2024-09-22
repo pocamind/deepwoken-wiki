@@ -1,8 +1,9 @@
 ---
 title: Serendi
-revid: 112426
+revid: 113542
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Serendi

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 112570
+revid: 113557
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -163,7 +163,7 @@ There are **13** of images, be warned
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
--   Sometimes when Deep Owl grabbed you by using Overhead Grab move, He can be teleported to far away distance that he will not attacking you anymore although this only happen sometimes and need more testing. (You need to be grabbed)
+-   Occasionally when hit by the Deep Owls overhead grab, it will bug out and be flung/teleported out of its aggression distance, this doesn't happen often and will need more testing.
 
 ## References
 

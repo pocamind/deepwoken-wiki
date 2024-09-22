@@ -1,9 +1,11 @@
 ---
 title: "Oath: Visionshaper"
-revid: 113421
+revid: 113553
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [In progress without reason, InProgressPages, Oaths]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Oath: Visionshaper
@@ -85,6 +87,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
         -   Both can be used simultaneously.
     -   Grants immunity to being knocked while active.
         -   Halves the current realm duration if the caster is at 0% hp.
+    -   This has been removed as of 20th September 2024
 
 -   **Illusory Counter** **\- Combat Mantra**
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
@@ -103,6 +106,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
 -   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop them. Also Illusion counter cancel fall damage with tough timing.
 -   Dexerius based this oath on the hit anime 'Naruto' based on the visionshaper clones being based off shadow clone jutsu and genjutsu. As well as the realm being based off the Kamui.
+-   On 20th of September 2024, Visionshaper recieved a rework removing Illusory Realm, changing the behaviour of Illusory Clones and adding a new move.
 
 ## References
 

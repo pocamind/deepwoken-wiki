@@ -1,8 +1,9 @@
 ---
 title: Pete
-revid: 112316
+revid: 113546
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Pete

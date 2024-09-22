@@ -1,9 +1,9 @@
 ---
 title: Cestis
-revid: 111642
+revid: 113545
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Ministry]
 ---
 
 # Cestis

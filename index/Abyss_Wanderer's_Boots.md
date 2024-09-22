@@ -1,9 +1,9 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 112878
+revid: 113558
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, The Divers]
+categories: [Equipment, Legs, Boots, The Divers]
 ---
 
 # Abyss Wanderer's Boots

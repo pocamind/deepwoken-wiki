@@ -1,16 +1,12 @@
 ---
 title: Resonance
-revid: 113534
+revid: 113562
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonances, Mechanics]
+categories: [Resonances, Mechanics]
 ---
 
 # Resonance
-
-“ Death smiles to us all; all a man can do is smile back. ”
-
-― Marcus Aurelius
 
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
@@ -39,8 +35,6 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 -   **Corrupted** Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
 -   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
-
-(Maestros tempest eye isn't a resonance, stop putting it here.)
 
 ## Overview
 
@@ -248,11 +242,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
 -   Arch Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
--   You can corrupt your resonance by using [Sinner's Ash](<Sinner's_Ash.md>).
--   Unlocking your resonance will give you 5 knowledge.
--   Person getting "PVP Bells" on a "PVE Build", he was trying to get Payback.
-    
-    Person getting "PVP Bells" on a "PVE Build", he was trying to get Payback.
-    
+-   You can corrupt your Resonance by using [Sinner's Ash](<Sinner's_Ash.md>).
+-   Unlocking your Resonance will give you 5 knowledge.
 
 1.  [↑](#cite-ref-1)

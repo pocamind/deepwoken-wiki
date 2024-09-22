@@ -1,9 +1,9 @@
 ---
 title: Emel
-revid: 113535
+revid: 113544
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Ministry]
 ---
 
 # Emel

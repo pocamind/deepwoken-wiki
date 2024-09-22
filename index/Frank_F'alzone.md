@@ -1,8 +1,9 @@
 ---
 title: "Frank F'alzone"
-revid: 112434
+revid: 113543
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Frank F'alzone
