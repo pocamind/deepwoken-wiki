@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 113298
+revid: 113730
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -236,4 +236,4 @@ Each Mantra level gives a approximately 20% boost to damage and effects from mod
 -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Song keeper Temple](Songseeker_Temple.md).
     -   According to Kaide, The Drowned Light, Mantras are "A cheap imitation of the power held within the Song that Drowned Gods wield as their birthright", implying that they are an inferior form of the song's true power, which aren't intended for humanity
 -   Elemental Intensity once affected the damage of certain Mantras, but no longer does.
--   Mantra scale is damage is multiplied by (1 + (0.7 \* (stat/100))) (ignoring Songchant)
+-   Mantra scale formula: Damage = base damage \* (1 + (0.7 \* (stat/100) + (songchant \* 0.05 \* (0.7 \* (stat/100))))

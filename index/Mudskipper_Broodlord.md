@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 113519
+revid: 113748
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-_Also known as "Broodskippers", "Purpleskippers", or various other names._ Template:Creature Infobox V3
+Template:CTan _Also known as "Broodskippers", "Purpleskippers", or various other names._ Template:Creature Infobox V3
 
 ## Description
 
@@ -131,14 +131,10 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
     -   Cannons on [boats](Ships_&_Sailing.md) are a good way to kill them when encountered at sea.
 -   Broodlords have a massive detection radius and seem to be able to detect players through walls from all angles. Players with [Obvious](Boons_and_Flaws.md) need to be very careful if trying to avoid one.
 
-## Gallery
-
-There are **19** images, be warned
-
 ## Trivia
 
 -   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
--   Despite what their appearance suggests, their sole reference is of [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series, and _not_ [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga) from Jujutsu Kaisen.
+-   They're based on the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series.
     -   This helps explain their ability to detect players.
 -   They have 15,000 health when corrupted - the exact same amount of health Duke has.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.

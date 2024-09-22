@@ -1,6 +1,6 @@
 ---
 title: "Erisor's Church"
-revid: 111783
+revid: 113728
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Lower Erisia]
@@ -43,6 +43,7 @@ Forgotten Villagers inside the Church
 -   If all of the [Villagers](Forgotten_Villager.md) survive, a large chest will spawn at the end of the event with typical [Erisian](Erisia.md) loot.
 -   The Forgotten Villagers take ~20–30 minutes to respawn every time you beat or lose the event. If left alone without help, they will lose as they are severely outnumbered. There are always more Bandit Leaders than them so always aggro a Bandit Leader to fight you instead of fighting one that the Villagers are already fighting. Avoid hitting the villagers because they will aggro on you. If all the villagers die, you cannot claim your reward as you need to talk to one of them. Villagers do not know how to parry the Golem's attacks, and all 3 (if not already killed by bandit leaders) will most likely die to the golem.
 -   There is no penalty to losing. If all 3 villagers die, you just have to wait for ~20 minutes for them to respawn to get another shot at the quest.
+-   Most of the villagers of a high chance of being stuck in the church and not doing anything. (Not like they do much anyways.)
 
 ## Maps
 

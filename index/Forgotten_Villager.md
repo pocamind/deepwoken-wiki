@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 86253
+revid: 113729
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs]
@@ -12,9 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Church](<Erisor's_Church.md>). Unlike the other villagers, they distrust Alastir and thus cannot be handed in to him. Talking to one of them will eventually start an event that spawns in waves of enemies and monsters:
-
-### Waves
+Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Church](<Erisor's_Church.md>). Unlike the other villagers, they distrust Alastir and thus cannot be handed in to him. Talking to one of them will eventually start an event that spawns in waves of Bandit Leaders and a Rock Golem.
 
 -   Wave I - Four [Bandit Leaders](Bandit_Leader.md)
 -   Wave 2 - Five [Bandit Leaders](Bandit_Leader.md)
@@ -25,7 +23,7 @@ A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [race](As
 
 ## Moveset
 
-A Forgotten Villager's arsenal only consists of their [Fists](Fists.md):
+A Forgotten Villager's arsenal only consists of their [Fists](Fists.md), using the [Way of Navae](Way_of_Navae.md) fighting style.
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -48,3 +46,4 @@ Location of the chests' spawn after completing the event
 
 -   Taking a knocked one to [Alastir](Alastir.md) will result in no reaction.
 -   They are hostile to every NPC, including the [Teacher](Teacher.md) NPC.
+-   The only place where they naturally spawn in the [Erisor's Church](<Erisor's_Church.md>).
