@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 113530
+revid: 114034
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

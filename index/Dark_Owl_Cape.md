@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 113938
+revid: 114016
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]

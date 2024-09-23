@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 109861
+revid: 114010
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -32,5 +32,5 @@ The Mercenary's Boots are part of the **Mercenary's** set; with the only other a
 
 ## Trivia
 
--   Has an unusable revolver on the front of the boots.
+-   Has a [Repeater](Repeater.md) on one leg.
 -   Best boots for [pips.](Equipment.md) Tied with [Star Boots](Star_Boots.md).

@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 113807
+revid: 114012
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -28,6 +28,4 @@ categories: [Equipment, Arms, Cloaks]
 
 The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category. It has an innate stat of 6% Stealth and the [Talent](Talents.md) Ether Conduit. It can be found in chests from [Layer 2](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
 
-## Trivia
-
-This equipment gives the Ether Conduit Talent. - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s.
+-   **Ether Conduit** - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s.

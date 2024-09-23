@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 113894
+revid: 113950
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -982,7 +982,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:That girls a miner.png | 
+| File:Miners Hardhat.png | 
 
 [Miner's Hardhat](<Miner's_Hardhat.md>)
 

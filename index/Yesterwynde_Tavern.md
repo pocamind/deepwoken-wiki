@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 113909
+revid: 114033
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -15,36 +15,147 @@ LocationL Yesterwynde Tavern LocationR
   
   
 
-On the left once passing the mudskipper knights on the way to Kj's brother for Lost Brother quest.
-
-Tavern Entrance door on island between Lower Erisia and Isle of Vigils.
-
-Entrance at Isle of Vigils. Behind the food stand down to the left.
-
 ## Description
 
-The Yesterwynde Tavern is part of a promotional event for Nightwish, a Finnish metal band. By finding and entering one of the many tavern doors scattered around the map, the player will be able to speak to [The Ferryman](The_Ferryman.md) and pick up the event quest in which the players must retrieve the Krulian's music collection.
+This is about The **Yesterwynde Tavern**, which was created as a part of the event. For more general information on the event and obtainment of the Gilded [Instruments](Instruments.md), see [Nightwish x Deepwoken Promotional Event](Nightwish_x_Deepwoken_Promotional_Event.md).
 
-The event quest requires the player to collect 3 records across Lumen, giving the following cryptic hint at the end of the dialogue:
+There are many different tavern doors scattered across the Lumen that can lead to this place. The different doors in the Etrean Luminent are located in _placeholder (bandit camp)_, _placeholder (vigils)_, and _placeholder (ministry)_. With the other doors being placed in the Eastern Luminant, from, _placeholder (greathive)_, and _placeholder (starswept)_, to lastly _placeholder (???)_.
 
-> _"One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same."_
+Inside the tavern there are sets of tables and chairs looking what seems to represent a bar. In the front of bar are four loudspeakers with **Nightwish** written in cursive above it. At the counter sits various drinks, plates, and bowls, and of course, with [The Ferryman](The_Ferryman.md) as the barman.
 
-_\- The Ferryman_
+Opposite to the main counter sits an assortment of boxes, barrels, stand-up torches, and an unlitcampfire. On top of the campfire carries a floating bookshelf with one book sat atop of it. Above that can be seen a mount of moose antlers hung as decoration.
 
-The hint indicates towards each record being located at [Upper Erisia](Upper_Erisia.md), [Minityrsa](Minityrsa.md), and [Miner's Landing](<Miner's_Landing.md>). Upon collecting all three and returning to the Ferryman, the player will be rewarded with gilded [Instruments](Instruments.md). This reward applies to all slots on the account.
+## The Ferryman
 
-Additionally, the Ferryman provides free [Redd Juice](Food.md) to the player.
+[The Ferryman](The_Ferryman.md) floats behind the counter serving free drinks to anyone who comes by, but only if they don't already have a drink on hand. In his usual outfit and demeanor, he asks the player for help in retrieving his lost records from his vinyl collection.
 
-## Obtainment
+While he was setting up the tavern gateways, he lost **three** of his records along the way. In which he says "One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same."
 
--   The player **must** have beaten [The Ferryman](The_Ferryman.md) to start the quest, otherwise he will just say a greeting.
--   Begin the quest as instructed above, the tavern doors can be found tucked away at almost every major island in the game.
--   The first record can be found in [Upper Erisia](Upper_Erisia.md). Go past the [Mudskipper Knights](Mudskipper.md) and down through the rock passage as you would do for the [A Lost Sibling](Temple_of_the_Blade.md) quest. As soon as you exit the rock passage, head left and search for the record. It can be found atop a few small rocks.
--   The second record can be found in [Minityrsa](Minityrsa.md). Climb your way up the island to the [Hive Construct](Hive_Construct.md) mini-boss, then climb up the right hand wall towards the abandoned church. Keep walking until you see the campsite, then turn right and climb the icy wall next to the stone ramp. Inside a hollowed out log, you can find the next record.
--   The third and final record can be found in [Miner's Landing](<Miner's_Landing.md>). Make your way through [Saramaed Summit](Saramaed_Summit.md) and keep progressing through the volcano until you have almost reached the top and are met by two large stone statues against the walls. Climb up the one on the right, and near its head on a ledge you can find the final record.
--   Return to the tavern and claim your reward from the Ferryman.
+Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-note-1), [Minityrsa](Minityrsa.md)[\[2\]](#cite-note-2), and [Erisia](Erisia.md)[\[3\]](#cite-note-3), respectively.
 
   
+
+### Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, welcome, [Name]! Care for a drink on the house?</td>
+</tr>
+<tr>
+  <td colspan="6">2. What made you start up a tavern?</td>
+  <td colspan="6">1. Sure.</td>
+</tr>
+<tr>
+  <td colspan="6">Well, I needed a venue to show off my superior collection of music, didn't I? Only... Ah. I managed to misplace <b>three records</b> from my vinyl collection while setting up the gateways here...</td>
+  <td colspan="3"><i><b>No drinks in inventory</b></i></td>
+  <td colspan="3"><i><b>Already holding a drink</b></i></td>
+</tr>
+<tr>
+  <td colspan="6">Maybe I can look around?</td>
+  <td colspan="3">Of course, I have just the drink for you!<br>
+  (Gives Redd Juice)</td>
+  <td colspan="3">Hah! Finish what you have already.</td>
+</tr>
+<tr>
+  <td colspan="6">Hah, a fitting errand! Ridicule aside, it <i>would</i> actually be of some help. I've got an old set of instruments I've been meaning to get rid of for you if you do.</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Where can I find the records?</td>
+</tr>
+<tr>
+  <td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i><b>If none collected</b></i><br>
+  Ah, no luck so far? There's 3 records missing out there. Need a refreshment to get you going?<br>
+  <i><b>If 1 collected</b></i><br>
+  Excellent work so far, just 2 records left. Need a refreshment to keep you going?<br>
+  <i><b>If 2 collected</b></i><br>
+  Excellent work so far, just 1 records left. Need a refreshment to keep you going?</td>
+</tr>
+<tr>
+  <td colspan="6">1. Sure.</td>
+  <td colspan="6">2. Where can I find the records?</td>
+</tr>
+<tr>
+  <td colspan="3"><i><b>No drinks in inventory</b></i></td>
+  <td colspan="3"><i><b>Already holding a drink</b></i></td>
+  <td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td>
+</tr>
+<tr>
+  <td colspan="3">Of course, I have just the drink for you!<br>
+  (Gives Redd Juice)</td>
+  <td colspan="3">Hah! Finish what you have already.</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest Complete:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i><b>Unlocked: Gilded Instruments</b></i><br>
+  My, my! What a helper you are. It would be remiss for me to not give you the reward promised, so here you are...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, welcome back! Care for a drink on the house?</td>
+</tr>
+<tr>
+  <td colspan="12">Sure.</td>
+</tr>
+<tr>
+  <td colspan="6"><i><b>No drinks in inventory</b></i></td>
+  <td colspan="6"><i><b>Already holding a drink</b></i></td>
+</tr>
+<tr>
+  <td colspan="6">Of course, I have just the drink for you!<br>
+  (Gives Redd Juice)</td>
+  <td colspan="6">Hah! Finish what you have already.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
@@ -52,4 +163,9 @@ Additionally, the Ferryman provides free [Redd Juice](Food.md) to the player.
 -   The Yesterwynde Tavern will play Nightwish songs, indicating which song is playing on the left of the screen.
 -   This confirms that [The Ferryman](The_Ferryman.md) has access to vinyl records, means to play them, and is a fan of metal.
 -   Every tavern door leads to the same instance of the Yesterwynde Tavern, meaning it can get quite overpopulated and dangerous. You can always exit by walking up to the tavern doors again.
--   You must already have the songbook to obtain the skins
+
+## Footnotes
+
+1.  [↑](#cite-ref-1) "The machinery threaded through the caldera of a volcano," can be assumed to be the [Saramaed Summit](Saramaed_Summit.md) of [The Ignition Union](The_Ignition_Union.md), due to the volcanic and mechanical nature of the place.
+2.  [↑](#cite-ref-2) "A nestled spot of nature within a frozen waste," can be assumed to be the [Minityrsa](Minityrsa.md) of [The Ministry](The_Ministry.md), due to the hail they receive all year round and the nature befitting to be called a desolate wasteland.
+3.  [↑](#cite-ref-3) "A land lost to time, yet familiar all the same," refers to the fact that although [Erisia](Erisia.md) has been floating in and out of the [Voidsea](Voidsea.md) for years, pathfinders have spent the same amount of time searching for it, waiting for it to be discoverable again.
