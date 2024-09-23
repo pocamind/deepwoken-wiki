@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 113280
+revid: 113899
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -163,7 +163,12 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Conjure metal from within, impaling surrounding entities |  |  |
+ | Conjure metal from within, impaling surrounding entities. |  | Send metal spikes piercing through your body, impaling all nearby targets.
+
+-   Doesn't break your momentum, meaning you can run while using it or vice versa.
+-   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it (needs to be tested)
+
+ |
 | 
 
  | Metal Armament
@@ -836,6 +841,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   Using Erisore gives a blue particle effect. Effects unknown.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
+-   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.
 -   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th August, 2024 update, 466 days after the attunement's release.
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

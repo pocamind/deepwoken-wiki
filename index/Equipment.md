@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 113882
+revid: 113894
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -767,6 +767,8 @@ Found from:
 
 [Grand Fisher Helm](Grand_Fisher_Helm.md)
 
+(**Unique**)
+
  | 
 
 _+5 Health, +5% Ice Armor, +5% Lightning Armor_
@@ -1359,6 +1361,33 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
+|  | 
+
+[Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
+
+(**Animated**)
+
+(Mythical)
+
+ | 
+
+_+5 Health_  
+
++3 Legendary Pips  
+
+_+Talent: Braced Collapse_  
+
+_+Talent: Kick Off_  
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+
+ | N/A |
 | File:Sable Adjudicator's.png | 
 
 [Adjudicator's Coat](<Adjudicator's_Coat.md>)
@@ -2015,6 +2044,8 @@ Found from:
 |  | 
 
 [Grand Fisher Plate](Grand_Fisher_Plate.md)
+
+(**Unique**)
 
  | 
 
@@ -2995,6 +3026,29 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
+|  | 
+
+[Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
+
+(Legendary)
+
+ | 
+
+_+5 Health_  
+
++2 Rare Pips  
++1 Legendary Pips
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Autumn Boots](Autumn_Boots.md)

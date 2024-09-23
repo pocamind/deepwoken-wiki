@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 111581
+revid: 113938
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -28,6 +28,9 @@ categories: [Equipment, Torso, Capes]
 
 The Dark Owl Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in the [Miner's Landing](<Miner's_Landing.md>) and [Second Layer](Second_Layer.md).
 
+  
+
 ## Trivia
 
 -   The Dark Owl Cape is a part of the "**Dark Owl**" set, with the other armor pieces being the **[Dark Owl Chapeau](Dark_Owl_Chapeau.md)** and the **[Dark Owl Cloak](Dark_Owl_Cloak.md)**.
+-   You are unable to dye this equipment.
