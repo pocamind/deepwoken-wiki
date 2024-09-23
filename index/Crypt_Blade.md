@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 113147
+revid: 114053
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -63,3 +63,4 @@ The critical has a cooldown of ten seconds.
 -   During the original addition of this weapon before it's temporary removal, the scaling used to be unreasonably high at 20 SHW scaling and also had 0.7 swing speed without endlag.
 -   Meeting the requirement of SDW and HVY, the weapon deals 35.8 damage.
 -   At max SDW and HVY, the weapon deals 43.5 damage.
+-   Despite being named **Crypt** Blade, it cannot be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).

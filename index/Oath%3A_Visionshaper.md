@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 113751
+revid: 114039
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -70,25 +70,10 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
     -   If the target has the Disbelief Talent, the duration of the illusion is shortened.
     -   Clones _do_ apply hit-stun.
 
--   **~Illusory Realm - Support Mantra~ Oath got reworked and mantra got deleted**
+## Under construction oath got reworked
 
--   ~After a slight delay, teleport you and nearby players to an alternate dimension for 20 seconds (44 seconds with three Eternal and Aeon Logstones). The alternate dimension is a combination of reality (the real world) and the Dreamscape (where the caster enters).~
-    -   ~Summons a flat, black terrain at the casted location, allowing free traversal.~
-    -   ~Grants vision and movement through walls and certain objects.~
-    -   ~Can be used in water, in Guild Bases, and alone.~
-    -   ~Interactable NPCs and items, such as campfires, repair kits, etc., can be used within the realm.~
-    -   ~Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.~
-    -   ~Both the caster and any user within the realm will be pushed back if too far from the casting location, similar to the Gravity Field resonance.~
-    -   ~Grants 20% damage reduction to the caster.~
--   ~The cooldown is 2 minutes 40 seconds.~
--   ~Entities within the realm, indicated by an aura of white feathers, cannot interact with entities outside, and vice versa.~
--   ~There are two modifiers:~
-    -   ~**Magnet Spark -** The radius of the realm focuses on the caster, pulling in anyone who is trapped and too far.~
-    -   ~**Multiplying Spark -** Any entity can join the realm while it is active.~
-    -   ~Both can be used simultaneously.~
--   ~Grants immunity to being knocked while active.~
-    -   ~Halves the current realm duration if the caster is at 0% hp.~
--   This has been removed as of 20th September 2024
+-   **Mirror Illusion - Support Mantra Oath got reworked and mantra got deleted**
+-   This mantra kmocks targets back that are in the radius of the mantra and creates a shaper clone of them.
 
 -   **Illusory Counter** **\- Combat Mantra**
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.

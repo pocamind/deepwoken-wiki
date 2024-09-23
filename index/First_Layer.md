@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 113291
+revid: 114063
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -84,7 +84,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | --- | --- |
 | 1-4 | Nothing (you are sent up without a fight) |
 | 5-6 | Mudskipper Knight |
-| 7-9 | Lesser Angel |
+| 7-9 | [Lesser Angel](Hollow_Angel.md) |
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
 | 14-16.66 | High chances for a Corrupted [Megalodaunt](Megalodaunt.md) |
 | 16.67+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |

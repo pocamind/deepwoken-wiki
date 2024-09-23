@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 107957
+revid: 114047
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -8,7 +8,7 @@ categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry
 
 # Ministry Enforcer
 
-A Ministry Enforcer is an NPC which only appears in [Faction Ambushes](Faction_Ambushes.md). Template:EnemyInfobox1.0
+A Ministry Enforcer is an NPC which appears in [Faction Ambushes](Faction_Ambushes.md) and the [Dilluvian Mechanism](<Diluvian_Mechanism_(NPC).md>). Template:EnemyInfobox1.0
 
 ## Description
 
@@ -92,6 +92,6 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 ## Trivia
 
 -   Rather ironically, the stronger variants use [Way of Navae](Way_of_Navae.md), despite the Ministry engaging in an ethnic cleansing of Navaen Nomads, as can be observed during their battles around [Summer Isle](Summer_Isle.md). However, they may be using it as a way to enhance their Shadowcast, as there are implications Navae may also be the pioneer of Shadow, similar to how Expert Galebreathers use Legion Kata.
--   The reward chest for the Ministry ambush has a small chance of yielding a Gran Sudaruska
+-   The reward chest for the Ministry ambush has a small chance of yielding a [Gran Sudaruska](Gran_Sudaruska.md).
 -   The stronger variants can use Judgment, from the [Oath: Contractor](Oath%253A_Contractor.md). Despite this, they lack the strings or red eyes that indicate the presence of the Oath.
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Black Divers](<Black_Diver_(NPC).md>).

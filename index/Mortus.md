@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 113042
+revid: 114048
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -80,3 +80,8 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 ## Trivia
 
 -   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
+-   The one that "look kinda like a shark stood up" is a [Megalodaunt](Megalodaunt.md).
+    -   Furthermore, the dialogue claims that it "fed us for weeks it did" which shows that Megalodaunt flesh is _probably_ **edible**. (Though we don't see Megalodaunt flesh / meat as a drop in-game. Would be cool though.)
+-   The one that "look like a gator having a really bad day" is a [Thresher](Thresher.md).
+-   The one "with claws longer than a man is tall" is a [Terrapod](Terrapod.md).
+    -   The claws of a Terrapod aren't actually as tall as a man.

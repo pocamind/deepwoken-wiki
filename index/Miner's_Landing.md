@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 112110
+revid: 114050
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Eastern Luminant, The Ignition Union]
@@ -44,7 +44,7 @@ The town is one of the main parts of Miner's Landing. Buildings throughout the t
 
 Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
 
-In the same room as Delta, there is a NPC next to a large drill called Deepdelver Tau who allows you to enter [Saramaed Hollow](Saramaed_Hollow.md).
+In the same room as Delta, there is a NPC next to a large drill called Deepdelver Tau who allows you to enter [Saramaed Hollow](Saramaed_Hollow.md), a floor-based dungeon that takes place deep under the [Saramaed Summit](Saramaed_Summit.md) (See Saramaed Hollow for more).
 
 You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth, Fiber, an Axe, and Pickaxe.
 
@@ -154,3 +154,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   The business buildings are more spread out than normal, with the Bank only accessible by climbing a waterfall.
 -   There are also hooks that can be used to travel between those places quickly.
 -   A great place to farm for loot alongside Fort Merit.
+-   People with the Ignition Union [origin](Origins.md) spawn here.

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 113700
+revid: 114051
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -33,6 +33,8 @@ Orb which used to refuel Union Drill
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
 
+You can't get past 2km / 2000m.
+
 There are 4 room layouts, featuring randomized enemy spawns:
 
 -   The bridge
@@ -46,7 +48,7 @@ Do note that carrying these ores will not allow you to attack with your weapon, 
 
 To actually be rewarded during this activity, players are required to kill every monster in a given floor. Doing so will grant a large amount of EXP, along with attribute training EXP and chests spawning near the Ignition Deepdrill.
 
-It is worth noting that the lava is not as deadly as one might expect. Falling into it is not a death sentence, one can easily climb up on a nearby rock to go back to the main area. However, the deal quick damage over time, making it _not so ideal_ to fight monsters down there.
+It is worth noting that the lava is not as deadly as one might expect. Falling into it is not a death sentence, one can easily climb up on a nearby rock to go back to the main area. However, they deal quick damage over time, making it _not so ideal_ to fight monsters down there.
 
 ## Monster adaptations
 
@@ -87,8 +89,8 @@ Relics and enchant stones can drop from any chest at any floor.
 ## **Tips**
 
 -   The Saramaed Hollow is a very low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
--   Additionally, if you are low / about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m.
-    -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio.
+-   Additionally, if you are low / about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
+    -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
 -   The Saramaed Hollow is also a good grinding fodder for all levels, having weak mobs like mudskippers and Megalodaunts to boost early game progression, Brutes, Threshers, and Desert Knights to help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
 
 ## Trivia

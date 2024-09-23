@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 114033
+revid: 114060
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -33,8 +33,6 @@ While he was setting up the tavern gateways, he lost **three** of his records al
 
 Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-note-1), [Minityrsa](Minityrsa.md)[\[2\]](#cite-note-2), and [Erisia](Erisia.md)[\[3\]](#cite-note-3), respectively.
 
-  
-
 ### Dialogue
 
 **First Encounter:**
@@ -45,7 +43,10 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, welcome, [Name]! Care for a drink on the house?</td>
+  <td colspan="12"><i><b>If you haven't beaten The Ferryman</b></i><br>
+  Welcome, welcome! Care for a drink on the house?<br>
+  <i><b>If you have beaten The Ferryman</b></i><br>
+  Ah, welcome, [Name]! Care for a drink on the house?</td>
 </tr>
 <tr>
   <td colspan="6">2. What made you start up a tavern?</td>
@@ -156,6 +157,10 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 </tr>
 </tbody>
 </table>
+
+## Music Tracks
+
+Below you can find the sound tracks that play in the tavern
 
 ## Trivia
 

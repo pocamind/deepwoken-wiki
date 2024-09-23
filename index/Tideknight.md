@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 107944
+revid: 114046
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [InProgressPages, Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]
@@ -37,3 +37,4 @@ Tideknights contain the save moveset as the following NPCs depending on their va
 ## Trivia
 
 -   They share the same armor with the [Celtorian Guards](Celtorian_Guard.md).
+-   It is unknown where these guys originate from lore-wise. Perhaps they could have been stronger, deadlier guards that patrolled Celtor before the Great Drowning.
