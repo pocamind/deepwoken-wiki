@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 113373
+revid: 113756
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -18,9 +18,9 @@ Template:EnemyInfobox1.0
 
 Chaser, Sigma of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
 
-He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
+He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser, Sigma of the burning blood does not use the Flareblood Kamas at all during the fight.
 
-He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
+He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser, Sigma of the burning blood, Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
 
 Appearance-wise, he is a young male greymarch [Adret](Adret.md) characterized by his unique eye color and facial markings. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered from the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
 
@@ -129,11 +129,11 @@ Dodgeable:◯
 
 ## Finisher
 
-All of Chaser's moves except Stalactite Fall instantly execute.
+All of Chaser, Sigma of the burning blood's moves except Stalactite Fall instantly execute.
 
 ## Combat
 
-Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing him from using the Stalactite Fall attack again for the remainder of the fight. The stalactites that fell will remain for around 10 minutes; most runs won't have them disappear. This is good as you won't have to worry about this attack again.
+Whenever Chaser, Sigma of the burning blood's HP drops below half, he will collapse the ceiling, preventing him from using the Stalactite Fall attack again for the remainder of the fight. The stalactites that fell will remain for around 10 minutes; most runs won't have them disappear. This is good as you won't have to worry about this attack again.
 
 **Phase 1:**
 
@@ -163,13 +163,13 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 ## Rewards
 
-After Chaser, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a medium sized [chest](Chests_&_Sacks.md) is spawned. It contains:
+After Chaser, Sigma of the burning blood a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a medium sized [chest](Chests_&_Sacks.md) is spawned. It contains:
 
 -   Many Kyrsan series weapons.
 -   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
--   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped Only by Chaser.
+-   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped Only by Chaser, Sigma of the burning blood.
 -   Rarely, [Enchantment Stones](Enchant_Stone.md).
 -   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Stormseye](Stormseye.md) and [Ysleys Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
 -   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
@@ -177,9 +177,9 @@ After Chaser, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a mediu
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
 
-**Roughly** six Chaser solos, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
+**Roughly** six Chaser, sigma of the burning blood solos, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
-Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
+Beating Chaser, sigma of the burning blood by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
 
 ## Dialogue
 
@@ -257,24 +257,24 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 ## Trivia
 
 -   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
--   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
--   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
+-   Chaser, Sigma of the burning blood is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
+-   Chaser, Sigma of the burning blood sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   Despite having visual armor, he has 0% resistance which making PEN stat useless against him.
--   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
--   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
--   The Triple Blood Wave move used by Chaser closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.
--   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
+-   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser, Sigma of the burning blood.
+-   The **Burning Blood Explosion** move used by Chaser, Sigma of the burning blood closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
+-   The Triple Blood Wave move used by Chaser, Sigma of the burning blood closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.
+-   Chaser, Sigma of the burning blood is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
--   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
--   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
--   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered or if the mystery key hasn't been taken/resonance door opened.
--   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
+-   Chaser, Sigma of the burning blood's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
+-   According to ragoozer, Chaser, Sigma of the burning blood was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
+-   Chaser, Sigma of the burning blood does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered or if the mystery key hasn't been taken/resonance door opened.
+-   Much like the Ferryman, if Chaser, Sigma of the burning blood is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Used to have the title, Scholar of the Crimson Contract.
     -   He still has this title if you hover over the Combat Tag skull whilst combat tagged by him.
 -   His hair ID is 77799954 & the beard ID is 4995497755
--   Chaser Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
--   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
--   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is Doubled Damage from Fragileheart.
+-   Chaser, Sigma of the burning blood's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
+-   Chaser, Sigma of the burning blood's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
+-   Due to Chaser, Sigma of the burning blood's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is Doubled Damage from Fragileheart.
 
 ## References
 

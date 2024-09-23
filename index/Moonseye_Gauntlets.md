@@ -1,9 +1,9 @@
 ---
 title: Moonseye Gauntlets
-revid: 111828
+revid: 113856
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Gloves]
 ---
 
 # Moonseye Gauntlets
@@ -13,8 +13,10 @@ categories: [Equipment, Arms]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | +7 Health, +3 Posture, +1 Legendary Pip , +1 Rare Pip |
+| innate stats | +7 Health, +3 Posture, +1 Rare Pips, +1 Legendary Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

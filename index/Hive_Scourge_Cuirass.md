@@ -1,6 +1,6 @@
 ---
 title: Hive Scourge Cuirass
-revid: 107530
+revid: 113854
 source: https://deepwoken.fandom.com/wiki/Hive_Scourge_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses]
@@ -12,17 +12,17 @@ categories: [Equipment, Arms, Cuirasses]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | (Assumed) |
-| requirements | None |
+| selling price | 25 |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | +5 Health+2 Posture, 1 + 1 Pips |
+| innate stats | +5 Health, +2 Posture, +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Lowstride |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia, The Depths (Second Layer), Other sources:, Bought from Merchant Ships |
-| description | ... |
+| description | "..." |
 
 ## Description
 

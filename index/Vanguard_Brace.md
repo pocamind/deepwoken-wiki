@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 107513
+revid: 113831
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Braces]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health+1 Posture, +2 Pips |
+| innate stats | +3 Health, +1 Posture, +2 Rare Pips |
 | innate talent | Replenishing Knockout |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Erisia, Other sources:, Tutorial |
-| description | ... |
+| description | "..." |
 
 ## Description
 

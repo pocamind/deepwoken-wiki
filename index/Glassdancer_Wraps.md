@@ -1,9 +1,9 @@
 ---
 title: Glassdancer Wraps
-revid: 107497
+revid: 113871
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Wraps]
+categories: [Equipment, Arms, Gloves]
 ---
 
 # Glassdancer Wraps
@@ -13,8 +13,9 @@ categories: [Equipment, Arms, Wraps]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
+| requirements | Power 6 |
 | weight | 2 |
-| innate stats | 7 Health3 Posture, +1 Rare Pip |
+| innate stats | +7 Health+3 Posture, +1 Rare Pip |
 | innate talent | Lightweight |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 107381
+revid: 113799
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -15,13 +15,14 @@ categories: [Equipment, Arms, Coats]
 | selling price | 14 |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | 2 Rare Pips |
+| innate stats | +2 Rare Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Aelita (10%), King Threshers (~1%), Ferryman (Summer), Corrupt King Threshers (~3%) |
-| description | ... |
+| description | "..." |
 
 ## Description
 

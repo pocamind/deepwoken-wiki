@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 113061
+revid: 113784
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, The Ignition Union]
@@ -14,13 +14,13 @@ categories: [Equipment, Arms, Dusters, The Ignition Union]
 | rarity | Mythic |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 5 Health3 Pips |
+| innate stats | +5 Health, +3 Legendary Pips |
 | innate talent | Braced CollapseKick Off |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests:Chaser, Scholar of the Burning Blood, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow]], Starfield Veldt, Other Sources:, Merchant Ships |
+| obtainment | Chests:Chaser, Scholar of the Burning Blood, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow, Starfield Veldt, Other Sources:, Merchant Ships |
 | description | "..." |
 
 ## Description

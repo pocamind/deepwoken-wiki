@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 111657
+revid: 113845
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -8,10 +8,7 @@ categories: [Random Encounters, NPCs]
 
 # Grudge
 
-| Grudge | |
-|---|---|
-| name | Grudge |
-| location | Minityrsa, Starswept Valley, Songseeker Wilds, Scyphozia, Upper Erisia, Meteor Isle |
+Template:EnemyInfobox1.0
 
 ## Description
 

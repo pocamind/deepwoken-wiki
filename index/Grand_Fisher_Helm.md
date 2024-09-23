@@ -1,9 +1,9 @@
 ---
 title: Grand Fisher Helm
-revid: 112915
+revid: 113757
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Head, Helmets, The Divers]
 ---
 
 # Grand Fisher Helm

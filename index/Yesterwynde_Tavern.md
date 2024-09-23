@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 113591
+revid: 113780
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -37,11 +37,12 @@ Additionally, the Ferryman provides free [Redd Juice](Food.md) to the player.
 
 ## Obtainment
 
+-   The player **must** have beaten [The Ferryman](The_Ferryman.md) to start the quest, otherwise he will just say a greeting.
 -   Begin the quest as instructed above, the tavern doors can be found tucked away at almost every major island in the game.
 -   The first record can be found in [Upper Erisia](Upper_Erisia.md). Go past the [Mudskipper Knights](Mudskipper.md) and down through the rock passage as you would do for the [A Lost Sibling](Temple_of_the_Blade.md) quest. As soon as you exit the rock passage, head left and search for the record. It can be found atop a few small rocks.
 -   The second record can be found in [Minityrsa](Minityrsa.md). Climb your way up the island to the [Hive Construct](Hive_Construct.md) mini-boss, then climb up the right hand wall towards the abandoned church. Keep walking until you see the campsite, then turn right and climb the icy wall next to the stone ramp. Inside a hollowed out log, you can find the next record.
 -   The third and final record can be found in [Miner's Landing](<Miner's_Landing.md>). Make your way through [Saramaed Summit](Saramaed_Summit.md) and keep progressing through the volcano until you have almost reached the top and are met by two large stone statues against the walls. Climb up the one on the right, and near its head on a ledge you can find the final record.
--   Return to the tavern and claim your reward from [The Ferryman](The_Ferryman.md).
+-   Return to the tavern and claim your reward from the Ferryman.
 
 ## Trivia
 

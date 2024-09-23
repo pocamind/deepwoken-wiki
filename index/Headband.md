@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 110284
+revid: 113779
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -82,8 +82,6 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
 </tr>
 </tbody>
 </table>
-
-All headbands have the same rarity.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 109856
+revid: 113876
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Common |
 | selling price | 7 |
-| requirements | None |
+| requirements | Power 6 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 98317
+revid: 113858
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -13,16 +13,16 @@ categories: [Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | 5 Health2 Pips |
+| innate stats | +5 Health, +2 Rare Pips |
 | innate talent | Braced Collapse |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:The Depths (First Layer), Fishing |
-| description | ... |
+| description | "..." |
 
 ## Description
 

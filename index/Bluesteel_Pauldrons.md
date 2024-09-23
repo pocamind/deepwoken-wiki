@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 108540
+revid: 113776
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 3 HP? Pips |
-| innate talent | None |
+| innate stats | +3 Health, +1 Rare Pip |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Primadon, First Layer, Chime of Conflict |
-| description | ... |
+| description | "..." |
 
 ## Description
 

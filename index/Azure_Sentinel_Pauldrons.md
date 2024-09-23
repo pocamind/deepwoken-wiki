@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 107542
+revid: 113771
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -16,7 +16,7 @@ categories: [Equipment, Arms]
 | requirements | None |
 | weight | 2 |
 | innate stats | +2 Rare Pips |
-| innate talent | None |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

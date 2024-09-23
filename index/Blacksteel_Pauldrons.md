@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 107541
+revid: 113775
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 3 Health1 Posture, 3 Pips |
+| innate stats | +3 Health, +1 Posture, +1 Rare Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Erisia, Other sources:, Rare drop from Blacksteel Pirates |
-| description | ... |
+| description | "..." |
 
 ## Description
 

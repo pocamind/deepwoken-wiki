@@ -1,9 +1,9 @@
 ---
 title: "Smith's Gloves"
-revid: 107455
+revid: 113827
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Arms, Gloves]
 ---
 
 # Smith's Gloves
@@ -15,7 +15,8 @@ categories: [Equipment]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +5 Health |
+| innate stats | +5 Health, +2 Rare Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

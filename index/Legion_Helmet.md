@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 110894
+revid: 113866
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | PWR 10, 10 FTD |
 | weight | 1 |
 | innate stats | +10 HP, +2 Posture, +1 Uncommon Pips |
 | innate talent | N/A |

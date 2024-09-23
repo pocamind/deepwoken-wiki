@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 112991
+revid: 113785
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -11,18 +11,17 @@ categories: [Equipment, Arms, Plates, The Divers]
 | Diver's Light Plate | |
 |---|---|
 | type | Arms |
-| rarity | Mythical |
-| selling price | 100 |
+| rarity | Mythic |
 | requirements | PWR 10 , 15 FTD |
 | weight | 2 |
-| innate stats | 10 Health1 Posture, 3 Pips |
+| innate stats | +10 Health+1 Posture, +3 Legendary Pips |
 | innate talent | Conquer Your Fears |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Completed Hell Mode |
-| description | ... |
+| description | "..." |
 
 ## Description
 

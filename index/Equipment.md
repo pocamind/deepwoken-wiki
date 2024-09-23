@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 112509
+revid: 113882
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -190,6 +190,8 @@ _+5% Stealth_
 
 _+Talent: Assassin_
 
+**Requires Power 10**
+
  | 
 
 Found from:
@@ -212,7 +214,7 @@ _+8 Health_
 
 _+Talent: Strong Hold_
 
-**Requires Fortitude 10**
+**Requires Power 10, Fortitude 10**
 
  | 
 
@@ -326,7 +328,7 @@ _+2 Posture_
 
 _+Talent: Concussive Force_  
 
-**Requires Fortitude 20**
+**Requires Power 10, Fortitude 20**
 
  | 
 
@@ -725,7 +727,7 @@ _+2 Posture_
 
 _+Talent: Concussive Force_  
 
-**Requires Fortitude 15**
+**Requires Power 6, Fortitude 15**
 
  | 
 
@@ -897,6 +899,8 @@ _+4 Health_
 
 _+Talent: Give and Take_
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -920,7 +924,7 @@ _+2 Posture_
 
 +1 Uncommon Pip
 
-**Requires Fortitude 15**
+**Requires Power 10, Fortitude 15**
 
  | 
 
@@ -942,7 +946,7 @@ _+10 Health_
 
 +1 Rare Pip
 
-**Requires Fortitude 15**
+**Requires Power 6, Fortitude 15**
 
  | 
 
@@ -1443,7 +1447,7 @@ _+3% Stealth_
 
 _+Talent: Now You See Me_  
 
-**(Pale) Requires Power 10**
+**Requires Power 10**
 
  | 
 
@@ -1709,6 +1713,8 @@ _+8 Health_
 
 _+Talent: Breathing Exercise_
 
+**Requires Power 10**
+
  | 
 
 Found from:
@@ -1759,6 +1765,8 @@ _+1 Posture_
 +1 Legendary Pip
 
 _+Talent: Blade Dancer_
+
+**Requires Power 10**
 
  | 
 
@@ -1851,6 +1859,8 @@ _+8 Health_
 +1 Legendary Pip
 
 _+Talent: Battle Tendency_
+
+**Requires Power 10**
 
  | 
 
@@ -1958,6 +1968,8 @@ _+3 Posture_
 
 _+Talent: Lightweight_
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -1986,6 +1998,8 @@ _+8 Health_
 +1 Legendary Pip
 
 _+Talent: Heavy Haul_
+
+**Requires Power 10**
 
  | 
 
@@ -2092,6 +2106,8 @@ _+2 Posture_
 
 _+Talent: Lowstride_
 
+**Requires Power 15**
+
  | 
 
 Found from:
@@ -2113,7 +2129,7 @@ Found from:
 _+3 Health_  
 _+1 Posture_  
 
-+2 Rare Pips
++2 Rare Pips **Requires Power 10**
 
  | 
 
@@ -2156,7 +2172,7 @@ _+5% Ironsing Armor_
 
 _+Talent: Defiant until the End_  
 
-**Requires Power 3, Fortitude 15**
+**Requires Power 10, Fortitude 15**
 
  | 
 
@@ -2261,6 +2277,8 @@ _+2 Posture_
 +1 Legendary Pip
 
 _+Talent: Hoplite_
+
+**Requires Power 10**
 
  | 
 
@@ -2409,6 +2427,8 @@ _+3 Posture_
 
 +1 Legendary Pip
 
+**Requires Power 10**
+
  | 
 
 Found from:
@@ -2480,6 +2500,8 @@ _+5 Health_
 +2 Rare Pips
 
 _+Talent: Braced Collapse_
+
+**Requires Power 10**
 
  | 
 
@@ -2766,6 +2788,8 @@ _+2 Posture_
 
 +1 Legendary Pip
 
+**Requires Power 10**
+
  | 
 
 Found from:
@@ -3016,6 +3040,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -3113,6 +3139,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -3193,6 +3221,8 @@ _+5 Health_
 +2 Rare Pips  
 
 +1 Legendary Pip
+
+**Requires Power 10**
 
  | 
 
@@ -3363,6 +3393,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -3405,6 +3437,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -3423,6 +3457,8 @@ Found from:
 _+3 Health_  
 
 +2 Rare Pips
+
+**Requires Power 6**
 
  | 
 
@@ -3464,6 +3500,8 @@ Found from:
 _+3 Health_  
 
 +2 Rare Pips
+
+**Requires Power 6**
 
  | 
 

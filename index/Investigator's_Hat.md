@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 110893
+revid: 113873
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Power 6 |
 | weight | 1 |
 | innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Diplomat |

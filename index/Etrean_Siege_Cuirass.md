@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 107456
+revid: 113850
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses, Etrea]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Cuirasses, Etrea]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | 8 Health1 + 1 Pips |
+| innate stats | +8 Health, +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Battle Tendency |
 | bankable | Yes |
 | droppable | Yes |

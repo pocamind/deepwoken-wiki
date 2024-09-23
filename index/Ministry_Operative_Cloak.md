@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 107533
+revid: 113807
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -13,15 +13,16 @@ categories: [Equipment, Arms, Cloaks]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | none |
+| requirements | None |
 | weight | 2 |
-| innate stats | 6% Stealth |
+| innate stats | 6% Stealth, +2 Rare Pip, +1 Legendary Pip |
 | innate talent | Ether Conduit |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:Layer 2, Crypt of the Unbroken, Duke Erisia, Maestro Evengarde Rest |
+| description | "..." |
 
 ## Description
 

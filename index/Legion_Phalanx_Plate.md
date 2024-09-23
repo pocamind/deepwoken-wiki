@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 111798
+revid: 113855
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,16 +13,16 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | 6 Health2 Posture, 1 + 1 + 1 Pips |
+| innate stats | +6 Health, +2 Posture, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Hoplite |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia, The Eternal Gale, Maestro Evengarde Rest, Miner's Landing (Very rare) , PrimadonThe Depths |
-| description | ... |
+| description | "..." |
 
 ## Description
 

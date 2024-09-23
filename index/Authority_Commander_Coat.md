@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 112650
+revid: 113769
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats, The Central Authority]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Coats, The Central Authority]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 10 Health, 2 Pips |
+| innate stats | +10 Health, +2 Rare Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Fort Merit, Aelita |
-| description | ... |
+| description | "..." |
 
 ## Description
 

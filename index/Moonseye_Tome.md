@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 113487
+revid: 113819
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -41,5 +41,6 @@ Attempting to use at Knowledge Cap (999), _"Your mind is too full to take in the
 -   The secret "Mural" when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye which is fitting considering that Pariah was a prophet of the Moonlit Faith.
 -   Using the tome while inside of the Voidsea will make the "Mural" much clearer.
 -   This relic can be stored within the [Item Bank](Item_Bank.md).
+-   Prior to 20/09/24, the tome would grant 30 Knowledge after the first usage. It currently grants 50.
 
 1.  [↑](#cite-ref-1) [https://youtu.be/aYmOWi8fUZY?t=80](https://youtu.be/aYmOWi8fUZY?t=80)

@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 107524
+revid: 113824
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Wraps]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6 Health, 4% Stealth, 8% Fire Armor, 1 Rare Pip, 1 Legendary Pip |
+| innate stats | +6 Health, +4% Stealth, +8% Fire Armor, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Kick Off |
 | bankable | Yes |
 | droppable | Yes |

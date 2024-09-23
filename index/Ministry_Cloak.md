@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 107414
+revid: 113806
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -12,17 +12,17 @@ categories: [Equipment, Arms, Cloaks]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | N/A |
+| selling price | 25 |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | 5 Health10 Ether, 1 Rare Pip, 1 Legendary Pip |
-| innate talent | None |
+| innate stats | +5 Health, +10 Ether, +1 Rare Pips, +1 Legendary Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Blizzard Knights |
-| description | ... |
+| description | "..." |
 
 ## Description
 

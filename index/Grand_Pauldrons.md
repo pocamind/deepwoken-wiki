@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 107599
+revid: 113794
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
-| innate stats | Unknown |
-| innate talent | None |
+| innate stats | +2 Rare Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:Duke Erisia, The Depths (First Layer) |
-| description | ... |
+| description | "..." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 107391
+revid: 113861
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -13,15 +13,16 @@ categories: [Equipment, Arms, Cloaks]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | 5 Health1 Posture, 2 + 1 Pips |
+| innate stats | +5 Health, +1 Posture, +2 Rare Pips, +1 Legendary Pip |
+| innate talent | Blade Dancer |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Miner's Landing, Saramaed Summit, Primadon, Starfield Veldt |
-| description | An ancient cloak of incredible power. Worn by a select few. |
+| description | "An ancient cloak of incredible power. Worn by a select few." |
 
 ## Description
 

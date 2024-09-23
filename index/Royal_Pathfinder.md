@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 107503
+revid: 113823
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 6 Health3 Pips |
+| innate stats | +6 Health, +1 Rare Pips, +1 Legendary Pips |
 | innate talent | Ready or Not |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Starswept Valley, Duke Erisia |
-| description | ... |
+| description | "..." |
 
 ## Description
 

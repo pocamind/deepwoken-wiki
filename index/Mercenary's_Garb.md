@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 107505
+revid: 113805
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Garbs]
@@ -12,17 +12,17 @@ categories: [Equipment, Arms, Garbs]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | (Assumed) |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6% Stealth1 + 1 Pips |
+| innate stats | 6% Stealth, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Kick Off |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Crypt of the Unbroken, Miner's Landing |
-| description | ... |
+| description | "..." |
 
 ## Description
 

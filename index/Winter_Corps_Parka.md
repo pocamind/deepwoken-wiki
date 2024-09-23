@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Parka
-revid: 113195
+revid: 113833
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Parkas]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Parkas]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +6 Health+2 Posture+5% Ice Armor+5% Wind Armor+2 Pips |
+| innate stats | +6 Health, +2 Posture, +5% Ice Armor, +5% Wind Armor, +2 Rare Pips |
 | innate talent | Winter's Protection |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 113628
+revid: 113848
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,15 +13,16 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
+| requirements | PWR 10 |
 | weight | 2 |
-| innate stats | 8 Health2 + 1 Pips |
+| innate stats | 8 Health, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Breathing Exercise |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia, The Depths, Maestro Evengarde Rest, Primadon, Miner's Landing |
-| description | ... |
+| description | "..." |
 
 ## Description
 
