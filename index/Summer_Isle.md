@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 113027
+revid: 114070
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
@@ -292,6 +292,7 @@ Items and equipment that can be obtained from loot chests.
 
 #### _Rings_
 
+-   Armorer's Ring
 -   Dawnfist's Ring
 -   Rosen's Ring
 -   Bloodiron Ring

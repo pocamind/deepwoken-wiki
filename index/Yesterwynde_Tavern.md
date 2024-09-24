@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 114060
+revid: 114069
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]

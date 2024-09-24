@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 110051
+revid: 114078
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, The Divers]

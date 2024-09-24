@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 113892
+revid: 114091
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority]

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 113108
+revid: 114081
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -96,13 +96,13 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
         -   Can be used with Bloodless to heal more health.
 
-## Trivia
+## Tips/Trivia
 
 -   Recommended for support-based builds (e.g., Flame Vow of Mastery).
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
--   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger. (To put it into perspective, thats 15% health healed every ~2 seconds.)
+    -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
+-   Symbiotic Sustain can be combined with either a Blessed or Bloodless Gem in order to either gain a halved cooldown or regain some lost health. Blessed Gem is recommended due to being able to frequently heal ally HP.
+    -   [Deepscorn Casque](Deepscorn_Casque.md) reduces the damage from Symbiotic Sustain.
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it deals heavily reduced damage.
 -   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
--   Anyone can use the white orb once it is spawned, regardles of who places them.
--   Keep in mind that the obtainment has to be done in the same server, because if you change servers after you placed the lotuses in, they will not save and only stay for that server only.
--   If you use the guild campfire to teleport with entropy link talent it will worked but instead teleporting your character to the meteor, you will teleported out from the guild base. Probably a bug or maybe because guild base is too far high in the sky.
+-   Anyone can use the white orb once it is spawned, regardless of who places them.

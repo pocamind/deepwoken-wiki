@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 110088
+revid: 114076
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -272,7 +272,7 @@ After all Authority Guards are defeated, 3 large [chests](Chests_&_Sacks.md) hol
 
 -   [Ploom](#flamecharmer-ploom-quest)
 -   [Polis](Polis.md)
--   Theadre
+-   [Theadre](Theadre.md)
 -   [Lord Regent](The_Lord_Regent.md)
 -   Innkeeper
 -   [Guild Clerk](Guilds.md)
@@ -288,7 +288,7 @@ After all Authority Guards are defeated, 3 large [chests](Chests_&_Sacks.md) hol
 -   [Serephina](Seraphina.md)
 -   [Eastern Camp Master](Cheral.md)
 -   [Barber](Barber.md)
--   Pori
+-   [Pori](Pori.md)
 
 ## Maps
 

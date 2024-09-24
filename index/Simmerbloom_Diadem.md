@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 114056
+revid: 114064
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Ornaments]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed HollowAska |
+| obtainment | Saramaed Hollow |
 | description | "Another relic of Aska's, this ancient artifact was once in the hands of the elusive pioneer of flame charm. Bestowed by flame worshippers and seldom seen, its precise origins are shrouded in mystery. The flame that flickers within its adorned flower suggests a hidden power, making it a priceless treasure for those who truly understand its significance." |
 
 ## Description

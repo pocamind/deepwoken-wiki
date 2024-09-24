@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 112917
+revid: 114077
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -56,6 +56,7 @@ The Fisherman executes its opponents after knocking them:
     -   Simply bringing a friend along can help.
 -   Be mindful of whatever Enchantment it has. Its damage is surprisingly lackluster without them, but enchantments like Detonation can cause a lot of problems.
 -   The Fisherman is **not aggressive to nearby monsters, and they will not attack it.** Fight with this in mind. You do not want to be fighting The Fisherman at the same time as a [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+    -   If one deals sufficient damage to the other, they will start fighting, but this is unreliable.
 -   The best and easiest way to beat The Fisherman is to take it to [Light's Causeway](<Light's_Causeway.md>) and parry its attacks until the Castle turret kills it.
 -   [Gigameds](Gigamed.md) can help with restoring health, especially around Light's Causeway, but if they stun you mid-fight, it can prove a problem.
 -   The Fisherman is a [Chainwarden](Oath%253A_Chainwarden.md), making running away _really_ hard, especially in tandem with Lightning Stream. If you engage with them, don't run if you're not confident in your ability to escape.

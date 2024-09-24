@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 113286
+revid: 114082
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -320,7 +320,7 @@ Lightning Assault
 -   Deals moderate damage.
 -   10 Second Cooldown.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the mantra and **Crystal/Perfect Lenses** to make it go further.
+-   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
@@ -1135,7 +1135,6 @@ After successfully casting lightning impact, strike down countless thunder at th
     
     File:Thundercall mantras damage.png
     
-    Spark Swap is a refrence to Boogie Woogie from Jujutsu Kaisen
 
 Virudhaka's Sword
 
