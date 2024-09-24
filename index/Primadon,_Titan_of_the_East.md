@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 113422
+revid: 114105
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,7 +12,9 @@ Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Dee
 
 ## Description
 
-Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its arms and head.
+Loud and enormous, the **Primadon** is a giant aquatic ape [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head.
+
+It features blue-grey fur, and prior to Verse 2, Primadon had a dark blue face. After Verse 2, the model was changed slightly to make Primadon shorter and flip its lip inside out, much like real life primates do to show aggression.
 
 It can be summoned by making an offering (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 3-minute cooldown and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown).
 
@@ -251,4 +253,4 @@ There are **14** images, be warned
 
 1.  [↑](#cite-ref-1) [https://media.discordapp.net/attachments/888259230082146385/1224049575174734005/image.png?ex=6679ae80&is=66785d00&hm=a3e8eb76f2338817dffc2e4147788e6c09c63fccd04ed1d54edde3951a54e5a3&=&format=webp&quality=lossless&width=838&height=816](https://media.discordapp.net/attachments/888259230082146385/1224049575174734005/image.png?ex=6679ae80&is=66785d00&hm=a3e8eb76f2338817dffc2e4147788e6c09c63fccd04ed1d54edde3951a54e5a3&=&format=webp&quality=lossless&width=838&height=816)
 
--   Primadon's chests has around a 10% chance of containing Ysley's Pyre Keeper
+-   Primadon's chests has a low chance of containing Ysley's Pyre Keeper

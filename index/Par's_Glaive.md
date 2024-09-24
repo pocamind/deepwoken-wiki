@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 106241
+revid: 114110
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec, Exclusive]
@@ -8,7 +8,7 @@ categories: [Weapons, Developer Spec, Exclusive]
 
 # Par's Glaive
 
-| Trisha | |
+| Par's Glaive | |
 |---|---|
 | type | Greataxe |
 | requirements | ??? |
@@ -32,7 +32,7 @@ categories: [Weapons, Developer Spec, Exclusive]
 
 ## Description
 
-Trisha is an abomination of a weapon used by the developer Par and Moderator astrotrain.
+Par's Glaive is an abomination of a weapon used by the developer Par and Moderator astrotrain.
 
 It posesses the properties of :
 

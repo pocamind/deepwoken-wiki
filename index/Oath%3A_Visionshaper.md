@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 114039
+revid: 114107
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -63,9 +63,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
         -   Clones disappear if the caster takes any kind of damage. They also disappear if hit 3 times (including Bleed and Deferred)
         -   The clones are supposed to deal a quarter of the caster's regular damage.
             -   However, in practice, they appear to actually do half of regular damage.
-        -   The clones can only M1 and Crit.
-            -   If the user wields a Heroblade, the Heroblade crit is transformed into a regular sword crit.
-        -   Will not summon any clone if there is no enemy nearby.
+        -   The clones can use the last mantra you've casted, M1s or even your Critical Attack. The Shaper Mimicry talent allows the clone to mimic your movements (this includes jumping, dodging, parrying, critical attacks and M1s \[NOT SURE ABOUT CRITICALS, CORRECT ME IF IM WRONG\])
+        -   Cannot use the mantra without anyone being nearby.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief Talent, the duration of the illusion is shortened.
     -   Clones _do_ apply hit-stun.
@@ -78,7 +77,6 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 -   **Illusory Counter** **\- Combat Mantra**
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
         -   Reflects any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
-    -   Active frames are larger in the Illusory Realm.
     -   Grants full movement during active period.
 
 -   **Cheap Trick - Passive**
