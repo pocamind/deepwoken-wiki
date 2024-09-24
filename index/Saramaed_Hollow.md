@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 114051
+revid: 114093
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -77,7 +77,7 @@ Loot is based on the type of mob you kill. It can be:
 -   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 -   [Ignition Gauntlets](Ignition_Gauntlets.md)
--   [Simmerbloom Diadem](Simmerbloom_Diadem.md)
+-   [Simmerbloom Diadem](Simmerbloom_Diadem.md) (Which can only be found in the Saramaed Hollow)
 -   [Abyss Wanderer Plate](<Abyss_Wanderer's_Plate.md>) / Boots
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot from [The Depths](First_Layer.md).
@@ -98,5 +98,5 @@ Relics and enchant stones can drop from any chest at any floor.
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
 -   The cave paintings show that civilisation has once been here long before the Union have.
--   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast.
--   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
+    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast.
+    -   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.

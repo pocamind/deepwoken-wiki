@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 113694
+revid: 114092
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -152,7 +152,6 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   5\* VoidWalker Chests
--   Crafting
 -   Etris Raid
 
  |

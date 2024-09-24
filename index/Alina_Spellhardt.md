@@ -1,6 +1,6 @@
 ---
 title: Alina Spellhardt
-revid: 79559
+revid: 114096
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -39,3 +39,7 @@ Alina is one of the many [Lightborns](Lightborn.md) scattered across [The Floati
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Alina hair id: 9067113301; and the link:[https://www.roblox.com/catalog/9067113301/Aesthetic-Y2k-Messy-Ponytail-Black](https://www.roblox.com/catalog/9067113301/Aesthetic-Y2k-Messy-Ponytail-Black)
