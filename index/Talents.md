@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 114152
+revid: 114185
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2345,7 +2345,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 **"I often like to play pranks on others."**
 
--   Cheap Shot \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
+-   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
     -   Prerequisite: 75 Agility
@@ -2412,7 +2412,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
     -   Graceful Flame can now be casted in the depths. Graceful Flame passively restores sanity and health to those around it.
     -   Merged with the old Soundness of Mind Talent.
-    -   Prerequisites: Azure Flames, 40 Willpower, Graceful Flame
+    -   Prerequisites: 40 Willpower, 40 Flamecharm, Graceful Flame
 
 ### Unstable Capacitor
 

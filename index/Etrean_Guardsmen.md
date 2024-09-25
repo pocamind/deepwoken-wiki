@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 109530
+revid: 114161
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards, Etrea]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Etrean Guardsmen are NPC type of passive [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Upon killing one, more tend to come, quickly swarming the player. After killing a sufficient amount of them, [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will start hunting you.
+The Etrean Guardsmen are an NPC type of neutral [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Upon killing one, more tend to come, quickly swarming the player. After killing a sufficient amount of them, [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will start hunting you.
 
 Etrean Guardsmen wear the [Etrean Guard](Etrean_Guard.md) Expert [Outfit](Outfits.md).
 
@@ -51,3 +51,4 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 
 -   There is an Etrean Guardsmen who stands near a hole, guarding the entrance to Etris near the Blacksmith and Polis. Their pathfinding is somewhat mediocre, which often leads to them falling through the hole into the ocean below.
     -   As they were more often than not in the ocean, they were nicknamed Conditioned Swimmer, after the Conditioned Runner Talent. They were eventually modified so they would be teleported back to spawn should they fall through the hole.
+-   Not much to say about these guys...

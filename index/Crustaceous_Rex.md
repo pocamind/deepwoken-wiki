@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 106072
+revid: 114184
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Pages with broken file links]
@@ -89,7 +89,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 
 -   One of the only [monsters](Monsters.md) in [The Depths](The_Depths.md) that one can run away from without climbing.
     -   The Enforcer in Hell Mode, losing its pull ability, can also be ran away from.
--   Likely inspied by "Giant Crab" from Darksouls 3
+-   Likely inspired by "Giant Crab" from Darksouls 3
     -   Is an almost exact copy of the foam spray, also having a slow effect when hit
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal with.
 -   The crab's grab is canonically named how it is. It wasn't a spelling mistake. It is not that the developer's intended to say Crab Grab, as all the other moves were referred to as a grab, but instead misspelled grab, thus making it lore to cover up their mistake.[\[1\]](#cite-note-crabcrab-1)

@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 106630
+revid: 114160
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies, Etrea]
@@ -43,7 +43,9 @@ An Etrean Royal Guard executes its opponent:
 ## Tips
 
 -   To avoid dealing with them, simply refrain from attacking anyone in Etris.
+    -   Alternatively, just don't go near Lord Regent's palace. However, if you must visit (to use the hive fountain teleporter) you can easily run past them anyways.
 -   Their katanas are almost always enchanted.
+-   Not much of a threat despite being town guard reinforcements.
 
 ## Trivia
 

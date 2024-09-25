@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 114118
+revid: 114194
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -35,7 +35,7 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
     -   50 [Charisma](Attributes.md)
     -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
     -   Have a Dark Feather in your possession
--   Find Surge, located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
+-   Find Surge, located inside the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
 -   Give him a Dark Feather. [Surge](Surge.md) will become OwlSurge.
 -   When you leave the area, you will find yourself in [A Conscious Intersection](A_Conscious_Intersection.md).
     -   Talk to the [Nestmind](The_Nestmind.md), ensuring you select the first options. Select "I accept" once it mentions food.
@@ -46,7 +46,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Progression
 
-To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock all mantras and Talents, totalling to 4. This equals 13 total dark feathers in order to obtain and fully progress the oath.
+To progress this oath, [Void Feathers](Dark_Feather.md) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, totalling to 4. This equals 13 total dark feathers in order to obtain and fully progress the oath.
+
+-   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
 
 The abilities below are listed in order of obtainment.
 
@@ -60,14 +62,17 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
     -   Turn invisible briefly, and meanwhile, spawn an illusory clone that targets the closest enemy.
         -   Grants I-frames while invisible.
         -   The clone is visible to only the caster and the target.
-        -   Clones disappear if the caster takes any kind of damage. They also disappear if hit 3 times (including Bleed and Deferred)
+        -   Clones disappear if the caster takes any kind of damage \[**might be changed, more testing needed**\]. They also disappear if hit 3 times (including Bleed and Deferred)
         -   The clones are supposed to deal a quarter of the caster's regular damage.
-            -   However, in practice, they appear to actually do half of regular damage.
-        -   The clones can use the last mantra you've casted, M1s or even your Critical Attack. The Shaper Mimicry talent allows the clone to mimic your movements (this includes jumping, dodging, parrying, critical attacks and M1s \[NOT SURE ABOUT CRITICALS, CORRECT ME IF IM WRONG\])
+            -   However, in practice, they appear to actually do around half of the regular damage.
+        -   Shaper clones store the last non-oath mantra or Critical Attack when created, by using the Reality Shift passive item, the clone closest to the creator will teleport to their target and use the stored mantra/critical. \[**This might be cancellable, please correct/update if wrong**\]
+        -   With the Shaper Mimicry talent, clones will mimic some actions, this includes jumping, dodging, blocking/parrying, and M1s. \[**more actions need tested**\]
         -   Cannot use the mantra without anyone being nearby.
+    -   \[**testing needed**\] Shaper clones can't copy enchantments.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief Talent, the duration of the illusion is shortened.
     -   Clones _do_ apply hit-stun.
+    -   Shaper clones stop fighting if their target dies.
 
 ## Under construction oath got reworked
 
@@ -89,7 +94,6 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
     -   Dexerius took inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series.
--   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop them.
 -   On 20th of September 2024, Visionshaper received a rework, removing Illusory Realm, changing the behavior of Illusory Clones, and adding a new move.
 
 ## References

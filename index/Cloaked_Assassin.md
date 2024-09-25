@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 97542
+revid: 114167
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -116,6 +116,8 @@ A Cloaked Assassin executes it's opponent after knocking them:
 ## Tips
 
 -   S-holding and constantly rolling and blocking is heavily recommended, as they **WILL** spam Mantras.
+-   Pretty difficult to fight and seem very intimidating. However, just don't fold under pressure and parry as you normally would with any other NPC.
+-   Basically all faction NPCS hate these guys. If you really are having trouble, just run to the nearest faction NPC.
 
 ## Trivia
 

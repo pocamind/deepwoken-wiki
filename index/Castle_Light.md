@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 112245
+revid: 114157
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -99,13 +99,14 @@ The Armory.
 ## Notes
 
 -   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
--   Occasionally, three black diver npcs can spawn.
+-   Occasionally, three black diver npcs can spawn. This happens when there are too many monsters or a player with bad reputation with the Divers enters.
 -   Castle Light has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
     -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.
     -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a Deepbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
--   Castle Light is a common spot for ganks, it is advised to be wary of large groups of players.
+-   That said, Castle Light is a common spot for ganks, it is advised to be wary of large groups of players.
 -   Castle Light is the only place where along with guards, there are also turrets that attack hostiles.
+-   Larger mobs (King Threshers, King Jellyfish, etc) are often unable to enter the rooms of Castle Light due to the small entrances.
 -   It is advised to not attack the guards as they have a large amount of health and can quickly become a problem even for experienced players.
 -   Castle Light used to have normal divers guarding, then got replaced by Black divers, then got replaced with Journeyman Divers.
 -   The [Antiquarian](Antiquarian.md) can only be interacted with if you are Deepbound. Any player that is not Deepbound cannot use the Antiquarian, regardless of their reputation with the Divers.

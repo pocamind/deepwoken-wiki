@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 111913
+revid: 114156
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -71,6 +71,8 @@ Do not be deceived by these stats, though. The dangerous part of the Enforcer is
     -   Feinting can force it to react defensively.
 
 All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
+
+_**If you're a freshie reading this page and about to do the Enforcer trial for the first time, good luck! Remember not to panic, and focus on parry trading.**_
 
 ### Rewards
 

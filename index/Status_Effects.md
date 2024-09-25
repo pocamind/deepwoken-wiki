@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 113150
+revid: 114169
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -60,7 +60,7 @@ Applied by the Mantra [Lightning Cloak.](Thundercall.md) Have your swing speed a
 
 ### Adrenaline Surge
 
-Have your movement and parkour speed increased by 15%. Applied by the [Adrenaline Surge](Attunement-less.md) Mantra. Signified by a white circle in your chest.
+Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have Action Surge. Applied by the [Adrenaline Surge](Attunement-less.md) Mantra. Signified by a white circle in your chest.
 
 ### Gone Berserk
 
@@ -116,7 +116,7 @@ Have your body completely engulfed in ice and lose the ability to do anything to
 
 ### Shocked
 
-Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
+Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry) and bypasses hyperarmor. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
 ### Overloaded
 
@@ -141,7 +141,7 @@ Do 10% less damage and turn M1 attacks into lightning damage. Applied through be
 
 ### Sapped
 
-This can be applied by being flourished by someone using Thunder Wisp. While Sapped, your Mantra cool downs are increased, you will also be shocked when Sapping ends.
+This can be applied by being flourished by someone using Thunder Wisp or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cool downs are increased, you will also be shocked when Sapping ends.
 
 ### Dazed
 
@@ -166,10 +166,6 @@ Takes a certain amount to all of the ether that you possess. if the user used th
 ### Bottom Freeze
 
 Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchantment](Enchantments.md). Signified by the legs of your character being frozen in ice.
-
-### Silenced
-
-This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of Mantras for its duration. Signified by a spinning circle matching the color of the silentheart markings of your attacker, around your character.
 
 ### Lifelord's Blaze
 

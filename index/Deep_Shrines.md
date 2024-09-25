@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 113279
+revid: 114179
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -89,6 +89,7 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 -   Bear in mind that you still cannot add more than 6 Points into a given Trait.
 -   **You also cannot remove more than 3 attribute points.**
 -   Despite popular belief, you can still change your attributes with this before Shrine of Order.
+-   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat. (For example: If you went 40 strength to pick showstopper and used the shrine of order to reduce your strength, you cannot remove points off strength as long as you have showstopper.)
     
 
 **Shrine of Chance:**
