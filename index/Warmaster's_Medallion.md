@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 109671
+revid: 114150
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -34,9 +34,10 @@ If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is 
 
 **The user cannot drop this equipment item, but it can be banked.**
 
-## Trivia
+## Tips/Trivia
 
 -   The second (or third) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
 -   Many elements share motifs with the [Authority](The_Central_Authority.md):
     -   There are 3 Authority emblems outside of the attachment.
     -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](Oaths.md#warmaster) comes from.
+-   Has virtually no downside on slots with the Dissonant [echo modifier](Echoes.md).

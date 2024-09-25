@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 113084
+revid: 114151
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, Children of Navae]
@@ -51,3 +51,4 @@ Remnants of the stars themselves rain down upon this rocky spire.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.
 -   You cannot set a spawn point in the Inn as they will tell the player that they are closed.
 -   You could not gain reputation with The Children of Navae when you did the Falling Meteor event for sometime.
+-   You could not turn in [Navae Hostages](Navaen_Hostage.md) to the Meteor Isle for a very long time but your now able to by giving them to [Beiruul](Beiruul.md).

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 113950
+revid: 114148
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -1103,6 +1103,25 @@ Found from:
  | Guard's, Royal Guard's, Captain's |
 |  | 
 
+[Simmerbloom Diadem](Simmerbloom_Diadem.md)
+
+(**Unique**)
+
+ | 
+
+_+5 Health_
+
+_+Talent: Simmerbloom_
+
+ | 
+
+Found from:
+
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+
+ | N/A |
+|  | 
+
 [Smith's Bandana](<Smith's_Bandana.md>)
 
  | 
@@ -1206,6 +1225,8 @@ Found from:
 |  | 
 
 [Deepscorn Casque](Deepscorn_Casque.md)
+
+(**Unique**)
 
  | 
 

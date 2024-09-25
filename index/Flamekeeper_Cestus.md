@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 111703
+revid: 114145
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -27,7 +27,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-The **Flamekeeper Cestus** is a Cestus that requires 65 LHT to use. Despite its namesake, [Flamecharm](Flamecharm.md) has no effect or benefits on this weapon.
+The **Flamekeeper Cestus** is a Cestus that requires 65 LHT to use. Despite its namesake, [Flamecharm](Flamecharm.md) has no special effect or benefit on this weapon.
 
 ## Trivia
 

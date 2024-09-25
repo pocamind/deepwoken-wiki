@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 112015
+revid: 114142
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -43,6 +43,8 @@ categories: [Weapons, Swords]
 | obtainment | Pluripotent Alloy usage on base weapon, Voidwalker chests, Chime of Conflict chests |
 | description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
 
+\=
+
 **Base:**
 
 **Alloyed:**
@@ -59,6 +61,6 @@ Despite the Alloyed Falchion's similarity to the [Warden Ceremonial Sword](Warde
     -   Meeting the alloyed requirement, the damage is (22.3)
 -   At max MED, the non-alloyed damage is (23.2)
     -   At max MED, the alloyed damage is (24.4)
--   Its alloyed variant has the fastest medium sword swing speed in the game, alongside the **[Scimitar](Scimitar.md)** and **[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)**.
+-   Its alloyed variant has the second fastest medium sword swing speed in the game, alongside the **[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)**, but is beat by the **[Scimitar](Scimitar.md)**.
 -   This weapon, along with the [Darksteel Greatsword](Darksteel_Greatsword.md), is used by the Ignition Union during their fights with the Summer Company.
 -   It used to use the [Trident Spear](Trident_Spear.md) description, but this was later updated.

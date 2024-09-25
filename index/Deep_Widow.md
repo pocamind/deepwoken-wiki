@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 109469
+revid: 114146
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,13 +24,13 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
 | Name | Description | GIF | Parry-able | Danger |
 | --- | --- | --- | --- | --- |
-| **Deep Webbing** | The Widow spits webs onto her target, inflicting insanity and a new webby look onto them for a short duration. The more webs a player has, the slower they are. | 
+| **Deep Webbing** | The Widow spits webs onto her target, inflicting moderate insanity and a new webby look onto them for a short duration and dragging them towards herself. | 
  | 
 
 ✗
 
  | (★★☆) |
-| **Venomous Bite** | The Widow delivers a crushing bite onto the victim, dealing moderate damage and inflict a lingering poison that damages over time.
+| **Venomous Bite** | The Widow delivers a crushing bite onto the victim, dealing moderate damage and inflicting a lingering poison that damages over time.
 
 **This move will auto-grip if it hits you while knocked or at low health.**
 
@@ -52,7 +52,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 ◯
 
  | (★☆☆) |
-| **Impale** | The Widow lunges with both of her legs, dealing moderate damage. | 
+| **Impale** | The Widow quickly lunges with both of her legs, dealing moderate damage. | 
 
  | 
 
@@ -80,20 +80,19 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
   
 
-## **Notes/Tips**
+## **Tips/Trivia**
 
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides. All of her attacks come from the front and setting up this way will avoid all of the players in your group being hit at once.
--   Despite looking intimidating, she is a lot weaker than she looks. Can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md).
--   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
-    -   This poison goes through armor.
--   Try to deal only two attacks and always be ready for the bite. Don't get too greedy.
--   You can identify combos by their slower charging and faster swiping.
--   The bite's venom will bypass every resistance in the game, even [Run It Back](Run_It_Back.md)'s invincibility.
--   You can cheese the Widow by going atop a ledge in the cave, she will be unable to damage you and your Light Attacks will connect.
--   Can easily be run past or cheesed as she is not the brightest when it comes to getting stuck between two rock pillars in her own home. You can also sneak past her by crouching and walking behind her.
--   Attempt to avoid combat with her while she's corrupted **unless** you possess an end-game/PvE build. This caution is warranted because her web attacks contribute a significant dose of insanity, rapidly propelling you to tier 2 [insanity](Insanity.md#insanity-effects). When at tier 2 insanity, you are vulnerable to twitching and scratching, which indirectly increases your vulnerability to her attacks due to the stun effect they impose.
--   It is recommended to put Bloodless Gems on some mantras when fighting her solo.
--   Have a campfire ready as you will need to heal a lot as her poison does massive amount of damage if not checked.
+-   Despite looking intimidating, she is a lot weaker than she looks, having the same health as a [Mudskipper Broodlord](Mudskipper_Broodlord.md) without its sheer mobility or damage. She still isn't a joke, though.
+    -   Try to only hit her twice with heavy weapons or thrice with others. Getting greedy and being bitten as a result will hurt.
+    -   The poison dealt by the Widow's Bite attack is a worst-case scenario, and is vital to avoid due to its percentage damage and armor pierce.
+    -   You can identify combos by their slower charging and faster swiping.
+    -   **If a Deep Widow is corrupted, don't challenge it without being high power.** She becomes far more punishing and inflicts more insanity with her attacks.
+-   The Deep Widow can be cheesed.
+    -   She is not the brightest when it comes to getting stuck between two rock pillars in her own [Aratel](Greathive_Aratel.md) home. She also has poor vertical mobility.
+    -   You can sneak past her by crouching and walking behind her, as she can only see in front.
+-   Have a campfire ready if possible, as you will need to heal a lot if you're hit by the bite attack.
+    -   Staying out of reach with [Warrior's Respite](https://deepwoken.fandom.com/wiki/Talents#Meditative_Trance) also works, but doesn't restore sanity lost from the web attacks. It also buys time for other mobs to spawn and potentially see you, particularly in the Depths.
 
 ## **Item Pool**
 
@@ -105,4 +104,5 @@ The Item Pool goes as follows
     -   [Trident Spear](Trident_Spear.md), [Serpent's Edge](<Serpent's_Edge.md>), [Rifle Spear](Rifle_Spear.md), [Vigil Longsword](Vigil_Longsword.md), [Falchion](Falchion.md), [Scimitar](Scimitar.md), [Worshipper Longsword](Worshipper_Longsword.md), [Gremorian Longspear](Gremorian_Longspear.md), [Cavalry Saber](Cavalry_Saber.md), [Shattered Katana](Shattered_Katana.md), [Katana](Katana.md), [Summer Rifle](Summer_Rifle.md), and [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   Heavy Weapons:
     -   [Halberd](Halberd.md), [Pale Morning](Pale_Morning.md), [Forge Greathammer](Forge_Greathammer.md), [Canorian Axe](Canorian_Axe.md), [Adretian Axe](Adretian_Axe.md), and [Darkalloy Greatsword](Darksteel_Greatsword.md).
-    -   Also drops [The Path's Defender](<The_Path's_Defender.md>).
+-   Other:
+    -   [The Path's Defender](<The_Path's_Defender.md>).
