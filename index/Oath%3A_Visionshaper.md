@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 114107
+revid: 114118
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -88,9 +88,9 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
--   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop them. Also Illusion counter cancel fall damage with tough timing.
--   Dexerius based this oath on the hit anime 'Naruto' based on the visionshaper clones being based off shadow clone jutsu and genjutsu. As well as the realm being based off the Kamui.
--   On 20th of September 2024, Visionshaper recieved a rework removing Illusory Realm, changing the behaviour of Illusory Clones and adding a new move.
+    -   Dexerius took inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series.
+-   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop them.
+-   On 20th of September 2024, Visionshaper received a rework, removing Illusory Realm, changing the behavior of Illusory Clones, and adding a new move.
 
 ## References
 

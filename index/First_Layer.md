@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 114063
+revid: 114122
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -255,6 +255,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyeballs from their sockets and succumb to the void, known commonly as _"headpopping"_.
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
+-   According to the "Munet Journal, XIV", It canonically takes 2 weeks for a being to escape the depths.
 
 -   The Boulder Event in the Depths can spawn most monsters including 2 threshers, a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.

@@ -1,6 +1,6 @@
 ---
 title: "Isshin's Ring"
-revid: 103220
+revid: 114123
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors, Equipment, Rings]
@@ -27,6 +27,8 @@ categories: [Pages with broken file links, Armors, Equipment, Rings]
 ## Description
 
 Isshin's Ring is an [Equipment](Equipment.md) item under the "Ring" category. It makes the wearer deal 20% more damage, but also take 25% more damage.
+
+This is inherently risky to use, especially since it doesn't bypass the game's damage cap mechanics, but can prove useful for doing massive burst damage or when trying to kill bosses one is more experienced with quickly.
 
 ## Trivia
 

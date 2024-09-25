@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 103381
+revid: 114141
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,5 +33,5 @@ The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityr
 
 -   Meeting the requirement of MED, the damage is (20.7)
 -   At max MED, the damage is (24.7)
--   Not too viable in comparison to other midgame Medium Weapons.
+-   Least viable in comparison to other midgame Medium Weapons.
 -   Outclassed by the [Mace](Mace.md) and [Katana](Katana.md).

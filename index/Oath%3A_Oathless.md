@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 110664
+revid: 114128
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,9 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 14 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five [Oaths](Oaths.md) that have no direct stat requirements. It functionally acts as though you have no oath for any event tied to having an Oath, such as contractor's gaining a skill or being sacrificed to Linkstrider.
+**[Oath](Oaths.md): Oathless** is one of the 14 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five [Oaths](Oaths.md) that have no direct stat requirements.
+
+It functionally acts as though you have no Oath for any event tied to having an one, such as Oaths like Linkstrider or Contractor that need to kill other Oath-bearers to progress.
 
 ## Obtainment
 
@@ -50,12 +52,12 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 
 ## Trivia
 
--   It is the first Oath.
+-   The first Oath to be released in the game.
+    -   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the equivalent to current-day Power 10).
 -   Commonly agreed to be a subpar oath compared to the other non-stat locked Oaths.
     -   However, being the only Oath to grant +2 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).
 -   You can still use [Shrine of Order](Deep_Shrines.md#shrine-of-order) if you have Oathless.
--   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the equivalent to current-day Power 10).
 -   All of its quest characters are named after cities in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. (These are all colours, Cerulean is blue, Viridian and celadon and blueish greens, and saffron is red.)
 -   Developer intentions behind the design of Oathless have historically been divisive.
     -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.
