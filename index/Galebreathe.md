@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 113243
+revid: 114277
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -401,7 +401,7 @@ Aerogliding
 
  | 
 
-When falling from a high place, hold spacebar to generate wind currents until you hit the floor
+When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.
 
  | 
 
