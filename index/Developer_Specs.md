@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 110931
+revid: 114263
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Developer Specs]
@@ -201,11 +201,23 @@ _For more information about Stag Acrossus slash Nuttoons, read Stag Acrossus._
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>) - Dev interaction (?)
 
-Paintbrush - Winning an Art Contest
-
 [Worldshaper's Laurel](<Worldshaper's_Laurel.md>) - Winning the Banner Contest
 
 [Mod Suit](Mod_Suit.md) / [Mod Skirt](Mod_Skirt.md) - Mod Shop Only
+
+## Exclusive Weapons
+
+Paintbrush - Winning an Art Contest
+
+[Unsung Scythern](Unsung_Scythern.md) - Exclusive Custom.
+
+[Quartzstone Scythe](Quartztone_Pickaxe.md) - Exclusive Custom for certain members of "Order of the Unsung"
+
+[Moon Blades](Moon_Blades.md) - Exclusive Skin for the [Flareblood Kamas](Flareblood_Kamas.md)
+
+Key of the Drowned - Exclusive Skin for the [Hero Blade of Wind](Hero_Blades.md).
+
+[Calamity Cinnabar](Calamity_Cinnabar.md) - Exclusive Skin for the [Crypt Blade](Crypt_Blade.md).
 
 ## Exclusive Races
 

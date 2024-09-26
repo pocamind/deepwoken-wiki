@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 113204
+revid: 114271
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths, The Ignition Union]
@@ -15,7 +15,7 @@ categories: [NPCs, The Depths, The Ignition Union]
 
 ## Description
 
-Deepderver Gamma is an [Khan](Khan.md) NPC who resides in [Chariot Spire](<The_Chariot's_Spire.md>), being one of the main Deepdelvers responsible for [the Ignition Union](The_Ignition_Union.md) fortress in the [first layer](First_Layer.md) of the Deep, you can find him in front of the main desk of the busy place in his office. If you talk to him, he will explain the real situation of being there, helping people who got lost and collecting resources they find in the second layer and also explains about the Deepdelvers.
+Deepdelver Gamma is an [Khan](Khan.md) NPC who resides in [The Chariot's Spire](<The_Chariot's_Spire.md>). you can find him in front of the main desk of his office. If you talk to him, he will explain the real situation of being there, helping people who got lost and collecting resources they find in the Second Layer and also explains what Deepdelvers are.
 
 ## Dialogue
 

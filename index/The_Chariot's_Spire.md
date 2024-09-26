@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 108116
+revid: 114269
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1, Locations, The Ignition Union]

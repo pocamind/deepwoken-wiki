@@ -1,9 +1,9 @@
 ---
 title: Worldpainter Brush
-revid: 110124
+revid: 114262
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons]
+categories: [In progress without reason, InProgressPages, Weapons, Developer Spec, Exclusive]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
