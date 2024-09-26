@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 104987
+revid: 114202
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -51,11 +51,11 @@ During this transformative era, significant advancements lead to the creation of
 
 ## The Tides
 
-The Tides, are an event that stemmed from the Canticlysm's overuse of the song; the sound of which supposedly nearly woke up the drowned gods. The tides sunk the old world, as well as drawing the Voidsea far closer to the luminants.
+The Tides are an event that stemmed from the Canticlysm's overuse of the song; the sound of which, supposedly, nearly woke up the drowned gods. The tides sunk the old world, along with drawing the Voidsea far closer to the luminants.
 
 ## New World
 
-The current world of deepwoken, a result of the tides. Referred to as a dying world by the description of the game itself; the voidsea slowly closing in on the world.
+The current world of deepwoken, having come about as a result of the tides. Referred to as a dying world by the description of the game itself; the voidsea slowly closing in on the world.
 
 ## Footnotes
 

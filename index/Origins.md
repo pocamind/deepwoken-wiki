@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 113220
+revid: 114195
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -121,7 +121,6 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions and The Summer Company.
         -   If you are one of the 3 Hive races (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
 -   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive. (Or other factions which may've put your bounty on their boards.)
--   (Stop using this origin)
 
 ## Ignition Delver
 

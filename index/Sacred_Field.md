@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 100186
+revid: 114222
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

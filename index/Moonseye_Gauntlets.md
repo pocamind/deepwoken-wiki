@@ -1,6 +1,6 @@
 ---
 title: Moonseye Gauntlets
-revid: 113856
+revid: 114232
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves]
@@ -32,4 +32,4 @@ The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" ca
 
 ## Trivia
 
--   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Glassdancer Wraps](Glassdancer_Wraps.md), [Smith's Gloves](<Smith's_Gloves.md>)
+-   Other Gloves: [Glassdancer Wraps](Glassdancer_Wraps.md), [Smith's Gloves](<Smith's_Gloves.md>), [Leather Gloves](Leather_Gloves.md), [Ignition Gauntlets](Ignition_Gauntlets.md)

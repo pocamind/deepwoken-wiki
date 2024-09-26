@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 113031
+revid: 114217
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

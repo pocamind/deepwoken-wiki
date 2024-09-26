@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 103778
+revid: 114240
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
@@ -86,6 +86,6 @@ Unknown
 -   rJeneration
 -   yayafino
 
-## Notes
+## Trivia
 
-Race created by Dexerius, they are based off his [phoenix spec](Developer_Specs.md) which allows him to summon a glowing rideable phoenix.
+-   Race created by Dexerius. They are based on his [Phoenix spec](Developer_Specs.md) which allows him to summon a glowing rideable phoenix.
