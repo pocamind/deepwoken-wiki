@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 107656
+revid: 114309
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -22,3 +22,4 @@ In order to get to Surge, you must enter the [Deep Widow](Deep_Widow.md) cave in
 
 -   Surge used to have the Visionshaper eye customization that he teaches upon unlocking the oath. After the **official** release of the Oath, this was removed.
 -   Surge was described in the update version logs as 'not what he appears to be' and may be a husk of a former Visionshaper, destroyed by the Nestmind to lure more prey or hunters to devour.
+-   Surge's hair id is: 6718330531; and the link is: [https://www.roblox.com/catalog/6718330531/Blonde-Anime-Boy-Hair](https://www.roblox.com/catalog/6718330531/Blonde-Anime-Boy-Hair)

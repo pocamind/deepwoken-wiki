@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 103481
+revid: 114307
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -30,16 +30,25 @@ The bullet obtains 10% more PEN, because they are considered normal bullets, it 
 
 **Gold:**
 
-The Bullet will slow down the target on hit, however at a downside of dealing reduced damage and the speed of the bullet being reduced.
+The Bullet will slow down the target on hit, however at a downside of dealing 20% less damage and the speed of the bullet being reduced.
 
 **Umbrite:**
 
-The Bullet will have increased damage on hit, however at a downside of the firing speed of the gun being reduced.
+The Bullet will have 20% increased damage on hit, however at a downside of the firing speed of the gun being reduced by a 25%.
 
 **Erisore:**
 
-The Bullet will apply a 50% anti-heal on hit, however at a downside of the damage being reduced.
+The Bullet will apply a 50% anti-heal on hit, however at a downside of the damage being reduced by 20%.
 
 **Irithine:**
 
-The Bullet will apply poison on hit, however at a downside of the damage being reduced.
+The Bullet will apply poison(?) on hit, however at a downside of the damage being reduced by 20%.
+
+## Trivia
+
+-   Coal, rock, iron and astruline, these four minerals are not compatible with bullets and cannot be used to encase them.
+-   [Stormeye's](Stormseye.md) shots can use encased bullets.
+-   Right now the only bullets that work are iron and umbrite.
+-   Gold and irithine bullets are bugged and do not apply their supposed buff, however they still reduce the bullet's damage.
+-   Erisore's bullets seem to simply apply the same effect as the [Ring of Pestilence](https://deepwoken.fandom.com/wiki/Equipment#Rings), so it's more advisable to use the ring and avoid the damage reduction.
+-   The effects of minerals on bullets actually only apply to the "explosion" of the shot and not the projectile, this ironically makes using encased bullets more convenient in rifles and 2H pistols than 1H pistols...

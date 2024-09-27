@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 111854
+revid: 114302
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -286,7 +286,7 @@ File:Theguy.png
 
 **Quest Location**: [Greathive Aratel](Greathive_Aratel.md)
 
-**Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.
+**Guide**: Talk to [Suri](Suri.md) at [Greathive Aratel](Greathive_Aratel.md). He will ask you to place a flower on his brother's grave at [Isle of Vigils](Isle_of_Vigils.md). Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.
 
 **Reward/s**: Vibrant Gem, Hive Reputation, Compassion
 

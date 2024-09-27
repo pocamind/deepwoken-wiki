@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 114253
+revid: 114304
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -601,11 +601,11 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>20 LHT</td>
   <td>13</td>
   <td>N/A</td>
-  <td>LHT: 6</td>
+  <td>LHT: 6.5</td>
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>21.1</td>
+  <td>21.8</td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></td>

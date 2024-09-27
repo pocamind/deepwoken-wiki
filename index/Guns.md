@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 110955
+revid: 114308
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -73,30 +73,6 @@ _**Stats:**_
 **[Dragoon](Dragoon.md):** **16** damage, **11** range, 12 LHT scaling, **1.06x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.2x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
-
-## Bullet Types/Encasings (NEEDS MORE TESTING)
-
-When using 1H guns, you have the option to encase bullets in certain ores. Depending on the ore, your bullet will give a different effect, always a trade off.
-
-### Irithine
-
-Your bullet will poison the person it hits, but will also do less damage.
-
-### Erisore
-
-Your bullet will apply an Anti-Heal, but will also deal less damage.
-
-### Gold
-
-On hit, slow your target down, but also deal less damage.
-
-### Umbrite
-
-Your firing (swing) speed is decently reduced, but you deal more damage.
-
-### Coal, Rock, Iron, and Astruline
-
-These four ores are not compatible for bullets, and cannot be used to encase bullets, giving no effect.
 
 ## Rifle Moveset
 
