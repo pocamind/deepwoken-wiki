@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 114224
+revid: 114315
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -33,7 +33,7 @@ Pressing C will activate **Smokescreen**.
 
 **Smokescreen** will near instantly generate an extremely dark cloud of smoke that makes the user invisible while inside.
 
-**Note that smokescreen does NOT make the user invincible while inside of the cloud.**
+**Note that smokescreen does NOT grant the user invincibility frames.**
 
 The invisibility is cancelled when using an attack.
 

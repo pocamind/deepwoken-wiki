@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 114300
+revid: 114312
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -345,7 +345,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
     -   Prerequisite: Power 1
 
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility)
-    -   Prerequisites: 5 Strength, 5 Agility, throw an object
+    -   Prerequisites: 5 Strength, 5 Agility, throw an object and hit a player/npc.
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
 
 ### Authority Interrogator

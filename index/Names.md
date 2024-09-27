@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 112670
+revid: 114310
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1741,6 +1741,7 @@ Some players have access to customized, unique names.
     -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
     -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
+-   The names "Luka", "Yugo" and "Faris" could be references to _[Steins; Gate](https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki)_.
 -   Various names reference the works of William Shakespeare:
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
