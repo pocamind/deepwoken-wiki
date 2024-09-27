@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 114169
+revid: 114329
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,11 +24,11 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the Mantra [Reinforce](Attunement-less.md). Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow/lime green particles surrounding the body.
+Applied after being hit by the Mantra [Reinforce](Attunement-less.md), do 3% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, this effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Lord's Tithe
 
-When Reinforce is applied to an ally with the Talent Lord’s Tithe, steal their ether until your ether bar is full. Signified by red and yellow particles surrounding the body.
+When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, steal their ether until your ether bar is full. Signified by red and yellow particles surrounding the body.
 
 ### Hyperarmor
 

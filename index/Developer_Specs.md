@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 114263
+revid: 114331
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Developer Specs]
@@ -21,6 +21,19 @@ A Spec given by a developer to a member they see fit to have, infamous for impos
 ### Titles (Developer Friends / Community Figures)
 
 Unique Names/Titles given to certain members of the community.
+
+### Talents
+
+These are talents that are only obtainable through being gifted by a mod and/or developers. Though currently, only one talent is known to exist.
+
+#### Christmas Miracle
+
+> _**"I seek the qualities of Christmas Miracle."**_
+
+-   Christmas Miracle \[Common Talent\] - Christmas Mod Shop rewards. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work.
+    -   Using it creates a large Christmas tree that plays an instrumental of [We Wish You a Merry Christmas](https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas).
+    -   Exclusive to Deepwoken moderators, bought from the Mod Shop using Mod Points.
+    -   Prerequisite: MODSHOPREWARD
 
 ### Arch\_Mage (Haske Vantage)
 

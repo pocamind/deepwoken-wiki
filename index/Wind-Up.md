@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 113529
+revid: 114334
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,6 +49,6 @@ When obtained, Wind-Up will spend its points on the following stats:
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left.
 -   Especially devastating on heavy.
 -   When Drowned, this Resonance is one of the best executors there are in the game. It only takes around one second to execute a downed player and it will outspeed [Preservation](Preservation.md) or [Blood Scourge](Blood_Scourge.md) Resonances.
--   It does not proc on Mantras. [Kyrsieger](Kyrsieger.md) and [Wyrmtooth](Wyrmtooth.md) critical also can't proc Wind-Up
+-   It does not proc on Mantras. [Kyrsieger](Kyrsieger.md) and [Wyrmtooth](Wyrmtooth.md) critical also can't proc Wind-Up It doesn't seem to work on criticals that grant ragdoll. Some Knockdown crits work (Railblade), but some crits like Darksteel Greatsword don't (not fair)
 -   As stated, Wind-up has different colors, though the only two _currently known_ are gold and green.
     -   Since the added changes, your in-combat charges will be signified by the color red.

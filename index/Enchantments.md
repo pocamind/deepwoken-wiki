@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 113303
+revid: 114335
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -435,7 +435,7 @@ Entanglement
 
  | 
 
-On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%. Does not proc against mobs.
+On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
 
  | 
 
