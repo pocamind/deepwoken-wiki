@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 114346
+revid: 114388
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2057,6 +2057,19 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.94x</td>
   <td>N/A</td>
   <td>38</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Rosen%27s_Hellflame"><font>Rosen Hellflame</font></a></td>
+  <td>75 FIR, 40 MED</td>
+  <td>18</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>MED: 3 FIR: 4</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.93x</td>
+  <td>N/A</td>
+  <td>N/A</td>
 </tr>
 </tbody>
 </table>

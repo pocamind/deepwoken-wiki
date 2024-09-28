@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 114289
+revid: 114420
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, Children of Navae]
@@ -51,3 +51,4 @@ Remnants of the stars themselves rain down upon this rocky spire.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.
 -   You cannot set a spawn point in the Inn as they will tell the player that they are closed.
 -   You could not gain reputation with The Children of Navae when you did the Falling Meteor event for sometime.
+-   This area is good for collecting Mantra Modifiers due to the chest loot often containing Mantra Modifiers.

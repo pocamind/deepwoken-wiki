@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 86202
+revid: 114417
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,9 +8,11 @@ categories: [Mechanics]
 
 # Seasonal Medals
 
-Hallowtide medals are special tags that allow you to redeem Hallowtide event items from Blacksmiths in exchange for [Knowledge](Knowledge.md).
+Seasonal Medals are special tags that allow you to redeem Seasonal event items from Blacksmiths in exchange for [Knowledge](Knowledge.md).
 
 During Hallowtide 2023, you could purchase Hallowtide '22 for 200 Joy and the Hallowtide '23 Medal for 300 Joy. Both allow you to obtain [Hallowtide](Hallowtide.md) items from the respective year.
+
+During the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md), you automatically got the Medallion for joining.
 
 ### Items
 
@@ -33,3 +35,7 @@ With the **Hallowtide '23 Medal**, you can obtain:
 -   [Gourdguard](Gourdguard.md) - 5 Knowledge
 -   Pumpkin Pitch - 10 Knowledge
 -   [Harrowing Enchant Stone](Enchantments.md) - 10 Knowledge
+
+With the **Festival of a Billion Souls Medal**, you can obtain:
+
+-   [Party Hat](Party_Hat.md) - 1 Knowledge

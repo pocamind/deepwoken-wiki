@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 114275
+revid: 114354
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -63,12 +63,12 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   Grants I-frames while invisible.
         -   Clones walk towards their target like a humanoid NPC, and they stop fighting entirely if their target dies.
         -   The clones appear to do half of the caster's damage. **\[test needed to see if this is still true\]**
-        -   Clones disappear if hit 3 times. \[**test needed to see if bleed/Deferred still instakill them**\]
+        -   Clones disappear if hit 3 times, but are immune to damage over time effects.
         -   Illusory clones on creation store the last non-oath mantra or Critical Attack when created. By using the Reality Shift talent item, the clone closest to the creator will teleport to their target and attempt to use the stored mantra/critical. \[**further** **testing needed to see if** **Reality Shift** **is** **cancellable**\]
             -   Reality Shift cannot be activated if no targets are nearby.
-            -   Clones do not copy enchantments or talents, but _do_ copy mantra modifiers.
+            -   Clones do not copy enchantments or most talents. They _do_ copy mantra modifiers and elemental path talents (e.g. Twisted Puppets.)
             -   Clones will only copy the standing critical of weapons and cannot trigger the alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md). \[**test needed to see if they trigger aerial criticals**\]
-        -   After unlocking the Shaper Mimicry talent, clones will mimic some actions; this includes jumping, dodging, blocking/parrying, and M1s. They will not do these actions by themselves. \[**test needed to see if they do these things by themselves prior to unlocking Shaper Mimicry**\]
+        -   After unlocking the Shaper Mimicry talent, clones will mimic some actions; this includes jumping, dodging, blocking/parrying, venting, and M1s. They will not do these actions by themselves. \[**test needed to see if they do these things by themselves prior to unlocking Shaper Mimicry**\]
     -   Duration scales with your progress of the Visionshaper Oath. **\[test needed to see if this is true\]**
     -   If the target has the Disbelief Talent, the duration of the clone is shortened.
     -   Shaper Clones _do_ apply hit-stun.
@@ -80,7 +80,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 -   **Mirror Illusion - Support Mantra**
     -   This mantra knocks back targets within its radius and creates an allied clone of them. \[**Does this work if the mantra is blocked/parried/dodged?** **Does this automatically target whoever was hit by it?** **Can it make clones of more than one target at once, or any bosses? - all need testing**\]
-        -   The clone stores the target's last used non-Oath mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
+        -   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
+        -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
         -   Only works on humanoids.
 -   **Cheap Trick - Passive**
     -   When hit below 50% health, turn invisible and summon a Shaper Clone, granting I-frames on activation.
@@ -91,7 +92,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
-    -   Dexerius took inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series.
+    -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 -   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones.
 
 ## References
