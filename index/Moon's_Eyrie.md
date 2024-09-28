@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 114339
+revid: 114349
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant]
@@ -26,7 +26,7 @@ Moon's Eyrie is a mysterious island found within the Voidsea, potentially made a
 
 ## Points of Interest
 
-### Unnamed
+### The Moonseye Sigil
 
 -   At the top of the island, a very large [Moonseye](Moonseye.md) symbol can be found, with a beam reaching skyward.
 -   Below the [Moonseye](Moonseye.md) symbol, accessible through a door on the cliff beside it, is an arena with a [Moon Knight](Moon_Knight.md) that drops a chest, including unique drops [Soulthorn](Soulthorn.md) and [Nocturne](Nocturne.md), as well as other various Moonseye-related drops, including the [Moonseye Tome](Moonseye_Tome.md).

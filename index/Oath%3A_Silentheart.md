@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 113222
+revid: 114344
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -74,6 +74,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
         -   Damage and speed of the attack scales on your weapon.
         -   Can be used while sliding down slopes at no cost to your speed.
+        -   Flow state makes ankle cutter faster.
         -   5 seconds cooldown.
 
 -   **Dread Fighter - Passive**
@@ -91,7 +92,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 
 -   **Mayhem - Passive**
     -   Initiate a special dash attack by pressing M1 during the start of your dodge.
-        -   18s CD per weapon type.
+        -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   Medium and Heavy variants are capable of autogripping with Flow State active.
 
@@ -103,12 +104,12 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   **Relentless Hunt - Passive**
     -   M1 while doing an Aerial Attack to initiate a special gap closer attack.
         -   Can be used at a great range.
-        -   18s CD per weapon type.
+        -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
 
 -   **Rising Star - Passive**
     -   Press CTRL + M2 to activate a special uppercut attack
-        -   12s CD per weapon type.
+        -   7.5s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
 
 -   **True Vantage - Passive**
