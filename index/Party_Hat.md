@@ -1,6 +1,6 @@
 ---
 title: Party Hat
-revid: 114433
+revid: 114435
 source: https://deepwoken.fandom.com/wiki/Party_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Event Item]
@@ -25,7 +25,7 @@ categories: [Equipment, Event Item]
 
 ## Description
 
-The Party is an [Equipment](Equipment.md) item under the "Head" category.
+The Party Hat is an [Equipment](Equipment.md) item under the "Head" category
 
 ## Trivia
 

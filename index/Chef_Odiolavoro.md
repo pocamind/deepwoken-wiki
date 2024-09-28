@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 114408
+revid: 114461
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -17,7 +17,7 @@ Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on 
 
 ## Description
 
-Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests only give EXP,, and random food recipes. [Artisan](Talents.md#tavernkeep) food rewards. After a few orders there is a very short cooldown.
+Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the new chef weapons, and the new chef hat. [Artisan](Talents.md#tavernkeep) food rewards are currently unknown. After a few orders there is a very short cooldown.
 
 The orders are as follows:
 
@@ -107,6 +107,16 @@ File:UllaFriedEgg.png
 | 
 
  | Kyrsdog | 1x Bread + 1x Frozen Membrane + 1x Ongo | ✗ |
+
+## Chef Weapons
+
+File:TheLongTongOfTheLaw.png
+
+The Long Tong of the Law (70 HVY, 15 INT, 15 CHA)
+
+  
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 114277
+revid: 114443
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -257,7 +257,7 @@ _Use wind to uppercut and propel yourself into the air._
 -   Pressing F during the animation lets you kick them down into the ground which applies daze.
     -   Applies Knockdown frames on proc.
 -   Gives I-Frames throughout the duration of the mantra.
--   Can be vented to cancel it early
+-   Can be vented to cancel it early (If you hold down F after use, it will automatically parry when venting)
 -   Doesn't proc Haunted Gale
 
  |

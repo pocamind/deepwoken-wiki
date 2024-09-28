@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 114388
+revid: 114441
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2676,12 +2676,12 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
 -   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:
-    -   Base Damage: [Hivelord Hubris](<Hivelord's_Hubris.md>), [Divine Greatsword](Crazy_Slots.md) (30)
+    -   Base Damage: [Divine Greatsword](Crazy_Slots.md) (30)
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md) (100 HVY)
     -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kystreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernarch](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Soulthorn](Soulthorn.md)/[Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
-    -   Scaling: [Revolver](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
+    -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
     -   Swing Speed: [Divine Dagger](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.3x)

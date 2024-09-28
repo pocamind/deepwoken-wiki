@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 112305
+revid: 114454
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -23,7 +23,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths: Layer 1/Layer 2 (Floor 1/Floor 2) |
+| obtainment | The Depths: Layer 1/Layer 2 (Floor 1/Floor 2)Saramaed Hollow |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 114092
+revid: 114436
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -19,12 +19,12 @@ Relics that can be obtained & used by players.
 | Image | Description | Obtainment |
 | --- | --- | --- |
 | 
- | **[Rain Spire](Rain_Spire.md)** - A reusable Relic that summons [Rain](Environmental_Hazards.md) and [Fishing Spots](Fishing.md) for 5 minutes within a massive radius of the Relic.
+ | **[Rain Spire](Rain_Spire.md)** - A reusable Relic that summons [Rain](Environmental_Hazards.md) and [Fishing Spots](Fishing.md) for 5 minutes within a massive radius of its placement.
 
   
-Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Environmental_Hazards.md) (depending on the area)
+Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Environmental_Hazards.md) depending on the area.
 
--   _(40 Minute Cooldown)_
+-   _(40 minute cooldown)_
 
  | 
 
@@ -41,10 +41,10 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
  |
 | 
 
- | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for 6 minutes within a massive radius of the Relic.
+ | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for 6 minutes within a massive radius of its placement.
 
   
-Anyone Power 15+ that dies within its field will immediately drown to [The Depths](The_Depths.md)
+Anyone Power 15+ that dies within its field will immediately be sent to [The Depths](The_Depths.md).
 
 -   _(3 Hour Cooldown)_
 
@@ -80,10 +80,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
  |
 | 
 
- | **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - A ritual idol that is used to redeem a [Yun'Shul Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without the need of a [Resonance](Resonance.md).
-
-  
-Can be used in any location.
+ | **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - A ritual idol that is used to redeem a [Yun'Shul Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without the need of a [Resonance](Resonance.md). Can be used in any location.
 
 -   _(Consumed upon usage)_
 
@@ -118,7 +115,7 @@ File:Sinner's Ash.png
  |
 | 
 
- | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon it's first usage.
+ | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon its first usage.
 
   
 It grants the user +50 knowledge on subsequent uses.
@@ -138,7 +135,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Primadon chest](Primadon,_Titan_of_the_East.md)
 
  |
-| File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random pip per roll.
+| File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
 
 -   _(Consumed upon usage)_
 
@@ -157,7 +154,7 @@ It grants the user +50 knowledge on subsequent uses.
  |
 | 
 
- | [Gilded Needle](Gilded_Needle.md) - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations)
+ | [Gilded Needle](Gilded_Needle.md) - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations.)
 
 -   (_Consumed upon usage)_
 
@@ -170,7 +167,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 File:Forge Needle.png
 
- | [Forge Needle](Forge_Needle.md) - A needle that upgrades one equipment up one star.
+ | [Forge Needle](Forge_Needle.md) - A needle that upgrades a chosen equipment piece up one star.
 
 -   _(Consumed upon usage)_
 
@@ -196,7 +193,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 
 File:Warmaster Medallion Relic.png
 
- | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder", reducing Critical Attack cooldown by 20% but doubles Resonance cooldown.
+ | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder", reducing Critical Attack cooldown by 20% but doubling Resonance cooldown.
 
   
 In areas where your Resonance is suppressed, your critical cooldown is 5% shorter instead.
@@ -248,6 +245,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
+    <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>
   </ul></td>
 </tr>
 <tr>
