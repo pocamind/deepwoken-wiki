@@ -1,6 +1,6 @@
 ---
 title: Vtreshi
-revid: 113113
+revid: 114493
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

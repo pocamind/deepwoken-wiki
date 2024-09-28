@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 114156
+revid: 114506
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,7 +38,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 | **Space Pull** |  | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player runs too far away. The Enforcer will never feint its' first hit after a Space Pull. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★☆☆) |
 | **Feint (The Feint Part)** | 
 
- | The Enforcer swings its weapon and retracts it, catching the player out. | ✗ | ✗ | ✗ | (☆☆☆) |
+ | The Enforcer swings its weapon and retracts it, catching the player off guard. | ✗ | ✗ | ✗ | (☆☆☆) |
 
 ## Finishers
 
@@ -72,7 +72,7 @@ Do not be deceived by these stats, though. The dangerous part of the Enforcer is
 
 All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
 
-_**If you're a freshie reading this page and about to do the Enforcer trial for the first time, good luck! Remember not to panic, and focus on parry trading.**_
+_**If you're a freshie reading this page and about to do the Enforcer trial for the first time, good luck! Remember not to panic, and focus on parry trading. You got this!**_
 
 ### Rewards
 

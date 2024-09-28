@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 113372
+revid: 114494
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]

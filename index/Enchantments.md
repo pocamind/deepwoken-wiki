@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 114350
+revid: 114502
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -20,6 +20,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
     -   The [Deepshore Fossil](Deepshore_Fossil.md) is a good way to get a desired Enchantment Stone.
+    -   Additionally, the Dilluvian Mechanism allows you to get heaps of enchant stones as well as enchanted gear and weapons.
 
 You cannot 'stack' enchantments. If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
 

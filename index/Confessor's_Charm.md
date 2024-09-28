@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 111659
+revid: 114486
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:Chaser , Hell Mode , Merchant Ship, Duke Erisia, Maestro Evengarde Rest |
+| obtainment | Chests from:Chaser , Hell Mode , Merchant Ship, Duke Erisia, Maestro Evengarde Rest , Primadon |
 | description | "..." |
 
 ## Description

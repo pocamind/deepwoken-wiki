@@ -1,0 +1,28 @@
+---
+title: The Pastry Paster
+revid: 114498
+source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons]
+---
+
+# The Pastry Paster
+
+| The Pastry Paster | |
+|---|---|
+| type | Club |
+| requirements | 70 MED; 15 CHA; 15 INT |
+| damage | 15.5 |
+| scaling | MED 5; CHA 2; INT 2 |
+| range | 7.5 |
+| swing speed | 1x |
+| stances | 2 Handed, 1 Handed |
+| weight | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chef Odiolavoro |
+| description | Anyone can cook, but only the fearless can be great |
+
+

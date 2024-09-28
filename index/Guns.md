@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 114308
+revid: 114522
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -60,19 +60,21 @@ Flintlock user using the guns critical attack
 
 _**Stats:**_
 
-**[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **1.06x** attack speed, 75 echoes. (0 LHT req)
+**[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **1.17x** attack speed, 75 echoes. (0 LHT req)
 
-**[Flintlock](Flintlock.md):** **11** damage, **10** range, 12 LHT scaling, **1.06x** attack speed, sold for **100** notes in summer isle. (20 LHT req)
+**[Flintlock](Flintlock.md):** **11** damage, **10** range, 12 LHT scaling, **1.17x** attack speed, sold for **100** notes in summer isle. (20 LHT req)
 
-**[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **1.06x** attack speed. Dropped by enemies. (40 LHT req)
+**[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **1.17x** attack speed. Dropped by enemies. (40 LHT req)
 
 -   When alloyed, deals **2** extra damage, gains 10% chip, 5% pen, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
 
-**[Repeater](Repeater.md):** **14** damage, **12** range, 15 LHT scaling, **1.13x** attack speed, sold for **200** notes in summer isle. (65 LHT req)
+**[Repeater](Repeater.md):** **14** damage, **12** range, 15 LHT scaling, **1.25x** attack speed, sold for **200** notes in summer isle. (65 LHT req)
 
-**[Dragoon](Dragoon.md):** **16** damage, **11** range, 12 LHT scaling, **1.06x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
+**[Dragoon](Dragoon.md):** **16** damage, **11** range, 12 LHT scaling, **1.17x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
 
-**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.2x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
+**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.33x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
+
+Note: All pistols have only 1 posture damage.
 
 ## Rifle Moveset
 
@@ -82,28 +84,30 @@ Your rifle has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are 
 
 There are currently no Talents exclusive towards the rifle.
 
-The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
+The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), the [Stormseye](Stormseye.md) and the [Rosen's Hellflame](<Rosen's_Hellflame.md>).
 
 _**Stats:**_
 
-**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **1x** attack speed. (75 MED req)
+**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 4 posture damage, **8** range, **8** MED scaling, **1x** attack speed. (75 MED req)
 
-**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 8 range, 6 MED scaling, **0.97x** attack speed (75 MED req)
+**[Iron Blunderbuss](Iron_Blunderbuss.md): 20** damage, **5** posture damage, **8** range, **7** MED scaling, **0.97x** attack speed (75 MED req)
 
-[**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **1x** attack speed, **TBA** notes (1). (40 MED req)
+[**Summer Rifle:**](Summer_Rifle.md) **17** damage, **4** posture damage, **8** range, **6** MED scaling, **1x** attack speed, **TBA** notes (1). (40 MED req)
 
-**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **1x** attack speed, (40 MED, 75 Thundercall req)
+**[Stormseye:](Stormseye.md) 19.5** damage, **5** posture damage, **8** range, **3** MED scaling + **6** Thunder scaling, **1x** attack speed, (40 MED, 75 Thundercall req)
+
+**[Rosen's Hellflame:](<Rosen's_Hellflame.md>) 18** damage, **3** posture damage, **7** range, **3** MED scaling + **4** flamecharm scaling, **0.93x** attack speed. (40 MED, 75 flamecharm req)
 
 ## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base and [The Furnance](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
--   The [Stormseye](Stormseye.md) is the only legendary gun in game. Only obtained through chests from the [Ferryman](The_Ferryman.md), [Primadon](Primadon,_Titan_of_the_East.md) and the [Diluvian Mechanism](The_Diluvian_Mechanism.md) (wave 15+)
+-   The [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>) are the only legendary guns in the game, both are rifles.
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
--   One handed guns are the only type of guns where having bullets isn't a direct upgrade.
-    -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
--   All flintlocks have only 1 weight (posture damage)
+-   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
+    -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.
+-   All flintlocks (pistols) have only 1 weight (posture damage)
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
 -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact.
 -   Both pistols and rifles in Deepwoken don't have recoil.

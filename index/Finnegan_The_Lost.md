@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 113255
+revid: 114492
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, InProgressPages]
@@ -8,9 +8,11 @@ categories: [NPCs, InProgressPages]
 
 # Finnegan The Lost
 
+Template:EnemyInfobox1.0
+
 ## Description
 
-Template:EnemyInfobox1.0 **Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield the [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) [attunements](Attunements.md) in battle, coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool and do a decent amount of damage.
+**Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield the [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) [attunements](Attunements.md) in battle, coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool and do a decent amount of damage.
 
 Although the Drowned Delver job is typically offered by [The Ignition Union](The_Ignition_Union.md) at the Job Board located in [The Chariot's Spire](<The_Chariot's_Spire.md>), it can rarely be given as a [Diver](The_Divers.md)\-affiliated job at [Castle Light](Castle_Light.md) or [The City of the Drowned](The_City_of_the_Drowned.md).
 
@@ -48,9 +50,4 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 ## Trivia
 
 -   Finnegan hails from the Ignition Union, and is speculated to be a Deepdelver who wielded the first prototype of the Union's explosive picks - The Boltcrusher.
--   He also betrayed the Ignition Union in someway, as the faction rewards you good reputation once you execute him.
--   As of now, nobody knows what Finn is searching for, as mentioned in his spawn dialogue.
--   This one's sanity must've already crumbled.
--   Finn also mentions a 'her' when spawning in, as of now we don't know who this is.
-
-(If anyone would like to help please find all his spawn dialogue, I'll add them if you dm me or comment them.)
+-   Finnegan is searching for something, but it's unclear what it is, or if it even exits. He also mentions a 'her' when spawning in, which may refer to a loved one or simply the Boltcrusher he's holding.

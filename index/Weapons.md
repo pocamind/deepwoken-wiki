@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 114441
+revid: 114500
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2548,7 +2548,7 @@ Weapons/Weapon Skins that are exclusive for special people.
   <td>51.8</td>
 </tr>
 <tr>
-  <td><font>Key of the Drowned</font></td>
+  <td><a href="Keyblade.md"><font>Keyblade</font></a></td>
   <td>???</td>
   <td>???</td>
   <td>???</td>

@@ -1,9 +1,9 @@
 ---
 title: "Delver's Duster"
-revid: 113784
+revid: 114519
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters, The Ignition Union]
+categories: [Equipment, Arms, Dusters]
 ---
 
 # Delver's Duster

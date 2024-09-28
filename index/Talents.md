@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 114312
+revid: 114518
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -530,17 +530,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 1 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
 
-### Christmas Miracle
-
-> _**"I seek the qualities of Christmas Miracle."**_
-
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
-
--   Christmas Miracle \[Common Talent\] - Christmas Mod Shop rewards. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work.
-    -   Using it creates a large Christmas tree that plays an instrumental of [We Wish You a Merry Christmas](https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas).
-    -   Exclusive to Deepwoken moderators, bought from the Mod Shop using Mod Points.
-    -   Prerequisite: MODSHOPREWARD
-
 ### Cold Phantom
 
 > _**"I seek the qualities of Cold Phantom."**_
@@ -618,7 +607,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
--   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+-   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
     -   Activates the "Ice Spikes" mantra upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
@@ -946,7 +935,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
     -   Prevents fire from going out in rain.
     -   Prerequisite: 35 Flamecharm
 
--   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
+-   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing F before releasing your Fire Palm will release a wider but shorter flame.
     -   Prerequisite: Fire Palm (Flamecharm Mantra)
 
 ### Flashfreeze
@@ -974,7 +963,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I survive off the frozen Elements."**_
 
--   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
+-   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press F while using your Ice Smash Mantra to follow up with a devastating attack.
     -   Prerequisites: Ice Smash, 35 Frostdraw
 
 -   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while slide-jumping to perform a running attack with your ice sabers.
@@ -1211,7 +1200,6 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
-    -   The time you are knocked, as in having 0 health, is increased (tested with 100 Willpower and Perseverance before & after having the Talent)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
@@ -1356,6 +1344,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.
+    -   This keybind can be configured.
 
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
     -   Prerequisite: 20 Ironsing
@@ -1737,7 +1726,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
     -   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
 
--   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the Murmur into raw strength. Press H._
+-   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
     -   _Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md)._
@@ -2320,7 +2309,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"I seek the qualities of Swiftshade."**_
 
 -   _**Dustlunge**_ \[Advanced Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)
-    -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
+    -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range. (The teleport near for assassination is disabled when in combat)
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab Talents.
     -   Also grant the ability to assassinate player who are in combat.
     -   Prerequisites: All Assassin Talents, 90 Agility
@@ -2408,16 +2397,16 @@ These Talents are designed to let you survive longer against starvation and thir
 
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
--   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility\] - Pressing R while crouching allows you to fake being dead. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
-    -   Cancelled by pressing \[R\] again.
+    -   Cancelled by pressing R again.
     -   Using Cap artist in the depths makes you have normal gravity
     -   Prerequisites: 25 Agility, 5 Charisma
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.
     -   Prerequisites: Pickpocket, 25 Charisma
 
--   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+2 Passive Agility)
+-   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing N. (+2 Passive Agility)
     -   The target need to be knocked to be able to pickpocket them.
     -   Prerequisites: 5 Agility, 10 Charisma
     -   Only works on other players.
