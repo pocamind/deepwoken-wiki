@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 113044
+revid: 114640
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -71,6 +71,10 @@ File:Kanabo Stormbreaker.png
 **Elastic:**
 
 **Storm:**
+
+**Detonation:**
+
+File:Detonation kanabo.png
 
 ## Trivia
 

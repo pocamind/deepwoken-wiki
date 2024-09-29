@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 114592
+revid: 114659
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -39,98 +39,99 @@ _"No money, friend? How ever will I feed myself?_
 
 ## Attributes
 
+Some talents will not appear as there will be no mystic choices for them in-game. Those talents can only be obtained through luck or scarcity of other cards.
+
 ### [Strength](Attributes.md#strength)
 
--   _I seek the qualities of Annihilator. **(Annihilator)**_
--   _I seek the qualities of Berserker. **(Berserker)**_
--   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery, Unstoppable Force)**_
--   _I seek the qualities of Rampaging Brute. **(Rampaging Brute)**_
--   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer)**_
+-   _I seek the qualities of Annihilator. **(Annihilator)** (Collapsed Lung)_
+-   _I seek the qualities of Berserker. **(Berserker)** (Berserk)_
+-   _I stand far above others, an insurmountable challenge. **(Colossus)** (Harsh Response, Heavy Hitter) **(Note; Cannot give Destructive Recovery, Unstoppable Force)**_
+-   _I seek the qualities of Rampaging Brute. **(Rampaging Brute)** (Unwavering Resolve, Shield Breaker, Million Ton Piercer)_
+-   _My attack is unstoppable. **(Raging Bull)** (Broken Ankles, Piercing Blow) **(Note; Cannot give Bulldozer)**_
 
 ### [Fortitude](Attributes.md)
 
--   _I am an everlasting bastion or i seek the qualities of human architecture. **(Bastion)**_
--   My shield is my ally. _**(Shieldmaster)**_
--   _In nature, I am at home. **(Survivor)**_
--   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To The Finish)**_
+-   _I am an everlasting bastion **(Bastion)** (Battle Tendency, Braced Collapse, Moving Fortress, Perseverance, Reinforced Armor)_
+-   _I seek the qualities of Human Architecture. **(Human Architecture)** (Brick Wall, Not a Scratch)_
+-   My shield is my ally. _**(Shieldmaster)** (Knight's Rally, Turtle Shell)_
 
 ### [Agility](Attributes.md#agility)
 
--   _I go high beyond others, trying to impress them. **(Acrobat)**_
--   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
--   _I prefer to attack unseen. **(Assassin) (Note; the Assassin category requires at least one assassination done)**_
--   _Light on my feet, I sting like a bee. **(Butterfly) (Note; Cannot give Risky Moves, Evasive Expert)**_
--   _I am ruthless. A knife for hire. **(Cutthroat)**_
--   _I am a competent duelist. **(Duelist) (Note; Cannot give Concussion, Spine Cutter, Strong Stern, Tap Dancer)**_
--   _I scale the tallest peaks. **(Mountain Climber)**_
--   _I seek the qualities of Nimble Blade. **(Nimble Blade) (Note; Cannot give Lightspeed Reflexes)**_
--   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman) (Note; Cannot give Speed Demon, Air Counter)**_
--   _I seek the qualities of Swiftshade. **(Swiftshade)**_
+-   _I go high beyond others, trying to impress them. **(Acrobat)** (Time to Go, Kick Off, Steady Footing)_
+-   _I skulk in alleyways, looking for my next prize. **(Alley Cat)** (Scaredy Cat, Endurance Runner, Conditioned Runner)_
+-   _I prefer to attack unseen. **(Assassin)** (Deep Wound, Lowstride, Lights Out, Unseen Threat) **(Note; This skill tree requires atleast one assassination done)**_
+-   _Light on my feet, I sting like a bee. **(Butterfly)** (Swift Rebound) **(Note; Cannot give Risky Moves, Evasive Expert, Ghost)**_
+-   _I am ruthless. A knife for hire. **(Cutthroat)** (Blood Thirsty, In a Hurry, Muffled Screams)_
+-   _I am a competent duelist. **(Duelist)** (Concussive Force, Duelist's Dance, Precise Swing, Steady Nerves, Strong Hold) **(Note; Cannot give Concussion, Spine Cutter, Strong Stern, Tap Dancer)**_
+-   _I seek the qualities of Nimble Blade. **(Nimble Blade)** (Fast Blade) **(Note; Cannot give Lightspeed Reflexes)**_
+-   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman)** (Bear Trap, Blade Dancer, Action Surge, Spinning Swordsman) **(Note; Cannot give Speed Demon, Air Counter)**_
+-   _I seek the qualities of Swiftshade. **(Swiftshade)** (None Left Behind, Dustlunge)_
 
 ### [Intelligence](Attributes.md#intelligence)
 
--   _I think before I fight. **(Tactician) (Note; Cannot give Punishing Blow)**_
--   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Perfect Flash, Overflowing Dam)**_
--   _I enjoy mixing potions. **(Alchemist) (Note; Cannot give Placebo Effect, Potion Quaffer)**_
--   _I am an expert on ether. **(Ether Adept) (Note; Cannot give Eureka)**_
--   _I am all knowing. **(Omniscient) (Note; Cannot give All Knowing)**_
--   _I sabotage others. **(Saboteur)**_
--   _I am an artist. **(Artisan)**_
--   _I seek the qualities of Elementalist. **(Elementalist) (Note; Cannot give Elemental Rebound)**_
--   _I seek the qualities of All-Knowing._ _**(All-Knowing)**_
+-   _I think before I fight. **(Tactician)** (Hard Read, Target Switch, Foolish Outburst, Water off a Duck's Back) **(Note; Cannot give Punishing Blow)**_
+-   _I fight from afar. **(Adept Caster)** (Neural Overload) **(Note; Cannot give Everchanging Aegis, Perfect Flash, Overflowing Dam)**_
+-   _I enjoy mixing potions. **(Alchemist)** (Apothecary, Chain Reaction, Chemist's Bag, Wild Alchemy) **(Note; Cannot give Placebo Effect, Potion Quaffer)**_
+-   _I am an expert on ether. **(Ether Adept)** (Charged Return, Ether Absorption, Ether Blade, Ether Conduit, Magical Resolve, Mantra Permanence, Nullifying Clarity) **(Note; Cannot give Eureka)**_
+-   _I am all knowing. **(Omniscient)** (Successive Prediction, Twelve Steps Ahead) **(Note; Cannot give All Knowing)**_
+-   _I sabotage others. **(Saboteur) (Note; Family Recipe Unlocked)** (Incendiary Formula, Explosive Efficiency, Sulphur Surprise, Hot Potato, Pocket Bombs) **(Note; This is not necessarily an intelligence talent tree, the bombs scale by INT, hence making it one.)**_
+-   _I am an artist. **(Artisan)** (Master Craftsman)_
+-   _I seek the qualities of Elementalist. **(Elementalist)** (Ether Overdrive)_
+-   _I seek the qualities of All-Knowing._ _**(All-Knowing)** (Approaching Singularity)_
 
 ### [Willpower](Attributes.md#willpower)
 
--   _I am a slayer of beasts. **(Beast Slayer)**_
--   _I have never lost. **(Champion) (Note; Cannot give Champion's Regalia, Defiance)**_
--   _I will save my people. **(Liberator)**_
--   _I go beyond my limits. **(Limitbreaker) (Note; Cannot give Dirty Boxing, Lose Your Mind, Piercing Will)**_
--   _My mind is indomitable. **(Mental Fortress)**_
--   _My will stands strong. **(Sturdy Resolve)**_
--   _I dominate the minds of others. **(Mindbreaker)**_
--   _I seek the qualities of Human Architecture._ _**(Human Architecture)**_
+-   _I am a slayer of beasts. **(Beast Slayer)** (Giantslayer)_
+-   _I have never lost. **(Champion)** (Underdog) **(Note; Cannot give Champion's Regalia, Defiance)**_
+-   _I will save my people. **(Liberator)** (Saviour)_
+-   _I go beyond my limits. **(Limitbreaker)** (Comeback Kid, Defiant until the End, Last Resort, The Eleventh Hour, Uproar) **(Note; Cannot give Lose Your Mind, Piercing Will)**_
+-   _My mind is indomitable. **(Mental Fortress)** (Breathing Exercise, Conquer Your Fears, Disbelief)_
+-   _My will stands strong. **(Sturdy Resolve)** (Grasp on Reality, Unfazed)_
+-   _I dominate the minds of others. **(Mindbreaker)** (Shared Misery)_
+-   _I seek the qualities of Human Architecture._ _**(Human Architecture)** (Brick Wall, Not a Scratch)_
 
 ### [Charisma](Attributes.md#charisma)
 
--   _I use the song to charm others. **(Charm Caster)**_
--   _I seek the qualities of Showboater._ _**(Showboater; Unnecessary Theatrics)**_
--   _I seek the qualities of Toxic Personality. **(Toxic Personality; Manipulator)**_
--   _I seek the qualities of Leader. **(Leader; Callout;Spotter)**_
--   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
--   _I get my way. **(Silvertongue; Snake Oil)**_
--   _I steal from others. **(Thief)**_
+-   _I use the song to charm others. **(Charm Caster)** (Charismatic Cast, Tough Love, Chaotic Charm, Lasting Charisma, Dazing Finisher)_
+-   _I seek the qualities of Showboater._ _**(Showboater)**_ _(Unnecessary Theatrics)_
+-   _I seek the qualities of Toxic Personality. **(Toxic Personality)** (Manipulator, Narcissist)_
+-   _I seek the qualities of Leader. **(Leader)** (Callout, Spotter)_
+-   _I am for the people. **(Public Figure)** (Celebrity, Under the Radar, You'll Need To Get Past Me)_
+-   _I get my way. **(Silvertongue)** (Snake Oil, Friends in High Places, Golden Tongue)_
+-   _I steal from others. **(Thief)** (Cap Artist, Pickpocket, Master Thief, Another Man's Trash)_
 -   _I create my own vows. **(Vow of Mastery) (Note; Cannot give Command: Return, Command: Sacrifice)**_
--   _I feel the pain of those around me. **(Empath; Give and Take)**_
--   _I can talk myself out of any situation. **(The Negotiator)**_
--   _I seek the qualities of politician. **(Politician; Cult of Personality, Pardon me)**_
--   _I seek the qualities of vocalist. (**Propagandist)**_
+-   _I feel the pain of those around me. **(Empath)** (Give and Take)_
+-   _I can talk myself out of any situation. **(The Negotiator)** (Last Second Negotiations)_
+-   _I seek the qualities of politician. **(Politician)** (Cult of Personality, Pardon Me)_
+-   _I seek the qualities of vocalist. **(Vocalist)** (Propagandist) **(Note; Cannot give Encore)**_
+-   _I seek the qualities of Tyrant. **(Tyrant)** (No Survivors, Audacity) **(Note; Cannot give Rule Through Fear)**_
 
 ### Weaponry
 
--   _I am a master of creating openings. **(Critical Specialist) (Note; Cannot give Knifes Journey)**_
--   _I am a master of the spear. **(Lancer)**_
--   _I am a master of all weapons. **(Weapon Master) (Note; Cannot give Showstopper)**_
--   _I fight to preserve my way. **(Justicar)**_
--   _I do not need a weapon. **(Brawler)**_
--   _I always shoot first. **(Gunslinger) (Note; Cannot give True Ether Bullets, Armor Piercing)**_
--   _I am a master with my hands._ _**(Bruiser) (Note; Cannot give Heavy Fatigue, Rending Impact)**_
--   _I seek the qualities of Outlaw. **(Outlaw)**_
--   _I seek the qualities of Needle. **(Needle)**_
+-   _I am a master of creating openings. **(Critical Specialist)** (Decisive Blow) **(Note; Cannot give Knifes Journey)**_
+-   _I am a master of the spear. **(Lancer)** (Blade's Edge, Defensive Sweep, Driving Impact, Lancers Impale)_
+-   _I am a master of all weapons. **(Weapon Master)** (Brutal Momentum, Finishing Touch, Matador Successive Throw, Warrior's Swing) **(Note; Cannot give Showstopper)**_
+-   _I fight to preserve my way. **(Justicar)** (Justicar's Prowess, Justicar's Renewal, Swiftkick Prodigy, Flying Swiftkick)_
+-   _I do not need a weapon. **(Brawler)** (Bruiser's Mixup)_
+-   _I always shoot first. **(Gunslinger)** (Bulletproof, Quick Draw) **(Note; Cannot give True Ether Bullets, Armor Piercing, Hip Shooter)**_
+-   _I am a master with my hands._ _**(Bruiser)** (Brazen Blow, Impairing Blow) **(Note; Cannot give Heavy Fatigue, Rending Impact)**_
+-   _I seek the qualities of Outlaw. **(Outlaw)** (Lock n' Load, One in the Chamber, Rapid Fire, Rapid Reload, Sleight of Hands, Ultrakill)_
+-   _I seek the qualities of Needle. **(Needle)** (Duelist's Lunge, Frenzied Dance, Pressure Skewer)_
 
 ### Miscellaneous
 
--   _My hunt is inescapable. **(Apex Predator) (Note; Cannot give Carnivore)**_
--   _I am nature's master. **(Master Survivalist)**_
--   _I am athletic. **(Athlete)**_
--   _I wish to escape. **(Escape Artist; Robber Baron)**_
--   _I often attack others. **(Marauder) (Note; Cannot give Aggressive Posture, Thresher Claws)**_
+-   _My hunt is inescapable. **(Apex Predator)** (Grand Feast, Sunken Predator) **(Note; Cannot give Carnivore)**_
+-   _I am nature's master. **(Master Survivalists)** (Survival Kit)_
+-   _I am athletic. **(Athlete)** (Triathlete, Pitcher)_
+-   _I wish to escape. **(Escape Artist)** (Robber Baron)_
+-   _I often attack others. **(Marauder)** (Bloodletter, Old Habits Die Hard) **(Note; Cannot give Aggressive Posture, Thresher Claws)**_
 -   _I want to WIN. **(Metamancer) (Note; Cannot give Lootskipper)**_
--   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales)**_
--   _I will not fall to the elements. **(Survival Instinct; Herbivore, Iron Gut, Termite)**_
--   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
+-   _I seek the qualities of Natural Armor. **(Natural Armor)** (Padded Armor, Steel Scales)_
+-   _I will not fall to the elements. **(Survival Instinct)** (Herbivore, Iron Gut, Termite)_
+-   _I search for the Song. **(Seeker of Sound)** (Dragon's Song)_
 -   _Water is my home. **(Waterborne) (Note; Cannot give Scuba Drowner)**_
--   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
--   _Uh... **(Miscellaneous) (Note; Cannot give Impervious S Return to the Dark Ages)**_
+-   _I enjoy a good meal._ _**(Tavernkeep)** (Master Chef, Artisan Chef)_
+-   _Uh... **(Miscellaneous)** (Lot of talents like Lightweight, Packmule, Replenishing Knockout, etc) **(Note; Cannot give Impervious Slumber, Return to the Dark Ages)**_
 -   _My soul is an instrument with its own frequency. **(Murmur)**_
 
 ## Attunements

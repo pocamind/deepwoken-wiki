@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 114632
+revid: 114635
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Minos Prime, is a powerful Starkindred apostate located in [Summer Isle](Summer_Isle.md). He must be defeated to obtain a [Starkindred](Oath%253A_Starkindred.md) mantra, he uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Flamecharmer; he uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo. He bears a red [Hivelord Mask](Hivelord_Mask.md).
+Minos, Sinner of Flame, is a powerful Starkindred apostate located in [Summer Isle](Summer_Isle.md). He must be defeated to obtain a [Starkindred](Oath%253A_Starkindred.md) mantra, he uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Flamecharmer; he uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo. He bears a red [Hivelord Mask](Hivelord_Mask.md).
 
 ## Moveset
 

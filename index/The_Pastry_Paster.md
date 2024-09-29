@@ -1,9 +1,9 @@
 ---
 title: The Pastry Paster
-revid: 114630
+revid: 114651
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weapons with Unique Criticals]
 ---
 
 # The Pastry Paster

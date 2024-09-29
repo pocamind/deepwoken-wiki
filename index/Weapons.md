@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 114627
+revid: 114648
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -249,7 +249,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>13</td>
   <td>30%</td>
   <td>N/A</td>
-  <td>INT: 2 LHT: 8</td>
+  <td>LHT: 8, INT: 2</td>
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
@@ -320,6 +320,19 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.25x</td>
   <td>0.05s</td>
   <td>26.7</td>
+</tr>
+<tr>
+  <td><a href="The_Flippers_of_Fate.md">The Flippers of Fate</a></td>
+  <td>70 LHT; 15 CHA; 15 INT</td>
+  <td>10.5</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>LHT: 8, CHA: 3, INT: 3</td>
+  <td>3.5</td>
+  <td>6.5</td>
+  <td>1.26x</td>
+  <td>0.04s</td>
+  <td>X</td>
 </tr>
 </tbody>
 </table>
@@ -1281,6 +1294,18 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>0.98x</td>
   <td>39.1(<b>Bleed</b>)</td>
 </tr>
+<tr>
+  <td><a href="The_Pastry_Paster.md">The Pastry Paster</a></td>
+  <td>70 MED; 15 CHA; 15 INT</td>
+  <td>15.5</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>MED: 5, CHA: 2, INT: 2</td>
+  <td>7</td>
+  <td>7.5</td>
+  <td>1x</td>
+  <td>X</td>
+</tr>
 </tbody>
 </table>
 
@@ -1771,6 +1796,19 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.79x</td>
   <td>N/A</td>
   <td>48.5</td>
+</tr>
+<tr>
+  <td><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a></td>
+  <td>70 HVY, 15 INT, 15 CHA</td>
+  <td>15.8</td>
+  <td>N/A</td>
+  <td>40%</td>
+  <td>HVY: 8.5, INT: 3, CHA: 3</td>
+  <td>8</td>
+  <td>10</td>
+  <td>0.82x</td>
+  <td>N/A</td>
+  <td>X</td>
 </tr>
 </tbody>
 </table>

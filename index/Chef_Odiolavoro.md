@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 114620
+revid: 114663
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]

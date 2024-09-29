@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 114619
+revid: 114657
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -51,3 +51,4 @@ The critical has a cooldown of eight seconds.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
 -   At max HVY and CHA, the weapon deals 40.3 damage.
+-   Known for being agonizing to fight when paired with [Visionshaper](Oath%253A_Visionshaper.md) and other forms of movestacking

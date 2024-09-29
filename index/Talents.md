@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 114618
+revid: 114647
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1597,7 +1597,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I am nature's master."**_
 
--   Survival Kit \[Common Talent, Charisma, Willpower, Fortitude\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
+-   Survival Kit \[Common Talent, Charisma, Willpower, Intelligence\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
     -   Prerequisite: 20 Intelligence / 20 Willpower / 20 Charisma.
