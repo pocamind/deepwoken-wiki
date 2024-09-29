@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 114515
+revid: 114611
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -114,11 +114,11 @@ File:Flippersoffatev2.PNG
 
 [The Flippers of Fate (70 LHT; 15 CHA; 15 INT)](The_Flippers_of_Fate.md)
 
-File:TheLongTongOfTheLaw.png
+File:Thelongtongofthelaw.png
 
-[The Long Tong of the Law (70 HVY, 15 INT, 15 CHA)](The_Long_Tong_of_The_Law.md)
+[The Long Tong of The Law (70 HVY, 15 INT, 15 CHA)](The_Long_Tong_of_The_Law.md)
 
-[The Flippers of Fate (70 MED; 15 CHA; 15 INT)](The_Flippers_of_Fate.md)
+[The Pastry Paster(70 MED; 15 CHA; 15 INT)](The_Pastry_Paster.md)
 
 ## Trivia
 

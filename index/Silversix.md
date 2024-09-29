@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 114523
+revid: 114591
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]

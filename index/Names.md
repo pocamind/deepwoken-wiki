@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 114345
+revid: 114612
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1712,7 +1712,7 @@ Some players have access to customized, unique names.
 
 ## Trivia
 
--   The name Adolin seems to be removed due to the similarity with the name Adolf
+-   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).
 -   The name Halflight is a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
@@ -1763,7 +1763,6 @@ Some players have access to customized, unique names.
 -   The names Antarc and Rutile are references to the anime and manga series, Houseki no Kuno.
 -   The name Azula is a reference to the animated series, Avatar: the Last Airbender.
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
--   The name Meliodas may be a reference to the anime and manga series, _The Seven Deadly Sins_.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
 -   The name Minos is also a reference to Greek mythology.
 -   The names Shabriri, Vyke, and Godfrey may be references to [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/).
@@ -1774,7 +1773,7 @@ Some players have access to customized, unique names.
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
 -   The name Corvo is a reference to Corvo Attano, the protagonist of Dishonored.
--   The name "Heathcliff" is a reference to the protagonist with the same name from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) by Emily Brontë.
+-   The name "Heathcliff" is a reference to the protagonist with the same name from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) by Emily Brontë. (Or maybe, Limbus Company?)
 
 ## References
 

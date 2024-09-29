@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 113055
+revid: 114592
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -49,7 +49,7 @@ _"No money, friend? How ever will I feed myself?_
 
 ### [Fortitude](Attributes.md)
 
--   _I am an everlasting bastion. **(Bastion)**_
+-   _I am an everlasting bastion or i seek the qualities of human architecture. **(Bastion)**_
 -   My shield is my ally. _**(Shieldmaster)**_
 -   _In nature, I am at home. **(Survivor)**_
 -   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To The Finish)**_

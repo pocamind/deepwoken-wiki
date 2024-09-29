@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 114516
+revid: 114583
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,3 +25,5 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 The Whistling Periapt is an [Equipment](Equipment.md) item under the "Torso" category.
 
 Equipping it grants the Talent "Whistleguard"
+
+Obtained from :Duke, or Ethirion

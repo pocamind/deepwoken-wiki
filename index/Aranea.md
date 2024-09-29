@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 113236
+revid: 114610
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -12,13 +12,12 @@ notices:
 
 | Aranea | |
 |---|---|
-| type | Sword |
+| type | Gun |
 | requirements | 200 LHT |
 | damage | 14 |
 | scaling | 15 |
 | range | 12 |
 | swing speed | 1x |
-| stances | 2 Handed, 1 Handed |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 112004
+revid: 114549
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -36,4 +36,4 @@ The Old World Greatshield is a shield found in [Miner's Landing](<Miner's_Landin
 
 ## Trivia
 
--   Old World Greatshield used to need 20 fortitude to use instead of 30, it essentially switched places with the kite shield.
+-   The Old World Greatshield used to have a 20 Fortitude stat requirement instead of 30, it essentially switched places with the [Kite Shield](Kite_Shield.md).
