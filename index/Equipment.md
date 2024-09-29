@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 114256
+revid: 114545
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -3068,10 +3068,7 @@ _+5 Health_
 
 Found from:
 
--   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
 |  | 

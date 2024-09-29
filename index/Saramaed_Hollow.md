@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 114093
+revid: 114546
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -95,6 +95,7 @@ Relics and enchant stones can drop from any chest at any floor.
 
 ## Trivia
 
+-   Mythical items are guaranteed to drop from 1.7km and below.
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
 -   The cave paintings show that civilisation has once been here long before the Union have.

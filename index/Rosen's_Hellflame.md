@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 114483
+revid: 114544
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
@@ -16,7 +16,6 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
 | scaling | FIR: 4, MED: 3 |
 | range | 7 |
 | swing speed | 0.93x |
-| penetration | 10% |
 | stances | 2 Handed |
 | weight | 3 |
 | bankable | Yes |
@@ -42,9 +41,8 @@ The normal critical holds the rifle in front of you and shoots a constant torren
 
 The jumping critical causes your character to perform a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground.
 
-  
-
 ## Trivia
 
 -   The Rosen's Hellflame is the second Legendary Elemental Rifle in the game, after the [Stormseye](Stormseye.md).
     -   It is also the fourth Legendary that requires Flamecharm.
+-   Rosen's Hellflame is capable of using [iron bullets and other minerals.](Bullet_Casings.md)

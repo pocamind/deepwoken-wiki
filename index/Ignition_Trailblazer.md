@@ -1,9 +1,9 @@
 ---
 title: Ignition Trailblazer
-revid: 113531
+revid: 114538
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, The Hive]
+categories: [Armors, Items, Outfits, The Ignition Union]
 ---
 
 # Ignition Trailblazer

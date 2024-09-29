@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 95041
+revid: 114532
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -26,6 +26,6 @@ Ethiron has a personal domain of their own in the depths being the Second Layer.
 
 ## Trivia
 
--   The true boss' of Layer 2 is named The Scion of Ethiron. Scion's definition is descendant of royalty, which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters.
+-   The true boss' of Layer 2 is named The Scion of Ethiron. Scion has two definitions. The first being "descendant of royalty," which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters. The second being "a young shoot or twig of a plant," likely referring to the fact that the Scion of Ethiron is just a small part of the Drowned God it resembles.
     -   Scion can also refer to wise individuals or worshippers in some media. Take this as you will.
     -   Scion can also refer to a young shoot or twig of a plant, especially one cut for grafting or rooting. Meaning the guardian, might be just a tiny piece of Ethiron, one yet to soon grow.

@@ -1,9 +1,9 @@
 ---
 title: Stratos
-revid: 107380
+revid: 114535
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests]
+categories: [Pages with broken file links, NPCs, Quests]
 ---
 
 # Stratos
@@ -16,15 +16,17 @@ Template:NPC name
 
 ## Windwaker Quest
 
-To complete the quest, you need to sail for ≈15 minutes total with your sail aligned with the wind (granting your boat its full speed boost). While intended to be done passively, you can more efficiently gain progress**\*** by sailing into the [Voidsea](Voidsea.md) (at the risk of encountering a [Dread Serpent](Dread_Serpent.md)), or go back and forth between the Isle of Vigils and [Minityrsa](Minityrsa.md). This quest cannot be progressed on an Ironclad, as it lacks sails.
-
-**\***There are no specific locations that give you more progress towards the quest than others. These are simply routes with which to sail (mostly) uninterrupted.
+To complete the quest, you need to sail for ≈15 minutes total in sea highways\*. This quest cannot be progressed on an Ironclad, as it lacks sails.
 
 **Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md), minimum 50 points invested.** You can complete the quest, just without reward.
 
 ### The Reward
 
 After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Flamecharmer)", "[Flame Within](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Amoran_Seeker)" and "[Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall?so=search#Thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown.
+
+\*Previously, it was thought that you had to sail with your sails aligned, and thus that void sea could give progression. That wastes hours of your time.
+
+File:Arch proof.png
 
 ## Trivia
 
