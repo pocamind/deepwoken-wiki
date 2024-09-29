@@ -1,6 +1,6 @@
 ---
 title: Bluecap
-revid: 111431
+revid: 114626
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients]
@@ -18,7 +18,7 @@ It can be used to make ether and sanity regen potions.
 
 Potion Recipes:
 
-Nothing right now
+Sanity regen
 
 ## Trivia
 

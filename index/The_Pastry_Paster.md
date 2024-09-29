@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 114498
+revid: 114630
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -23,6 +23,8 @@ categories: [Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chef Odiolavoro |
-| description | Anyone can cook, but only the fearless can be great |
+| description | "Anyone can cook, but only the fearless can be great." |
 
+## Description
 
+The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 MED, 15 CHA, 15 INT. It appears to be a rolling pin which is supposed to be in the kitchen, until you wielded it as a deadly weapon.

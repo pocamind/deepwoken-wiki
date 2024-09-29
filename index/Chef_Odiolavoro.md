@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 114611
+revid: 114620
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -107,18 +107,6 @@ File:UllaFriedEgg.png
 | 
 
  | Kyrsdog | 1x Bread + 1x Frozen Membrane + 1x Ongo | ✗ |
-
-## Chef Weapons
-
-File:Flippersoffatev2.PNG
-
-[The Flippers of Fate (70 LHT; 15 CHA; 15 INT)](The_Flippers_of_Fate.md)
-
-File:Thelongtongofthelaw.png
-
-[The Long Tong of The Law (70 HVY, 15 INT, 15 CHA)](The_Long_Tong_of_The_Law.md)
-
-[The Pastry Paster(70 MED; 15 CHA; 15 INT)](The_Pastry_Paster.md)
 
 ## Trivia
 
