@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 114594
+revid: 114679
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
@@ -22,7 +22,7 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Diluvian Mechanism, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | The Diluvian Mechanism, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest, Saramaed Hollow, Scion of Ethiron |
 | description | "The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional." |
 
 ## Description

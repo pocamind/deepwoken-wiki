@@ -1,6 +1,6 @@
 ---
 title: Party Hat
-revid: 114621
+revid: 114701
 source: https://deepwoken.fandom.com/wiki/Party_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Event Item]
@@ -26,6 +26,10 @@ categories: [Equipment, Event Item]
 ## Description
 
 The Party Hat is an [Equipment](Equipment.md) item under the "Head" category. It was obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) Mini-Event.
+
+## Obtainment
+
+During the event you can get it from the [Blacksmith](Blacksmith.md) in [Isle of Vigils](Isle_of_Vigils.md) for 1 [Knowledge](Knowledge.md).
 
 ## Trivia
 

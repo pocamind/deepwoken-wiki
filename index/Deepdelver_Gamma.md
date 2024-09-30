@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 114271
+revid: 114708
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths, The Ignition Union]
@@ -21,7 +21,7 @@ Deepdelver Gamma is an [Khan](Khan.md) NPC who resides in [The Chariot's Spire](
 
 Talking to him:
 
-Hmm... Oh, another one? We must be popular today. There's an awful lot of you Pathfinders trudging by here. What do you need?
+Hmm... Oh, another one? We must be popular today. There's an awful lot of you Pathfinders trudging by here. What do you need?/How's work treating you, Recruit? (The second dialogue only occurs for Ignition Delvers.)
 
 1.  Who are you?
 2.  What do you do here?
