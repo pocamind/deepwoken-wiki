@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 111702
+revid: 114754
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -115,6 +115,8 @@ A Black Diver executes its opponent after knocking them:
 
 -   Fight them like any other humanoid NPC with a weapon.
 -   Their wide moveset requires a bit of getting used to. Thankfully, these NPCS aren't very common.
+-   Remember that killing these guys will take some time; they have 10,000 health.
+-   Can take on most monsters in the Depths due to their (fittingly) large health pool.
 
 ## Trivia
 
@@ -123,3 +125,10 @@ A Black Diver executes its opponent after knocking them:
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
 -   They use both variants of Jolt Grab, those being Magnet Spark and without Magnet Spark.
 -   Curiously, The Hundred Legions are hostile towards them. (Tested in a Faction Ambush in The Starswept Valley.)
+
+## Images
+
+-   A Black Diver.
+    
+
+-   Ditto.

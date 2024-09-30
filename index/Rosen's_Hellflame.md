@@ -1,9 +1,9 @@
 ---
 title: "Rosen's Hellflame"
-revid: 114712
+revid: 114764
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
+categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
 ---
 
 # Rosen's Hellflame
@@ -22,7 +22,7 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Diluvian Mechanism, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest, Saramaed Hollow, Scion of Ethiron |
+| obtainment | The Diluvian Mechanism, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest ??, Saramaed Hollow, Scion of Ethiron |
 | description | "The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional." |
 
 ## Description
@@ -43,7 +43,4 @@ The jumping critical causes your character to perform a side flip, slamming the 
 
 ## Trivia
 
--   The Rosen's Hellflame is the second Legendary Elemental Rifle in the game, after the [Stormseye](Stormseye.md).
-    -   It is also the fourth Legendary that requires Flamecharm.
 -   Rosen's Hellflame is capable of using [iron bullets and other minerals.](Bullet_Casings.md)
--   Named fittingly after it's creator, Rosen.

@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 112875
+revid: 114769
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -151,9 +151,6 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
 ## Trivia
 
 -   [Alastir](Alastir.md) refuses to talk about his hero blade, possibly suggesting that they have some sort of dark history.
--   The Hero Blade shines in builds that put a great emphasis in their attunement, going for the cap of 75 or even 100 with Lord Regent's quest usually. This is because, despite them taking the shape of swords, their scaling is based on the user's Attunement level and not their Medium Weapon level.
-    -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
-    -   With Hero Blade builds it is recommended to keep being only 80 elemental, as the 20 elemental for mantra scaling is usually not necessary for builds unless you genuinely have 20 spare points you cannot do anything with.
 -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
     -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
 -   Before Verse 2 (12/24/2022), the critical of the Hero blades were basic sword critical stabs.
@@ -172,6 +169,3 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
         -   Identified by her face markings.
         -   The Hero of Thunder was named Tessa, as in [this](https://x.com/Deepwoken/status/1801820070403772727) Twitter post stated.
 -   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Thunder Clones](Thundercall.md)) will use the default starting sword critical instead of the Hero Blade crit.
--   Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades.
--   At max ELE, the damage is (28.3) for all the Hero Blades.
--   The chest containing the hero blades will spawn at the location where Aelita's reward usually spawns.

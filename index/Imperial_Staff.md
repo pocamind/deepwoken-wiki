@@ -1,9 +1,9 @@
 ---
 title: Imperial Staff
-revid: 112906
+revid: 114787
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals]
+categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Imperial Staff
@@ -30,7 +30,9 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 
 ## Description
 
-The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
+The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.  
+Meeting the requirement of MED and STR, the weapon deals 23.8 damage.  
+At max MED and STR, the weapon deals 31.1 damage.
 
 ## Criticals
 
@@ -47,11 +49,6 @@ The Imperial Staff possess three different criticals, all of which grant the use
 
 ## Trivia
 
--   Meeting the requirement of MED and STR, the weapon deals 23.8 damage.
--   At max MED and STR, the weapon deals 31.1 damage.
 -   The Imperial Staff is inspired by Sun Wukong's "金箍棒" (Jin Gu Bang), including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore. The Jing Gu Bang is Wukong's signature weapon, portrayed as a gold and red staff in most media like movies and games.
--   The first weapon to scale off of Strength, and the only Medium Weapon that requires Strength.
--   The first blunt spear.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers.
--   This weapon cannot be enchanted.
 -   Just like [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md) this weapon is locked in one-handed stance

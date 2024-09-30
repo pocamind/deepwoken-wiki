@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 110587
+revid: 114804
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -40,11 +40,8 @@ After a short windup, the user spins the Enforcer's Axe in a circle around thems
 -   At 100 HVY, the Enforcer's Axe does 45.5 damage.
 -   At 100 HVY, 6 Proficiency, and 6% Damage, the Enforcer's Axe deals 56.3 damage.
     -   This makes the axe the highest practical single-hit damage source, only beat by [Crazy Slots](Crazy_Slots.md) and the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
--   Enforcer's Axe is considered one of the best Greataxes in Deepwoken.
-    -   This is evermore prevalent with the nerfing of the [Evanspear Hand Axe](Evanspear_Greataxe.md) via the Bleed bugfix, dethroning it and placing the Enforcer's Axe at the top spot for fighting monsters.
 -   Usually considered the best Enforcer weapon variant compared to its [Blade](<Enforcer's_Blade.md>) and [Hammer](<Enforcer's_Hammer.md>) variants, due to it having no endlag and higher damage.
     -   The Enforcer’s Hammer is sometimes used over the Greataxe due to the incredibly high posture damage, though the Blade is virtually never used over these two due to its inferior damage, critical attack and Talents.
--   This weapon is better than Evanspear in everyway, anyone who disagrees are still mad on the innate bleed bug fix
 
 ## Version History
 

@@ -1,9 +1,9 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 113582
+revid: 114782
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
+categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
 ---
 
 # Ysley's Pyre Keeper
@@ -49,7 +49,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 **Normal:** Performs 3 slashes (1 slow and 2 fast) with all of them inflicting the green burn effect. This critical gives a major speed boost for a short time after use.
 
-**Running:** Performs a short-ranged dash forward with the blade facing backwards. Hitting a target ends the dash making the user grab them, and do an uppercut slash.
+**Running:** Performs a short-ranged dash forward with the blade facing backwards. Hitting a target ends the dash making the user grab them, and do an uppercut slash. This critical is able to be feinted before the critical starts rushing forward. This feint has no cooldown unlike mantra or m1 feints.
 
 **Sliding:** Leaps forward slashing with a flurry of 3 blows.
 
@@ -57,22 +57,17 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 ## Trivia
 
--   **NOTE: This Weapon wont proc greatsword hyper-armor related talents. (tested)**
-
--   The weapon's original design (And it's criticals) is a reference to the from _Blade Ball_, a large and over-saturated neon-green sword. It's five criticals are a reference to the various abilities in _Blade Ball_, these being [Raging Deflection](https://bladeball.fandom.com/wiki/Raging_Deflection) (Normal Crit), [Pulse](https://bladeball.fandom.com/wiki/Pulse) (Aerial Crit), [Slashes Of Fury](https://bladeball.fandom.com/wiki/Slashes_Of_Fury) (Crouching Crit), [Thunder Dash](https://bladeball.fandom.com/wiki/Thunder_Dash) (Running Crit), and [Dash](https://bladeball.fandom.com/wiki/Dash) (Sliding Crit).
 -   It is the weapon with the most different stat requirements, being Heavy, Flamecharm and Light.
     -   Ysley's Pyre Keeper also having 5 different criticals effectively renders it the most complex weapon in the game, especially in combination with how uniquely it scales with Light.
 -   This weapon was originally hidden from testers, explaining how OP it was on release.[\[1\]](#cite-note-1)
 -   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md) at the time, and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on April 19, 2024.
--   You cannot use running critical attacks at [The Interstice](The_Interstice.md), instead you will proc the air critical attacks. Probably a bug or it was just because [The Interstice](The_Interstice.md) is a place that was above the Void Sea,
--   It is one of nine weapons to have multiple critical attacks, the others being: [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md)
-    -   It also has the most amount of critical attack variations (Five, one for nearly every possible previous input).
+-   You cannot use running critical attacks at [The Interstice](The_Interstice.md), instead you will proc the air critical attacks.
+-   This weapon has the most amount of critical attack variations (Five, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
--   Note, the running critical is able to be feinted before the critical starts rushing forward. This feint has no cooldown unlike mantra or m1 feints.
 
 ## References
 

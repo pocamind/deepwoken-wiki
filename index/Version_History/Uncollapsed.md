@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 112674
+revid: 114803
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,6 +16,158 @@ The update highest on the webpage (the one right below the legend) is the most r
 [Regular](2026.md)**Uncollapsed**
 
   
+
+## **September 28th, 2024**
+
+**[Festival of a Billion Souls](../Festival_of_a_Billion_Souls.md)**  
+• To celebrate 1 **BILLION** visits, log in this weekend to unlock the [Party Hat](../Party_Hat.md) permanently. Like Hallowtide Medals, you can redeem this Party Hat from Blacksmiths once unlocked!  
+• Drowned Favours have been reset. This means that any builds that you previously used a Drowned Favour on will be able to be revived with a Drowned Favour once again  
+• 4x chests this weekend  
+  
+**Food Fight; Chef Equipment & Weaponry**  
+• New LHT Weapon: [The Flippers of Fate](../The_Flippers_of_Fate.md)  
+• New MED Weapon: [The Pastry Paster](../The_Pastry_Paster.md)  
+• New HVY Weapon: [The Long Tong of the Law](../Chef_Odiolavoro.md)  
+• New Equipment: [Chef's Toque](<../Chef's_Toque.md>)  
+• New Unique Equipment Talent: Umami  
+  
+**Content & Systems**  
+• [New Flamecharm Legendary Weapon](<../Rosen's_Hellflame.md>)  
+• [New Relic Equipment](../Whistling_Periapt.md)  
+• Visionshaper clones now copy your elemental path talents  
+• The cap on Character Slots is now 52, up from 32  
+• The number of player combat tags you have is now displayed as a number on the danger skull  
+  
+**Gun M1 Swing Speed fix**  
+• Fixed gun M1 timings being way different to regular M1 timing  
+To account for this, the following swing speeds have been adjusted:  
+• Alloyed Dawnshot, Dawnshot, Dragoon, Flintlock, Silversix 1.06x -> 1.17x  
+• Repeater 1.13 -> 1.25x  
+• Divine Flintlock 1.2 -> 1.33x  
+NOTE: These weapons won't be any faster, their previous swing speeds were just inaccurate Swing speeds have NOT been adjusted on Rifles, which fixes them having way faster gun M1's than their regular blunt M1's.  
+  
+**Balancing & Tweaks**  
+• Backstab Immunity (assassination CD) duration increased (25s -> 2m)  
+• Fixed assassinating others while in Portals resonance  
+• Dust Lunge no longer works on those in combat, AoE no longer hits those in combat  
+• Deep Wound no longer procs against those in combat  
+• Visionshaper clones can now endure fewer hits (5 -> 3)  
+• Charismatic Cast/Overcharm status is no longer required to receive reduced damage from enemies Charmed by you. Largely a buff to builds that use Allure without Charismatic Cast, as they previously didn't get this  
+• Tough Love's damage bonus is now 5% on Mantras and 10% on other sources  
+• Storm Cage duration is now reduced if you take damage  
+• Gravity Field is now cancelled by Zoning Mantras, and Zoning Mantras are now cancelled by Gravity Field  
+• Gravity Field timing is now more consistent and causes less lag  
+• Fixed certain moves (e.g. Table Flip) having double-hits on guardbreak, fixed the same moves occasionally dealing double posture damage  
+• Reality Shift now only teleports if necessary  
+• Hell's Partisan no longer has parry stun  
+• Sightless Beam's duration is no longer dependent on server tick, instead having a fixed duration  
+• Mantra Permanence now grants Inspiration stacks with Ether Conduit  
+• Ether Absorption now grants Inspiration stacks with Ether Conduit  
+• Inspired vfx now matches the duration of the status  
+• Dimensional Travel now has a short cancellable windup (0.3s)  
+• Teleportation bell CD is now doubled in player combat (15s -> 30s)  
+• If Teleportation bell is cancelled, you now get a 15s CD  
+• Teleportation bell cancel window increased (0.5s -> 1s)  
+  
+**Talent Class Changes**  
+• Magical Resolve moved to "Sturdy Resolve"  
+• Lightweight, Armor Conserver moved to "Natural Armor"  
+• Lose your Mind, Piercing Will moved to "Mindbreaker"  
+• Speed Emission moved to "Nimble Blade"  
+• Anxious Guard moved to "Marauder"  
+• Impervious Slumber moved to "Meditative Trance"  
+• Blighted Song moved to "Darksiphon"  
+• Hoplite moved to "Lancer"  
+• Successive Throw, Finishing Touch moved to "Critical Specialist"  
+  
+**Bugfixes & Optimization**  
+• Fixed 360 blockable moves not respecting shaky block frames. Fixes being able to block despite having shaky block during Sightless Beam and other moves  
+• Fixed not being able to feint on console  
+• Fixed spawning inside of Visionshaper clones  
+• Fixed Visionshaper clones being affected by DoT  
+• Fixed some items like Pickaxes having mass  
+• Fixed certain visuals not showing up when an ability is blocked, e.g. Chain Lightning, Surge Overload  
+• Fixed Legion mobs still being green  
+• Fixed using Reality Shift while a clone is mid-action consuming their mantra and not using it  
+• Fixed a Mantra dupe  
+• Fixed Round Spark on Ice Eruption spawning another hitbox below it  
+• Fixed Death from Above not working with certain weapons  
+• Optimized hitbox status effect checks  
+• Jetstream talent (relic talent accidentally added to the talent pool) renamed to Whistleguard. If you had Jetstream you'll get a talent hand refunded to you  
+• You can now drop items to others in Dungeons other than Layer 2
+
+### _**Patch 1.9.6a**_
+
+• Rosen's Hellflame swing speed increased (0.9x -> 0.93x)  
+• Gun M1's additional slow is now based on whether you're moving backwards, only applying the additional slow if walking backwards  
+• Flippers of Fate scaling adjusted (8 LHT, 6 INT, 0.2 CHA -> 8 LHT, 3 INT, 3 CHA)  
+• Long Tong of the Law scaling adjusted (8.5 HVY, 6.5 INT, 1 CHA -> 8.5 HVY 3 INT, 3 CHA)  
+• Pastry Paster scaling adjusted (5.8 MED, 8.2 INT, 0.2 CHA -> 5 MED, 2 INT, 2 CHA)
+
+### _**Patch 1.9.6b**_
+
+• The Festival of a Billion Souls has been extended until Friday, so there's still time to get the Party Hat and reap the benefits of 4x chests until then!
+
+## **September 21th, 2024**
+
+**[Nightwish x Deepwoken Promotional Event](../Nightwish_x_Deepwoken_Promotional_Event.md)**  
+• To celebrate the release of Nightwish's new album "Yesterwynde", a promotional event will be available this weekend!  
+• Doorways leading to the [Yesterwynde Tavern](../Yesterwynde_Tavern.md) have emerged across Lumen, with the tavern itself tended by the Ferryman of all people...  
+• Search Lumen for the three missing Yesterwynde Vinyls from the Ferryman's collection and earn yourself exclusive skins for your instruments ingame!  
+  
+**[Visionshaper](../Oath%253A_Visionshaper.md): Mirrored Self Rework**  
+• Replaced Illusory Realm with new Mirror Illusion Mantra that knocks targets back within radius and creates a shaper clone of them  
+• New Talent: Shaper Mimicry; makes your shaper clones imitate certain actions the user makes  
+• New Talent: Reality Shift; makes your clones do the actions they have displayed overhead  
+• Illusory Servants Clones now last significantly longer  
+• Illusory Servants CD and windup reduced, invincibility duration reduced  
+• Illusion Counter now generates a shaper clone  
+• You can press X to swap with your illusions  
+• By default, your shaper clones will no longer act on their own, and will await your instructions  
+• New Illusory Counter Spark  
+  
+**Content & Systems**  
+• New Starkindred Talent: Death from Above  
+• Toggling off "No Holds Barred" now clears your combat tags with your allies • You no longer combat tag allies when you hit them unless you have No Holds Barred enabled  
+• As polled for, Roblox friends are now automatically your allies in Deepwoken  
+  
+**Balancing & Tweaks**  
+• Moonseye Tome subsequent uses Knowledge increased (30 -> 50)  
+• Chainwarden Impel posture damage per orb decreased (10 -> 6)  
+• Chainwarden Impel cooldown increased (10 -> 15)  
+• Chain of Perfection now grants its damage buff at 5 stacks. Damage buff per stack increased (+4% -> +5%) • Chill procs that don't come from Mantras no longer proc Saint Jay  
+• Flow State Ankle Cutter is faster  
+• Relentless Hunt, Mayhem, and Rising Star now have lower cooldowns  
+• Relentless Hunt, Mayhem, and Rising Star don't go on full cooldown if cancelled, similar to mantras  
+• Heavy Mayhem now has hyperarmor  
+• Light Relentless Hunt windup lowered  
+• Light Relentless Hunt teleport has been made more accurate  
+• Running out of Ether now cuts off Lord's Tithe  
+• Legion Centurion outfit is no longer green, to keep it in line with the colour scheme of the legion  
+  
+**Bugfixes & Optimization**  
+• Fixed a bug with Shrine of Mastery where 'OR' requirements weren't handled properly when calculating the minimum values a stat could go down to • Optimized map loading  
+• Optimized a lot of minor sources of background lag  
+• Fixed lag issues with Abyss Wanderer's Plate  
+• Jet Kick fixed (again)  
+• Silentheart attacks should no longer give unnecessary fall damage and shouldn't trigger the AA gun  
+• Fixed Yamaketzal giving you Echo talents without being asked to  
+• Fixed using Jailer/Impaler/Conductor not clearing rods  
+• Fixed uppercut comboing triggering the AA gun  
+• Agitating Spark now no longer puts out the burn on enemies you attack if it wasn't able to spread to anyone else. Agitating Spark now has a reduced CD (3s -> 1s) if it didn't spread
+
+### _**Patch 1.9.5a**_
+
+• Fixed Ritual Casts  
+• Fixed Shaper Swap not being rebindable  
+• Fixed Illusion Clones not copying your actions  
+• Fixed Illusion Clones not chasing down your enemies  
+• Increased Illusory Servants CD
+
+### _**Patch 1.9.5b**_
+
+• Fixed Surge not letting you max out your Visionshaper oath  
+• Fixed some issues with entering the event tavern
 
 ## **September 13th, 2024**
 

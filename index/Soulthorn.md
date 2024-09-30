@@ -1,9 +1,9 @@
 ---
 title: Soulthorn
-revid: 112920
+revid: 114794
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Soulthorn
@@ -33,6 +33,9 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 
 The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance.
 
+  
+The maximum damage able to be achieved is 40.2 if the user has 103 intelligence, 100 medium, and 6 proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
+
 ## Critical
 
 The Soulthorn has 3 critical variants which depend on the amount of soul stacks on your opponent.
@@ -48,11 +51,7 @@ Every M1 of Soulthorn that connects applies a soul stack, up to 3 at max. At max
 ## Tips/Trivia
 
 -   Soulthorn is the first Unique rarity weapon.
--   Soulthorn has unusually high PEN and chip damage for its damage potential.
-    -   The high PEN makes damage stars good to aim for when getting a Soulthorn.
--   Works well with high-INT builds, especially [Saltchemists](Oath%253A_Saltchemist.md).
--   Is base damage is 18. The maximum damage able to be achieved is 40.2 if the user has 103 intelligence, 100 medium, and 6 proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
 -   Sitting at the middle of the crossguard is a spherical object similar to the [pieces of The Forge](Artifacts.md) or [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
 -   Strangely, the held item form of the Soulthorn (not the equipped weapon) has collision, preventing the player from easily entering doorways while held.
 -   It appears to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
--   Not droppable (most likely a bug)
+-   The Soulthorn is unable to be dropped.

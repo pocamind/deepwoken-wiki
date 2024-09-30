@@ -1,9 +1,9 @@
 ---
 title: Wraithclaw
-revid: 114597
+revid: 114797
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons"]
+categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals]
 ---
 
 # Wraithclaw
@@ -39,6 +39,14 @@ The Wraithclaw comes with a single passive ability:
 
 Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but Critical Attacks stay unchanged and do not switch depending on your style.
 
+With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the weapon will deal 23.4 damage.
+
+-   Around 24.5 damage with the 5% innate After Cut effect, and around 25.7 with the 10% After Cut effect from the Talent.
+
+With 100 LHT and 100 WND, it will deals 30.2 damage.
+
+-   Around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
+
 ## Critical
 
 The Wraithclaw has **two** criticals.
@@ -72,15 +80,6 @@ The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiat
 
 ## Trivia
 
--   With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the weapon will deal 23.4 damage.
-    -   Around 24.5 damage with the 5% innate After Cut effect, and around 25.7 with the 10% After Cut effect from the Talent.
--   With 100 LHT and 100 WND, it will deals 30.2 damage.
-    -   Around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
--   It's the first Fist weapon that has Slash damage type on M1s, and second Legendary fists weapon that ever have been added into the game.
-    -   Furthermore, it is the first fists Legendary that scales off an attunement.
-    -   Despite it having Slash damage type, this weapon has no innate bleed.
 -   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas.
--   The standing critical attack's main weakness of low range & great windup could be countered by early critical attack feint, which adds more options to mixups, but do keep in mind that cancelling the critical attack puts you in a small endlag.
-    -   The critical attack is also extremely slow and delayed on servers that are lagging and could bring more harm than good to the user.

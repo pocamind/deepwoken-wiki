@@ -1,9 +1,9 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 112955
+revid: 114796
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Pleeksty's Inferno
@@ -74,4 +74,4 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 -   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors, however, this is the more dangerous method, as you risk falling into the void while clipping through the last door on your way back from the cave.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
--   Despite being the [Flamecharm](Flamecharm.md) equivalent of the new quest legendary weapons, the weapon cannot be banked, or dropped.
+-   This weapon cannot be banked, or dropped.

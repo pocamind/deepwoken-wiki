@@ -1,9 +1,9 @@
 ---
 title: Curved Blade of Winds
-revid: 112381
+revid: 114792
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Curved Blade of Winds
@@ -41,6 +41,14 @@ This weapon comes with two passive abilities:
 
 When using the weapon one-handed it becomes two swords, changing its swing speed, criticals and animations.
 
+With the minimum stat requirement to equip the weapon, the weapon will deal 24.1 damage.
+
+-   Around 25.3 damage with the 5% innate After Cut effect, and around 26.5 with the 10% After Cut effect from the Talent.
+
+With 100 MED and 100 WND, it will deals 30.6 damage
+
+-   Around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the Talent.
+
 ## Critical
 
 ### One Handed Critical (2 Blades)
@@ -53,16 +61,10 @@ The user shoots a blast of air and on collision or after a short amount of time 
 
 ## Trivia
 
--   With the minimum stat requirement to equip the weapon, the weapon will deal 24.1 damage.
-    -   Around 25.3 damage with the 5% innate After Cut effect, and around 26.5 with the 10% After Cut effect from the Talent.
--   With 100 MED and 100 WND, it will deals 30.6 damage
-    -   Around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the Talent.
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
     -   Additionally, the original model of the Curved Blade of Wind used to closely ressemble the Windshear from The Elder Scrolls V: Skyrim.
--   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
--   It is one of seven weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Wyrmtooth](Wyrmtooth.md)
+-   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has a meaning,\[citation needed\] but is currently unknown, and the other runes near the tip are a mix of different ancient runic dialects that don't translate to anything.
--   Using The Curved Blade of Winds completely disables your shield's Posture buff. However, if you have the Turtle Shell Talent and are two handing the weapon, you can still negate Spine Cutter, as the shield appears on your back.
--   Commonly abbreviated as "CBoW" or just "Curved"
+-   As the weapon is a dual wield, you are unable to utilise a Shield or Off-Hand gun.
 -   The original model was a Wardens Blade with wind particles put onto the blade.

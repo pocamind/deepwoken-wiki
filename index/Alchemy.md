@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 113404
+revid: 114759
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -91,7 +91,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
 | [Plumfruit](Plumfruit.md) |  |  | Strongest |  |  |  | Strongest |  |  |  |
 | [Pomar](Pomar.md) | Weak |  |  |  |  | Strongest |  |  |  |  |
 | [Redd](Redd.md) | Strongest |  |  |  |  |  |  | Strongest |  | Strongest |
-| [Brandon](Sap.md) |  |  |  |  |  | Strongest |  | Strongest |  |  |
+| [Sap](Sap.md) |  |  |  |  |  | Strongest |  | Strongest |  |  |
 | [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | Strongest |  |
 | [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | Weakest |
