@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 114650
+revid: 114719
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -33,5 +33,5 @@ The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro's](Chef_
 ## Trivia
 
 -   The description reads _"Where's the crabbo SAUUUCE?"_ which is in reference to [a quote](https://www.youtube.com/watch?v=zOXDcGq7Ohg) from celebrity chef [Gordon Ramsay](https://en.wikipedia.org/wiki/Gordon_Ramsay) during an episode of American reality competition cooking show, _[Hell's Kitchen](<https://en.wikipedia.org/wiki/Hell%27s_Kitchen_(American_TV_series)>)_.
--   The Long Tong is modelled after the [Fork](https://en.wikipedia.org/wiki/Fork), an item you can find in your kitchen.
+-   The Long Tong is modelled after the [Fork](https://en.wikipedia.org/wiki/Fork), an item you can find in your kitchen, however comically sized.
 -   The Long Tong is the first heavy weapon to scale off of Intelligence,

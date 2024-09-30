@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 110337
+revid: 114740
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -30,6 +30,8 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 
 Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19.1 damage, the weapon deals 24.6 damage at 100 WLL and max LHT, and deals 24.8 at 102 WLL and max LHT.
 
+The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
+
 Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_ The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
 
 The color of the lantern signifies what Critical will be used next:
@@ -49,17 +51,15 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 ## Trivia
 
 -   Likely inspired by **Shoot McMahon**'s _Hotel Rafflesia_ from Hunter x Hunter.
--   This used to be the only weapon to scale from an attribute (Willpower) other than weapon or an attunement.
-    -   As of 03/23/2024, this information has became outdated as the weapon received it's new requirements (65 WIL → 60 WIL, 35 LHT)
+-   This used to be the only weapon to scale from an attribute (Willpower) rather than weapon or an attunement.
+    -   When the 03/23/2024 update came, the weapon requirements were updated to make it share a req. (65 WIL → 60 WIL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), [Soulthorn](Soulthorn.md) and [Imperial Staff](Imperial_Staff.md)) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLP.
--   Has misleading animations that extend the weapons visual reach way outside of its actual hotbox.
+-   Has misleading animations that extend the weapons visual reach way outside of its actual hitbox.
 -   Before 10/20/2023, the weapon used the base critical for the active fist style.
 -   As this weapon is Legendary, it is completely unenchantable. Until the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
 -   It is one of fourteen known weapons to have multiple critical attacks, the others being [Soulthorn](Soulthorn.md), [Krulian Knife](Krulian_Knife.md), [Wraithclaw](Wraithclaw.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Kanabo](Kanabo.md), [Cerulean Thread](Cerulean_Thread.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Kyrswynter](Kyrswynter.md), [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Wyrmtooth](Wyrmtooth.md), and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
--   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks. (4 if you count the counter.)
--   The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
--   While it does less damage and has a slower swingspeed than a [Flamekeeper Cestus](Flamekeeper_Cestus.md), it has more range, dual scaling (even tho it still has less damage regardless), and a variety of Criticals.
+-   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks.
 -   Using this weapon with any big hat will almost fully cover m1 swing animation making it harder for you opponent to parry your attacks.

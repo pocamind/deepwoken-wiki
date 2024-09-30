@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 107074
+revid: 114733
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea, Kingdom of Etrea Enemies]
@@ -59,6 +59,7 @@ If the instructor is the one that downs the player they will disappear and the p
 -   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.
 -   Logging while in combat with him will result in losing a life.
 -   Gripping them will prompt them to say 'Hey, what do you think you're doing?!'
+-   Killing them without m1ing, dodging or using mantras (or moving?), gives you Etris rep. (proof: [https://medal.tv/games/roblox/clips/iMAPl1wwTkYj9uMUW/d13371xlKU3L?invite=cr-MSx2U2UsMTY4OTYyNSw](https://medal.tv/games/roblox/clips/iMAPl1wwTkYj9uMUW/d13371xlKU3L?invite=cr-MSx2U2UsMTY4OTYyNSw))
 -   You can glitch an instructor by starting the spar and not doing anything at all.
     -   To fix it, you just need to defeat him.
 

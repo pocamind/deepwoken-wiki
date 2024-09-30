@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 114657
+revid: 114739
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -41,14 +41,11 @@ The critical has a cooldown of eight seconds.
 
 ## Trivia
 
--   The second weapon to scale off of and require Charisma after [Lorenzo's Glaive](<Par's_Glaive.md>), and the second Greatsword (after the [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the [Scion of Ethiron](Scion_of_Ethiron.md) than the [Kyrsgarde](Kyrsgarde.md).
     -   It shares this property with the [Kyrswynter](Kyrswynter.md).
 -   Kyrsieger is one of only two legendary weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
     -   Fittingly, these both drop in Layer 2.
--   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is likely a bug. Note:Probably aint
 -   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
 -   At max HVY and CHA, the weapon deals 40.3 damage.
--   Known for being agonizing to fight when paired with [Visionshaper](Oath%253A_Visionshaper.md) and other forms of movestacking

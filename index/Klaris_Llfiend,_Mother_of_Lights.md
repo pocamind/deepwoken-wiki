@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 114463
+revid: 114744
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -31,7 +31,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 **First Encounter:**
 
-**Player is above power 15:**
+**Player is power 15 or above:**
 
 <table>
 <tbody>
@@ -221,12 +221,12 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="4">Chaser betrayed you.</td>
-  <td colspan="4">He is????</td>
+  <td colspan="4">Chaser was somehow alive again. It seems time behaves weirdly down there.</td>
   <td colspan="4">The Ignition Union have set up a base down there.</td>
 </tr>
 <tr>
   <td colspan="4">*She sighs.* I knew sending him down there was a mistake. But for him to turn on us like this…</td>
-  <td colspan="4">TEMPLATE</td>
+  <td colspan="4">Huh. You're sure? We've received some accounts of the time dilation in the Eternal Gale's area of effect, but this is something else entirely. More research is obviously required. It seems Chaser may remain a thorn in our side for a while yet...</td>
   <td colspan="4">Ugh. How typical of them. They must have found some kind of grift down there. I'll tell the others to be wary of them on any expeditions. Still, I find it disturbing that they managed to establish a base there before us... We can't afford to underestimate those opportunists.</td>
 </tr>
 <tr>

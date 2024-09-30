@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 114716
+revid: 114725
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -50,9 +50,13 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 _Spin rapidly to unleash powerful rays of light._
 
+-   Deals a high total amount of **Oath** damage, but low damage per tick.
+
 -   **Radiant Kick** (★★★) - **Combat Mantra**
 
 _Kick your foes at the speed of light._
+
+-   Deals low **Oath** damage twice.
 
   
 
@@ -60,6 +64,7 @@ _Kick your foes at the speed of light._
 
 _Strike down your foes with your blinding light._
 
+-   Deals medium **Oath** damage.
 -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
 -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
     -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
@@ -77,8 +82,6 @@ Luminous Flash on proc
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
 
 ## Trivia
-
--   A̶L̶L̶ ̶D̶A̶W̶N̶W̶A̶L̶K̶E̶R̶ ̶M̶A̶N̶T̶R̶A̶S̶ ̶A̶R̶E̶ ̶T̶R̶U̶E̶ ̶D̶A̶M̶A̶G̶E̶ ̶A̶K̶A̶ ̶B̶Y̶P̶A̶S̶S̶I̶N̶G̶ ̶A̶N̶Y̶ ̶K̶I̶N̶D̶ ̶O̶F̶ ̶A̶R̶M̶O̶R̶ This is NOT true, as proven by this video:[https://youtu.be/afjTDU51nT4?si=Ebvb37PvxTNjrLfl](https://youtu.be/afjTDU51nT4?si=Ebvb37PvxTNjrLfl); Dawnwalker deals oath damage and thus doesn't damage armor, but its damage gets reduced by general defense buffs, like reinforce or fists of fortitude.
 
 -   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the oath as it only costs 30 to obtain it, and if you convert the other 10 to knowledge you can max it out right then and there.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)

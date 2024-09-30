@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 114116
+revid: 114723
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -16,11 +16,14 @@ notices:
 
 ## Description
 
+  
 _**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
 **Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but... "_it's called an Oath for a reason._" Heed the consequences that come with being an Oathbreaker.
 
-Every character begins as a simple Pathfinder, meaning they are without an Oath (but not devoted to being Oathless). Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath, such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
+Every character begins as a simple Pathfinder, meaning they are without an Oath (but not devoted to being Oathless). Being a Pathfinder offers no real advantages, but it _may_ protect you from others who need Oath Kills for their progression, such as Linkstriders or Contractors, however, don't rely on it.
+
+All **Oath Damage** is a separate damage type that is only affected by Oathless or general defense modifiers, such as Reinforce or Ardour Scream.
 
 ### Obtainable Oaths
 

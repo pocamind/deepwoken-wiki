@@ -1,6 +1,6 @@
 ---
 title: Union Pager
-revid: 112745
+revid: 114730
 source: https://deepwoken.fandom.com/wiki/Union_Pager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,3 +17,7 @@ A Union Pager |
 | **Requirements** | Ignition Origin |
 | Effects |
 | Allows you to remotely check job listings in your luminant, does not work in dungeons. |
+
+## Description
+
+A portable job board that lets you take jobs from anywhere within the map.
