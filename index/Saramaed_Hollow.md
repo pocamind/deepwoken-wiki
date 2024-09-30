@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 114546
+revid: 114717
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -66,6 +66,7 @@ Monster shown here will start showing up and replacing other monsters the deeper
 Loot is based on the type of mob you kill. It can be:
 
 -   [Outfits](Outfits.md)
+-   [Rosen's Hellflame](<Rosen's_Hellflame.md>)
 -   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md)
 -   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md)
 -   [Pluripotent Alloy](Pluripotent_Alloy.md)
@@ -92,6 +93,8 @@ Relics and enchant stones can drop from any chest at any floor.
 -   Additionally, if you are low / about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
     -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
 -   The Saramaed Hollow is also a good grinding fodder for all levels, having weak mobs like mudskippers and Megalodaunts to boost early game progression, Brutes, Threshers, and Desert Knights to help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
+
+-   It is heavily recommended to stockpile ores to get to a floor that is a hustle dealing with.
 
 ## Trivia
 

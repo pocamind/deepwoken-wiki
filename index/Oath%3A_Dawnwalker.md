@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 113202
+revid: 114716
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -78,7 +78,8 @@ Luminous Flash on proc
 
 ## Trivia
 
--   **ALL DAWNWALKER MANTRAS ARE TRUE DAMAGE AKA BYPASSING ANY KIND OF ARMOR**
+-   A̶L̶L̶ ̶D̶A̶W̶N̶W̶A̶L̶K̶E̶R̶ ̶M̶A̶N̶T̶R̶A̶S̶ ̶A̶R̶E̶ ̶T̶R̶U̶E̶ ̶D̶A̶M̶A̶G̶E̶ ̶A̶K̶A̶ ̶B̶Y̶P̶A̶S̶S̶I̶N̶G̶ ̶A̶N̶Y̶ ̶K̶I̶N̶D̶ ̶O̶F̶ ̶A̶R̶M̶O̶R̶ This is NOT true, as proven by this video:[https://youtu.be/afjTDU51nT4?si=Ebvb37PvxTNjrLfl](https://youtu.be/afjTDU51nT4?si=Ebvb37PvxTNjrLfl); Dawnwalker deals oath damage and thus doesn't damage armor, but its damage gets reduced by general defense buffs, like reinforce or fists of fortitude.
+
 -   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the oath as it only costs 30 to obtain it, and if you convert the other 10 to knowledge you can max it out right then and there.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
     -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.

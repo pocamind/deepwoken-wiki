@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 106256
+revid: 114714
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -51,13 +51,14 @@ When obtained, Skeleton Key will spend its points on the following stats:
 -   **Range (?):** How far a wall can push.
 -   **Wall Durability:** How many hits (ex: m1-ing) the wall can take before breaking.
 
-## Trivia
+## Tips/Trivia
 
 -   Based off of the dev spec ability under the same name used by Zartania, rebalanced and reworked for public use.
+    -   Purportedly, when released, if a person obtained it in a new server/instance and joined a old server, the bell would function like said specs.
+-   Skeleton Key's upper walls use the same intricate design as the stairways in the [Scion of Ethiron](Scion_of_Ethiron.md) fight.
 -   Keep in mind that a corrupted Skeleton Key does not guarantee five walls, as the number is still based on the resonance point usage.
--   Skeleton Key walls, when activated, will push in the direction you were looking when you first placed them, this means that if you were to place a Skeleton Key wall then go on the other side of it and then activate it, it will push towards you.
+-   Skeleton Key walls when activated, will push in the direction you were looking when you first placed them, this means that if you were to place a Skeleton Key wall then go on the other side of it and then activate it, it will push towards you.
 -   Skeleton Key walls will always be placed on the level of your character, which leaves them floating in the air if you're hanging off of a chandelier for example.
 -   The walls can block ships from sailing, and also are invulnerable to their cannonballs, making them great for shielding your ship as you sail.
 -   Make sure to remember that the walls will quickly despawn prematurely if the owner is far away.
 -   You can somewhat consistently get pushed/push yourself through walls with the Skeleton Key's activated push, provided the wall you're trying to pass through is thin enough. A good example of this is the Mineskipper cave next to the small house by the side of the windmill in Songseeker.
--   When skeleton key got Released if a person obtained it in a new server/instance and joined a old server the bell would be look and work like the original bell that was used by Zartania.

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 114679
+revid: 114712
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons]
@@ -39,10 +39,11 @@ The Rosen's Hellflame has two critical attacks.
 
 The normal critical holds the rifle in front of you and shoots a constant torrent of flames from its barrel. The crit can be held, consuming ether to spray flames until you run out. It is not cancelled on being parried or blocked.
 
-The jumping critical causes your character to perform a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground.
+The jumping critical causes your character to perform a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 
 ## Trivia
 
 -   The Rosen's Hellflame is the second Legendary Elemental Rifle in the game, after the [Stormseye](Stormseye.md).
     -   It is also the fourth Legendary that requires Flamecharm.
 -   Rosen's Hellflame is capable of using [iron bullets and other minerals.](Bullet_Casings.md)
+-   Named fittingly after it's creator, Rosen.
