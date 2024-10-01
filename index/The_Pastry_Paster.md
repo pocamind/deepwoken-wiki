@@ -1,9 +1,9 @@
 ---
 title: The Pastry Paster
-revid: 114924
+revid: 114947
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Weapons with Unique Criticals, Club, Unique Critical]
 ---
 
 # The Pastry Paster
@@ -31,4 +31,4 @@ The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 M
 
 ## Trivia
 
--   the discription, "anyone can cook, but only the fearless can be great." is a direct quote from Chef Gusteau from [Ratatouille](https://disney.fandom.com/wiki/Ratatouille), famous Pixar movie.
+-   The description, "anyone can cook, but only the fearless can be great." is a direct quote from Chef Gusteau from Pixar's [Ratatouille](https://disney.fandom.com/wiki/Ratatouille).

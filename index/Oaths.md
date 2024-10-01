@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 114928
+revid: 114937
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -36,7 +36,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
--   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +20% Oath DMG Resistance, +10 HP \[talk to freddy fazbear\]
+-   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +20% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
 -   [Saltchemist](Oath%253A_Saltchemist.md): +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load \[75 Intelligence\]
 -   [Silentheart](Oath%253A_Silentheart.md): +10 HP, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]

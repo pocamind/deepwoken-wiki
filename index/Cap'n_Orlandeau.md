@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 95301
+revid: 114936
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -24,6 +24,8 @@ categories: [NPCs]
 He navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the Scoundrel's Bounty crew. After a disagreement with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she had him damned the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the Second Layer. Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
 
 The player can run into him atop of one of the balconies in the city. His dialogue changes depending on if you did the tutorial or not.
+
+In the tutorial, he teaches you the basics of the game, including how to fight, parry, block, sell items, and more. He fashions a Razor Cutlass as a weapon, which he uses to teach the player the basics of combat.
 
 ## Dialogues in the City of New Kyrsa
 

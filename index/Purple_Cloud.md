@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 111909
+revid: 114932
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -115,7 +115,7 @@ File:ASTRALPURPLECLOUDYEAAAAAAAAAA.png
     -   This involves quickly drawing and sheathing the sword in order to attack or defend.
 -   Currently bugged when enchanted with [Stormbreaker](Enchantments.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
 -   May be inspired by the sword Enma from _One Piece_, as both are purple, have a will of their own and using it for an extended period of time can be fatal.
--   May additionally be inspired by the Edict Edge 'Naught' from Honkai: Star Rail, as both are purple and are used similarly, unsheathing it only briefly for attacks.
+-   May additionally be inspired by the Edict Edge 'Naught' from Honkai: Star Rail, as both are purple and are used similarly, unsheathing it only briefly for attacks. Though this is unlikely because the timeline between the release of Purple Cloud and the reveal of Acheron's blade name doesn't quite match.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average range, damage and attack speed as what you would expect from a medium weapon.
 -   It can only be used one-handed
 -   May be inspired by the sword Murasama from Metal Gear Rising, as its wielder, Samuel Rodrigues, utilizes his fists in the most of its boss-fight.
