@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 114641
+revid: 114852
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,13 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Bladeharper** is one of the 14 obtainable Oaths in _Deepwoken_.
+**[Oath](Oaths.md): Bladeharper** is one of the 14 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with it's slash-based attacks, and the ability to massively buff it's offensive means by landing consecutive hits or sacrificing health.
+
+“ Within your mind, many futures present themselves before you. Only your own must stand supreme. ”
+
+― The Blade Within
+
+The oath is a result of the player conducting a **Reflection Ritual** at the Sky Statues scattered around the Luminant. The user makes a Vow with their own weapon, to spend the rest of their future with their own blade, out of the many futures presented to them during the Reflection Ritual.
 
 ## Obtainment
 

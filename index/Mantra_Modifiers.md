@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 114280
+revid: 114855
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -62,6 +62,7 @@ Cloud Stone
 -   Bandit Leaders
 -   Carbuncles
 -   Brainsuckers
+-   Mudskippers
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 114436
+revid: 114926
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -219,6 +219,21 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+ |
+| 
+
+File:Image 2024-09-28 125352958.png
+
+ | **[Whistling Periapt](Whistling_Periapt.md)** - A pendant that grants the talent "Whistleguard" which summons a shield of gale similar to Duke's to automatically parry a single attack for you after you have landed 3 consecutive hits (5 for light weapons) on your opponent.
+
+  
+This has a 6 second cooldown and charges cannot be stacked.
+
+ | 
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  |
 
