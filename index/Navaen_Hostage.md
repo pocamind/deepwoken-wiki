@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 110105
+revid: 114969
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, Children of Navae]
@@ -34,7 +34,6 @@ Giving back what is rightfully theirs.
 -   For some strange reason, there is a brick that spawns a single Hostage above the [Trial of One](Trial_of_One.md). Even more bizarrely, should it be thrown off the cube the dungeon takes place in, the Parry Check orbs will be incapable of dealing any actual damage.
 -   They **can** be gripped, but there is little reward outside of a little EXP.
 -   They can be turned in to [Alastir](Alastir.md) for a chest.
--   Despite spawning in the exact same event, [Knives of Eylis](Knife_of_Eylis.md) and [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) will attack and attempt to grip them because Deepwoken has good game design.
 -   One way to get the Way of Navae fighting style relatively easily is by hiding in a bush near the Navae Camp in [Etris](Etris.md) and kidnapping the hostage from another person who found them. Be warned though, the other person will try and get them back, and, if they are a much higher level than you, guarantees your death, even if you get the style.
     -   It's also worth being wary of people doing this, so don't go near bushes that people could be hiding in.
     -   As time goes on, and more people unlock the fighting style, the chance of finding someone carrying one using this method becomes smaller and smaller, so attempting to get it legitimately becomes more viable with time.

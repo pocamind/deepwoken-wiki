@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 114675
+revid: 114968
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -344,7 +344,7 @@ _Strike the ground, turning it to ash._
 -   Fires where cursor is aimed.
 -   Inflicts burn.
 -   Homes onto enemies.
--   Can be modified with a spring spark, making it so that you float for a short time while charging Flame Ballista (Buggy with talent: Dancing Steps).
+-   Can be modified with a spring spark, making it so that you float for a short time while charging Flame Ballista (Buggy).
 
  |
 |  | Flaming Scourge

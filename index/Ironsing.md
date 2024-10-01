@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 114239
+revid: 114971
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -194,6 +194,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
 -   Cannot be modified with any mantra modifiers.
+-   Cannot hit monsters and instead just wastes your Ether
 
  |
 | 

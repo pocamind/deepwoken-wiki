@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 114931
+revid: 114966
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -43,4 +43,4 @@ The jumping critical causes your character to perform a side flip, slamming the 
 
 ## Trivia
 
--   Rosen's Hellflame is capable of using [iron bullets and other minerals.](Bullet_Casings.md)
+-   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullet_Casings.md).

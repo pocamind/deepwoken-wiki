@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 107071
+revid: 114965
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies]
@@ -21,6 +21,8 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 ## Spawn Locations
 
 Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md).
+
+There is also a single guaranteed spawn in Minityrsa.
 
 ## Moves
 

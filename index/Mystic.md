@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 114659
+revid: 114951
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -131,79 +131,81 @@ Some talents will not appear as there will be no mystic choices for them in-game
 -   _I search for the Song. **(Seeker of Sound)** (Dragon's Song)_
 -   _Water is my home. **(Waterborne) (Note; Cannot give Scuba Drowner)**_
 -   _I enjoy a good meal._ _**(Tavernkeep)** (Master Chef, Artisan Chef)_
--   _Uh... **(Miscellaneous)** (Lot of talents like Lightweight, Packmule, Replenishing Knockout, etc) **(Note; Cannot give Impervious Slumber, Return to the Dark Ages)**_
+-   _Uh... **(Miscellaneous)** (Lots of talents like Lightweight, Packmule, Replenishing Knockout, etc) **(Note; Cannot give Impervious Slumber, Return to the Dark Ages)**_
 -   _My soul is an instrument with its own frequency. **(Murmur)**_
 
 ## Attunements
 
+_"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a talent that can be gotten by all attunements, providing a wisp slot.
+
 ### [Flamecharm](Flamecharm.md)
 
--   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh)**_
--   _I dance with the flames. **(Flame Dancer) (Note; Cannot give Flaming Rebound, Graceful Steps, The Final Act)**_
--   _I speak to the flames. **(Flamecharmer)**_
--   _None will escape my flames. **(Flame Warden) (Note; Cannot give Warding Radiance)**_
--   _I am a master of the flame._ _**(Pyromancer)**_
--   _All must burn. **(Inferno)**_
--   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames)**_
--   _I seek the path of the Serpent. **(Lava Serpent)**_
--   _My unholy blade works for no man. **(The Demon Blade)**_
--   _My blade burns through my foes._ _**(The Emperor's Blade) (Note; Cannot give Mirage Clone)**_
--   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)**_
--   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
--   _My flame fights for me._ _**(Duelist Flame)**_
--   _My spirit is forever burning._ **(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**
--   _I seek the qualities of Tamed Flame. **(Controlled Combustion)**_
--   _I seek to command the elements as my servants. **(Will O' Wisp)**_
+-   _I seek out Amorus Pleeksty. **(Amoran Seeker)** (Flame Within)_
+-   _I dance with the flames. **(Flame Dancer)** (Dancing Steps) **(Note; Cannot give Graceful Steps, The Final Act)**_
+-   _I speak to the flames. **(Flamecharmer)** (Azure Flames, Produce Spark, Unyielding Inferno)_
+-   _None will escape my flames. **(Flame Warden)** (Cauterized Wounds, Flamewalker, Hell's Partisan) **(Note; Cannot give Warding Radiance)**_
+-   _I am a master of the flame._ _**(Pyromancer)** (Hungry Flames)_
+-   _All must burn. **(Inferno)** (Corpse Explosion, Pleektsy's Faith, Pleeksty's Will)_
+-   _I burn so that I may succeed. **(Immolator)** (Agitating Spark, Immolation, Phoenix Flames)_
+-   _I seek the path of the Serpent. **(Lava Serpent)\*** (Eruption Path: Lava Serpent - Empowered Eruption, Flash Point, Molten Defense, The Floor is Lava)_
+-   _My unholy blade works for no man. **(The Demon Blade)** (Explosive Finish, Flaming Flourish)_
+-   _My blade burns through my foes._ _**(The Emperor's Blade)** (Emperor Flame) **(Note; Cannot give Mirage Clone)**_
+-   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)** (Meteor Impact, Phoenix Impact)_
+-   _My flame fights for me._ _**(Duelist Flame)** (Concussive Flash)_
+-   _I seek the qualities of Tamed Flame. **(Tamed Flame)** (Controlled Combustion)_
+
+(\*Lava Serpent exchanges the innate burn from Flamecharm into a very slightly delayed explosion after every Flamecharm move)
 
 ### [Frostdraw](Frostdraw.md)
 
--   _I command the cold. **(Cryomancer)**_
--   _My ice protects like a flower growing thorns. **(Frostthorn)**_
--   _I speak to the frost. **(Frostdrawer)**_
--   _Those that step on my ice know they have made a grave error. **(Cryoni) (Note; Cannot give Preceding Chill)**_
--   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Saint Jay)**_
--   _I seek the elegance of a glassdancer. **(Glassdancer)**_
--   _I seek the qualities of FlashFreeze._ **(FlashFreeze)**
--   _I seek the qualities of Cold Phantom._ **(_Cold Phantom)_**
+-   _I command the cold. **(Cryomancer)** (Fragile Freeze, Chilling Flourish, Spike Traps, Condensation Drip, Cool Head)_
+-   _My ice protects like a flower growing thorns. **(Frostthorn)** (Glacial Coating, Orbital Ice)_
+-   _I speak to the frost. **(Frostdrawer)** (Cold Front, Glacial Ice)_
+-   _Those that step on my ice know they have made a grave error. **(Cryoni)** (Cryostasis) **(Note; Cannot give Preceding Chill)**_
+-   _I would see this world freeze. **(Ice Age)** (Bottom Freeze, Cryonis, Frost Buster, Frostbite, Unyielding Frost) **(Note; Cannot give Frozen Pin-Cushion, Saint Jay)**_
+-   _I seek the elegance of a glassdancer. **(Glassdancer)\*** (Glass Path: Crystallization - Crystal Shrapnel, Reclaimed Glass)_
+
+(\*Glassdancer turns your ice from light blue to a pale red hue. Instead of applying 'Chill', it is replaced by explosive crystals)
 
 ### [Thundercall](Thundercall.md)
 
--   _I work for the Authority. **(Authority Interrogator)**_
--   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
--   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
--   _I weave webs of lightning. **(Static Weaver)**_
--   _My blade conducts the skies wrath. **(Thunderblade; Static Blade, Gathering electricity, Overcharge)**_
--   _My blade is unrelenting, a storm. **(Stormblade; Stormcaller Slash) \[REMOVED\]**_
--   _I speak to lightning. **(Thundercaller; Discovery of Fire, Shocking Finish, Static Flash Clone, Static Withdraw, Stratoshock)**_
--   _I electrocute my foes from afar. **(Thunder Caster)**_
--   _My fists are imbued with lighting. **(Thunder Brawler)**_
--   _I seek to embrace the instability of lightning as a source of power. **(Surge Path: Unstable Capacitor)**_
+-   _I work for the Authority. **(Authority Interrogator)** (First Interrogation, Second Interrogation, Authority Intimidation, Resolve Crusher)_
+-   _My static is uncontrollable. **(Rampant Static)** (Jolting Current)_
+-   _I am a self-starter. **(Self-Shocker)** (Jumpstart, Raging Static)_
+-   _I weave webs of lightning. **(Static Weaver)** (Static Link, Jumper Cables, Link Conduction, Static Ace, Static Allure)_
+-   _My blade conducts the skies wrath. **(Thunderblade)** (Static Blade, Gathering Electricity, Overcharge)_
+-   _I speak to lightning. **(Thundercaller)** (Discovery of Fire, Shocking Finish, Static Flash Clone, Static Withdraw, Stratoshock)_
+-   _I electrocute my foes from afar. **(Thunder Caster)** (Jolt Cast, Rain of Static)_
+-   _My fists are imbued with lighting. **(Thunder Brawler)** (Discharge)_
+-   _I seek to embrace the instability of lightning as a source of power. **(Unstable Capacitor)\*** (Surge Path: Unstable Capacitor - Battery Sapper, Catalytic Strike, Closed Circuit, Fried Circuits, Human Battery)_
+
+(\*Unstable Capacitor turns your lightning from yellow to blue. Instead of applying 'Shock', it instead applied a 'Surge Stack' that explodes when at maximum stacks)
 
 ### [Galebreathe](Galebreathe.md)
 
--   _I walk the skies. **(Cloudwalker; Gale Leap)**_
+-   _I walk the skies. **(Cloudwalker)** (Gale Leap)_
 -   _I speak to the winds. **(Galebreather)**_
--   _I use the winds to enforce my will. **(Galeforce) (Note; Cannot give Skull Crusher)**_
--   _I fight for the Legion. **(Legion Shock Trooper)**_
--   _I am a master of the winds. **(Aeromancer) (Note; Cannot give Aerogliding, Stifled Jump)**_
--   _A whisper in the dark. **(Whisper; Haunted Gale)**_
--   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_
--   _I seek the qualities of Specter. **(Specter)**_
--   _I survive from the teachings of Master Stratos. **(Vigil of Winds)**_
--   My wind fights for me. _**(Gale Duelist; Tempest Wind)**_
+-   _I use the winds to enforce my will. **(Galeforce)** (After Cut, Breathing Impact, Inhale)_
+-   _I fight for the Legion. **(Legion Shock Trooper)** (Cyclone Blade, Air Pressure, Hoplite, Pressure Break, Windstep)_
+-   _I am a master of the winds. **(Aeromancer)** (Gale Trap, Aeronade, Vacuum Punch, Suffocating Impact) **(Note; Cannot give Aerogliding, Stifled Jump)**_
+-   _A whisper in the dark. **(Whisper)** (Haunted Gale)_
+-   _The song shall be silenced. **(Silencer)** (Silencer's Blade, A World Without Song)_
+-   _I seek the qualities of Specter. **(Specter)\*** (Haunted Path: Specter - Apparitions, Phantom Step, Vanishing Wraith, Possession)_
+-   My wind fights for me. _**(Gale Duelist)** (Tempest Wind)_
+
+(\*Specter changes your gale from light green to white. 'Winded' is replaced by increased speed. 'Haunted Gale' will be replaced by an Apparition with the respective talent)
 
 ### [Shadowcast](Shadowcast.md)
 
--   _I speak to the shadows. **(Shadowcaster) (Note; Cannot give Shadow Travel)**_
--   _I am the one who speaks to death. **(Death Speaker)**_
--   _I control those around me. **(Puppet Master)**_
--   _I feed on the soul of my enemies. **(Darksiphon.)**_
+-   _I speak to the shadows. **(Shadowcaster)** (Blossoming Darkness, Fear, Lasting Sorrow, Sightless Still, Singularity) **(Note; Cannot give Shadow Travel)**_
+-   _I am the one who speaks to death. **(Death Speaker)** (Blackhole, Energy Siphon)_
+-   _I feed on the souls of my enemies. **(Darksiphon)** (Dark God, Dark Hours, Dark Replenishment, Dark Synergy, Overwhelming Drain. Shadow Overflow) **(Note; cannot give Dark Rift)**_
 
 ### [Ironsing](Ironsing.md)
 
--   _Metal itself is my shield, whichever form it may take. **(Metallurgist)**_
--   _I seek the qualities of Scrapsinger. **(Scrapsinger)**_
--   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
+-   _Metal itself is my shield, whichever form it may take. **(Metallurgist)** (Intuitive Repairs, Metal Absorption, Metal Eater, Metal Thief, Polished Armor)_
+-   _I seek the qualities of Scrapsinger. **(Scrapsinger)** (Gilded Path: Scrapsinger - Refine and Reuse, Artisan's Blade, Songs Unforged, Masterwork, Reshape and Remold)_
+-   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal)** (Exposed Durability) **(Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
 
 ### Dual Attunement
 

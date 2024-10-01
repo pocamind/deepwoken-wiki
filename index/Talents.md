@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 114647
+revid: 114970
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1455,6 +1455,9 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
+-   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility) Was moved to Lancer class, used to be in Legion Shock Trooper.
+    -   Stacks with shield.
+    -   Prerequisites: 15 Fortitude, Using a spear
 
 ### Lava Serpent
 
@@ -1467,6 +1470,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
     -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
+    -   Reduces damage from mantras, making the main source of damage the explosions caused by them
 
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning and causes your Eruptions to be Empowered for the next 10s. 45s CD. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
@@ -1512,10 +1516,6 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
     -   Prerequisites: 20 Agility, 50 Galebreathe
-
--   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility)
-    -   Stacks with shield.
-    -   Prerequisites: 15 Fortitude, Using a spear
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreath
