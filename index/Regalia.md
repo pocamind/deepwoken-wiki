@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 110657
+revid: 114929
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -56,6 +56,7 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](Thresher.md#king-thresher)
     -   [Deep Owl](Deep_Owl.md)
+    -   [Primadon](Primadon,_Titan_of_the_East.md)
 
 ### Prodigy
 
