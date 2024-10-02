@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 86978
+revid: 115008
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -117,4 +117,5 @@ Below is a list of potential items that can spawn in Bluster Rift.
 
 ## Trivia/Notes
 
--   Player notes go here.
+-   The waters will push you downstream, eventually pushing you off a waterfall. Mind your step!
+-   Not very worth grinding here, unless you're specifically looking for the Crimson Megalodaunt. It's better to grind at Starswept Valley - they have the same events but better spawn rates and a more accessible location.

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 113707
+revid: 115010
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Eastern Luminant]
@@ -31,7 +31,7 @@ Starswept Valley is the middle and northern part of [Aratel Island](Aratel_Islan
 
 ## Missions
 
-Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+Events that spawn in Starswept Valley that could potentially involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Hive Scouts](Hive_Scout.md) Hiveiconfaction
 -   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) Authorityiconfaction
@@ -39,6 +39,8 @@ Events that spawn in Starswept Valley that involve combat. For more info, see [R
 -   [Desert Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt)/[Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
 -   [King Thresher](Thresher.md) vs Hive ScoutsHiveiconfaction
 -   [Legion Sniper](Legion_Sniper.md)
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md)
+-   [Serena](Serena.md)
 
 ## Events
 
@@ -136,6 +138,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   The music for this area is [In Starstruck Sands](Deepwoken_OST.md) by Naktigonis.
 -   The combat music for this area is [Pyres of Glass](Deepwoken_OST.md) by Naktigonis.
 -   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
+-   The best place to grind from around level 12 onwards. (You can go to Starswept at around level 9 or 10 if you're familiar with the game's mechanics.)
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
 -   Based on the skeletons and corals that can be seen everywhere, as well as the condition of the Lordsgrove, it can be speculated that this was once an undersea area or a forest full of life, but the nutrients were sucked away by the planting of [Greathive](Greathive_Aratel.md).
 -   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision, so you won't be able to tell when to dodge its 200 damage move.
