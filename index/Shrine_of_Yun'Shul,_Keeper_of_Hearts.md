@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 112527
+revid: 114979
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -20,21 +20,22 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 
 The Shrine of Yun’Shul is a unique interactable shrine found in Scyphozia. It can grant players that wield a [Resonance](Resonance.md) wishes.
 
-The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the Oath.
+The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
 
-It's possible to interact with the shrine using [Idol of Yun'Shul](Relics.md) Relic. This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
+It's possible to interact with the shrine at range using [Idol of Yun'Shul](Relics.md) Relic. This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
 
 ## Wishes
 
 The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish requires some criteria:
 
--   You need to have a Resonance. You would have needed this to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a Deepbound (such as glitching in or being carried in by another player), you will be instantly killed and wipe.**
--   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't apply on the first Wish.
-    -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md), which also grants a wish, or by removing it at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge.
+-   You need to have a Resonance, normally needed to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a Deepbound (such as glitching in or being carried in by another player) you will be instantly killed and wipe.**
+    -   Interacting with the shrine without a wish will not kill you assuming you meet these criteria.
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
-    -   A wish can be obtained by levelling up 3 times, the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge. You can accumulate wishes through Misérables as many times as you want, though the more wishes you have accumulated, the more costly each repeating purchase becomes.
-    -   Wishes do not stack (Without the use of [Misérables](Misérables.md)), so if you get your Resonance at Power 18 or higher you will be unable to get another wish. Though the use of [Misérables](Misérables.md) or the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) circumvents this.
-    -   Wishes are also occasionally reset on patch updates.
+    -   A wish can be obtained by levelling up 3 times, via the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
+        -   Misérables in particular enables you to stack wishes. Its Clarity transaction will cost 5 more [Knowledge](Knowledge.md) for each wish you already have.
+    -   Wishes are occasionally granted on updates.
+-   [Tarnished](Boons_and_Flaws.md) prevents you from rerolling your Resonance.
+    -   You can remove it at [Yamaketzal](Yamaketzal.md) for 1000 Notes, at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md) (which also grants a wish.)
 
   
 If you meet all the criteria, you are able to make one of six wishes:
@@ -60,6 +61,5 @@ If you meet all the criteria, you are able to make one of six wishes:
 -   Originally, only [Oathless](Oath%253A_Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
 -   You are combat tagged immediately upon speaking to Yun'Shul’s shrine without a Resonance, making it impossible to survive.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
--   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
 -   There is an [Enchantment](Enchantments.md) named after Yun'Shul, the Curse of Yun'Shul.
 -   The objects in the shrine’s temple are [Deep Shrines](Deep_Shrines.md), in fact, every [Deep Shrines](Deep_Shrines.md) in the game can be found in the [Temple of Hearts](Temple_of_Hearts.md).

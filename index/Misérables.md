@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 112880
+revid: 114981
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -21,10 +21,11 @@ Template:NPC name
 Upon interaction with the player, Misérables has the ability to grant wishes to the player, similarly to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) inside [Scyphozia](First_Layer.md), indicated by two dialogue options:
 
 -   **I seek power in my upcoming battles.**
-    -   Grants additional 30% damage boost towards [Scion of Ethiron](Scion_of_Ethiron.md) for the duration of the exploration, at the cost of 5 [Kyrsan Medallions](Kyrsan_Medallions.md). Lacking these funds and agreeing to the trade will kill you instantly.
-    -   Doing this transaction multiple times in the same run does not yield any additional damage.
+    -   Grants additional 30% damage boost towards [Scion of Ethiron](Scion_of_Ethiron.md) for the duration of the run at the cost of 5 [Kyrsan Medallions](Kyrsan_Medallions.md). **Lacking these funds and agreeing to the trade will kill you instantly.**
+        -   Doing this transaction multiple times in the same run does not yield any additional damage.
 -   **I seek clarity.**
     -   Grants a Yun'Shul wish and removes the [Tarnished](Resonance.md) flaw from the player at the cost of 15 [Knowledge](Knowledge.md).
+        -   If you already have a wish, you can hold multiple at the same time. The transaction costs 5 more Knowledge for each wish you already have; it will cost 30 Knowledge if you have 3, for example.
 
 **Players can choose any amount of wishes per expedition. This has been thoroughly tested; Misérables ONLY kills you if you lack the medallion funds for his power boost.** _(Tested since October 21st, 2023)_
 
@@ -112,6 +113,5 @@ _**Loop:**_
 -   He is theorized to be related to Deep Owls; both are familiar with the concept of deals and treat humans as small boring creatures like mice. Misérables especially has the power to back up his threats, whereas you can fight off a Deep Owl.
     -   This difference in strength between Misérables and other Deep Owls may stem from Misérables' differing choice of prey. Feeding on Kyrsgarde, as opposed to humans, likely yields a far superior meal, as shown by the Kyrsgarde's overwhelmingly superior technological innovation and splendor. Misérables himself speaks on this when asking why he seeks medallions.
 -   As a friendly reminder, Misérables won't kill you if you're in combat, if you select any of the \[End Dialogue\]'s, or lack the knowledge for Clarity. He exclusively kills you if you ask for Power without the necessary medallions.
--   Misérables un-tarnishes your bell upon receiving Clarity.
--   You can empower yourself with medallions as many times in a row as you wish, although this seemingly will not stack the effect, and waste your medallions.
+-   You can empower yourself with medallions as many times in a row as you wish despite having no effect.
 -   If you still have your Light Hook active, you can make your deal with Misérables and then light hook out. This method will still count your Echo task completed.

@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 114906
+revid: 114992
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -8,12 +8,15 @@ categories: [Deepwoken]
 
 # Version History/Uncollapsed
 
+[Regular](2026.md)
+
+**Uncollapsed**
+
 ## Legend
 
 Something is considered a new update if it happens on a different week as the past update.  
 Something is considered a patch if it's added after an update but doesn't contain enough content to be considered one.  
-The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.  
-[Regular](2026.md)**Uncollapsed**
+The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
 
