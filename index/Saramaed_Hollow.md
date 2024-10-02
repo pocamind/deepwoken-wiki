@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 114953
+revid: 115024
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -63,7 +63,7 @@ Monster shown here will start showing up and replacing other monsters the deeper
 
 ## Loot
 
-Loot is based on the type of mob you kill. It can be:
+Loot is based on the type of mob you kill. All the loot confirmed to drop from Saramaed Hollow so far can be found below. **Bolded** items mean they are exclusive to Saramaed Hollow and can only be found there as such.
 
 -   [Outfits](Outfits.md)
 -   [Rosen's Hellflame](<Rosen's_Hellflame.md>)
@@ -78,8 +78,8 @@ Loot is based on the type of mob you kill. It can be:
 -   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 -   [Ignition Gauntlets](Ignition_Gauntlets.md)
--   [Simmerbloom Diadem](Simmerbloom_Diadem.md) (Which can only be found in the Saramaed Hollow)
--   [Abyss Wanderer Plate](<Abyss_Wanderer's_Plate.md>) / Boots
+-   [**Simmerbloom Diadem**](Simmerbloom_Diadem.md)
+-   **[Abyss Wanderer Plate](<Abyss_Wanderer's_Plate.md>) / Boots**
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot from [The Depths](First_Layer.md).
 

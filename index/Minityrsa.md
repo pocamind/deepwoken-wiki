@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 108086
+revid: 115020
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Islands, The Ministry]
@@ -64,7 +64,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Crescent Cleaver](Crescent_Cleaver.md) (Rare)
 -   [Iron Cestus](Iron_Cestus.md) (Common)
 -   [Legion Cestus](Legion_Cestus.md) (Rare)
--   [Katana](Katana.md) (Very rare)
+-   [Katana](Katana.md) (Rare)
 -   [Nemit's Sickle](<Nemit's_Sickle.md>) (Common)
 -   [Hero Blades](Hero_Blades.md) (Guaranteed drop from Blizzard Knights)
 -   [Apprentice Rapier](Apprentice_Rapier.md) (Rare)

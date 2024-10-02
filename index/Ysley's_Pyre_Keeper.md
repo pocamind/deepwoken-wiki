@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 114782
+revid: 115021
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -68,6 +68,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
+-   When it's your first time equipping the Pyre Keeper on a new save, the dagger is hidden. This can be fixed by rejoining.
 
 ## References
 
