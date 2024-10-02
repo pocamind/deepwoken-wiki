@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 107427
+revid: 115029
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -1994,6 +1994,7 @@ Shadow Assault
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
 -   Cannot be modified with any mantra modifiers.
+-   cannot be used against monsters, instead just wastes your ether (needs testing)
 
  |
 | 

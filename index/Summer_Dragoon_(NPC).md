@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 107915
+revid: 115033
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Summer Company, Summer Company Enemies]
@@ -41,7 +41,7 @@ Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Co
 </tr>
 <tr>
   <td>Taunt</td>
-  <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage Disables jumping</td>
+  <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage but disables their ability to jump.</td>
   <td>✗</td>
   <td>◯</td>
   <td>(★☆☆)</td>

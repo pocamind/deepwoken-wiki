@@ -1,6 +1,6 @@
 ---
 title: Summer Nauticals
-revid: 106142
+revid: 115031
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -33,3 +33,4 @@ The Nauticals are an [Equipment](Equipment.md) item under the "Face" category. T
 -   When held, the lenses of the Nauticals can't be seen.
 -   If you dye the glasses, it **does** change the glass color.
 -   The Summer Company icon can be seen on the top right of the right lens.
+-   The description suggest that these nauticals are really expensive and sought after cosmetic products in the Deepwoken universe, as people have gone as far as to making fake / knockoffs of these nauticals.

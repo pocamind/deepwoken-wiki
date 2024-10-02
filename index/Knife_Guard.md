@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 111683
+revid: 115034
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Knife Guards were the guards of the Voidheart, who, like normal guards, would spawn in to prevent players fighting each other. Unlike regular guards, who hang around in set locations, the Knife Guards would teleport into the Voidheart. This made them extremely buggy and led to their removal.
+Knife Guards were the guards of the Voidheart, who, like normal guards, would spawn in to prevent players fighting each other. Unlike regular guards, who hang around in set locations, the Knife Guards would teleport into the Voidheart. This made them extremely buggy and led to their eventual removal.
 
 They all wielded [Whaling Knives](Whaling_Knife.md) and wore [Whaler Coats](Whaler_Coat.md), as well as a [Whaler Scarf](Whaler_Scarf.md).
 

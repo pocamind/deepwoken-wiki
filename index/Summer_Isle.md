@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 114070
+revid: 115032
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
@@ -21,7 +21,7 @@ The smell of gunpowder blankets this tropical paradise.
   
 **Summer Isle** is a populated island in [The Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
 
-One of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment.
+One of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment, and enjoy the tropical scenery.
 
 ## Points Of Interest
 
@@ -105,6 +105,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 -   Can be found outside the Inn
 -   Will give you something random out of his sack for 350 notes.
 -   The sack can contain random equipment.
+-   It's a scam.
 
 #### _The Guildmaster_
 

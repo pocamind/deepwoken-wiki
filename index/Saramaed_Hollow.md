@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 115024
+revid: 115028
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -63,23 +63,51 @@ Monster shown here will start showing up and replacing other monsters the deeper
 
 ## Loot
 
-Loot is based on the type of mob you kill. All the loot confirmed to drop from Saramaed Hollow so far can be found below. **Bolded** items mean they are exclusive to Saramaed Hollow and can only be found there as such.
+Loot is based on the type of mob you kill. Some of the more notable loot confirmed to drop from Saramaed Hollow so far can be found in the table below.
 
--   [Outfits](Outfits.md)
--   [Rosen's Hellflame](<Rosen's_Hellflame.md>)
--   [Enchantments](Enchantments.md), [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md)
--   [Gems](Treasures.md), [Deep Gems](Mantra_Modifiers.md)
--   [Pluripotent Alloy](Pluripotent_Alloy.md)
--   [Spires](Relics.md#rain-spire)
--   [Needles, Idols, Alloys](Relics.md#armorers-needles)
--   [Delver's Duster](<Delver's_Duster.md>)
--   [Crypt Blade](Crypt_Blade.md)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
--   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
--   [Ignition Gauntlets](Ignition_Gauntlets.md)
--   [**Simmerbloom Diadem**](Simmerbloom_Diadem.md)
--   **[Abyss Wanderer Plate](<Abyss_Wanderer's_Plate.md>) / Boots**
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><b>Weapons</b></th>
+  <th><b>Equipment</b></th>
+  <th><b>Misc.</b></th>
+  <th><b>Schematics</b></th>
+</tr>
+<tr>
+  <td>
+  <ul>
+    <li><a href="Rosen's_Hellflame.md">Rosen's Hellflame</a></li>
+    <li><a href="Crypt_Blade.md">Crypt Blade</a></li>
+    <li><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></li>
+    <li><a href="Ignition_Deepcrusher.md">Ignition Deepcrusher</a></li>
+  </ul></td>
+  <td>
+  <ul>
+    <li><a href="Delver's_Duster.md">Delver's Duster</a></li>
+    <li><a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a></li>
+    <li><a href="Ignition_Gauntlets.md">Ignition Gauntlets</a></li>
+    <li><a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
+    <li>Abyss Wanderer set
+  <ul>
+    <li><a href="Abyss_Wanderer's_Plate.md">Abyss Wanderer Plate</a></li>
+    <li><a href="Abyss_Wanderer's_Boots.md">Abyss Wanderer Boots</a></li>
+  </ul></li>
+  </ul></td>
+  <td>
+  <ul>
+    <li>Any <a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li>Any <a href="Enchant_Grease.md">Enchant Grease</a></li>
+    <li>Any <a href="Treasures.md">Deep Gems</a></li>
+    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
+    <li><a href="Void_Spire.md">Void Spire</a></li>
+    <li><a href="Rain_Spire.md">Rain Spire</a></li>
+  </ul></td>
+  <td>TBA (needs editing)</td>
+</tr>
+</tbody>
+</table>
 
 The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot from [The Depths](First_Layer.md).
 

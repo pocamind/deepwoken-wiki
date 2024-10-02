@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 114739
+revid: 115030
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -43,8 +43,6 @@ The critical has a cooldown of eight seconds.
 
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the [Scion of Ethiron](Scion_of_Ethiron.md) than the [Kyrsgarde](Kyrsgarde.md).
     -   It shares this property with the [Kyrswynter](Kyrswynter.md).
--   Kyrsieger is one of only two legendary weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
-    -   Fittingly, these both drop in Layer 2.
 -   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
