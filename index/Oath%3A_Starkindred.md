@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 114168
+revid: 115065
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -79,6 +79,9 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   **Sinister Halo** **\- Combat Mantra**
     -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
         -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+
+-   **Death From Above - Talent**
+    -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
 
 ## Trivia
 

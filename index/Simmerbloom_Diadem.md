@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 114274
+revid: 115069
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Ornaments]
 
 ## Description
 
-The **Simmerbloom Diadem** is an [Equipment](Equipment.md) item under the "Head" category. It has an innate 5 Health. It has the innate Talent Simmerbloom, which grants M1's the ability to proc burn (or eruptions if using Eruption Path) when using [Pleeksty's Inferno](<Pleeksty's_Inferno.md>).
+The **Simmerbloom Diadem** is an [Equipment](Equipment.md) item under the "Head" category. It has an innate 5 Health and the talent Simmerbloom, which grants M1's the ability to proc burn (or eruptions if using Eruption Path) when using [Pleeksty's Inferno](<Pleeksty's_Inferno.md>).
 
 ## Trivia
 

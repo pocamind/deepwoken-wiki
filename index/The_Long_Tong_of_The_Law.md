@@ -1,9 +1,9 @@
 ---
 title: The Long Tong of The Law
-revid: 114949
+revid: 115067
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Unique Critical, Weapons with Unique Criticals]
+categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical, Weapons with Unique Criticals]
 ---
 
 # The Long Tong of The Law
@@ -25,6 +25,8 @@ categories: [Weapons, Greatswords, Unique Critical, Weapons with Unique Critical
 | pass down | Yes |
 | obtainment | Chef Odiolavoro |
 | description | "Where's the crabbo SAUUUCE?" |
+
+File:Fork in use.png
 
 ## Description
 

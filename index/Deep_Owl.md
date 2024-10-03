@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 115046
+revid: 115068
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -150,7 +150,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 
 If looking for owls, it is recommended to join highly populated servers because this increases their spawn rate.
 
-Interacting with an owl with the Mute regalia will make it say "The creature tilts its head with curiosity"
+Interacting with an owl with the Mute regalia will make it say "The creature tilts its head curiously"
 
 ## Gallery
 

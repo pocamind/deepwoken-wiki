@@ -1,6 +1,6 @@
 ---
 title: Browncap
-revid: 92196
+revid: 115059
 source: https://deepwoken.fandom.com/wiki/Browncap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients]
@@ -12,7 +12,7 @@ Template:Food Template V1
 
 ## Description
 
-A brown mushroom with a white stalk. Commonly found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Minityrsa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md), in groups of 3.
+A brown mushroom with a white stalk. Commonly found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Minityrsa](Minityrsa.md), [Miner's Landing](<Miner's_Landing.md>), and [Songseeker Wilds](Songseeker_Wilds.md), in groups of 3.
 
 ## Recipes used in
 
