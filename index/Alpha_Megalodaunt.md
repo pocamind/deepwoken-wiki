@@ -1,12 +1,14 @@
 ---
 title: Alpha Megalodaunt
-revid: 109000
+revid: 115106
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Alpha Megalodaunt
+
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._
 
 Template:Creature Infobox V3
 
@@ -88,4 +90,4 @@ Tacet Drop Kick
 
 | Name | Description |
 | --- | --- |
-| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |

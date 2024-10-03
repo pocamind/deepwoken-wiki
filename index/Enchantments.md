@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 115045
+revid: 115127
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -10,19 +10,19 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 **Enchantments** are powerful upgrades for your [Weapons](Weapons.md) & [Equipment](Equipment.md).
 
-## Acquirement Methods
+File:I-know-where-the-tooth-fairy-lives-Toothlandia-AI-Art-Concept-by-Meg-Ball-Sprinkle-of-AI-6-1024x1024.jpg
+
+## **Enchantments can be obtained if you jump into the void at <<20% Hp**
 
 Enchantments have a set chance to be applied to a weapon during the following scenarios.
 
 -   Chiefly, any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
--   Talking to [Laplace](Laplace.md) and trading three enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
+-   new randor 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   [Laplace](Laplace.md) lets you turn in 5 [Knowledge](Knowledge.md) for a random Enchant Grease.
--   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
--   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
+-   Talking to [Klaris Llfiend, Mother of L](Klaris_Llfiend,_Mother_of_Lights.md)
+-   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment ctively.
     -   The [Deepshore Fossil](Deepshore_Fossil.md) is a good way to get a desired Enchantment Stone.
-    -   Additionally, the Dilluvian Mechanism allows you to get heaps of enchant stones as well as enchanted gear and weapons.
-
-You cannot 'stack' enchantments. If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
+    -   Additionally, the Dilluvian Mechanism allowswith Multiplicity equipped, you can't equip the Multiplicity helmet.
 
 ## Mechanics
 
@@ -30,18 +30,12 @@ Enchanted weapons/equipment have special mechanics compared to their regular cou
 
 Enchanted items cannot be dropped on death.
 
--   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
--   Enchanted items appear as light purple in your inventory.
--   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
--   NPCs that wield enchantment against players use their PVP effects if the enchantment has one.
--   Weapon enchantments are either passively active or activate based on certain conditions, which can either be, depending on the enchantment:
-    -   Hit count
-    -   Cooldown, in which case, the first hit after the cooldown will trigger the effect
+-   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank o
+    -   Cooldown, he cooldown will trigger the effect
     -   Critical
     -   Flourish
     -   Uppercut
--   Equipment enchantments have a % chance of triggering their effect when taking damage (exception of Drowned)
+-   eir effect when taking damage (exception of Drowned)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 112683
+revid: 115107
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Crimson Megalodaunt
 
-Template:Creature Infobox V3
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._ Template:Creature Infobox V3
 
 ## Description
 
@@ -135,5 +135,5 @@ File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 
 | Name | Description |
 | --- | --- |
-| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 | Incineration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |

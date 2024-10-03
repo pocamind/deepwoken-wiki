@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 107253
+revid: 115116
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -59,21 +59,21 @@ Attunement-less
 
 Attunement-less 
 
-[Flamecharm](Flamecharm.md)
+[freakfreakfreakfreakfreakfreakfreakfreakfreak](Freakfreakfreakfreakfreakfreakfreakfreakfreak.md)
 
-[Flamecharm](Flamecharm.md) 
+[freakfreakfreakfreakfreakfreakfreakfreakfreak](Freakfreakfreakfreakfreakfreakfreakfreakfreak.md)freak
 
-[Frostdraw](Frostdraw.md)
+[freakdraw](Freakdraw.md)
 
-[Frostdraw](Frostdraw.md) 
+[freakdraw](Freakdraw.md) 
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md) 
+Thundercall 
 
-[Galebreathe](Galebreathe.md)
+[freakbreathe](Freakbreathe.md)
 
-[Galebreathe](Galebreathe.md) 
+[freakbreathe](Freakbreathe.md) 
 
   
 
@@ -81,13 +81,13 @@ Attunement-less 
 
 Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
 
-[Shadowcast](Shadowcast.md)
+[freakcast](Freakcast.md)
 
-Shadowcast 
+freakcast 
 
-Ironsing
+freaksing
 
-Ironsing 
+freaksing 
 
   
 

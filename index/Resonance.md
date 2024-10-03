@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 114961
+revid: 115122
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -8,28 +8,13 @@ categories: [Resonances, Mechanics]
 
 # Resonance
 
-**Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
-
-Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
-
-You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [these](The_Starswept_Valley.md) [few](Summer_Isle.md) [locat](Minityrsa.md)[ions](Voidsea.md) and will be protected by a [Star Knight](https://deepwoken.fandom.com/wiki/Star_Knight). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
-
-| 
-**NORMAL RESONANCES**
-
- |
+|  |
 | --- |
 
-| 
-**LEGENDARY RESONANCES**
-
- |
+|  |
 | --- |
 
-| 
-**UNOBTAINABLE RESONANCES**
-
- |
+|  |
 | --- |
 
 -   **Corrupted** Top-Pop - [Akira](Akira.md)
@@ -121,9 +106,9 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <td><b>Inspired Regalia</b></td>
 </tr>
 <tr>
-  <td><b>Sibex:</b> "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
+  <td></td>
   <td><b>Sibex:</b> "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."</td>
-  <td><b>Sibex:</b> "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
+  <td></td>
   <td><b>Sibex:</b> "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."</td>
 </tr>
 </tbody>

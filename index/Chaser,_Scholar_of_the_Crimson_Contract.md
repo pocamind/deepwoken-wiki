@@ -1,9 +1,9 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 114025
+revid: 115124
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
+categories: [Pages with broken file links, Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
 ---
 
 # Chaser, Scholar of the Crimson Contract
@@ -12,7 +12,7 @@ categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
 
 ― Chaser
 
-Template:EnemyInfobox1.0
+File:Chaser new rizz mode (3am challenge).png
 
 ## Description
 
