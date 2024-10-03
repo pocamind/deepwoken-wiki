@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 114828
+revid: 115045
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -498,7 +498,7 @@ Pairs well with run it back as it nullifies all currently incoming damage.
 
  | 
 
-None
+Equipment is covered in red-pink mist. (No demo yet)
 
  |
 

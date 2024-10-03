@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 114970
+revid: 115047
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -936,7 +936,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
     -   Prerequisite: 35 Flamecharm
 
 -   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing F before releasing your Fire Palm will release a wider but shorter flame.
-    -   Prerequisite: Fire Palm (Flamecharm Mantra)
+    -   Prerequisite: Fire Palm (Flamecharm Mantra) (this talent is now innate to fire palm)
 
 ### Flashfreeze
 
@@ -2761,49 +2761,52 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 ### [Oath](Oaths.md)
 
--   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+-   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +20% Oath Resistance, +10 Health)
-    -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
+-   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.
+    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a Sky Statue.
 
--   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
+-   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
 
--   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)
+-   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot)
+    -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
+
+-   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
+    -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
+
+-   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot)
     -   Prerequisites: Have 30 Kyrsan Medalions and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 
--   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
+-   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
+    -   Prerequisites: [Power](Power.md) 12, Change your hair 12 times at any [Barber](Barber.md). (Does not have to be a unique haircut)
 
--   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+-   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
+    -   Prerequisites: 50 Agility and beat [Alirian](Alirian.md) in race.
+
+-   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility)
-    -   Prerequisites: 50 Agility and beat [Alirian](Alirian.md) in race.
+-   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Resistance)
+    -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
+
+-   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
+    -   Prerequisites: 75 Intelligence, complete Ciea's quest once.
+
+-   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements. (+2 Posture, +10 Health)
+    -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 in any Weapon stat, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
--   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +2 Posture)
-    -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 Weapon, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
-
--   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
-    -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
-
--   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.
-    -   Prerequisites: 75 Intelligence, complete Ciea's quest once.
-
--   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free.
-    -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
-
--   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blade as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilties ahead of you into just one. The blade keeps you as much as you keep it.
-    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a Sky Statue.
-
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
-    -   Prerequisites:
+-   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slot)
+    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - TBD
+    -   Prerequisites:
+
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
     -   Prerequisites:
 
 ### Miscellaneous
