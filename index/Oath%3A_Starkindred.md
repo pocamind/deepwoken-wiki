@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 115065
+revid: 115131
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -101,3 +101,4 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   The color of the Hivekin wings do not change based on its variant, Instead you will have to dye your hair.
 -   Typing "I will never be a memory." give you one wing instead of two, this is an easter egg referring to [Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth).
     -   This does not work with the Hivekin races
+-   The talent "Death from Above" appears to be a reference to the skill [Sakura Dance](https://sekiroshadowsdietwice.wiki.fextralife.com/Sakura+Dance) from _Sekiro: Shadows Die Twice_.

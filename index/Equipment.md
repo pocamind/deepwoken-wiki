@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 114545
+revid: 115135
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -89,10 +89,10 @@ However, these pips can be rerolled by the use of [Armorer's Needle](<Armorer's_
   <td>1 3</td>
   <td>1 3</td>
   <td>1 3</td>
-  <td>1 3</td>
+  <td>1 2</td>
   <td>1</td>
   <td>1</td>
-  <td>1 3</td>
+  <td>1 2</td>
 </tr>
 <tr>
   <td>%Physical Armor (PHY Armor)</td>

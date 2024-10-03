@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115128
+revid: 115130
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1173,6 +1173,8 @@ _**"I seek the qualities of Hammer Rage."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
+_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1, you apply 100% prevention of your enemy's healing for 8 seconds.
         -   Anti-heal percentage scales with the total investment of Willpower + Intelligence, up to 105. Relevant for [Shrine of Order](Deep_Shrines.md).
@@ -1181,13 +1183,13 @@ _**"I seek the qualities of Hammer Rage."**_
         -   Passive health regeneration and campfire regeneration are fully blocked even if the full requirements are not met.
     -   While only M1s are specified, it's also applied on criticals.
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
-    -   Prerequisites: 10 Willpower, 10 Intelligence
+    -   Prerequisites: 65 Willpower, 40 Intelligence
 
--   -   Gives a burst of insanity to yourself, which achieves the following:
+-   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
+    -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from Talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-
-**If you have less than 100 willpower and 20 charisma you will instantly die.**
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 
@@ -1198,12 +1200,12 @@ _**"I seek the qualities of Hammer Rage."**_
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
-    -   Prerequisites: 75 Fortitude, 75 Willpower, Perseverance
+    -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
     -   Spotter (for your opponent's allies) / Rhythm no longer shows how much health your character has.
-    -   Prerequisites: 100 Fortitude, 100 Willpower
+    -   Prerequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
 
@@ -1257,12 +1259,12 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
     -   Prerequisite: 40 Flamecharm
 
--   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 10% less while on fire. If you hit someone while on fire, apply fire damage. You take 10% less damage from self-inflicted flames. (-8 Sanity)
+-   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
-    -   If burn was procced by the Flame Within Talent, the healing is reduced to 2%.
+    -   If burn was procced by the Flame Within Talent, the healing is reduced to 25%.
     -   Prerequisites: All Immolator Talents
 
 ### Inferno

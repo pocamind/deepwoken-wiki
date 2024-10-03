@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 114852
+revid: 115136
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -83,3 +83,5 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 -   Currently, this is one of two Oaths where you cannot skip progression with knowledge. (The other being [Chainwarden](Oath%253A_Chainwarden.md).)
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 -   The slashing done by certain moves/passives may be a reference to Ryomen Sukuna's Cleave and Dismantle from Jujutsu Kaizen.
+
+-   The animation for Reveal closely resembles hollow knight's 3rd phase boss fight self stab move, possibly being a tiny reference.
