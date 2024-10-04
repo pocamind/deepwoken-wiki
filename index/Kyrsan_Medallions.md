@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 111907
+revid: 115275
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Layer 2, Floor 2]
@@ -17,7 +17,7 @@ notices:
 
 The medallions in hand
 
-**Kyrsan Medallions** are an end-game currency that can be obtained in [New Kyrsa](Second_Layer/New_Kyrsa.md) inside [Second Layer](Second_Layer.md). They can be exchanged at [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) for [Enchant Stones](Enchant_Stone.md), armor enchantment or [Knowledge](Knowledge.md). They are also required for obtaining and progressing the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath.
+**Kyrsan Medallions** are an end-game currency that can be obtained in [New Kyrsa](Second_Layer/New_Kyrsa.md) inside [Second Layer](Second_Layer/New_Kyrsa.md). They can be exchanged at [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) for [Enchant Stones](Enchant_Stone.md), armor enchantment or [Knowledge](Knowledge.md). They are also required for obtaining and progressing the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath.
 
 ## Obtainment
 

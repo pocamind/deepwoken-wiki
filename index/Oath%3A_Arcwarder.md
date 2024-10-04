@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 114724
+revid: 115285
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -23,7 +23,7 @@ categories: [Oaths, The Ignition Union]
 
 ## Obtainment
 
--   Go to Layer 2 and Complete Alpha's quest.
+-   Go to [Layer 2](Second_Layer/The_Ethironal_Shrine.md) and Complete Alpha's quest.
     
     1.  Activate the Generator.
     2.  Talk to [Alpha](Alpha.md).

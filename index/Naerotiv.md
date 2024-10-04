@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 113295
+revid: 115302
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2]
@@ -19,7 +19,7 @@ categories: [NPCs, Floor 2, Layer 2]
 
 ## Description
 
-Naerotiv is a [Kyrsan](Kyrsgarde.md) located on the right of the entrance to floor 2 of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr](Frosviernr_Joraelnaero.md) further into the city, who made and potentially gives the player the [Kyrswynter](Kyrswynter.md). He is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
+Naerotiv is a [Kyrsan](Kyrsgarde.md) located on the right of the entrance to [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr](Frosviernr_Joraelnaero.md) further into the city, who made and potentially gives the player the [Kyrswynter](Kyrswynter.md). He is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
 
 Naerotiv tells you how the [City](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived. Where they built a shrine over [Ethiron's scion](Scion_of_Ethiron.md) to ensure he remains asleep, which eventually led to the [City](Second_Layer/New_Kyrsa.md) being developed.
 

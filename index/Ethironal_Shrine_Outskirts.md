@@ -1,6 +1,6 @@
 ---
 title: Ethironal Shrine Outskirts
-revid: 108051
+revid: 115278
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Outskirts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, The Depths]
@@ -16,7 +16,7 @@ You awake to a land covered in frost, the wind piercing your ears like the cries
 
 ## Contents
 
-Template:AreainfoboxThe Ethironal Shrine Outskirts is a landmark in [The Second Layer of The Depths](Second_Layer.md).
+Template:AreainfoboxThe Ethironal Shrine Outskirts is a landmark in [The Second Layer of The Depths](Second_Layer/The_Ethironal_Shrine.md).
 
 This is where every person wakes up when he gets here through [Castle Light](Castle_Light.md) or the void in [The First Layer](First_Layer.md) (must be power 3 to enter through void). It's a cold place, full of Eternal Gale parasites.
 

@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 108438
+revid: 115274
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -88,7 +88,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md) in the Eastern Luminant, there wi
 
 **Union Hook:** You can now make use of the Ignition Union hooks to ascend or descend.
 
-Union Hook is acquired by talking to [Alpha](Alpha.md) in [The Frontier Furnace](The_Frontier_Furnace.md) after you power on the generator by killing the Bone Keeper in [Second Layer](Second_Layer.md). This allows you to use the metal rods with a hook at the bottom for transportation. Union Hooks can be found primarily in Layer 2 Floor 1, but also on the surface. Skipping the generator or wall clipping in will not allow you to get the Talent until the generator is powered.
+Union Hook is acquired by talking to [Alpha](Alpha.md) in [The Frontier Furnace](The_Frontier_Furnace.md) after you power on the generator by killing the Bone Keeper in [Second Layer](Second_Layer/The_Ethironal_Shrine.md). This allows you to use the metal rods with a hook at the bottom for transportation. Union Hooks can be found primarily in Layer 2 Floor 1, but also on the surface. Skipping the generator or wall clipping in will not allow you to get the Talent until the generator is powered.
 
 ### Ethiron's Gaze
 

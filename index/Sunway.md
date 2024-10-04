@@ -1,6 +1,6 @@
 ---
 title: Sunway
-revid: 112884
+revid: 115287
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, The Ignition Union]
@@ -15,7 +15,7 @@ categories: [NPCs, Layer 2, Floor 1, The Ignition Union]
 
 ## Description
 
-Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](The_Ignition_Union.md) in the [Second Layer](Second_Layer.md).
+Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](The_Ignition_Union.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md).
 
 Sunway describes that the snow is made of parasites, organic life. He explains that if enough parasites were to be stuck on a host's body, they burst out and instantly kill the host. After the host's death, the parasites take over the body giving it additional limbs and deforms the face. A [Carbuncle](Carbuncle.md) is created. It is also _**implied**_ that the [Diver Husk](Diver_Husk.md) is a form of [Carbuncle](Carbuncle.md) that has not fully transformed into it's quadrupedal form.
 

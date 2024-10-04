@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 101498
+revid: 115291
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Talents, Layer 2, Floor 1]
@@ -15,7 +15,7 @@ categories: [NPCs, Quests, Talents, Layer 2, Floor 1]
 
 ## Description
 
-Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer.md).
+Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md).
 
 Talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](https://deepwoken.fandom.com/wiki/Talents#Heretic) that reduces the sanity of the user by a flat amount.
 

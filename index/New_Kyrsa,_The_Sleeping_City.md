@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 113144
+revid: 115282
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -17,11 +17,11 @@ Far below the Gale, a city of gleaming lights was rekindled by the flames of rel
 File:Final.png
 
   
-New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located in Second Floor of the [Eternal Gale](Second_Layer.md).
+New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located in the [Second Floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md).
 
 ## Overview
 
-_Escape Guide: [New Kyrsa (F2)](Second_Layer.md#new-kyrsa-f2)_
+_Escape Guide: [New Kyrsa](Second_Layer/New_Kyrsa.md)_
 
 New Kyrsa is a beautiful and huge place with many buildings and "alien-like" technology, such as trains or artillery. The architecture is futuristic, with gold and white designs and streamlined structures. You can meet a lot of Kyrsgardes here and only two, Naerotiv and his hidden brother, are not hostile. Many buildings are extremely tall, and streets are patrolled by large, bulky Kyrsgardes. There is an underground sewage system, along with an underground subway in New Kyrsa.
 

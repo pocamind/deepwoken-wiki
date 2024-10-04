@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 114788
+revid: 115301
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals]
@@ -79,8 +79,6 @@ While one handed it uses the default [Katana](Katana.md) crit, but gains a uniqu
 **Gluttony:**
 
 **Wild:**
-
-**Providence's Thorns:**
 
 ## Trivia
 

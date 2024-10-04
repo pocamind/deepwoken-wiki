@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 114796
+revid: 115293
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -55,7 +55,7 @@ Azure and Twisted Puppets variant of the critical does not change visual colors.
 
 The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
-1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer.md) without a Light Hook.
+1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) without a Light Hook.
 2.  Fulfill one of the following criteria. Keep in mind you only need **one** of these three criterias to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.
     -   Wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
     -   Having the [Pleeksty's Will](Talent_Quests.md) Talent.

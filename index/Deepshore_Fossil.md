@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 111116
+revid: 115276
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -18,7 +18,7 @@ categories: [Items, Floor 1, Layer 2]
 
 ## Description
 
-The Deepshore Fossil is an item that is obtained from Layer 2. It is not droppable on death or from the inventory. It is a biomechanical organism used to create an [Enchant Stone](Enchant_Stone.md) of your choice (except [Astral](Enchantments.md)). It can only be used once.
+The Deepshore Fossil is an item that is obtained from [Layer 2](Second_Layer.md). It is not droppable on death or from the inventory. It is a biomechanical organism used to create an [Enchant Stone](Enchant_Stone.md) of your choice (except [Astral](Enchantments.md)). It can only be used once.
 
 ## Obtainment
 
@@ -26,7 +26,7 @@ It is obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of
 
 You will be able to tell her this once you meet the following requirements:
 
--   Have obtained Diver Journal I, II and III from the corpses in the [Second Layer](Second_Layer.md):
+-   Have obtained Diver Journal I, II and III from the corpses in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md):
     -   The first in the left wall of the [Nest Corridor](Nest_Corridor.md)
     -   The second on a rock surrounded by Carbuncles somewhat near the Union Hook to Pilgrim's Respite
     -   The third on the body of a deceased Diver immediately off the bridge and to the left once entering the Ethironal Shrine Sanctuary

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 115222
+revid: 115255
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -23,7 +23,7 @@ Most equipment comes with innate stats that always appear, for example: **+1 Pos
 All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
 
-Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to torso, face, ears, and ring equipment with 2+ pips and head, arms, and legs equipment with 3+ pips.
+Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to torso, face, ears, and ring equipment with more than **two** pips, and head, arms, and legs equipment with more than **three** pips.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP)  
@@ -89,7 +89,7 @@ However, these pips can be rerolled by the use of [Armorer's Needle](<Armorer's_
   <td>1 3</td>
   <td>1 3</td>
   <td>1 3</td>
-  <td>1 2</td>
+  <td>1 3</td>
   <td>1</td>
   <td>1</td>
   <td>1 2</td>

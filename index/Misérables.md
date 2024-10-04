@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 115250
+revid: 115298
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -13,6 +13,8 @@ categories: [NPCs, Layer 2]
 ― Misérables
 
 Template:NPC name
+
+**Misérables** is an enigmatic entity located at the outskirts of [New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door. It holds a close resemblance and connection to [Deep Owls](Deep_Owl.md).
 
 ## Description
 
@@ -29,7 +31,7 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
 
 ## Wish Knowledge Calculator
 
-If you want to calculate the knowledge you'd need for a certain amount of wishes, use [this](https://www.desmos.com/calculator/cvnmti3qrw) Desmos calculator. Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
+If you want to calculate the knowledge you'd need for a certain amount of wishes, use this [Equation from Desmos Calculator](https://www.desmos.com/calculator/cvnmti3qrw). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 
@@ -45,7 +47,7 @@ If you want to calculate the knowledge you'd need for a certain amount of wishes
 2.  Frolic
 3.  Eat
 
-\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse. _(Choose Any)_
+_\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\*_ "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse. _(Choose Any)_
 
 1-50. Peace of mind, friend.
 

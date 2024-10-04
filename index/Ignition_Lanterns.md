@@ -1,6 +1,6 @@
 ---
 title: Ignition Lanterns
-revid: 115198
+revid: 115269
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
@@ -14,7 +14,7 @@ categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
 
 ## Description
 
-The **Ignition Lanterns** are lanterns commonly found around the [Second Layer](Second_Layer.md). They remove accumulated parasites that the player has incurred when interacted with. Upon first interaction, the player learns of the recipe to make the [Wormwarder Lantern](Wormwarder_Lantern.md).
+The **Ignition Lanterns** are lanterns commonly found around the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). They remove accumulated parasites that the player has incurred when interacted with. Upon first interaction, the player learns of the recipe to make the [Wormwarder Lantern](Wormwarder_Lantern.md).
 
 Not to be confused with the [Wormwarder Lantern](Wormwarder_Lantern.md).
 
