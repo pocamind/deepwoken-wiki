@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 107628
+revid: 115239
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -148,6 +148,10 @@ This spot is located just in front of the waterfall.
 **Golden:**
 
 **Miscellaneous:**
+
+golden squid
+
+golden squid
 
 ## Talents
 

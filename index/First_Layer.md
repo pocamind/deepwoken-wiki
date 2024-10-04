@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 114122
+revid: 115242
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -237,7 +237,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights.
 -   AVOID fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge. If you do happen to fight one near a pitfall/cliff, face your character towards the edge of the cliff. The Megalodaunt will always attack facing the characters front.
 -   AVOID the [Nautilodaunt](Nautilodaunt.md) if you're unexperienced with it. The Nautilodaunt will make loud noises when in it's idle spawn state. Once spotted, it is extremely difficult to escape. They're very tough but also highly intelligent in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log after your combat tag disappears.
--   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk.
+-   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts they spawn in the Depths).
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with graceful flame. Thresher scales does not work with the Diver lockers.

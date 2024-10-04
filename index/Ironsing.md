@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 114971
+revid: 115241
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -131,7 +131,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
  | Create a firing line of metal to light up your target. | 40 Ether | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
 
 -   Apply Metal Rods on hit.
--   You cannot use other Mantras during its duration however you can still **M1** while this is active.
+-   You cannot use other Mantras or M1 while this is active.
 -   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra fire a salvo from two cannons.
 

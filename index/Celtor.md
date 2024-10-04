@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 115201
+revid: 115227
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -33,7 +33,6 @@ Celtors are a common race with a pale-ish green skin, grey hair and a racoon-lik
     <li>Owned ships have <b>+10% HP</b>.</li>
     <li>Ships helmed by Celtors turn <b>20%</b> faster.</li>
     <li><b>20%</b> discount at the shipwright.</li>
-    <li>Repairs your ships while despawned (needs further testing)</li>
   </ul></li>
   </ul></td>
 </tr>

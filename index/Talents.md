@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115200
+revid: 115243
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -630,7 +630,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating 50% from the damage of the next attack. (+3 Elemental Intensity)
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
-    -   If hit during Cryostatis you will inflict frost damage to the opponent.
+    -   If hit during Cryostasis you will inflict frost damage to the opponent.
+    -   ~33 second cooldown.
     -   Prerequisites: Fragile Freeze, 20 Fortitude.
 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
@@ -1009,6 +1010,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
+    -   Cooldown of 90 seconds.
     -   Prerequisite: 65 Frostdraw
 
 ### Frozen Warrior
@@ -1240,7 +1242,7 @@ _**"I seek the qualities of Hammer Rage."**_
     -   Prerequisites: Ice Daggers, 60 Frostdraw.
     -   Instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage
 
--   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
+-   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
     -   Contrary to popular belief, you can steal healing with Saint Jay (only green healing, though). However, the second passive of Saint Jay is bugged.
     -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support Talent etc.).
     -   If using Glass Path: Crystallization then every crystal applied will proc Saint Jay for 2 seconds. (Doesn't stack)
