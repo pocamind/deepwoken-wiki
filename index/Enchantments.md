@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 115139
+revid: 115244
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -697,7 +697,6 @@ Drowned Grease
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 -   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)
 -   Blazing can NOT be used to ignite campfires that are unlit by m1's.
--   Due to larger loot pools on 2x chest weekends, enchantments can be obtained easier.
 
 ## References
 

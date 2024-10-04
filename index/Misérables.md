@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 114981
+revid: 115250
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -14,8 +14,6 @@ categories: [NPCs, Layer 2]
 
 Template:NPC name
 
-**Misérables** is an enigmatic entity located at the outskirts of [New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door. It holds a close resemblance and connection to [Deep Owls](Deep_Owl.md).
-
 ## Description
 
 Upon interaction with the player, Misérables has the ability to grant wishes to the player, similarly to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) inside [Scyphozia](First_Layer.md), indicated by two dialogue options:
@@ -28,6 +26,10 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
         -   If you already have a wish, you can hold multiple at the same time. The transaction costs 5 more Knowledge for each wish you already have; it will cost 30 Knowledge if you have 3, for example.
 
 **Players can choose any amount of wishes per expedition. This has been thoroughly tested; Misérables ONLY kills you if you lack the medallion funds for his power boost.** _(Tested since October 21st, 2023)_
+
+## Wish Knowledge Calculator
+
+If you want to calculate the knowledge you'd need for a certain amount of wishes, use [this](https://www.desmos.com/calculator/cvnmti3qrw) Desmos calculator. Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 
