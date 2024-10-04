@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 107658
+revid: 115158
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -20,7 +20,7 @@ categories: [Weapons, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etris Erisia |
+| obtainment | Etris WeaponryErisia |
 | description | A round, wooden shield often accompanied by spear or short blade. |
 
 ## Description

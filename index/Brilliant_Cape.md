@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 109636
+revid: 115161
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso, Capes]
 | selling price | 14 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | 1 Legendary Pip |
+| innate stats | 1 Legendary Pip3% Elemental Armor |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

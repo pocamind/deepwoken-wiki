@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 115135
+revid: 115222
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -934,6 +934,29 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+| 
+
+ | 
+
+[Chef's Toque](<Chef's_Toque.md>)
+
+ | 
+
+_+10 Health_  
+
++1 Legendary Pip
+
+_+Talent: Gourmand_
+
+_+Talent: Umami_
+
+ | 
+
+Found from:
+
+-   [Chef Odiolavoro](Chef_Odiolavoro.md)
 
  | N/A |
 | File:KnightHelm.png | 
@@ -5259,6 +5282,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 |  | 

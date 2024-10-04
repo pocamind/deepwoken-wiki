@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 103988
+revid: 115160
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Weapon Shop at Etris (100 notes), or at Erisia (Quite rare droprate). |
+| obtainment | Etris Weaponry (100 notes)Erisia |
 | description | "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy." |
 
 | Alloyed Zweihander | |

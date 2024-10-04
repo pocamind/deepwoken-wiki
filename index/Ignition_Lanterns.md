@@ -1,18 +1,16 @@
 ---
 title: Ignition Lanterns
-revid: 114888
+revid: 115198
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Layer 2, The Ignition Union]
+categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
 ---
 
 # Ignition Lanterns
 
 | Ignition Lanterns | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
-| pass down | No |
+| usage | Clear your parasites. |
 
 ## Description
 
@@ -26,11 +24,11 @@ There is a different version of this lantern with white and blue coloring that i
 
 ## Locations
 
-They are scattered around the Second Layer.
+They are scattered around the first floor of the Second Layer, with most of them being around places where you'd want to go to.
 
-1.  in the radio tower
-2.  in the frontier furnace
-3.  near the kyrsan camp
+1.  The first location is in the [Pilgrim's Respite](<Pilgrim's_Respite.md>), more commonly referred to as the Radio Tower. There are a total of 9 Lanterns in this location.
+2.  The second location is in [The Frontier Furnace](The_Frontier_Furnace.md), right next to [Sunway](Sunway.md). It sits in the center of the room, obvious to anyone who enters.
+3.  The third location is in the [Firfire Caverns](Firfire_Caverns.md), near the [Kyrsan Camp](Firfire.md). At the door that you need to press a blue button to open, you can find the Lantern on its left side when you exit.
 
 for the blue ones
 

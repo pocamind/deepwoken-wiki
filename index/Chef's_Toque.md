@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 114449
+revid: 115224
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,3 +31,4 @@ The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category.
 
 -   This item was added during the "1B Visit Event".
 -   Worn by [Chef Odiolovaro.](Chef_Odiolavoro.md)
+-   Currently bugged and is unable to be Dyed as well as not getting scaled down when dropped.

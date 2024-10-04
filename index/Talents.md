@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115130
+revid: 115200
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -152,7 +152,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 > _**"I dance with the winds."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne.
     -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
@@ -266,7 +266,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 > _**"I am a simple fisherman."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
     -   Obtained after fishing 50 times successfully.
@@ -397,7 +397,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 > _**"I seek the qualities of Blindseer."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _All-Seeing Eye \[Unlockable Talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
     -   Prerequisites: Save 4 Pathfinders from the depths without the help of other oath users.
@@ -560,7 +560,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am a friend to others."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged.
     -   While the effect is active, victims can hold block to reduce the ether steal by half.
@@ -709,7 +709,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Deepwoken."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
     -   Increase your ether regen.
@@ -781,7 +781,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Pursuer."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Going Nowhere_ \[Rare Talent\] - When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)
     -   Prerequisites: 25 Strength, 25 Agility
@@ -949,7 +949,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I'm built different."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Vesperians will only gain 8% armor from this Talent, totalling to 13% with their own natural armor.
@@ -1015,11 +1015,12 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I feel like a warrior encased in ice."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity)
     -   Works with Crystallization.
     -   Lasts the first 1.5 seconds after chill/freeze procs.
+    -   Only procs off mantras
     -   Prerequisite: 60 Frostdraw.
 
 ### Gale Duelist
@@ -1034,7 +1035,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Gale Kata."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
     -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
@@ -1044,7 +1045,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Galebreathe Master."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Adept Galebreather \[Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras.
     -   Prerequisite: 20 Galebreathe
@@ -1079,8 +1080,6 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"My brains are my strength."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
-
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
@@ -1111,7 +1110,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Great Wall."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Fortitude Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
     -   Prerequisite: 75 Fortitude
@@ -1173,7 +1172,7 @@ _**"I seek the qualities of Hammer Rage."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1, you apply 100% prevention of your enemy's healing for 8 seconds.
@@ -1211,7 +1210,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Hunter."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Peripheral Vision_ \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
     -   Prerequisites: 40 Willpower, Glare
@@ -1380,7 +1379,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Iron Will."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Willpower Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your willpower to its fullest.
     -   Prerequisite: 75 Willpower
@@ -1389,7 +1388,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Javelin Lord."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Grand Skewer_ \[Thundercall Exclusive, Rare Talent\] - Your Grand Javelin now carries opponents through the air.
     -   Prerequisites: Grand Javelin, 60 Thundercall
@@ -1398,7 +1397,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"Journey before destination."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Decisive Winds \[Unlockable Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown._
 
@@ -1495,7 +1494,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Leaf in the Wind."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Observation_ \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
@@ -1606,7 +1605,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**" I am often in my own world."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
@@ -1638,7 +1637,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Merchant."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Art of the Deal \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your rapport with merchants gives you lower prices!
     -   Reduces an item's price by about 12%.
@@ -1671,7 +1670,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I want to WIN."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
     -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
@@ -1712,7 +1711,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Mr Charm."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 
@@ -1811,7 +1810,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I see what I desire to."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
     -   Prerequisite: 75 Strength
@@ -1855,7 +1854,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Prospector."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
 -   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
@@ -1940,7 +1939,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Rending Needle."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Prerequisite: Rending Needle: Conductor
@@ -1997,7 +1996,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"With the blade, I am chosen."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Light Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest._
     -   Prerequisite: 75 Light Weapon
@@ -2012,7 +2011,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Scholar of the Cloud."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Unintuitive to most the community, using Windwaker is meant to grant a further speed boost only inside a Wind Gate.
@@ -2070,7 +2069,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I seek the qualities of Shadowcast Master."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Shadowcast Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)_
     -   Prerequisite: 75 Shadowcast
@@ -2181,7 +2180,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I convert blood to iron."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
 
@@ -2189,7 +2188,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I destroy my enemies."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
     -   Prerequisites: Speak to Yamaketzal, Power 5
@@ -2645,7 +2644,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I speak to the Owls."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
 
@@ -2685,7 +2684,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I enjoy fighting."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   _Chronostasis_ \[Rare Talent\] - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisites: [Power](Power.md) 13, Engage
@@ -2754,7 +2753,7 @@ _**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
 
 > _**"I move like water."**_
 
-_**IT IS NOT POSSIBLE TO GET THESE TALENTS FROM MYSTIC**_
+  
 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest.
     -   Prerequisite: 75 Agility
