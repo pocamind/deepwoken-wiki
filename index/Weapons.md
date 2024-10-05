@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 115363
+revid: 115378
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -14,14 +14,14 @@ _Tools constructed with the intent to harm others, polished to be efficient kill
 
   
   
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat reuires you to hit/parry with your weapon (parrying multi-hit moves Light or Heavy.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves Light or Heavy.
 
 When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll, for example).
 
-All weapons within the game have chances of being found with (or without) different enchantments or ualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the ualities of your weapon.
+All weapons within the game have chances of being found with (or without) different enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
--   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently euipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
--   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and euipment even if they are soul bounded).
+-   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
+-   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
 -   [Deepshore Fossil](Deepshore_Fossil.md), an item giving you an enchant stone of your choice.
 
@@ -84,7 +84,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 ## Key Terminology
 
--   **Reuirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) reuired to wield a weapon.
+-   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
 -   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
 -   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive Talents.
 -   **Chip Damage:** Weapon damage bypassing through block (50% limit **when using Obfuscation**).
@@ -95,10 +95,10 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
 -   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/102 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
--   **Bleed:** 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers an PVE scaling).
+-   **Bleed:** 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 60 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md).)
--   **Boss Weapon:** Weapons that can only be obtained by kill certain [Bosses](Bosses.md).
+-   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
@@ -2697,7 +2697,7 @@ Weapons/Weapon Skins that are exclusive for special people.
 
 This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers).
 
--   0.0075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
+-   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
 
 _[Damage calculator (Single, Dual and Tertiary Attribute Scaling \[Scaling rings included\])](https://www.desmos.com/calculator/mvoc0cifwe)_
 
@@ -2711,7 +2711,7 @@ The formula to calculate the damage of a weapon including bleed is
 
   
 
-The time it takes for your weapon to swing in seconds is approximately half the inverse of its swing speed (the higher the swing speed, the uicker the weapon swings). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, while a weapon with 1.0x swing speed would take close to 0.5 seconds to swing.
+The time it takes for your weapon to swing in seconds is approximately half the inverse of its swing speed (the higher the swing speed, the quicker the weapon swings). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, while a weapon with 1.0x swing speed would take close to 0.5 seconds to swing.
 
 Players can use this formula to figure out their attack speed.
 
@@ -2728,8 +2728,8 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 -   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: [Divine Greatsword](Crazy_Slots.md) (30)
-    -   Reuirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md) (100 HVY)
-    -   Dual Reuirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
+    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md) (100 HVY)
+    -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kystreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernarch](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Soulthorn](Soulthorn.md)/[Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
@@ -2739,7 +2739,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Highest DPS: [Divine Flintlock](Crazy_Slots.md) _(Likely not true)_
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
--   Aranea is the first item to have an unobtainable stat prereuisite.
+-   Aranea is the first item to have an unobtainable stat prerequisite.
 -   The Rifle weapons are the only type of weapon that have four basic m1s before a flourish.
 
 ## References

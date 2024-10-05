@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 114839
+revid: 115381
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -37,7 +37,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
 3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
-4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the **Shrine of Order**, **Shrine of Solitude** and **Shrine of Mastery** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
+4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the **Shrine of Order**, **Shrine of Solitude** and **Shrine of Mastery (stat allocation)** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?" (NOTE THAT THIS REQUIRES THE 4 DEEP SHRINE DEALS FIRST)
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind
