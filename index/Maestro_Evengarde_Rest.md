@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 114713
+revid: 115322
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -27,8 +27,7 @@ To start the fight with Maestro Evengarde Rest:
 1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Temple_of_the_Blade.md#a-lost-sibling-quest).
-3.  Have 80 in one Weapon Stat and be at Power 15+.
-4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+3.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
 
@@ -233,12 +232,13 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
  | 
 
--   [Purple Cloud](Purple_Cloud.md) (Guaranteed on the first kill with Medium)
--   [Pale Briar](Pale_Briar.md) (Guaranteed on first kill with Heavy)
--   [Cerulean Thread](Cerulean_Thread.md) (Guaranteed on first kill with Light)
+-   [Purple Cloud](Purple_Cloud.md) (Guaranteed on the first kill with 80 stats into Medium)
+-   [Pale Briar](Pale_Briar.md) (Guaranteed on first kill with 80 stats into Heavy)
+-   [Cerulean Thread](Cerulean_Thread.md) (Guaranteed on first kill with 80 stats into Light)
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Imperial Staff](Imperial_Staff.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Rosen's Hellflame](<Rosen's_Hellflame.md>)
 -   [Wyrmtooth](Wyrmtooth.md)
 -   [Iron Blunderbuss](Iron_Blunderbuss.md)
 -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)

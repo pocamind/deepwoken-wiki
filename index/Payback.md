@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 111166
+revid: 115341
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -37,11 +37,11 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 -   Posture reflected will be based on how much damage was taken, with low damage dealing low posture while high damage deals high posture.
 -   80% of damage will be completely absorbed when the Payback is charging.
 
-### **Variants**
-
 **Payback** has four different versions.
 
 #### _Versions_
+
+**Payback** has four different versions.
 
 -   **Version 1**, the _instant_ variant will instantly reflect any damage/status effects taken within ~2.5 seconds to the user's opponents.
 -   **Version 2,** the _sniper_ variant will multiply and reflect all damage taken within ~1.25x seconds and fire the damage through a thin beam forwards of the user that deals all damage instantly.

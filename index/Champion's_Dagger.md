@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 114019
+revid: 115315
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -15,7 +15,7 @@ categories: [Weapons, Daggers]
 | damage | 14.5 |
 | scaling | 8 |
 | range | 6 |
-| swing speed | 1.28x |
+| swing speed | 1.25x |
 | endlag | 0.05s |
 | chip damage | 10% |
 | stances | 1 Handed |

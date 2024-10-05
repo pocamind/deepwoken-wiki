@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 115239
+revid: 115311
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -33,7 +33,7 @@ Many varieties of fish can be obtained from fishing, as well as some loot. **Fis
 -   Tuna
 -   Swordfish
 -   [Squid](Squid.md)
--   Urchin
+-   [Urchin](Urchin.md)
 -   Pufferfish
 -   [Seaweed](Seaweed_Bundle.md)
 -   1 [Mudskipper](Mudskipper.md) (Will spawn a Mudskipper)
@@ -148,10 +148,6 @@ This spot is located just in front of the waterfall.
 **Golden:**
 
 **Miscellaneous:**
-
-golden squid
-
-golden squid
 
 ## Talents
 

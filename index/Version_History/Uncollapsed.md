@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 114992
+revid: 115329
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,74 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **October 4th, 2024**
+
+**Content & Systems**  
+• New Ironsing Mantra: Metal Turret ★★  
+• Added Metal Turret Multiplying Spark  
+• New Alloy: Alloyed Forge Greathammer  
+• New Unique Critical: Forge Greathammer  
+• Ignition Delvers can now take the Deepdrill at Chariot's Spire down to the Eternal Gale once they've escaped it using the drill previously. Doing so will skip the generator and regular entrance and have you start Layer 2 at the Frontier Furnace, but won't provide a Light Hook like Castle Light  
+• The Hollow Forge is now available to Ignition Delvers at Miner's Landing. This forge fueled by the searing magma of Saramaed is capable of refining 3 Pluripotent Alloys into 1 Smith's Alloy  
+• You can now bulk purchase all items in Klaris's shop  
+• You can now edit your hairstyles in character creation  
+• You can now talk to any Etrean Royal Guard to progress the Lord Regent storyline after Kennith finds a lead  
+• Lord Regent storyline is no longer locked out if you have insufficient Ministry reputation. Storyline lockouts have been reset  
+• You no longer need weapon stats to challenge the Maestro, but won't gain the guaranteed weapon reward unless you have a weapon stat unbounded or are a Silentheart  
+• The Loot All button no longer has a windup if no one else is nearby  
+  
+**Balancing & Tweaks**  
+• Hell Mode completion chests are now double the size  
+• You can now activate Hell Mode with a minimum of 4 Players (down from 5)  
+• Parry Stun duration has been reduced to prevent unpunishable feints. The range between the lowest and highest durations has also been reduced (0.11s to 0.51s -> 0.2s to 0.3s). As before, your parry stun duration is lower if your weapon is slower than your opponent's  
+• The length of shaky/weak block frames is now determined by your weapon's swing speed. Previously, daggers alone had an innate debuff to shaky block frame duration. Weapons with above 1x swing speed now have a reduction to shaky block frames proportional to their swing speed, capping out at a 20% reduction at 1.2x swing speed  
+• Casting Mantras, using crits, and M1'ing now fully cancel rolls early. This does not apply if you Gale Dash with an M1  
+• Roll cancelling now ends the roll animation much more quickly. Roll cancel animations aren't played if you cancel a roll with anything other than a feint  
+• Fixed Antiheal only reducing healing if applied to the healer, and if antiheal is applied to the target of the healing. i.e. Antiheal now affects your 'incoming' healing, not your 'outgoing' healing  
+• Greatly improved Dread Serpent's Tooth drop rate  
+• Increased Primadon Idol of Yun'Shul and Tiran Pendant drop rates  
+• Increased Etris Raid Smith's Alloy and Armorer's Needle drop rates  
+• Increased Hell Mode Moonseye Tome and Armorer's Needle drop rates  
+• Artifacts can now drop Smith's Alloys and Armorer's Needles rarely  
+• Pluripotent Alloy max quantity increased (3 -> 15)  
+• Pluripotent Alloys can now be sold for 150 Notes  
+• You can now sell Rain Spires and Void Spires for 100 Notes  
+• Being hit by Dustlunge's AoE now grants backstab immunity for 60s  
+• Rosen's Hellflame Critical cooldown now starts after the critical ends  
+• Rosen's Hellflame Critical cooldown increased from 4s > 6s  
+• Down Comes the Claw no longer applies on Rosen's Hellflame  
+• Death from Above hyperarmor only continues if first slash is landed  
+• Death from Above first slash is no longer an insta guardbreak (now deals 25 posture)  
+• Death from Above hitbox on slashes adjusted to be further infront of character  
+• Defiance now properly cuts burn damage in half if below 35% hp and no longer confusingly reduces its duration by 17%  
+• Termite now gives +3 HP  
+• Increased Smite CD (25s -> 40s)  
+• Reduced Duelist's Dance posture (2 -> 1)  
+• Champion's Dagger swing speed reduced (1.28x -> 1.25x)  
+• Fixed bug where Ironsing would bypass Absolute Radiance talent  
+• Fixed an interaction where blocking Kyrswynter standing crit would temporarily stun you  
+• Fixed Poser's Ring Shattered Katana crit movestack  
+• Ether Barrage no longer hits the caster  
+• Bolt Crusher critical damage reduced  
+• Grilled Cheese now requires a fire. Crazy  
+  
+**Bugfixes & Optimization**  
+• Taking items from loot menus (chests, bags) no longer scrolls you all the way back up to the top  
+• Fixed Scallop recipes  
+• Fixed Dimensional Travel not following  
+• Fixed being able to die after using a Drowned Favour  
+• Fixed being able to enter Diluvian Mechanism without having a drowned healthbar  
+• Taking a leap of faith after touching the Light Hook during the Floor 2 escape sequence no longer wipes you  
+• Fixed Table Flip not hitting at an angle  
+• Fixed dialogue slider markers having trailing zeroes  
+• Fixed dialogue sliders initialising at the wrong position  
+• Fixed excessive endlag after having your Dimensional Travel windup cancelled  
+• Fixed being able to roll Static Ace without having Lightning Stream  
+• Fixed Chainwarden sounds playing on loop in Erisia  
+• Fixed some anti-exploit issues with uppercuts  
+• Fixed Fulgurite Overload not visually growing additional crystals and not properly counting the double stacks  
+• Fixed Golem lasers not being parryable
 
 ## **September 27th, 2024**
 

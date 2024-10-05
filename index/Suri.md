@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 109034
+revid: 115304
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests, The Hive]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, NPCs, Quests, The Hive]
 
 # Suri
 
-Suri is an NPC belonging to the Hive faction, and can be found in the [Greathive Aratel](Greathive_Aratel.md).
+Suri is an NPC belonging to the Hive faction. And can be found in the [Greathive Aratel](Greathive_Aratel.md), near the entrance of the Heart Plaza.
 
 ### Flower Quest
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 114648
+revid: 115330
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -200,7 +200,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
-  <td>1.28x</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>26.6</td>
 </tr>
@@ -1108,7 +1108,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Imperial_Staff"><font>Imperial Staff</font></a></td>
   <td>40 MED; 40 STR</td>
-  <td>19</td>
+  <td>19.5</td>
   <td>10%</td>
   <td>N/A</td>
   <td>MED: 5; STR: 3.5</td>

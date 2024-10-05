@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115251
+revid: 115312
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2292,7 +2292,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisites: Herbivore, 10 Fortitude, vomit once
     -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
 
--   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
+-   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
     -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, and every ore.

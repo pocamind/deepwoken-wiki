@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 114964
+revid: 115310
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,8 +11,6 @@ categories: [Monsters]
 “ Grgrlglrgl grrgl. Grgrglrgl. ”
 
 ― Mudskippers during Mudwoken
-
-> _Also known as Shriekers, Zombies, Mudkips and Abominations_
 
 **Mudskipper:**
 

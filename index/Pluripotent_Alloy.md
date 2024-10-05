@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 112873
+revid: 115319
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,7 +10,7 @@ categories: [Items]
 
 | Pluripotent Alloy | |
 |---|---|
-| usage | Converts midgame weapons into stronger, endgame-level variants |
+| usage | Converts midgame weapons into stronger, endgame-level variants, Converting into Smith's Alloy |
 
 “ A liquid metal that can be applied to certain weapons to draw out inner strength. The discovery of the Pluripotent Alloys is said to have sparked the development of Ironsing during the Canticlysm. ”
 
@@ -40,7 +40,9 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 ## How to Use
 
-To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
+To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.  
+  
+If you have the [Ignition Delver origin](Origins.md), you are able to turn **3** of these into **1** [Smith's Alloy](<Smith's_Alloy.md>) using the Hollow Forge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Alloyable Weapons
 
@@ -77,3 +79,4 @@ To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip 
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.
 -   You do not lose the alloy when doing the Ironsing quest.
 -   You are not able to [bank](Item_Bank.md) alloys.
+-   Can be sold for 150 notes
