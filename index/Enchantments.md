@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 115356
+revid: 115404
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -404,7 +404,7 @@ Displacement
 
 On proc, grant a speed boost and hyperarmor.
 
-**DOESNT WORK IN PVE AT ALL**
+**IN PVE DISPLACEMENT PROCS BUT GRANTS NO HYPER OR SPEED BOOST**
 
  | 
 
@@ -455,7 +455,11 @@ Ferocity
 
  | 
 
-On proc, gain a speed boost and damage reduction based on how much tempo you have. (8% speed boost, 0% dmg reduction at 0% tempo, 40% speed boost, 15% dmg reduction at 100% tempo, each stack lasts 5 seconds)  
+On proc, gain the following depending on your tempo (from 0% to 100% tempo):
+
+  
+8-40% speed boost for 5 seconds  
+0-15% damage reduction for the hit that procced Ferocity.
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
@@ -473,7 +477,7 @@ Multiplicity
 
 On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of (X) seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
 
-**DOESNT WORK IN PVE AT ALL.**
+**DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
  | 
 

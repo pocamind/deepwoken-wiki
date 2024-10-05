@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 113003
+revid: 115383
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -44,6 +44,8 @@ Can be cancelled by damage in wind-up.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 -   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[1\]](#cite-note-1)
     -   At the same time the Nocturne was published, a sheath model was also made.
+
+-   If you wielded a singular weapon two-handed before equipping Nocturne, only one blade will appear, but the weapon will still be in a dual-wield stance. This is a visual bug and does not affect the performance of the weapon.
 
 ## References
 

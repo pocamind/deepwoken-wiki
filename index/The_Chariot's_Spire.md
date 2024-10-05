@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 114269
+revid: 115388
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1, Locations, The Ignition Union]
@@ -37,3 +37,5 @@ The second floor is comprised of one room, presumably where the Ignition Union p
 _The Deepdriller, docked_
 
 Taking the bridge from the First floor leads to the Ignition's Deepdriller, their tool for punching into the [Eternal Gale](Second_Layer.md). Within the Drill's docking bay are two Ignition Union Guards, a NPC named Renau that mentions [Epsi](Epsi.md) in the depths, and another guard named Deran closer to the Deepdriller that declines your request to ride it. This is the room the player will spawn in to upon escaping the Eternal Gale via Deepdriller.
+
+Ignition Delvers can take the Deepdrill down to the Eternal Gale once they've escaped it using the drill previously. Doing so will skip the generator and regular entrance and have you start Layer 2 at the Frontier Furnace, but won't provide a Light Hook like Castle Light

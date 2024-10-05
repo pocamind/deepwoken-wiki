@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 114744
+revid: 115402
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -123,9 +123,9 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
 </tr>
 <tr>
-  <td colspan="3">Why do you need competent people?</td>
-  <td colspan="3">Who are you?</td>
-  <td colspan="3">I'm ready.</td>
+  <td colspan="3">1. Why do you need competent people?</td>
+  <td colspan="3">2. Who are you?</td>
+  <td colspan="3">3. I'm ready.</td>
   <td colspan="3">(Others)</td>
 </tr>
 <tr>
@@ -220,9 +220,9 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="4">Talked to radio? Opened generator? Walked inside the base? Talked to the guy? Got union hook?</td>
 </tr>
 <tr>
-  <td colspan="4">Chaser betrayed you.</td>
-  <td colspan="4">Chaser was somehow alive again. It seems time behaves weirdly down there.</td>
-  <td colspan="4">The Ignition Union have set up a base down there.</td>
+  <td colspan="4">4. Chaser betrayed you.</td>
+  <td colspan="4">5. Chaser was somehow alive again. It seems time behaves weirdly down there.</td>
+  <td colspan="4">6. The Ignition Union have set up a base down there.</td>
 </tr>
 <tr>
   <td colspan="4">*She sighs.* I knew sending him down there was a mistake. But for him to turn on us like this…</td>
@@ -257,9 +257,9 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="6">Completed Deepshore Fossil quest?</td>
 </tr>
 <tr>
-  <td colspan="3">I met someone to be an 'Arch-Diver' down there. Any clue?</td>
-  <td colspan="3">Can you tell me about the Interstice of Skies?</td>
-  <td colspan="6">Here's all my findings within the Gale.</td>
+  <td colspan="3">8. I met someone to be an 'Arch-Diver' down there. Any clue?</td>
+  <td colspan="3">7. Can you tell me about the Interstice of Skies?</td>
+  <td colspan="6">9. Here's all my findings within the Gale.</td>
 </tr>
 <tr>
   <td colspan="3">An... Arch-Diver? Either you've come across a surviving diver with an inflated ego, or... <i>*She grimaces.*</i></td>
@@ -295,9 +295,9 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="6">Met Carrion? Saw Carrion? Talked to Carrion? Completed Carrion dialogue?</td>
 </tr>
 <tr>
-  <td colspan="3">Know anything about this? [Show Kyrsan Medallion]</td>
-  <td colspan="3">What do you have to offer?</td>
-  <td colspan="6">Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
+  <td colspan="3">11. Know anything about this? [Show Kyrsan Medallion]</td>
+  <td colspan="3">11. What do you have to offer?</td>
+  <td colspan="6">10. Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
 </tr>
 <tr>
   <td colspan="3">*Her eyes light up briefly* Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
@@ -370,7 +370,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Hmm... Check this list and tell me what you like. Prices should be listed with it.</td>
 </tr>
 <tr>
-  <td colspan="2">Knowledge [5 Medallions]</td>
+  <td colspan="2">Knowledge [1 Medallion]</td>
   <td colspan="2">Enchant Stone [5 Medallions]</td>
   <td colspan="2">Enchant Grease [5 Medallions]</td>
   <td colspan="2">Equipment Dye [1 Medallion]</td>
@@ -379,12 +379,20 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="2">Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
-  <td colspan="6">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
+  <td colspan="6">Interesting. How many would you like?</td>
   <td colspan="2">[See Dawnwalker]</td>
   <td colspan="2">I don't think you have enough on hand.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="2">Slider from 1 to your max medallions</td>
+  <td colspan="4">Slider from 1, to your max medallions divided by 5 (rounded down)</td>
+  <td colspan="2">Slider from 1 to 10</td>
+</tr>
+<tr>
+  <td colspan="8">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
+</tr>
+<tr>
+  <td colspan="8">End</td>
 </tr>
 </tbody>
 </table>

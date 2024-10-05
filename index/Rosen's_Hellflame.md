@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 114966
+revid: 115403
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -27,7 +27,7 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 ## Description
 
-**Rosen's Hellflame** is a legendary Rifle, boasting a design similar to a bulked-up [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with a gilded stock on the rifle and magazine made to hold fire. This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [The Ferryman](The_Ferryman.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Saramaed Hollow](Saramaed_Hollow.md) and [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
+**Rosen's Hellflame** is a legendary Rifle, boasting a design similar to a bulked-up [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with a gilded stock on the rifle and magazine made to hold fire. This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md),[Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Saramaed Hollow](Saramaed_Hollow.md) and [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 This weapon scales off Medium and Flamecharm.
 
@@ -44,3 +44,4 @@ The jumping critical causes your character to perform a side flip, slamming the 
 ## Trivia
 
 -   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullet_Casings.md).
+-   Before October 8th 2024's update, The critical cooldown started as soon as the button was pressed, Allowing for the grounded crit to essentially have no cooldown if you had the ether to spam it.

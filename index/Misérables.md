@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 115298
+revid: 115387
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -31,7 +31,7 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
 
 ## Wish Knowledge Calculator
 
-If you want to calculate the knowledge you'd need for a certain amount of wishes, use this [Equation from Desmos Calculator](https://www.desmos.com/calculator/cvnmti3qrw). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
+If you want to calculate the knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/cvnmti3qrw). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 
@@ -119,3 +119,4 @@ _**Loop:**_
 -   As a friendly reminder, Misérables won't kill you if you're in combat, if you select any of the \[End Dialogue\]'s, or lack the knowledge for Clarity. He exclusively kills you if you ask for Power without the necessary medallions.
 -   You can empower yourself with medallions as many times in a row as you wish despite having no effect.
 -   If you still have your Light Hook active, you can make your deal with Misérables and then light hook out. This method will still count your Echo task completed.
+-   You can use the medallions from your Inventory to Power up against Ethiron.
