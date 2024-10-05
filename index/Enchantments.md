@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 115244
+revid: 115356
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -374,6 +374,8 @@ Allure
 
 On proc, apply Charm on the enemy for 10s (5s against the talent "Disbelief"). All charm related Talent that the user have are applied.
 
+**DOESNT WORK ON MOBS, ONLY HUMANOIDS NPCS**
+
  | 
 
 Equipment releases some hearts, similar to the Charm effect.
@@ -401,6 +403,8 @@ Displacement
  | 
 
 On proc, grant a speed boost and hyperarmor.
+
+**DOESNT WORK IN PVE AT ALL**
 
  | 
 
@@ -437,6 +441,8 @@ Entanglement
 
 On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
 
+**DOESNT WORK ON MOBS, ONLY HUMANOIDS**
+
  | 
 
 Equipment is covered in small particles that cycle between green, cyan and yellow.
@@ -449,7 +455,9 @@ Ferocity
 
  | 
 
-On proc, gain a speed boost and damage reduction based on how much tempo you have.  
+On proc, gain a speed boost and damage reduction based on how much tempo you have. (8% speed boost, 0% dmg reduction at 0% tempo, 40% speed boost, 15% dmg reduction at 100% tempo, each stack lasts 5 seconds)  
+
+**DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
  | 
 
@@ -464,6 +472,8 @@ Multiplicity
  | 
 
 On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of (X) seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
+
+**DOESNT WORK IN PVE AT ALL.**
 
  | 
 

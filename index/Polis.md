@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 109400
+revid: 115353
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea]
@@ -218,3 +218,4 @@ Polis executes his opponent after knocking them:
 -   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead.
 -   Polis does use Jus Karita mantras, despite wielding a Greatsword.
 -   His name historically means "Greek city state."
+-   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines.md#shrine-of-order), with all of his [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.

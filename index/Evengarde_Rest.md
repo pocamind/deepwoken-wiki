@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 110855
+revid: 115352
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea]
@@ -36,17 +36,17 @@ Begin (After Duke Erisia, Ally Rep, ≥80 LHT/MED/HVY)
 
  | 
 
-Begin (After defeating him)
+Begin (After defeating, <80 LHT/MED/HVY)
 
  |
-| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? | \*_The Maestro smiles_\*. Ah, well if it isn't my friend, \[name\]. How's "Purple Cloud"/"Pale Briar"/"Cerulean Thread" treating you? |
+| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? | \*_The Maestro smiles_\*. Ah, well if it isn't my friend, \[name\]. / How's "Purple Cloud"/"Pale Briar"/"Cerulean Thread" treating you? |
 | 
 
 I feel as if we're unprepared against the Lord Regent.
 
  | 
 
-We've been well, thank you. Care for another round?
+We've been well, thank you. Care for another round? / Care for another round?
 
  |
 | _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ | 
