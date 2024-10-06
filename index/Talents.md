@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115413
+revid: 115432
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1288,7 +1288,7 @@ _**"I seek the qualities of Hammer Rage."**_
 
 > _**"I rely on my instincts."**_
 
--   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
+-   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   While not empty, receive 5% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects

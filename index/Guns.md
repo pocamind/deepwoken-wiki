@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 114530
+revid: 115433
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -36,7 +36,7 @@ Note that if your 1H gun is unloaded, pressing your crit button will just do a l
 
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the type you are using. The Dragoon, Flintlock and Dawnshot can hold 4 bullets, and the Revolver and Silversix can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the type you are using. The Dragoon, Flintlock and Dawnshot can hold 4 bullets, and the Repeater and Silversix can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
 
 ### Talents
 

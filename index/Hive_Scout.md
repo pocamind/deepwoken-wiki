@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 107068
+revid: 115436
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -30,7 +30,7 @@ A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md) or a [R
 | 
 Assault
 
- | \[[Iron Birch](Iron_Birch.md) & [Katana](Katana.md)\] Firmly swings blade at opponent before finishing up the combo by kicking them.
+ | \[[Iron Birch](Iron_Birch.md) & [Razor Cutlass](Katana.md)\] Firmly swings blade at opponent before finishing up the combo by kicking them.
 
 \[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent before finishing up the combo by kicking them.
 
@@ -41,7 +41,7 @@ Critical
 
  | \[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.
 
-\[[Katana](Katana.md)\] Sheathes blade before dashing forward and unleashing a quick slash.
+\[[Razor Cutlass](Razor_Cutlass.md)\] Reels weapon back before delivering a strong stab.
 
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 

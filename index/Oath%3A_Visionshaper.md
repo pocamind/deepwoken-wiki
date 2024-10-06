@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 114354
+revid: 115435
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -49,6 +49,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 To progress Visionshaper, [Void Feathers](Dark_Feather.md) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the oath, taking 16 Dark Feathers to if only crafting Void Feathers.
 
 -   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
+-   Alternatively you may spend 10 knowledge to immediately max out the oath (Only if you logged in on a slot with maxxed out Visionshaper after the 26/04/2024 update).
 
 The abilities below are listed in order of obtainment.
 
