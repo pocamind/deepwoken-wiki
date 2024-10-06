@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 111388
+revid: 115414
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -35,6 +35,8 @@ Ah you're back. What do you need?
 4.  \[End Dialogue\]
 
 1\. _\*He looks you over as if calculating your life's worth.\*_ I think this Layer should be light work for someone like you. _(Only at high power level, exact numbers unknown)_
+
+1\. _\*He looks you over as if calculating your life's worth.\*_ For most it is, but you might be able to manage. I'd try to get out quick if I were you though. _(Power 13 - Power 16)_
 
 1.  Can i join you?
 2.  \[End Dialogue\]

@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 112438
+revid: 115410
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, The Ferryman, Primadon's Gem Chest, Fishing, The Diluvian Mechanism, Maestro Evengarde Rest, Reward Bounty Hunting, Saramaed Hollow |
+| obtainment | Duke Erisia, The Ferryman, Primadon's Gem Chest, Fishing, The Diluvian Mechanism, Maestro Evengarde Rest, Reward Bounty Hunting, Saramaed Hollow, Hollow forge |
 | description | "A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons." |
 
 ## Description
@@ -33,3 +33,4 @@ _(one-time use, re-obtainable)_
 -   Smith's Alloy can't be used on Side Weapons, like Shields.
 -   Using Smith's Alloy won't soulbind your weapon. This can be useful for trading or upgrading the weapons of friends.
 -   Smith's Alloy can be obtained from a chest obtained by fishing, but the chances are unknown.
+-   Smiths alloy can be obtained via use of the Hollow forge by using 3 [Pluripotent Alloy's](Pluripotent_Alloy.md) with the [ignition union origin](Origins.md)

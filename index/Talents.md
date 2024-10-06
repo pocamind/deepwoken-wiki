@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115312
+revid: 115413
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1824,7 +1824,7 @@ _**"I seek the qualities of Hammer Rage."**_
 -   Lock n Load \[Common Talent\] - \[1H Guns\] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Gun
 
--   One in the Chamber \[Common Talent\] - \[1H Guns\] After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with number of bullets up to 20%.
+-   One in the Chamber \[Common Talent\] - \[1H Guns\] After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with number of bullets up to 15%.
     -   Prerequisites: 50 Light Weapon, using a Gun
 
 -   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 113726
+revid: 115415
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -86,7 +86,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 -   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
-    -   One point in Willpower reduce knock time by 0.05 second
+    -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras), and the legendary weapon [Light's Final Toll](<Light's_Final_Toll.md>) with a requirement of 60 Willpower and 35 Light weapon.
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
