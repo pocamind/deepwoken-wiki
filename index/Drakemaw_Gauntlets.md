@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 111256
+revid: 115422
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
@@ -28,17 +28,19 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
 
 ## Description
 
-The Drakemaw Gauntlets is a Light Weapon in the Fists category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 [Knowledge](Knowledge.md) anytime. Meeting the requirement of LHT, the weapon deals 21.3 damage, but it becomes 27.7 with bleed. At max LHT, the weapon deals 23.4 damage, but it becomes 30.5 with bleed.
+The Drakemaw Gauntlets are a Light Weapon in the Fists category. You can obtain it from various [Hallowtide](Hallowtide.md) sources, like the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>) or [Lysander Spellhardt](Lysander_Spellhardt.md)'s Joy trade. Trading with [Glaive Spellhardt](Glaive_Spellhardt.md) for the Hallowtide '23 Medal will enable all slots to purchase the Drakemaw Guantlets from [Blacksmiths](Blacksmith.md) at the cost of 7 [Knowledge](Knowledge.md) any time of the year.
+
+Meeting the requirement of LHT, the weapon deals 21.3 damage, becoming 27.7 with bleed. At max LHT, the weapon deals 23.4 damage, becoming 30.5 with bleed.
 
 ## Critical
 
 The Drakemaw Gauntlets have a unique critical that does not change whether you have [Way of Navae](Way_of_Navae.md) or [Legion Kata](Legion_Kata.md) equipped.
 
-The user performs a fast forward thrust that, while it does not instantly guardbreak, does a large amounts of posture.
+The user performs a fast forward thrust that, while not instantly guardbreaking, does a large amount of posture damage.
 
 ## Trivia
 
--   This weapon is not droppable even though its not a weapon that can soulbound
--   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) teased instead.
+-   Not droppable.
+-   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.
 -   This weapon comes with a light source. The light source is still visible when using Curse of Yun'Shul.

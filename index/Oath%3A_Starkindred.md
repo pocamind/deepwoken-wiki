@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 115131
+revid: 115416
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,6 +82,8 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 
 -   **Death From Above - Talent**
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
+        -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
+        -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
 
 ## Trivia
 

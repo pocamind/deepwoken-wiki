@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 115319
+revid: 115425
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -68,6 +68,7 @@ If you have the [Ignition Delver origin](Origins.md), you are able to turn **3**
 -   [Canorian Axe](Canorian_Axe.md)
 -   [Crescent Cleaver](Crescent_Cleaver.md)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Forge Greathammer](Forge_Greathammer.md)
 -   [Halberd](Halberd.md)
 -   [Markor's Inheritor](<Markor's_Inheritor.md>)
 -   [Steel Maul](Steel_Maul.md)

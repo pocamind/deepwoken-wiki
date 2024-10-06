@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 97291
+revid: 115417
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides]
@@ -13,7 +13,7 @@ categories: [Guides]
 ― Cap'n Orlandeau
 
   
-The **Tutorial** is a recently released feature in _Deepwoken_ that is meant for new players, teaching them the game's mechanics and the [Castaway](Origins.md#castaway) backstory via characters and hints. It is accessible in [Fragments of Self](Fragments_of_Self.md) by talking to The Captain located at the center, leaning back on an arch.
+The **Tutorial** is a feature in _Deepwoken_ that is meant for new players, teaching them the game's mechanics and the [Castaway](Origins.md#castaway) backstory via characters and hints. It is accessible in [Fragments of Self](Fragments_of_Self.md) by talking to The Captain located at the center, leaning back on an arch.
 
 ## Tutorial Progression
 
