@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 114298
+revid: 115452
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -19,7 +19,7 @@ What will become of us?
 
 ## Overview
 
-Fragment of Self acts as the sad purgatory of _Deepwoken_. Players are sent to it whenever they die in [The Depths](The_Depths.md), choose to wipe their character in the main menu, or selecting Obliteration in [Trial Of One.](Trial_of_One.md)
+Fragments of Self acts as the sad purgatory of _Deepwoken_. Players are sent to it whenever they die in [The Depths](The_Depths.md), choose to wipe their character in the main menu, or selecting Obliteration in [Trial Of One.](Trial_of_One.md)
 
 ## Contents
 

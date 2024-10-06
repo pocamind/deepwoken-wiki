@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 114951
+revid: 115437
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -66,6 +66,7 @@ Some talents will not appear as there will be no mystic choices for them in-game
 -   _I seek the qualities of Nimble Blade. **(Nimble Blade)** (Fast Blade) **(Note; Cannot give Lightspeed Reflexes)**_
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman)** (Bear Trap, Blade Dancer, Action Surge, Spinning Swordsman) **(Note; Cannot give Speed Demon, Air Counter)**_
 -   _I seek the qualities of Swiftshade. **(Swiftshade)** (None Left Behind, Dustlunge)_
+-   _I often like to play pranks on others. **(Trickster)** (Down Comes the Claw, Pursuit, Crippling Comeuppance, Maiming Claws) **(Note; Cannot give Cheap Shot)**_
 
 ### [Intelligence](Attributes.md#intelligence)
 
