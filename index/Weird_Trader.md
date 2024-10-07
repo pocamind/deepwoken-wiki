@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 109794
+revid: 115456
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -103,6 +103,7 @@ The event despawns after 30 minutes have elapsed.
     -   [Urchin](Urchin.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat, Chum**)
     -   [Pomar](Pomar.md)
+    -   [Gathered Wheat](Gathered_Wheat.md)
 
 -   Ores, including:
     -   [Erisore](Ores.md#erisore)

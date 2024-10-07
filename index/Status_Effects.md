@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 114329
+revid: 115460
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -174,6 +174,10 @@ Become engulfed in green-yellowish flames that cut your mobility in half. This h
 ### Harrowing
 
 This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
+
+### Deferred
+
+This is applied by being hit by the [Deferred](Enchantments.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
 
 ### Tethered
 

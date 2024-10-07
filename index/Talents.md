@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115432
+revid: 115473
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -360,6 +360,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified targets have their physical attack deal lightning damage instead and deal 10% less damage.
+    -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the talent)
     -   Prerequisite: 65 Thundercall
 
 -   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.

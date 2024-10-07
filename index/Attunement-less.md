@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 115007
+revid: 115461
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -511,6 +511,7 @@ File:Disguising .gif
     <li>A spinning double slice with your sword.</li>
     <li>Deals Chip Damage.</li>
     <li>Deals knock back</li>
+    <li>Can be modified with a Glass/Magnifying stone to make it bigger</li>
   </ul></li>
   </ul></td>
 </tr>

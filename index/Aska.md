@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 114135
+revid: 115463
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -30,10 +30,9 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
--   A [Resonance](Resonance.md)
 -   [Pleeksty's Will](Talents.md#inferno) Talent **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit
 
-_†A Resonance is only required to go through the doors, if you go through the doors via clipping, you do not need to have a Resonance._
+A Resonance is required to get through the doors to Aska, but is not a requirement to get the Pleeksty's Inferno.
 
 ## Moveset
 
@@ -183,7 +182,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
--   DO NOT Attempt to run away for a heal. leaving the boss chamber to heal with cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
+-   DO NOT attempt to run away for a heal. leaving the boss chamber to heal with cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
 
 ## Trivia
 
