@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 115543
+revid: 115582
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -166,14 +166,10 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
  | Conjure metal from within, impaling surrounding entities. |  | Send metal spikes piercing through your body, impaling all nearby targets.
 
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
--   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it (needs to be tested)
+-   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it
 
  |
-|  | Metal Turret
-
-(★★☆)
-
- | An automated turret that fires at targets that that cross its sight. | 100 Ether | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
+|  | Metal Turret | An automated turret that fires at targets that that cross its sight. | 100 Ether | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
 
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
 

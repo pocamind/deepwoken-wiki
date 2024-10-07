@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 115415
+revid: 115574
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -18,7 +18,7 @@ _icon credit to Tortaa#9000_
 
 ## Basic Attributes
 
-Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [13 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your race (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [15 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your race (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
 
 -   Strength → _use the **Dumbbell**_
 -   Fortitude → _take damage with the **Training Vest**/carry the **Boulder**_
@@ -32,10 +32,10 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   300 from **levels**.
 -   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_
 -   5 from **race** (excluding Lightborns).
--   13 from **character creation**.
+-   15 from **character creation**.
 -   1 from **second Attunement** _(not required for all characters, but is set aside)._
 
-[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75 Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
+[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with race stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
 ### Strength
 

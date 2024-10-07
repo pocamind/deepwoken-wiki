@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 115548
+revid: 115587
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4106,9 +4106,7 @@ Sources:
 
  | 
 
-No Pips  
-
-_+Talent: Featherfall_
+_+2 Health_ _+Talent: Featherfall_
 
  | 
 
@@ -4138,6 +4136,28 @@ Sources:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+ | N/A |
+|  | 
+
+[Whistling Periapt](Whistling_Periapt.md)
+
+(Deep Relic)
+
+ | 
+
+_+1 Health_
+
+_+8% Wind Armor_  
+
+_+Talent: Whistleguard_
+
+ | 
+
+Sources:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  | N/A |
 |  | 

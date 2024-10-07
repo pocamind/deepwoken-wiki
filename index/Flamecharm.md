@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 115565
+revid: 115589
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -10,22 +10,29 @@ categories: [Pages with broken file links, Attunement]
 
 Flamecharm Icon
 
-## Flamecharm
+Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
-Flamecharm is trained with a combination of the Hearthgem and Flamecharm Mantras.
+## Description
 
-Along with all Flamecharm (mods or anyone, tell me edit what is supposed to be here for me), users can see their Mantras becoming stronger with practice:
+Flamecharm grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility.
 
--   At Power 1, players will receive the attunement upon picking the Flamecharm Attunement on spawn.
+## Training Flamecharm
+
+Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Mantras.
+
+Along with all other elements, users can see their Mantras becoming stronger with practice:
+
+-   At Power 1, players will receive the _Flamecharmer_ Talent upon picking the Flamecharm Attunement on spawn.
 -   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 1-star Flamecharm mantras.
--   At attunement level 30, _Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras.
--   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last cateNERFFLAMECHARMntsantras.
+-   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras.
+-   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras.
 
 The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion](Attunement_Potions.md) obtained in the [Songseeker Wilds](Songseeker_Wilds.md) using two [Dying Embers](Dying_Embers.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
--   To upgrade a FlamecNERFFLAMECHARMfrom level 1 to level 2 costs.
+-   To upgrade a Flamecharm Mantra from level 1 to level 2 costs.
 -   To upgrade a Flamecharm Mantra from level 2 to level 3 costs.
--   To upgrade a Flamecharm 4 to level 5.
+-   To upgrade a Flamecharm Mantra from level 3 to level 4 costs.
+-   To upgrade a Flamecharm Mantra from level 4 to level 5 costs.
 
 ## Mantras
 
@@ -358,7 +365,7 @@ _Strike the ground, turning it to ash._
 
  |
 
-### NERFFLAMECHARM
+### Mobility Mantras
 
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -1368,33 +1375,33 @@ N/A
 
 ## Trivia
 
--   Some mantras are inspired from pyromancy anNERFFLAMECHARM created by the _**FromSoftware,**_ the company also happens to be a large inspiration for the entirety of Deepwoken.
-    -   The **Flame of Denial** mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls_ the player from dying to one-shot moves.
-    -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting ovNERFFLAMECHARMile draining health.
-    -   AlthoNERFFLAMECHARMmantra looks similar NERFFLAMECHARMpell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
--   Although the **Flame Blind** mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the ValoraNERFFLAMECHARM one of his abilities involves throwing an orb flash made of fire.
+-   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of Deepwoken.
+    -   The **Flame of Denial** mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
+    -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
+    -   Although the **Fire Palm** mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
+-   Although the **Flame Blind** mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
 -   The **Fire Gun** mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
 -   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
 -   The **Flame Ballista** Mantra is Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
 -   The spring spark variant of the **Flame Repulsion** mantra takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless) move from **Jujutsu Kaisen**
--   There used to be a mantra called Flame Tornado during the beta. INERFFLAMECHARMto Rising Flame with the same VFX but did not push either the enemy or the user into the air.
--   If a player proc's "Meteor Impact" on another NERFFLAMECHARM has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
-    -   Meteor Impact used to also apply to UppeNERFFLAMECHARMultiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
+-   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
+-   If a player proc's "Meteor Impact" on another Flamecharm user who also has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
+    -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a Talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the **Flame of Denial** mantra which can restore some sanity upon use, while also allowing you to not die.
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
--   The Flamecharm attunement can be used to burn multiple knocked NERFFLAMECHARM extremely useful in PVE or in Ganks/Guild wars.
+-   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
 -   The **Graceful Flame** mantra does not allow anyone to cook food, regardless of its Level.
 -   The **Flame Leap** mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
 -   The **Flame Leap** mantra's Reversal Version gets replaced with it's base version when used in water.
--   The **Flame Leap** mantra significanNERFFLAMECHARMeight as the player gets lower on health, similarly to the "Strong Leap" mantra.
--   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weNERFFLAMECHARMpure Flame scaling.
+-   The **Flame Leap** mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
+-   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
--   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary NERFFLAMECHARM on, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
--   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack inste NERFFLAMECHARMad of regular flames.
+-   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+-   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
 -   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
--   You cNERFFLAMECHARMannot have both "Azure Flames" and "Twisted puppets" at the same time.
--   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it firNERFFLAMECHARMst came out.
--   BeNERFFLAMECHARMfore its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, baNERFFLAMECHARMnned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led tNERFFLAMECHARMo an overpowered, albeit less buggy, release.
+-   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
+-   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
+-   Before its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 
 ## References
 

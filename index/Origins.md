@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 115412
+revid: 115590
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -144,6 +144,9 @@ You can do Trial of One.
 -   Grants the Innate Talent "Union Pager"
     -   **\[PRO\]** Allows you to remotely accept jobs.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
+-   Can take the Deepdrill at Chariot's Spire to layer 2.
+    -   **\[PRO\]** Spawn at frontier furnace. (Skips generator and layer 2 gate)
+    -   **\[CON\]** You don't get a lighthook.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant
 -   **\[PRO\]** Grants the ability to smelt [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>).

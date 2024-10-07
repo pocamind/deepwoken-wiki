@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 115381
+revid: 115581
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -46,7 +46,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Upgrading
 
-As tasked by The Lord Regent, to obtain the Talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. This will send them to Layer 2 (note this will not happen to pathfinders). Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
+As tasked by The Lord Regent, to obtain the Talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. **(Works on Friends and Guildmates)** This will send them to Layer 2 (note this will not happen to pathfinders). Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
 
 -   1st Grip - Hidden Tendril and Lords Slice
 -   2nd Grip - Equalizer

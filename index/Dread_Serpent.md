@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 115420
+revid: 115578
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -50,10 +50,6 @@ Blockable:?
 Dodgeable:?
 
  |  |
-
-## Passives
-
--   ~**Dreadmantle** - Has a 75% resistance against [Frostdraw](Frostdraw.md) attacks.~ (this is **not** real, cofirmed by a tester)
 
 ## Trivia
 
