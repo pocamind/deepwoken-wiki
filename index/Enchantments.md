@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 115404
+revid: 115525
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -32,16 +32,7 @@ Enchanted items cannot be dropped on death.
 
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
--   Enchanted items appear as light purple in your inventory.
--   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
--   NPCs that wield enchantment against players use their PVP effects if the enchantment has one.
--   Weapon enchantments are either passively active or activate based on certain conditions, which can either be, depending on the enchantment:
-    -   Hit count
-    -   Cooldown, in which case, the first hit after the cooldown will trigger the effect
-    -   Critical
-    -   Flourish
-    -   Uppercut
--   Equipment enchantments have a % chance of triggering their effect when taking damage (exception of Drowned)
+-   NERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALENERF GALE
 
   
 
@@ -74,7 +65,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
   Critical attack or parrying 3 times in a row, shoots down a star that explodes and does 100 PvE AoE damage, 3% in PvP.<br>
   Can be obtained via an enchant stone dropped by an <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>.</p></div></td>
-  <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
+  <td><div>Weapon is covered with glowing blue galaxy Gas with stars around.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -115,13 +106,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Gluttony<div></div></font></center></td>
+  <font>mcdonalds eater<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Grim<div></div></font></center></td>
+  <font>thats really GRIMMM💀💀💀<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
   the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
@@ -129,7 +120,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Harrowing<div></div></font></center></td>
+  <font>heroin<div></div></font></center></td>
   <td><div><p>Coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
   This effect lasts for 4 seconds.<br>
   Can only be obtained from the Hallowtide event.</p></div></td>
@@ -176,18 +167,18 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
-  <font>Providence's Thorns<div></div></font></center></td>
+  <font>battle axe enchant<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 3 attacks within 7 seconds deals damage to the attacker after a delay.<br>
   Deal 4% HP damage, ignores all resistances.<br>
-  PVE Scale: 30% from parried damage x ()userpower in PVE.<br>
+  PVE Scale: 35% from parried damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
   Effect is parriable.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Sear<div></div></font></center></td>
+  <font>Searing steak<div></div></font></center></td>
   <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 4%, MED: 6.66%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
@@ -196,7 +187,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Solar<div></div></font></center></td>
+  <font>Solar flare NO KRILLIN<div></div></font></center></td>
   <td><div><p>Applies a Solar Mark on Crit or Flourish.<br>
   Solar Mark last 8s, and reduces tempo gain/ether regeneration.<br>
   Venting steals a portion of marked enemies tempo.</p></div></td>
@@ -204,14 +195,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Stone<div></div></font></center></td>
+  <font>no armor sorry<div></div></font></center></td>
   <td><div><p>Posture damage is increased, between 0.5 and 5.5. Scales off weapon damage.<sup><a href="#cite-note-2">[2]</a></sup><br>
   Deal bonus damage on a posture break. Scale inverserly with weapon damage (more damage = less bonus).</p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
-  <font>Storm<div></div></font></center></td>
+  <font>800 elo chime enchant<div></div></font></center></td>
   <td><div><p>On proc, deal 17.5% extra damage and stun with a 5 second cooldown, visualized by a purple lightning after-shock.<br>
   By having the Surge Path: Unstable Capacitor Talent, on proc the stun is replaced with a surge stack.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by an additional 17.5%. Has a 5 second cooldown.</p></div></td>
@@ -241,7 +232,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
+  <td><div><p>Heal for 20% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
   The healing is not affected by PVE Scaling.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>

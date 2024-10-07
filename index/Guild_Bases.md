@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 115442
+revid: 115477
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -193,7 +193,7 @@ Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to c
 
 1 Room  
 
- | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. There isn't a fishing spot. |
+ | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. There isn't a [fishing spot](Fishing.md#fishing-spots). |
 | 
 
  | 

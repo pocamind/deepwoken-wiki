@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 115028
+revid: 115479
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -80,6 +80,9 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Crypt_Blade.md">Crypt Blade</a></li>
     <li><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></li>
     <li><a href="Ignition_Deepcrusher.md">Ignition Deepcrusher</a></li>
+    <li><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></li>
+    <li><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
+    <li><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></li>
   </ul></td>
   <td>
   <ul>

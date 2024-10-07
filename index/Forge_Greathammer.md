@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 115376
+revid: 115476
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Criticals]
@@ -23,7 +23,7 @@ categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Found in Chests from Summer Isle, First Layer, Primadon, the PVP Arena, Deep Widow and Voidwalker bounty chests |
+| obtainment | Found in Chests from Summer Isle, First Layer, the PVP Arena, Deep Widow and Voidwalker bounty chests |
 | description | ' "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." ' |
 
 | Alloyed Forge Greathammer | |
@@ -50,7 +50,7 @@ categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Critica
 
 ## Description
 
-The Forge Greathammer is a Midgame Greathammer that can be found in chests by turning in explosive crates at Summer Isle/Summer Isle Chests, chests from [The Depths,](The_Depths.md) chests from [Primadon](Primadon,_Titan_of_the_East.md) and from Chime. This Greathammer has a base damage of 24 and a Strength requirement of 10, as well as a Heavy Weapon requirement of 55 to equip.
+The Forge Greathammer is a Midgame Greathammer that can be found in chests by turning in explosive crates at Summer Isle/Summer Isle Chests, chests from [The Depths,](The_Depths.md) and from Chime. This Greathammer has a base damage of 24 and a Strength requirement of 10, as well as a Heavy Weapon requirement of 55 to equip.
 
 ## Critical
 

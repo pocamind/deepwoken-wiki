@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 115468
+revid: 115475
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics]
@@ -30,7 +30,7 @@ The Whistling Periapt is a Mythic Torso [Equipment](Equipment.md) that released 
 
 It comes with the [Talent](Talents.md) Whistleguard. Upon inflicting continuous damage onto an enemy without getting parried or dodged, a whirling ball of wind coats your character. When hit, the shield parries any attack for free and dissolves into the air after. Shields cannot stack.
 
-Estimated by rarity to have a 0.1% drop chance from both [Duke](Duke_Ishamon_Erisia.md) and [Ethiron](Scion_of_Ethiron.md)
+Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Erisia.md) and [Ethiron](Scion_of_Ethiron.md)
 
 ## Trivia
 

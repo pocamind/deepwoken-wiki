@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 113970
+revid: 115482
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,6 +23,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken |
 | description | "..." |
+
+[Winter Corps Parka](Winter_Corps_Parka.md)
+
+**Winter Corps Boots**
 
 ## Description
 
