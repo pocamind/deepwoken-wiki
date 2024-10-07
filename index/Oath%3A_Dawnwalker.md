@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 115577
+revid: 115595
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -19,17 +19,17 @@ categories: [Oaths, The Divers]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 14 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath.
+**[Oath](Oaths.md): Dawnwalker** is one of the 14 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath.
 
 “ Child, do you swear to carry the Light as a weapon against the Deep? To wield the Song only as a Radiant Blade against that which it beckons? ”
 
 ― Klaris Llfiend, Mother of Lights
 
-This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, the same Light that Lightkeepers use to illuminate the Voidsea as a means of traversal between luminants. [The Divers,](The_Divers.md) instead of utilising it to traverse the Voidsea, use the Radiant Tones to fight against The Depths itself, resulting in the creation of this Oath.
+This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, the same Light that Lightkeepers use to illuminate the Voidsea to facilitate traversal between luminants. [The Divers](The_Divers.md), instead of utilising it to traverse the Voidsea, use the Radiant Tones to fight against The Depths itself, resulting in the creation of this Oath.
 
 ## Obtainment
 
-1.  Speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
+1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
 2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
 
 -   Blinding Dawn upon Oath obtainment (30 medallions)
