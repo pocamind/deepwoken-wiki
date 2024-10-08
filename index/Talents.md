@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115616
+revid: 115635
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1477,7 +1477,6 @@ _**"I seek the qualities of Hammer Rage."**_
     -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
-    -   Reduces damage from mantras, making the main source of damage the explosions caused by them
 
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning and causes your Eruptions to be Empowered for the next 10s. 45s CD. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm

@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 115626
+revid: 115637
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -27,4 +27,4 @@ _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For 
 
 ## Mini-Bosses
 
-Mini-Bosses are noticeably strong enemies in Deepwoken, but unable to be considered Bosses due to not meeting all of the above criteria. (The following NPCS need to be added: The Fisherman, Ministry Cache Agent, Finnegan the Lost).
+Mini-Bosses are noticeably strong enemies in Deepwoken, but unable to be considered Bosses due to not meeting all of the above criteria.

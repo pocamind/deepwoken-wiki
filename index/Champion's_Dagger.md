@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 115315
+revid: 115638
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -25,7 +25,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Cloaked Assassin, The Diluvian Mechanism, Maestro Evengarde Rest |
+| obtainment | Chests from:, Starswept Valley, The Depths, Cloaked Assassin, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia |
 | description | "A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 107209
+revid: 115640
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests, Summer Isle, Widow chest, Maestro Evengarde Rest's chests, Bounties |
+| obtainment | First Layer, Primadon, Scope's Quest, Duke Erisia, Summer Isle, Deep Widow, Maestro Evengarde Rest, Voidwalker Bounty |
 | description | "Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however." |
 
 ## Description

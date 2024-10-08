@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 115624
+revid: 115639
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -21,7 +21,7 @@ categories: [Weapons, Flintlocks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Songseeker Wilds, Chaser, Scholar of the Burning Blood |
+| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Songseeker Wilds, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest |
 | description | "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production." |
 
 | Dawnshot | |
