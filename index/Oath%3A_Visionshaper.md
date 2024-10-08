@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 115435
+revid: 115653
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -68,7 +68,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   Illusory clones on creation store the last non-oath mantra or Critical Attack when created. By using the Reality Shift talent item, the clone closest to the creator will teleport to their target and attempt to use the stored mantra/critical. \[**further** **testing needed to see if** **Reality Shift** **is** **cancellable**\]
             -   Reality Shift cannot be activated if no targets are nearby.
             -   Clones do not copy enchantments or most talents. They _do_ copy mantra modifiers and elemental path talents (e.g. Twisted Puppets.)
-            -   Clones will only copy the standing critical of weapons and cannot trigger the alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md). \[**test needed to see if they trigger aerial criticals**\]
+            -   Clones will only copy the standing critical of weapons and cannot trigger the alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md). \[**Been tested they can do aerial crits if in the air**\]
         -   After unlocking the Shaper Mimicry talent, clones will mimic some actions; this includes jumping, dodging, blocking/parrying, venting, and M1s. They will not do these actions by themselves. \[**test needed to see if they do these things by themselves prior to unlocking Shaper Mimicry**\]
     -   Duration scales with your progress of the Visionshaper Oath. **\[test needed to see if this is true\]**
     -   If the target has the Disbelief Talent, the duration of the clone is shortened.

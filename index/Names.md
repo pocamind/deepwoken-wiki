@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 115405
+revid: 115651
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1713,6 +1713,8 @@ Some players have access to customized, unique names.
 
 ## Trivia
 
+-   The name "Meliodas" is a reference to [Seven Deadly Sins](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas).
+-   The names "Edward" and "Alphonse" are references to the anime and manga series [Fullmetal Alchemist](https://fma.fandom.com/wiki/Main_Page).
 -   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).
 -   The name Halflight is a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
@@ -1725,7 +1727,7 @@ Some players have access to customized, unique names.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The names "Usopp" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Ussop was added.[\[1\]](#cite-note-1) Alvida was added much later
--   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).
+-   The names "Ornstein", "Artorias" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough), and [Artorias](https://darksouls.fandom.com/wiki/Knight_Artorias) respectively..
     -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
@@ -1734,7 +1736,7 @@ Some players have access to customized, unique names.
 -   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
--   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
+-   The names "Zote" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.
 -   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
@@ -1750,7 +1752,7 @@ Some players have access to customized, unique names.
 -   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_.
 -   The name Ulysses is a reference to a novel of the same name by James Joyce.
 -   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
--   The name Frieren is a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
+-   The names Frieren, Stark, and Fern are a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
 -   The name Wanderer is a reference to the [Genshin Impact](https://genshin.hoyoverse.com/en/) character, Scaramouche.
 -   The names 'Chilchuck', 'Falin', 'Izutsumi', 'Laios', 'Macille', 'Senshi' and 'Thistle' are all references to the main party and antagonist of the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
 -   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
@@ -1766,7 +1768,7 @@ Some players have access to customized, unique names.
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
 -   The name Minos is also a reference to Greek mythology.
--   The names Shabriri, Vyke, and Godfrey may be references to [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/).
+-   The names Shabriri, Vyke, Maliketh, and Godfrey are references to [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/).
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.

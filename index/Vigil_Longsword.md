@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 106638
+revid: 115646
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Etrea]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords, Etrea]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Miner's Landing, First Layer |
+| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, First Layer, Crypt of the Unbroken |
 | description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
 
 | Alloyed Vigil Longsword | |

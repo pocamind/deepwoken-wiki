@@ -1,9 +1,9 @@
 ---
 title: The Valley of Heroes
-revid: 109389
+revid: 115652
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Voidzones]
+categories: [Locations, Voidzones]
 ---
 
 # The Valley of Heroes
@@ -14,8 +14,6 @@ A valley left forgotten, a place of power that draws the heavens downward.
 
   
 
-File:Valley of Heroes picture.png
-
 **Valley of Heroes** is a location in _Deepwoken_. It is a landmark in [Minityrsa](Minityrsa.md) found in the [Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
@@ -24,12 +22,13 @@ Valley of Heroes resembles an icy valley littered with frozen asteroids and stat
 
 ## Events
 
-Events that spawn in Valley of Heroes that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+When player reach the center of the valley, one of two events will happen depending on whether it is winter or not:
 
--   [Aelita](Aelita.md)
+-   If there is no winter, then [Aelita](Aelita.md) will spawn and play a game with the player.
+-   If there is a winter, white meteorites will start falling from the sky and when they land, 6 [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn. Defeating them will give you a chest with several [Hero blades](Hero_Blades.md).
 
 ## Trivia/Notes
 
--   The end of the valley ends up across a ravine from the [Songseeker Temple](Songseeker_Temple.md), which can be accessed by riding a zipline across the gap.
--   If its winter, the teleporter to the [Songseeker Temple](Songseeker_Temple.md) will fling you back like the [Trial of One](Trial_of_One.md) teleporter does if you've failed it or above power 1.
--   You can avoid the Aelita event by sticking to the left side of the wall.
+-   At the end of the valley there will be a white portal teleporting to a high cliff near Songseeker Temple.
+-   If the player will be under danger or if he activated but did not complete the event, the portal will throw him away without letting him teleport away.
+-   You can avoid events by sticking to the left side of the wall.

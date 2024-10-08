@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 112482
+revid: 115645
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -21,7 +21,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Erisia , Minityrsa , Songseeker Wilds , Summer Isle , First Layer |
+| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, First Layer, Crypt of the Unbroken |
 | description | [REQUIRES A FIST STYLE] |
 
 ## Description

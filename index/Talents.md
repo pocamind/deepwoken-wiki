@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115635
+revid: 115641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -362,7 +362,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified targets have their physical attack deal lightning damage instead and deal 10% less damage.
     -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the talent)
-    -   Each stack lasts for 5 seconds.
+    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you need 5 more stacks to activate this talent.
     -   Electrified, when procced, lasts for 4 seconds.
     -   Prerequisite: 65 Thundercall
 
@@ -1155,7 +1155,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Hammer Rage
 
-_**"I seek the qualities of Hammer Rage."**_
+> _**"I seek the qualities of Hammer Rage."**_
 
 -   Brain Rattler \[Common Talent\] \[Clubs\] - Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
     -   Prerequisites: 50 Medium Weapon, Club equipped
@@ -1178,24 +1178,22 @@ _**"I seek the qualities of Hammer Rage."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
-  
-
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1 or Critical, the target has most healing forms reduced/disabled for 8 seconds.
         -   Anti-heal percentage from a non-passive source scales with the total numerical investment of Willpower + Intelligence. Scales up to 100% with 105 points in both stats collectively. (Ex. Still has 100% antiheal at \[60 Willpower + 45 Intelligence\] OR \[60 Intelligence + 45 Willpower\]). Relevant for [Shrine of Order](Deep_Shrines.md).
         -   Antiheal percentage can be calculated by dividing your points in INT + WLP by 105. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 76.2% Antiheal)
-    -   Does not work on allies.
     -   The scaling from investment only affects spit healing, [Bloodless Gem](Deep_Gems.md), passive health regen, [campfire](Campfire_Pit.md) regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
         -   Passive health regeneration and campfire regeneration are FULLY blocked even if the full requirements are not met. (Ex. 30 INT + 60 WLP will still negate campfire & health regen entirely even though every other health source will only be reduced by 85.7%.)
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
-    -   _**Does NOT affect healthpacks.**_
+    -   Does not work on allies.
+    -   Does _**NOT**_ affect healthpacks.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from Talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in [Layer 2](Second_Layer.md) Floor 1.
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
 ### Human Architecture
 
@@ -1205,7 +1203,7 @@ _**"I seek the qualities of Hammer Rage."**_
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
-        -   **Cap Artist is disabled.**
+    -   **Cap Artist** is disabled with this talent.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
@@ -1495,8 +1493,8 @@ _**"I seek the qualities of Hammer Rage."**_
     -   Prerequisite: 20 Charisma
 
 -   Spotter \[Common Talent\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
--   Activated by pressing Z.
--   **Disabled on players with Not a Scratch.**
+    -   Activated by pressing Z.
+    -   **Disabled on players with Not a Scratch.**
     -   Prerequisites: 40 Charisma, Rhythm, Callout
 
 ### Leaf in the Wind
@@ -1737,13 +1735,12 @@ _**"I seek the qualities of Hammer Rage."**_
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
-    -   _Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md)._
+    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md).
 
--   _**[Murmur:](Murmur%253A_Rhythm.md)**_ [Rhythm](Murmur%253A_Rhythm.md) _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
--   Pings all nearby Monsters, NPC’s, and Players, while gray-scaling your screen.
--   Goes through walls.
--   Red = Low Health, Yellow = Average Health, Green = Healthy
--   **Disabled on players with Not a Scratch.**
+-   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
+    -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
+    -   Red = Low Health, Yellow = Average Health, Green = Healthy
+    -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md).
 
 -   _**[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
@@ -2421,7 +2418,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing N. (+2 Passive Agility)
     -   The target need to be knocked to be able to pickpocket them.
-    -   Only works on others.
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
