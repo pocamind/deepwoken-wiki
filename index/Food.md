@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 111443
+revid: 115625
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -182,8 +182,7 @@ Lifting The Meat Lord
 -   Mantra damage buff foods and Weapon damage buff foods provide around a 5% increase in damage.[\[1\]](#cite-note-1)
 -   Before the plates were added for most foods in a (supposed) shadow-update, the Cake model had no underside.
 -   According to [Destroyman III](Destroyman_III.md), the strength buff the Megurger gives you is not from the food itself, but the concept.
--   Cooked/Glazed Fish has a real-life counterpart, most resembling _sashimi_.
-    -   Additionally, the Glazed Fish model is placed incorrectly on the hand compared to other plate dishes.
+-   The Glazed Fish model is placed incorrectly on the hand compared to other plate dishes.
 -   Where did the garnish on the Omelettes come from? The world will never know.
 -   Sushi used to be unique, in that it was completely weightless. However this is no longer the case, as it has now been assigned 2 weight.
 -   **Redd Juice** is based on [orange juice](https://en.wikipedia.org/wiki/Orange_juice) because a **Redd** is based on an [orange](<https://en.wikipedia.org/wiki/Orange_(fruit)>) from [real life](https://en.wikipedia.org/wiki/Real_life).

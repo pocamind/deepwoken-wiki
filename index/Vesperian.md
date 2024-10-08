@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 111849
+revid: 115630
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -59,14 +59,10 @@ This fits with our current understanding of the lore and would explain why they 
 
 **Strengths:**
 
-  
-
-a cool mask  
-+2 Health  
-+2 Fortitude  
-+2 Willpower  
-
-A layer of protective armor that regenerates at rest.  
+-   +3 Fortitude - 1.5+ Starting Health.
+-   +2 Willpower - 6 Sanity.
+-   A layer of protective armor that regenerates at rest.
+    
 
 **Weaknesses:**
 

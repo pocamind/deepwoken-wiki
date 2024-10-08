@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 105644
+revid: 115628
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -62,8 +62,8 @@ The deer folk of the land are among the few that still consider themselves free 
     
 -   Less prone to starvation.  
     
--   +2 Strength
--   +3 Fortitude
+-   +2 Strength - 4+ Carry Load
+-   +3 Fortitude - 1.5+ Starting Health
     
 
 **Surnames:**
@@ -106,3 +106,6 @@ The deer folk of the land are among the few that still consider themselves free 
 -   The compass points East. This has been tested using the Map feature, sailing straight forward while the compass points "up."
 -   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor race name was changed to Hornskipper.
 -   When wearing a helmet/hat, it won't hide the horns.
+-   One of the only 2 Races that have Fortitude Stat Bonus, the other being [Vesperian.](Vesperian.md)
+    -   2 as in available to the public.
+-   Combining the Reduced Hunger loss with Carnivore, you almost will never be below Half Hunger. (Unless you are trying to)
