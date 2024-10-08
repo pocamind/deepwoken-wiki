@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115600
+revid: 115616
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1567,8 +1567,8 @@ _**"I seek the qualities of Hammer Rage."**_
     -   Prerequisite: 35 Willpower
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
-    -   Grant 15% extra damage when below 70% Insanity.
-    -   Deepbound's Sanity gain from killing mobs in the Depths is reduced.
+    -   Grants +5% damage per Tier of [Insanity](Insanity.md). Caps out at 15%. (Tier 1 = +5% | Tier 2 = +10% | Tier 3 = +15%)
+    -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.

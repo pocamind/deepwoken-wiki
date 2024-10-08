@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 110320
+revid: 115609
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman, Primadon, Summer Isle (Unreliable), Duke Erisia (Unreliable), Deep Widow, Second Layer, Ancient Rotlands, Trading with Jeremiah |
+| obtainment | Ferryman, Primadon, Summer Isle (Unreliable), Duke Erisia (Unreliable), Deep Widow, Second Layer, Ancient Rotlands, Trading with Jeremiah, Chime of Conflict |
 | description | "A ring once worn by an unparalleled warrior. It seems they finally met their match." |
 
 ## Description

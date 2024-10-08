@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 115476
+revid: 115611
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Criticals]
@@ -23,7 +23,7 @@ categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Found in Chests from Summer Isle, First Layer, the PVP Arena, Deep Widow and Voidwalker bounty chests |
+| obtainment | Summer Isle, First Layer, Deep Widow, Chime of Conflict, Voidwalker bounty chests |
 | description | ' "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." ' |
 
 | Alloyed Forge Greathammer | |
@@ -41,7 +41,7 @@ categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, The Depths |
+| obtainment | Using a Pluripotent Alloy on the base weapon, The Depths |
 | description | ' "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill.." ' |
 
 **Base:**

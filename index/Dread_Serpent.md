@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 115578
+revid: 115604
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -58,7 +58,7 @@ Dodgeable:?
 -   Anyone can get the Murmur as long as you did any damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
--   It is highly implied that a Dread Serpent took out the Petra's Dawn as the Petra's Anchor is one of the drops.
+-   It is highly implied that the Dread Serpent took out the Petra's Dawn as the Petra's Anchor is one of its drops.
 -   The Dread Serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
 -   Its appearance is supposedly exactly what an Elder Edenkite once looked like, only wingless.
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.\[citation needed\]
