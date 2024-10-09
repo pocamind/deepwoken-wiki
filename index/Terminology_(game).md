@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 109184
+revid: 115762
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -68,7 +68,7 @@ This term originated from 2D fighting games such as [_Street Fighter_](https://e
 
 _verb_
 
-1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed out and take heavy damage as well as being stunned.
+1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
 
 1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
@@ -202,7 +202,41 @@ _verb_
 _verb_
 
 1.  To miss an attack
-    1.  Ex. He whiffed that attack.
+    1.  Ex. “He whiffed that attack”
+
+## Death Terms
+
+(terms having to do with the players lives, drowns, etc)
+
+### Ascension/Ascend
+
+_noun_
+
+1.  The ritual in The Depths that sends a character back to the surface
+
+### Drown
+
+_verb_
+
+1.  To die in a manner that results in your soul sinking to The Depths. (eg. dying with a stained health bar, dying in a voidzone, etc)
+
+### Restore
+
+_verb_
+
+1.  To be revived from Fragments of Self by a moderator after making a ticket due to an unfair death.
+
+### Sink
+
+_verb_
+
+1.  to descend to The Depths without dying (eg. whirlpools and Call of the Deep) allowing the player to enter Castle Light and the Chariot’s Spire.
+
+### Stain
+
+_verb_
+
+1.  To die whilst having your second life, or regular health bar, resulting in having a stained/rusty health bar.
 
 ### Wipe
 

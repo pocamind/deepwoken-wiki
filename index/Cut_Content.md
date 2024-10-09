@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 112953
+revid: 115759
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -17,7 +17,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Ironfist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Etrean Waters -** An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
--   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md) and [Rat's Den](<Rat's_Den.md>) could be found here.
+-   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md), [Rat's Den](<Rat's_Den.md>) and [Erisor's Church](<Erisor's_Church.md>) could be found here. Footage can be found here, [https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28](https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28), [https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26](https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26)
 -   **Erebus -** An island containing Duke Erisia's manor, a huge maze and a large stone skull. Reworked into [the Hidden Village](The_Hidden_Village.md).
     
     Erebus

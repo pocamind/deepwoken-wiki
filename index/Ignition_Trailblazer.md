@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 115704
+revid: 115756
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, The Ignition Union]
@@ -39,3 +39,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   One of the cheapest Expert armors to make.
+-   it has the exact same crafting recipes as a few other expert armors, such as [Journeyman Diver](Diver_Journeyman_Robes.md), [Hive Drone](Hive_Drone.md), and [Etrean Guard](Etrean_Guard.md)
