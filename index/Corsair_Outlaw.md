@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 109702
+revid: 115669
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Outfits]

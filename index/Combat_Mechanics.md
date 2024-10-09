@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 112746
+revid: 115665
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -422,12 +422,13 @@ Main article: [Status Effects](Status_Effects.md)
     <li>Health packs from knocks</li>
     <li>Spit healing</li>
     <li>Reinforce</li>
+    <li>Symbiotic Sustain from <a href="Oath%253A_Linkstrider.md">linkstrider</a></li>
     <li>Bloodless Gem</li>
     <li>Campfire regeneration</li>
     <li>Blood Scourge</li>
     <li>Vampirism</li>
   </ul><p>Does not proc/work on people in the same guild as yours.</p>
-  <p><i>The only sources is being hit by a player that has the All the Dead Gods Talent or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
+  <p><i>Sources are <a href="Mudskipper_Broodlord.md">mudskipper broodlord</a> and players with the talent “All the Dead Gods” or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
   <td></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 107520
+revid: 115697
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 115584
+revid: 115664
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Eastern Luminant, Origins]
@@ -18,7 +18,9 @@ categories: [Weapons, Eastern Luminant, Origins]
 
 ## Description
 
-The Hollow Forge is a in appearance a furnace; in the middle its the window with on-going lava and valves in the top. Can be found in Miner's landing and likely situated in the next possible Areas: [Saramaed's summit](Saramaed_Summit.md) **OR** [Saramaed's Hollow](Saramaed_Hollow.md), Can only be used with the Ignition Delver [Origin](Origins.md).
+The Hollow Forge is a in appearance a furnace; in the middle its the window with on-going lava and valves in the top. Can be found in Miner's landing and likely situated in the next possible Areas: [Saramaed's summit](Saramaed_Summit.md) **OR** [Saramaed's Hollow](Saramaed_Hollow.md), **Can only be used with the Ignition Delver [Origin](Origins.md).**
+
+  
 
   
 

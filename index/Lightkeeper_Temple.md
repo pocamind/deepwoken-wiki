@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 111337
+revid: 115659
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones]
@@ -8,11 +8,7 @@ categories: [Pages with broken file links, Locations, Voidzones]
 
 # Lightkeeper Temple
 
-LocationL Lightkeeper Temple LocationR
-
-Heavy is the burden of the Lightkeeper, for the whole world rests on their shoulders.
-
-  
+Template:Location2
 
 File:Изображение 2022-08-25 151516857.png
 

@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 97411
+revid: 115676
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]

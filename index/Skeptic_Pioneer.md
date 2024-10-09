@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 109519
+revid: 115675
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -30,3 +30,7 @@ This Outfit's Schematic can be found in:
 This Outfit has 1200 durability and grants the user with +12% Physical resistance and +12% Elemental resistance.
 
 This Outfit also grants the [Talent Card](Talents.md) _Apothecary_, which makes potions that benefit the player more potent.
+
+## Trivia
+
+N/A
