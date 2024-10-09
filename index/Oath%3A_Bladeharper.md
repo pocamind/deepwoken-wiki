@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 115430
+revid: 115754
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -90,3 +90,5 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 -   The slashing done by certain moves/passives may be a reference to Ryomen Sukuna's Cleave and Dismantle from Jujutsu Kaizen.
 
 -   The animation for Reveal closely resembles hollow knight's 3rd phase boss fight self stab move, possibly being a tiny reference.
+
+-   The animation for Reveal also closely resembles Elden Ring's Ash of War Seppuku with both giving a buff in exchange for health, possibly being a reference to the Souls-Borne franchise.

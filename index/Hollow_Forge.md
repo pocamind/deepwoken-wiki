@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 115664
+revid: 115747
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Eastern Luminant, Origins]
@@ -26,4 +26,4 @@ The Hollow Forge is a in appearance a furnace; in the middle its the window with
 
 ## Usage
 
-Its used to convert 3 [Pluripotent Alloy's](Pluripotent_Alloy.md) into 1 [Smith's Alloy](<Smith's_Alloy.md>).
+It's used to convert 3 [Pluripotent Alloy's](Pluripotent_Alloy.md) into 1 [Smith's Alloy](<Smith's_Alloy.md>).
