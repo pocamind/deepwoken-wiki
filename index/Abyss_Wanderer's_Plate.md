@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 114548
+revid: 115738
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -31,3 +31,4 @@ The Abyss Wanderer's Plate is an [Equipment](Equipment.md) item under the "Arms"
 
 -   One of the obtainable mythical [Equipment](Equipment.md) items, the others being [Bloodforged Crown](Bloodforged_Crown.md), [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Delver's Duster.](<Delver's_Duster.md>)
 -   It is part of the Abyss Wanderer set, going with the [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>).
+    -   The Abyss Wanderer set was designed by IronKronoXD, being the second place entry of the "Black Divers Art Concept Contest", although not being planned to be added originally, the set was later added.

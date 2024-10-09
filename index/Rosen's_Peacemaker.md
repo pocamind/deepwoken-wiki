@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 106748
+revid: 115742
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -31,7 +31,7 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 
 ## Description
 
-Rosen's Peacemaker is a Medium Weapon for the Verse 2 content update. It is among first "true" medium weapon [guns](Guns.md), including the [Iron Blunderbuss](Iron_Blunderbuss.md). Rosen's Peacemaker has 18 Base Damage and a scaling of 8 so it deals 26.1 damage at 75 MED and 28.8 damage at 100 MED. Rosen's Peacemaker has a blunt swinging attack and firing attack in its M1 string. It's critical shoots out a bullet, which is exactly the same attack as the M1, but it takes longer to fire the bullet. The bullets do not incur parry stun on the attacker if they get parried at far range.
+Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content update. It is among the first medium weapon [guns](Guns.md), including the [Iron Blunderbuss](Iron_Blunderbuss.md). Rosen's Peacemaker has 18 Base Damage and a scaling of 8, so it deals 26.1 damage at 75 MED and 28.8 damage at 100 MED. Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing attack and a longer-range firing attack during its M1 combo. The critical of Rosen's Peacemaker is a slightly slower version of its M1 firing cycle, but it shoots a projectile in the direction the wielder faces. The bullets do not incur parry stun on the attacker if they get parried at far range.
 
 ## Enchantments
 
@@ -44,6 +44,6 @@ Rosen's Peacemaker is a Medium Weapon for the Verse 2 content update. It is amon
 ## Trivia
 
 -   First shown in combat in Agamatsu's 1v1 between him and Nuttoons.
--   The critical's speed is very similar to the regular swingspeed.
+-   The critical's speed is very similar to the regular swing speed.
 -   The maker of both the [Iron Blunderbuss](Iron_Blunderbuss.md) and the Rosen's Peacemaker is [Gunsmith Rosen](Lore.md).
--   The Rosen's Peacemaker is theoretically a worse Rifle Spear, as it doesn't fire projectiles on the M1's and rather just the critical attack, while having less range and damage than the Rifle Spear.
+-   Rosen's Peacemaker is theoretically a worse Rifle Spear, as it doesn't fire projectiles on the M1's and rather just the critical attack, while having less range and damage than the Rifle Spear.
