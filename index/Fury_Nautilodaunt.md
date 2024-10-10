@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 107098
+revid: 115788
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,7 +38,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 
 ## **Combat / Tips**
 
-While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it's unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
+While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it has a ton of resistance to a variety of attack types, and it's also unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
 While this mob can **not** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
 

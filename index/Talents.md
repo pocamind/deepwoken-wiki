@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115641
+revid: 115793
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1190,7 +1190,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
-    -   Gives a burst of insanity to yourself, which achieves the following:
+    -   Gives a burst of insanity to yourself.
+        -   Immediatly lose 15% sanity on use.
+        -   If above 80% sanity, immediatly lose sanity down to 65%
         -   You start benefitting from Talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
@@ -1468,7 +1470,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the path of the Serpent."**_
 
--   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is empowered with increased range and damage. 10s cooldown. (+4 Elemental Intensity)
+-   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
     -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
 
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)

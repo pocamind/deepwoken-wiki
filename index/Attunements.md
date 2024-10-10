@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 115149
+revid: 115790
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -15,7 +15,6 @@ File:Attunementicon.png
 **IMPORTANT NOTE:** _For those learning about Shrine of Order,_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. They have no "bottom-limit"- where, for example, a 65 investment in Agility when influenced by Shrine of Order will become a 40 investment instead. They function in a way that, for lack of better wording, is reminiscent to the "old" Shrine of Order._
 
   
-**YOU CANNOT OBTAIN AN ATTUNEMENT WITH 0 SPARE POINTS**
 
 ## Overview
 

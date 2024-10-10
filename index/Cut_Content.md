@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 115765
+revid: 115782
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -39,6 +39,15 @@ This page is about content that has either been removed or changed drastically i
     -   Replaced with Advanced Cards in the December 23rd, 2022 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
     -   Was removed on the December 23rd, 2022 Verse 2 Update.
+
+## Oaths
+
+-   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
+    -   The active passive **Mani Katti** was removed alongside this rework.
+    -   This was reworked on the 13th, August 2024.
+-   **([Previous](https://deepwoken.fandom.com/wiki/Oath:_Visionshaper?oldid=113548)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
+    -   The Oath mantra **Illusory Realm** was removed alongside this rework.
+    -   This was reworked on the 20th, September 2024.
 
 ## Mantras
 
