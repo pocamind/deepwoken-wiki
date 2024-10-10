@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 114013
+revid: 115810
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, Maestro Evengarde Rest |
+| obtainment | Aratel Island, Maestro Evengarde Rest, Chaser |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 115270
+revid: 115797
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,14 +21,10 @@ The Second Layer is a wind-based layer below the depths of [Scyphozia](First_Lay
 
 ## Accessing
 
-The Second Layer uniquely is accessed in two different ways. The dangerous option is to fall into the void at/above 50% Health (75% Health if in Player Combat), which has a complete lack of the [Light Hook](Klaris_Llfiend,_Mother_of_Lights.md) system, requiring you to either Deepdrill out, or finish the floor.  
-  
-The much safer and recommended option is to go via [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), who will offer the light hook to you if you are above power 15, but you may tag along with others if you are below power 15.
+The Second Layer uniquely is accessed in two different ways:
 
--   The Lighthook lasts for 20 minutes, in which you are unable to wipe during this period.
--   This recharges over-time even if you are not in-game.
--   Heading to New Kyrsa sets it to 10 minutes, and starting the Scion fight will obliterate it.
--   Leaving via the Light Hook tool will **not** save any items gained.
+1.  The safest (and best recommended) option is to enter through [Castle Light](Castle_Light.md), via [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), who will let you enter with the [Light Hook](Light_Hook.md) if you're power 15+. Unlike the second option, you can bring others (who may not be power 15+) with you.
+2.  The second (and most dangerous) option is to fall into the void at/above 50% Health (75% Health if in Player Combat), which has a complete lack of the Light Hook system, requiring you to either Deepdrill out or beat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) if you wish to survive.
 
 ## The Ethironal Shrine / The Eternal Gale
 

@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 115790
+revid: 115808
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -56,23 +56,23 @@ Attunements unlocked on spawn. These attunements can all be unlocked as starting
 
 Attunement-less
 
-Attunement-less 
+Attunement-less⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md) 
+[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md) 
+[Frostdraw](Frostdraw.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md) 
+[Thundercall](Thundercall.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md) 
+[Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
@@ -82,11 +82,11 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 [Shadowcast](Shadowcast.md)
 
-Shadowcast 
+Shadowcast⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 Ironsing
 
-Ironsing 
+Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115793
+revid: 115794
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1193,8 +1193,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Gives a burst of insanity to yourself.
         -   Immediatly lose 15% sanity on use.
         -   If above 80% sanity, immediatly lose sanity down to 65%
-        -   You start benefitting from Talents that require insanity to use (namely Lose Your Mind)
-        -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
+    -   You start benefitting from Talents that require insanity to use (namely _Lose Your Mind_)
+    -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
+        -   Namely Shared Misery and _Piercing Will_.
+        -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your insanity Tier. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
 ### Human Architecture
@@ -1478,7 +1480,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
 
--   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning and causes your Eruptions to be Empowered for the next 10s. 45s CD. (+4 Elemental Intensity)
+-   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
 
 -   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
@@ -1719,8 +1721,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Mr Charm
 
 > _**"I seek the qualities of Mr Charm."**_
-
-  
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 

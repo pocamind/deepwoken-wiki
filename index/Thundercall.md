@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 114082
+revid: 115796
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -132,6 +132,7 @@ Lightning Impact
 -   12 Second Cooldown.
 -   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making move forward a little before slamming down.
+-   Guard breaks even at Lv. 1
 
  |
 |  | 
@@ -166,7 +167,7 @@ Lightning Strike
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Aeon/Eternal Logstones** to increase the amount of projectiles summoned.
 -   Can be modified with **Crystal/Perfect Lenses** to increase range of projectiles' reach.
--   Can be modified with **Drift Shard/Rush Shard** to decrease the amount of endlag (including feints).
+-   Can be modified with **Drift Shard/Rush Shard** to decrease the amount of endlag (including feints)
 
  |
 |  | 
