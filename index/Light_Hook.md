@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 115768
+revid: 115770
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Items]
@@ -20,9 +20,11 @@ The Light Hook lasts for a finite amount of time, and will disappear once that t
 
 -   The Light Hook will last for 20 minutes at full charge, and will recharge over time when not in use (including when you are not in-game)
 -   It will only begin recharging after 10 minutes have passed since its last use, and every minute thereafter will account for a minute with the Light Hook (until fully charged)
--   You can see how much time you have left by hovering over the item in your inventory
--   The Light Hook does not need to be fully charged to enter the second layer through Castle Light again
+-   You can see how much time you have left by hovering over the item in your inventory.
+-   The Light Hook does not need to be fully charged to enter the second layer through Castle Light again.
 
 Heading to [New Kyrsa](Second_Layer/New_Kyrsa.md) sets the timer to 10 minutes, and beginning the fight with [Scion of Ethiron](Scion_of_Ethiron.md) will obliterate it.
 
 **Activating the Light Hook will remove any items you have collected in the second layer**, same as the Deepdrill.
+
+-   There is one exception to this rule. If you equip the item collected and then leave, the item will be kept. Unequippable items, such as [Deep Gems](Mantra_Modifiers.md), do not benefit from this leniency.

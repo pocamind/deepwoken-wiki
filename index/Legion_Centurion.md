@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 115716
+revid: 115776
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -29,7 +29,6 @@ This Outfit also grants the [Talent Card](Talents.md) _Centurion's Resolve_, whi
 This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 -   [Megalodaunt On a Ship (chest)](Random_Encounters.md#megalodaunt-on-a-ship)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [The Depths](The_Depths.md) (Chest)

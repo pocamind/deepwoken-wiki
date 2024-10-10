@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 115645
+revid: 115777
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -30,6 +30,6 @@ categories: [Weapons, Fists]
 
 ## Trivia
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) famously uses this weapon. (Would make a little more sense for him to use a [Wraithclaw](Wraithclaw.md) tho.)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) famously uses this weapon.
 
 -   At max LHT, the damage is (21.6)
