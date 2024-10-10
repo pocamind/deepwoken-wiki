@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 115665
+revid: 115764
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -449,7 +449,7 @@ Main article: [Status Effects](Status_Effects.md)
 </tr>
 <tr>
   <th>Perfect Casting</th>
-  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and Talents utilize Perfect Casting to better strengthen their power, but all around, Perfect Casting will:
+  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and Talents utilize Perfect Casting to better strengthen their power, such as:
   <ul>
     <li>Cast the spell faster.</li>
     <li>Increase damage.</li>
