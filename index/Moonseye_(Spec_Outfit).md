@@ -1,9 +1,9 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 115729
+revid: 115899
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive Outfits, Outfits]
+categories: [Exclusive Outfits, Outfits, Spec/Mod Outfits]
 ---
 
 # Moonseye (Spec Outfit)

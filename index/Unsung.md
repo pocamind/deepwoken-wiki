@@ -1,9 +1,9 @@
 ---
 title: Unsung
-revid: 115732
+revid: 115902
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Exclusive Outfits]
+categories: [Outfits, Exclusive Outfits, Spec/Mod Outfits]
 ---
 
 # Unsung

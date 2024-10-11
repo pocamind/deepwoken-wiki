@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 115820
+revid: 115926
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3
 
 Gigameds are player-sized glowing light-blue Jellyfish that are commonly found all across the _**[First Layer](First_Layer.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups, though they give very little XP. Gigameds are commonly referred to as "healthpacks", giving free health to whoever is in need due to ease of killing, they also give back Sanity with Conquer your Fears, or Food with Carnivore.
 
-Commonly referred to as **Jellyfish**.
+Also commonly referred to as **Jellyfish**.
 
 ## Attacks
 
@@ -37,5 +37,4 @@ Electric Stun Pulse
 -   Electric Stun Pulse is one of the few attacks that can't ever be parried, even with Talents that allow you to parry un-parryable attacks.
 -   Gigameds give little to no EXP, so don't farm them thinking it's a safe & slow way to progress.
 -   Gigameds can't naturally be corrupted.
--   Gigameds can be slightly more dangerous when paired with other [Monsters](Monsters.md) or Gigameds.
 -   Gigameds have the highest lightning resistance in the game out of any monster, taking almost zero damage from [Thundercall](Thundercall.md) Mantras.

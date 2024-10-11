@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 115823
+revid: 115923
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -29,7 +29,7 @@ Nyanna is a [Felinor](Felinor.md) seller NPC located in [Castle Light](Castle_Li
 
 -   if chose option 1 -Here's what I'm offering at the moment. (opens shop)
 -   if you chose option 2
--   Are you slow? Yes, premium noes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself.( will give you option 1 to open the shop)
+-   Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself.( will give you option 1 to open the shop)
 
 ## Shop Rotation
 

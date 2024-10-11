@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 110619
+revid: 115916
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, The Divers]
@@ -34,9 +34,8 @@ After the quest, Karliah quits [The Divers](The_Divers.md) and can be found rest
 -   Karliah's hair combo is 4584787037.
 -   Karliah Colors: #96acba Skin | #5D6072 Hair | #daa400 Pupils | #be0000 Facial Marking
 -   Karliah seems to show a romantic interest in your character, likely as a result of the player's high charisma required to begin her questline.
-    -   Due to this, she is considered a love interest by many players, and apparently Deepwoken players are insane enough to believe that fictional women show any form of interest in them, which they do not.
 -   Karliah is quite inexperienced in combat, and was easily beaten down by [Mudskippers](Mudskipper.md) during her quest.
 -   Karliah wears the [Diver Apprentice](Diver_Apprentice_Robes.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
 -   You can get +20 notes if you begin Karliah's quest with Charisma
--   Karliah is canonically short, Her in-game model is shorter than every other NPC, including the player.
+-   Karliah is canonically short, Her in-game model is shorter than every other NPC, including the player, This is a trait shared with [Epsi](Epsi.md), although he is short because he is a child. (yo ignition union,, wtf bro..)
 -   Karliah's hair can be found [here](https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun).

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 115326
+revid: 115934
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -177,7 +177,7 @@ General store
 
 Warning: This quest is exceptionally difficult. Recommended for high-level and properly equipped players.
 
--   To begin this quest, you must have a positive [reputation](Reputation.md) in Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If you have a lot of notes, you can simply buy wood and hand it to the lumberjack. Similarly, you can chop trees and sell their wood to the lumberjack.
+-   To begin this quest, you must have a positive [reputation](Reputation.md) in Etrea and positive [reputation](Reputation.md) with [The Ministry](The_Ministry.md). This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If you have a lot of notes, you can simply buy wood and hand it to the lumberjack. Similarly, you can chop trees and sell their wood to the lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to [Kennith](Kennith.md). Kennith is an Etrean Guard and is located next to a bridge near the [Palace](Etris_Palace.md).
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about the [Lord Regent's](The_Lord_Regent.md) reputation as a ruler.
 -   Talk to Bookkeeper [Andros](Bookkeeper_Andros.md) in the library.

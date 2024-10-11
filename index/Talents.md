@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115831
+revid: 115929
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -106,7 +106,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Adaptive Arsenal
 
-> _**"I seek the qualities of Adaptive Arsenal."**_
+> _**"I seek the qualities of Big Raga."**_
 
 -   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit (Stranded Outfit)
@@ -121,7 +121,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Adept Caster
 
-> _**"I fight from afar."**_
+> _**"Sniping is a good job mate."**_
 
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
@@ -150,7 +150,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Aerial Dancer
 
-> _**"I dance with the winds."**_
+> _**"I guess you could call me a Wind Dancer"**_
 
   
 
@@ -160,7 +160,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Aeromancer
 
-> _**"I am a master of the winds."**_
+> _**"The wind itself bows to me."**_
 
 -   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
     -   Reduces falling speed and prevents fall damage.
@@ -193,7 +193,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Alchemist
 
-> _**"I enjoy mixing potions."**_
+> _**"Jesse don't put the Bluecap in!"**_
 
 _**You need to have made and drunk at least one potion for the Talents to start showing up.**_
 
@@ -246,7 +246,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### All-Knowing
 
-> _**"I seek the qualities of All-Knowing."**_
+> _**"I seek complete knowledge over all else."**_
 
 -   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
     -   Prerequisite: 80 Intelligence
@@ -265,7 +265,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### Angler
 
-> _**"I am a simple fisherman."**_
+> _**"Go get an Erisian fish, fetch boy."**_
 
   
 
@@ -283,7 +283,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### Annihilator
 
-> _**"I seek the qualities of Annihilator."**_
+> _**"I seek the qualities of an Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
     -   The Talent is less effective with less points you have. (ex. Post Shrine of Order)
@@ -291,7 +291,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### Apex Predator
 
-> _**"My hunt is inescapable."**_
+> _**"My hunt is unending and my prey will never find respite."**_
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
@@ -318,7 +318,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### Assassin
 
-> _**"I prefer to attack unseen."**_
+> _**"I am a member of the Creed."**_
 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
@@ -351,7 +351,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### Authority Interrogator
 
-> _**"I work for the Authority."**_
+> _**"Alright you damn Etrean, where's the notes."**_
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: 60 Thundercall, Power 10
@@ -399,7 +399,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Blindseer
 
-> _**"I seek the qualities of Blindseer."**_
+> _**"I seek the power of the Blindseer Oath."**_
 
   
 
@@ -417,7 +417,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Berserker
 
-> _**"I seek the qualities of berserker."**_
+> _**"I seek the qualities of a berserker."**_
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
     -   When activated:
@@ -430,7 +430,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Brawler
 
-> _**"I do not need a weapon."**_
+> _**"I may not wield a blade but my fists are more than suffice to substitute for the need of a weapon."**_
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
     -   Procs by pressing Y (Works with one Fist Style)
@@ -441,7 +441,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Bruiser
 
-> _**"I am a master with my hands."**_
+> _**"I am a master in hand to hand combat."**_
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
     -   Can be procced by bleed, allowing for hitstun from a single M1 to proc Brazen Blow.
@@ -536,7 +536,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cold Phantom
 
-> _**"I seek the qualities of Cold Phantom."**_
+> _**"I seek the power of the Cold Phantom."**_
 
 -   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled. (+5 Elemental Intensity)
     -   7 seconds duration.
@@ -545,7 +545,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Colossus
 
-> _**"I stand far above others, an insurmountable challenge."**_
+> _**"I stand far above others, as an insurmountable challenge."**_
 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Harsh Response, Use a Greatsword
@@ -694,6 +694,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Deal damage around you whenever you steal ether.
 
 ### Dawnwalker
+
+> _**"Don't touch that rainbow butterfly dude"**_
 
 -   _Absolute Radiance \[Unlockable Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period._
 -   _Protagonist Syndrome \[Unlockable Talent, Dawnwalker Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast._
@@ -1201,7 +1203,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Human Architecture
 
-> _**"I seek the qualities of Human Architecture."**_
+> _**"Here's one wall you'll never crawl you red and blue buffoon!"**_
 
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
@@ -1227,7 +1229,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Ice Age
 
-> _**"I would see this world freeze."**_
+> _**"Aisu Eiji" - Ice Admiral**_
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
     -   Will stop all movement from players affected, and will prevent rolling.
@@ -1263,7 +1265,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Immolator
 
-> _**"I burn so that I may succeed."**_
+> _**"Within my suffering I find strength to fight."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
     -   Prerequisite: 40 Flamecharm
@@ -1341,7 +1343,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Ironsinger
 
-> _**"I obtained the lost art of Ironsinging."**_
+> _**"I wish to master this lost art."**_
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
     -   Bleed damage now only deals 15% more damage.
@@ -1387,7 +1389,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Iron Will
 
-> _**"I seek the qualities of Iron Will."**_
+> _**"I seek an Iron Will."**_
 
   
 
@@ -1552,7 +1554,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Limitbreaker
 
-> _**"I go beyond my limits."**_
+> _**"I wish to break the limits set upon me."**_
 
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)
     -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damaged but wont be knocked even at 0%.
@@ -1728,24 +1730,35 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"My soul is an instrument with its own frequency."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
-    -   Takes 100% ether to be used, therefore deactivating ardour.
-    -   Will also combat tag anybody hit.
-    -   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
-    -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
+
+> _**"REEEEEEEEEEE"**_
+
+-   Takes 100% ether to be used, therefore deactivating ardour.
+-   Will also combat tag anybody hit.
+-   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
+-   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
-    -   Will drain ether when in use under power 20. (ether drain scales on level)
-    -   Deactivated when having 0% ether, or upon using Ardour scream.
-    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md).
+
+> _**"Say goodbye to your posture." -Stone, Heavy Hands Ring, Heavy Hitter, Two Handed Sovereign Punishment user"**_
+
+-   Deactivated when having 0% ether, or upon using Ardour scream.
+-   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md).
 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
-    -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Average Health, Green = Healthy
-    -   **Disabled on players with Not a Scratch.**
-    -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md).
+
+> _**"It always feels like someone is watching me"**_
+
+-   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
+-   Red = Low Health, Yellow = Average Health, Green = Healthy
+-   **Disabled on players with Not a Scratch.**
+-   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md).
 
 -   _**[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
-    -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md)
+
+> _**"Spy 'round here"**_
+
+-   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md)
 
 ### Natural Armor
 
@@ -1819,7 +1832,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### One Eyed King
 
-> _**"I see what I desire to."**_
+> _**"I wish to obtain big muscle. Oorah"**_
 
   
 
@@ -2137,7 +2150,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Shipwright
 
-> _**"I repair ships."**_
+> _**"I can fix it!"**_
 
 -   Emergency Repairs \[Common Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
@@ -2774,52 +2787,82 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
 
--   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
+> _**"Feels like you can take on the world in there, doesn't it?**_
+
+-   s as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a Sky Statue.
+
+> _**"My blade shall never falter in battle"**_
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
 
+> _**"Anyone got a blindfold?"**_
+
 -   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot)
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
+
+> "_**I CAST INSTANT EXECUTION!"**_
 
 -   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 
+> _**"I will bind those who commit evil deeds and drag them to the light that is Justice"**_
+
 -   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot)
     -   Prerequisites: Have 30 Kyrsan Medalions and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+
+> _**"I wield the Radiant Tones as my blade to cleave the darkness in twain"**_
 
 -   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
     -   Prerequisites: [Power](Power.md) 12, Change your hair 12 times at any [Barber](Barber.md). (Does not have to be a unique haircut)
 
+> _**"Oh nah I messed up we gotta go bald"**_
+
 -   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
     -   Prerequisites: 50 Agility and beat [Alirian](Alirian.md) in race.
+
+> _**"She a runner, she a trackstar"**_
 
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
+> _**"I sorry little ones"**_
+
 -   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Resistance)
     -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
+
+> _**"Remember when Oathless was obtained from talent cards"**_
 
 -   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
     -   Prerequisites: 75 Intelligence, complete Ciea's quest once.
 
+> _**"JESSE WE NEED TO COOK"**_
+
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements. (+2 Posture, +10 Health)
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 in any Weapon stat, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
+
+> _**"As a victim of the song, I pledge to drive the wielders of the song extinct"**_
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
+> _**"Wait why do torture the guy we worship and drink his blood?"**_
+
 -   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 
--   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - TBD
-    -   Prerequisites:
+> _**"I can be here or there as I can be everywhere"**_
 
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
-    -   Prerequisites:
+## Unreleased Oaths:
 
-### Miscellaneous
+-   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - TBA
+    -   Prerequisites: TBA
+
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBA
+    -   Prerequisites: TBA
+
+## Miscellaneous Talents
 
 > _**"Uh..."**_
 
