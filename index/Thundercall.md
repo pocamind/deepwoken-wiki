@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 115796
+revid: 115953
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -111,7 +111,7 @@ Fleeting Sparks
 
   
 
--   Deals 45 thunder damage. (Probablly 15 per spark)
+-   Deals 45 thunder damage. (Probably 15 per spark)
 -   \[\] Second Cooldown.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured.
     -   This modifier does the same amount of damage as default.
