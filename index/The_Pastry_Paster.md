@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 115662
+revid: 115872
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Unique Critical]
@@ -27,7 +27,7 @@ categories: [Weapons, Weapons with Unique Criticals, Club, Unique Critical]
 
 ## Description
 
-The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 MED, 15 CHA, 15 INT. It appears to be a rolling pin which is supposed to be in the kitchen, until you wielded it as a deadly weapon. While doing a damage calculation, it is belived the scaled damage at 100 MED, 100 CHA, and 100 INT is to be around 23.9, although I might've messed up the calculation resulting in this being completely false.
+The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 MED, 15 CHA, 15 INT. It appears to be a rolling pin which is supposed to be in the kitchen, until you wielded it as a deadly weapon. While doing a damage calculation, it is belived the scaled damage at 100 MED, 100 CHA, and 100 INT is to be ~around 23.9, although I might've messed up the calculation resulting in this being completely false.~ 26 damage, it does 26 damage at 100 MED, 100 CHA, and 100 INT (30 if it's 6 proficiency). -sourced from deepwoken builder website!
 
 ## Trivia
 

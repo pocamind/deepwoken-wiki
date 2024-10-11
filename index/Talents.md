@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115794
+revid: 115831
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1596,8 +1596,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)
     -   Prerequisite: 20 Willpower
 
--   _Thresher Claws_ \[Rare Talent\] - All of your attacks have 10% more PEN.
-    -   Mantras receive only 5% more PEN.
+-   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your M1's and critical attacks have an additional +5% PEN on top.
     -   Prerequisite: [Power](Power.md) 13
 
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
@@ -1684,8 +1683,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
   
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
-    -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 25 times, for a 100% damage boost.[\[2\]](#cite-note-2)
+    -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
+    -   Can stack up to 20 times, for a 100% damage boost.[\[2\]](#cite-note-2)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.

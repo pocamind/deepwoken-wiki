@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Cloak
-revid: 115691
+revid: 115856
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Armors, Items, Outfits, Adept Outfits]
 ---
 
 # Pathfinder Cloak

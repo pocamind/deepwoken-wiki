@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 114926
+revid: 115827
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -31,7 +31,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -53,7 +53,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
@@ -72,7 +72,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
--   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
 -   5\* Voidwalker Chests
@@ -88,7 +88,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md) **(Exceedingly Rare)**
--   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [First Layer](First_Layer.md)
@@ -132,7 +132,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Primadon chest](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
  |
 | File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.

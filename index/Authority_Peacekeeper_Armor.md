@@ -1,9 +1,9 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 115681
+revid: 115846
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, The Central Authority]
+categories: [Armors, Items, Outfits, The Central Authority, Adept Outfits]
 ---
 
 # Authority Peacekeeper Armor

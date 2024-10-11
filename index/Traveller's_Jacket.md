@@ -1,9 +1,9 @@
 ---
 title: "Traveller's Jacket"
-revid: 115677
+revid: 115841
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Armors, Items, Outfits, Starter Outfits]
 ---
 
 # Traveller's Jacket

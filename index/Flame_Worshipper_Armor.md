@@ -1,9 +1,9 @@
 ---
 title: Flame Worshipper Armor
-revid: 115687
+revid: 115852
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Armors, Items, Outfits, Adept Outfits]
 ---
 
 # Flame Worshipper Armor

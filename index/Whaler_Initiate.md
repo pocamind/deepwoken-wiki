@@ -1,9 +1,9 @@
 ---
 title: Whaler Initiate
-revid: 115679
+revid: 115843
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits]
+categories: [Outfits, Starter Outfits]
 ---
 
 # Whaler Initiate

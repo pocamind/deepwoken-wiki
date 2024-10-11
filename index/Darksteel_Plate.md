@@ -1,9 +1,9 @@
 ---
 title: Darksteel Plate
-revid: 115698
+revid: 115866
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Armors, Items, Outfits, Expert Outfits]
 ---
 
 # Darksteel Plate

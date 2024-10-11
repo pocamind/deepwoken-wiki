@@ -1,6 +1,6 @@
 ---
 title: Derelict Highchurch
-revid: 110617
+revid: 115826
 source: https://deepwoken.fandom.com/wiki/Derelict_Highchurch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -32,6 +32,6 @@ _For a visual guide, consider watching this gif._
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis, the same creepy music used in places such as [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis, the same creepy music used in places such as [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), Duke Erisia’s Manor, Voidheart, and the Beloved Zofia
 -   This is the only place with un-searchable bookshelves, they are also much larger and unlike any other bookshelves in the game.
 -   This church was originally a spot owned by [Ezra](Ezra.md) to worship Ku, a [Celestial](Celestial.md) that many [Capra](Capra.md) worship. Until [Samael](Samael.md) kicked them out in pursuit of [Starkindred](Oath%253A_Starkindred.md).

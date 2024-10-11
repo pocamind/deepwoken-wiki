@@ -1,9 +1,9 @@
 ---
 title: Union Initiate
-revid: 115678
+revid: 115842
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Outfits]
+categories: [In progress without reason, InProgressPages, Items, Outfits, Starter Outfits]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

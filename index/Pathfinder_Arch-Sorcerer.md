@@ -1,9 +1,9 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 115706
+revid: 115875
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits]
+categories: [Items, Outfits, Expert Outfits]
 ---
 
 # Pathfinder Arch-Sorcerer

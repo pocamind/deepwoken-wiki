@@ -1,9 +1,9 @@
 ---
 title: Authority Commander
-revid: 115710
+revid: 115880
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Armors, Items, The Central Authority]
+categories: [Outfits, Armors, Items, The Central Authority, Master Outfits]
 ---
 
 # Authority Commander
