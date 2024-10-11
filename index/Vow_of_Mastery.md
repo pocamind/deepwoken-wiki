@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 112517
+revid: 115949
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -23,7 +23,9 @@ Confirmation menu when accepting a Vow of Mastery.
 To become a master, you must ask a player:  
 "Wanna make a vow of mastery \[First Name\]?"
 
-The player must respond positively ("yes" "sure" "alright" etc.) After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation will play and the player will become your Subject. You can now use commands on them, by typing them into chat. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
+Additionally, you can also use the Vow of Mastery tool and click on "Offer a Vow of Mastery".
+
+The player must respond positively ("yes" "sure" "alright" etc.) After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation of shaking hands will play and the player will become your Subject. You can now use commands on them, by typing them into chat. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
 
 Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) or wiping, and can only have one master, making the decision relatively permanent.
 
@@ -33,7 +35,7 @@ In addition to using the name of a specific Subject, commands can use the names 
 
 | Command | Requires Talent | Usage | Effect | Cooldown |
 | --- | --- | --- | --- | --- |
-| Sleep | No | "_\[Name\]_, sleep" | Downs the Subject for 5 seconds, allowing them to be carried or gripped.
+| Sleep | No | "_\[Name\]_, sleep" | Essentially knocks the subject for 5 seconds, allowing them to be carried or gripped.
  | None |
 | Say | No | "_\[Name\]_, say _\[message\]_" | Forces the Subject to speak your prompt.
 
@@ -55,7 +57,7 @@ Take all of your Subject's Ether and turn it into a small orb, which flies towar
 _Range limit but not too bad._
 
  | None |
-| Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
+| Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. The subject cannot stop running. Will be a tad bit difficult to control.
 
  | 2 minutes |
 | Fight | No, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed.
@@ -81,8 +83,8 @@ Works on knocked players, cancelling the knocked state and grips, but does not w
 (30 seconds if you have less than 60 Charisma)
 
  |
-| Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the Subject, just like the NLK Enchant, but with explosion | ? |
-| Live | Yes, 75 Charisma, Rare | "_\[Name\]_, live" | Fully heals the subject, reviving them if they are knocked, cancelling any grip or carry.
+| Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the subject, causing them to die instantly and deal damage + burn on anyone nearby the radius of the explosion. | ? |
+| Live | Yes, 75 Charisma, Rare | "_\[Name\]_, live" | Fully heals the subject to 100%, reviving them if they are knocked, cancelling any grip or carry.
 
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 

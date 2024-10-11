@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 115916
+revid: 115936
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, The Divers]
@@ -37,5 +37,9 @@ After the quest, Karliah quits [The Divers](The_Divers.md) and can be found rest
 -   Karliah is quite inexperienced in combat, and was easily beaten down by [Mudskippers](Mudskipper.md) during her quest.
 -   Karliah wears the [Diver Apprentice](Diver_Apprentice_Robes.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
 -   You can get +20 notes if you begin Karliah's quest with Charisma
--   Karliah is canonically short, Her in-game model is shorter than every other NPC, including the player, This is a trait shared with [Epsi](Epsi.md), although he is short because he is a child. (yo ignition union,, wtf bro..)
+-   Karliah is canonically short, Her in-game model is shorter than every other NPC, including the player, This is a trait shared with [Epsi](Epsi.md), although he is short because he is a child.
 -   Karliah's hair can be found [here](https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun).
+
+## Gallery
+
+Karliah being beaten down by said Mudskipper. Interacting with her will cause a Mudskipper to spawn.

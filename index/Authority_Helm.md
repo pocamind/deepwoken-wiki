@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 113863
+revid: 115940
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Central Authority]
@@ -29,3 +29,7 @@ categories: [Equipment, Head, Helmets, The Central Authority]
 The Authority Helm is an [Equipment](Equipment.md) item under the "Head" category. It can be found in [Erisia](Erisia.md), Merchant Ships and can be dropped by Authority Commanders, Authority Officers and Authority Peacekeepers. It requires 10 Fortitude to wear. The iconic headgear of [The Central Authority](The_Central_Authority.md) fighting forces.
 
 Grants the [Talent](Talents.md) "Strong Hold."
+
+## Trivia
+
+-   The last part of the description "Within this dark a blazing light" is a reference to the song "Gideshu March", the Central Authority's (unofficial) marching song.
