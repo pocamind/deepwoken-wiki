@@ -1,6 +1,6 @@
 ---
 title: Etrean Guard
-revid: 115868
+revid: 115994
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -32,7 +32,7 @@ This Outfit's Schematic can be obtained from:
 
 ## Trivia
 
--   A watered-down version of the [Darksteel Plate](Darksteel_Plate.md), featuring -5% Elemental Armor. However, it lacks the 20 Fortitude requirement and is less expensive to make.
+-   A watered-down version of the [Darksteel Plate](Darksteel_Plate.md), featuring -5% Elemental Armor and reduced Durability. However, it lacks the 20 Fortitude requirement and is less expensive to make.
 -   As its name implies, the Etrean Guard outfit is worn by every member of the [Etrean military](Etrean_Guardsmen.md).
     -   A purple-dyed variant is worn by the [Etrean Soldiers](Etrean_Soldier.md) found outside Etris.
 -   It was formerly exclusive to the aforementioned Etrean NPCs, but was made accessible to players due to popular demand.

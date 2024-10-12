@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 113191
+revid: 115998
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -102,6 +102,7 @@ File:Mudskipper Brute Roar.gif
     -   The Mudskipper Brute replaced Megalodaunts within the Trial of One upon release, only to be swapped back with the Megalodaunts the week after.
 -   Its design, along with the [Broodlord](Mudskipper_Broodlord.md) variant, are inspired by the Clickers from _The Last of Us_.
     -   The design could also be influenced by the Bloater from the same game.
+    -   Prior to the October 11th 2024 update, Mudskipper Brutes could see through walls. Clickers are known for their hearing.
 -   It will be killed instantly when attacked by a cannonball.
 -   It appears that Mudskipper Brutes can parry projectiles. This has no animation or particle effects but still inflicts parry stun if possible.
 -   Both it and the [Mudskipper Broodlord](Mudskipper_Broodlord.md) can sometimes noclip when using Lumbering Smash.

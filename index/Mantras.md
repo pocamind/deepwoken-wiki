@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 115561
+revid: 115967
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -125,7 +125,7 @@ Hybrid mantras are obtained upon reaching the required level in multiple attunem
 -   Versatility due to their ability to inherit the effects of two attunement paths such as Surge and Wraith Path.
 -   Typically requires high investment into your attunement attributes.
 
-### [Physical Mantras](Attunement-less.md)
+### [Physical/Attunement-less Mantras](Attunement-less.md)
 
 There are Mantras that are based off of Core Attributes, rather than your Attunement. This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
 

@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 115329
+revid: 116024
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,111 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **October 11th, 2024**
+
+**Content & Systems**  
+• New Legendary Weapon: Imperator's Edge  
+• New MED Weapon Type: Twinblade  
+• New Twinblade Weapon: Crescendo  
+• New Twinblade Weapon: Scalesplitter  
+• New Twinblade Talent: Face Cutter  
+• New Twinblade Talent: Turning of the Wheel  
+• New Legendary Ring: Charged Ring  
+• New Legendary Ring: Ferryman's Ring  
+• Added new Corruption Downside: "Blood Loss"  
+• Added an Export button to the TAB menu. Clicking export will bring up a textbox that you can copy with your build summarised. Exporting your build will let you share it with others or potentially import it into 3rd party character builders should they add support! (hint hint)  
+• Chariot's Spire is now available as an initial spawn for Ignition Delvers  
+• Chariot's Spire now has many amenities on offer for its Delvers  
+  
+**The Great Equipment Rebalance**  
+Following a lot of improvements to our internal tools for editing and viewing equipment, this patch is dropping with a pretty substantial list of changes to Equipment. Equipment has been broadly divided into Level brackets based on their stats, with items that fall above and below the curve being tweaked to match their bracket's strength, as well as the item itself's rarity.  
+  
+**Arms**  
+• Adjudicator's Coats, Pathfinder Elites, Justicar Defenders, Royal Duelists, Ministry Cloaks, Fleet Warden Capes LVL req reduced (13 -> 8)  
+• First Ranger Dusters, Aristocrat Coats LVL req reduced (13 -> 10)  
+• Imperial Pauldrons  
+• Grand Fisher Plate, Diver's Light Plate, Moonseye Gauntlets, Warden Pauldrons, Hive Scourge Cuirass, Legion Phalanx Plate, Ironsinger Heavy Plate LVL req increased (10 -> 13)  
+• Ignition Gauntlets LVL req increased (8 -> 13)  
+• Deepwoken Cloaks, Providence Coat LVL req increased (8 -> 10)  
+• Glassdancer Wraps LVL req increased (6 -> 8)  
+• Monastery Champion Robes now give 1 Posture  
+• Enforcer Plate given 1 Posture, Rare pip upgraded into Legendary pip  
+• Imperial Pauldrons HP increased (3 -> 7)  
+• Bluesteel Pauldrons HP increased (2 -> 5)  
+• Warden Pauldrons and Providence Coat have each been given a Legendary pip  
+• Moonseye Gauntlets and Blacksteel Pauldrons have each been given a Rare pip  
+• Autumn Pauldrons given 2 HP  
+• Azure Royal Guard given Legendary pip  
+• Grand Pauldrons given 1 Posture  
+• Silver Pauldrons given 1 Posture  
+• Leather Gloves Uncommon pip downgraded to Common pip  
+• Adventurer Coats given 3 HP  
+• Black Overcoat given Uncommon pip  
+• Brigand's Cloak given 4% Stealth  
+• Leather Pauldrons given 1 Posture, HP increased (2 -> 5)  
+• Simple Pauldrons given 1 Posture, Common pip  
+• Steel Pauldrons given 1 Posture, HP increased (2 -> 5)  
+• Glassdancer Wraps HP reduced (7 -> 2)  
+• Winter Corps Parka, Vanguard Brace, Brilliant Pauldron LVL req added (10)  
+• Sandrunner Wraps, Tracker's Brace, Ranger's Brace, Redsteel Pauldrons, Ministry Operative Cloak, Enforcer Plate, Blacksteel Pauldrons, Woodland Pauldrons, Azure Royal Guard, Silver Pauldrons, Khan Pauldrons LVL req added (8)  
+• White/Black Fur Pauldrons, White/Black/Brown Parka, Novice Brace, Brigand's Cloak, Bluesteel Pauldrons, Iron Pauldrons, Steel Pauldrons, Grand Pauldrons, Mercenary's Garb, Adventurer Coats, Black Overcoat LVL req added (5)  
+  
+**Head**  
+• Royal Guard's Kabuto given Legendary pip  
+• Blackleaf Helm Posture reduced (2 -> 1)  
+• Deepscorn Casque, Chef's Toque, Royal Guard's Kabuto, Familiar Helms LVL req added (8)  
+• Ten-Gallon Hat, Guard's Kabuto, Captain's Kabuto, Phalanx Helmet, Immortal Helm LVL req added (5)  
+• Bloodforged Crown, Simmerbloom Diadem LVL req reduced (15 -> 12)  
+  
+**Legs**  
+• Mercenary's Boots have been given a LVL req (10)  
+  
+**Torso**  
+• Warmaster's Medallion, Lightkeeper's Medallion, Tiran Pendant have each been given a Legendary pip  
+• Fleet Warden Capes have been given a Rare pip  
+• Shrouded Capes and Dark Owl Cape now have 2 Elemental Armor  
+• Wormwarder Lantern now gives 10 Sanity  
+• Canticlysm Pendant, Confessor's Charm, Grand Pathfinder's Backpack, Whistling Periapt, Lightkeeper's Medallion, Warmaster's Medallion, Tiran Pendant LVL req added (8)  
+• Varicosa Medallion, Curseblood Pendant, Red Eye Pendant, Seafarer Pendant, Nomad Pendant, Monastery Beads, Brilliant Cape, Golden Cape, Black Cape, Shrouded Capes, Dark Owl Cape, Adventurer's Scarf, Black Scarf, Crimson Scarf, Dawn Scarf, Desert Scarf, Sandrunner Scarf, Forest Scarf, Tundra Scarf, Whaler Scarf, White Scarf LVL req added (5)  
+  
+**Ears**  
+• Old Blood Earrings, Moonlit Earrings have been given a LVL req (5)  
+  
+**Rings**  
+• Finisher's Ring, Ring of Casters LVL req reduced (13 -> 10)  
+• Ferryman's Ring Rare pip upgraded into a Legendary pip  
+  
+**Balancing & Tweaks**  
+• Parry Stun duration range has been adjusted (0.2s to 0.3s -> 0.15 to 0.35s)  
+• Feint endlag maximum duration increased (0.2s -> 0.3s)  
+• "Burning" Corruption Downside no longer sets you on fire. Instead, it applies Wither equivalent to 15% of your max HP  
+• Removed endlag on getting hit by or venting Judgement. Do note that you'll still be if hit, but you can now parry attacks that follow Judgement  
+• You are now immune to Judgement for 5s after having been hit by it (prevents getting chain Judgemented in ganks)  
+• Judgement is no longer resisted by Slash/Physical resistance  
+• Flow State cooldown added, window reduced  
+• Mayhem Medium flow state windup increased  
+• Rising Star regular & flow state versions have longer windup now  
+• Saramaed Hollow can now drop Sinner's Ash at high depths  
+• Removed X-Ray vision from Brutes/Broodlords  
+• Lava now damages most mobs  
+• Long Tong of the Law base damage increased (15.5 -> 17)  
+• Ingredients that increase/decrease incoming posture damage now retain the same potency when inverted by Antithetic Salts  
+• Capped Potion "Steadfast" and "Buckling" effects to 0.5x. This means the maximum multiplier for increasing/decreasing incoming posture damage while under this effect is 2x  
+• Soulthorn PEN buff removed  
+• Heavily reduced Sanity regen debuff on potions (0.35 -> 0.1)  
+• Chain Reaction no longer procs on lingering pots, effectiveness reduced (1.65x -> 1.4x)  
+• Reduced Vampirism Blood gain per m1 to account for Blood Loss corruption downside (5 -> 0.5)  
+• Increased Vampirism blood gain on landing M1's, now scales with your weapon's damage  
+  
+**Bugfixes & Optimization**  
+• Fixed Megalodaunt Coral Spear attack (not the mantra) going through walls  
+• Fixed Wither getting cleared for knocking a mob while in PvP combat  
+• Fixed Dimensional Travel starting its cooldown when entering The Interstice  
+• Dimensional Travel now only has a wind-up if you're in player combat, wind-up increased (0.3s -> 0.7s)  
+• Dimensional Travel's cooldown is now doubled when leaving The Interstice if you're in combat  
+• Fixed Hell Mode still requiring 5 players to start instead of 4  
+• Cleaned up the F9 log to clear up a lot of obsolete warnings
 
 ## **October 4th, 2024**
 

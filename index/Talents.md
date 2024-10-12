@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115939
+revid: 115976
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -582,8 +582,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Cosmic Wind."**_
 
--   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
-    -   Drains tempo on proc.
+-   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.
     -   If the user has the Apparitions talent, this can proc apparitions by inflicting suffocation.
     -   Prerequisites: 40 Shadowcast, 60 Galebreathe
 
@@ -591,6 +590,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am a master of creating openings."**_
 
+-   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
+    -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 -   _Knife's Journey_ \[Rare Talent, Light\] - Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage
     -   Only works on daggers.
     -   Prerequisite: 30 Light Weapon
@@ -599,6 +600,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   While the effect is active, gain a red trail on your weapon.
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
+-   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
+    -   Prerequisite: 35 Light Weapon
 
 ### Cryomancer
 
@@ -665,11 +668,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I feed on the souls of my enemies."**_
 
+-   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
+    -   Prerequisite: Shadow Chains
 -   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. (+1 Elemental Intensity)
     -   Prerequisite: 20 Shadowcast
 
--   Dark Hours \[Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity)
-    -   Shadowcast mantras deal 20% more damage at night (XX:50-XX:10).
+-   Dark Hours \[Shadowcast Exclusive\] Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+    -   Night cycle is XX:50 to XX:10.
     -   Prerequisite: 35 Shadowcast
 
 -   Dark Replenishment \[Shadowcast Exclusive\] Knocking out an enemy in combat restores a portion of your ether.
@@ -852,9 +857,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
     -   Refunds the ether cost of a mantra proportionate to your INT.
     -   Prerequisite: 30 Intelligence
-
--   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. (+7 Sanity)
-    -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisite: 20 Intelligence
@@ -1567,15 +1569,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
--   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
-    -   Grants +5% damage per Tier of [Insanity](Insanity.md). Caps out at 15%. (Tier 1 = +5% | Tier 2 = +10% | Tier 3 = +15%)
-    -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
-    -   Prerequisites: 30 Fortitude, 30 Strength
-
--   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
-    -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
-    -   Prerequisite: 80 Willpower
-
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)
     -   Prerequisite: 35 Willpower
 
@@ -1588,6 +1581,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Aggressive Posture \[Common Talent\] - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 11
+-   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
+    -   Prerequisite: [Power](Power.md) 10
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
     -   Bloodletter is an innate Talent.
@@ -1714,6 +1709,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I dominate the minds of others."**_
 
+-   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
+    -   Grants +5% damage per Tier of [Insanity](Insanity.md). Caps out at 15%. (Tier 1 = +5% | Tier 2 = +10% | Tier 3 = +15%)
+    -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
+    -   Prerequisites: 30 Fortitude, 30 Strength
+
+-   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
+    -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
+    -   Prerequisite: 80 Willpower
+
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
     -   Prerequisites: 85 Willpower
 
@@ -1751,6 +1755,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Natural Armor."**_
 
+-   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
+    -   Prerequisite: [Power](Power.md) 8
+    -   Does not affect Natural Armor from Exoskeleton and Chitin
+-   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
+    -   When your Armor is at 0%, movement speed is increased by 25%.
 -   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     -   Prerequisite: [Power](Power.md) 8
 
@@ -1799,6 +1808,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 20 Intelligence
+-   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
+    -   Prerequisite: 25 Agility
 
 ### Omniscient
 
@@ -2047,7 +2058,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
--   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +5% damage.
+-   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Seeker of Sound
@@ -2270,6 +2281,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
     -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this Talent.
+-   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. (+7 Sanity)
+    -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.
@@ -2533,7 +2546,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Revenge, 100 Agility
 
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
-    -   Prerequisites: 100 Agility, Down Comes the Claw
+    -   In the 30/05/2024 update, the duration of Maiming Claws was increased to 4s, but the talent description was never updated.
+    -   Prerequisites: 100 Agility, Down comes the Claw
 
 ### Twisted Puppets
 
@@ -2543,7 +2557,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks.
-    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame In the 28/06/2024 update, Burning Sacrifce has received a buff which now makes you get a slight damage and speed boost, scaling on how many puppets you've sacrificed.
+    -   In the 28/06/2024 update, Burning Sacrifce has received a buff which now makes you get a slight damage and speed boost, scaling on how many puppets you've sacrificed.
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
@@ -2728,9 +2743,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 50 Heavy Weapon, Greatsword/Greathammer equipped
     -   Doesn't work on [Railblade](Railblade.md). (Intended)
 
--   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
-    -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
-
 -   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisites: 20 Strength, 5 Agility
@@ -2740,9 +2752,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
-
--   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
-    -   Prerequisite: 35 Light Weapon
 
 -   _**Switchblade**_ \[Advanced Talent\] - You can now utilize Dagger talents when not wielding a dagger.
     -   Prerequisites: 50 Light Weapon, 50 Medium Weapon/50 Heavy Weapon
@@ -2823,18 +2832,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"Uh..."**_
 
--   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
-    -   Prerequisite: [Power](Power.md) 10
-
--   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
-    -   Prerequisite: [Power](Power.md) 8
-    -   Does not affect Natural Armor from Exoskeleton and Chitin
-
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   Prerequisites: 35 Fortitude, 30 Strength
-
--   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
-    -   Prerequisite: Shadow Chains
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
     -   Create a dark blueish fog around you (simulating blindness).
@@ -2853,9 +2852,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Impervious Slumber_ \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked.
     -   Prerequisite: 35 Fortitude
-
--   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
-    -   When your Armor is at 0%, movement speed is increased by 25%.
 
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
@@ -2877,9 +2873,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Also reduces burn damage received and dealt by 20%.
     -   Prerequisite: [Power](Power.md) 10
     -   Mutual Exclusive: Everchanging Aegis
-
--   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
-    -   Prerequisite: 25 Agility
 
 -   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 10% less damage from airborne enemies.
     -   Prerequisite for Equipment: [Power](Power.md) 10

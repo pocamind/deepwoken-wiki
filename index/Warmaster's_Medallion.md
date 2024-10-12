@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 114150
+revid: 115982
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso, Necklaces]
 | selling price | 100 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | N/A |
+| innate stats | 1 Legendary Pip |
 | innate talent | Actions Speak Louder |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 115587
+revid: 116012
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -322,7 +322,7 @@ Found from:
  | 
 
 _+5 Health_  
-_+2 Posture_  
+_+1 Posture_  
 
 +2 Rare Pips
 
@@ -640,11 +640,13 @@ Found from:
 
  | 
 
-_+10 Health_  
+_+10 Health_
 
-+1 Uncommon Pip  
++1 Uncommon Pip
 
 +1 Rare Pip
+
+**Requires Power 8**
 
  | 
 
@@ -661,11 +663,13 @@ Found from:
 
  | 
 
-_+10 Health_  
+_+10 Health_
 
-+1 Uncommon Pip  
++1 Uncommon Pip
 
 +1 Rare Pip
+
+**Requires Power 8**
 
  | 
 
@@ -682,11 +686,13 @@ Found from:
 
  | 
 
-_+10 Health_  
+_+10 Health_
 
-+1 Uncommon Pip  
++1 Uncommon Pip
 
 +1 Rare Pip
+
+**Requires Power 8**
 
  | 
 
@@ -952,6 +958,8 @@ _+Talent: Gourmand_
 
 _+Talent: Umami_
 
+**Requires Power 8**
+
  | 
 
 Found from:
@@ -1117,6 +1125,10 @@ _+8 Health_
 
 +1 Rare Pip
 
++1 Legendary Pip
+
+**Requires Power 8**
+
  | 
 
 Found from:
@@ -1264,6 +1276,8 @@ _+5 Health_
 +1 Legendary Pip
 
 _+Talent: Already Dead_
+
+**Requires Power 8**
 
  | 
 
@@ -3390,13 +3404,15 @@ Found from:
 
  | 
 
-_+2 Health_  
+_+2 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
 _+Talent: Endurance Runner_
+
+**Requires Power 10**
 
  | 
 
@@ -4678,9 +4694,11 @@ Found from:
 
  | 
 
-_+2 Health_  
+_+2 Health_
 
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -4698,9 +4716,11 @@ Found from:
 
  | 
 
-_+5 Ether_  
+_+5 Ether_
 
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -4814,7 +4834,6 @@ Sources
 
 Gives every weapon 1.2 Willpower scaling when equipped.
 
-  
 +1 Legendary Pip
 
 **Requires Power 6**
@@ -4959,6 +4978,31 @@ Found from:
  |
 |  | 
 
+[Diver's Ring](<Diver's_Ring.md>)
+
+ | 
+
+Grants +5% damage to Monsters in the Depths.
+
+  
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Second Layer](Second_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+ |
+|  | 
+
 Finisher's Ring
 
 (Legendary)
@@ -4968,7 +5012,7 @@ Finisher's Ring
 Extra PEN on your attacks that flourish opponents.
 
   
-**Requires Power 13**
+**Requires Power 10**
 
  | 
 
@@ -4991,7 +5035,6 @@ Freestyler's Band
 
 Gives the user a massive increase in swimming speed while out of combat.
 
-  
 **Requires Power 3**
 
  | 
@@ -5001,6 +5044,23 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ |
+|  | 
+
+Ferryman's Ring
+
+ | 
+
+A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%.
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [The Ferryman](The_Ferryman.md)(?)
 
  |
 |  | 
@@ -5089,31 +5149,6 @@ Found from:
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-[Diver's Ring](<Diver's_Ring.md>)
-
- | 
-
-Grants +5% damage to Monsters in the Depths.
-
-  
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Second Layer](Second_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 

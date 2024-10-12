@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 115421
+revid: 115961
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -75,7 +75,7 @@ File:UllaFishStew.png
 
 File:YummerGrilledCheese.png
 
- | Grilled Cheese | 1x Bread + 1x Cheese | ✗ |
+ | Grilled Cheese | 1x Bread + 1x Cheese | ◯ |
 | 
 
  | Fish Omelette | 2x Egg + 1x Fish Meat | ◯ |

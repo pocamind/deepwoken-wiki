@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 112545
+revid: 115977
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -1283,7 +1283,17 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 
 ### Tiran
 
+**Lore Sources:** _Ploom, Pleeksty's Inferno description, Tiran pendant description_
+
+_"Solitary folk seldom seen below the clouds. Sharp and independent, though strongly protective of those who earn their respect."_
+
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
+-   The Tiran homeland is located in the Western luminant. Amorus Pleeksty also originates from the Tiran homeland as said by Ploom.
+    -   This means there is a cave that leads to layer three within the Western Luminant. According to Ploom, Amorus used a cave that went to layer three that was located somewhere in the vicinity of the Tiran homeland.
+-   The Pleeksty's Inferno's description mentions that after the ascencion of Amorus Pleeksty and his spearheading of flamecharm, Tirans began to incorperate flower patterns into their equpiment in reverence of him. This is seen on both Pleeksty's inferno and the Simmerbloom Diadem,
+    -   The flowers are likely to honor the meteor flower that allowed Amorus Pleeksty to become a deepwoken.
+-   They often make weapons by using knapped volcanic glass like obsidian. Macuahuitls are seemingly a common weapon of theirs.
+-   Tiran's have spiritual leaders who typically wear the Tiran Pendant. In the past they have had a succession crisis due to one of these spiritual leaders being killed.
 
 ### [Krulians](Krulian.md)
 
