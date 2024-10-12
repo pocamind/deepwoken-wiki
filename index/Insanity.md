@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 114040
+revid: 116113
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -54,14 +54,14 @@ Said "Blue Hue" and "New Motifs"
 -   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)) (Graceful Flame included)
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion
--   Being healed by a [Blindseer's](Oaths.md) Mindsoothe mantra
+-   Being healed by a [Blindseer's](Oath%253A_Blindseer.md) Mindsoothe mantra
 -   The [Conquer Your Fears](Talents.md) Talent
 -   The Castle Light sanity aura, which is exclusive to the [Deepbound](Origins.md) origin.
 
 ## Trivia
 
 -   While often attributed to him by the community, [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is not the cause of Insanity; rather, the eldritch nature of the First Layer is responsible. This is likely why the Second Layer does not cause Insanity, as despite its variety of monsters it's more grounded in reality.
--   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 436 sanity, which equals to just below 2 hours (118 minutes) in The Depths before tier 3 insanity.
+-   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and [Blindseer Oath](Oath%253A_Blindseer.md)) and no randomly rolled sanity stat on gear and no potions, players can reach 436 sanity, which equals to just below 2 hours (118 minutes) in The Depths before tier 3 insanity.
 -   Each point of sanity equals to 30 extra seconds in the Depths before reaching 100% insanity.
 -   The spoken phrases caused by Heretic's Sutra consist of the following (albeit without the same degree of distortion):
     -   "Ś̵̮Ô̴̰ ̸̞̈́M̵̧͌U̷̧͗C̴̺͗H̶͎̏ ̶̛̞Ṱ̴͗E̵͖͆R̷̞̊R̸̺̍O̷͍͗R̷̛͇"

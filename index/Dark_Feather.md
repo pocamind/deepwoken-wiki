@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 110926
+revid: 116119
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -65,7 +65,7 @@ Cannot be deposited nor can it be dropped by players normally; unknown whether o
 
 ## Uses
 
-The Void Feather can be given to [Surge](Surge.md) to progress the [Visionshaper](Oaths.md) oath.
+The Void Feather can be given to [Surge](Surge.md) to progress the [Visionshaper Oath](Oath%253A_Visionshaper.md).
 
 The Void Feather is used in these recipes:
 

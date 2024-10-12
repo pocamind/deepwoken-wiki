@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 114797
+revid: 116101
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals]
@@ -82,4 +82,7 @@ The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiat
 
 -   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
+
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas.
+
+-   With chainwarden, one of the claws disappear and are replaced by the chained gauntlet. It is unsure if this is intentional or not.

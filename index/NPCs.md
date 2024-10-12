@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 113129
+revid: 116110
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -106,7 +106,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Misérables](Misérables.md) | Unaligned | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe. Can be repeated if you have the knowledge/medallions required. |
 | [Nanji](Nanji.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Ilji quest | Ilji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
 | [Nell](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Etris](Etris.md), Alchemist hut | [Frostdraw](Frostdraw.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
-| [The Nestmind](The_Nestmind.md) | Unaligned |  | Grants [Oath: Visionshaper](Oaths.md) |  |
+| [The Nestmind](The_Nestmind.md) | Unaligned |  | Grants [Oath: Visionshaper](Oath%253A_Visionshaper.md) |  |
 | [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Nyanna](Nyanna.md) | Unaligned, possible The Divers | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes every 1 hour, weapons and armor can be bought enchanted |
 | [Odiolavoro](Chef_Odiolavoro.md) | Unaligned | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
@@ -145,7 +145,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |
-| [Viridian](Oath%253A_Oathless.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |
+| [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |
 | [Yamaketzal](Yamaketzal.md) | Unaligned | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |

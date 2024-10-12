@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 115583
+revid: 116121
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -224,7 +224,7 @@ Located in [Trial of One](Trial_of_One.md), [Temple of Hearts](Temple_of_Hearts.
 ## Effects
 
 This shrine acts like a [Mystic](Mystic.md), allowing you to affect your card draws.  
-In all other cases, this shrine does nothing. Does NOT progress towards the Contractor oath when a deal is made.
+In all other cases, this shrine does nothing. Does NOT progress towards the [Contractor Oath](Oath%253A_Contractor.md) when a deal is made.
 
 ## Pros/Cons
 

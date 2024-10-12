@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 116012
+revid: 116102
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -424,7 +424,7 @@ _+5 Health_
 
 _+Talent: Cauterized Wounds_
 
-**Requires Power 15**
+**Requires Power 12**
 
  | 
 
@@ -510,9 +510,11 @@ Found from:
 
  | 
 
-_+8 Health_  
+_+8 Health_
 
 +1 Rare Pip
+
+**Requires Power 5**
 
  | 
 
@@ -800,9 +802,11 @@ Found From:
 
  | 
 
-_+8 Health_  
+_+8 Health_
 
 +1 Rare Pip
+
+**Requires Power 5**
 
  | 
 
@@ -885,6 +889,8 @@ Found from:
 +1 Legendary Pip
 
 _+Talent: Immortality_
+
+**Requires Power 5**
 
  | 
 
@@ -1042,7 +1048,7 @@ Monastery Champion Cowl
 
  | 
 
-_+5% Stealth_  
+_+5% Stealth_
 
 +2 Rare Pips
 
@@ -1081,13 +1087,15 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
 
 _+Talent: Precise Swing_
+
+**Requires Power 5**
 
  | 
 
@@ -1152,6 +1160,8 @@ _+5 Health_
 
 _+Talent: Simmerbloom_
 
+**Requires Power 12**
+
  | 
 
 Found from:
@@ -1186,9 +1196,11 @@ Found from:
 
  | 
 
-_+2 Posture_  
+_+2 Posture_
 
 +1 Rare Pip
+
+**Requires Power 5**
 
  | 
 
@@ -1433,13 +1445,13 @@ Variants
 
  | 
 
-_+5 Health_  
+_+5 Health_
 
-+3 Legendary Pips  
++3 Legendary Pips
 
-_+Talent: Braced Collapse_  
+_+Talent: Braced Collapse_
 
-_+Talent: Kick Off_  
+_+Talent: Kick Off_
 
 **Requires Power 10**
 
@@ -1462,9 +1474,9 @@ Found from:
 
 +2 Rare Pips
 
-_+Talent: Unwavering Resolve_  
+_+Talent: Unwavering Resolve_
 
-**Requires Power 13**
+**Requires Power 8**
 
  | 
 
@@ -1485,7 +1497,11 @@ Found from:
 
  | 
 
+_+3 Health_
+
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -1502,15 +1518,15 @@ Found from:
 
  | 
 
-_+6 Health_  
+_+6 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
-_+Talent: Art of the Deal_  
+_+Talent: Art of the Deal_
 
-**Requires Power 13**
+**Requires Power 10**
 
  | 
 
@@ -1578,6 +1594,8 @@ _+10 Health_
 
  | 
 
+_+2 Health_
+
 +2 Rare Pips
 
  | 
@@ -1599,6 +1617,10 @@ Found from:
 
 +2 Rare Pips
 
++1 Legendary Pip
+
+**Requires Power 8**
+
  | 
 
 Found from:
@@ -1614,9 +1636,13 @@ Black Overcoat
 
  | 
 
-_+3 Health_  
+_+3 Health_
+
++1 Uncommon Pip
 
 +1 Rare Pip
+
+**Requires Power 5**
 
  | 
 
@@ -1634,13 +1660,15 @@ Black Parka
 
  | 
 
-_+2 Health_  
+_+2 Health_
 
-_+1 Posture_  
+_+1 Posture_
 
 +1 Rare Pip
 
 _+Talent: Steady Footing_
+
+**Requires Power 5**
 
  | 
 
@@ -1661,10 +1689,13 @@ Found from:
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
+_+3 Health_
 
-+1 Rare Pip
+_+1 Posture_
+
++2 Rare Pips
+
+**Requires Power 8**
 
  | 
 
@@ -1684,9 +1715,11 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+5 Health_
 
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -1702,9 +1735,13 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
+
+_+4% Stealth_
 
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -1723,11 +1760,13 @@ Found from:
 
  | 
 
-_+5 Health_  
+_+5 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
+
+**Requires Power 10**
 
  | 
 
@@ -1771,13 +1810,15 @@ Brown Parka
 
  | 
 
-_+2 Health_  
+_+2 Health_
 
-_+1 Posture_  
+_+1 Posture_
 
 +1 Rare Pip
 
 _+Talent: Steady Footing_
+
+**Requires Power 5**
 
  | 
 
@@ -1796,9 +1837,9 @@ Found from:
 
  | 
 
-_+8 Health_  
+_+8 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -1821,10 +1862,11 @@ Found from:
 
  | 
 
-_+6% Stealth_  
-_+8% Shadow Armor_  
+_+6% Stealth_
 
-+1 Rare Pip  
+_+8% Shadow Armor_
+
++1 Rare Pip
 
 +1 Legendary Pip
 
@@ -1902,14 +1944,15 @@ Found from:
 
  | 
 
-_+10 Health_  
-_+1 Posture_  
+_+10 Health_
 
-+3 Legendary Pips  
+_+1 Posture_
 
-_+Talent: Conquer Your Fears_  
++3 Legendary Pips
 
-**Requires Power 10, Fortitude 5**
+_+Talent: Conquer Your Fears_
+
+**Requires Power 13, Fortitude 5**
 
  | 
 
@@ -1924,9 +1967,15 @@ Found from:
 
  | 
 
-+2 Rare Pips
+_+1 Posture_
+
++1 Rare Pip
+
++1 Legendary Pip
 
 _+Talent: Berserker_
+
+**Requires Power 8**
 
  | 
 
@@ -1941,11 +1990,11 @@ Found from:
 
  | 
 
-_+8 Health_  
+_+8 Health_
 
-+1 Uncommon Pip  
++1 Uncommon Pip
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
 
@@ -1973,12 +2022,13 @@ Found from:
 
  | 
 
-_+10 Health_  
-_+2 Posture_  
+_+10 Health_
+
+_+2 Posture_
 
 +2 Rare Pips
 
-**Requires Power 13**
+**Requires Power 10**
 
  | 
 
@@ -2012,9 +2062,11 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -2052,14 +2104,15 @@ Found from:
 
  | 
 
-_+7 Health_  
-_+3 Posture_  
+_+2 Health_
+
+_+3 Posture_
 
 +1 Rare Pip
 
 _+Talent: Lightweight_
 
-**Requires Power 6**
+**Requires Power 8**
 
  | 
 
@@ -2111,12 +2164,15 @@ Found from:
 
  | 
 
-_+10 Health  
-+1 Posture_
+_+10 Health_
+
+_+1 Posture_
 
 +3 Legendary Pips
 
 _+Talent: Diver's Resilience_
+
+**Requires Power 13**
 
  | 
 
@@ -2131,7 +2187,11 @@ Found From:
 
  | 
 
+_+1 Posture_
+
 +2 Rare Pips
+
+**Requires Power 5**
 
  | 
 
@@ -2199,7 +2259,7 @@ _+2 Posture_
 
 _+Talent: Lowstride_
 
-**Requires Power 15**
+**Requires Power 13**
 
  | 
 
@@ -2213,16 +2273,47 @@ Found from:
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
+| File:IgnitionGauntlets.png | 
+
+[Ignition Gauntlets](Ignition_Gauntlets.md)
+
+(Legendary)
+
+ | 
+
+_+8 Health_
+
+_+1 Posture_
+
++1 Rare Pip
+
++2 Legendary Pips
+
+**Requires Power 13**
+
+ | 
+
+Found from:
+
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+ | N/A |
 | File:Imperial Pauldrons.png | 
 
 [Imperial Pauldrons](Imperial_Pauldrons.md)
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
+_+7 Health_
 
-+2 Rare Pips **Requires Power 10**
+_+1 Posture_
+
++2 Rare Pips
+
+**Requires Power 8**
 
  | 
 
@@ -2240,6 +2331,8 @@ Found from:
 
 +2 Rare Pips
 
+**Requires Power 5**
+
  | 
 
 Found from:
@@ -2256,16 +2349,17 @@ Found from:
 
  | 
 
-_+10 Health_  
-_+5% Ironsing Armor_  
+_+10 Health_
 
-+1 Rare Pip  
+_+5% Ironsing Armor_
 
-+2 Legendary Pips  
++1 Rare Pip
 
-_+Talent: Defiant until the End_  
++2 Legendary Pips
 
-**Requires Power 10, Fortitude 15**
+_+Talent: Defiant until the End_
+
+**Requires Power 13, Fortitude 15**
 
  | 
 
@@ -2288,7 +2382,7 @@ Justicar Defender
 
 +2 Rare Pips
 
-**Requires Power 13**
+**Requires Power 8**
 
  | 
 
@@ -2304,11 +2398,13 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
 _+Talent: Polite Awakening_
+
+**Requires Power 8**
 
  | 
 
@@ -2324,11 +2420,11 @@ Found from:
 
  | 
 
-_+2 Health_  
+_+2 Health_
 
-_+1 Posture_  
+_+1 Posture_
 
-+1 Uncommon Pip
++1 Common Pip
 
  | 
 
@@ -2345,7 +2441,9 @@ Found from:
 
  | 
 
-_+2 Health_
+_+5 Health_
+
+_+1 Posture_
 
  | 
 
@@ -2371,7 +2469,7 @@ _+2 Posture_
 
 _+Talent: Hoplite_
 
-**Requires Power 10**
+**Requires Power 13**
 
  | 
 
@@ -2410,13 +2508,15 @@ Found from:
 
  | 
 
-_+6% Stealth_  
+_+6% Stealth_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
 
 _+Talent: Kick Off_
+
+**Requires Power 5**
 
  | 
 
@@ -2438,14 +2538,15 @@ Found from:
 
  | 
 
-_+5 Health_  
-_+10 Ether_  
+_+5 Health_
 
-+1 Rare Pip  
+_+10 Ether_
+
++1 Rare Pip
 
 +1 Legendary Pip
 
-**Requires Power 13**
+**Requires Power 8**
 
  | 
 
@@ -2468,6 +2569,8 @@ _+6% Stealth_
 
 _+Talent: Ether Conduit_
 
+**Requires Power 8**
+
  | 
 
 Found from:
@@ -2489,9 +2592,11 @@ File:Monastery Champion Robes NEW.png
 
  | 
 
-_+8 Health_  
+_+8 Health_
 
-+1 Rare Pip  
+_+1 Posture_
+
++1 Rare Pip
 
 +2 Legendary Pips
 
@@ -2513,14 +2618,15 @@ Found from:
 
  | 
 
-_+7 Health_  
-_+3 Posture_  
+_+7 Health_
 
-+1 Rare Pip  
+_+3 Posture_
+
++2 Rare Pips
 
 +1 Legendary Pip
 
-**Requires Power 10**
+**Requires Power 13**
 
  | 
 
@@ -2538,10 +2644,13 @@ Found from:
 
  | 
 
-_+2 Health_  
-_+1 Posture_  
+_+2 Health_
+
+_+1 Posture_
 
 +1 Rare Pip
+
+**Requires Power 5**
 
  | 
 
@@ -2571,7 +2680,7 @@ _+5% Damage vs. Monsters_
 
 +1 Legendary Pip
 
-**Requires Power 13**
+**Requires Power 8**
 
  | 
 
@@ -2588,9 +2697,11 @@ Found from:
 
  | 
 
-_+5 Health_  
+_+5 Health_
 
 +2 Rare Pips
+
++1 Legendary Pip
 
 _+Talent: Braced Collapse_
 
@@ -2610,10 +2721,13 @@ Found from:
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
+_+3 Health_
+
+_+1 Posture_
 
 +2 Rare Pips
+
+**Requires Power 8**
 
  | 
 
@@ -2634,10 +2748,13 @@ Found from:
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
+_+3 Health_
+
+_+1 Posture_
 
 +2 Rare Pips
+
+**Requires Power 8**
 
  | 
 
@@ -2661,7 +2778,7 @@ Found from:
 
 +2 Rare Pips
 
-**Requires Power 13**
+**Requires Power 8**
 
  | 
 
@@ -2704,15 +2821,19 @@ Found from:
 
  | 
 
-_+6 Health_  
-_+4% Stealth_  
-_+8% Fire Armor_  
+_+6 Health_
+
+_+4% Stealth_
+
+_+8% Fire Armor_
 
 +1 Rare Pip  
 
 +1 Legendary Pip
 
 _+Talent: Kick Off_
+
+**Requires Power 8**
 
  | 
 
@@ -2728,9 +2849,13 @@ Found from:
 
  | 
 
+_+3 Health_
+
+_+1 Posture_
+
 +2 Rare Pips
 
-_+3 Health_
+**Requires Power 8**
 
  | 
 
@@ -2748,6 +2873,10 @@ Found from:
  | 
 
 _+2 Health_
+
+_+1 Posture_
+
++1 Common Pip
 
  | 
 
@@ -2812,9 +2941,13 @@ Found from:
 
  | 
 
-_+2 Health_  
+_+5 Health_
+
+_+1 Posture_
 
 +1 Uncommon Pip
+
+**Requires Power 5**
 
  | 
 
@@ -2833,10 +2966,13 @@ Found from:
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
+_+3 Health_
+
+_+1 Posture_
 
 +2 Rare Pips
+
+**Requires Power 8**
 
  | 
 
@@ -2853,12 +2989,15 @@ Found from:
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
+_+3 Health_
+
+_+1 Posture_
 
 +2 Rare Pips
 
 _+Talent: Replenishing Knockout_
+
+**Requires Power 10**
 
  | 
 
@@ -2875,13 +3014,13 @@ Found from:
 
  | 
 
-_+10 Health_  
+_+10 Health_
 
-_+2 Posture_  
+_+2 Posture_
 
-+1 Legendary Pip
++2 Legendary Pips
 
-**Requires Power 10**
+**Requires Power 13**
 
  | 
 
@@ -2920,13 +3059,15 @@ White Parka
 
  | 
 
-_+2 Health_  
+_+2 Health_
 
-+1 Uncommon Pip  
++1 Uncommon Pip
 
 +1 Rare Pip
 
 _+Talent: Steady Footing_
+
+**Requires Power 5**
 
  | 
 
@@ -2945,14 +3086,19 @@ Found from:
 
  | 
 
-_+6 Health_  
-_+2 Posture_  
-_+5% Ice Armor_  
-_+5% Wind Armor_  
+_+6 Health_
+
+_+2 Posture_
+
+_+5% Ice Armor_
+
+_+5% Wind Armor_
 
 +2 Rare Pips
 
 _+Talent: Winter's Protection_
+
+**Requires Power 10**
 
  | 
 
@@ -2971,11 +3117,13 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
 _+Talent: Polite Awakening_
+
+**Requires Power 8**
 
  | 
 
@@ -3226,8 +3374,6 @@ Found from:
  | 
 
 _+4 Health_
-
-+1 Uncommon Pip
 
 +2 Rare Pips
 
@@ -3657,9 +3803,11 @@ Black Cape
 
  | 
 
-_+3% Physical Armor_  
+_+3% Physical Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3675,9 +3823,11 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3692,11 +3842,13 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
+
+**Requires Power 8**
 
  | 
 
@@ -3714,11 +3866,13 @@ Found from:
 
  | 
 
-_+3% Physical Armor_  
+_+3% Physical Armor_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
+
+**Requires Power 8**
 
  | 
 
@@ -3736,9 +3890,11 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3755,10 +3911,15 @@ Found from:
 
  | 
 
-_+2% Stealth_  
-_+5% Shadow Armor_  
+_+2% Stealth_
+
+_+5% Shadow Armor_
+
+_+2% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3779,11 +3940,13 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
+
++1 Rare Pip
 
 +1 Legendary Pip
 
-**Requires Power 13**
+**Requires Power 8**
 
  | 
 
@@ -3798,9 +3961,11 @@ Golden Cape
 
  | 
 
-_+3% Physical Armor_  
+_+3% Physical Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3816,11 +3981,13 @@ Found from:
 
  | 
 
-_+50 Carry Load_  
+_+50 Carry Load_
 
 +2 Rare Pips
 
 _+Talent: Robber Baron_
+
+**Requires Power 8**
 
  | 
 
@@ -3849,9 +4016,11 @@ Monastery Champion Beads
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3867,9 +4036,11 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3905,7 +4076,7 @@ Found from:
 
  | 
 
-_+10 Sanity_  
+_+10 Sanity_
 
 +1 Uncommon Pip
 
@@ -3946,9 +4117,11 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3965,11 +4138,13 @@ Found from:
 
  | 
 
-_+3% Fire Armor_  
+_+3% Fire Armor_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -3989,11 +4164,13 @@ Scarf
 
  | 
 
-_+3% Attunement Armor, changes depending on Scarf Variant_  
+_+3% Attunement Armor, changes depending on Scarf Variant_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -4009,6 +4186,8 @@ Found from:
  | 
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -4029,11 +4208,15 @@ Shrouded Capes
 
  | 
 
-_+5% Stealth_  
+_+5% Stealth_
 
-+1 Rare Pip  
+_+2% Elemental Armor_
+
++1 Rare Pip
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -4048,11 +4231,13 @@ Found from:
 
  | 
 
-_+3% Shadow Armor_  
+_+3% Shadow Armor_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -4068,9 +4253,11 @@ Found from:
 
  | 
 
-_+3% Elemental Armor_  
+_+3% Elemental Armor_
 
 +1 Legendary Pip
+
+**Requires Power 5**
 
  | 
 
@@ -4085,7 +4272,9 @@ Found from:
 
  | 
 
-_+10 Carry Load_  
+_+10 Carry Load_
+
+_+10 Sanity_
 
  | 
 
@@ -4102,9 +4291,11 @@ Found from:
 
  | 
 
-No Pips  
++1 Legendary Pip
 
 _+Talent: Elegy of Light_
+
+**Requires Power 8**
 
  | 
 
@@ -4122,7 +4313,13 @@ Sources:
 
  | 
 
-_+2 Health_ _+Talent: Featherfall_
+_+2 Health_
+
++1 Legendary Pip
+
+_+Talent: Featherfall_
+
+**Requires Power 8**
 
  | 
 
@@ -4141,9 +4338,11 @@ Sources:
 
  | 
 
-No Pips  
++1 Legendary Pip
 
 _+Talent: Actions Speak Louder_
+
+**Requires Power 8**
 
  | 
 
@@ -4164,9 +4363,11 @@ Sources:
 
 _+1 Health_
 
-_+8% Wind Armor_  
+_+8% Wind Armor_
 
 _+Talent: Whistleguard_
+
+**Requires Power 8**
 
  | 
 
@@ -5326,7 +5527,7 @@ Ring of Casters
 Mantra damage increased by 10%, but reduces melee damage by 10%.
 
   
-**Requires Power 13**
+**Requires Power 10**
 
  | 
 
@@ -5519,3 +5720,4 @@ Found from:
 -   Highest theoretical Monster Armor in game is 45% (16% Pathfinder Elite, 16% Vigil's Hood, 5% Drowned, 8% Echoes upgrade)
 -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%
 -   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
+-   Legs equipment is currently the only equipment type that does not have Uncommon Pips.

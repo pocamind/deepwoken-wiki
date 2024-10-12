@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 115630
+revid: 116105
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -122,7 +122,7 @@ This fits with our current understanding of the lore and would explain why they 
 
 A Vesperian with Blindseer
 
--   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
+-   Instead of the usual blindfold, Vesperian [Blindseers](Oath%253A_Blindseer.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
 -   The Chitin Talent (race ability) can be stacked with the exoskeleton Talent in order to make your natural armor resist up to 15% physical damage. (agamatsu confirmed in a stream that the 5% damage reduction does not falloff with exo)
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)

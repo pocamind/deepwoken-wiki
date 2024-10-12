@@ -1,6 +1,6 @@
 ---
 title: Ethironal Shrine Sanctuary
-revid: 108053
+revid: 116127
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Sanctuary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, The Depths, Locations, Layer 2]
@@ -33,7 +33,7 @@ The three Diver journals can be found here.
 
 ## Quests
 
--   [Arcwarder oath](Oaths.md) (Alpha quest)
+-   [Arcwarder Oath](Oath%253A_Arcwarder.md) (Alpha quest)
 -   [Union hook](Talents.md)
 -   Spear of Nakti
 

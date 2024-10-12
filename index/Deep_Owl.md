@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 115068
+revid: 116115
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -159,7 +159,7 @@ There are **13** of images, be warned
 ## Trivia
 
 -   Deep Owls were originally intended to be exclusive to the [Second Layer](Second_Layer.md).[\[1\]](#cite-note-1)
--   There is a low chance that a non-corrupted Deep Owl will drop Void Feather, which makes it possible to grind Void Feathers for [Visionshaper](Oaths.md) safely at the [The Lordsgrove](The_Lordsgrove.md), There is a Deep Owl that has a "Static Spawn" location which is, ironically, in-front of the Vesperian [Visionshaper](Oaths.md) statue.
+-   There is a low chance that a non-corrupted Deep Owl will drop Void Feather, which makes it possible to grind Void Feathers for [Visionshaper](Oath%253A_Visionshaper.md) safely at the [The Lordsgrove](The_Lordsgrove.md), There is a Deep Owl that has a "Static Spawn" location which is, ironically, in-front of the Vesperian [Visionshaper](Oath%253A_Visionshaper.md) statue.
 -   Dark and Void feathers are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
 -   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).

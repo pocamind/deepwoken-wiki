@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 115032
+revid: 116111
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
@@ -151,7 +151,7 @@ A cave opening facing the Shipwright's building, easy to spot.
 
 -   A circular building located outside of the castle, near the blacksmith's place on the other side of the river
 -   Within the structure is presumably a hive teleporter prototype, out of function.
--   In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oaths.md), hinting towards how to progress and unlock [Blindseer](Oaths.md) mantras.
+-   In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oath%253A_Blindseer.md), hinting towards how to progress and unlock [Blindseer](Oath%253A_Blindseer.md) mantras.
 
 ### _Castle Ruins_
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 115976
+revid: 116149
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -517,7 +517,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
-    -   Reduces damage taken by charmed targets by 10%.
+    -   Charmed targets deals 10% less damage to you
     -   Prerequisite: 25 Charisma
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
@@ -528,6 +528,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same race or oath as you charms them briefly.
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
+    -   Gives 10% more damage to your m1 and 5% to your mantras
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.

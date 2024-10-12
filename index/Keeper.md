@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 115854
+revid: 116053
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -29,3 +29,7 @@ This Outfit's Schematic can be found in:
 -   [Fishing](Fishing.md) (Chest)
 -   [The Depths](The_Depths.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+
+## Trivia/Notes
+
+only used by maids or sum

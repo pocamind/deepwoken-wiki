@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 115977
+revid: 116114
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -33,7 +33,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 _The Lord Regent, sitting atop his throne of coral._
 
--   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual and [contractor](Oaths.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [the Ministry](The_Ministry.md).
+-   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual and [Contractor](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [the Ministry](The_Ministry.md).
 -   Nobody in [Etris](Etris.md) is sure of where he originates, but they accept him for his formidable power, and his actions _appear_ to be in the best interests of Etris.
 -   Lord Regent is the Fourth Prophet out of nine Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
 -   When speaking with the Bookworm about Etris' previous rulers, we learn all of their histories were recorded in books stored within the city's official history office, though the office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' history.
@@ -317,7 +317,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
--   Despite cutting all relations with the Song, a [silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
+-   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.

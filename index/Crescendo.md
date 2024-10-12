@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 116017
+revid: 116136
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades]
@@ -25,7 +25,19 @@ categories: [Weapons, Twinblades]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
+| obtainment | The Ferryman |
 | description | ... |
 
+## Description
 
+The Crescendo is a medium twinblade sword that scales with and requires medium.
+
+## M1s and Aerial
+
+While 2-handing the Crescendo (and other twinblades) you do not flourish opponents.
+
+Like all Twinblades, the running M1s are slightly delayed, making it a good mixup tool. Additionally, running M1s preform two slashes, possibly allowing you to hit twice.
+
+## Critical
+
+You preform two spinning attacks that have hyperarmor, hitting enemies in a large area. Both attacks have long windups.

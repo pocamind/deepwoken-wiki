@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 116025
+revid: 116148
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1214,6 +1214,18 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.96x</td>
   <td>36.6(<b>Bleed</b>)</td>
 </tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Imperator's_Edge"><font>Imperator's Edge</font></a></td>
+  <td>80 MED; 80 STR; 80 FTD</td>
+  <td>20</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>MED: 2; FTD: 4; STR: 3</td>
+  <td>7</td>
+  <td>11</td>
+  <td>0.93x</td>
+  <td>33.5</td>
+</tr>
 </tbody>
 </table>
 
@@ -1314,8 +1326,6 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm. Loading Bullets or Bullet Casings into the Rifles will cause them to have a different effect on their Blast shots, but no projectiles will be fired.
 
-Twinblades= -
-
 <table>
 <tbody>
 <tr>
@@ -1365,6 +1375,10 @@ Twinblades= -
 </tbody>
 </table>
 
+**Twinblades:**
+
+Twinblades are medium weapons with a blade at either side of their main hilt. They possess unique animations for almost everything - 1 and 2 handed, aerial attacks, running attacks and even blocking. When 2 handed, they also do not preform flourish attacks.
+
 <table>
 <tbody>
 <tr>
@@ -1372,12 +1386,33 @@ Twinblades= -
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
-  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="Scalesplitter.md">Scalesplitter</a></td>
+  <td>40 MED</td>
+  <td>17.5</td>
+  <td>10%</td>
+  <td>MED: 5</td>
+  <td>5</td>
+  <td>7.5</td>
+  <td>0.9x</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td><a href="Crescendo.md">Crescendo</a></td>
+  <td>75 MED</td>
+  <td>22.9</td>
+  <td>5%</td>
+  <td>MED: 6</td>
+  <td>5</td>
+  <td>7.5</td>
+  <td>0.92x</td>
+  <td>?</td>
 </tr>
 </tbody>
 </table>
@@ -1820,7 +1855,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><a href="The_Long_Tong_of_The_Law.md">The Long Tong of The Law</a></td>
   <td>70 HVY, 15 INT, 15 CHA</td>
-  <td>15.8</td>
+  <td>17</td>
   <td>N/A</td>
   <td>40%</td>
   <td>HVY: 8.5, INT: 3, CHA: 3</td>

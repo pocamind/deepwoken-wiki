@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 112346
+revid: 116116
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -113,7 +113,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 </tr>
 <tr>
   <td colspan="3" rowspan="4"></td>
-  <th>Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their <a href="Oaths.md">oaths</a> to others. These heathens are to be dealt with promptly.</th>
+  <th>Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their <a href="Oaths.md">Oaths</a> to others. These heathens are to be dealt with promptly.</th>
 </tr>
 <tr>
   <td>1. It will be done my Lord.</td>

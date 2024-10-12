@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 115451
+revid: 116137
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -36,6 +36,6 @@ This armor provides the innate talent _Diver's Resilience_: "You can parry unpar
 
 -   The Grand Fisher set was made as the winner for the 2nd Official Equipment Concept Art Contest, won by TU5SK, making it one of the first community made armor sets in the game.
     -   Some of the inspiration for this armor comes from the character Sajin Komamura from the anime Bleach. This is directly referenced in the concept art. It may also be based on the [Arcwarder](Oath%253A_Arcwarder.md) oath.
--   Due to the high innate stats of this armor, the Grand Fisher Plate is one of the best in the game, able to have up to 44 HP if Drowned and 34 without Enchantments.
+-   Due to the high innate stats of this armor, the Grand Fisher Plate is one of the best in the game, able to have up to 47 HP if Drowned and 37 without Enchantments.
     -   It has the same stats as a [Diver's Light Plate](<Diver's_Light_Plate.md>), but without a [Hell Mode](Hell_Mode.md) requirement and having a lower Fortitude requirement, and is comparatively much easier to obtain.
 -   The discovery of the obtainment method for this set is credited to [StarPhil29](https://www.youtube.com/@StarPhil29) by Agamatsu.

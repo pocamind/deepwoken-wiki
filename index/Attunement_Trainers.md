@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 110616
+revid: 116108
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -104,7 +104,7 @@ She is incapable of actually **teaching **Shadowcast, and can only be used to le
 -   [Beatra](Beatra.md) was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" means "Spark" in German.
 -   [Nostor](Nostor,_Master_of_Shadow.md) wears a Ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md), especially since they use [Shadowcast](Shadowcast.md).
--   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers, excluding Regek and Beatra.
+-   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek and Beatra.
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).
