@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 115233
+revid: 116157
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -1724,4 +1724,5 @@ Lightning Clones
 -   Revenge requires Drift/Rush Shards to reach further instead of Lenses.
 -   Low-level mantra modifying (for example, 2 Cloudstones and a Blast Spark) does not cost notes. It only starts costing notes past a certain threshold.
 -   Logstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun).
--   Blast Spark Shadow assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage, and by extension, Akuma's Shun Goku Satsu from Street Fighter.
+-   The Blast Spark variant of Shadow Assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage, and by extension, Akuma's Shun Goku Satsu from Street Fighter.
+-   The Spring Spark variant of Flame Repulsion is most likely a reference to [Satoru Gojo](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo)'s "Reversal Red" technique from the anime [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen).

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 115754
+revid: 116162
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,7 +80,7 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 
 ## Trivia
 
--   The Blade Within statue will change model depending on your equipped weapon. ~Devs sold the bag by calling it Snakerings when dyeing the Bladeharper~ At an unknown date, this was changed to "Bladeharper bracelets" instead of snakerings.
+-   The Blade Within statue will change model depending on your equipped weapon. ~Devs sold the bag by calling it Snakerings when dyeing the Bladeharper~ At an unknown date, this was changed to "Bladeharper Serpents" instead of snakerings.
 -   The "Blade Within" fight is a reference to Bleach's bankai obtainment.
 -   The NPC's moveset doesn't change if you die and go back to fight it again. It seems to reuse the AI from Maestro.
 -   This Oath may be a reference to [Isshin](<Isshin's_Ring.md>): both are elegant blade-wielding combatants with a snake motif.

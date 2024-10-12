@@ -1,9 +1,9 @@
 ---
 title: Crescendo
-revid: 116136
+revid: 116167
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades]
+categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
 ---
 
 # Crescendo
@@ -25,7 +25,7 @@ categories: [Weapons, Twinblades]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman |
+| obtainment | Ferryman |
 | description | ... |
 
 ## Description

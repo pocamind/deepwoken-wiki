@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 115981
+revid: 116153
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -63,7 +63,7 @@ Known side-effects include:
 -   **SHORT-CIRCUIT:** On use player will receive Wither status for 15% of their max HP.
 -   **MEGALOMANIA:** On use, player will lose heavy amounts of sanity.
 -   **POISON:** On use, player will have exactly 7% drained from their health.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
--   **BLOOD LOSS:** On use player will lose a chunk of their blood meter.
+-   **BLOOD LOSS:** On use player will lose a 20% of their blood meter.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 

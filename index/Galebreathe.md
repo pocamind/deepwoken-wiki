@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 115558
+revid: 116172
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -442,7 +442,7 @@ Enemies who jump while suffocated by you are dazed.
 |  | 
 
 Suffocating Impact  
-(GALE 35, STR 30, Drifting Winds)
+(GALE 35, STR 15)
 
  | 
 

@@ -1,9 +1,9 @@
 ---
 title: Scalesplitter
-revid: 116103
+revid: 116187
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades]
+categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
 ---
 
 # Scalesplitter
@@ -41,4 +41,4 @@ The weapon has custom M1 (for both one and two handed) and Aerial animations, al
 
 ## Critical
 
-This weapon has 1 critical with a 3~ second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away a decent amount (does not ragdoll). Posture damage will have to be tested.
+This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away a decent amount (does not ragdoll). Posture damage will have to be tested.
