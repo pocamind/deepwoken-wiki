@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 110879
+revid: 116335
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]

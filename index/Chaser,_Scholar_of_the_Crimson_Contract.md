@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 115272
+revid: 116197
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
+Chaser, Scholar of the Crimson Contract is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
 
 He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
 
@@ -269,8 +269,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
 -   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered or if the mystery key hasn't been taken/resonance door opened.
 -   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
--   Used to have the title, Scholar of the Crimson Contract.
-    -   He still has this title if you hover over the Combat Tag skull whilst combat tagged by him.
+-   Chaser had two name changes. At first, his name was changed from "Chaser, Scholar of the Crimson Contract" to "Chaser, Scholar of the Burning Blood". In September 2024 it was changed back to "Chaser, Scholar of the Crimson Contract".
 -   His hair ID is 77799954 & the beard ID is 4995497755
 -   Chaser's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)

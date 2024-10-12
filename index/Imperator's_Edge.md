@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 116186
+revid: 116318
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundred Legions]
@@ -23,7 +23,7 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundre
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon |
+| obtainment | Primadon, Fishing |
 | description | A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory. |
 
 “ Carried at the forefront of the Hundred Legion, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory. ”

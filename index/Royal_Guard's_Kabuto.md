@@ -1,6 +1,6 @@
 ---
 title: "Royal Guard's Kabuto"
-revid: 114622
+revid: 116310
 source: https://deepwoken.fandom.com/wiki/Royal_Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +8 Health, +1 Rare Pip |
+| innate stats | +8 Health, +1 Rare Pip, 1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,7 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 
 ## Description
 
-The Royal Guard's Kabuto is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +8 Health, as well as extra randomized stats based on the amount of pips.
+The Royal Guard's Kabuto is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +8 Health +1 Rare Pip and 1 Legendary Pip, as well as extra randomized stats based on the amount of pips.
 
 ## Trivia
 

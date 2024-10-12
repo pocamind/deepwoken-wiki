@@ -1,6 +1,6 @@
 ---
 title: Eres
-revid: 113699
+revid: 116256
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea]

@@ -1,9 +1,9 @@
 ---
 title: Crescendo
-revid: 116167
+revid: 116323
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
+categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
 ---
 
 # Crescendo
@@ -41,3 +41,5 @@ Like all Twinblades, the running M1s are slightly delayed, making it a good mixu
 ## Critical
 
 You preform two spinning attacks that have hyperarmor, hitting enemies in a large area. Both attacks have long windups.
+
+File:Crescendo's critical attack.gif

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 115937
+revid: 116228
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -299,6 +299,7 @@ Does not negate deferred, fire or fall damage.
 
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
 -   Can be modified with a reversal spark, making it knock enemies away.
+-   Will not activate properly on certain mobs (namely [Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
 
  |
 | 

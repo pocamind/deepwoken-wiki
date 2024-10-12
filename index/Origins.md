@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 115590
+revid: 116312
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -134,23 +134,27 @@ Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by cl
 
 You can do Trial of One.
 
+**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the Saramaed Hollow dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotly accept jobs via their Union Pager, allowing them to quickly stack up jobs and EXP.
+
 -   Your starting reputations are:
     -   Friend of The Ignition Union and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions
 -   Grants the Innate Talent "Union Card"
-    -   Your starting location is [Miners Landing](<Miner's_Landing.md>).
-    -   **\[PRO\]** Increased EXP Gain from dungeons and jobs (ex: layer 2, Saramaed hollow, Duke, and Ferryman)
-    -   **\[CON\]** reduced EXP Gain from everything else.
+    -   Your starting location is [Miners Landing](<Miner's_Landing.md>) or [The Chariot's Spire](<The_Chariot's_Spire.md>).
+    -   **\[PRO\]** Increased EXP Gain from dungeons (ex: layer 2, Saramaed hollow, Duke, and Ferryman) and jobs...
+    -   **\[CON\]** ...but reduced EXP Gain from everything else.
 -   Grants the Innate Talent "Union Pager"
     -   **\[PRO\]** Allows you to remotely accept jobs.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
--   Can take the Deepdrill at Chariot's Spire to layer 2.
-    -   **\[PRO\]** Spawn at frontier furnace. (Skips generator and layer 2 gate)
-    -   **\[CON\]** You don't get a lighthook.
+-   **\[PRO\]** Access to Chariot Spire amenities, including:
+    -   An Antiquarian, Banker, Mystic and Campfire
+    -   Layer 2 Entrance via the Deep Drill (unlocked by escaping in Layer 2 Floor 1 via the Deep Drill)
+        -   **\[PRO\]** Spawns you in [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on.
+        -   **\[CON\]** You do not gain a Light Hook.
+        -   **\[CON\]** (Currently) Forced to return to Castle Light after completing Floor 1 or 2.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant
--   **\[PRO\]** Grants the ability to smelt [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>).
--   **\[PRO\]** Epsi sees you as a role model; be a good one!
+-   **\[PRO\]** Grants the ability to smelt [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) at the Furnace in Miner's Landing.
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 
 ## Upcoming Origins

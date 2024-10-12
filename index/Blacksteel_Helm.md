@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 110866
+revid: 116334
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

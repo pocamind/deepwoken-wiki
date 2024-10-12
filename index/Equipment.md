@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 116169
+revid: 116317
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5152,7 +5152,7 @@ Found from:
  |
 |  | 
 
-Deepfire Ring
+[Deepfire Ring](Deepfire_Ring.md)
 
 (Legendary)
 
@@ -5204,7 +5204,7 @@ Found from:
  |
 |  | 
 
-Finisher's Ring
+[Finisher's Ring](<Finisher's_Ring.md>)
 
 (Legendary)
 
@@ -5230,7 +5230,7 @@ Found from:
  |
 |  | 
 
-Freestyler's Band
+[Freestyler's Band](<Freestyler's_Band.md>)
 
  | 
 
@@ -5249,7 +5249,7 @@ Found from:
  |
 | File:Ferrymansring.png | 
 
-Ferryman's Ring
+[Ferryman's Ring](<Ferryman's_Ring.md>)
 
  | 
 
@@ -5266,7 +5266,7 @@ Found from:
  |
 |  | 
 
-Gold Ring
+[Gold Ring](Gold_Ring.md)
 
  | 
 
@@ -5287,7 +5287,7 @@ Found from:
  |
 |  | 
 
-Heavy Hands Ring
+[Heavy Hands Ring](Heavy_Hands_Ring.md)
 
  | 
 
@@ -5333,7 +5333,7 @@ Found from:
  |
 |  | 
 
-Konga's Clutch Ring
+[Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
 
  | 
 
@@ -5354,7 +5354,7 @@ Found from:
  |
 |  | 
 
-Light Eater Ring
+[Light Eater Ring](Light_Eater_Ring.md)
 
  | 
 
@@ -5381,7 +5381,7 @@ Found from:
  |
 |  | 
 
-Maestro's Ring
+[Maestro's Ring](<Maestro's_Ring.md>)
 
 (Legendary)
 
@@ -5433,7 +5433,7 @@ Found from:
  |
 |  | 
 
-Pariah's Keepsake
+[Pariah's Keepsake](<Pariah's_Keepsake.md>)
 
  | 
 
@@ -5473,7 +5473,7 @@ Quest from [Zana](Zana.md)
  |
 |  | 
 
-Prophet's Ring
+[Prophet's Ring](<Prophet's_Ring.md>)
 
 (Legendary)
 
@@ -5499,7 +5499,7 @@ Found from:
  |
 |  | 
 
-Purifying Ring
+[Purifying Ring](Purifying_Ring.md)
 
  | 
 
@@ -5520,7 +5520,7 @@ Found from:
  |
 |  | 
 
-Ring of Casters
+[Ring of Casters](Ring_of_Casters.md)
 
  | 
 
@@ -5543,7 +5543,7 @@ Found from:
  |
 |  | 
 
-Ring Of Curses
+[Ring of Curses](Ring_of_Curses.md)
 
  | 
 
@@ -5565,7 +5565,7 @@ Found from:
  |
 |  | 
 
-Ring of Pestilence
+[Ring of Pestilence](Ring_of_Pestilence.md)
 
  | 
 
@@ -5583,7 +5583,7 @@ Found from:
  |
 |  | 
 
-Ring of Wisps
+[Ring of Wisps](Ring_of_Wisps.md)
 
  | 
 
@@ -5632,7 +5632,7 @@ Found from:
  |
 |  | 
 
-Silver Ring
+[Silver Ring](Silver_Ring.md)
 
  | 
 
@@ -5650,7 +5650,7 @@ Found from:
  |
 |  | 
 
-Waning Ring
+[Waning Ring](Waning_Ring.md)
 
 (Legendary)
 
@@ -5675,7 +5675,7 @@ Found from:
  |
 |  | 
 
-Windmill Ring
+[Windmill Ring](Windmill_Ring.md)
 
  | 
 
@@ -5716,8 +5716,9 @@ Found from:
 -   Highest theoretical ETH kit in game is 423 ETH. (4x 32 ETH Moon and Waning Rings, 68 ETH Diver's Light Plate, 42 ETH Scarf, 64 ETH Hood, 64 ETH Boots, 32 ETH Mask, 37 ETH Old Blood Earrings)
 -   Highest theoretical Posture kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Diver's Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings)
--   Highest theoretical DvM kit in game is 64 DvM. (4x 4 DvM Rings, 20 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings)
+-   Highest theoretical DvM kit in game is 69 DvM. (4x 4 DvM Rings (+ Diver's Ring), 20 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings)
 -   Highest theoretical Monster Armor in game is 45% (16% Pathfinder Elite, 16% Vigil's Hood, 5% Drowned, 8% Echoes upgrade)
 -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%
 -   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
 -   Legs equipment is currently the only equipment type that does not have Uncommon Pips.
+-   A sanity pip will also grant half of it's amount in ether. So if you get a +6 sanity pip, you will also get +3 ether.

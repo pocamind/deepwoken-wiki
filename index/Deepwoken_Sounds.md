@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 111629
+revid: 116321
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -53,6 +53,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | Stomach Growl ([Low Hunger](Food.md)) |
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
 |  | 1.6s | [Heliodar](Heliodar.md) Wings Flapping |
+|  | 3.3s | Spawned in |
 |  | 3.6s | Changing Hair at [Barber](Barber.md) |
 |  | 0.9s | Spitting |
 

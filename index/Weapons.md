@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 116173
+revid: 116315
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1377,7 +1377,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
 
 **Twinblades:**
 
-Twinblades are medium weapons with a blade at either side of their main hilt. They possess unique animations for almost everything - 1 and 2 handed, aerial attacks, running attacks and even blocking. When 2 handed, they also do not preform flourish attacks.
+Twinblades are medium weapons with a blade at either side of their main hilt. They possess unique animations for almost everything - 1 and 2 handed, aerial attacks, running attacks and even blocking. When 2 handed, they also do not perform flourish attacks.
 
 <table>
 <tbody>

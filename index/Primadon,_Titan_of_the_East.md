@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 115048
+revid: 116314
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -191,6 +191,7 @@ Danger:(★★★)
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
 -   [Pale Morning](Pale_Morning.md)
 -   [Shattered Katana](Shattered_Katana.md)
+-   [Imperator's Edge](<Imperator's_Edge.md>)
 
  | 
 

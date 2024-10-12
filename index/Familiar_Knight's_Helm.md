@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Helm"
-revid: 110881
+revid: 116351
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item]

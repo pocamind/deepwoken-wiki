@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 113874
+revid: 116354
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
