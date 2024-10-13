@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 116616
+revid: 116621
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -141,7 +141,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Intelligence
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
--   _Isolo_ \[Rare Talent, Intelligence\] - e un fraer molestat (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 25 Intelligence
 
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.

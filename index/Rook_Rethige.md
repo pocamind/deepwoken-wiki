@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 116161
+revid: 116625
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,3 +18,5 @@ No idea who he is or what is importance is but
 his cut is fire ngl he'd look good wit a mid fade buzzcut
 
 According to the new video of punchee there is absolutely "nothing" special or secret about this npc
+
+and yeah this is real there is nothing about this npc you are just wasting your time on this page just close it and go do something else
