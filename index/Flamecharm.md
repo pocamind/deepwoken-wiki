@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 116584
+revid: 116615
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1401,6 +1401,7 @@ N/A
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 -   Before its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
+-   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken
 
 ## References
 

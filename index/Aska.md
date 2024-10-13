@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 115463
+revid: 116612
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -202,3 +202,4 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Pleeksty's Inferno with Aska sitting at it.
     
     Aska **DOES NOT RESPAWN** once Aska is killed he will never come back even if you re-enter l2 via depths pit.
+-   Aska has talents such as Impervious Slumber, Phoenix Flames, etc.
