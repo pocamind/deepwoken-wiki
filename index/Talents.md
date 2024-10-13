@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 116270
+revid: 116512
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2183,8 +2183,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Charisma
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
-    -   One gives a Reinforce-like buff without healing, and the other grants ~33% Ether.
-    -   Reinforce-like buff provides protection completely identical to Reinforce, it does not stack with regular or green Reinforce.
+    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to reinforce (does not stack).
     -   The buff is random for each person affected.
     -   Prerequisite: 40 Charisma
 

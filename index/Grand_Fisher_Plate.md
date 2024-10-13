@@ -1,9 +1,9 @@
 ---
 title: Grand Fisher Plate
-revid: 116137
+revid: 116445
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates, The Divers]
+categories: [Items, Equipment, Arms, Plates, The Divers]
 ---
 
 # Grand Fisher Plate

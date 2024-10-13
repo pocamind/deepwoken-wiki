@@ -1,9 +1,9 @@
 ---
 title: Moonseye Gauntlets
-revid: 114232
+revid: 116464
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Gloves]
+categories: [Items, Equipment, Arms, Gloves]
 ---
 
 # Moonseye Gauntlets

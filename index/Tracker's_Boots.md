@@ -1,9 +1,9 @@
 ---
 title: "Tracker's Boots"
-revid: 113879
+revid: 116508
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Items, Equipment, Legs, Boots]
 ---
 
 # Tracker's Boots

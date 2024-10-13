@@ -1,6 +1,6 @@
 ---
 title: Jim
-revid: 109918
+revid: 116559
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, NPCs]

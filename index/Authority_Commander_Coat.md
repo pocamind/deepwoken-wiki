@@ -1,9 +1,9 @@
 ---
 title: Authority Commander Coat
-revid: 115041
+revid: 116421
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, The Central Authority]
+categories: [Items, Equipment, Arms, Coats, The Central Authority]
 ---
 
 # Authority Commander Coat

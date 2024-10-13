@@ -1,9 +1,9 @@
 ---
 title: "Smith's Bandana"
-revid: 116032
+revid: 116396
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment, Head, Hats, Items]
 ---
 
 # Smith's Bandana

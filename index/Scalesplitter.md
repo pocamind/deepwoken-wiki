@@ -1,9 +1,9 @@
 ---
 title: Scalesplitter
-revid: 116187
+revid: 116552
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
+categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
 ---
 
 # Scalesplitter
@@ -33,7 +33,7 @@ The **Scalesplitter** is a medium twinblade weapon that is currently only known 
 
 ## M1s and Aerial/Running
 
-The running M1 on this weapon is slightly delayed, making it a good mix up tool.
+The running M1 on this weapon actually has two hits, the first being a normal running attack timing, and the second coming out slightly later. The second can be parried after being hit and if the first hit is parried, the second hit does not come out.
 
 When 2 handed, the weapon has no flourish, which can be used for even more mix up potential.
 
@@ -41,4 +41,6 @@ The weapon has custom M1 (for both one and two handed) and Aerial animations, al
 
 ## Critical
 
-This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away a decent amount (does not ragdoll). Posture damage will have to be tested.
+This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away a decent amount (does not ragdoll). It has alright posture damage, dealing about 12 posture total.
+
+File:Scalesplittercrit.gif

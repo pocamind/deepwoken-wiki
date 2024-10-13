@@ -1,9 +1,9 @@
 ---
 title: Nomad Pendant
-revid: 110724
+revid: 116525
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces]
+categories: [Items, Equipment, Torso, Necklaces]
 ---
 
 # Nomad Pendant

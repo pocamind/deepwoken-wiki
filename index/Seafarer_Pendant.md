@@ -1,9 +1,9 @@
 ---
 title: Seafarer Pendant
-revid: 110813
+revid: 116532
 source: https://deepwoken.fandom.com/wiki/Seafarer_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces]
+categories: [Items, Equipment, Torso, Necklaces]
 ---
 
 # Seafarer Pendant

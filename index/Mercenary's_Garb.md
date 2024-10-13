@@ -1,9 +1,9 @@
 ---
 title: "Mercenary's Garb"
-revid: 114009
+revid: 116460
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Garbs]
+categories: [Items, Equipment, Arms, Garbs]
 ---
 
 # Mercenary's Garb

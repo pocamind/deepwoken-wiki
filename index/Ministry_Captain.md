@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 107954
+revid: 116546
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -27,9 +27,9 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
 | Dark Blade | The caster dashes forward and does 3 shadow infused slashes with their weapon. | ◯ | ◯ | (★☆☆) |
 | Shadow Roar | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage. | ◯ | ◯ | (★☆☆) |
-| Shadow Eruption | The user makes a swipe with their right hand before releasing a large sphere of shadow. |  |  |  |
-| Clutching Shadow | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground. |  |  |  |
-| Encircle | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them. |  |  |  |
+| Shadow Eruption | The user makes a swipe with their right hand before releasing a large sphere of shadow. | ◯ | ◯ |  |
+| Clutching Shadow | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground. | ◯ | ◯ |  |
+| Encircle | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them. | ◯ | ◯ |  |
 
 ### Boons
 

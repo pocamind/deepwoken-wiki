@@ -1,9 +1,9 @@
 ---
 title: Royal Pathfinder
-revid: 113823
+revid: 116472
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Items, Equipment, Arms]
 ---
 
 # Royal Pathfinder

@@ -1,9 +1,9 @@
 ---
 title: Phalanx Helmet
-revid: 113654
+revid: 116388
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Items]
 ---
 
 # Phalanx Helmet

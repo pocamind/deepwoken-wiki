@@ -1,9 +1,9 @@
 ---
 title: "Royal Guard's Kabuto"
-revid: 116310
+revid: 116392
 source: https://deepwoken.fandom.com/wiki/Royal_Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Items]
 ---
 
 # Royal Guard's Kabuto

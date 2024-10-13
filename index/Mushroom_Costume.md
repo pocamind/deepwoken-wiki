@@ -1,9 +1,9 @@
 ---
 title: Mushroom Costume
-revid: 113760
+revid: 116386
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Event Item]
+categories: [Equipment, Head, Helmets, Event Item, Items]
 ---
 
 # Mushroom Costume

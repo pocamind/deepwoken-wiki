@@ -1,9 +1,9 @@
 ---
 title: Gumshoe Longcoat
-revid: 113795
+revid: 116448
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats]
+categories: [Items, Equipment, Arms, Coats]
 ---
 
 # Gumshoe Longcoat

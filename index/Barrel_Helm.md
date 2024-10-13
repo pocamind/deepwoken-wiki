@@ -1,9 +1,9 @@
 ---
 title: Barrel Helm
-revid: 116329
+revid: 116413
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Items]
 ---
 
 # Barrel Helm

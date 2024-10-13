@@ -1,9 +1,9 @@
 ---
 title: Monastery Champion Robes
-revid: 113808
+revid: 116463
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Items, Equipment, Arms]
 ---
 
 # Monastery Champion Robes

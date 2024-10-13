@@ -1,9 +1,9 @@
 ---
 title: Winter Corps Boots
-revid: 115812
+revid: 116510
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Items, Equipment, Legs, Boots]
 ---
 
 # Winter Corps Boots

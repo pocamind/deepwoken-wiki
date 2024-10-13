@@ -1,9 +1,9 @@
 ---
 title: Legion Pauldrons
-revid: 113800
+revid: 116455
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Items, Equipment, Arms, Pauldrons]
 ---
 
 # Legion Pauldrons

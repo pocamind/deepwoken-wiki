@@ -1,9 +1,9 @@
 ---
 title: Iron Pauldrons
-revid: 111795
+revid: 116452
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Items, Equipment, Arms, Pauldrons]
 ---
 
 # Iron Pauldrons
@@ -30,4 +30,4 @@ Iron Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. 
 
 ## Trivia
 
--   Iron Pauldrons are part of the “Iron" set, with the only other being the [Iron Boots](https://deepwoken.fandom.com/wiki/Iron_Boots?so=search).
+-   Iron Pauldrons are part of the “Iron" set, with the only other being the [Iron Boots](Iron_Boots.md).

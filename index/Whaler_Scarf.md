@@ -1,9 +1,9 @@
 ---
 title: Whaler Scarf
-revid: 109663
+revid: 116540
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Scarves]
+categories: [Items, Equipment, Torso, Scarves]
 ---
 
 # Whaler Scarf
@@ -32,3 +32,4 @@ The Whaler Scarf is an [Equipment](Equipment.md) item under the "Torso" category
 
 -   Prior to their addition to the game, these were worn by [The Knives of Eylis](The_Knives_of_Eylis.md) enemies, making it an NPC exclusive piece of gear.
 -   Given its use by the Knives, it's likely inspired by [Volke](https://fireemblem.fandom.com/wiki/Volke)'s scarf from _Fire Emblem: Radiant Dawn_, who inspired the general appearances of the Knives.
+-   Strangely, this is the only scarf that doesn't have cloth physics. This is most likely due to a bug.

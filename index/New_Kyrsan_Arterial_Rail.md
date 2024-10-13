@@ -1,6 +1,6 @@
 ---
 title: New Kyrsan Arterial Rail
-revid: 111776
+revid: 116560
 source: https://deepwoken.fandom.com/wiki/New_Kyrsan_Arterial_Rail
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -22,4 +22,3 @@ Between the two is a large open area for combat, with the high walls of the trai
 ## Trivia
 
 -   Every train is breakable through basic attacks.
--   One of the most iconic [Chime](Chime_of_Conflict.md) maps ever.

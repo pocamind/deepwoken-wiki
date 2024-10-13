@@ -1,9 +1,9 @@
 ---
 title: Fleet Warden Cape
-revid: 116308
+revid: 116519
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Capes]
+categories: [Items, Equipment, Torso, Capes]
 ---
 
 # Fleet Warden Cape

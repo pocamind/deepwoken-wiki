@@ -1,9 +1,9 @@
 ---
 title: "Smith's Gloves"
-revid: 113827
+revid: 116475
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Gloves]
+categories: [Items, Equipment, Arms, Gloves]
 ---
 
 # Smith's Gloves

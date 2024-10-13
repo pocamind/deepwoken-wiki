@@ -1,9 +1,9 @@
 ---
 title: "Silver Knight's Helm"
-revid: 115810
+revid: 116375
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Items]
 ---
 
 # Silver Knight's Helm

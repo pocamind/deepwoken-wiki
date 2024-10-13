@@ -1,9 +1,9 @@
 ---
 title: Redsteel Pauldrons
-revid: 113821
+revid: 116470
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Items, Equipment, Arms, Pauldrons]
 ---
 
 # Redsteel Pauldrons
