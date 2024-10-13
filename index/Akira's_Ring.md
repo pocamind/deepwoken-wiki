@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 110318
+revid: 116562
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings, The Divers]
@@ -41,7 +41,7 @@ categories: [Armors, Equipment, Rings, The Divers]
 ## Trivia
 
 -   Akira's Ring refers to the [diver](Diver.md) named [Akira](Akira.md), who also is the NPC that unbounds the player's willpower.
--   The Akira's Ring used to have an older model, as seen above. This model is currently being unused by any other Rings.
+-   The Akira's Ring used to have an older model, as seen above. This model is currently being used by [Ferryman's Ring](<Ferryman's_Ring.md>)
 -   The other Weapon Scaling Rings are the following: [Rosen's Ring](Equipment.md#ring), [Prophet's Ring](Equipment.md#ring), [Maestro's Ring](Equipment.md#ring), [Dawnfist's Ring](Equipment.md#ring)
 -   All Attribute Rings seem to have 2HP more then what is stated
 -   Akira's Ring, alongside Dawnfist's Ring, were the only weapon scaling rings to exist for a long while after public release.

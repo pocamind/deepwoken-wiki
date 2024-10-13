@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 116172
+revid: 116575
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -272,7 +272,7 @@ _A powerful wind blast._
 
  | 40 Ether | Fire a penetrating bullet of wind.
 
--   Deals heavy damage, pushes and ragdolls opponen; however applies no hit stun.
+-   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
 -   Applies the _"Suffocate"_ status effect.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.

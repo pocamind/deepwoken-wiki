@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 116558
+revid: 116566
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Liviu | |
 |---|---|
 | name | Liviu |
-| location | Greathive Aratel Mystic room |
+| location | Greathive Aratel Library |
 
 Chrysid npc located in Greathive Aratel
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 116512
+revid: 116594
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1243,6 +1243,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity,)
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Even though it's not mentioned, Greataxes also work with this Talent.
+    -   Does not work with crits that don't slam the floor, like Kyrscleave or Railblade.
     -   Prerequisites: Cryonis, 15 Heavy, 45 Frostdraw.
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity)
@@ -1269,6 +1270,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I burn so that I may succeed."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
+    -   1 second cooldown between activations.
+    -   This CAN spread to allies.
     -   Prerequisite: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)

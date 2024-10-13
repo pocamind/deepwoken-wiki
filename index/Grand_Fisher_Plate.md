@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 116445
+revid: 116569
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, The Divers]
@@ -39,3 +39,4 @@ This armor provides the innate talent _Diver's Resilience_: "You can parry unpar
 -   Due to the high innate stats of this armor, the Grand Fisher Plate is one of the best in the game, able to have up to 47 HP if Drowned and 37 without Enchantments.
     -   It has the same stats as a [Diver's Light Plate](<Diver's_Light_Plate.md>), but without a [Hell Mode](Hell_Mode.md) requirement and having a lower Fortitude requirement, and is comparatively much easier to obtain.
 -   The discovery of the obtainment method for this set is credited to [StarPhil29](https://www.youtube.com/@StarPhil29) by Agamatsu.
+-   Despite not being a soulbounded equip it is unable to be dropped.

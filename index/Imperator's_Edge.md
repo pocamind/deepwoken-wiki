@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 116318
+revid: 116601
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundred Legions]
@@ -32,7 +32,11 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundre
 
 ## Description
 
-The **Imperator's Edge** is a legendary medium spear weapon that is only obtainable from Primadon. It is a gargantuan spear with a glowing tip infused with the very essence of light itself. A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with it's "blinding brilliance". It is decorated with symbols of the Hundred Legions.
+The **Imperator's Edge** is a legendary medium spear weapon that is only obtainable from Primadon. It is a gargantuan spear with a glowing tip infused with the very essence of light itself.
+
+A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with it's "blinding brilliance".
+
+It is decorated with symbols of the Legions themselves.
 
 The weapon has a unique gimmick on hits: If you land **three** hits on an enemy **with only the tip of the spear**, you enter an "Enlightened" state, signified by halos around your head. This state only changes the critical, and isn't believed to have any other effects.
 
@@ -43,4 +47,4 @@ You preform three thrusts forward with the weapon, moving you forwards in the pr
 ## Trivia
 
 -   The Imperator's Edge has the highest stat requirement in the game, with 240 total points.
--   This weapon might be inspired by God of War: Ragnarok Valhalla. Tyr's spear or Draupnir spear to be exact. And the critical is very similar to the runic attack of Draupnir spear called thrust of a thousand soldiers
+-   This weapon might be inspired by God of War: Ragnarök's free DLC, Valhalla. The appearance of the spear resembles Tyr's spear and somewhat the level 3 of the Draupnir Spear. However, the critical of the Imperator's Edge seems to be based on a Light Runic Attack belonging to Draupnir; "Thrust of a Thousand Soldiers," although with much less stabs.

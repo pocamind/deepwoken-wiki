@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 116107
+revid: 116584
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -97,14 +97,14 @@ Burning Servants
 
 _Summon a legion of flaming spearmen that lunge inwards._
 
- | User summons six blazing warriors armored with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster. Before all striking one final time at the center and dissapearing in flames.
+ | User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
 -   Deals moderate damage.
 -   Inflcits Burn.
 -   Deals exactly 20 posture damage
 -   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras).
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors. Max possible amount of warriors without talent "Fan the flames" is 9 (2 Cloudstones).
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and rag doll.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
 
  |
 |  | 
@@ -420,14 +420,13 @@ Flame Wisp
 
 _A servant of flames._
 
- | Caster summons a wisp of magma.
+ | The caster summons a wisp of magma.
 
--   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing.
+-   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
-    -   Heal amount may vary from player to player.
--   Ignites nearby campfire pits if not busy healing you.
--   Ritual casting.
-    -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
+-   Ignites nearby campfire pits if not currently healing you.
+-   Ritual casted.
+    -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step.
 -   Flame Wisp also seems to reduce parasite growth.
 -   No longer considered a support mantra as of 17/5/2024 and is now considered a wisp mantra.
 
