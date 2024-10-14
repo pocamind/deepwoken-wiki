@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 116637
+revid: 116665
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -25,25 +25,46 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | FerrymanCrypt of the Unbroken |
+| obtainment | Ferryman, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract |
 | description | ... |
 
 ## Description
 
 The Crescendo is a medium twinblade sword that scales with and requires medium.
 
+-   File:1 handed stance.gif
+
+-   File:2 Handed Stance.gif
+
 ## M1s and Aerial
 
 While 2-handing the Crescendo (and other twinblades) you do not flourish opponents.
 
+-   File:Two handed m1 cycle.gif
+
 Like all Twinblades, the running M1s are slightly delayed, making it a good mixup tool. Additionally, running M1s preform two slashes, possibly allowing you to hit twice.
+
+-   File:Running m1.gif
+
+The aerial attack consists of a unique animation which causes the user to spin upon landing.
+
+-   File:Aerial.gif
+
+  
 
 ## Critical
 
-You preform two spinning attacks that have hyperarmor, hitting enemies in a large area. Both attacks have long windups.
+You preform two spinning attacks with hyperarmour, however, like the talent "Death from Above" Crescendo Critical requires a hit on its initial slash to maintain hyperarmour. Both attacks have long windups.
 
-File:Crescendo's critical attack.gif
+Top view of Critical:
+
+-   File:Crescendo crit top view.gif
+
+Front view of Critical:
+
+  
 
 ## Trivia
 
 -   For a while after the weapons release, it's crit was unparriable. This was later confirmed to be a bug and fixed.
+-   With Ferryman The rarity is blue (dont know if thats the case with other obt)
