@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 116541
+revid: 116631
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -55,4 +55,4 @@ Every M1 of Soulthorn that connects applies a soul stack, up to 3 at max. At max
 -   Strangely, the held item form of the Soulthorn (not the equipped weapon) has collision, preventing the player from easily entering doorways while held.
 -   It appears to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
 -   The Soulthorn is unable to be dropped.
--   Soulthorn had all of its Penetration remove in the 10/11/2024 weekly patch, considered to be one of the hardest nerfs to a weapon.
+-   Soulthorn had all of its Penetration (30%) removed in the 10/11/2024 weekly patch, considered to be one of the hardest nerfs to a weapon.

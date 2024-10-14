@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 116625
+revid: 116643
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,12 +11,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 |---|---|
 | name | Rook Rethige |
 
-This is a guy who is just in voidheart
+## Description
 
-No idea who he is or what is importance is but
-
-his cut is fire ngl he'd look good wit a mid fade buzzcut
-
-According to the new video of punchee there is absolutely "nothing" special or secret about this npc
-
-and yeah this is real there is nothing about this npc you are just wasting your time on this page just close it and go do something else
+Root Rethige is an NPC in the Voidheart. He seemingly does nothing for now other than give lore about his character, which is based on a tester.
