@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 112180
+revid: 116674
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken]
@@ -24,7 +24,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Have both your stomach and thirst meter at 0, draining your blood and eventually your health.
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
 -   Equipping a weapon that is enchanted with Curse of the No Life King while in [The Depths](The_Depths.md) one/one too many times, making your head swell and burst. (You can log before the head explosion happens and subsequently save yourself)
--   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
+-   Log while in [combat](Combat_Tag.md). (Internet disconnection, being kicked, being banned, etc.)
 -   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md) (Results in a Insta-grip)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell, turning your body into a shriveled husk.
 -   Die to [Jar of Souls](Jar_of_Souls.md) or Corrupted [Shard Bow](Shard_Bow.md) bell, disintegrating your body with white flames.

@@ -1,6 +1,6 @@
 ---
 title: Moonseye Gauntlets
-revid: 116464
+revid: 116677
 source: https://deepwoken.fandom.com/wiki/Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Gloves]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | PWR 10 |
+| requirements | PWR 13 |
 | weight | 2 |
 | innate stats | +7 Health, +3 Posture, +1 Rare Pips, +1 Legendary Pips |
 | innate talent | N/A |
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms, Gloves]
 
 ## Description
 
-The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category. It is a pair of two metal gauntlets bearing many symbols of[The Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.
+The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category. It is a pair of two metal gauntlets bearing many symbols of [The Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.
 
   
 

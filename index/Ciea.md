@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 115775
+revid: 116673
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -17,7 +17,7 @@ Ciea is a female Vesperian that tells the player to make potions with specific e
 -   A potion that brings forth a surge of speed _**(Pomars or Coral)**_
 -   A potion that causes a person to lose sanity _**(Urchins, Chum, Scallops or Seaweed)**_
 -   A potion that restores some life force _**(Redds)**_
--   A potion that harms its victims _**(Browncaps, Bluecaps, Pomars or Dentifilos)**_
+-   A potion that harms its victims _**(Browncaps, Bluecaps or Pomars)**_
 -   A potion to regenerate ether _**(Bluecaps)**_
 
 There may be different options when you talk to Ciea, but for the ones listed you'll have to use those specific ingredients or else she won't take it.

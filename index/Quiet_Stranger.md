@@ -1,9 +1,9 @@
 ---
 title: Quiet Stranger
-revid: 111656
+revid: 116672
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Murmurs]
 ---
 
 # Quiet Stranger
