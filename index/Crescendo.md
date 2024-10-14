@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 116665
+revid: 116679
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -67,4 +67,3 @@ Front view of Critical:
 ## Trivia
 
 -   For a while after the weapons release, it's crit was unparriable. This was later confirmed to be a bug and fixed.
--   With Ferryman The rarity is blue (dont know if thats the case with other obt)

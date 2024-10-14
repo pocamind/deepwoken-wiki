@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 116111
+revid: 116683
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
@@ -156,6 +156,7 @@ A cave opening facing the Shipwright's building, easy to spot.
 ### _Castle Ruins_
 
 -   A castle like building in ruins, nothing of interest is inside or near it, _until you look closely._ Inside the ruins, on the left or right side of the inside, you may find a small crack in the floor which you may drop down into. Inside, a basement could be found with barrels, and possibly chests.
+-   You can get there by taking the zipline on the main castle, and continuing forward.
 -   Additionally, the basement is the location of an NPC you need to talk to when in the process of obtaining the [Chainwarden](Oath%253A_Chainwarden.md) [Oath](Oaths.md), which was added on the 26th of July, 2024.
 
 The Summer Company cannon

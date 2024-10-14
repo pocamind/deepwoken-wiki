@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 115779
+revid: 116686
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore, The Hundred Legions]
@@ -28,3 +28,4 @@ According to Arch\_Mage, she's just a normal Centurion.
 ## Trivia
 
 -   If you have either [Legion Kata](Fists.md) or good reputation, she will say something along the lines of "_Good to see you again \[Name\], What brings you back to the camp?_", yet your dialogue options are still the same and she answers the same way.
+-   Her hair id is 4996584513

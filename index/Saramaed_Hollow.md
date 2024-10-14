@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 116072
+revid: 116680
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Dungeons]
@@ -106,7 +106,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
     <li><a href="Void_Spire.md">Void Spire</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's ash</a> (at 2K depth)</li>
+    <li><a href="Sinner's_Ash.md">Sinner's ash</a> (=&gt;1.2Km)</li>
   </ul></td>
   <td>TBA (needs editing)</td>
 </tr>

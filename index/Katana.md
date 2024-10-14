@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 115648
+revid: 116684
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -41,7 +41,7 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Using Pluripotent Alloy on Katana, Bounties, The Diluvian Mechanism |
+| obtainment | Chests from:, Using Pluripotent Alloy on Katana, Bounties, The Diluvian Mechanism, Maestro Evengarde Rest |
 | description | '"An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."' |
 
 **Base:**
