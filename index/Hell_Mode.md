@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 114094
+revid: 116701
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -24,7 +24,7 @@ A group of powerful adventurers must join forces in this hellish onslaught of mo
 
 ## Activation Method and Effects
 
-The Hell Mode Bell can be found within the [Celtor Wastes](Celtor_Wastes.md). To activate Hell Mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required for the event to end. The maximum amount of rings is 15.
+The Hell Mode Bell can be found within the [Celtor Wastes](Celtor_Wastes.md). To activate Hell Mode, 4 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 4, 10 more mob kills will be required for the event to end. The maximum amount of rings is 15.
 
 Once the conditions are met, [The Depths](The_Depths.md) (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
@@ -35,6 +35,7 @@ Once the conditions are met, [The Depths](The_Depths.md) (current server) will t
 -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   King Thresher's burrowing attack is disabled.
     -   Nautilodaunts' Vent is disabled.
+    -   Mudskipper Broodlords have their anti-heal reduced to 50%
 -   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
 
 -   [King Gigamed](Gigamed.md) is removed from the spawn pool.
@@ -51,14 +52,15 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original players who activate the event all die or otherwise leave the server.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside, meaning other players cannot see or interact with them. They can contain any [Relic](Relics.md) in addition to [Enchant Stones](Enchant_Stone.md).
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell or had participated by killing at least one monster (untested). These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside, meaning other players cannot see or interact with them. They can contain any [Relic](Relics.md) in addition to [Enchant Stones](Enchant_Stone.md). Lower tier chests that are still more valuable than your average depths chest will also spawn after a kill of some specific monsters that are not locked to a certain player.
 
 ## Tips
 
 Although Hell Mode is scary, the rewards are often worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
 
 -   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies you're not ready for. Be wary though, as [Nautilodaunts](Nautilodaunt.md) and [Deep Owls](Deep_Owl.md) can scale even the greatest of walls. [The Enforcer](Enforcer.md) doesn't have its usual pull ability so do not worry about it.
--   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. There are still some threats like [Contractors](Oath%253A_Contractor.md), but this is unlikely and you'll likely have others around to help you.
+-   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. There are still some threats like [Contractors](Oath%253A_Contractor.md) and depths gankers looking for loot, but this is unlikely and you'll likely have others around to help you.
+-   **PVP builds are recommended.** Due to recent updates changing the spawn-rate of events and mobs, hellmode will be easier and possible with pvp builds. Pvp builds are highly recommended if you are fighting alongside pve builds due to the increase in depths gankers found in hellmode servers.
 -   **When fighting monsters in a group, avoid hitting your allies.** This will not put them in player combat but will still damage them.
 -   **Other players that didn't ring the bell can combat tag you**, and vice versa. Avoid interacting with them as much as possible, since the lack of health packs could lead to your demise.
 -   Fighting near the [Temple of Hearts](Temple_of_Hearts.md) is a fairly good option, as almost no mobs can make it inside. Nautilodaunts, Threshers, and Deep Owls might be able to follow you in, but you'll be in the clear once they're dead.
@@ -68,6 +70,8 @@ Although Hell Mode is scary, the rewards are often worth the trouble due to both
 -   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack. [Nautilodaunts](Nautilodaunt.md) are a lot easier to beat in a team.
 -   Be very careful of [Mudskipper Broodlords](Mudskipper_Broodlord.md). They are probably the most dangerous thing in Hell Mode thanks to their high stats, anti-heal, and unparriable moves.
 -   Camping in [Castle Light](Castle_Light.md) during Hell Mode will render you ineligible for rewards.
+    -   It is, however, a common strategy to use a teleport item (Call of the deep, Teleportation/Dimensional Travel [Resonance](Resonance.md)) or any other method of transportation to go to Castle Light where you more easily swap out with other players and make use of it's surrounding landscape. This is also an efficient method to deal with hostile players.
+-   If you are sure you have your Resonance and are below the hp barrier for jumping into the void, you may try to unlock it to gain full health to try and jump in again. This can be done by getting damaged by players, monsters, or climbing right before you reach the void to take fall damage. Be advised that this will send you to [Layer 2](Second_Layer.md) **without** a lighthook where you can wipe to the dangers that are present down there.
 
 ## Trivia
 

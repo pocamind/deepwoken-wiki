@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 116685
+revid: 116691
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Murmurs]
@@ -13,13 +13,13 @@ categories: [NPCs, Murmurs]
 | name | Stranger |
 | location | Random Encounter (Erisia) |
 
-“ It seems I have been spotted by a local ”
+“ It seems I have been spotted by a local.. ”
 
 ― Stranger
 
 ## Description
 
-The Stranger is a SIGMA that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Attributes.md) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
+The Stranger is an NPC that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Attributes.md) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
 
 ## Tacet Obtainment
 

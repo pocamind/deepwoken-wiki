@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 108041
+revid: 116694
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -60,6 +60,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   [Canor Fang](Canor_Fang.md)
 -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
 -   [Old World Greatshield](Old_World_Greatshield.md)
+-   [Crescendo](Crescendo.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md) (low chance)
 
  | 
