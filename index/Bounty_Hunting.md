@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 116726
+revid: 116764
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,7 +18,14 @@ A Bounty Board located in Etris.
 
 Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction; once they are dead the hunter gets a chest full of loot and EXP. You can choose which player to hunt on a Bounty Board via a poster. The poster will show their name, Race, and Oath. If the player has no Oath, it will read "Pathfinder."
 
-Stars correspond to how high the Power of a player is, with higher stars corresponding to higher Power: below Power 6 is 1 Star, below Power 11 is two Stars, below Power 15 is three Stars, 16-19 is four Stars and 20 is five Stars.
+Bounty Stars correspond to how high the Power of a player is, with higher stars corresponding to higher Power:
+
+-   Unhuntable = Power 1-4
+-   ★ = Power 5-9
+-   ★★ = Power 10-12
+-   ★★★ = Power 13-15
+-   ★★★★ = Power 16-18
+-   ★★★★★ = Power 19-20
 
 When a bounty is taken, at the top left corner of your screen it will say the name of the person you're hunting and where they are located. The location will be refreshed every two minutes.
 
@@ -30,7 +37,7 @@ If you are being hunted instead and manage to kill off your hunter, YOU will get
 
 Examples:
 
--   Gray Rethige - Pathfinder ★
+-   Hoid Menoid - Pathfinder ★
 -   Aesop Truad - Pathfinder ★★
 -   River Hasteshi - Blindseer ★★★
 -   Mae Vendet - Linkstrider ★★★★

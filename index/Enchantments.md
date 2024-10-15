@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 116669
+revid: 116752
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -318,7 +318,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>A super charged attack on proc (Punch) but also replenishes the opponent's Hunger by a small amount. Supposedly allows for life debuff/defense/swipe (steal/rob) abilities. Also has a move similar to the <a href="Hive_Construct.md">Hive Mech</a>'s Lifeweave Flourish that sprouts trees in the area around user at high rate, which either acts as attack or teleport in this case. Exclusive power belonging to the Hive Leader. More info - <a href="Developer_Specs.md">Developer Specs</a><br>
   <b>yayafino <a href="Developer_Specs.md">Developer Spec</a></b><br>
   <b>Unobtainable</b></p></div></td>
-  <td><div>Weapon is blown out with shooting out exhausts of all the colors of the rainbow.</div></td>
+  <td><div>Weapon is blown out with shooting out exhausts most of the colors of the rainbow.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>

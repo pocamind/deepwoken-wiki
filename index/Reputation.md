@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 115217
+revid: 116753
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -61,6 +61,7 @@ The player can gain reputation with a faction by:
 -   Completing Bounty Hunts
     -   "Factions without Bounty Boards" cannot benefit from this.
 -   Helping NPCs in certain random events, primarly Factions VS Factions.
+-   Completing jobs
 
 The player can lose reputation with a faction by:
 

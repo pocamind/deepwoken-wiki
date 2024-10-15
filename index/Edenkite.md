@@ -1,16 +1,12 @@
 ---
 title: Edenkite
-revid: 116745
+revid: 116750
 source: https://deepwoken.fandom.com/wiki/Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Lore]
+categories: [Lore]
 ---
 
 # Edenkite
-
-File:Elder edenkite real.png
-
-Probably what they look like.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: "Delver's Duster"
-revid: 116749
+revid: 116756
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Equipment, Arms, Dusters, The Ignition Union]
+categories: [Items, Equipment, Arms, Dusters, The Ignition Union]
 ---
 
 # Delver's Duster
@@ -33,8 +33,4 @@ The Delver's Duster is an [Equipment](Equipment.md) item under the "Arms" catego
 -   Originally called the Miner's Hard Coat in the concept art.
 -   This was intended to be part of a set, but l7\_Nano was removed from the team before they could finish it.
 -   Due to how Pips work, a pure health maxroll of the Delver's Duster is worse than a maxroll of the [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md), with Delver's having a maximum of 32 Health + 3% Phys, while the Ironsinger has a maximum of 36 Health + 3% Phys.
--   inspired by the riot gear from Fallout New Vegas
-    
-    File:Delvers duster.jpeg
-    
-    the inspiration for the delvers duster.
+-   Possibly inspired by the riot gear from Fallout New Vegas

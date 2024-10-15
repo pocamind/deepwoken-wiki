@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 111753
+revid: 116757
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -200,6 +200,11 @@ Please add miscellaneous islands or named landmarks here
 **Temple Sparring Hall:**
 
 -   [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>)
+    
+
+**Saramaed Hollow:**
+
+-   [Saramaed Hollow](Saramaed_Hollow.md)
     
 
   

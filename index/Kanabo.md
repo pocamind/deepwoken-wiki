@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 116051
+revid: 116763
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -80,5 +80,5 @@ File:Kanabo Stormbreaker.png
 
 -   A Kanabō, meaning "metal stick," was a weapon used in feudal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   The weapon normal attack matches that of a greatsword.
--   Has the third highest overall weapon requirement, only surpassed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 100 HVY and 60 STR, and the [Boltcrusher](Boltcrusher.md) at 55 HVY, 20 STR and 80 LTN.
+-   Has the fourth highest overall weapon requirement, only surpassed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 100 HVY and 60 STR, the [Boltcrusher](Boltcrusher.md) at 55 HVY, 20 STR and 80 LTN, and the [Imperator's Edge](<Imperator's_Edge.md>) at 80 MED, 80 FTD, 80 STR.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.
