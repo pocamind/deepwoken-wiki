@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 116312
+revid: 116724
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -130,11 +130,11 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 _**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld.
 
-Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the Summer Company enemies (which is oddly completed after defeating a random number of [Mechalodaunt](Mechalodaunt.md)s upstairs), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
+Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the Summer Company enemies (which is oddly completed after defeating a [Mechalodaunt](Mechalodaunt.md) upstairs in the room with the big window near the boiler room), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
 
 You can do Trial of One.
 
-**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the Saramaed Hollow dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotly accept jobs via their Union Pager, allowing them to quickly stack up jobs and EXP.
+**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the Saramaed Hollow dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotly accept jobs via their Union Pager, allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the Chariot's Spire in the depths if they wish.
 
 -   Your starting reputations are:
     -   Friend of The Ignition Union and Lost Celtor
@@ -150,7 +150,7 @@ You can do Trial of One.
     -   An Antiquarian, Banker, Mystic and Campfire
     -   Layer 2 Entrance via the Deep Drill (unlocked by escaping in Layer 2 Floor 1 via the Deep Drill)
         -   **\[PRO\]** Spawns you in [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on.
-        -   **\[CON\]** You do not gain a Light Hook.
+        -   **\[PRO\]** (Currently) You spawn with a Light Hook (this is not supposed to be the case).
         -   **\[CON\]** (Currently) Forced to return to Castle Light after completing Floor 1 or 2.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant

@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 111643
+revid: 116726
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

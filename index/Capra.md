@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 114962
+revid: 116720
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -29,7 +29,11 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
   <ul>
-    <li>Heals 15% of the affected players total HP over a 30s period. Must be activated at a campfire.</li>
+    <li>Grants affected players improved blood regen.</li>
+    <li>Heals 15% of the affected players total HP over a 30s period.</li>
+    <li>Slightly slows the sanity loss of all surrounding players for 60 seconds.</li>
+    <li>Slightly buffs the food consumption effects of all surrounding players for 60 seconds.</li>
+    <li>Must be activated at a campfire.</li>
     <li>Cd: 3 min 30 sec</li>
   </ul></li>
   </ul></td>
@@ -39,7 +43,12 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
   <ul>
-    <li>Buffs the food consumption effects of all surrounding players for 60 seconds. Does not require a campfire.</li>
+    <li>Buffs the food consumption effects of all surrounding players for 60 seconds.</li>
+    <li>Heals 15% of the affected players total HP over a 30s period.</li>
+    <li>Grants affected players slightly improved blood regen.</li>
+    <li>Slightly slows the sanity loss of all surrounding players for 60 seconds.</li>
+    <li>Must be activated at a campfire.</li>
+    <li>Cd: 3 min 30 sec</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -48,7 +57,12 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
   <ul>
-    <li>Slows the sanity loss of all surrounding players for 60 seconds. Does not require a campfire.</li>
+    <li>Slows the sanity loss of all surrounding players for 60 seconds.</li>
+    <li>Heals 15% of the affected players total HP over a 30s period.</li>
+    <li>Grants affected players slightly improved blood regen.</li>
+    <li>Slightly buffs the food consumption effects of all surrounding players for 60 seconds.</li>
+    <li>Does not require a campfire.</li>
+    <li>Cd: 4 min</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -130,7 +144,7 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capras look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capras had their appearance reworked on 1/22/2023.
--   Has the same core attributes as [Ganymede](Ganymede.md).
+-   As of the 2/20/2023 update, each Capra variant's mark grants the buffs that the other two have, but with less effectiveness. Additionally, each Capra mark was given the hp regen buff.
 
 ## References
 

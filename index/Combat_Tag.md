@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 115966
+revid: 116727
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -68,3 +68,4 @@ List of Quotes:
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
 -   You can remove Combat Tag off non allies by saying "Mb \[Name\]" or "Mb All" to lift off all people you put it on.
 -   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_God._"
+-   Allies were able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.
