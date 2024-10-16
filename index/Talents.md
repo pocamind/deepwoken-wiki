@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 116771
+revid: 116778
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2198,7 +2198,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Showboater."**_
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
-    -   The cooldown indicator says that this talent has a 10s CD, which is technically incorrect. There is no CD for the charm application for this talent, but there is a 10s CD on the one-liners.
+    -   The cooldown indicator says that this talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Soul Converter
