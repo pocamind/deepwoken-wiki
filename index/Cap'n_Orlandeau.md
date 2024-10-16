@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 114936
+revid: 116774
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -85,7 +85,7 @@ In the tutorial, he teaches you the basics of the game, including how to fight, 
 > 
 > (**2**) Cap'n Orlandeau: Keeping secrets, are we? Nay, I'll have none of it. \*He glares at you sharply.\* If 'ye won't spill it, I'll be on my way then. \[End dialogue\]
 > 
-> (**1**) Cap'n Orlandeau: \*He looks at you in disbelief, yet evidently amused by the claim.\* Oh, I get it! 'Yer on a mission to waltz in, and destroy the embodiment of a drowned god's power... I see, I see, all in a day's work, huh? Average day in Autumn for 'ye? \*The man quickly moves close towards you, looking at you dead in the eye with a wild look.\* Do you have any ideas how INSANE you sound?
+> (**1**) Cap'n Orlandeau: \*He looks at you in disbelief, yet evidently amused by the claim.\* Oh, I get it! 'Yer on a mission to waltz in, and destroy the embodiment of a drowned god's power... I see, I see, all in a day's work, huh? Average day in **\[Current Season\]** for 'ye? \*The man quickly moves close towards you, looking at you dead in the eye with a wild look.\* Do you have any ideas how INSANE you sound?
 > 
 > 1.  Insane acts are my specialty, despite my sanity being intact.
 > 

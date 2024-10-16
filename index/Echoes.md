@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 115741
+revid: 116772
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -58,7 +58,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo. Mantra Modification needs to be successful.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
--   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes. (Works even at max power with no attribute point left.)
+-   Drinking an [Attribute Flask](Ingredients.md#lotuses) (NOT an [Attunment Potion](Attunement_Potions.md)), awarding 2 Echoes. (Works even at max power with no attribute point left.)
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.

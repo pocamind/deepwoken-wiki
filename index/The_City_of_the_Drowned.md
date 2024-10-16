@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 106569
+revid: 116767
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, Lost Celtor]
@@ -58,3 +58,7 @@ The city is patrolled by watchers that summon pairs of [Lesser Angels](Hollow_An
 Below is a list of loot that can be found in The City of the Drowned.
 
 -   [Odd Tentacle](Odd_Tentacle.md)
+
+## Trivia/Notes
+
+-   Seems to share many traits with Rapture from the Bioshock series, such as being old, and "underwater".

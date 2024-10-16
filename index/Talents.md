@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 116621
+revid: 116771
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -509,7 +509,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Synergizes greatly with healing, allowing for you to heal 20% more effective health when low.
     -   Will apply combat tag against opponents.
     -   Deals a very very small damage (like 1 damage) whenever it procs.
     -   Effect Lasts 15s (7.5s against Disbelief Talent)
@@ -2199,6 +2198,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Showboater."**_
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
+    -   The cooldown indicator says that this talent has a 10s CD, which is technically incorrect. There is no CD for the charm application for this talent, but there is a 10s CD on the one-liners.
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Soul Converter
@@ -2526,6 +2526,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   Works insanely well with Talent "Unnecessary Theatrics" as it reapplies the charm.
+    -   10s CD.
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
@@ -2540,6 +2541,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 65 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
+    -   5s CD per target.
     -   Prerequisite: 75 Agility
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)

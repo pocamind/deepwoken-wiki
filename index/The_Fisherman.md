@@ -1,9 +1,9 @@
 ---
 title: The Fisherman
-revid: 116755
+revid: 116766
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Depths, Random Encounters]
+categories: [Pages with broken file links, Enemies, The Depths, Random Encounters]
 ---
 
 # The Fisherman
@@ -65,9 +65,15 @@ The Fisherman executes its opponents after knocking them:
 
 ## Trivia
 
+File:The fisherman and his "little sister".png
+
+The fisherman with his little sister
+
 -   The Fisherman's armor, the [Grand Fisher Set](Grand_Fisher_Helm.md) is based off of [Sajin Komamura](https://bleach.fandom.com/wiki/Sajin_Komamura)'s armor from the anime [Bleach](<https://en.m.wikipedia.org/wiki/Bleach_(TV_series)>), this is directly referenced in the concept art for the set.
     -   Furthermore, the name of the armor set may reference the Hollow [Grand Fisher](https://bleach.fandom.com/wiki/Grand_Fisher) from the same series.
+
 -   The glowing parts on their helmet greatly resemble the emblem for [The Divers](The_Divers.md), implying he was formerly a member turned against them.
     -   The armor could be the Diver's version of an [Arc Suit](Oath%253A_Arcwarder.md), reinforced by the passive abilities of the set.
 -   According to their dialogue when first spawning in, they could be an Authority or Diver member that has been brainwashed by The Ministry, or they have gone insane due to being in the First Layer for too long. Furthermore, they cryptically speak of "the prophets", likely the nine [Ministry](The_Ministry.md) prophets.
 -   Their mannerisms of speech are somewhat similar to [Regek](Regek.md)'s.
+-   The diver in the expanded lore is explained to be a failed experimental form of the "big daddies" by Andrew Ryan in rapture.

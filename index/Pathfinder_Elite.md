@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 116466
+revid: 116775
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from NautilodauntsReward from Weird Trader |
+| obtainment | Rare Drop from NautilodauntsReward from Weird Trader, The Diluvian Mechanism Wave 50 |
 | description | "..." |
 
 ## Description
