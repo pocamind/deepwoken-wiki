@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 116780
+revid: 116787
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -28,7 +28,7 @@ Currently, there are 10 NPCs that can join your Guild Base with a certain amount
 -   The Librarian, which can be hired after building the Library for Notes.
 -   The [Artisan](https://deepwoken.fandom.com/wiki/Jarvis), which can be hired after building the Trophy Room for Notes.
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for Notes.
--   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
+-   The Chef, which can be hired after building the Mess Hall for Notes.
 -   the [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000 Notes.
 
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
@@ -126,7 +126,7 @@ Quarters
 
  | 
 
-If you die or join in the server and the guild base is active you can spawn in the room. A room with a [campfire](Campfire_Pit.md), [crafting station](Crafting_Station.md), and some beds.  
+If you die or join in the server and the guild base is active you can spawn in the room. A room with a [Campfire](Campfire_Pit.md), [Crafting Station](Crafting_Station.md), and some beds.  
 (You cannot cook at the campfire)
 
  |
@@ -161,11 +161,9 @@ Song Room
 
  | 
 
-Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras. The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.
+Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras, and the ability to purchase [Attunement Training Items](Training_Gear.md#attunement-training). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
 
-This room also allows the hiring of a Songwright for, which allows you to upgrade mantras for the same price as attunment trainers (albeit being more convenient). [Attunment Training Items](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Attunement_Training) are also sold in this room.
-
-  
+This room also allows the hiring of a [Songwright](Songwright.md) for, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
 
  |
 | 

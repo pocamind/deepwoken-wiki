@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 114610
+revid: 116790
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -38,4 +38,3 @@ The bow is set to be upcoming future content.
 -   Identical stats and description to the [Repeater](Repeater.md).
 -   It is believed to be accidentally added to the game by accident, and got removed soon after.
 -   Despite obviously being a bow, it is categorised as a gun.
--   It is also the only known instance of a bow in game.
