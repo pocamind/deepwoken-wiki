@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 115237
+revid: 116794
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -10,7 +10,7 @@ categories: [NPCs, Armors]
 
 | Blacksmith | |
 |---|---|
-| location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Castle Light, The Floating Keep, Guild Base |
+| location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Castle Light, The Floating Keep, Guild Bases |
 
 ## Description
 

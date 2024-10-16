@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 116765
+revid: 116793
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4445,8 +4445,8 @@ Variants
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  | Default (Black), Red & White |
 |  | 

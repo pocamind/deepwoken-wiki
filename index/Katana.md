@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 116684
+revid: 116799
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken |
+| obtainment | Chests from:, Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict |
 | description | '"An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."' |
 
 | Alloyed Katana | |

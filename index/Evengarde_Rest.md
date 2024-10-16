@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 115352
+revid: 116803
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea]
@@ -49,11 +49,7 @@ I feel as if we're unprepared against the Lord Regent.
 We've been well, thank you. Care for another round? / Care for another round?
 
  |
-| _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ | 
-
-End
-
- |
+| _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ | Let's see how much your skills have improved. |
 | 
 
 ...I heard you have an arsenal of weapons in this hall.

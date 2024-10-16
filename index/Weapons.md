@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 116638
+revid: 116807
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -14,7 +14,7 @@ _Tools constructed with the intent to harm others, polished to be efficient kill
 
   
   
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves Light or Heavy.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon.
 
 When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll, for example).
 
@@ -23,7 +23,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
 -   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
--   [Deepshore Fossil](Deepshore_Fossil.md), an item giving you an enchant stone of your choice.
+-   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral enchant.
 
 [Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
 
@@ -35,7 +35,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   8 Fists
 -   5 Guns (6 if Alloyed)
 -   7 Rapiers
--   1 Bow
+-   1 Bow (Unreleased)
 
 #### Medium Weapons
 
@@ -53,26 +53,27 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Others
 
--   10 Elemental
--   5 Exclusive
+-   17 Elemental
+-   8 Exclusive
 -   6 Divine (Crazy Slots)
+-   9 Offhand
 
 #### In Total
 
--   113 Total Weapons (Non-Alloyed, Non-Exclusive)
--   118 Total Weapons (Non-Alloyed, Exclusive)
--   130 Total Weapons (Alloyed, Non-Exclusive)
--   135 Total Weapons (Alloyed, Exclusive)
--   141 Total Weapons (Alloyed, Exclusive, Divine)
+-   120 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   128 Total Weapons (Non-Alloyed, Exclusive)
+-   140 Total Weapons (Alloyed, Non-Exclusive)
+-   145 Total Weapons (Alloyed, Exclusive)
+-   151 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
 Pressing Y will change your stance, changing the way you wield your weapon.
 
--   **Light Weapons** are locked to One Handed stance.
-    -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
--   All **Medium Weapons** except for Rifles, [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through hitting 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
+-   **Light Weapons** are locked to the One Handed stance.
+    -   **[Fists](Fists.md)** are able to switch between the [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md) fighting styles.
+-   All **Medium Weapons** except for Rifles, the [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and the [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
+-   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
 
@@ -94,7 +95,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
 -   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
--   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/102 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **Bleed:** 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
