@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 111151
+revid: 116842
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Factions, The Children of Navae]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Factions, The Children of Navae]
 
 | The Children of Navae | |
 |---|---|
-| territory | Meteor IsleEtrean Wilds Camp |
+| territory | Meteor Isle, Etrean Wilds Camp |
 | goals | Survival |
 
 “ Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. ”
@@ -70,6 +70,12 @@ Neutral Reputation:
 
 -   "Ah, a homelander."
 -   "Keep your distance from my people. I do not wish for this to be violent."
+
+Unique Dialogue:
+
+If you've gained max reputation with The Children of Navae in a slot that you wiped you will receive this dialogue if you speak with an Eastern Tribe Leader or Eastern Camp Master. (**There has been no proven evidence of this happening**, needs testing)
+
+-   "You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fufill my part in prophecy, please allow me to share some of our knowledge with you..." (You will get Way of Navae if you get this dialogue.)
 
 ## NPCs
 
