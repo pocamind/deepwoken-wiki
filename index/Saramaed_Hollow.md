@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 116762
+revid: 116847
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -56,14 +56,14 @@ It is worth noting that the lava is not as deadly as one might expect. Falling i
 
 ## Monster adaptations
 
-Monsters within the Saramaed Hollow have adapted to the fiery heat of their domain, gaining 1 of 2 abilities. The deeper one go, the more adapted monsters will appear, eventually culminating in monsters with both adaptations.
+Monsters within the Saramaed Hollow have adapted to the fiery heat of their domain, gaining 1 of 2 (or both) abilities. The deeper one go, the more adapted monsters will appear, eventually culminating in monsters with both adaptations.
 
 -   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note that this only nullifies DvM from gear. Innate PvE scaling, such as from your Power level, isn't affected.)
 -   _Magma Flow_ - The monster procs an effect on hit that weakens your armor and nullifies your Monster Armor temporarily. These monsters will drip with molten lava.
 
 ## Monsters
 
-Monster shown here will start showing up and replacing other monsters the deeper one goes in the order shown, but may show up much earlier or even show up later on. A Mudskipper Broodlord can appear in Floor 3 for example, while a regular Megalodaunt might show up in Floor 20.
+Monster shown here will start showing up and replacing other monsters the deeper one goes in the order shown, but may show up much earlier or even show up later on. A Mudskipper Broodlord can appear in Floor 5 for example, while a regular Megalodaunt might show up in Floor 20.
 
 ## Loot
 
@@ -108,6 +108,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><a href="Void_Spire.md">Void Spire</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's ash</a> (=&gt;1.2Km)</li>
@@ -137,6 +138,6 @@ Relics and enchant stones can drop from any chest at any floor.
 -   Mythical items are guaranteed to drop from 1.7km and below.
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
--   The cave paintings show that civilisation has once been here long before the Union have.
+-   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast.
     -   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 113181
+revid: 116850
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -154,7 +154,7 @@ _"You sweet talk your way out of trouble, gaining less bad reputation from commi
 
  | 
 
-Reduces amount of negative rep gained and makes it so Guards wont kill you when they get you downed. This only works if you are not an enemy.
+Reduces amount of negative rep gained.
 
 Unlocked from paying off your negative reputation with any faction.
 

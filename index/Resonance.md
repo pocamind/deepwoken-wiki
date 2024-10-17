@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 116194
+revid: 116845
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -186,7 +186,7 @@ When killing players, you will not gain Progress upon grip unless they are aroun
 
 | **What to do:** |
 | --- |
-| **Fight and kill Players. Doing this via the [Chime of Conflict](Chime_of_Conflict.md) is recommended.** |
+| **Fight and kill Players. Doing this via the [Chime of Conflict](Chime_of_Conflict.md) is recommended. You need to kill about 50 players to get resonance** |
 | **Extra/Important information:** |
 | When killing players, you will not gain Progress upon grip unless they are around your general Power level.
   

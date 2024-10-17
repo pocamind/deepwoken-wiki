@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 115428
+revid: 116857
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -37,11 +37,12 @@ Every 2nd and 4th M1 will apply burn / proc Lava Serpent (depending on which pat
 
 The Rosen's Hellflame has two critical attacks.
 
-The normal critical holds the rifle in front of you and shoots a constant torrent of flames from its barrel. The crit can be held, consuming ether to spray flames until you run out. It is not cancelled on being parried or blocked.
+The normal critical holds the rifle in front of you and shoots a constant torrent of flames from its barrel. The crit consumes ether to spray flames and will end if you run out of ether or if 5 seconds pass. It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
 
 The jumping critical causes your character to perform a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 
 ## Trivia
 
 -   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullet_Casings.md).
+    -   Additionally, the Bullet Casings change the color of the flames that come out on the 2nd and 4th M1.
 -   Before October 8th 2024's update, The critical cooldown started as soon as the button was pressed, Allowing for the grounded crit to essentially have no cooldown if you had the ether to spam it.
