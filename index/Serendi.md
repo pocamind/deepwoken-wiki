@@ -1,6 +1,6 @@
 ---
 title: Serendi
-revid: 113542
+revid: 116821
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,7 +15,7 @@ categories: [NPCs]
 
 ## Description
 
-Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), her position on the ship is not known but she appears to be a scout. Talking to her, she mentions [the Authority's](The_Central_Authority.md) ship approaching, which later causes a terrible incident...
+Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). Her position on the ship is not known but she appears to be a scout. [Flabbernaster Filingree](Flabbernaster_Filingree,_the_First_Mate.md) also tells her to load up the cannons. Talking to her, she mentions [the Authority's](The_Central_Authority.md) ship approaching, which later causes a terrible incident...
 
 ## Dialogue
 
@@ -26,7 +26,7 @@ The breeze out here is lovely, isn't it? I can see an inifite blue from here! An
 1.  You're standing on creates for it?
 2.  \[End Dialogue\]
 
-_Shut up_! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna offer to scoot over for ye... byt, nevermind then, puff.
+_Shut up_! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna offer to scoot over for ye... but, nevermind then, pff.
 
 1.  You don't need to scoot over, I can see it fine already.
 2.  \[End Dialogue\]

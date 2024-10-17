@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 115056
+revid: 116811
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ Pressing C will activate the **Dimensional Travel** Resonance.
 
 When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md), and will briefly leave a lingering portal to allow other players to enter. The resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying amount of steps taken outside of The Interstice, depending on your resonance point allocation.
 
-Dimensional Travel cannot be used in the [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), or instanced dungeons.
+Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), [Trial of One](Trial_of_One.md), or instanced dungeons (such as the [Second Layer](Second_Layer.md) and [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>))
 
 The function activating the Resonance has is dependent on what state of 'using the resonance' you're in:
 
