@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 116774
+revid: 116824
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -27,7 +27,7 @@ The player can run into him atop of one of the balconies in the city. His dialog
 
 In the tutorial, he teaches you the basics of the game, including how to fight, parry, block, sell items, and more. He fashions a Razor Cutlass as a weapon, which he uses to teach the player the basics of combat.
 
-## Dialogues in the City of New Kyrsa
+## Dialogue in the City of New Kyrsa
 
 **Castaway Origin, with Tutorial**
 
@@ -122,6 +122,234 @@ In the tutorial, he teaches you the basics of the game, including how to fight, 
 > 1.  I'll pocket any I come across, and keep that in mind.
 > 
 > Cap'n Orlandeau: Aye! \*The captain stretches his arm forth, waving across the cityspace.\* Go forth, **\[PLAYER\]**! Seek the treasures your heart desires. Seek out what belongs to you, seek your legacy. And to the ones above who think of us as sinners... _the gods will not be watching_.
+
+## Dialogue in the Tutorial
+
+Upon first speaking to him:
+
+> Cap'n Orlandeau: Ohoho, look who's up late! Feeling caught in the waves this morning, **\[PLAYER\]**? The rest o' the crew already got to their stations! What do you have to say for yerself?
+> 
+> 1.  Apologies, Cap'n. \[Skips to **Apologies, Cap'n.** below.\]
+> 2.  It was a nice nap.
+> 3.  You interrupted my dream.
+> 
+> (**2**) Cap'n Orlandeau: I'm sure it was, **\[PLAYER\]**! Ye nearly slept through all o' **\[Current Season\]**! Yer gonna need to work on some _discipline_, mate! All members of _Orlandeau's Crew_ are hard workin', all together!
+> 
+> 1.  Apologies, Cap'n.
+> 
+> (**3**) Cap'n Orlandeau: Dream, aye? I'm a dreamer too, friend. I understand that. _\*The man furrows his brow slightly, placing his hand upon his chin in thought.\*_ What sort o' dream was it, then? Riches? Life worth living?
+> 
+> 1.  I saw a shore, and pieces of my life.
+> 
+> Cap'n Orlandeau: The shore, aye? _\*He pauses for a moment, silently contemplating his own interpretation of what that could mean.\*_ Ah! I've got it! Ominous foreboding, future full o' strife! Even more reason to train, mate! Now, now.. no more stallin. We don't got all mornin'!
+> 
+> 1.  Apologies, Cap'n.
+> 
+> (**Apologies, Cap'n.**) Cap'n Orlandeau: _\*The tall captain shrugs, grinning widely.\*_ Aye, no need for formality, friend, I'm the same as ye. I'm merely pullin' yer bicorn. One thing I won't be jokin' about though is yer trainin'!
+> 
+> 1.  Training? At this hour?
+> 2.  Shouldn't I head to my station too?
+> 
+> (**1**) Cap'n Orlandeau: Trainin' indeed! I watched yer spars with the other crewmates yestermoon... _it was awful, mate!_ I'd be sinnin' a great deal to let that blade of yours go to waste! _\*The captain lets out a hearty laugh, placing his hand on your shoulder in a friendly, yet powerful manner.\*_ Now then. Pick up that sword.
+> 
+> 1.  Aye, sir. \[Skips to **Aye, sir.** below\]
+> 
+> (**2**) Cap'n Orlandeau: Bahaha! Aye, ye always wanna slither out of yer responsibilities, don't ye? It's my _duty_ to make sure ye can survive in this world, mate! _\*Suddenly, the man comes aggressively close to you, placing his hand on your shoulder and speaking in a somewhat menacing tone.\*_ Yer not lastin' a minute out there without some help. Draw your blade.
+> 
+> 1.  Aye, sir.
+> 
+> (**Aye, sir.**) Cap'n Orlandeau: _\*He grins, removing his hand from your shoulder and taking a few paces back.\*_ Aye then. Talk to me once more once yer ready to practice.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him without drawing your weapon:
+
+> Cap'n Orlandeau: Well, **\[PLAYER\]**? Are ye gonna take yer weapon out and talk to me with it? Look real scary, show me how intimidating ye can be! We don't got all **\[Current Season\]** to wait for ye!
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him with your weapon out:
+
+> Cap'n Orlandeau: Hm... Ye don't look scary yet, but we'll work on it. Ready to use that blade, **\[PLAYER\]**? I'll be teachin ye the basics.
+> 
+> 1.  I'm ready, Cap'n.
+> 
+> Cap'n Orlandeau: That's what I like to hear! Go on then, let's start with somethin'.. approachable. Give it a few swings in the air first, get those arms awake as well. After some swings, check in with me again, and I'll let ye try it on somethin' breathing. _\*He lets out a proud laugh, happy to see your eagerness.\*_
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him without completing the instructions:
+
+> Cap'n Orlandeau: C'mon already, mate! Etrea is o'er the horizon, we've not got much time! Who knows what'll await us there? Give a few swings with yer blade in the air.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him after completing the instructions;
+
+> Cap'n Orlandeau: There ye go! Sloppy form, but 'tis to be expected. Now, ye need to learn how to defend yerself. **Parrying** is crucial to the style of Etrean swordplay, and I can promise ye that you will _suffer greatly_ if yer unable to get a hold on it. I'm not kiddin' ye, my friend. If you cannot learn to **parry**, ye will not last long in this Luminant. Try parrying the air a few times, then I'll let you have some practice hits of my own.
+> 
+> 1.  I'll give it a go.
+> 
+> Cap'n Orlandeau: Aye! Go on, try taking the parry stance, then talk to me once more.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him before parrying and blocking:
+
+> Cap'n Orlandeau: **\[PLAYER\]**, don't be shy, mate! Try takin' a parrying stance, then talk to me again.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him after parrying and blocking:
+
+> Cap'n Orlandeau: Now, I'll be giving ye a few practice swings to try to parry. You should parry when you see the 'spark' of the swing, or when yer opponent raises their blade to strike at ye. If you fail, you'll be takin a mighty regrettable blow. So.. if ye want to live, it's best to deflect those strikes.
+> 
+> 1.  Let me at 'em. \[Ends dialogue, Cap'n Orlandeau attacks you.\]
+
+Failing to parry one of his attacks and then talking to him:
+
+> Cap'n Orlandeau: It's a little tricky to get, I understand, **\[PLAYER\]**. When I raise my blade, about to strike, **parry** the attack just before it's about to come down. If it helps, you can watch for a **spark** upon my blade, but you should rely on yer own sense of timing. Ready for another go?
+> 
+> 1.  Let me do another try.
+
+Successfully parrying an attack and then talking to him:
+
+> Cap'n Orlandeau: Very good, **\[PLAYER\]**! Yer doin' great, mate. Wanna give it another go to get more practice in, or move on?
+> 
+> 1.  Let's move on to the next lesson.
+> 2.  Let me do another try. \[Ends dialogue and replays the attack. Failing to parry this one will still bring you back to the fail dialogue.\]
+> 
+> Cap'n Orlandeau: Aye! Now, then, I think it's best ye learn how to patch yerself up after some painful encounters. **Resting** allows you to recover your health, as well as your **Blood**. You can rest by sitting at a campfire, for example. Let's get ye learnin' how to make one...
+> 
+> 1.  A campfire on the ship?
+> 
+> Cap'n Orlandeau: Indeed! Don't worry about the great hazard it provides, I'll snuff it out if somethin' goes terribly wrong. _\*The man lets out a hearty laugh, handing you sticks and flint.\*_ Here ye are. Try to **Craft** a Campfire Pit, and light it with this Flint. Talk to me again once you've rested at yer own made fire.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him before resting at a campfire:
+
+> Cap'n Orlandeau: Well, **\[PLAYER\]**? Are ye gonna make yer own campfire to **Rest**?
+> 
+> 1.  A campfire on the ship? \[Goes to the same dialogue above.\]
+
+Talking to him after resting at a campfire:
+
+> Cap'n Orlandeau: That's a lot of thinkin' I've had ye do, huh? Let's try teachin' ye somethin' simpler, then, heh. Another key to survival within this Luminant is utilizing **Equipment** to enhance your survivability. You can find all sorts of various knick knacks around.. or off bodies. I can lend ye one if you'd like, I promise this one isn't off of a corpse.
+> 
+> 1.  ..Sure?
+> 
+> _\*The tall captain, almost excitedly, hands you a dark black arm brace with a giddy expression on his face.\*_ Try it on, mate! **Equip** it and see how it fits!
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him before equipping the given item:
+
+> Cap'n Orlandeau: Go on, then! **Equip** the brace, mate.
+> 
+> 1.  \[End Dialogue\]
+
+Clicking with the item (does not need to be or remain equipped) and then talking to him:
+
+> Cap'n Orlandeau: Alright! That was a lot. Let's have a change of scenery, I've had enough of this lower deck for a lifetime. Over here, mate.
+> 
+> 1.  Aye. \[Ends dialogue, Cap'n Orlandeau moves to the Antiquarian's room.\]
+
+Talking to him once more, in the Antiquarian's room:
+
+> Cap'n Orlandeau: Now.. out in this Luminant, ye need to learn how to mingle with folks, and buy their wares. The currency used around these parts are **Notes**, which can be used for all sorts o' goods. Food, weapons, training gear... anything ye can dream, mate.
+> 
+> 1.  How can I get notes?
+> 
+> Cap'n Orlandeau: Bahaha! Wouldn't we all like to know, **\[PLAYER\]**! Well.. for _scavengers_ like us, we often need to pawn off treasures we find at an **Antiquarian**. Luckily for us, we have a resident one with our crew this voyage. Let's test yer social skills... I'll hand ye some gaudy knick knack, and you try to pawn it at the fellow in red over there. Deal?
+> 
+> 1.  Deal.
+> 
+> Cap'n Orlandeau: Go on, then! Sell this Emerald here, don't be shy.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him before selling to the Antiquarian:
+
+> Cap'n Orlandeau: Don't be shy, mate! Try to sell that emerald I gave ye to that **Antiquarian** over there, then come back to me.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him after selling something (not necessarily his emerald):
+
+> Cap'n Orlandeau: It brings a tear to my eye... you're a natural scalper already! _\*The man proudly pats your shoulder with a wide grin.\*_ Just like yer cap'n! Now, let's put those notes to use. Try purchasing that **Dumbbell** on the table there with yer hard-earned notes!
+> 
+> 1.  The dumbbell?
+> 
+> Cap'n Orlandeau: Of course, mate! A dumbbell is a **Training Item**, which can be used to enhance yer physical attributes. Ye can improve yer **Strength** by utilizing it, as well as other physical attributes with other respective training items. Try purchasing and using that dumbbell there, then check in with me!
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him before buying and using the Dumbbell:
+
+> Cap'n Orlandeau: Aye, need a reminder, mate? Try to buy that **Dumbbell** with the notes ye earned, then use it to train your **Strength**. Ye gotta hold it out just like yer Campfire Pit from before, then **use** it.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him after using the Dumbbell and gaining Strength:
+
+> Cap'n Orlandeau: There ye go, mate! Lookin' sharp already! By raising your attributes, you can increase your **Power** in order to learn new little tricks to help ye along the way.
+> 
+> 1.  What do you mean by Power?
+> 
+> Cap'n Orlandeau: Once one improves enough of their physical attributes... they experience a growth in their own **Power**. It's the best way to judge one's true inner strength, their ability to grow and best stronger foes, and to become a force to be reckoned with.
+> 
+> 1.  I see.
+> 
+> Cap'n Orlandeau: With growth in power, one may learn **Talents** to further their ability. But... enough of that, it's time we go to the upper decks. I think we've kept the rest o' the crew waitin' long enough, heh.
+> 
+> 1.  Very well, Cap'n. \[Ends dialogue, Cap'n Orlandeau goes to the upper deck.\]
+
+Talking to him for the first time after he goes to the upper level:
+
+> Cap'n Orlandeau: Nothing quite like the smell of the sea, aye? Ye did great in yer training today, **\[PLAYER\]**. How's about you chat with yer crewmates and come back my way when you've had enough?
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him any time after the above dialogue:
+
+> Cap'n Orlandeau: Ye get a good enough chinwag out there, then?
+> 
+> 1.  Yeah, I think so.
+> 
+> Cap'n Orlandeau: Grand, let's continue then. As I was sayin' earlier, you'll have an opportunity to take up new **Talents**. You may also take up what're known as **Mantras**.
+> 
+> 1.  Mantras?
+> 
+> Cap'n Orlandeau: Aye, fragments of the Song that ye can call upon to wield in battle. Ye'll surely come across them as ye increase your **Power**.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him before claiming the Mantra you are granted:
+
+> Cap'n Orlandeau: Why don't ye pick one of the cards I gave ye? I'll walk ye through how to use it next.
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him after claiming a Mantra but before using it:
+
+> Cap'n Orlandeau: Ahah! A great choice. Why don't ye give it a whirl?
+> 
+> 1.  \[End Dialogue\]
+
+Talking to him after using your Mantra:
+
+> Cap'n Orlandeau: Pwoah! You're a natural, mate. Seems all my training is finally paying off, eh?
+> 
+> 1.  What's next?
+> 
+> Cap'n Orlandeau: Well, next we have my favor--
+> 
+> \[Cap'n Orlandeau is interrupted by Authority cheering and cannons firing.\]
+> 
+> Cap'n Orlandeau: No... the [Authority](The_Central_Authority.md) can't have... **GET BELOW DECK, NOW!!**
+> 
+> \[Dialogue ends abruptly as the player is knocked unconscious and the tutorial is completed.\]
 
 ## Trivia
 

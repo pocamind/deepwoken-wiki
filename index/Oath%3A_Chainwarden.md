@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 115247
+revid: 116834
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -24,7 +24,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 ## Obtainment
 
 1.  1\. The oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with very high friend reputation (about to the green spot under reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with friend reputation (about to the green spot under reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
 3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the oath, only ONE Emar Vend will spawn. Whoever spawns it gets the oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the oath.)
 
 ## Progression
@@ -63,6 +63,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
     -   On base use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
     -   On a chained target, the user pulls on the chain, dealing damage and exploding enemies away from **your camera placement**.
+    -   If you add a [reversal spark](Mantra_Modifiers.md), it will send enemies away in the **opposite way of your camera.**
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
     -   Damage stacks are independent from person to person.

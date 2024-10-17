@@ -1,12 +1,16 @@
 ---
 title: Edenkite
-revid: 116779
+revid: 116836
 source: https://deepwoken.fandom.com/wiki/Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
+categories: [Pages with broken file links, Lore]
 ---
 
 # Edenkite
+
+File:Jurnal of an adventurer.png
+
+Artistic representation of the Edenkite, as shown in [Pleeksty's](Amorus_Pleeksty.md) journal.
 
 ## Description
 
