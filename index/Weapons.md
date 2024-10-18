@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 116807
+revid: 117020
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -505,7 +505,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 13</td>
   <td>1</td>
   <td>10</td>
-  <td>1.06x</td>
+  <td>1.17x</td>
   <td>23.6</td>
 </tr>
 <tr>
@@ -517,7 +517,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10</td>
-  <td>1.06x</td>
+  <td>1.17x</td>
   <td>24.8</td>
 </tr>
 <tr>
@@ -529,7 +529,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10.5</td>
-  <td>1.06x</td>
+  <td>1.17x</td>
   <td>31.5</td>
 </tr>
 <tr>
@@ -541,7 +541,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
-  <td>1.13x</td>
+  <td>1.25x</td>
   <td>35.9</td>
 </tr>
 <tr>
@@ -553,7 +553,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>11</td>
-  <td>1.06x</td>
+  <td>1.17x</td>
   <td>36</td>
 </tr>
 <tr>
@@ -565,7 +565,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>LHT: 12</td>
   <td>1</td>
   <td>10.5</td>
-  <td><font>1.06x</font></td>
+  <td><font>1.17x</font></td>
   <td>36</td>
 </tr>
 <tr>

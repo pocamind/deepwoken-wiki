@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 116738
+revid: 117024
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -33,20 +33,20 @@ Hovering over the skull will show you the name of the entity that put you into c
 
 PvP combat tag differs from PvE combat tag.
 
-#### PvE White Skull
+#### PvE Blue Skull
 
-The white skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
+The blue skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
 
-1.  You cannot switch weapons or armor during combat.(Unless you're Silentheart, in which you can switch weapons in combat with it's ability, or you first unequip your armor.)
+1.  You cannot switch weapons or armor during combat.(Unless you're Silentheart, in which you can switch weapons in combat with it's ability.)
 2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way.
 
 #### PvP Red Skull
 
 The red skull means that you are currently being assaulted by a player and lasts a minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies or guild mates will put them in danger. This comes with limitations:
 
-1.  You cannot switch weapons or armor during combat. (With the aforementioned Silentheart & unequipping exceptions.)
+1.  You cannot switch weapons or armor during combat. (With the aforementioned Silentheart exception.)
 2.  If you leave the game or disconnect at all, you will die regardless of your HP.
-3.  Unlike the white skull, you can't get health packs from NPCs, only players.
+3.  Unlike the blue skull, you can't get health packs from NPCs, only players.
 
 ## Combat Quotes
 

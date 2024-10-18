@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 116936
+revid: 117021
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Erisia, Maestro Evengarde Rest |
+| obtainment | Chests from:, First Layer, Duke Erisia, Maestro Evengarde Rest (Black) |
 | description | "A hat typically worn by those from the Central Luminant." |
 
 ## Description
@@ -32,3 +32,4 @@ The Strapped Hat is an [Equipment](Equipment.md) item under the "Head" category.
 
 -   The description used to read "Western Luminant" instead of "Central."
     -   It's unclear whether this was a typo or if the concept of the Western Luminant change with time.
+-   The talent provided, Exterminator, is now effectively useless, as it was merged into the Apothecary talent in a weekly update on [December 1, 2023](Version_History/2026.md).
