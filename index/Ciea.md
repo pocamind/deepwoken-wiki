@@ -1,12 +1,16 @@
 ---
 title: Ciea
-revid: 116673
+revid: 117005
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
 ---
 
 # Ciea
+
+“ My protege! Care to undergo another lesson? I'll put your intellect to the test! ”
+
+― Ciea, after having done one quest.
 
 Template:NPC name
 
@@ -32,7 +36,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 
 **First Encounter:**
 
-**First Encounter:**
+**Quest Start:**
 
 <table>
 <tbody>
@@ -123,3 +127,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The colors in Dialogue are for convenience. They do not display in-game.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 116992
+revid: 117008
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
 
 # Equipment
 
-_**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=sharing)**_
+_**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=drivesdk)**_
 
 An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for No Pips purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
 
@@ -5163,6 +5163,28 @@ Found from:
  |
 |  | 
 
+[Armorer's Ring](<Armorer's_Ring.md>)
+
+ | 
+
+Grants a 10% reduction to incoming armor damage.
+
+  
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Ferryman](The_Ferryman.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Summer Isle](Summer_Isle.md)
+-   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+ |
+|  | 
+
 [Bloodiron Ring](Bloodiron_Ring.md)
 
  | 
@@ -5185,24 +5207,19 @@ Found from:
  |
 |  | 
 
-[Armorer's Ring](<Armorer's_Ring.md>)
+[Charged Ring](Charged_Ring.md)
 
  | 
 
-Grants a 10% reduction to incoming armor damage.
+Reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal.
 
   
-+1 Uncommon Pip
 
  | 
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
  |
 |  | 

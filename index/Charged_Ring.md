@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 116863
+revid: 117009
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -11,11 +11,8 @@ categories: [Items, Equipment, Rings]
 | Charged Ring | |
 |---|---|
 | type | Ring |
-| rarity | Legendary |
-| selling price | 50 |
-| requirements | ? |
+| requirements | NONE |
 | weight | 0.1 |
-| innate stats | ? |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -25,4 +22,4 @@ categories: [Items, Equipment, Rings]
 
 ## Description
 
-**Charged Ring** is a Ring [Equipment](Equipment.md). The Charged Ring reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal.
+**Charged Ring** is a Ring [Equipment](Equipment.md). The Charged Ring reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal. The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>) but blue instead of green.
