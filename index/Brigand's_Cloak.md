@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 116429
+revid: 116921
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merchant Ships, Duke Erisia, Primadon, Summer Isle, Scyphozia |
+| obtainment | Merchant Ships, Duke Erisia, Primadon, Summer Isle, Scyphozia, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

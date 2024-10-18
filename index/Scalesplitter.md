@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 116552
+revid: 116860
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
@@ -44,3 +44,11 @@ The weapon has custom M1 (for both one and two handed) and Aerial animations, al
 This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away a decent amount (does not ragdoll). It has alright posture damage, dealing about 12 posture total.
 
 File:Scalesplittercrit.gif
+
+## Trivia
+
+-   I've seen many in the comments asking how to get this weapon, so I'll give you guys some tips:
+    -   Do not try fishing, it takes far too long and wastes a lot of time.
+    -   Instead, log at the Etris main tree as a high power slot, and log from servers in your/near regions until you see the tree burning. This indicates an Etris raid and now you just have to complete it (not very hard and does not take long) by killing all the authority. Then head back to the tree for the 3 chests which will most likely have at least 1 chest containing a scalesplitter (for reference, I got 2 scalesplitters in one chest at my Etris Raid).
+        -   This method took me approximately 1 hours, this is also considering that I got one stolen from me on my first attempt trying to get it which took me 45 minutes.
+        -   Hope this helps guys!

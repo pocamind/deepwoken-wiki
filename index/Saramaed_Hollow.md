@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 116847
+revid: 116864
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -135,6 +135,7 @@ Relics and enchant stones can drop from any chest at any floor.
 
 ## Trivia
 
+-   (Needs confirming) This dungeon, like [The Diluvian Mechanism](The_Diluvian_Mechanism.md), can also grant you a bell (grind to power 20 and you should have it)
 -   Mythical items are guaranteed to drop from 1.7km and below.
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m

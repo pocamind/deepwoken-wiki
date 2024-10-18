@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 116793
+revid: 116926
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -1102,6 +1102,7 @@ _+Talent: Precise Swing_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -1188,6 +1189,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -1752,6 +1754,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Brilliant Pauldrons.png | 
@@ -1880,6 +1883,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Black Deepwoken Cloak.png | 
@@ -2058,6 +2062,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Black Fur Pauldrons.png | 
@@ -2084,6 +2089,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black & White |
 |  | 
@@ -2487,6 +2493,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Sharko coat.png | 
@@ -2588,6 +2595,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -2874,6 +2882,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Simple Pauldrons.png | 
@@ -3320,6 +3329,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 | File:Brilliant Boots.png | 
@@ -3417,6 +3427,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:White fur boots.png | 
@@ -3461,6 +3472,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Grand Boots.png | 
@@ -3535,6 +3547,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Leather boots.png | 
@@ -3578,6 +3591,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3614,6 +3628,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Ranger Boots.png | 
@@ -3652,6 +3667,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Silver Sabatons.png | 
@@ -3738,6 +3754,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4206,6 +4223,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Static-assets-upload6078901116095484260.png | 
@@ -4255,6 +4273,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4447,6 +4466,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Default (Black), Red & White |
 |  | 
@@ -4481,6 +4501,7 @@ _+Talent: Blinded_
 Found from:
 
 -   [Erisia](Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4501,6 +4522,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4535,6 +4557,7 @@ Found from:
 Found from:
 
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4593,6 +4616,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | 
@@ -4697,6 +4721,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   Mob drop from Masked Songseeker Enemies ~(**10%**)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Blue, Green & Red |
 | File:Smith's Goggles1.png | 
@@ -4825,6 +4850,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md) (**100%**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4841,6 +4867,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4878,6 +4905,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:MasterThief.png | 
@@ -4897,6 +4925,7 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4941,6 +4970,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4957,6 +4987,7 @@ Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -5061,6 +5092,7 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
 -   Trading with [Jeremiah](Jeremiah.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5134,6 +5166,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   Trading with [Jeremiah](Jeremiah.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5158,6 +5191,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5183,7 +5217,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
@@ -5255,6 +5289,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 | File:Ferrymansring.png | 
@@ -5317,6 +5352,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5339,6 +5375,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5386,6 +5423,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
 
  |
@@ -5413,6 +5451,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   Trading with [Jeremiah](Jeremiah.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5439,6 +5478,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5461,6 +5501,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5549,6 +5590,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5571,6 +5613,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5610,6 +5653,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5638,6 +5682,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Pure Ore Turn-ins](Blacksmith.md) (**Extremely Rare**)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5707,6 +5752,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 
@@ -5715,20 +5761,21 @@ Found from:
 ## Trivia/Notes
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   If you want to wear a specific type of equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you wanna wear as vanity.
+-   If you want to wear a specific equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you want to wear as vanity.
 -   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
--   Sanity pips give ether (+1, +2, +3, +4)
--   Rare(Red) Monster Armor pips also gives +1% Physical Armor and +1% Elemental Armor
+-   Rare (Red) Monster Armor pips also gives +1% Physical Armor and +1% Elemental Armor
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
--   The highest amount of Stealth you can achieve with equipment is 30%. (A Dark Owl Chapeau for +10%, a Mercenary's Garb/Ministry Cloak/Dark Owl Cloak for +6%, Shrouded Capes for +5%, a Duelist Mask for +6% and some Master Thief Earrings for +3%.)
+-   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
+    -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
+-   Highest theoretical stealth kit in game is 30% stealth. (10% Dark Owl Chapeau, 6% Mercenary's Garb/Ministry Cloak/Dark Owl Cloak, 5% Shrouded Capes, 6% Duelist Mask, 3% Master Thief Earrings)
 -   Highest theoretical ETH kit in game is 423 ETH. (4x 32 ETH Moon and Waning Rings, 68 ETH Diver's Light Plate, 42 ETH Scarf, 64 ETH Hood, 64 ETH Boots, 32 ETH Mask, 37 ETH Old Blood Earrings)
 -   Highest theoretical Posture kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Diver's Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings)
--   Highest theoretical DvM kit in game is 69 DvM. (4x 4 DvM Rings (+ Diver's Ring), 20 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings)
--   Highest theoretical Monster Armor in game is 45% (16% Pathfinder Elite, 16% Vigil's Hood, 5% Drowned, 8% Echoes upgrade)
--   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%
--   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
+-   Highest theoretical DvM kit in game is 67% DvM. (3x 4% DvM Rings, 7% DvM Diver's Ring (depths only), 19% DvM Pathfinder Elite (Drowned), 5% DvM Scarf, 9% DvM Hood, 9% DvM Boots, 3% DvM Mask, 3% DvM Earrings)
+    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%.
+-   Highest theoretical Monster Armor kit in game is 37% Monster Armor. (21% Pathfinder Elite (Drowned), 16% Vigil's Hood)
+    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max Monster Armor you could possibly have is 45%.
 -   Legs equipment is currently the only equipment type that does not have Uncommon Pips.
 -   A sanity pip will also grant half of it's amount in ether. So if you get a +6 sanity pip, you will also get +3 ether.

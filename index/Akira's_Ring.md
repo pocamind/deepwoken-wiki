@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 116562
+revid: 116898
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings, The Divers]
@@ -20,7 +20,7 @@ categories: [Armors, Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:Ferryman , Second Layer , Ancient Rotlands , or , Trading with Jeremiah |
+| obtainment | Chests from:Ferryman , Second Layer , Ancient Rotlands , Maestro Evengarde Rest , or , Trading with Jeremiah |
 | description | "A ring once worn by a Black Diver. It seems he's since passed the need for such trinkets. +1.2 WLL scaling to all weapons." |
 
 ## Description

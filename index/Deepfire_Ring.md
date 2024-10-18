@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 116215
+revid: 116915
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -19,7 +19,7 @@ categories: [Items, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Duke Erisia, Second Layer, Chaser, Scholar of the Crimson Contract, Ancient Rotlands |
+| obtainment | The Ferryman, Primadon, Duke Erisia, Second Layer, Chaser, Scholar of the Crimson Contract, Ancient Rotlands, Maestro Evengarde Rest |
 
 Deepfire Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
@@ -37,3 +37,4 @@ Deepfire Ring can be obtained as loot or as a reward from:
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)

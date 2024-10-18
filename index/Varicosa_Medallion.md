@@ -1,6 +1,6 @@
 ---
 title: Varicosa Medallion
-revid: 116536
+revid: 116873
 source: https://deepwoken.fandom.com/wiki/Varicosa_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, First Layer , Duke Erisia, Primadon, Pure Ore Turn Ins |
+| obtainment | Second Layer, First Layer , Duke Erisia, Primadon, Pure Ore Turn InsMaestro Evengarde Rest |
 | description | "..." |
 
 ## Description

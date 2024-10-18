@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 115996
+revid: 116899
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Chaser (100%), Second Layer, Primadon |
+| obtainment | Chests from:, Chaser (100%), Second Layer, Primadon, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

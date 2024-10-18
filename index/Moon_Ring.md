@@ -1,6 +1,6 @@
 ---
 title: Moon Ring
-revid: 111598
+revid: 116919
 source: https://deepwoken.fandom.com/wiki/Moon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita, The Ferryman, Duke Erisia, First Layer, Second Layer, Ancient Rotlands, Moon's Eyrie, Primadon |
+| obtainment | Aelita, The Ferryman, Duke Erisia, First Layer, Second Layer, Ancient Rotlands, Moon's Eyrie, Primadon, Maestro Evengarde Rest |
 | description | "A deceptive ring that conceals one's true age. Greatly sought after by vain misers." |
 
 ## Description
@@ -37,6 +37,7 @@ The **Moon Ring** is a Ring [Equipment](Equipment.md) piece that conceals your c
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
 ## Trivia
 

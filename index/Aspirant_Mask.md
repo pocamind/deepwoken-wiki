@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 107478
+revid: 116900
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Deep Widow, Duke Erisia, First Layer, Songseeker Flamecharmer (Red), Songseeker Frostdrawer (Blue), Songseeker Thundercaller (Green) |
+| obtainment | Deep Widow, Duke Erisia, Maestro Evengarde Rest, First Layer, Songseeker Flamecharmer (Red), Songseeker Frostdrawer (Blue), Songseeker Thundercaller (Green) |
 | description | "..." |
 
 ## Description

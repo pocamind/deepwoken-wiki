@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 116501
+revid: 116894
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Erisia, Crypt of the Unbroken, Chaser |
+| obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Erisia, Crypt of the Unbroken, Chaser, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

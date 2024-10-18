@@ -1,6 +1,6 @@
 ---
 title: Sunway
-revid: 115287
+revid: 116877
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, The Ignition Union]
@@ -19,7 +19,7 @@ Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](
 
 Sunway describes that the snow is made of parasites, organic life. He explains that if enough parasites were to be stuck on a host's body, they burst out and instantly kill the host. After the host's death, the parasites take over the body giving it additional limbs and deforms the face. A [Carbuncle](Carbuncle.md) is created. It is also _**implied**_ that the [Diver Husk](Diver_Husk.md) is a form of [Carbuncle](Carbuncle.md) that has not fully transformed into it's quadrupedal form.
 
-To prevent the creation of more [Carbuncles](Carbuncle.md) it is implied that the Ignition Union created the black and yellow variants of the lanterns as a way to prevent parasite buildup, not to be confused with the white and blue variant seen in the [Galewax](Galewax.md) area of the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md). As Sunway describes it, "_blasting the eggs with absurd level of heat enough to shock it, forcing it to let go of your body._" The person who touches the lamp feels a minor shock of pain.
+To prevent the creation of more [Carbuncles](Carbuncle.md) it is implied that the Ignition Union created the black and yellow variants of the lanterns as a way to prevent parasite buildup, not to be confused with the white and blue variant seen in the [Galewax](Galewax.md) area of the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md). As Sunway describes it, "_blasting the eggs with an absurd level of heat enough to shock it, forcing it to let go of your body._" The person who touches the lamp feels a minor shock of pain.
 
 ## Dialogue
 
