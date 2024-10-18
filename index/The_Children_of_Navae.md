@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 116842
+revid: 116998
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Factions, The Children of Navae]
@@ -73,7 +73,7 @@ Neutral Reputation:
 
 Unique Dialogue:
 
-If you've gained max reputation with The Children of Navae in a slot that you wiped you will receive this dialogue if you speak with an Eastern Tribe Leader or Eastern Camp Master. (**There has been no proven evidence of this happening**, needs testing)
+If you've gained max reputation or ally with The Children of Navae in a slot that you wiped you will receive this dialogue if you speak with an Eastern Tribe Leader or Eastern Camp Master. (Yes, this dialogue will appear if you wipe with ally or max reputation has been tested.)
 
 -   "You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fufill my part in prophecy, please allow me to share some of our knowledge with you..." (You will get Way of Navae if you get this dialogue.)
 

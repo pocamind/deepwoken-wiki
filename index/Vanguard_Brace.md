@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 116667
+revid: 116971
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Erisia, Other sources:, Tutorial |
+| obtainment | Chests from:Erisia, Duke Erisia, Maestro Evengarde Rest, Other sources:, Tutorial |
 | description | "..." |
 
 ## Description

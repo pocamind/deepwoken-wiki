@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 116428
+revid: 116958
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Primadon, First Layer, Chime of Conflict |
+| obtainment | Chests from:Primadon, First Layer, Chime of Conflict, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

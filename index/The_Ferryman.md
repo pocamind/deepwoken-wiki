@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 114827
+revid: 116939
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -205,6 +205,7 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests.
 -   **[Stormseye](Stormseye.md)** - An incredibly rare Thundercall-based Rifle, requiring 75LTN and 40MED.
 -   [**Crypt Blade**](Crypt_Blade.md) - The Crypt Blade is a end-game Shadow Heavy legendary greatsword, requiring 75SHD and 40HVY.
+-   **[Crescendo](Crescendo.md)** - A medium twinblade sword that scales with and requires medium.
 -   **[Legendary Rings](Equipment.md#rings)** - An assortment of rings with higher pip-quality than standard rings, with many providing Weapon Scaling for attributes.
 -   **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Relic-Tier torso equipment that disables the effects of deep-gems for three minutes.
 -   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage by 10%.

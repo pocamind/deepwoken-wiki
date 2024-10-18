@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 116218
+revid: 116940
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -19,7 +19,7 @@ categories: [Items, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Duke Erisia, Second Layer, Aelita, Pure Ore Turn-ins, Ancient Rotlands |
+| obtainment | The Ferryman, Primadon, Duke Erisia, Second Layer, Aelita, Pure Ore Turn-ins, Ancient Rotlands, Maestro Evengarde Rest |
 
 Finisher's Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
@@ -38,3 +38,4 @@ Deepfire Ring can be obtained as loot or as a reward from:
 -   [Aelita](Aelita.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)

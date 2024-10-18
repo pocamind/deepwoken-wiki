@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 116615
+revid: 116997
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -123,8 +123,8 @@ _A bullet of flames shot through each hand._
 -   No Cooldown.
 -   Inflicts Burn.
 -   Breaks certain tiles.
--   Fire bullets can light campfire pits.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+-   Fire bullets can light campfire pits.
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md), causing the bullets to split in 2 after an unknown duration.

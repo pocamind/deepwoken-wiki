@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 116507
+revid: 116978
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Primadon, The Depths, Duke Erisia |
+| obtainment | Chests from:, Primadon, The Depths, Duke Erisia, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

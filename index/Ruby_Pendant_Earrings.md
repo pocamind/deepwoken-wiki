@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 109625
+revid: 116944
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Fishing |
+| obtainment | Chests from:, First Layer, Fishing, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

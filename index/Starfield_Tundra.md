@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 115960
+revid: 116999
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones, Oaths, Etrean Luminant]
@@ -18,7 +18,7 @@ File:Starfield tundra.png
 
 ## Overview
 
-Starfield Tundra is an area in Upper [Minityrsa](Minityrsa.md). It can be found by turning right after climbing up to the upper area of Minityrsa.
+Starfield Tundra is an area in Upper [Minityrsa](Minityrsa.md). It can be found by turning right after climbing up to the upper area of Minityrsa. The [Soothsayer](Soothsayer.md) can be found here.
 
 Starfield Tundra is a **Voidzone**, meaning you will be sent to [The Depths](The_Depths.md) if you die on the island regardless of other influences.
 

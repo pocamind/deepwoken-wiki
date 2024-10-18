@@ -1,6 +1,6 @@
 ---
 title: Dew Drop Earrings
-revid: 109622
+revid: 116942
 source: https://deepwoken.fandom.com/wiki/Dew_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer |
+| obtainment | Chests from:, Aratel Island, First Layer, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

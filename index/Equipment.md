@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 116926
+revid: 116992
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
 
 # Equipment
 
-_**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of health each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=sharing)**_
+_**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=sharing)**_
 
 An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for No Pips purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
 
@@ -222,6 +222,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
  | N/A |
@@ -289,6 +290,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Normal & Big |
 | File:Black Hood.png | 
@@ -337,6 +339,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -366,6 +369,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Black Strapped Hat.png | 
@@ -385,6 +389,7 @@ _+Talent: The Exterminator_
 Found from:
 
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black & Double |
 |  | 
@@ -452,6 +457,7 @@ _+Talent: Spare Nails_
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 
@@ -500,6 +506,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Captainskabuto.png | 
@@ -547,6 +554,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Static-assets-upload321884259233421803.png | 
@@ -565,6 +573,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -612,6 +621,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:DoubleStrappedHat.png | 
@@ -632,6 +642,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black & Double |
 |  | 
@@ -719,6 +730,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -768,6 +780,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -814,6 +827,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | Guard's, Royal Guard's, Captain's |
@@ -946,6 +960,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -1210,6 +1225,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Slate Tophat.png | 
@@ -1254,6 +1270,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Artifact Turn-ins](Artifacts.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -1273,6 +1290,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -1609,6 +1627,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Azure Royal Guard.png | 
@@ -1652,6 +1671,7 @@ Found from:
 
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black, Brown, & White |
 | File:Black Parka.png | 
@@ -1682,6 +1702,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Mob drop from [Authority Captain](Authority_Captain.md) (**~15%**)
 
  | Black, Brown & White |
@@ -1707,6 +1728,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -1729,6 +1751,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Brigand's Cloak.png | 
@@ -1779,6 +1802,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Trading with [Jeremiah](Jeremiah.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Brown Overcoat.png | 
@@ -1803,6 +1827,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black, Brown, & White |
 | File:Brown Parka.png | 
@@ -1832,6 +1857,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black, Brown & White |
 |  | 
@@ -2014,6 +2040,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Lavender First Ranger Duster.png | 
@@ -2089,7 +2116,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black & White |
 |  | 
@@ -2170,6 +2197,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -2286,6 +2314,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
@@ -2337,6 +2366,7 @@ Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Iron pauldrons.png | 
@@ -2543,6 +2573,7 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Smoke ministry cloak.PNG | 
@@ -2677,6 +2708,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
  | N/A |
@@ -2756,6 +2788,7 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -2782,6 +2815,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Faded Royal Duelist.png | 
@@ -2859,6 +2893,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
@@ -3025,6 +3060,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3068,6 +3104,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black, Brown, & White |
 | File:White Parka.png | 
@@ -3124,6 +3161,7 @@ _+Talent: Winter's Protection_
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
@@ -3150,6 +3188,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3293,6 +3332,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
@@ -3348,6 +3388,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -3369,6 +3410,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3448,6 +3490,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -3610,6 +3653,7 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Fort Merit](Fort_Merit.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3647,6 +3691,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3712,6 +3757,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3733,6 +3779,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3776,6 +3823,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
@@ -3798,6 +3846,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 
@@ -3885,6 +3934,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Confessors Charm.png | 
@@ -3909,6 +3959,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3930,6 +3981,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3955,6 +4007,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Onyx Fleet Warden Cape.png | 
@@ -4095,6 +4148,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) (**Rare**)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:PathfinderLantern.png | 
@@ -4157,6 +4211,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4179,6 +4234,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Dawn Scarf.png | 
@@ -4576,6 +4632,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4635,6 +4692,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4652,6 +4710,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4684,6 +4743,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Rabel Bandana.png | 
@@ -4703,6 +4763,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Blue.PNG | 
@@ -4740,6 +4801,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:TenGallonBandana.png | 
@@ -4757,6 +4819,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
@@ -4887,6 +4950,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -4948,6 +5012,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -5042,6 +5107,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 
@@ -5270,6 +5336,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5545,6 +5612,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Trading with [Jeremiah](Jeremiah.md)
 
  |
@@ -5567,6 +5635,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5632,6 +5701,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 
@@ -5726,6 +5796,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | 

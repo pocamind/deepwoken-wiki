@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 116510
+revid: 116966
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken, Chaser |
+| obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken, Chaser, Maestro Evengarde Rest |
 | description | "..." |
 
 [Winter Corps Parka](Winter_Corps_Parka.md)

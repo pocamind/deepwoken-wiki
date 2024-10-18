@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 116530
+revid: 116982
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Miner's Landing |
+| obtainment | Primadon, Miner's Landing, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

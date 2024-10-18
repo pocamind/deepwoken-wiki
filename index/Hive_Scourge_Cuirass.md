@@ -1,6 +1,6 @@
 ---
 title: Hive Scourge Cuirass
-revid: 116449
+revid: 116986
 source: https://deepwoken.fandom.com/wiki/Hive_Scourge_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cuirasses]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Cuirasses]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia, The Depths (Second Layer), Other sources:, Bought from Merchant Ships |
+| obtainment | Chests from:Duke Erisia, Maestro Evengarde Rest, The Depths (Second Layer), Other sources:, Bought from Merchant Ships |
 | description | "..." |
 
 ## Description

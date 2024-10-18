@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 116331
+revid: 116930
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Duke Erisia |
+| obtainment | Chests from:, Aratel Island, Duke Erisia, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description
