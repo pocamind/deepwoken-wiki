@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117098
+revid: 117114
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -463,9 +463,14 @@ These Talents are designed to make defensive gameplay easier by improving your d
 "_**I am the one to hold the walls."**_
 
 -   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 5s
--   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s
+    -   Prerequisities: 65 Fortitude
+-   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3
+    -   Prerequisities: 55 Fortitude
+
 -   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s
+    -   Prerequisites: 60 Fortitude
 -   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 5s
+    -   Prerequisities: 55 Fortitude, 25 Strength
 
 ### Butterfly
 
@@ -1227,6 +1232,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
     -   Spotter (for your opponent's allies) / Rhythm no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
+
+-   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
+    -   Prerequisites: 85 Fortitude
 
 ### Hunter
 

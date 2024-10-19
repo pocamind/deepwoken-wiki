@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 115772
+revid: 117111
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority]
@@ -22,7 +22,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The C
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, The Depths, Blacksteel Pirate |
+| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict |
 | description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
 
 | Alloyed Halberd | |
