@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 113065
+revid: 117097
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -182,5 +182,5 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 -   Due to the Vampirism enchant being mostly ineffective on bosses, the player must rely on other sources of healing like [Flamecharm's](Flamecharm.md) Flame Wisp and the health obtained from killing [Kyrsgarde](Kyrsgarde.md).
 -   The branches on its head are inspired by dendrites in neuron diagrams. The Scion only has four braincells.
 -   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
--   Named "avatar" in the game files.
+-   Named ".avatar" in the game files.
 -   Although some leaks have been presented, Ethiron is still one of two bosses to not have a theme song (the other being the [Dread Serpent](Dread_Serpent.md).)

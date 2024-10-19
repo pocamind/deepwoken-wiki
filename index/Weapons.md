@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117055
+revid: 117093
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1394,6 +1394,17 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
+  <td><a href="Iron_Twinblade.md">Iron Twinblade</a></td>
+  <td>15 MED</td>
+  <td>15</td>
+  <td>N/A</td>
+  <td>MED: 4</td>
+  <td>4</td>
+  <td>7</td>
+  <td>1x</td>
+  <td>?</td>
+</tr>
+<tr>
   <td><a href="Scalesplitter.md">Scalesplitter</a></td>
   <td>40 MED</td>
   <td>17.5</td>
@@ -1413,6 +1424,17 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td>5</td>
   <td>7.5</td>
   <td>0.92x</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Scalesplitter#Alloyed"><font>Alloyed Scalesplitter</font></a></td>
+  <td><font>75 MED</font></td>
+  <td><font>17.5</font></td>
+  <td><font>15%</font></td>
+  <td>MED: 5</td>
+  <td><font>6</font></td>
+  <td><font>8</font></td>
+  <td><font>1x</font></td>
   <td>?</td>
 </tr>
 </tbody>

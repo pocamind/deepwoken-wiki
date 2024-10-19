@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 117054
+revid: 117094
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -11,45 +11,41 @@ categories: [Weapons]
 | Iron Twinblade | |
 |---|---|
 | type | Twinblade |
-| requirements | ? MED |
-| damage | ? |
-| scaling | ? |
-| range | ? |
-| swing speed | ? |
-| endlag | ? |
-| penetration | ? |
-| chip damage | ? |
-| special effect | ? |
+| requirements | 15 MED |
+| damage | 15 |
+| scaling | 4 |
+| range | 7 |
+| swing speed | 1x |
+| chip damage | 30% |
 | stances | 2 Handed, 1 Handed |
-| selling price | ? |
-| weight | ? |
+| selling price | 7 |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
-| description | ? |
+| obtainment | Chime of conflict |
+| description | "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash." |
 
 ## Description
 
-The Iron Twinblade is a medium twinblade sword that scales with and requires medium. Currently, nothing is known about it. A screenshot of the weapon and it's description and stats would be highly appreciated.
+The Iron Twinblade is a medium weapon that has a medium requirement of 15 and 4 scaling. It does not currently have an alloy.
 
 ## M1s and Aerial
 
 Like all Twinblades, you do not flourish opponents when 2-handing this weapon.
 
-Furthermore, as a Twinblade, the running M1s are slightly delayed, making it a good mixup tool. Additionally, running M1s preform two slashes, possibly allowing you to hit twice.
+As a Twinblade, the running M1s are slightly delayed and perform two slashes, allowing you to hit twice.
 
 The aerial attack consists of a unique animation which causes the user to spin upon landing.
 
 ## Critical
 
-Needs more information.
-
-## Gallery
-
--   No images as of now
+It share a critical with the Scalesplitter. It can be assumed that it is the default twinblade critical.
 
 ## Trivia
+
+-   Compared to other starter weapons, the Iron Twinblade have an unusually high 30% chip damage: on par with the Soulthorn.
+-   Due to it's chip damage and requirements, it may be practical to use this on builds that require low medium investment.
 
 Work in progress

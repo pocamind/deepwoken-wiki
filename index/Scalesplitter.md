@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 117064
+revid: 117095
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
@@ -24,12 +24,12 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | FishingEtris Raid |
+| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie (Maybe?) |
 | description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles. |
 
 ## Description
 
-The **Scalesplitter** is a medium twinblade weapon that is currently only known to be obtainable from fishing or the Etris Raid event (confirmed).
+The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict or the Etris Raid event (confirmed).
 
 ## M1s and Aerial/Running
 
@@ -47,8 +47,4 @@ File:Scalesplittercrit.gif
 
 ## Trivia
 
--   I've seen many in the comments asking how to get this weapon, so I'll give you guys some tips:
-    -   Do not try fishing, it takes far too long and wastes a lot of time.
-    -   Instead, log at the Etris main tree as a high power slot, and log from servers in your/near regions until you see the tree burning. This indicates an Etris raid and now you just have to complete it (not very hard and does not take long) by killing all the authority. Then head back to the tree for the 3 chests which will most likely have at least 1 chest containing a scalesplitter (for reference, I got 2 scalesplitters in one chest at my Etris Raid).
-        -   This method took me approximately 1 hours, this is also considering that I got one stolen from me on my first attempt trying to get it which took me 45 minutes.
-        -   Hope this helps guys!
+-   The first of two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).
