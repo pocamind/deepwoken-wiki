@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 115742
+revid: 117129
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -26,7 +26,7 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chest's From, Duke Erisia, Deep Widow, First Layer, Second Layer, Chaser, Miner's Landing, Saramaed Summit, Primadon, Starfield Veldt, Merchant Ships, Bounties, Maestro Evengarde Rest, The Diluvian Mechanism |
+| obtainment | Chest's From, Duke Erisia, Deep Widow, First Layer, Second Layer, Chaser, Miner's Landing, Saramaed Summit, Primadon, Starfield Veldt, Merchant Ships, Bounties, Maestro Evengarde Rest, The Diluvian Mechanism, Scion of Ethiron |
 | description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value on the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
 
 ## Description

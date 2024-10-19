@@ -1,9 +1,9 @@
 ---
 title: Scalesplitter
-revid: 117095
+revid: 117154
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
+categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
 ---
 
 # Scalesplitter
@@ -11,7 +11,7 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 | Scalesplitter | |
 |---|---|
 | type | Twinblade |
-| requirements | 40 / 75 MED |
+| requirements | 40 / 65 MED |
 | damage | 17.5 / 19 |
 | scaling | 5 MED |
 | range | 7.5 / 8 |
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie (Maybe?) |
+| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie (Maybe?), Pure Ore Turn-ins |
 | description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles. |
 
 ## Description
@@ -41,10 +41,8 @@ The weapon has custom M1 (for both one and two handed) and Aerial animations, al
 
 ## Critical
 
-This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away a decent amount (does not ragdoll). It has alright posture damage, dealing about 12 posture total.
-
-File:Scalesplittercrit.gif
+This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away (does not ragdoll). It has decent posture damage, dealing about 12 posture total.
 
 ## Trivia
 
--   The first of two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).
+-   One of the first two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).

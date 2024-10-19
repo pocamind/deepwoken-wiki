@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 115189
+revid: 117147
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -24,7 +24,7 @@ The Diluvian Mechanism standing ominously in the center of the hall, awaiting fo
 
 You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. All humanoid enemies you seem to know have been mystically created from the mechanism itself, in the form of their tideknight variants. You'll be facing Angels, Divers, Songseekers and Attunement trainers in their utmost maximum, possessing powers you never have seen. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
 
-You can take on this hellish challenge on your own, or share the burden with your companions that are willing to come along with you.
+You can take on this hellish challenge on your own, or share the burden with up to 4 of your companions that are willing to come along with you.
 
 ### Mechanics
 

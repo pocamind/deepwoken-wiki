@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 116446
+revid: 117139
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -11,8 +11,8 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | Grand Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | 7 |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
 | innate stats | +2 Rare Pips |

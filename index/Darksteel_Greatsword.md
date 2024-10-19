@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 116905
+revid: 117145
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition U
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Hive, Summer Isle, Farming Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022) Depths, Tower Event, bought from Miner's Landing and PVP Arena chests |
+| obtainment | Maestro Evengarde Rest, Starswept Valley, Summer Isle, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Tower Event, Bought from Miner's Landing, Chime of Conflict, Chaser |
 | description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
 
 | Darkalloy Greatsword | |

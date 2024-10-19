@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117093
+revid: 117116
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -334,7 +334,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>1.26x</td>
   <td>0.04s</td>
-  <td>X</td>
+  <td>25.6</td>
 </tr>
 </tbody>
 </table>
@@ -1318,7 +1318,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>7</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>23.9</td>
+  <td>30.1</td>
 </tr>
 </tbody>
 </table>
@@ -1402,7 +1402,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>?</td>
+  <td>21.3</td>
 </tr>
 <tr>
   <td><a href="Scalesplitter.md">Scalesplitter</a></td>
@@ -1413,7 +1413,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td>5</td>
   <td>7.5</td>
   <td>0.9x</td>
-  <td>?</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><a href="Crescendo.md">Crescendo</a></td>
@@ -1424,18 +1424,18 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td>5</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>?</td>
+  <td>37.2</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Scalesplitter#Alloyed"><font>Alloyed Scalesplitter</font></a></td>
   <td><font>75 MED</font></td>
-  <td><font>17.5</font></td>
+  <td><font>19.5</font></td>
   <td><font>15%</font></td>
   <td>MED: 5</td>
   <td><font>6</font></td>
   <td><font>8</font></td>
   <td><font>1x</font></td>
-  <td>?</td>
+  <td><font>29.7</font></td>
 </tr>
 </tbody>
 </table>
@@ -1886,7 +1886,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>10</td>
   <td>0.82x</td>
   <td>N/A</td>
-  <td>X</td>
+  <td>42.8</td>
 </tr>
 </tbody>
 </table>
