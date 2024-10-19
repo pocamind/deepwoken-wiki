@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 116808
+revid: 117058
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -457,6 +457,14 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Allows for more time for followups after blockbreak.
     -   Visually bugged with base crit, and plays the knockdown animation twice.
     -   Prerequisites: Use a Greataxe, 40 Heavy Weapon
+
+### Bulwark
+
+"_**I am the one to hold the walls."**_
+
+-   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 5s
+-   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s
+-   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s
 
 ### Butterfly
 

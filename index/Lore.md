@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 116114
+revid: 117062
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -638,7 +638,6 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 -   There are nine layers to The Depths.
 -   The layers are non linear. You can go straight from the Surface to the Third Layer, which is what Pleeksty did.
 -   Klaris implies The Depths has some form of sentience, almost as if "we were interacting on a microscopic level with the processes of some slumbering creature."
--   The First Layer is located below the sea, however this is not the case for the others.
 
 #### Scyphozia, The First Layer
 

@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 116024
+revid: 117056
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,92 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **October 18th, 2024**
+
+**Content & Systems**  
+• New Shadow Mantra: Shade Step  
+• New Weapon: Iron Twinblade  
+• New Alloy: Alloyed Scalesplitter  
+• New Flaming Scourge Spark: Reversal  
+• New FTD Talent: Mythic Stability  
+• New FTD Talent: Down to your Level  
+• New FTD Talent: Dancing Guard  
+• New FTD Talent: Defensive Reprisal  
+• New FTD/STR Talent: Knuckle Guard  
+• New Imperator's Edge running critical  
+• You can now see your Stealth stat in the rest screen  
+  
+**Balancing & Tweaks**  
+• Increased "Passdown Capacity" max Echo upgrade (2 -> 4), letting you pass down up to 6 items now. The Hippocampal Pool's dialogue will now also mention how many passdowns you have left  
+• Lowered the echo cost per passdown for Soulbound/Legendary item (60 -> 40)  
+• Implemented a cap and floor for posture damage multipliers. The cap is the same as the regular damage multiplier cap, soft capping the posture multiplier at 1.5x and hard capping it at 1.75x. The floor (minimum multiplier) lies at 0.5x, letting you reduce incoming posture damage by up to 2x  
+• Parry stun window adjusted again (0.15s to 0.35s -> 0.2s to 0.4s), parry stun for weapons with equal swingspeeds increased (0.25s -> 0.3s)  
+• Your weapon's base damage is now reduced by 35% if you wield it below its requirements using glitches. You shouldn't notice a change unless you're deliberately bug abusing  
+• You now get Illusory Counter after handing in 3 Void Feathers instead of 2. Previously, you got two rewards for your 2nd Feather and no rewards for the 3rd  
+• Bloodtide Trident projectile trajectory now follows character on shiftlock  
+• Brachial Spear projectile trajectory now follows character on shiftlock  
+• Putrid Edenstaff projectile trajectories now follow character on shiftlock  
+• Flame Repulsion now deals less damage the bigger its size gets, base damage slightly increased  
+• Flame Sentinel damage reduced  
+• Sightless Beam duration buff from modifiers greatly reduced (base duration unchanged)  
+• Increased the duration that other players can follow a Jetstriker's Stratos Steps (4s -> 8s)  
+• Ice Fissure wind-up decreased for placing down fissures (0.45s -> 0.4s), wind-up increased for detonating them (0.2s -> 0.4s)  
+• Increased Spectral Gauge passive drain by 2x while in Phantom Step  
+• Fixed the double damage scaling on Boltcrusher Drill crit if you had Surge Path  
+• Greatly reduced Kyrsieger's Hyperarmor duration (3s -> 1.5s)  
+• Forge Greathammer Critical Hyperarmor duration reduced (0.6s -> 0.3s), no longer acts as True Hyperarmor and can no longer be used when already stunned  
+• Additional Startup frames added to Rosen's Hellflame  
+• Flaming Scourge CD now applies properly when interrupted  
+• Flaming Scourge base posture damage increased  
+• Second hit of Crescendo's critical is now cancellable  
+• Illusionary mobs should no longer collide with players  
+• Illusions created via Illusionary Counter are invincible for a short duration after spawning (can still be stunned, etc.)  
+• Using Tempest Blitz without a target while in combat cancels the move early  
+• Visionshaper clones now cancel their lightning strikes if used consecutively while the user is swinging  
+• Ether Barrage explosions size now scale with the level of the mantra  
+• Using Reality Shift with criticals now has the same overriding property as spells which fixes using it while fighting sometimes being unresponsive  
+  
+**Major Performance Optimizations**  
+• Fixed a huge memory leak with parallel player subscriptions. Removes a very big performance chug on the server that got worse as more mobs were spawned and more players joined/left servers  
+• Greatly optimized Ice Carve. Was causing huge memory leaks and performance issues, especially in older servers. Sounds like a minor bugfix but it's hard to overstate just how much this Mantra in particular was lagging servers out  
+• Fixed a huge memory leak with Flaming Scourge  
+• Fixed a memory leak with parrying sound fx  
+• Fixed Crypt Blade memory leak  
+• Fixed Emotion Wave memory leak  
+• Fixed a memory leak with Lightning Stream  
+• Fixed a memory leak where if visual effects loaded in before a certain point they wouldn't clear up properly  
+• Greatly optimized mob antigank checks  
+• Greatly optimized humanoid mob targeting, attack logic, and parkour checks  
+• Greatly optimized mob and player blocking checks. Should completely remove the lag from mobs sitting in block  
+• Greatly optimized Mob checks for nearby allies. Now only performed when relevant to their activities  
+• Greatly optimized the laggy nightmare brains. Big source of lag exclusive to the East Luminant  
+• Optimized server-side area/region checks  
+• Optimized mob target-setting  
+• Optimized mob state handling  
+• Optimized TP bell vfx  
+• Fixed a source of lag in the East Luminant relating to interactible objects  
+  
+**Bugfixes**  
+• Implemented a failsafe for the Silentheart Quest: in case you have already killed a trainer and haven't received the talent reward (with the trainer no longer respawning), you can now speak to the Dreadstar to receive it  
+• Fixed Surge not giving you the max oath progression dialogue after getting all Visionshaper abilities  
+• Fixed a longstanding bug where you'd have to click twice to re-equip Training Gear after spending an investment point  
+• Fixed free character slots sometimes not being redeemable  
+• Fixed Chariot's Spire spawn option  
+• Fixed Metal Rampart and other destructible objects being unclimbable  
+• Fixed Boltcrusher Slam (Running) Critical doing its second hit when the first hit was dodged  
+• Fixed being able to start the Aelita event while combat tagged  
+• Fixed being able to passdown an infinite amount of Soulbound/Legendary items  
+• The spears that the Scion of Ethiron shoots at you can now be walked through, should prevent cases of you getting flung and instantly killed by wonky Roblox Physics  
+• Hopefully fixed getting stuck in Layer 2 if you used your Light Hook just as it expired  
+• Made entering and leaving Guild Bases safer in that you're less likely to die to fall damage if you lag out  
+• Fixed guild base door tp failing and keeping you in place  
+• Fixed Ice Eruption Round Spark not dealing damage at the proper position  
+• Fixed Explosive Shadow Assault on visionshaper clones bugging users  
+• Fixed being able to bypass weapon requirements by oathbreaking Silentheart  
+• Fixed Deep Owl clipping you through ceilings when grabbed (for real this time)  
+• Fixed Ironclad Punishment not working  
+• Fixed Old Habits Die Hard not working
 
 ## **October 11th, 2024**
 

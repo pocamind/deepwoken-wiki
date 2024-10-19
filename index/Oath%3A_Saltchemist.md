@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 114613
+revid: 117035
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,10 +89,13 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 ### Lethal Injection
 
 -   Lunge forward and inject the targeted person with all of your auto-brew potions.
--   You get Lethal Injection innate, just rejoin the server.
+-   This injects all of the _negative_ effects of your brew, none of the positive effects will apply.
+-   Has the unique property of being able to apply several of the same kind of potion.
+-   Puts potions on cooldown.
+-   Deals no damage.
 -   Plays a sound cue
--   Small auto-track
--   Needs more testing
+-   Small auto-track  
+    
 
 ## Location
 

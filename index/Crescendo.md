@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 116711
+revid: 117051
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -32,10 +32,6 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 
 The Crescendo is a medium twinblade sword that scales with and requires medium.
 
--   File:1 handed stance.gif
-
--   File:2 Handed Stance.gif
-
 ## M1s and Aerial
 
 While 2-handing the Crescendo (and other twinblades) you do not flourish opponents.
@@ -62,8 +58,7 @@ Top view of Critical:
 
 Front view of Critical:
 
-  
-
 ## Trivia
 
+-   The blades resemble [Krulian Knives](Krulian_Knife.md).
 -   For a while after the weapons release, it's crit was unparriable. This was later confirmed to be a bug and fixed.

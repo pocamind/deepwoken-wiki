@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 117008
+revid: 117057
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5867,3 +5867,4 @@ Found from:
     -   The echo shop allows for an additional 8% DvM onto your character, meaning the max Monster Armor you could possibly have is 45%.
 -   Legs equipment is currently the only equipment type that does not have Uncommon Pips.
 -   A sanity pip will also grant half of it's amount in ether. So if you get a +6 sanity pip, you will also get +3 ether.
+-   It is suspected that the Charged Ring is the rarest obtainable piece of equipment, surpassing even the Bloodforged Crown in rarity. This is likely due to a bug, as **very** few people have managed to obtain it as it only drops from [Primadon](Primadon,_Titan_of_the_East.md) with an **extremely** low drop rate.

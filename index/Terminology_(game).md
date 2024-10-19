@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 115762
+revid: 117050
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -268,17 +268,17 @@ _adjective_
 
 _noun_
 
-1.  Acronym for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
+1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
 
 ### Kamui
 
-1.  Acronym for the legendary [Dimension Travel](Dimensional_Travel.md) resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
+1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
 
 ### Yoru
 
 _noun_
 
-1.  Acronym for the [Portals](Portals.md) resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The resonance is similar to his ultimate ability.
+1.  Nickname for the [Portals](Portals.md) resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The resonance is similar to his ultimate ability.
 
 ## Outside Combat
 
@@ -289,6 +289,12 @@ _verb, noun_
 1.  The appearance of one's character. Usually used to describe characters that look particularly good
     1.  Ex. This man's dripping out!
     2.  Ex. Your drip doesn't look that good. Maybe you should try this out instead.
+
+### Hook
+
+_Verb_
+
+1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia. 1. Ex. I got 2 minutes left. I’m hooking outta here!
 
 ## Enemies / Monsters
 

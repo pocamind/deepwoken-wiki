@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117020
+revid: 117055
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -43,7 +43,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   12 Spears (14 if Alloyed)
 -   5 Clubs
 -   3 Rifles
--   2 Twinblades
+-   3 Twinblades (4 if Alloyed)
 
 #### Heavy Weapons
 

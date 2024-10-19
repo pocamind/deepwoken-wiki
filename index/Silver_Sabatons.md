@@ -1,6 +1,6 @@
 ---
 title: Silver Sabatons
-revid: 116506
+revid: 117029
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley |
+| obtainment | Chests from:, Starswept Valley, Chime of Conflict |
 | description | "..." |
 
 ## Description
