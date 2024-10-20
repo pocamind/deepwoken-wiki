@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 117187
+revid: 117251
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -38,8 +38,8 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
 ### Combat Mantras
 
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
+| **Image** | **Name** | **Card Description** | Damage Type | **Effect** |
+| --- | --- | --- | --- | --- |
 |  | 
 Fire Blade
 
@@ -49,7 +49,7 @@ Fire Blade
 
 _Slicing blades of flame._
 
- | User forcefully slams down their blade coated in flames.
+ | Fire | User forcefully slams down their blade coated in flames.
 
 -   Deals moderate damage.
 -   Inflicts Burn.
@@ -73,7 +73,7 @@ Flame Repulsion
 
 _An exertion of flames._
 
- | After a wind-up of 0.5 seconds, user releases a burning AoE blast.
+ | Fire | After a wind-up of 0.5 seconds, user releases a burning AoE blast.
 
 -   Reduces incoming damage by 75% in addition to reflecting it back
 -   Unable to move during wind-up.
@@ -97,7 +97,7 @@ Burning Servants
 
 _Summon a legion of flaming spearmen that lunge inwards._
 
- | User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+ | Fire | User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
 -   Deals moderate damage.
 -   Inflcits Burn.
@@ -117,7 +117,7 @@ Fire Gun
 
 _A bullet of flames shot through each hand._
 
- | Caster draws out and propels bullets of flames from their hands towards the cursor's location.
+ | Fire | Caster draws out and propels bullets of flames from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   No Cooldown.
@@ -141,7 +141,7 @@ Flame Grab
 
 _Jet forwards with flames and slam anyone you catch in your clutches._
 
- | User lunges forward for a grab that slams and burns incoming opponents into the ground.
+ | Fire | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
 -   Inflicts light damage.
 -   Inflicts Burn.
@@ -160,7 +160,7 @@ Flame Blind
 
 _Shoot a projectile that explodes after a short delay and blinds those looking at it._
 
- | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
+ | N/A | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Rare Flamecharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
@@ -180,7 +180,7 @@ Fire Palm
 
 _A blast of flame._
 
- | User releases a burst of flame from the palm in front of them.
+ | Fire | User releases a burst of flame from the palm in front of them.
 
 -   Cone shaped hitbox.
 -   Deals moderate damage.
@@ -198,7 +198,7 @@ Fire Eruption
 
 _A pyroclastic eruption._
 
- | User slams weapon into the ground below that causes 2 consecutive explosions.
+ | Fire | User slams weapon into the ground below that causes 2 consecutive explosions.
 
 -   Deals moderate-high damage.
 -   The second explosion ragdolls enemies.
@@ -219,7 +219,7 @@ Fire Forge
 
 _Toss a nimble dagger._
 
- | 
+ | Fire | 
 
 -   User throws 3 quick burning daggers.
 
@@ -248,7 +248,7 @@ Relentless Flames
 
 _Bear down on your foes with repeated fiery slashes._
 
- | User releases a flurry of seven slashes.
+ | Fire | User releases a flurry of seven slashes.
 
 \- Only slashes once when an enemy isn't hit.
 
@@ -269,7 +269,7 @@ Flame Sentinel
 
 _Conjure a turret of flames._
 
- | User creates an orb that will shoot out fireballs to nearby targets.
+ | Fire | User creates an orb that will shoot out fireballs to nearby targets.
 
 -   Can be modified with a magnet spark, making the turret follow the user.
 
@@ -284,7 +284,7 @@ Rising Flame
 
 _A rising tornado of flames._
 
- | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+ | Fire | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
 -   Deals moderate-high damage. It has a base damage of 15. (And apparently has a max damage of 25?)
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
@@ -303,7 +303,7 @@ Flare Volley
 
 _Conjure up to 3 fireballs to vollery at your enemies._
 
- | User releases a small projectile fireball and sets enemy on fire if hit
+ | Fire + Blunt | User releases a small projectile fireball and sets enemy on fire if hit
 
 -   Deals high posture damage.
 -   This mantra can pass through walls.
@@ -322,7 +322,7 @@ Ash Slam
 
 _Strike the ground, turning it to ash._
 
- | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates an bursting explosion each time.
+ | Fire + Blunt | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates an bursting explosion each time.
 
 -   Requires at least 20 Strength and 50 Flamecharm.
 -   Deals moderate damage.
@@ -336,7 +336,7 @@ _Strike the ground, turning it to ash._
 
 (★★★)
 
- | _Conjure a flaming arrow and fire it at your target._ | User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
+ | _Conjure a flaming arrow and fire it at your target._ | Fire | User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage increases with each charge.
     -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
@@ -351,7 +351,7 @@ _Strike the ground, turning it to ash._
 
 (★★★)
 
- | _Lash out with flames._ | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
+ | _Lash out with flames._ | Fire | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
 -   ” Oh, doughnuts! So delicious, doughnuts!”
 -   Grabs any enemies In range of it.
@@ -367,8 +367,8 @@ _Strike the ground, turning it to ash._
 
 ### Mobility Mantras
 
-| **Image** | **Spell** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
+| **Image** | **Spell** | **Card Description** | Damage Type | **Effect** |
+| --- | --- | --- | --- | --- |
 |  | 
 Flame Leap
 
@@ -380,7 +380,7 @@ Flame Leap
 
 _Leap up leaving behind a burst of flames._
 
- | User emits a blast under them that propels the caster and nearby opponents up in the air.
+ | Fire | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc _Meteor Impact,_ as long as the initial leap hits, the opponent(s) are sent upwards with you and the mantra is not modified with [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
@@ -393,7 +393,7 @@ _Leap up leaving behind a burst of flames._
 
 (★★☆)
 
- | _Dash forward in a spiral of flames._ | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
+ | _Dash forward in a spiral of flames._ | Fire | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire.
@@ -407,8 +407,8 @@ _Leap up leaving behind a burst of flames._
 
 ### Support Mantras
 
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
+| **Image** | **Name** | **Card Description** | Damage Type | **Effect** |
+| --- | --- | --- | --- | --- |
 |  | 
 Flame Wisp
 
@@ -420,7 +420,7 @@ Flame Wisp
 
 _A servant of flames._
 
- | The caster summons a wisp of magma.
+ | N/A | The caster summons a wisp of magma.
 
 -   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
@@ -443,7 +443,7 @@ Graceful Flame
 
 _Conjure an undying flame for the caster and their comrades to rest by._
 
- | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
+ | N/A | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
@@ -465,7 +465,7 @@ Flame of Denial
 
 _Undying flame._
 
- | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
+ | N/A | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds if Azure Flames has been unlocked, if damage isn't substantial.
     -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing it's buffed by 20% if used with azure flames.

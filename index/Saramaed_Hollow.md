@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 117040
+revid: 117244
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -25,7 +25,7 @@ File:Photo 2024-10-15 19-27-35.jpg
 
 This dungeon, taking place deep underground beneath Miner's Landing and its [Saramaed Summit](Saramaed_Summit.md), is the primary method of progression for the [Ignition Delver](Origins.md) Origin. However, anyone can partake in this dungeon as long as they have above neutral reputation with the Ignition Union.
 
-**Saramaed Hollow** can be entered by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work as a team or go solo. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
+**Saramaed Hollow** can be entered by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work solo or as a team of up to 5 players. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
 
 Note that all the maps contain lava as an environmental hazard, which deal a respectable amount of damage if touched.
 
@@ -46,7 +46,7 @@ There are 4 room layouts, featuring randomized enemy spawns:
 -   The rail tracks
 -   The open field
 
-Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player beyond the first) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras and critical attacks while carrying Fuel Ore.
+Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player after the first, up to a max of 13) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras and critical attacks while carrying Fuel Ore.
 
 Do note that carrying these ores will not allow you to attack with your weapon, or dodge.
 

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 117197
+revid: 117250
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -36,15 +36,15 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 
 ### Combat
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 | 
  | 
 
 Dark Blade  
 (☆☆☆)
 
- | Slicing blades of dark energy. | 20 Ether | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
+ | Slicing blades of dark energy. | 20 Ether | Shadow | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
 -   Adding rush shards make dark blade faster.
 -   Adding vibrant gems increase ether steal.
@@ -58,7 +58,7 @@ Dark Blade
 Shadow Gun  
 (☆☆☆)
 
- | An awful blast of dark energy. | 20 Ether | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
+ | An awful blast of dark energy. | 20 Ether | Shadow | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones will increase the height and width of the blast
@@ -74,7 +74,7 @@ Shadow Gun
 Clutching Shadow  
 (☆☆☆)
 
- | A shadowy hand. | 50 Ether | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
+ | A shadowy hand. | 50 Ether | Shadow + Blunt (slam) | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
 
 -   Can be modified with lenses to increase range
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
@@ -87,7 +87,7 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | 15 Ether | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
+ | Chains of shadow. | 15 Ether | Shadow | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
 
 -   Duration of the chain effect can be increased with Logstones
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
@@ -101,7 +101,7 @@ Shadow Chains
 Shadow Eruption  
 (★☆☆)
 
- | Form a shockwave of darkness. | 50 Ether | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
+ | Form a shockwave of darkness. | 50 Ether | Shadow | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
 
 -   Unaffected by Glass & Magnifying Stones.
 -   Although, Stratus Stones and Cloud Stones do increase the size of the eruption.
@@ -117,7 +117,7 @@ File:1679957620-medaltvroblox20230327185049-tr-edit AdobeExpress (1).gif
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | 60 Ether | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
+ | Call forth the void to track your opponents. | 60 Ether | Shadow | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
 
 nearby opponents until the duration has expired or the orb has made contact with the target. Orbs
 
@@ -137,7 +137,7 @@ do a small amount of damage and steal a large amount of ether.
 Shadow Roar  
 (★★☆)
 
- | Roar a wave of shadows. | 50 Ether | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit.
+ | Roar a wave of shadows. | 50 Ether | Shadow | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit.
 
 "hit em with a scream!"
 
@@ -149,7 +149,7 @@ Shadow Roar
 Rising Shadow  
 (★★☆)
 
- | Form a Shockwave of darkness. | 50 Ether | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting
+ | Form a Shockwave of darkness. | 50 Ether | Shadow + Blunt (Slam) | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting
 
 with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
 
@@ -164,7 +164,7 @@ with an enemy, they will be lifted into the air and smashed into the ground, dea
 Shadow Meteors  
 (★★☆)
 
- | Hail down meteors of darkness. | 65 Ether | 3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
+ | Hail down meteors of darkness. | 65 Ether | Shadow | 3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
 
 -   Shares a cooldown with Shadow Seekers.
 
@@ -180,7 +180,7 @@ Shade Bringer
 
 -   Cannot be feinted.
 
- | 50 Ether | User creates a large black sword from their hands, using it to slash the enemy in front of them.
+ | 50 Ether | Shadow | User creates a large black sword from their hands, using it to slash the enemy in front of them.
 
 -   Can be modified with a spring spark, making you lunge forward and slam down on the enemy.
 -   Can be modified with a multiplying spark, making you slash three times instead of once.
@@ -194,7 +194,7 @@ Shade Bringer
 Eclipse Kick  
 (★★★)
 
- | Show your foes your strength. | 35 Ether | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
+ | Show your foes your strength. | 35 Ether | Shadow + Blunt (Spark) | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
 
 -   Requires 15 Strength[\[1\]](#cite-note-1) and 50 Shadowcast.
 -   Deals a massive amount of posture and health damage.
@@ -210,7 +210,7 @@ Eclipse Kick
 Shadow Vortex  
 (★★★)
 
- | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The Mantra doesn't combat tag and has no vertical range cap.
+ | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | Blunt | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The Mantra doesn't combat tag and has no vertical range cap.
 
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with [Glass/Magnifying Stones](Mantra_Modifiers.md) to increase the range, though it seems to display diminishing returns.
@@ -219,8 +219,8 @@ Shadow Vortex
 
 ### Support
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 | 
  | 
 
@@ -231,7 +231,7 @@ Shade Devour
 
 for raw strength
 
- | 55 Ether | Causes a damaging shockwave that adds a +20% weapon damage buff to the user, consumes health upon use.
+ | 55 Ether | Shadow | Causes a damaging shockwave that adds a +20% weapon damage buff to the user, consumes health upon use.
 
 -   Spine Cutter cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
@@ -246,7 +246,7 @@ for raw strength
 Devouring Eye  
 (★★☆)
 
- | Summons a fragile eye that consumes the ether of those who try to cast Mantras within its gaze. | 40 Ether | Creates an Eye that steals the ether of anybody that casts a Mantra within its gaze |
+ | Summons a fragile eye that consumes the ether of those who try to cast Mantras within its gaze. | 40 Ether | N/A | Creates an Eye that steals the ether of anybody that casts a Mantra within its gaze |
 | 
 
  | 
@@ -254,7 +254,7 @@ Devouring Eye
 Shade Wisp  
 (★★☆)
 
- | Summon a servant of Shade | 70 Ether | Cloaks the caster in darkness and reduces their visibility
+ | Summon a servant of Shade | 70 Ether | N/A | Cloaks the caster in darkness and reduces their visibility
 
 -   Grants passive tempo
 -   Requires a Ritual Cast
@@ -266,8 +266,8 @@ Currently can bug, not allowing you to complete the ritual cast and requiring yo
 
 ### Mobility
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 | 
  | 
 
@@ -278,7 +278,7 @@ Encircle
 
 before warp-striking to them.
 
- | 90 Ether | The user will summon shadows around their target and teleport to them after a short wait.
+ | 90 Ether | Shadow | The user will summon shadows around their target and teleport to them after a short wait.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
@@ -289,7 +289,7 @@ before warp-striking to them.
 Shadow Assault  
 (★★☆)
 
- | A rush of darkness. | 50 Ether | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
+ | A rush of darkness. | 50 Ether | Shadow | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
 
 -   Lenses increase distance.
 -   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.

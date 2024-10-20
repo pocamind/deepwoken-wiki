@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 115305
+revid: 117208
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -10,43 +10,23 @@ categories: [Weapons, Swords]
 
 | Messer | |
 |---|---|
-| type | Medium Sword |
-| requirements | 10 MED |
-| damage | 20 |
-| scaling | 5 |
-| range | 7.5 |
-| swing speed | 0.93x |
+| type | Sword |
+| requirements | 10 / 75 MED |
+| damage | 20 / 21 |
+| scaling | 5 / 6 MED |
+| range | 7.5 / 7.5 |
+| swing speed | 0.93x / 0.93x |
+| penetration | 15% |
+| chip damage | 15% |
+| stances | 2 Handed, 1 Handed |
 | selling price | 7 |
-| weight | 6 |
+| weight | 6 / 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Etris Weapon shop, Erisia Chests, Chime of Conflict |
-| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world alike. |
-
-| Alloyed Messer | |
-|---|---|
-| type | Medium Sword |
-| requirements | 75 MED |
-| damage | 21 |
-| scaling | 6 |
-| range | 7.5 |
-| swing speed | 0.93x |
-| penetration | 15% |
-| chip damage | 15% |
-| selling price | 50 |
-| weight | 7 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Applying a Pluripotent Alloy on the base weapon |
-| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world over. |
-
-**Base:**
-
-**Alloyed:**
+| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world alike., Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world over. |
 
 ## Description
 

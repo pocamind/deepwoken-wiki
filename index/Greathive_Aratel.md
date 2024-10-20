@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 112774
+revid: 117248
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -81,8 +81,8 @@ Fountain in the Hidden Village
 
 #### Archive
 
--   Physical Mantra [Trainer](Attunement_Trainers.md)
--   [Barber](Barber.md)
+-   Physical Mantra Trainer [Regek](Regek.md).
+-   A [Barber](Barber.md) at the balcony.
 
 #### Antiquarian
 
@@ -111,6 +111,7 @@ Honey Pool (Presumably)
 
 -   Players can find a Blacksmith.
 -   Players are able to purchase a [Pickaxe](Pickaxe.md) and [Lumber Axe](Lumber_Axe.md) for each.
+-   A [Crafting Station](Crafting_Station.md) is found right next to the Blacksmith.
 
 #### Inn
 
@@ -126,6 +127,11 @@ The most powerful being in the universe rules over his subjects
 
 -   Players can find the Celestial Telescope here.
 -   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
+
+#### Balconies
+
+-   Flint and Wood can be purchased here.
+-   Features a lovely view of the Eastern Luminant.
 
 ## Observatory
 

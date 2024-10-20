@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 117191
+revid: 117247
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -40,13 +40,13 @@ The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Lightning Blade  
 (☆☆☆)
 
- | Arcing blades of electricity. | 50 Ether | Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through target(s).
+ | Arcing blades of electricity. | 50 Ether | Lightning | Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through target(s).
 
 -   Deals moderate damage.
 -   10 Second Cooldown.
@@ -61,7 +61,7 @@ Lightning Blade
 Jolt Grab  
 (☆☆☆)
 
- | An electrified chokehold. | 60 Ether | Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user.
+ | An electrified chokehold. | 60 Ether | Lightning | Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user.
 
 -   Deals 45 thunder damage.
 -   10 Second Cooldown.
@@ -77,7 +77,7 @@ Jolt Grab
 Lightning Beam  
 (☆☆☆)
 
- | Fire a beam of lightning. | 50 Ether | Cast out a straight beam of lightning from where the character is facing.
+ | Fire a beam of lightning. | 50 Ether | Lightning | Cast out a straight beam of lightning from where the character is facing.
 
 -   Can break objects.
 -   10 Second Cooldown.
@@ -90,7 +90,7 @@ Lightning Beam
 Electro Carve  
 (★☆☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Conjure a shocking orb at the end of weapon, dealing rapid damage.
+ | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Lightning | Conjure a shocking orb at the end of weapon, dealing rapid damage.
 
 -   Deals light damage; moderate if not parried.
 -   Projectile moves along where the character is facing.
@@ -107,7 +107,7 @@ Electro Carve
 Fleeting Sparks  
 (★☆☆)
 
- | Call forth motes of electricity that seek out your foes. | 60 Ether | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
+ | Call forth motes of electricity that seek out your foes. | 60 Ether | Lightning | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
 
   
 
@@ -123,7 +123,7 @@ Fleeting Sparks
 Lightning Impact  
 (★☆☆)
 
- | Slam those under you with a lightning empowered kick. | 80 Ether | Leap into the air before slamming down into the ground, dealing AoE Lightning damage before ascending the user and target(s) hit into the air.
+ | Slam those under you with a lightning empowered kick. | 80 Ether | Lightning | Leap into the air before slamming down into the ground, dealing AoE Lightning damage before ascending the user and target(s) hit into the air.
 
 -   Deals moderate damage.
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
@@ -140,7 +140,7 @@ Lightning Impact
 Lightning Clones  
 (★☆☆)
 
- | Replicated forms of yourself conjured from electricity. | 60 Ether | Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing.
+ | Replicated forms of yourself conjured from electricity. | 60 Ether | Lightning | Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing.
 
 -   Deals light damage.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
@@ -157,7 +157,7 @@ Lightning Clones
 Lightning Strike  
 (★☆☆)
 
- | A strike of thunder at your desired location. | 50 Ether | Perform a gesture before conjuring strikes of lightning at the cursor's location.
+ | A strike of thunder at your desired location. | 50 Ether | Lightning | Perform a gesture before conjuring strikes of lightning at the cursor's location.
 
 -   Deals moderate damage.
 -   Applies Knockdown.
@@ -175,7 +175,7 @@ Lightning Strike
 Thunder Kick  
 (★☆☆)
 
- | An unrelenting kick like a clap of thunder. | 60 Ether | Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any target(s) hit.
+ | An unrelenting kick like a clap of thunder. | 60 Ether | Lightning + Blunt | Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any target(s) hit.
 
 -   Deals 50 thunder damage.
 -   Guard Breaks at Level 5
@@ -189,7 +189,7 @@ Thunder Kick
 Storm Blades  
 (★★☆)
 
- | Conjure weapons of thunder with your ether. | 45 Ether | Conjure a ring of lightning blades that deal AoE damage.
+ | Conjure weapons of thunder with your ether. | 45 Ether | Lightning | Conjure a ring of lightning blades that deal AoE damage.
 
 -   Deals light damage.
 -   12 Second Cooldown
@@ -205,7 +205,7 @@ Storm Blades
 Grand Javelin  
 (★★☆)
 
- | A javelin made out of lightning. | 60 Ether | Conjure and throw a spear of lightning towards where the character is facing.
+ | A javelin made out of lightning. | 60 Ether | Lightning | Conjure and throw a spear of lightning towards where the character is facing.
 
 -   Deals 60 thunder damage.
 -   Ragdolls and flings target(s).
@@ -220,7 +220,7 @@ Grand Javelin
 Bolt Piercer  
 (★★☆)
 
- | An arrow of lightning. | 50 Ether | Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location.
+ | An arrow of lightning. | 50 Ether | Lightning | Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location.
 
 -   Deals high damage.
     -   At Level 1, it can deplete more than half a healthbar from a freshie.
@@ -235,7 +235,7 @@ Bolt Piercer
 Emotion Wave  
 (★★★)
 
- | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Conjure a throw a bolt of lightning from the user's right hand, causing volleys of lightning strikes to spread out.
+ | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Lightning | Conjure a throw a bolt of lightning from the user's right hand, causing volleys of lightning strikes to spread out.
 
 -   Deals moderate-high damage.
 -   \[30\] Second Cooldown.
@@ -248,7 +248,7 @@ Emotion Wave
 Rising Thunder  
 (★★★)
 
- | Rise up with your opponent and crash down as a bolt of lightning. | 70 Ether | Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground.
+ | Rise up with your opponent and crash down as a bolt of lightning. | 70 Ether | Lightning | Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground.
 
 -   Deals 77 thunder damage.
 -   Short wind-up and completely safeguards user when landed.
@@ -260,13 +260,13 @@ Rising Thunder
 
 ### Support Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Lightning Stream  
 (★☆☆)
 
- | A stream of lightning. | 50 Ether | Grapple onto a target with a stream of lightning before pulling them in.
+ | A stream of lightning. | 50 Ether | Lightning | Grapple onto a target with a stream of lightning before pulling them in.
 
 -   Deals light damage; moderate for **Blast Spark** variant.
 -   Stuns the target, allowing a small chance to begin a combo.
@@ -282,7 +282,7 @@ Lightning Stream
 Thunder Wisp  
 (★★☆)
 
- | A servant of lightning. | 70 Ether | Conjure a wisp of lightning that applies "Sapping" to a target upon being Uppercutted or flourished.
+ | A servant of lightning. | 70 Ether | N/A | Conjure a wisp of lightning that applies "Sapping" to a target upon being Uppercutted or flourished.
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
@@ -295,7 +295,7 @@ Thunder Wisp
 Spark Swap  
 (★★★)
 
- | Swap places with a selected target. | 10 Ether | After a short delay and indicator, instantly swap location with whatever target your cursor is on.
+ | Swap places with a selected target. | 10 Ether | N/A | After a short delay and indicator, instantly swap location with whatever target your cursor is on.
 
 -   Range scales with current health.
 -   This can be used on NPCs, players or monsters.
@@ -310,13 +310,13 @@ Spark Swap
 
 ### Mobility Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Lightning Assault  
 (★★☆)
 
- | A rush of lightning. | 60 Ether | The character sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting target(s) as they pass.
+ | A rush of lightning. | 60 Ether | Lightning | The character sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting target(s) as they pass.
 
 -   Deals moderate damage.
 -   10 Second Cooldown.
@@ -331,7 +331,7 @@ Lightning Assault
 Lightning Cloak  
 (★★★)
 
- | A cloak of lightning itself. | 20 Ether | Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges).
+ | A cloak of lightning itself. | 20 Ether | N/A | Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges).
 
 -   A combative action, such as blocking parrying or attacking, must be used within **8 seconds** or the mantra is deactivated and goes on cooldown.
 -   Lasts a duration of 6.5 – 60 seconds.

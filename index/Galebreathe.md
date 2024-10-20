@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 117201
+revid: 117246
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -43,8 +43,8 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Wind Blade  
 (☆☆☆)
@@ -53,7 +53,7 @@ Wind Blade
 
 _Slicing blades of wind._
 
- | 40 Ether | Launch a wind projectile at cursor's position.
+ | 40 Ether | Wind | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable Talent.
@@ -69,7 +69,7 @@ Air Force
 
 _Shoots out an air blast._
 
- | 20 Ether | Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
+ | 20 Ether | Wind | Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
 -   Deals light-medium damage.
 -   Pushes people back and dazes them if they collide with something
@@ -93,7 +93,7 @@ Tornado Kick
 
 _Slicing blades of wind._
 
- | 50 Ether | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
+ | 50 Ether | Wind | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
 
 -   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
@@ -109,7 +109,7 @@ Gale Lunge
 
 _A rush of piercing wind._
 
- | 40 Ether | Lunge forward with your weapon coated in wind.
+ | 40 Ether | Wind | Lunge forward with your weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
@@ -127,7 +127,7 @@ Tornado
 
 _A rushing current of wind._
 
- | 15 Ether | Conjure a small vortex around yourself, M1 to cast it forward.
+ | 15 Ether | Wind | Conjure a small vortex around yourself, M1 to cast it forward.
 
 -   Can be modified with logstones to increase duration, but caps at 1 or 2.
 -   Moves forward on its own after 2 seconds.
@@ -146,7 +146,7 @@ Heavenly Wind
 
 _A strike from the heavens._
 
- | 50 Ether | Leap high into the air before diving down, striking any targeted opponent.
+ | 50 Ether | Wind | Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
@@ -167,7 +167,7 @@ Galetrap
 
 _Toss a wind landmine._
 
- | 40 Ether | Deploy a small green landmine at your cursor's location.
+ | 40 Ether | Wind | Deploy a small green landmine at your cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
@@ -184,7 +184,7 @@ Gale Punch
 
 _Form a punch of wind in your fist and release it._
 
- | 60 Ether | Conjure a wind AoE punch that deals damage and knocks targets away.
+ | 60 Ether | Wind + Slash | Conjure a wind AoE punch that deals damage and knocks targets away.
 
 -   Can be modified with _Cloudstones_, _Stratus stones_, _Perfect Lenses_ and _Crystal lenses_ to increase size.
 -   Can break objects.
@@ -198,7 +198,7 @@ _Form a punch of wind in your fist and release it._
 Wind Forge  
 (★☆☆)
 
- | _"Encircle your foes with blades of wind that halt their escape_ _until they respond"._ | 60 Ether | Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+ | _"Encircle your foes with blades of wind that halt their escape_ _until they respond"._ | 60 Ether | Wind + Slash | Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
 
 -   Projectiles are homing.
 -   Medium-far range.
@@ -214,7 +214,7 @@ Wind Forge
 Twister Kicks  
 (★☆☆)
 
- | "Go forth with spinning kicks infused with the wind" | 40 Ether | Dash forwards kicking with a rush of winds dealing damage.
+ | "Go forth with spinning kicks infused with the wind" | 40 Ether | Wind | Dash forwards kicking with a rush of winds dealing damage.
 
 -   Deals moderate damage.
 -   Can break objects.
@@ -229,7 +229,7 @@ Champion's Whirlthrow
 
 _Grab your target and toss them with the power of gale._
 
- | 60 Ether | Grab your target before spinning them in 360 degrees and then tossing them.
+ | 60 Ether | Wind + Blunt (initial grab) | Grab your target before spinning them in 360 degrees and then tossing them.
 
 -   Deals good-high damage.
 -   Forcible Block Break (Only When Upgraded To Level 5).
@@ -249,7 +249,7 @@ Rising Wind
 
 _Use wind to uppercut and propel yourself into the air._
 
- | 60 Ether | Ascend while uppercutting your target, rapidly damaging them.
+ | 60 Ether | Wind + Blunt | Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
 -   Rapidly deals light damage to the opponent while rising.
@@ -270,7 +270,7 @@ Wind Gun
 
 _A powerful wind blast._
 
- | 40 Ether | Fire a penetrating bullet of wind.
+ | 40 Ether | Wind | Fire a penetrating bullet of wind.
 
 -   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
 -   Applies the _"Suffocate"_ status effect.
@@ -288,7 +288,7 @@ Wind Carve
 
 _A quick swirl of sharp winds._
 
- | 40 Ether | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+ | 40 Ether | Wind | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals light damage over multiple slashes.
@@ -307,7 +307,7 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- | 50 Ether | Cast several fast, wind-enhanced slashes that form a star.
+ | 50 Ether | Wind | Cast several fast, wind-enhanced slashes that form a star.
 
 -   Deals _possibly moderate-heavy_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
@@ -323,7 +323,7 @@ Pillars of Erisia
 
 _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."_
 
- | 70 Ether | Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
+ | 70 Ether | Wind + Slash | Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Gives hyperarmor when casting
@@ -342,6 +342,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
   <th>Spell</th>
   <th>Card Description</th>
   <th>Ether Cost</th>
+  <th>Damage Type</th>
   <th>Effect</th>
 </tr>
 <tr>
@@ -350,6 +351,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
   (★★★)</center></td>
   <td><center><i>A rush of wind</i></center></td>
   <td>50 Ether</td>
+  <td>Wind + Slash</td>
   <td>Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
   <ul>
     <li>Does heavy damage</li>
@@ -367,8 +369,8 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
 ### Support Mantras
 
-| Image | Spell | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Image | Spell | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Gale Wisp  
 (★★☆)
@@ -377,7 +379,7 @@ Gale Wisp
 
 _A servant of wind._
 
- | 60 Ether | Spawns a spherical wisp of wind. Requires ritual casting.
+ | 60 Ether | N/A | Spawns a spherical wisp of wind. Requires ritual casting.
 
 -   Grant 30% fall damage resist.
 -   Haunted Gale requires one less perfect cast to activate (3 to 2).

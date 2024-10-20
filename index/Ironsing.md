@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 116228
+revid: 117249
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -49,14 +49,14 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 | 
  | Metal Eruption
 
 (☆☆☆)
 
- | A flurry of metal spikes. | 40 Ether | Stomp the ground, causing a flurry of metal spikes to erupt forward.
+ | A flurry of metal spikes. | 40 Ether | Metal + Slash | Stomp the ground, causing a flurry of metal spikes to erupt forward.
 
 -   By rotating your view, you can reangle the mantra to catch rolls.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
@@ -70,7 +70,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (☆☆☆)
 
- | A barrage of metal rods. | 40 Ether | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
+ | A barrage of metal rods. | 40 Ether | Metal + Slash | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
 
 -   Applies Metal Rods on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra increase amount of needles fired but removing the jump.
@@ -84,7 +84,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★☆☆)
 
- | A powerful kick laced with metal | 20 Ether | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
+ | A powerful kick laced with metal | 20 Ether | Metal + Slash | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
 
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the mantra to perform a faster drop-kick that doesn't apply knockdown.
 
@@ -95,7 +95,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Unleash a rain of metal rods down below. | 50 Ether | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
+ | Unleash a rain of metal rods down below. | 50 Ether | Metal | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
 
 -   Hits around 10 times.
 -   Applies Metal Rods on hit.
@@ -110,7 +110,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throw out 6 caltrops upon use, which stay on the ground for a while.
+ | Sharp metal traps. | 50 Ether | Metal | Throw out 6 caltrops upon use, which stay on the ground for a while.
 
 -   Functions similar to Galebreathe's [Gale Trap](Galebreathe.md) mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
@@ -128,7 +128,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
+ | Create a firing line of metal to light up your target. | 40 Ether | Metal + Slash | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
 
 -   Apply Metal Rods on hit.
 -   You cannot use other Mantras or M1 while this is active.
@@ -140,7 +140,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them | 50 Ether | Conjure a vortex of blades before rushing forward, dealing moderate damage.
+ | Conjure metal swords and rush forward with them | 50 Ether | Metal + Slash | Conjure a vortex of blades before rushing forward, dealing moderate damage.
 
 -   Rapid-hitting mantra.
 -   Applies Metal Rods on hit.
@@ -154,7 +154,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Create a metal clone and appear behind your target. | 20 Ether | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
+ | Create a metal clone and appear behind your target. | 20 Ether | Metal + Slash | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
 
 -   Applies Metal Rod on hit.
 
@@ -163,13 +163,13 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Conjure metal from within, impaling surrounding entities. |  | Send metal spikes piercing through your body, impaling all nearby targets.
+ | Conjure metal from within, impaling surrounding entities. |  | Metal + Slash | Send metal spikes piercing through your body, impaling all nearby targets.
 
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it
 
  |
-|  | Metal Turret | An automated turret that fires at targets that that cross its sight. | 100 Ether | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
+|  | Metal Turret | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
 
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
 -   Each shot applies a Metal Rod on hit
@@ -181,7 +181,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★★)
 
- | Summon a blade of metal to swing alongside you. | 40 Ether | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
+ | Summon a blade of metal to swing alongside you. | 40 Ether | Metal + Slash | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
 
 -   Each hit is parryable but still applies Metal Rods.
 -   The greatsword conjured deals fixed damage.
@@ -195,7 +195,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★★)
 
- | A deadly rush of several metallic rods. | 50 Ether | A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage.
+ | A deadly rush of several metallic rods. | 50 Ether | Metal + Slash | A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage.
 
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
@@ -209,7 +209,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★★)
 
- | Conjure a giant rod of metal and slam it down. | 40 Ether | Form a large spikey iron rod before slamming it down forwards.
+ | Conjure a giant rod of metal and slam it down. | 40 Ether | Metal + Slash | Form a large spikey iron rod before slamming it down forwards.
 
 -   Deals heavy damage if not dodged or parried.
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
@@ -222,7 +222,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★★)
 
- | Crush your opponents bones with an iron infused grab. | 40 Ether | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
+ | Crush your opponents bones with an iron infused grab. | 40 Ether | Metal + Slash | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
 -   The spell locks on to targets within a close frontal radius. Applies Metal Rods on hit.
 -   With the [Metal Absorption](Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
@@ -234,7 +234,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★★)
 
- | Create a lance, impale your opponent, and send them flying. | 35 Ether | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
+ | Create a lance, impale your opponent, and send them flying. | 35 Ether | Metal + Slash | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
 
 -   Deals moderate damage.
 -   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md) mantra and Frostdraw's [Ice lance](Frostdraw.md) mantra respectively.
@@ -243,14 +243,14 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 ### Mobility Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 | 
  | Metal Rampart
 
 (☆☆☆)
 
- | Summon a large metal pillar | 50 Ether | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
+ | Summon a large metal pillar | 50 Ether | Metal | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
 
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
@@ -263,7 +263,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Create a metal ball and rush forward. | 40 Ether | Encased in a metal ball, rush forward while knocking down any targets in the way.
+ | Create a metal ball and rush forward. | 40 Ether | Metal + Slash | Encased in a metal ball, rush forward while knocking down any targets in the way.
 
 -   Covers around 100 studs of distance.
 -   Applies Metal Rods on hit.
@@ -273,14 +273,14 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 ### Support Mantras
 
-| Media | Name | Card Description | Ether Cost | Effect |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| --- | --- | --- | --- | --- | --- |
 | 
  | Iron Skin
 
 (★☆☆)
 
- | Coat your skin with metal to reduce harm. | 20 Ether | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
+ | Coat your skin with metal to reduce harm. | 20 Ether | N/A | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
 
 -   During usage, the user is unable to move nor act.
 -   With the [Intuitive Repairs](Talents.md) Talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
@@ -295,7 +295,7 @@ Does not negate deferred, fire or fall damage.
 
 (★☆☆)
 
- | Manifest chains to brutally pull enemies towards you. | 50 Ether | Conjure a chain of metal from the right hand that pulls in any targets from the cursor.
+ | Manifest chains to brutally pull enemies towards you. | 50 Ether | Metal + Blunt | Conjure a chain of metal from the right hand that pulls in any targets from the cursor.
 
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
 -   Can be modified with a reversal spark, making it knock enemies away.
@@ -309,13 +309,13 @@ Does not negate deferred, fire or fall damage.
 Metal Wisp  
 (★★☆)
 
- | A servant of metal | 70 Ether | Conjure a metal wisp that regenerates armor durability.
+ | A servant of metal | 70 Ether | N/A | Conjure a metal wisp that regenerates armor durability.
 
 -   Applies Metal Rods.
 -   Requires a ritual cast.
 -   Consumes a small amount of Ether when repairing armor
--   Armor Regeneration is scaled with Ironsing,
-    -   Therefore at times, armor might be regenerated until 90% but others could be 100% depending on how much you placed in Ironsing.
+-   Armor Regeneration is scaled with Ironsing.
+-   Armor Regeneration will only be triggered when none of it is wasted.
 
  |
 
