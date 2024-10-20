@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 115967
+revid: 117258
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -156,9 +156,9 @@ Mantras you obtained through your Oath. Although it lacks the trainers to help l
 
 Mantra IDs are accessed using the built-in Roblox Dev-Console that can be activated by typing /console in chat or pressing F9.
 
-_**(This may have been patched/removed)**_
+_**(Added back recently, though may be removed in the future.)**_
 
-`Squad`\- Flame / Frost / Illusion _**(Burning Servants, Frozen Servants, Illusory Servants)**_
+`Squad`\- Flame / Frost / Illusion _**(Burning Servants, Frozen Servants, Illusory Servants.)**_
 
 `StrongPunch`\- Fire / Shadow / Strength / WeaponMedium _**(Ash Slam, Eclipse Kick, Strong Left, Master's Flourish.)**_
 
@@ -166,23 +166,25 @@ _**(This may have been patched/removed)**_
 
 `Zone-` Illusion _**(Illusory Realm.)**_
 
-`Toss`\- Lightning / Enforcer / Bonekeeper _**(Grand Javelin, Enforcer Pull, Brachial Spear.)**_
+`Toss`\- Lightning / Ice / Enforcer / Bonekeeper _**(Grand Javelin, Ice Flock, Enforcer Pull, Brachial Spear.)**_
 
 `Strike`\- Fortitude _**(Shoulder Bash.)**_
 
-`Skate`\- Ice _**(Ice Skate)**_
+`Skate`\- Ice _**(Ice Skate.)**_
 
-`RisingSlash`\- Fire / Lightning / Shadow / Wind _**(Rising Flame, Rising Thunder, Rising Shadow, Rising Wind)**_
+`RisingSlash`\- Fire / Lightning / Shadow / Wind _**(Rising Flame, Rising Thunder, Rising Shadow, Rising Wind.)**_
 
-`Pierce`\- Wind / Ice _**(Gale Lunge, Ice Lance)**_
+`Palm`\- Fire / Shadow _**(Fire Palm, Shadow Meteors.)**_
 
-`Palm`\- Fire / Shadow _**(Fire Palm, Shadow Meteors)**_
+`Pierce`\- Wind / Ice _**(Gale Lunge, Ice Lance.)**_
 
-`Eruption`\- Ice / Shadow _**(Ice Eruption, Shadow Eruption)**_
+`Pillar`\- Ice _**(Ice Spike.)**_
 
-`Blade`\- Fire / Ice / Lightning / Wind / Shadow _**(Fire Blade, Ice Blade, Lightning Blade, Wind Blade, Shadow Blade)**_
+`Eruption`\- Ice / Shadow _**(Ice Eruption, Shadow Eruption.)**_
 
-`Kick`\- Lightning _**(Thunder Kick)**_
+`Blade`\- Fire / Ice / Lightning / Wind / Shadow _**(Fire Blade, Ice Blade, Lightning Blade, Wind Blade, Shadow Blade.)**_
+
+`Kick`\- Lightning _**(Thunder Kick.)**_
 
 Add more if you find them.
 
