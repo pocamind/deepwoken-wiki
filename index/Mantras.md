@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 117258
+revid: 117273
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -216,7 +216,7 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 -   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
 -   Total cost to get one Mantra from level 1 to level 5: 1,000 Notes
 
-Each Mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain Mantras have different effects at level 5, such as Thunder Kick becoming an Instant Guardbreak.
+Each Mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain Mantras have different effects at level 5, such as Thunder Kick, Fire Blade, Ice Smash, Shadow Gun, Iron Slam and Champion's Whirlthrow becoming Instant Guardbreaks.
 
 ## ~Elemental Intensity~
 

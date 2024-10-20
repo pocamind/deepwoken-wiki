@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 111698
+revid: 117274
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -55,4 +55,4 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 -   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the Power 60 to Power 20 compression.
 -   You deal about 30% of your base damage of any [weapon](Weapons.md) or [mantra](Mantras.md) added to your NPC damage per Power level. Remember this when fighting high-level mobs like [Golems](Rock_Golem.md), [Stone Knights](Stone_Knight.md), and [King Threshers](King_Thresher.md).
--   When powering up, you regain your hunger, thirst, and blood.
+-   When powering up, you regain your hunger, thirst, blood, along with 'cleansing' your health bar, in the event that it was 'dirty' (for more information, read [Combat Mechanics](Combat_Mechanics.md)).

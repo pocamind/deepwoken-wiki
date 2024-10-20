@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 116085
+revid: 117271
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -325,7 +325,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
 
 -   **Requirements: _30 Intelligence,_** Combat _Mantra_
 -   User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact.
--   Explosions will damage and ragdoll the user as well.
+-   ~Explosions will damage and ragdoll the user as well.~ Not anymore.
 -   Can be used from any height, and you will float.
 -   Does not negate fall damage, tested.
 

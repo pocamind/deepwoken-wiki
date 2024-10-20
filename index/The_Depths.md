@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 112236
+revid: 117272
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -18,7 +18,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 **The Depths** is a location in _Deepwoken_. Players are sent to the Depths after [dying](Death.md) twice and without the increase of Power, or Level, whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by [whirlpools](Whirlpools.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) [modifiers](Echoes.md), dying within a [Voidzone](Voidzones.md), being consumed by a corrupted [Blood Scourge](Resonance.md), dying in the [Voidsea](Voidsea.md), or using the Call of the Deep [Talent](Talents.md) granted exclusively to [Deepbound](Origins.md#deepbound) players. Players who are close to entering the Depths, such as dying once, rather than seeing the more commonly saw message "_Adrenaline surges into your veins as tensions thicken._", it will instead say "_Your heart beats faster as the end draws near._" This message will indicate that you are on your second life, and dying here would send you to the dreaded Depths.
 
-The Depths is a purgatory to all the Drowned, and home to the [sea monsters](Monsters.md) dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying within the Depths will kill your character for good and force you to create another character from [Power](Power.md) 1 again.
+The Depths is a purgatory to all the Drowned, and home to the [sea monsters](Monsters.md) dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying within the Depths will kill your character for good, sending you to the [Fragment of Self](Fragments_of_Self.md) where you are able to either revive yourself, or completely wipe your character, forcing you to start all over again from [Power](Power.md) 1.
 
 Despite being a resting place for souls, the Depths is a physical location in the world of _Deepwoken_. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to the Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as [Megalodaunts](Megalodaunt.md) becoming better runners and jumpers but sacrificing their ability to swim well.
 

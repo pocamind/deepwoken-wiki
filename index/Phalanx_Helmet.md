@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 116388
+revid: 117281
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Duke Erisia, Maestro Evengarde Rest |
+| obtainment | Chests from:, Second Layer, Duke Erisia, Maestro Evengarde Rest, Chime of Conflict |
 | description | "..." |
 
 ## Description
