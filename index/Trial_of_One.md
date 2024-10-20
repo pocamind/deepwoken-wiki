@@ -1,12 +1,14 @@
 ---
 title: Trial of One
-revid: 114044
+revid: 117177
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
 ---
 
 # Trial of One
+
+[\[1\]](#cite-note-1)
 
 LocationL Trial of One LocationR
 
@@ -141,3 +143,6 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
     File:TrialofOne.png
     
     Trial of One from above.
+    
+
+1.  [↑](#cite-ref-1) When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9"

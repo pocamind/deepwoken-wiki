@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 115953
+revid: 117191
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -180,8 +180,8 @@ Thunder Kick
 -   Deals 50 thunder damage.
 -   Guard Breaks at Level 5
 -   8 Second Cooldown.
--   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
-    -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the Talent will not activate if being parried, blocked or dodged.
+-   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
+    -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
 
  |
 |  | 
@@ -530,7 +530,7 @@ Grand Javelin now carries opponents with it through the skies. (Press F while ca
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 
@@ -552,8 +552,7 @@ Your lightning attacks in water strike others near them with lightning.
 
  | 
 
-+4 Ether  
-+4 Elemental Intensity
++4 Ether
 
  |
 
@@ -575,8 +574,7 @@ Using Static Withdraw when not being carried shocks yourself increasing your abi
 
  | 
 
-+4 Ether  
-+4 Elemental Intensity
++4 Ether
 
  |
 | 
@@ -592,8 +590,7 @@ Your Jumpstart no longer gives you movement buffs, but your outgoing physical da
 
  | 
 
-+4 Ether  
-+4 Elemental Intensity
++4 Ether
 
  |
 | 
@@ -663,7 +660,7 @@ While you have active tethers your lightning mantras cost less ether.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -715,7 +712,7 @@ Flourishing an enemy creates a static link between you and your enemy. Your ligh
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -731,7 +728,7 @@ Landing an uppercut adds a static link to your opponent.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -807,8 +804,7 @@ Gathering Electricity
 
  | 
 
-+10 Carry Load  
-+4 Elemental Intensity
++10 Carry Load
 
  |
 | 
@@ -824,7 +820,6 @@ Your next dash after activating Static Blade is enhanced by lightnings.
 
  | 
 
-+2 Elemental Intensity  
 +3 Health
 
  |
@@ -841,7 +836,7 @@ Static Blade
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 
@@ -863,7 +858,7 @@ Grants you the ability to command Lightning as a Thundercaller.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -879,7 +874,7 @@ You can now obtain 1-star Thundercaller mantras.
 
  | 
 
-+5 Elemental Intensity  
+N/A
 
  |
 | 
@@ -895,7 +890,7 @@ You can now obtain 2-star Thundercaller mantras.
 
  | 
 
-+4 Elemental Intensity  
+N/A
 
  |
 | 
@@ -911,7 +906,7 @@ You can now obtain 3-star Thundercaller mantras.
 
  | 
 
-+4 Elemental Intensity  
+N/A
 
  |
 | 
@@ -927,7 +922,7 @@ Bodies of knocked enemies will be charged with electricity which will stun peopl
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -977,7 +972,7 @@ Following a flourish up with a lightning beam causes it to be casted instantly.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -993,7 +988,6 @@ You lightning does more damage in the rain.
 
  | 
 
-+4 Elemental Intensity  
 +3 Health
 
  |
@@ -1010,7 +1004,7 @@ Roll cancelling immediately after a parry will cause you to teleport behind your
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -1026,7 +1020,7 @@ When using lightning clones you disappear leaving behind a static clone for a sh
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 
@@ -1048,25 +1042,7 @@ Discharge
 
  | 
 
-+7 Carry Load  
-+2 Elemental Intensity
-
- |
-| 
-
- | 
-
-Volt Kick  
-(THUNDER 30, Thunder Kick)
-
- | 
-
-After landing a lightning kick, press \[F\] to followup on your opponent with a less potent kick.
-
- | 
-
-+7 Carry Load  
-+2 Elemental Intensity
++7 Carry Load
 
  |
 
@@ -1088,8 +1064,7 @@ Every 3 perfect casted lightning mantra builds a stack at 3 stacks your next lig
 
  | 
 
-+7 Carry Load  
-+2 Elemental Intensity
++7 Carry Load
 
  |
 | 
@@ -1107,8 +1082,7 @@ After successfully casting lightning impact, strike down countless thunder at th
 
  | 
 
-+7 Carry Load  
-+2 Elemental Intensity
++7 Carry Load
 
  |
 

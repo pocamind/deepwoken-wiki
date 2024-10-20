@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 113148
+revid: 117197
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -318,7 +318,7 @@ If a shadowcast mantra would drain your opponent's Ether to 0, drain from their 
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 | 
@@ -336,7 +336,7 @@ Your Shadowcast Mantras deal more damage at night.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -354,7 +354,7 @@ Engulf your enemy in shadows when flourishing them.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 | 
@@ -390,7 +390,7 @@ Enter a rifted state when you successfully dodge, where you can't be damaged unt
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -426,7 +426,7 @@ Extra ether stolen with mantras are exerted as dark energy, damaging and absorbi
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 
@@ -450,7 +450,7 @@ Your singularity pulls everyone nearby in.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 | 
@@ -582,7 +582,7 @@ Ether drained during Shadow Roar increases the size of it.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 | 
@@ -600,7 +600,7 @@ Enemies will briefly hang in place when they run from you.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -618,7 +618,7 @@ Shadow lasts longer on your opponent.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -636,7 +636,7 @@ The more a person is affected by your shadowcast the more you obscure their visi
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 | 
@@ -654,7 +654,7 @@ Enemies will briefly hang in place when hit by a shadow move.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 
@@ -674,7 +674,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 
  | 
 
-(+4 Elemental Intensity)
+N/A
 
  |
 | File:Twistedicon.png | 
@@ -688,7 +688,7 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
 
  | 
 
-(+4 Elemental Intensity)
+N/A
 
  |
 | File:Twistedicon.png | 
@@ -702,7 +702,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 
  | 
 
-(+4 Elemental Intensity)
+N/A
 
  |
 | File:Twistedicon.png | 
@@ -716,7 +716,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 
  | 
 
-(+4 Elemental Intensity)
+N/A
 
  |
 | File:Twistedicon.png | 

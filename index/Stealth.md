@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 112637
+revid: 117173
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ categories: [Mechanics]
 
 Vesperian in Stealth
 
-**Stealth** is a Mechanic that allows the player to stay hidden from others.
+**Stealth** is a Mechanic that allows the player to stay hidden from people.
 
 NPCs and monsters alike have a cone of vision in which they can spot the player, resulting in them attacking. Improving stealth makes that cone smaller, reducing from how far player can be seen.
 
@@ -24,6 +24,9 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 -   Crouching.
 -   Improving your [Agility](Attributes.md) will improve your Stealth.
+    -   Every point of [Agility](Attributes.md) grants +0.2% Stealth.
+    -   Passive Agility does NOT grant Stealth.
+-   The [Felinor](Felinor.md) Race starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
 -   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched.
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
@@ -36,13 +39,15 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Authority Peacekeeper Armour grants the [Talent Card](Talents.md) _Lowstride._
 
 -   Wearing the following Equipment(See below)
-    -   Head: [Assassin's Hood](<Assassin's_Hood.md>)(5%), Hood(4% for Black Hood, 2% from Brown Hood), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Dark Cowl](Dark_Cowl.md)(4%), [Dark Owl Chapeau **(10%)**](Dark_Owl_Chapeau.md), Monastery Champion Cowl(5%).
-    -   Body: [Assassin's Cloak](<Assassin's_Cloak.md>)(3%), [Dark Owl Cloak](Dark_Owl_Cloak.md)(6%), [Mercenary's Garb](<Mercenary's_Garb.md>)(6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md)(6%), [Sandrunner Wraps](Sandrunner_Wraps.md)(4%).
+    -   Head: [Assassin's Hood](<Assassin's_Hood.md>)(5%), Hood(4% for Black Hood, 2% from Brown Hood), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Dark Cowl](Dark_Cowl.md)(4%), [Dark Owl Chapeau](Dark_Owl_Chapeau.md)(10%), Monastery Champion Cowl(5%).
+    -   Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)(3%), [Dark Owl Cloak](Dark_Owl_Cloak.md)(6%), [Mercenary's Garb](<Mercenary's_Garb.md>)(6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md)(6%), [Sandrunner Wraps](Sandrunner_Wraps.md)(4%).
     -   Legs: **None :(**
     -   Torso: [Dark Owl Cape](Dark_Owl_Cape.md)(2%), Shrouded Capes(5%)
     -   Face: Duelist's Mask(6%)
     -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md)(3%)
     -   Rings: **None :(**
+
+On the other hand, the [Obvious Flaw](Boons_and_Flaws.md) grants you -20% base Stealth and does not impact Stealth gain.
 
 ## Usage
 

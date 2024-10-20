@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 116850
+revid: 117199
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -213,7 +213,7 @@ _"Enemies detect you more easily."_
 
  | 
 
-Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching.
+This flaw grants you -20% [stealth](https://deepwoken.fandom.com/wiki/Stealth), meaning stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching.
 
  | 
 
@@ -484,7 +484,7 @@ Gained from dying to Maestro Evengarde Rest.
     -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder than others.
     -   Glutton just forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the carnivore talent/Grand feast
     -   Manic is basically a free point. The increased insanity gain is minimal, comes from few sources, scratching can be completely avoided if you play properly and can even benefit some builds.
-    -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker.](Songseeker_Wilds.md)
+    -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker](Songseeker_Wilds.md). Obvious specifically lowers your stealth by 20%, meaning the [Felinor](Felinor.md) race entirely negates this flaw as that race starts with 20% stealth.
     -   Simple's EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is one of very few flaws that essentially has no downside at power 20 which makes it somewhat okay.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
     -   Vegetarian’s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items but picking this card will make it impossible to obtain the Carnivore Talent, which is very useful.

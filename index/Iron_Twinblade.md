@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 117136
+revid: 117174
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict,Diluvian Mechanism, The Depths |
+| obtainment | Chime of Conflict, Diluvian Mechanism, Moon's Eyrie, The Depths, Pure Ore Turn-Ins |
 | description | "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash." |
 
 ## Description
@@ -33,19 +33,19 @@ The Iron Twinblade is a medium weapon that has a medium requirement of 15 and 4 
 
 ## M1s and Aerial
 
-Like all Twinblades, you do not flourish opponents when 2-handing this weapon.
+Like all twinblades, you do not flourish opponents when 2-handing this weapon.
 
-As a Twinblade, the running M1s are slightly delayed and perform two slashes, allowing you to hit twice.
+As a twinblade, the running M1s are slightly delayed and perform two slashes, allowing you to hit twice.
 
 The aerial attack consists of a unique animation which causes the user to spin upon landing.
 
 ## Critical
 
-It share a critical with the Scalesplitter. It can be assumed that it is the default twinblade critical.
+It shares a critical with the [Scalesplitter](Scalesplitter.md). It can be assumed that this is the default twinblade critical.
 
 ## Trivia
 
--   Compared to other starter weapons, the Iron Twinblade have an unusually high 30% chip damage: on par with the Soulthorn.
+-   Compared to other starter weapons, the Iron Twinblade has an unusually high 30% chip damage: on par with the Soulthorn.
 -   Due to it's chip damage and requirements, it may be practical to use this on builds that require low medium investment.
 
 Work in progress

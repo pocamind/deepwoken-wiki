@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 116824
+revid: 117155
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -343,11 +343,11 @@ Talking to him after using your Mantra:
 > 
 > 1.  What's next?
 > 
-> Cap'n Orlandeau: Well, next we have my favor--
+> Cap'n Orlandeau: Well, next we have my favor-
 > 
 > \[Cap'n Orlandeau is interrupted by Authority cheering and cannons firing.\]
 > 
-> Cap'n Orlandeau: No... the [Authority](The_Central_Authority.md) can't have... **GET BELOW DECK, NOW!!**
+> Cap'n Orlandeau: No... the [Authority](The_Central_Authority.md) can't have... **GET BELOW DECK, NOW!**
 > 
 > \[Dialogue ends abruptly as the player is knocked unconscious and the tutorial is completed.\]
 

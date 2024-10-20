@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 116635
+revid: 117201
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -406,7 +406,7 @@ When falling from a high place, hold spacebar to generate wind currents until yo
  | 
 
 +2 Passive Agility  
-+5 Elemental Intensity (The Old Wind has been merged into Aerogliding)
+(The Old Wind has been merged into Aerogliding)
 
  |
 |  | 
@@ -420,8 +420,7 @@ Your trap automatically detonates on contact with an object
 
  | 
 
-+2 Passive Agility  
-+5 Elemental Intensity
++2 Passive Agility
 
  |
 |  | 
@@ -435,8 +434,7 @@ Enemies who jump while suffocated by you are dazed.
 
  | 
 
-+2 Passive Agility  
-+5 Elemental Intensity
++2 Passive Agility
 
  |
 |  | 
@@ -450,8 +448,7 @@ When flourishing enemies into walls they are suffocated and winded for a short d
 
  | 
 
-+2 Passive Agility  
-+5 Elemental Intensity
++2 Passive Agility
 
  |
 |  | 
@@ -465,7 +462,7 @@ Your suffocates last twice as long.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 |  | 
@@ -479,7 +476,7 @@ Knocking a player tags them with a wind trap, causing anyone to pick up that bod
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 |  | 
@@ -595,7 +592,7 @@ If an attack is physical and wind, it will apply an after cut that does 10% of t
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 |  | 
@@ -609,7 +606,7 @@ Knocking enemies into objects with wind spells deals additional blunt damage bas
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 |  | 
@@ -623,7 +620,7 @@ Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 
@@ -643,8 +640,7 @@ Dodging an attack or hitting an enemy's block will transform your next dash into
 
  | 
 
-+1 Passive Agility  
-+2 Elemental Intensity
++1 Passive Agility
 
  |
 |  | 
@@ -658,8 +654,7 @@ After a successful Gale Dash you wrap your weapon in wind essence causing your n
 
  | 
 
-+2 Passive Agility  
-+2 Elemental Intensity
++2 Passive Agility
 
  |
 |  | 
@@ -688,7 +683,7 @@ Create a step of wind below you when jumping in the air. Jumping while sliding d
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 
@@ -708,7 +703,7 @@ Every 3 hits with a Wind Mantra now procs Suffocate.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 |  | 
@@ -722,7 +717,7 @@ Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 
@@ -742,7 +737,7 @@ Every 3 hits landed by perfectly casted Galebreathe mantras will cause the targe
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 
@@ -762,7 +757,7 @@ Inhaling a spell will cause the wind to be applied to your melee attack. (WAS ME
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 

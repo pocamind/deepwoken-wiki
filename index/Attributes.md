@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 117002
+revid: 117169
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -41,7 +41,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 -   Physical strength. _Increases **carry load**, **armor penetration**, and the **damage scaling of strength mantras**._
     -   Increases carry load by 1 per point in Strength.
-    -   For every point in strength, gain 0.1% penetration.
+    -   For every point in strength, gain 0.1% melee and mantra penetration.
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
 -   Unlocks Strength-related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
 -   Gain Strength EXP via cutting down trees, using the Boulder (this will train your Fortitude at the same time), parrying, blocking, or dealing damage.
@@ -65,8 +65,9 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
         -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
             -   _This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) Talent._
+    -   Adds 0.2% [Stealth](Stealth.md) to your character for every Agility point.
     -   Reduces the vision cone of NPCs and Monsters.
-    -   Parrying Daggers and Kyrstears have an agility requirement to wield.
+    -   [Parrying Daggers](Parrying_Dagger.md) and [Kyrstears](Kyrstear.md) have an Agility requirement to wield.
 -   Unlocks Agility-related [Talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras).
 -   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the Ankle Weights.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
@@ -86,7 +87,9 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 -   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
+        -   [Ganymede](Ganymede.md) gains ~3.63 sanity per point in Willpower.
     -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
+        -   At 100 Willpower, you will be knocked for 5 seconds as opposed to 10 seconds with 0 Willpower.
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras), and the legendary weapon [Light's Final Toll](<Light's_Final_Toll.md>) with a requirement of 60 Willpower and 35 Light weapon.
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_

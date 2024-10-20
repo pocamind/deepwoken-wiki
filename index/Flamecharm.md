@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 116997
+revid: 117187
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -515,7 +515,6 @@ Gain the ability to incinerate yourself when down.
 
  | 
 
-+5 Elemental Intensity  
 Using Flame Within, set your self on fire after being knocked down.
 
  |
@@ -560,7 +559,7 @@ Aerial moves will follow up into a devastating slam.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -576,7 +575,7 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -592,7 +591,7 @@ Taking damage while using Flame Repulsion reflects the damage back to the attack
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 
@@ -680,7 +679,7 @@ Many of your flames turn blue, signifying their increased intensity (burning dea
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 | 
@@ -744,7 +743,7 @@ Pressing \[F\] before releasing your Flame Impact will release a wider but short
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 
@@ -766,7 +765,7 @@ Ignite flames on an enemy when you uppercut them.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 
@@ -788,7 +787,7 @@ Fire mantras now move you in the direction you're facing.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -804,7 +803,7 @@ Your dancing steps now gives a faster speed boost.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -820,7 +819,7 @@ Landing a fire mantra immediately after flourishing an opponent will cause them 
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 
@@ -842,8 +841,7 @@ Blood Loss from all sources are reduced.
 
  | 
 
-+1 Passive Agility  
-+3 Elemental Intensity
++1 Passive Agility
 
  |
 | 
@@ -859,8 +857,7 @@ When Warding Radiance is active you leave trails of flame when you slide.
 
  | 
 
-+1 Passive Agility  
-+3 Elemental Intensity
++1 Passive Agility
 
  |
 | 
@@ -876,8 +873,7 @@ After landing a flame dagger on an opponent, your next hit against them will imp
 
  | 
 
-+4 Sanity  
-+1 Elemental Intensity
++4 Sanity
 
  |
 | 
@@ -893,8 +889,7 @@ Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allo
 
  | 
 
-+4 Sanity  
-+1 Elemental Intensity
++4 Sanity
 
  |
 
@@ -916,8 +911,7 @@ Fire spells cost 70% less while on fire. If you hit someone while on fire, apply
 
  | 
 
-+8 Sanity  
-+2 Elemental Insanity
++8 Sanity
 
  |
 | 
@@ -933,7 +927,7 @@ Any time you would burn to death, you instead rise again with 50% of your health
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 | 
@@ -948,8 +942,6 @@ Agitating Spark
 If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
 
  | 
-
-+3 Elemental Intensity
 
  |
 
@@ -971,8 +963,6 @@ Your flames will incinerate unconscious Targets much faster.
 
  | 
 
-+4 Elemental Intensity
-
  |
 | 
 
@@ -986,8 +976,6 @@ Corpse Explosion
 Bodies that you burn to death immediately explode dealing massive damage.
 
  | 
-
-+4 Elemental Intensity
 
  |
 | 
@@ -1043,8 +1031,6 @@ Your fire abilities no longer proc burn and instead proc on eruption under the e
 
  | 
 
-+4 Elemental Intensity
-
  |
 | 
 
@@ -1079,7 +1065,7 @@ Your next Eruption after landing a critical is empowered with increased range an
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -1097,7 +1083,7 @@ Block-breaking an enemy with a fire mantra applies Burning.
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -1115,7 +1101,7 @@ Posture breaking an opponent causes your Eruptions to be Empowered for the next 
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -1155,7 +1141,7 @@ When you have no Ether, consume Stomach and Water to instantly cast your next fi
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 
@@ -1199,8 +1185,6 @@ If an enemy is on fire when you flourish, blast them away with a fire blast.
 
  | 
 
-+2 Elemental Intensity
-
  |
 | 
 
@@ -1215,7 +1199,7 @@ Set enemies on fire when you flourish them.
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 
@@ -1237,7 +1221,7 @@ Absorb fire produced by you, once you reach 5 stacks your next attack will be an
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -1253,7 +1237,6 @@ Successfully dodging leaves a heat mirage clone that sets enemies that swung at 
 
  | 
 
-+4 Elemental Intensity  
 When dodging an attack, you leave behind a fire clone that burns the attacking enemy.
 
  |
@@ -1276,7 +1259,7 @@ You now emit a delayed burst of flames after coming close to death.
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 | 
@@ -1292,7 +1275,7 @@ Your flame can be casted in the depths. Those that gather around it are soothed 
 
  | 
 
-+1 Elemental Intensity
+N/A
 
  |
 
@@ -1312,7 +1295,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 
  | 
 
-(+4 Elemental Intensity)
+N/A
 
  |
 | File:Twisted puppets.png | 
@@ -1326,8 +1309,6 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
 
  | 
 
-(+4 Elemental Intensity)
-
  |
 | File:Twisted puppets.png | 
 
@@ -1339,8 +1320,6 @@ Explosive Rage
 Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.
 
  | 
-
-(+4 Elemental Intensity)
 
  |
 | File:Twisted puppets.png | 
@@ -1354,7 +1333,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 
  | 
 
-(+4 Elemental Intensity)
+N/A
 
  |
 | File:Twisted puppets.png | 
@@ -1397,7 +1376,6 @@ N/A
 -   Flamecharm's **Burn** damage scales Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
--   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 -   Before its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.

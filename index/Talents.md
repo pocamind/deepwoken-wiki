@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117114
+revid: 117196
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -123,7 +123,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 > _**"I fight from afar."**_
 
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
+-   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
@@ -162,7 +162,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 > _**"I am a master of the winds."**_
 
--   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
+-   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility)
     -   Reduces falling speed and prevents fall damage.
     -   Has a small amount of forwards momentum, allowing for control over where you land.
     -   Has 1s windup.
@@ -171,12 +171,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled.
     -   Prerequisites: 35 Galebreathe, 30 Agility
 
--   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
+-   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.
     -   Cancels pickup of any players knocked by you for ~3s, and grants you a speed boost if you pickup the knocked player.
     -   Pickup cancellation can be activated multiple times.
     -   Prerequisite: Wind Step
 
--   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
+-   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 )
     -   Instead of the Galetrap mantra sticking to surfaces hit, and activating upon a player stepping on it, it will instead activate upon contact with any surface.
     -   Prerequisite: Galetrap
 
@@ -184,10 +184,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gale punch mantra will now pull players towards the user during the windup of the mantra. (Cannot be feinted)
     -   Prerequisites: 20 Galebreathe, Gale Punch
 
--   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
+-   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
--   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
+-   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility)
     -   Will also cancel all momentum from jumping.
     -   Prerequisite: Suffocating Impact
 
@@ -205,7 +205,6 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Will proc on any player with a potion effect, does not replace the current effect.
-    -   Synergizes with [Aromatic Salts](Oath%253A_Saltchemist.md), as it automatically reapply potion effects.
     -   Prerequisite: 80 Intelligence
         -   This Talent was merged with the old Taste Test Talent.
 
@@ -552,7 +551,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Cold Phantom."**_
 
--   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled. (+5 Elemental Intensity)
+-   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled.
     -   7 seconds duration.
     -   Procs Frozen Legs.
     -   Prerequisites: Haunted Gale, 40 Frostdraw
@@ -621,11 +620,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I command the cold."**_
 
--   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
+-   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them.
     -   Prerequisite: 60 Frostdraw.
     -   You can spam F to get out of Freeze.
 
--   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity)
+-   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them.
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
 -   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
@@ -635,11 +634,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Extends the CD on Ice Spike by 5s to 20s total.
     -   Prerequisites: Ice Spikes, 30 Frostdraw
 
--   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
+-   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst.
     -   Slows thirst drain by approximately 3 times.
     -   Prerequisites: 20 Intelligence, 15 Frostdraw
 
--   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity)
+-   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire.
     -   If you were to catch fire while standing on ice, gain total immunity to the burning status effect.
     -   While the effect is active, the user breathes cold air.
     -   15s cooldown after the burn immunity ends.
@@ -649,13 +648,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"Those that step on my ice know that they have made a grave error."**_
 
--   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating 50% from the damage of the next attack. (+3 Elemental Intensity)
+-   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating 50% from the damage of the next attack.
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   If hit during Cryostasis you will inflict frost damage to the opponent.
     -   ~33 second cooldown.
     -   Prerequisites: Fragile Freeze, 20 Fortitude.
 
--   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
+-   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen.
     -   Prerequisites: Ice Beam, 60 Frostdraw.
     -   If the user has Crystallization, this Talent no longer freezes but instead causes crystals to explode.
 
@@ -684,7 +683,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains
--   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. (+1 Elemental Intensity)
+-   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
     -   Prerequisite: 20 Shadowcast
 
 -   Dark Hours \[Shadowcast Exclusive\] Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
@@ -694,20 +693,20 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dark Replenishment \[Shadowcast Exclusive\] Knocking out an enemy in combat restores a portion of your ether.
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
--   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity)
+-   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
     -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
     -   Prerequisites: 60 Shadowcast, Dark hours
 
--   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
+-   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
 
 -   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: Shadow Eruption
 
--   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity)
+-   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
     -   Prerequisites: 55 Shadowcast, Dark God
     -   Has a 2s cooldown.
     -   Deal damage around you whenever you steal ether.
@@ -723,10 +722,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am the one who speaks to death."**_
 
--   Blackhole \[Common Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity)
+-   Blackhole \[Common Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in.
     -   Prerequisites: Singularity, 60 Shadowcast, Power 13
 
--   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected. (+1 Elemental Intensity)
+-   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected.
     -   Prerequisites: Singularity, 60 Shadowcast
 
 ### Deepwoken
@@ -814,7 +813,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"My flame fights for me."**_
 
--   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
+-   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
     -   Prerequisites: Flame Blind, 30 Flamecharm, 25 Strength
 
@@ -859,16 +858,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Willpower, 15 Strength
         -   Pairs well with [Flame Within](Flamecharm.md) and [Raging Static](https://deepwoken.fandom.com/wiki/Thundercall?so=search).
 
--   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+-   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
     -   Prerequisite: 15 Intelligence
 
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
--   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s. (+7 Carry Load, +2 Elemental Intensity)
+-   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s. (+7 Carry Load)
     -   Prerequisite: 30 Intelligence
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
+-   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
     -   Refunds the ether cost of a mantra proportionate to your INT.
     -   Practically useless as it has **6 seconds** cooldown.
     -   Prerequisite: 30 Intelligence
@@ -884,10 +883,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I believe in the men who followed Pleeksty before."**_
 
--   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam. (+4 Elemental Intensity)
+-   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
     -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
 
--   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. (+3 Elemental Intensity)
+-   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
 
 ### Fish
@@ -901,14 +900,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I dance with the flames."**_
 
--   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing. (+3 Elemental Intensity)
+-   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
 
--   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
+-   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost.
     -   If you lack the ether to cast a mantra, the speed boost will trigger regardless.
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
--   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
+-   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 13
     -   Mutual Exclusive: Eruption Path: Lava Serpent
 
@@ -916,16 +915,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"None will escape my flames."**_
 
--   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility, +3 Elemental Intensity)
+-   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
 
--   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility, +3 Elemental Intensity)
+-   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
     -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
 
--   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity)
+-   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
     -   Prerequisites: 35 Flamecharm, Fire Forge (Flamecharm Mantra)
 
--   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility, +3 Elemental Intensity)
+-   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 30 Flamecharm, Hell's Partisan
 
 ### Flamecharmer
@@ -935,7 +934,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Adept Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
     -   Prerequisite: 20 Flamecharm
 
--   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. ( +2 Elemental Intensity)
+-   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity.
     -   Prerequisites: 70 Flamecharm, 40 Willpower
         -   Azure Flames burn deals 9 damage per seconds.
         -   If you have the lava serpent path, the explosion will have more posture damage and a bigger radius with this Talent.
@@ -952,7 +951,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Produce Spark \[Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisite: 20 Flamecharm
 
--   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. ( +4 Elemental Intensity)
+-   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms.
     -   Negates the dmg decrease Flamecharm receives from rain.
     -   Prevents fire from going out in rain.
     -   Prerequisite: 35 Flamecharm
@@ -1026,10 +1025,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"My ice protects like a flower growing thorns."**_
 
--   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
+-   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
--   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
+-   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
     -   Cooldown of 90 seconds.
     -   Prerequisite: 65 Frostdraw
@@ -1040,7 +1039,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
   
 
--   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity)
+-   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling.
     -   Works with Crystallization.
     -   Lasts the first 1.5 seconds after chill/freeze procs.
     -   Only procs off mantras
@@ -1086,14 +1085,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I use the winds to enforce my will."**_
 
--   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity)
+-   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.
     -   Prerequisites: 40 Galebreathe, Breathing Impact
 
--   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
+-   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
     -   The following Galebreath Mantras have knockback and can benefit from this Talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
     -   Prerequisite: 30 Galebreathe
 
--   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. (+1 Elemental Intensity)
+-   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   Inhaling a Galebreathe Mantra adds (Mantra Level/2) damage to the next Galebreath Mantra.
     -   Prerequisites: 60 Galebreathe, Breathing Impact
@@ -1112,7 +1111,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the elegance of a Glassdancer."**_
 
--   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
+-   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
     -   Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals makes them explode.
     -   3 base damage per crystal explosion. (Scales with frostdraw investment)
     -   1s cooldown on explosion proc.
@@ -1122,11 +1121,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
 
--   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
+-   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit.
     -   Will also damage the target that procced the crystal explosion, increasing total damage.
     -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
 
--   Reclaimed Glass \[Common Talent, Frostdraw Exclusive\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds. (+5 Elemental Intensity)
+-   Reclaimed Glass \[Common Talent, Frostdraw Exclusive\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds.
     -   Prerequisites: Crystal Shrapnel, 65 Frostdraw
 
 ### Great Wall
@@ -1249,35 +1248,35 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I would see this world freeze."**_
 
--   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
+-   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Will stop all movement from players affected, and will prevent rolling.
     -   Prerequisite: 25 Frostdraw
 
--   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity)
+-   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether.
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
     -   Prerequisite: 40 Frostdraw
 
--   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity,)
+-   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice.
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Even though it's not mentioned, Greataxes also work with this Talent.
     -   Does not work with crits that don't slam the floor, like Kyrscleave or Railblade.
     -   Prerequisites: Cryonis, 15 Heavy, 45 Frostdraw.
 
--   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity)
+-   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.
     -   Prerequisite: 25 Frostdraw
     -   Works with Crystallization
 
--   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
+-   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents.
     -   Prerequisites: Ice Daggers, 60 Frostdraw.
     -   Instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage
 
--   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
+-   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.
     -   Contrary to popular belief, you can steal healing with Saint Jay (only green healing, though). However, the second passive of Saint Jay is bugged.
     -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support Talent etc.).
     -   If using Glass Path: Crystallization then every crystal applied will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   Prerequisite: Frostbite
 
--   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
+-   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
     -   No longer procs Frozen Legs.
     -   Prerequisite: 100 Frostdraw
     -   Mutual Exclusive: Glass Path: Crystallization
@@ -1286,16 +1285,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I burn so that I may succeed."**_
 
--   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
+-   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
     -   1 second cooldown between activations.
     -   This CAN spread to allies.
     -   Prerequisite: 40 Flamecharm
 
--   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)
+-   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
--   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
+-   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
     -   If burn was procced by the Flame Within Talent, the healing is reduced to 25%.
     -   Prerequisites: All Immolator Talents
 
@@ -1352,7 +1351,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other races with the blind flaw.
 
 -   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
-    -   Natural increase in Stealth. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
+    -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 
 -   Seaborne \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
@@ -1498,7 +1497,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
     -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
 
--   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
+-   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
     -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
@@ -1506,7 +1505,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.
     -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
 
--   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
+-   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown.
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
@@ -1544,7 +1543,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I fight for the Legion."**_
 
--   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity)
+-   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility)
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
@@ -1553,7 +1552,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreath
 
--   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (+4 Elemental Intensity)
+-   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
     -   While in combat, this ability cost Ether to use.
     -   Prerequisite: 40 Galebreathe
@@ -1681,7 +1680,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Iron Hug will steal 200 armor durability from the target.
     -   Prerequisites: Iron Hug mantra, 30 Ironsing
 
--   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
+-   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
     -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
     -   Prerequisite: 50 Ironsing
 
@@ -1698,7 +1697,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
   
 
--   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
+-   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
     -   Can stack up to 20 times, for a 100% damage boost.[\[2\]](#cite-note-2)
         -   This effect is not accounted for in the 75% damage boost cap.
@@ -1839,14 +1838,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
     -   Prerequisite: 75 Intelligence
 
--   _All Knowing_ \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity)
+-   _All Knowing_ \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
     -   Prerequisites: 60 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
 
--   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity)
+-   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another.
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
     -   Prerequisites: 50 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
 
--   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds (+3 Elemental Intensity)
+-   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
     -   Prerequisites: 80 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
 
 ### One Eyed King
@@ -1929,14 +1928,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Pyroclast."**_
 
--   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive, Dual Attunement\] - Detonating crystals causes an eruption soon after. (+5 Elemental Intensity)
+-   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive, Dual Attunement\] - Detonating crystals causes an eruption soon after.
     -   Prerequisites: Eruption Path: Lava Serpent, Glass Path: Crystallization
 
 ### Pyromancer
 
 > _**"I am a master of the flame."**_
 
--   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+5 Elemental Intensity)
+-   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
     -   Prerequisites: 30 Flamecharm, 15 Fortitude
 
 ### Raging Bull
@@ -1975,7 +1974,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"My static is uncontrollable."**_
 
--   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. ( +4 Elemental Intensity)
+-   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning.
     -   Prerequisite: 35 Thundercall
 
 ### Rending Needle
@@ -2007,7 +2006,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I sabotage others."**_
 
--   _Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)_
+-   _Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench._
     -   Prerequisite: Complete [Lucien](Lucien.md)'s quest.
 
 -   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal increased damage to burning enemies
@@ -2019,10 +2018,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Prerequisite: Incendiary Formula
 
--   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+2 Elemental Intensity, +6 Passive Agility)
+-   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
     -   Prerequisite: Family Recipe
 
--   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Health, +1 Elemental Intensity)
+-   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Health)
     -   Prerequisite: Family Recipe
     -   Drops two bombs from one bomb.
 
@@ -2094,7 +2093,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am a self-starter."**_
 
--   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier. (+4 Elemental Intensity)
+-   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
     -   Prerequisites: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
@@ -2124,16 +2123,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Adept Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 1-star Leveled Shadowcaster Mantras._
     -   Prerequisite: 20 Shadowcast
 
--   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets. (+1 Elemental Intensity)
+-   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets.
     -   Prerequisite: Shadow Roar
 
 -   _Expert Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 2-star Leveled Shadowcaster Mantras._
     -   Prerequisite: 30 Shadowcast
 
--   Fear \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you. (+4 Elemental Intensity)
+-   Fear \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you.
     -   Prerequisite: 50 Shadowcast
 
--   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent. (+4 Elemental Intensity)
+-   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent.
     -   Prerequisite: 50 Shadowcast
 
 -   _Master Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] -You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)_
@@ -2146,12 +2145,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster._
     -   Prerequisite: Shadowcast with Power 1 or obtain through Shadowcast trainer (Nostor)
 
--   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras. (+5 Elemental Intensity)
+-   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras.
     -   Prerequisite: 30 Shadowcast
     -   This Talent was merged with the old Black Out.
     -   Mutual Exclusive: Singularity
 
--   Singularity \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when hit by a shadow move. (+1 Elemental Intensity)
+-   Singularity \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when hit by a shadow move.
     -   Prerequisite: 40 Shadowcast
     -   Mutual Exclusive: Sightless Still
 
@@ -2186,11 +2185,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"The song shall be silenced."**_
 
--   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost. (+1 Elemental Intensity)
+-   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
--   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate. (+1 Elemental Intensity)
+-   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
 
@@ -2259,7 +2258,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I weave webs of lightning."**_
 
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+4 Elemental Intensity)
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
@@ -2267,7 +2266,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   3–4 seconds cooldown between knock preventions.
     -   Prerequisites: Static Link, 40 Thundercall, 20 Fortitude
 
--   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+4 Elemental Intensity)
+-   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether.
     -   Each active link reduce mantra ether cost by 30%.
     -   Prerequisites: Static Link, 65 Thundercall
 
@@ -2396,11 +2395,11 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"I enjoy a good meal."**_
 
--   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity)
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%.
     -   Increases food nutritional value by 25%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
 
--   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity)
+-   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%.
     -   Increases food boosts by 30%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
 
@@ -2408,10 +2407,10 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"My unholy blade works for no man."**_
 
--   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
+-   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast.
     -   Prerequisite: 45 Flamecharm
 
--   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish or uppercut them. (+2 Elemental Intensity)
+-   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish or uppercut them.
     -   Prerequisite: 30 Flamecharm
 
 ### The Emperor's Blade
@@ -2422,7 +2421,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Does not proc the talent "Dazing Finisher".
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
--   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity)
+-   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
     -   Has a 20s Cooldown
     -   Prerequisite: 65 Flamecharm
 
@@ -2473,10 +2472,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I electrocute my foes from afar."**_
 
--   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every Perfect Casted Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast. (+7 Carry Load, +2 Elemental Intensity)
+-   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every Perfect Casted Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast. (+7 Carry Load)
     -   Requirement: 30 Thundercall, 30 Intelligence
 
--   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load, +2 Elemental Intensity)
+-   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load)
     -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
     -   Prerequisite: Lightning Impact (Mantra)
 
@@ -2484,13 +2483,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"My blade conducts the skies wrath."**_
 
--   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity)
+-   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
     -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon (Cannot obtain with Rifle)
 
--   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity)
+-   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning.
     -   Prerequisite: Gathering Electricity
 
--   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times. (+3 Elemental Intensity)
+-   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
     -   Prerequisites: 40 Thundercall, 20 Medium Weapon
     -   Works with Hero Blades (Tested)
 
@@ -2498,7 +2497,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I speak to lightning."**_
 
--   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity)
+-   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras.
     -   Prerequisite: 20 Thundercall
 
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
@@ -2506,10 +2505,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Using this ability will light nearby downed enemies aflame.
     -   Prerequisite: 50 Thundercall
 
--   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity)
+-   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras.
     -   Prerequisite: 30 Thundercall
 
--   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity)
+-   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras.
     -   Prerequisite: 50 Thundercall
 
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
@@ -2518,24 +2517,24 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
         -   Requires an animation, stunlocking yourself.
     -   Prerequisites: 40 Fortitude or Charisma, 50 Thundercall
 
--   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity)
+-   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly.
     -   Does not work on monsters
     -   Prerequisite: Lightning Beam
 
--   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
+-   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
     -   Prerequisites: 30 Agility, 35 Thundercall
 
--   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
+-   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+1 Health)
     -   Prerequisites: Lightning Clones, 30 Agility, 35 Thunder
 
 -   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use. Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them.
     -   Very tight activation window + delayed activation. If you successfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related Talents.
     -   Prerequisite: 25 Thundercall
 
--   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage in the rain. (+4 Elemental Intensity)
+-   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals an additional +5% damage when in the rain.
     -   Prerequisite: 35 Thundercall
 
--   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
+-   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+1 Health)
     -   Prerequisite: Thundercall with [Power](Power.md) 1 (1 Thundercall) or obtain from Thundercall trainer (Funke)
 
 ### Toxic Personality
@@ -2576,20 +2575,20 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek the qualities of twisted puppets."**_
 
--   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based Talents when they explode. (+4 Elemental Intensity)
+-   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based Talents when they explode.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks.
     -   In the 28/06/2024 update, Burning Sacrifce has received a buff which now makes you get a slight damage and speed boost, scaling on how many puppets you've sacrificed.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
--   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
+-   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
--   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
+-   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
--   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
+-   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
     -   Turns [Hero Blade of Flame](Hero_Blades.md), [Ysley's Pyre Keeper "Callow & Verdant"](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all flame mantras black.
     -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
     -   Flame Within deals less self damage, but drains ether.
@@ -2629,11 +2628,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"My spirit is forever burning."**_
 
--   _Denial Repulse_ \[Rare Talent, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
+-   _Denial Repulse_ \[Rare Talent, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death.
     -   When Flame of Denial activates, release an explosion around you.
     -   Prerequisite: Flame of Denial
 
--   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
+-   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths.
     -   Graceful Flame can now be casted in the depths. Graceful Flame passively restores sanity and health to those around it.
     -   Merged with the old Soundness of Mind Talent.
     -   Prerequisites: 40 Willpower, 40 Flamecharm, Graceful Flame
@@ -2787,7 +2786,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"A whisper in the dark."**_
 
--   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity)
+-   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
     -   3 hits landed is reduced to 2 if Gale Wisp is active.
     -   There is a cap of 2 strikes per mantra, per enemy.
@@ -2952,7 +2951,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 ### Family Recipe
 
--   _You can craft bombs at a crafting bench. (+2 Elemental Intensity)_
+-   _You can craft bombs at a crafting bench._
 -   NPC is located at Songseeker outside of the mineshaft entrance.
 -   They will ask you to go inside the mineshaft and kill ? Mineskippers.
 
@@ -3010,14 +3009,14 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 
 Certain Talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other Talents, or could otherwise break certain builds.
 
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
+-   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
--   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
+-   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn.
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit.
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
--   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
--   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
+-   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
+-   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
 
 ## Trivia
 

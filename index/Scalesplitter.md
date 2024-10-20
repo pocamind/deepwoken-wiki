@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 117154
+revid: 117202
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
@@ -11,7 +11,7 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 | Scalesplitter | |
 |---|---|
 | type | Twinblade |
-| requirements | 40 / 65 MED |
+| requirements | 40 / 75 MED |
 | damage | 17.5 / 19 |
 | scaling | 5 MED |
 | range | 7.5 / 8 |
@@ -25,7 +25,7 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie (Maybe?), Pure Ore Turn-ins |
-| description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles. |
+| description | "An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles.", "An ancient Etrean twinblade, recently repurposed and refurbished with alloys of the contemporary world, taken from the void's grasp and returned to life. Now this weapon, once worn by time and war, has been sharpened and restored, given another chance to taste glory once more. With its renewed form, it stands as a fusion of old-world craftmanship and modern innovation, ready to carve its name into history again with you." |
 
 ## Description
 
@@ -46,3 +46,4 @@ This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwar
 ## Trivia
 
 -   One of the first two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).
+-   It is the only weapon that changes description when Alloyed.

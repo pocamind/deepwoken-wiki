@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 115557
+revid: 117188
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -593,7 +593,7 @@ When flourishing an enemy, they leave behind a trail of ice in the direction you
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 | 
@@ -611,8 +611,7 @@ Passively collect condensation from the air, greatly reducing your thirst. (Appr
 
  | 
 
-+4 Ether  
-+2 Elemental Intensity
++4 Ether
 
  |
 | 
@@ -630,7 +629,7 @@ If set on fire while on ice, immediately put it out and enter a state of chill f
 
  | 
 
-+2 Elemental Intensity
+N/A
 
  |
 | 
@@ -646,7 +645,7 @@ Press \[F\] during the wind up of your Ice Spikes to create traps around you ins
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 
@@ -670,7 +669,7 @@ When block broken, fragile freeze yourself, negating the damage of the next atta
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -688,7 +687,7 @@ Enemies hit during the last moments of your ice beam are frozen (doesn’t freez
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -704,7 +703,7 @@ When in Cryostasis inflict frost damage to the enemy who hit you.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 
@@ -828,8 +827,7 @@ Sliding while Orbital Ice is active leaves trails of ice.
 
  | 
 
-+1 Passive Agility  
-+3 Elemental Intensity
++1 Passive Agility
 
  |
 | 
@@ -847,8 +845,7 @@ When landing a parry while standing on ice, automatically forms a ring of gravit
 
  | 
 
-+2 Passive Agility  
-+1 Elemental Intensity
++2 Passive Agility
 
  |
 
@@ -912,7 +909,7 @@ Your slow effect prevents your opponents from rolling.
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 
@@ -954,7 +951,7 @@ Your ice abilities no longer grant a slow effect or the ability to freeze and in
 
  | 
 
-+4 Elemental Intensity
+N/A
 
  |
 
@@ -976,7 +973,7 @@ Hitting chilled enemies with ice projectiles while they are on ice freezes them 
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 | 
@@ -994,7 +991,7 @@ All ice spells casted on top of ice cost less Ether.
 
  | 
 
-+5 Elemental Intensity  
+N/A
 
  |
 | 
@@ -1012,7 +1009,7 @@ Enemies can no longer heal when under the effect of your chill.
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 | 
@@ -1028,7 +1025,7 @@ Greatsword and Greathammer criticals now place Ice underneath the path they carv
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 | 
@@ -1046,7 +1043,7 @@ Hitting an opponent with your Ice Daggers causes them to freeze.
 
  | 
 
-+3 Elemental Intensity
+N/A
 
  |
 | 
@@ -1064,7 +1061,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 | 
@@ -1080,7 +1077,7 @@ Your Chill can proc through block, with blocked Chilling proc lasting 80% of the
 
  | 
 
-+5 Elemental Intensity
+N/A
 
  |
 

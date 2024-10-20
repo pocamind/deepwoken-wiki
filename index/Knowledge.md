@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 114824
+revid: 117180
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,25 +34,25 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 
 Achieving milestones and completing certain quests will award the player with Knowledge.
 
--   Obtaining a [Resonance](Resonance.md) awarding 5 knowledge.
+-   Choosing a [Resonance](Resonance.md) awarding 5 knowledge. (Note: You have to **CHOOSE** the [Resonance](Resonance.md), meaning you're only awarded the knowledge after you pick your desired [Resonance](Resonance.md))
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
 -   Supplying the [Diver Expedition](Random_Encounters.md), awarding 1 Knowledge after turning in the supplies.
--   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
+-   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 1 Medallions for 1 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
 -   Finishing [Mendacia's](Mendacia.md) quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge after taking the exit portal.
     -   Talking to [The Ferryman](The_Ferryman.md) in Spring after killing him. This rewards 1 Knowledge and can be repeated.
--   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
-    -   Killing [Chaser, Scholar of the](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood while having dealt at least 35% of his HP. This rewards 1 Knowledge and can be repeated.
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
--   Killing [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
--   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
+-   Killing [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
+    -   Killing [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 35% of his HP. This rewards 1 Knowledge and can be repeated.
+-   Killing [Duke Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
+-   Killing the [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
+-   Killing a [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing the following monsters for the first time, awarding 1 Knowledge each:
-    -   [Crimson Megalodaunt,](Megalodaunt.md) [Mechalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md), [Deep Owl](Deep_Owl.md), [King Thresher](Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (thunder doesn't count), [The Enforcer](Enforcer.md), [Bonekeeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md).
+    -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md).
 -   Using the [Moonseye Tome](Relics.md) relic, which grants 100 Knowledge the first time, then 50 Knowledge for each subsequent uses.
 -   Completing waves in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), which gives around 20 Knowledge in total when completing through wave 50.
 
