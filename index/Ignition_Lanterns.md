@@ -1,6 +1,6 @@
 ---
 title: Ignition Lanterns
-revid: 115269
+revid: 117326
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
@@ -29,6 +29,7 @@ They are scattered around the first floor of the Second Layer, with most of them
 1.  The first location is in the [Pilgrim's Respite](<Pilgrim's_Respite.md>), more commonly referred to as the Radio Tower. There are a total of 9 Lanterns in this location.
 2.  The second location is in [The Frontier Furnace](The_Frontier_Furnace.md), right next to [Sunway](Sunway.md). It sits in the center of the room, obvious to anyone who enters.
 3.  The third location is in the [Firfire Caverns](Firfire_Caverns.md), near the [Kyrsan Camp](Firfire.md). At the door that you need to press a blue button to open, you can find the Lantern on its left side when you exit.
+4.  The fourth location is in [The Maw of Ethiron](The_Maw_of_Ethiron.md), in the first left tower. Hanging next to the front door.
 
 for the blue ones
 
@@ -37,3 +38,4 @@ for the blue ones
 ## Trivia
 
 -   Despite being commonly referred to as "**Lanterns**", the only mention of it in-game is by [Sunway](Sunway.md), when he calls them "**Lamps**".
+-   After 10 uses of the same lantern, it will go out and can no longer be used.

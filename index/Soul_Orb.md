@@ -1,6 +1,6 @@
 ---
 title: Soul Orb
-revid: 111286
+revid: 117313
 source: https://deepwoken.fandom.com/wiki/Soul_Orb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -21,3 +21,4 @@ A Soul Orb has a low chance to drop from any [Enemy](Enemies.md) or [Monster](Mo
 -   Prior to the release of Verse 2, they used to grant [Luck](Luck.md). However, now they grant a free autodidact point.
 -   Can drop from [Ferryman's](The_Ferryman.md) clones.
 -   Can drop from [Primadon](Primadon,_Titan_of_the_East.md).
+-   Are incapable of being used if you have no investment points

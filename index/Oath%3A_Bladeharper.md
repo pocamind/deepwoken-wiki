@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 117275
+revid: 117319
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -86,11 +86,11 @@ The mirror is a bot and so it does not come up with tactics and plans before the
 
 \*Before even fighting the mirror it is best for you to have some sort of mobility, because the Statues can be quite difficult to get to. (Except for the one behind Lord Regent's palace) Strong leap and some agility could work.
 
-\*It is recommended to have mantras for this fight and a high attunement level as it allows you to use your mantras more often then it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your ether wisely in order to overwhelm the mirror. If doing an attunementless build then why are you one this page... but if you have played the game for a while then it should take probably a little longer to have the mirror killed.
+\*It is recommended to have mantras for this fight and a high attunement level as it allows you to use your mantras more often then it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your ether wisely in order to overwhelm the mirror. If doing an attunementless build then why are you on this page... but if you have played the game for a while then it should take probably a little longer to have the mirror killed.
 
-\*When fighting the mirror keep in mind that it has all of your talents and such and so there are times when it can surprise you by dodging one of your moves then dodging another. It also parries quite often along with dodging your moves at times, but it does not vent until it loses a life.
+\*When fighting the mirror keep in mind that it has all of your talents and such but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the oath whilst fighting it, for example on the second fight they will posses only Soaring Storm and Untouchable when fighting so plan accordingly. The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life.
 
-\*If you still have difficultly fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down you ability to kill the mirror and causes you to rely mostly on your mantras. But this causes the mirror to also be weaker as it also deals less damage but if you are hit too much then it is just better for you to distance yourself and wait for the mirror to make a mistake.
+\*If you still have difficultly fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down your ability to kill the mirror and causes you to rely mostly on your mantras. But on the other hand, this causes the mirror to also be weaker as it also deals less damage but if you are hit too much then it is just better for you to distance yourself and wait for the mirror to make a mistake and fight back.
 
 \*Finally the most important piece of advice, stay calm, as you would with any and every enemy in the game. Good luck in your fights.
 

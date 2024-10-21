@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 117051
+revid: 117312
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -50,7 +50,7 @@ The aerial attack consists of a unique animation which causes the user to spin u
 
 ## Critical
 
-You preform two spinning attacks with hyperarmour, however, like the talent "Death from Above" Crescendo Critical requires a hit on its initial slash to maintain hyperarmour. Both attacks have long windups.
+You preform two spinning attacks with hyperarmour, however, like [Starkindred's](Oath%253A_Starkindred.md) "Death from Above" talent, Crescendo Critical requires a hit on its initial slash to maintain hyperarmour. Both attacks have long windups.
 
 Top view of Critical:
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 116858
+revid: 117325
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -64,7 +64,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
   Critical attack or parrying 3 times in a row, shoots down a star that explodes and does 100 PvE AoE damage, 3% in PvP.<br>
   Can be obtained via an enchant stone dropped by an <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>. It can also be obtained from the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest.</p></div></td>
-  <td><div>Weapon is covered with glowing blue galaxy Gas with stars around.</div></td>
+  <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -144,7 +144,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>The weapon's critical becomes a katana's but with no hitbox.<br>
-  On m1 hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker.<br>
+  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
   <p>The critical can still trigger critical Talents like Bear Trap and Manipulator.<br>

@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 112065
+revid: 117317
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, Lost Celtor]
