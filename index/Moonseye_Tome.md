@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 113819
+revid: 117293
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -36,6 +36,7 @@ Attempting to use at Knowledge Cap (999), _"Your mind is too full to take in the
 ## Trivia
 
 -   In your inventory, the Moonseye Tome has a Weight of 1.
+-   If you read the tome as a voidwalker, it mentions that its disappointed in your character
 -   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Book of smart ass n\*\*\*a"[\[1\]](#cite-note-1)
     -   Agamatsu posits that the Tome is a reference to his mad, often nonsensical, rambles and suggestions, and the journey the Cult went on may be a reference to his attempts to find an entrance to [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) in the [Voidsea](Voidsea.md).
 -   The secret "Mural" when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye which is fitting considering that Pariah was a prophet of the Moonlit Faith.

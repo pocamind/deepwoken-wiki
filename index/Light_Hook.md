@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 116636
+revid: 117286
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, StubPages, Items]
@@ -30,7 +30,7 @@ The Light Hook lasts for a finite amount of time, and will disappear once that t
 
 ## Recharging
 
-The Light Hook will recharge 1 minute per minute not in use, and includes time spent not in-game
+The Light Hook will recharge 4 minutes per minute not in use, that includes time spent not in-game.
 
 The Light Hook can be recharged by initiating a fight with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), which will recharge 15 minutes of time with the Light Hook **when you return to Castle Light**.
 
