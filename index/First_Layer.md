@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 115242
+revid: 117296
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -106,9 +106,9 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, ~and enforcers~, do not allow this. At the top of the chain, players cannot be pulled by an enforcer unless they fall.
     -   As of late, the combat tag is _not_ a boss tag. As such, player can close the game the instant the trial begins with zero repercussions (so long as their health is above 60%).
         -   **Do not rely on this**. It is likely unintended, and will be patched soon.
--   If 2 or more players enter the Trial, all will fight the monster of the highest power.
+-   If 2 or more players enter the Trial, all will fight the monster of the highest power. It will also look to see if anyone has the Vow of Thorns modifier on and apply it.
     -   Example: Two power 16 players will spawn two enforcers. one power 7 and one power 16 will have to fight two enforcers.
-    -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
+    -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn. Example: One power 1 with Vow of Thorns and one power 20 will spawn wave defense.
 -   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
     -   Curiously, a Power 1 Deepbound and Power 20 Non-Deepbound will spawn just one Enforcer.
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 116157
+revid: 117297
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -1038,7 +1038,7 @@ Fleeting Sparks
 
  | 
 
--   This modifier causes the "Fleeting Sparks" mantra to shoot out 6 sparks into of 3.
+-   This modifier causes the "Fleeting Sparks" mantra to shoot out 6 sparks instead of 3.
 
  |
 | 

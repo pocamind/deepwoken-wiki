@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 117286
+revid: 117295
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, StubPages, Items]
@@ -34,7 +34,7 @@ The Light Hook will recharge 4 minutes per minute not in use, that includes time
 
 The Light Hook can be recharged by initiating a fight with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), which will recharge 15 minutes of time with the Light Hook **when you return to Castle Light**.
 
-Heading to [New Kyrsa](Second_Layer/New_Kyrsa.md) does **not** provide any extra charge for the Light Hook, meaning you'll be very limited in what you can do if you wish to use it as a lifeline before it runs out of energy.
+Heading to [New Kyrsa](Second_Layer/New_Kyrsa.md) does **not** provide any extra charge for the Light Hook and always decreases the time remaining to 10 minutes, meaning you'll be very limited in what you can do if you wish to use it as a lifeline before it runs out of energy.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Iron Twinblade
-revid: 117261
+revid: 117302
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Twinblades]
 ---
 
 # Iron Twinblade
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict, Diluvian Mechanism, Moon's Eyrie, The Depths, Black Diver, Pure Ore Turn-Ins |
+| obtainment | Chime of Conflict, Diluvian Mechanism, Moon's Eyrie, The Depths, Black Diver, Pure Ore Turn-Ins, Widow's Hollow |
 | description | "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash." |
 
 ## Description
