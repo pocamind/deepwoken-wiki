@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 116740
+revid: 117306
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -82,6 +82,8 @@ Upon breaking an Oath, unique effects will occur:
             -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md).
         -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing.
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
+    -   This oath does not become locked after being broken.
+
 -   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
         -   You'll regain [Oathless](Oath%253A_Oathless.md).

@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 117130
+revid: 117307
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -11,9 +11,9 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals]
 | Whaling Knife | |
 |---|---|
 | type | Dagger |
-| requirements | 40 LHT |
+| requirements | 40 / 75 LHT |
 | damage | 15 |
-| scaling | 5 |
+| scaling | 5 / 8 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
@@ -26,30 +26,6 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals]
 | pass down | Yes |
 | obtainment | Chest from:, Knives of Eylis Events, Rook Rethige, Duke Erisia, Deep Widow, Primadon, Moon's Eyrie, Layer 1, Maestro Evengarde Rest, Scion of Ethiron |
 | description | ' "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'." ' |
-
-| Alloyed Whaling Knife | |
-|---|---|
-| type | Dagger |
-| requirements | 75 LHT |
-| damage | 15 |
-| scaling | 8 |
-| range | 6 |
-| swing speed | 1.25x |
-| endlag | 0.05s |
-| penetration | 15% |
-| special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
-| stances | 1 Handed |
-| weight | 4 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, Primadon (Rare Chance) |
-| description | ' "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'."' |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

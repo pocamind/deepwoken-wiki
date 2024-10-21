@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 117288
+revid: 117310
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -11,8 +11,8 @@ categories: [Weapons, Flintlocks]
 | Dawnshot | |
 |---|---|
 | type | Flintlock |
-| requirements | 40 LHT |
-| damage | 14 |
+| requirements | 40 / 75 LHT |
+| damage | 14 / 16 |
 | scaling | 12 |
 | range | 10.5 |
 | swing speed | 1.17x |
@@ -23,28 +23,6 @@ categories: [Weapons, Flintlocks]
 | pass down | Yes |
 | obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Songseeker Wilds, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest |
 | description | "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production." |
-
-| Dawnshot | |
-|---|---|
-| type | Flintlock |
-| requirements | 75 LHT |
-| damage | 16 |
-| scaling | 12 |
-| range | 10.5 |
-| swing speed | 1.17x |
-| penetration | 5% |
-| chip damage | 10% |
-| weight | 1 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on base weapon, Duke Erisia, Chaser, Scholar of the Burning Blood, Maestro Evengarde Rest, Sea Events |
-| description | "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 
