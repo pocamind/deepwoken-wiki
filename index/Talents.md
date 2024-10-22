@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117331
+revid: 117366
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2032,7 +2032,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _**Will o' Wisp**_ \[Advanced Talent, Attunement Exclusive\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
-    -   Believe it or not, I actually know the guy who made this talent. Yep. His name was William O. Wisp.
     -   Prerequisites: Attunement Wisp mantra, 25 Element
 
 ### Saint of Blades

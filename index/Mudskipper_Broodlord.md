@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 115999
+revid: 117362
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -133,7 +133,7 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   Be mindful of Broodrot Smash. This move allows the Broodlord to cover quite long distances with ease and catch up to you. Additionally, this move also allows them to easily board boats, especially larger ones.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with extreme caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
     -   Cannons on [boats](Ships_&_Sailing.md) are a good way to kill them when encountered at sea.
--   Broodlords have a massive detection radius and seem to be able to detect players through walls from all angles. Players with [Obvious](Boons_and_Flaws.md) need to be very careful if trying to avoid one.
+-   Broodlords have a massive detection radius and seem to be able to detect players through walls from all angles. Players with [Obvious](Boons_and_Flaws.md) need to be very careful if trying to avoid one. (With the new patch broodlords can no longer see players through walls, although it doesn't change the fact that it still has a massive detection range for its field of view.)
 -   You can use Force Your Way from the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry its unblockable attack, but be careful that it is quite risky and requires a lot of timing to parry both Broodrot Smash and Brootrot Thrust. (I tested it, and while you can parry both of the attacks using Force Your Way, it is difficult to do so.)
 
 ## Trivia
