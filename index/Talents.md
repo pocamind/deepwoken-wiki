@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117321
+revid: 117331
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -449,7 +449,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapon
 
--   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
+-   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
