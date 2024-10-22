@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 114142
+revid: 117347
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -11,26 +11,9 @@ categories: [Weapons, Swords]
 | Falchion | |
 |---|---|
 | type | Sword |
-| requirements | 20 MED |
+| requirements | 20 / 75 MED |
 | damage | 16 |
-| scaling | 6 |
-| range | 7.5 |
-| swing speed | 1.06x |
-| stances | 2 Handed, 1 Handed |
-| weight | 4 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Chests in:, Lower Erisia, Deep Widow |
-| description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
-
-| Alloyed Falchion | |
-|---|---|
-| type | Sword |
-| requirements | 75 MED |
-| damage | 16 |
-| scaling | 7 |
+| scaling | 6 / 7 |
 | range | 7.5 |
 | swing speed | 1.06x |
 | penetration | 20% |
@@ -40,14 +23,10 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy usage on base weapon, Voidwalker chests, Chime of Conflict chests |
+| obtainment | Chests in:, Lower Erisia, Deep Widow |
 | description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
 
 \=
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

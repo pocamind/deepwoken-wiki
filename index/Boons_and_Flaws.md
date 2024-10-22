@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 117199
+revid: 117358
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -213,7 +213,7 @@ _"Enemies detect you more easily."_
 
  | 
 
-This flaw grants you -20% [stealth](https://deepwoken.fandom.com/wiki/Stealth), meaning stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching.
+This flaw grants you -20% [stealth](Stealth.md), meaning stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching.
 
  | 
 

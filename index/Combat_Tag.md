@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 117024
+revid: 117346
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -23,7 +23,7 @@ The main purpose is to punish rage-quitting and combat logging.
 
 #### Consequences of entering combat:
 
--   Your natural health regenaration is reduced, as well as the healing from [Campfires](Campfire_Pit.md).
+-   Your natural health Regeneration is reduced, as well as the healing from [Campfires](Campfire_Pit.md).
 -   Some [Talents](Talents.md) proc upon inflicting a Combat Tag or by being inflicted with one.
     -   _Example: [Ready Or Not](Talents.md) will cut the damage from the first hit you take outside of combat in half._
 
@@ -33,20 +33,20 @@ Hovering over the skull will show you the name of the entity that put you into c
 
 PvP combat tag differs from PvE combat tag.
 
-#### PvE Blue Skull
+#### PvE White Skull
 
-The blue skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
+The White skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
 
-1.  You cannot switch weapons or armor during combat.(Unless you're Silentheart, in which you can switch weapons in combat with it's ability.)
+1.  You cannot switch weapons or armor during combat.(Unless you're [Silentheart](Oath%253A_Silentheart.md), in which you can switch weapons in combat with it's ability.)
 2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way.
 
 #### PvP Red Skull
 
-The red skull means that you are currently being assaulted by a player and lasts a minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies or guild mates will put them in danger. This comes with limitations:
+The Red skull means that you are currently being assaulted by a player and lasts a minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies or guild mates will put them in danger. This comes with limitations:
 
-1.  You cannot switch weapons or armor during combat. (With the aforementioned Silentheart exception.)
+1.  You cannot switch weapons or armor during combat. (With the aforementioned [Silentheart](Oath%253A_Silentheart.md) exception.)
 2.  If you leave the game or disconnect at all, you will die regardless of your HP.
-3.  Unlike the blue skull, you can't get health packs from NPCs, only players.
+3.  Unlike the White skull, you can't get health packs from NPCs, only players.
 
 ## Combat Quotes
 
@@ -63,9 +63,12 @@ List of Quotes:
 
 -   The [Silentheart Oath](Oath%253A_Silentheart.md), can switch weapons in combat and has a button to do so.
     -   This is also possible with [Crazy Slots Bell](Crazy_Slots.md) but only it's own weapons.
--   Bosses give a PvE Tag that lasts 2 minutes and 40 seconds.
+-   [Bosses](Bosses.md) give a PvE Tag that lasts 2 minutes and 40 seconds.
 -   Once in Combat you cannot backstab / assasinate without the Dust Lunge talent.
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
 -   You can remove Combat Tag off non allies by saying "Mb \[Name\]" or "Mb All" to lift off all people you put it on.
 -   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_God._"
 -   Allies were able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.
+-   There is 2 Exceptions to being Punished by Combat Tag
+    1.  Server Shutdown for hotfix or weekly updates.
+    2.  Being teleported by a Dungeon Teleporter _(Example: [Ferryman](The_Ferryman.md), [Layer 2](Second_Layer.md) [Lighthook](Light_Hook.md) TP)_ or Jumping into the void in [First Layer](First_Layer.md) when above 75% HP.

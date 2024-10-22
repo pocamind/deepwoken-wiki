@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 117149
+revid: 117356
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -59,4 +59,3 @@ Examples:
 -   You can hunt more than one person at once.
 -   Using [Blood Scourge](Blood_Scourge.md) works with confirming bounty kills.
 -   The least amount of stars someone can have is one star.
--   If you're a [Contractor](Oath%253A_Contractor.md), you're **always** going to be on all bounty boards, no matter your [Reputation](Reputation.md).

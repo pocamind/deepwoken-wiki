@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 117301
+revid: 117353
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea]
@@ -32,6 +32,8 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict or the Etris Raid event (confirmed).
 
 ## M1s and Aerial/Running
+
+The running M1 on this weapon actually has two hits, the first being a normal running attack timing, and the second coming out slightly later. The second can be parried after being hit and if the first hit is parried, the second hit does not come out.
 
 When 2 handed, the weapon has no flourish, which can be used for even more mix up potential.
 
