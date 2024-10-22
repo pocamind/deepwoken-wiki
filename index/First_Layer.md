@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 117296
+revid: 117335
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -108,7 +108,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
         -   **Do not rely on this**. It is likely unintended, and will be patched soon.
 -   If 2 or more players enter the Trial, all will fight the monster of the highest power. It will also look to see if anyone has the Vow of Thorns modifier on and apply it.
     -   Example: Two power 16 players will spawn two enforcers. one power 7 and one power 16 will have to fight two enforcers.
-    -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn. Example: One power 1 with Vow of Thorns and one power 20 will spawn wave defense.
+    -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
+    -   Example: One power 1 with Vow of Thorns and one power 20 will spawn wave defense.
 -   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
     -   Curiously, a Power 1 Deepbound and Power 20 Non-Deepbound will spawn just one Enforcer.
 
