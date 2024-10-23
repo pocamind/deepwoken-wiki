@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 107657
+revid: 117427
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 
 ## Description
 
-Smelting is a mechanic that involves combining 2 pieces of equipment to keep the stats of one piece, while keeping the appearance of another. This is typically used to improve the drip of one's character, as it doesn't go beyond simply placing the stats of one item onto another.
+Smelting is a mechanic that involves combining 2 pieces of equipment to keep the stats of one piece, while keeping the appearance of another. This is typically used to improve the aesthetics (drip) of one's character, as it doesn't go beyond simply placing the stats of one item onto another.
 
 _Some important things to note before smelting:_
 

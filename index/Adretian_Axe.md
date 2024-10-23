@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 117379
+revid: 117431
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes]
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest |
+| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Chaser |
 | description | "A bound axe in the typical Adretian fashion." |
 
 ## Description

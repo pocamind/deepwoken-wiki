@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 108322
+revid: 117419
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ Examples of Spring.
 
 -   Rain is more common.
 -   Fruits and wheat will start to spawn.
--   Grass and Leave are green.
+-   Grass and Leaves are green.
 
 ### Summer
 
