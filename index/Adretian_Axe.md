@@ -1,52 +1,30 @@
 ---
 title: Adretian Axe
-revid: 116903
+revid: 117379
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes]
+categories: [Pages with broken file links, Weapons, Greataxes]
 ---
 
 # Adretian Axe
 
 | Adretian Axe | |
 |---|---|
-| type | Greataxe |
-| requirements | 35 HVY |
-| damage | 24.5 |
-| scaling | 7 |
+| requirements | 35 HVY / 75 HVY |
+| damage | 24 |
+| scaling | 7 / 8 |
 | range | 8 |
-| swing speed | 0.85x |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 5 |
+| swing speed | 0.85x / 0.87x |
+| penetration | 10% |
+| chip damage | 10% |
+| selling price | 25 |
+| weight | 5 / 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest |
 | description | "A bound axe in the typical Adretian fashion." |
-
-| Adretian Axe | |
-|---|---|
-| type | Greataxe |
-| requirements | 75 HVY |
-| damage | 24 |
-| scaling | 8 |
-| range | 8 |
-| swing speed | 0.87x |
-| penetration | 10% |
-| chip damage | 10% |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 7 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on base weapon, First Layer, Maestro Evengarde Rest |
-| description | "A bound axe in the typical Adretian fashion." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

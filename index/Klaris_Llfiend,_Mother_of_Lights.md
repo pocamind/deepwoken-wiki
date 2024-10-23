@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 115402
+revid: 117377
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -263,7 +263,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="3">An... Arch-Diver? Either you've come across a surviving diver with an inflated ego, or... <i>*She grimaces.*</i></td>
-  <td colspan="3">TEMPLATE</td>
+  <td colspan="3">...Never heard that phrase before in my life. I can only assume you're talking about the Eternal Gale? It's relatively unexplored, we've had Black Divers make it far but never return.</td>
   <td colspan="6">*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.* ...I see. You've done a great deal for us. This is the least can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
 </tr>
 <tr>

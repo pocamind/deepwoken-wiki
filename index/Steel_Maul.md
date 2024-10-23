@@ -1,22 +1,25 @@
 ---
 title: Steel Maul
-revid: 117030
+revid: 117395
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers]
+categories: [Pages with broken file links, Weapons, Greathammers]
 ---
 
 # Steel Maul
 
 | Steel Maul | |
 |---|---|
-| type | Heavy Greathammer |
-| requirements | 20 Heavy, 10 STR |
-| damage | 22 |
-| scaling | 7 |
+| type | Greathammer |
+| requirements | 20 Heavy, 10 STR / 75 Heavy, 10 STR |
+| damage | 22 / 24 |
+| scaling | 7 / 8 |
 | range | 9 |
-| swing speed | 0.8x |
-| endlag | 0.1 sec |
+| swing speed | 0.8x / 0.85x |
+| endlag | 0.1s |
+| penetration | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 7 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
@@ -24,28 +27,6 @@ categories: [Weapons, Greathammers]
 | pass down | Yes |
 | obtainment | Weapon shop in Etris, Lower Erisia (Chests), Chime of Conflict |
 | description | "A sturdy maul perfect for knocking walls and people down alike." |
-
-| Alloyed Steel Maul | |
-|---|---|
-| type | Heavy Greathammer |
-| requirements | 75 Heavy, 10 STR |
-| damage | 24 |
-| scaling | 8 |
-| range | 9 |
-| swing speed | 0.64x |
-| endlag | 0.1 sec |
-| penetration | 10% |
-| weight | 7 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Chime of Conflict (Chests), Pluripotent Alloy |
-| description | "A sturdy maul perfect for knocking walls and people down alike." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

@@ -1,51 +1,29 @@
 ---
 title: Halberd
-revid: 117111
+revid: 117378
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority]
+categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority]
 ---
 
 # Halberd
 
 | Halberd | |
 |---|---|
-| type | Greataxe |
-| requirements | 25 HVY |
-| damage | 22 |
-| scaling | 7 |
+| requirements | 25 HVY / 75 |
+| damage | 22 / 24 |
+| scaling | 7 / 8 |
 | range | 9 |
 | swing speed | 0.8x |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 5 |
+| penetration | 15% |
+| selling price | 14 |
+| weight | 5 / 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict |
 | description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
-
-| Alloyed Halberd | |
-|---|---|
-| type | Greataxe |
-| requirements | 75 HVY |
-| damage | 24 |
-| scaling | 8 |
-| range | 9 |
-| swing speed | 0.8x |
-| penetration | 15% |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 6 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on base weapon, The Depths, Chime of Conflict |
-| description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

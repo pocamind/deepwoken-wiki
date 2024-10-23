@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117333
+revid: 117368
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -557,7 +557,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>36</td>
 </tr>
 <tr>
-  <td><font>Alloyed Dawnshot</font></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Dawnshot"><font>Alloyed Dawnshot</font></a></td>
   <td><font>75 LHT</font></td>
   <td><font>16</font></td>
   <td><font>5%</font></td>
@@ -2630,7 +2630,7 @@ Offhand weapons are weapons that can be wielded at the same time along with your
   <td>36</td>
 </tr>
 <tr>
-  <td><font>Alloyed Dawnshot</font></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Dawnshot"><font>Alloyed Dawnshot</font></a></td>
   <td><font>75 LHT</font></td>
   <td><font>16</font></td>
   <td><font>5%</font></td>
@@ -2815,7 +2815,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
     -   Swing Speed: [Divine Dagger](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.3x)
-    -   Highest DPS: [Divine Flintlock](Crazy_Slots.md) _(Likely not true)_
+    -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
 -   Aranea is the first item to have an unobtainable stat prerequisite.

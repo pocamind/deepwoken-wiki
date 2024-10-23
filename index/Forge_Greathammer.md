@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 116589
+revid: 117394
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Criticals]
@@ -10,43 +10,20 @@ categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Critica
 
 | Forge Greathammer | |
 |---|---|
-| type | Greathammer |
-| requirements | 55 HVY, 10 STR |
-| damage | 24 |
+| requirements | 55 HVY, 10 STR / 75 HVY, 10 STR |
+| damage | 24 / 25.5 |
 | scaling | 8 |
 | range | 9 |
-| swing speed | 0.8x |
-| endlag | 0.1s |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 9 |
+| swing speed | 0.8x / 0.81x |
+| endlag | 0.1s / N/A |
+| selling price | 14 |
+| weight | 9 / 9.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, First Layer, Deep Widow, Chime of Conflict, Voidwalker bounty chests |
-| description | ' "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." ' |
-
-| Alloyed Forge Greathammer | |
-|---|---|
-| type | Greathammer |
-| requirements | 75 HVY, 10 STR |
-| damage | 25.5 |
-| scaling | 8 |
-| range | 9 |
-| swing speed | 0.81x |
-| endlag | N/A |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 9.5 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on the base weapon, The Depths |
-| description | ' "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill.." ' |
-
-**Base:**
-
-**Alloyed:**
+| obtainment | Summer Isle, First Layer, Deep Widow, Chime of Conflict, The Depths, Voidwalker bounty chests |
+| description | "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." |
 
 ## Description
 
@@ -54,7 +31,7 @@ The Forge Greathammer is a Midgame Greathammer that can be found in chests by tu
 
 ## Critical
 
-The user swings the greathammer before swinging it once more. Knockdowns on the first hit and guardbreaks on the second hit. The first hit is blockable and has hyperarmor for its duration.
+The user swings the greathammer before swinging it once more. Knockdowns on the first hit and guardbreaks on the second hit. The first hit is blockable and has hyperarmor for the first 0.3s of its duration.
 
 ## Trivia
 

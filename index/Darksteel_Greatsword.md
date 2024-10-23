@@ -1,55 +1,30 @@
 ---
 title: Darksteel Greatsword
-revid: 117145
+revid: 117388
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union]
+categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union]
 ---
 
 # Darksteel Greatsword
 
 | Darksteel Greatsword | |
 |---|---|
-| type | Greatsword |
-| requirements | 40 HVY, 10 STR |
+| requirements | 40 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 26 |
-| scaling | 7 |
-| range | 9 |
-| swing speed | 0.8x |
-| endlag | 0.1s |
-| special effect | Full hyperarmor critical that applies knockback. |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 9 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Starswept Valley, Summer Isle, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Tower Event, Bought from Miner's Landing, Chime of Conflict, Chaser |
-| description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
-
-| Darkalloy Greatsword | |
-|---|---|
-| type | Greatsword |
-| requirements | 75 HVY , 10 STR |
-| damage | 26 |
-| scaling | 8 |
+| scaling | 7 / 8 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | chip damage | 10% |
-| special effect | Full hyperarmor critical that applies knockback. |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 25 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy use, PVP Arena chests, Pure Astruline turn-in, Moon's Eyrie |
-| description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
-
-**Base:**
-
-**Alloyed:**
+| obtainment | Maestro Evengarde Rest, Starswept Valley, Summer Isle, Saramaed Hollow, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Tower Event, Bought from Miner's Landing, Chime of Conflict, Chaser, Moon's Eyrie, Pure Astruline turn-in |
+| description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
 
 ## Description
 
@@ -57,7 +32,7 @@ The Darksteel Greatsword is a midgame Greatsword used by [The Ignition Union](Th
 
 ## Critical
 
-After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical. Due to having armor from frame 1, it may be used as a pseudo vent. (Wind-up and Emperor Flame do not work on critical hits.)
+After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical. This attack has "true-hyperarmor," meaning that it cannot be canceled, even if you get hit by attacks that apply the Shocked status effect. Due to having armor from frame 1, it may be used as a pseudo vent. (Wind-up and Emperor Flame do not work on critical hits.)
 
 ## Trivia
 

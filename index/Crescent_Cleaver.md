@@ -1,53 +1,30 @@
 ---
 title: Crescent Cleaver
-revid: 112000
+revid: 117385
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals]
+categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals]
 ---
 
 # Crescent Cleaver
 
 | Crescent Cleaver | |
 |---|---|
-| type | Greatsword |
-| requirements | 40 HVY, 10 STR |
-| damage | 22 + 8.2 BLD |
-| scaling | 8 |
-| range | 9 |
-| swing speed | 0.8x |
-| endlag | 0.1s |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 9 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds |
-| description | "Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood." |
-
-| Alloyed Crescent Cleaver | |
-|---|---|
-| type | Greatsword |
-| requirements | 75 HVY, 10 STR |
-| damage | 22 + ? BLD |
-| scaling | 9.5 |
+| requirements | 40 HVY, 10 STR / 75 HVY, 10 STR |
+| damage | 22 + 6.6 BLD |
+| scaling | 8 / 9.5 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | chip damage | 20% |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 25 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy |
+| obtainment | Minityrsa, Songseeker Wilds, Chili |
 | description | "Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood." |
-
-**Non-Alloyed:**
-
-**Alloyed:**
 
 ## Description
 

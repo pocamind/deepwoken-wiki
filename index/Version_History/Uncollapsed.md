@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 117056
+revid: 117383
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -104,7 +104,21 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Fixed being able to bypass weapon requirements by oathbreaking Silentheart  
 • Fixed Deep Owl clipping you through ceilings when grabbed (for real this time)  
 • Fixed Ironclad Punishment not working  
-• Fixed Old Habits Die Hard not working
+• Fixed Old Habits Die Hard not working  
+  
+• 2x chests btw.
+
+### _**Patch 1.9.9a**_
+
+• Greatly optimized mobs by greatly reducing their parallel actor memory cost  
+• Fixed broken mobs  
+• Optimized a lot of the backend libraries in Deepwoken, should have some pretty good performance gains  
+• Fixed a major memory leak with characters
+
+### _**Patch 1.9.9b**_
+
+• Fixed certain Equipment not displaying the correct pips/buffs  
+• Fixed mobs in Depths Trial being ungrippable
 
 ## **October 11th, 2024**
 
@@ -123,12 +137,12 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Chariot's Spire now has many amenities on offer for its Delvers  
   
 **The Great Equipment Rebalance**  
-Following a lot of improvements to our internal tools for editing and viewing equipment, this patch is dropping with a pretty substantial list of changes to Equipment. Equipment has been broadly divided into Level brackets based on their stats, with items that fall above and below the curve being tweaked to match their bracket's strength, as well as the item itself's rarity.  
+_Following a lot of improvements to our internal tools for editing and viewing equipment, this patch is dropping with a pretty substantial list of changes to Equipment. Equipment has been broadly divided into Level brackets based on their stats, with items that fall above and below the curve being tweaked to match their bracket's strength, as well as the item itself's rarity._  
   
 **Arms**  
 • Adjudicator's Coats, Pathfinder Elites, Justicar Defenders, Royal Duelists, Ministry Cloaks, Fleet Warden Capes LVL req reduced (13 -> 8)  
 • First Ranger Dusters, Aristocrat Coats LVL req reduced (13 -> 10)  
-• Imperial Pauldrons  
+• Imperial Pauldrons, Providence Coat LVL req reduced (10 -> 8)  
 • Grand Fisher Plate, Diver's Light Plate, Moonseye Gauntlets, Warden Pauldrons, Hive Scourge Cuirass, Legion Phalanx Plate, Ironsinger Heavy Plate LVL req increased (10 -> 13)  
 • Ignition Gauntlets LVL req increased (8 -> 13)  
 • Deepwoken Cloaks, Providence Coat LVL req increased (8 -> 10)  
@@ -200,7 +214,6 @@ Following a lot of improvements to our internal tools for editing and viewing eq
 • Heavily reduced Sanity regen debuff on potions (0.35 -> 0.1)  
 • Chain Reaction no longer procs on lingering pots, effectiveness reduced (1.65x -> 1.4x)  
 • Reduced Vampirism Blood gain per m1 to account for Blood Loss corruption downside (5 -> 0.5)  
-• Increased Vampirism blood gain on landing M1's, now scales with your weapon's damage  
   
 **Bugfixes & Optimization**  
 • Fixed Megalodaunt Coral Spear attack (not the mantra) going through walls  
@@ -209,13 +222,27 @@ Following a lot of improvements to our internal tools for editing and viewing eq
 • Dimensional Travel now only has a wind-up if you're in player combat, wind-up increased (0.3s -> 0.7s)  
 • Dimensional Travel's cooldown is now doubled when leaving The Interstice if you're in combat  
 • Fixed Hell Mode still requiring 5 players to start instead of 4  
-• Cleaned up the F9 log to clear up a lot of obsolete warnings
+• Cleaned up the F9 log to clear up a lot of obsolete warnings  
+  
+• Increased Vampirism blood gain on landing M1's, now scales with your weapon's damage  
+  
+• Correction: Providence Coat LVL req is 10 now, error in transcription  
+• 2x chests btw
+
+### _**Patch 1.9.8a**_
+
+• Fixed a tutorial softlock  
+• Flameguard Pauldrons LVL req added (8), given Rare pip, 1 Posture, and 3 HP  
+• Gladiator Pauldrons LVL req added (5), HP increased (2 -> 5), given Rare pip  
+• Added VFX for Blood Loss corruption downside  
+• Fixed Crescendo crit being unparryable  
+• Reduced Wither corruption downside effect (15% max HP -> 10% max HP)  
+• Reduced Blood corruption downside effect (20% max Blood -> 15% max Blood)
 
 ## **October 4th, 2024**
 
 **Content & Systems**  
 • New Ironsing Mantra: Metal Turret ★★  
-• Added Metal Turret Multiplying Spark  
 • New Alloy: Alloyed Forge Greathammer  
 • New Unique Critical: Forge Greathammer  
 • Ignition Delvers can now take the Deepdrill at Chariot's Spire down to the Eternal Gale once they've escaped it using the drill previously. Doing so will skip the generator and regular entrance and have you start Layer 2 at the Frontier Furnace, but won't provide a Light Hook like Castle Light  
@@ -229,7 +256,6 @@ Following a lot of improvements to our internal tools for editing and viewing eq
   
 **Balancing & Tweaks**  
 • Hell Mode completion chests are now double the size  
-• You can now activate Hell Mode with a minimum of 4 Players (down from 5)  
 • Parry Stun duration has been reduced to prevent unpunishable feints. The range between the lowest and highest durations has also been reduced (0.11s to 0.51s -> 0.2s to 0.3s). As before, your parry stun duration is lower if your weapon is slower than your opponent's  
 • The length of shaky/weak block frames is now determined by your weapon's swing speed. Previously, daggers alone had an innate debuff to shaky block frame duration. Weapons with above 1x swing speed now have a reduction to shaky block frames proportional to their swing speed, capping out at a 20% reduction at 1.2x swing speed  
 • Casting Mantras, using crits, and M1'ing now fully cancel rolls early. This does not apply if you Gale Dash with an M1  
@@ -277,7 +303,18 @@ Following a lot of improvements to our internal tools for editing and viewing eq
 • Fixed Chainwarden sounds playing on loop in Erisia  
 • Fixed some anti-exploit issues with uppercuts  
 • Fixed Fulgurite Overload not visually growing additional crystals and not properly counting the double stacks  
-• Fixed Golem lasers not being parryable
+• Fixed Golem lasers not being parryable  
+  
+• You can now activate Hell Mode with a minimum of 4 Players (down from 5)  
+• 2x chests btw  
+(golem laser parry fix is for braces, not in general)  
+  
+• Added Metal Turret Multiplying Spark  
+• Fixed parry stun timing  
+• Whistling Periapt is now bankable  
+  
+**Hotfix**  
+• Fixed parry stun timing being much longer than intended
 
 ## **September 27th, 2024**
 

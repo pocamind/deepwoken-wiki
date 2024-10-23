@@ -1,55 +1,30 @@
 ---
 title: Gremorian Longspear
-revid: 107926
+revid: 117392
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Spears, Children of Navae]
+categories: [Pages with broken file links, Weapons, Spears, Children of Navae]
 ---
 
 # Gremorian Longspear
 
 | Gremorian Longspear | |
 |---|---|
-| type | Spear |
-| requirements | 20 MED |
-| damage | 18 |
-| scaling | 4 |
+| requirements | 20 MED / 75 MED |
+| damage | 18 / 20 |
+| scaling | 4 / 5 |
 | range | 9 |
-| swing speed | 0.9x |
-| special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
-| stances | 2 Handed, 1 Handed |
-| selling price | 14 |
-| weight | 5 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Navae Nomads in Etris, Erisia chests, Summer Isle chests |
-| description | "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness." |
-
-| Alloyed Gremorian Longspear | |
-|---|---|
-| type | Spear |
-| requirements | 75 MED |
-| damage | 20 |
-| scaling | 5 |
-| range | 9 |
-| swing speed | 0.7x |
+| swing speed | 0.9x / 0.93x |
 | penetration | 10% |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
-| stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using Pluripotent Alloy on base weapon, Chime of Conflict |
+| obtainment | Navae Nomads in Etris, Erisia chests, Summer Isle chests, Chime of Conflict |
 | description | "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

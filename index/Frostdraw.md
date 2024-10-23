@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 117188
+revid: 117371
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1110,6 +1110,8 @@ N/A
 -   Crystals dmg scales by your frost investment, 1 point of dmg every 10 frost. You are doing 8 dmg per crystal at 80 frost.
 -   Nullifying clarity does not reduce chilled duration.
 -   The **Ice Cubes** Mantra might be a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
+-   **Glacial Arc** used to fire multiple arcs using cloud and stratus stones.
+-   Grabbing a barrel that has been frozen can cause you to gain velocity in a random direction when jumping. (not sure if patched or not)
 -   **The source for the frost mantras damage:**
     
     File:Frost Mantras damage.png

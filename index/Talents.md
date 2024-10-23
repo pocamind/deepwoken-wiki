@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117366
+revid: 117393
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1690,6 +1690,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
+    -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer

@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 116799
+revid: 117397
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
+categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]
 ---
 
 # Katana
@@ -11,42 +11,21 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
 | Katana | |
 |---|---|
 | type | Sword |
-| requirements | 25 MED |
-| damage | 18 |
-| scaling | 6 |
-| range | 8 |
-| swing speed | 1x |
-| stances | 2 Handed, 1 Handed |
-| weight | 5 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict |
-| description | '"An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."' |
-
-| Alloyed Katana | |
-|---|---|
-| type | Sword |
-| requirements | 75 MED |
-| damage | 20 |
-| scaling | 7 |
+| requirements | 25 MED / 75 MED |
+| damage | 18 / 20 |
+| scaling | 6 / 7 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
-| weight | 6 |
+| weight | 5 / 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Using Pluripotent Alloy on Katana, Bounties, The Diluvian Mechanism, Maestro Evengarde Rest |
-| description | '"An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."' |
-
-**Base:**
-
-**Alloyed:**
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict, Maestro Evengarde Rest |
+| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
 ## Description
 
