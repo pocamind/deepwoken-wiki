@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 117375
+revid: 117412
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Chili, Crypt of the Unbroken |
+| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken |
 | description | "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire." |
 
 ## Description

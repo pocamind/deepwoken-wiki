@@ -1,9 +1,9 @@
 ---
 title: Trident Spear
-revid: 117115
+revid: 117401
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals]
+categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique Criticals]
 ---
 
 # Trident Spear
@@ -11,13 +11,14 @@ categories: [Weapons, Spears, Weapons with Unique Criticals]
 | Trident Spear | |
 |---|---|
 | type | Spear |
-| requirements | 50 MED |
+| requirements | 50 MED / 85 MED |
 | damage | 19 |
-| scaling | 6 |
+| scaling | 6 / 7 |
 | range | 9 |
-| swing speed | 0.9x |
+| swing speed | 0.9x / 0.92x |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,28 +26,6 @@ categories: [Weapons, Spears, Weapons with Unique Criticals]
 | pass down | Yes |
 | obtainment | The Depths, Summer Isle, Minityrsa, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing, Chime of Conflict |
 | description | "A surprisingly effective weapon despite its previous use by fishermen." |
-
-| Alloyed Trident Spear | |
-|---|---|
-| type | Spear |
-| requirements | 85 MED |
-| damage | 19 |
-| scaling | 7 |
-| range | 9 |
-| swing speed | 0.92x |
-| penetration | 25% |
-| stances | 2 Handed, 1 Handed |
-| weight | 5 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Use a pluripotent Alloy on base weapon, Chime of Conflict |
-| description | "A surprisingly effective weapon despite its previous use by fishermen." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

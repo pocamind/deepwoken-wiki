@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 117390
+revid: 117410
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Starswept Valley, Bounty (Chests), Primadon, Deep Widow, Chili, Chime of Conflict |
+| obtainment | The Depths, Starswept Valley, Bounty (Chests), Primadon, Deep Widow, Merchant Ships, Chime of Conflict |
 | description | "The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself." |
 
 ## Description

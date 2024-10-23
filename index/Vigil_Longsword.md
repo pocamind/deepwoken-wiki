@@ -1,9 +1,9 @@
 ---
 title: Vigil Longsword
-revid: 115646
+revid: 117399
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Etrea]
+categories: [Pages with broken file links, Weapons, Swords, Etrea]
 ---
 
 # Vigil Longsword
@@ -11,11 +11,12 @@ categories: [Weapons, Swords, Etrea]
 | Vigil Longsword | |
 |---|---|
 | type | Sword |
-| requirements | 40 MED |
+| requirements | 40 MED / 75 MED |
 | damage | 20 |
-| scaling | 6 |
+| scaling | 6 / 7.5 |
 | range | 8 |
 | swing speed | 1x |
+| penetration | 20% |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
@@ -23,30 +24,8 @@ categories: [Weapons, Swords, Etrea]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, First Layer, Crypt of the Unbroken |
+| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chests |
 | description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
-
-| Alloyed Vigil Longsword | |
-|---|---|
-| type | Sword |
-| requirements | 75 MED |
-| damage | 20 |
-| scaling | 7.5 |
-| range | 8 |
-| swing speed | 1x |
-| penetration | 20% |
-| stances | 2 Handed, 1 Handed |
-| weight | 5 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Main source:, Using a Pluripotent Alloy on oneChests from:, Chime of Conflict chests, Voidwalker chests |
-| description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
-
-**Base:**
-
-**Alloyed:**
 
 ## Description
 

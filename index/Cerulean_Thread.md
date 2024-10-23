@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 117364
+revid: 117407
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals]
@@ -25,7 +25,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Mult
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest (light weapon) |
+| obtainment | Maestro Evengarde Rest |
 | description | "Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection." |
 
 ## Description
