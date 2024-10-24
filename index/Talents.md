@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117450
+revid: 117527
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -780,7 +780,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 15 Strength
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
 
--   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+2 Posture, +4 Carry Load)
+-   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
     -   Prerequisite: 20 Strength
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)

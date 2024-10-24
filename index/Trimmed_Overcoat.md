@@ -1,6 +1,6 @@
 ---
 title: Trimmed Overcoat
-revid: 116425
+revid: 117461
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle (Brown, White), Erisia (Brown, White), Duke Erisia (Brown, White), Hell Mode (Black), Maestro Evengarde Rest (All), Chaser (Brown) |
+| obtainment | Chests from:, Summer Isle (Brown, White), Erisia (Brown, White), Duke Erisia (Brown, White), Hell Mode (Black), Maestro Evengarde Rest (All), Chaser (Brown, Black) |
 | description | "A thick coat to protect you against the elements." |
 
 ## Description

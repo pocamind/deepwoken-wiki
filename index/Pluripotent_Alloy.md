@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 115425
+revid: 117470
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -58,6 +58,7 @@ If you have the [Ignition Delver origin](Origins.md), you are able to turn **3**
 -   [Gremorian Longspear](Gremorian_Longspear.md)
 -   [Katana](Katana.md)
 -   [Messer](Messer.md)
+-   [Scalesplitter](Scalesplitter.md)
 -   [Shotel](Shotel.md)
 -   [Trident Spear](Trident_Spear.md)
 -   [Vigil Longsword](Vigil_Longsword.md)

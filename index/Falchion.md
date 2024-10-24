@@ -1,9 +1,9 @@
 ---
 title: Falchion
-revid: 117347
+revid: 117510
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Swords, Alloyed Weapons]
 ---
 
 # Falchion

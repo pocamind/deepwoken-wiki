@@ -1,9 +1,9 @@
 ---
 title: Rapiers
-revid: 62349
+revid: 117490
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Light Weapons, Weapons by Class]
 ---
 
 # Rapiers

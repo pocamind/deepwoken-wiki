@@ -1,6 +1,6 @@
 ---
 title: Bloodiron Ring
-revid: 107579
+revid: 117462
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Armors, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest |
+| obtainment | Maestro Evengarde Rest, Chaser |
 | description | "A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor." |
 
 ## Description

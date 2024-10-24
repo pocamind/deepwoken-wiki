@@ -1,9 +1,9 @@
 ---
 title: Gremorian Longspear
-revid: 117392
+revid: 117511
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Spears, Children of Navae]
+categories: [Pages with broken file links, Weapons, Spears, Children of Navae, Alloyed Weapons]
 ---
 
 # Gremorian Longspear

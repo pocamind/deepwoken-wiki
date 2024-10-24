@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 117457
+revid: 117466
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -89,7 +89,9 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 -   Bear in mind that you still cannot add more than 6 Points into a given Trait.
 -   **You also cannot remove more than 3 attribute points per character (only a max of 3 points can be moved on a character).**
 -   You **cannot** remove innate attribute points granted by your race.
--   Despite popular belief, you can still change your attributes with this after Shrine of Order.
+-   Despite popular belief, you can still change your attributes with this after Shrine of Order, though with a caveat.
+    -   For example: If you Shrine of Order, and your [Agility](Attributes.md#agility) goes from 1 -> 27, you can use shrine of mastery to lower it to 24, as long as you don't have a talent that costs 25 agility.
+    -   This is useful for cleaning up Shrine of Order "defects." As you can just lower it to 25 agility, and have 2 points spent elsewhere.
 -   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
 
