@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 116833
+revid: 117457
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -87,10 +87,20 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 ## Details
 
 -   Bear in mind that you still cannot add more than 6 Points into a given Trait.
--   **You also cannot remove more than 3 attribute points per character(only a max of 3 points can be moved on a character).**
--   Despite popular belief, you can still change your attributes with this before Shrine of Order.
--   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat. (For example: If you went 40 strength to pick showstopper and used the shrine of order to reduce your strength, you cannot remove points off strength as long as you have showstopper.)
-    
+-   **You also cannot remove more than 3 attribute points per character (only a max of 3 points can be moved on a character).**
+-   You **cannot** remove innate attribute points granted by your race.
+-   Despite popular belief, you can still change your attributes with this after Shrine of Order.
+-   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat.
+    -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
+
+-   You can lower a stat below the requirements of a Mantra and keep the Mantra. However, if you attempt to lower a stat below the requirements of your Mantra's levels, the Mantra will be leveled down.
+-   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
+
+-   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
+    -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept talents.
+    -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath talents themselves have no stat requirement attached to them.
+    -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
+        
 
 **Shrine of Chance:**
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 117444
+revid: 117453
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, 75 Weapon Mastery, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
+| oath_req | Attunement-less, A Sum of 75 Points Invested in Weapon Stats, 25 Strength, 25 Charisma OR Agility, Gripped by an Attunement user |
 | effects | +2 Posture, +10 Health |
 
 _For the version that existed prior to the 13th September, 2024, see [here](Oath%253A_Silentheart/Old_Silentheart.md)._
@@ -62,7 +62,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 
 ## Effects
 
--   Ability to wield weapons with half its weapon stat requirement.
+-   Ability to wield weapons with 25 investment points lower than its weapon stat requirement.
 -   **Entirely lose access to cast mantras**, including learned (or future) mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
@@ -146,6 +146,8 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   If the Dreadstar doesn't appear, interact with one of the Ghosts on the ship.
 
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ talent card with a different description alongside the old talent set. (image attached)
+
+-   The Silentheart talent description says that it halves weapon stat requirements; but this is incorrect, as it was changed to 25 less investment points in the same update that Silentheart was reworked. The talent card was never changed.
 
 ## Trivia
 

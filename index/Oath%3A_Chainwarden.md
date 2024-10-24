@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 117372
+revid: 117454
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
 
-― Vice Warden Morreth
+― Vice Warden Morredh
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117393
+revid: 117450
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -546,6 +546,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
     -   Prerequisites: 1 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
+
+### Christmas Miracle
+
+> _**""**_
+
+-   Christmas Miracle \[Common Talent\] - Christmas Mod Shop reward. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work.
+    -   Grants access to the Christmas Miracle tool
+    -   Prerequisites: MODSHOPREWARD
 
 ### Cold Phantom
 

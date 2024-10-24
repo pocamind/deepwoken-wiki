@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117447
+revid: 117451
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2162,19 +2162,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>31.5</td>
 </tr>
 <tr>
-  <td><p><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></p></td>
-  <td>25 HVY, 75 FIR, 10 LHT</td>
-  <td>23</td>
-  <td>15%</td>
-  <td>N/A</td>
-  <td>HVY: 5, FIR: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.93x</td>
-  <td>N/A</td>
-  <td>49.4</td>
-</tr>
-<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Pleeksty%27s_Inferno"><font>Pleeksty's Inferno</font></a></td>
   <td>40 MED, 80 FIR</td>
   <td>22</td>
@@ -2199,6 +2186,19 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>0.93x</td>
   <td>N/A</td>
   <td>N/A</td>
+</tr>
+<tr>
+  <td><p><a href="https://deepwoken.fandom.com/wiki/Ysley%27s_Pyre_Keeper"><font>Ysley's Pyre Keeper</font></a></p></td>
+  <td>25 HVY, 75 FIR, 10 LHT</td>
+  <td>23</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>HVY: 5, FIR: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.93x</td>
+  <td>N/A</td>
+  <td>49.4</td>
 </tr>
 </tbody>
 </table>
