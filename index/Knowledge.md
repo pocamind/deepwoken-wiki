@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 117180
+revid: 117438
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -67,7 +67,7 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes). Making a deal with the Shrine of Blasphemy will consume 5 knowledge but give 3 back as you level up 3 times when making a deal with the shrine of blasphemy.
 
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
--   Engaging in a deal with **Shrine of Conceit**, uses 1 Knowledge.
+-   Engaging in a deal with **Shrine of Conceit** or **Shrine of Mastery**, uses 1 Knowledge.
 -   Engaging in a deal with **Shrine of Division**, uses 5 knowledge.
 -   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge.
 

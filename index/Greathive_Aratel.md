@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 117248
+revid: 117441
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -103,9 +103,9 @@ A view of the blacksmith on the Canopy plaza
 
 Honey Pool (Presumably)
 
-#### Honey Pool
+#### Tree Sap Pool
 
--   A pool of, presumably, honey that can be used to fill up canteens.
+-   A pool of, presumably, tree sap that can be used to fill up canteens.
 
 #### Blacksmith
 

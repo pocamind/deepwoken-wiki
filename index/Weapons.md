@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117430
+revid: 117447
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2801,7 +2801,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 
 ## Trivia
 
--   You can pass down soulbound weapons for 60 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character
+-   You can pass down soulbound weapons for 40 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
 -   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:

@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 117312
+revid: 117446
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 
 ## Description
 
-The Crescendo is a medium twinblade sword that scales with and requires medium.
+The **Crescendo** is a twinblade that requires 75 MED. It's most commonly obtained from Ferryman and it has its own unique critical attack.
 
 ## M1s and Aerial
 
