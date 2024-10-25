@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 117530
+revid: 117562
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -94,7 +94,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   Initiate a special dash attack by pressing M1 during the start of your dodge.
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-        -   Medium and Heavy variants are capable of autogripping with Flow State active.
+        -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
 
 -   **Merciless Blade - Passive**
     -   You can now execute enemies much faster.
@@ -106,11 +106,13 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
         -   Can be used at a great range.
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
+        -   wind-up Faster with Flow-State but there is a delay between the Slashes, Might Trick Opponents.
 
 -   **Rising Star - Passive**
     -   Press CTRL + M2 to activate a special uppercut attack
         -   7.5s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
+        -   _Flow-State makes wind-up Slower? (More testing Needed)_
 
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.

@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 114048
+revid: 117550
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
