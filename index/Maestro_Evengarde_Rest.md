@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 117266
+revid: 117565
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -295,3 +295,4 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
 -   He has Heterochromia (meaning both his eyes are different colors). It is unknown if he is born with this or it's somehow gained from his powers.
+-   Spitting on Him mid fight Fully heals you.

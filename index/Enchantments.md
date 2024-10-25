@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 117325
+revid: 117578
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -143,7 +143,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>The weapon's critical becomes a katana's but with no hitbox.<br>
+  <td><div><p>The weapon's critical becomes a katana's but deals no damage.<br>
   On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
@@ -181,7 +181,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 4%, MED: 6.66%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
-  Lose thirst equal to 20% of damage taken.</p></div></td>
+  Lose thirst equal to 20% of damage taken.<br>
+  Each sear stack approximately lasts 15-20 seconds</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
