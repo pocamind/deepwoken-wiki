@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 113130
+revid: 117586
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Weapons with Unique Criticals]
@@ -56,3 +56,4 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 -   During the Deepwoken Youtuber Battle Royale Tournament on 7/1/2023, Youtuber "Trunks" used this sword to clutch out a victory during the 4th Round of the Tournament against "Floppingman" and "nogo" during the final circle.
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s talent, Actions Speak Louder, the critical cooldown is reduced to only 23 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 28 seconds.)
+-   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md)

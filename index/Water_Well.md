@@ -1,9 +1,9 @@
 ---
 title: Water Well
-revid: 117549
+revid: 117583
 source: https://deepwoken.fandom.com/wiki/Water_Well
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean Luminant, Eastern Luminant]
+categories: [Mechanics]
 ---
 
 # Water Well

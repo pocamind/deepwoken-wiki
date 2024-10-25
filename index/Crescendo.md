@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 117452
+revid: 117580
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -60,5 +60,4 @@ Front view of Critical:
 
 ## Trivia
 
--   The blades resemble [Krulian Knives](Krulian_Knife.md).
 -   For a while after the weapons release, it's crit was unparriable. This was later confirmed to be a bug and fixed.
