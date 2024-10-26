@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 117355
+revid: 117723
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -150,7 +150,7 @@ You can do Trial of One.
     -   An Antiquarian, Banker, Mystic and Campfire
     -   Layer 2 Entrance via the Deep Drill (unlocked by escaping in Layer 2 Floor 1 via the Deep Drill)
         -   **\[PRO\]** Spawns you in [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on.
-        -   **\[PRO\]** (Currently) You spawn with a Light Hook (this is not supposed to be the case).
+        -   **\[CON\]** You do not spawn with a Light Hook.
         -   **\[CON\]** (Currently) Forced to return to Castle Light after completing Floor 1 or 2.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant

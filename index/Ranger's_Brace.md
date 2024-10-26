@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 116969
+revid: 117704
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Arms, Braces]
 |---|---|
 | type | Arms |
 | rarity | ? |
-| requirements | None |
+| requirements | Level 8 |
 | weight | 2 |
 | innate stats | +3 Health, +1 Posture, +2 Rare Pips |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 117271
+revid: 117725
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -214,11 +214,12 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
  | _Rush at your enemies with your full physical force._ | 60 Ether | 
 
 -   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
-    -   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
+    -   User quickly charges forward with their shoulder, stopping after the duration is over/colliding with an object or entity/Parried or dodged.
     -   Deals light damage.
-    -   Shoulder Bash scales with your Fortitude attribute.
-    -   The charge is cancelled upon getting parried or dodged.
+    -   Shoulder Bash damage and duration scales with your Fortitude attribute.
     -   Can collide with and break parts of the map.
+    -   Rush shards do nothing
+    -   Eternal/Aeon Logstones increase duration
     -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 117694
+revid: 117722
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critical]
@@ -29,7 +29,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critic
 
 ## Description
 
-The Rockmaller is a mid-late game Greathammer with a unique critical, found in Miner's Landing.
+The Rockmaller is a mid-late game Greathammer with a unique critical, found in Miner's Landing. It appears to be a piece of rock roughly tied to a handle with fiber.
 
 ## Critical
 

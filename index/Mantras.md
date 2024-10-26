@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 117273
+revid: 117711
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -164,8 +164,6 @@ _**(Added back recently, though may be removed in the future.)**_
 
 `Wisp`\- Fire / Shadow / Lightning / Wind / Frost _**(Flame Wisp, Shadow Wisp, Thunder Wisp, Gale Wisp, Frost Wisp.)**_
 
-`Zone-` Illusion _**(Illusory Realm.)**_
-
 `Toss`\- Lightning / Ice / Enforcer / Bonekeeper _**(Grand Javelin, Ice Flock, Enforcer Pull, Brachial Spear.)**_
 
 `Strike`\- Fortitude _**(Shoulder Bash.)**_
@@ -185,6 +183,8 @@ _**(Added back recently, though may be removed in the future.)**_
 `Blade`\- Fire / Ice / Lightning / Wind / Shadow _**(Fire Blade, Ice Blade, Lightning Blade, Wind Blade, Shadow Blade.)**_
 
 `Kick`\- Lightning _**(Thunder Kick.)**_
+
+`Dagger`_\-_ Lightning _**(Fleeting Sparks)**_
 
 Add more if you find them.
 

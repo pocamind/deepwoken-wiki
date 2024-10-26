@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 117578
+revid: 117710
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -31,7 +31,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular cou
 Enchanted items cannot be dropped on death.
 
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
 -     
     
 
@@ -104,8 +104,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Gluttony<div></div></font></center></td>
+  <td><figure>File:Enchant gluttony.gif<figcaption></figcaption></figure><center><br>
+  <font>big back enchant<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
@@ -238,7 +238,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Wild<div></div></font></center></td>
+  <font>Crazy Wild<div></div></font></center></td>
   <td><div><p>On proc, deal 85% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.<br>
   <i>Note: This only means the damage is distributed in an area.</i></p></div></td>
@@ -694,6 +694,7 @@ Drowned Grease
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
 -   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
 -   Nemesis causes enemies to react to its critical even without a hitbox.
+-   Elastic just doesn't work. Don't use it.
 -   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
 -   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.

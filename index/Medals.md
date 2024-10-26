@@ -1,6 +1,6 @@
 ---
 title: Medals
-revid: 82253
+revid: 117716
 source: https://deepwoken.fandom.com/wiki/Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Hallowtide Medals](Hallowtide_Medals%253Fredirect=no.md)
+-   [Seasonal Medals](Seasonal_Medals.md)
