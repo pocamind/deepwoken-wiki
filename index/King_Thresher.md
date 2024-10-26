@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 109686
+revid: 117682
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, Layer 1]
@@ -20,14 +20,56 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 
 ## Attacks
 
-| Name |  | Media | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Arm Swipe** | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage. |  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Bite** | The King Thresher bites 3 times in quick succession. Deals moderate damage. |  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Tail Swipe** | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. |  | ◯ | ◯ | ◯ | (★★☆) |
-| **Burrow** | The King Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage. |  | ✗ | ◯ | ◯ | (★★☆) |
-| **Cursed Flame** | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. |  | ✗ | ✗ | ◯ | (★★★) |
-| **Body Slam** | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage. |  | ✗ | ◯ | ◯ | (★★☆) |
+| Name |  | Media |
+| --- | --- | --- |
+| **Arm Swipe**  
+(★☆☆) | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage.  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| **Bite**  
+(★☆☆) | The King Thresher bites 3 times in quick succession. Deals moderate damage.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| **Tail Swipe**  
+(★★☆) | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| **Burrow**  
+(★★☆) | The King Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage.
+
+  
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| **Cursed Flame**  
+(★★★) | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged.  
+
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
+| **Body Slam**  
+(★★☆) | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage.  
+
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 
 ## Finisher
 

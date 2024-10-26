@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 117383
+revid: 117661
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,98 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **October 25th, 2024**
+
+**Warcaller Bell**  
+• The Warcaller Bell has been unearthed in the East Luminant, granting access to a potent ritual. Those at Power 20 can ring the bell to bring forth the call for War. Once 4 players ring the bell, the server will enter War Mode for 20 minutes  
+• While in a War Mode server, all Power 20 players will be Marked by their Guild emblem appearing over their head. Killing the Marked players of other guilds will drop chests and add to the Warchest. Killing players that aren't Marked won't give you anything  
+• The Warchest is a prize pot that is distributed among the Marked members of the highest scoring guild in the server after the War Mode ends  
+• Random Events do not spawn on Marked players and static mob spawns are disabled in War Mode servers. Bosses like the Primadon and Dread Serpent can still be spawned  
+• Once the Warchest has accrued 30 Points, Guild Banners will gradually add to the Warchest and your Guild's score  
+• If the Warchest has less than 30 Points at 10 minutes in, the ritual will end early, and no Guild will be declared the winner  
+• War Mode servers are visible on the server list, similar to how Hell Mode servers appear  
+  
+**Content & Systems**  
+• New Greathammer: Rockmaller  
+• New Unique Weapon Crit: Rockmaller  
+• Added new talent icons for every Oath  
+• Oath Mantras now have their Oath talent icon by default  
+• Mythic Stability now has VFX and SFX when it procs  
+  
+**Hell Mode Buffs**  
+• Massively increased Hell Mode knowledge gain on completion (1 -> 15), increased by 1 for every 5 mobs killed above 100  
+• Hell Mode completion chests now guarantee 2-star quality items and above  
+• Buffed Hell Mode completion chests by massively cutting down on the rate of mediocre items. Chest size has been adjusted to accomodate for the much better loot  
+• Hell Mode servers are now more visible on the server list  
+• Reduced the screen tint applied during Hell Mode  
+  
+**Balancing & Tweaks**  
+• Reduced Assassin's Hood,Vigil Hood, Deepwoken Hood LVL reqs (10 -> 6), added AGL req (10)  
+• Increased Royal Guard's Kabuto LVL req (5 -> 10)  
+• Reduced Bulwark Helm, Bloodfeather Cowl LVL req (10 -> 8)  
+• Reduced Bloodforged Crown LVL req (12 -> 10)  
+• Reduced Simmerbloom Diadem LVL req (12 -> 10)  
+• Added Grand Fisher Helm LVL req (13)  
+• Increased Phalanx Helm LVL req (5 -> 8)  
+• Increased Knight's Helm, Blacksteel Helm LVL reqs (6 -> 8), reduced FTD reqs (15 -> 10)  
+• Reduced Gladiator Helm HP (10 -> 5), increased LVL req (6 -> 8)  
+• Permafrost Prison no longer slows you down permanently when hit  
+• Payback now enforces its healing cap when hitting multiple targets  
+• Flaming Scourge Reversal Variant windup increased  
+• Fixed Mirror Illusion being unobtainable  
+• Fixed Clutching Shadow being instant on feint  
+  
+**Major Performance Improvements**  
+This week comes with another round of major performance improvements, this time focusing on fixing memory leaks and reducing server memory costs. These should help prevent older servers from chugging, as well as just generally improve the lag.  
+• Greatly optimized status effects to be a lot more lightweight  
+• Greatly optimized combat tags to be a lot more lightweight  
+• Greatly optimized Seasons system (winter snow, autumn leaves, etc.)  
+• Optimized guild rankings to not take up so much server memory  
+• Optimized books to not take up any server memory, took up a lot more than you'd think  
+• Optimized dialogues to not take up server memory when unused, another surprisingly impactful one  
+• Optimized mob state machines  
+• Optimized hit detection  
+• Optimized server-side anti-cheat  
+• Fixed a memory leak with prompts  
+  
+**Bugfixes**  
+• Fixed Mythic Stability proccing on others when you have the talent  
+• Fixed Mythic Stability proccing but not preventing death  
+• Fixed Mythic Stability working against Chime storm damage  
+• Fixed Imperator's Edge Enlightened proc SFX being global  
+• Mobs will no longer stall ships from despawning  
+• Fixed a gamebreaking bug where people could log as they used Judgement to softlock you in place  
+• Hopefully fixed Hell Mode not always spawning corrupt mobs on players who rung the bell. King Threshers and Broodlords will still not spawn in corrupted  
+• Fixed mobs in Depths Trial being ungrippable  
+• Fixed randomly spawning chests sometimes breaking on load  
+• Fixed VFX not showing up for Shade Step  
+• Fixed Ice Eruption Round Spark being climbable  
+• Fixed Crystal Ice Carve not being red  
+• Fixed Hell Mode not always clearing up properly  
+• Fixed Nocturne offhand not displaying its enchant  
+• Fixed Flippers of Fate offhand not displaying its enchant  
+• Fixed Anklets of Alsin only showing one anklet  
+• Fixed Flaming Scourge bugging out  
+• Reversal Flaming Scourge no longer goes on full CD if it fails to find a target
+
+### _**Patch 1.10.0a**_
+
+  
+• Fixed Flaming Scourge bugging out  
+• Reversal Flaming Scourge no longer goes on full CD if it fails to find a target  
+• Alloyed Scalesplitter damage increased (19 -> 20), scaling increased (5 -> 6)  
+• 2x chests btw
+
+### _**Patch 1.10.0b**_
+
+  
+• Minimum Warchest point req reduced (30 -> 20)  
+• Fixed Guild Banners not adding to your Guild's score correctly  
+• War servers are now sorted to the top of the server list if you select a Power 20 slot  
+• Added a timer to the War Mode GUI  
+• Fixed War Mode not completing successfully in some servers  
+• Fixed Rockmaller aerial crit
 
 ## **October 18th, 2024**
 

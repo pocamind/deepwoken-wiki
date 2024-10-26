@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 117249
+revid: 117696
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -311,7 +311,7 @@ Metal Wisp
 
  | A servant of metal | 70 Ether | N/A | Conjure a metal wisp that regenerates armor durability.
 
--   Applies Metal Rods.
+-   Applies Metal Rods on vents.
 -   Requires a ritual cast.
 -   Consumes a small amount of Ether when repairing armor
 -   Armor Regeneration is scaled with Ironsing.

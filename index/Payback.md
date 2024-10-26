@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 115579
+revid: 117660
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ Pressing C will activate the **Payback** Resonance.
 
 **Payback** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
 
-If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 50% of damage dealt, with a cap of 20% health per target.
+If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 50% of damage dealt, with a cap of 20% health per use. Do note that this cap is **per use** and thus, hitting multiple targets will not let you heal more.
 
 -   Posture reflected will be based on how much damage was taken, with low damage dealing low posture while high damage deals high posture.
 -   80% of damage will be completely absorbed when the Payback is charging.

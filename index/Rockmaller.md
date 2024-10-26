@@ -1,9 +1,9 @@
 ---
 title: Rockmaller
-revid: 117657
+revid: 117694
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critical]
 ---
 
 # Rockmaller
@@ -12,27 +12,35 @@ categories: [Weapons]
 |---|---|
 | type | Greathammer |
 | requirements | 55 HVY, 10 STR |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| endlag | N/A |
-| penetration | N/A |
-| chip damage | N/A |
+| damage | 29 |
+| scaling | 7.5 |
+| range | 8 |
+| swing speed | 0.82x |
+| endlag | 0.1s |
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | N/A |
-| weight | N/A |
+| weight | 9.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | N/A |
-| description | N/A |
+| obtainment | Miners Landing |
+| description | "It's just a small, quarried chunk of a far more powerful stone. Silent, unremarkable, about as lively as... well, a rock on a stick. But as soon as you grip it, you feel that raw, untamed power humming beneath its rough surface. This isn't about wielding a polished weapon, it's about the sheer, brutal devastation this humble fragment is ready to unleash in your hands." |
 
-## N/A
+## Description
 
-remove this when we get image and stuff but its just a rock on a stick thats shaped like a hammer, smth a goblin barbarian would use in dnd, non legendary
+The Rockmaller is a mid-late game Greathammer with a unique critical, found in Miner's Landing.
 
-  
-base crit is a knockdown shoulder bash, air crit is a hop into a slamdown with the hammer like a cartoon character (does not leave a bump on their head, sigh.)
+## Critical
+
+The grounded critical mimics a shoulder-bash and applies knock-down.
+
+The aerial critical dashes towards the cursor's position and slams into the ground, pushing targets back.
+
+## Trivia
+
+-   The grounded critical covers a moderate distance, making it a viable option for horizontal movement.
+-   The aerial critical has unique properties.
+    -   It resets your fall damage, allowing you to mitigate fall damage when timed correctly.
+    -   If the cursor is not positioned on ground level to/below the player, it will play a short sound effect and cancel the critical.
+    -   If the player does not reach the ground during the critical, they will stall in the air for a prolonged period.
