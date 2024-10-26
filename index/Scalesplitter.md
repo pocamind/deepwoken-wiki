@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 117514
+revid: 117622
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea, Alloyed Weapons]
@@ -12,8 +12,8 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 |---|---|
 | type | Twinblade |
 | requirements | 40 / 65 MED |
-| damage | 17.5 / 19 |
-| scaling | 5 MED |
+| damage | 17.5 / 20 |
+| scaling | 5 / 6 |
 | range | 7.5 / 8 |
 | swing speed | 0.9x / 1.0x |
 | penetration | 10% / 15% |
@@ -46,4 +46,4 @@ This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwar
 ## Trivia
 
 -   One of the first two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).
--   It is the only weapon that changes description when Alloyed.
+-   It is the only weapon that drastically changes description when Alloyed.

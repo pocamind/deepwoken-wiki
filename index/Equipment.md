@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 117350
+revid: 117636
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -740,7 +740,7 @@ Gladiator Helmet
 
  | 
 
-_+10 Health_  
+_+5 Health_  
 _+2 Posture_  
 
 +1 Rare Pip

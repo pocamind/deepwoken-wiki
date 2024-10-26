@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 116354
+revid: 117605
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 14 |
 | requirements | PWR 6, 15 FTD |
 | weight | 1 |
-| innate stats | +10 Health, +2 Posture, +1 Rare Pip |
+| innate stats | +5 Health, +2 Posture, +1 Rare Pip |
 | innate talent | Concussive Force |
 | bankable | Yes |
 | droppable | Yes |

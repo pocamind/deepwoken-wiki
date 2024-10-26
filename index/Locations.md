@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 116757
+revid: 117609
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -72,6 +72,7 @@ A list of named locations that can be found in Deepwoken's world "Lumen".
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
     -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
     -   [Starfield Tundra](Starfield_Tundra.md)
+    -   [The Understrand](The_Understrand.md)
         
 
 **Misc.:**
@@ -147,6 +148,7 @@ Please add miscellaneous islands or named landmarks here
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Marauder's Entrance](<Marauder's_Entrance.md>)
 -   [A Conscious Intersection](A_Conscious_Intersection.md)
+-   [The Understrand](The_Understrand.md)
 
 [Fragments of Self](Fragments_of_Self.md)
 
