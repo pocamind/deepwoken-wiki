@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 114091
+revid: 117593
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority]
@@ -30,5 +30,6 @@ Peacekeeper Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwar
 | --- | --- | --- | --- | --- | --- |
 | **Assault** | Peacekeeper Vend swings his sword at the opponent and ends the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Critical** | Peacekeeper Vend stands his ground before harshly swinging his Darksteel Greatsword. | ◯ | ✗ | ◯ | (★★☆) |
-| **Restrain** | Peacekeeper Vend preforms an axe kick before applying a chain onto an enemy, halting any escape | ◯ | ◯ | ◯ | (★★★) |
+| **Restrain** | Peacekeeper Vend preforms an axe kick before applying a chain onto an enemy, halting any escape. | ◯ | ◯ | ◯ | (★★★) |
 | **Caltrops** | Peacekeeper Vend hides his torso with his hands, creating caltrops and throwing them at the last second. | ◯ | ✗ | ◯ | (★★☆) |
+| **Impel** | Peacekeeper Vend raises his free hand, blasting 4 shots of chains before pulling the opponent to him. | ◯ | ✗ | ◯ | (★★★) |

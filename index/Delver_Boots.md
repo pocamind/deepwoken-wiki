@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 115294
+revid: 117594
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
 
 ## Description
 
-A set of boots that prevents you from being knocked off your feet by the harsh winds of the Eternal Gale. To craft this item, you can obtain the recipe from [Alpha](Alpha.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), and then crafting the item at the Ignition Base with [Leather Boots](Leather_Boots.md), two [Galewax](Galewax.md), and two Umbrite.
+A set of boots that prevents you from being knocked off your feet by the harsh winds of the Eternal Gale. To craft this item, you can obtain the recipe from [Alpha](Alpha.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), and then crafting the item at the Ignition Base with [Leather Boots](Leather_Boots.md), two [Galewax](Galewax.md), and two [Umbrite](Ores.md#umbrite).
 
 This item provides the Talent Surestep, which makes you immune to the flinging of the winds of the Second Layer. You are still affected by the harsh winds' movement debuff, however.
 

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 108064
+revid: 117588
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -186,3 +186,5 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 ## Trivia
 
 -   A gif of the floating keep spawning in can be seen below
+
+-   Oddly, the Third Hallowtide (2024) occured outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October)

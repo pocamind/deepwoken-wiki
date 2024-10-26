@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 116348
+revid: 117591
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -34,3 +34,4 @@ Grants the user the "Already Dead" Unique Equipment [Talent](Talents.md), which 
 
 -   Its previous description stated, "Because ten billion years' time is so fragile, so ephemeral... It arouses such a bittersweet, almost heartbreaking fondness."
     -   This turned out to simply be gibberish placeholder text in a similar vein to "lorem ipsum."
+-   The Emblem on the top of the helmet is the banner for The Celtorian (now known as [Lost Celtor](Lost_Celtor.md) ever sinced the city drowned.)
