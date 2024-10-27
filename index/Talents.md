@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 117695
+revid: 117833
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -133,6 +133,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Galebreath: Green
         -   Shadowcast: Purple
         -   Ironsing: Grey
+        -   Bloodrend: Red
     -   Does not effect Oath, Attunement-less, or Monster mantras.
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages

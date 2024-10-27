@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 117652
+revid: 117825
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -58,7 +58,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     
     > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
     
-    -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteors that are scattered around the map. By sitting at a campfire and typing out the name of the desired Comet, you will be transported directly to it.
+    -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voideye causes it to be white.)
     -   Limitations:
@@ -66,7 +66,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Cannot cross-luminant travel.
         -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied.
         -   Your **very first** teleport requires you to have a [Stardust](Stardust.md), all subsequent teleports are free.
-    -   Comet names and locations:
+    -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
             -   **Europa** (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
@@ -104,5 +104,5 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless Gem in order to either gain a halved cooldown or regain some lost health. Blessed Gem is recommended due to being able to frequently heal ally HP.
     -   [Deepscorn Casque](Deepscorn_Casque.md) reduces the damage from Symbiotic Sustain.
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it deals heavily reduced damage.
--   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
+-   Scarlet Lotuses are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardless of who places them.

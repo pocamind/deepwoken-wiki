@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 117018
+revid: 117831
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,7 +15,7 @@ categories: [Mechanics]
   
 **Insanity** is a game mechanic mainly present in [The Depths](The_Depths.md), but also on the Surface to a lesser extent.
 
-Insanity is dictated by a meter that is not directly shown to the player, but its progress can be tracked by a blue hue on the border of the screen. Once your sanity has decreased enough, it will begin to debilitate your characte in harsher ways the more insane you become.
+Insanity is dictated by a meter that is not directly shown to the player, but its progress can be tracked by a blue hue on the border of the screen. Once your sanity has decreased enough, it will begin to debilitate your character in increasingly harsher ways the more insane you become.
 
 Players start with base 80 sanity. Being in The Depths passively takes sanity at a rate of 1 point every 30 seconds, meaning you can spend about 40 minutes in The Depths with 0 Willpower and no equipment bonuses before you reach maximum insanity.
 
@@ -29,7 +29,7 @@ Said "Blue Hue" and "New Motifs"
 -   **Tier 2 - 33% Sanity - Scratching:** The character will start scratching themselves at random intervals, dealing minute damage and stunning them momentarily. The blue border on the screen will begin pulsing and white hexagon-patterned lines will start forming on your screen. In addition, the character can no longer recognize the facial expression of humanoid entities, with their faces becoming shrouded in a scribbled black mess. Player names will not appear.
 -   **Tier 3 - 0% Sanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 35 damage each time and disabling their ability to move. If the character gets knocked during this Tier, they are executed. The blue border will feature new motifs when nearing this tier.
     -   Note: Despite sharing an animation, using the mantra Gaze does not cause damage this way.
--   **Alternative:** If you run out of sanity while holding a weapon with [Curse of the No Life King](Enchantments.md), lose all sanity from the Breathing Brains in [Ancient Rotlands](Ancient_Rotlands.md), speak to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without a [Resonance](Resonance.md), or fail the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members, your head will explode and you will die.
+-   **Alternative:** If you run out of sanity while holding a weapon with [Curse of the No Life King](Enchantments.md), lose all sanity from the Breathing Brains in the [Ancient Rotlands](Ancient_Rotlands.md), speak to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without a [Resonance](Resonance.md), or fail the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members, your head will explode and you will die.
 
 ## Sanity Decreasing Effects
 

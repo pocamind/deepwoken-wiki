@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 117649
+revid: 117822
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -84,12 +84,12 @@ Luminous Flash on proc
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   Activates after doing any amount of damage with dawnwalker mantras, last 7 seconds with a 12 second cooldown on proc.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
-    -   Does not clear any active elemental status effects, only prevents new ones from proccing
+    -   Does not clear any active elemental status effects, only prevents new ones from proccing.
 
 ## Trivia
 
 -   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the oath as it only costs 30 to obtain it, and if you convert the other 10 to knowledge you can max it out right then and there.
--   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
+-   Dawnwalker is a nerfed version of yayafino's [developer specs](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri).
     -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.
 -   The passive ability Luminous Flash may be inspired by [Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen).
 -   The ability Absolute Radiance may be a reference to one of the final bosses of the game [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight), that goes by the same name.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 117251
+revid: 117830
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -353,7 +353,6 @@ _Strike the ground, turning it to ash._
 
  | _Lash out with flames._ | Fire | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
--   ” Oh, doughnuts! So delicious, doughnuts!”
 -   Grabs any enemies In range of it.
 -   Inflicts burn.
 -   Deals moderate damage.
@@ -362,6 +361,8 @@ _Strike the ground, turning it to ash._
 -   Mantra continues if the second hit isnt parried.
     -   _Autoparry frames for the second hit **DONT** count._
     -   _Mantra also continues after the user gets knocked._
+    -   Can be modified with a Reversal spark, making it so that flaming scourge sacrifices damage, however gains Incredible range (similar to enforcer pull)
+    -   (Picture TBA)
 
  |
 

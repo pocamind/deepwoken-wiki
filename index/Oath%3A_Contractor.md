@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 117643
+revid: 117823
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -90,22 +90,22 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   File:Contractor 10 knowledge.png
     
     If you have progressed Contractor on your slot, you can now skip Contractor's progression with 10 knowledge, despite the fact that Lord Regent would kill you previously.
--   Upon obtaining the Oath, reputation with [The](The_Divers.md) [Divers](The_Divers.md) will be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion](Scion_of_Ethiron.md) [of](Scion_of_Ethiron.md) [Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [job](Job_Boards.md) [boards](Job_Boards.md) may also increase Diver reputation.
-    -   Reputation, however, can no longer be bought for The Divers. You can still talk to them and they'll say you can pay off the divers though this does nothing.
+-   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
+    -   Reputation, however, can no longer be bought for The Divers. You can still talk to them and they'll say you can pay off the Divers, though this does nothing.
+    -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
 -   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 oath grips
     -   Counts as a drown
--   Before 25/08/23, 4 specific [Deep](Deep_Shrines.md) [Shrines](Deep_Shrines.md) deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
--   The [Deep](Deep_Shrines.md) [Shrines](Deep_Shrines.md) in [Temple](Temple_of_Hearts.md) [of](Temple_of_Hearts.md) [Hearts](Temple_of_Hearts.md) are able to be used to meet Contractor requirements.
--   Despite popular belief you can get Contractor without directly gripping [Duke](Duke_Ishamon_Erisia.md) [Erisia](Duke_Ishamon_Erisia.md), you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
+-   Before 25/08/23, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
+-   The Deep Shrines in [Temple of Hearts](Temple_of_Hearts.md) are able to be used to meet Contractor requirements.
+-   Despite popular belief you can get Contractor without directly gripping [Duke Erisia](Duke_Ishamon_Erisia.md), you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
 -   Contractor strings are not actually solid dark red or black; the string's outside is red, and the interior is black.
 -   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
--   Changes dialogue with [Duke](Duke_Ishamon_Erisia.md) [Erisia](Erisia.md).
+-   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
 -   Completing the Contractor quest with an Oath will cause Lord Regent to say, "Then you are truly a fool." and kill you, instead of obtaining Contractor.
--   Being a member of [The](The_Divers.md) [Divers](The_Divers.md) will prevent your reputation from being drained when you swear the Oath.
 -   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
 -   Lord's Slice is heavy reminiscent to Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 -   Dialogue with the Etrean Royal Guard changes to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
