@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 116356
+revid: 117771
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Divers]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, The Divers]
 | type | Helmet |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | None |
+| requirements | LVL 13 |
 | innate stats | 5% Ice Armor, 5% Lightning Armor, +5 Health, 1 Legendary Pip, 1 Rare Pip |
 | innate talent | Coldseep Reactor |
 | bankable | Yes |

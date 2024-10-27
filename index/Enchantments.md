@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 117710
+revid: 117757
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -104,8 +104,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Enchant gluttony.gif<figcaption></figcaption></figure><center><br>
-  <font>big back enchant<div></div></font></center></td>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
@@ -238,7 +238,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Crazy Wild<div></div></font></center></td>
+  <font>Wild<div></div></font></center></td>
   <td><div><p>On proc, deal 85% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.<br>
   <i>Note: This only means the damage is distributed in an area.</i></p></div></td>

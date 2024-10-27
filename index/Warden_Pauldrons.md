@@ -1,6 +1,6 @@
 ---
 title: Warden Pauldrons
-revid: 116481
+revid: 117787
 source: https://deepwoken.fandom.com/wiki/Warden_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons, Equipment of The Central Authority]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons, Equipment of The Central Authori
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Fort MeritRandom Encounters |
+| obtainment | Chests from:Fort Merit, War Mode, Random Encounters |
 | description | "Elegant and steadfast, these pauldrons are truly fit for one who protects the seas." |
 
 ## Description

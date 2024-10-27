@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 116961
+revid: 117782
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Garbs]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Garbs]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Crypt of the Unbroken, Miner's Landing, Maestro Evengarde Rest |
+| obtainment | Chests from:Crypt of the Unbroken, Miner's Landing, Maestro Evengarde Rest, War Mode |
 | description | "..." |
 
 ## Description

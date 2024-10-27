@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 116596
+revid: 117774
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Items]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Ornaments, Items]
 | type | Head |
 | rarity | Unique |
 | selling price | N/A |
-| requirements | Power 15 FLM 80 |
+| requirements | Power 10 FLM 80 |
 | weight | 1 |
 | innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Simmerbloom |

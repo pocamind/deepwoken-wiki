@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 116406
+revid: 117798
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Primadon, First Layer, Chaser, Maestro Evengarde RestFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Primadon, First Layer, Chaser, Maestro Evengarde Rest, War ModeFound from:, Artifact Turn-ins |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 117572
+revid: 117744
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -97,7 +97,7 @@ File:Wrankguide.png
 
 There are 13 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 2000 echoes.
 
-[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 60 echoes per item even if they're Soulbound. This is not renewable.
+[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 echoes per item even if they're Soulbound. This is not renewable.
 
 **Upgrades:**
 
@@ -334,7 +334,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Buying echo modifiers will apply their effects to previously created slots
 -   In order to max out every single Echo upgrade, you need exactly 1,700 Echoes. (13 S-Ranks or 4 W-Ranks)
--   ~Combining all Modifiers awards a 3.2x increase.~ This is only true visually, as dividing 441/3.2 will give you 137.8125. However, dividing 441/3.15 will give you 140. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
+-   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester.
 -   The term "One Bit" could possibly be a reference to One Piece, in which Devil Fruit users are unable to swim.
@@ -349,12 +349,12 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   Repair Hammer and Fishing rod.
     -   Glider.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
--   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for a mantra with more comfort.
+-   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for cards with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
--   Chain of perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
--   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self.
+-   Chain of Perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
+-   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
 
 ## References
 

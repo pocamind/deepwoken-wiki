@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 116889
+revid: 117789
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from;, Second Layer, Duke Erisia, Maestro Evengarde Rest |
+| obtainment | Chests from;, Second Layer, Duke Erisia, Maestro Evengarde Rest, War Mode |
 | description | "..." |
 
 ## Description

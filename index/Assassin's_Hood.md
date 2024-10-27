@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 116411
+revid: 117764
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hoods, Head, Items]
@@ -13,7 +13,7 @@ categories: [Equipment, Hoods, Head, Items]
 | type | Hood |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 10 |
+| requirements | PWR 6, AGL 10 |
 | innate stats | +5% Stealth, +2 Rare Pips |
 | innate talent | Assassin |
 | bankable | Yes |

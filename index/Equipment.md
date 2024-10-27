@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 117636
+revid: 117795
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -190,7 +190,7 @@ _+5% Stealth_
 
 _+Talent: Assassin_
 
-**Requires Power 10**
+**Requires Power 6, Agility 10**
 
  | 
 
@@ -358,7 +358,7 @@ _+10 Health_
 
 +1 Rare Pip
 
-**Requires Fortitude 15**
+**Requires Power 8, Fortitude 10**
 
  | 
 
@@ -405,6 +405,8 @@ _+6% Stealth_
 
 _+Talent: Bloodletter_
 
+**Requires Power 8**
+
  | 
 
 Found from:
@@ -429,7 +431,7 @@ _+5 Health_
 
 _+Talent: Cauterized Wounds_
 
-**Requires Power 12**
+**Requires Power 10**
 
  | 
 
@@ -497,6 +499,8 @@ _+3 Health_
 +1 Legendary Pip
 
 _+Talent: Strong Hold_
+
+**Requires Power 8**
 
  | 
 
@@ -612,6 +616,8 @@ Found from:
 +2 Rare Pips  
 
 +1 Legendary Pip
+
+**Requires Power 6, Power 10**
 
  | 
 
@@ -747,7 +753,7 @@ _+2 Posture_
 
 _+Talent: Concussive Force_  
 
-**Requires Power 6, Fortitude 15**
+**Requires Power 8, Fortitude 15**
 
  | 
 
@@ -799,6 +805,8 @@ _+5 Health, +5% Ice Armor, +5% Lightning Armor_
 +1 Legendary Pip
 
 _+Talent: Coldseep Reactor_
+
+**Requires Power 13**
 
  | 
 
@@ -1000,7 +1008,7 @@ _+10 Health_
 
 +1 Rare Pip
 
-**Requires Power 6, Fortitude 15**
+**Requires Power 8, Fortitude 10**
 
  | 
 
@@ -1110,7 +1118,7 @@ _+3 Health_
 
 _+Talent: Precise Swing_
 
-**Requires Power 5**
+**Requires Power 8**
 
  | 
 
@@ -1151,7 +1159,7 @@ _+8 Health_
 
 +1 Legendary Pip
 
-**Requires Power 8**
+**Requires Power 10**
 
  | 
 
@@ -1176,7 +1184,7 @@ _+5 Health_
 
 _+Talent: Simmerbloom_
 
-**Requires Power 12**
+**Requires Power 10**
 
  | 
 
@@ -1271,6 +1279,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -1282,6 +1291,8 @@ Found from:
 +2 Rare Pips  
 
 +1 Legendary Pip
+
+**Requires Power 6, Agility 10**
 
  | 
 
@@ -1883,6 +1894,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -1937,6 +1949,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [War Mode](War_Mode.md)
 
  | Black & White |
 | File:DelvingDuster.png | 
@@ -2117,6 +2130,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | Black & White |
 |  | 
@@ -2414,6 +2428,7 @@ Found from:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Second Layer](Second_Layer.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Faded Justicar Coat.png | 
@@ -2574,6 +2589,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Smoke ministry cloak.PNG | 
@@ -2763,6 +2779,7 @@ Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -2987,6 +3004,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -3035,6 +3053,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Vanguardbrace.png | 
@@ -3082,6 +3101,7 @@ _+2 Posture_
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:White Overcoat.png | 
@@ -3496,6 +3516,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Artifact Turn-ins](Artifacts.md)
+-   [War Mode](War_Mode.md)
 
  | Black & White |
 | File:Grand Authority Sabatons.png | 
@@ -3516,6 +3537,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Grand Boots.png | 
@@ -3673,6 +3695,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Ranger Boots.png | 
@@ -4008,6 +4031,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Onyx Fleet Warden Cape.png | 
@@ -4082,6 +4106,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | 
@@ -4436,6 +4461,7 @@ Sources:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -4674,6 +4700,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | 
@@ -5036,6 +5063,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -5203,6 +5231,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 |  | 
@@ -5275,6 +5304,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 |  | 
@@ -5374,6 +5404,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 | File:Ferrymansring.png | 
@@ -5508,6 +5539,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
 
  |
@@ -5653,6 +5685,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 |  | 
@@ -5719,6 +5752,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 |  | 

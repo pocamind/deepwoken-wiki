@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 116477
+revid: 117784
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Dusters]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Dusters]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:The Depths (First Layer), Primadon, Fishing |
+| obtainment | Chests from:The Depths (First Layer), Primadon, Fishing, War Mode |
 | description | "..." |
 
 ## Description

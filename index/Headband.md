@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 116925
+revid: 117792
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -78,7 +78,7 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
   <td>White</td>
   <td>+1 Rare</td>
   <td></td>
-  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></td>
+  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a>, <a href="War_Mode.md">War Mode</a></td>
 </tr>
 </tbody>
 </table>

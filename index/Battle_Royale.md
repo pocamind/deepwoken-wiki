@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 111568
+revid: 117729
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations, The Hundred Legions]
@@ -15,7 +15,7 @@ There is no rewards or punishments in Battle Royale mode. This mode is only acti
 ## Mechanics
 
 -   A zone similar to the one seen in [Chime of Conflict](Chime_of_Conflict.md) is present and functions as such.
--   Weapons have no requirement. Weapon scaling is currently unknown.
+-   Stats are normallized: everyone get 50 main stat, 100 weapon and 50 attunement.
 -   Loot can be found around the map.
 -   Every kill rewards a point and the final round gives double points, the group with the most points wins.
 -   You steal all of your opponents Talents (Including mantras, and oaths) upon executing them.

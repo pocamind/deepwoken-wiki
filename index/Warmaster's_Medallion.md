@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 116537
+revid: 117754
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Burning Blood, Hell Mode, The Diluvian Mechanism |
+| obtainment | Chaser, Scholar of the Burning Blood, Hell Mode, The Diluvian Mechanism, War Mode |
 | description | "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for ampering the amplitude of one's Resonance." |
 
 ## Description

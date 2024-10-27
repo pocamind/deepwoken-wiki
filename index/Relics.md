@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 115827
+revid: 117751
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -37,6 +37,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [War Mode](War_Mode.md)
 
  |
 | 
@@ -60,6 +61,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [War Mode](War_Mode.md)
 
  |
 | 
@@ -76,6 +78,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
 -   5\* Voidwalker Chests
+-   [War Mode](War_Mode.md)
 
  |
 | 
@@ -92,6 +95,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [First Layer](First_Layer.md)
+-   [War Mode](War_Mode.md)
 
  |
 | 
@@ -111,6 +115,7 @@ File:Sinner's Ash.png
 -   [Fishing](Fishing.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Depths Sea Island](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
+-   [War Mode](War_Mode.md)
 
  |
 | 
@@ -203,6 +208,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [War Mode](War_Mode.md)
 
  |
 | 
@@ -261,6 +267,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>
+    <li><a href="War_Mode.md">War Mode</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -274,6 +281,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li>Exchange <a href="Knowledge.md">Knowledge</a> with <a href="Laplace.md">Laplace</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
+    <li><a href="War_Mode.md">War Mode</a></li>
   </ul></td>
 </tr>
 </tbody>

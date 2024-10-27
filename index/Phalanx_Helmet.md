@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 117281
+revid: 117773
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Items]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | LVL 8 |
 | weight | 1 |
 | innate stats | +3 HP, +1 Rare Pip, +1 Legendary Pips |
 | innate talent | Precise Swing |

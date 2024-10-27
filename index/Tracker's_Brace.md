@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 116479
+revid: 117785
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Erisia |
+| obtainment | Chests from:Erisia, War Mode |
 | description | "..." |
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 112827
+revid: 117750
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -32,6 +32,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 -   Chance to obtain from final chest of [Hell Mode](Hell_Mode.md)
 -   Chance to obtain from a chest in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 -   Chance to obtain from a chest in [Saramaed Hollow](Saramaed_Hollow.md).
+-   Chance to obtain from a chest in [War Mode](War_Mode.md).
 
 The Astral Enchant Stone is unique in that it can only be obtained through the [Weird Trader](Weird_Trader.md) or as a drop from [Star Knights](Star_Knight.md) or [Moon Knights](Moon_Knight.md).
 

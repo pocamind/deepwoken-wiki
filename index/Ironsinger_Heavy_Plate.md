@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 116675
+revid: 117781
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from: The Eternal Gale Scyphozia Chaser, Scholar of the Burning Blood Scion of Ethiron Saramaed Hollow Purchased from Merchant Ships |
+| obtainment | Chests from: The Eternal Gale Scyphozia Chaser, Scholar of the Burning Blood Scion of Ethiron Saramaed Hollow War Mode Purchased from Merchant Ships |
 | description | "..." |
 
 ## Description

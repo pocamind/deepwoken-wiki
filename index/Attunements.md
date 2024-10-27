@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 117686
+revid: 117810
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -101,3 +101,4 @@ Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
     -   _As an extension, he mentions that those who wield water magic have already lost their humanity._
 -   There is a misconception that Lightkeeping is a magic similar to Attunements, and the only reason it isn't in the game is arbitrary lore. In reality, Lightkeeping is more akin to a [Regalia](Regalia.md), and has no real combat application. The closest thing to light magic with a combat application is the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).
 -   In the 25th of October Update, "ELE" and "LFE" were added to the attunement portion of the build exporter.
+    -   The next day, "ELE" was changed to "BLD".

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 117244
+revid: 117727
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -134,6 +134,7 @@ Relics and enchant stones can drop from any chest at any floor.
 -   The Saramaed Hollow is also a good grinding fodder for all levels, having weak mobs like mudskippers and Megalodaunts to boost early game progression, Brutes, Threshers, and Desert Knights to help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
 
 -   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
+-   Try and crouch down this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
 
 ## Trivia
 

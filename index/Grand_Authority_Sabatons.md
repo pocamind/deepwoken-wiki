@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 116495
+revid: 117799
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia, The Eternal Gale, Miner's Landing, Primadon, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | Chests from:Duke Erisia, The Eternal Gale, Miner's Landing, Primadon, Maestro Evengarde Rest, Saramaed Hollow, War Mode |
 | description | - ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 109767
+revid: 117747
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races, Exclusive, Developer Spec]
@@ -86,5 +86,8 @@ According to their description, they are "auspicious mediators of conflict", mea
 -   Because the [Edenkite](Edenkite.md) are usually prophets, it makes sense that they would have taught the Drakkard the secrets of passively gaining EXP.
 -   Moderators can obtain the race through the Mod Shop for 750 moderation points
 -   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) race, except with more colourful horns.
-    
-    The Drakkard prompt.
+-   The origin of the name "[Drakkard](https://en.wikipedia.org/wiki/Longship)" comes from the Nordic Drakkar, its a type of Ship that has the head of a [Níðhöggr](https://en.wikipedia.org/wiki/N%c3%ad%c3%b0h%c3%b6ggr) (Viking dragon) on its prow.
+    -   It may be also the reason why the race is a dragon and/or they decided to give this name to the race.
+    -   In the deepwoken lore, Drakkards come from the northern luminant, so makes sense that they have a nordic/viking name/origin and wouldn't be wrong to assume that in the lore they had a similar culture.
+        
+        The Drakkard prompt.
