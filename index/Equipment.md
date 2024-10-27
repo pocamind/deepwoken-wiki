@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 117795
+revid: 117846
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -2911,6 +2911,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
@@ -3575,6 +3576,8 @@ _+5 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [War Mode](War_Mode.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Static-assets-upload12369006146430102616.png | 
@@ -4305,6 +4308,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Static-assets-upload6078901116095484260.png | 

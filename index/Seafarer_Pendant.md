@@ -1,6 +1,6 @@
 ---
 title: Seafarer Pendant
-revid: 116981
+revid: 117845
 source: https://deepwoken.fandom.com/wiki/Seafarer_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing , First Layer , Maestro Evengarde Rest |
+| obtainment | Miner's Landing , First Layer , Maestro Evengarde Rest , War Mode |
 | description | "..." |
 
 ## Description
