@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 117726
+revid: 117866
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -30,23 +30,15 @@ categories: [Weapons, Pages with broken file links, Twinblades, Unique Critical,
 
 ## Description
 
-The **Crescendo** is a twinblade that requires 75 MED. It's most commonly obtained from Ferryman and it has its own unique critical attack.
+The **Crescendo** is a rare twinblade that requires 75 MED. It's most commonly obtained from Ferryman and it has its own unique critical attack.
 
-## M1s and Aerial
+## M1s and Aerial/Running
 
-While 2-handing the Crescendo (and other twinblades) you do not flourish opponents.
+The Crescendo shares its M1s with other twinblades.
 
--   File:Two handed m1 cycle.gif
+The running attack consists of two hits; the first one comes out normally, while the second one is slightly delayed. If the first hit is parried, the second one does not come out.
 
-Like all Twinblades, the running M1s are slightly delayed, making it a good mixup tool. Additionally, running M1s preform two slashes, possibly allowing you to hit twice.
-
--   File:Running m1.gif
-
-The aerial attack consists of a unique animation which causes the user to spin upon landing.
-
--   File:Aerial.gif
-
-  
+Like all other Twinblades, the Crescendo consists of an unique aerial attack animation.
 
 ## Critical
 
@@ -60,4 +52,5 @@ Front view of Critical:
 
 ## Trivia
 
+-   The blades resemble [Krulian Knives](Krulian_Knife.md).
 -   For a while after the weapons release, it's crit was unparriable. This was later confirmed to be a bug and fixed.

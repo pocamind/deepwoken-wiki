@@ -1,9 +1,9 @@
 ---
 title: War Mode
-revid: 117852
+revid: 117854
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Eastern Luminant]
+categories: [Pages with broken file links, Eastern Luminant, Mechanics]
 ---
 
 # War Mode

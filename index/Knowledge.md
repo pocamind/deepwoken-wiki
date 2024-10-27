@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 117438
+revid: 117863
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -69,14 +69,13 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit** or **Shrine of Mastery**, uses 1 Knowledge.
 -   Engaging in a deal with **Shrine of Division**, uses 5 knowledge.
--   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge.
+-   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 each stack.
 
 -   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage_ and _Tales from the Valley_, which in turn are references to _[Insight](https://bloodborne.fandom.com/wiki/Insight)_ from _Bloodborne_.
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
 -   [Ganymedes](Ganymede.md) have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
     -   [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
-    -   [Shrine of Order](Deep_Shrines.md#shrine-of-order) will still cost 10 Knowledge
     -   [Shrine of Division](Deep_Shrines.md#shrine-of-division) will still cost 5 Knowledge
     -   [Shrine of Conceit](Deep_Shrines.md#shrine-of-conceit) and [Shrine of Mastery](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Mastery) will still cost 1 Knowledge.
     -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._

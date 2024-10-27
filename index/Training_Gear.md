@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 113193
+revid: 117864
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -33,8 +33,9 @@ A training vest hanging in the Antiquarian shop at Etris.
 A boulder in front of the Antiquarian shop at Etris
 
 -   Training Vest - Template:Cost / **50 uses**
--   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, [Fort Merit](Fort_Merit.md) Guildhall House, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
+-   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, [Fort Merit](Fort_Merit.md) Guildhall House, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop and upstairs in [Castle Light](Castle_Light.md)
 -   Training - Taking damage while the item is active
+
 -   Boulder - Template:Cost / **200 uses**
 -   Location - Right outside of [Etris](Etris.md) Antiquarian, right next to [Stratos](Stratos.md) in the [Isle of Vigils](Isle_of_Vigils.md), First Floor [Greathive Aratel](Greathive_Aratel.md) Library, Outside of [Summer Isle](Summer_Isle.md) Shop in the pathway, right outside of [Castle Light](Castle_Light.md), and right outside of the [Miner's Landing](<Miner's_Landing.md>) banker.
 -   Training - Prolonged usage of the item[\[1\]](#cite-note-boulder-1), taking damage
@@ -92,11 +93,9 @@ Like Attributes, Attunements also have Training Items correlated to them and wil
 -   Upon creating a character, you will always spawn with a Weapon Manual.
 -   You can't spawn with a Boulder when creating a character, as it will instead allocate a Training Vest.
 -   Ankle Weights slightly reduce your movement speed upon being worn.
--   Boulders crush you to death if used at 1% Health
 -   All Attributes can be trained by just obtaining general EXP
 -   You can slowly train your attributes by spamming the corresponding Training Items, all EXCEPT for Weapon Manual.
 -   There's a [quest](Quests.md) at [Isle of Vigils](Isle_of_Vigils.md) sparring room that grants you EXP for letting an NPC have one use of your Weapon Manual.
 -   You can train core attributes using [Lotus Flasks](Ingredients.md).
--   The message that comes up when you dont have enough xp may be replaced with "I've learnt what i can from training right now, I need to put a moderate amount of practice in to improve, I should set out and explore what i can. It might be time to set sail to more distant"
 
 1.  [↑](#cite-ref-boulder-1-0) Should their Health drain to 0, the Boulder will kill the user. The same will occur if one were to attempt to use it while in deep water.
