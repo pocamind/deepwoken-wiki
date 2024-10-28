@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 117025
+revid: 118007
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords]
 | type | Sword |
 | requirements | 40 MED |
 | damage | 21 |
-| scaling | 5 |
+| scaling | MED: 5 |
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |

@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 102201
+revid: 118012
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords]
 | type | Sword |
 | requirements | 65 MED |
 | damage | 18 |
-| scaling | 7 |
+| scaling | MED: 7 |
 | range | 7.5 |
 | swing speed | 1.04x |
 | penetration | 13% |

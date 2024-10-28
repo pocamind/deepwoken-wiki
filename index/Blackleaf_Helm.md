@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 116910
+revid: 117955
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Chime of Conflict, Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, First Layer, Chime of Conflict, Maestro Evengarde Rest, War Mode |
 | description | "..." |
 
 ## Description

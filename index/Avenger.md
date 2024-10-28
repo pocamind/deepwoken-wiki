@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 108909
+revid: 118058
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes]
@@ -13,7 +13,7 @@ categories: [Weapons, Greatswords, Echoes]
 | type | Greatsword |
 | requirements | 0 HVY |
 | damage | 21 |
-| scaling | 6.5 |
+| scaling | HVY: 6.5 |
 | range | 8.5 |
 | swing speed | 0.83x |
 | endlag | 0.1s |

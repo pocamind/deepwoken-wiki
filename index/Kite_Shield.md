@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 112246
+revid: 118108
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -11,22 +11,16 @@ categories: [Weapons, Shields]
 | Kite Shield | |
 |---|---|
 | type | Shield |
-| requirements | 20 Fortitude |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| endlag | N/A |
-| penetration | N/A |
+| requirements | 20 FTD |
 | special effect | Reduces incoming blocking posture damage. |
 | offhand | Offhand only |
 | selling price | 10 |
-| weight | 4.5 Posture |
+| weight | 4.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia (Chests)Artifacts |
+| obtainment | Erisia (Chests), Artifacts |
 | description | A fine shield to hold back the horrors of the world. |
 
 ## Description

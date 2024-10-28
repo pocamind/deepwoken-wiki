@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 116070
+revid: 118021
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals]
 | type | Sword |
 | requirements | 90 MED, Power 10 |
 | damage | 19.8 |
-| scaling | 8 |
+| scaling | MED: 8 |
 | range | 7.5 |
 | swing speed | 1.02x |
 | penetration | 30% |

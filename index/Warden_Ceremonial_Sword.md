@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 117762
+revid: 118010
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Cent
 | type | Sword |
 | requirements | 50 MED |
 | damage | 17 |
-| scaling | 7 |
+| scaling | MED: 7 |
 | range | 7.5 |
 | swing speed | 1.06x |
 | stances | 2 Handed, 1 Handed |

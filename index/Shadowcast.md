@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 117655
+revid: 118130
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -331,7 +331,7 @@ Dark Hours
 
  | 
 
-Your Shadowcast Mantras deal more damage at night.
+Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
 
  | 
 
@@ -725,11 +725,11 @@ Burning Sacrifice
 
  | 
 
-Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.
+Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks, a damage boost per puppet, and a slight speed boost.
 
  | 
 
-N/A
+Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost for 6 seconds, and 1 Emperor Flame Stack per puppet sacrificed.
 
  |
 

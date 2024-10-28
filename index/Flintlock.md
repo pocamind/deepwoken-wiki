@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 116852
+revid: 117985
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -13,7 +13,7 @@ categories: [Weapons, Flintlocks]
 | type | Flintlock |
 | requirements | 20 LHT |
 | damage | 11 |
-| scaling | 12 |
+| scaling | LHT: 12 |
 | range | 10 |
 | swing speed | 1.17x |
 | selling price | 14 |

@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 114454
+revid: 118111
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -11,9 +11,9 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 | Ignition Deepcrusher | |
 |---|---|
 | type | Club/Sword |
-| requirements | 40 MED; 75 MTL |
-| damage | 18 + 5.4 BLD (1H) , 18 (2H) |
-| scaling | Ironsing: 4Medium: 3 |
+| requirements | 40 MED, 75 MTL |
+| damage | 18 + 5.4 BLD (1H), 18 (2H) |
+| scaling | MED: 3, MTL: 4 |
 | range | 8 |
 | swing speed | 1.05x |
 | penetration | 20% |
@@ -23,7 +23,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths: Layer 1/Layer 2 (Floor 1/Floor 2)Saramaed Hollow |
+| obtainment | First Layer, Second Layer, Saramaed Hollow, The Diluvian Mechanism |
 
 ## Description
 

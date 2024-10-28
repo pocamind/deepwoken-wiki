@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 110159
+revid: 118080
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals]
 | type | Greathammer |
 | requirements | 80 HVY, 20 STR |
 | damage | 24 |
-| scaling | 10 |
+| scaling | HVY: 10 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | endlag | 0.1x |

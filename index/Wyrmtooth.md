@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 114779
+revid: 118083
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scali
 | Wyrmtooth | |
 |---|---|
 | type | Sword |
-| requirements | 60 MED; LVL 15; 40 HVY |
+| requirements | 60 MED, LVL 15, 40 HVY |
 | damage | 20 |
 | scaling | MED: 6.2, HVY: 4.2 |
 | range | 9 |

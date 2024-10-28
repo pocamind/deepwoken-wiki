@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 112587
+revid: 118026
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -13,7 +13,7 @@ categories: [Weapons, Spears]
 | type | Spear |
 | requirements | 35 MED |
 | damage | 19 |
-| scaling | 5 MED |
+| scaling | MED: 5 |
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25 |

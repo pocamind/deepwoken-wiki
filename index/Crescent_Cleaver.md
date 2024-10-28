@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 117520
+revid: 118061
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Alloyed Weapons]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 |---|---|
 | requirements | 40 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 + 6.6 BLD |
-| scaling | 8 / 9.5 |
+| scaling | HVY: 8 / HVY: 9.5 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |

@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 115422
+revid: 117983
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
@@ -13,7 +13,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
 | type | Fist |
 | requirements | 75 LHT |
 | damage | 15 + 4.5 BLD |
-| scaling | 7.5 |
+| scaling | LHT: 7.5 |
 | range | 6 |
 | swing speed | 1.09x |
 | penetration | 10% |

@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 116313
+revid: 118066
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals]
 | type | Greatsword |
 | requirements | 75 HVY |
 | damage | 24 + ? BLD |
-| scaling | 8.5 |
+| scaling | HVY: 8.5 |
 | range | 9 |
 | swing speed | 0.81x |
 | endlag | 0.1s |

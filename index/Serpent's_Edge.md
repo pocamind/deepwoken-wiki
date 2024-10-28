@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 117760
+revid: 118013
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals]
 | type | Sword |
 | requirements | 75 MED |
 | damage | 22 |
-| scaling | 6 |
+| scaling | MED: 6 |
 | range | 8 |
 | swing speed | 0.97x |
 | penetration | 15 |

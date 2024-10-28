@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 116975
+revid: 117948
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer , First Layer , Duke Erisia , Maestro Evengarde Rest |
+| obtainment | Second Layer , First Layer , Duke Erisia , Maestro Evengarde Rest , War Mode |
 | description | "..." |
 
 ## Description

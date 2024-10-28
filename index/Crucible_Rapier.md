@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 103299
+revid: 117993
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -13,7 +13,7 @@ categories: [Weapons, Rapiers]
 | type | Rapier |
 | requirements | 75 LHT |
 | damage | 15 |
-| scaling | 8 |
+| scaling | LHT: 8 |
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |

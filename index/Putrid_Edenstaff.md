@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 111557
+revid: 118072
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item]
@@ -13,7 +13,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item]
 | type | Greathammer |
 | requirements | 75 HVY |
 | damage | 25 |
-| scaling | 8.5 |
+| scaling | HVY: 8.5 |
 | range | 9 |
 | swing speed | 0.81x |
 | endlag | 0.1s |

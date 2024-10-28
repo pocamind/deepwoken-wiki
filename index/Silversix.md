@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 114591
+revid: 117984
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -13,7 +13,7 @@ categories: [Weapons, Flintlocks]
 | type | Flintlock |
 | requirements | 0 LHT |
 | damage | 10 |
-| scaling | 13 |
+| scaling | LHT: 13 |
 | range | 10 |
 | swing speed | 1.17x |
 | weight | 1 |

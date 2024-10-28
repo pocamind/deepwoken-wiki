@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 114793
+revid: 117981
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -11,9 +11,9 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | Light's Final Toll | |
 |---|---|
 | type | Fist |
-| requirements | 60 WLP, 35 LHT & Fist Style |
+| requirements | 60 WIL, 35 LHT & Fist Style |
 | damage | 12 |
-| scaling | 10 WLL 4 LHT |
+| scaling | WIL: 10, LHT: 4 |
 | range | 6.5 |
 | swing speed | 1.1x |
 | penetration | 10% |
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19.1 damage, the weapon deals 24.6 damage at 100 WLL and max LHT, and deals 24.8 at 102 WLL and max LHT.
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19.1 damage, the weapon deals 24.6 damage at 100 WIL and max LHT, and deals 24.8 at 102 WIL and max LHT.
 
 The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
 

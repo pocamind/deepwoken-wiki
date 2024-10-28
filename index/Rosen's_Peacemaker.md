@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 117797
+revid: 118042
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -13,7 +13,7 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 | type | Rifle |
 | requirements | 75 MED |
 | damage | 18 |
-| scaling | 8 |
+| scaling | MED: 8 |
 | range | 7 |
 | swing speed | 1x |
 | endlag | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 117519
+revid: 118050
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 | type | Greataxe |
 | requirements | 35 HVY / 75 HVY |
 | damage | 23.5 / 24 |
-| scaling | 9 |
+| scaling | HVY: 7 / HVY: 9 |
 | range | 8 |
 | swing speed | 0.83x |
 | penetration | 20% |

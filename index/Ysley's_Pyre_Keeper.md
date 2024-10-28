@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 117349
+revid: 117958
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -16,10 +16,8 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
 | swing speed | 0.93x |
-| endlag | 0.00s[sic] |
 | penetration | 15% |
-| chip damage | 0% |
-| special effect | Spawns green flames on hit that cut the target's mobility in half. |
+| special effect | Spawns green flames on hit. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 5 |
 | bankable | Yes |
@@ -35,7 +33,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 The Pyre Keeper comes with the following passives:
 
--   **Lifelord's Blaze:** M1 attacks spawn green-yellowish flames on hit that cut the target's mobility in half. This has a 4 second cooldown before it can proc green flames again.
+-   **Lifelord's Blaze:** M1 attacks spawn green-yellowish flames on hit, this is completely cosmetic. This has a 4 second cooldown before it can proc green flames again.
 -   **Dual Scaling M1s:** M1 or critical attacks that swing with the dagger scale off light weapon rather then heavy.
 
   

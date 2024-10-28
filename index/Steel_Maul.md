@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 117525
+revid: 118068
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons]
@@ -11,9 +11,9 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | Steel Maul | |
 |---|---|
 | type | Greathammer |
-| requirements | 20 Heavy, 10 STR / 75 Heavy, 10 STR |
+| requirements | 20 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 / 24 |
-| scaling | 7 / 8 |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 9 |
 | swing speed | 0.8x / 0.85x |
 | endlag | 0.1s |

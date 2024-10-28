@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 115930
+revid: 118098
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -11,9 +11,9 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | Deepspindle | |
 |---|---|
 | type | Rapier |
-| requirements | 75 SDW, 50 LHT |
+| requirements | 50 LHT, 75 SDW |
 | damage | 14 |
-| scaling | 4 LHT 9 SDW |
+| scaling | LHT: 4, SDW: 9 |
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |

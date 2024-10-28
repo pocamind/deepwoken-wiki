@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 110534
+revid: 118123
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Developer Spec, Exclusive]
@@ -15,7 +15,7 @@ notices:
 | type | Greataxe |
 | requirements | Unknown |
 | damage | 20 |
-| scaling | 7 |
+| scaling | HVY: 7 |
 | range | 8 |
 | swing speed | 0.74x (Outdated) |
 | penetration | 30% |

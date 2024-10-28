@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 116631
+revid: 118019
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | type | Sword |
 | requirements | 80 MED, 40 INT, Power 10 |
 | damage | 17 |
-| scaling | 7 MED, 3.5 INT |
+| scaling | MED: 7, INT: 3.5 |
 | range | 8 |
 | swing speed | 1.02x |
 | penetration | 0% |

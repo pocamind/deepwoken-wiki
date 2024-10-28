@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 116801
+revid: 118110
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -11,7 +11,7 @@ categories: [Weapons, Shields]
 | Worshipper's Shield | |
 |---|---|
 | type | Shield |
-| requirements | 40 Fortitude |
+| requirements | 40 FTD |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | 45 |
@@ -21,7 +21,7 @@ categories: [Weapons, Shields]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Lance's food shop in Etris., Duke Erisia, Deep Widow, Moon's Eyrie, First Layer, Chime of Conflict |
-| description | A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind. |
+| description | "A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind." |
 
 ## Description
 

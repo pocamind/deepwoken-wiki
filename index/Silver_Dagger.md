@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 116854
+revid: 117963
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 35 LHT |
 | damage | 12 |
-| scaling | 6 |
+| scaling | LHT: 6 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |

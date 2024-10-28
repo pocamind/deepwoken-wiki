@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 107175
+revid: 117982
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals]
 | type | Fist |
 | requirements | 75 LHT |
 | damage | 16 |
-| scaling | 9.5 |
+| scaling | LHT: 9.5 |
 | range | 6 |
 | swing speed | 1.09x |
 | penetration | 15% |

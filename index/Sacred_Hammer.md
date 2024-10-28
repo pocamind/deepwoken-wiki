@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 103737
+revid: 118038
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -13,7 +13,7 @@ categories: [Weapons, Clubs]
 | type | Club |
 | requirements | 65 MED |
 | damage | 19.5 |
-| scaling | 7 |
+| scaling | MED: 7 |
 | range | 7 |
 | swing speed | 0.97x |
 | penetration | 10% |

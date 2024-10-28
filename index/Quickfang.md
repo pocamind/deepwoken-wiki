@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 107651
+revid: 117990
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -13,7 +13,7 @@ categories: [Weapons, Rapiers]
 | type | Rapier |
 | requirements | 0 LHT |
 | damage | 12 |
-| scaling | 7 |
+| scaling | LHT: 7 |
 | range | 8 |
 | swing speed | 1.08x |
 | penetration | 5% |

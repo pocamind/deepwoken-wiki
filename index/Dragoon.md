@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 116639
+revid: 117988
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -13,7 +13,7 @@ categories: [Weapons, Flintlocks]
 | type | Flintlock |
 | requirements | 65 LHT |
 | damage | 16 |
-| scaling | 12 |
+| scaling | LHT: 12 |
 | range | 11 |
 | swing speed | 1.17x |
 | weight | 1 |

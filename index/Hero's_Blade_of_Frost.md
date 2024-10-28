@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 114899
+revid: 118087
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Le
 | type | Elemental Weapon |
 | requirements | 75 ICE, LVL 11 |
 | damage | 20 |
-| scaling | 5.5 |
+| scaling | ICE: 5.5 |
 | range | 8 |
 | swing speed | 1x |
 | weight | 5 |

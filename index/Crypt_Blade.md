@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 114053
+revid: 118097
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -11,9 +11,9 @@ categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-bas
 | Crypt Blade | |
 |---|---|
 | type | Greatsword |
-| requirements | 40 HVY; 75 SDW; LVL 10 |
+| requirements | 40 HVY, 75 SDW, LVL 10 |
 | damage | 22 |
-| scaling | SDW: 9, HVY: 4 |
+| scaling | HVY: 4, SDW: 9 |
 | range | 9 |
 | swing speed | 0.85x |
 | endlag | 0.15s |

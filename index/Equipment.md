@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 117846
+revid: 117952
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -223,6 +223,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 -   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
  | N/A |
@@ -270,6 +271,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [War Mode](War_Mode.md)
 
  | Normal & Big |
 | File:Big Herbalist's Hat.png | 
@@ -340,6 +342,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | 
@@ -1814,6 +1817,7 @@ Found from:
 -   Trading with [Jeremiah](Jeremiah.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Brown Overcoat.png | 
@@ -2538,6 +2542,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [War Mode](War_Mode.md)
 -   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -3126,6 +3131,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | Black, Brown, & White |
 | File:White Parka.png | 
@@ -3432,6 +3438,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -3616,6 +3623,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Leather boots.png | 
@@ -3806,6 +3814,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 |  | 
@@ -5213,6 +5222,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 |  | 
@@ -5495,6 +5505,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  |
 |  | 

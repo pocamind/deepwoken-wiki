@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 114110
+revid: 118119
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec, Exclusive]
@@ -13,7 +13,7 @@ categories: [Weapons, Developer Spec, Exclusive]
 | type | Greataxe |
 | requirements | ??? |
 | damage | 10 |
-| scaling | 30 CHA |
+| scaling | CHA: 30 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | N/A |

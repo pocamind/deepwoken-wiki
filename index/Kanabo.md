@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 117759
+revid: 118082
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, "Core-Attribut
 | Kanabo | |
 |---|---|
 | type | Greathammer |
-| requirements | 40 STR; 100 HVY |
+| requirements | 40 STR, 100 HVY |
 | damage | 25 |
 | scaling | HVY: 6, STR: 3 |
 | range | 9 |

@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 112581
+revid: 118036
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -13,7 +13,7 @@ categories: [Weapons, Clubs]
 | type | Club |
 | requirements | 30 MED |
 | damage | 15 + 4.5 BLD |
-| scaling | 5 |
+| scaling | MED: 5 |
 | range | 7.5 |
 | swing speed | 0.98x |
 | penetration | 10% |

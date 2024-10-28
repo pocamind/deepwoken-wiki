@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 117517
+revid: 118015
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapo
 | type | Sword |
 | requirements | 40 MED / 75 MED |
 | damage | 20 |
-| scaling | 6 / 7.5 |
+| scaling | MED: 6 / MED: 7.5 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 20% |

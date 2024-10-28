@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 115030
+revid: 118064
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -11,7 +11,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | Kyrsieger | |
 |---|---|
 | type | Greatsword |
-| requirements | 50 HVY; 15 CHA |
+| requirements | 50 HVY, 15 CHA |
 | damage | 24 |
 | scaling | HVY: 7, CHA: 2 |
 | range | 9 |

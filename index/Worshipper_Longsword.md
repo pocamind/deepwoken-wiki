@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 114141
+revid: 118003
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords]
 | type | Sword |
 | requirements | 30 MED |
 | damage | 19 |
-| scaling | 4 |
+| scaling | MED: 4 |
 | range | 8 |
 | swing speed | 1.03x |
 | stances | 2 Handed, 1 Handed |

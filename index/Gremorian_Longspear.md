@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 117511
+revid: 118025
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Spears, Children of Navae, Alloyed Weapons]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Weapons, Spears, Children of Navae, A
 |---|---|
 | requirements | 20 MED / 75 MED |
 | damage | 18 / 20 |
-| scaling | 4 / 5 |
+| scaling | MED: 4 / MED: 5 |
 | range | 9 |
 | swing speed | 0.9x / 0.93x |
 | penetration | 10% |

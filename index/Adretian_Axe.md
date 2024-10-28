@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 117518
+revid: 118049
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 |---|---|
 | requirements | 35 HVY / 75 HVY |
 | damage | 24 |
-| scaling | 7 / 8 |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 8 |
 | swing speed | 0.85x / 0.87x |
 | penetration | 10% |
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Chaser |
+| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Chaser, War Mode |
 | description | "A bound axe in the typical Adretian fashion." |
 
 ## Description

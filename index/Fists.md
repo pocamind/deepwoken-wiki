@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 112888
+revid: 117973
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -13,7 +13,7 @@ categories: [Weapons, Pages with broken file links, Fists]
 | type | Light Weapon |
 | requirements | 0 LHT (WN/LK) 40 LHT (Needed to obtain "JK" not needed to use it once you start with in on a new character) |
 | damage | 12 (WN/LK) , 14 (JK) |
-| scaling | 7 (WN/LK) , 9 (JK) |
+| scaling | LHT: 7 (WN/LK) , LHT: 9 (JK) |
 | range | 7(6.5 for JK) |
 | swing speed | 1.1x (WN/LK) , 1.14x (JK) |
 | penetration | N/A (WN/LK) , 20% (JK) |

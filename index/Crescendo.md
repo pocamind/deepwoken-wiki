@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 117883
+revid: 118046
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 | type | Twinblade |
 | requirements | 75 MED |
 | damage | 22 |
-| scaling | 6 |
+| scaling | MED: 6 |
 | range | 7.5 |
 | swing speed | 0.92 |
 | penetration | 5% |

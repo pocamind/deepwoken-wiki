@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 117723
+revid: 118133
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -134,7 +134,7 @@ Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by cl
 
 You can do Trial of One.
 
-**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the Saramaed Hollow dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotly accept jobs via their Union Pager, allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the Chariot's Spire in the depths if they wish.
+**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the Saramaed Hollow dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotely accept jobs via their Union Pager, allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the Chariot's Spire in the depths if they wish.
 
 -   Your starting reputations are:
     -   Friend of The Ignition Union and Lost Celtor

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 117696
+revid: 118081
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -634,16 +634,14 @@ Polished Armor
 
  | 
 
-You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
+You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
 
  | 
 
-When your armor durability is above 90%, you recieve 10% less damage that would be affected by your armor.
+Damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
 
  |
 | 
-
-File:Alloyblood.jpg
 
  | 
 
@@ -652,13 +650,13 @@ Alloyblood
 
  | 
 
-You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+You don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.
 
 (Advanced Talent)
 
  | 
 
-Bleed damage is halved and blood loss is reduced by 75%.
+Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you take slash damage is now **grey**.
 
  |
 
@@ -804,11 +802,11 @@ Masterwork
 
  | 
 
-Successful hits from Artisan's Blades will proc metal rods and deal slightly more damage.
+Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
 
  | 
 
-Sucessful hits from your Artisan's Blades will proc metal rods and deal slightly more damage.
+Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
 
  |
 | 
@@ -822,11 +820,11 @@ Reshape and Remold
 
  | 
 
-Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +5% damage.
+Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
 
  | 
 
-When sucessfully proccing Scrapsigner, your opponent takes increased armor damage until it reaches a cap of _???_. When reaching the cap, your opponent takes +5% damage for _???_ seconds.
+When sucessfully proccing Scrapsigner, your opponent takes increased armor damage until it reaches a cap of 10. When reaching the cap, your opponent takes +5% damage until your stacks decay.
 
  |
 
@@ -842,6 +840,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
 -   Ironsing is called 'Element' in the game's code.
+-   Despite the blood visual effect on your character when you take slash damage turning Grey if you have the Alloyblood talent, the blood visual effect from **Iron Quills** is still Red like normal.
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect.

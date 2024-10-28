@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 116640
+revid: 118075
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Weapons, Greathammers, Weapons of The Central Authority]
 | type | Greathammer |
 | requirements | 75 HVY, 20 STR |
 | damage | 26 |
-| scaling | 9 |
+| scaling | HVY: 9 |
 | range | 9 |
 | swing speed | 0.73x |
 | penetration | 20% |

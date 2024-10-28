@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 103726
+revid: 118029
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -13,7 +13,7 @@ categories: [Weapons, Spears]
 | type | Spear |
 | requirements | 65 MED |
 | damage | 18 + 5.4 BLD |
-| scaling | 6.5 |
+| scaling | MED: 6.5 |
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 20% |

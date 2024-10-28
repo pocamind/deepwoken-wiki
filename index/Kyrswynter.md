@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 117581
+revid: 118091
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Unique Critical]
@@ -11,9 +11,9 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 | Kyrswynter | |
 |---|---|
 | type | Spear |
-| requirements | 50 MED; 75 ICE |
+| requirements | 50 MED, 75 ICE |
 | damage | 16.5 + 5 BLD |
-| scaling | ICE: 5, MED: 5 |
+| scaling | MED: 5, ICE: 5 |
 | range | 9 |
 | swing speed | 0.96x |
 | penetration | 20% |

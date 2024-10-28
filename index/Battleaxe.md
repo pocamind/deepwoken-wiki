@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 117016
+revid: 118047
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes]
 | type | Greataxe |
 | requirements | 0 HVY |
 | damage | 20 |
-| scaling | 5 |
+| scaling | HVY: 5 |
 | range | 8 |
 | swing speed | 0.83x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

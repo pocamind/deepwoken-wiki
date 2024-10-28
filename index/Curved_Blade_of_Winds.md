@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 115984
+revid: 118094
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | Curved Blade of Winds | |
 |---|---|
 | type | Sword |
-| requirements | 25 MED; 75 WND; LVL 10 |
+| requirements | 25 MED, 75 WND, LVL 10 |
 | damage | 17.5 |
 | scaling | MED: 5, WND: 5 |
 | range | 8 |

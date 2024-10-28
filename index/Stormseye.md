@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 115787
+revid: 118114
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -11,9 +11,9 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | Stormseye | |
 |---|---|
 | type | Rifle |
-| requirements | 40 MED, 75 THN |
+| requirements | 40 MED, 75 LTN |
 | damage | 19.5 |
-| scaling | 3 MED, 6 LTN |
+| scaling | MED: 3, LTN: 6 |
 | range | 8 |
 | swing speed | 1x |
 | special effect | On flourish, fire a shockwave that stuns and pushes opponents back.Applies Thundercall Talents. Aerial attacks will teleport you to the enemy. |
@@ -39,8 +39,8 @@ The Stormseye comes with 2 passive abilities:
 
 This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, Static Blade, and the Stratoshock buffs.
 
--   Meeting the requirement of THD and MED, the weapon deals 27.8 damage.
--   At max THD and MED, the weapon deals 32.7 damage.
+-   Meeting the requirement of LTN and MED, the weapon deals 27.8 damage.
+-   At max LTN and MED, the weapon deals 32.7 damage.
 
 ## Critical
 

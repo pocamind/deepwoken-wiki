@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 103979
+revid: 118053
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes]
 | type | Greataxe |
 | requirements | 75 HVY |
 | damage | 23 |
-| scaling | 8 HVY |
+| scaling | HVY: 8 |
 | range | 8.5 |
 | swing speed | 0.77x |
 | chip damage | 80% |

@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 103734
+revid: 118037
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -13,7 +13,7 @@ categories: [Weapons, Clubs]
 | type | Club |
 | requirements | 50 MED |
 | damage | 16 + 4.8 BLD |
-| scaling | 5.5 |
+| scaling | MED: 5.5 |
 | range | 7.5 |
 | swing speed | 0.98x |
 | penetration | 20% |

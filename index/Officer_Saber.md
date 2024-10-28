@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 112662
+revid: 118004
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Weapons of The Central Authority]
 | type | Sword |
 | requirements | 30 MED |
 | damage | 22 |
-| scaling | 4.5 |
+| scaling | MED: 4.5 |
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |

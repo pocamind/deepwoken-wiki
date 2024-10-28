@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 113004
+revid: 118054
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | type | Greataxe |
 | requirements | 75 HVY |
 | damage | 25 |
-| scaling | 9 |
+| scaling | HVY: 9 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | penetration | 25% |

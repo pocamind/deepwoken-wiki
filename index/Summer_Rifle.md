@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 117270
+revid: 118041
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -13,7 +13,7 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 | type | Rifle |
 | requirements | 40 MED |
 | damage | 17 |
-| scaling | 6 |
+| scaling | MED: 6 |
 | range | 8 |
 | swing speed | 1x |
 | endlag | N/A |

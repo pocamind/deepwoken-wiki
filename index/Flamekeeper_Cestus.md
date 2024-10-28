@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 117348
+revid: 117979
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -13,7 +13,7 @@ categories: [Weapons, Fists]
 | type | Light Weapon |
 | requirements | 65 LHT & Fist Style |
 | damage | 15.5 |
-| scaling | 9.5 |
+| scaling | LHT: 9.5 |
 | range | 6 |
 | swing speed | 1.11x |
 | penetration | 5% |

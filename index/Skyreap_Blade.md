@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 106018
+revid: 118056
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Event Item]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes, Event Item]
 | type | Greataxe |
 | requirements | 75 HVY |
 | damage | 23 |
-| scaling | 7 |
+| scaling | HVY: 7 |
 | range | 8.5 |
 | swing speed | 0.91x |
 | penetration | 25% |

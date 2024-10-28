@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 110138
+revid: 118122
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Developer Spec, Exclusive]
@@ -11,9 +11,9 @@ categories: [Weapons, Greataxes, Developer Spec, Exclusive]
 | Unsung Scythern | |
 |---|---|
 | type | Greataxe |
-| requirements | 75 HVY LVL 10 |
+| requirements | 75 HVY, LVL 10 |
 | damage | 26 |
-| scaling | 9 |
+| scaling | HVY: 9 |
 | range | 8 |
 | swing speed | 0.6x |
 | penetration | 10% |

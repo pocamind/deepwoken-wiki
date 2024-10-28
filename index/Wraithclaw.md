@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 117728
+revid: 118095
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals]
@@ -11,9 +11,9 @@ categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attuneme
 | Wraithclaw | |
 |---|---|
 | type | Fist |
-| requirements | 25 LHT; 75 WND |
+| requirements | 25 LHT, 75 WND |
 | damage | 16 |
-| scaling | LHT: 4; WND: 5.5 |
+| scaling | LHT: 4, WND: 5.5 |
 | range | 6.5 |
 | swing speed | 1.1x |
 | penetration | 10% |

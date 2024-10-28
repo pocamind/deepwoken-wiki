@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 117935
+revid: 117959
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critical]
@@ -13,7 +13,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critic
 | type | Greathammer |
 | requirements | 55 HVY, 10 STR |
 | damage | 29 |
-| scaling | 7.5 |
+| scaling | HVY: 7.5 |
 | range | 8 |
 | swing speed | 0.82x |
 | endlag | 0.1s |

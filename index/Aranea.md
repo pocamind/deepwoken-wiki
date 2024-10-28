@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 116790
+revid: 117989
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -15,7 +15,7 @@ notices:
 | type | Gun |
 | requirements | 200 LHT |
 | damage | 14 |
-| scaling | 15 |
+| scaling | LHT: 15 |
 | range | 12 |
 | swing speed | 1x |
 | weight | 1 |

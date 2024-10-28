@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 117524
+revid: 118060
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | type | Greatsword |
 | requirements | 30 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 24 |
-| scaling | 7 / 8 |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 8.5 |
 | swing speed | 0.85x |
 | endlag | 0.1s / N/A |

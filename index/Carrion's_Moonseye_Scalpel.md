@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 105624
+revid: 118118
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Exclusive, Developer Spec]
@@ -13,7 +13,7 @@ categories: [Weapons, Exclusive, Developer Spec]
 | type | Spear |
 | requirements | 80 MED |
 | damage | 18.5 |
-| scaling | 13 INT |
+| scaling | INT: 13 |
 | range | 9 |
 | swing speed | 0.72x |
 | endlag | N/A |

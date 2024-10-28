@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 114901
+revid: 118093
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Le
 | type | Elemental Weapon |
 | requirements | 75 WND, LVL 11 |
 | damage | 20 |
-| scaling | 5.5 |
+| scaling | WND: 5.5 |
 | range | 8 |
 | swing speed | 1x |
 | weight | 5 |

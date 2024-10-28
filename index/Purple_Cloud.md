@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 117589
+revid: 118018
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons wit
 | type | Sword |
 | requirements | 85 MED, Power 10 |
 | damage | 16.5 |
-| scaling | 9 |
+| scaling | MED: 9 |
 | range | 6.5 |
 | swing speed | 1.06x |
 | penetration | 15% |

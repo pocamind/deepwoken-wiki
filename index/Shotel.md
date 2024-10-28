@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 117515
+revid: 118009
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons]
 | type | Sword |
 | requirements | 45 MED / 75 MED |
 | damage | 22 |
-| scaling | 5 / 6 |
+| scaling | MED: 5 / MED: 6 |
 | range | 8 |
 | swing speed | 0.97x |
 | penetration | 10% |

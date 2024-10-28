@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 116795
+revid: 118112
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -14,7 +14,7 @@ categories: [Weapons, Shields]
 | requirements | 50 FTD |
 | offhand | Offhand only |
 | selling price | 14 |
-| weight | 7 Posture |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

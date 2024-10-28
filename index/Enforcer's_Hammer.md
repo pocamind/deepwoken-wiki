@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 115005
+revid: 118079
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Weapons with Unique Criticals]
@@ -11,9 +11,9 @@ categories: [Pages with broken file links, Weapons, Greathammers, Weapons with U
 | Enforcer's Hammer | |
 |---|---|
 | type | Greathammer |
-| requirements | 80 HVY, 25 STR, 6 PWR |
+| requirements | 80 HVY, 25 STR, LVL 6 |
 | damage | 25 |
-| scaling | 9 |
+| scaling | HVY: 9 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | endlag | 0.1s |

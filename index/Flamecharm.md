@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 117830
+revid: 118131
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1062,7 +1062,7 @@ Empowered Eruption
 
  | 
 
-Your next Eruption after landing a critical is empowered with increased range and damage. 10s cooldown.
+Your next Eruption after landing a critical is empowered with +50% increased range and damage. 10s cooldown.
 
  | 
 
@@ -1344,11 +1344,11 @@ Burning Sacrifice
 
  | 
 
-Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.
+Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks, a damage boost per puppet, and a slight speed boost.
 
  | 
 
-N/A
+Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost for 6 seconds, and 1 Emperor Flame Stack per puppet sacrificed.
 
  |
 

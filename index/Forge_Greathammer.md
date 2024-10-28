@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 117522
+revid: 118069
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Criticals, Alloyed Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Critica
 |---|---|
 | requirements | 55 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 24 / 25.5 |
-| scaling | 8 |
+| scaling | HVY: 8 |
 | range | 9 |
 | swing speed | 0.8x / 0.81x |
 | endlag | 0.1s / N/A |

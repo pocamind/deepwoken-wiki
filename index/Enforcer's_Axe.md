@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 114804
+revid: 118055
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | type | Greataxe |
 | requirements | 75 HVY, LVL 6 |
 | damage | 26 |
-| scaling | 10 |
+| scaling | HVY: 10 |
 | range | 8.5 |
 | swing speed | 0.76x |
 | penetration | 10% |

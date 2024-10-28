@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 117513
+revid: 117999
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Alloyed Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Alloyed Weapons]
 | type | Sword |
 | requirements | 10 / 75 MED |
 | damage | 20 / 21 |
-| scaling | 5 / 6 MED |
+| scaling | MED: 5 / MED: 6 |
 | range | 7.5 / 7.5 |
 | swing speed | 0.93x / 0.93x |
 | penetration | 15% |

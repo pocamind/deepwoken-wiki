@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 116758
+revid: 118085
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
@@ -11,9 +11,9 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Le
 | Hero Blade of Flame | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 ELE, LVL 11 |
+| requirements | 75 FIR, LVL 11 |
 | damage | 20 |
-| scaling | ELE: 5.5 |
+| scaling | FIR: 5.5 |
 | range | 8 |
 | swing speed | 1x |
 | weight | 5 |

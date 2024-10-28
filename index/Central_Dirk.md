@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 115306
+revid: 117967
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 50 LHT |
 | damage | 15 |
-| scaling | 7 |
+| scaling | LHT: 7 |
 | range | 6.5 |
 | swing speed | 1.23x |
 | endlag | 0.05s |

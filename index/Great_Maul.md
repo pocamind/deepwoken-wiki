@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 108796
+revid: 118070
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -13,7 +13,7 @@ categories: [Weapons, Greathammers]
 | type | Greathammer |
 | requirements | 65 HVY, 30 STR |
 | damage | 25 |
-| scaling | 8 |
+| scaling | HVY: 8 |
 | range | 9 |
 | swing speed | 0.85x |
 | endlag | 0.1s |

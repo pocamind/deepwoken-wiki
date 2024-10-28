@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 117622
+revid: 118045
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea, Alloyed Weapons]
@@ -11,9 +11,9 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 | Scalesplitter | |
 |---|---|
 | type | Twinblade |
-| requirements | 40 / 65 MED |
+| requirements | 40 MED / 65 MED |
 | damage | 17.5 / 20 |
-| scaling | 5 / 6 |
+| scaling | MED: 5 / MED: 6 |
 | range | 7.5 / 8 |
 | swing speed | 0.9x / 1.0x |
 | penetration | 10% / 15% |

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 117761
+revid: 117966
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 50 LHT |
 | damage | 14.5 |
-| scaling | 8 |
+| scaling | LHT: 8 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |

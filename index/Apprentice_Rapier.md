@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 117026
+revid: 117991
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -13,7 +13,7 @@ categories: [Weapons, Rapiers]
 | type | Rapier |
 | requirements | 20 LHT |
 | damage | 13 |
-| scaling | 6.5 |
+| scaling | LHT: 6.5 |
 | range | 8 |
 | swing speed | 1.06x |
 | stances | 1 Handed |

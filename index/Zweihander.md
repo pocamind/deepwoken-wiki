@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 117623
+revid: 118059
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | type | Greatsword |
 | requirements | 20 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 / 23 |
-| scaling | 7 / 10 |
+| scaling | HVY: 7 / HVY: 10 |
 | range | 9 |
 | swing speed | 0.8x / 0.83x |
 | endlag | 0.1s |

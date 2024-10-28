@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 117523
+revid: 118048
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons]
@@ -10,9 +10,9 @@ categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Uniq
 
 | Halberd | |
 |---|---|
-| requirements | 25 HVY / 75 |
+| requirements | 25 HVY / 75 HVY |
 | damage | 22 / 24 |
-| scaling | 7 / 8 |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 9 |
 | swing speed | 0.8x |
 | penetration | 15% |

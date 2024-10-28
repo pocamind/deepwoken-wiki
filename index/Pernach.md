@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 117756
+revid: 118039
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -13,7 +13,7 @@ categories: [Weapons, Clubs]
 | type | Club |
 | requirements | 75 MED |
 | damage | 18.5 + 5.5 BLD |
-| scaling | 6 |
+| scaling | MED: 6 |
 | range | 8 |
 | swing speed | 0.98x |
 | penetration | 30% |

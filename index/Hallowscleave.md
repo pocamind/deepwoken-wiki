@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 106016
+revid: 118014
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Event Item]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, Event Item]
 | type | Sword |
 | requirements | 75 MED |
 | damage | 19 |
-| scaling | 7 |
+| scaling | MED: 7 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 25% |

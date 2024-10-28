@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 113075
+revid: 117996
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -13,7 +13,7 @@ categories: [Weapons, Rapiers]
 | type | Rapier |
 | requirements | 75 LHT |
 | damage | 15 |
-| scaling | 8.5 |
+| scaling | LHT: 8.5 |
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 30% |

@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 102085
+revid: 117964
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 40 LHT |
 | damage | 11 |
-| scaling | 10 |
+| scaling | LHT: 10 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
