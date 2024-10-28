@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 117857
+revid: 118179
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -31,7 +31,6 @@ Once the conditions are met, [The Depths](The_Depths.md) (current server) will t
 -   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
 -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   King Thresher's burrowing attack is disabled.
-    -   Nautilodaunts' Vent is disabled.
     -   Mudskipper Broodlords have their anti-heal reduced to 50%
 -   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
 

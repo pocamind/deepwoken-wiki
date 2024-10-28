@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 116783
+revid: 118186
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -54,6 +54,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   [Deepfire Ring](Equipment.md#rings) (Very rare)
 -   [Maestro's Ring](Equipment.md#rings) (Very rare)
 -   [Armorer's Ring](<Armorer's_Ring.md>) (Very rare)
+-   [Crescendo](Crescendo.md) (Very rare)
 -   [Assassin's Hood](<Assassin's_Hood.md>) (Mist, Gold, Crimson) (Very rare)
 -   [Assassin's Cloak](<Assassin's_Cloak.md>) (Mist, Gold, Crimson) (Extremely rare)
 

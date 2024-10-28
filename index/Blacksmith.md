@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 116838
+revid: 118181
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -42,7 +42,7 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 -   Blacksmiths used to be able refuse to service the player if their [reputation](Reputation.md) is too low on the location they are working, this was most noticeable at [Fort Merit](Fort_Merit.md), seeing how a lot of players are enemies with the [Central Authority](The_Central_Authority.md).
 -   All of them are wearing [Smith's Bandana](<Smith's_Bandana.md>), [Smith's Goggles](<Smith's_Goggles.md>) and [Smith's Gloves](<Smith's_Gloves.md>).
 -   Curiously, it appears the blacksmiths at [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) are brothers.
--   The blacksmith in [Etris](Etris.md) has an apprentice outside the store. He will ask for you to not rat on him, if you do not rat on him, you will get a noticeable discount on all materials purchasable at the [Etris](Etris.md) Blacksmith, however ratting on him does nothing and the prices will stay the same.
+-   The blacksmith in [Etris](Etris.md) has an apprentice outside the store. He will ask for you to not rat on him, if you do not rat on him, you will get a 50% discount, rounded-down, on all materials purchasable at the [Etris](Etris.md) Blacksmith, however ratting on him does nothing and the prices will stay the same.
 -   The name of the [Etris](Etris.md) blacksmith is Caragan. [\[1\]](#cite-note-1)
 
 ## Gallery

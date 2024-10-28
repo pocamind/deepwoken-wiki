@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 115051
+revid: 118174
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -36,10 +36,10 @@ Along with this ability comes several limitations, being that certain items of s
 
 ## Miscellaneous
 
--   [Diver's Light Plate](<Diver's_Light_Plate.md>) can now be stored.
 -   The item bank follows the rules of how items are displayed in chests: if an item in a chest stacks, then it can stack in the bank.
--   [Hallowtide](Hallowtide.md) weapons and equipment can be stored for free. However, if they are enchanted, they will follow the soulbind rule.
+-   [Hallowtide](Hallowtide.md) weapons and equipment can be stored but will follow the soulbound rule regardless if they are enchanted or not.
 -   Starter advanced weapons can be stored by enchanting them.
 -   You cannot store [Campfires](Campfire_Pit.md).
 -   You cannot be attacked while in the GUI.
 -   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
+-   You cannot store The [Pleekty's Inferno](<Pleeksty's_Inferno.md>).

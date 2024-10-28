@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 118128
+revid: 118178
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -98,7 +98,7 @@ kick.
 
 ## **Talents**
 
-**Flamecharm:**
+### Flamecharm
 
 | Hybrid | Talent | Requirements | Card Description | Effect |
 | --- | --- | --- | --- | --- |
@@ -323,7 +323,7 @@ Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1
 
  |
 
-**Frostdraw:**
+### Frostdraw
 
 | Hybrid | Talent | Requirements | Card Description | Effect |
 | --- | --- | --- | --- | --- |
@@ -451,7 +451,185 @@ Detonating Crystals will cause an Eruption.
 
  |
 
-**Galebreathe:**
+### Thundercall
+
+| Hybrid | Talent | Requirements | Card Description | Effect |
+| --- | --- | --- | --- | --- |
+| 
+Thundercall  
+Ironsing
+
+ | 
+
+Voltaic Conductor  
+\[Superconductor\]
+
+ | 
+
+Rending Needle: Conductor  
+75 Ironsing  
+40 Thundercall
+
+ | 
+
+Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
+
+ | 
+
+Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.
+
+ |
+| 
+
+Thundercall  
+Flamecharm
+
+ | 
+
+Scorched Peak  
+\[Lichtenburg\]
+
+ | 
+
+50 Thundercall, 25 Flamecharm
+
+ | 
+
+Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
+
+ | 
+
+Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.
+
+ |
+| 
+
+Thundercall  
+Frostdraw
+
+ | 
+
+Fulgurite Formation  
+\[Frozen Lightning\]
+
+ | 
+
+Surge Path: Unstable Capacitor  
+50 Thundercall  
+Glass Path: Crystallization  
+50 Frostdraw
+
+ | 
+
+When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
+
+ | 
+
+When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.
+
+ |
+| 
+
+Thundercall  
+Frostdraw
+
+ | 
+
+Frozen Web  
+\[Doomsday Engine\]
+
+ | 
+
+Static Link  
+40 Thundercall  
+40 Frostdraw
+
+ | 
+
+Landing a critical with a Static Link on your opponent applies Chilled.
+
+ | 
+
+Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.
+
+ |
+| 
+
+Thundercall  
+Galebreathe
+
+ | 
+
+Storm Link  
+\[Stormcaller\]
+
+ | 
+
+Static Link  
+60 Thundercall  
+50 Galebreathe
+
+ | 
+
+While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
+
+ | 
+
+Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.
+
+ |
+| 
+
+Thundercall  
+Shadowcast
+
+ | 
+
+Dark Receiver  
+\[Sapper\]
+
+ | 
+
+Static Link  
+40 Thundercall  
+40 Shadowcast
+
+ | 
+
+Shadow moves will also steal Ether from those you are Static Linked tethered to.
+
+ | 
+
+Shadow mantras will steal 2-3% Ether from those you are Static Linked tethered to even if they aren't hit by the Shadow mantra.
+
+ |
+| 
+
+Thundercall  
+Shadowcast
+
+ | 
+
+Battery Sapper  
+\[Unstable Capacitor\]
+
+ | 
+
+Surge Path: Unstable Capacitor  
+60 Thundercall  
+25 Shadowcast
+
+ | 
+
+If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
+
+ | 
+
+When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for mantra casting to drain your Human Battery target's Ether.
+
+ |
+
+### Galebreathe
 
 | Hybrid | Talent | Requirements | Card Description | Effect |
 | --- | --- | --- | --- | --- |
@@ -552,36 +730,7 @@ Landing Gale mantras on your Static Linked target will add lightning damage to t
 
  |
 
-**Ironsing:**
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Ironsing  
-Thundercall
-
- | 
-
-Voltaic Conductor  
-\[Superconductor\]
-
- | 
-
-Rending Needle: Conductor  
-75 Ironsing  
-40 Thundercall
-
- | 
-
-Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
-
- | 
-
-Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.
-
- |
-
-**Shadowcast:**
+### Shadowcast
 
 | Hybrid | Talent | Requirements | Card Description | Effect |
 | --- | --- | --- | --- | --- |
@@ -784,13 +933,13 @@ Gain a tool that allows you to sacrifice puppets who who burn purple, granting y
 
  |
 
-**Thundercall:**
+### Ironsing
 
 | Hybrid | Talent | Requirements | Card Description | Effect |
 | --- | --- | --- | --- | --- |
 | 
-Thundercall  
-Ironsing
+Ironsing  
+Thundercall
 
  | 
 
@@ -810,155 +959,6 @@ Your Thundercall Mantras deal 20% chip damage against enemies with conductor rod
  | 
 
 Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.
-
- |
-| 
-
-Thundercall  
-Flamecharm
-
- | 
-
-Scorched Peak  
-\[Lichtenburg\]
-
- | 
-
-50 Thundercall, 25 Flamecharm
-
- | 
-
-Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
-
- | 
-
-Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.
-
- |
-| 
-
-Thundercall  
-Frostdraw
-
- | 
-
-Fulgurite Formation  
-\[Frozen Lightning\]
-
- | 
-
-Surge Path: Unstable Capacitor  
-50 Thundercall  
-Glass Path: Crystallization  
-50 Frostdraw
-
- | 
-
-When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
-
- | 
-
-When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.
-
- |
-| 
-
-Thundercall  
-Frostdraw
-
- | 
-
-Frozen Web  
-\[Doomsday Engine\]
-
- | 
-
-Static Link  
-40 Thundercall  
-40 Frostdraw
-
- | 
-
-Landing a critical with a Static Link on your opponent applies Chilled.
-
- | 
-
-Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.
-
- |
-| 
-
-Thundercall  
-Galebreathe
-
- | 
-
-Storm Link  
-\[Stormcaller\]
-
- | 
-
-Static Link  
-60 Thundercall  
-50 Galebreathe
-
- | 
-
-While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-
- | 
-
-Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.
-
- |
-| 
-
-Thundercall  
-Shadowcast
-
- | 
-
-Dark Receiver  
-\[Sapper\]
-
- | 
-
-Static Link  
-40 Thundercall  
-40 Shadowcast
-
- | 
-
-Shadow moves will also steal Ether from those you are Static Linked tethered to.
-
- | 
-
-Shadow mantras will steal 2-3% Ether from those you are Static Linked tethered to even if they aren't hit by the Shadow mantra.
-
- |
-| 
-
-Thundercall  
-Shadowcast
-
- | 
-
-Battery Sapper  
-\[Unstable Capacitor\]
-
- | 
-
-Surge Path: Unstable Capacitor  
-60 Thundercall  
-25 Shadowcast
-
- | 
-
-If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
-
- | 
-
-When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for mantra casting to drain your Human Battery target's Ether.
 
  |
 
