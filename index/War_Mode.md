@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 117854
+revid: 118142
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Mechanics]
@@ -28,7 +28,7 @@ The Warchest is a prize pot that is distributed among the Marked members of the 
 
 • If the Warchest has less than 20 Points at 10 minutes in, the ritual will end early, and no Guild will be declared the winner
 
-Warbell near The Entropy Catalyst
+Warbell near [The Entropy Catalyst](The_Entropy_Catalyst.md)
 
 ## Trivia
 

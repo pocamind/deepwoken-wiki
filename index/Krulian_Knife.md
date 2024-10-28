@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 114784
+revid: 118140
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Daggers, Weapons with Unique Criticals, Multiple Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Pages with broken file links, Daggers, Weapons with Unique
 | type | Dagger |
 | requirements | 75 LHT |
 | damage | 12.5 |
-| scaling | 10 |
+| scaling | LHT: 10 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |

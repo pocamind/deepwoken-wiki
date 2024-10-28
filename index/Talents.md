@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118126
+revid: 118138
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -127,7 +127,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
-        -   Flamecharm: Red
+        -   Flamecharm: Orange
         -   Frostdraw: Blue
         -   Thundercall: Yellow
         -   Galebreath: Green

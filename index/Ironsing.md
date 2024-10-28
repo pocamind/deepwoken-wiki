@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 118081
+revid: 118137
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -166,7 +166,8 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
  | Conjure metal from within, impaling surrounding entities. |  | Metal + Slash | Send metal spikes piercing through your body, impaling all nearby targets.
 
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
--   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it
+-   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
+    -   The blood particles are always red, even if you have Alloyblood.
 
  |
 |  | Metal Turret | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
@@ -656,7 +657,7 @@ You don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is re
 
  | 
 
-Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you take slash damage is now **grey**.
+Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals bleed damage is now **grey**.
 
  |
 
@@ -840,7 +841,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
 -   Ironsing is called 'Element' in the game's code.
--   Despite the blood visual effect on your character when you take slash damage turning Grey if you have the Alloyblood talent, the blood visual effect from **Iron Quills** is still Red like normal.
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect.

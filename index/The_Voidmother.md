@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 109187
+revid: 118148
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Knives of Eylis]
@@ -16,6 +16,8 @@ categories: [NPCs, The Knives of Eylis]
 ## Description
 
 The **Voidmother** is a formless, shapeless being. She is located in the [Voidheart](Voidheart.md), and can help you leave it by teleporting you to where you last used your Voideye, or to [Lower Erisia](Lower_Erisia.md). She is also located in the Trial of one, right above the player when they first get teleported to the Trial of one, as well as the roof of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
+The Voidmother views the player as naive, often referring to them as "dull knife" or "Knife." She condemns shallow or superficial desires like fame or strength, commenting that they should "seek a future worth living instead," or they can "find more tangible purposes here." She appreciates motivations that have a worthful purpose, like taking care of someone.
 
 ## Dialogue
 
@@ -82,11 +84,11 @@ The **Voidmother** is a formless, shapeless being. She is located in the [Voidhe
 </tr>
 <tr>
   <td colspan="6"><i><b>Very well, Knife.</b></i></td>
-  <td colspan="6"><i><b>Your heart beats faster still. Return once you have killed your fear.</b></i></td>
+  <td colspan="6"><s><i><b>Your heart beats faster still. Return once you have killed your fear.</b></i></s> no longer this</td>
 </tr>
 <tr>
   <td colspan="6">End (You get teleported)</td>
-  <td colspan="6">End</td>
+  <td colspan="6">End (Spawns portals)</td>
 </tr>
 </tbody>
 </table>
@@ -158,7 +160,7 @@ The **Voidmother** is a formless, shapeless being. She is located in the [Voidhe
   <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
 </tr>
 <tr>
-  <td colspan="12">I want to make ends meet.</td>
+  <td colspan="12">I want to be known.</td>
 </tr>
 <tr>
   <td colspan="12"><i><b>I see. For a fresh knife, you already possess dull desires. Seek a future worth living instead, Knife. You'll leave a life behind worth living if you abandon that hope. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
@@ -308,11 +310,11 @@ The **Voidmother** is a formless, shapeless being. She is located in the [Voidhe
 </tr>
 <tr>
   <td colspan="3"><i><b>Very well, Knife.</b></i></td>
-  <td colspan="3"><i><b>Your heart beats faster still. Return once you have killed your fear.</b></i></td>
+  <td colspan="3"><s><i><b>Your heart beats faster still. Return once you have killed your fear.</b></i></s> no longer this</td>
 </tr>
 <tr>
   <td colspan="3">End (You get teleported)</td>
-  <td colspan="3">End</td>
+  <td colspan="3">End (Spawns portals)</td>
 </tr>
 </tbody>
 </table>

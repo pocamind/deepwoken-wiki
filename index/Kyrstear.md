@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 114950
+revid: 118144
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2, Parrying Daggers]
@@ -17,8 +17,6 @@ categories: [Weapons, Verse 2, Parrying Daggers]
 | range | 6.5 |
 | swing speed | 0.98x |
 | endlag | 0.05s |
-| penetration | N/A |
-| chip damage | N/A |
 | special effect | Decreases your posture gain on parry. Increases your opponents posture gain when parried. |
 | offhand | Offhand only |
 | weight | 4 |
@@ -26,7 +24,7 @@ categories: [Weapons, Verse 2, Parrying Daggers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Layer 2 Chests |
+| obtainment | Second Layer Chests |
 | description | "Your reliable offhand." |
 
 ## Description

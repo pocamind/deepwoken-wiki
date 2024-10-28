@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 112914
+revid: 118146
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -32,16 +32,12 @@ Once you've founded your guild, you are given the Guild Officer tool. This tool 
 
 Within a guild there are four ranks;
 
--   **Guild Leader ♕**
-    -   Can use Chime of Dwelling and Guild Officer abilities, can invite, promote, and kick out Guild members, officers, and leutenants. They can demote and kick people manually by using Guild Officer on the desired person. Or can use it remotely within Guild Base by clicking on it and typing in the name of who they want to kick. There can only be 1 guild leader per guild.
-
--   **Guild Lieutenant ︽**
-    -   Can use Chime of Dwelling and Guild Officer abilities, can invite, promote to Officer, and kick out Guild Members by using Guild Officer on the desired person. You can have as many lieutenants as you want.
-
--   **Guild Officer ⛨**
-    -   Can use Chime of Dwelling and Guild Officer abilities, can invite and kick out Guild members by using Guild Officer on the desired person. You can have as many officers as you want.
--   **Guild Member**
-    -   Cannot use Chime of Dwelling nor Guild Officer abilities, and must buy Dwelling Charms to summon a [Guild Base](Guild_Bases.md).
+| **Rank** | **Chime of Dwelling?** | **Invite/Kick?** | **Promote?** | **Modify Guild Base?** |
+| --- | --- | --- | --- | --- |
+| **Guild Leader ♕** | **Yes** | **Yes (+remote kicking)** | **Yes** | **Yes** |
+| **Guild Lieutenant ︽** | **Yes** | **Yes (only kick members)** | **Yes (up to Officer)** | **No** |
+| **Guild Officer ⛨** | **Yes** | **Yes (only kick members)** | **No** | **No** |
+| **Guild Member** | **No (must use dwelling charms)** | **No** | **No** | **No** |
 
 Members of a guild including its leader will stay in their guild after death and/or wiping. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. You can have as many members in a guild as you want.
 
