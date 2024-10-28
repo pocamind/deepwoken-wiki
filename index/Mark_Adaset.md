@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 115414
+revid: 117931
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]

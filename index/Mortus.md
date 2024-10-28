@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 117550
+revid: 117876
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,7 +13,7 @@ categories: [NPCs]
 | name | Mortus |
 | location | Fishing Hut, near Erisia |
 
-**Mortus** is a Capra with gray hair that wears the same outfit as the [Bandits](Bandit.md) from [Lower Erisia](Lower_Erisia.md).
+**Mortus** is a Capra with gray hair that wears the [Corsair Outlaw](Corsair_Outlaw.md) Outfit.
 
 He is located in a fishing hut, on the closest small rocky island in front of Lower Erisia's main/gate beach.
 
@@ -80,8 +80,5 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 ## Trivia
 
 -   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
--   The one that "look kinda like a shark stood up" is a [Megalodaunt](Megalodaunt.md).
-    -   Furthermore, the dialogue claims that it "fed us for weeks it did" which shows that Megalodaunt flesh is _probably_ **edible**. (Though we don't see Megalodaunt flesh / meat as a drop in-game. Would be cool though.)
--   The one that "look like a gator having a really bad day" is a [Thresher](Thresher.md).
--   The one "with claws longer than a man is tall" is a [Terrapod](Terrapod.md).
-    -   The claws of a Terrapod aren't actually as tall as a man.
+-   The dialogue claims that a Megalodaunt "fed \[them\] for weeks it did" which shows that Megalodaunt flesh is _probably_ **edible** (though we don't see Megalodaunt flesh / meat as a drop in-game).
+-   The claws of a Terrapod aren't actually as tall as a man.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 117373
+revid: 117934
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -108,3 +108,4 @@ The mirror is a bot and so it does not come up with tactics and plans before the
 -   The animation for Reveal closely resembles hollow knight's 3rd phase boss fight self stab move, possibly being a tiny reference.
 
 -   The animation for Reveal also closely resembles Elden Ring's Ash of War Seppuku with both giving a buff in exchange for health, possibly being a reference to the Souls-Borne franchise.
+-   The Mind's Reflection may be a reference to Elden Ring's Mimic Tear Boss, where you fight an identical version of yourself with same weapons, armor, and abilities.

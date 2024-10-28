@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 117861
+revid: 117935
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critical]
@@ -43,3 +43,4 @@ The aerial critical dashes towards the cursor's position and slams into the grou
     -   It resets your fall damage, allowing you to mitigate fall damage when timed correctly.
     -   If the cursor is not positioned on ground level to/below the player, it will play a short sound effect and cancel the critical.
     -   If the player does not reach the ground during the critical, they will stall in the air for a prolonged period.
+-   This weapon currently has more base damage and weight than the [Hivelord's Hubris](<Hivelord's_Hubris.md>).

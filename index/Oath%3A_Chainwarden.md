@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 117653
+revid: 117871
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -23,9 +23,9 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  1\. The oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with friend reputation (about to the green spot under reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
-3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the oath, only ONE Emar Vend will spawn. Whoever spawns it gets the oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the oath.)
+1.  The oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with high Friend reputation (about to the green spot under reputation) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
+3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
 
 ## Progression
 
@@ -81,15 +81,12 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Chainwardens can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
 -   Using Rupture on a chained target will break the current chain and ragdoll the target in the direction of your camera (For example, looking behind you will ragdoll them toward you).
 -   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
--   On release, was an incredibly small and lackluster oath, having only 2 mantras and no passives/talents, with Arch having said that there were no talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
-    -   This was confirmed to be an error when a shadow-patch gave Chainwarden the talents it was missing.
--   If you break your oath using a Yunshul's wish at [Temple of Hearts,](Temple_of_Hearts.md) [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
+-   On release, was an incredibly small and lackluster Oath, having only 2 Mantras and no passives/Talents, with Arch having said that there were no Talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
+    -   This was confirmed to be an error when a shadow-patch gave Chainwarden the Talents it was missing.
+-   If you break your oath using a Yunshul's wish at [Temple of Hearts](Temple_of_Hearts.md), [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
 -   Currently, this is one of two Oaths where you cannot skip progression with knowledge. (The other being [Bladeharper](Oath%253A_Bladeharper.md).)
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.
--   Chainwarden recently got a new Mantra in 9/14/2024, making the oath significantly better and an oath with 3 mantras.
 
 ## References
 
-1.  [↑](#cite-ref-1)
-    
-    File:Melonbeard finished oath.png
+1.  [↑](#cite-ref-1) File:Melonbeard finished oath.png
