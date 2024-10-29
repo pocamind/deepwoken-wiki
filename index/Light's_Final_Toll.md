@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 117981
+revid: 118195
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -11,9 +11,9 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | Light's Final Toll | |
 |---|---|
 | type | Fist |
-| requirements | 60 WIL, 35 LHT & Fist Style |
+| requirements | 60 WLL, 35 LHT & Fist Style |
 | damage | 12 |
-| scaling | WIL: 10, LHT: 4 |
+| scaling | WLL: 10, LHT: 4 |
 | range | 6.5 |
 | swing speed | 1.1x |
 | penetration | 10% |
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19.1 damage, the weapon deals 24.6 damage at 100 WIL and max LHT, and deals 24.8 at 102 WIL and max LHT.
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19.1 damage, the weapon deals 24.6 damage at 100 WLL and max LHT, and deals 24.8 at 102 WLL and max LHT.
 
 The maximum damage that this weapon can reach with with 6 Proficiency, 102 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 32.7.
 
@@ -52,11 +52,11 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 
 -   Likely inspired by **Shoot McMahon**'s _Hotel Rafflesia_ from Hunter x Hunter.
 -   This used to be the only weapon to scale from an attribute (Willpower) rather than weapon or an attunement.
-    -   When the 03/23/2024 update came, the weapon requirements were updated to make it share a req. (65 WIL → 60 WIL, 35 LHT)
+    -   When the 03/23/2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
--   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), [Soulthorn](Soulthorn.md) and [Imperial Staff](Imperial_Staff.md)) that can gain scaling past 100, as with +2/3 WLP races, you can get to a "weapon stat" of 102/103.
--   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLP.
+-   One of the few weapons (The other weapons being the [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), [Soulthorn](Soulthorn.md) and [Imperial Staff](Imperial_Staff.md)) that can gain scaling past 100, as with +2/3 WLL races, you can get to a "weapon stat" of 102/103.
+-   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Has misleading animations that extend the weapons visual reach way outside of its actual hitbox.
 -   Before 10/20/2023, the weapon used the base critical for the active fist style.
 -   Previously, before the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
