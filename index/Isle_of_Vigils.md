@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 111570
+revid: 118301
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -45,7 +45,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Mantra Shop
 
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears), [Hemafrost](Training_Gear.md#attunement-training-gears), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears), [Gale Kata](Training_Gear.md#attunement-training-gears), [Ferrofluid](Training_Gear.md) and a [Pure Heart](Training_Gear.md#attunement-training-gears) here for.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for each.
 -   Players can find the [Barber](Barber.md), who can change your looks.
 -   Players can also purchase two schematics here:
     -   [Vigil Initiate](Vigil_Initiate.md) for.
@@ -66,7 +66,7 @@ The wall
 
 ### Sparring Arena
 
--   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice, or the Revenge mantra is used on him. After being hit three time or with Revenge, if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
+-   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md#attribute-training-gears). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice, or the Revenge mantra is used on him. After being hit three time or with Revenge, if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
 
 ### Ziplines
 

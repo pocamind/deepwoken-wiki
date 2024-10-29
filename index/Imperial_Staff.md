@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 115328
+revid: 118280
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -30,9 +30,9 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 
 ## Description
 
-The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.  
-Meeting the requirement of MED and STR, the weapon deals 23.8 damage.  
-At max MED and STR, the weapon deals 31.1 damage.
+The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
+
+Meeting the requirement of MED and STR, the weapon deals 23.8 damage. At max MED and STR, the weapon deals 31.1 damage.
 
 ## Criticals
 
@@ -45,10 +45,10 @@ The Imperial Staff possess three different criticals, all of which grant the use
 
  |
 | --- | --- | --- |
-| The regular critical is a long-ranged one where the user stabs their staff forward and extends it. Ragdolls opponents on hit. | The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor which block-breaks the opponent. | The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking. |
+| The regular critical is a long-ranged one where the user stabs their staff forward and extends it. It ragdolls opponents on hit. | The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor and block-breaks the opponent. | The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking. |
 
 ## Trivia
 
--   The Imperial Staff is inspired by Sun Wukong's "金箍棒" (Jin Gu Bang), including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore. The Jing Gu Bang is Wukong's signature weapon, portrayed as a gold and red staff in most media like movies and games.
+-   The Imperial Staff is inspired by Sun Wukong's "金箍棒" (Jīn gū bàng; lit. gold cudgel), including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore. The Jīn gū bàng is Wukong's signature weapon, a pillar once owned by the Dragon King of the East Sea, portrayed as a gold and red staff in most media like movies and games.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers.
 -   Just like [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md) this weapon is locked in one-handed stance

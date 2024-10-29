@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 118236
+revid: 118282
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Eastern Luminant, Mechanics]
@@ -124,6 +124,8 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Rockmaller](Rockmaller.md)
 -   [Pernach](Pernach.md)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Kanabo](Kanabo.md)
 -   TBA
 
  | 
@@ -146,7 +148,6 @@ The Warchest is a collective point pool and emcompass the total score generated 
 
  | 
 
--   All(?) [Relics](Relics.md)
 -   [Armorer's Needle](<Armorer's_Needle.md>)
 -   [Sinner's Ash](<Sinner's_Ash.md>)
 -   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
@@ -160,6 +161,8 @@ The Warchest is a collective point pool and emcompass the total score generated 
 
  | 
 
+-   [Black Diver](Black_Diver.md)
+-   [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   TBA
 
  |

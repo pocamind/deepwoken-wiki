@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 115947
+revid: 118265
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -29,5 +29,6 @@ All players spawn with this Outfit's Schematic ready to purchase at the Blacksmi
 ## Trivia/Notes
 
 -   This Outfit is typically the first most players will buy.
--   The red coat had 1 extra durability a long long time ago.
--   The purple coat is missing the notches on the arms that all other variants have.
+-   The Red coat had 1 extra durability a long long time ago.
+-   The Purple coat is missing the notches on the arms that all other variants have.
+-   The White Coat has textures on the hands that look like a palm.

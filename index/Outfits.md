@@ -1,12 +1,14 @@
 ---
 title: Outfits
-revid: 118251
+revid: 118276
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
 ---
 
 # Outfits
+
+**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. They can also be repaired passively with the [Thresher Scales](Talents.md) Talent. The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
 
 ## Transmoging
 
@@ -21,7 +23,13 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
     -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing Armor:** Reduce damage taken from the element mentioned.
         -   **Note:** Against mantras with double typing (IE: Wind + Slash), the highest resistance is used to reduce its damage.
 -   **Ether Regen:** Increase Ether regeneration.
+-   **Sanity:** Gives bonus sanity to the Wearer.
+    -   Currently only the [Black Diver](Black_Diver.md) Outfit and the [Darkened Bastion](Darkened_Bastion.md) Outfit has this stat.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
+    -   To see Outfits that grant Stealth, look over at the [Stealth](Stealth.md) page.
+    -   Stealth Further reduces [Tacet's](Murmur%253A_Tacet.md) Detection range.
+-   **Carry Load:** Allows the user to carry more items.
+    -   Currently only the [Union Initiate](Union_Initiate.md) Outfit has this stat.
 -   **Talent:** A passive ability linked to the outfit.
 
 ## Repairing your Outfit
@@ -72,84 +80,84 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <th>Master</th>
 </tr>
 <tr>
-  <td>Pathfinders</td>
+  <td><b>Pathfinders</b></td>
   <td><a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a></td>
   <td><a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a></td>
   <td><a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a></td>
   <td></td>
 </tr>
 <tr>
-  <td><a href="Etrea.md">Etrea</a></td>
+  <td><b><a href="Etrea.md">Etrea</a></b></td>
   <td></td>
   <td><a href="Vigil_Initiate.md">Vigil Initiate</a></td>
   <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Etrean_Guard.md">Etrean Guard</a></td>
   <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></td>
 </tr>
 <tr>
-  <td><a href="The_Central_Authority.md">The Central Authority</a></td>
+  <td><b><a href="The_Central_Authority.md">The Central Authority</a></b></td>
   <td></td>
   <td>Authority Peacekeeper Armour</td>
   <td><a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a></td>
   <td><a href="Authority_Commander.md">Authority Commander</a></td>
 </tr>
 <tr>
-  <td><a href="The_Divers.md">The Divers</a></td>
+  <td><b><a href="The_Divers.md">The Divers</a></b></td>
   <td></td>
   <td><a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a></td>
   <td><a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a></td>
   <td><a href="Black_Diver.md">Black Diver</a></td>
 </tr>
 <tr>
-  <td><a href="The_Hive.md">The Hive</a></td>
+  <td><b><a href="The_Hive.md">The Hive</a></b></td>
   <td></td>
   <td></td>
   <td><a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
   <td></td>
 </tr>
 <tr>
-  <td><a href="The_Ignition_Union.md">The Ignition Union</a></td>
+  <td><b><a href="The_Ignition_Union.md">The Ignition Union</a></b></td>
   <td><a href="Union_Initiate.md">Union Initiate</a></td>
   <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></td>
   <td><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></td>
   <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
 </tr>
 <tr>
-  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td><b><a href="The_Summer_Company.md">Summer Company</a></b></td>
   <td></td>
   <td><a href="Summer_Company_Uniform.md">Summer Company Uniform</a></td>
   <td></td>
   <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
 </tr>
 <tr>
-  <td>The Children Of Navae</td>
+  <td><b>The Children Of Navae</b></td>
   <td></td>
   <td><a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></td>
   <td></td>
   <td><a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
 </tr>
 <tr>
-  <td><a href="The_Hundred_Legions.md">The Hundred Legions</a></td>
+  <td><b><a href="The_Hundred_Legions.md">The Hundred Legions</a></b></td>
   <td></td>
   <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
   <td></td>
   <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
 </tr>
 <tr>
-  <td><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></td>
+  <td><b><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></b></td>
   <td><a href="Whaler_Initiate.md">Whaler Initiate</a></td>
   <td></td>
   <td><a href="Whaler_Coat.md">Whaler Coat</a></td>
   <td></td>
 </tr>
 <tr>
-  <td><a href="Lost_Celtor.md">Lost Celtor</a></td>
+  <td><b><a href="Lost_Celtor.md">Lost Celtor</a></b></td>
   <td></td>
   <td></td>
   <td></td>
   <td><a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></td>
 </tr>
 <tr>
-  <td><a href="The_Ministry.md">The Ministry</a></td>
+  <td><b><a href="The_Ministry.md">The Ministry</a></b></td>
   <td></td>
   <td></td>
   <td></td>

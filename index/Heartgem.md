@@ -1,6 +1,6 @@
 ---
 title: Heartgem
-revid: 38024
+revid: 118298
 source: https://deepwoken.fandom.com/wiki/Heartgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Training Items](Training_Items%253Fredirect=no.md)
+-   [Training Gear#Attunement Training Gears](Training_Gear.md#attunement-training-gears)

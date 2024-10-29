@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 117734
+revid: 118285
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -58,7 +58,7 @@ Mantra shop
 
 #### Mantra Shop
 
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD), and [Ferrofluid](Training_Gear.md) (IRN) here for each.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for each.
 -   Above the mantra shop, accessible through the weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for.
 
 Weaponry

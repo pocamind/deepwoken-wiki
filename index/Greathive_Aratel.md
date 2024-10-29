@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 117441
+revid: 118303
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -67,9 +67,9 @@ Fountain in the Hidden Village
 
 #### Library
 
--   Players can buy basic [training items,](Training_Gear.md)
+-   Players can buy basic [Training Gears](Training_Gear.md)
 -   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
--   The [Mystic](Mystic.md) is here, going left past the training items will take you there.
+-   The [Mystic](Mystic.md) is here, going left past the training gears will take you there.
 
 ### Root Plaza
 
@@ -126,7 +126,7 @@ The most powerful being in the universe rules over his subjects
 #### Observatory
 
 -   Players can find the Celestial Telescope here.
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
 
 #### Balconies
 

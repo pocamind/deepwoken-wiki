@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 116321
+revid: 118300
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -66,11 +66,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.4s | Lock Item (Full) |
 |  | 1.1s | [Notes](Notes.md) Gained (Sell) |
 |  | 1.3s | [Notes](Notes.md) Lost (Buy) |
-|  | 1.6s | [Encyclopedia](Training_Gear.md) Page Flip |
-|  | 2.2s | [Pure Heart](Training_Gear.md) / [Bloodless Gem](Mantra_Modifiers.md#deep-gems) Proc |
-|  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
-|  | 1.9s | [Hearthgem](Training_Gear.md) |
-|  | 4.9s | [Hemafrost](Training_Gear.md) |
+|  | 1.6s | [Encyclopedia](Training_Gear.md#attribute-training-gears) Page Flip |
+|  | 2.2s | [Pure Heart](Training_Gear.md#attunement-training-gears) / [Bloodless Gem](Mantra_Modifiers.md#deep-gems) Proc |
+|  | 9.0s | [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) |
+|  | 1.9s | [Hearthgem](Training_Gear.md#attunement-training-gears) |
+|  | 4.9s | [Hemafrost](Training_Gear.md#attunement-training-gears) |
 |  | 0.9s | Foraging |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 117253
+revid: 118293
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -60,7 +60,7 @@ Raw materials harvested from the environment.
 
 ― Lotus Flavour Text Description
 
-Lotuses are unique ingredients that are used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Items](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within voidzones with each voidzone growing one or two specific lotuses. Alternatively, they can be found at [The Hidden Grove](The_Hidden_Grove.md) which spawns 5 random lotuses after using a canteen charge at the fountain.
+Lotuses are unique ingredients that are used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Gear](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within voidzones with each voidzone growing one or two specific lotuses. Alternatively, they can be found at [The Hidden Grove](The_Hidden_Grove.md) which spawns 5 random lotuses after using a canteen charge at the fountain.
 
 Lotuses can also be used to obtain the [Saltchemist Oath](Oath%253A_Saltchemist.md).
 

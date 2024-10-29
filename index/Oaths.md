@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 118212
+revid: 118271
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -51,7 +51,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ## Oath Skipping
 
-If you've progressed a certain oath once before to max, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note that you still need to get the requirements of the oath you wish to skip. If you are a chainwarden or bladeharper, you cannot skip the oath progression.
+If you've progressed a certain oath once before to max, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the oath you wish to skip. If you are a chainwarden or bladeharper, you cannot skip the oath progression.
 
 ## Oathbreaker - Oath Removal
 
@@ -143,3 +143,5 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the oath, and one for each subsequent Talent.
+-   [_Oathless_](Oath%253A_Oathless.md) Does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the _oath_ immediately.
+    -   This is only after uptraining the O_athless_ once.
