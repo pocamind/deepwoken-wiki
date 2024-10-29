@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 118192
+revid: 118355
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -99,7 +99,9 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
  | Prayer Beads |  | Prolonged usage of the item, losing [Sanity](Insanity.md), vomiting | Train your Willpower through meditation. | _100 uses_ | 
 
-(add a) picture of the prayer beads
+File:Prayyerbeads.png
+
+Prayer beads on a shelf in Castle Light
 
  |
 | 

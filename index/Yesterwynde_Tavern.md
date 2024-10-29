@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 114140
+revid: 118328
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Events]
@@ -24,7 +24,7 @@ There are a total of seven tavern doors scattered across the Lumen that can lead
 
 1.  In front of [Erisia](Erisia.md), sailing from [Etris](Etris.md), where the tree bandits would be placed around a campfire, on the right.
 2.  Near the food stand in the [Isle of Vigils](Isle_of_Vigils.md), walk behind stand that [Lance's Brother](<Lance's_Brother.md>) owns and to the left, continuing further until you're met with a gateway on the side of the rock.
-3.  Also in [Isle of Vigils](Isle_of_Vigils.md), near the [Barber](Barber.md) or [Mantra training item](Training_Gear.md#attunement-training) shop. On the right of it would be the gateway.
+3.  Also in [Isle of Vigils](Isle_of_Vigils.md), near the [Barber](Barber.md) or [Mantra training gear](Training_Gear.md#attunement-training-gears) shop. On the right of it would be the gateway.
 4.  In [Minityrsa](Minityrsa.md), found by going to the shore and hugging the left edge of the island until reaching the area with the downwards zipline to the shore next to another zipline. The door is embedded in a wall next to free snow-capped trees.
 
 With the other doors being placed in the Eastern Luminant are:
@@ -171,6 +171,10 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+**View of inside the tavern**
 
 ## Music Tracks
 

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 118019
+revid: 118338
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -34,21 +34,21 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 The Soulthorn is a Unique Weapon that can be obtained from the chest dropped from the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance.
 
   
-The maximum damage able to be achieved is 40.2 if the user has 103 intelligence, 100 medium, and 6 proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
+The maximum damage able to be achieved is 40.2 if the user has 103 Intelligence, 100 Medium, and 6 Proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
 
 ## Critical
 
-The Soulthorn has 3 critical variants which depend on the amount of soul stacks on your opponent.
+The Soulthorn has three critical variants which depend on the amount of soul stacks on your opponent.
 
-Every M1 of Soulthorn that connects applies a soul stack, up to 3 at max. At max stacks, your opponent will have a rotating, star-like aura.
+Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, your opponent will have a rotating, star-like aura.
 
-0 stacks: The sword glows but nothing happens.
+At 0 stacks, the sword glows but nothing happens.
 
-1-2 stacks: You leap and release a heavy chop that ragdolls your opponent and pulls them towards you. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.
+At 1-2 stacks, you leap and release a heavy chop that ragdolls your opponent and pulls them towards you. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.
 
-3 stacks: Teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.
+At 3 stacks, you teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.
 
-## Tips/Trivia
+## Trivia
 
 -   Soulthorn is the first Unique rarity weapon.
 -   Sitting at the middle of the crossguard is a spherical object similar to the [pieces of The Forge](Artifacts.md) or [the artifacts](Relics.md) used by [The Hive](The_Hive.md).

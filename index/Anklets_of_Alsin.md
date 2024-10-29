@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 117978
+revid: 118312
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Weapons, Fists]
 | requirements | 25 LHT [REQUIRES A KICK STYLE] |
 | damage | 13.5 |
 | scaling | LHT: 9 |
-| range | 7 |
+| range | 6.5 |
 | swing speed | 1.14x |
 | endlag | 0.05s |
 | penetration | 15% |

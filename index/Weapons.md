@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 117745
+revid: 118353
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -25,7 +25,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
 -   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral enchant.
 
-[Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
+[Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. ~Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.~ (Re-equipping your weapon will add at least 1 star to it)
 
 ### Total Amount of Weapons Available in the Game
 

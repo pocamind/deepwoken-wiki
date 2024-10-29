@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 117740
+revid: 118313
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -24,7 +24,7 @@ There are a few items that the Hippocampal Pool will not accept, meaning they wi
 
 -   [Ingredients](Ingredients.md)
 -   [Mantra modifiers](Mantra_Modifiers.md) (some mantra ingredients _can_ be passed down such as [Crystal lenses](Mantra_Modifiers.md) or [Aeon longstones](Mantra_Modifiers.md))
--   [Training items](Training_Gear.md)
+-   [Training Gears](Training_Gear.md)
 -   [Food](Food.md)
 -   [Dwelling Charm](Dwelling_Charm.md)
 -   [Relics](Relics.md)

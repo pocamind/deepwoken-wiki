@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 117147
+revid: 118349
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -86,12 +86,12 @@ While not required, things listed below can prove to make your experience much e
 -   Depths Chests (5 & 10)
 -   Brown Chests (15 - 50)
 -   [Stormseye](Stormseye.md) (15+)
--   [Enchant Stones](Enchant_Stone.md) (25 - 50)
--   [Enchant Grease](Enchant_Grease.md) (25 - 50)
--   [Authority Commander,](Authority_Commander.md) [Ignition Deepdelver](Ignition_Deepdelver.md) (25+)
+-   [Enchant Stones](Enchant_Stone.md) (25, 40+)
+-   [Enchant Grease](Enchant_Grease.md) (25, 40+)
+-   [Authority Commander,](Authority_Commander.md) [Ignition Deepdelver](Ignition_Deepdelver.md) (40+)
 -   Relic Chests (Wave 25 & 50)
--   [Railblade](Railblade.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Gran Sudaruska](Gran_Sudaruska.md) and [Ignition Deepcrusher](Ignition_Deepcrusher.md) (30+)
--   Guaranteed 2 Star loot (40+)
+-   [Railblade](Railblade.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Gran Sudaruska](Gran_Sudaruska.md) and [Ignition Deepcrusher](Ignition_Deepcrusher.md) (40+)
+-   Guaranteed 2 Star Loot, Only Layer 2 Loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md), [Pathfinder Elite](Pathfinder_Elite.md), [Justicar Defender](Justicar_Defender_Coat.md) (50)
 
 ## Waves

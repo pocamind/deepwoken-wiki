@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 117277
+revid: 118316
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken]
@@ -39,7 +39,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   A death of one thousand cuts during a spar with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Try to threaten [Akira](Akira.md) and fail to meet the Charisma requirement.
--   Get crushed by a [Boulder](Training_Gear.md).
+-   Get crushed by a [Boulder](Training_Gear.md#attribute-training-gears).
 -   Get dissolved by acid lakes found at [Upper Erisia](Upper_Erisia.md).
 -   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
 -   Be detected by the anti-cheat, typically without actually cheating and without being banned. Also known as _being AA-gunned_.

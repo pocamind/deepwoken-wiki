@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 112909
+revid: 118314
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -80,7 +80,7 @@ When customizing your character, there is a total of three [Weapon Classes](Weap
 -   **[Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons):** _[Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md)_
 -   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), (Plus [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), and [Jus Karita](Jus_Karita.md) if formerly unlocked)_.
 
-_([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
+_([Weapon Manual](Training_Gear.md#attribute-training-gears) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
 
 ### Starting Weapon Classes
 

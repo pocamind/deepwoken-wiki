@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 114733
+revid: 118318
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea, Kingdom of Etrea Enemies]
@@ -47,7 +47,7 @@ If the instructor is the one that downs the player they will disappear and the p
 
 -   It's an instructor, he's meant for practicing basic combat abilities.
 -   Same skill level as a non-dagger [Bandit Leader](Bandit_Leader.md) and does not wield any attunements.
--   You can use the [Training Vest](Training_Gear.md) to train fortitude by letting him hit you. Most effective at early levels.
+-   You can use the [Training Vest](Training_Gear.md#attribute-training-gears) to train fortitude by letting him hit you. Most effective at early levels.
 -   You can basically train all your stats on him on early levels.
 -   Easily killed if you know how to parry.
 -   Recommend for any new players to train on this guy before fighting any other NPCs.

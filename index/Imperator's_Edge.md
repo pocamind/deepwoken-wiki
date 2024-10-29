@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 118034
+revid: 118342
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundred Legions]
@@ -26,23 +26,19 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundre
 | obtainment | Primadon, Fishing |
 | description | A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory. |
 
-“ Carried at the forefront of the Hundred Legion, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory. ”
-
-― Imperator's Edge
-
 ## Description
 
 The **Imperator's Edge** is a legendary medium spear weapon that is only obtainable from Primadon. It is a gargantuan spear with a glowing tip infused with the very essence of light itself.
 
 A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with it's "blinding brilliance".
 
-It is decorated with symbols of the Legions themselves.
+It is decorated with symbols of the Legions.
 
-The weapon has a unique gimmick on hits: If you land **three** hits on an enemy **with only the tip of the spear**, you enter an "Enlightened" state, signified by halos around your head. This state only changes the critical, and isn't believed to have any other effects.
+The weapon has a unique mechanic: if you land **three** hits on an enemy **with only the tip of the spear**, you enter an "Enlightened" state, signified by halos around your head. This state only changes the critical, and isn't believed to have any other effects.
 
 ## Critical
 
-You preform three thrusts forward with the weapon, moving you forwards in the progress. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect. It has a cooldown of 5~ seconds.
+Perform three thrusts forward with the weapon, moving you forwards in the progress. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect. It has a cooldown of 5~ seconds.
 
 If running and using a critical attack thrust forward once, firing a light spear projectile dealing high posture damage.
 

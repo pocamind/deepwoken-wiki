@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 118280
+revid: 118340
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -19,7 +19,6 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | penetration | 10% |
 | special effect | Ranged Critical (ragdolls), Aerial Critical (slam, instant guard break), Running Critical (multi-hit) |
 | stances | 2 Handed, 1 Handed |
-| selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
@@ -34,18 +33,13 @@ The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requi
 
 Meeting the requirement of MED and STR, the weapon deals 23.8 damage. At max MED and STR, the weapon deals 31.1 damage.
 
-## Criticals
+## Critical
 
-The Imperial Staff possess three different criticals, all of which grant the user a heavenly crown on their head.
+The regular critical is a long-ranged one where the user stabs their staff forward and extends it. It ragdolls opponents on hit.
 
-| 
- | 
+The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor and block-breaks the opponent.
 
- | 
-
- |
-| --- | --- | --- |
-| The regular critical is a long-ranged one where the user stabs their staff forward and extends it. It ragdolls opponents on hit. | The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor and block-breaks the opponent. | The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking. |
+The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking.
 
 ## Trivia
 

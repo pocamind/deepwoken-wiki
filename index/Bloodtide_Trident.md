@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 118030
+revid: 118345
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item]
@@ -31,11 +31,11 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item]
 
 The Bloodtide Trident is a Medium Weapon in the Spear category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime.
 
+It cannot be dropped to other players.
+
 ## Critical
 
-The Bloodtide Trident has a unique critical that is similar to the [Flareblood Kama](Flareblood_Kamas.md), however, instead of launching it's target into the air, it pulls the target towards the user. The spear's targeting is controlled by the player's cursor.
-
-The Trident also boasts a far larger range then it's dagger brethren.
+The Bloodtide Trident has a unique critical that is similar to the [Flareblood Kamas](Flareblood_Kamas.md), however, instead of launching its target into the air, it pulls the target towards the user. The spear's targeting is controlled by the player's cursor.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 118098
+revid: 118330
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -34,12 +34,12 @@ The **Deepspindle** is a Legendary [Rapier](Weapons.md#rapiers); a malevolent ma
 
 The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent, or by chance from a random related event:
 
-1.  Obtain [Shadow Travel](Talents.md) or Shadow's Flight by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
+1.  Obtain [Shadow Travel](Talents.md) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of Silhuett's event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
     -   [Outpost Antumbra](Outpost_Antumbra.md)
     -   [Minityrsa](Minityrsa.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
-3.  Use [Shadow Travel](Shadowcast.md) or [Shadow's Flight](<Shadow's_Flight.md>) on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
+3.  Use [Shadow Travel](Shadowcast.md) or Shadow's Flight on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
     -   Depending on the type of event, the fight will initiate differently: Silhuett's entrance always guarantee a [Ministry Agent](Ministry_Agent.md), while random spawned entrances will have the fight differ regarding your reputation with the Ministry.
     -   The guaranteed drops from Silhuett's event can only be obtained once per slot; corresponding fights with the Ministry Agent will only guarantee the [Deepscorn Casque](Deepscorn_Casque.md).
     -   Assuming Ally reputation with [The Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead. Low/Neutral reputation random encounters will still have you fight the Ministry Agent, but will not guarantee drops like Silhuett's event.

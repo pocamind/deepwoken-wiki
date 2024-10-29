@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 111868
+revid: 118352
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -37,4 +37,4 @@ The Moonseye, physically, is most likely the Deepwoken equivalent of the moon, a
 -   The player's cursor whilst in shift-lock can actually be seen as a tiny Moonseye.
 
 1.  [↑](#cite-ref-1) [Moonseye Gauntlets](Moonseye_Gauntlets.md)
-2.  [↑](#cite-ref-2) [Soulthorn](Soulthorn.md) description
+2.  [↑](#cite-ref-2) [Soulthorn](Soulthorn.md)

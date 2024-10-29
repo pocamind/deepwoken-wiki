@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 116197
+revid: 118321
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -175,7 +175,7 @@ After Chaser is defeated, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens
 -   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
 -   Rarely, [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 
-Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
+Additionally, the player will receive a significant amount of experience, [attribute training](Attributes.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
 
 **Roughly** six Chaser solos, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
