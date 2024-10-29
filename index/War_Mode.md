@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 118226
+revid: 118236
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Eastern Luminant, Mechanics]
@@ -67,6 +67,7 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
 -   [The Path's Defender](<The_Path's_Defender.md>)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+-   TBA
 
  | 
 
@@ -128,11 +129,19 @@ The Warchest is a collective point pool and emcompass the total score generated 
  | 
 
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>)
+-   [Bluesteel Boots](Bluesteel_Boots.md)
+-   [Dawnfist's Ring](<Dawnfist's_Ring.md>)
 -   [Light Eater Ring](Light_Eater_Ring.md)
+-   [Finisher's Ring](<Finisher's_Ring.md>)
 -   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
+-   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
+-   [Khan Helmet](Legion_Helmet.md)
+-   [Maestro's Ring](<Maestro's_Ring.md>)
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)
+-   [Ministry Operative Cloak](Ministry_Operative_Cloak.md)
 -   [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
 -   [Ring of Pestilence](Ring_of_Pestilence.md)
+-   [Waning Ring](Waning_Ring.md)
 -   TBA
 
  | 
@@ -154,7 +163,3 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   TBA
 
  |
-
-## Trivia
-
--   To be filled out

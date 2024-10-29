@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 116931
+revid: 118233
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Duke Erisia, Maestro Evengarde RestPurchased from:, Chili |
+| obtainment | Chests from:, Aratel Island, Duke Erisia, Maestro Evengarde Rest, War ModePurchased from:, Merchant Ships |
 | description | "..." |
 
 ## Description

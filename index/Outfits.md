@@ -1,14 +1,12 @@
 ---
 title: Outfits
-revid: 117666
+revid: 118251
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
 ---
 
 # Outfits
-
-**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. They can also be repaired passively with the [Thresher Scales](Talents.md) Talent. The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
 
 ## Transmoging
 
