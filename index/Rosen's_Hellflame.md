@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 117579
+revid: 118361
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -27,7 +27,7 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Uniq
 
 ## Description
 
-**Rosen's Hellflame** is a legendary Rifle, boasting a design similar to a bulked-up [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with a gilded stock on the rifle and magazine made to hold fire. This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md),[Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)(probably very rare), [Saramaed Hollow](Saramaed_Hollow.md) and [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
+**Rosen's Hellflame** is a legendary Rifle, boasting a design similar to a bulked-up [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with a gilded stock on the rifle and magazine made to hold fire. This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)(probably very rare), [Saramaed Hollow](Saramaed_Hollow.md), and [Chaser, Scholar of the Crimson Contract.](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 This weapon scales off Medium and Flamecharm.
 
@@ -46,3 +46,4 @@ The jumping critical causes your character to perform a side flip, slamming the 
 -   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullet_Casings.md).
     -   Additionally, the Bullet Casings change the color of the flames that come out on the 2nd and 4th M1.
 -   Before October 8th 2024's update, The critical cooldown started as soon as the button was pressed, Allowing for the grounded crit to essentially have no cooldown if you had the ether to spam it.
+-   Using the Rosen's Hellflame's Grounded Crit make you immune to the Ferryman's Lightning Assault.

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 115764
+revid: 118366
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,7 +30,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
   The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure>
   <ul>
-    <li>Spitting with <kbd>T</kbd> on Humanoids also restores ~5% of your HP. (Not recommended as you'll be forced to stand still for the taunt).</li>
+    <li>Spitting with <kbd>T</kbd> on Humanoids also restores 3% of your HP. (Not recommended as you'll be forced to stand still for the taunt).</li>
   </ul></td>
 </tr>
 <tr>

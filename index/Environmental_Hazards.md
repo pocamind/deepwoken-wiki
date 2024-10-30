@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 114753
+revid: 118357
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -90,7 +90,7 @@ categories: [Mechanics]
 <tr>
   <td>Lava</td>
   <td>Miner's Landing, Saramaed Hollow</td>
-  <td>Slow loss of HP, tick damage over time, puts you in Danger.</td>
+  <td>Slow loss of HP, tick damage over time, puts you in Danger. Does not affect NPCs.</td>
 </tr>
 </tbody>
 </table>
