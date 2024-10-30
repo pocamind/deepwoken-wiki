@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 118214
+revid: 118422
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -36,7 +36,7 @@ Crescendo shares its M1s with other twinblades.
 
 The running attack consists of two hits; the first one comes out normally, while the second one is slightly delayed. If the first hit is parried, the second one does not come out.
 
-Like all other Twinblades, the Crescendo consists of an unique aerial attack animation.
+Like all other Twinblades, the Crescendo possesses a unique aerial attack animation.
 
 ## Critical
 
@@ -45,4 +45,4 @@ Preform two spinning attacks with hyperarmour, however, like [Starkindred's](Oat
 ## Trivia
 
 -   The blades resemble [Krulian Knives](Krulian_Knife.md).
--   For a while after the weapons release, it's crit was unparriable. This was later confirmed to be a bug and fixed.
+-   For a while after the weapons release, its crit was unparriable. This was later confirmed to be a bug and fixed.

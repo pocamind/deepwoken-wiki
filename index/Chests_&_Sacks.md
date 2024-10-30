@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 115792
+revid: 118438
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,8 +38,8 @@ The color of a chest depends on where you got it from, consisting of four variat
 A Mimic Chest
 
 -   [Megalodaunt](Megalodaunt.md)
--   [Crimson Megalodaunt](Megalodaunt.md)
--   [Alpha Megalodaunt](Megalodaunt.md)
+-   [Crimson Megalodaunt](Crimson_Megalodaunt.md)
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
 -   [Thresher](Thresher.md)
 -   [Nautilodaunt](Nautilodaunt.md)

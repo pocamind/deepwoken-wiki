@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 118061
+revid: 118423
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Alloyed Weapons]
@@ -33,6 +33,8 @@ The Crescent Cleaver is a mid-game Heavy Weapon. The Crescent Cleaver is [Alloya
 ## Critical
 
 After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable. This critical is shared with the [Kyrscleave](Kyrscleave.md).
+
+  
 
 ## Trivia
 

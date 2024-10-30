@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 118094
+revid: 118427
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -25,7 +25,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Diluvian Mechanism, Island Events |
+| obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, The Diluvian Mechanism, Island Events |
 | description | "A prized blade supposedly forged during the Canticlysm by the first Galebreathers." |
 
 ## Description
@@ -51,11 +51,11 @@ With 100 MED and 100 WND, it will deals 30.6 damage
 
 ## Critical
 
-### One Handed Critical (2 Blades)
+### One Handed Critical
 
 The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
 
-### Two Handed Critical (1 Blade)
+### Two Handed Critical
 
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 
@@ -63,7 +63,7 @@ The user shoots a blast of air and on collision or after a short amount of time 
 
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
-    -   Additionally, the original model of the Curved Blade of Wind used to closely ressemble the Windshear from The Elder Scrolls V: Skyrim.
+    -   Additionally, the original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has a meaning,\[citation needed\] but is currently unknown, and the other runes near the tip are a mix of different ancient runic dialects that don't translate to anything.
 -   As the weapon is a dual wield, you are unable to utilise a Shield or Off-Hand gun.

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 118397
+revid: 118421
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]

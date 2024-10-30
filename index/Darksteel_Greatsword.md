@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 118062
+revid: 118428
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons]
@@ -28,7 +28,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 
 ## Description
 
-The Darksteel Greatsword is a midgame Greatsword used by [The Ignition Union](The_Ignition_Union.md) and [Blacksteel Pirates](Blacksteel_Pirate.md). It has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. This weapon is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a glazed purple texture. It's commonly found in chests from [The Depths](The_Depths.md), [The Duke](Duke_Ishamon_Erisia.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Miner's Landing](<Miner's_Landing.md>), and is often rewarded from bounty chests and [The Blacksmith](Blacksmith.md) when given pure ore. It also drops from Blacksteel Pirates and chests in the overworld at [Summer Isle](Summer_Isle.md) and around [Aratel Island](Aratel_Island.md) ([Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Greathive Aratel](Greathive_Aratel.md)), though it drops much less often from these areas. Now, the quickest and easiest way to acquire this weapon without relying on chance is to buy it at [Miner's Landing](<Miner's_Landing.md>) for only 200 notes. You can find it resting against a wall near the entrance of the [Saramaed Summit](Saramaed_Summit.md).
+The Darksteel Greatsword is a midgame Greatsword used by [The Ignition Union](The_Ignition_Union.md) and [Blacksteel Pirates](Blacksteel_Pirate.md). It has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. This weapon is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a glazed purple texture. It's commonly found in chests from [The Depths](The_Depths.md), [The Duke](Duke_Ishamon_Erisia.md), [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Miner's Landing](<Miner's_Landing.md>), and is often rewarded from bounty chests and the [Blacksmith](Blacksmith.md) when given pure ore. It also drops from Blacksteel Pirates and chests in the overworld at [Summer Isle](Summer_Isle.md) and around [Aratel Island](Aratel_Island.md) ([Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Greathive Aratel](Greathive_Aratel.md)), though it drops much less often from these areas. Now, the quickest and easiest way to acquire this weapon without relying on chance is to buy it at [Miner's Landing](<Miner's_Landing.md>) for only 200 notes. You can find it resting against a wall near the entrance of the [Saramaed Summit](Saramaed_Summit.md).
 
 ## Critical
 

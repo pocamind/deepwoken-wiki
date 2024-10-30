@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 118097
+revid: 118426
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
 ---
 
 # Crypt Blade
@@ -29,17 +29,14 @@ categories: [Weapons, Pages with broken file links, Greatswords, "Attunement-bas
 
 ## Description
 
-File:Ministry Chest crypt blade drop.png
-
-Proof that you can get a crypt blade of the ministry event
-
 The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
 
 The Crypt Blade comes with 2 passive abilities:
 
 -   **Last Dead's Boon** - M1 attacks now steal ether.
 
--   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
+-   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md)).
+
 -   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to blazing enchant.
 
 ## Critical
@@ -55,7 +52,7 @@ The critical has a cooldown of ten seconds.
 ## Trivia
 
 -   The original model for the Crypt Blade was a [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
-    -   The old description of the Crypt Blade was ("Wrought from durable darksteel, these blades where popularised by the Ignition Union as a tools against the Deep."), which happens to be the exact description of the Darksteel Greatsword.
+    -   The old description of the Crypt Blade was "Wrought from durable darksteel, these blades where popularised by the Ignition Union as a tools against the Deep." which happens to be the exact description of the Darksteel Greatsword.
 -   It used to be unobtainable, however, the update that introduced [Chime of Conflict](Chime_of_Conflict.md) also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI).
 -   The original updated Crypt Blade contained 30k vertices. Following the 3/27/2023 update, this was reduced to a mere 2.5k vertices.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.
@@ -63,4 +60,4 @@ The critical has a cooldown of ten seconds.
 -   During the original addition of this weapon before it's temporary removal, the scaling used to be unreasonably high at 20 SHW scaling and also had 0.7 swing speed without endlag.
 -   Meeting the requirement of SDW and HVY, the weapon deals 35.8 damage.
 -   At max SDW and HVY, the weapon deals 43.5 damage.
--   Despite being named **Crypt** Blade, it cannot be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
+-   Despite being named **Crypt** Blade, it cannot be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). The "Crypt" is likely metaphorical, representing how it's made from corpses.

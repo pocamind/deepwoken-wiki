@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 117246
+revid: 118419
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -872,6 +872,7 @@ N/A
 -   The _"Gale Leap"_ Talent requires cliffs of certain height. Strangely, the Talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
 -   The \[Q\] key activates Gale Dash.
 -   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
+-   Similarly to every other Wisp mantra, **Gale Wisp** gives the player a finger on the hand that casts the mantra
 -   Jumping before activating the _"Tempest Wind"_ Talent will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know you're doing it right when you hear an inhale sound.

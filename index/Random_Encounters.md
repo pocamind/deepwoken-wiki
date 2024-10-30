@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 117700
+revid: 118432
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -33,16 +33,6 @@ Groups of NPCs from different factions will spawn in Etrean Luminant and attack 
 -   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   [Legion Soldiers](Legion_Soldier.md) vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   [Legion Captain](Legion_Captain.md) + Legion Soldier vs Authority OfficersAuthorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
-
-#### Authority's Invasion of Etris
-
-The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
-
-The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
-
-Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) armor schematic.
-
-During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 
 A Bandit Camp in Erisia
 
@@ -81,14 +71,6 @@ In Upper Erisia, the player can encounter two villager NPCs in Stranded clothes.
 #### Mudskipper Emergence
 
 An encounter limited to Erisia, can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
-
-File:Erisor's Church 2.png
-
-Forgotten villagers
-
-#### Raid on Erisor's Church
-
-A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire in [Erisor's Church](<Erisor's_Church.md>). Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five [Bandit Captains](Bandit_Leader.md) will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a [Rock Golem](Rock_Golem.md) will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
 
 #### [Golden Warrior](Golden_Warrior.md)
 
@@ -290,6 +272,24 @@ A randomly occurring event in which bounty hunters or faction soldiers will ambu
 ## Unique Events
 
 These events are fixed at a certain place or time or are extremely rare.
+
+#### Authority's Invasion of Etris
+
+File:Erisor's Church 2.png
+
+Forgotten villagers
+
+#### Raid on Erisor's Church
+
+A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire in [Erisor's Church](<Erisor's_Church.md>). Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five [Bandit Captains](Bandit_Leader.md) will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a [Rock Golem](Rock_Golem.md) will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
+
+The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
+
+The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
+
+Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) armor schematic.
+
+During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 
 ### [Aelita](Aelita.md)
 
