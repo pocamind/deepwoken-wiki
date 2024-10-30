@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 117823
+revid: 118369
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -90,7 +90,7 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   File:Contractor 10 knowledge.png
     
     If you have progressed Contractor on your slot, you can now skip Contractor's progression with 10 knowledge, despite the fact that Lord Regent would kill you previously.
--   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
+-   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be set to Hunted (I think this is incorrect, if your diver rep is neutral, becoming a contractor will lower your rep enough to become hunter. When I got this oath, my rep with divers was ally, now friend. If I'm incorrect, please remove this.) Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
     -   Reputation, however, can no longer be bought for The Divers. You can still talk to them and they'll say you can pay off the Divers, though this does nothing.
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.

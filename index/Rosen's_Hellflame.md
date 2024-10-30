@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 118361
+revid: 118382
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Unique Critical]
@@ -46,4 +46,4 @@ The jumping critical causes your character to perform a side flip, slamming the 
 -   Despite being a flamethrower, Rosen's Hellflame is capable of using bullets and [Bullet Casings](Bullet_Casings.md).
     -   Additionally, the Bullet Casings change the color of the flames that come out on the 2nd and 4th M1.
 -   Before October 8th 2024's update, The critical cooldown started as soon as the button was pressed, Allowing for the grounded crit to essentially have no cooldown if you had the ether to spam it.
--   Using the Rosen's Hellflame's Grounded Crit make you immune to the Ferryman's Lightning Assault.
+-   Using the Rosen's Hellflame's Grounded Crit make you immune to the Ferryman's Lightning Assault. (First phase only)

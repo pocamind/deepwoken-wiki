@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 118006
+revid: 118376
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -25,7 +25,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley (Chests) , Layer 2 (Chaser, Scholar of the Burning Blood's chest) , (Killing Rouge Construct at Minityrsa) , Maestro Evengarde Rest |
+| obtainment | Starswept Valley (Chests) , Layer 2 , Chaser (chest) , (Killing Rouge Construct at Minityrsa) , Maestro Evengarde Rest (chest) , War Mode |
 | description | "A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself." |
 
 ## Description

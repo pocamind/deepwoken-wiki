@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 115871
+revid: 118373
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 # Hive Tactician Armor
 
-Template:ArmorInfobox**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.[Towerstruck Lands](Towerstruck_Lands.md)
+Template:ArmorInfobox**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

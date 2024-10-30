@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 118282
+revid: 118378
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Eastern Luminant, Mechanics]
@@ -119,13 +119,15 @@ The Warchest is a collective point pool and emcompass the total score generated 
 | --- |
 | **Weapons** | **Equipment** | **Misc.** | **Schematics** |
 | 
--   [Champion's Dagger](<Champion's_Dagger.md>)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Rockmaller](Rockmaller.md)
--   [Pernach](Pernach.md)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Champion's Dagger](<Champion's_Dagger.md>)
+-   [Champion's Sword](<Champion's_Sword.md>)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Iron Blunderbuss](Iron_Blunderbuss.md)
 -   [Kanabo](Kanabo.md)
+-   [Pernach](Pernach.md)
+-   [Rockmaller](Rockmaller.md)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 -   TBA
 
  | 
@@ -133,6 +135,7 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>)
 -   [Bluesteel Boots](Bluesteel_Boots.md)
 -   [Dawnfist's Ring](<Dawnfist's_Ring.md>)
+-   [Deepwoken Hood](Deepwoken_Hood.md)
 -   [Light Eater Ring](Light_Eater_Ring.md)
 -   [Finisher's Ring](<Finisher's_Ring.md>)
 -   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)

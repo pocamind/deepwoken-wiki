@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 118365
+revid: 118374
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hoods]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Miner's Landing |
+| obtainment | Chests from:, Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, War Mode, Miner's Landing |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

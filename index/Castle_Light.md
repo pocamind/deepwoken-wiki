@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 114157
+revid: 118372
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -70,7 +70,7 @@ The Armory.
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in the random encounter)
 -   [Klaris Llfiend, Mother of the Lights](Klaris_Llfiend,_Mother_of_Lights.md)
--   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of the library puzzle in [New Kyrsa](Second_Layer/New_Kyrsa.md))
+-   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of the library puzzle in [New Kyrsa](Second_Layer/New_Kyrsa.md), Saves through slots.)
 
 ### Items
 
@@ -96,9 +96,13 @@ The Armory.
 -   Trumpet
 -   Pickaxe
 
+### Sanity Regen Aura
+
+If you are deepbound and within Castle Light's radius, You will passively regain sanity.
+
 ## Notes
 
--   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
+-   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPC's may kill some monsters, but stronger monsters, such as King threshers or Mudskipper Broodlords, will quickly kill the divers.
 -   Occasionally, three black diver npcs can spawn. This happens when there are too many monsters or a player with bad reputation with the Divers enters.
 -   Castle Light has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
     -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.

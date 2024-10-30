@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 118366
+revid: 118379
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -37,7 +37,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <th>Posture Bar</th>
   <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, so you should do your best to keep this bar as low as possible when engaging in combat. When the bar cannot hold any more energy, the next blocked hit will instead guard break, dealing increased damage and stunning you.
   <ul>
-    <li>Posture decreases if the player lands parries and/or stops blocking.</li>
+    <li>Posture decreases if the player lands a parry, stops blocking while also not sprinting and/or through the effects of certain <a href="Talents.md">Talents</a></li>
     <li>When blocking while in shaky/weak block frames, your posture bar glows red to indicate that your block isn't full yet.</li>
     <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount. (Not recommended as you'll be forced to stand still for the taunt).</li>
   </ul><figure><figcaption></figcaption></figure></td>

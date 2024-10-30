@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 118231
+revid: 118386
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -631,6 +631,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [War Mode](War_Mode.md)
 
  | N/A |
 | File:DoubleStrappedHat.png | 
@@ -3441,6 +3442,25 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
+
+ | N/A |
+|  | 
+
+[Delver Boots](Delver_Boots.md)
+
+ | 
+
+_+2 Posture_
+
++1 Uncommon Pip
+
+_+Talent: Surestep_
+
+ | 
+
+Found from:
+
+-   [Crafting](Crafting_Station.md)
 
  | N/A |
 |  | 
