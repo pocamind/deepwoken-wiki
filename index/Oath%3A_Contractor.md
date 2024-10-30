@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 118369
+revid: 118398
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Oaths, The Ministry]
 | Oath: Contractor | |
 |---|---|
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
-| effects | +2 Combat Mantra , +10 Ether |
+| effects | +2 Combat Mantra, +10 Ether |
 
 “ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
@@ -25,6 +25,7 @@ categories: [Pages with broken file links, Oaths, The Ministry]
 
 ― [Zi'eer](The_Lord_Regent.md)
 
+  
 The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent.md). You Vow yourself with the malevolent King of Etrea, and to The Ministry by extension, as a Contractor in order to assist Zi'eer in his plan to eventually sink Etrea into The Depths, causing another Great Drowning in the process. You become a puppet to The Ministry, literally and figuratively.
 
 ## Obtainment
@@ -40,7 +41,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the **Shrine of Order**, **Shrine of Solitude** and **Shrine of Mastery (stat allocation)** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?" (NOTE THAT THIS REQUIRES THE 4 DEEP SHRINE DEALS FIRST)
-7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind
+7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 
@@ -52,7 +53,7 @@ As tasked by The Lord Regent, to obtain the Talents and mantras, you must grip p
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
 
-Alternatively you may spend 10 knowledge to immediately max out the oath (Only if you logged in on a slot with maxxed out contractor after the 26/04/2024 update).
+Alternatively you may spend 10 knowledge to immediately max out the oath. This is only possible if you have already completed the Oath progression normally at least once after the 26/04/2024 update, or you have logged in on an already progressed Contractor slot after that date.
 
 ## Effects
 
@@ -90,7 +91,7 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   File:Contractor 10 knowledge.png
     
     If you have progressed Contractor on your slot, you can now skip Contractor's progression with 10 knowledge, despite the fact that Lord Regent would kill you previously.
--   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be set to Hunted (I think this is incorrect, if your diver rep is neutral, becoming a contractor will lower your rep enough to become hunter. When I got this oath, my rep with divers was ally, now friend. If I'm incorrect, please remove this.) Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
+-   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. If you had neutral reputation, it would be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
     -   Reputation, however, can no longer be bought for The Divers. You can still talk to them and they'll say you can pay off the Divers, though this does nothing.
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 118386
+revid: 118401
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -1108,6 +1108,23 @@ Found from:
 -   [Hallowtide (Event)](Hallowtide.md)
 
  | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
+| File:Party Hat Worn.png | 
+
+[Party Hat](Party_Hat.md)
+
+(1 Billion Visits)
+
+ | 
+
+No Pips
+
+ | 
+
+Found From:
+
+-   [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md)
+
+ | N/A |
 |  | 
 
 [Phalanx Helmet](Phalanx_Helmet.md)
@@ -5351,8 +5368,8 @@ Found from:
 
  | 
 
-Flames burn 1.5x faster but goes out 1.5x faster.  
-If using Explosion Path: Lava Serpent, explosion delay is reduced.
+Burn deals 20% more damage, but extinguishes faster.  
+If using Eruption Path: Lava Serpent, eruption delay is reduced.
 
   
 **Requires Power 5**

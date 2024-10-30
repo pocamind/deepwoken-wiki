@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 116915
+revid: 118400
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -25,7 +25,13 @@ Deepfire Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
 ## Description
 
-Deepfire Ring causes flames to burn 1.5x faster upon being equipped. If the user has the talent Explosion Path: Lava Serpent, explosion delay is reduced. The user must be at Power 5 to equip this ring.
+_"Ring of Korlifiend. Burn status burns faster."_
+
+Despite what the item description says, Deepfire Ring does not make your burn ticks _faster_, instead it increases burn damage by 20% and lowers the maximum ticks before burn naturally extinguishes; 61 -> 51. This results in the same burn damage if it were extinguish naturally, but in all other cases, this is a direct buff to your burn damage.
+
+If the user has the talent Eruption Path: Lava Serpent, the delay before an eruption is reduced.
+
+The user must be at Power 5 to equip this ring.
 
 ## Obtainment
 

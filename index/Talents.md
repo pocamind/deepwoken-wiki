@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118380
+revid: 118392
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2866,7 +2866,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"Uh..."**_
 
--   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
+-   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   Prerequisites: 35 Fortitude, 30 Strength
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
@@ -2874,6 +2874,14 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   The Talent grants immunity to the Flame Blind mantra.
     -   The face equipment "[Blindfold](Blindfold.md)" have this Talent.
+
+-   Coldseep Reactor \[Common Talent, [Equipment](Equipment.md) Exclusive\] - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
+    -   Grants full immunity to [Layer 2](Second_Layer.md) Parasites.
+    -   Obtained from [Grand Fisher Helm](Grand_Fisher_Helm.md)
+    -   Prerequisite for equipment: [Power](Power.md) 13
+
+-   Diver's Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+    -   Obtained from [Grand Fisher Plate](Grand_Fisher_Plate.md)
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisites: [Power](Power.md) 16, Obtain resonance
@@ -2909,12 +2917,19 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Mutual Exclusive: Everchanging Aegis
 
 -   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 10% less damage from airborne enemies.
+    -   Obtained from [Star Duster](Star_Duster.md)
     -   Prerequisite for Equipment: [Power](Power.md) 10
 
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Prerequisite: 5 Fortitude.
+-   Surestep \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
+    -   Makes you immune to the ragdoll and movement speed debuff of the Wind in [Layer 2](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
+    -   Obtained from Delvers Boots
 
--   Diver's Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+    -   Prerequisite: 5 Fortitude
+
+-   Wormwarder \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
+    -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
+    -   Obtained from [Wormwarder Lantern](Wormwarder_Lantern.md)
 
 ## Other
 
