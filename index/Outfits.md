@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 118276
+revid: 118510
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -27,7 +27,6 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
     -   Currently only the [Black Diver](Black_Diver.md) Outfit and the [Darkened Bastion](Darkened_Bastion.md) Outfit has this stat.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
     -   To see Outfits that grant Stealth, look over at the [Stealth](Stealth.md) page.
-    -   Stealth Further reduces [Tacet's](Murmur%253A_Tacet.md) Detection range.
 -   **Carry Load:** Allows the user to carry more items.
     -   Currently only the [Union Initiate](Union_Initiate.md) Outfit has this stat.
 -   **Talent:** A passive ability linked to the outfit.

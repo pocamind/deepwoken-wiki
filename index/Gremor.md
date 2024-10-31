@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 115628
+revid: 118504
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,7 +18,7 @@ Chance of obtaining race: **13.3%**
 
 ## Description
 
-Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.  
+Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.
 
 ## Racial Traits
 
@@ -47,8 +47,6 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
 </tbody>
 </table>
 
-  
-
 **Lore:**
 
   
@@ -58,17 +56,13 @@ The deer folk of the land are among the few that still consider themselves free 
 
   
 
--   Has a built-in compass.  
-    
--   Less prone to starvation.  
-    
--   +2 Strength - 4+ Carry Load
+-   Has a built-in compass.
+-   Less prone to starvation.
+-   +2 Strength - 2+ Carry Load
 -   +3 Fortitude - 1.5+ Starting Health
     
 
 **Surnames:**
-
-  
 
 -   Adra
 -   Askura

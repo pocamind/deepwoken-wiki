@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 118048
+revid: 118526
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons]
@@ -16,7 +16,6 @@ categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Uniq
 | range | 9 |
 | swing speed | 0.8x |
 | penetration | 15% |
-| selling price | 14 |
 | weight | 5 / 6 |
 | bankable | Yes |
 | droppable | Yes |

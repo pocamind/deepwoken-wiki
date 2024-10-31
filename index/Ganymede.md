@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 118482
+revid: 118530
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -102,10 +102,11 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 -   Ganymede begins with an unobtainable hat by default. It is dyeable & smeltable, and if not smelted will be removed upon wearing any other headgear.
     -   The mesh and texture for the old Ganymede hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
--   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
+-   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing sanity multiplier.
     -   They are the only race to have their racial Talent updated.
 -   The Ganymede hat can be removed by holding P and pressing the hat icon.
 -   Ganymede's name and the names of its variants are taken from the moons of celestial bodies.
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
     -   Speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)
+-   Everyone used to believe that ganymede have less insanity gain as passive race buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) destroyed this myth, instead ganymede has 1.2x sanity multiplier

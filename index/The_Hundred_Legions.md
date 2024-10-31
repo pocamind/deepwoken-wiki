@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 118494
+revid: 118509
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -39,7 +39,9 @@ There is no reputation reset NPC for The Hundred Legions and have a singular [Bo
 
 Doing the [Lars quest](Quests.md#lars) nets you enough reputation to become neutral with The Hundred Legions if you're not a Khan and haven't done anything else.
 
-Another to gain reputation with The Hundred Legions is through helping them fight in specific [Random Encounters](Random_Encounters.md):
+And the best way to increase the reputation with The Hundred Legions is through doing jobs on the [Job Boards](Job_Boards.md). Specifically, the Job Board in the [Starswept Valley](The_Starswept_Valley.md).
+
+Though another way to gain reputation with The Hundred Legions is also through helping them fight in specific [Random Encounters](Random_Encounters.md):
 
 -   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   [Legion Captain](Legion_Captain.md) + Legion Soldier  vs Authority OfficersAuthorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))

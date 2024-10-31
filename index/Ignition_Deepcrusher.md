@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 118454
+revid: 118538
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -17,7 +17,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 | range | 8 |
 | swing speed | 1.05x |
 | penetration | 20% |
-| special effect | 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
+| special effect | Can switch between 2 types of weapons., 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

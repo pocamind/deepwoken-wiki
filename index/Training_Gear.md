@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 118453
+revid: 118505
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -85,7 +85,9 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
  | Math Textbook | Train your Intelligence through study. | _200 uses_ | 
 
-(add a) picture of the math textbook
+File:Math textbook.png
+
+(add a better) picture of the math textbook
 
  |
 | 
@@ -105,9 +107,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
  | Prayer Beads | Train your Willpower through meditation. | _100 uses_ | 
 
-File:Prayyerbeads.png
-
-Prayer beads on a shelf in Castle Light
+(add a better) picture of the Prayer beads
 
  |
 | 
@@ -131,7 +131,9 @@ Prayer beads on a shelf in Castle Light
 
  | Weapon Manual | Used to reinforce your weapon training and improve your attributes. | _100 uses_ | 
 
-(add a) picture of the weapon manual
+File:Weapon Manual.png
+
+(add a better) picture of the weapon manual
 
  |
 
@@ -147,7 +149,7 @@ Prayer beads on a shelf in Castle Light
 
 -   Eastern Luminant locations
     -   [Fort Merit](Fort_Merit.md): Go to the Guildhall mark. All 4 of the items are in there. Prayer Beads are next to the Dumbbell
-        -   Boulder is outside of a building on the opposite site of the Guildhall House. Inside of the house contains all 4 books as well
+        -   Boulder is outside of a building on the opposite side of the Guildhall House. Inside of the house contains all 4 books as well
     -   [Greathive Aratel](Greathive_Aratel.md): In the [Teleporter room](Fountain_Gates.md), go right into a place labeled Library. Walk through to the left and you'll see it
     -   [Summer Isle](Summer_Isle.md): Find where the [Mantra Collector](Mantra_Collector.md) named Hotdog is, the room to her right (player's left) is the items
         -   Boulder is outside the castle on a pathway near [Ishan](Ishan.md), an NPC wearing the [Royal Etrean Guard](Royal_Etrean_Guard.md) Outfit
@@ -179,10 +181,10 @@ Prayer beads on a shelf in Castle Light
     -   [Isle of Vigils](Isle_of_Vigils.md): In the Library, on the left of [Kelsius](Kelsius.md) are 2 books
         -   Math Textbook and Encyclopedia are on those 2 bookshelves
         -   Weapon Manual: From the left of those 2 bookshelves, the one behind [Valikor](Valikor.md), is the Weapon Manual
-        -   How to Make Friends is on a bookshelf on the opposite side of [Kelsius](Kelsius.md)
+        -   [How to Make Friends](How_to_Make_Friends.md) is on a bookshelf on the opposite side of [Kelsius](Kelsius.md)
 
 -   Eastern Luminant locations
-    -   [Fort Merit](Fort_Merit.md): They are all located inside the building of where the Boulder is. Look at the Boulder location
+    -   [Fort Merit](Fort_Merit.md): It is inside a house of a building on the opposite side of the GuildHall House. Boulder is outside of it, so use that as a landmark location
         -   Fun fact: You can also buy an Encyclopedia on an empty bookcase near the [Banker](Banker.md)
     -   [Greathive Aratel](Greathive_Aratel.md): In the [Teleporter room](Fountain_Gates.md), go right into a place labeled Library. In front of you would be the 3 books
         -   Math Textbook: From the room that has [Hiri](Hiri.md), go left, and look at the first bookcase you see on your right
@@ -195,7 +197,8 @@ Prayer beads on a shelf in Castle Light
         -   [How to Make Friends](How_to_Make_Friends.md) is on a book case in the first floor of the building to the right of the water wheel
         -   Math Textbook is in the same building as the previous book and weapon manual, but on the second floor
         -   Weapon Manual is near the same location with the Math Textbook, in a room with the Parsnip NPC
-        -   Encyclopedia is in a secret passageway behind the building with the Math Textbook and Weapon Manual. Turn right once you exit the room with Parsnip and you should be able to see the secret passage. Down the ladder of that room you can see a bookcase. Encyclopedia is on there. Behind the boxes on the left of the bookself you can also buy [Instruments](Instruments.md) there
+        -   Encyclopedia is in a secret passageway behind the building with the Math Textbook and Weapon Manual. Turn right once you exit the room with Parsnip and you should be able to see the secret passage. Down the ladder of that room you can see a bookcase. Encyclopedia is on there
+            -   Behind the boxes on the left of the bookself, there you can also buy [Instruments](Instruments.md)
 
 -   Both
     -   [Voidheart](Voidheart.md): On the bookcases near [Croissant](Mantra_Collector.md)
@@ -203,8 +206,7 @@ Prayer beads on a shelf in Castle Light
 
 -   Depths locations
     -   [Castle Light](Castle_Light.md): In the Library. Near the [Mystic](Mystic.md), [Banker](Banker.md), and [Antiquarian](Antiquarian.md). The books are around/on the 4 short brown pillars.
-    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md): The books are outside of the tunnel and outside of the [Diluvian Mechanism NPC](<Diluvian_Mechanism_(NPC).md>) room
-        -   While walking through the big gate, on your right you will see 2 bookcases with all 4 books
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md): The books are outside of the tunnel and outside of the [Diluvian Mechanism NPC](<Diluvian_Mechanism_(NPC).md>) room. While walking through the big gate after doing the parkour jumps from the [Celtor Wastes](Celtor_Wastes.md), on your right you will see 2 bookcases with all 4 books
 
 -   Dungeon locations
     -   [Saramaed Hollow](Saramaed_Hollow.md): You can find them pretty easily in there. They are on the bookshelves
@@ -215,7 +217,7 @@ Like Attributes, Attunements also have Training Gears correlated to them and wil
 
 ### Training/Notes
 
-Each of the attunement training gears are self explanatory. **If you are struggling trying to upgrade your [attunement attribute](Attributes.md#attunement-attributes), try using the mantra of the attunement that you want to upgrade on enemies, or eating an elemental ingredient of its respective attunement.** To learn more, visit the [Attributes#Attunement\_Attributes](Attributes.md#attunement-attributes) page.
+Each of the attunement training gears are self explanatory. **If you are struggling trying to upgrade your [attunement attribute](Attributes.md#attunement-attributes), try using the mantra of the attunement that you want to upgrade on enemies, or eating an elemental ingredient of its respective attunement.** To learn more, visit the [Attributes](Attributes.md#attunement-attributes) page.
 
 ### Cost
 
@@ -230,7 +232,7 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Hearthgem | Speak to the Flames and tame them, training your flamecharm. | _100 uses_ | 
 
-(add a) picture of the hearthgem
+(add a) better picture of the hearthgem
 
  |
 | 
@@ -239,7 +241,7 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Hemafrost | Freeze your own blood to train your Frostdrawing ability. | _100 uses_ | 
 
-(add a) picture of the hemafrost
+(add a better) picture of the hemafrost
 
  |
 | 
@@ -248,7 +250,7 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Self-Conducting Loop | Generate sparks between your hands to train your Thundercall. | _100 uses_ | 
 
-(add a) picture of the self-conducting loop
+(add a better) picture of the self-conducting loop
 
  |
 | 
@@ -257,7 +259,9 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Gale Kata | Train your Galebreathing through stances practiced by the Legion. | _100 uses_ | 
 
-(add a) picture of the gale kata
+File:Gale Kata.png
+
+(add a better) picture of the gale kata
 
  |
 | 
@@ -266,7 +270,9 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Pure Heart | Corrupt this gem of Light to train your Shadowcast. | _100 uses_ | 
 
-(add a) picture of the pure heart
+File:Pure heart.png
+
+(add a better) picture of the pure heart
 
  |
 | 
@@ -282,7 +288,7 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 ### Locations
 
 -   Etrean Luminant locations
-    -   [Etris](Etris.md): On the opposite building to the Weapons building near the [Mystic](Mystic.md) is the Mantra building
+    -   [Etris](Etris.md): On the opposite building to the Weapons building, which you can find using the "Weapons" mark that appears when you enter [Etris](Etris.md), near the [Mystic](Mystic.md) is the Mantra building. The training gears are inside
     -   [Isle of Vigils](Isle_of_Vigils.md): Behind the [Bank](Item_Bank.md) on the right, you can see a bridge going across. Cross the bridge and walk forward until you see a grave. After that turn right and you'll see a building. Inside of that building are the training gears
 
 -   Eastern Luminant locations

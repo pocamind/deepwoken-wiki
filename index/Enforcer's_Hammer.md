@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 118079
+revid: 118520
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Weapons with Unique Criticals]
@@ -34,11 +34,11 @@ categories: [Pages with broken file links, Weapons, Greathammers, Weapons with U
 
 ## Description
 
-The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from the [Enforcer](Enforcer.md). It requires Power 6, 80 Heavy Weapons and 25 Strength to wield. The Enforcer's Hammer has a base damage of 25 and a heavy scaling of 9. Notably, the Enforcer's Hammer also has 10% armor penetration and chip damage.
+The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from [The Enforcer](Enforcer.md). It requires Power 6, 80 Heavy Weapons and 25 Strength to wield. The Enforcer's Hammer has a base damage of 25 and a heavy scaling of 9. Notably, the Enforcer's Hammer also has 10% armor penetration and chip damage.
 
 ## Critical
 
-After a short windup, the user spins the Enforcer's Hammer in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical also instantly guardbreaks. Moreover, this critical is also shared with [Enforcer's Axe](<Enforcer's_Axe.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>)., meaning that it deals slash damage instead of blunt damage. This critical does around half the damage of a basic attack per hit.
+After a short windup, the user spins the Enforcer's Hammer in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical also instantly guardbreaks. Moreover, this critical is also shared with [Enforcer's Axe](<Enforcer's_Axe.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>), meaning that it deals slash damage instead of blunt damage. This critical does around half the damage of a basic attack per hit.
 
 ### Enchantments
 
