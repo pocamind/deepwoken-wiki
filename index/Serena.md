@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 115011
+revid: 118553
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -25,32 +25,67 @@ While knocked and being gripped by the player or NPC, she will also _kindly_ ask
 
 Serena's arsenal consist of a [Shotel](Shotel.md) along with the [Frostdraw](Frostdraw.md) Attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description | Media |
+| --- | --- | --- |
 | 
-Assault
+Assault  
+(★☆☆)
 
- | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
+ | Firmly swings blade at opponent before finishing up the combo by kicking them.  
 
-Critical
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯  
 
- | Performs a sideflip while swinging blade. | ◯ | ✗ | (★★☆) |
-| 
-
-Ice Smash
-
- | User performs a wind-up before slamming an ice club into the ground. | ◯ | ◯ | (★★☆) |
+ |  |
 | 
 
-Ice Eruption
+Critical  
+(★★☆)
 
- | A flurry of ice spikes. | ✗ | ✗ | (★★★) |
+ | Performs a sideflip while swinging blade.  
+
+Parryable:◯  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
 | 
 
-Glacial Shower
+Ice Smash  
+(★★☆)
 
- | Rains down shards of ice. | ◯ | ◯ | (★★☆) |
+ | User performs a wind-up before slamming an ice club into the ground.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| 
+
+Ice Eruption  
+(★★★)
+
+ | A flurry of ice spikes.  
+
+Parryable:✗  
+Blockable:✗  
+Dodgeable: ◯
+
+ |  |
+| 
+
+Glacial Shower  
+(★★☆)
+
+ | Rains down shards of ice.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable: ◯
+
+ |  |
 
 ## Finisher
 

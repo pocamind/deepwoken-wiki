@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 118422
+revid: 118551
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -32,7 +32,7 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 
 **Crescendo** is a rare twinblade that requires 75 MED. It's most commonly obtained from the Ferryman and it has its own unique critical attack.
 
-Crescendo shares its M1s with other twinblades.
+The weapon shares its M1s with other twinblades.
 
 The running attack consists of two hits; the first one comes out normally, while the second one is slightly delayed. If the first hit is parried, the second one does not come out.
 

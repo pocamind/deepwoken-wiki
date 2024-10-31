@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 117986
+revid: 118545
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Alloyed Weapons]
@@ -10,9 +10,10 @@ categories: [Weapons, Flintlocks, Alloyed Weapons]
 
 | Dawnshot | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Flintlock |
-| requirements | 40 / 75 LHT |
-| damage | 14 / 16 |
+| requirements | 40 / Template:AlloyedColor LHT |
+| damage | 14 / Template:AlloyedColor |
 | scaling | LHT: 12 |
 | range | 10.5 |
 | swing speed | 1.17x |
@@ -30,44 +31,27 @@ The Dawnshot is a midgame gun, which can be obtained through the [First Layer](F
 
 The Dawnshot has a [Bullet](Bullet_Casings.md) capacity of 4.
 
--   Meeting the requirement of LHT, the damage is (19)
-    -   Meeting the alloyed requirement, the damage is (26.8)
--   At max LHT, the damage is (26.6)
-    -   At max LHT, the alloyed damage is (30.4)
+### Damage
+
+**For the non-alloyed version**:
+
+-   Meeting the LHT requirement for this weapon will make it deal 19 damage.
+    -   At max LHT, it will deal 26.6 damage.
+
+**For the [alloyed](Pluripotent_Alloy.md) version**:
+
+-   Metting the LHT requirement for this weapon will make it deal 26.8 damage.
+    -   At max LHT, it will deal 30.4 damage.
 
 ## Enchantments
 
-**Blazing (Regular):**
-
-**Blazing (Azure):**
-
-**Chilling (Regular):**
-
-**Deferred:**
-
-**Elastic:**
-
-**Gluttony:**
-
-**Heroism:**
-
-**Nemesis:**
-
-**Obfuscation:**
-
-**Providence's Thorns:**
-
-**Storm:**
-
-**Stormbreaker:**
-
-**Tears of the Edenkite:**
-
-**Umbral Knight:**
-
-**Curse of the Bloodthirsty:**
-
-**Curse of the No Life King:**
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

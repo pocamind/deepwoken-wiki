@@ -1,23 +1,25 @@
 ---
 title: Gremorian Longspear
-revid: 118025
+revid: 118539
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Spears, Children of Navae, Alloyed Weapons]
+categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, Children of Navae]
 ---
 
 # Gremorian Longspear
 
 | Gremorian Longspear | |
 |---|---|
-| requirements | 20 MED / 75 MED |
-| damage | 18 / 20 |
-| scaling | MED: 4 / MED: 5 |
+| alloyed name | Template:AlloyedColor |
+| type | Spear |
+| requirements | 20 MED / Template:AlloyedColor MED |
+| damage | 18 / Template:AlloyedColor |
+| scaling | MED: 4 / MED: Template:AlloyedColor |
 | range | 9 |
-| swing speed | 0.9x / 0.93x |
-| penetration | 10% |
+| swing speed | 0.9x / Template:AlloyedColor |
+| penetration | Template:AlloyedColor |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
-| selling price | 14 |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,6 +32,12 @@ categories: [Pages with broken file links, Weapons, Spears, Children of Navae, A
 
 The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [Navae Nomads](Eastern_Nomad.md) in [Etris](Etris.md), with a random chance of it being dropped, or from any chests.
 
+### Damage
+
+For the non-alloyed version, meeting the MED requirement for this weapon will make it deal 19.1 damage. At max MED, it will deal 23.4 damage.
+
+For the [alloyed](Pluripotent_Alloy.md) version, metting the MED requirement for this weapon will make it deal 25.6 damage. At max MED, it will deal 27.5 damage.
+
 ## Critical
 
 One person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This attack cannot be blocked. Opponents pulled in will be pulled the same distance as the critical initially travelled meaning that landing it on an opponent right in front of you will likely place them further behind you while pulling them in from the farthest range will put them right in front of you instead. The critical has 15% chip damage.
@@ -40,10 +48,6 @@ Gremorian Longspear Critical
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of MED, the damage is (19.1)
-    -   Meeting the alloyed requirement, the damage is (25.6)
--   At max MED, the non-alloyed damage is (23.4)
-    -   At max MED, the alloyed damage is (27.5)
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry Scouts and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
