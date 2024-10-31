@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 117757
+revid: 118451
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -20,7 +20,11 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
     -   The [Deepshore Fossil](Deepshore_Fossil.md) is a good way to get a desired Enchantment Stone.
-    -   Additionally, the Dilluvian Mechanism allows you to get heaps of enchant stones as well as enchanted gear and weapons.
+    -   Certain activities can provide heaps of enchant stones and more rarely greases, these include but not limited to:
+        -   Certain bosses
+        -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+        -   [Saramaed Hollow](Saramaed_Hollow.md)
+        -   [War Mode](War_Mode.md)
 
 You cannot 'stack' enchantments. If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
 
@@ -31,8 +35,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular cou
 Enchanted items cannot be dropped on death.
 
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
--     
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.  
     
 
 ## Variants

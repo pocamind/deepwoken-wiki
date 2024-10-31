@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 118111
+revid: 118454
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -39,7 +39,7 @@ This weapon has 1 passive by default:
 
 At 100 MED and 100 MTL, this weapon deals 27.5 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
 
-## Critical Attack
+## Critical
 
 The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the shove and the spike eruption deal stun and damage. If the shove is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled. This shares similarities with the critical effects of the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (excluding the sword rain aspect).
 

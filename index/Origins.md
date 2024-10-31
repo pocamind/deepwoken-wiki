@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 118133
+revid: 118450
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Character, Mechanics, Creation]
 
 # Origins
 
-**Origins** are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways.
+**Origins** are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways. You **CANNOT** change your origin _mid progression_, you will need to **WIPE** in order to pick a new origin.
 
 ## Castaway
 
@@ -105,10 +105,10 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
     -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
-        -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting...
-        -   **\[CON\]** ...but you will gain a very obvious looking particle effect that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
-        -   **\[PRO\]** With the Stealth option, you do not make a sound, do not receive the particle effects until you engage your target and can approach player that are further away from Ferocity's range...
-        -   **\[CON\]** ...but you do not gain vision of your target. It should be noted you can still tell where they generally are using the bounty itself.
+        -   **\[PRO\]** With the **Ferocity** option, your selected target will be highlighted in **red** through walls for a moment after you teleport, _so make sure to move your camera around quickly to spot the red highlight_.
+        -   **\[CON\]** ...but you will gain a very obvious tentacle-whirring effect on your head that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
+        -   **\[PRO\]** With the **Stealth** option, you do not make a sound, do not receive the particle effects until you engage your target, and can approach players that are further away from Ferocity's range...
+        -   **\[CON\]** ...but you do not gain vision of your target. It should be noted that you can still tell where they generally are from the bounty itself.
 -   Grants the Knives of Eylis Talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability has a 10-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
@@ -116,6 +116,8 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO/CON\]** You spawn with [Whaler Initiate](Whaler_Initiate.md) Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md), [The Divers](The_Divers.md).
+-   **\[PRO\]** Can leave the Voidheart and do the Trial of One for faster levelling up.
+    -   **\[CON\]** ...but can't use the Shrine of Solitude.
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions and The Summer Company.

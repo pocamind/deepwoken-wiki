@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118392
+revid: 118471
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -28,7 +28,7 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain talents may also be obtaining when doing [Quests](Quests.md). Additionally, some powerful talents called [Oaths](Oaths.md) and [Murmur](Murmur.md) can be obtained through specific tasks, although only one of each can exists on your character at the same time.
+Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain talents may also be obtained when doing [Quests](Quests.md). Additionally, some powerful talents called [Oaths](Oaths.md), [Murmur](Murmur.md) and [Resonance](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
 
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
 
@@ -1748,7 +1748,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 30 Fortitude, 30 Strength
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
-    -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
+    -   The bonus PEN is applied starting from 30% Sanity
+    -   You immediatly gain the full 15% PEN, there is no scaling like Lose Your Mind
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)

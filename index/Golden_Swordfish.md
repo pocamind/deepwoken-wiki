@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 117994
+revid: 118470
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals]
@@ -28,7 +28,7 @@ categories: [Weapons, Rapiers, Weapons with Unique Criticals]
 
 ## Description
 
-The **Golden Swordfish** is a [Rapier](Weapons.md#types-of-weapons) that can be fished out of the sea at a very rare chance. It is a golden swordfish, with the bill being used as a blade to pierce foes.
+The **Golden Swordfish** is a [Rapier](Weapons.md#types-of-weapons) that can be gooned out of the still water near ohio at a very rare chance. It is a skibidi swordfish, with the edge being used as a blade to penetrate opps.
 
 This weapon cannot be dropped by any means, similar to a Soulbound item or the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 

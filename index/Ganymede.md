@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 112479
+revid: 118459
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **2.0%**
 
 ## Description
 
-Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken, they are very gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +3 Willpower as well as resistance to the passive insanity gain of [Scyphozia](First_Layer.md).
+Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken, they are very gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +3 Willpower
 
 ## Racial Traits
 
@@ -29,8 +29,8 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
   <ul>
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
   <ul>
-    <li>Passive insanity gain from The Depths is reduced.</li>
-    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with.</li>
+    <li>Gain 1.2x Sanity from all sources</li>
+    <li><a href="Deep_Shrines.md">Deep Shrines</a> that cost 5 knowledge or more now cost 1 less knowledge to make a deal with</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -61,7 +61,7 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 
   
 
--   Increased resistance to the effects of [The Depths](The_Depths.md)
+-   More Sanity helps against the effects of The Depths and other insanity sources
 -   Deep Shrines are cheaper for you, meaning that you have less of a need to gain Knowledge.
     
 

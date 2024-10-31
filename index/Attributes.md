@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 118295
+revid: 118458
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -50,6 +50,8 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 ### Fortitude
 
 -   Resilience against threats. _Increases **Health** slightly per point._
+    -   Every point in Fortitude increases your chances to resist food poisoning when eating raw materials.
+    -   At 50 Fortitude, can eat most raw materials without vomiting.
     -   Adds 0.5 HP to your character for every Fortitude point.
     -   100 Fortitude will grant you 50 HP.
     -   Does **not** add damage resistance.
