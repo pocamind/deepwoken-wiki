@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 111265
+revid: 118494
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -35,17 +35,15 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 By default, every single [Origin](Origins.md) starts with an enemy [reputation](Reputation.md) with The Hundred Legions. Being a Khan increases your reputation with them to neutral.
 
-There is no reputation reset NPC for The Hundred Legions, nor do they have a [Bounty Board](Bounty_Hunting.md).
+There is no reputation reset NPC for The Hundred Legions and have a singular [Bounty Board](Bounty_Hunting.md) by their camp in [Lower Erisia](Lower_Erisia.md).
 
-Doing the [Lars quest](Quests.md) does not net you any reputation with The Hundred Legions.
+Doing the [Lars quest](Quests.md#lars) nets you enough reputation to become neutral with The Hundred Legions if you're not a Khan and haven't done anything else.
 
-The only other way to gain reputation with The Hundred Legions is through helping them fight in specific [Random Encounters](Random_Encounters.md):
+Another to gain reputation with The Hundred Legions is through helping them fight in specific [Random Encounters](Random_Encounters.md):
 
 -   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   [Legion Captain](Legion_Captain.md) + Legion Soldier  vs Authority OfficersAuthorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
 -   Legion Captain vs [Authority Lieutenant](Authority_Lieutenant.md)Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
-
-With the jobs update you can now gain reputation by doing jobs for them.
 
 ## Notable Members
 

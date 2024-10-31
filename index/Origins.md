@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 118450
+revid: 118472
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -100,6 +100,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
         -   You can no longer teleport through the [Voidmother](The_Voidmother.md) if you are combat tagged.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
+    -   **\[CON\]** Everyone hates you
 -   Grants the Knives of Eylis Talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.

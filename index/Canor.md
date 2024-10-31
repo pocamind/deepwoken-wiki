@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 117458
+revid: 118479
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]

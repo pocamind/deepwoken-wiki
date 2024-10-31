@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 117698
+revid: 118489
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -68,6 +68,8 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   A bit of an oxymoron, because by being Oathless, you therefore have an Oath.
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
     -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
+-   If you obtained Oathless on a past file, you can simply talk to [Cerulean](Cerulean.md) to obtain it, allowing you to skip the quest.
+    -   This means that you can speedrun obtaining an oath with [The Ignition Union](The_Ignition_Union.md) [Origin](Origins.md), which is useful as an easy echo farm, or if you need just a bit more echoes to get an upgrade.
 
 ## References
 

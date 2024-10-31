@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 113233
+revid: 118490
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -22,13 +22,68 @@ If you have Ally reputation or higher with [The Ministry](The_Ministry.md), he w
 
 The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shadowcast](Shadowcast.md) mantras.
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Assault** | Stabs forward with the rapier at the opponent and finishes the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Lunges forward, marking an enemy before dealing damage multiple times. This critical attack applies true stun, preventing any and all actions while being hit, including venting. | ◯ | ✗ | ◯ | (★★☆) |
-| Rising Shadow | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously. | ◯ | ◯ | ◯ | (★★☆) |
-| Revenge | A quick dash signified by a red-line effect, the mantra teleports him forward upon hitting the player or the player's block. | ◯ | ◯ | ◯ | (★☆☆) |
-| Shadow Assault | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. | ◯ | ◯ | ◯ | (★★☆) |
-| Eclipse Kick | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back. | ◯ | ◯ | ◯ | (★★☆) |
-| Shadow Eruption | The user swipes with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. | ◯ | ◯ | ◯ | (★★☆) |
-| **Vent** | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ◯ | (★☆☆) |
+| Name | Description | Media |
+| --- | --- | --- |
+| **Assault**  
+(★☆☆) | Stabs forward with the rapier at the opponent and finishes the combo by kicking them.  
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |
+| **Critical**  
+(★★☆) | Lunges forward, marking an enemy before dealing damage multiple times. This critical attack applies true stun, preventing any and all actions while being hit, including venting.  
+
+Parry:◯  
+Block:✗  
+Dodge:◯  
+
+ |  |
+| Rising Shadow  
+(★★☆) | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
+
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |
+| Revenge  
+(★☆☆) | A quick dash signified by a red-line effect, the mantra teleports him forward upon hitting the player or the player's block.  
+
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |
+| Shadow Assault  
+(★★☆) | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness.
+
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |
+| Eclipse Kick  
+(★★☆) | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.  
+
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |
+| Shadow Eruption  
+(★★☆) | The user swipes with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times.  
+
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |
+| **Vent**  
+(★☆☆) | An explosion of blue ether around the user that pushes opponents away.  
+
+Parry: ◯  
+Block: ◯  
+Dodge: ◯  
+
+ |  |

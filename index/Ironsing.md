@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 118417
+revid: 118476
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -848,9 +848,9 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect.
--   imilarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   Using Erisore gives a blue particle effect. Effects unknown.
+-   Similarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.
 -   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th August, 2024 update, 466 days after the attunement's release.

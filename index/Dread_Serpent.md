@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 115774
+revid: 118485
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -16,7 +16,11 @@ _Commonly referred to by the community as Kaido (Developers prefer that it is re
 
 ## Description
 
-A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It's spawn is showed by a mass of bubbles being on the water. It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
+A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It's spawn is showed by a mass of bubbles being on the water.
+
+The Dread Serpent appears as a long, gray serpent-like dragon possessing four horns and eyes. It sports a black mane and beard, as well as a black fur that runs throughout its back, ending with a fire-shaped tail. It primarily uses the power of [Frostdraw](Frostdraw.md) to stop boats and prey alike.
+
+Upon defeat, a purple orb flutters toward the player, granting [Murmur: Ardour](Murmur%253A_Ardour.md). You must hit him once to obtain the Murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
 
 Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur%253A_Ardour.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's Gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md)_
 
@@ -53,7 +57,6 @@ Dodgeable:?
 
 ## Trivia
 
--   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
 -   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   Anyone can get the Murmur as long as you did any damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.

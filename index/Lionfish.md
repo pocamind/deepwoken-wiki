@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 113703
+revid: 118477
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -85,7 +85,7 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 -   It is recommended to be roughly power 6 (preferably higher) to take on a Lionfish.
 -   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the Lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
--   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail near certain bubble particles. The larger bubbles may also spawn a [Dread Serpent](Dread_Serpent.md).
+-   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail near certain bubble particles. A larger group of bubbles will instead spawn a [Dread Serpent](Dread_Serpent.md).
 -   The regular Cero will not damage you if it goes through a solid object before hitting you. The reduced wind-up grip Cero can go through walls.
     -   This makes it very easy to cheese by simply going on a ledge that is just above the Lionfish.
 
@@ -95,14 +95,13 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 
 ## Trivia
 
--   You can spawn Lionfish via Fishing with a low chance.
+-   Lionfish can be fished up with a low chance, which can be dependent on the fishing spot and the location.
 -   It seems to be based on the underwater panther or "_[Mishipeshu](https://en.wikipedia.org/wiki/Underwater_panther)_" from Native American mythology.
     -   It could also be based on the actual Lionfish, a species of poisonous fish that can extend its spines outward, resembling the mane of a lion.
--   Funnily enough, a Lionfish can spawn Frostmantled in the Depths, despite the existence of Glacial Lionfishes.
+-   Glacial Lionfish can spawn in the overworld in extremely rare occasions. This variant is able to use Cero in the overworld.
+-   A Lionfish can spawn Frostmantled, despite the existence of Glacial Lionfishes.
 -   The Cero attack is inspired by the [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sound effect and a pose that resembles the [Menos Grande](https://bleach.fandom.com/wiki/Hollow%23Gillian) that introduced the technique.
--   The Cero is Galebreathe based.
+    -   The Cero is Galebreathe based, which is hinted through the visual effect of the Everchanging Aegis talent.\[citation needed\]
 -   If you use a sea highway, even a dinghy can outrun them.
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
--   Glacial Lionfish can spawn in the overworld in extremely rare occasions. If this happens, it's able to use its Cero, unlike the normal variant of the Lionfish.
 -   [Lionfish](https://en.wikipedia.org/wiki/Pterois) in real life are nothing like the Lionfish in-game.
--   Despite being a fish it can survive infinitely on land.
