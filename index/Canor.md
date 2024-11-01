@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 118479
+revid: 118834
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -53,15 +53,6 @@ Canor share a strong bond with the Adret race, staying true to the relationship 
 -   +3 Strength.
 -   +2 Charisma.
 -   Inflicts less damage to their own allies, takes less damage from their own allies.
-    -   Damage reduction MAY apply to other forms of damage, such as fall damage, by the word of some Canor players. **Testing needed.**
-        
-
-**Weaknesses:**
-
-  
-
--   Loyalty is practically useless while playing solo.
--   Loyalty becomes less useful as you & your allies gain skill in fighting, as you'll hit each other less often.
     
 
 **Surnames:**

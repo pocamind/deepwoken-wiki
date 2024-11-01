@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 118632
+revid: 118824
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -260,20 +260,12 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Gale Kata | Train your Galebreathing through stances practiced by the Legion. | _100 uses_ | 
 
-File:Gale Kata.png
-
-(add a better) picture of the gale kata
-
  |
 | 
 
 **[Shadowcast](Shadowcast.md)**
 
  | Pure Heart | Corrupt this gem of Light to train your Shadowcast. | _100 uses_ | 
-
-File:Pure heart.png
-
-(add a better) picture of the pure heart
 
  |
 | 
@@ -282,7 +274,7 @@ File:Pure heart.png
 
  | Ferrofluid | Manipulate this liquid metal to train your Ironsinging ability. | _100 uses_ | 
 
-(add a) picture of the ferrofluid
+File:Medal vjZPOYa0kJ.png
 
  |
 | 
@@ -290,8 +282,6 @@ File:Pure heart.png
 **[Bloodrend](Bloodrend.md)**
 
  | Tourniquet | Control the flow of blood to train your Bloodrending ability. | _100 uses_ | 
-
-(add a) picture of the tourniquet
 
  |
 

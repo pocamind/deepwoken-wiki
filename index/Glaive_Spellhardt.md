@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 118749
+revid: 118826
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -29,7 +29,8 @@ Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floatin
 -   [Harrowing Enchant Stone](Enchant_Stone.md) \[150 Joy\]
 -   Pumpkin Pitch (Mantra) \[300 Joy\]
 -   [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\]
--   [Hallowtide '23 Medal](Seasonal_Medals.md) \[300 Joy\]
+-   [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\]
+-   [Hallowtide '24 Medal](Seasonal_Medals.md) \[300 Joy\]
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 118552
+revid: 118832
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -66,13 +66,6 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 -   Climbs faster and higher, especially against wood surfaces including trees.  
     -   Great for escaping or chasing, and makes climb height massive when combined with [Jetstriker](Oath%253A_Jetstriker.md).
 -   Practically not affected by the Obvious flaw.  
-    
-
-**Weaknesses:**
-
-  
-
--   Stealth isn't particularly useful unless you depend on it, such as for assassinations or [Tacet](Murmur%253A_Tacet.md).
     
 
 **Surnames:**

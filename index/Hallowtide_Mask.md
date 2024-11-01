@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 80594
+revid: 118827
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -55,5 +55,6 @@ A Hallowtide mask can be crafted by bringing a Paperette, Fine Ink, and Shell St
     -   [Glaive Spellhardt](Glaive_Spellhardt.md)
     -   [Brutus](Brutus.md)
     -   [Jarvis](Summer_Isle.md#the-furnace)
+    -   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
 
 -   Dynamic/non-human NPCs such as Town Guards or the [Kyrsgarde](Kyrsgarde.md) completely ignore the fact you're supposed to be scary towards them and act as normal.

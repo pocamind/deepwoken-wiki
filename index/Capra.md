@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 116720
+revid: 118835
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -94,15 +94,8 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 -   +2 Willpower  
     
 -   The ability to buff allies around them, making them an excellent support.
-    
-
-**Weaknesses:**
-
-  
-
--   Buffs cannot be applied to oneself alone.
--   Need friends. :(
-    
+    -   They are unable to buff themselves without buffing others.
+        
 
 **Surnames:**
 

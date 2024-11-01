@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 103781
+revid: 118839
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races, Exclusive Races, Article stubs, Exclusive, Developer Spec]
@@ -49,14 +49,6 @@ Unknown
 
 -   Navae's Guidance
     
-
-**Weaknesses:**
-
-  
-
-**Surnames:**
-
-  
 
 ## Users
 

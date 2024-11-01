@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 118765
+revid: 118871
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -170,16 +170,6 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
     -   The blood particles are always red, even if you have Alloyblood.
 
  |
-|  | Metal Turret
-
-(★★☆)
-
- | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
-
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
--   Each shot applies a Metal Rod on hit
-
- |
 | 
 
  | Metal Armament
@@ -305,6 +295,16 @@ Does not negate deferred, fire or fall damage.
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
 -   Can be modified with a reversal spark, making it knock enemies away.
 -   Will not activate properly on certain mobs (namely [Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
+
+ |
+|  | Metal Turret
+
+(★★☆)
+
+ | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
+
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
+-   Each shot applies a Metal Rod on hit
 
  |
 | 

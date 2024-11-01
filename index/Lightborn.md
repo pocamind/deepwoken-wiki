@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 114164
+revid: 118841
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
@@ -56,11 +56,6 @@ They are also immortal, meaning that they can be thousands of years old. Also po
 +2 points in every attribute (except Charisma) +5 Points when in character creation and has 335 stats points at level 20
 
 Easier to play the game, because obviously you've played it too much.
-
-**Weaknesses:**
-
-  
-Does not have a racial ability.
 
 **Surnames:**
 

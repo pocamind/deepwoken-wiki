@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 118812
+revid: 118876
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Vyrelda, Master of Blood | |
 |---|---|
 | name | Vyrelda |
-| location | Firfire |
+| location | FirfireDerelict Highchurch |
 
 ## Description
 
@@ -19,9 +19,9 @@ The [Bloodrend](Bloodrend.md) Trainer who was a former student who studied under
 
 She appears to be friendly, albeit stern towards the player. She is seen healing lost divers by clotting their wounds and restoring their blood through blood magic.
 
-## Dialogue
+After getting bloodrend she can be found in Derelict Highchurch, slot wide.
 
-dialogue template added here for people who want to add it
+## Dialogue
 
 **First Encounter:**
 
@@ -147,6 +147,22 @@ dialogue template added here for people who want to add it
 </tbody>
 </table>
 
+**Silentheart:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I don't have time for this.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
 
 <table>
@@ -168,5 +184,7 @@ dialogue template added here for people who want to add it
 
 ## Trivia
 
--   Racial variant of Vtreshi is unknown and is wearing a new unknown outfit.
--   She is the only NPC in the game to have facial piercings.
+-   Vyrelda's racial variant is unknown and she is wearing a new unknown outfit.
+-   She does not attack the player if they're a [Silentheart](Oath%253A_Silentheart.md), instead just ignoring them.
+-   This will probably change in the future, and it is speculated that she'll use either the [Flareblood Kamas](Flareblood_Kamas.md) or the [Bloodtide Trident](Bloodtide_Trident.md).
+-   [Adar](Adar,_Master_of_Metal.md) also had this happen to him.
