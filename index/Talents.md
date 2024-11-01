@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118471
+revid: 118733
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -397,7 +397,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to its requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
     -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN. (However does not reduce true damage at all.)
-    -   Prerequisites: 90 Fortitude, All common Bastion Talents
+    -   Prerequisites: 90 Fortitude, 30 Willpower, All common Bastion Talents
 
 ### Blindseer
 
@@ -845,7 +845,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
     -   Guildmates, people who are in a Vow of Mastery or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
     -   The Canor race's innate Talent has a similar effect.
-    -   Prerequisites: 35 Charisma, Friends in High Places
+    -   Prerequisites: 35 Charisma
     -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this Talent.
 
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
@@ -934,10 +934,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
 
 -   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
-    -   Prerequisites: 35 Flamecharm, Fire Forge (Flamecharm Mantra)
+    -   Prerequisites: 35 Flamecharm, Fire Forge (Flamecharm Mantra) OR Warding Radiance
 
 -   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, 30 Flamecharm, Hell's Partisan
+    -   Prerequisites: 20 Agility, 30 Flamecharm
 
 ### Flamecharmer
 
@@ -984,12 +984,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
   
 
--   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
+-   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
     -   Vesperians will only gain 8% armor from this Talent, totalling to 13% with their own natural armor.
     -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
     -   Prerequisite: 40 Fortitude.
 
--   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
+-   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health. (+5 Health)
     -   Prerequisite: 50 Fortitude
 
 ### Frost Forger
@@ -1098,7 +1098,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I use the winds to enforce my will."**_
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.
-    -   Prerequisites: 40 Galebreathe, Breathing Impact
+    -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
     -   The following Galebreath Mantras have knockback and can benefit from this Talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
@@ -1107,7 +1107,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   Inhaling a Galebreathe Mantra adds (Mantra Level/2) damage to the next Galebreath Mantra.
-    -   Prerequisites: 60 Galebreathe, Breathing Impact
+    -   Prerequisites: 60 Galebreathe
     -   Speed boost has a 2 second cooldown.
 
 ### Genius Intellect
@@ -2612,9 +2612,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek the qualities of Tyrant."**_
 
--   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
+-   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff (40s). (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
-    -   Allies within AoE get a 10% DMG Buff for 15 seconds.
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   Prerequisites: 100 Charisma, 50 Strength
 

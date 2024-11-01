@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 118547
+revid: 118632
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -283,6 +283,15 @@ File:Pure heart.png
  | Ferrofluid | Manipulate this liquid metal to train your Ironsinging ability. | _100 uses_ | 
 
 (add a) picture of the ferrofluid
+
+ |
+| 
+
+**[Bloodrend](Bloodrend.md)**
+
+ | Tourniquet | Control the flow of blood to train your Bloodrending ability. | _100 uses_ | 
+
+(add a) picture of the tourniquet
 
  |
 

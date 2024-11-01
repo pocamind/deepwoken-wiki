@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 118401
+revid: 118611
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5368,7 +5368,7 @@ Found from:
 
  | 
 
-Burn deals 20% more damage, but extinguishes faster.  
+Burn ticks at a faster rate. This does not increase the overall damage output of your flames.  
 If using Eruption Path: Lava Serpent, eruption delay is reduced.
 
   
@@ -5718,6 +5718,7 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Trading with [Jeremiah](Jeremiah.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
 |  | 
