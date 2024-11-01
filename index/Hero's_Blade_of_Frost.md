@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 118087
+revid: 118566
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
@@ -24,13 +24,16 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Le
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | “A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes.” |
 
-The Hero Blade of Frost is one of the several elemental weapons apart of the Hero blade line, being specifically the Frostdraw variation of the [Hero Blades](Hero_Blades.md). This weapon features a unique critical which has the user and spirit within the weapon slam the ground in tandem summoning multiple waves of ice around the initial location, dealing damage while applying the status Frost and Frozen Legs to targets within the range of the critical, though the user is unable to attack while this unique critical is active. If the user has Glass Path: Crystallization, the critical will apply additional crystals on hit.
+## Description
 
--   Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades.
--   At max ELE, the damage is (28.3) for all the Hero Blades.
--   With Hero Blade builds it is recommended to keep being only 80 elemental, as the 20 elemental for mantra scaling is usually not necessary for builds unless you genuinely have 20 spare points you cannot do anything with.
+The Hero Blade of Frost is one of the several elemental weapons apart of the Hero blade line, being specifically the [Frostdraw](Frostdraw.md) variation of the [Hero Blades](Hero_Blades.md).
+
+Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades. With Hero Blade builds it is recommended to keep being only 80 elemental, as the 20 elemental for Mantra scaling is usually not necessary for builds unless you genuinely have 20 spare points you cannot do anything with.
+
+## Critical
+
+The user and spirit within the weapon slam the ground in tandem, summoning multiple waves of ice around the initial location, dealing damage while applying the status Frost and Frozen Legs to targets within the range of the critical, though the user is unable to attack while this unique critical is active. If the user has Glass Path: Crystallization, the critical will apply additional crystals on hit.
 
 ## Trivia
 
--   The Hero of Frost is a [Capra](Capra.md).
-    -   Identified by its horns and mask.
+-   The Hero of Frost is a [Capra](Capra.md), identified by its horns and mask.

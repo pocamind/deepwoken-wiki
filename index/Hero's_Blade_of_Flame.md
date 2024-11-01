@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 118531
+revid: 118564
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Le
 | obtainment | Defeating Blizzard Knight event in Valley of Heroes, Fishing, The Diluvian Mechanism |
 | description | “A blade said to be enruned with a passage of the song, it evokes the overwhelming heat of geothermal vents.” |
 
-The Hero Blade of Flame is one of the several elemental weapons apart of the Hero blade line, being specifically the Flamecharm variation of the [Hero Blades](Hero_Blades.md). This weapon features a unique critical.
+The Hero Blade of Flame is one of the several elemental weapons apart of the Hero blade line, being specifically the [Flamecharm](Flamecharm.md) variation of the [Hero Blades](Hero_Blades.md). This weapon features a unique critical.
 
 Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades. With Hero Blade builds it is recommended to keep being only 80 elemental, as the 20 elemental for Mantra scaling is usually not necessary for builds unless you genuinely have 20 spare points you cannot do anything with.
 

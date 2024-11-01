@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 117062
+revid: 118563
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -300,7 +300,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 **Lore Sources:** _Rifle Spear (Description), Flintlock (Description), Yamaketzal (Mentioned), Summer Company Guards (Good Rep Dialogue)_
 
--   Gunsmith Rosen is a man who sparked the innovation of Firearms, and the their reintroduction to the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
+-   Gunsmith Rosen is a man who sparked the innovation of Firearms, and their reintroduction to the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
@@ -308,7 +308,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[6\]](#cite-note-stormseye-6)
 -   He is a [Vesperian](Vesperian.md).[\[2\]](#cite-note-arch-2)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the [Authority](The_Central_Authority.md).
-    -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.[\[2\]](#cite-note-arch-2)
+    -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[2\]](#cite-note-arch-2)
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
 ### The Dreadstar
@@ -321,7 +321,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet had to be confirmed.
+-   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet to be confirmed.
 
 ### Kaide, the Drowned Light
 
