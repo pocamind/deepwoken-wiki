@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 118735
+revid: 118758
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 | Heartstar | |
 |---|---|
-| value | ? |
+| value | 10 |
 | weight | 0 |
 | type | Elemental Ingredient |
 | bankable | Yes |

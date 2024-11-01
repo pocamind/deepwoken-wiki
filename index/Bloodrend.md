@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 118747
+revid: 118817
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -24,9 +24,9 @@ Bloodrend grants the user the ability to control, and conjure their own blood.
 
 THIS IS JUST A PLACEHOLDER TO MAKE EVERYONES LIVES EASIER.
 
-Go to Layer 2 Floor 1 (Bonekeeper is not required, you can skip this by taking the union hook directly to the left of the first door). Go to the [Firfire village](Firfire.md) and locate a house with a [woman](Vyrelda,_Master_of_Blood.md) named Vyrelda who is hovering over a bleeding Apprentice Diver. (If you do not see her, you will need to have defeated [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) previously on your slot.) Talk to Vyrelda, and she will speak of Bloodrend.
+Go to Layer 2 Floor 1 (Bonekeeper is not required, you can skip this by taking the union hook directly to the left of the first door). Go to the [Firfire village](Firfire.md) and locate a house with a [woman](https://en.wikipedia.org/wiki/Woman) named Vyrelda who is hovering over a bleeding Apprentice Diver. (If you do not see her, you will need to have defeated [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) previously on your slot.) Talk to Vyrelda, and she will speak of Bloodrend.
 
-She will have you kill 3 Ministry NPCs in order to obtain it. Then, when leaving out of the door to the house, just walk as straight as possible. 3 NPCs using Bloodrend will spawn on you, they drop [Heartstars](Heartstar.md), and you need 3 of them to obtain the attunement. (These 3 NPCs will respawn after a short amount of time has passed if you have not received enough or any [Heartstars](Heartstar.md). The item is also not droppable, so players must obtain them individually if they are with multiple other players in Layer 2.)
+She will have you kill 3 Ministry NPCs in order to obtain it. Then, when leaving out of the door to the house, just walk as straight as possible. 3 NPCs using Bloodrend will spawn on you, they drop [Heartstars](Heartstar.md), and you need 3 of them to obtain the attunement. (These 3 NPCs will respawn after a short amount of time has passed if you have not received enough or any [Heartstars](Heartstar.md). The item is also not droppable (Fact check this, its just an Elemental Ingredient so it should be. Could it be just not droppable like all items down in Layer 2?), so players must obtain them individually if they are with multiple other players in Layer 2.)
 
 Kill them and return to her, and you will obtain Bloodrend.
 
@@ -41,7 +41,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Bloodrend level 30, players will receive the _Expert Bloodrender_ Talent. This allows players to unlock 2-star Bloodrend mantras.
 -   Finally, at Bloodrend level 50, players will receive the _Master Bloodrender_ Talent. This finally allows Bloodrend users to unlock the last category, 3-star Mantras.
 
-The [Attunement](Attunements.md) can be unlocked by entering Layer 2 in [Firfire](Firfire.md) near [Erosius](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by entering Layer 2 in [Firfire](Firfire.md) near [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
 -   To upgrade a Bloodrend Mantra from level 1 to level 2 costs.
 -   To upgrade a Bloodrend Mantra from level 2 to level 3 costs.
@@ -96,32 +96,62 @@ File:Scarlet Cyclone.png
  |
 | 
 
+ | Viscous Descent
+
+(★☆☆)
+
+ | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing aoe damage and creating a blood pool when it lands.
+
+ |
+| 
+
+File:Blood stakes.png
+
+ | Blood Stakes
+
+(★☆☆)
+
+ | Create stakes of blood. | 25 Ether | N/A | Summons a blood stake near you that targets onto an enemy and impales them. Leaves behind a blood pool where the stake spawned.
+
+ |
+| 
+
  | Scarlet Cannon
 
 (★★☆)
 
  | Create a giant blood beam. | N/A Ether | N/A | N/A |
-| 
+|  | Veinbreaker
 
- | Viscous Decent
+(★★☆)
 
-(???)
+ | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to begin charging, character will flash 5 times while charging, then dash foward and punch. M1 while charging to punch early. If charged fully, blockbreaks.
 
- | Leap into the air and slam down with vengeance. | N/A Ether | N/A | N/A |
+ |
 | 
 
  | Bloodedge
 
 (★☆☆)
 
- | Conjure a scythe of blood and swing. | N/A Ether | N/A | N/A |
+ | Conjure a scythe of blood and swing. | 25
+
+Ether
+
+ | N/A | Conjure up a scythe of your own blood and form it into the shape of a scythe and quickly charge forward.
+
+ |
 | 
 
  | Soulflare Siphon
 
 (★★☆)
 
- | Grab and siphon blood out of your victim. | N/A Ether | N/A | N/A |
+ | Grab and siphon blood out of your victim. | 50 Ether | N/A | 
+
+File:Soulflare.gif
+
+ |
 | 
 
  | Razor Blitz
@@ -142,21 +172,31 @@ File:Scarlet Cyclone.png
 
 (★★☆)
 
- | Slash upwards and launch slashes of blood. | 30 Ether | N/A | N/A |
+ | Slash upwards and launch slashes of blood. | 30 Ether | N/A | After a short windup, perform a uppercut into the air, then launches 3 blood slashes fowards and into the ground.
+
+ |
 | 
 
  | Bloodtide Ritual
 
 (★★★)
 
- | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Creates a blood spear that charges for about 6 seconds while damaging people in the area, then throws the spear down |
+ | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Creates a blood spear that charges for about 6 seconds while damaging people in the area, then throws the spear down
+
+ |
 | 
 
  | Bloodcurdle
 
 (★★★)
 
- | Manipulate the blood within your target's body. | N/A Ether | N/A | lock on to a target and attack them with their own blood twice |
+ | Manipulate the blood within your target's body. | 50
+
+Ether
+
+ | N/A | lock on to a target and attack them with their own blood twice
+
+If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit longer. |
 
 ### Mobility Mantras
 
@@ -165,7 +205,7 @@ File:Scarlet Cyclone.png
 | 
  | Sanguine Dive
 
-(???)
+(★☆☆)
 
  | Create or jump into a pool of blood. | N/A Ether | N/A | N/A |
 | 
@@ -185,7 +225,13 @@ File:Scarlet Cyclone.png
 
 (★★☆)
 
- | A servant of blood. | 70 Ether | N/A | N/A |
+ | A servant of blood. | 70 Ether | N/A | The caster summons a wisp of blood.
+
+-   Blood Wisp regenerates a portion of your blood, (under 5%) three times over X seconds.
+-   Ritual casted.
+    -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step. (just copied this from another wisp page)
+
+ |
 
 ### Talents
 
@@ -217,10 +263,9 @@ Bloodrend currently has a total of 30 talents.
 -   Hemolyitc Transfusion - Guardbreaking an enemy with Bloodrend mantra increases the amount of blood poison from the attack.
 -   Hypovolemic Focus - While you have temporary health, your opponent regains far less posture from parrying you.
 -   Sharing Is Carying - Your 'Charm' on opponents also slightly increases your blood drain against them.
--   Gruesome Harvest - Landing bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health
+-   Gruesome Harvest (95 Bloodrend) - Landing bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health
 
 ## Trivia
 
-Bloodrend fits the name of its attunement, being released on October 31st, 2024.
-
-Although the Chaser page allegedly states that he is using Flamecharm, or rather another path of it, this attunement is thought to be his attunement.
+-   The [Ironsing](Ironsing.md) talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
+-   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.

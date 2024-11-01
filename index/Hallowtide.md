@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 117588
+revid: 118764
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -25,6 +25,8 @@ Hallowtide is an event that first started on Halloween Night of 2022, and ended 
 
 It returned in 2023 on October 27th. The first Hallowtide added...
 
+...Hallowtide returns once more for 2024, this time added on October 31st...
+
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
 -   The "[Joy](Joy.md)" System
@@ -41,6 +43,10 @@ The second Hallowtide added...
 -   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer)\*\*
 -   New Helmets
 -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
+
+The third Hallowtide added...
+
+\- TBA.
 
 (\*-only available from the second week of the first Hallowtide.)
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 118464
+revid: 118748
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -108,3 +108,4 @@ The mirror is a bot and so it does not come up with tactics and plans before the
 -   The animation for Reveal closely resembles hollow knight's 3rd phase boss fight self stab move, possibly being a tiny reference.
 
 -   The animation for Reveal also closely resembles Elden Ring's Ash of War Seppuku with both giving a buff in exchange for health, possibly being a reference to the Souls-Borne franchise.
+-   Decimate can be used with fists if you re-equip the Mantra with a Mantra Table (rejoining will make you unable to use it)

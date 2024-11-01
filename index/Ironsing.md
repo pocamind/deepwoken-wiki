@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 118476
+revid: 118765
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -843,7 +843,8 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   **Needle Barrage** is practically identical to Autumn Rain from Rogue Lineage.
     -   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, in which her signature move is shooting a line of matchlock rifles towards her enemy. Or it may be a toned down version of an attack used by Gremmy Thoumeaux from the Bleach Series, where he summons an arsenal of guns behind him and shoots at the enemy.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
--   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
+-   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md). (Ironsing's Hero Blade would probably just be a literal sword, anyways.)
+-   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray
 -   Ironsing is called 'Element' in the game's code.
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.

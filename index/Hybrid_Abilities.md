@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 118178
+revid: 118783
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -98,869 +98,829 @@ kick.
 
 ## **Talents**
 
-### Flamecharm
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Flamecharm  
-Frostdraw
-
- | 
-
-Temperature Shock  
-\[Flash Freeze\]
-
- | 
-
-Glass Path: Crystallization  
-40 Frostdraw  
-40 Flamecharm
-
- | 
-
-Your fire mantras now detonate any stacked crystals.
-
- | 
-
-Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as [Mecha Gatling](Monster_Mantras.md).
-
- |
-| 
-
-Flamecharm  
-Frostdraw
-
- | 
-
-Volcanic Glass  
-\[Pyroclast\]
-
- | 
-
-Glass Path: Crystallization  
-Eruption Path: Lava Serpent
-
- | 
-
-Detonating crystals causes an eruption soon after.
-
- | 
-
-Detonating Crystals will cause an Eruption.
-
- |
-| 
-
-Flamecharm  
-Galebreathe
-
- | 
-
-Fan the Flames  
-\[Heat Column\]
-
- | 
-
-Inhale  
-40 Flamecharm
-
- | 
-
-Your stored Wind mantras can now empower your Fire mantras.
-
- | 
-
-Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff equal to the Inhaled mantra's level divided by 2.5 on every hit.
-
- |
-| 
-
-Flamecharm  
-Thundercall
-
- | 
-
-Scorched Peak  
-\[Lichtenburg\]
-
- | 
-
-50 Thundercall, 25 Flamecharm
-
- | 
-
-Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
-
- | 
-
-Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.
-
- |
-| 
-
-Flamecharm  
-Shadowcast
-
- | 
-
-Wraith Path: Twisted Puppets  
-\[Twisted Puppets\]
-
- | 
-
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.
-
- | 
-
-Applying flame via flame mantras summons a puppet. Burn from all sources is now black. Burn from all sources except from Shadowcast deals low damage and drains ether. Shadow mantras apply a low damage flame, but do not drain ether nor spawn puppets.
-
- |
-| 
-
-Flamecharm  
-Shadowcast
-
- | 
-
-Moths to a Flame  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-You summon a puppet of black flames that homes onto enemies with black flames.
-
- | 
-
-Your puppets now seek out those who are on fire from your flames. Additionally, they will continue seeking for a few seconds after their flame is removed.
-
- |
-| 
-
-Flamecharm  
-Shadowcast
-
- | 
-
-Burning Puppets  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Your puppets can now inflict burn and fire-based Talents when they explode.
-
- | 
-
-When your puppets hit your opponent, they will apply burn and will proc fire-based Talents.
-
- |
-| 
-
-Flamecharm  
-Shadowcast
-
- | 
-
-Explosive Rage  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.
-
- | 
-
-Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.
-
- |
-| 
-
-Flamecharm  
-Shadowcast
-
- | 
-
-Burning Sacrifice  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-Emperor Flame  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.
-
- | 
-
-Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds.
-
- |
-
-### Frostdraw
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Frostdraw  
-Galebreathe
-
- | 
-
-Freezing Wight  
-\[Cold Phantom\]
-
- | 
-
-Haunted Gale  
-40 Frostdraw
-
- | 
-
-Your Haunted Gale now procs Chilled.
-
- | 
-
-Works with Specter Path's apparitions, also can proc Bottom Freeze. The chill lasts 7 seconds or alternatively, it applies 1 Crystal on proc if you have the Crystallization path.
-
- |
-| 
-
-Frostdraw  
-Thundercall
-
- | 
-
-Fulgurite Formation  
-\[Frozen Lightning\]
-
- | 
-
-Surge Path: Unstable Capacitor  
-50 Thundercall  
-Glass Path: Crystallization  
-50 Frostdraw
-
- | 
-
-When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
-
- | 
-
-When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.
-
- |
-| 
-
-Frostdraw  
-Thundercall
-
- | 
-
-Frozen Web  
-\[Doomsday Engine\]
-
- | 
-
-Static Link  
-40 Thundercall  
-40 Frostdraw
-
- | 
-
-Landing a critical with a Static Link on your opponent applies Chilled.
-
- | 
-
-Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.
-
- |
-| 
-
-Frostdraw  
-Flamecharm
-
- | 
-
-Temperature Shock  
-\[Flash Freeze\]
-
- | 
-
-Glass Path: Crystallization  
-40 Frostdraw  
-40 Flamecharm
-
- | 
-
-Your fire mantras now detonate any stacked crystals.
-
- | 
-
-Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as [Mecha Gatling](Monster_Mantras.md).
-
- |
-| 
-
-Frostdraw  
-Flamecharm
-
- | 
-
-Volcanic Glass  
-\[Pyroclast\]
-
- | 
-
-Glass Path: Crystallization  
-Eruption Path: Lava Serpent
-
- | 
-
-Detonating crystals causes an eruption soon after.
-
- | 
-
-Detonating Crystals will cause an Eruption.
-
- |
-
-### Thundercall
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Thundercall  
-Ironsing
-
- | 
-
-Voltaic Conductor  
-\[Superconductor\]
-
- | 
-
-Rending Needle: Conductor  
-75 Ironsing  
-40 Thundercall
-
- | 
-
-Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
-
- | 
-
-Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.
-
- |
-| 
-
-Thundercall  
-Flamecharm
-
- | 
-
-Scorched Peak  
-\[Lichtenburg\]
-
- | 
-
-50 Thundercall, 25 Flamecharm
-
- | 
-
-Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
-
- | 
-
-Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.
-
- |
-| 
-
-Thundercall  
-Frostdraw
-
- | 
-
-Fulgurite Formation  
-\[Frozen Lightning\]
-
- | 
-
-Surge Path: Unstable Capacitor  
-50 Thundercall  
-Glass Path: Crystallization  
-50 Frostdraw
-
- | 
-
-When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
-
- | 
-
-When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.
-
- |
-| 
-
-Thundercall  
-Frostdraw
-
- | 
-
-Frozen Web  
-\[Doomsday Engine\]
-
- | 
-
-Static Link  
-40 Thundercall  
-40 Frostdraw
-
- | 
-
-Landing a critical with a Static Link on your opponent applies Chilled.
-
- | 
-
-Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.
-
- |
-| 
-
-Thundercall  
-Galebreathe
-
- | 
-
-Storm Link  
-\[Stormcaller\]
-
- | 
-
-Static Link  
-60 Thundercall  
-50 Galebreathe
-
- | 
-
-While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-
- | 
-
-Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.
-
- |
-| 
-
-Thundercall  
-Shadowcast
-
- | 
-
-Dark Receiver  
-\[Sapper\]
-
- | 
-
-Static Link  
-40 Thundercall  
-40 Shadowcast
-
- | 
-
-Shadow moves will also steal Ether from those you are Static Linked tethered to.
-
- | 
-
-Shadow mantras will steal 2-3% Ether from those you are Static Linked tethered to even if they aren't hit by the Shadow mantra.
-
- |
-| 
-
-Thundercall  
-Shadowcast
-
- | 
-
-Battery Sapper  
-\[Unstable Capacitor\]
-
- | 
-
-Surge Path: Unstable Capacitor  
-60 Thundercall  
-25 Shadowcast
-
- | 
-
-If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
-
- | 
-
-When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for mantra casting to drain your Human Battery target's Ether.
-
- |
-
-### Galebreathe
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Galebreathe  
-Frostdraw
-
- | 
-
-Freezing Wight  
-\[Cold Phantom\]
-
- | 
-
-Haunted Gale  
-40 Frostdraw
-
- | 
-
-Your Haunted Gale now procs Chilled.
-
- | 
-
-Works with Specter Path's apparitions, also can proc Bottom Freeze. The chill lasts 7 seconds or alternatively, it applies 1 Crystal on proc if you have the Crystallization path.
-
- |
-| 
-
-Galebreathe  
-Shadowcast
-
- | 
-
-Pressure Detonation  
-\[Cosmic Wind\]
-
- | 
-
-60 Galebreathe  
-40 Shadowcast
-
- | 
-
-Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.
-
- | 
-
-Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.
-
- |
-| 
-
-Galebreathe  
-Flamecharm
-
- | 
-
-Fan the Flames  
-\[Heat Column\]
-
- | 
-
-Inhale  
-40 Flamecharm
-
- | 
-
-Your stored Wind mantras can now empower your Fire mantras.
-
- | 
-
-Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff equal to the Inhaled mantra's level divided by 2.5 on every hit.
-
- |
-| 
-
-Galebreathe  
-Thundercall
-
- | 
-
-Storm Link  
-\[Stormcaller\]
-
- | 
-
-Static Link  
-60 Thundercall  
-50 Galebreathe
-
- | 
-
-While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-
- | 
-
-Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.
-
- |
-
-### Shadowcast
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Shadowcast  
-Galebreathe
-
- | 
-
-Pressure Detonation  
-\[Cosmic Wind\]
-
- | 
-
-60 Galebreathe  
-40 Shadowcast
-
- | 
-
-Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.
-
- | 
-
-Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.
-
- |
-| 
-
-Shadowcast  
-Thundercall
-
- | 
-
-Dark Receiver  
-\[Sapper\]
-
- | 
-
-Static Link  
-40 Thundercall  
-40 Shadowcast
-
- | 
-
-Shadow moves will also steal Ether from those you are Static Linked tethered to.
-
- | 
-
-Shadow mantras will steal 2-3% Ether from those you are Static Linked tethered to even if they aren't hit by the Shadow mantra.
-
- |
-| 
-
-Shadowcast  
-Thundercall
-
- | 
-
-Battery Sapper  
-\[Unstable Capacitor\]
-
- | 
-
-Surge Path: Unstable Capacitor  
-60 Thundercall  
-25 Shadowcast
-
- | 
-
-If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
-
- | 
-
-When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for mantra casting to drain your Human Battery target's Ether.
-
- |
-| 
-
-Shadowcast  
-Flamecharm
-
- | 
-
-Wraith Path: Twisted Puppets  
-\[Twisted Puppets\]
-
- | 
-
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.
-
- | 
-
-Applying flame via flame mantras summons a puppet. Burn from all sources is now black. Burn from all sources except from Shadowcast deals low damage and drains ether. Shadow mantras apply a low damage flame, but do not drain ether nor spawn puppets.
-
- |
-| 
-
-Shadowcast  
-Flamecharm
-
- | 
-
-Moths to a Flame  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-You summon a puppet of black flames that homes onto enemies with black flames.
-
- | 
-
-Your puppets now seek out those who are on fire from your flames. Additionally, they will continue seeking for a few seconds after their flame is removed.
-
- |
-| 
-
-Shadowcast  
-Flamecharm
-
- | 
-
-Burning Puppets  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Your puppets can now inflict burn and fire-based Talents when they explode.
-
- | 
-
-When your puppets hit your opponent, they will apply burn and will proc fire-based Talents.
-
- |
-| 
-
-Shadowcast  
-Flamecharm
-
- | 
-
-Explosive Rage  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.
-
- | 
-
-Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.
-
- |
-| 
-
-Shadowcast  
-Flamecharm
-
- | 
-
-Burning Sacrifice  
-\[Twisted Puppets\]
-
- | 
-
-Wraith Path: Twisted Puppets  
-Emperor Flame  
-40 Flamecharm  
-40 Shadowcast
-
- | 
-
-Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.
-
- | 
-
-Gain a tool that allows you to sacrifice puppets who who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds.
-
- |
-
-### Ironsing
-
-| Hybrid | Talent | Requirements | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-| 
-Ironsing  
-Thundercall
-
- | 
-
-Voltaic Conductor  
-\[Superconductor\]
-
- | 
-
-Rending Needle: Conductor  
-75 Ironsing  
-40 Thundercall
-
- | 
-
-Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
-
- | 
-
-Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.
-
- |
+**Bloodrend:**
+
+**Bloodrend + Flamecharm:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Scorchblood<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Flamecharm</center></td>
+  <td><center>Guardbreaking your opponent with a Bloodrend mantra sets them on fire.</center></td>
+  <td><center>Posture breaking with a Bloodrend mantra applies burn.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Bloodrend + Frostdraw:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Cold Blooded<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Frostdraw</center></td>
+  <td><center>Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode.</center></td>
+  <td><center>Enemies passively lose blood when under effect from your chill. If you have Crystallization Path, steal their blood when crystals explode instead.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Bloodrend + Galebreathe:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Brain Death<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Galebreathe</center></td>
+  <td><center>Enemies that are suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.</center></td>
+  <td><center>Bloodrend mantras extend suffocation duration.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Bloodrend + Ironsing:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Blood and Iron<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Ironsing</center></td>
+  <td><center>Pulling rods out of your opponent now replenishes an equivalent amount of blood.</center></td>
+  <td><center>Pulling rods now regenerates your blood.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Bloodrend + Shadowcast:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Malevolent Sapper<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Shadowcast</center></td>
+  <td><center>The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.</center></td>
+  <td><center>Ether drain from Shadowcast mantras scales on the amount of blood poisoning your opponent has.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Bloodrend + Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Electrolyte<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Thundercall</center></td>
+  <td><center>Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.</center></td>
+  <td><center>While you have the temporary health status effect, landing Bloodrend mantras applies electrify. This also removes a portion of your temporary health.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Flamecharm:**
+
+**Flamecharm + Bloodrend:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Scorchblood<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Flamecharm</center></td>
+  <td><center>Guardbreaking your opponent with a Bloodrend mantra sets them on fire.</center></td>
+  <td><center>Posture breaking with a Bloodrend mantra applies burn.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Flamecharm + Frostdaw:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Temperature Shock<br>
+  <sup>[Flash Freeze]</sup></center></td>
+  <td><center>Glass Path: Crystallization<br>
+  40 Frostdraw<br>
+  40 Flamecharm</center></td>
+  <td><center>Your fire mantras now detonate any stacked crystals.</center></td>
+  <td><center>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</center></td>
+</tr>
+<tr>
+  <td><center><font>Volcanic Glass</font><br>
+  <sup>[Pyroclast]</sup></center></td>
+  <td><center>Glass Path: Crystallization<br>
+  Eruption Path: Lava Serpent</center></td>
+  <td><center>Detonating crystals causes an eruption soon after.</center></td>
+  <td><center>Detonating Crystals will cause an Eruption.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Flamecharm + Galebreathe:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Fan the Flames<br>
+  <sup>[Heat Column]</sup></center></td>
+  <td><center>Inhale<br>
+  40 Flamecharm</center></td>
+  <td><center>Your stored Wind mantras can now empower your Fire mantras.</center></td>
+  <td><center>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%, for instance, a level 1 Inhale will only be +2% damage, while a level 5 Inhale will be +10% damage.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Flamecharm + Shadowcast:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
+  <td><center>Applying flame via flame mantras summons a puppet. Burn from all sources is now black. Burn from all sources except from Shadowcast deals low damage and drains ether. Shadow mantras apply a low damage flame, but do not drain ether nor spawn puppets.</center></td>
+</tr>
+<tr>
+  <td><center>Moths to a Flame<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
+  <td><center>Your puppets now seek out those who are on fire from your flames. Additionally, they will continue seeking for a few seconds after their flame is removed.</center></td>
+</tr>
+<tr>
+  <td><center>Burning Puppets<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Your puppets can now inflict burn and fire-based Talents when they explode.</center></td>
+  <td><center>When your puppets hit your opponent, they will apply burn and will proc Flamecharm Talents.</center></td>
+</tr>
+<tr>
+  <td><center>Explosive Rage<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.</center></td>
+  <td><center>Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.</center></td>
+</tr>
+<tr>
+  <td>Burning Sacrifice<br>
+  <sup>[Twisted Puppets]</sup></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  Emperor Flame<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</center></td>
+  <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Flamecharm + Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Scorched Peak<br>
+  <sup>[Lichtenburg]</sup></center></td>
+  <td><center>50 Thundercall<br>
+  25 Flamecharm</center></td>
+  <td><center>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</center></td>
+  <td><center>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Frostdraw:**
+
+**Frostdraw + Bloodrend:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Cold Blooded<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Frostdraw</center></td>
+  <td><center>Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode.</center></td>
+  <td><center>Enemies passively lose blood when under effect from your chill. If you have Crystallization Path, steal their blood when crystals explode instead.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Frostdraw + Flamecharm:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Temperature Shock<br>
+  <sup>[Flash Freeze]</sup></center></td>
+  <td><center>Glass Path: Crystallization<br>
+  40 Frostdraw<br>
+  40 Flamecharm</center></td>
+  <td><center>Your fire mantras now detonate any stacked crystals.</center></td>
+  <td><center>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</center></td>
+</tr>
+<tr>
+  <td><center><font>Volcanic Glass</font><br>
+  <sup>[Pyroclast]</sup></center></td>
+  <td><center>Glass Path: Crystallization<br>
+  Eruption Path: Lava Serpent</center></td>
+  <td><center>Detonating crystals causes an eruption soon after.</center></td>
+  <td><center>Detonating Crystals will cause an Eruption.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Frostdraw + Galebreathe:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Freezing Wight<br>
+  <sup>[Cold Phantom]</sup></center></td>
+  <td><center>Haunted Gale<br>
+  40 Frostdraw</center></td>
+  <td><center>Your Haunted Gale now procs Chilled.</center></td>
+  <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds on hit. Alternatively, it applies 1 Crystal if you have the Crystallization path. They can also proc Bottom Freeze.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Frostdraw + Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Fulgurite Formation<br>
+  <sup>[Frozen Lightning]</sup></center></td>
+  <td><center>Surge Path: Unstable Capacitor<br>
+  50 Thundercall<br>
+  Glass Path: Crystallization<br>
+  50 Frostdraw</center></td>
+  <td><center>When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.</center></td>
+  <td><center>When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.</center></td>
+</tr>
+<tr>
+  <td><center><center>Frozen Web<br>
+  <sup>[Doomsday Engine]</sup></center></center></td>
+  <td><center>Static Link<br>
+  40 Thundercall<br>
+  40 Frostdraw</center></td>
+  <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
+  <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Galebreathe:**
+
+**Galebreathe + Bloodrend:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Brain Death<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Galebreathe</center></td>
+  <td><center>Enemies that are suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.</center></td>
+  <td><center>Bloodrend mantras extend suffocation duration.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Galebreathe + Flamecharm:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Fan the Flames<br>
+  <sup>[Heat Column]</sup></center></td>
+  <td><center>Inhale<br>
+  40 Flamecharm=</center></td>
+  <td><center>Your stored Wind mantras can now empower your Fire mantras.</center></td>
+  <td><center>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%, for instance, a level 1 Inhale will only be +2% damage, while a level 5 Inhale will be +10% damage.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Galebreathe + Frostdraw:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Freezing Wight<br>
+  <sup>[Cold Phantom]</sup></center></td>
+  <td><center>Haunted Gale<br>
+  40 Frostdraw</center></td>
+  <td><center>Your Haunted Gale now procs Chilled.</center></td>
+  <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds on hit. Alternatively, it applies 1 Crystal if you have the Crystallization path. They can also proc Bottom Freeze.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Galebreathe + Shadowcast:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Pressure Detonation<br>
+  <sup>[Cosmic Wind]</sup></center></td>
+  <td><center>60 Galebreathe<br>
+  40 Shadowcast</center></td>
+  <td><center>Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.</center></td>
+  <td><center>Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Galebreathe + Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Storm Link<br>
+  <sup>[Stormcaller]</sup></center></td>
+  <td><center>Static Link<br>
+  60 Thundercall<br>
+  50 Galebreathe</center></td>
+  <td><center>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</center></td>
+  <td><center>Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Ironsing:**
+
+**Ironsing + Bloodrend:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Blood and Iron<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Ironsing</center></td>
+  <td><center>Pulling rods out of your opponent now replenishes an equivalent amount of blood.</center></td>
+  <td><center>Pulling rods now regenerates your blood.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Ironsing + Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Voltaic Conductor<br>
+  <sup>[Superconductor]</sup></center></td>
+  <td><center>Rending Needle: Conductor<br>
+  75 Ironsing<br>
+  40 Thundercall</center></td>
+  <td><center>Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.</center></td>
+  <td><center>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Shadowcast:**
+
+**Shadowcast + Bloodrend:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Malevolent Sapper<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Shadowcast</center></td>
+  <td><center>The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.</center></td>
+  <td><center>Ether drain from Shadowcast mantras scales on the amount of blood poisoning your opponent has.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Shadowcast + Flamecharm:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
+  <td><center>Applying flame via flame mantras summons a puppet. Burn from all sources is now black. Burn from all sources except from Shadowcast deals low damage and drains ether. Shadow mantras apply a low damage flame, but do not drain ether nor spawn puppets.</center></td>
+</tr>
+<tr>
+  <td><center>Moths to a Flame<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
+  <td><center>Your puppets now seek out those who are on fire from your flames. Additionally, they will continue seeking for a few seconds after their flame is removed.</center></td>
+</tr>
+<tr>
+  <td><center>Burning Puppets<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Your puppets can now inflict burn and fire-based Talents when they explode.</center></td>
+  <td><center>When your puppets hit your opponent, they will apply burn and will proc Flamecharm Talents.</center></td>
+</tr>
+<tr>
+  <td><center>Explosive Rage<br>
+  <sup>[Twisted Puppets]</sup></center></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.</center></td>
+  <td><center>Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.</center></td>
+</tr>
+<tr>
+  <td>Burning Sacrifice<br>
+  <sup>[Twisted Puppets]</sup></td>
+  <td><center>Wraith Path: Twisted Puppets<br>
+  Emperor Flame<br>
+  40 Flamecharm<br>
+  40 Shadowcast</center></td>
+  <td><center>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</center></td>
+  <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Shadowcast + Galebreathe:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Pressure Detonation<br>
+  <sup>[Cosmic Wind]</sup></center></td>
+  <td><center>60 Galebreathe<br>
+  40 Shadowcast</center></td>
+  <td><center>Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.</center></td>
+  <td><center>Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Shadowcast + Thundercall:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Dark Receiver<br>
+  <sup>[Sapper]</sup></center></td>
+  <td><center>Static Link<br>
+  40 Thundercall<br>
+  40 Shadowcast</center></td>
+  <td><center>Shadow moves will also steal Ether from those you are Static Linked tethered to.</center></td>
+  <td><center>Shadow mantras will steal 2-3% Ether from those you are Static Linked tethered to even if they aren't hit by the Shadow mantra.</center></td>
+</tr>
+<tr>
+  <td><center>Battery Sapper<br>
+  <sup>[Unstable Capacitor]<sup></sup></sup></center></td>
+  <td><center>Surge Path: Unstable Capacitor<br>
+  60 Thundercall<br>
+  25 Shadowcast</center></td>
+  <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
+  <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for mantra casting to drain your Human Battery target's Ether.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Thundercall:**
+
+**Thundercall + Bloodrend:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Electrolyte<br>
+  <sup>[Bloodsong]</sup></center></td>
+  <td><center>40 Bloodrend<br>
+  40 Thundercall</center></td>
+  <td><center>Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.</center></td>
+  <td><center>While you have the temporary health status effect, landing Bloodrend mantras applies electrify. This also removes a portion of your temporary health.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Thundercall + Flamecharm:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Scorched Peak<br>
+  <sup>[Lichtenburg]</sup></center></td>
+  <td><center>50 Thundercall<br>
+  25 Flamecharm</center></td>
+  <td><center>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</center></td>
+  <td><center>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Thundercall + Frostdraw:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Fulgurite Formation<br>
+  <sup>[Frozen Lightning]</sup></center></td>
+  <td><center>Surge Path: Unstable Capacitor<br>
+  50 Thundercall<br>
+  Glass Path: Crystallization<br>
+  50 Frostdraw</center></td>
+  <td><center>When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.</center></td>
+  <td><center>When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.</center></td>
+</tr>
+<tr>
+  <td><center>Frozen Web<br>
+  <sup>[Doomsday Engine]</sup></center></td>
+  <td><center>Static Link<br>
+  40 Thundercall<br>
+  40 Frostdraw</center></td>
+  <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
+  <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Thundercall + Galebreathe:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Storm Link<br>
+  <sup>[Stormcaller]</sup></center></td>
+  <td><center>Static Link<br>
+  60 Thundercall<br>
+  50 Galebreathe</center></td>
+  <td><center>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</center></td>
+  <td><center>Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Thundercall + Ironsing:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Voltaic Conductor<br>
+  <sup>[Superconductor]</sup></center></td>
+  <td><center>Rending Needle: Conductor<br>
+  75 Ironsing<br>
+  40 Thundercall</center></td>
+  <td><center>Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.</center></td>
+  <td><center>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</center></td>
+</tr>
+</tbody>
+</table>
+
+**Thundercall + Shadowcast:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Dark Receiver<br>
+  <sup>[Sapper]</sup></center></td>
+  <td><center>Static Link<br>
+  40 Thundercall<br>
+  40 Shadowcast</center></td>
+  <td><center>Shadow moves will also steal Ether from those you are Static Linked tethered to.</center></td>
+  <td><center>Shadow mantras will steal 2-3% Ether from those you are Static Linked tethered to even if they aren't hit by the Shadow mantra.</center></td>
+</tr>
+<tr>
+  <td><center>Battery Sapper<br>
+  <sup>[Unstable Capacitor]<sup></sup></sup></center></td>
+  <td><center>Surge Path: Unstable Capacitor<br>
+  60 Thundercall<br>
+  25 Shadowcast</center></td>
+  <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
+  <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for mantra casting to drain your Human Battery target's Ether.</center></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

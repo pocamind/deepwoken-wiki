@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118733
+revid: 118796
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -429,6 +429,40 @@ These Talents are designed to make defensive gameplay easier by improving your d
         -   Hair turns red for 20 seconds.
         -   **ONLY** affects your basic attacks, not mantras or anything else.
     -   Prerequisite: 80 Strength
+
+### **Bloodhound**
+
+_**"The scent of my enemy is still fresh."**_
+
+-   Bloodwarden's Sense \[Common Talent\] - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
+    -   Prerequisite: 30 Bloodrend
+-   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool, briefly see their blood and blood poison.
+    -   Prerequisite: 65 Bloodrend
+
+### **Bloodrender**
+
+_**"I obtained the forbidden knowledge of Bloodrending."**_
+
+-   Bloodrender \[Common Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
+    -   Obtained when getting Bloodrender
+-   First Blood \[Common Talent\] - Your first blood mantra you use in combat has no blood cost.
+    -   Prerequisite: 10 Bloodrend
+-   Crimson Fountain \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them..
+    -   Prerequisite: 40 Bloodrend
+
+-   Adept Bloodrender \[Common Talent\] - You can now obtain 1-star Bloodrender mantras.
+    -   Obtained at 20 Bloodrend
+
+-   Expert Bloodrender \[Common Talent\] - You can now obtain 2-star Bloodrender mantras.
+    -   Obtained at 30 Bloodrend
+
+-   Master Bloodrender \[Common Talent\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
+    -   Obtained at 50 Bloodrend.
+
+-   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
+    -   Prerequisite: 50 Bloodrend
+-   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
+    -   Prerequisite: 40 Bloodrend
 
 ### Brawler
 
@@ -1381,8 +1415,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Bleed damage now only deals 15% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
-    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
-    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
+    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction.
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](Bloodrend.md) mantras to the same grey.
     -   Prerequisite: 100 Ironsing
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
@@ -2563,6 +2597,19 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Charismatic Cast, 60 Charisma
     -   Mutual Exclusives: Tough Love
 
+### Transitory Vitality
+
+_**"I use my blood's plasma to better defend myself."**_
+
+-   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
+    -   Prerequisite: Sow and Mend
+-   Embolism \[Common Talent\] - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
+    -   Prerequisite: Sow and Mend
+-   Hypovolemic Focus \[Common Talent\] - While you have temporary health, your opponent regains far less posture from parrying you
+    -   Prerequisite: Sow and Mend
+-   _Sow and Mend_ \[Rare Talent\] - Sacrifice 15% of your blood for temporary health.
+    -   Prerequisites: 60 Bloodrend, Master Bloodrender
+
 ### Trickster
 
 > _**"I often like to play pranks on others."**_
@@ -2622,6 +2669,20 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Rule Through Fear_ \[Rare Talent, Charisma\] - Executing an enemy applies Overcharm to nearby allies and yourself.
     -   Prerequisites: 85 Charisma, 50 Strength
+
+### Quack Doctor
+
+_**"My cure is most effective."**_
+
+-   Blood Bag \[Common Talent\] - You receive extra blood from knocking an enemy.
+    -   Prerequisite: 20 Bloodrend
+
+-   _Blood Transfusion_ \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
+    -   Prerequisite: 60 Bloodrend
+-   Just a Taste \[Common Talent\] - First Bloodrend mantra you hit in combat has increased blood drain.
+    -   Prerequisite: 20 Bloodrend
+-   Open Wound \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
+    -   Prerequisite: 40 Bloodrend
 
 ### Scoundrel
 

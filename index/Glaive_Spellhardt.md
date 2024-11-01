@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 88682
+revid: 118749
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,7 +15,7 @@ categories: [NPCs]
 
 ## Description
 
-Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells you various [Hallowtide](Hallowtide.md)\-related items for Joy, such as:
+Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells you various [Hallowtide](Hallowtide.md)\-related items for [Joy](Joy.md), such as:
 
 -   Random [Deep Gem](Deep_Gems.md) \[15 Joy\]
 -   Random [Master Schematic](Outfits.md#master) \[20 Joy\]
