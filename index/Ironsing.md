@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 118871
+revid: 119018
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links, Attunement]
 
 # Ironsing
 
-Your ability to harness and control metal from your surroundings.
+Your ability to harness, to sense and control metal from your surroundings.
 
 ## Description
 
 Ironsing Icon
 
-"Ironsing" is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
+"Ironsing" is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen talents.
 
 ## Obtainment & Training
 

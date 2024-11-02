@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118993
+revid: 119041
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2252,7 +2252,7 @@ _**"My cure is most effective."**_
     -   Prerequisite: 30 Bloodrend
 
 -   Vasculitis \[Common Talent\] - Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration (Must hit them while they are over 20% BP.)
-    -   Prerequisite: 40 Bloodrend, 25 Intelligence
+    -   Prerequisite: 40 Bloodrend, 35 Intelligence
 
   
 

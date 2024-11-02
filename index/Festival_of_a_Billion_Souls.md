@@ -1,6 +1,6 @@
 ---
 title: Festival of a Billion Souls
-revid: 114721
+revid: 119016
 source: https://deepwoken.fandom.com/wiki/Festival_of_a_Billion_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Deepwoken]
@@ -23,4 +23,5 @@ The festival has only taken place once, from the 27th of September 2024, to the 
 
 ## Trivia
 
--   The shortest event in the games history, lasting 7 days, along with being the least impactful visually.
+-   The second shortest event in the games history, lasting 7 days, along with being the least impactful visually.
+    -   The shortest is the [Nightwish x Deepwoken](Nightwish_x_Deepwoken_Promotional_Event.md) event that lasted a few days.

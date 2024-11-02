@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119006
+revid: 119033
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,19 +14,24 @@ File:Bloodrend.icon.png
 
 Bloodrend Icon
 
-Bloodrend is an [Attunement](Attunements.md) that grants the user the ability to control, and conjure their own blood.
+Bloodrend is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
 ## Obtainment & Training
 
-> "_Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet..._ But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?".
+> "_Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet..._ _But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?"._
 
 ### Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), named [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in a hut on the east side of [Firfire village](Firfire.md), caring for an injured Diver, she is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) within [the second layer](Second_Layer/The_Ethironal_Shrine.md). To unlock Bloodrend, you first need to kill Chaser at least once on the slot you wish to unlock the Attunement on. After killing Chaser, re-enter layer 2 and go talk with Vyrelda- she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the ministry bloodrend oath, this will also begin the quest to get Bloodrend.
+The [Attunement Trainer](Attunement_Trainers.md), named [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in a igloo on the east side of [Firfire village](Firfire.md), caring for an injured Diver, she is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) within [the second layer](Second_Layer/The_Ethironal_Shrine.md). To unlock Bloodrend, you first need to kill Chaser at least once on the slot you wish to unlock the Attunement on. After killing Chaser, re-enter layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, which is aching for her. She mentions **Bloodrend** and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships.
 
-After Vyrelda's short story, the player will be prompted to request bloodrend, Vyrelda agrees under the condition the player deals with some Ministry soldiers to get [3 Heartstars](Heartstar.md). The soldiers are located on the west side of Firfire, opposite of Vyrelda's location, and will spawn for all players once someone has begin the quest. By griping these Ministry soldiers, Heartstars are dropped and can be grabbed by any player. After killing the Ministry soldiers, talk with Vyrelda again and she will give the player a "Curseblood" which grants Bloodrend apon drinking it. \***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**\*
+After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [3 Heartstars](Heartstar.md) from their corpses.
+
+Walk out the building, and run around the village for a while. The blood-renders will notice you as a threat and begin to engage. Kill all the three cultists for 3 Heartstars, and return to Vyrelda to get the Curseblood potion. Upon usage, your body aches in pain for a split second. You have gained access to Bloodrend.
+
+\***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**\*
 
   
+
 After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md), and it will also be available from the [character creation](Character_Creation.md) screen.
 
 ### Training
@@ -273,6 +278,10 @@ Bloodrend currently has a total of 30 talents.
 ## Trivia
 
 -   The [Ironsing](Ironsing.md) talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
+-   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
+
+## References
+
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
--   Bloodtide Ritual is possibly a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring. may also be a reference to Don Quixote's "Don Quixote Ascendant Hardblood Art: The Sphere" from Limbus Company
+-   Bloodtide Ritual is possibly a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.

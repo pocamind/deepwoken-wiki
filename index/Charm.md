@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 107652
+revid: 119036
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -24,13 +24,11 @@ Charm Talents can be split into two categories; those that give enemies charm an
 
 **Chaotic Charm** - Charm those nearby when attacked at low health. (Enemies and Allies) Enemies affected by _this_ charm have their damage increased to anyone but you, and deal reduced damage towards you.
 
-**Charismatic Cast** - Landing a hit with a mantra on an enemy causes them to be charmed by your moves, (I've hit allies with it before and they have been charmed, but there is no negative effect for them on this charm, the ally and enemy specific effects are weird in this game.) reducing their damage done to you.
+**Charismatic Cast** - Landing a hit with a mantra on an enemy causes them to be charmed by your moves, reducing their damage done to you. Allies recover from being knocked twice as quickly when charmed by you.
 
 ### [Charm Augmenting Talents](https://deepwoken.fandom.com/wiki/Talents#Charm_Caster)
 
 **Lasting Charisma** - Enemies charmed by your mantras are charmed longer. (Once again enemies and allies, unclear because player can charm both enemies and allies.)
-
-**Morale Booster** - Allies recover from being knocked twice as quickly when charmed by you.
 
 **Tough Love** - Deal more damage to players charmed by you.
 
@@ -38,16 +36,8 @@ Charm Talents can be split into two categories; those that give enemies charm an
 
 **Dazing Finisher** - Flourishing enemies that are charmed by you cause them to not be knocked back and _dazed_ instead. (Enemies/NPCs)
 
-### [Vow of Mastery](Vow_of_Mastery.md)
-
-**Vow of Mastery** - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow, you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (Other questions might work, inconclusive, but for now answering any type of question with sure makes you immune to the effect, only the answer yes when the players are directly in front of each other results in a vow.
-
 ## Notes
 
-Vow of Mastery is obtainable at 20 Charisma.
+\- Sing has a fairly large hitbox.
 
-You start with four commands when you obtain [Vow of Mastery](Vow_of_Mastery.md), Say, Sleep, Drop and Eat.
-
-Sing has a fairly large hitbox.
-
-People who are under your Vow of Mastery receive any charm buffs such as Morale Booster that the Master has without needing to recharm them.
+\- Subjects of a [Vow of Mastery](Vow_of_Mastery.md) receive any charm buffs that the Master has without needing to charm them.

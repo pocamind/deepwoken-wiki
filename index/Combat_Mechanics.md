@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 118965
+revid: 119026
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -449,14 +449,15 @@ Main article: [Status Effects](Status_Effects.md)
 </tr>
 <tr>
   <th>Perfect Casting</th>
-  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and Talents utilize Perfect Casting to better strengthen their power, such as:
+  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. The only use of this feature is to interact with some talents. Though it might sound useless, certain talents can give massive bonuses. All talents that use perfect casting are listed here:
   <ul>
-    <li>Cast the spell faster.</li>
-    <li>Increase damage.</li>
-    <li>Increase posture damage.</li>
-    <li>Increase spell size (unconfirmed)</li>
-  </ul><p>A successful Perfect Cast can be indicated by Talents that are based around it.</p>
-  <p>Do note that as of 11/1/24, I've added this here to say that Perfect casting is <b>ONLY</b> used for talents, and developers have confirmed that perfect casting does not in fact increase anything, although further inquiries and research should be done.</p></td>
+    <li><i>Eureka</i> - Receive ether back on every successful <b>perfect cast</b>.</li>
+    <li>Jolt Cast - Every <b>perfect casted</b> Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast.</li>
+    <li>Haunted Gale - Every 3 hits landed by <b>perfectly casted</b> Galebreathe mantras will cause the target to be quickly struck by a phantom of wind.
+  <ul>
+    <li>This talent is needed for Haunted Path: Specter, and is needed to activate the Apparitions talent.</li>
+  </ul></li>
+  </ul><p>Though outside of these talents, perfect casting is effectively useless.</p></td>
 </tr>
 </tbody>
 </table>

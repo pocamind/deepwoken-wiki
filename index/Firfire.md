@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 115462
+revid: 119037
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]
@@ -27,9 +27,13 @@ If you travel past Erosius and take a left, you will encounter a [Kyrsgarde](Kyr
 
 [Aska](Aska.md) is located behind three hidden Resonance Doors underneath a cliff, who can reward you with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) if you meet certain requirements. Black and orange sparks can be seen drifting in the air close to the location of these doors.
 
+The [Bloodrend Trainer, Vyrelda](Vyrelda,_Master_of_Blood.md), can be found in an Igloo on the east side of the village, caring for an injured diver. She ony appears after you have beaten chaser on that slot.
+
 ## Quests
 
 You can find a spear in the Firfire Caverns to obtain the Ethiron's Gaze Talent from Erosius. The Talent persists permanently on a slot after this; you merely have to speak to Erosius in the future instead of finding the spear to progress.
+
+After talking to [Vyrelda](Vyrelda,_Master_of_Blood.md), and accepting her quest, 3 [Ministry Bloodrenders](Ministry_Bloodrender.md) will spawn in the village. After killing them, you can bring the [Heartstars](Heartstar.md) they drop back to her to obtain [Bloodrend](Bloodrend.md).
 
 ## Trivia
 

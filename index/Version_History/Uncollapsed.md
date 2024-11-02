@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 117661
+revid: 119022
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -20,8 +20,78 @@ The update highest on the webpage (the one right below the legend) is the most r
 
   
 
+## **October 31st, 2024**
+
+**NEW ATTUNEMENT: BLOODREND**  
+• _Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet..._  
+• But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?  
+• **17** New Blood Mantras added!!  
+• **30** New Blood Talents added!!  
+  
+**HALLOWTIDE RETURNS**  
+• **Once again, the festivities of Hallowtide have claimed Lumen for the next 2 weeks!** Seek out the legendary Floating Keep of the Spellhardt family to get started...  
+• All of the rewards and events from previous years have returned, so if you missed out on any of the Hallowtides past, you can experience them now!  
+• Next week, all-new Hallowtide festivities will emerge with exclusive new weapons and cosmetics... Perhaps even a shanty to learn?  
+  
+**Balancing & Tweaks**  
+• Race Ornament Dyes can now be removed by barbers  
+• Inhale now applies a damage multiplier instead of adding flat damage to your Mantras. This damage multiplier depends on the level of the inhaled mantra, scaling up to +10% damage with Lv. 5 Mantras. Previously, this was a flat ~4 damage so this should make it more consistent across Mantras. Note that a lot of Mantras reduced this flat 4 to a flat 1 damage internally. Has the benefit of making single-hit gale mantras a lot better than before instead of being greatly outclassed by multihits  
+• Fixed some Gale and Flame mantras not having an Inhale damage bonus  
+• Burn tick damage now scales with your Flamecharm investment somewhat, though not with your Songchant  
+• Burn ticks are now properly resisted by Fire/Elemental Armor  
+• Give and Take no longer requires Friends in High Places  
+• After Cut and Inhale no longer require Breathing Impact  
+• Warding Radiance no longer requires Hell's Partisan  
+• Hell's Partisan now requires you to either have Fire Forge OR Warding Radiance  
+• Audacity damage buff duration increased (15s -> 40s)  
+• Audacity base stun duration increased by 0.5s  
+• To The Finish HP added (5)  
+• Exoskeleton HP gain reduced (10 -> 5)  
+• Discovery of Fire can't be used in the middle of moves now  
+• Deepfire Ring now increases the burn tick frequency as suggested by its described effect. Since the damage is time-adjusted, this won't actually affect the total damage dealt, just the frequency with which the damage is applied  
+• Clarified when Audacity stuns enemies for longer in its talent description  
+• Windmill Ring and Light Eater Ring will no longer stack together on hybrid element attacks  
+• Fixed the damage reduction formula for Flame Repulsion  
+• Symbiotic Sustain no longer procs Deep Gems besides Blue Gem  
+• Increased Symbiotic Sustain cooldown (15s -> 17.5s)  
+• Reduced Smite base damage (15 -> 10)  
+• Increased Smite base cooldown (40s -> 50s)  
+• Increased Rockmaller standing crit windup (0.45s -> 0.55s)  
+• Further reduced Kyrsieger Hyperarmor duration (1.5s -> 0.5s)  
+• Health Regeneration potion effect reduced by 20%  
+• Mindsoothe cooldown increased (30s -> 40s)  
+  
+**Bugfixes & Optimization**  
+• Fixed Aftercut damage scaling twice with PvE power scaling  
+• Fixed moves that are blocked by one enemy being blocked by all other enemies hit by it even if they aren't blocking  
+• Fixed Saint Jay not working on Mantra Chill procs  
+• Fixed a lot of Mantras that would break if an enemy was missing bodyparts  
+• Fixed Clutching Shadow softlocking you if no target is found  
+• Clutching Shadow will now deal posture damage if blocked  
+• Fixed always spawning at the same location after drowning into the Depths  
+• Fixed spawning in mid-air on Kyrsan Railways & Maestro chime maps. Should mean that you no longer die to anti-cheat shenanigans while loading in  
+• Fixed major memory leaks with cloth physics and optimized the system  
+• Fixed Emperor Flame having buggy behavior while active  
+• Fixed getting softlocked out of the Rhythm Quest if you removed the murmur before  
+• Optimized Graceful Flame  
+• Optimized Rotskippers  
+  
+• 2x chests btw  
+  
+• Fixed Cemetery portals  
+• Fixed Teleportation bell  
+• Fixed not being able to shrine Blood mantras
+
+### _**Patch 2.0.1a**_
+
+• Fixed Vein Tendrils bugging you on miss  
+• Fixed Sanguine Dive not ending  
+  
+btw: 50% off sale until hallowtide ends. have fun
+
 ## **October 25th, 2024**
 
+  
 **Warcaller Bell**  
 • The Warcaller Bell has been unearthed in the East Luminant, granting access to a potent ritual. Those at Power 20 can ring the bell to bring forth the call for War. Once 4 players ring the bell, the server will enter War Mode for 20 minutes  
 • While in a War Mode server, all Power 20 players will be Marked by their Guild emblem appearing over their head. Killing the Marked players of other guilds will drop chests and add to the Warchest. Killing players that aren't Marked won't give you anything  
@@ -39,8 +109,7 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Mythic Stability now has VFX and SFX when it procs  
   
 **Hell Mode Buffs**  
-• Massively increased Hell Mode knowledge gain on completion (1 -> 15), increased by 1 for every 5 mobs killed above 100  
-• Hell Mode completion chests now guarantee 2-star quality items and above  
+• Massively increased Hell Mode knowledge gain on completion (1 -> 15), increased by 1 for every 5 mobs killed above 100 • Hell Mode completion chests now guarantee 2-star quality items and above  
 • Buffed Hell Mode completion chests by massively cutting down on the rate of mediocre items. Chest size has been adjusted to accomodate for the much better loot  
 • Hell Mode servers are now more visible on the server list  
 • Reduced the screen tint applied during Hell Mode  
@@ -62,7 +131,7 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Fixed Clutching Shadow being instant on feint  
   
 **Major Performance Improvements**  
-This week comes with another round of major performance improvements, this time focusing on fixing memory leaks and reducing server memory costs. These should help prevent older servers from chugging, as well as just generally improve the lag.  
+_This week comes with another round of major performance improvements, this time focusing on fixing memory leaks and reducing server memory costs. These should help prevent older servers from chugging, as well as just generally improve the lag._  
 • Greatly optimized status effects to be a lot more lightweight  
 • Greatly optimized combat tags to be a lot more lightweight  
 • Greatly optimized Seasons system (winter snow, autumn leaves, etc.)  
@@ -92,18 +161,12 @@ This week comes with another round of major performance improvements, this time 
 • Fixed Flippers of Fate offhand not displaying its enchant  
 • Fixed Anklets of Alsin only showing one anklet  
 • Fixed Flaming Scourge bugging out  
-• Reversal Flaming Scourge no longer goes on full CD if it fails to find a target
-
-### _**Patch 1.10.0a**_
-
+• Reversal Flaming Scourge no longer goes on full CD if it fails to find a target  
   
 • Fixed Flaming Scourge bugging out  
 • Reversal Flaming Scourge no longer goes on full CD if it fails to find a target  
 • Alloyed Scalesplitter damage increased (19 -> 20), scaling increased (5 -> 6)  
-• 2x chests btw
-
-### _**Patch 1.10.0b**_
-
+• 2x chests btw  
   
 • Minimum Warchest point req reduced (30 -> 20)  
 • Fixed Guild Banners not adding to your Guild's score correctly  
@@ -111,6 +174,25 @@ This week comes with another round of major performance improvements, this time 
 • Added a timer to the War Mode GUI  
 • Fixed War Mode not completing successfully in some servers  
 • Fixed Rockmaller aerial crit
+
+### _**Patch 2.0.0a**_
+
+**Hotfixes**  
+• The Ritual Casting system has been completely rewritten. All long-standing issues with it have been fixed. Ritual Casts no longer awkwardly mess with equipping tools or false-start  
+• Fixed uppercuts ending early  
+• Fixed anti-gank on mobs  
+• Your own attacks no longer damage your own Ice Fissure
+
+### _**Patch 2.0.0b**_
+
+**War Mode Balancing**  
+• Dimensional Travel in War Mode is now 1:1 with physical space, meaning that 100 studs travelled in the Interstice is 100 studs travelled in the physical world. This still allows for ambushes and tactical retreats but prevents using it for fast-travel in War Mode  
+• Teleportation in War Mode now has a range limit of 1000 studs and its cooldown is doubled  
+• During War Mode, only Marked players can take Banners  
+• Reduced frequency of Banner Warchest contributions in War Mode  
+• To counter flooding, you now get a penalty to your Guild Score depending on a rolling average of your Guild member count in the server. Basically, this just means that the more of your Guild are in a server, the less each kill/banner payout will be worth  
+• Score amounts have been multiplied by 10 but all the reqs have been multiplied by 10 so there won't be any change other than visually. This was done to allow for the above change  
+• During War Mode, Non-Marked players deal half damage to Marked players and vice versa
 
 ## **October 18th, 2024**
 
