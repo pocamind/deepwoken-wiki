@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 116943
+revid: 118915
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Second Layer, Chaser, Duke, Chime of Conflict, The Ferryman, Maestro Evengarde Rest, Pure Astruline turn-in chest |
+| obtainment | Chests from:, First Layer, Second Layer, Chaser, Duke, Chime of Conflict, The Ferryman, Maestro Evengarde Rest, The Diluvian Mechanism, Pure Astruline turn-in chest |
 | description | "..." |
 
 ## Description

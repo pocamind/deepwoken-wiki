@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 118883
+revid: 118925
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -26,7 +26,7 @@ THIS IS JUST A PLACEHOLDER TO MAKE EVERYONES LIVES EASIER.
 
 Go to Layer 2 Floor 1, heading to Firfire Village. Killing Bone Keeper is not required. Locate a house with a woman named [Vyrelda](Vyrelda,_Master_of_Blood.md) who is hovering over a bleeding Apprentice Diver. (you will need to have defeated [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) previously on your slot to see her.) Talk to Vyrelda, and she will speak of Bloodrend.
 
-She will have you kill 3 Ministry NPCs in order to obtain it. Then, when leaving out of the door to the house, just walk as straight as possible. 3 NPCs using Bloodrend will spawn on you, they drop [Heartstars](Heartstar.md), and you need 3 of them to obtain the attunement. (These 3 NPCs will respawn after a short amount of time has passed if you have not received enough or any [Heartstars](Heartstar.md). The item is droppable.
+She will have you kill 3 Ministry NPCs in order to obtain it. Then, when leaving out of the door to the house, just walk as straight as possible. 3 NPCs using Bloodrend will spawn on you, they drop [Heartstars](Heartstar.md), and you need 2 of them to obtain the attunement. (These 3 NPCs will respawn after a short amount of time has passed if you have not received enough or any [Heartstars](Heartstar.md). The item is droppable and bankable.
 
 Kill them and return to her, and you will obtain Bloodrend.
 
@@ -58,9 +58,13 @@ Bloodrend currently has a total of 17 mantras.
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
+| Media | Name | Card Description | Ether Cost | Blood
+Cost
+
+ | Effect |
 | --- | --- | --- | --- | --- | --- |
 | 
+
 File:Crucifixion Mantra Card1.png
 
  | Crucifixion
@@ -78,7 +82,7 @@ File:Bloodorb Mantracard 1.png
 
 (☆☆☆)
 
- | Release an amalgamation of your blood. | N/A Ether | N/A | Sends out a blood ball to wherever your character is facing.
+ | Release an amalgamation of your blood. | 25 Ether | N/A | Sends out a blood ball to wherever your character is facing.
 
 Upon contact with a target/wall/floor. Creates a pool of blood.
 
@@ -175,7 +179,7 @@ File:Soulflare.gif
 
 (★★☆)
 
- | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again. You can add Multiplying spark to it.
+ | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again.
 
  |
 | 
@@ -226,7 +230,7 @@ If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit l
 
 (★★☆)
 
- | Create tendrils of blood. | N/A Ether | N/A | N/A |
+ | Create tendrils of blood. | N/A Ether | N/A | N/A (Currently bugged when missed prevents you from blocking dodging attacking or casting mantra) |
 
 ### Support Mantras
 

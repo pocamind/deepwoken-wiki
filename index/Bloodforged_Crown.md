@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 117765
+revid: 118908
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -20,7 +20,7 @@ categories: [Equipment, Head, Ornaments]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Burning Blood |
+| obtainment | Chaser, Scholar of the Burning BloodSaramaed Hollow |
 | description | "..." |
 
 ## Description

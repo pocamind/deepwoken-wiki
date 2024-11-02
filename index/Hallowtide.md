@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 118764
+revid: 118910
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -46,7 +46,7 @@ The second Hallowtide added...
 
 The third Hallowtide added...
 
-\- TBA.
+-   TBA
 
 (\*-only available from the second week of the first Hallowtide.)
 

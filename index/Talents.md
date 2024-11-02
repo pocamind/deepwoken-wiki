@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118796
+revid: 118899
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2630,6 +2630,14 @@ _**"I use my blood's plasma to better defend myself."**_
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
     -   In the 30/05/2024 update, the duration of Maiming Claws was increased to 4s, but the talent description was never updated.
     -   Prerequisites: 100 Agility, Down comes the Claw
+
+### Twinblade
+
+-   _Turning of the Wheel_ \[Rare Talent\] \[Twinblades\] - After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.
+    -   Prerequisites: 75 Medium Weapon, Twinblade equipped.
+
+-   _Face Cutter_ \[Rare Talent\] \[Twinblades\] - Your Spine Cutter now deals an additional hit.
+    -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
 
 ### Twisted Puppets
 

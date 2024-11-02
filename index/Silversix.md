@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 117984
+revid: 118927
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -32,7 +32,7 @@ The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on A
 
 ## Trivia
 
--   The Silversix cannot be dropped by any means. It can be banked.
+-   The Silversix cannot be dropped nor stored
 -   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
 -   Known for being used by 20 power players for ranged bullet shots before Silversix lost its ability to fire projectiles as a sidearm.
 -   At max LHT, the damage is (19.8)

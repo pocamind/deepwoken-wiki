@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 117831
+revid: 118909
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,11 +25,18 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 
 Said "Blue Hue" and "New Motifs"
 
--   **Tier 1 - 66% Sanity - Shivering:** The character will start to occasionally shiver in fear, slowing them down. Player's screen borders will be shrouded in a blue hue.
--   **Tier 2 - 33% Sanity - Scratching:** The character will start scratching themselves at random intervals, dealing minute damage and stunning them momentarily. The blue border on the screen will begin pulsing and white hexagon-patterned lines will start forming on your screen. In addition, the character can no longer recognize the facial expression of humanoid entities, with their faces becoming shrouded in a scribbled black mess. Player names will not appear.
--   **Tier 3 - 0% Sanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 35 damage each time and disabling their ability to move. If the character gets knocked during this Tier, they are executed. The blue border will feature new motifs when nearing this tier.
-    -   Note: Despite sharing an animation, using the mantra Gaze does not cause damage this way.
--   **Alternative:** If you run out of sanity while holding a weapon with [Curse of the No Life King](Enchantments.md), lose all sanity from the Breathing Brains in the [Ancient Rotlands](Ancient_Rotlands.md), speak to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without a [Resonance](Resonance.md), or fail the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members, your head will explode and you will die.
+When losing enough sanity, the player will incur negative effects.
+
+| **Insanity Effect** | **Effect** | **Sanity Threshold** | **Cooldown** |
+| --- | --- | --- | --- |
+| Shivering | Slows you down for 2 seconds. The Unfazed talent makes you immune to this while above 40% Sanity. | <70% | 30-36 seconds |
+| Saturation Lose | The world loses its colors. Gets more intense the more sanity you are missing | <70% | N/A |
+| Blurring | Blurs your vision, making it harder to see further. Gets more intense the more sanity you are missing | <50% | N/A |
+| Panicking | Stuns you for 1 second and deal 10 damage (5 with Grasp on Reality talent). Is then followed by shivering. With the Unfazed talent, this effect is ignored and replaced by 2.5 seconds of shivering. | <40% | 30-36 seconds |
+| Hidden Faces | When panicking of scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
+| Scratching | Stuns you for 1.5 second and deal 20 damage (10 with Grasp on Reality talent). Is then followed by shivering. The Unfazed talent offer no protection against this. | <10% | 30-36 seconds |
+| Execution | If knocked by any means, including scratching, you are immediatly killed. | <10% | N/A |
+| Head Explosion | Reaching 0 Sanity with a No-Life King enchantment in The Depth or while observing the eyeballs in The Ancient Rotland will immediatly kill the player. | 0% | N/A |
 
 ## Sanity Decreasing Effects
 

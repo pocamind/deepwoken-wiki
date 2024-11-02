@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 112087
+revid: 118919
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -85,5 +85,5 @@ A Stone Knight executes the player:
 -   Stone Knights are artificial and are thus not affected by the "Mute" [Regalia](Regalia.md) and will still attack if they spot you.
 -   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
--   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Sand Knights.
+-   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple [Blizzard Knights](Stone_Knight.md#blizzard-knight) were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Sand Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
