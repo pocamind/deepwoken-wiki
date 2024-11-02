@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 118967
+revid: 119006
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -58,18 +58,16 @@ Bloodrend currently has a total of 17 mantras.
 | Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
 | 
-File:Crucifixion Mantra Card1.png
-
  | Crucifixion
 
 (☆☆☆)
 
- | Conjure a bloody cross. | N/A Ether | N/A | Sends out a cross projectile to your mouse position (It doesn't work well outside of shiftlock currently). Upon contact with a target, sends them back and ragdolls.
+ | Conjure a bloody cross. | N/A Ether | N/A | Sends out a cross projectile to your mouse position (It doesn't work well outside of shiftlock currently).
+
+Upon contact with a target, sends them back and ragdolls.
 
  |
 | 
-
-File:Bloodorb Mantracard 1.png
 
  | Blood Orb
 
@@ -79,24 +77,18 @@ File:Bloodorb Mantracard 1.png
 
 Upon contact with a target/wall/floor. Creates a pool of blood.
 
-Standing in this pool of blood regens blood for EVERYONE, even non bloodrend users, making this a semi support combat mantra.
+Compatible with multiplying spark
 
  |
 | 
-
-File:Scarlet Cyclone.png
 
  | Scarlet Cyclone
 
 (☆☆☆)
 
- | Create a cyclone of blood | N/A Ether | N/A | 
+ | Create a cyclone of blood | N/A Ether | N/A | Creates a cyclone of blood wherever your facing and immediately sends it out. It goes through entities and only stops its path when it hits a wall or an object. Multiplying spark compatible:
 
-Creates a cyclone of blood wherever your facing and immediately sends it out. It goes through entities and only stops its path when it hits a wall or an object.
-
-Multiplying Spark: Splits the cyclone into 3, fanning out from the center.
-
-Reversal Spark: Cyclone now only travels half the distance, but returns to the point it was cast from and disappears upon travelling it's max distance. Because of this, if a cyclone hits a wall before it reaches its halfway mark, the cyclone will continue past it's starting point until it reaches it's max distance.
+Reversal Spark: Cyclone now only travels half the distance, but returns to the point it was cast from and disappears upon travelling it's max distance.
 
 Reversal and Multiplying Spark: Splits cyclone into three, and returns to the caster with the same behaviors as above.
 
@@ -109,34 +101,14 @@ note: it's not letting me upload clips of these variants, says im vandalizing :
 
 (★☆☆)
 
- | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing aoe damage and creating a blood pool when it lands.
-
- |
+ | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing aoe damage and creating a blood pool when it lands. |
 | 
-
-File:Blood stakes.png
 
  | Blood Stakes
 
 (★☆☆)
 
- | Create stakes of blood. | 25 Ether | N/A | Summons a blood stake near you that targets onto an enemy and impales them. Leaves behind a blood pool where the stake spawned.
-
- |
-| 
-
- | Scarlet Cannon
-
-(★★☆)
-
- | Create a giant blood beam. | N/A Ether | N/A | N/A |
-|  | Veinbreaker
-
-(★★☆)
-
- | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to begin charging, character will flash 5 times while charging, then dash foward and punch. M1 while charging to punch early. If charged fully, blockbreaks.
-
- |
+ | Create stakes of blood. | 25 Ether | N/A | Summons a blood stake near you that targets onto an enemy and impales them. Leaves behind a blood pool where the stake spawned. Also creates stakes from blood pools around the user |
 | 
 
  | Bloodedge
@@ -147,9 +119,21 @@ File:Blood stakes.png
 
 Ether
 
- | N/A | Conjure up a scythe of your own blood and form it into the shape of a scythe and quickly charge forward.
+ | N/A | Conjure up a scythe of your own blood and form it into the shape of a scythe and quickly charge forward. |
+| 
 
- |
+ | Scarlet Cannon
+
+(★★☆)
+
+ | Create a giant blood beam. | N/A Ether | N/A | N/A |
+| 
+
+ | Veinbreaker
+
+(★★☆)
+
+ | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to begin charging, character will flash 5 times while charging, then dash foward and punch. M1 while charging to punch early. If charged fully, blockbreaks. |
 | 
 
  | Soulflare Siphon
@@ -160,6 +144,8 @@ Ether
 
 File:Soulflare.gif
 
+When no target is hit
+
  |
 | 
 
@@ -167,14 +153,18 @@ File:Soulflare.gif
 
 (★★☆)
 
- | Create weapons on your arms and dash through. | 25 Ether | N/A | Launch upwards to attack opponents, and if landed, fly back with a second attack.
+ | Create weapons on your arms and dash through. | 25 Ether | N/A | Launch upwards to attack opponents, and if landed, fly back with a second attack. |
+| 
 
- |
-|  | Crimson Rain
+ | Crimson Rain
 
 (★★☆)
 
- | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again. You can add Multiplying spark to it.
+ | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again.
+
+You can add Multiplying spark to it.
+
+At level 5 you send 5 daggers instead of 3
 
  |
 | 
@@ -183,16 +173,16 @@ File:Soulflare.gif
 
 (★★☆)
 
- | Slash upwards and launch slashes of blood. | 30 Ether | N/A | After a short windup, perform a uppercut into the air, then launches 3 blood slashes fowards and into the ground.
-
- |
+ | Slash upwards and launch slashes of blood. | 30 Ether | N/A | After a short windup, perform a uppercut into the air, then launches 3 blood slashes fowards and into the ground. |
 | 
 
  | Bloodtide Ritual
 
 (★★★)
 
- | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Creates a blood spear that charges for about 6 seconds while damaging people in the area, then throws the spear down
+ | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Creates a blood spear that charges for about 6 seconds while damaging people in the area, then throws the spear down. Can be mantra feinted to end the charging early.
+
+Can be modified with magnifying glass but doesn't seem to do anything
 
  |
 | 
@@ -207,7 +197,9 @@ Ether
 
  | N/A | lock on to a target and attack them with their own blood twice
 
-If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit longer. |
+If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit longer.
+
+ |
 
 ### Mobility Mantras
 
@@ -225,13 +217,15 @@ If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit l
 
 (★★☆)
 
- | Create tendrils of blood. | N/A Ether | N/A | N/A |
+ | Create tendrils of blood. | 40 Ether | N/A | Send out tendrils of blood to grab onto an object or person. Leveling up this mantra will increase it's range |
 
 ### Support Mantras
 
 | Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
 | 
+Blood Wisp being casted
+
  | Blood Wisp
 
 (★★☆)
@@ -241,8 +235,6 @@ If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit l
 -   Blood Wisp regenerates a portion of your blood, (under 5%) three times over X seconds.
 -   Ritual casted.
     -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step.
-
-Blood Wisp being casted
 
  |
 
@@ -283,4 +275,4 @@ Bloodrend currently has a total of 30 talents.
 -   The [Ironsing](Ironsing.md) talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
--   Bloodtide Ritual is possibly a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring. may also be a reference to don quixote ascendant hardblood art: the sphere
+-   Bloodtide Ritual is possibly a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring. may also be a reference to Don Quixote's "Don Quixote Ascendant Hardblood Art: The Sphere" from Limbus Company

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 117050
+revid: 119004
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -115,8 +115,14 @@ _verb_
 
 _noun_
 
-1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so
+1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so.
     1.  "I almost got wiped in a gank—thank god I escaped!"
+
+### Flood/Flooding
+
+_verb_
+
+1.  To fill up a server with players that are in the same guild,
 
 ### Grip
 
@@ -252,6 +258,12 @@ _noun_
 
 1.  A nickname for [Resonance](Resonance.md), used widely by the community.
 
+### Bell-check
+
+_verb_
+
+1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md), usually done alone by fall damage or with friends.
+
 ### Corrupted
 
 _adjective_
@@ -281,6 +293,12 @@ _noun_
 1.  Nickname for the [Portals](Portals.md) resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The resonance is similar to his ultimate ability.
 
 ## Outside Combat
+
+### Log/Logging
+
+_verb_
+
+1.  To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
 
 ### Drip
 
@@ -390,7 +408,24 @@ _verb (Read as "c-log")_
 
 Not to be confused with the verb outside of Deepwoken _to clog_.
 
-To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.  
+To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.
+
+### Ctag
+
+_(Read as "c-tag")_
+
+_verb_
+
+1.  A short term for combat tagging a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
+    1.  Ex. "Let me ctag him real quick."
+    2.  Ex. "I can't leave, he ctagged me."
+
+_noun_
+
+1.  A combat tag, usually from a player.
+    1.  Ex. "Remove my combat tag, or else."
+
+Referring to the loading screen's tip, you can say "my bad \[name\]" to remove combat tag from the respective player. For lazy players, you can say "mb all" to remove all combat tags from everyone you have tagged.
 
 ### Run 1
 

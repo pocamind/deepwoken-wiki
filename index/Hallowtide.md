@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 118910
+revid: 118970
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -66,7 +66,7 @@ The third Hallowtide added...
 
 ### New Helmets
 
--   The Familiar Priest Helmet, Familiar Heretic Helmet, and Familiar Knight Helmet can be obtained by turning in 30, 35, and 50 "Joy" respectively. Four of the helmets are references to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), Monad Studios' previous main game.
+-   The Familiar Priest Helmet, Familiar Heretic Helmet, and Familiar Knight Helmet can be obtained by turning in 30, 35, and 50 "Joy" respectively. Three of the helmets are references to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), Monad Studios' previous main game.
     -   The Familiar Priest Helmet is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
     -   The Familiar Heretic Helmet is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
     -   The Familiar Knight Helmet is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.

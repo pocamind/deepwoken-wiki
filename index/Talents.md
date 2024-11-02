@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118966
+revid: 118993
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -396,8 +396,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to its requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN. (However does not reduce true damage at all.)
-    -   Prerequisites: 90 Fortitude, 30 Willpower, All common Bastion Talents
+    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN. (However does not reduce true damage at all.)
+    -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
 
@@ -529,7 +529,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Bulwark
 
-"_**I am the one to hold the walls."**_
+_**"I am the one to hold the walls."**_
 
 -   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 5s
     -   Prerequisities: 65 Fortitude
@@ -2250,6 +2250,11 @@ _**"My cure is most effective."**_
 
 -   Tainted Ground \[Common Talent\] - Enemies who stand in blood pools will not decay blood poison.
     -   Prerequisite: 30 Bloodrend
+
+-   Vasculitis \[Common Talent\] - Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration (Must hit them while they are over 20% BP.)
+    -   Prerequisite: 40 Bloodrend, 25 Intelligence
+
+  
 
 ### Shadowcast Master
 

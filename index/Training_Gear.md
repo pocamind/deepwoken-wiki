@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 118824
+revid: 119001
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -24,7 +24,7 @@ If you get the message "I've learnt what I can from training right now, I should
 
 Most of the attribute training gears are self explanatory, though some training gears have their own quirks and things to bear in mind.
 
--   Boulder is a convenient way to upgrade your [Fortitude](Attributes.md#fortitude). You can keep using it while having no [experience](Power.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains strength alongside this.
+-   Boulder is a convenient way to upgrade your [Fortitude](Attributes.md#fortitude). You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains strength alongside this.
 -   The Ankle Weights apparently give you a small speed debuff when in use (needs testing)
 -   Training Vest, after equipping it, will only work if someone hits you. Boulder is recommended over Training Vest because of this reason.
 -   [How to Make Friends](How_to_Make_Friends.md) can be trained by clicking the words around the screen. You don't neccessarily have to type to use this.

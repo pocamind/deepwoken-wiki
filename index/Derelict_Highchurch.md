@@ -1,6 +1,6 @@
 ---
 title: Derelict Highchurch
-revid: 115826
+revid: 118974
 source: https://deepwoken.fandom.com/wiki/Derelict_Highchurch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -20,7 +20,7 @@ The Derelict Highchurch is a location in the East Luminant, it can be found abov
 
 It appears normal on the surface, however, one can open a hatch beneath the lectern, leading into a library, You can interact with some bookcases, to open a secret entrance, or just use a terrain breaking mantra on the bookshelves guarding the entrance to a room with a crucified [Celestial](Celestial.md), and [Samael](Samael.md), who is crucial to receiving the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md).
 
-The [Celestial's](Celestial.md) blood is also a crucial part of obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md). You can also find the [Shadowcast Trainer](Beatra.md), [Beatra](Beatra.md) in the garden to the left of the church. (She doesn't give [Shadowcast](Shadowcast.md), [Nostor](Nostor,_Master_of_Shadow.md) will.)
+The [Celestial's](Celestial.md) blood is also a crucial part of obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md). You can also find the [Shadowcast Trainer](Beatra.md), [Beatra](Beatra.md), in the garden to the left of the church. (She doesn't give [Shadowcast](Shadowcast.md), [Nostor](Nostor,_Master_of_Shadow.md) will.)
 
 File:Shadowcast Trainer church.jpg
 
@@ -29,6 +29,12 @@ File:Shadowcast Trainer church.jpg
   
 
 _For a visual guide, consider watching this gif._
+
+The [Bloodrend Trainer, Vyrelda](Vyrelda,_Master_of_Blood.md), can be found inside of the church itself, between the chairs on the left side.
+
+  
+
+  
 
 ## Trivia
 

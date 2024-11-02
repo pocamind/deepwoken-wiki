@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 118124
+revid: 118977
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -212,6 +212,7 @@ Some players have access to customized, unique names.
 -   Fitz (unintentionally listed twice)
 -   Florian
 -   Fort
+-   Fortunato
 -   Fox
 -   Francis
 -   Francisco
@@ -418,6 +419,7 @@ Some players have access to customized, unique names.
 -   Minos
 -   MlgDude1oof
 -   Moash
+-   Montresor
 -   Mordred
 -   Murphy
 -   Mycen
@@ -1780,6 +1782,7 @@ Some players have access to customized, unique names.
 -   The name "Heathcliff" is a reference to the protagonist with the same name from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) by Emily Brontë. (Or maybe, Limbus Company?)
 -   The name Dogbert is a reference to [a megalomaniacal dog](https://dilbert.fandom.com/wiki/Dogbert)
 -   The name Phos is a reference to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
+-   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.
 
 ## References
 

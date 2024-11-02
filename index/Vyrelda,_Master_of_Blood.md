@@ -1,9 +1,9 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 118876
+revid: 119000
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Spelltrainers]
 ---
 
 # Vyrelda, Master of Blood
@@ -19,7 +19,7 @@ The [Bloodrend](Bloodrend.md) Trainer who was a former student who studied under
 
 She appears to be friendly, albeit stern towards the player. She is seen healing lost divers by clotting their wounds and restoring their blood through blood magic.
 
-After getting bloodrend she can be found in Derelict Highchurch, slot wide.
+After getting bloodrend she can be found in [Derelict Highchurch](Derelict_Highchurch.md), slot wide. You can attain [Bloodrend](Bloodrend.md) on any slot without going to [Layer 2](Second_Layer.md) by talking to her in the [Derelict Highchurch](Derelict_Highchurch.md).
 
 ## Dialogue
 
@@ -91,8 +91,7 @@ After getting bloodrend she can be found in Derelict Highchurch, slot wide.
   <td colspan="6">Alright, i'll do it.</td>
 </tr>
 <tr>
-  <td colspan="6">Glad to hear it. Be on with it, though. I can't sit around here waiting all day.<p><br>
-  </p></td>
+  <td colspan="6">Glad to hear it. Be on with it, though. I can't sit around here waiting all day.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
@@ -111,13 +110,13 @@ After getting bloodrend she can be found in Derelict Highchurch, slot wide.
   <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here</td>
 </tr>
 <tr>
-  <td colspan="6">Here.</td>
+  <td colspan="12">Here.</td>
 </tr>
 <tr>
   <td colspan="12">Can't do much without the 3 Heartstars i asked for...</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -133,13 +132,13 @@ After getting bloodrend she can be found in Derelict Highchurch, slot wide.
   <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here</td>
 </tr>
 <tr>
-  <td colspan="6">Here.</td>
+  <td colspan="12">Here.</td>
 </tr>
 <tr>
   <td colspan="12">*She takes the crystals and begins processing them into a powder. The powder then meets a glass vial full of some form of solvent*</td>
 </tr>
 <tr>
-  <td colspan="6">So, what's next?</td>
+  <td colspan="12">So, what's next?</td>
 </tr>
 <tr>
   <td colspan="12">Drink it. If it starts to hurt, it's probably doing it's job.</td>
@@ -158,7 +157,7 @@ After getting bloodrend she can be found in Derelict Highchurch, slot wide.
   <td colspan="12">I don't have time for this.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -174,7 +173,7 @@ After getting bloodrend she can be found in Derelict Highchurch, slot wide.
   <td colspan="12">Ah. You again. Need teaching?</td>
 </tr>
 <tr>
-  <td colspan="6">Yes, i do. (With no Bloodrend mantras or all Bloodrend mantras maxed)</td>
+  <td colspan="12">Yes, i do. (With no Bloodrend mantras or all Bloodrend mantras maxed)</td>
 </tr>
 <tr>
   <td colspan="12">Can't see anything you need improvement on.</td>
@@ -184,7 +183,7 @@ After getting bloodrend she can be found in Derelict Highchurch, slot wide.
 
 ## Trivia
 
--   Vyrelda's racial variant is unknown and she is wearing a new unknown outfit.
+-   Vyrelda's racial variant appears to be the 'Mamba' variant of an Etrean, with deep red scleras instead of the faint yellow. She is also wearing a new unknown outfit.
 -   She does not attack the player if they're a [Silentheart](Oath%253A_Silentheart.md), instead just ignoring them.
--   This will probably change in the future, and it is speculated that she'll use either the [Flareblood Kamas](Flareblood_Kamas.md) or the [Bloodtide Trident](Bloodtide_Trident.md).
--   [Adar](Adar,_Master_of_Metal.md) also had this happen to him.
+    -   This will probably change in the future, and it is speculated that she'll use either the [Flareblood Kamas](Flareblood_Kamas.md) or the [Bloodtide Trident](Bloodtide_Trident.md).
+    -   [Adar, Master of Metal](Adar,_Master_of_Metal.md) also had this happen to him.
