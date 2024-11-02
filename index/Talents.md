@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 118899
+revid: 118966
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -432,7 +432,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### **Bloodhound**
 
-_**"The scent of my enemy is still fresh."**_
+> _**"The scent of my enemy is still fresh."**_
 
 -   Bloodwarden's Sense \[Common Talent\] - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
     -   Prerequisite: 30 Bloodrend
@@ -441,28 +441,61 @@ _**"The scent of my enemy is still fresh."**_
 
 ### **Bloodrender**
 
-_**"I obtained the forbidden knowledge of Bloodrending."**_
-
--   Bloodrender \[Common Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
-    -   Obtained when getting Bloodrender
--   First Blood \[Common Talent\] - Your first blood mantra you use in combat has no blood cost.
-    -   Prerequisite: 10 Bloodrend
--   Crimson Fountain \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them..
-    -   Prerequisite: 40 Bloodrend
+> _**"I obtained the forbidden knowledge of Bloodrending."**_
 
 -   Adept Bloodrender \[Common Talent\] - You can now obtain 1-star Bloodrender mantras.
     -   Obtained at 20 Bloodrend
 
+-   Bloodrender \[Common Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
+    -   Obtained when getting Bloodrender
+
+-   Crimson Fountain \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them..
+    -   Prerequisite: 40 Bloodrend
+
 -   Expert Bloodrender \[Common Talent\] - You can now obtain 2-star Bloodrender mantras.
     -   Obtained at 30 Bloodrend
+
+-   First Blood \[Common Talent\] - Your first blood mantra you use in combat has no blood cost.
+    -   Prerequisite: 10 Bloodrend
+
+-   _Hemorrhaging Blow_ \[Rare Talent\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)
+    -   Prerequisite: 95 Bloodrend, Master Bloodrender
 
 -   Master Bloodrender \[Common Talent\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
     -   Obtained at 50 Bloodrend.
 
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Prerequisite: 50 Bloodrend
+
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
     -   Prerequisite: 40 Bloodrend
+
+-   Sheltering Grasp \[Common Talent\] - Blood mantras cast within blood pools have a reduced blood cost.
+    -   Prerequisite: 30 Bloodrend
+
+### **Bloodsong**
+
+> _**"The elements crave the blood of other"**_
+
+-   Blood and Iron \[Common Talent\] - Pulling rods out of your opponent now replenishes an equivalent amount of blood.
+    -   Prerequisite: 40 Bloodrend, 40 Ironsing
+
+-   Brain Death \[Common Talent\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
+    -   Prerequisite: 40 Bloodrend, 40 Galebreathe
+
+-   Cold Blooded \[Common Talent\] - Chilled enemies passively lose blod, alternatively take blood from enemies when their crystals explode.
+    -   Prerequisite: 40 Bloodrend, 40 Frostdraw
+
+-   Electrolyte \[Common Talent\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
+    -   Prerequisite: 40 Bloodrend, 40 Thundercall
+
+-   Malevolent Sapper \[Common Talent\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
+    -   Prerequisite: 40 Bloodrend, 40 Shadowcast
+
+-   Scorchblood \[Common Talent\] - Guardbreaking your opponent with a bloodrend mantra sets them on fire.
+    -   Prerequisite: 40 Bloodrend, 40 Flamecharm
+
+  
 
 ### Brawler
 
@@ -2000,6 +2033,22 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
     -   Prerequisite: 80 Strength
 
+### Quack Doctor
+
+_**"My cure is most effective."**_
+
+-   Blood Bag \[Common Talent\] - You receive extra blood from knocking an enemy.
+    -   Prerequisite: 20 Bloodrend
+
+-   _Blood Transfusion_ \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
+    -   Prerequisite: 60 Bloodrend
+
+-   Just a Taste \[Common Talent\] - First Bloodrend mantra you hit in combat has increased blood drain.
+    -   Prerequisite: 20 Bloodrend
+
+-   Open Wound \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
+    -   Prerequisite: 40 Bloodrend
+
 ### Rampaging Brute
 
 > _**"I seek the qualities of Rampaging Brute."**_
@@ -2016,8 +2065,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 90 Strength, All Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
 
-  
-
 ### Rampant Static
 
 > _**"My static is uncontrollable."**_
@@ -2028,8 +2075,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Rending Needle
 
 > _**"I seek the qualities of Rending Needle."**_
-
-  
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Prerequisite: Rending Needle: Conductor
@@ -2096,6 +2141,34 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Heavy Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest._
     -   Prerequisite: 75 Heavy Weapon
 
+### Sapper
+
+> _**"I seek the qualities of Sapper."**_
+
+-   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
+    -   ~2-3% increase in ether steal per mantra.
+    -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
+
+  
+
+### Scarlet Donor
+
+> _**"I wish to share my blood with the world."**_
+
+-   Blood Bank \[Common Talent\] - Consuming 'Charm' now gives slight temporary health.
+    -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
+
+-   Donation Drive \[Common Talent\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
+    -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
+
+-   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
+    -   Prerequisites: 40 Bloodrend, 25 Strength
+
+-   Sharing is Caring \[Common Talent\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
+    -   Prerequisites: 50 Bloodrend, 30 Charisma, Charismatic Cast
+
+  
+
 ### Scholar of the Cloud
 
 > _**"I seek the qualities of Scholar of the Cloud."**_
@@ -2105,6 +2178,19 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Unintuitive to most the community, using Windwaker is meant to grant a further speed boost only inside a Wind Gate.
     -   Prerequisites: Sail with your mast pointed towards the wind in a sea highway for an unknown amount of time, 20 Galebreathe
+
+### Scoundrel
+
+> _**"I seek the qualities of Scoundrel."**_
+
+-   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
+    -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
+        -   The damage is so small, that there is no pixel difference between the damage received with or without it.
+    -   5 Second Cooldown.
+    -   Prerequisites: Trained Fist, 25 Agility
+
+-   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
+    -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
 
 ### Scrapsinger
 
@@ -2146,19 +2232,28 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
     -   Prerequisites: 35 Thundercall, Jumpstart
 
-### Sapper
+### Septicemia
 
-> _**"I seek the qualities of Sapper."**_
+> _**"I have sewn an inisidious poison within my enemy's blood."**_
 
--   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
-    -   ~2-3% increase in ether steal per mantra.
-    -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
+-   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
+    -   Prerequisite: 95 Bloodrend
+
+-   Hemolytic Transfusion \[Common Talent\] - Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.
+    -   Prerequisite: 65 Bloodrend
+
+-   Juicy Snack \[Common Talent\] - Eliminating enmmies returns their amount of blood poison as health to you.
+    -   Prerequisites: 60 Bloodrend, 20 Fortitude
+
+-   _Panacea_ \[Rare Talent\] - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.
+    -   Prerequisite: 60 Bloodrend
+
+-   Tainted Ground \[Common Talent\] - Enemies who stand in blood pools will not decay blood poison.
+    -   Prerequisite: 30 Bloodrend
 
 ### Shadowcast Master
 
 > _**"I seek the qualities of Shadowcast Master."**_
-
-  
 
 -   _Shadowcast Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)_
     -   Prerequisite: 75 Shadowcast
@@ -2269,15 +2364,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I convert blood to iron."**_
 
-  
-
 -   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
 
 ### Soverign of Slaughter
 
 > _**"I destroy my enemies."**_
-
-  
 
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
     -   Prerequisites: Speak to Yamaketzal, Power 5
@@ -2599,14 +2690,17 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Transitory Vitality
 
-_**"I use my blood's plasma to better defend myself."**_
+> _**"I use my blood's plasma to better defend myself."**_
 
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
-    -   Prerequisite: Sow and Mend
+    -   Prerequisite: 65 Bloodrend, Sow and Mend
+
 -   Embolism \[Common Talent\] - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
-    -   Prerequisite: Sow and Mend
+    -   Prerequisite: 65 Bloodrend, Sow and Mend
+
 -   Hypovolemic Focus \[Common Talent\] - While you have temporary health, your opponent regains far less posture from parrying you
-    -   Prerequisite: Sow and Mend
+    -   Prerequisite: 65 Bloodrend, Sow and Mend
+
 -   _Sow and Mend_ \[Rare Talent\] - Sacrifice 15% of your blood for temporary health.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
@@ -2677,33 +2771,6 @@ _**"I use my blood's plasma to better defend myself."**_
 
 -   _Rule Through Fear_ \[Rare Talent, Charisma\] - Executing an enemy applies Overcharm to nearby allies and yourself.
     -   Prerequisites: 85 Charisma, 50 Strength
-
-### Quack Doctor
-
-_**"My cure is most effective."**_
-
--   Blood Bag \[Common Talent\] - You receive extra blood from knocking an enemy.
-    -   Prerequisite: 20 Bloodrend
-
--   _Blood Transfusion_ \[Rare Talent\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
-    -   Prerequisite: 60 Bloodrend
--   Just a Taste \[Common Talent\] - First Bloodrend mantra you hit in combat has increased blood drain.
-    -   Prerequisite: 20 Bloodrend
--   Open Wound \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
-    -   Prerequisite: 40 Bloodrend
-
-### Scoundrel
-
-> _**"I seek the qualities of Scoundrel."**_
-
--   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
-    -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
-        -   The damage is so small, that there is no pixel difference between the damage received with or without it.
-    -   5 Second Cooldown.
-    -   Prerequisites: Trained Fist, 25 Agility
-
--   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
-    -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
 
 ### Undying Ember
 

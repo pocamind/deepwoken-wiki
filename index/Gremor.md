@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 118504
+revid: 118963
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -50,7 +50,7 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
 **Lore:**
 
   
-The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
+The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by saving one of their people.
 
 **Strengths:**
 

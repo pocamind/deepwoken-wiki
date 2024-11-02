@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 118353
+revid: 118968
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2484,6 +2484,12 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 </tbody>
 </table>
+
+**Bloodrend:**
+
+{!
+
+\[Nothing! (yet, keep your eyes peeled.) \]
 
 **Offhand:**
 

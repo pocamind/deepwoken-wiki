@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 118072
+revid: 118937
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item]
@@ -33,6 +33,8 @@ The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](W
 ## Critical
 
 The user spins around their staff and summons a green colored mist that surrounds them and damages anyone in the area, almost always block-breaking instantly. Afterwards, three spirits emerge from the mist and launch green orbs at the player's cursor.
+
+If the player is in shift lock, the critical fires one at a time, If not shift locked, the critical fires all 3 orbs at once
 
   
 

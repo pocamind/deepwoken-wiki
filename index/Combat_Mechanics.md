@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 118379
+revid: 118965
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -455,7 +455,8 @@ Main article: [Status Effects](Status_Effects.md)
     <li>Increase damage.</li>
     <li>Increase posture damage.</li>
     <li>Increase spell size (unconfirmed)</li>
-  </ul><p>A successful Perfect Cast can be indicated by Talents that are based around it.</p></td>
+  </ul><p>A successful Perfect Cast can be indicated by Talents that are based around it.</p>
+  <p>Do note that as of 11/1/24, I've added this here to say that Perfect casting is <b>ONLY</b> used for talents, and developers have confirmed that perfect casting does not in fact increase anything, although further inquiries and research should be done.</p></td>
 </tr>
 </tbody>
 </table>

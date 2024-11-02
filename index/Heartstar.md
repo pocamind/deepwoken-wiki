@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 118758
+revid: 118964
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,7 @@ Heartstars can drop from enemies that use the [Bloodrend](Bloodrend.md) attuneme
 
 ### NPC
 
--   [Ministry Bloodrender](Ministry_Scout.md)
+-   [Ministry Bloodrender](Ministry_Bloodrender.md)
 
 ## Notes
 

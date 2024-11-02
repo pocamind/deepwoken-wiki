@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 118925
+revid: 118967
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -22,15 +22,12 @@ Bloodrend is an [Attunement](Attunements.md) that grants the user the ability to
 
 ### Obtainment
 
-THIS IS JUST A PLACEHOLDER TO MAKE EVERYONES LIVES EASIER.
+The [Attunement Trainer](Attunement_Trainers.md), named [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in a hut on the east side of [Firfire village](Firfire.md), caring for an injured Diver, she is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) within [the second layer](Second_Layer/The_Ethironal_Shrine.md). To unlock Bloodrend, you first need to kill Chaser at least once on the slot you wish to unlock the Attunement on. After killing Chaser, re-enter layer 2 and go talk with Vyrelda- she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the ministry bloodrend oath, this will also begin the quest to get Bloodrend.
 
-Go to Layer 2 Floor 1, heading to Firfire Village. Killing Bone Keeper is not required. Locate a house with a woman named [Vyrelda](Vyrelda,_Master_of_Blood.md) who is hovering over a bleeding Apprentice Diver. (you will need to have defeated [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) previously on your slot to see her.) Talk to Vyrelda, and she will speak of Bloodrend.
+After Vyrelda's short story, the player will be prompted to request bloodrend, Vyrelda agrees under the condition the player deals with some Ministry soldiers to get [3 Heartstars](Heartstar.md). The soldiers are located on the west side of Firfire, opposite of Vyrelda's location, and will spawn for all players once someone has begin the quest. By griping these Ministry soldiers, Heartstars are dropped and can be grabbed by any player. After killing the Ministry soldiers, talk with Vyrelda again and she will give the player a "Curseblood" which grants Bloodrend apon drinking it. \***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**\*
 
-She will have you kill 3 Ministry NPCs in order to obtain it. Then, when leaving out of the door to the house, just walk as straight as possible. 3 NPCs using Bloodrend will spawn on you, they drop [Heartstars](Heartstar.md), and you need 2 of them to obtain the attunement. (These 3 NPCs will respawn after a short amount of time has passed if you have not received enough or any [Heartstars](Heartstar.md). The item is droppable and bankable.
-
-Kill them and return to her, and you will obtain Bloodrend.
-
-Alternatively, once you have obtained Bloodrend, you can head over to the derelict highchurch. Once inside of the church itself, turn to the right and you will find Vyrelda standing against the wall. You can speak to her and exit the highchurch, walking around the premises shortly will spawn three ministry npcs, dropping heartstars.
+  
+After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md), and it will also be available from the [character creation](Character_Creation.md) screen.
 
 ### Training
 
@@ -58,13 +55,9 @@ Bloodrend currently has a total of 17 mantras.
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Blood
-Cost
-
- | Effect |
+| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
 | 
-
 File:Crucifixion Mantra Card1.png
 
  | Crucifixion
@@ -82,11 +75,11 @@ File:Bloodorb Mantracard 1.png
 
 (☆☆☆)
 
- | Release an amalgamation of your blood. | 25 Ether | N/A | Sends out a blood ball to wherever your character is facing.
+ | Release an amalgamation of your blood. | N/A Ether | N/A | Sends out a blood ball to wherever your character is facing.
 
 Upon contact with a target/wall/floor. Creates a pool of blood.
 
-Standing in this pool of blood yourself and possibly other blood users (needs more testing) starts passively giving back blood.
+Standing in this pool of blood regens blood for EVERYONE, even non bloodrend users, making this a semi support combat mantra.
 
  |
 | 
@@ -174,12 +167,14 @@ File:Soulflare.gif
 
 (★★☆)
 
- | Create weapons on your arms and dash through. | 25 Ether | N/A | Launch upwards to attack opponents, and if landed, fly back with a second attack |
+ | Create weapons on your arms and dash through. | 25 Ether | N/A | Launch upwards to attack opponents, and if landed, fly back with a second attack.
+
+ |
 |  | Crimson Rain
 
 (★★☆)
 
- | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again.
+ | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again. You can add Multiplying spark to it.
 
  |
 | 
@@ -230,7 +225,7 @@ If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit l
 
 (★★☆)
 
- | Create tendrils of blood. | N/A Ether | N/A | N/A (Currently bugged when missed prevents you from blocking dodging attacking or casting mantra) |
+ | Create tendrils of blood. | N/A Ether | N/A | N/A |
 
 ### Support Mantras
 
@@ -246,6 +241,8 @@ If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit l
 -   Blood Wisp regenerates a portion of your blood, (under 5%) three times over X seconds.
 -   Ritual casted.
     -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step.
+
+Blood Wisp being casted
 
  |
 
@@ -286,3 +283,4 @@ Bloodrend currently has a total of 30 talents.
 -   The [Ironsing](Ironsing.md) talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
+-   Bloodtide Ritual is possibly a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring. may also be a reference to don quixote ascendant hardblood art: the sphere

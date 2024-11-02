@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 118520
+revid: 118935
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Weapons with Unique Criticals]
@@ -59,6 +59,8 @@ File:Astral Hammer.png
 **Gluttony:**
 
 **Grim:**
+
+**Harrowing:**
 
 **Heroism:**
 
