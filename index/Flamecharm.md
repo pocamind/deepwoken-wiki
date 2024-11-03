@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 118605
+revid: 119097
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -480,125 +480,12 @@ _Undying flame._
 
 ## **Talents**
 
-**Amoran Seeker:**
-
-These are Talents found in "_Amoran Seeker_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
-File:Flame Within.gif
-
- | 
-
-Flame Within  
-(FLAME 25)
-
- | 
-
-An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
-
- | 
-
-Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown.
-
- |
-| 
-
- | 
-
-Last Laugh  
-(FLAME 30, Flame Within)
-
- | 
-
-Gain the ability to incinerate yourself when down.
-
- | 
-
-Using Flame Within, set your self on fire after being knocked down.
-
- |
-
-**Duelist Flame:**
-
-These are Talents found in "_Duelist Flame_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Concussive Flash  
-(FLAME 25, STR 25, Flame Blind)
-
- | 
-
-Your blinding light now concusses foes.
-
- | 
-
-N/A
-
- |
-
-**Falling Star Guard:**
-
-These are Talents found in "_Falling Star Guard_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Meteor Impact  
-(FLAME 25, Rising Flame)
-
- | 
-
-Aerial moves will follow up into a devastating slam.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Phoenix Impact  
-(FLAME 40)
-
- | 
-
-If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Thorns of Fire  
-(FLAME 10, Flame Repulsion)
-
- | 
-
-Taking damage while using Flame Repulsion reflects the damage back to the attacker.
-
- | 
-
-N/A
-
- |
+Below is a list of all Flamecharm exclusive talents and its Paths. Hybrid talents are listed [here](Hybrid_Abilities.md).
 
 **Flamecharmer:**
 
-These Talents are found in the "_Flamecharmer_" Category.
+These Talents are found in the "_Flamecharmer_" Category.  
+_**"I speak to the flames."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -606,7 +493,7 @@ These Talents are found in the "_Flamecharmer_" Category.
  | 
 
 Flamecharmer  
-(FLAME 1)
+(1 Flamecharm)
 
  | 
 
@@ -622,7 +509,7 @@ N/A
  | 
 
 Adept Flamecharmer  
-(FLAME 20)
+(20 Flamecharm)
 
  | 
 
@@ -638,7 +525,7 @@ N/A
  | 
 
 Expert Flamecharmer  
-(FLAME 30)
+(30 Flamecharm)
 
  | 
 
@@ -654,7 +541,7 @@ N/A
  | 
 
 Master Flamecharmer  
-(FLAME 50)
+(50 Flamecharm)
 
  | 
 
@@ -672,7 +559,7 @@ File:Azureicon2.png
  | 
 
 Azure Flames  
-(FLAME 70, WILL 40)
+(70 Flamecharm, 40 Willpower)
 
  | 
 
@@ -704,7 +591,7 @@ N/A
  | 
 
 Produce Spark  
-(FLAME 20)
+(20 Flamecharm)
 
  | 
 
@@ -720,7 +607,7 @@ Caster uses a small amount of ether to create a small ember in their hands, used
  | 
 
 Unyielding Inferno  
-(FLAME 30)
+(30 Flamecharm)
 
  | 
 
@@ -736,7 +623,7 @@ Graceful Flames and lit campfires will not be extinguished in rain.
  | 
 
 Wildfire  
-(FLAME 30, Fire Palm)
+(30 Flamecharm, Fire Palm)
 
  | 
 
@@ -748,21 +635,86 @@ N/A
 
  |
 
-**Flame Brawler:**
+**Amoran Seeker:**
 
-These are Talents found in "_Flame Brawler_" Category.
+These are Talents found in "_Amoran Seeker_" Category.  
+_**"I seek out Amorus Pleeksty."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Flame Within.gif
+
+ | 
+
+Flame Within  
+(25 Flamecharm)
+
+ | 
+
+An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
+
+ | 
+
+Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown. Can be used while you're knocked to incinerate yourself.
+
+ |
+
+**Duelist Flame:**
+
+These are Talents found in "_Duelist Flame_" Category.  
+_**"My flame fights for me."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
  | 
 
-Flaming Uppercut  
-(FLAME 35)
+Concussive Flash  
+(30 Flamecharm, 25 Strength, Flame Blind)
 
  | 
 
-Ignite flames on an enemy when you uppercut them.
+Your blinding light now concusses foes.
+
+ | 
+
+N/A
+
+ |
+
+**Falling Star Guard:**
+
+These are Talents found in "_Falling Star Guard_" Category.  
+_**"I believe in the men who followed Pleeksty before."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Meteor Impact  
+(25 Flamecharm, Rising Flame)
+
+ | 
+
+Aerial moves will follow up into a devastating slam.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Phoenix Impact  
+(40 Flamecharm)
+
+ | 
+
+If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 
  | 
 
@@ -772,7 +724,8 @@ N/A
 
 **Flame Dancer:**
 
-These are Talents found in "_Flame Dancer_" Category.
+These are Talents found in "_Flame Dancer_" Category.  
+_**"I dance with the flames."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -780,7 +733,7 @@ These are Talents found in "_Flame Dancer_" Category.
  | 
 
 Dancing Steps  
-(FLAME 35)
+(35 Flamecharm)
 
  | 
 
@@ -796,7 +749,7 @@ N/A
  | 
 
 Graceful Steps  
-(FLAME 80, POWER 13)
+(80 Flamecharm, POWER 13, Dancing Steps)
 
  | 
 
@@ -812,7 +765,7 @@ N/A
  | 
 
 The Final Act  
-(FLAME 60, POWER 13)
+(60 Flamecharm, POWER 13)
 
  | 
 
@@ -826,7 +779,8 @@ N/A
 
 **Flame Warden:**
 
-These are Talents found in "_Flame Warden_" Category.
+These are Talents found in "_Flame Warden_" Category.  
+_**"None will escape my flames."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -834,7 +788,7 @@ These are Talents found in "_Flame Warden_" Category.
  | 
 
 Cauterized Wounds  
-(FLAME 40, FORT 5)
+(40 Flamecharm, 5 Fortitude)
 
  | 
 
@@ -850,7 +804,7 @@ Blood Loss from all sources are reduced.
  | 
 
 Flamewalker  
-(FLAME 40, AGILITY 25, Warding Radiance)
+(40 Flamecharm, 25 Agility, Warding Radiance)
 
  | 
 
@@ -866,7 +820,7 @@ When Warding Radiance is active you leave trails of flame when you slide.
  | 
 
 Hell's Partisan  
-(FLAME 35, Fire Forge)
+(35 Flamecharm, Fire Forge OR Warding Radiance)
 
  | 
 
@@ -882,7 +836,7 @@ After landing a flame dagger on an opponent, your next hit against them will imp
  | 
 
 Warding Radiance  
-(FLAME 30, AGILITY 20, Hell's Partisan)
+(30 Flamecharm, 20 Agility)
 
  | 
 
@@ -896,7 +850,8 @@ Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allo
 
 **Immolator:**
 
-These Talents are found in the "_Immolator_" Category.
+These Talents are found in the "_Immolator_" Category.  
+_**"I burn so that I may succeed."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -904,7 +859,7 @@ These Talents are found in the "_Immolator_" Category.
  | 
 
 Immolation  
-(FLAME 40, Agitating Spark)
+(40 Flamecharm, Agitating Spark)
 
  | 
 
@@ -920,7 +875,7 @@ Fire spells cost 70% less while on fire. If you hit someone while on fire, apply
  | 
 
 Phoenix Flames  
-(FLAME 40, All Immolator Talents)
+(40 Flamecharm, All Immolator Talents)
 
  | 
 
@@ -936,7 +891,7 @@ N/A
  | 
 
 Agitating Spark  
-(FLAME 40)
+(40 Flamecharm)
 
  | 
 
@@ -948,7 +903,8 @@ If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Inc
 
 **Inferno:**
 
-These Talents are found in the "_Inferno_" Category.
+These Talents are found in the "_Inferno_" Category.  
+_**"All must burn."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -956,7 +912,7 @@ These Talents are found in the "_Inferno_" Category.
  | 
 
 All-Consuming Flame  
-(FLAME 65)
+(65 Flamecharm)
 
  | 
 
@@ -970,7 +926,7 @@ Your flames will incinerate unconscious Targets much faster.
  | 
 
 Corpse Explosion  
-(FLAME 60, Agitating Spark)
+(60 Flamecharm, Agitating Spark)
 
  | 
 
@@ -984,7 +940,7 @@ Bodies that you burn to death immediately explode dealing massive damage.
  | 
 
 Pleeksty's Will  
-(FLAME 20, Flamecharmer Ploom quest)
+(20 Flamecharm, Flamecharmer Ploom quest)
 
  | 
 
@@ -1000,7 +956,7 @@ N/A
  | 
 
 Pleeksty's Faith  
-(FLAME 25, WILL 15, CHARISMA 15)
+(25 Flamecharm, 15 Willpower, 15 Charisma)
 
  | 
 
@@ -1014,7 +970,8 @@ N/A
 
 **Lava Serpent:**
 
-These are Talents found in "_Lava Serpent_" Category.
+These are Talents found in "_Lava Serpent_" Category.  
+'_**"I seek the path of the Serpent."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1024,7 +981,7 @@ File:Eruption.png
  | 
 
 Eruption Path: Lava Serpent  
-(FLAME 40)
+(40 Flamecharm)
 
  | 
 
@@ -1040,7 +997,7 @@ File:Eruption.png
  | 
 
 Molten Defence  
-(FLAME 60, Eruption Path: Lava Serpent)
+(60 Flamecharm, Eruption Path: Lava Serpent)
 
  | 
 
@@ -1058,7 +1015,7 @@ File:Eruption.png
  | 
 
 Empowered Eruption  
-(FLAME 50, Eruption Path: Lava Serpent)
+(50 Flamecharm, Eruption Path: Lava Serpent)
 
  | 
 
@@ -1076,7 +1033,7 @@ File:Eruption.png
  | 
 
 Flash Point  
-(FLAME 45, Eruption Path: Lava Serpent)
+(45 Flamecharm, Eruption Path: Lava Serpent)
 
  | 
 
@@ -1094,7 +1051,7 @@ File:Eruption.png
  | 
 
 Scorched Earth  
-(FLAME 75, Eruption Path: Lava Serpent)
+(75 Flamecharm, Eruption Path: Lava Serpent)
 
  | 
 
@@ -1112,7 +1069,7 @@ File:Eruption.png
  | 
 
 The Floor Is Lava  
-(FLAME 100, Eruption Path: Lava Serpent)
+(100 Flamecharm, Eruption Path: Lava Serpent)
 
  | 
 
@@ -1126,7 +1083,8 @@ N/A
 
 **Pyromancer:**
 
-These are Talents found in "_Pyromancer_" Category.
+These are Talents found in "_Pyromancer_" Category.  
+_**"I am a master of the flame."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1134,7 +1092,7 @@ These are Talents found in "_Pyromancer_" Category.
  | 
 
 Hungry Flames  
-(FLAME 30, FORT 15)
+(30 Flamecharm, 15 Fortitude)
 
  | 
 
@@ -1148,7 +1106,8 @@ N/A
 
 **Tamed Flame:**
 
-These are Talents found in "_Tamed Flame_" Category.
+These are Talents found in "_Tamed Flame_" Category.  
+_**"I seek the qualities of Tamed Flame."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1156,7 +1115,7 @@ These are Talents found in "_Tamed Flame_" Category.
  | 
 
 Controlled Combustion  
-(FLAME 40, CHARISMA 40, Agitating Spark)
+(40 Flamecharm, 40 Charisma, Agitating Spark)
 
  | 
 
@@ -1170,7 +1129,8 @@ N/A
 
 **The Demon Blade:**
 
-These are Talents found in "_The Demon Blade_" Category.
+These are Talents found in "_The Demon Blade_" Category.  
+_**"My unholy blade works for no man."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1178,7 +1138,7 @@ These are Talents found in "_The Demon Blade_" Category.
  | 
 
 Explosive Finish  
-(FLAME 45)
+(45 Flamecharm)
 
  | 
 
@@ -1192,7 +1152,7 @@ If an enemy is on fire when you flourish, blast them away with a fire blast.
  | 
 
 Flaming Flourish  
-(FLAME 30)
+(30 Flamecharm)
 
  | 
 
@@ -1206,7 +1166,8 @@ N/A
 
 **The Emperor's Blade:**
 
-These are Talents found in "_The Emperor's Blade_" Category.
+These are Talents found in "_The Emperor's Blade_" Category.  
+_**"My blade burns through my foes."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1214,7 +1175,7 @@ These are Talents found in "_The Emperor's Blade_" Category.
  | 
 
 Emperor Flame  
-(FLAME 60, Agitating Spark)
+(60 Flamecharm, Agitating Spark)
 
  | 
 
@@ -1230,7 +1191,7 @@ N/A
  | 
 
 Mirage Clones  
-(FLAME 65)
+(65 Flamecharm)
 
  | 
 
@@ -1244,7 +1205,8 @@ When dodging an attack, you leave behind a fire clone that burns the attacking e
 
 **Undying Ember:**
 
-These Talents are found in the "_Undying Ember_" Category.
+These Talents are found in the "_Undying Ember_" Category.  
+_**"My spirit is forever burning."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1252,7 +1214,7 @@ These Talents are found in the "_Undying Ember_" Category.
  | 
 
 Denial Repulse  
-(FLAME 20, WILL 40, Flame of Denial)
+(20 Flamecharm, 40 Willpower, Flame of Denial)
 
  | 
 
@@ -1268,7 +1230,7 @@ N/A
  | 
 
 Undying Flame  
-(FLAME 40, WILL 40, Graceful Flame)
+(40 Flamecharm, 40 Willpower, Graceful Flame)
 
  | 
 
@@ -1282,13 +1244,14 @@ N/A
 
 **Twisted Puppets:**
 
-These Talents are found in the _Twisted Puppets_ category.
+These Talents are found in the _Twisted Puppets_ category.  
+_**"I seek the qualities of twisted puppets."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 | File:Twisted puppets.png | 
 Wraith Path: Twisted Puppets  
-(40 FLAME, 40 SHADOW)
+(40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -1302,7 +1265,7 @@ N/A
 | File:Twisted puppets.png | 
 
 Burning Puppets  
-(Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -1314,7 +1277,7 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
 | File:Twisted puppets.png | 
 
 Explosive Rage  
-(Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -1326,7 +1289,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 | File:Twisted puppets.png | 
 
 Moths to a Flame  
-(Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -1356,25 +1319,25 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of Deepwoken.
-    -   The **Flame of Denial** mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
+    -   The Flame of Denial mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
-    -   Although the **Fire Palm** mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
--   Although the **Flame Blind** mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
--   The **Fire Gun** mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
--   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
--   The **Flame Ballista** Mantra is Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
--   The spring spark variant of the **Flame Repulsion** mantra takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless) move from **Jujutsu Kaisen**
+    -   Although the Fire Palm mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
+-   Although the Flame Blind mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
+-   The Fire Gun mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
+-   The Flaming Scourge Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
+-   The Flame Ballista and Flame Reupulsion's spring spark variant are references to **Jujutsu Kiasen**.
+    -   Flame Ballista is Sukuna's Fire Arrow [\[3\]](#cite-note-3), and Flame Repulsion's spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "Meteor Impact" on another Flamecharm user who also has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
--   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a Talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the **Flame of Denial** mantra which can restore some sanity upon use, while also allowing you to not die.
-    -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
+-   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a Talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the Flame of Denial mantra which can restore some sanity upon use, while also allowing you to not die.
+    -   The Graceful Flame can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
--   The **Graceful Flame** mantra does not allow anyone to cook food, regardless of its Level.
--   The **Flame Leap** mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
--   The **Flame Leap** mantra's Reversal Version gets replaced with it's base version when used in water.
--   The **Flame Leap** mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
--   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
+-   The Graceful Flame mantra does not allow anyone to cook food, regardless of its Level.
+-   The Flame Leap mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
+-   The Flame Leap mantra's Reversal Version gets replaced with it's base version when used in water.
+-   The Flame Leap mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
+-   Ash Slam used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales Azure Flames... Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
@@ -1382,7 +1345,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 -   Before its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 -   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken
--   The **Fire Gun** mantra gives the player fingers, similar to when casting a Wisp mantra. Its there, but it's difficult to see due to particles
+-   The Fire Gun mantra gives the player fingers, similar to when casting a Wisp mantra. Its there, but it's difficult to see due to particles
 
 ## References
 

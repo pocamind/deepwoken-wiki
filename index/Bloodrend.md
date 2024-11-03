@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119073
+revid: 119098
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -28,7 +28,9 @@ After Vyrelda's backstory, the player will be prompted to request for Bloodrend.
 
 Walk out the building, and run around the village for a while. The blood-renders will notice you as a threat and begin to engage. Kill all the three cultists for 3 Heartstars, and return to Vyrelda to get the Curseblood potion. Upon usage, your body aches in pain for a split second. You have gained access to Bloodrend.
 
-\***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**\*
+\***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**
+
+  
 
 After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her), and it will also be available from the [character creation](Character_Creation.md) screen.
 
@@ -264,40 +266,633 @@ Blood Wisp being casted
 
 ### Talents
 
-Bloodrend currently has a total of 30 talents.
+Below is a list of all Bloodrend exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md).
 
--   Just a Taste - First Bloodrend mantra you hit in combat has increased blood drain
--   Sanguine Siphon - Landing a critical attack while in a blood pool with consume that pool and empower your next blood mantra
--   Tainted Ground (30 BLD) - Enemies who stand in blood pools will not decay blood poison.
--   First Blood - your first blood mantra you use in combat has no blood cost.
--   Sheltering Grasp - Blood mantras cast within blood pools have reduced blood cost.
--   Blood Bag - you receive extra blood from knocking an enemy.
--   Rush Hour - Stab yourself to become stronger, faster, and deal increased blood bar damage.
--   Open Wound - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
--   Crimson Fountain - Blockbreaking or flourishing an enemy now sills a pool of blood below them.
--   Sow and Mend (60 BLD) - Sacrifice 15% of your blood for temporary health
--   Bloodwardens Sense (30 BLD) - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
--   Malevolent Sapper - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
--   Blood Transfusion - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
--   Cyclical Exsanguination (65 BLD, Sow and Mend) - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
--   Panacea - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying.
--   Cold Blooded - Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode
--   Embolism (65 BLD, Sow and Mend) - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
--   Juicy Snack - Eliminating enemies returns their amount of blood poison as health to you.
--   Electrolyte - Hitting Bloodrend mantras while having temporary health applies electrify and removes portion of the temporary health.
--   Vasculitis (40 BLD, 35 INT) - Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. (Must hit them while they are over 20% BP.)
--   Brain Death - Enemies that are already suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.
--   Blood And Iron - Pulling rods out of your opponent now replenishes an equivalent amount of blood.
--   Scorchblood - Guardbreaking your opponent with a Bloodrend mantra sets them on fire.
--   Hemolyitc Transfusion (65 BLD) - Guardbreaking an enemy with Bloodrend mantra increases the amount of blood poison from the attack.
--   Hypovolemic Focus (65 BLD, Sow and Mend) - While you have temporary health, your opponent regains far less posture from parrying you.
--   Sharing Is Caring - Your 'Charm' on opponents also slightly increases your blood drain against them.
--   Gruesome Harvest (95 BLD) - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health
+**Bloodrender:**
+
+These are Talents found in "_Bloodrender_" Category.  
+_**"I obtained the forbidden knowledge of Bloodrending."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Bloodrender  
+(1 Bloodrend)
+
+ | 
+
+Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
+
+ | 
+
+Blood poisoning is a translucent red visual effect on your blood bar.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Adept Bloodrender  
+(20 Bloodrend)
+
+ | 
+
+You can now obtain 1-star Bloodrender mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Expert Bloodrender  
+(BLOOD 30)
+
+ | 
+
+You can now obtain 2-star Bloodrender mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Master Bloodrender  
+(50 Bloodrend)
+
+ | 
+
+You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.
+
+ | 
+
++5 Health
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Crimson Fountain  
+(40 Bloodrend)
+
+ | 
+
+Blockbreaking or flourishing an enemy now spills a pool below them.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+First Blood  
+(10 Bloodrend)
+
+ | 
+
+Your first blood mantra you use in combat has no blood cost.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Hemorrhaging Blow  
+(95 Bloodrend, Master Bloodrender)
+
+ | 
+
+Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds.
+
+ | 
+
+The damage to healing conversion is 1:1. For instance, if you would've healed 20 health you'll take 20 damage instead. This also affects healing outside of combat.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Rush Hour  
+(50 Bloodrend)
+
+ | 
+
+Stab yourself to become stronger, faster, and deal increased blood bar damage.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Sanguine Siphon  
+(40 Bloodrend)
+
+ | 
+
+Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
+
+ | 
+
+The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodrend mantra.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Sheltering Grasp  
+(30 Bloodrend)
+
+ | 
+
+Blood mantras cast within blood pools have a reduced blood cost.
+
+ | 
+
+Reduces the blood cost by around 50%.
+
+ |
+
+**Bloodhound:**
+
+These are Talents found in "_Bloodhound_" Category.  
+_**"The scent of my enemy is still fresh."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Bloodwarden's Sense  
+(30 Bloodrend)
+
+ | 
+
+Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Smell of Blood  
+(65 Bloodrend)
+
+ | 
+
+When people touch a blood pool, briefly see their blood and blood poison.
+
+ | 
+
+Their blood current blood amount will be displayed as a percentage in Red next to their character. Similarly, their current blood poisoning amount will be displayed as a percentage in Pink next to their character.
+
+ |
+
+**Scarlet Donor:**
+
+These are Talents found in "_Scarlet Donor_" Category.  
+_**"I wish to share my blood with the world."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Blood Bank  
+(80 Bloodrend, 40 Charisma, Manipulator)
+
+ | 
+
+Consuming 'Charm' now gives slight temporary health.
+
+ | 
+
+Consuming Charm via Manipulator or Donation drive gives temporary health. Temporary health acts like a second health bar and takes damage before your normal one does.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Donation Drive  
+(50 Bloodrend, 55 Charisma, Manipulator)
+
+ | 
+
+Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
+
+ | 
+
+Manipulator will activate when block breaking with a Bloodrend mantra. Consuming Charm via this talent or Manipulator will replenish some blood.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Sharing is Caring  
+(50 Bloodrend, 30 Charisma, Charismatic Cast)
+
+ | 
+
+Your 'Charm' on opponents also slightly increases your blood drain against them.
+
+ | 
+
+N/A
+
+ |
+
+**Septicemia:**
+
+These are Talents found in "_Septicemia_" Category.  
+_**"I have sewn insidious poison within my enemy's blood."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Gruesome Harvest  
+(95 Bloodrend)
+
+ | 
+
+Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
+
+ | 
+
+2s CD. Gain 3-5% of your current health as temporary health; temporary health acts like a second health bar and takes damage before your normal one does. Temporary health gain from this talent does does not scale with the damage dealt by the mantra that procced it.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Hemolysis  
+(40 Bloodrend, 25 Strength)
+
+ | 
+
+Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
+
+ | 
+
+This applies to people who are currently at or above 25% blood poisoning. Additionally, this buffs every hit of the critical attack, unlike Manipulator.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Hemolytic Transfusion  
+(65 Bloodrend)
+
+ | 
+
+Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Juicy Snack  
+(60 Bloodrend, 20 Fortitude)
+
+ | 
+
+Eliminating enemies returns their amount of blood poison as health to you.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Panacea  
+(60 Bloodrend)
+
+ | 
+
+Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Tainted Ground  
+(30 Bloodrend)
+
+ | 
+
+Enemies who stand in blood pools will not decay blood poison.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Vasculitis  
+(40 Bloodrend, 35 Intelligence)
+
+ | 
+
+Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration (Must hit them while they are over 20% BP.)
+
+ | 
+
+Hitting an opponent who is over 20% blood poisoning will completely negate the effects of their deep gems for a few seconds.
+
+ |
+
+**Transitory Vitality:**
+
+These are Talents found in "_Transitory Vitality_" Category.  
+_**"I use my blood's plasma to better defend myself."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Sow and Mend  
+(60 Bloodrend, Master Bloodrender)
+
+ | 
+
+Sacrifice 15% of your blood for temporary health.
+
+ | 
+
+Sacrifice 15% of your blood to gain ~5% of your current health as temporary health. Temporary health acts as a second health bar that takes damage before your normal one does.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Cyclical Exsanguination  
+(65 Bloodrend, Sow and Mend)
+
+ | 
+
+Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
+
+ | 
+
+This can be procced even if you currently have no temporary health, putting it on cooldown.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Embolism  
+(65 Bloodrend, Sow and Mend)
+
+ | 
+
+If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Hypovolemic Focus  
+(65 Bloodrend, Sow and Mend)
+
+ | 
+
+While you have temporary health, your opponent regains far less posture from parrying you.
+
+ | 
+
+N/A
+
+ |
+
+**Quack Doctor:**
+
+These are Talents found in "_Quack Doctor_" Category.  
+_**"My cure is most effective."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Blood Bag  
+(20 Bloodrend)
+
+ | 
+
+You receive extra blood from knocking an enemy.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+ | 
+
+Blood Transfusion  
+(60 Bloodrend)
+
+ | 
+
+Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
+
+ | 
+
+This works on all negative status effects, including elemental ones.
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+Just a Taste \[Common Talent\] - First Bloodrend mantra you hit in combat has increased blood drain. Prerequisite: 20 Bloodrend
+
+ |
+| 
+
+File:Bloodrend.icon.png
+
+Bloodrend Icon
+
+Open Wound \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras. Prerequisite: 40 Bloodrend
+
+ |
 
 ## Trivia
 
 -   The [Ironsing](Ironsing.md) talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
+-   Few things bypass temporary health. Some examples would be Viscosity and the Poison (hp drain) bell downside.
 
 ## References
 
@@ -305,3 +900,4 @@ Bloodrend currently has a total of 30 talents.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
 -   Bloodedge could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
+-   Crucifixion is a reference to Klaus' Form 117: Unbreakable Cross Shield from Blood Blockade Battlefront; confirmed by a tester.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119041
+revid: 119096
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -475,7 +475,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### **Bloodsong**
 
-> _**"The elements crave the blood of other"**_
+> _**"The elements crave the blood of others."**_
 
 -   Blood and Iron \[Common Talent\] - Pulling rods out of your opponent now replenishes an equivalent amount of blood.
     -   Prerequisite: 40 Bloodrend, 40 Ironsing
@@ -1173,7 +1173,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Inhaling a Galebreathe Mantra adds (Mantra Level/2) damage to the next Galebreath Mantra.
+    -   Inhaling a Galebreathe Mantra adds (Mantra Level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
     -   Prerequisites: 60 Galebreathe
     -   Speed boost has a 2 second cooldown.
 
@@ -1266,7 +1266,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Heat Column."**_
 
 -   Fan the Flames \[Common Talent, Dual Attunement\] - Your stored Wind mantras can now empower your Fire mantras.
-    -   The effects of inhale (causing [mantra modifiers](Mantra_Modifiers.md) to transfer across gale mantras) will now also affect flame mantras.
+    -   The effects of inhale (causing [mantra modifiers](Mantra_Modifiers.md) to transfer across gale mantras) and the damage buff that inhale grants, (Inhaled mantra's level times 2)%, will now also affect flame mantras.
     -   Prerequisites: Inhale, 40 Flamecharm
 
 ### Heretic
@@ -2161,9 +2161,6 @@ _**"My cure is most effective."**_
 -   Donation Drive \[Common Talent\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
--   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
-    -   Prerequisites: 40 Bloodrend, 25 Strength
-
 -   Sharing is Caring \[Common Talent\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
     -   Prerequisites: 50 Bloodrend, 30 Charisma, Charismatic Cast
 
@@ -2234,10 +2231,13 @@ _**"My cure is most effective."**_
 
 ### Septicemia
 
-> _**"I have sewn an inisidious poison within my enemy's blood."**_
+> _**"I have sewn an insidious poison within my enemy's blood."**_
 
 -   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
     -   Prerequisite: 95 Bloodrend
+
+-   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
+    -   Prerequisites: 40 Bloodrend, 25 Strength
 
 -   Hemolytic Transfusion \[Common Talent\] - Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.
     -   Prerequisite: 65 Bloodrend
