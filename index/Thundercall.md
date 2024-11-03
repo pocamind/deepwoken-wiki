@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 118418
+revid: 119112
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -342,11 +342,579 @@ Lightning Cloak
 
 ## Talents
 
-Below is a list of every single Thundercall exclusive Talent.
+Below is a list of all Thundercall exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md#thundercall).
 
-**Surge Path: Unstable Capacitor:**
+**Thundercaller:**
 
-These Talents are found in the _Surge Path: Unstable Capacitor_ category.
+These Talents are found in the _Thundercaller_ category.  
+_**"I speak to lightning."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Thundercaller  
+(1 Thundercall)
+
+ | 
+
+Grants you the ability to command Lightning as a Thundercaller.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Adept Thundercaller  
+(20 Thundercall)
+
+ | 
+
+You can now obtain 1-star Thundercaller mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Expert Thundercaller  
+(30 Thundercall)
+
+ | 
+
+You can now obtain 2-star Thundercaller mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Master Thundercaller  
+(50 Thundercall)
+
+ | 
+
+You can now obtain 3-star Thundercaller mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Discovery of Fire  
+(50 Thundercall)
+
+ | 
+
+Flints and Flamecharm are for simpletons.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Kickstart  
+(50 Thundercall, 40 Fortitude)
+
+ | 
+
+Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Shocking Finish  
+(30 Thundercall, Lightning Beam)
+
+ | 
+
+Following a flourish up with a lightning beam causes it to be casted instantly.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Stratoshock  
+(35 Thundercall)
+
+ | 
+
+You lightning deals an additional +5% damage when in the rain.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Static Fakeout  
+(35 Thundercall, 30 Agility)
+
+ | 
+
+Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Static Flash Clone  
+(35 Thundercall, 30 Agility, Lightning Clones)
+
+ | 
+
+When using lightning clones you disappear leaving behind a static clone for a short duration.
+
+ | 
+
+N/A
+
+ |
+
+**Authority Interrogator:**
+
+These Talents are found in the _Authority Interrogator_ category.  
+_**"I work for the Authority."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Resolve crusher.png
+
+ | 
+
+Resolve Crusher  
+(65 Thundercall, POWER 13)
+
+ | 
+
+Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lighting damage, but will deal 10% less damage to you.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Authority Intimidation  
+(60 Thundercall, POWER 10)
+
+ | 
+
+All moves that apply electricity slow the opponent more.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+First Interrogation  
+(65 Thundercall, POWER 13)
+
+ | 
+
+Electrified attacks do 50% less posture damage to you.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Second Interrogation  
+(65 Thundercall, POWER 13)
+
+ | 
+
+Attacks from opponents who are Electrified will give you ether proportional to their initial damage. Electrified attacks do 50% less damage and posture damage to you.
+
+ | 
+
+N/A
+
+ |
+
+**Javelin Lord:**
+
+These Talents are found in the _Javelin Lord_ category.  
+_**"I seek the qualities of Javelin Lord."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Grand Skewer  
+(60 Thundercall, Grand Javelin)
+
+ | 
+
+Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate)
+
+ | 
+
+N/A
+
+ |
+
+**Rampant Static:**
+
+These Talents are found in the _Rampant Static_ category.  
+_**"My static is uncontrollable."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Jolting Current  
+(35 Thundercall)
+
+ | 
+
+Your lightning attacks in water strike others near them with lightning.
+
+ | 
+
++4 Ether
+
+ |
+
+**Self-Shocker:**
+
+These Talents are found in the _Self-Shocker_ category.  
+_**"I am a self-starter."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Static Withdraw  
+(25 Thundercall)
+
+ | 
+
+When being carried use this Talent to shock your captor, forcing them to drop you.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Jumpstart  
+(35 Thundercall, Static Withdraw)
+
+ | 
+
+Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken.
+
+ | 
+
++4 Ether
+
+ |
+| 
+
+ | 
+
+Raging Static  
+(35 Thundercall, Jumpstart)
+
+ | 
+
+Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
+
+ | 
+
++4 Ether
+
+ |
+
+**Static Weaver:**
+
+These Talents are found in the _Static Weaver_ category._  
+**"I weave webs of lightning."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Static Link  
+(40 Thundercall, 15 Intelligence)
+
+ | 
+
+Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Jumper Cables  
+(40 Thundercall, 20 Fortitude, Static Link)
+
+ | 
+
+Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
+
+ | 
+
++1 Ether
+
+ |
+| 
+
+ | 
+
+Link Conduction  
+(65 Thundercall, 15 Intelligence, Static Link)
+
+ | 
+
+While you have active tethers your lightning mantras cost less ether.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Static Ace.png
+
+ | 
+
+Static Ace  
+(70 Thundercall, 15 Intelligence, Static Link)
+
+ | 
+
+Using stream core with an active tether link targets your closest active link.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Static Allure.png
+
+ | 
+
+Static Allure  
+(50 Thundercall, Static Link)
+
+ | 
+
+Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Quick Link  
+(40 Thundercall, 15 Intelligence)
+
+ | 
+
+Landing an uppercut adds a static link to your opponent.
+
+ | 
+
+N/A
+
+ |
+
+**Thunderblade:**
+
+These Talents are found in the _Thunderblade_ category.  
+_**"My blade conducts the skies wrath."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Gathering Electricity  
+(65 Thundercall, 25 Strength OR Agility, Static Blade)
+
+ | 
+
+\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown.
+
+ | 
+
++10 Carry Load
+
+ |
+| 
+
+ | 
+
+Overcharge  
+(45 Thundercall, Gathering Electricity)
+
+ | 
+
+Your next dash after activating Static Blade is enhanced by lightnings.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Static Blade  
+(40 Thundercall, 20 Medium Weapon)
+
+ | 
+
+\[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times.
+
+ | 
+
+N/A
+
+ |
+
+**Thunder Brawler:**
+
+These Talents are found in the _Thunder Brawler_ category.  
+_**"My fists are imbued with lighting."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Discharge  
+(20 Thundercall, 20 Light Weapon)
+
+ | 
+
+\[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby.
+
+ | 
+
++7 Carry Load
+
+ |
+
+**Thunder Caster:**
+
+These Talents are found in the _Thunder Caster_ category.  
+_**"I electrocute my foes from afar."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Jolt Cast  
+(30 Thundercall, 30 Intelligence)
+
+ | 
+
+Every 3 perfect casted lightning mantra builds a stack at 3 stacks your next lightning mantra will take less time to cast.
+
+ | 
+
++7 Carry Load
+
+ |
+| 
+
+File:Static-assets-upload2268134233810269473.png
+
+ | 
+
+Rain of Static  
+(30 Thundercall, Lightning Impact)
+
+ | 
+
+After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.
+
+ | 
+
++7 Carry Load
+
+ |
+
+**Unstable Capacitor:**
+
+These Talents are found in the _Surge Path: Unstable Capacitor_ category.  
+_**"I seek to embrace the instability of lightning as a source of power."**_
 
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -437,652 +1005,6 @@ When you're out of Ether, convert the Surge stacks of nearby enemies into Ether 
  | 
 
 N/A
-
- |
-
-**Authority Interrogator:**
-
-These Talents are found in the _Authority Interrogator_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Authority Intimidation  
-(THUNDER 60, POWER 10)
-
- | 
-
-All moves that apply electricity slow the opponent more.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-First Interrogation  
-(THUNDER 65, POWER 13)
-
- | 
-
-Electrified attacks do 50% less posture damage to you.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Second Interrogation  
-(THUNDER 65, POWER 13)
-
- | 
-
-Attacks from opponents who are Electrified will give you ether proportional to their initial damage. Electrified attacks do 50% less damage and posture damage to you.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Resolve crusher.png
-
- | 
-
-Resolve Crusher  
-(THUNDER 65, POWER 13)
-
- | 
-
-Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lighting damage, but will deal 10% less damage to you.
-
- | 
-
-N/A
-
- |
-
-**Javelin Lord:**
-
-These Talents are found in the _Javelin Lord_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Grand Skewer  
-(THUNDER 60, Grand Javelin)
-
- | 
-
-Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate)
-
- | 
-
-N/A
-
- |
-
-**Rampant Static:**
-
-These Talents are found in the _Rampant Static_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Jolting Current  
-(THUNDER 35)
-
- | 
-
-Your lightning attacks in water strike others near them with lightning.
-
- | 
-
-+4 Ether
-
- |
-
-**Self-Shocker:**
-
-These Talents are found in the _Self-Shocker_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Jumpstart  
-(THUNDER 35, Static Withdraw)
-
- | 
-
-Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken.
-
- | 
-
-+4 Ether
-
- |
-| 
-
- | 
-
-Raging Static  
-(THUNDER 35, Jumpstart)
-
- | 
-
-Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
-
- | 
-
-+4 Ether
-
- |
-| 
-
- | 
-
-Static Withdraw  
-(THUNDER 25)
-
- | 
-
-When being carried use this Talent to shock your captor, forcing them to drop you.
-
- | 
-
-N/A
-
- |
-
-**Static Weaver:**
-
-These Talents are found in the _Static Weaver_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Agitating Static  
-(THUNDER 60, FLAME 1, Discovery of Fire)
-
- | 
-
-Using Discovery of Fire will light nearby downed enemies aflame.
-
- | 
-
-+4 Ether
-
- |
-| 
-
- | 
-
-Jumper Cables  
-(THUNDER 40, FORT 20, Static Link)
-
- | 
-
-Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
-
- | 
-
-+1 Ether
-
- |
-| 
-
- | 
-
-Link Conduction  
-(THUNDER 65, INTEL 15, Static Link)
-
- | 
-
-While you have active tethers your lightning mantras cost less ether.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Static Ace.png
-
- | 
-
-Static Ace  
-(THUNDER 70, INTEL 15, Static Link)
-
- | 
-
-Using stream core with an active tether link targets your closest active link.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Static Allure.png
-
- | 
-
-Static Allure  
-(THUNDER 50, Static Link)
-
- | 
-
-Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Link  
-(THUNDER 40, INTEL 15)
-
- | 
-
-Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Quick Link  
-(THUNDER 40, INTEL 15)
-
- | 
-
-Landing an uppercut adds a static link to your opponent.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Dark Reciever  
-(THUNDER 40, SHADOW 40, Static Link)
-
- | 
-
-Shadow moves will also steal Ether from those you are Static Linked tethered to.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Storm Link  
-(THUNDER 60, GALE 50, Static Link)
-
- | 
-
-While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-
- | 
-
-N/A
-
- |
-
-**Stormblade:**
-
-These Talents are found in the _Stormblade_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Stormcaller Slash  
-(Lightning Blade)
-
- | 
-
-Call forth the fury of storms by pressing F at the end of your move.
-
- | 
-
-N/A
-
- |
-
-**Thunderblade:**
-
-These Talents are found in the _Thunderblade_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Gathering Electricity  
-(THUNDER 65, STR/AGILITY 25, Static Blade)
-
- | 
-
-\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown.
-
- | 
-
-+10 Carry Load
-
- |
-| 
-
- | 
-
-Overcharge  
-(THUNDER 45, Gathering Electricity)
-
- | 
-
-Your next dash after activating Static Blade is enhanced by lightnings.
-
- | 
-
-+3 Health
-
- |
-| 
-
- | 
-
-Static Blade  
-(THUNDER 40, MED 20)
-
- | 
-
-\[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times.
-
- | 
-
-N/A
-
- |
-
-**Thundercaller:**
-
-These Talents are found in the _Thundercaller_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Thundercaller  
-(THUNDER 1)
-
- | 
-
-Grants you the ability to command Lightning as a Thundercaller.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Adept Thundercaller  
-(THUNDER 20)
-
- | 
-
-You can now obtain 1-star Thundercaller mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Expert Thundercaller  
-(THUNDER 30)
-
- | 
-
-You can now obtain 2-star Thundercaller mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Master Thundercaller  
-(THUNDER 50)
-
- | 
-
-You can now obtain 3-star Thundercaller mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Capacitor  
-(THUNDER 20)
-
- | 
-
-Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Discovery of Fire  
-(THUNDER 50)
-
- | 
-
-Flints and Flamecharm are for simpletons.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Kickstart  
-(THUNDER 50, FORT 40
-
-)
-
- | 
-
-Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Shocking Finish  
-(THUNDER 30, Lightning Beam)
-
- | 
-
-Following a flourish up with a lightning beam causes it to be casted instantly.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Stratoshock  
-(THUNDER 35)
-
- | 
-
-You lightning deals an additional +5% damage when in the rain.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Fakeout  
-(THUNDER 35, AGILITY 30)
-
- | 
-
-Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Flash Clone  
-(THUNDER 35, AGILITY 30, Lightning Clones)
-
- | 
-
-When using lightning clones you disappear leaving behind a static clone for a short duration.
-
- | 
-
-N/A
-
- |
-
-**Thunder Brawler:**
-
-These Talents are found in the _Thunder Brawler_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Discharge  
-(THUNDER 20, LHT 20)
-
- | 
-
-\[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby.
-
- | 
-
-+7 Carry Load
-
- |
-
-**Thunder Caster:**
-
-These Talents are found in the _Thunder Caster_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Jolt Cast  
-(THUNDER 30, INTEL 30)
-
- | 
-
-Every 3 perfect casted lightning mantra builds a stack at 3 stacks your next lightning mantra will take less time to cast.
-
- | 
-
-+7 Carry Load
-
- |
-| 
-
-File:Static-assets-upload2268134233810269473.png
-
- | 
-
-Rain of Static  
-(THUNDER 30, Lightning Impact)
-
- | 
-
-After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.
-
- | 
-
-+7 Carry Load
 
  |
 

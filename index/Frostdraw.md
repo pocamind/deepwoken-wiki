@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 118413
+revid: 119114
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -573,9 +573,115 @@ _Skate freely on paths of ice._
 
 ## Talents
 
+Below is a list of all Frostdraw exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md#frostdraw).
+
+**Frostdrawer:**
+
+These Talents are found in the _Frostdrawer_ category.  
+_**"I speak to the frost."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Frostdrawer  
+(1 Frostdraw)
+
+ | 
+
+Grants you the ability to command Ice as a Frostdrawer.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Adept Frostdrawer  
+(20 Frostdraw)
+
+ | 
+
+You can now obtain 1-Star Leveled Frostdrawer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Expert Frostdrawer  
+(30 Frostdraw)
+
+ | 
+
+You can now obtain 2-Star Leveled Frostdrawer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Master Frostdrawer  
+(50 Frostdraw)
+
+ | 
+
+You can now obtain 3-Star Leveled Frostdrawer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Cold Front  
+(25 Frostdraw, Cryonis)
+
+ | 
+
+Your Vent is imbued with glacial frost.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Glacial Ice  
+(50 Frostdraw, 20 Willpower)
+
+ | 
+
+Your frost is now considerably more intense.
+
+ | 
+
++6 Sanity
+
+ |
+
 **Cryomancer:**
 
-These Talents are found in the _Cryomancer_ category.
+These Talents are found in the _Cryomancer_ category.  
+_**"I command the cold."**_
 
 | Card Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -585,7 +691,7 @@ File:Chilling Flourish.png
  | 
 
 Chilling Flourish  
-(ICE 30)
+(30 Frostdraw)
 
  | 
 
@@ -603,7 +709,7 @@ File:New Condensation Drip Stats.png
  | 
 
 Condensation Drip  
-(ICE 15, INTEL 20)
+(15 Frostdraw, 20 Intelligence)
 
  | 
 
@@ -621,7 +727,7 @@ File:Cool Head.png
  | 
 
 Cool Head  
-(ICE 30)
+(30 Frostdraw)
 
  | 
 
@@ -637,7 +743,7 @@ N/A
  | 
 
 Spike Traps  
-(ICE 30, Ice Spikes)
+(30 Frostdraw, Ice Spikes)
 
  | 
 
@@ -645,13 +751,14 @@ Press \[F\] during the wind up of your Ice Spikes to create traps around you ins
 
  | 
 
-N/A
+You cannot have more than 4 Spike Traps, attempting to add another will cause the first one to go off.
 
  |
 
 **Cryoni:**
 
-These Talents are found in the _Cryoni_ category.
+These Talents are found in the _Cryoni_ category.  
+_**"Those that step on my ice know that they have made a grave error."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -661,11 +768,11 @@ File:Cryostasis.jpg
  | 
 
 Cryostasis  
-(ICE 30, FORT 20, Fragile Freeze)
+(30 Frostdraw, 20 Fortitude, Fragile Freeze)
 
  | 
 
-When block broken, fragile freeze yourself, negating the damage of the next attack.
+When block broken, freeze yourself, reducing incoming damage by 50% and dealing frost damage to attackers.
 
  | 
 
@@ -679,139 +786,22 @@ File:Preceeding Chill Card.webp
  | 
 
 Preceding Chill  
-(ICE 60, Ice Beam)
+(60 Frostdraw, Ice Beam)
 
  | 
 
-Enemies hit during the last moments of your ice beam are frozen (doesn’t freeze with Crystal path, instead adds another Crystal on final hit).
+Enemies hit during the last moments of your ice beam are frozen.
 
  | 
 
-N/A
-
- |
-| 
-
- | 
-
-Rude Awakening  
-(ICE 60, FORT 20, Cryostasis)
-
- | 
-
-When in Cryostasis inflict frost damage to the enemy who hit you.
-
- | 
-
-N/A
-
- |
-
-**Frostdrawer:**
-
-These Talents are found in the _Frostdrawer_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Frostdrawer  
-(ICE 1)
-
- | 
-
-Grants you the ability to command Ice as a Frostdrawer.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Adept Frostdrawer  
-(ICE 20)
-
- | 
-
-You can now obtain 1-Star Leveled Frostdrawer Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Expert Frostdrawer  
-(ICE 30)
-
- | 
-
-You can now obtain 2-Star Leveled Frostdrawer Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Master Frostdrawer  
-(ICE 50)
-
- | 
-
-You can now obtain 3-Star Leveled Frostdrawer Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Cold Front  
-(ICE 25, Cryonis)
-
- | 
-
-Your Vent is imbued with glacial frost.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Glacial Ice  
-(ICE 50, WILL 20)
-
- | 
-
-Your frost is now considerably more intense.
-
- | 
-
-+6 Sanity
+Doesn’t freeze with Crystal path, instead adds another Crystal on final hit.
 
  |
 
 **Frostthorn:**
 
-These Talents are found in the _Frostthorn_ category.
+These Talents are found in the _Frostthorn_ category.  
+_**"My ice protects like a flower growing thorns."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -819,7 +809,7 @@ These Talents are found in the _Frostthorn_ category.
  | 
 
 Glacial Coasting  
-(ICE 50, AGILITY 25, Orbital Ice)
+(50 Frostdraw, 25 Agility, Orbital Ice)
 
  | 
 
@@ -837,7 +827,7 @@ File:OrbitalIce.jpg
  | 
 
 Orbital Ice  
-(ICE 65)
+(65 Frostdraw)
 
  | 
 
@@ -845,13 +835,15 @@ When landing a parry while standing on ice, automatically forms a ring of gravit
 
  | 
 
-+2 Passive Agility
++2 Passive Agility.  
+90 Second Cooldown.
 
  |
 
 **Frostforger:**
 
-These Talents are found in the _Frostforger_ category.
+These Talents are found in the _Frostforger_ category.  
+_**"I survive off the frozen Elements."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -859,7 +851,7 @@ These Talents are found in the _Frostforger_ category.
  | 
 
 Glacial Mobility  
-(ICE 20, AGILITY 20, Ice Blade)
+(20 Frostdraw, 20 Agility, Ice Blade)
 
  | 
 
@@ -877,7 +869,7 @@ File:Glacial Finish Card.webp
  | 
 
 Glacial Finish  
-(ICE 35, Ice Smash)
+(35 Frostdraw, Ice Smash)
 
  | 
 
@@ -891,7 +883,8 @@ N/A
 
 **Frozen Warrior:**
 
-These Talents are found in the _Frozen Warrior_ category.
+These Talents are found in the _Frozen Warrior_ category.  
+_**"I feel like a warrior encased in ice."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -901,7 +894,7 @@ File:Frozenlegs.PNG
  | 
 
 Frozen Legs  
-(ICE 60)
+(60 Frostdraw)
 
  | 
 
@@ -915,7 +908,8 @@ N/A
 
 **Glassdancer:**
 
-These Talents are found in the _Glassdancer_ category.
+These Talents are found in the _Glassdancer_ category.  
+_**"I seek the elegance of a Glassdancer."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -924,8 +918,26 @@ File:Crystalicon2.png
 
  | 
 
+Glass Path: Crystallization  
+(40 Frostdraw)
+
+ | 
+
+Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Crystalicon2.png
+
+ | 
+
 Crystal Shrapnel  
-(ICE 60, Glass Path: Crystallization)
+(60 Frostdraw, Glass Path: Crystallization)
 
  | 
 
@@ -942,12 +954,12 @@ File:Crystalicon2.png
 
  | 
 
-Glass Path: Crystallization  
-(ice 40)
+Reclaimed Glass  
+(65 Frostdraw, Crystal Shrapnel)
 
  | 
 
-Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
+Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds.
 
  | 
 
@@ -957,7 +969,8 @@ N/A
 
 **Ice Age:**
 
-These Talents are found in the _Ice Age_ category.
+These Talents are found in the _Ice Age_ category.  
+_**"I would see this world freeze."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -965,7 +978,7 @@ These Talents are found in the _Ice Age_ category.
  | 
 
 Bottom Freeze  
-(ICE 25, Ice Forge)
+(25 Frostdraw, Ice Forge)
 
  | 
 
@@ -983,7 +996,7 @@ File:Cryonis.png
  | 
 
 Cryonis  
-(ICE 40)
+(40 Frostdraw)
 
  | 
 
@@ -1001,7 +1014,7 @@ File:Frostbite.png
  | 
 
 Frostbite  
-(ICE 25)
+(25 Frostdraw)
 
  | 
 
@@ -1017,7 +1030,7 @@ N/A
  | 
 
 Frost Buster  
-(ICE 45, HEAVY 15, Cryonis)
+(45 Frostdraw, 15 Heavy Weapon, Cryonis)
 
  | 
 
@@ -1025,7 +1038,7 @@ Greatsword and Greathammer criticals now place Ice underneath the path they carv
 
  | 
 
-N/A
+Also works with Greataxes.
 
  |
 | 
@@ -1035,7 +1048,7 @@ File:Frozen pin cushion.png
  | 
 
 Frozen Pin-Cushion  
-(ICE 60, Ice Daggers)
+(60 Frostdraw, Ice Daggers)
 
  | 
 
@@ -1053,7 +1066,7 @@ File:Saint Jay.png
  | 
 
 Saint Jay  
-(ICE 25, Frostbite)
+(25 Frostdraw, Frostbite)
 
  | 
 
@@ -1061,7 +1074,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 
  | 
 
-N/A
+Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack).
 
  |
 | 
@@ -1069,7 +1082,7 @@ N/A
  | 
 
 Unyielding Frost  
-(100 FROST)
+(100 Frostdraw)
 
  | 
 

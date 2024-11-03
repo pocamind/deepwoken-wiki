@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 118419
+revid: 119111
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -391,15 +391,81 @@ _A servant of wind._
 
 ## Talents
 
+Below is a list of all Galebreathe exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md#galebreathe).
+
+**Galebreather:**
+
+These Talents are found in the _Galebreather_ category.  
+_**"I seek the qualities of Galebreathe Master."**_
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Galebreather  
+(1 Galebreathe)
+
+ | 
+
+Grants you the ability to command Wind as a Galebreathe.
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Adept Galebreather  
+(20 Galebreathe)
+
+ | 
+
+You can now obtain 1-star Galebreathe mantras.
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Expert Galebreather  
+(30 Galebreathe)
+
+ | 
+
+You can now obtain 2-star Galebreathe mantras.
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Master Galebreather  
+(50 Galebreathe)
+
+ | 
+
+You can now obtain 3-star Galebreathe mantras.
+
+ | 
+
++5 Health
+
+ |
+
 **Aeromancer:**
 
-These Talents are found in the _Aeromancer_ category.
+These Talents are found in the _Aeromancer_ category.  
+_**"I am a master of the winds."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
 Aerogliding  
-(GALE 35, AGILITY 30)
+(35 Galebreathe, 30 Agility)
 
  | 
 
@@ -414,7 +480,7 @@ When falling from a high place, hold spacebar to generate wind currents until yo
 |  | 
 
 Aeronade  
-(GALE 40, Gale Trap)
+(40 Galebreathe, Gale Trap)
 
  | 
 
@@ -428,7 +494,7 @@ Your trap automatically detonates on contact with an object
 |  | 
 
 Stifled Jump  
-(GALE 35, STR 30, Suffocating Impact)
+(35 Galebreathe, 30 Strength, Suffocating Impact)
 
  | 
 
@@ -442,7 +508,7 @@ Enemies who jump while suffocated by you are dazed.
 |  | 
 
 Suffocating Impact  
-(GALE 35, STR 15)
+(35 Galebreathe, 15 Strength)
 
  | 
 
@@ -456,7 +522,7 @@ When flourishing enemies into walls they are suffocated and winded for a short d
 |  | 
 
 Gale Coil  
-(GALE 35, Suffocating Impact)
+(35 Galebreathe, Suffocating Impact)
 
  | 
 
@@ -470,7 +536,7 @@ N/A
 |  | 
 
 Gale Trap  
-(GALE 40)
+(40 Galebreathe)
 
  | 
 
@@ -484,7 +550,7 @@ N/A
 |  | 
 
 Vacuum Punch  
-(GALE 20, Gale Punch)
+(20 Galebreathe, Gale Punch)
 
  | 
 
@@ -496,77 +562,16 @@ N/A
 
  |
 
-**Galebreather:**
-
-These Talents are found in the _Galebreather_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | 
-Galebreather  
-(GALE 1)
-
- | 
-
-Grants you the ability to command Wind as a Galebreathe.
-
- | 
-
-N/A
-
- |
-|  | 
-
-Adept Galebreather  
-(GALE 20)
-
- | 
-
-You can now obtain 1-star Galebreathe mantras.
-
- | 
-
-N/A
-
- |
-|  | 
-
-Expert Galebreather  
-(GALE 30)
-
- | 
-
-You can now obtain 2-star Galebreathe mantras.
-
- | 
-
-N/A
-
- |
-|  | 
-
-Master Galebreather  
-(GALE 50)
-
- | 
-
-You can now obtain 3-star Galebreathe mantras.
-
- | 
-
-+5 Health
-
- |
-
 **Gale Duelist:**
 
-These Talents are found in the _Gale Duelist_ category.
+These Talents are found in the _Gale Duelist_ category.  
+_**"My wind fights for me."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
 Tempest Wind  
-(GALE 20, Wind Blade)
+(20 Galebreathe, Wind Blade)
 
  | 
 
@@ -580,13 +585,14 @@ Sends user and opponent into the air.
 
 **Galeforce:**
 
-These Talents are found in the _Galeforce_ category.
+These Talents are found in the _Galeforce_ category.  
+_**"I use the winds to enforce my will."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
 After Cut  
-(GALE 40, Breathing Impact)
+(40 Galebreathe)
 
  | 
 
@@ -600,7 +606,7 @@ N/A
 |  | 
 
 Breathing Impact  
-(GALE 30)
+(30 Galebreathe)
 
  | 
 
@@ -614,7 +620,7 @@ N/A
 |  | 
 
 Inhale  
-(GALE 60, Breathing Impact)
+(60 Galebreathe)
 
  | 
 
@@ -622,19 +628,20 @@ Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering
 
  | 
 
-N/A
+This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind.
 
  |
 
 **Legion Shock Trooper:**
 
-These Talents are found in the _Legion Shock Trooper_ category.
+These Talents are found in the _Legion Shock Trooper_ category.  
+_**"I fight for the Legion."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
 Air Pressure  
-(GALE 50, AGILITY 20)
+(50 Galebreathe, 20 Agility)
 
  | 
 
@@ -648,7 +655,7 @@ Dodging an attack or hitting an enemy's block will transform your next dash into
 |  | 
 
 Cyclone Blade  
-(GALE 55, AGILITY 30, Air Pressure)
+(55 Galebreathe, 30 Agility, Air Pressure)
 
  | 
 
@@ -662,7 +669,7 @@ After a successful Gale Dash you wrap your weapon in wind essence causing your n
 |  | 
 
 Pressure Break  
-(GALE 65, STR/AGILITY 30, Air Pressure)
+(65 Galebreathe, 30 Strength OR 30 Agility, Air Pressure)
 
  | 
 
@@ -677,7 +684,7 @@ Breaking an enemy's posture will cause them to take intense wind pressure damage
 |  | 
 
 Wind Step  
-(GALE 40)
+(40 Galebreathe)
 
  | 
 
@@ -689,89 +696,16 @@ N/A
 
  |
 
-**Silencer:**
-
-These Talents are found in the _Silencer_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-| File:A World Without Song.jpg | 
-A World Without Song  
-(GALE 75, POWER 10, All Silencer Talents)
-
- | 
-
-Every 3 hits with a Wind Mantra now procs Suffocate.
-
- | 
-
-N/A
-
- |
-|  | 
-
-Silencer's Blade  
-(GALE 60, POWER 10)
-
- | 
-
-Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
-
- | 
-
-N/A
-
- |
-
-**Whisper:**
-
-These Talents are found in the _Whisper_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | 
-Haunted Gale  
-(GALE 40, POWER 8)
-
- | 
-
-Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with gale wisp). 2 second cooldown.
-
- | 
-
-N/A
-
- |
-
-**Vigil of Winds:**
-
-These Talents are found in the _Vigil of Winds_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | 
-Maestro's Blade  
-(GALE 60)
-
- | 
-
-Inhaling a spell will cause the wind to be applied to your melee attack. (WAS MERGED TO INHALE)
-
- | 
-
-N/A
-
- |
-
 **Scholar of the Cloud:**
 
-These Talents are found in the _Scholar of the Cloud_ category.
+These Talents are found in the _Scholar of the Cloud_ category.  
+_**"I seek the qualities of Scholar of the Cloud."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
 Windwaker  
-(GALE 50, Quest Talent)
+(50 Galebreathe, Quest Talent)
 
  | 
 
@@ -783,15 +717,51 @@ N/A
 
  |
 
+**Silencer:**
+
+These Talents are found in the _Silencer_ category.  
+_**"The song shall be silenced."**_
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+| File:A World Without Song.jpg | 
+A World Without Song  
+(75 Galebreathe, POWER 10, Silencer's Blade)
+
+ | 
+
+Every 3 hits with a Wind Mantra now procs Suffocate.
+
+ | 
+
+Specter Path replaces Suffocation procs with an apparition spawn, making this talent great for that path.
+
+ |
+|  | 
+
+Silencer's Blade  
+(60 Galebreathe, POWER 10)
+
+ | 
+
+Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
+
+ | 
+
+N/A
+
+ |
+
 **Specter:**
 
-These Talents are found in the _Specter_ category.
+These Talents are found in the _Specter_ category.  
+_**"I seek the qualities of Specter."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 | File:Gale2.png | 
 Haunted Path: Specter  
-(Haunted Gale, 50 GALE)
+(Haunted Gale, 50 Galebreathe)
 
  | 
 
@@ -805,7 +775,7 @@ N/A
 | File:Gale2.png | 
 
 Apparitions  
-(Haunted Path: Specter, 50 GALE)
+(Haunted Path: Specter, 50 Galebreathe)
 
  | 
 
@@ -819,7 +789,7 @@ N/A
 | File:Gale2.png | 
 
 Phantom Step  
-(Haunted Path: Specter, 55 GALE)
+(Haunted Path: Specter, 55 Galebreathe)
 
  | 
 
@@ -833,7 +803,7 @@ N/A
 | File:Gale2.png | 
 
 Vanishing Wraith  
-(Phantom Step, 60 GALE)
+(Phantom Step, 60 Galebreathe)
 
  | 
 
@@ -844,14 +814,35 @@ Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your ta
 N/A
 
  |
-| File:Possesion specter Talent.gif | 
+| File:Gale2.png | 
 
 Possession  
-(Haunted Path: Specter, 75 GALE)
+(Haunted Path: Specter, 75 Galebreathe)
 
  | 
 
 After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration
+
+ | 
+
+N/A
+
+ |
+
+**Whisper:**
+
+These Talents are found in the _Whisper_ category.  
+_**"A whisper in the dark."**_
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Haunted Gale  
+(40 Galebreathe, POWER 8)
+
+ | 
+
+Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with gale wisp). 2 second cooldown.
 
  | 
 

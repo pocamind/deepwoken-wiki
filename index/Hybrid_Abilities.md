@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 118783
+revid: 119119
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -100,7 +100,7 @@ kick.
 
 **Bloodrend:**
 
-**Bloodrend + Flamecharm:**
+**Flamecharm:**
 
 <table>
 <tbody>
@@ -121,7 +121,7 @@ kick.
 </tbody>
 </table>
 
-**Bloodrend + Frostdraw:**
+**Frostdraw:**
 
 <table>
 <tbody>
@@ -142,7 +142,7 @@ kick.
 </tbody>
 </table>
 
-**Bloodrend + Galebreathe:**
+**Galebreathe:**
 
 <table>
 <tbody>
@@ -163,7 +163,7 @@ kick.
 </tbody>
 </table>
 
-**Bloodrend + Ironsing:**
+**Ironsing:**
 
 <table>
 <tbody>
@@ -184,7 +184,7 @@ kick.
 </tbody>
 </table>
 
-**Bloodrend + Shadowcast:**
+**Shadowcast:**
 
 <table>
 <tbody>
@@ -205,7 +205,7 @@ kick.
 </tbody>
 </table>
 
-**Bloodrend + Thundercall:**
+**Thundercall:**
 
 <table>
 <tbody>
@@ -228,7 +228,7 @@ kick.
 
 **Flamecharm:**
 
-**Flamecharm + Bloodrend:**
+**Bloodrend:**
 
 <table>
 <tbody>
@@ -249,7 +249,7 @@ kick.
 </tbody>
 </table>
 
-**Flamecharm + Frostdaw:**
+**Frostdaw:**
 
 <table>
 <tbody>
@@ -279,7 +279,7 @@ kick.
 </tbody>
 </table>
 
-**Flamecharm + Galebreathe:**
+**Galebreathe:**
 
 <table>
 <tbody>
@@ -300,7 +300,7 @@ kick.
 </tbody>
 </table>
 
-**Flamecharm + Shadowcast:**
+**Shadowcast:**
 
 <table>
 <tbody>
@@ -346,8 +346,8 @@ kick.
   <td><center>Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.</center></td>
 </tr>
 <tr>
-  <td>Burning Sacrifice<br>
-  <sup>[Twisted Puppets]</sup></td>
+  <td><center>Burning Sacrifice<br>
+  <sup>[Twisted Puppets]</sup></center></td>
   <td><center>Wraith Path: Twisted Puppets<br>
   Emperor Flame<br>
   40 Flamecharm<br>
@@ -358,7 +358,7 @@ kick.
 </tbody>
 </table>
 
-**Flamecharm + Thundercall:**
+**Thundercall:**
 
 <table>
 <tbody>
@@ -381,7 +381,7 @@ kick.
 
 **Frostdraw:**
 
-**Frostdraw + Bloodrend:**
+**Bloodrend:**
 
 <table>
 <tbody>
@@ -402,7 +402,7 @@ kick.
 </tbody>
 </table>
 
-**Frostdraw + Flamecharm:**
+**Flamecharm:**
 
 <table>
 <tbody>
@@ -432,7 +432,7 @@ kick.
 </tbody>
 </table>
 
-**Frostdraw + Galebreathe:**
+**Galebreathe:**
 
 <table>
 <tbody>
@@ -453,7 +453,7 @@ kick.
 </tbody>
 </table>
 
-**Frostdraw + Thundercall:**
+**Thundercall:**
 
 <table>
 <tbody>
@@ -487,7 +487,7 @@ kick.
 
 **Galebreathe:**
 
-**Galebreathe + Bloodrend:**
+**Bloodrend:**
 
 <table>
 <tbody>
@@ -508,7 +508,7 @@ kick.
 </tbody>
 </table>
 
-**Galebreathe + Flamecharm:**
+**Flamecharm:**
 
 <table>
 <tbody>
@@ -529,7 +529,7 @@ kick.
 </tbody>
 </table>
 
-**Galebreathe + Frostdraw:**
+**Frostdraw:**
 
 <table>
 <tbody>
@@ -550,7 +550,7 @@ kick.
 </tbody>
 </table>
 
-**Galebreathe + Shadowcast:**
+**Shadowcast:**
 
 <table>
 <tbody>
@@ -571,7 +571,7 @@ kick.
 </tbody>
 </table>
 
-**Galebreathe + Thundercall:**
+**Thundercall:**
 
 <table>
 <tbody>
@@ -595,7 +595,7 @@ kick.
 
 **Ironsing:**
 
-**Ironsing + Bloodrend:**
+**Bloodrend:**
 
 <table>
 <tbody>
@@ -616,7 +616,7 @@ kick.
 </tbody>
 </table>
 
-**Ironsing + Thundercall:**
+**Thundercall:**
 
 <table>
 <tbody>
@@ -640,7 +640,7 @@ kick.
 
 **Shadowcast:**
 
-**Shadowcast + Bloodrend:**
+**Bloodrend:**
 
 <table>
 <tbody>
@@ -661,7 +661,7 @@ kick.
 </tbody>
 </table>
 
-**Shadowcast + Flamecharm:**
+**Flamecharm:**
 
 <table>
 <tbody>
@@ -707,8 +707,8 @@ kick.
   <td><center>Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.</center></td>
 </tr>
 <tr>
-  <td>Burning Sacrifice<br>
-  <sup>[Twisted Puppets]</sup></td>
+  <td><center>Burning Sacrifice<br>
+  <sup>[Twisted Puppets]</sup></center></td>
   <td><center>Wraith Path: Twisted Puppets<br>
   Emperor Flame<br>
   40 Flamecharm<br>
@@ -719,7 +719,7 @@ kick.
 </tbody>
 </table>
 
-**Shadowcast + Galebreathe:**
+**Galebreathe:**
 
 <table>
 <tbody>
@@ -740,7 +740,7 @@ kick.
 </tbody>
 </table>
 
-**Shadowcast + Thundercall:**
+**Thundercall:**
 
 <table>
 <tbody>
@@ -773,7 +773,7 @@ kick.
 
 **Thundercall:**
 
-**Thundercall + Bloodrend:**
+**Bloodrend:**
 
 <table>
 <tbody>
@@ -794,7 +794,7 @@ kick.
 </tbody>
 </table>
 
-**Thundercall + Flamecharm:**
+**Flamecharm:**
 
 <table>
 <tbody>
@@ -815,7 +815,7 @@ kick.
 </tbody>
 </table>
 
-**Thundercall + Frostdraw:**
+**Frostdraw:**
 
 <table>
 <tbody>
@@ -847,7 +847,7 @@ kick.
 </tbody>
 </table>
 
-**Thundercall + Galebreathe:**
+**Galebreathe:**
 
 <table>
 <tbody>
@@ -869,7 +869,7 @@ kick.
 </tbody>
 </table>
 
-**Thundercall + Ironsing:**
+**Ironsing:**
 
 <table>
 <tbody>
@@ -891,7 +891,7 @@ kick.
 </tbody>
 </table>
 
-**Thundercall + Shadowcast:**
+**Shadowcast:**
 
 <table>
 <tbody>

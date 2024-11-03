@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119096
+revid: 119103
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -726,9 +726,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"Those that step on my ice know that they have made a grave error."**_
 
--   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating 50% from the damage of the next attack.
+-   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, freeze yourself, reducing incoming damage by 50% and dealing frost damage to attackers.
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
-    -   If hit during Cryostasis you will inflict frost damage to the opponent.
     -   ~33 second cooldown.
     -   Prerequisites: Fragile Freeze, 20 Fortitude.
 

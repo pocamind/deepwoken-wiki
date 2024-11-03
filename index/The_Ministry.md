@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 111648
+revid: 119125
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
@@ -53,7 +53,7 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 -   [Cestis](Cestis.md)
 -   [The Stranger](Quiet_Stranger.md)
 -   [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Emel](Emel.md)
 -   [Imel](Imel.md)
 -   [Rimil](Rimil.md)

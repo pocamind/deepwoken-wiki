@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 119018
+revid: 119101
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -326,9 +326,12 @@ Metal Wisp
 
 ## **Talents**
 
+Below is a list of all Ironsing exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md).
+
 **Ironsinger:**
 
-These are Talents found in "_Ironsinger_" Category.
+These are Talents found in "_Ironsinger_" Category.  
+_**"I obtained the lost art of Ironsinging."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -351,7 +354,7 @@ Press X to pull targets with Metal Rods towards you.
  | 
 
 Adept Ironsinger  
-(METAL 20)
+(20 Ironsing)
 
  | 
 
@@ -367,7 +370,7 @@ N/A
  | 
 
 Expert Ironsinger  
-(METAL 30)
+(30 Ironsing)
 
  | 
 
@@ -383,7 +386,7 @@ N/A
  | 
 
 Master Ironsinger  
-(METAL 50)
+(50 Ironsing)
 
  | 
 
@@ -394,128 +397,20 @@ You can now obtain 3-star Ironsinger mantras.
 +5 Health FROM: Ironsinger
 
  |
-
-**Rending Needle:**
-
-These are Talents found in "_Rending Needle_" Category. (You can only have one of these Talents, taking one prevents the others from appearing.)
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Metalsmith: Conductor  
-(METAL 75)
-
- | 
-
-5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn.
-
- | 
-
-+1 Posture FROM: Ironsinger
-
- |
 | 
 
  | 
 
-Metalsmith: Impaler  
-(METAL 75)
+Alloyblood  
+(100 Ironsing)
 
  | 
 
-If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.  
+You don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.
 
  | 
 
-+1 Posture FROM: Ironsinger
-
- |
-| 
-
- | 
-
-Metalsmith: Jailer  
-(METAL 75)
-
- | 
-
-If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
-
- | 
-
-+1 Posture FROM: Ironsinger
-
- |
-
-**Metallurgist:**
-
-These are Talents found in "_Metallurgist_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Intuitive Repairs  
-(Iron Skin, METAL 25)
-
- | 
-
-Your 'Iron Skin' repairs armor while it's active.
-
- | 
-
-Iron Skin regenerates your regular armor's and your natural armor's durability(from Chitin and Exoskeleton).
-
- |
-| 
-
- | 
-
-Metal Shackles  
-(STR 15, METAL 45)
-
- | 
-
-Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
-
- | 
-
-Guardbreaking an opponent will prevents them from receiving speed boost for 5 seconds.
-
- |
-| 
-
- | 
-
-Metal Absorption  
-(Iron Hug, METAL 45)
-
- | 
-
-Your 'Iron Hug' also absorbs armor from the enemy.
-
- | 
-
-Landing the Iron Hug mantra will absorb armor from the enemy.
-
- |
-| 
-
- | 
-
-Laced Traps  
-(Caltrops, METAL 45)
-
- | 
-
-People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
-
- | 
-
-People hit by your 'Caltrops' mantra cannot jump and are slowed for a small duration.
+Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals bleed damage is now **light grey**.
 
  |
 | 
@@ -523,7 +418,7 @@ People hit by your 'Caltrops' mantra cannot jump and are slowed for a small dura
  | 
 
 Ironclad Punishment  
-(METAL 45)
+(45 Ironsing)
 
  | 
 
@@ -538,64 +433,32 @@ The higher durability your enemy has, the more posture damage they take.
 
  | 
 
-Thornmail  
-(METAL 45)
+Laced Traps  
+(Caltrops, 45 Ironsing)
 
  | 
 
-Getting flourished applies a metal rod on your attacker.
+People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
 
  | 
 
-Apply rods on your attacker when **you** are flourished.
+People hit by your 'Caltrops' mantra cannot jump and are slowed for a small duration.
 
  |
 | 
 
  | 
 
-Metal Eater  
-(METAL 50)
+Metal Shackles  
+(15 Strength, 45 Ironsing)
 
  | 
 
-When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
+Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
 
  | 
 
-You can sacrifice some of your armor durability to cast mantras when you're out of ether.
-
- |
-| 
-
- | 
-
-Metal Thief  
-(METAL 50)
-
- | 
-
-Pulling an opponent absorbs a portion of their current Armor durability.
-
- | 
-
-Pulling an opponent absorbs a portion of their current Armor durability.
-
- |
-| 
-
- | 
-
-Heavy Shoulders  
-(METAL 55)
-
- | 
-
-If your opponent has 3 or more rods, their dodges are slower.
-
- | 
-
-If your opponent has 3 or more rods, their dodges are slower.
+Guardbreaking an opponent will prevents them from receiving speed boost for 5 seconds.
 
  |
 | 
@@ -603,7 +466,7 @@ If your opponent has 3 or more rods, their dodges are slower.
  | 
 
 Oh the Irony  
-(Taunt, CHAR 40, METAL 55)
+(Taunt, 40 Charisma, 55 Ironsing)
 
  | 
 
@@ -619,7 +482,7 @@ The debuff given by the "Taunt" Mantra now doubles incoming iron rods.
  | 
 
 Piercing Metal  
-(POWER 13, METAL 60)
+(POWER 13, 60 Ironsing)
 
  | 
 
@@ -634,64 +497,31 @@ Deal _(???)_ more armor damage to enemies per metal rod affecting them.
 
  | 
 
-Polished Armor  
-(METAL 75)
+Thornmail  
+(45 Ironsing)
 
  | 
 
-You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
+Getting flourished applies a metal rod on your attacker.
 
  | 
 
-Damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
-
- |
-| 
-
- | 
-
-Alloyblood  
-(METAL 100)
-
- | 
-
-You don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.
-
-(Advanced Talent)
-
- | 
-
-Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals bleed damage is now **grey**.
+Apply rods on your attacker when **you** are flourished.
 
  |
 
 **Adaptive Arsenal:**
 
-These are Talents found in "_Adaptive Arsenal_" Category.
+These are Talents found in "_Adaptive Arsenal_" Category.  
+_**"I seek the qualities of Adaptive Arsenal."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
  | 
 
-Exposed Durability  
-(METAL 60)
-
- | 
-
-Deal 10% more damage to opponents with no armor durability left.
-
- | 
-
-Increased damage Talent
-
- |
-| 
-
- | 
-
 An Ironsinger's Instinct  
-(METAL 75)
+(75 Ironsing)
 
  | 
 
@@ -706,8 +536,24 @@ Upon dodging, reduce the damage taken from the next attack.
 
  | 
 
+Exposed Durability  
+(60 Ironsing)
+
+ | 
+
+Deal 10% more damage to opponents with no armor durability left.
+
+ | 
+
+Increased damage Talent
+
+ |
+| 
+
+ | 
+
 Phantom Edge  
-(METAL 75)
+(75 Ironsing)
 
  | 
 
@@ -719,9 +565,168 @@ Increased weapon range.
 
  |
 
+**Metallurgist:**
+
+These are Talents found in "_Metallurgist_" Category.  
+_**"Metal itself is my shield, whichever form it may take."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Heavy Shoulders  
+(55 Ironsing)
+
+ | 
+
+If your opponent has 3 or more rods, their dodges are slower.
+
+ | 
+
+If your opponent has 3 or more rods, their dodges are slower.
+
+ |
+| 
+
+ | 
+
+Intuitive Repairs  
+(Iron Skin, 25 Ironsing)
+
+ | 
+
+Your 'Iron Skin' repairs armor while it's active.
+
+ | 
+
+Iron Skin regenerates your regular armor's and your natural armor's durability(from Chitin and Exoskeleton).
+
+ |
+| 
+
+ | 
+
+Metal Absorption  
+(Iron Hug, 45 Ironsing)
+
+ | 
+
+Your 'Iron Hug' also absorbs armor from the enemy.
+
+ | 
+
+Landing the Iron Hug mantra will absorb armor from the enemy.
+
+ |
+| 
+
+ | 
+
+Metal Eater  
+(50 Ironsing)
+
+ | 
+
+When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
+
+ | 
+
+You can sacrifice some of your armor durability to cast mantras when you're out of ether.
+
+ |
+| 
+
+ | 
+
+Metal Thief  
+(50 Ironsing)
+
+ | 
+
+Pulling an opponent absorbs a portion of their current Armor durability.
+
+ | 
+
+Pulling an opponent absorbs a portion of their current Armor durability.
+
+ |
+| 
+
+ | 
+
+Polished Armor  
+(75 Ironsing)
+
+ | 
+
+You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
+
+ | 
+
+Damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
+
+ |
+
+**Rending Needle:**
+
+These are Talents found in "_Rending Needle_" Category. (You can only have one of these Talents, taking one prevents the others from appearing.)  
+_**"I seek the qualities of Rending Needle."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Rending Needle: Conductor  
+(75 Ironsing)
+
+ | 
+
+5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn.
+
+ | 
+
++1 Posture FROM: Ironsinger
+
+ |
+| 
+
+ | 
+
+Rending Needle: Impaler  
+(75 Ironsing)
+
+ | 
+
+If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.  
+
+ | 
+
++1 Posture FROM: Ironsinger
+
+ |
+| 
+
+ | 
+
+Rending Needle: Jailer  
+(75 Ironsing)
+
+ | 
+
+If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
+
+ | 
+
++1 Posture FROM: Ironsinger
+
+ |
+
 **Scrapsinger:**
 
-These are Talents found in "_Scrapsinger_" Category.
+These are Talents found in "_Scrapsinger_" Category.  
+_**"I seek the qualities of the Scrapsinger."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -731,7 +736,7 @@ File:Iron2.png
  | 
 
 Gilded Path: Scrapsinger  
-(METAL 35)
+(35 Ironsing)
 
  | 
 
@@ -748,26 +753,8 @@ File:Iron2.png
 
  | 
 
-Refine and Reuse  
-(Gilded Path: Scrapsinger, METAL 45)
-
- | 
-
-Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
-
- | 
-
-When consuming an enemy's rod, their PEN against you is reduced for 14 seconds by 5% for each rod multiplicatively
-
- |
-| 
-
-File:Iron2.png
-
- | 
-
 Artisan's Blade  
-(Gilded Path: Scrapsinger, METAL 45)
+(Gilded Path: Scrapsinger, 45 Ironsing)
 
  | 
 
@@ -784,8 +771,44 @@ File:Iron2.png
 
  | 
 
+Masterwork  
+(Artisan's Blade, 60 Ironsing)
+
+ | 
+
+Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+
+ | 
+
+Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+
+ |
+| 
+
+File:Iron2.png
+
+ | 
+
+Refine and Reuse  
+(Gilded Path: Scrapsinger, 45 Ironsing)
+
+ | 
+
+Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
+
+ | 
+
+When consuming an enemy's rod, their PEN against you is reduced for 14 seconds by 5% for each rod multiplicatively
+
+ |
+| 
+
+File:Iron2.png
+
+ | 
+
 Songs Unforged  
-(Gilded Path: Scrapsinger, METAL 50)
+(Gilded Path: Scrapsinger, 50 Ironsing)
 
  | 
 
@@ -802,26 +825,8 @@ File:Iron2.png
 
  | 
 
-Masterwork  
-(Artisan's Blade, METAL 60)
-
- | 
-
-Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-
- | 
-
-Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-
- |
-| 
-
-File:Iron2.png
-
- | 
-
 Reshape and Remold  
-(All Scrapsinger Talents, METAL 70)
+(All Scrapsinger Talents, 70 Ironsing)
 
  | 
 

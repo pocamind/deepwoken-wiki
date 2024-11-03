@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 118442
+revid: 119117
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -297,183 +297,12 @@ Shadow Assault
 
 ## **Talents**
 
-**Darksiphon:**
-
-These are Talents found in the **Darksiphon** category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
-File:Shadowcast icon.png
-
- | 
-
-Dark God  
-(SHADOW 20)
-
- | 
-
-If a shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Dark Hours  
-(SHADOW 35)
-
- | 
-
-Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Dark Synergy  
-(SHADOW 45, Dark God)
-
- | 
-
-Engulf your enemy in shadows when flourishing them.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Dark Replenishment  
-(SHADOW 50, INTEL 25, Dark God)
-
- | 
-
-Knocking out an enemy in combat restores a portion of your ether.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Dark Rift  
-(SHADOW 60, Dark Hours)
-
- | 
-
-Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Overwhelming Drain  
-(SHADOW 40, Shadow Eruption)
-
- | 
-
-If multiple enemies are hit by your Shadow Eruption, they are dazed.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Shadow Overflow  
-(SHADOW 55, Dark God)
-
- | 
-
-Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
-
- | 
-
-N/A
-
- |
-
-**Death Speaker:**
-
-These are Talents found in the **Death Speaker** category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
-File:Shadowcast icon.png
-
- | 
-
-Black Hole  
-(SHADOW 60, POWER 13, Singularity)
-
- | 
-
-Your singularity pulls everyone nearby in.
-
- | 
-
-N/A
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
-Energy Siphon  
-(SHADOW 65, Singularity)
-
- | 
-
-Your singularity now pulls ether from the extra players affected.
-
- | 
-
-N/A
-
- |
+Below is a list of all Shadowcast exclusive talents and the Twisted Puppets path. Other hybrid talents are listed [here](Hybrid_Abilities.md#shadowcast).
 
 **Shadowcaster:**
 
-These are Talents found in the **Shadowcaster** category.
+These are Talents found in the **Shadowcaster** category.  
+_**"I speak to the shadows."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -483,7 +312,7 @@ File:Shadowcast icon.png
  | 
 
 Shadowcaster  
-(SHADOW 1)
+(SHADOW 1 Shadowcast)
 
  | 
 
@@ -501,7 +330,7 @@ File:Shadowcast icon.png
  | 
 
 Adept Shadowcaster  
-(SHADOW 20)
+(SHADOW 20 Shadowcast)
 
  | 
 
@@ -519,7 +348,7 @@ File:Shadowcast icon.png
  | 
 
 Expert Shadowcaster  
-(SHADOW 30)
+(SHADOW 30 Shadowcast)
 
  | 
 
@@ -537,7 +366,7 @@ File:Shadowcast icon.png
  | 
 
 Master Shadowcaster  
-(SHADOW 50)
+(SHADOW 50 Shadowcast)
 
  | 
 
@@ -555,7 +384,7 @@ File:Shadowcast icon.png
  | 
 
 Shadow Travel  
-(SHADOW 75, Dark God)
+(SHADOW 75 Shadowcast, Dark God)
 
  | 
 
@@ -573,7 +402,7 @@ File:Shadowcast icon.png
  | 
 
 Blossoming Darkness  
-(SHADOW 30, Shadow Roar)
+(SHADOW 30 Shadowcast, Shadow Roar)
 
  | 
 
@@ -591,7 +420,7 @@ File:Shadowcast icon.png
  | 
 
 Fear  
-(SHADOW 50)
+(SHADOW 50 Shadowcast)
 
  | 
 
@@ -609,7 +438,7 @@ File:Shadowcast icon.png
  | 
 
 Lasting Sorrow  
-(SHADOW 50)
+(SHADOW 50 Shadowcast)
 
  | 
 
@@ -627,7 +456,7 @@ File:Shadowcast icon.png
  | 
 
 Sightless Still  
-(SHADOW 30)
+(SHADOW 30 Shadowcast)
 
  | 
 
@@ -645,7 +474,7 @@ File:Shadowcast icon.png
  | 
 
 Singularity  
-(SHADOW 40)
+(SHADOW 40 Shadowcast)
 
  | 
 
@@ -657,15 +486,192 @@ N/A
 
  |
 
+**Darksiphon:**
+
+These are Talents found in the **Darksiphon** category.  
+_**"I feed on the souls of my enemies."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Shadowcast icon.png
+
+ | 
+
+Dark God  
+(SHADOW 20 Shadowcast)
+
+ | 
+
+If a shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Dark Hours  
+(SHADOW 35 Shadowcast)
+
+ | 
+
+Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Dark Synergy  
+(SHADOW 45 Shadowcast, Dark God)
+
+ | 
+
+Engulf your enemy in shadows when flourishing them.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Dark Replenishment  
+(SHADOW 50 Shadowcast, 25 Intelligence, Dark God)
+
+ | 
+
+Knocking out an enemy in combat restores a portion of your ether.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Dark Rift  
+(SHADOW 60 Shadowcast, Dark Hours)
+
+ | 
+
+Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Overwhelming Drain  
+(SHADOW 40 Shadowcast, Shadow Eruption)
+
+ | 
+
+If multiple enemies are hit by your Shadow Eruption, they are dazed.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Shadow Overflow  
+(SHADOW 55 Shadowcast, Dark God)
+
+ | 
+
+Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+
+ | 
+
+N/A
+
+ |
+
+**Death Speaker:**
+
+These are Talents found in the **Death Speaker** category.  
+_**"I am the one who speaks to death."**_
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Shadowcast icon.png
+
+ | 
+
+Black Hole  
+(SHADOW 60 Shadowcast, POWER 13, Singularity)
+
+ | 
+
+Your singularity pulls everyone nearby in.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Shadowcast icon.png
+
+ | 
+
+Energy Siphon  
+(SHADOW 65 Shadowcast, Singularity)
+
+ | 
+
+Your singularity now pulls ether from the extra players affected.
+
+ | 
+
+N/A
+
+ |
+
 **Twisted Puppets:**
 
-These Talents are found in the _Twisted Puppets_ category.
+These Talents are found in the _Twisted Puppets_ category.  
+_**"I seek the qualities of twisted puppets."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 | File:Twistedicon.png | 
 Wraith Path: Twisted Puppets  
-(40 FLAME, 40 SHADOW)
+(40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -679,7 +685,7 @@ N/A
 | File:Twistedicon.png | 
 
 Burning Puppets  
-(Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -693,7 +699,7 @@ N/A
 | File:Twistedicon.png | 
 
 Explosive Rage  
-(Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -707,7 +713,7 @@ N/A
 | File:Twistedicon.png | 
 
 Moths to a Flame  
-(Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
 
  | 
 
@@ -721,7 +727,7 @@ N/A
 | File:Twistedicon.png | 
 
 Burning Sacrifice  
-(Wraith Path: Twisted Puppets, Emperor Flame)
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast, Emperor Flame)
 
  | 
 

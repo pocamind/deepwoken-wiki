@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 119097
+revid: 119113
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -480,7 +480,7 @@ _Undying flame._
 
 ## **Talents**
 
-Below is a list of all Flamecharm exclusive talents and its Paths. Hybrid talents are listed [here](Hybrid_Abilities.md).
+Below is a list of all Flamecharm exclusive talents and its Paths. Hybrid talents are listed [here](Hybrid_Abilities.md#flamecharm).
 
 **Flamecharmer:**
 
