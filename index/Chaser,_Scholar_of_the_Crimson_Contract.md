@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 118761
+revid: 119070
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -18,11 +18,11 @@ Template:EnemyInfobox1.0
 
 Chaser, Scholar of the Crimson Contract is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
 
-He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
+He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of [Bloodrend](Bloodrend.md) by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
 
-Appearance-wise, he is a young male greymarch [Adret](Adret.md) characterized by his unique eye color and facial markings. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered from the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
+Appearance-wise, he is a young male greymarch [Adret](Adret.md) characterized by his unique eye color and facial markings. He also has a [Resonance](Resonance.md) that allows him to extract power from the effigies of the dead,[\[4\]](#cite-note-4) with the multiple bells on his hips representing those effigies. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his own variant of the Oath.
 
 ## Moveset
 
@@ -257,30 +257,29 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 ## Trivia
 
 -   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
--   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
+-   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[5\]](#cite-note-5)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   Despite having visual armor, he has 0% resistance which making PEN stat useless against him.
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
 -   The Triple Blood Wave move used by Chaser closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.
--   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed, it has been noted that he is unable to use them.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
--   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
+-   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[6\]](#cite-note-6)
 -   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered or if the mystery key hasn't been taken/resonance door opened.
 -   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Chaser had two name changes. At first, his name was changed from "Chaser, Scholar of the Crimson Contract" to "Chaser, Scholar of the Burning Blood". In September 2024 it was changed back to "Chaser, Scholar of the Crimson Contract".
 -   His hair ID is 77799954 & the beard ID is 4995497755
 -   Chaser's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
--   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
+-   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[7\]](#cite-note-7)
 -   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is the doubled damage from Fragile Heart.
--   we now know that chaser has a bell that allows him to extract power through effigy's of the dead (this info is given through the woman who gives you bloodrend when you ask her about chaser)
 
 ## References
 
 1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 2.  [↑](#cite-ref-2) [Flareblood Kamas](Flareblood_Kamas.md) description
 3.  [↑](#cite-ref-3) [Diver Journals](Books.md)
-4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=VedRxDf8QNs](https://www.youtube.com/watch?v=VedRxDf8QNs)
-5.  [↑](#cite-ref-5)
+4.  [↑](#cite-ref-4) [Vyrelda](Vyrelda,_Master_of_Blood.md)
+5.  [↑](#cite-ref-5) [https://www.youtube.com/watch?v=VedRxDf8QNs](https://www.youtube.com/watch?v=VedRxDf8QNs)
 6.  [↑](#cite-ref-6)
+7.  [↑](#cite-ref-7)

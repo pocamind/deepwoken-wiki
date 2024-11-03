@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 118352
+revid: 119042
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -27,6 +27,8 @@ This is displayed clearly through the symbol in [The Entropy Catalyst](The_Entro
 The Moonseye also has an abundant relation to [insanity](Insanity.md). This can be seen in the [Moonseye Tome](Moonseye_Tome.md), which is a prophet-turned-insane's dream, and with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md), who attempted to create and drink the [Moonseye Vigor](Lore.md#dr-carrion-father-of-evolution) and went insane because of it. The goal of the Moonseye Vigor was to "transcend" people, but such a potion has never been properly made, although the [Apothecary](Lore.md#the-apothecary) intends to.
 
 The Moonseye, physically, is most likely the Deepwoken equivalent of the moon, although it does produce its own light, according to the [Soothsayer](Soothsayer.md).
+
+A major bit of lore that can be inferred from the Moonseye related items is that the Moonseye used to be the afterlife before it was replaced by the Depths, and that supposedly there is still a way to reach it through a “staircase” in the Voidsea according to the Tome.
 
 ## Trivia
 

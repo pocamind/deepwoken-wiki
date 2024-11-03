@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119033
+revid: 119073
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -30,9 +30,7 @@ Walk out the building, and run around the village for a while. The blood-renders
 
 \***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**\*
 
-  
-
-After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md), and it will also be available from the [character creation](Character_Creation.md) screen.
+After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her), and it will also be available from the [character creation](Character_Creation.md) screen.
 
 ### Training
 
@@ -67,9 +65,11 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Conjure a bloody cross. | N/A Ether | N/A | Sends out a cross projectile to your mouse position (It doesn't work well outside of shiftlock currently).
+ | Conjure a bloody cross. | N/A Ether | N/A | Launch a crucifix-shaped projectile at the cursor's position.
 
-Upon contact with a target, sends them back and ragdolls.
+-   Deals moderate damage.
+-   Ragdolls.
+-   It doesn't work well outside of Shift-Lock currently.
 
  |
 | 
@@ -78,11 +78,11 @@ Upon contact with a target, sends them back and ragdolls.
 
 (☆☆☆)
 
- | Release an amalgamation of your blood. | N/A Ether | N/A | Sends out a blood ball to wherever your character is facing.
+ | Release an amalgamation of your blood. | N/A Ether | N/A | Launch an orb-shaped projectile of blood to wherever the character is facing.
 
-Upon contact with a target/wall/floor. Creates a pool of blood.
-
-Compatible with multiplying spark
+-   Deals light damage.
+-   Leaves behind a Blood Pool.
+-   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
 
  |
 | 
@@ -91,13 +91,12 @@ Compatible with multiplying spark
 
 (☆☆☆)
 
- | Create a cyclone of blood | N/A Ether | N/A | Creates a cyclone of blood wherever your facing and immediately sends it out. It goes through entities and only stops its path when it hits a wall or an object. Multiplying spark compatible:
+ | Create a cyclone of blood. | N/A Ether | N/A | Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its ranged.
 
-Reversal Spark: Cyclone now only travels half the distance, but returns to the point it was cast from and disappears upon travelling it's max distance.
+-   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial.
 
-Reversal and Multiplying Spark: Splits cyclone into three, and returns to the caster with the same behaviors as above.
-
-note: it's not letting me upload clips of these variants, says im vandalizing :(
+-   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
+    -   Both sparks can be paired together.
 
  |
 | 
@@ -106,14 +105,22 @@ note: it's not letting me upload clips of these variants, says im vandalizing :
 
 (★☆☆)
 
- | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing aoe damage and creating a blood pool when it lands. |
+ | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing AoE damage and applying knockdown. (needs confirmation)
+
+-   Leaves behind a Blood Pool.
+
+ |
 | 
 
  | Blood Stakes
 
 (★☆☆)
 
- | Create stakes of blood. | 25 Ether | N/A | Summons a blood stake near you that targets onto an enemy and impales them. Leaves behind a blood pool where the stake spawned. Also creates stakes from blood pools around the user |
+ | Create stakes of blood. | 25 Ether | N/A | Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user.
+
+-   Leaves behind a Blood Pool.
+
+ |
 | 
 
  | Bloodedge
@@ -124,28 +131,36 @@ note: it's not letting me upload clips of these variants, says im vandalizing :
 
 Ether
 
- | N/A | Conjure up a scythe of your own blood and form it into the shape of a scythe and quickly charge forward. |
+ | N/A | Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way. |
 | 
 
  | Scarlet Cannon
 
 (★★☆)
 
- | Create a giant blood beam. | N/A Ether | N/A | N/A |
+ | Create a giant blood beam. | N/A Ether | N/A | Jump into the air before blasting a continuous beam of blood at a nearby target.
+
+-   Beam locks onto target for the entire duration of the mantra.
+
+ |
 | 
 
  | Veinbreaker
 
 (★★☆)
 
- | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to begin charging, character will flash 5 times while charging, then dash foward and punch. M1 while charging to punch early. If charged fully, blockbreaks. |
+ | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak.
+
+-   Damage and posture scales based on the duration charged.
+
+ |
 | 
 
  | Soulflare Siphon
 
 (★★☆)
 
- | Grab and siphon blood out of your victim. | 50 Ether | N/A | 
+ | Grab and siphon blood out of your victim. | 50 Ether | N/A | Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood.
 
 File:Soulflare.gif
 
@@ -158,18 +173,17 @@ When no target is hit
 
 (★★☆)
 
- | Create weapons on your arms and dash through. | 25 Ether | N/A | Launch upwards to attack opponents, and if landed, fly back with a second attack. |
+ | Create weapons on your arms and dash through. | 25 Ether | N/A | Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack. |
 | 
 
  | Crimson Rain
 
 (★★☆)
 
- | Release blood daggers. Recast to call them. | 30 Ether | N/A | Sends 3 flying blood daggers out. Pressing the mantra button again will send them flying back, causing it to hit again.
+ | Release blood daggers. Recast to call them. | 30 Ether | N/A | Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target.
 
-You can add Multiplying spark to it.
-
-At level 5 you send 5 daggers instead of 3
+-   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 5.
+-   Can be modified with a Multiplying Spark, making \[\].
 
  |
 | 
@@ -178,18 +192,14 @@ At level 5 you send 5 daggers instead of 3
 
 (★★☆)
 
- | Slash upwards and launch slashes of blood. | 30 Ether | N/A | After a short windup, perform a uppercut into the air, then launches 3 blood slashes fowards and into the ground. |
+ | Slash upwards and launch slashes of blood. | 30 Ether | N/A | Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground. |
 | 
 
  | Bloodtide Ritual
 
 (★★★)
 
- | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Creates a blood spear that charges for about 6 seconds while damaging people in the area, then throws the spear down. Can be mantra feinted to end the charging early.
-
-Can be modified with magnifying glass but doesn't seem to do anything
-
- |
+ | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped of a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage. |
 | 
 
  | Bloodcurdle
@@ -200,9 +210,9 @@ Can be modified with magnifying glass but doesn't seem to do anything
 
 Ether
 
- | N/A | lock on to a target and attack them with their own blood twice
+ | N/A | Perform a gesture that causes a nearby target to explode continuously with blood.
 
-If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit longer.
+-   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
 
  |
 
@@ -215,14 +225,23 @@ If modified with a multiplying spark, triggers in 2 bursts and stuns for a bit l
 
 (★☆☆)
 
- | Create or jump into a pool of blood. | 35 Ether | N/A | Dive into a pool of blood and move around before coming up and attacking |
+ | Create or jump into a pool of blood. | 35 Ether | N/A | Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage.
+
+-   Leaves behind a Blood Pool.
+-   Mantra is similar to that of Beast Burrow and Shade Step.
+
+ |
 | 
 
  | Vein Tendrils
 
 (★★☆)
 
- | Create tendrils of blood. | 40 Ether | N/A | Send out tendrils of blood to grab onto an object or person. Leveling up this mantra will increase it's range |
+ | Create tendrils of blood. | 40 Ether | N/A | Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage.
+
+-   Leveling up this mantra will increase its range.
+
+ |
 
 ### Support Mantras
 
@@ -249,31 +268,31 @@ Bloodrend currently has a total of 30 talents.
 
 -   Just a Taste - First Bloodrend mantra you hit in combat has increased blood drain
 -   Sanguine Siphon - Landing a critical attack while in a blood pool with consume that pool and empower your next blood mantra
--   Tainted Ground - Enemies who stand in blood pools will not decay blood poison.
+-   Tainted Ground (30 BLD) - Enemies who stand in blood pools will not decay blood poison.
 -   First Blood - your first blood mantra you use in combat has no blood cost.
 -   Sheltering Grasp - Blood mantras cast within blood pools have reduced blood cost.
 -   Blood Bag - you receive extra blood from knocking an enemy.
 -   Rush Hour - Stab yourself to become stronger, faster, and deal increased blood bar damage.
 -   Open Wound - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
 -   Crimson Fountain - Blockbreaking or flourishing an enemy now sills a pool of blood below them.
--   Sow and Mend - Sacrifice 15% of your blood for temporary health
--   Bloodwardens Sense - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
+-   Sow and Mend (60 BLD) - Sacrifice 15% of your blood for temporary health
+-   Bloodwardens Sense (30 BLD) - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
 -   Malevolent Sapper - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
 -   Blood Transfusion - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
--   Cyclical Exsanguination - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
+-   Cyclical Exsanguination (65 BLD, Sow and Mend) - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
 -   Panacea - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying.
 -   Cold Blooded - Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode
--   Embolism - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
+-   Embolism (65 BLD, Sow and Mend) - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
 -   Juicy Snack - Eliminating enemies returns their amount of blood poison as health to you.
 -   Electrolyte - Hitting Bloodrend mantras while having temporary health applies electrify and removes portion of the temporary health.
--   Vasculitis - Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. (Must hit them while they are over 20% BP.)
+-   Vasculitis (40 BLD, 35 INT) - Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. (Must hit them while they are over 20% BP.)
 -   Brain Death - Enemies that are already suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.
 -   Blood And Iron - Pulling rods out of your opponent now replenishes an equivalent amount of blood.
 -   Scorchblood - Guardbreaking your opponent with a Bloodrend mantra sets them on fire.
--   Hemolyitc Transfusion - Guardbreaking an enemy with Bloodrend mantra increases the amount of blood poison from the attack.
--   Hypovolemic Focus - While you have temporary health, your opponent regains far less posture from parrying you.
+-   Hemolyitc Transfusion (65 BLD) - Guardbreaking an enemy with Bloodrend mantra increases the amount of blood poison from the attack.
+-   Hypovolemic Focus (65 BLD, Sow and Mend) - While you have temporary health, your opponent regains far less posture from parrying you.
 -   Sharing Is Caring - Your 'Charm' on opponents also slightly increases your blood drain against them.
--   Gruesome Harvest (95 Bloodrend) - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health
+-   Gruesome Harvest (95 BLD) - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health
 
 ## Trivia
 
@@ -284,4 +303,5 @@ Bloodrend currently has a total of 30 talents.
 
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
--   Bloodtide Ritual is possibly a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
+-   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
+-   Bloodedge could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
