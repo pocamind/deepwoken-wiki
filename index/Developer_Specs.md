@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 114331
+revid: 119182
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Developer Specs]
@@ -24,7 +24,7 @@ Unique Names/Titles given to certain members of the community.
 
 ### Talents
 
-These are talents that are only obtainable through being gifted by a mod and/or developers. Though currently, only one talent is known to exist.
+These are Talents that are only obtainable through being gifted by a mod and/or developers. Though currently, only one Talent is known to exist.
 
 #### Christmas Miracle
 
@@ -63,7 +63,6 @@ Melonbeard possesses a teleportation ability which makes a gate rise from the gr
 
 He is currently using Zartania's "Skeleton Key" spec as his is unfinished.
 
-  
 He can jump extremely high.
 
 ### Iltria (Leafre Spellhardt) (Retired)
@@ -94,7 +93,7 @@ Zartania has a spec called the “Skeleton Key”. The spec allows him to lock a
 
 He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 
-#### Family Members:
+#### Family Members
 
 -   Mar Caesar
 -   Jaq Caesar, The One Who Knocks
@@ -152,7 +151,7 @@ Par has the spec to spawn a ~cat maid~ "servant" that will execute any downed pl
 
 Spookeree's spec has been extremely rarely documented, but has been seen to be able to pick up knocked players, and teleport them to an unknown location. So far, this teleportation has only been seen to take knocked players outside of [Guild Bases](Guild_Bases.md), and ontop of the baseplate surrounding it.
 
-Also, more notably, Spookeree permanently has the distinct **Coral Fever** face from the 2023 April Fools update, thus having a slot named "[**Destroyman III**](Destroyman_III.md)". All of his slots have this.
+Also, more notably, Spookeree permanently has the distinct **Coral Fever** face from the 2023 April Fools update, thus having a slot named "**[Destroyman III](Destroyman_III.md)**". All of his slots have this.
 
 Furthermore, it appears that he has a spec that allows him to "spawn in" [Bandits](Bandit.md) at will, even in the Eastern Luminant, where [Bandits](Bandit_Leader.md) do not naturally spawn. Bandits spawned act as normal NPC's, and can grip, be gripped, and give EXP on death.
 

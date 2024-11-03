@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 119076
+revid: 119144
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -35,8 +35,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular cou
 Enchanted items cannot be dropped on death.
 
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.  
-    
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
 
 ## Variants
 
@@ -185,7 +184,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 4%, MED: 6.66%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Lose thirst equal to 20% of damage taken.<br>
-  Each sear stack approximately lasts 15-20 seconds</p></div></td>
+  Each sear stack approximately lasts 15–20 seconds</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -277,7 +276,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Take 2x blood damage from all sources when in the overworld.<br>
   When held in The Depth, lose 2 Sanity per second.<br>
   While held, losing all your Sanity result in an automatic death.<br>
-  <abbr><b>Some talents are disabled or reduced in efficiency.</b></abbr><br>
+  <abbr><b>Some Talents are disabled or reduced in efficiency.</b></abbr><br>
   <b>Viscosity is disabled with this enchant.</b><br>
   <b>Disabled in Arena.</b></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
@@ -366,7 +365,7 @@ Allure
 
  | 
 
-On proc, apply Charm on the enemy for 10s (5s against the talent "Disbelief"). All charm related Talent that the user have are applied.
+On proc, apply Charm on the enemy for 10s (5s against the Talent "Disbelief"). All charm related Talent that the user have are applied.
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS NPCS**
 

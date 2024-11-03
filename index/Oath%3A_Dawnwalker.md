@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 117822
+revid: 119147
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -76,7 +76,7 @@ Luminous Flash on proc
     -   Increases dawnwalker mantra damage by 30%
 -   **Luminous Flash** **\- Passive:** After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
     -   On proc, a basic attack will: Hit the maximum hardcap of damage (1.75x), dazes the target, and grants +45 tempo
-    -   CD of ~30-50 seconds.
+    -   CD of ~30–50 seconds.
     -   Has a small aura on proc.
     -   Despite having a definitive cooldown it is possible to activate multiple times in a row resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
     -   Proccing luminous flash will proc it on all entities hit by that hit
@@ -99,5 +99,5 @@ Luminous Flash on proc
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."
 -   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any oath, at 237. For all intents and purposes, this information should not affect your average progression as it is a functionally costless oath.
--   Dawnwalker was originally supposed to have a talent that made the user immune to all fall damage, this was, however, scrapped.
+-   Dawnwalker was originally supposed to have a Talent that made the user immune to all fall damage, this was, however, scrapped.
 -   Dawnwalker originally also had a mode bar which, when active, would give the user instant tp dashes, this was also scrapped.

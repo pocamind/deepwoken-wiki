@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 119070
+revid: 119141
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 Chaser, Scholar of the Crimson Contract is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
 
-He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of [Bloodrend](Bloodrend.md) by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
+He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of a [Bloodrend](Bloodrend.md)\-based Oath by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
 

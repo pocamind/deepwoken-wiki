@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 118611
+revid: 119159
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -440,7 +440,7 @@ _+Talent: Cauterized Wounds_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 | File:Static-assets-upload12843990363310254802.png | 
@@ -1996,7 +1996,7 @@ _+Talent: Kick Off_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -2447,7 +2447,7 @@ _+Talent: Defiant until the End_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
@@ -3983,7 +3983,7 @@ _+3% Elemental Armor_
 
 Found from:
 
--   Mob Drop from [Dread Serpent](Dread_Serpent.md) (**~20%**)
+-   Mob Drop from [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Canticlysm Pendant.png | 
@@ -4004,7 +4004,7 @@ _+3% Elemental Armor_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (**100%**)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -4029,7 +4029,7 @@ _+3% Physical Armor_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (**100%**)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -4156,7 +4156,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -4510,7 +4510,7 @@ _+Talent: Actions Speak Louder_
 
 Sources:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
@@ -5087,7 +5087,7 @@ _+2 Health_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (**100%**)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -5110,7 +5110,7 @@ _+5 Ether_
 
 Found from:
 
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (**100%**)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -5380,9 +5380,9 @@ Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
@@ -5543,7 +5543,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 

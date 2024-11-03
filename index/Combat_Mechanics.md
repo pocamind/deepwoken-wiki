@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 119026
+revid: 119156
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -428,7 +428,7 @@ Main article: [Status Effects](Status_Effects.md)
     <li>Blood Scourge</li>
     <li>Vampirism</li>
   </ul><p>Does not proc/work on people in the same guild as yours.</p>
-  <p><i>Sources are <a href="Mudskipper_Broodlord.md">mudskipper broodlord</a> and players with the talent “All the Dead Gods” or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
+  <p><i>Sources are <a href="Mudskipper_Broodlord.md">mudskipper broodlord</a> and players with the Talent “All the Dead Gods” or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
   <td></td>
 </tr>
 </tbody>
@@ -449,15 +449,15 @@ Main article: [Status Effects](Status_Effects.md)
 </tr>
 <tr>
   <th>Perfect Casting</th>
-  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. The only use of this feature is to interact with some talents. Though it might sound useless, certain talents can give massive bonuses. All talents that use perfect casting are listed here:
+  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. The only use of this feature is to interact with some Talents. Though it might sound useless, certain Talents can give massive bonuses. All Talents that use perfect casting are listed here:
   <ul>
     <li><i>Eureka</i> - Receive ether back on every successful <b>perfect cast</b>.</li>
     <li>Jolt Cast - Every <b>perfect casted</b> Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast.</li>
     <li>Haunted Gale - Every 3 hits landed by <b>perfectly casted</b> Galebreathe mantras will cause the target to be quickly struck by a phantom of wind.
   <ul>
-    <li>This talent is needed for Haunted Path: Specter, and is needed to activate the Apparitions talent.</li>
+    <li>This Talent is needed for Haunted Path: Specter, and is needed to activate the Apparitions Talent.</li>
   </ul></li>
-  </ul><p>Though outside of these talents, perfect casting is effectively useless.</p></td>
+  </ul><p>Though outside of these Talents, perfect casting is effectively useless.</p></td>
 </tr>
 </tbody>
 </table>

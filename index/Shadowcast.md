@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 119117
+revid: 119181
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -297,7 +297,7 @@ Shadow Assault
 
 ## **Talents**
 
-Below is a list of all Shadowcast exclusive talents and the Twisted Puppets path. Other hybrid talents are listed [here](Hybrid_Abilities.md#shadowcast).
+Below is a list of all Shadowcast exclusive Talents and the Twisted Puppets path. Other hybrid Talents are listed [here](Hybrid_Abilities.md#shadowcast).
 
 **Shadowcaster:**
 

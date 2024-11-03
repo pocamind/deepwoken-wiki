@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 115286
+revid: 119173
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Quests, The Ignition Union]
@@ -15,7 +15,7 @@ categories: [NPCs, Layer 2, Floor 1, Quests, The Ignition Union]
 
 ## Description
 
-Alpha is an old, Lion variant [Canor](Canor.md), wearing the [Union Initiate](Union_Initiate.md) outfit. He works for [The Ignition Union](The_Ignition_Union.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), seeming as the leader of the foward operating base for the Ignition Union. Looking at his wrinkles, he is assumed to be 50-59 years old, according to how [Aging](Age.md) works.
+Alpha is an old, Lion variant [Canor](Canor.md), wearing the [Union Initiate](Union_Initiate.md) outfit. He works for [The Ignition Union](The_Ignition_Union.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), seeming as the leader of the foward operating base for the Ignition Union. Looking at his wrinkles, he is assumed to be 50–59 years old, according to how [Aging](Age.md) works.
 
 He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy lost in the area. Doing this is needed for the [Arcwarder](Oath%253A_Arcwarder.md) oath, and it also gives you some positive Ignition Union rep. If the Generators are on when talking to him, he will give the [Union Hook](Talent_Quests.md) Talent and the [Delver Boots](Delver_Boots.md) recipe.
 
@@ -36,7 +36,7 @@ He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy
 <tr>
   <td colspan="6">This is a forward operating base for the Ignition Union. We wanted to get down here before those Divers.. This layer is ruled over by Ethiron and as you can tell, has constant storms. We think there might be a way to harness these storms for an infinite energy resource.</td>
   <td colspan="6">Recipe Discovered: Delver Boots.<br>
-  Union Hook talent unlocked<br>
+  Union Hook Talent unlocked<br>
   'A Canor always pays their debts'. The radio room on the other side of the base functions as a storage area, you can pick up a rappel system from there. You should be able to use those to maneuver some of the walls we have set up around the Shrine.</td>
 </tr>
 <tr>

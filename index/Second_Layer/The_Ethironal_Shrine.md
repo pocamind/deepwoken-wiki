@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 119032
+revid: 119160
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -36,7 +36,7 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 
 1.  Open the starting door via a glowing orb on the cliffs of the outskirts.
 2.  Turn on the Generator at the top of the tower near Pilgrim's Respite, this requires you to kill a weakened [Bone Keeper](../Bone_Keeper.md).
-    1.  **(OPTIONAL)** Gain the Union Hook talent by traversing the snow in Layer Two until you reach the [Frontier Furnace](../The_Frontier_Furnace.md) and talk to [Alpha](../Alpha.md). You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
+    1.  **(OPTIONAL)** Gain the Union Hook Talent by traversing the snow in Layer Two until you reach the [Frontier Furnace](../The_Frontier_Furnace.md) and talk to [Alpha](../Alpha.md). You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
 3.  Retrieve the Blue Spear within the depths of [Firfire Caverns](../Firfire_Caverns.md) (OPTIONAL AFTER THE FIRST RUN), and go to [Firfire](../Firfire.md)
 4.  Talk to Leader Erosius Wallistoshus, where he will then open the door to the [Nest Corridor](../Nest_Corridor.md). If you have a form of wall-clipping, you may skip talking to him.
     1.  **(OPTIONAL)** If you have talked to Llevyn, you may take the Deepdrill in order to abandon a run early within the Nest Corridor.
@@ -52,7 +52,7 @@ The Eternal Gale is full of threats towards the player, and thus, should be brie
 
 Upon exiting the outskirts and entering the shrine, the first thing noticed will be the thick fog around the player. While this can be negated [later](../Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md), it proves **no threat** aside from inhibiting the players vision within the shrine. There is no fog after exiting the Firfire cavern and approaching the Cathedral.
 
--   The fog may be **heavily reduced** via obtaining the **Ethiron's Gaze** talent from the main questline.
+-   The fog may be **heavily reduced** via obtaining the **Ethiron's Gaze** Talent from the main questline.
 
 ### Parasites
 
@@ -113,9 +113,9 @@ There are three different methods to escape the second layer, however all of whi
 
 ## Recommended Talents & Equipments
 
-Do note that this list is assuming that it is your **first few** delves within the Eternal Gale, as you get more experienced you may find yourself needing these talents less.
+Do note that this list is assuming that it is your **first few** delves within the Eternal Gale, as you get more experienced you may find yourself needing these Talents less.
 
--   **Carnivore** (5STR/5WLP): This talent is **required** in order to stay within the Gale, as it replenishes Thirst and Hunger on kill.
+-   **Carnivore** (5STR/5WLP): This Talent is **required** in order to stay within the Gale, as it replenishes Thirst and Hunger on kill.
 -   **Warriors Respite** (15FTD): Allows you to heal within the second layer without killing. As campfires/graceful is disabled, this is the only method to passively heal aside from Health Packs.
 -   **Surestep** ([Delver Boots](../Delver_Boots.md)) / **Brickwall** (100FTD/100WLP): Grants resistance to the wind, making you immune to the ragdoll of the winds.
 -   **Wormwarder** ([Wormwarder Lantern](../Wormwarder_Lantern.md)) / **Coldseep Reactor** ([Grand Fisher Helm](../Grand_Fisher_Helm.md)): Grants complete immunity to the parasites of the Eternal Gale.
@@ -148,7 +148,7 @@ It is important to note that **very few** good items drop from standard enemy lo
     1.  The **First** diver journal is in the [Nest Corridor](../Nest_Corridor.md), in a small cavern above a ledge lays a Divers corpse.
     2.  The **Second** diver journal is located within the snow near a union hook leading to the Pilgrim's Respite, guarded by carbuncles on a rock.
     3.  The **Third** diver journal is located near the exit of the Sanctuary Gatehouse, instead of going down the path, drop down and go left, a diver corpse should be waiting for you.
-2.  Gain the two talents "**Ethirons Gaze**" and "**Union Hook**".
+2.  Gain the two Talents "**Ethirons Gaze**" and "**Union Hook**".
 3.  Do the Galewax Secret.
 4.  Beat Chaser atleast once.
 5.  Then, talk to Klaris in order to receive your reward.
@@ -177,7 +177,7 @@ It is important to note that **very few** good items drop from standard enemy lo
 
 -   You must **not** have taken the Lighthook, along with this, you need atleast **75 [Flamecharm](../Flamecharm.md)**, and a **[Resonance](../Resonance.md)**.
 
-1.  Have **one** of the following requirements: Wearing [Flame Worshipper Armor](../Flame_Worshipper_Armor.md), or having the talent **Pleeksty's Will**, or the talent **Pleeksty's Faith**.
+1.  Have **one** of the following requirements: Wearing [Flame Worshipper Armor](../Flame_Worshipper_Armor.md), or having the Talent **Pleeksty's Will**, or the Talent **Pleeksty's Faith**.
 2.  Do Floor 1 as normal, until reaching [Firfire](../Firfire.md).
 3.  Head to a cliff behind Firfire, and approach the Orange Particles.
 4.  Jump onto the small ledge, and do light parkour.

@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 114790
+revid: 119153
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords]
@@ -37,7 +37,7 @@ For the **grounded** critical, the user braces themselves in a wind-up stance em
 
 For the **airborne** critical, the user hovers and raises their weapon overhead before unleashing a diagonal downwards slash, dealing high damage, short knockdown, and applying Burn.
 
-The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & talents such as Azure Flames. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
+The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & Talents such as Azure Flames. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
 
 ## Trivia
 
@@ -48,7 +48,7 @@ The flames emitted by both Critical Attacks will proc Burn and any applicable Fl
     -   They took inspiration from Nagoriyuki's sword from _Guilty Gear -Strive-_ and Jetstream Sam's Murasama high-frequency blade from _Metal Gear Rising: Revengeance_.[\[1\]](#cite-note-railorigin-1)
 -   This weapon's running attack does not deal knockback to hit enemies, as other similar heavy weapons do.
 -   The Railblade resembles the make of an Ōdachi or Nodachi, a great-katana from Japan.
--   The Railblade was originally intended to be a [Thundercall](Thundercall.md) Elemental Legendary weapon, hence the name Railblade (as railguns utilise electricity also had a thundering glow), was also supposed to be an Authority owned weapon instead of Ignition Union, but was changed prior to release due to not fitting the whole theme of the layer. [\[1\]](#cite-note-railorigin-1) [\[2\]](#cite-note-2)
+-   The Railblade was originally intended to be a [Thundercall](Thundercall.md) Elemental Legendary weapon, hence the name Railblade (as railguns utilise electricity also had a thundering glow), was also supposed to be an Authority owned weapon instead of Ignition Union, but was changed prior to release due to not fitting the whole theme of the layer.[\[1\]](#cite-note-railorigin-1)[\[2\]](#cite-note-2)
 -   This weapon can only be used in the one-handed stance, allowing access to offhand guns, daggers, and shields.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
 -   Previously, Railblades dropping from Chaser were equivalent in rarity to items such as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) dropping in the [First Layer](First_Layer.md).

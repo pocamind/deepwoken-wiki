@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 115437
+revid: 119129
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -207,6 +207,15 @@ _"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a talen
 -   _Metal itself is my shield, whichever form it may take. **(Metallurgist)** (Intuitive Repairs, Metal Absorption, Metal Eater, Metal Thief, Polished Armor)_
 -   _I seek the qualities of Scrapsinger. **(Scrapsinger)** (Gilded Path: Scrapsinger - Refine and Reuse, Artisan's Blade, Songs Unforged, Masterwork, Reshape and Remold)_
 -   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal)** (Exposed Durability) **(Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
+
+### [Bloodrend](Bloodrend.md)
+
+-   _I obtained the forbidden knowledge of Bloodrending. **(Bloodrender)** (First Blood, Crimson Fountain, Sanguine Siphon, Sheltering Grasp) (**Note; Cannot give Hemorrhaging Blow, Rush Hour)**_
+-   _The scent of my enemy is still fresh. **(Bloodhound)** (Bloodwarden's Sense) **(Note; Cannot give Smell of Blood)**_
+-   _I wish to share my blood with the world. **(Scarlet Donor)** (Blood Bank, Donation Drive, Sharing is Caring)_
+-   _I have sewn insidious poison within my enemy's blood. **(Septicemia)** (Hemolysis, Hemolytic Transfusion, Juicy Snack, Tainted Ground, Vasculitis, Can give: Gruesome Harvest) **(Note; Cannot give Panacea)**_
+-   _I use my blood's plasma to better defend myself. **(Transitory Vitality)** (Cyclical Exsanguination, Embolism, Hypovolemic Focus) **(Note; Cannot give Sow and Mend - needed for this tree to appear)**_
+-   _My cure is most effective. **(Quack Doctor)** (Blood Bag, Just a Taste, Open Wound) **(Not; Cannot give Blood Transfusion)**_
 
 ### Dual Attunement
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 117751
+revid: 119152
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -29,7 +29,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
  | 
 
 -   [Second Layer](Second_Layer.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
@@ -52,7 +52,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
  | 
 
 -   [Second Layer](Second_Layer.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
@@ -109,7 +109,7 @@ File:Sinner's Ash.png
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Fishing](Fishing.md)
@@ -131,7 +131,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
@@ -205,7 +205,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 
  | 
 
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
@@ -231,7 +231,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 
 File:Image 2024-09-28 125352958.png
 
- | **[Whistling Periapt](Whistling_Periapt.md)** - A pendant that grants the talent "Whistleguard" which summons a shield of gale similar to Duke's to automatically parry a single attack for you after you have landed 3 consecutive hits (5 for light weapons) on your opponent.
+ | **[Whistling Periapt](Whistling_Periapt.md)** - A pendant that grants the Talent "Whistleguard" which summons a shield of gale similar to Duke's to automatically parry a single attack for you after you have landed 3 consecutive hits (5 for light weapons) on your opponent.
 
   
 This has a 6 second cooldown and charges cannot be stacked.

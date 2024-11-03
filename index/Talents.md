@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119103
+revid: 119133
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -406,7 +406,10 @@ These Talents are designed to make defensive gameplay easier by improving your d
   
 
 -   _All-Seeing Eye \[Unlockable Talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
-    -   Prerequisites: Save 4 Pathfinders from the depths without the help of other oath users.
+
+-   Prerequisites: 40 willpower and to wear a blindfold, then go to the temple of forgotten flames
+
+-   Leveling: Save 4 Pathfinders from the depths without the help of other oath users.
 
 ### Beast Slayer
 

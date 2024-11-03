@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 116516
+revid: 119174
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Chaser, Hell Mode, Merchant Ship, Duke Erisia, Maestro Evengarde Rest, Primadon |
+| obtainment | Chests from:, Chaser, Scholar of the Crimson Contract, Hell Mode, Merchant Ship, Duke Erisia, Maestro Evengarde Rest, Primadon |
 | description | "An intricately bejewelled pendant, traditionally worn by academics and prestigious of the Lullaby Isles. Though you'll never really know its real symbolism, one can only assume it was some form of sacred item, something to be revered. It's surprisingly heavy, must've been annoyingly impractical. Who knows how it got into your hands." |
 
 ## Description
