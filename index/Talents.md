@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119186
+revid: 119252
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -462,12 +462,17 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 10 Bloodrend
 
 -   _Hemorrhaging Blow_ \[Rare Talent\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)
+    -   The damage to healing conversion is 1:1.
+    -   It only affects self-healing, so attempting to heal them after a block break will just heal them.
+    -   This works on healing outside of combat.
     -   Prerequisite: 95 Bloodrend, Master Bloodrender
 
 -   Master Bloodrender \[Common Talent\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
     -   Obtained at 50 Bloodrend.
 
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
+    -   Gives you a tool that passively drains your blood and health for these buffs. Rush Hour can be deactivated at any time by using the tool again.
+    -   While buffed, you regenerate blood m1.
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.

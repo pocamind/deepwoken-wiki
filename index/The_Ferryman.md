@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 119059
+revid: 119258
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -30,7 +30,7 @@ According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged
 1.  Find the [Boatman's Watch](<Boatman's_Watch.md>), and within the middle, find the ritual circle.
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
 3.  Place a campfire on each circle outside the center, (up to a total of **4** campfires).
-4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing _P._**
+4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing B_._**
 5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
 6.  The Ferryman will spawn in the middle. Talk with him and initate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
@@ -211,8 +211,7 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage by 10%.
 -   [**Ferryman's Coat**](<Ferryman's_Coat.md>) - A Schematic to create the coat worn by the Ferryman himself, grants high Lightning Resistance and a unique talent that converts elemental damage into Lightning damage.
 -   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
--   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon their first usage, and +50 on subsequent uses.
--   ~**[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - An incredibly rare drop that allows the user to redeem a Yun'Shul wish~ (may have been completely removed from his lootpool; in over 500 Ferrymen, not a single chest has dropped it. Please feel free to delete this extra message if you have proof otherwise, but until then Ferryman does NOT drop idols)
+-   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon their first usage, and +50 on subsequent uses.
 -   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119248
+revid: 119257
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -162,6 +162,7 @@ Ether
  | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak.
 
 -   Damage and posture scales based on the duration charged.
+-   There is a bug where this Mantra cannot be leveled up.
 
  |
 | 
@@ -344,7 +345,7 @@ File:Bloodrend.icon.png
  | 
 
 Expert Bloodrender  
-(BLOOD 30)
+(30 Bloodrend)
 
  | 
 
@@ -424,7 +425,7 @@ Block breaking your opponent with a blood mantra turns your opponent's combat he
 
  | 
 
-The damage to healing conversion is 1:1. For instance, instead of healing 20 health, you'll take 20 damage. This only affects self-healing; if you heal them after a guard break, it will heal them instead of dealing damage. This also affects healing outside of combat.
+The damage to healing conversion is 1:1. This only affects self-healing; if you heal them after a guard break, it will heal them instead of dealing damage. This also affects healing outside of combat.
 
  |
 | 
@@ -442,7 +443,7 @@ Stab yourself to become stronger, faster, and deal increased blood bar damage.
 
  | 
 
-N/A
+Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood m1. Rush Hour can be deactivated at any time by using the tool again.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 119233
+revid: 119259
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Spelltrainers]
@@ -184,7 +184,11 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
 ## Trivia
 
 -   Vyrelda's racial variant appears to be the 'Mamba' variant of an Etrean, with deep red scleras instead of the faint yellow. She is also wearing a new unknown outfit.
--   Her hair IDs are the following: 13558390420 - Hairbun 13154889638 - Straight Hair 13083247867 - Loose Straight Hair 86873452756994 - Accessories
+-   Her hair IDs are the following:
+    -   Hairbun - `13558390420`
+    -   Straight Hair - `13154889638`
+    -   Loose Straight Hair - `13083247867`
+    -   Accessories - `86873452756994`
 -   She does not attack the player if they're a [Silentheart](Oath%253A_Silentheart.md), instead just ignoring them.
     -   This will probably change in the future, and it is speculated that she'll use either the [Flareblood Kamas](Flareblood_Kamas.md) or the [Bloodtide Trident](Bloodtide_Trident.md).
     -   [Adar, Master of Metal](Adar,_Master_of_Metal.md) also had this happen to him.

@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 112471
+revid: 119255
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -44,7 +44,7 @@ If Teleportation is Drowned, you'll receive preset waypoints depending on the Lu
 
 Normal Waypoints will be colored yellow as usual. Preset waypoints will not cut into your own custom waypoint capacity, allowing you to have # number of custom waypoints coexisting with the preset waypoints of your Luminant. If you're next to a preset, holding C will allow you to go to a point you made.
 
-In the Etrean Lumiannt, you are given permanent preset waypoints at the following locations:
+In the Etrean Luminant, you are given permanent preset waypoints at the following locations:
 
 -   [Lower Erisia](Lower_Erisia.md), at the main entrance
 -   [Temple Approach](Temple_Approach.md), at [Isle of Vigils](Isle_of_Vigils.md)
