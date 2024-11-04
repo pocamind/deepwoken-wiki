@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 118490
+revid: 119184
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -87,3 +87,8 @@ Block: ◯
 Dodge: ◯  
 
  |  |
+
+## Trivia
+
+-   Burning the agent to death will cause nothing to drop, instead after four sorry seconds you will be sent back.
+-   Strangely enough, burning the agent with twisted puppets causes him to get up, supposedly with half his health back, like how Phoenix Flames works.

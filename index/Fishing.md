@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 115379
+revid: 119218
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -158,7 +158,7 @@ File:Fishing Talents.png
 | Name | Description | Effects | Image |
 | --- | --- | --- | --- |
 | Fisher's Lure | Fish are drawn to your line more quickly. | N/A |  |
-| Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose. | +4 Carry Load |  |
+| Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose. | +4 [Carry Load](Carry_Load.md) |  |
 | Proficient Baiting | Casting your line excites ocean life, reducing the chances of fishing up trash. | N/A |  |
 
 ## Bait

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119178
+revid: 119202
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links, Attunement]
 
 # Bloodrend
 
-File:Bloodrend.icon.png
+File:BloodrendIcon2.png
 
 Bloodrend Icon
 
 Bloodrend is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
-Bloodrenders have access to abilities that counter sustain against enemies, and use sustain themselves. It excels in long fights, it's power ramping up as the fight goes on due to the benefits gained from Blood Poison and Blood Drain against enemies.
+Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter sustain, and use sustain for themselves.
 
 ## Obtainment & Training
 
@@ -107,7 +107,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (★☆☆)
 
- | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing AoE damage and applying knockdown. (needs confirmation)
+ | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing AoE damage and applying knockdown.
 
 -   Leaves behind a Blood Pool.
 
@@ -855,11 +855,19 @@ N/A
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
 -   Few things bypass temporary health. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) bell downside.
+-   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
+    -   20% - Vasculitis is Activatable
+    -   25% - Hemolysis is Activatable
+    -   40% - Enemies are under 50% Anti-Heal
+    -   50% - Enemies have their damage reduced by ≈30%
+    -   60% - Bloodwarden's Sense is Activatable
+    -   70% - Gruesome Harvest is Activatable
 
-## References
+**References**
 
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
 -   Blooded could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
 -   Crucifixion is a reference to Klaus from Blood Blockade Battlefront; confirmed by a tester.
+-   Vein Tendrils is a possible reference to the Quirk 'Black Whip' in My Hero Academia

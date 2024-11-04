@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 116614
+revid: 119189
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -111,4 +111,4 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   The Blindseer eye is a repeated symbol throughout the game.
     -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer
-    -   Unparryable attacks of [monsters](Monsters.md) (and [Ice Eruption](Frostdraw.md) and [Stoneheart's](Stoneheart.md) critial attack) are accompanied by a red blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab)
+    -   Unparryable attacks of [monsters](Monsters.md), weapons, and mantras are accompanied by a red Blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab and megalodaunt kick)

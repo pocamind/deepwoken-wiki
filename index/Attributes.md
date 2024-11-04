@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 118458
+revid: 119217
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -40,7 +40,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 ### Strength
 
 -   Physical strength. _Increases **carry load**, **armor penetration**, and the **damage scaling of strength mantras**._
-    -   Increases carry load by 1 per point in Strength.
+    -   Increases [carry load](Carry_Load.md) by 1 per point in Strength.
     -   For every point in strength, gain 0.1% melee and mantra penetration.
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
 -   Unlocks Strength-related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).

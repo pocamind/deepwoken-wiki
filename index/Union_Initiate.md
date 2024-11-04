@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 118389
+revid: 119213
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -18,13 +18,14 @@ This Outfit has no cost and no material cost.
 
 This Outfit has no [Attribute](Attributes.md) requirement, and is given with the [Ignition Delver](Origins.md) origin.
 
-it's 10+ Carry load allows union frashies to carry a little more when in the dungeon.
+it's +10 [carry load](Carry_Load.md) allows union freshies to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md).
 
 ## Location
 
 This Outfit's Schematic can be found in:
 
--   Depths Chest
+-   [Scyphozia](First_Layer.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
 ## Trivia
 

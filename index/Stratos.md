@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 114535
+revid: 119208
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -18,7 +18,7 @@ Template:NPC name
 
 To complete the quest, you need to sail for ≈15 minutes total in sea highways\*. This quest cannot be progressed on an Ironclad, as it lacks sails.
 
-**Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md), minimum 50 points invested.** You can complete the quest, just without reward.
+**Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md), minimum 50 points invested, also you need to have "Friend" reputation with Etrea.** You can complete the quest, just without reward.
 
 ### The Reward
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119133
+revid: 119186
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -486,7 +486,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Brain Death \[Common Talent\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
--   Cold Blooded \[Common Talent\] - Chilled enemies passively lose blod, alternatively take blood from enemies when their crystals explode.
+-   Cold Blooded \[Common Talent\] - Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode.
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
 -   Electrolyte \[Common Talent\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
@@ -2244,7 +2244,7 @@ _**"My cure is most effective."**_
 -   Hemolytic Transfusion \[Common Talent\] - Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.
     -   Prerequisite: 65 Bloodrend
 
--   Juicy Snack \[Common Talent\] - Eliminating enmmies returns their amount of blood poison as health to you.
+-   Juicy Snack \[Common Talent\] - Eliminating enemies returns their amount of blood poison as health to you.
     -   Prerequisites: 60 Bloodrend, 20 Fortitude
 
 -   _Panacea_ \[Rare Talent\] - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.
