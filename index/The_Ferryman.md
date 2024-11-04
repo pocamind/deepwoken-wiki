@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 119258
+revid: 119272
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -25,12 +25,12 @@ According to the stories of old, the Ferryman is a benevolent individual who bes
 
 According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged up from the "dregs of the dregs." He was mistreated by the people of the surface and returns the favor by tormenting them.
 
-#### Summoning The Ferryman
+### Summoning The Ferryman
 
 1.  Find the [Boatman's Watch](<Boatman's_Watch.md>), and within the middle, find the ritual circle.
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
 3.  Place a campfire on each circle outside the center, (up to a total of **4** campfires).
-4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing B_._**
+4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing B.**
 5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
 6.  The Ferryman will spawn in the middle. Talk with him and initate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
@@ -45,7 +45,8 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 | --- | --- | --- |
 | 
 **Displacement**  
-(★☆☆)(★☆☆)
+(★☆☆)  
+(★☆☆)
 
  | The Ferryman teleports to one of 6 pre-determined spots within the battlefield, along with un-stunning him and allowing him to use another move. This move is only done if you choose to be close to him when your attack opportunity ends. He cannot teleport close to you, and if he does so, will teleport again.
 
@@ -71,7 +72,8 @@ Dodgeable:◯
 | 
 
 **Lightning Strike**  
-(★☆☆)(★★☆)
+(★☆☆)  
+(★★☆)
 
  | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing high damage and an incredibly long stun to anybody hit.
 
@@ -88,7 +90,8 @@ Dodgeable:◯
 | 
 
 **Lightning Assault**  
-(★★☆)(★★★)
+(★★☆)  
+(★★★)
 
  | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 
@@ -121,7 +124,8 @@ Dodgeable:◯
 | 
 
 **Vent**  
-(★☆☆)(★☆☆)
+(★☆☆)  
+(★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
 
@@ -187,7 +191,11 @@ Phase Two is when the fight ironically is easier than the first phase if you hav
 -   While his **Grand Volley** is the most feared move within his arsenal, in solo runs it can be disregarded as a "free-heal" move, only ever being dangerous in multiplayer runs as Javelins are fired towards all players within the arena. It can be avoided by moving to either the right or the left, or even parried. A incredibly loud sound cue is played when he chooses to use this attack, and is more of a time-waster than an actual attack due to it's lack of attack opportunity.
     
 
-As with all the other boss-fights within Deepwoken, the Ferryman is more of a knowledge and parry check rather than a stat-check. It is highly recommended to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) rather than go in a group due to how his scaling works. The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and, and must instead wait for Your Turn to attack him.
+### Tips
+
+As with all the other boss-fights within Deepwoken, the Ferryman is more of a knowledge and parry check rather than a stat-check. It is highly recommended to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) rather than go in a group due to how his scaling works.
+
+The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and, and must instead wait for Your Turn to attack him.
 
 ## Rewards
 
@@ -218,57 +226,91 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 
 ## Dialogue
 
+**Introduction:**
+
+This is Ferryman's dialogue when he's neutral, before you fight him. Text is not Violet in game.
+
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>Player's first interaction</td>
-  <td>Returning to The Ferryman for another dance</td>
-  <td>Post-fight, after first defeat, in <font>Spring</font> or <font>Summer</font> or any defeats in <font>Autumn</font> or <font>Winter</font></td>
-  <td>Post-fight, after multiple defeats, in <font>Spring</font> or <font>Summer</font></td>
+  <td colspan="6">The First time meeting The Ferryman on a slot</td>
+  <td colspan="6">Returning to The Ferryman after having already fought him once</td>
 </tr>
 <tr>
-  <td>*<i>He yawns deeply.*</i> <font><b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font></td>
-  <td><font><b>Oh, back again? Heh, how about another wager?</b></font></td>
-  <td><font><b>Well done, well done!</b></font></td>
-  <td><font><b>Well done, well done!</b></font></td>
+  <td colspan="6">*<i>He yawns deeply.*</i> <font><b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font><br>
+  </td>
+  <td colspan="6"><font><b>Oh, back again? Heh, how about another wager?</b></font><br>
+  </td>
 </tr>
 <tr>
-  <td>Who are you?</td>
-  <td>Deal.</td>
-  <td>Who are you?</td>
-  <td>Who are you?</td>
+  <td colspan="6">Who are you?</td>
+  <td colspan="6">Deal.</td>
 </tr>
 <tr>
-  <td><font><b>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.</b></font></td>
-  <td>*Fight Begins*</td>
-  <td><font><b>Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</b></font></td>
-  <td><font><b>Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</b></font></td>
+  <td colspan="6"><font><b>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.</b></font><br>
+  </td>
+  <td colspan="6">End, Fight Begins</td>
 </tr>
 <tr>
-  <td>[Tell him your name]</td>
-  <td rowspan="6"></td>
-  <td rowspan="6"></td>
-  <td>So, what are you?</td>
+  <td colspan="6">[Tell him your name]</td>
 </tr>
 <tr>
-  <td><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font></td>
-  <td><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
+  <td colspan="6"><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font><br>
+  </td>
 </tr>
 <tr>
-  <td>A wager?</td>
-  <td rowspan="4"></td>
+  <td colspan="6">A wager?</td>
 </tr>
 <tr>
-  <td><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font></td>
+  <td colspan="6"><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font><br>
+  </td>
 </tr>
 <tr>
-  <td>Deal.</td>
+  <td colspan="6">Deal.</td>
 </tr>
 <tr>
-  <td>*Fight Begins*</td>
+  <td colspan="6">End, Fight Begins</td>
+</tr>
+</tbody>
+</table>
+
+**After Fight Finishes:**
+
+This is Ferryman's dialogue when he's defeated, after you fight him. There is no dubbing for this in game. Text is not Violet in game.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font></td>
+  <td colspan="6">Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font></td>
+</tr>
+<tr>
+  <td colspan="6"><font><b>Well done, well done!</b></font></td>
+  <td colspan="6"><font><b>Well done, well done!</b></font></td>
+</tr>
+<tr>
+  <td colspan="6">Who are you?</td>
+  <td colspan="6">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="6"><font><b>Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</b></font></td>
+  <td colspan="6"><font><b>Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</b></font></td>
+</tr>
+<tr>
+  <td colspan="6">So, what are you?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6"><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>

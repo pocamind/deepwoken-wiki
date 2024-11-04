@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 118448
+revid: 119284
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -24,13 +24,13 @@ The vast majority non-humanoid monsters encountered in-game have hyper armor, me
 
 In **Scyphozia**, monsters have differences from their Overworld counterparts, ranging from small effects to gigantic differences in how they fight, their danger level, and how they must be dealt with.
 
--   No longer attack each other based on species, instead completely focusing on players.
--   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players. [Megalodaunts](Megalodaunt.md) especially benefit from this, as their jump is already high to begin with.
--   Being much more aware, noticing players from further away, or even behind them in certain cases.
--   Gaining new behaviors/abilities, such as Lionfish Cero.
--   Becoming much more persistent in chasing, almost never stopping their pursuit until the death of themselves or their target. (Keep in mind that it is easier to run away in the depths, as the area is far more open and has more crevices to hide in)
+-   No longer attack each other based on species, instead **completely focusing** on players.
+-   Benefiting from the lower gravity of The Depths, being able to **jump much higher** to pursue players. [**Megalodaunts**](Megalodaunt.md) especially benefit from this, as their jump is already high to begin with.
+-   Being **much more aware**, noticing players from further away, or even behind them in **certain** cases.
+-   Gaining **new behaviors/abilities**, such as Lionfish Cero.
+-   Becoming **much more persistent in chasing,** almost never stopping their pursuit until the death of themselves or their target. Depending on your position in the depths, you might have an easier chance of escaping, or a life or death situation.
 
-Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having two and a half times the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigamed](King_Gigamed.md) can be mistaken as not being corrupted. Ringing one of the Corrupted Bells in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
+Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having two and a half times the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigamed](King_Gigamed.md) can be mistaken as not being corrupted. Ringing one of the 'Corrupted Bells' (black colored bells) in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
 
 ### Attuned Monsters
 
@@ -44,7 +44,7 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 -   Thunderstruck - Applies Electrified on hit. Weak to Frostdraw, resists Thundercall
 -   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
 
-Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be Attuned.
+Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be Attuned, albeit, very rarely.
 
 Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Fury Nautilodaunts](Fury_Nautilodaunt.md) or [Crimson Megalodaunts](Crimson_Megalodaunt.md). In these cases, they are only able to become attuned with that type of Attunement effect.
 
@@ -118,15 +118,15 @@ Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) 
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it, it _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving you more time to dodge. The only way to parry them is using [Hunters Brace](<Hunter's_Brace.md>) (not reccomended as they are only found at Summer Isle or rarely in merchant ships, and it disappears if you die, leave the server, or enter a new luminant/the depths), the [Grand Fisher Plate](Grand_Fisher_Plate.md), or the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
--   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the [Megalodaunt](Megalodaunt.md)'s long-range coral spear. If you absolutely have to run, be smart about it. Abuse buildings and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
+-   **If an attack has a red aura/effect to it and a sharp sound effect, the attack _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving you more time to dodge. The only way to parry them is using [Hunters Brace](<Hunter's_Brace.md>) (not reccomended as they are only found at Summer Isle or rarely in merchant ships, and it disappears if you die, leave the server, or enter a new luminant/the depths), the [Grand Fisher Plate](Grand_Fisher_Plate.md), or the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
+-   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the [Megalodaunt](Megalodaunt.md)'s long-range coral spear, which slows you down when hit. If you absolutely have to run, be smart about it. Abuse buildings or terrain and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
 -   **Practice makes perfect.** Try and fight Monsters in situations where you have little to no risk of dying, such as the Megalodaunt cave ([https://www.youtube.com/watch?v=WZD9Akn0gjM](https://www.youtube.com/watch?v=WZD9Akn0gjM)). Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
     -   Potions
     -   Status/Elemental Effects
     -   Flinging
     -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) crit or Jolt Grab)
--   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, metal enchant don't). When armor bar is empty, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
+-   **Most monsters can be staggered.** While humanoid NPCs can be posture broken, most monsters can be Staggered (on rare occasion, some can both be Staggered and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, metal enchant doesn't). When armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
 -   **All monsters have 25% physical armor and in some cases up to 50%. However humanoids dont have any armor and tanky by their hp. (Info from Arch\_Mage)**
 
 ## PVE Scaling

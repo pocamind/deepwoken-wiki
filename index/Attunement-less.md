@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 117725
+revid: 119274
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -273,7 +273,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
  | _An adrenaline rush of mobility._ | 
 
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
-    -   Increases movement speed and parkour abilities
+    -   Increases movement speed.
     -   Procs the "Speed Demon" Talent.
     -   This Mantra can be further viable by using the Talent "Action Surge" which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
     -   Upgrading reduces cooldown.
