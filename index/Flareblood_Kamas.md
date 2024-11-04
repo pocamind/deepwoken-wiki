@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 119126
+revid: 119227
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -51,4 +51,3 @@ The critical has a cooldown of eight seconds.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blades](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.
 -   The Flareblood Kamas were the first weapon to be exclusive to a single source.
--   Despite the name and lore, the Flareblood Kamas do not require (or gain anything from) [Bloodrend](Bloodrend.md).

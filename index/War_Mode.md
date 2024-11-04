@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 118378
+revid: 119245
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Eastern Luminant, Mechanics]
@@ -64,7 +64,9 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Dawnshot](Dawnshot.md)
 -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
 -   [Pernach](Pernach.md)
+-   [Razor Cutlass](Razor_Cutlass.md)
 -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
+-   [Shattered Katana](Shattered_Katana.md)
 -   [The Path's Defender](<The_Path's_Defender.md>)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 -   TBA
@@ -82,22 +84,27 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Dark Owl Cape](Dark_Owl_Cape.md)
 -   [Dazed Band](Dazed_Band.md)
 -   [Deepwoken Cloak](Deepwoken_Cloak.md)
+-   [Feathertop Helm](Feathertop_Helm.md)
 -   [Fur Boots](Fur_Boots.md)
 -   [Fur Pauldrons](Fur_Pauldrons.md)
 -   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
 -   [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)
 -   [Headband](Headband.md)
 -   [Imperial Boots](Imperial_Boots.md)
+-   [Investigator's Hat](<Investigator's_Hat.md>)
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 -   [Isshin's Ring](<Isshin's_Ring.md>)
 -   [Khan Boots](Legion_Boots.md)
+-   [Khan Pauldrons](Legion_Pauldrons.md)
 -   [Light Eater Ring](Light_Eater_Ring.md)
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)
+-   [Novice Boots](Novice_Boots.md)
 -   [Old Blood Earrings](Old_Blood_Earrings.md)
 -   [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
 -   [Providence Coat](Providence_Coat.md)
 -   [Sandrunner Wraps](Sandrunner_Wraps.md)
 -   [Star Duster](Star_Duster.md)
+-   [Star Boots](Star_Boots.md)
 -   [Ring of Pestilence](Ring_of_Pestilence.md)
 -   [Tracker's Boots](<Tracker's_Boots.md>)
 -   [Tracker's Brace](<Tracker's_Brace.md>)
@@ -140,6 +147,7 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Finisher's Ring](<Finisher's_Ring.md>)
 -   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
 -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
+-   [Imperial Pauldrons](Imperial_Pauldrons.md)
 -   [Khan Helmet](Legion_Helmet.md)
 -   [Maestro's Ring](<Maestro's_Ring.md>)
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)
@@ -157,9 +165,9 @@ The Warchest is a collective point pool and emcompass the total score generated 
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Void Spire](Void_Spire.md)
 -   [Rain Spire](Rain_Spire.md)
--   All [Enchant Stone](Enchant_Stone.md)
--   All [Enchant Grease](Enchant_Grease.md)
--   All [Deep Gems](Mantra_Modifiers.md)
+-   [Enchant Stone](Enchant_Stone.md)
+-   [Enchant Grease](Enchant_Grease.md)
+-   [Deep Gems](Mantra_Modifiers.md)
 -   TBA
 
  | 

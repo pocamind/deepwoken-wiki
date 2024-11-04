@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 119113
+revid: 119226
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -656,7 +656,7 @@ An application of Pleeksty's concept of the inner flame, also known as the soul 
 
  | 
 
-Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown. Can be used while you're knocked to incinerate yourself.
+Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate.
 
  |
 
@@ -1314,6 +1314,8 @@ Sacrifice puppets who have been alive for half of their lifetime and burn purple
 Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost for 6 seconds, and 1 Emperor Flame Stack per puppet sacrificed.
 
  |
+
+  
 
 ## Trivia
 

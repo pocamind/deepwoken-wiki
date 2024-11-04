@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119202
+revid: 119248
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,7 +14,7 @@ Bloodrend Icon
 
 Bloodrend is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
-Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter sustain, and use sustain for themselves.
+Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. One major flaw Bloodrend suffers from is its focus on single-target combat, as blood poison decays, making it hard to achieve high percentages of BP against multiple enemies.
 
 ## Obtainment & Training
 
@@ -110,6 +110,8 @@ Bloodrend currently has a total of 17 mantras.
  | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing AoE damage and applying knockdown.
 
 -   Leaves behind a Blood Pool.
+-   Knockdowns the enemy on hit.
+-   Deals a considerable amount damage.
 
  |
 | 
@@ -121,6 +123,7 @@ Bloodrend currently has a total of 17 mantras.
  | Create stakes of blood. | 25 Ether | N/A | Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user.
 
 -   Leaves behind a Blood Pool.
+-   Deals moderate damage (atleast a single stake).
 
  |
 | 
@@ -133,7 +136,11 @@ Bloodrend currently has a total of 17 mantras.
 
 Ether
 
- | N/A | Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way. |
+ | N/A | Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way.
+
+-   Deals light damage.
+
+ |
 | 
 
  | Scarlet Cannon
@@ -143,6 +150,7 @@ Ether
  | Create a giant blood beam. | N/A Ether | N/A | Jump into the air before blasting a continuous beam of blood at a nearby target.
 
 -   Beam locks onto target for the entire duration of the mantra.
+-   If hit for the whole duration, it deals decent damage.
 
  |
 | 
@@ -164,6 +172,8 @@ Ether
 
  | Grab and siphon blood out of your victim. | 50 Ether | N/A | Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood.
 
+-   Deals moderate damage.
+
 File:Soulflare.gif
 
 When no target is hit
@@ -175,7 +185,11 @@ When no target is hit
 
 (★★☆)
 
- | Create weapons on your arms and dash through. | 25 Ether | N/A | Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack. |
+ | Create weapons on your arms and dash through. | 25 Ether | N/A | Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack.
+
+-   Deals a considerable amount damage if both hits land (The first hit does most of the damage).
+
+ |
 | 
 
  | Crimson Rain
@@ -186,6 +200,7 @@ When no target is hit
 
 -   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 5.
 -   Can be modified with a Multiplying Spark, making \[\].
+-   (At max lvl) Deals a considerable amount damage, and deals (approximately) the same damage on return.
 
  |
 | 
@@ -194,14 +209,22 @@ When no target is hit
 
 (★★☆)
 
- | Slash upwards and launch slashes of blood. | 30 Ether | N/A | Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground. |
+ | Slash upwards and launch slashes of blood. | 30 Ether | N/A | Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground.
+
+-   Deals moderate damage.
+
+ |
 | 
 
  | Bloodtide Ritual
 
 (★★★)
 
- | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped of a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage. |
+ | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped of a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage.
+
+-   (If all hits land) It deals heavy damage.
+
+ |
 | 
 
  | Bloodcurdle
@@ -215,6 +238,7 @@ Ether
  | N/A | Perform a gesture that causes a nearby target to explode continuously with blood.
 
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
+-   Deals a considerable amount of damage.
 
  |
 
@@ -229,8 +253,10 @@ Ether
 
  | Create or jump into a pool of blood. | 35 Ether | N/A | Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage.
 
--   Leaves behind a Blood Pool.
--   Mantra is similar to that of Beast Burrow and Shade Step.
+-   Leaves behind a Blood Pool
+-   Mantra is similar to that of Beast Burrow and Shade Step
+-   While this mantra is active, you can **reload** your gun (1H) inside it
+-   This mantra has a shorter windup if used while user is standing on a Blood Pool
 
  |
 | 
@@ -242,6 +268,7 @@ Ether
  | Create tendrils of blood. | 40 Ether | N/A | Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage.
 
 -   Leveling up this mantra will increase its range.
+-   Deals moderate damage (Does most of the damage on the second hit, the dropkick).
 
  |
 
@@ -397,7 +424,7 @@ Block breaking your opponent with a blood mantra turns your opponent's combat he
 
  | 
 
-The damage to healing conversion is 1:1. For instance, if you would've healed 20 health you'll take 20 damage instead. This also affects healing outside of combat.
+The damage to healing conversion is 1:1. For instance, instead of healing 20 health, you'll take 20 damage. This only affects self-healing; if you heal them after a guard break, it will heal them instead of dealing damage. This also affects healing outside of combat.
 
  |
 | 
@@ -519,7 +546,7 @@ Consuming 'Charm' now gives slight temporary health.
 
  | 
 
-Consuming Charm via Manipulator or Donation drive gives temporary health. Temporary health acts like a second health bar and takes damage before your normal one does.
+Consuming Charm via Manipulator or Donation drive gives temporary health.
 
  |
 | 
@@ -580,7 +607,7 @@ Landing Bloodrend mantras on opponents with over 70% blood poison will give you 
 
  | 
 
-2s CD. Gain 3-5% of your current health as temporary health; temporary health acts like a second health bar and takes damage before your normal one does. Temporary health gain from this Talent does does not scale with the damage dealt by the mantra that procced it.
+2s CD. Gain 3-5% of your current health as temporary health. Temporary health gain from this Talent does does not scale with the damage dealt by the mantra that procced it.
 
  |
 | 
@@ -713,7 +740,7 @@ Sacrifice 15% of your blood for temporary health.
 
  | 
 
-Sacrifice 15% of your blood to gain ~5% of your current health as temporary health. Temporary health acts as a second health bar that takes damage before your normal one does.
+Sacrifice 15% of your blood to gain ~5% of your current health as temporary health.
 
  |
 | 
@@ -852,9 +879,8 @@ N/A
 
 ## Trivia
 
--   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
--   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
--   Few things bypass temporary health. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) bell downside.
+-   Temporary health acts like a second healthbar that takes damage before your normal healthbar does. Temporary health decays over time is is given and used by certain bloodrend talents.
+    -   Some things bypass temporary health and deal damage to your normal healtbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) bell downside.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   20% - Vasculitis is Activatable
     -   25% - Hemolysis is Activatable
@@ -862,6 +888,8 @@ N/A
     -   50% - Enemies have their damage reduced by ≈30%
     -   60% - Bloodwarden's Sense is Activatable
     -   70% - Gruesome Harvest is Activatable
+-   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
+-   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
 
 **References**
 
@@ -869,5 +897,5 @@ N/A
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
 -   Blooded could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
--   Crucifixion is a reference to Klaus from Blood Blockade Battlefront; confirmed by a tester.
+-   Crucifixion is a reference to Klaus' 'Unbreakable Cross Shield' from Blood Blockade Battlefront; confirmed by a tester.
 -   Vein Tendrils is a possible reference to the Quirk 'Black Whip' in My Hero Academia

@@ -1,6 +1,6 @@
 ---
 title: Imperial Pauldrons
-revid: 116960
+revid: 119243
 source: https://deepwoken.fandom.com/wiki/Imperial_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Fort Merit, The Depths (Second Layer), Maestro Evengarde Rest |
+| obtainment | Chests from:Fort Merit, The Depths (Second Layer), Maestro Evengarde Rest, War Mode |
 | description | "..." |
 
 ## Description
