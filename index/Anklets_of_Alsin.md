@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 118312
+revid: 119359
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists]
@@ -24,7 +24,7 @@ categories: [Pages with broken file links, Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Primadon, The Depths, Starswept Valley, Maestro Evengarde Rest, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Other sources:, Direct drop from Dread Serpent |
+| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Primadon, The Depths, Starswept Valley, Maestro Evengarde Rest, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description
@@ -40,6 +40,7 @@ The Anklets of Alsin are a light weapon that can be found in all [Depths](The_De
 -   This is the first weapon released for the [Jus Karita](Jus_Karita.md) fighting style.
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
 -   This weapon is named after Alsin, a [Celestial](Celestial.md) that the Justicars worship.
+-   Ironically, this weapon actually has .5 less base damage than Jus Karita.
 
 ## Enchantments
 

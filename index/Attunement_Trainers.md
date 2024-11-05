@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 116108
+revid: 119356
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -14,7 +14,7 @@ Attunement Trainers are NPCs around the map that level up Mantras for money. Eac
 
 A Trainer needs intervals of 20 points in your Attunement to upgrade a Mantra of the same elemental type as the trainer to upgrade, maxing out at Level 5 and 100 Attunement points.
 
-Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md) and [Regek,](Regek.md) who cannot and do not need to be killed to progress the oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
+Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and [Regek,](Regek.md) who cannot and do not need to be killed to progress the oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
 
 For example:
 
@@ -93,9 +93,11 @@ When fought he uses a [Darksteel Greatsword](Darksteel_Greatsword.md).
 |  | [Attunement-less](Attunement-less.md) | [Regek](Regek.md) | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
 |  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.  
 
-She is incapable of actually **teaching **Shadowcast, and can only be used to level up Shadowcast Mantras. Only Nostor can teach it.****
+She is incapable of actually teaching Shadowcast, and can only be used to level up Shadowcast Mantras. Only Nostor can teach it.
 
  | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
+|  | [Bloodrend](Bloodrend.md) | [Vyrelda](Vyrelda,_Master_of_Blood.md) | [Firfire](Firfire.md)  
+[Derelict Highchurch](Derelict_Highchurch.md) | She is located in an igloo of Firfire, in Layer 2. She is found treating a wounded Diver, after unlocking Bloodrend, she appears inside the Derelict Highchurch. | Vyrelda is a [Etrean](Etrean.md) who uses [Bloodrend](Bloodrend.md). |
 
 ## Trivia
 
@@ -104,7 +106,7 @@ She is incapable of actually **teaching **Shadowcast, and can only be used to le
 -   [Beatra](Beatra.md) was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" means "Spark" in German.
 -   [Nostor](Nostor,_Master_of_Shadow.md) wears a Ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md), especially since they use [Shadowcast](Shadowcast.md).
--   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek and Beatra.
+-   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek, Beatra and Vyrelda
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).

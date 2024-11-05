@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 119259
+revid: 119357
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Spelltrainers]
@@ -76,7 +76,7 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
   <td colspan="6">A loophole?</td>
 </tr>
 <tr>
-  <td colspan="6">Hm. Yeah. Suppose more practicioners wouldn't hurt. I'll need some ingredients to put in a vial together, though.</td>
+  <td colspan="6">Hm. Yeah. Suppose more practitioners wouldn't hurt. I'll need some ingredients to put in a vial together, though.</td>
   <td colspan="6">Chaser created his own variant of the Oath, that's why he's known as the Crimson Scholar. His Resonance lets him extract power from the effigies of the dead, which made the Oath a perfect match for his particular set of abilities. Those stolen bells he has on his hip are those effigies. All i had to do was convince the Second I was of a similar talent, and they didn't bat an eyelash when i shifted up the terms of the Oath.</td>
 </tr>
 <tr>

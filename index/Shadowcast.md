@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 119346
+revid: 119354
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -298,6 +298,20 @@ Shadow Assault
 
 -   Lenses increase distance.
 -   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
+
+ |
+|  | 
+
+Shadestep  
+(★★☆)
+
+ | Submerge into your shadow. Click to launch an attack at any point while submerged. | 30 Ether | Shadow (?) | Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards.
+
+-   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
+-   You can get hit while submerged, does not cancel your mantra.
+-   You can't block or parry while submerged.
+-   NPCs can spot you underground.
+-   Can't be modified.
 
  |
 
@@ -763,7 +777,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
 -   File:Location shadow trainer.png
     
-    location shadow trainer
+    Location of the shadow trainer.
     
     Shadowcast is the only actual attunement (meaning attunementless is not included) to not have its own respective path.
 
