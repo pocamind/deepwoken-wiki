@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 118253
+revid: 119308
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Spells, Mantras]
@@ -457,6 +457,7 @@ Multiplying Spark
 -   Shade Devour
 -   Eclipse Kick
 -   Iron Tether
+-   Scarlet Cyclone
 
  | 
 

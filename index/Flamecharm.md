@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 119226
+revid: 119309
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Attunement]
 
 Flamecharm Icon
 
-Your ability to call upon Fire, Magma, and Ash. Burn all around you.
+"Your ability to call upon Fire, Magma, and Ash. Burn all around you." Saying ahh 😭🙏
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 117481
+revid: 119296
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -41,7 +41,7 @@ User raises their leg with a slow windup before firmly slamming it down, breakin
 To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Erisia](Erisia.md) but it is also possible to find them in [Fort Merit](Fort_Merit.md). Once you've acquired one, you can bring them back to either one of these NPCs:
 
 -   Eastern Camp Master at [Etris](Etris.md)
--   [Eastern Tribal Leader](Eastern_Nomad_Leader.md) at [Summer Isle](Summer_Isle.md)
+-   [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md)
 
 Completing this will grant you the Way of Navae Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 

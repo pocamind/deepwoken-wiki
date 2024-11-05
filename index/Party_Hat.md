@@ -1,6 +1,6 @@
 ---
 title: Party Hat
-revid: 114701
+revid: 119314
 source: https://deepwoken.fandom.com/wiki/Party_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Event Item]
@@ -29,7 +29,7 @@ The Party Hat is an [Equipment](Equipment.md) item under the "Head" category. It
 
 ## Obtainment
 
-During the event you can get it from the [Blacksmith](Blacksmith.md) in [Isle of Vigils](Isle_of_Vigils.md) for 1 [Knowledge](Knowledge.md).
+During the event you can get it from any [Blacksmith](Blacksmith.md) for 1 [Knowledge](Knowledge.md).
 
 ## Trivia
 

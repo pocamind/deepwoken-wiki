@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 119151
+revid: 119295
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Outfits, Armors, Items, The Ignition Union, Master Outfits]

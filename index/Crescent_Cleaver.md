@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 118423
+revid: 119289
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Alloyed Weapons]
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Songseeker Wilds, Merchant Ships |
+| obtainment | Minityrsa, Songseeker Wilds, Merchant Ships, Scion of Ethiron |
 | description | "Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood." |
 
 ## Description

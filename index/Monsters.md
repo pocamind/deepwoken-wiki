@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 119284
+revid: 119305
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -25,7 +25,7 @@ The vast majority non-humanoid monsters encountered in-game have hyper armor, me
 In **Scyphozia**, monsters have differences from their Overworld counterparts, ranging from small effects to gigantic differences in how they fight, their danger level, and how they must be dealt with.
 
 -   No longer attack each other based on species, instead **completely focusing** on players.
--   Benefiting from the lower gravity of The Depths, being able to **jump much higher** to pursue players. [**Megalodaunts**](Megalodaunt.md) especially benefit from this, as their jump is already high to begin with.
+-   Benefiting from the lower gravity of The Depths, being able to **jump much higher** to pursue players. **[Megalodaunts](Megalodaunt.md)** especially benefit from this, as their jump is already high to begin with.
 -   Being **much more aware**, noticing players from further away, or even behind them in **certain** cases.
 -   Gaining **new behaviors/abilities**, such as Lionfish Cero.
 -   Becoming **much more persistent in chasing,** almost never stopping their pursuit until the death of themselves or their target. Depending on your position in the depths, you might have an easier chance of escaping, or a life or death situation.
