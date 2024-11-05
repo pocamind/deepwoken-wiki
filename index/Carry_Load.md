@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 119301
+revid: 119319
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -83,11 +83,11 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both talents and other sources, the maximum possible carry load is **557**.
+Combining both talents and other sources, the total amounts to **557**. However, due to limitations you can only get up to **546** carry load, found here [https://deepwoken.co/builder?id=6Os9gI2s](https://deepwoken.co/builder?id=6Os9gI2s) (If you have found a way to get more carry load please edit accordingly).
 
 However, your character can actually carry 20% more than your carry load would allow, gradually reducing your movement speed.
 
-Accounting for this, the real maximum possible carry load is **667**.
+Accounting for this, the real maximum possible carry load is **655**.
 
 ## Trivia
 

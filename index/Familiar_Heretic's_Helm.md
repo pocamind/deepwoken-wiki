@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 119053
+revid: 119323
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Event Item]
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
+| requirements | LVL 8 |
 | weight | 1 |
 | innate stats | +10 HP, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |

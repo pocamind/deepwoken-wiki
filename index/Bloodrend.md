@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119292
+revid: 119345
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,11 +8,17 @@ categories: [Pages with broken file links, Attunement]
 
 # Bloodrend
 
+“ Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet... But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?. ”
+
+― ???
+
 File:BloodrendIcon2.png
 
 Bloodrend Icon
 
-Bloodrend is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
+## Description
+
+**Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. One major flaw Bloodrend suffers from is its focus on single-target combat, as blood poison decays, making it hard to achieve high percentages of BP against multiple enemies.
 
@@ -163,6 +169,7 @@ Ether
 
 -   Damage and posture scales based on the duration charged.
 -   There is a bug where this Mantra cannot be leveled up.
+-   Becomes unparryable at about the 3rd Flash
 
  |
 | 
@@ -895,6 +902,8 @@ N/A
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a light grey.
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
+
+-   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstar](Heartstar.md)s are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 
 **References**
 

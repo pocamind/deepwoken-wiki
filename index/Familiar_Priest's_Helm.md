@@ -1,6 +1,6 @@
 ---
 title: "Familiar Priest's Helm"
-revid: 119051
+revid: 119321
 source: https://deepwoken.fandom.com/wiki/Familiar_Priest's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Event Item]
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
+| requirements | LVL 8 |
 | weight | 1 |
 | innate stats | +10 HP, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |

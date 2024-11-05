@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 118116
+revid: 119335
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Shields]
@@ -24,7 +24,7 @@ categories: [Weapons, Items, Shields]
 
 ## Description
 
-_The Path's Defender_ is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 75 FTD and harbors the highest posture buff out of any shield in the game.
+_The Path's Defender_ is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 75 FTD and harbors the most posture out of any shield in the game.
 
 The shield's appearance is black and golden (or bronze) with an eye in the upper middle with dots surrounding it. The edge of the shield is embellished with wave like patterns resembling water or wind.
 

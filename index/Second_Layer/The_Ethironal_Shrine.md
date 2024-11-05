@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 119160
+revid: 119315
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -219,3 +219,4 @@ It is important to note that **very few** good items drop from standard enemy lo
 -   [Murmur: Tacet](../Murmur%253A_Tacet.md) is able to be used.
 -   While [Dimensional Travel](../Dimensional_Travel.md) is able to be used, it instead flings the user similar to the winds.
 -   The Lighthook will recharge even if you're not ingame or on that slot.
+-   Staying near the generator for too long will spawn a bounder.

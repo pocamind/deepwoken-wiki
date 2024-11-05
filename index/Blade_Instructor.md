@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 118318
+revid: 119333
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea, Kingdom of Etrea Enemies]
@@ -20,20 +20,27 @@ Instructors wear a Gladiator Helmet and a [Cloak of Winds](Cloak_of_Winds.md) ou
 
 An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | \[[Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) & [Mace](Mace.md)\] Firmly swings sword at opponent and finishing the combo by kicking them.
-\[[Iron Spear](Iron_Spear.md)\] Firmly thrusts spear at opponent and finishing the combo by kicking them.
+| Name | Description | media |
+| --- | --- | --- |
+| Assault  
+(★☆☆) | \[[Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) & [Mace](Mace.md)\] Firmly swings sword at opponent and finishing the combo by kicking them.
+\[[Iron Spear](Iron_Spear.md)\] Firmly thrusts spear at opponent and finishing the combo by kicking them.  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
- | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+ |  |
+| Critical  
+(★☆☆) | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 
 \[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.
 
-\[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+\[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.  
+Parryable:◯ Blockable:✗ (Battleaxe & Mace)◯ (Sword & Iron Spear) Dodgeable:◯
 
- | ◯ | ✗ (Battleaxe & Mace)◯ (Sword & Iron Spear) | (★☆☆) |
-| Feint | Attacks, but then stops mid-way to catch the player off guard | ✗ | ✗ | (★★☆) |
+ |  |
+| Feint  
+(★★☆) | Attacks, but then stops mid-way to catch the player off guard |  |
 
 ## Finisher
 

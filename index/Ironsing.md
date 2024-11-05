@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 119101
+revid: 119347
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,13 +8,15 @@ categories: [Pages with broken file links, Attunement]
 
 # Ironsing
 
-Your ability to harness, to sense and control metal from your surroundings.
+“ I have some theories. It's said that the discovery of Pluripotent Alloy was what led to Ironsing's development, and that's the line of questioning I've chosen to follow. Interestingly, they say that the combination of a catalyst and the right frame of mind are what induce the attunement to an element of the Song. ”
 
-## Description
+― Adar, Master of Metal
 
 Ironsing Icon
 
-"Ironsing" is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen talents.
+## Description
+
+**Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen talents.
 
 ## Obtainment & Training
 

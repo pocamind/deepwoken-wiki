@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 117021
+revid: 119326
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | LVL 6 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | Exterminator |

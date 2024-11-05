@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 118114
+revid: 119334
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -23,7 +23,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Fury Nautilodaunt, Fishing (Chest), The Diluvian Mechanism |
+| obtainment | The Ferryman, Primadon, Fury Nautilodaunt, Fishing (Chest), First Layer, The Diluvian Mechanism |
 | description | "Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 119114
+revid: 119343
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,19 +8,21 @@ categories: [Pages with broken file links, Attunement]
 
 # Frostdraw
 
-“ Here we go again... Another ice cheese build... ”
+“ Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you? ”
 
-― The (now) 500 chime elo demon
+― Nell, Master of Frost
 
 Frostdraw icon
 
-A Hemafrosted Capra casting a beam of ice.
+## Description
 
-**Frostdraw** grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared to other [Attunements](Attunements.md), but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
+**Frostdraw** is an [Attunement](Attunements.md) that grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared to other [Attunements](Attunements.md), but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
 Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Modifiers) to certain Mantras can increase the duration of Chill.
 
 ## Training
+
+A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw can be trained by using a combination of [Hemafrost](https://deepwoken.fandom.com/wiki/Training_Items#Attunement_Training), Frostdraw Mantras, and [Frigid Prisms](Frigid_Prism.md).
 

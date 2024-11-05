@@ -1,12 +1,16 @@
 ---
 title: Thundercall
-revid: 119112
+revid: 119349
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
 ---
 
 # Thundercall
+
+“ Fury is not a singular emotion. It can be harnessed by the saint and the sinner alike. Do you wish to wield it as a Thundercaller? ”
+
+― Funke, Master of Thunder
 
 _Thundercall icon_
 
