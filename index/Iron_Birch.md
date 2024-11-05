@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 118051
+revid: 119383
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -17,12 +17,13 @@ categories: [Weapons, Greataxes]
 | range | 8 |
 | swing speed | 0.85x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from Minityrsa, Starswept Valley, Depths, Primadon, & Merchant Ships, Fishing (Brown chests) |
+| obtainment | Minityrsa (chests), Starswept Valley (chests), Depths (chests), Primadon, Merchant Ships, Fishing (Brown chests), Aelita, The Ferryman (Winter) |
 | description | "The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes." |
 
 ## Description

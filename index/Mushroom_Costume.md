@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 118903
+revid: 119360
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Items]
@@ -25,7 +25,7 @@ categories: [Equipment, Head, Helmets, Event Item, Items]
 
 ## Description
 
-The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your skin color to a bright white, and you become faceless. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) **if** you have brought "Hallowtide 23 Metal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide again) for 5 knowledge anytime.
+The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your skin color to a bright white, and you become faceless. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) **if** you have bought "Hallowtide 23 Medal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide again) for 5 knowledge anytime.
 
 ## Rarities
 

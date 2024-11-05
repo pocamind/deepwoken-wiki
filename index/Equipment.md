@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 119327
+revid: 119384
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -198,6 +198,8 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Aelita](Aelita.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Cloaked Assassin](Cloaked_Assassin.md)
 
  | Gold, Pale, Mist & Crimson |
 | File:Authorityhelm.png | 
@@ -1539,6 +1541,8 @@ _+Talent: Unwavering Resolve_
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
+-   [Aelita](Aelita.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
 
  | Ash, Pink, Rural, Sable & Tawny |
 | 
@@ -1618,9 +1622,11 @@ Found from:
 
 -   [Minityrsa](Minityrsa.md) (Rogue Mech)
 -   [Aelita](Aelita.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
 -   [Aratel Island](Aratel_Island.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Cloaked Assassin](Cloaked_Assassin.md)
 
  | Crimson, Gold, Mist & Pale |
 | File:Ruby Authority Commander Coat.png | 
@@ -1642,6 +1648,8 @@ _+10 Health_
  | Found from:
 
 -   [Fort Merit](Fort_Merit.md)
+-   [Aelita](Aelita.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
 
  | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 | File:Autumn pauldrons.png | 
@@ -2476,6 +2484,7 @@ Justicar Defender
 Found from:
 
 -   [Aelita](Aelita.md) **(10%)**
+-   [The Ferryman](The_Ferryman.md) (Winter) **(10%)**
 -   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (**~2%**)
 
  | Red, Black, Faded, Jet Black, Orange & Purple |
@@ -4757,6 +4766,8 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
+-   [Aelita](Aelita.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
 
  | Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | 
@@ -4936,6 +4947,8 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Aelita](Aelita.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
 
  | N/A |
 |  | 
@@ -5261,6 +5274,7 @@ Grants a 10% reduction to incoming armor damage.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
+-   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Second Layer](Second_Layer.md)
@@ -5383,6 +5397,7 @@ If using Eruption Path: Lava Serpent, eruption delay is reduced.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
+-   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
@@ -5622,6 +5637,7 @@ Gives every weapon 1.2 agility scaling when equipped.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
+-   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)

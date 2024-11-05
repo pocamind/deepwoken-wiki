@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 116421
+revid: 119380
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats, The Central Authority]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Coats, The Central Authority]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Aelita, Sea Random Encounters (Overrun Authority Stronghold) |
+| obtainment | Chests from:, Fort Merit, Aelita, The Ferryman (Winter), Sea Random Encounters (Overrun Authority Stronghold) |
 | description | "..." |
 
 ## Description

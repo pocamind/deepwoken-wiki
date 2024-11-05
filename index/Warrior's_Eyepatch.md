@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Eyepatch"
-revid: 107569
+revid: 119378
 source: https://deepwoken.fandom.com/wiki/Warrior's_Eyepatch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, Starswept Valley, Aelita |
+| obtainment | Duke Erisia, First Layer, Starswept Valley, Aelita, The Ferryman (Winter) |
 | description | "..." |
 
 ## Description

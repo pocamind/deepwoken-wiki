@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 116417
+revid: 119381
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Aratel Sea, Aelita |
+| obtainment | Chests from:, Fort Merit, The Aratel Sea, Aelita, The Ferryman (Winter) |
 | description | "..." |
 
 ## Description

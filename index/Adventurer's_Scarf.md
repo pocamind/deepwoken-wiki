@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 116531
+revid: 119379
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Island |
+| obtainment | Aratel Island, Aelita (Black), The Ferryman (Only in Winter) (Black) |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 119313
+revid: 119365
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -12,7 +12,7 @@ categories: [Resonances, Mechanics]
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
 
-You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [these](The_Starswept_Valley.md) [few](Summer_Isle.md) [locat](Minityrsa.md)[ions](Voidsea.md) and will be protected by a [Star Knight](https://deepwoken.fandom.com/wiki/Star_Knight). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
+You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Voidsea](Voidsea.md), and will be protected by a [Star Knight](Star_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
 
 | 
 **NORMAL RESONANCES**
@@ -35,6 +35,7 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 -   **Corrupted** Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
 -   **Corrupted** Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   Soul Siphon - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ## Overview
 

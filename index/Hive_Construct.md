@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 114965
+revid: 119362
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies]
@@ -16,7 +16,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with every attack. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Flame Balista](Flamecharm.md#combat-mantras), [Grand Javelin](Thundercall.md#combat-mantras) or [Wind Gun](Galebreathe.md#combat-mantras), you can use them to stun it to aid your escape.
+They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with every attack. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), however it's size is not to be underestimated. They wield incredible power and can easily take out an inexperienced player.
+
+They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one and are underleved / unprepared, run as fast as you can. It can be tipped over, so if you have [Flame Balista](Flamecharm.md#combat-mantras), [Grand Javelin](Thundercall.md#combat-mantras) or [Wind Gun](Galebreathe.md#combat-mantras), you can use them to stun it to aid your escape.
 
 ## Spawn Locations
 

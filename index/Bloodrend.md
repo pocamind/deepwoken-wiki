@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119345
+revid: 119374
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -206,7 +206,7 @@ When no target is hit
 
  | Release blood daggers. Recast to call them. | 30 Ether | N/A | Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target.
 
--   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 5.
+-   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
 -   Can be modified with a Multiplying Spark, making \[\].
 -   (At max lvl) Deals a considerable amount damage, and deals (approximately) the same damage on return.
 
@@ -912,4 +912,3 @@ N/A
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
 -   Blooded could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
 -   Crucifixion is a reference to Klaus' 'Unbreakable Cross Shield' from Blood Blockade Battlefront; confirmed by a tester.
--   Vein Tendrils is a possible reference to the Quirk 'Black Whip' in My Hero Academia

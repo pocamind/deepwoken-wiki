@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 118398
+revid: 119368
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -74,7 +74,7 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
         -   Applies Hidden Tendril
         -   The target gains invincibility frames while active
         -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target
-        -   Can be vented out of
+        -   Can be vented out of, and can also parried as soon as you hear the 'snap' sound
 
 -   **Lords Slice - Combat Mantra**
     -   The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.

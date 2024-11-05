@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 115020
+revid: 119361
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Islands, The Ministry]
@@ -18,7 +18,7 @@ Ocean water freezes against the stone, as if trying to climb onto the shore.
 
 ## Overview
 
-Minityrsa is an island perpetually blanketed in snow. It can be found to the right of the Luminant Gates.
+Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can be found to the right of the Luminant Gates. Despite being mostly inhabited, there are remains of buildings and structures scattered around.
 
 ## Points of Interest
 
@@ -105,5 +105,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   Wiping for the first time unlocks the ability to spawn here as an origin ([Trial of one](Trial_of_One.md))
 -   After beating the trial of one/above power 1, you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.
--   Many players pronounce it as 'Mini-tear-risa' instead of 'Mini-tear-sa.'
+-   Many players pronounce it as 'Mini-tear-risa' instead of it's intended pronounciation 'Mini-tear-sa.'
 -   Strangely, despite the fact that there are many ministry scouts and necromancers here, Minityrsa is not considered to be territory of the Ministry in-game, as it doesn't say "TERRITORY OF THE MINISTRY" under it's name, however this DOES apply to [Outpost Antumbra](Outpost_Antumbra.md), which is located in Minityrsa.
