@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 118553
+revid: 119404
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -17,7 +17,7 @@ Serena is a lynx [Felinor](Felinor.md) who wears the [Veteran Adventurer](Vetera
 -   She thanks the player and rewards them with a chest.
 -   She attacks the player, if defeated, will still grant the chest.
 
-If you don't have a [canteen](Canteen.md) with water, she will either stay there as an intractable NPC or attack the player.
+If you don't have a [canteen](Canteen.md) with water, she will either stay there as an interactable NPC or attack the player.
 
 While knocked and being gripped by the player or NPC, she will also _kindly_ ask you if she "is convincing".
 

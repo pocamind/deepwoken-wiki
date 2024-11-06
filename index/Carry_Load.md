@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 119319
+revid: 119405
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ In order of carry load given:
 -   Gourmand gives 2 carry load.
 -   Unstoppable Force gives 2 carry load.
 -   Destructive Recovery gives carry load.
--   Pithcer gives 3 carry load.
+-   Pitcher gives 3 carry load.
 -   Pocket Sand gives 4 carry load.
 -   Unwavering Resolve gives 4 carry load.
 -   Shield Breaker gives 4 carry load.
@@ -83,9 +83,8 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both talents and other sources, the total amounts to **557**. However, due to limitations you can only get up to **546** carry load, found here [https://deepwoken.co/builder?id=6Os9gI2s](https://deepwoken.co/builder?id=6Os9gI2s) (If you have found a way to get more carry load please edit accordingly).
-
-However, your character can actually carry 20% more than your carry load would allow, gradually reducing your movement speed.
+Combining both talents and other sources, the total amounts to **557**. However, due to limitations you can only get up to **546** carry load, found here [https://deepwoken.co/builder?id=6Os9gI2s](https://deepwoken.co/builder?id=6Os9gI2s) (If you have found a way to get more carry load please edit accordingly).  
+^If you have intelligence unbound then 544 is your maximum possible carry load due to the intelligence unbound card having a stat req of 75. Instead go 99 str and 75 int. However, your character can actually carry 20% more than your carry load would allow, gradually reducing your movement speed.
 
 Accounting for this, the real maximum possible carry load is **655**.
 

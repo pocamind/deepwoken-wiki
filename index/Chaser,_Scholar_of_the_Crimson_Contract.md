@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 119141
+revid: 119386
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -169,11 +169,10 @@ After Chaser is defeated, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens
 -   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
--   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped Only by Chaser.
--   Rarely, [Enchantment Stones](Enchant_Stone.md).
--   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Stormseye](Stormseye.md) and [Ysleys Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
--   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
--   Rarely, [Warmaster's Medallion](<Warmaster's_Medallion.md>).
+
+-   Rarely, [Enchantment Stones](Enchant_Stone.md), [Sinner's Ashes](Relics.md), various Legendary Weapons, or the [Warmaster's Medallion](<Warmaster's_Medallion.md>)
+
+-   Extremely Rarely, and exclusively from Chaser, you may obtain the [Flareblood Kamas](Flareblood_Kamas.md), or [The Bloodforged Crown](Bloodforged_Crown.md).
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Attributes.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
 

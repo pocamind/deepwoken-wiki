@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 119075
+revid: 119401
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -187,6 +187,22 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 </tr>
 <tr>
   <td>End, you are transported to the Floating Keep</td>
+</tr>
+</tbody>
+</table>
+
+-   When Interacting in danger and Floating Keep is there
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Oh! You, you! Your heart is beating too fast to travel right now, friend. High blood pressure is very serious. Come back to me when there aren't blades aimed toward you.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 115067
+revid: 119409
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical, Weapons with Unique Criticals]
@@ -12,7 +12,7 @@ categories: [Weapons, Pages with broken file links, Greatswords, Unique Critical
 |---|---|
 | type | Greatsword |
 | requirements | 70 HVY, 15 INT, 15 CHA |
-| damage | 15.8 |
+| damage | 17 |
 | scaling | HVY: 8.5, INT: 3, CHA: 3 |
 | range | 10 |
 | swing speed | 0.82x |

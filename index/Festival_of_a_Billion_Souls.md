@@ -1,6 +1,6 @@
 ---
 title: Festival of a Billion Souls
-revid: 119016
+revid: 119408
 source: https://deepwoken.fandom.com/wiki/Festival_of_a_Billion_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Deepwoken]
@@ -17,7 +17,7 @@ categories: [Events, Deepwoken]
 
 ## Description
 
-An in-game event that celebrates Deepwoken obtaining 1 Billion Visits on ROBLOX, with no cosmetic changes to the world being given. Joining during this time would have given you the Medallion for this event, allowing you to gain a [Party Hat](Party_Hat.md). During this 7 day mini-event, chests were 4x the size.
+An in-game event that celebrates Deepwoken obtaining 1 Billion Visits on ROBLOX, with no cosmetic changes to the world being given. Joining during this time would have given you the [Medallion](Seasonal_Medals.md) for this event, allowing you to gain a [Party Hat](Party_Hat.md). During this 7 day mini-event, chests were 4x the size.
 
 The festival has only taken place once, from the 27th of September 2024, to the 4th of October 2024. It is unknown if it will occur again.
 
