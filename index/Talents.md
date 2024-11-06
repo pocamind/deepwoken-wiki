@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119407
+revid: 119413
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -28,7 +28,7 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain talents may also be obtained when doing [Quests](Quests.md). Additionally, some powerful talents called [Oaths](Oaths.md), [Murmur](Murmur.md) and [Resonance](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
+Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain talents may also be obtained when doing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
 
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
 

@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 117974
+revid: 119434
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -49,6 +49,13 @@ Jus Karita is the only fighting style as of now that has its own mantras. With t
 To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. Do his first dialogue option and obtain the ring, then ask him about Justicar.
 
 Completing this will grant you the Jus Karita Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
+
+## Talents
+
+-   Justicar's Prowess - Jus Karita +30% posture damage against other fist styles.
+-   Justicar's Renewal - Hitting an opponent with your Jus Karita critical resets the cooldown.
+-   Swiftkick Prodigy - Hitting successive basic attacks with Jus Karita will give a temporary speed buff.
+-   Flying Swiftkick - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost.
 
 ## Trivia
 

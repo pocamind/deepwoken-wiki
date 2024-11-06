@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119374
+revid: 119435
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -38,7 +38,7 @@ Walk out the building, and run around the village for a while. The blood-renders
 
   
 
-After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her), and it will also be available from the [character creation](Character_Creation.md) screen.
+After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her), and it will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
 
 ### Training
 
@@ -73,7 +73,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Conjure a bloody cross. | N/A Ether | N/A | Launch a crucifix-shaped projectile at the cursor's position.
+ | Conjure a bloody cross. | 25 Ether | N/A | Launch a crucifix-shaped projectile at the cursor's position.
 
 -   Deals moderate damage.
 -   Ragdolls.
@@ -86,7 +86,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Release an amalgamation of your blood. | N/A Ether | N/A | Launch an orb-shaped projectile of blood to wherever the character is facing.
+ | Release an amalgamation of your blood. | 25 Ether | N/A | Launch an orb-shaped projectile of blood to wherever the character is facing.
 
 -   Deals light damage.
 -   Leaves behind a Blood Pool.
@@ -99,7 +99,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Create a cyclone of blood. | N/A Ether | N/A | Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its ranged.
+ | Create a cyclone of blood. | 30 Ether | N/A | Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its ranged.
 
 -   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial.
 
@@ -207,7 +207,6 @@ When no target is hit
  | Release blood daggers. Recast to call them. | 30 Ether | N/A | Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target.
 
 -   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
--   Can be modified with a Multiplying Spark, making \[\].
 -   (At max lvl) Deals a considerable amount damage, and deals (approximately) the same damage on return.
 
  |

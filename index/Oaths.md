@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 118271
+revid: 119415
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -31,7 +31,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 -   [Bladeharper](Oath%253A_Bladeharper.md): +2 Combat Mantra \[75 MED or 90 Cumulative Weapon Stat & 25 Strength or Agility\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower, Suffer from Blindness & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
--   [Chainwarden](Oath%253A_Chainwarden.md): +1 Wildcard Mantra, +2 Combat Mantra \[Strength, Fortitude or Willpower can add to a total of 40\]
+-   [Chainwarden](Oath%253A_Chainwarden.md): +1 Wildcard Mantra, +2 Combat Mantra \[40 points shared across Strength, Fortitude and Willpower\]
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility \[50 Agility\]

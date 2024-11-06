@@ -1,9 +1,9 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 116714
+revid: 119430
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Spelltrainers, The Ministry, Ministry Enemies]
+categories: [Enemies, Spelltrainers, Oaths, NPCs, The Ministry, Ministry Enemies]
 ---
 
 # Nostor, Master of Shadow
@@ -64,3 +64,11 @@ Nostor executes their opponent after knocking them:
 ## Tips
 
 -   Be wary of other players, as Nostor is located in a prime place for farming [Umbrite](Ores.md), as well as being in the Depths.
+
+## Trivia
+
+-   Nostor, along with [Regek](Attunement_Trainers.md), are non-binary.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)
