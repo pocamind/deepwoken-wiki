@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 119066
+revid: 119454
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -95,7 +95,7 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 -   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
 
--   You can lower a stat below the requirements of a Mantra and keep the Mantra. However, if you attempt to lower a stat below the requirements of your Mantra's levels, the Mantra will be leveled down.
+-   You can lower a stat below the requirements of a Mantra and keep the Mantra as well as its levels.
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
 
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 119344
+revid: 119458
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -878,7 +878,7 @@ N/A
 -   **Heavenly Wind** may also double as a mobility mantra as you can take advantage of its upward boost by cancelling the mantra.
 -   **Wind Blade** with its Talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
 -   The "_Gale Leap_" Talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
--   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
+-   The majority of Galebreathe mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
 -   The wind phantom visual from the "_Haunted Gale_" Talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)
 -   "_Tempest Wind_" can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
     -   Alternatively, you could cast it early to feint the M1 but due to its low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counterattack after blocking or rolling the M1, but this is negated by parries.

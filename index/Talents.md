@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119447
+revid: 119457
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -132,7 +132,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Flamecharm: Orange
         -   Frostdraw: Blue
         -   Thundercall: Yellow
-        -   Galebreath: Green
+        -   Galebreathe: Green
         -   Shadowcast: Purple
         -   Ironsing: Grey
         -   Bloodrend: Red
@@ -1176,7 +1176,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
-    -   The following Galebreath Mantras have knockback and can benefit from this Talent: Air Force, Champion's Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind Gun
+    -   The following Galebreathe Mantras have knockback and can benefit from this Talent: Air Force, Champion's Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind Gun
     -   Prerequisite: 30 Galebreathe
 
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
@@ -1637,7 +1637,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility)
-    -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreath
+    -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreathe
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
@@ -2402,7 +2402,7 @@ _**"My cure is most effective."**_
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
--   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreath attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+-   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
 ### Static Weaver

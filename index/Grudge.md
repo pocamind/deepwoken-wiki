@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 117832
+revid: 119462
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -27,4 +27,4 @@ Killing them will give you the [Wraithclaw](Wraithclaw.md) along with a low tier
 
 Mambles asking if the Grudge NPC has any other requirements
 
-Arch confirming that Grudge does not have any other requirements to spawn that aren't uncapped Galebreath \[1\]
+Arch confirming that Grudge does not have any other requirements to spawn that aren't uncapped Galebreathe \[1\]

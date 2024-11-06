@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119446
+revid: 119453
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -431,7 +431,7 @@ Block breaking your opponent with a blood mantra turns your opponent's combat he
 
  | 
 
-The damage to healing conversion is 1:1. This applies to **all** (non passive) healing, meaning you can block break and then heal them them for additional damage. This also affects healing outside of combat.
+The damage to healing conversion is 1:1. This applies to **all** (non passive) healing and affects healing outside of combat.
 
  |
 | 
@@ -887,7 +887,7 @@ N/A
 ## Trivia
 
 -   Temporary health acts like a second healthbar that takes damage before your normal healthbar does. Temporary health decays over time is is given and used by certain bloodrend talents.
-    -   Some things bypass temporary health and deal damage to your normal healtbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) bell downside.
+    -   Some things bypass temporary health and deal damage to your normal healtbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) [Corrupted Bell](Resonance.md#corrupted-resonances) downside.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   20% - Vasculitis Talent is Activatable
         -   Vasculitis - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 20% BP.)
@@ -909,5 +909,5 @@ N/A
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
--   Blooded could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
+-   Bloodedge could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
 -   Crucifixion is a reference to Klaus' 'Unbreakable Cross Shield' from Blood Blockade Battlefront; confirmed by a tester.

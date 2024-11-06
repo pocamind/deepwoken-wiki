@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 118730
+revid: 119461
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -96,7 +96,7 @@ File:Skyblood potion.png
 
  | 
 
-[Galebreath](Galebreathe.md)
+[Galebreathe](Galebreathe.md)
 
  |
 | 
@@ -122,7 +122,7 @@ File:Flask.png
  |
 | 
 
-Alloyed elixir
+Alloyed Elixir
 
  | 
 
@@ -141,4 +141,20 @@ File:Alloyed elixir.png
 [Ironsing](Ironsing.md)
 
  |
-| Curseblood |  | [Heartstar](Heartstar.md) | [Vyrelda](Vyrelda,_Master_of_Blood.md) | [Bloodrend](Bloodrend.md) |
+| 
+
+Curseblood
+
+ |  | 
+
+[Heartstar](Heartstar.md)
+
+ | 
+
+[Vyrelda](Vyrelda,_Master_of_Blood.md)
+
+ | 
+
+[Bloodrend](Bloodrend.md)
+
+ |
