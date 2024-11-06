@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 116106
+revid: 119444
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -386,7 +386,7 @@ Orion from Summer's Dusk quest
 
 **Quest Location**: Songseeker Wilds
 
-**Guide**: Talk to an NPC in [Songseeker Wilds](Songseeker_Wilds.md) who asks you to clear Songseekers from Ku's shrine, which seems to be the [Derelict Highchurch](Derelict_Highchurch.md). Kill some of the Songseekers who spawn there, then return.
+**Guide**: Talk to [Ezra](Ezra.md) in [Songseeker Wilds](Songseeker_Wilds.md) who asks you to clear Songseekers from Ku's shrine, which seems to be the [Derelict Highchurch](Derelict_Highchurch.md). Kill some of the Songseekers who spawn there, then return.
 
 **Reward/s**: EXP, Bravery.
 

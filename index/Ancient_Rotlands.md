@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 113305
+revid: 119442
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -24,7 +24,7 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 
 -   "Brains" consisting of pulsating masses embedded with eyes that are chained up across the Rotlands. Not too common but enough to cover a significant portion of the area.
     
-    On of the "Brains" found pulsating throughout the Rotlands.
+    One of the "Brains" found pulsating throughout the Rotlands.
     
     -   Looking at the brains causes you to take grave [Insanity damage](Insanity.md). It's recommended to come here with a handful amount of willpower.
     -   It is assumed that the brains "pulse", doing the same insanity damage if you're exposed to it - as if you had looked at it for a couple of seconds.

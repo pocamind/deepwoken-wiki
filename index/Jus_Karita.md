@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 119434
+revid: 119439
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -60,13 +60,14 @@ Completing this will grant you the Jus Karita Talent which enables you to use th
 ## Trivia
 
 -   Jus Karita's Critical Attack can be upgraded with Justicar Renewal, which removes the cooldown after landing the attack even on block or dodge, with a 10s cooldown.
--   Justicar's Armor DMG Style boost was buffed after developer Ragoozer was made to fight a corrupted [Bone Keeper](Bone_Keeper.md).
+-   Justicar's Armor DMG Style boost was buffed after developer Ragoozer was made to fight a corrupted [Bone Keeper](Bone_Keeper.md).[\[1\]](#cite-note-1)
     -   Furthermore, [Bone Keeper's](Bone_Keeper.md) health regeneration was disabled and LHT & MED scaling in PVE was buffed.
 -   Selecting Jus Karita on the character selection will allow you to use the fist style without the criterion of 40 LHT, though the base damage will be reduced until you reach the aforementioned requirement.
     -   You're able to get [Jus Karita's Mantras](Attunement-less.md) as long as you have the requirements for them. (20 LHT)
     -   You will also not be able to obtain a [Gold Ring](Equipment.md) from [Polis](Polis.md).
--   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
+-   Jus Karita was made by Dexerius.[\[2\]](#cite-note-2)
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=rVWCMiHQY4w](https://www.youtube.com/watch?v=rVWCMiHQY4w)
+2.  [↑](#cite-ref-2)

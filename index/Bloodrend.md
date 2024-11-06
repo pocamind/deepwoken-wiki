@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119435
+revid: 119446
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -431,7 +431,7 @@ Block breaking your opponent with a blood mantra turns your opponent's combat he
 
  | 
 
-The damage to healing conversion is 1:1. This only affects self-healing; if you heal them after a guard break, it will heal them instead of dealing damage. This also affects healing outside of combat.
+The damage to healing conversion is 1:1. This applies to **all** (non passive) healing, meaning you can block break and then heal them them for additional damage. This also affects healing outside of combat.
 
  |
 | 

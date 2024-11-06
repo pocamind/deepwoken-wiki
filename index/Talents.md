@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119413
+revid: 119447
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -463,7 +463,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _Hemorrhaging Blow_ \[Rare Talent\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)
     -   The damage to healing conversion is 1:1.
-    -   It only affects self-healing, so attempting to heal them after a block break will just heal them. The only exception is instant health potions, which will do damage.
+    -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however wouldn't work on things like Conditioned Runner as that is a form of passive healing.
     -   Health regen from potions is unaffected.
     -   This works on healing outside of combat.
     -   Prerequisite: 95 Bloodrend, Master Bloodrender
