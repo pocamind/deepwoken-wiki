@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119474
+revid: 119490
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -510,7 +510,9 @@ These Talents are designed to make defensive gameplay easier by improving your d
 > _**"I do not need a weapon."**_
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
-    -   Procs by pressing Y (Works with one Fist Style)
+    -   Procs by pressing Y (Works even if you only have one Fist Style)
+    -   8 Second cooldown between style change.
+    -   This talent does not work with [Jus Karita](Jus_Karita.md).
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
@@ -1381,7 +1383,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   If burn was procced by the Flame Within Talent, the healing is reduced to 25%.
+    -   If burn was procced by the Flame Within Talent while knocked, the healing is reduced to 25%.
+        -   If you get knocked while already on fire from Flame Within and do not get interrupted, you get the full 50% heal.
     -   Prerequisites: All Immolator Talents
 
 ### Inferno
@@ -2191,9 +2194,11 @@ _**"My cure is most effective."**_
     -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   5 Second Cooldown.
+    -   This talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Trained Fist, 25 Agility
 
 -   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
+    -   This talent does not work with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
 
 ### Scrapsinger

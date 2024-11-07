@@ -1,6 +1,6 @@
 ---
 title: "Practicioner's Earrings"
-revid: 107614
+revid: 119503
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle |
+| obtainment | Chests from:, Summer Isle, Duke Erisia, First Layer, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

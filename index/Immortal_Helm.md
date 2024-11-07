@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 116369
+revid: 119501
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Items]
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
+| requirements | Power 5 |
 | weight | 1 |
 | innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Immortality |

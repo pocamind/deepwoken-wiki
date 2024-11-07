@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 119291
+revid: 119482
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -18,7 +18,7 @@ File:Attunementicon.png
 
 ## Overview
 
-There are currently four base Attunements that anyone may select when first creating a character, with two more being unlockable throughout the world.(Note that Ironsing, Shadowcast and Bloodrend, the 3 attunements you have to attain, will remain permanently unlocked for all of your slots). Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
+There are currently four base Attunements that anyone may select when first creating a character, with three more being unlockable throughout the world.(Note that Ironsing, Shadowcast and Bloodrend, the 3 attunements you have to attain, will remain permanently unlocked for all of your slots). Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
 
 -   The more attunements you wield, the more expensive it will become to manage them- because you do not have an infinite number of points to spend on your character. Choose wisely.
 -   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto invested if you chose an attunement.
