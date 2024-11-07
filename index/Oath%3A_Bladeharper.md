@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 119135
+revid: 119477
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,9 +32,10 @@ The oath is a result of the player conducting a **Reflection Ritual** at the Sky
 1.  The oath requires a total of 75 Medium Weapon points, **or** a total of 90 cumulative points allocated throughout any Weapon stats, alongside 25 AGL or STR. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the oath quest.
 2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. This will transport you to Blade Within.
 3.  Defeat Mind's Reflection (a 1:1 copy of yourself, including weapon, talents and mantras) to obtain the oath.
-    1.  It will use all mantras you have, not just the ones you have equipped.
+    1.  It will use all mantras you have, not just the ones you have equipped. It's best to get rid of unwanted mantras via Deep Shrines if you're not ready.
     2.  It seems to not have the same mantra modifiers that you may have. For example: Frostdraw's Warden Blades can become bigger using stratus stones but the mirror will have the original size and possibly the original level (not tested).
-    3.  The mirror has 1-3 lives meaning you might have to kill it multiple times to get the oath and it's progression. The indicator for each death will be it teleporting back to the middle whilst venting. It ragdolls onto the floor allowing you to execute it after you are done.
+    3.  The mirror has 3 lives meaning you have to kill it multiple times to get the oath and its progression. The indicator for each death will be it teleporting back to the middle whilst venting. It ragdolls onto the floor allowing you to execute it after you are done.
+    4.  If you manage to deduct a life, you **WON'T** heal off the kill and it will respawn. Lock in.
 
 ## Progression
 
@@ -84,15 +85,17 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 
 The mirror is a bot and so it does not come up with tactics and plans before the fight, it simply uses abilities periodically and swings its sword.
 
-\*Before even fighting the mirror it is best for you to have some sort of mobility, because the Statues can be quite difficult to get to. (Except for the one behind Lord Regent's palace) Strong leap and some agility could work.
+Before even fighting the mirror, it is best for you to have some sort of mobility, because the Statues can be quite difficult to get to. (Except for the one behind Lord Regent's palace). Strong Leap and some agility could work.
 
-\*It is recommended to have mantras for this fight and a high attunement level as it allows you to use your mantras more often then it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your ether wisely in order to overwhelm the mirror. If doing an attunementless build then why are you on this page... but if you have played the game for a while then it should take probably a little longer to have the mirror killed.
+It is recommended to have mantras for this fight and a high Attunement level as it allows you to use your mantras more often then it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your Ether wisely in order to overwhelm the mirror. If doing an Attunement-less build then why are you on this page... but if you have played the game for a while then it should take probably a little longer to have the mirror killed.
 
-\*When fighting the mirror keep in mind that it has all of your talents and such but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the oath whilst fighting it, for example on the second fight they will posses only Soaring Storm and Untouchable when fighting so plan accordingly. The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life.
+When fighting the mirror keep in mind that it has all of your talents and such, but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the Oath whilst fighting it; For example on the second fight they will possess only Soaring Storm and Untouchable when fighting so plan accordingly.
 
-\*If you still have difficultly fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down your ability to kill the mirror and causes you to rely mostly on your mantras. But on the other hand, this causes the mirror to also be weaker as it also deals less damage but if you are hit too much then it is just better for you to distance yourself and wait for the mirror to make a mistake and fight back.
+The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life. It also has a tendency to stay just outside of your range (and in turn you will stay just outside of your mirror's), so use this opportunity to hit it with mantras.
 
-\*Finally the most important piece of advice, stay calm, as you would with any and every enemy in the game. Good luck in your fights.
+If you still have difficulty fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down your ability to kill the mirror and causes you to rely mostly on your mantras. But on the other hand, this causes the mirror to also be weaker as it also deals less damage but if you are hit too much then it is just better for you to distance yourself and wait for the mirror to make a mistake and fight back.
+
+Finally the most important piece of advice, stay calm, as you would with any and every enemy in the game. Good luck in your fights.
 
 ## Trivia
 

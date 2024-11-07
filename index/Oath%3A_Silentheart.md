@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 118560
+revid: 119479
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -88,7 +88,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
         -   Given as a talent tool.
-        -   Active for 1 second. 1.2s CD.
+        -   Active for 1 second. ~4s CD.
 
 -   **Mayhem - Passive**
     -   Initiate a special dash attack by pressing M1 during the start of your dodge.

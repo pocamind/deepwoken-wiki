@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 116704
+revid: 119476
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns during the Depths Collapse event or within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from [Mimic Chests](Chests_&_Sacks.md) after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you.
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns during the Depths Collapse event, when you are doing the "Nautilodaunt Extermination" job or within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from [Mimic Chests](Chests_&_Sacks.md) after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you.
 
 While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
 
@@ -154,6 +154,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   The vent it uses was the old vent before Deepwoken's release.
 -   If encountered in the overworld, it has the ability to swim. However, it does not possess a swimming animation.
 -   It is named after the Nautilus, a family of shelled cephalopods.
+-   It's run might be based off of the run of characters from Naruto.
 -   It is internally referred to as ".squidward[\[1\]](#cite-note-1)"
 
 ## References

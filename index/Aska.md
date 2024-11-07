@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 119164
+revid: 119481
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
@@ -30,7 +30,7 @@ To initiate the fight instead of wiping instantly, your character must fulfill s
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
--   [Pleeksty's Will](Talents.md#inferno) Talent **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit
+-   Either [Pleeksty's Will](Talents.md#inferno) Talent, [Pleeksty's Faith](Talents.md#inferno) Talent, **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit
 
 A Resonance is required to get through the doors to Aska, but is not a requirement to get the Pleeksty's Inferno.
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 118456
+revid: 119472
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -201,7 +201,22 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Healing from Bloodless Gem, Vampirism, or potentially No Life King can prove useful as a source of healing against Maestro Evengarde Rest, provided you can proc the former two and survive long enough for the latter to matter.
 -   When you manage to land a hit on him, Rest is prone to repeatedly getting caught in weak blocks. Often, these are great opportunities to deal some real damage to him, especially if you're using medium or light weapons. He will eventually land a parry or will vent, so be sure to exercise caution while whaling on him.
 
+  
+
 ## Loot Table
+
+Upon defeating Maestro, he will drop a large chest containing many different item including:
+
+-   **On First Kill**, and at/above 80 WEP, he is guaranteed to drop your weapon classes respective weapon being:
+    -   [Cerulean Thread](Cerulean_Thread.md) (LHT)
+    -   [Purple Cloud](Purple_Cloud.md) (MED)
+    -   [Pale Briar](Pale_Briar.md) (HVY)
+-   Multiple Mid-Late Game [Weapons](Weapons.md) for each weapon class, along with [Deep Gems](Deep_Gems.md), Legendary Rings and other [Equipment](Equipment.md).
+-   The [Windrunner Robes](Windrunner_Robes.md) and other Outfits.
+-   Rarely, the [Monastery Champion Set](Monastery_Champion_Robes.md), the [Imperial Staff](Imperial_Staff.md), or [Lesser Relics](Relics.md)
+-   Extremely Rarely, a [Sinner's Ash](<Sinner's_Ash.md>)
+
+Exhaustive List of Items
 
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |
@@ -265,7 +280,6 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
  |
 
-  
 Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
 
 Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wayward Gems. Maestro's Ring is weighted more strongly than other rings.
