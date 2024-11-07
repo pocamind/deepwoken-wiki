@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 119384
+revid: 119522
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -420,6 +420,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -540,6 +541,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Guard's, Royal Guard's, Captain's |
 |  | 
@@ -953,6 +955,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | 
@@ -1929,6 +1932,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -2211,7 +2215,7 @@ Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   Buying from [Chili](Travelling_Merchant.md)
+-   Buying from [Merchant Ships](Travelling_Merchant.md)
 
  | N/A |
 | 
@@ -2363,7 +2367,7 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   Buying from [Chili](Travelling_Merchant.md)
+-   Buying from [Merchant Ships](Travelling_Merchant.md)
 
  | N/A |
 | File:IgnitionGauntlets.png | 
@@ -2508,6 +2512,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3014,6 +3019,8 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)\]\]
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3092,6 +3099,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 | File:Vanguardbrace.png | 
@@ -3193,6 +3201,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Black, Brown & White |
 |  | 
@@ -3819,6 +3828,9 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -3911,7 +3923,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   Buying from [Chili](Travelling_Merchant.md)
+-   Buying from [Merchant Ships](Travelling_Merchant.md)
 
  | N/A |
 |  | 
@@ -5167,6 +5179,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md) (**Rare**)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 
@@ -5185,6 +5198,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
 |  | 

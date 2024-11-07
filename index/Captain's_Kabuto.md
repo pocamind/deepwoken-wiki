@@ -1,6 +1,6 @@
 ---
 title: "Captain's Kabuto"
-revid: 116340
+revid: 119506
 source: https://deepwoken.fandom.com/wiki/Captain's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Erisia |
+| obtainment | Chests from:, First Layer, Duke Erisia, Maestro Evengarde Rest |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

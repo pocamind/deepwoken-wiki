@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 119326
+revid: 119518
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Erisia, Maestro Evengarde Rest (Black) |
+| obtainment | Chests from:, First Layer, Duke Erisia, Maestro Evengarde Rest (Both) |
 | description | "A hat typically worn by those from the Central Luminant." |
 
 ## Description

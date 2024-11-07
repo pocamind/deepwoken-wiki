@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119490
+revid: 119521
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -462,7 +462,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 10 Bloodrend
 
 -   _Hemorrhaging Blow_ \[Rare Talent\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)
-    -   The damage to healing conversion is 1:1.
+    -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
     -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however wouldn't work on things like Health Regen Potions or Conditioned Runner as that they are forms of passive healing.
     -   This works on healing outside of combat.
     -   Prerequisite: 95 Bloodrend, Master Bloodrender
@@ -2322,6 +2322,8 @@ _**"My cure is most effective."**_
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
+    -   25% backstab damage reduction.
+    -   Turtle Shell is pretty inconsistent, as some attacks will bypass it entirely and deal their full damage. Ex: [Sightless Beam](Oath%253A_Blindseer.md#abilities) and [Radiant Dawn](Oath%253A_Dawnwalker.md#abilities).
     -   Shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 119472
+revid: 119531
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -216,69 +216,80 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 -   Rarely, the [Monastery Champion Set](Monastery_Champion_Robes.md), the [Imperial Staff](Imperial_Staff.md), or [Lesser Relics](Relics.md)
 -   Extremely Rarely, a [Sinner's Ash](<Sinner's_Ash.md>)
 
-Exhaustive List of Items
+### 
 
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [Windrunner Robes](Windrunner_Robes.md)
--   [Justicar's Armor](<Justicar's_Armor.md>)
--   [Cloak of Winds](Cloak_of_Winds.md)
+An Exhaustive List of Items
 
- | 
-
--   [Monastery Champion Robes](Monastery_Champion_Robes.md)
--   Monastery Champion Beads
--   Monastery Cowl
--   All [Rings](Equipment.md#rings)
--   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
--   [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
--   [Celtor Commander Plate](Celtor_Commander_Plate.md)
--   [Sandrunner Wraps](Sandrunner_Wraps.md)
--   [Star Boots](Star_Boots.md)
--   [Confessor's Charm](<Confessor's_Charm.md>)
--   [Canticlysm Pendant](Canticlysm_Pendant.md)
--   Most [Earrings](Equipment.md#ears)
--   [Hivelord Mask](Hivelord_Mask.md)
--   [Smith Gloves](<Smith's_Gloves.md>)
--   [Smith Goggles](<Smith's_Goggles.md>)
--   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
--   [Grand Authority Plate](Grand_Authority_Plate.md)
-
- | 
-
--   [Purple Cloud](Purple_Cloud.md) (Guaranteed on the first kill with 80 stats into Medium)
--   [Pale Briar](Pale_Briar.md) (Guaranteed on first kill with 80 stats into Heavy)
--   [Cerulean Thread](Cerulean_Thread.md) (Guaranteed on first kill with 80 stats into Light)
--   [Crypt Blade](Crypt_Blade.md)
--   [Imperial Staff](Imperial_Staff.md)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Rosen's Hellflame](<Rosen's_Hellflame.md>)
--   [Wyrmtooth](Wyrmtooth.md)
--   [Iron Blunderbuss](Iron_Blunderbuss.md)
--   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
--   [Shattered Katana](Shattered_Katana.md)
--   [Forgotten Gladius](Forgotten_Gladius.md)
--   [Pale Morning](Pale_Morning.md)
--   [Anklets of Alsin](Anklets_of_Alsin.md)
--   [Alloyed Katana](https://deepwoken.fandom.com/wiki/Katana?so=search#Alloyed)
--   [Alloyed Dawnshot](https://deepwoken.fandom.com/wiki/Dawnshot?so=search#Alloyed)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [The Path's Defender](<The_Path's_Defender.md>)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
--   [Champion's Dagger](<Champion's_Dagger.md>)
--   [Whaling Knife](Whaling_Knife.md)
-
- | 
-
--   [Deep Gems](Deep_Gems.md)
--   [Enchant Stones](Enchant_Stone.md)
--   [Ardour Manifestation](Ardour_Manifestation.md)
--   [Smith's Alloy](<Smith's_Alloy.md>)
--   [Sinner's Ash](<Sinner's_Ash.md>)
--   [Armorer's Needle](<Armorer's_Needle.md>)
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).</td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbounded</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.)
+  <ol>
+    <li><a href="Cerulean_Thread.md"><font>Cerulean Thread</font></a> (Light)</li>
+    <li><a href="Purple_Cloud.md"><font>Purple Cloud</font></a> (Medium)</li>
+    <li><a href="Pale_Briar.md"><font>Pale Briar</font></a> (Heavy)</li>
+  </ol></li>
+    <li><b>Legendary Weapons</b>: <a href="Wyrmtooth.md"><font>Wyrmtooth</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff </font></a>, <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
+  <ol>
+    <li><b>Legendary Head</b>: <font>Monastery Cowl</font>.</li>
+    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Bloodfeather_Cowl.md">Bloodfeather Cowl</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Grand_Authority_Sallet.md">Bulwark Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Both Variants), <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipments</font></a></b>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a>, <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>.</li>
+    <li><b>Generic Arms</b>: <a href="Autumn_Pauldrons.md">Autumn Pauldrons</a>, <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (Both?), <a href="Grand_Authority_Plate.md">Grand Authority Plate</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, Overcoats (All Variants), Parkas (All Variants), <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Tracker's_Brace.md">Tracker's Brace</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a>, <a href="Woodland_Pauldrons.md">Woodland Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (Both Variants? We don't know if he drops it or not please test it for us).</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Both Variants), <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a>, <a href="Redsteel_Boots.md">Redsteel Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>:
+  <ol>
+    <li><b>Legendary Torso</b>: <font>Monastery Beads</font>.</li>
+    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Wheel_Pendant.md">Old World Sun Pendant</a>, <a href="Pathfinder_Lantern.md">Pathfinder Lantern</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants), <a href="Blindfold.md">Blindfold</a> (Base Only?), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Demon_Mask.md">Demon Mask</a>, Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Emerald_Tusk_Earrings.md">Emerald Tusk Earrings</a>, <a href="Master_Thief_Earrings.md">Master Thief Earrings</a>, <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Pendant_Earrings.md">Pendant Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>, <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>, <a href="Ruby_Pendant_Earrings.md">Ruby Pendant Earrings</a>. Essentially all Earrings.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
+    <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
 

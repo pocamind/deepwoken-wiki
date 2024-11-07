@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 119245
+revid: 119534
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Eastern Luminant, Mechanics]
@@ -54,126 +54,121 @@ It is worth nothing that flooding is decentivized, as you incur a point gain pen
 
 The Warchest is a collective point pool and emcompass the total score generated during War Mode. Once War Mode ends, the guild with the highest score wins. The Warchest score will dictate the value/amount of rewards to the winning guild, which is then shared with every living members with a chest spawning for each one.
 
-| Marked Player kill chest |
-| --- |
-| **Weapons** | **Equipment** | **Misc.** | **Schematics** |
-| 
--   [Adretian Axe](Adretian_Axe.md)
--   [Champion's Dagger](<Champion's_Dagger.md>)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Dawnshot](Dawnshot.md)
--   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
--   [Pernach](Pernach.md)
--   [Razor Cutlass](Razor_Cutlass.md)
--   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
--   [Shattered Katana](Shattered_Katana.md)
--   [The Path's Defender](<The_Path's_Defender.md>)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
--   TBA
+  
 
- | 
+## Loot Table
 
--   [Armorer's Ring](<Armorer's_Ring.md>)
--   [Authority Helm](Authority_Helm.md)
--   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
--   [Blackleaf Helm](Blackleaf_Helm.md)
--   [Bloodiron Ring](Bloodiron_Ring.md)
--   [Brilliant Pauldron](Brilliant_Pauldrons.md)
--   [Celtor Commander Plate](Celtor_Commander_Plate.md)
--   [Celtorian Sabatons](Celtorian_Sabatons.md)
--   [Dark Owl Cape](Dark_Owl_Cape.md)
--   [Dazed Band](Dazed_Band.md)
--   [Deepwoken Cloak](Deepwoken_Cloak.md)
--   [Feathertop Helm](Feathertop_Helm.md)
--   [Fur Boots](Fur_Boots.md)
--   [Fur Pauldrons](Fur_Pauldrons.md)
--   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
--   [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)
--   [Headband](Headband.md)
--   [Imperial Boots](Imperial_Boots.md)
--   [Investigator's Hat](<Investigator's_Hat.md>)
--   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
--   [Isshin's Ring](<Isshin's_Ring.md>)
--   [Khan Boots](Legion_Boots.md)
--   [Khan Pauldrons](Legion_Pauldrons.md)
--   [Light Eater Ring](Light_Eater_Ring.md)
--   [Mercenary's Garb](<Mercenary's_Garb.md>)
--   [Novice Boots](Novice_Boots.md)
--   [Old Blood Earrings](Old_Blood_Earrings.md)
--   [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
--   [Providence Coat](Providence_Coat.md)
--   [Sandrunner Wraps](Sandrunner_Wraps.md)
--   [Star Duster](Star_Duster.md)
--   [Star Boots](Star_Boots.md)
--   [Ring of Pestilence](Ring_of_Pestilence.md)
--   [Tracker's Boots](<Tracker's_Boots.md>)
--   [Tracker's Brace](<Tracker's_Brace.md>)
--   [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
--   [Warden Pauldrons](Warden_Pauldrons.md)
--   TBA
+Upon killing marked players or completing War Mode, several chests will spawn, these chests have several desirable items including:
 
- | 
+-   Multiple Mid-Late Game [Weapons](Weapons.md) for each weapon class, along with [Deep Gems](Deep_Gems.md), Legendary Rings and other [Equipment](Equipment.md).
+-   [Prophet's Cloak](<Prophet's_Cloak.md>) and other Outfits.
+-   Good endgame items and relics, such as; the [Warmaster's Medallion](<Warmaster's_Medallion.md>), the [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Lesser Relics](Relics.md).
 
--   TBA
+The full loot table is listed below:
 
- | 
+### 
 
--   TBA
+Marked Player Kill Chest
 
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>TBA</td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b>Head Equipment</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>.</li>
+    <li><b>Arm Equipment</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a>.<a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Providence_Coat.md">Providence Coat</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Tracker's_Brace.md">Tracker's Brace</a>, <a href="Warden_Pauldrons.md">Warden Pauldrons</a>.</li>
+    <li><b>Leg Equipments</b>: <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a> (Both?), <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>.</li>
+    <li><b>Torso Equipment</b>: <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>.</li>
+    <li><b>Face Equipment</b>: <a href="Headband.md">Headband</a> (Green and White).</li>
+    <li><b>Ear Equipment</b>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</li>
+    <li><b>Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>TBA</td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: TBA</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>.</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
-| Warchest |
-| --- |
-| **Weapons** | **Equipment** | **Misc.** | **Schematics** |
-| 
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Champion's Dagger](<Champion's_Dagger.md>)
--   [Champion's Sword](<Champion's_Sword.md>)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Iron Blunderbuss](Iron_Blunderbuss.md)
--   [Kanabo](Kanabo.md)
--   [Pernach](Pernach.md)
--   [Rockmaller](Rockmaller.md)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
--   TBA
+  
 
- | 
+### 
 
--   [Warmaster's Medallion](<Warmaster's_Medallion.md>)
--   [Bluesteel Boots](Bluesteel_Boots.md)
--   [Dawnfist's Ring](<Dawnfist's_Ring.md>)
--   [Deepwoken Hood](Deepwoken_Hood.md)
--   [Light Eater Ring](Light_Eater_Ring.md)
--   [Finisher's Ring](<Finisher's_Ring.md>)
--   [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
--   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
--   [Imperial Pauldrons](Imperial_Pauldrons.md)
--   [Khan Helmet](Legion_Helmet.md)
--   [Maestro's Ring](<Maestro's_Ring.md>)
--   [Mercenary's Garb](<Mercenary's_Garb.md>)
--   [Ministry Operative Cloak](Ministry_Operative_Cloak.md)
--   [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
--   [Ring of Pestilence](Ring_of_Pestilence.md)
--   [Waning Ring](Waning_Ring.md)
--   TBA
+Warchest
 
- | 
-
--   [Armorer's Needle](<Armorer's_Needle.md>)
--   [Sinner's Ash](<Sinner's_Ash.md>)
--   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
--   [Smith's Alloy](<Smith's_Alloy.md>)
--   [Void Spire](Void_Spire.md)
--   [Rain Spire](Rain_Spire.md)
--   [Enchant Stone](Enchant_Stone.md)
--   [Enchant Grease](Enchant_Grease.md)
--   [Deep Gems](Mantra_Modifiers.md)
--   TBA
-
- | 
-
--   [Black Diver](Black_Diver.md)
--   [Prophet's Cloak](<Prophet's_Cloak.md>)
--   TBA
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Black_Diver.md">Black Diver</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b>Head Equipment</b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>.</li>
+    <li><b>Arm Equipment</b>: <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>.</li>
+    <li><b>Leg Equipment</b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>.</li>
+    <li><b>Torso Equipment</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+    <li><b>Face Equipment</b>: TBA</li>
+    <li><b>Ear Equipment</b>: TBA</li>
+    <li><b>Rings</b>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
+    <li><b>Generic Rings</b>: <a href="Finisher's_Ring.md">Finisher's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Mantra_Modifiers.md#deep-gems">Deep Gems</a></li>
+    <li><a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li><a href="Enchant_Grease.md">Enchant Grease</a></li>
+    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
+    <li><a href="Rain_Spire.md">Rain Spire</a></li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Void_Spire.md">Void Spire</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
+    <li><b>Alloyed Weapons</b>: TBA</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Rockmaller.md">Rockmaller</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: TBA</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
