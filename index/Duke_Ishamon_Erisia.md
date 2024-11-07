@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 119109
+revid: 119466
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -277,7 +277,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   The ability to obtain the [Pillars of Erisia](Galebreathe.md) Mantra in a Whisper hand with sufficient Galebreathe.
 -   [Resonance](Resonance.md) (Bell) progression.
-    -   It will take around 6-12 Dukes with Max Resonance Progression Echo to unlock Resonance.
+    -   It will take around 6 Dukes with Max Resonance Progression Echo to unlock Resonance with either the boss path or the regalia and around 9-10 without the boss path or the regalia
 
 ## Dialogue
 

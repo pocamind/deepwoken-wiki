@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 119349
+revid: 119469
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -337,10 +337,9 @@ Lightning Cloak
 
  | A cloak of lightning itself. | 20 Ether | N/A | Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges).
 
--   A combative action, such as blocking parrying or attacking, must be used within **8 seconds** or the mantra is deactivated and goes on cooldown.
+-   A combative action, such as blocking parrying or attacking, must be used within **6.5 seconds** or the mantra is deactivated and goes on cooldown.
 -   Lasts a duration of 6.5 – 60 seconds.
 -   Cannot last longer than 60 seconds.
-    -   Can be modified with **Aeon/Eternal Logstones** to make the dashes go further.
 
  |
 

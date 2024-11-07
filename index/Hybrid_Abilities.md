@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 119198
+revid: 119465
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -929,3 +929,4 @@ kick.
 -   Tempest Blitz was the first hybrid mantra introduced into the game on 12/19/2023.
 -   Upon its release, Permafrost Prison was incredibly powerful and had to be quickly nerfed, causing it to be one of the quickest and harshest nerfs towards any mantra.
 -   [The Mystic](Mystic.md) can be used to guarantee hybrid [Mantras](Mantras.md) or [Talents](Talents.md) in your next whisper hand if the requirements have been met.
+-   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
