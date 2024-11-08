@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 118285
+revid: 119564
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -182,7 +182,7 @@ Warning: This quest is exceptionally difficult. Recommended for high-level and p
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about the [Lord Regent's](The_Lord_Regent.md) reputation as a ruler.
 -   Talk to Bookkeeper [Andros](Bookkeeper_Andros.md) in the library.
 
--   After talking to [Andros](Bookkeeper_Andros.md), head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md))
+-   After talking to [Andros](Bookkeeper_Andros.md), head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro you)
 
 -   Make sure you talk to the [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) to tell them that the the Lord Regent is expecting you, making them docile unless provoked.
 

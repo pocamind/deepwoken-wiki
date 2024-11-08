@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 109766
+revid: 119547
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]

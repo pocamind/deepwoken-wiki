@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 107950
+revid: 119551
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -8,11 +8,13 @@ categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, The K
 
 # Old Knife of Eylis
 
+Template:EnemyInfobox1.0
+
 ## Description
 
-An Old Knife of Eylis are more experienced mercenaries from the [Knives of Eylis](The_Knives_of_Eylis.md), whose identity is concealed by wearing a [hood](<Assassin's_Hood.md>). They will hunt the player if their reputation with the Knives of Eylis is set to [Hunted](Faction_Ambushes.md). Template:EnemyInfobox1.0
+An Old Knife of Eylis are more experienced mercenaries from the [Knives of Eylis](The_Knives_of_Eylis.md), whose identity is concealed by wearing a [hood](<Assassin's_Hood.md>). They will hunt the player if their reputation with the Knives of Eylis is set to [Hunted](Faction_Ambushes.md).
 
-## Moves
+## Moveset
 
 An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), alongside a [Whaler Scarf](Whaler_Scarf.md), accompanied by a set of Grand Pauldrons and a Crimson Assassin Hood. Their weapon only consists of a [Whaling Knife](Whaling_Knife.md), and is guaranteed to hold an enchantment:
 

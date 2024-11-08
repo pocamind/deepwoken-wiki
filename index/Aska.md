@@ -1,9 +1,9 @@
 ---
 title: Aska
-revid: 119481
+revid: 119538
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1, Weapons, Bosses, Enemies]
+categories: [NPCs, Layer 2, Floor 1, Weapons, Enemies]
 ---
 
 # Aska

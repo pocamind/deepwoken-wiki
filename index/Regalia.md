@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 114929
+revid: 119561
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -65,6 +65,10 @@ Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by a
 ### Inspired
 
 Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. [Sibex](Sibex.md)'s dialogue doesn't change.
+
+-   Activates at power 11
+-   Permanent on slot which you obtained it (Wiping doesn't take it away like "Mute")
+-   Has around 5 seconds cooldown named "Inspired" after slaying mob (Appears within combat cooldowns, so one can tell having regalia via this method)
 
 ### **Worthy**
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119509
+revid: 119563
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Attunement]
 
 # Bloodrend
 
-“ Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet... But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?. ”
+“ Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet... But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood? ”
 
 ― ???
 
@@ -20,17 +20,17 @@ Bloodrend Icon
 
 **Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
-Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. One major flaw Bloodrend suffers from is its focus on single-target combat, as blood poison decays, making it hard to achieve high percentages of BP against multiple enemies.
+Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
 ## Obtainment & Training
 
-> "_Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet..._ _But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?"._
+> "_Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet..._ _But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood?"_
 
 ### Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), named [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in a igloo on the east side of [Firfire village](Firfire.md), caring for an injured Diver, she is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) within [the second layer](Second_Layer/The_Ethironal_Shrine.md). To unlock Bloodrend, you first need to kill Chaser at least once on the slot you wish to unlock the Attunement on. After killing Chaser, re-enter layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, which is aching for her. She mentions **Bloodrend** and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships.
+The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in an igloo on the east side of [Firfire Village](Firfire.md), caring for an injured Diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, which is aching for her. She mentions **Bloodrend** and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships.
 
-After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [3 Heartstars](Heartstar.md) from their corpses.
+After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition that the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [3 Heartstars](Heartstar.md) from their corpses.
 
 Walk out the building, and run around the village for a while. The blood-renders will notice you as a threat and begin to engage. Kill all the three cultists for 3 Heartstars, and return to Vyrelda to get the Curseblood potion. Upon usage, your body aches in pain for a split second. You have gained access to Bloodrend.
 
@@ -38,7 +38,7 @@ Walk out the building, and run around the village for a while. The blood-renders
 
   
 
-After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her), and it will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
+After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her.) It will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
 
 ### Training
 
@@ -49,7 +49,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Power 1, players will receive the _Bloodrender_ Talent upon picking the Bloodrend Attunement on spawn.
 -   At Bloodrend level 20, players will receive the _Adept Bloodrender_ Talent. This allows players to use 1-star Bloodrend mantras.
 -   At Bloodrend level 30, players will receive the _Expert Bloodrender_ Talent. This allows players to unlock 2-star Bloodrend mantras.
--   Finally, at Bloodrend level 50, players will receive the _Master Bloodrender_ Talent. This finally allows Bloodrend users to unlock the last category, 3-star Mantras. They also uniquely benefit from having 25% more blood capacity and increase blood regeneration.
+-   Finally, at Bloodrend level 50, players will receive the _Master Bloodrender_ Talent. This finally allows Bloodrend users to unlock the last category, 3-star Mantras. They also uniquely benefit from having 25% more blood capacity and increased blood regeneration.
 
 The [Attunement](Attunements.md) can be unlocked by entering Layer 2 in [Firfire](Firfire.md) near [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
@@ -884,9 +884,9 @@ N/A
 
  |
 
-## Trivia
+## Tips/Trivia
 
--   Temporary health acts like a second healthbar that takes damage before your normal healthbar does. Temporary health decays over time is is given and used by certain bloodrend talents.
+-   Temporary health acts like a second healthbar that takes damage before your normal healthbar does. Temporary health decays over time and is used or consumed by certain Bloodrend talents.
     -   Some things bypass temporary health and deal damage to your normal healtbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) [Corrupted Bell](Resonance.md#corrupted-resonances) downside.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   20% - _**Vasculitis**_ Talent is Activatable

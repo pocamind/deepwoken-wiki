@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 107911
+revid: 119540
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Summer Company, Quests]
@@ -19,7 +19,7 @@ categories: [NPCs, Summer Company, Quests]
 
 ## Description
 
-The Guy is a Canor that works for the [Summer Company](The_Summer_Company.md), found with his team near the Meteor Isle. By providing him with 3 spider eggs, he'll let you use to the Cannon found in [Summer Isle](Summer_Isle.md). Alternatively, you could pass a Charisma check requiring 40 CHA.
+The Guy, simply The Guy, is a Canor that works for the [Summer Company](The_Summer_Company.md), found with his team near the Meteor Isle. By providing him with three Spider Eggs, he'll allow rats (read: you) to use the Cannon found in [Summer Isle](Summer_Isle.md). Alternatively, rats (read: still you) may pass a Charisma check requiring 40 CHA.
 
 ## Dialogue
 
@@ -83,9 +83,9 @@ The Guy is a Canor that works for the [Summer Company](The_Summer_Company.md), f
 ## Trivia
 
 -   The Guy is voiced by head moderator HorrorTM.
-    -   Arch\_Mage was wondering who to get to voice The Guy, only for moderator fabiosans to send an audition by Horror in the artist-general chat in discord. The audition was so well received by the members and Arch\_Mage that it was instantly accepted.
+    -   Arch\_Mage was wondering who to get to voice The Guy, only for moderator fabiosans to send an audition by Horror in the artist-general chat in the official Deepwoken discord. The audition was so well received by the members and Arch\_Mage that it was instantly accepted.
 -   The Guy's Eyeglasses have the exact same model as the Polarized Eyeglasses.
 -   The Great Megalodaunt Rising is what he is referring to when he says "The Rumbling of 1291".
 -   The Guy's hair ID is 4735347390, combined with his Canor sideburns.
 -   Apparently is good friends with Destroyman III.
--   After taking his sunglasses, his name changes from "The Guy" to simply "Guy", also his voice becomes high-pitched, as if he lost all of his testosterone upon losing his glasses.
+-   After taking his sunglasses, his name changes from "The Guy," who was simply The Guy, to simply "Guy," who is simply, a Guy. Also his voice becomes high-pitched, as if he lost all of his testosterone upon losing his glasses.

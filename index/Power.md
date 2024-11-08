@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 117274
+revid: 119537
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -50,6 +50,7 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 -   [Thundercall](Thundercall.md) (**LTN**)
 -   [Shadowcast](Shadowcast.md) (**SDW**)
 -   [Ironsing](Ironsing.md) (**MTL**)
+-   [Bloodrend](Bloodrend.md) (**BLD**)
 
 ## Trivia
 

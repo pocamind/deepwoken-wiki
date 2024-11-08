@@ -1,9 +1,9 @@
 ---
 title: Vigil Captain
-revid: 103745
+revid: 119549
 source: https://deepwoken.fandom.com/wiki/Vigil_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Kingdom of Etrea Enemies]
+categories: [Enemies, Kingdom of Etrea Enemies, Enemies that can wield Enchantments]
 ---
 
 # Vigil Captain
@@ -39,5 +39,4 @@ A Vigil Captain executes its opponent after knocking them:
 
 ## Trivia
 
--   Their name and moveset seem to imply they are the elites of the Etrean military, while the [Etrean Soldier](Etrean_Soldier.md) are the lesser, more poorly trained variant.
--   Their appearance is identical to a [Vigil Swordman](Vigil_Swordsman.md). with the main difference being their moves and the fact that they are able to use Enchantments.
+-   Their appearance is identical to a [Vigil Swordsman](Vigil_Swordsman.md). The main differences are their moves and the fact that they are able to use Enchantments.
