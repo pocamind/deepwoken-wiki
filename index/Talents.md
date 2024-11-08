@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119521
+revid: 119665
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3069,10 +3069,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)
     -   Also reduces burn dealt by 20%.
     -   Prerequisite: [Power](Power.md) 10
+    -   Works well with [Silentheart](Oath%253A_Silentheart.md).
     -   Mutual Exclusive: Everchanging Aegis
 
 -   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 10% less damage from airborne enemies.
-    -   Obtained from [Star Duster](Star_Duster.md)
+    -   Obtained from [Star Duster](Star_Duster.md).
     -   Prerequisite for Equipment: [Power](Power.md) 10
 
 -   Surestep \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.

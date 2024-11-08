@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 119040
+revid: 119660
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -1431,6 +1431,15 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
 -   The Hive held a monopoly on the Attunement, prior to the birth of [Adar](Adar,_Master_of_Metal.md), who spread it to the wider world.[\[2\]](#cite-note-arch-2)
     -   Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.[\[2\]](#cite-note-arch-2)
+
+### Bloodrend
+
+**Lore Sources:** Vyrelda
+
+-   The power to control, manipulate, and conjure your own blood.
+-   It is used as both a Ministry oath and an attunement.
+    -   Vyrelda states that as an oath, it is destructive and drains others lifeforce, but as an attunement it is able to be "both a salve and a weapon"
+-   Bloodrend is only mainly accessible to those who swear an oath to the Second Prophet of the Ministry, some are able to find loopholes though
 
 ### Water Magic
 

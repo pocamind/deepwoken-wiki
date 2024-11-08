@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 95071
+revid: 119661
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -115,7 +115,7 @@ Chili's Ship
 -   It is possible for there to not be any Armor.
 -   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from Chili.[\[1\]](#cite-note-1)
 -   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
--   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning several Cloaked Assassins.
+-   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning around 6 Cloaked Assassins.
     -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have Chili present.
     -   Some of them spawn several undocumented enemies affiliated with the Knives of Eylis, but this is a lot rarer.
         

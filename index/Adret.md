@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 118833
+revid: 119622
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -97,6 +97,8 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 -   Xaret
 -   Yuset
     
+
+  
 
 ## Trivia
 

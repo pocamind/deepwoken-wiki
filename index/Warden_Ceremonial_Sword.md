@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 118010
+revid: 119666
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority]
@@ -39,3 +39,4 @@ The Unique Critical for this weapon is similar to the [Halberd](Halberd.md), bei
 -   At max MED, the damage is (25.9)
 -   Has the second fastest medium sword swing speed in the game, alongside the **[Alloyed Falchion](Falchion.md)**, but is beat by the **[Scimitar](Scimitar.md)**.
 -   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
+-   It's model is a slight redesign of the oldest model for [Curved Blade of Winds](Curved_Blade_of_Winds.md), with a slight change in the color and type of handguard, the color of the handle and the width of the blade.

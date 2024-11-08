@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 118472
+revid: 119658
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -141,7 +141,7 @@ You can do Trial of One.
 
 -   Your starting reputations are:
     -   Friend of The Ignition Union and Lost Celtor
-    -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions
+    -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions. Additionally, it's impossible to get above Neutral repuation with the Summer Company, unless you do [Trig's](Trig.md) quest.
 -   Grants the Innate Talent "Union Card"
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>) or [The Chariot's Spire](<The_Chariot's_Spire.md>).
     -   **\[PRO\]** Increased EXP Gain from dungeons (ex: layer 2, Saramaed hollow, Duke, and Ferryman) and jobs...
@@ -207,6 +207,7 @@ The following is speculation:
 -   Ignition Delver is apparently hated on for being "overhyped" and "overrated".
 -   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
+-   Despite the Summer Company and the Ignition Union's rivalry, Summer Company NPCs won't react any differently if you are an Ignition Delver.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 118977
+revid: 119621
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1766,7 +1766,6 @@ Some players have access to customized, unique names.
 -   The name Tharson may be a reference to the game Risk of Rain.
 -   The name Tristram may be a reference to a location in the game Diablo.
 -   The name Alvida is a reference to the anime and manga series, One Piece.
--   The names Antarc and Rutile are references to the anime and manga series, Houseki no Kuno.
 -   The name Azula is a reference to the animated series, Avatar: the Last Airbender.
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
@@ -1781,7 +1780,7 @@ Some players have access to customized, unique names.
 -   The name Corvo is a reference to Corvo Attano, the protagonist of Dishonored.
 -   The name "Heathcliff" is a reference to the protagonist with the same name from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) by Emily Brontë. (Or maybe, Limbus Company?)
 -   The name Dogbert is a reference to [a megalomaniacal dog](https://dilbert.fandom.com/wiki/Dogbert)
--   The name Phos is a reference to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
+-   The names Phos, Cinnabar, Rutile, Antarc, and Padparadscha are references to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
 -   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.
 
 ## References
