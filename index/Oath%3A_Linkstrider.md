@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 119696
+revid: 119702
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -98,13 +98,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
         -   Leech ticks can proc [Hard Read](Talents.md).
 
-## Tips/Trivia
+## Trivia
 
--   Recommended for support-based builds (e.g., Flame Vow of Mastery).
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
     -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
--   Symbiotic Sustain can be combined with either a Blessed or Bloodless Gem in order to either gain a halved cooldown or regain some lost health. Blessed Gem is recommended due to being able to frequently heal ally HP.
-    -   [Deepscorn Casque](Deepscorn_Casque.md) reduces the damage from Symbiotic Sustain.
--   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it deals heavily reduced damage.
 -   Scarlet Lotuses are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardless of who places them.

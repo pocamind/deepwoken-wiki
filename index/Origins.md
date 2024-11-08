@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 119658
+revid: 119728
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -86,9 +86,9 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ## Voidwalker
 
-“ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
-
-― Flavor Text
+> “ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
+> 
+> ― Flavor Text
 
 **_Obtainment_:** On a single character, grip 5 players who are not allied with you (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble. You will be warped to the [Voidheart](Voidheart.md), where you need to talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) to receive the origin.
 
@@ -100,7 +100,6 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
         -   You can no longer teleport through the [Voidmother](The_Voidmother.md) if you are combat tagged.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
-    -   **\[CON\]** Everyone hates you
 -   Grants the Knives of Eylis Talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
@@ -118,7 +117,6 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md), [The Divers](The_Divers.md).
 -   **\[PRO\]** Can leave the Voidheart and do the Trial of One for faster levelling up.
-    -   **\[CON\]** ...but can't use the Shrine of Solitude.
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions and The Summer Company.
@@ -127,9 +125,9 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ## Ignition Delver
 
-“ Just another day on the job. The riches below ain't gonna extract themselves now, are they? ”
-
-― Flavor Text
+> “ Just another day on the job. The riches below ain't gonna extract themselves now, are they? ”
+> 
+> ― Flavor Text
 
 _**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld.
 
@@ -141,7 +139,7 @@ You can do Trial of One.
 
 -   Your starting reputations are:
     -   Friend of The Ignition Union and Lost Celtor
-    -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions. Additionally, it's impossible to get above Neutral repuation with the Summer Company, unless you do [Trig's](Trig.md) quest.
+    -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions.
 -   Grants the Innate Talent "Union Card"
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>) or [The Chariot's Spire](<The_Chariot's_Spire.md>).
     -   **\[PRO\]** Increased EXP Gain from dungeons (ex: layer 2, Saramaed hollow, Duke, and Ferryman) and jobs...

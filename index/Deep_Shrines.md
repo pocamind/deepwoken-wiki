@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 119454
+revid: 119706
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -206,7 +206,7 @@ Shrine Of Unification
 ― Shrine Of Unification
 
   
-Located in the [Starfield Veldt](Starfield_Veldt.md) in a hole hidden behind a tree.
+Located in the [Starfield Veldt](Starfield_Veldt.md) (next to [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) from the [Starkindred](Oath%253A_Starkindred.md) progression) in a hole hidden behind a tree.
 
 ## Effect
 

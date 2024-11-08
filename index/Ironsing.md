@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 119347
+revid: 119705
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -845,15 +845,19 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
--   On release, Ironsing had 12 mantras and 11 Talents.
+-   On release, Ironsing had 12 mantras and 11 Talents, making it the most content lacking Attunement during its release.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
--   **Needle Barrage** is practically identical to Autumn Rain from Rogue Lineage.
-    -   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, in which her signature move is shooting a line of matchlock rifles towards her enemy. Or it may be a toned down version of an attack used by Gremmy Thoumeaux from the Bleach Series, where he summons an arsenal of guns behind him and shoots at the enemy.
+-   **Needle Barrage** is practically identical to Autumn Rain from Monad Studios' **Rogue Lineage**.
+-   **Firing Line** could be a reference to [Oda Nobunaga](https://fategrandorder.fandom.com/wiki/Oda_Nobunaga) from the **Fate/Series**, in which her signature move being shooting a line of matchlock rifles towards her enemy.
+    -   It could also be a toned down version of an attack used by [Gremmy Thoumeaux](https://bleach.fandom.com/wiki/Gremmy_Thoumeaux) from the **Bleach** Series, where he summons an arsenal of guns behind him and shoots at an enemy.
+
+-   **Metal Gatling** could be a reference to [Katakuri's](https://onepiece.fandom.com/wiki/Charlotte_Katakuri) move called "Mochi Gatling" from the anime "**One Piece**".
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
--   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md). (Ironsing's Hero Blade would probably just be a literal sword, anyways.)
--   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray
+-   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md).
+    -   Given the lore of Ironsing, Ironsing's Hero Blade would most probably be the most boring of them all.
+
+-   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray.
 -   Ironsing is called 'Element' in the game's code.
--   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect.
     -   Using Irithine gives a green particle effect. Effects unknown.
@@ -861,6 +865,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Similarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.
--   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th August, 2024 update, 466 days after the attunement's release.
+-   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th of August, 2024 update, 466 days after the attunement's release.
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

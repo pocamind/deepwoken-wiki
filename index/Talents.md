@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119697
+revid: 119727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -972,7 +972,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I believe in the men who followed Pleeksty before."**_
 
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
-    -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
+    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: Rising Flame, Flame Leap, Flame Leap (Reversal Spark), Rising Frost, Lightning Impact. There may be more that do, and simply aren't documented yet.
+    -   Some mantras, despite leaving both players in the air, dont activate Meteor Impact, such as Rising Wind.
+    -   Prerequisites: Rising Flame, 25 Flamecharm
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm

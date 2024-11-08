@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 118770
+revid: 119704
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -79,6 +79,7 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 ### Rewards
 
 -   [Hallowtide Weapons](Hallowtide.md#description)
+-   [Hallowtide Equipment](Hallowtide.md#description)
 -   [Umbral Obsidian](Umbral_Obsidian.md)
 -   [Gems](Treasures.md)
 -   [Mantra Modifiers](Mantra_Modifiers.md)

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 119469
+revid: 119701
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -186,6 +186,7 @@ Thunder Kick
 -   8 Second Cooldown.
 -   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
+    -   Doesn't work if the initial kick guardbroke the target (needs further testing)
 
  |
 |  | 

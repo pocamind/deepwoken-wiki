@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 119087
+revid: 119707
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,9 +16,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Ministry Bloodrenders are a tri-group of blood cultists, working under the second prophet of [The Ministry](The_Ministry.md). They utilize [Bloodrend](Bloodrend.md) Mantras and their [Krulian Knives](Krulian_Knife.md) to defeat their adversaries.
 
-According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are watching her every move under the Second Prophet's orders, as Vyrelda only became his student for the attunement, and wishes not to be a part of the Ministry.
-
-To kill them is to release a weight off another's shoulders.
+According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are hunting her under the Second Prophet's orders, due to having left the Ministry.
 
 ## Moves
 
