@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 119443
+revid: 119671
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -123,6 +123,12 @@ A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat th
 -   Ventad
 -   Yolad
     
+
+## Gallery
+
+### Masks/Adornments
+
+These are no longer in the game as of 1/22/2023.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 119161
+revid: 119674
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons]
@@ -10,6 +10,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 
 | Darksteel Greatsword | |
 |---|---|
+| type | Greatsword |
 | requirements | 40 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 26 |
 | scaling | HVY: 7 / HVY: 8 |
@@ -17,6 +18,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | chip damage | 10% |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
 | weight | 9 |
 | bankable | Yes |

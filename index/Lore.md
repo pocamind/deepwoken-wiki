@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 119660
+revid: 119675
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links]
@@ -1408,7 +1408,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Nightblood can be harvested through a machine that drains the ether of those placed in it.
 -   Considered taboo, as it exists to drain life.[\[1\]](#cite-note-rag-1)
 
-### Lifeweavers
+### Lifeweave
 
 **Lore Sources:** _Regek (Mentioned), The Lament of Cirryn_
 
@@ -1434,12 +1434,12 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Bloodrend
 
-**Lore Sources:** Vyrelda
+**Lore Sources:** _Vyrelda_
 
 -   The power to control, manipulate, and conjure your own blood.
--   It is used as both a Ministry oath and an attunement.
-    -   Vyrelda states that as an oath, it is destructive and drains others lifeforce, but as an attunement it is able to be "both a salve and a weapon"
--   Bloodrend is only mainly accessible to those who swear an oath to the Second Prophet of the Ministry, some are able to find loopholes though
+-   It is used as both a Ministry Oath and an Attunement.
+    -   Vyrelda states that as an Oath, it is destructive and drains others lifeforce, but as an Attunement it is able to be "both a salve and a weapon".
+-   Bloodrend is only mainly accessible to those who swear an Oath to the Second Prophet of the Ministry, though the vows of the Oath can be changed, as in the case of Chaser and Vyrelda,
 
 ### Water Magic
 

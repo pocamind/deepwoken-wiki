@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 117825
+revid: 119696
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -84,7 +84,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 -   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
-    -   Recommended to be used with a Blessed Gem, but using it with a Bloodless will make it deal reduced self damage.
+    -   Does not work with any deep gem besides Blue.
     -   Strongly recommended to be used with [Deepscorn Casque](Deepscorn_Casque.md), since it reduces the damage done to you from the mantra by about 50%.
 
 -   **Parasitic Leech (Mantra)**
@@ -95,6 +95,8 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Blockable. While blocking may stop the damage, it will not stop the caster's healing. Counts as damage towards weak block, making the target unable to block.
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
         -   Can be used with Bloodless to heal more health.
+        -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
+        -   Leech ticks can proc [Hard Read](Talents.md).
 
 ## Tips/Trivia
 

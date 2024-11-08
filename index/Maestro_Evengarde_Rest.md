@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 119531
+revid: 119683
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -218,7 +218,9 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 
 ### 
 
-An Exhaustive List of Items
+**Exhaustive Loot Table**
+
+**Keep in mind that this list is still incomplete.**
 
 <table>
 <tbody>
@@ -227,10 +229,25 @@ An Exhaustive List of Items
   <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).</td>
 </tr>
 <tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+  </ul></li>
+    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+  </ul></td>
+</tr>
+<tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbounded</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.)
+    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.)
   <ol>
     <li><a href="Cerulean_Thread.md"><font>Cerulean Thread</font></a> (Light)</li>
     <li><a href="Purple_Cloud.md"><font>Purple Cloud</font></a> (Medium)</li>
@@ -245,18 +262,6 @@ An Exhaustive List of Items
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
   </ul></td>
 </tr>
 <tr>

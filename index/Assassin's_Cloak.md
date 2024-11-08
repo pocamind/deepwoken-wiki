@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 119325
+revid: 119692
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -15,18 +15,18 @@ categories: [Items, Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +6 Health, 3% Stealth, +2 Rare Pip , 1 Legendary Pip |
+| innate stats | +6 Health, 3% Stealth, +2 Rare Pip, 1 Legendary Pip |
 | innate talent | Lowstride |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Calamus (Pale), Cloaked Assassins (Crimson, Gold), The Ferryman (Crimson, Mist, Gold) |
+| obtainment | Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Calamus (Pale), Cloaked Assassins (Crimson, Gold), The Ferryman (Winter Only. Crimson, Mist, Gold.) |
 | description | "..." |
 
 ## Description
 
-The **Assassin's Cloak** is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6 Health, 3% Stealth, 3 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md#assassin) Lowstride. It is rarely found in chests from [The Ferryman](The_Ferryman.md), [Aelita](Aelita.md), [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Rogue Constructs](Rogue_Construct.md), and [Scyphozia](First_Layer.md), with the Pale variant being frequently found in chests from [Calamus](Calamus.md). Other variants may also be dropped by [Cloaked Assassins](Cloaked_Assassin.md).
+The **Assassin's Cloak** is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6 Health, 3% Stealth, 3 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md#assassin) Lowstride. It is rarely found in chests from [The Ferryman](The_Ferryman.md) (Winter), [Aelita](Aelita.md), [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Rogue Constructs](Rogue_Construct.md), and [Scyphozia](First_Layer.md), with the Pale variant being frequently found in chests from [Calamus](Calamus.md). Other variants may also be dropped by [Cloaked Assassins](Cloaked_Assassin.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119665
+revid: 119697
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2322,9 +2322,10 @@ _**"My cure is most effective."**_
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
-    -   25% backstab damage reduction.
+    -   25% damage reduction to attacks from the back.
     -   Turtle Shell is pretty inconsistent, as some attacks will bypass it entirely and deal their full damage. Ex: [Sightless Beam](Oath%253A_Blindseer.md#abilities) and [Radiant Dawn](Oath%253A_Dawnwalker.md#abilities).
-    -   Shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
+    -   Each time this talent takes effect, white square particles will release from around the user.
+        -   This shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
 ### Shipwright
