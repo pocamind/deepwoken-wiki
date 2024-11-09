@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 119753
+revid: 119828
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5540,11 +5540,9 @@ Found from:
 
  | 
 
-Makes your "M1" attack slower but do more posture damage.
+Makes your "M1" attack 10% slower but do 30% more posture damage.
 
   
-_+30% posture damage_  
-_\-15% swing speed_  
 
 +1 Uncommon Pip
 

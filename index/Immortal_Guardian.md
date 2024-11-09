@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 115012
+revid: 119827
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -77,5 +77,3 @@ An Immortal Guardian executes the player after knocking them.
     -   The only exception to this are pieces of stock dialogue used by other generic NPCs.
 -   According to TheRealPunchee, the armor that Immortal Guardians wear was actually the original design of the Arc Suit for the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md), created before the sketches for the current Arc Suit were even a thing.
     -   The "Crypt Arcwarder" as it's called in the video was ultimately scrapped due to not fitting the current artstyle of Deepwoken.
--   [Mute](Regalia.md)/Animal King works on them. If they knock you, they will say words like "Clown." or "PRAY." and let you get up instead of gripping you.
--   They can still have guard dialogues when attacked, even for players without Mute Regalia. This is (probably) unintentional.

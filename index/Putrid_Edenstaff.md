@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 118937
+revid: 119952
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item]
@@ -24,7 +24,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Widow's Wail Cemetery, Glaive Spellhardt [100 Joy] |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 114034
+revid: 119916
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,7 +30,8 @@ To access songs, you must read the corresponding book. These books can be obtain
 
 -   [_The Gideshu March_](https://youtu.be/IZgNo7Pv0hA)
 -   [_The Song of Fathoms_](https://youtu.be/I6rD5jW1qv0)
--   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8)
--   _[Carol of Resonances](https://www.youtube.com/watch?v=t89tvQBZhWQ)_
+-   [_A Memory of Tides_](https://youtu.be/Zu9uDHqFcS8)
+-   [_Carol of Resonances_](https://youtu.be/t89tvQBZhWQ)
+-   [_A Light in the Sky_](https://youtu.be/WSxvkVEJ8zs)
 
-**The [Nightwish](Yesterwynde_Tavern.md) event contains an quest which allows you to get gilded (black and gold) variants of the default instruments, they function/sound exactly the same.**
+**The [Nightwish](Yesterwynde_Tavern.md) event allowed you to get gilded variants of the instruments, they function/sound exactly the same.**

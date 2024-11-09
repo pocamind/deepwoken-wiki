@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 119401
+revid: 119864
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -48,7 +48,9 @@ The second Hallowtide added...
 
 The third Hallowtide added...
 
--   TBA
+-   [Death's Reverie](<Death's_Reverie.md>) (Twinblade)
+-   [Spectral Grasp](Spectral_Grasp.md) (Dagger)
+-   [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
 
 (\*-only available from the second week of the first Hallowtide.)
 

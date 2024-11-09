@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 117983
+revid: 119955
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Hallowtide |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
 
 ## Description
 

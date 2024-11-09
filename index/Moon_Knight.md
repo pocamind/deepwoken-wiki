@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 118387
+revid: 119935
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -69,6 +69,7 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 -   [Vow of Thorns](Echoes.md) and [Lootskipper](Talents.md) can help boost the chance of getting an Enchant Stone directly from a Moon Knight. Make sure to kill the Moon Knights both outside and inside.
 -   Moonscorched Blades do a decent amount of damage, but mostly serve as a distraction. Pay attention to the Moon Knight itself even if you take a few hits.
 -   Moonscorched Blades cannot pierce terrain, meaning it does nothing in the "arena" of Moon's Eyrie.
+-   The term "Moonscorch" comes from the game Fear and Hunger.
 
 ## Trivia
 

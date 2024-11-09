@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 119671
+revid: 119938
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Keepers of old knowledge,  
 they wander the lands offering their experience to those in need of it._
 
-Chance of obtaining race: **2.0%**
+Chance of obtaining race: **2.2%**
 
 ## Description
 

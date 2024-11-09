@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 119400
+revid: 119944
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -43,7 +43,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   12 Spears (14 if Alloyed)
 -   5 Clubs
 -   3 Rifles
--   3 Twinblades (4 if Alloyed)
+-   4 Twinblades (5 if Alloyed)
 
 #### Heavy Weapons
 
@@ -270,6 +270,19 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.25x</td>
   <td>0.05s</td>
   <td>26.2</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Spectral_Grasp"><font>Spectral Grasp</font></a></td>
+  <td>75 LHT</td>
+  <td>16</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>LHT: 7</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>1.23x</td>
+  <td>0.05s</td>
+  <td>27.7</td>
 </tr>
 <tr>
   <td><a href="Kyrsedge.md">Kyrsedge</a></td>
@@ -1411,7 +1424,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td>10%</td>
   <td>MED: 5</td>
   <td>5</td>
-  <td>7.5</td>
+  <td>8</td>
   <td>0.9x</td>
   <td>26.6</td>
 </tr>
@@ -1433,9 +1446,20 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
   <td><font>15%</font></td>
   <td><font>MED: 6</font></td>
   <td><font>6</font></td>
-  <td><font>8</font></td>
+  <td>8</td>
   <td><font>1x</font></td>
   <td><font>32.5</font></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Death's_Reverie"><font>Death's Reverie</font></a> (<b>Bleed</b>)</td>
+  <td>75 MED</td>
+  <td>18</td>
+  <td>15%</td>
+  <td>MED: 5</td>
+  <td>7.5</td>
+  <td>8</td>
+  <td>1.01x</td>
+  <td>35.6 (<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -1757,6 +1781,19 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.84x</td>
   <td>0.1s</td>
   <td>43.8</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Wretched_Mawblades"><font>Wretched Mawblades</font></a></td>
+  <td>55 HVY</td>
+  <td>28</td>
+  <td>N/A</td>
+  <td>15%</td>
+  <td>HVY: 8</td>
+  <td>8</td>
+  <td>8</td>
+  <td>0.84x</td>
+  <td>0.1s</td>
+  <td>51.4</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Kyrsieger"><font>Kyrsieger</font></a></td>

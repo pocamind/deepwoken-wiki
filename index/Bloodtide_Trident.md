@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 118345
+revid: 119954
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item]
@@ -24,7 +24,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Hallowtide |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
 | description | "..." |
 
 ## Description
