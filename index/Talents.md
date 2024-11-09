@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119727
+revid: 119820
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -49,7 +49,7 @@ Some Talents are **mutually exclusive** with other Talents, meaning picking one 
 
 _When it comes to mutually exclusive Talents, you can have either:_
 
--   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
+-   _Everchanging Aegis_ **or** _Return to the Jizzy Ages;'_
 -   _Risky Moves_ **or** _Safety Dance/Observation;_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
@@ -972,9 +972,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I believe in the men who followed Pleeksty before."**_
 
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
-    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: Rising Flame, Flame Leap, Flame Leap (Reversal Spark), Rising Frost, Lightning Impact. There may be more that do, and simply aren't documented yet.
-    -   Some mantras, despite leaving both players in the air, dont activate Meteor Impact, such as Rising Wind.
-    -   Prerequisites: Rising Flame, 25 Flamecharm
+    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: Rising Flame, Flame Leap, Flame Leap (Reversal Spark), Rising Frost, Rising Wind, and Lightning Impact. There may be more that do, but simply aren't documented yet.
+    -   Some mantras, despite leaving both players in the air, dont activate Meteor Impact, such as Skyshatter Kick (Round Spark)
+    -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
+        -   Rising Flame, Rising Thunder, Rising Wind, or Rising Shadow
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
@@ -1739,7 +1740,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 5 Willpower
 
 -   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)
-    -   Recover sanity when killing monsters in The Depths.
+    -   Recover sanity when killing monsters in The Depths, the amount depending on how strong the monster is.
     -   You regain Sanity when Allies grip a humanoid near you (either a player or a mob).
     -   Prerequisites: 10 Willpower, Breathing Exercise
 

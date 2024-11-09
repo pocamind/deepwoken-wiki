@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 112436
+revid: 119775
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Upcoming content, Oaths]

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 119683
+revid: 119751
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -270,7 +270,7 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
   <ul>
     <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
   <ol>
-    <li><b>Legendary Head</b>: <font>Monastery Cowl</font>.</li>
+    <li><b>Legendary Head</b>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a>.</li>
     <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Bloodfeather_Cowl.md">Bloodfeather Cowl</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Grand_Authority_Sallet.md">Bulwark Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Both Variants), <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipments</font></a></b>:
@@ -281,7 +281,7 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
     <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Both Variants), <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a>, <a href="Redsteel_Boots.md">Redsteel Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>:
   <ol>
-    <li><b>Legendary Torso</b>: <font>Monastery Beads</font>.</li>
+    <li><b>Legendary Torso</b>: <a href="Monastery_Beads.md"><font>Monastery Beads</font></a>.</li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Wheel_Pendant.md">Old World Sun Pendant</a>, <a href="Pathfinder_Lantern.md">Pathfinder Lantern</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants), <a href="Blindfold.md">Blindfold</a> (Base Only?), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Demon_Mask.md">Demon Mask</a>, Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>.</li>

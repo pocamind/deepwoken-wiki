@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 119458
+revid: 119776
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -260,7 +260,8 @@ _Use wind to uppercut and propel yourself into the air._
     -   Applies Knockdown frames on proc.
 -   Gives I-Frames throughout the duration of the mantra.
 -   Can be vented to cancel it early (If you hold down F after use, it will automatically parry when venting)
--   Doesn't proc Haunted Gale
+-   Doesn't proc _Haunted Gale_
+-   Can proc _Meteor Impact_
 
  |
 |  | 

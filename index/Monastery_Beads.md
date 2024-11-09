@@ -1,6 +1,6 @@
 ---
 title: Monastery Beads
-revid: 119686
+revid: 119756
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -8,12 +8,12 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 # Monastery Beads
 
-| Monastery Champion Beads | |
+| Monastery Beads | |
 |---|---|
 | type | Torso |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | None |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor, 1 Legendary Pip |
 | bankable | Yes |
@@ -25,9 +25,9 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 ## Description
 
-The Monastery Champion Beads are an [Equipment](Equipment.md) item under the "Torso" category.
+The Monastery Beads are an [Equipment](Equipment.md) item under the "Torso" category.
 
 ## Trivia
 
--   The Monastery Champion Beads are part of the "Monastery Champion" set, with the other pieces being the [Monastery Champion Robes](Monastery_Champion_Robes.md) and Monastery Champion Cowl.
+-   The Monastery Beads are part of the "Monastery Champion" set, with the other pieces being the [Monastery Champion Robes](Monastery_Champion_Robes.md) and [Monastery Cowl](Monastery_Cowl.md).
     -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.

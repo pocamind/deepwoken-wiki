@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 117173
+revid: 119750
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -39,7 +39,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Authority Peacekeeper Armour grants the [Talent Card](Talents.md) _Lowstride._
 
 -   Wearing the following Equipment(See below)
-    -   Head: [Assassin's Hood](<Assassin's_Hood.md>)(5%), Hood(4% for Black Hood, 2% from Brown Hood), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Dark Cowl](Dark_Cowl.md)(4%), [Dark Owl Chapeau](Dark_Owl_Chapeau.md)(10%), Monastery Champion Cowl(5%).
+    -   Head: [Assassin's Hood](<Assassin's_Hood.md>)(5%), Hood(4% for Black Hood, 2% from Brown Hood), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Dark Cowl](Dark_Cowl.md)(4%), [Dark Owl Chapeau](Dark_Owl_Chapeau.md)(10%), [Monastery Cowl](Monastery_Cowl.md)(5%).
     -   Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)(3%), [Dark Owl Cloak](Dark_Owl_Cloak.md)(6%), [Mercenary's Garb](<Mercenary's_Garb.md>)(6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md)(6%), [Sandrunner Wraps](Sandrunner_Wraps.md)(4%).
     -   Legs: **None :(**
     -   Torso: [Dark Owl Cape](Dark_Owl_Cape.md)(2%), Shrouded Capes(5%)

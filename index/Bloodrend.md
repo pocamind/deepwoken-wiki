@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119729
+revid: 119731
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,7 +18,7 @@ Bloodrend Icon
 
 ## Description
 
-**Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own periods.
+**Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
@@ -28,7 +28,7 @@ Bloodrenders excel in long fights, their power ramping up as the fight goes on d
 
 ### Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in an igloo on the east side of Firfire Village, caring for an injured diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, which is aching for her. She mentions Period Pads and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships… with middle aged men:
+The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in an igloo on the east side of Firfire Village, caring for an injured diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, which is aching for her. She mentions "Bloodrend" and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships…
 
 After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition that the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [3 Heartstars](Heartstar.md) from their corpses.
 
@@ -109,7 +109,7 @@ Bloodrend currently has a total of 17 mantras.
  |
 | 
 
- | Vicious Descent
+ | Viscous Descent
 
 (★☆☆)
 
@@ -161,7 +161,7 @@ Ether
  |
 | 
 
- | La Sangre de Sancho
+ | Veinbreaker
 
 (★★☆)
 

@@ -1,6 +1,6 @@
 ---
 title: Administrators
-revid: 85535
+revid: 119787
 source: https://deepwoken.fandom.com/wiki/Administrators
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Staff, Administrators]
@@ -8,9 +8,7 @@ categories: [Staff, Administrators]
 
 # Administrators
 
-These people help make sure the wiki is up to standards and in general do a little bit of everything. Currently there are 4 administrators
+These people help make sure the wiki is up to standards and in general do a little bit of everything. Currently there are two:
 
--   Idrante
--   SargentsteveEr aka Sarge
--   JBEquinox (no nickname)
+-   Blu Remote
 -   ArchRBX aka Arch\_Mage

@@ -1,6 +1,6 @@
 ---
 title: Moderators
-revid: 85537
+revid: 119786
 source: https://deepwoken.fandom.com/wiki/Moderators
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Staff, Moderators]
@@ -12,7 +12,6 @@ Content moderators mostly focus on dealing with vandalized pages, malicious cont
 
 Currently, there are 5 Content moderators:
 
--   Blu Remote
 -   Callofnate4510 aka NickMcNate
 -   Keayad aka Keyad
 -   Twibppp

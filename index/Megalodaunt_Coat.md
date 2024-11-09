@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt Coat
-revid: 116459
+revid: 119744
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Coats, Cool, Taxes]
+categories: [Items, Equipment, Arms, Coats]
 ---
 
 # Megalodaunt Coat

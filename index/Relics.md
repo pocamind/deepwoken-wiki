@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 119152
+revid: 119814
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -15,6 +15,10 @@ categories: [Pages with broken file links, Items, Equipment]
 ## Obtainable Relics
 
 Relics that can be obtained & used by players.
+
+### Combat Relics
+
+Relics meants to provide some kind of effect during combat
 
 | Image | Description | Obtainment |
 | --- | --- | --- |
@@ -64,8 +68,14 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [War Mode](War_Mode.md)
 
  |
-| 
 
+### Consumable Relics
+
+Consumables that improve the user in some shape or form
+
+| Image | Description | Obtainment |
+| --- | --- | --- |
+| 
  | **[Smith's Alloy](<Smith's_Alloy.md>)** - A cruder form of the famed Pluripotent Alloy that adds a quality star to your currently held weapon, or rerolls the quality-type of your currently held weapon if it already has 3 stars.
 
 -   _(Consumed upon usage)_
@@ -181,8 +191,14 @@ File:Forge Needle.png
 -   Crafting
 
  |
-| 
 
+### Equipment Relics
+
+Equipments with unique abilities not seen elsewhere
+
+| Image | Description | Obtainment |
+| --- | --- | --- |
+| 
  | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the ability "Elegy of Light". When activated, you are immune to all Deep Gem effects from any opponent for 3 minutes.
 
   

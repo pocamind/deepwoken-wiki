@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 119477
+revid: 119762
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
