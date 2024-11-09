@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 119031
+revid: 120008
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]
@@ -44,6 +44,8 @@ Due to the instability of New Kyrsa, there is a hard-set timelimit displayed thr
 
 ## NPCs
 
+-   [Naerotiv](../Naerotiv.md) - Kyrswynter
+-   [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md) - Kyrswynter
 -   Kaide, The Drowned Light
 -   [Cap'n Orlandeau](<../Cap'n_Orlandeau.md>)
 -   [Misérables](../Misérables.md) - **Grants Yun'shul Wishes and a temporary Strength Buff**

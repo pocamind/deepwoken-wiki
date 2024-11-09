@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 119731
+revid: 120022
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -101,10 +101,12 @@ Bloodrend currently has a total of 17 mantras.
 
  | Create a cyclone of blood. | 30 Ether | N/A | Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its ranged.
 
+-   18 seconds CD
 -   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial.
 
 -   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
     -   Both sparks can be paired together.
+    
 
  |
 | 
@@ -276,6 +278,7 @@ Ether
 
 -   Leveling up this mantra will increase its range.
 -   Deals moderate damage (Does most of the damage on the second hit, the dropkick).
+-   Can be modified by crystal/perfect lenses to increase its range.
 
  |
 

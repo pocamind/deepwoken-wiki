@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 119277
+revid: 120021
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -15,7 +15,7 @@ categories: [Items]
 
 ## Description
 
-Hallowtide Masks are Tools obtained from [Lysander Spellhardt](Lysander_Spellhardt.md) during [Hallowtide](Hallowtide.md). It can be used to spook NPCs (Each spook grants you 1 [Joy](Joy.md)). All NPCs have a 1-hour cooldown before they can be scared again. The mask can be worn whenever but cannot spook NPCs unless it is Hallowtide.
+Hallowtide Masks are Tools obtained from [Lysander Spellhardt](Lysander_Spellhardt.md) during [Hallowtide](Hallowtide.md). It can be used to spook NPCs (Each spook grants you 3 [Joy](Joy.md)). All NPCs have a 30 minutes cooldown before they can be scared again. The mask can be worn whenever but cannot spook NPCs unless it is Hallowtide.
 
 ## Obtainment
 

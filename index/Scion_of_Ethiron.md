@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 119703
+revid: 120001
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -18,8 +18,6 @@ Will wake to this world... ”
 ― Lost Divers' prayers
 
   
-**PSA: Ethiron is unable to spawn healthpacks since November 1. Please wait until the weekly update for this to be patched.**
-
 Template:Creature Infobox V3
 
 ## Description

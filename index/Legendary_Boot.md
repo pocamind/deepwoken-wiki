@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 111355
+revid: 120027
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, NPCs]
@@ -26,7 +26,7 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 
 > 1\. \[ Claim it\]
 
-> Something stirs within the depths of your soul, It's as if your very birth, your very reason for existing was meant for this moment. **(Requires 100 Light Weapon, Jus Karita, and the _WORTH_ [Regalia](Regalia.md).)**
+> Something stirs within the depths of your soul, It's as if your very birth, your very reason for existing was meant for this moment. **(Requires the _WORTH_ [Regalia](Regalia.md).)**
 
 > \[Just take it already\]
 

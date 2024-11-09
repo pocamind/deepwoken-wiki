@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 119979
+revid: 119987
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -44,4 +44,4 @@ To access songs, you must read the corresponding book. These books can be obtain
 
 ### Haunted Instruments
 
-**The [Hollowtide](Hallowtide.md) event allowed you to get haunted variants of the instruments, they function/sound exactly the same.**
+**The [Hallowtide](Hallowtide.md) event allowed you to get haunted variants of the instruments, they function/sound exactly the same.**

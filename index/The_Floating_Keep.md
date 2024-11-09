@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 119014
+revid: 120028
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -26,7 +26,7 @@ The Floating Keep is a temporary location in Deepwoken. (only found during Hallo
 In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander and Glaive for items. Joy can be exchanged for:
 
 -   [Void Feather](Dark_Feather.md) \[15 Joy\]
--   [Deep Gem](Deep_Gems.md) \[15 Joy\]
+-   Random Relic \[30Joy\]
 -   [Master Schematic](Outfits.md#master) \[20 Joy\]
 -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[30 Joy\]
 -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]

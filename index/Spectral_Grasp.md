@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 119958
+revid: 120025
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -16,6 +16,7 @@ categories: [Weapons, Pages with broken file links]
 | scaling | LHT: 7 |
 | range | 6.5 |
 | swing speed | 1.23x |
+| endlag | 0.05s |
 | penetration | 20% |
 | stances | 1 Handed |
 | selling price | 50 |

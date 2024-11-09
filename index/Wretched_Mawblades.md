@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 119959
+revid: 120023
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -39,4 +39,5 @@ Slash forward with both blades, before spinning around in a bloody slash.
 
 ## Trivia
 
--   The name "Grimlock Narsus" is a very blatant nod to [the Dinobot leader](https://en.wikipedia.org/wiki/Grimlock) from the _[Transformers](https://en.wikipedia.org/wiki/Transformers)_ franchise.
+-   Rephika is a [Chrysid](Chrysid.md) Surname, while Narsus is a [Khan](Khan.md) surname.
+-   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the Stone enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed on 09/11/2024.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 119944
+revid: 120016
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -25,7 +25,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
 -   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral enchant.
 
-[Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. ~Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.~ (Re-equipping your weapon will add at least 1 star to it)
+[Enchanted](Enchantments.md) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
 
 ### Total Amount of Weapons Available in the Game
 
@@ -1169,7 +1169,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>38(<b>Bleed</b>)</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Gremorian_Longspear#Alloyed"><font>Alloyed Gremorian Longspear</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Gremorian_Longspear#Alloyed"><font>Alloyed Longspear</font></a></td>
   <td><font>75 MED</font></td>
   <td><font>20</font></td>
   <td><font>10%</font></td>
