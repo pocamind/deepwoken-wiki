@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 119814
+revid: 119975
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -87,7 +87,7 @@ Consumables that improve the user in some shape or form
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
--   5\* Voidwalker Chests
+-   5 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [War Mode](War_Mode.md)
 
  |
@@ -100,7 +100,6 @@ Consumables that improve the user in some shape or form
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [The Ferryman](The_Ferryman.md) **(Exceedingly Rare)**
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -163,7 +162,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
--   5\* VoidWalker Chests
+-   5 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
 -   Etris Raid
 
  |

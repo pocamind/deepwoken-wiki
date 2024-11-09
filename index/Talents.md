@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 119820
+revid: 119982
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -49,7 +49,7 @@ Some Talents are **mutually exclusive** with other Talents, meaning picking one 
 
 _When it comes to mutually exclusive Talents, you can have either:_
 
--   _Everchanging Aegis_ **or** _Return to the Jizzy Ages;'_
+-   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
 -   _Risky Moves_ **or** _Safety Dance/Observation;_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
@@ -2941,7 +2941,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: Unbound Element or Weapon
+    -   Prerequisite: [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or a physical stat (STR, FTD or AGL) for the first time ever.
 
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
@@ -3155,7 +3155,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) weapons (HVY, MED or LHT) or your attunement.
+-   Obtained by [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or a physical stat (STR, FTD or AGL) for the first time ever.
 -   This Talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
 ## Outfit Talents

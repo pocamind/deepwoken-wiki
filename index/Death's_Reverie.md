@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 119957
+revid: 119969
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -38,3 +38,4 @@ Spin the weapon above your head before preforming a slam that lights enemies on 
 ## Trivia
 
 -   The description is a reference to the iconic line said by [Dr. Hannibal Lector](https://en.wikipedia.org/wiki/Hannibal_Lecter) from _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
+-   The design of the weapon was created with the help of user "iiPessimystic".

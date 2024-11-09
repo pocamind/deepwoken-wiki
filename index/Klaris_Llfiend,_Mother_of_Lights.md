@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 117922
+revid: 119973
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -190,7 +190,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   Dr. Diver<br>
   Kyrsan Medallions</td>
   <td colspan="3">Others<br>
-  A Lightkeeper</td>
+  A Lightkeeper<br>
+  Dawnwalker Skip</td>
 </tr>
 <tr>
   <td colspan="3">[See Floor 1 Standard]</td>
@@ -295,9 +296,9 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="6">Met Carrion? Saw Carrion? Talked to Carrion? Completed Carrion dialogue?</td>
 </tr>
 <tr>
-  <td colspan="3">11. Know anything about this? [Show Kyrsan Medallion]</td>
-  <td colspan="3">11. What do you have to offer?</td>
-  <td colspan="6">10. Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
+  <td colspan="3">12. Know anything about this? [Show Kyrsan Medallion]</td>
+  <td colspan="3">12. What do you have to offer?</td>
+  <td colspan="6">11. Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
 </tr>
 <tr>
   <td colspan="3">*Her eyes light up briefly* Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
@@ -328,28 +329,36 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
 </tr>
 <tr>
-  <td colspan="12">Talked to Nimea?</td>
+  <td colspan="6">Talked to Nimea?</td>
+  <td colspan="6">Have Dawnwalker, and have it maxed out once already</td>
 </tr>
 <tr>
-  <td colspan="12">10. You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="6">10. You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="6">13. I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
 </tr>
 <tr>
-  <td colspan="12">Ah... You must mean Vigh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
+  <td colspan="6">Ah... You must mean Vigh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
+  <td colspan="3">Requirements Met</td>
+  <td colspan="3">Not Enough Knowledge</td>
 </tr>
 <tr>
-  <td colspan="12">...How is she?</td>
+  <td colspan="6">...How is she?</td>
+  <td colspan="3">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this Oath with you.</td>
+  <td colspan="3">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
 </tr>
 <tr>
-  <td colspan="12">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
+  <td colspan="6">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
+  <td colspan="3">End, Maxed out Dawnwalker</td>
+  <td colspan="3">End</td>
 </tr>
 <tr>
-  <td colspan="12">Writing?</td>
+  <td colspan="6">Writing?</td>
 </tr>
 <tr>
-  <td colspan="12">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
+  <td colspan="6">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 119728
+revid: 119971
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -117,6 +117,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md), [The Divers](The_Divers.md).
 -   **\[PRO\]** Can leave the Voidheart and do the Trial of One for faster levelling up.
+    -   **\[CON\]** ...but can't use the Shrine of Solitude in the Trial of One, as only people with the Lone Warrior origin may make use of it.
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions and The Summer Company.

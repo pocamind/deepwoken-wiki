@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 119013
+revid: 119967
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,7 +38,9 @@ With the **Hallowtide '23 Medal**, you can obtain:
 
 With the **Hallowtide '24 Medal**, you can obtain:
 
--   TBA
+-   [Wretched Mawblades](Wretched_Mawblades.md) - ? Knowledge
+-   [Death's Reverie](<Death's_Reverie.md>) - ? Knowledge
+-   [Spectral Grasp](Spectral_Grasp.md) - ? Knowledge
 
 With the **Festival of a Billion Souls Medal**, you can obtain:
 

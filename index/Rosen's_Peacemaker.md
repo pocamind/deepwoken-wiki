@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 118042
+revid: 119965
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -33,13 +33,7 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 
 Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content update. It is among the first medium weapon [guns](Guns.md), including the [Iron Blunderbuss](Iron_Blunderbuss.md). Rosen's Peacemaker has 18 Base Damage and a scaling of 8, so it deals 26.1 damage at 75 MED and 28.8 damage at 100 MED. Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing attack and a longer-range firing attack during its M1 combo. The critical of Rosen's Peacemaker is a slightly slower version of its M1 firing cycle, but it shoots a projectile in the direction the wielder faces. The bullets do not incur parry stun on the attacker if they get parried at far range.
 
-## Enchantments
-
-**Sear:**
-
-**Elastic:**
-
-**Tears of Edenkite:**
+  
 
 ## Trivia
 

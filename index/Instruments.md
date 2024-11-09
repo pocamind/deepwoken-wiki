@@ -1,9 +1,9 @@
 ---
 title: Instruments
-revid: 119916
+revid: 119979
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Items]
 ---
 
 # Instruments
@@ -28,10 +28,20 @@ To access songs, you must read the corresponding book. These books can be obtain
 
 **The following songs can be played on the instruments:**
 
--   [_The Gideshu March_](https://youtu.be/IZgNo7Pv0hA)
--   [_The Song of Fathoms_](https://youtu.be/I6rD5jW1qv0)
--   [_A Memory of Tides_](https://youtu.be/Zu9uDHqFcS8)
--   [_Carol of Resonances_](https://youtu.be/t89tvQBZhWQ)
--   [_A Light in the Sky_](https://youtu.be/WSxvkVEJ8zs)
+-   [_The Gideshu March_](https://www.youtube.com/watch?v=IZgNo7Pv0hA)
+-   [_The Song of Fathoms_](https://www.youtube.com/watch?v=I6rD5jW1qv0)
+-   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8)
+-   [_Carol of Resonances_](https://www.youtube.com/watch?v=t89tvQBZhWQ)
+-   [_A Light in the Sky_](https://www.youtube.com/watch?v=WSxvkVEJ8zs)
 
-**The [Nightwish](Yesterwynde_Tavern.md) event allowed you to get gilded variants of the instruments, they function/sound exactly the same.**
+## Instrument Skins
+
+**These are the default skin of instruments**
+
+### Gilded Instruments
+
+**The [Nightwish x Deepwoken Promotional Event](Nightwish_x_Deepwoken_Promotional_Event.md) allowed you to get gilded variants of the instruments, they function/sound exactly the same.**
+
+### Haunted Instruments
+
+**The [Hollowtide](Hallowtide.md) event allowed you to get haunted variants of the instruments, they function/sound exactly the same.**
