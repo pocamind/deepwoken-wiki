@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 115778
+revid: 120123
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1]
@@ -42,4 +42,4 @@ If you talk to him with a Resonance and the Tarnished flaw, he will offer to unt
 -   Carrion means the flesh of a dead animal, which is fitting considering that he converts monster drops into mantras.
 -   In the dialogue with Klaris after interacting with Carrion in New Kyrsa: the player will note Carrion describing himself as "Dr. Diver".
 -   Hair id: 8213821125
--   As of 08/16, Doctor carrion untarnishes bells and is a permanent unlock. However, you still have to find him in New Kyrsa to get monster mantras from him.
+-   As of 08/16, Doctor Carrion untarnishes bells and is a permanent unlock. However, you still have to find him in New Kyrsa to get monster mantras from him.

@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 120102
+revid: 120137
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item]
@@ -31,7 +31,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item]
 
 The **Wretched Mawblades** is a heavy greatsword Hallowtide exclusive weapon. It can be brought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy. The weapon consists of two regular blades now covered in some sort of deformed flesh with teeth running along where the blade's edge used to be. Two eyes are present near the hilt. The pommel is also replaced with teeth, and teeth are, ironically, also present on the guard, giving the appearance of a mouth. In combination with the eyes, each blade's grip forms a screaming face.
 
-The swords are named "Canary Rephika" and "Grimlock Narsus," the names of the unfortunate souls converted into weaponry. Sow the wind, reap the whirlwind, power beyond measure.
+The swords are named "Canary Rephika" and "Grimlock Narsus," the names of the unfortunate souls converted into weaponry.
 
 ## Critical
 
@@ -39,9 +39,7 @@ Slash forward with both blades, before spinning around in a bloody slash.
 
 ## Trivia
 
--   The name "Grimlock Narsus" is a very blatant nod to [the Dinobot leader](https://en.wikipedia.org/wiki/Grimlock) from the _[Transformers](https://en.wikipedia.org/wiki/Transformers)_ franchise. Hence the [Furmanisms](https://tfwiki.net/wiki/Furmanism).
-    -   Funnily enough, the incarnation of [Optimus Prime](https://en.wikipedia.org/wiki/Optimus_Prime) from the [Transformers live action film series](<https://en.wikipedia.org/wiki/Transformers_(film_series)>) is well known for his desire to [steal people's faces](https://www.youtube.com/watch?v=SPfQfyPRG9c).
--   Rephika is a [Chrysid](Chrysid.md) surname, which tragically are neither vast, predatory, nor birds, while Narsus is a [Khan](Khan.md) surname.
+-   Rephika is a [Chrysid](Chrysid.md) surname, while Narsus is a [Khan](Khan.md) surname.
 -   The design of the blade is a mild homage to the _[Soulcalibur](https://en.wikipedia.org/wiki/Soulcalibur)_ series, specifically to [Soul Edge](https://soulcalibur.fandom.com/wiki/Soul_Edge) during his appearances in _[Soulcalibur II](https://en.wikipedia.org/wiki/Soulcalibur_II)_ and _[Soulcalibur III](https://en.wikipedia.org/wiki/Soulcalibur_III)_.[\[1\]](#cite-note-1)
 -   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the Stone enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed on 11/09/2024.
 -   Meeting the requirement of HVY, the damage is (39).

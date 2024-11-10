@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 119751
+revid: 120132
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -18,11 +18,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Maestro Evengarde Rest is the master of the Temple of the Blade and the current Maestro of Etrea. A powerful individual, he will train and assist only those who he sees fit, so that Etrea, its people and its culture may not be swept away in the machinations of other nations.
+Fraudstro Bumgarde "L"est is the master of the Temple of the Blade and the current Maestro of Etrea. A fraudulent individual, he will train and assist only those who he sees as fodder, so that He, can act like he's the strongest.
 
-Upon challenging Maestro Evengarde Rest to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards. If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
+Upon challenging Fraudstro Bumgarde "L"est to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards. If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw because **Fraudstro wants you to be as weakened as possible in the fight so he can win** (which can be removed by eventually defeating him). After beating Bumgarde once, you will not gain the Disgraced flaw upon further losses.
 
-To start the fight with Maestro Evengarde Rest:
+To start the fight with Fraudstro Bumbgarde "L"est:
 
 1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
@@ -33,7 +33,7 @@ If the requirements are fulfilled, a new dialogue option should appear when talk
 
 ## Moveset
 
-Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Katana.md) along with the [Galebreathe](Galebreathe.md) attunement:
+Fraudstro Bumgarde "L"est's arsenal consists of a [Shattered Katana](Shattered_Katana.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name/Risk | Description | Media |
 | --- | --- | --- |
@@ -159,32 +159,44 @@ Dodgeable:✗
 
 ## Finisher
 
-Maestro Evengarde Rest executes his opponent after knocking them:
+Fraudstro Bumgarde "L"est executes his opponent after knocking them:
 
-| Name | Description |
-| --- | --- |
-| **Air Pressure** | If any of Maestro Evengarde Rest's Gale moves bring you down to 0% HP, you die instantly. |
-| **Execute** | Pins down opponent before slicing their throat with their blade. |
+<table><caption>(Note: Fraudstro kills you and tries to send you to the depths as much as possible because he does not want you to get stronger which could led to you eventually defeating him).</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <td><b>Air Pressure</b></td>
+  <td>If any of Maestro Evengarde Rest's Gale moves bring you down to 0% HP, you die instantly.</td>
+</tr>
+<tr>
+  <td><b>Execute</b></td>
+  <td>Pins down opponent before slicing their throat with their blade.</td>
+</tr>
+</tbody>
+</table>
 
 ## Talents
 
--   Brick Wall - Maestro Evengarde Rest is immune to ragdoll and knockdowns.
--   Silencer's Blade - Maestro Evengarde Rest's basic attacks grant him a speed boost and extend active suffocation effects.
--   A World Without Song - Maestro Evengarde Rest's gale mantras apply Suffocation.
--   Risky Moves - Whenever Maestro Evengarde Rest dodges an attack, he'll automatically dodge the next one.
--   Ghost - Whenever Maestro Evengarde Rest dodges an attack, he turns invisible.
--   Chronostasis - Maestro Evengarde Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
--   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
+-   Brick Wall - Fraudstro Bumgarde "L"est is immune to ragdoll and knockdowns.
+-   Silencer's Blade - Fraudstro Bumgarde "L"est's basic attacks grant him a speed boost and extend active suffocation effects.
+-   A World Without Song - Fraudstro Bumgarde "L"est's gale mantras apply Suffocation.
+-   Risky Moves - Whenever Fraudstro Bumgarde "L"est dodges an attack, he'll automatically dodge the next one.
+-   Ghost - Whenever Fraudstro Bumgarde "L"est dodges an attack, he turns invisible.
+-   Chronostasis - Fraudstro Bumgarde "L"est's basic attacks puts the victim's Resonance on cooldown for four seconds.
+-   Guardbreak Resist - Fraudstro Bumgarde "L"est is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
 -   Pressure Break - If Maestro Evengarde Rest guardbreaks you, you'll get ragdolled and tossed back.
--   Stifled Jump - Jumping while suffocated by Maestro Evengarde Rest's Galebreathe will result in you getting dazed.
--   Showstopper - When rolling through one of Maestro Evengarde Rest's physical attacks, he will stomp the ground and daze you. Removes your speed buffs.
--   Bulldozer - Getting flourished into a wall by Maestro Evengarde Rest has a chance to guardbreak you.
--   Concussion - Getting flourished into a wall by Maestro Evengarde Rest causes your screen to blind and your daze to lengthen.
--   Spine Cutter - Getting hit from your back after Maestro Evengarde Rest does a roll cancel causes you to get a second slash.
+-   Stifled Jump - Jumping while suffocated by Fraudstro Bumgarde "L"est's Galebreathe will result in you getting dazed.
+-   Showstopper - When rolling through one of Fraudstro Bumgarde "L"est's physical attacks, he will stomp the ground and daze you. Removes your speed buffs.
+-   Bulldozer - Getting flourished into a wall by Fraudstro Bumgarde "L"est has a chance to guardbreak you.
+-   Concussion - Getting flourished into a wall by Fraudstro Bumgarde "L"est causes your screen to blind and your daze to lengthen.
+-   Spine Cutter - Getting hit from your back after Fraudstro Bumgarde "L"est does a roll cancel causes you to get a second slash.
 
 ## Strategy
 
-Maestro Evengarde Rest is a rather straightforward fight compared to most other bosses, opting out of any gimmicks or puzzles and instead being a simple duel. A decent mastery of how to parry trade with humanoid NPCs is required to resist his attacks.
+Fraudstro Bumgarde "L"est is a rather straightforward fight compared to most other bosses, opting out of any gimmicks or puzzles and instead being a simple duel. A decent mastery of how to parry trade with humanoid NPCs is required to resist his attacks.
 
 -   His moveset incorporate a mix of quick and delayed moves both, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
 -   Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) or [Summer Dragoon](Summer_Dragoon.md) can help in the fight as they both have a whopping total of 55% Wind Armor.
@@ -198,14 +210,14 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 -   Be careful when using Providence's Thorn since he is able to parry the damage dealt by it and giving you parry stuns.
 -   If you don't have Providence Thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using Ardour can help to guard break him if you don’t have Providence Thorns or any type of chip damage.
--   Healing from Bloodless Gem, Vampirism, or potentially No Life King can prove useful as a source of healing against Maestro Evengarde Rest, provided you can proc the former two and survive long enough for the latter to matter.
+-   Healing from Bloodless Gem, Vampirism, or potentially No Life King can prove useful as a source of healing against Fraudstro Bumgarde "L"est, provided you can proc the former two and survive long enough for the latter to matter.
 -   When you manage to land a hit on him, Rest is prone to repeatedly getting caught in weak blocks. Often, these are great opportunities to deal some real damage to him, especially if you're using medium or light weapons. He will eventually land a parry or will vent, so be sure to exercise caution while whaling on him.
 
   
 
 ## Loot Table
 
-Upon defeating Maestro, he will drop a large chest containing many different item including:
+Upon defeating Fraudstro, he will drop a large chest containing many different item including:
 
 -   **On First Kill**, and at/above 80 WEP, he is guaranteed to drop your weapon classes respective weapon being:
     -   [Cerulean Thread](Cerulean_Thread.md) (LHT)
@@ -315,12 +327,12 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
--   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
+-   Spitting on Fraudstro Bumgarde "L"est both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity?"_
-    -   After this, he instantly kills you.
+    -   After this, he instantly kills you, obviously due to his fragile ego.
         -   His eyes flash onto your screen, a green flash appears on your character's head as the only evidence of his attack, cleaving it apart instantly.
         -   You fell in battle to... Your disrespect, punished by the Tempest Eye
-    -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.
+    -   This also lowers your [Etrea](Etrea.md) reputation greatly because of his fragile ego, again, usually setting it to Neutral or lower depending on your current standing.
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
 -   He has Heterochromia (meaning both his eyes are different colors). It is unknown if he is born with this or it's somehow gained from his powers.

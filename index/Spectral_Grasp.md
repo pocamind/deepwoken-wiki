@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 120025
+revid: 120141
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -32,11 +32,13 @@ File:Screenshot 2024-11-08 180315.png
 
 ## Description
 
-**Spectral Grasp** is a light dagger Hallowtide exclusive weapon. It can be brought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy.
+**Spectral Grasp** is a light dagger Hallowtide exclusive weapon. It can be bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy.
+
+It's a hand.
 
 ## Critical
 
-Temporarily uses the [Whaling Knife](Whaling_Knife.md) critical as a placeholder (will be getting a unique one soon). Rush forward whilst slashing horizontally, leaving behind a red trail.
+After a low wind-up, the user slashes twice with the weapon, applying wither and dealing decent damage.
 
 ## Trivia
 

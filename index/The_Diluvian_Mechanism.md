@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 119983
+revid: 120133
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -209,7 +209,7 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
 ## Trivia
 
--   Internally, The Diluvian Mechanism dungeon is called "Bathysphere".
+-   Internally, The Diluvian Mechanism dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
 -   The Mute [Regalia](Regalia.md) does technically function in the Diluvian Mechanism; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena. Note that there is a slight delay before all the mobs in the arena dies, so in that slight delay there is a chance that you may wipe.
@@ -217,4 +217,3 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 -   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
 -   The bandit at wave 49 serves as a health pack for players who are low or to rest and heal with a Graceful Flame.
 -   As Deepbound, you can choose to start at the Diluvian Mechanism.
--   In the game files, the Diluvian Mechanism dungeon is called "Bathysphere,"\[Source Required\] referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.

@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 120113
+revid: 120126
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -25,6 +25,7 @@ To access songs, you must read the corresponding book. These books can be obtain
 
 -   [The Song of Fathoms / Oscillation](Books.md)
 -   [The Gideshu March](Books.md)
+-   [A Light In The Sky](Books.md)
 
 **The following songs can be played on the instruments:**
 

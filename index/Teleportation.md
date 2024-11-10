@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 119255
+revid: 120134
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -37,6 +37,9 @@ If you have no active waypoints or you activate it without hovering your cursor 
 Markers cannot be given a custom name, instead having a name matching the location they were placed in, such as "Etris" or "Minityrsa". You can have up to 5 or as low as 1 waypoint marker per Luminant depending on your Resonance's point allocation, and placing a marker that breaks this limit will destroy the oldest active marker in that Luminant in place of the new one.
 
 If you hover your mouse over one of your active waypoints, activation will instead initiate a teleport. Initiating a teleport will create a ring around the user and begin charging. Charging time is based on the distance from you to the waypoint and how much the **Charge Speed** Resonance stat was invested into by your Resonance points. Once fully charged, everyone inside the radius of the ring is teleported to the waypoint. The waypoint is destroyed when a teleport is initiated on it, but can easily be replaced once travelled to.
+
+  
+You can place teleport points in the Depths, however, teleporting to it will cause it to disappear.
 
 ### Drowned Teleportation
 

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 119149
+revid: 120136
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items]
@@ -82,12 +82,12 @@ This is an item found within chests of any mob (depths included), used for the H
 
 ## Description
 
-This is used to scare any interactable NPC (guards do not count) throughout the game by interacting with them as normal. All NPCs have a 1 hour cooldown before they can be scared again. Each time you scare an NPC you are given 1 Joy (Hallowtide Mask Quest Progression). This is obtained by bringing fine ink, paperette, and shell stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such NPC you are given this mask. The mask comes in 3 variants: [Mudskipper](Mudskipper.md), [Deep Owl](Deep_Owl.md) and [Primadon](Primadon,_Titan_of_the_East.md)
+This is used to scare any interactable NPC (guards do not count) throughout the game by interacting with them as normal. All NPCs have a 30 minutes cooldown before they can be scared again. Each time you scare an NPC you are given 3 Joy (Hallowtide Mask Quest Progression). This is obtained by bringing fine ink, paperette, and shell stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such NPC you are given this mask. The mask comes in 3 variants: [Mudskipper](Mudskipper.md), [Deep Owl](Deep_Owl.md) and [Primadon](Primadon,_Titan_of_the_East.md)
 
   
 _NOTE: the Hallowtide race variant saves across all slots and races (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different races)._
 
-_The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless._
+_(After the Event is over?) The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless._
 
 | Item | Joy |
 | --- | --- |
@@ -103,5 +103,5 @@ _The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be eq
 
 ## Trivia
 
--   The Fine Ink jars use the same model as the jars of blood used by [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   The Fine Ink jars use the same model as the jars of blood used by [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   On release, Void feathers cost 5 Joy instead of the displayed 15. This was patched as of 11/5/2022.

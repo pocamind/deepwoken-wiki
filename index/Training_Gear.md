@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 119001
+revid: 120125
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -24,12 +24,11 @@ If you get the message "I've learnt what I can from training right now, I should
 
 Most of the attribute training gears are self explanatory, though some training gears have their own quirks and things to bear in mind.
 
--   Boulder is a convenient way to upgrade your [Fortitude](Attributes.md#fortitude). You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains strength alongside this.
--   The Ankle Weights apparently give you a small speed debuff when in use (needs testing)
--   Training Vest, after equipping it, will only work if someone hits you. Boulder is recommended over Training Vest because of this reason.
--   [How to Make Friends](How_to_Make_Friends.md) can be trained by clicking the words around the screen. You don't neccessarily have to type to use this.
--   Encyclopedia is useful for those who are too lazy to do the minigames of [How to Make Friends](How_to_Make_Friends.md) or Math Textbook. Although the downside of this is that it takes a long time to use it once, making it slower to use. You train both Intelligence and Charisma with this.
--   Weapon Manual: You can switch which weapon attribute you're training depending on the current weapon that you are using.
+-   **Boulder** is a convenient way to upgrade your [Fortitude](Attributes.md#fortitude). You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains strength alongside this.
+-   **Training Vest**, after equipping it, will only work if someone hits you. Boulder is recommended over Training Vest because of this reason.
+-   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen. You don't neccessarily have to type to use this.
+-   **Encyclopedia** is useful for those who are too lazy to do the minigames of [How to Make Friends](How_to_Make_Friends.md) or Math Textbook. Although the downside of this is that it takes a long time to use it once, making it slower to use. You train both Intelligence and Charisma with this.
+-   **Weapon Manual**: You can switch which weapon attribute you're training depending on the current weapon that you are using.
 
 **If you are struggling trying to upgrade your Attributes, visit the [Attributes](Attributes.md) page.** It details what you need to do for each basic attributes and it has lot of other useful information that might be worth knowing.
 
@@ -162,6 +161,7 @@ File:Weapon Manual.png
     -   [Voidheart](Voidheart.md): On the right of the [Banker](Banker.md) and [Antiquarian](Antiquarian.md), sitting on the small racks near the [Mantra Table](Mantra_Lectern.md)
     -   [Guild Base](Guild_Bases.md): This is only possible if the Guild Base unlocks the Training Hall
         -   You can also find Weapon Manual here
+    -   [The Floating Keep](The_Floating_Keep.md): Inside the Castle, on the first floor, in the room with the [Blacksmith](Blacksmith.md), you can find the Attribute Training Gears there. **Note that you cannot buy Boulder here.** **This is only possible during the [Hollowtide Event](Hallowtide.md).**
 
 -   Depths locations
     -   [Castle Light](Castle_Light.md): Up the spiral staircase on the second floor, near [Nyanna](Nyanna.md), the [Mantra Table](Mantra_Lectern.md), and the [Barber](Barber.md)
@@ -204,6 +204,7 @@ File:Weapon Manual.png
 -   Both
     -   [Voidheart](Voidheart.md): On the bookcases near [Croissant](Mantra_Collector.md)
     -   [Guild Base](Guild_Bases.md): This is only possible if the Guild Base unlocks the Library
+    -   [The Floating Keep](The_Floating_Keep.md): Inside the Castle, on the first floor, after coming out of the room with [Lysander Spellhardt](Lysander_Spellhardt.md), turn left and you'll see 2 bookcases. The books are on them. **Note that you cannot buy Math Textbook here.** **This is only possible during the [Hollowtide Event](Hallowtide.md).**
 
 -   Depths locations
     -   [Castle Light](Castle_Light.md): In the Library. Near the [Mystic](Mystic.md), [Banker](Banker.md), and [Antiquarian](Antiquarian.md). The books are around/on the 4 short brown pillars.
@@ -301,6 +302,7 @@ File:Medal vjZPOYa0kJ.png
 -   Both
     -   [Voidheart](Voidheart.md): On the right of [Croissant](Mantra_Collector.md), near the bookshelves
     -   [Guild Bases](Guild_Bases.md): This is only possible if the Guild Base unlocks the Song Room
+    -   [The Floating Keep](The_Floating_Keep.md): Inside the Castle, on the first floor, in the room with the [Blacksmith](Blacksmith.md), you can find the Attunement Training Gears there. **Note that you cannot buy Ferrofluid or Tourniquet here.** **This is only possible during the [Hollowtide Event](Hallowtide.md).**
 
 -   Depths locations
     -   [Castle Light](Castle_Light.md): Up the spiral staircase on the second floor, near [Nyanna](Nyanna.md), the [Mantra Table](Mantra_Lectern.md), and the [Barber](Barber.md)
@@ -321,4 +323,4 @@ File:Medal vjZPOYa0kJ.png
 -   There's a [quest](Quests.md) at the [Isle of Vigils](Isle_of_Vigils.md) sparring room that grants you EXP for letting an NPC have one use of your Weapon Manual.
 -   You can train core attributes using [Lotus Flasks](Ingredients.md).
 -   The Hearthgem is the only training item where its description has an uncapitalized name of its [Attunement](Attunements.md).
-    -   "flamecharm" vs "Frostdrawing" "Thundercall" "Galebreathing" "Shadowcast" "Ironsinging"
+    -   "flamecharm" vs "Frostdrawing" "Thundercall" "Galebreathing" "Shadowcast" "Ironsinging" "Bloodrending"
