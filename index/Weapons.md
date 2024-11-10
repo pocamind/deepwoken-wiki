@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 120016
+revid: 120119
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1274,7 +1274,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>30.4</td>
 </tr>
 <tr>
-  <td><a href="Toothed_Club.md">Toothed Club</a></td>
+  <td><a href="Toothed_Club.md">Toothed Club</a> (<b>Bleed</b>)</td>
   <td>30 MED</td>
   <td>15.5</td>
   <td>10%</td>
@@ -1286,7 +1286,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>30.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
-  <td><a href="Morning_Star.md">Morning Star</a></td>
+  <td><a href="Morning_Star.md">Morning Star</a> (<b>Bleed</b>)</td>
   <td>50 MED</td>
   <td>16</td>
   <td>20%</td>
@@ -1310,7 +1310,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>33.7</td>
 </tr>
 <tr>
-  <td><a href="Pernach.md">Pernach</a></td>
+  <td><a href="Pernach.md">Pernach</a> (<b>Bleed</b>)</td>
   <td>75 MED</td>
   <td>18.5</td>
   <td>30%</td>
@@ -2899,7 +2899,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
-    -   Swing Speed: [Divine Dagger](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.3x)
+    -   Swing Speed: [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.

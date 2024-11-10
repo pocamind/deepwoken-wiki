@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 119705
+revid: 120120
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -99,7 +99,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
  | Unleash a rain of metal rods down below. | 50 Ether | Metal | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
 
--   Hits around 10 times.
+-   Hits around 22-23 times (if every mental rain projectile hit).
 -   Applies Metal Rods on hit.
 -   Comparable to Thundercall's [Bolt Piercer](Thundercall.md) mantra.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.

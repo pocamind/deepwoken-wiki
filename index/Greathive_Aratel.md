@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 118303
+revid: 120100
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -135,7 +135,7 @@ The most powerful being in the universe rules over his subjects
 
 ## Observatory
 
-.Greathive Aratel is home to the Celestial Telescope, which can give players insight on the [Lore](Lore.md) of Constellia and the Celestials.
+Greathive Aratel is home to the Celestial Telescope, which can give players insight on the [Lore](Lore.md) of Constellia and the Celestials.
 
 Players can crank the telescope clockwise or counterclockwise to position it to other celestial objects:
 

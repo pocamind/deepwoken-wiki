@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 112973
+revid: 120115
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -20,9 +20,9 @@ Image of The Hall of Shattered Wills.
 
 ## Overview
 
-The Hall of Shattered Wills is an office workspace filled with cubicles and also posses a large room to fight in. This location is inaccessible to non-moderators.
+The Hall of Shattered Wills is an office workspace filled with cubicles and also posses a large room to fight in. This location is inaccessible to non-moderators, attempting to enter will result in a death by "The Office Creature" (no visuals, you are simply killed on the spot with this kill reason)
 
-It has no practical functions and merely acts as a safe place for moderators to work undisturbed.
+It has some basic functions but merely acts as a safe place for moderators to work undisturbed.
 
 ## Contents
 

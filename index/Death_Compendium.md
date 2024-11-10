@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 118316
+revid: 120114
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken]
@@ -77,3 +77,4 @@ Death Causes listed by the game:
 -   Space-time Collapse (Dying to the white orbs that spawn at the end of a Floor 2 run)
 -   Your disrespect, punished by the Tempest Eye (Spitting on Evengarde and dying like the idiotic barbarian you are)
 -   Your master (Command explode from [vow of mastery](Vow_of_Mastery.md))
+-   The Office Creature (trying to enter [The Halls of Shattered Wills](The_Hall_of_Shattered_Wills.md) while not being a tester/moderator/dev)
