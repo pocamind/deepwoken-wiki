@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 118140
+revid: 120177
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Daggers, Weapons with Unique Criticals, Multiple Criticals]
@@ -42,4 +42,3 @@ The Krulian Knife's unique critical.
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
 -   Meeting the requirement of LHT, the damage is (19.9)
 -   At max LHT, the damage is (22.3)
--   This is the weapon the [Ministry](The_Ministry.md) uses.

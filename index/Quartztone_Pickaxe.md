@@ -1,11 +1,9 @@
 ---
 title: Quartztone Pickaxe
-revid: 118123
+revid: 120178
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Developer Spec, Exclusive]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Greataxes, Developer Spec, Exclusive]
 ---
 
 # Quartztone Pickaxe

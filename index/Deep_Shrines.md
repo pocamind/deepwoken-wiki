@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 119706
+revid: 120190
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -95,7 +95,6 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 -   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
 
--   You can lower a stat below the requirements of a Mantra and keep the Mantra as well as its levels.
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
 
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
@@ -140,7 +139,7 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
 ## Details
 
 -   The main purpose of the Shrine Of Order is allowing you to obtain expensive [Talents](Talents.md) or [Mantras](Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
--   The stats that will be ordered are any of the stats that have at least 1 point (besides racial stats, which need 3).
+-   The stats that will be ordered are any of the stats that have at least 1 point invested in by the player. In the case of racial points, you need to invest 1 point (making it 3 or 4) for it to count.
 -   Certain Talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.

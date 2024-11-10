@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 119200
+revid: 120154
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -59,7 +59,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 -   Decent mid-range presence
 -   Good pressure
 -   Great at dealing LOTS of damage.
--   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Talents.md).
+-   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#flamecharm).
 
 ### [Thundercall Mantras](Thundercall.md)
 
@@ -106,7 +106,7 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Goes well when paired with other elements.
 -   Applies obscured, obscuring the vision of the opponent.
 -   Typically used mid-range.
--   Has a hybrid path with [Flamecharm](Flamecharm.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Talents.md).
+-   Has a hybrid path with [Flamecharm](Flamecharm.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#shadowcast).
 
 ### [Ironsing Mantras](Ironsing.md)
 

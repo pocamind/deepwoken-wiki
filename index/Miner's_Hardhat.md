@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 116381
+revid: 120216
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Helmets, Items]

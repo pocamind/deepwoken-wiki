@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 117682
+revid: 120175
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, Layer 1]

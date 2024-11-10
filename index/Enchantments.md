@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 120049
+revid: 120208
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -469,7 +469,7 @@ Multiplicity
 
  | 
 
-On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of (X) seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
+On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of (~5) seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 

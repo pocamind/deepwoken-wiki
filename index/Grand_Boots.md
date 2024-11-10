@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 116496
+revid: 120146
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -11,7 +11,8 @@ categories: [Items, Equipment, Legs, Boots]
 | Grand Boots | |
 |---|---|
 | type | Boots |
-| rarity | ??? |
+| rarity | Common |
+| selling price | 7 |
 | requirements | None |
 | innate stats | +5 Health |
 | innate talent | N/A |
@@ -31,3 +32,4 @@ Grand Boots are part of the "**Grand**" set; with the only other armor piece bei
 ## Trivia
 
 -   Worn by [The Meat Lord](The_Meat_Lord.md).
+-   Despite being common rarity, these boots are rather rare.

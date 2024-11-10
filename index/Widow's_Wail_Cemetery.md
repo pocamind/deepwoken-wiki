@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 120074
+revid: 120148
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,7 +22,7 @@ The Widow's Wail Cemetery is a location that players can teleport to with many p
 
 The Trial of the Gourdskipper a trial where you must survive 8 waves of [Gourdskippers](Gourdskipper.md) using only the Pumpkin Pitch Mantra that replaces your M1's. On certain waves, chests containing Hallowtide weapons & equipment will spawn where players are standing. Each Gourdskipper takes 3 hits to kill with Pumpkin Pitch. After clearing each wave, each player is awarded with 3 [Joy](Joy.md), and when you complete all 8 waves you are awarded with 16 [Joy](Joy.md). Note that Mantras and Resonance's are disabled during the trial.
 
-If you get hit by a Gourdskipper during the event, you become infected, and your M1's resemble that of a regular Mudskippers. If you are hit by Pumpkin Pitch twice when you are infected, you are teleported outside of the Widow's Wail Cemetery to the portal you came in through. If you are infected and the only person doing the trial, then the trial immediately ends, and you must wait for it to come off of the cooldown. If you are infected and not doing the trial solo, then you can infect other players for 1 [Joy](Joy.md) per person.  
+If you get hit by a Gourdskipper during the event, you become infected, and your M1's resemble that of a regular Mudskippers. If you are hit by Pumpkin Pitch twice when you are infected, you are teleported outside of the Widow's Wail Cemetery to the portal you came in through. If you are infected and the only person doing the trial, then the trial immediately ends, and you must wait for it to come off of the cooldown. If you are infected and not doing the trial solo, then you can infect other players for 3 [Joy](Joy.md) per person.  
 
 When the trial is active, you cannot teleport into the Widow's Wail Cemetery. Note that you do **NOT** need a mask to obtain [Joy](Joy.md) from the Trial of the Gourdskipper.
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 117921
+revid: 120209
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -130,26 +130,18 @@ Dodgeable:◯
 
 -   **Monster Resistance:** Has an innate ~25% resistance to physical hits.
 
-## Gallery
+## Trivia
 
-There are **10** images, be warned
-
-## **Trivia**
-
--   There are two guaranteed Megalodaunt spawns in a cave near Lower Erisia.
--   Megalodaunts have swimming animations, as seen above.
-    -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md), sink.
+-   Megalodaunts are able to swim, unlike most monsters which simply sink and despawn.
     -   They perform ranged attacks more often and when they are in the water they perform an unique "bite" attack as opposed to kicks and slashes.
--   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off.
--   In the community, the Megalodaunt is known for wiping new players often as it is the first true monster most players encounter and most have been fighting humanoids up until that point.
+-   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. This tends to obscure its animations.
 -   The Megalodaunt roars when it spawns in and periodically afterwards, revealing its presence.
 -   Megalodaunts in general are a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
     -   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
--   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
+-   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of [Megalodaunt Bait](Monster_Bait.md). This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill an extreme amount of players and cause heavy lag. Since then, the item has been tweaked.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
--   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md). They are hostile to most other humanoids and monsters, including [Golems](Hive_Construct.md) and [Stone Knights](Stone_Knight.md).
--   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 2 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts. According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
+-   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in [The Viper's Jaw](<The_Viper's_Jaw.md>), only 2 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts. According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
 -   Megalodaunts participated in the 2024 April fools event under the name of Red Daunts and won.
 -   [Destroyman III](Destroyman_III.md) is a small, chibi Megalodaunt that can talk.
--   According to [Mortus](Mortus.md), the flesh of a Megalodaunt "kept them fed for weeks". This means that Megalodaunt flesh is _probably **edible.**_
+-   According to [Mortus](Mortus.md), the flesh of a Megalodaunt is edible.

@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 118203
+revid: 120211
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -41,11 +41,11 @@ Ah you're back. What do you need?
 1.  Can i join you?
 2.  \[End Dialogue\]
 
-1.1 I don't really manege recruitment - you should talk to Akira.
+1.1 I don't really manage recruitment - you should talk to Akira.
 
 1.  \[End Dialogue\]
 
-2\. I don't really manege recruitment - you should talk to Akira.
+2\. I don't really manage recruitment - you should talk to Akira.
 
 1.  \[End Dialogue\]
 

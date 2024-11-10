@@ -1,9 +1,9 @@
 ---
 title: Spectral Grasp
-revid: 120141
+revid: 120205
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links]
+categories: [Weapons, Event Item, Weapons with Unique Criticals, Unique Critical, Daggers]
 ---
 
 # Spectral Grasp
@@ -28,18 +28,14 @@ categories: [Weapons, Pages with broken file links]
 | obtainment | Glaive Spellhardt [100 Joy], Trial of The Gourdskipper |
 | description | ... |
 
-File:Screenshot 2024-11-08 180315.png
-
 ## Description
 
-**Spectral Grasp** is a light dagger Hallowtide exclusive weapon. It can be bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy.
-
-It's a hand.
+**Spectral Grasp** is a light dagger Hallowtide exclusive weapon. It can be bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy. It resembles the hand of a specter.
 
 ## Critical
 
-After a low wind-up, the user slashes twice with the weapon, applying wither and dealing decent damage.
+After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing m1 damage for each hit. This critical has innate bleed on both hits. This critical has an extremely short cooldown of only 3 seconds.
 
 ## Trivia
 
--   ...
+-   This is the 2nd dagger with the highest scaled damage (before bleed), at 27.7, beaten by the alloyed tanto's 29.3.
