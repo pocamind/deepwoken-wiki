@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 119864
+revid: 120094
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -29,32 +29,48 @@ Hallowtide returns once more for 2024, this time added on October 31st...
 
 The first Hallowtide added...
 
+-   **New Features**
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
 -   The "[Joy](Joy.md)" System
--   New Helmets
 -   New Race Variants
--   [Skullpiercer](Skull_Piercer.md) (Rapier)\*
--   [Hallowscleave](Hallowscleave.md) (Sword)\*
--   [Skyreap Blade](Skyreap_Blade.md) (Greataxe)\*
+
+-   **New Helmets**
+-   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
+-   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
+-   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
+
+-   **New Weapons**
+-   [Skullpiercer](Skull_Piercer.md) (Rapier)
+-   [Hallowscleave](Hallowscleave.md) (Sword)
+-   [Skyreap Blade](Skyreap_Blade.md) (Greataxe)
 
 The second Hallowtide added...
 
--   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist)\*\*
--   [Bloodtide Trident](Bloodtide_Trident.md) (Spear)\*\*
--   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer)\*\*
--   New Helmets
+-   **New Features**
 -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
+-   [Harrowing Enchant](Enchantments.md)
+-   Pumpkin Pitch (mantra)
+
+-   **New Helmets**
+-   [Mushroom Costume](Mushroom_Costume.md)
+-   [Pumpkin Head](Pumpkin_Head.md)
+
+-   **New Weapons**
+-   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist)
+-   [Bloodtide Trident](Bloodtide_Trident.md) (Spear)
+-   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer)
 
 The third Hallowtide added...
 
+-   **New Features**
+-   [Spectral Instrument sets](Instruments.md)
+-   "A Light in the Sky" book, which also teach the shantie of the same name
+
+-   **New Weapons**
 -   [Death's Reverie](<Death's_Reverie.md>) (Twinblade)
 -   [Spectral Grasp](Spectral_Grasp.md) (Dagger)
 -   [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
-
-(\*-only available from the second week of the first Hallowtide.)
-
-(\*\*-unique crit available from the second week of the second Hallowtide.)
 
 ## New Content
 
@@ -64,7 +80,7 @@ The third Hallowtide added...
 
 ### Joy
 
--   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 15 joy for completing the Trial of the Gourdskipper.
+-   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
 
@@ -95,6 +111,7 @@ The third Hallowtide added...
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md)
 -   Alina
+-   [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
 
 #### Unknown/Exclusive
 

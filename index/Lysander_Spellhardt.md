@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 118911
+revid: 120041
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -113,7 +113,7 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
   <td>No one? Really? Come on, get out there and scare some people!</td>
 </tr>
 <tr>
-  <td>Deep Gem [15 Joy]</td>
+  <td>Random Relic [30 Joy]</td>
   <td>Familiar Priest's Helm [35 joy]</td>
   <td>Familiar Heretic's Helm [35 Joy]</td>
   <td>Familiar Knight's Helm [35 Joy]</td>

@@ -1,9 +1,9 @@
 ---
 title: "Death's Reverie"
-revid: 120026
+revid: 120088
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item]
 ---
 
 # Death's Reverie
@@ -30,6 +30,8 @@ categories: [Weapons]
 
 **Death's Reverie** is a medium twinblade Hallowtide exclusive weapon. Bought from Glaive for 100 [Hallowtide](Hallowtide.md) Joy, and can also be found in chests from [The Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
 
+The twinblades contain several wax candles on each end.
+
 ## Critical
 
 Spin the weapon above your head before preforming a slam that lights enemies on fire. You move faster while spinning the weapon.
@@ -38,4 +40,4 @@ Spin the weapon above your head before preforming a slam that lights enemies on 
 
 -   The description is a reference to the iconic line said by [Dr. Hannibal Lector](https://en.wikipedia.org/wiki/Hannibal_Lecter) from _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
 -   The design of the weapon was created with the help of user "iiPessimystic".
--   It was originally Unique tier, being unbankable and unsellable. It was changed to be the same tier as all other Hollowtide weapons in a hotfix after the weapon's release.
+-   It was originally Unique tier, being unbankable and unsellable. It was changed to be the same tier as all other Hallowtide weapons in a hotfix after the weapon's release.

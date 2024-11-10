@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 120028
+revid: 120090
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -23,24 +23,39 @@ The Floating Keep is a temporary location in Deepwoken. (only found during Hallo
 
 ## Cathedral
 
-In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander and Glaive for items. Joy can be exchanged for:
+In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander, Glaive, and Galpin for items. Joy can be exchanged for:
 
 -   [Void Feather](Dark_Feather.md) \[15 Joy\]
--   Random Relic \[30Joy\]
--   [Master Schematic](Outfits.md#master) \[20 Joy\]
--   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[30 Joy\]
+-   [Eggs In A Basket](Books.md#eggs-in-a-basket) \[20 Joy\]
+-   [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel) \[20 Joy\]
+-   [Tale of the Storm](Books.md#tale-of-the-storm) \[20 Joy\]
+-   [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby) \[20 Joy\]
+-   [The Gideshu March](Books.md#the-gideshu-march) \[20 Joy\]
+-   [The Hammer's Call](Books.md#the-hammers-call) \[20 Joy\]
+-   [The Song of Fathoms / Oscillation](Books.md#the-song-of-fathoms--oscillation) \[20 Joy\]
+-   [Random Master Schematic](Outfits.md#master) \[20 Joy\]
+-   [Random Relic](Relics.md) \[30 Joy\]
+-   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
 -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
 -   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
 -   [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
+-   [A Light In The Sky](Books.md#a-light-in-the-sky) \[50 Joy\]
 -   Hallowtide Variant \[70 Joy\]
+-   [Gourdguard (Shield)](Gourdguard.md) \[100 Joy\]
 -   [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
--   [Skyreap Blade (Greataxe)](Skyreap_Blade.md) \[60 Joy\]
--   [Hallowscleave (Sword)](Hallowscleave.md) \[60 Joy\]
--   [Skull Piercer (Rapier)](Skull_Piercer.md) \[60 Joy\]
+-   [Skyreap Blade (Greataxe)](Skyreap_Blade.md) \[100 Joy\]
+-   [Hallowscleave (Sword)](Hallowscleave.md) \[100 Joy\]
+-   [Skull Piercer (Rapier)](Skull_Piercer.md) \[100 Joy\]
 -   [Putrid Edenstaff (Greathammer)](Putrid_Edenstaff.md) \[100 Joy\]
 -   [Bloodtide Trident (Spear)](Bloodtide_Trident.md) \[100 Joy\]
 -   [Drakemaw Gauntlets (Fist)](Drakemaw_Gauntlets.md) \[100 Joy\]
+-   [Wretched Mawblades (Greatsword)](Wretched_Mawblades.md) \[100 Joy\]
+-   [Death's Reverie (Twinblade)](<Death's_Reverie.md>) \[100 Joy\]
+-   [Spectral Grasp (Dagger)](Spectral_Grasp.md) \[100 Joy\]
+-   [Harrowing Enchant Stone](Enchantments.md) \[150 Joy\]
+-   Galphin's Spectral Instrument Set \[200 Joy\]
 -   Pumpkin Pitch (mantra) \[300 Joy\]
+-   Hallowtide '24 Medal \[300 Joy\]
 
 ### General, Weaponry and Mantra Shop
 
@@ -63,6 +78,7 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 -   Mikhail
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md)
+-   [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
 -   Alina
 
 #### Unknown/Exclusive

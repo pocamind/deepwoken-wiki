@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 119360
+revid: 120093
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Items]
@@ -46,6 +46,5 @@ Here are estimated chances for each shroom variant, after finding 100 shroom cos
 -   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant.
 -   This [Equipment](Equipment.md) item is dyeable, but the white spots and skin will be unaffected.
 -   This item is undroppable.
--   You cannot turn its vanity off.
+-   You cannot turn its vanity off. (Strangely, turning off its vanity makes the white spots disappear.)
 -   Zapshroom seems to be the rarest variant, with the Charmshroom being the 2nd rarest.
--   The **BEST** Head Equip.
