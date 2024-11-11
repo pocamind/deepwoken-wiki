@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 120236
+revid: 120278
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -127,7 +127,7 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
   <td>End</td>
 </tr>
 <tr>
-  <td>?</td>
+  <td>Here you are, your own personal Joy!</td>
   <td>?</td>
   <td>?</td>
   <td>?</td>
@@ -160,18 +160,22 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
 <tr>
   <td><a href="Rain_Spire.md">Rain spire</a></td>
   <th><a href="Sinner's_Ash.md">Sinners Ash</a></th>
+  <th><a href="Moonseye_Tome.md">Moonseye Tome</a></th>
 </tr>
 <tr>
   <td><a href="Void_Spire.md">Void Spire</a></td>
   <th><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></th>
+  <th></th>
 </tr>
 <tr>
   <td><a href="Forge_Needle.md">Forge Needle</a></td>
   <th><a href="Smith's_Alloy.md">Smiths Alloy</a></th>
+  <th></th>
 </tr>
 <tr>
   <td><a href="Armorer's_Needle.md">Armorers needle</a></td>
   <th><a href="Idol_of_Yun'Shul.md">Idol of Yun'shul</a></th>
+  <th></th>
 </tr>
 </tbody>
 </table>

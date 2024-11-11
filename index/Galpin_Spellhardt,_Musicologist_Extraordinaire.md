@@ -1,8 +1,9 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 120092
+revid: 120286
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Galpin Spellhardt, Musicologist Extraordinaire

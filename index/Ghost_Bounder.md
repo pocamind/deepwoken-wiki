@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 113102
+revid: 120283
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Overview
 
-The Ghost Bounder is a entity that was added in the [Layer Two](Second_Layer.md) update and can be found in [Firfire Caverns](Firfire_Caverns.md). It spawns behind the player time by time, though sometimes right in front of the player. It seems that it has set spawn locations where it spawns.
+Brandon is a entity that was added in the [Layer Two](Second_Layer.md) update and can be found in [Firfire Caverns](Firfire_Caverns.md). It spawns behind the player time by time, though sometimes right in front of the player. It seems that it has set spawn locations where it spawns.
 
 It looks just like a normal [Bounder](Bounder.md) except it's missing its body and is translucent. It does nothing and just serves as a cheap scare to the player.
 

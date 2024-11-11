@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 120115
+revid: 120276
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -16,7 +16,7 @@ What inhuman acts of cruelty were committed here?
 
 Image of The Hall of Shattered Wills.
 
-**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the Etrean Luminant and [Eastern Luminant](Luminants.md).
+**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the Etrean Luminant, [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md).
 
 ## Overview
 
@@ -44,10 +44,11 @@ It has some basic functions but merely acts as a safe place for moderators to wo
     -   DETERMINATION: DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
     -   SURVIVAL: SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
 -   There is also a "Coffee Machine", which is actually bags of blood connecting to a jar.
+-   A microwave acting as an interactable campfire.
 
 ### Cosmetics Room
 
--   A room populated by Fadetrimmer entities.
+-   A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
 
 ### Office Creature
 
@@ -58,6 +59,7 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 
 -   A room with interactable plaques of [Deep Shrines](Deep_Shrines.md) across the wall, labelled accordingly.
 -   Consumes knowledge as any normal shrine would.
+-   Contains a [mystic](Mystic.md).
 
 ### HorribleTM
 

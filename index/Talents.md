@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120012
+revid: 120271
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1256,6 +1256,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Galebreathe Your bullets after cut
                 -   Shadowcast: Your bullets steal ether
                 -   Ironsing: Your bullets apply metal rods
+                -   Bloodrend: Your bullets drain blood
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.**
@@ -3082,7 +3083,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Surestep \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind in [Layer 2](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
-    -   Obtained from Delvers Boots
+    -   Obtained from [Delver Boots](Delver_Boots.md)
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
     -   Prerequisite: 5 Fortitude

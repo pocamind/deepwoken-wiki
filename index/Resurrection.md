@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 115663
+revid: 120288
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -58,10 +58,10 @@ When obtained, Resurrection will spend its points on the following stats:
 
 ## Trivia
 
--   The health that players get after resurrection is a **set value**, not healing. This means that regardless of the player's health, he will always have 40 health at the end of resurrection.
+-   The health that players get after resurrection is a **set value**. This means that regardless of the player's health, they will always have 40% health at the end of resurrection.
     -   Because of this, resurrection is able to ignore anti-heal.
--   The unfinished version of this bell used to be the third Legendary Resonance, displaying a gold visual upon bell obtainment, but doing nothing upon bell activation, the bell was eventually reworked and downgraded to a common resonance, and all previous resurrection bell users had their bells replaced by another random Legendary Resonance.
--   If player with Resonance marker will be knocked by Resonance user, they will not be resurrected immediately and will still be can to execution.
+-   The unfinished version of this bell used to be the third Legendary Resonance, displaying a gold visual upon bell obtainment, but doing nothing upon bell activation. The bell was eventually reworked and downgraded to a common resonance, and all previous resurrection bell users had their bells replaced by another random Legendary Resonance.
+-   If a player with a Resurrection star mark gets knocked by Resonance user, they will not be resurrected immediately and can still be executed.
 -   **Very unreliable.** At times, the bell may not activate immediately, which gives the enemies the opportunity to grip you.
 -   As someone is being resurrected, they are immune to all damage.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.

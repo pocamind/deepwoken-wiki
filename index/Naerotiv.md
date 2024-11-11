@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 115302
+revid: 120284
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2]
