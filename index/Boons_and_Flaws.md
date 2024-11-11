@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 117358
+revid: 120226
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -33,7 +33,7 @@ _"Foods are much more nutritional."_
 
  | 
 
-Increase Hunger/Thirst gain from food and drinks by an unknown amount.
+Increase Hunger/Thirst gain from food and drinks by 150%.
 
  | 
 

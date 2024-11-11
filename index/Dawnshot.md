@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 119738
+revid: 120220
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Alloyed Weapons]
@@ -41,7 +41,7 @@ The Dawnshot has a [Bullet](Bullet_Casings.md) capacity of 4.
 
 **For the [alloyed](Pluripotent_Alloy.md) version**:
 
--   Metting the LHT requirement for this weapon will make it deal 26.8 damage.
+-   Meeting the LHT requirement for this weapon will make it deal 26.8 damage.
     -   At max LHT, it will deal 30.4 damage.
 
 ## Enchantments

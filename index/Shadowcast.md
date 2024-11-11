@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 120204
+revid: 120222
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -238,6 +238,7 @@ for raw strength
 
  | 55 Ether | Shadow | Causes a damaging shockwave that adds a +20% weapon damage buff to the user, consumes health upon use.
 
+-   The damage buff can be increased to 25% with [Vibrant Gems](Mantra_Modifiers.md)
 -   Spine Cutter cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.

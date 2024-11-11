@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 115625
+revid: 120225
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -14,7 +14,7 @@ File:Reinforced Food Bar.png
 
 An example of a Reinforced Hunger bar
 
-Food is a necessary need for your Character's survival.
+Food is a necessary need for your Character's survival. Both food and water drain at a rate of .8% per minute.
 
 _To get food, one must collect ingredients from various Luminants or buy the food from vendors in certain places._
 
