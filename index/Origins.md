@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 119971
+revid: 120313
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -156,7 +156,7 @@ You can do Trial of One.
         -   **\[CON\]** (Currently) Forced to return to Castle Light after completing Floor 1 or 2.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant
--   **\[PRO\]** Grants the ability to smelt [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) at the Furnace in Miner's Landing.
+-   **\[PRO\]** Grants the ability to smelt 3 [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) at the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>).
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 
 ## Upcoming Origins

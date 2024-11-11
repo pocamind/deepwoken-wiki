@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 116522
+revid: 120306
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman, Scion of Ethiron |
+| obtainment | Ferryman, Scion of Ethiron, Lysander Spellhardt |
 | description | "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur." |
 
 ## Description

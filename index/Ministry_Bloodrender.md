@@ -1,16 +1,13 @@
 ---
 title: Ministry Bloodrender
-revid: 119707
+revid: 120343
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ministry Bloodrender
 
-| Ministry Bloodrender | |
-|---|---|
-| name | Ministry Bloodrender |
-| location | FirfireDerelict Highchurch |
+Template:EnemyInfobox1.0
 
 ## Description
 

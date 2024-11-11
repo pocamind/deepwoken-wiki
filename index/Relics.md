@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 119975
+revid: 120298
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -42,6 +42,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [War Mode](War_Mode.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -66,6 +67,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [War Mode](War_Mode.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 
@@ -89,6 +91,7 @@ Consumables that improve the user in some shape or form
 -   [First Layer](First_Layer.md)
 -   5 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [War Mode](War_Mode.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -105,6 +108,7 @@ Consumables that improve the user in some shape or form
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -125,6 +129,7 @@ File:Sinner's Ash.png
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Depths Sea Island](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
 -   [War Mode](War_Mode.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -147,6 +152,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
@@ -163,7 +169,8 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   5 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
--   Etris Raid
+-   [Etris: Siege](Cinders_of_Etris.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -188,6 +195,7 @@ File:Forge Needle.png
  | 
 
 -   Crafting
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 
@@ -207,6 +215,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -224,6 +233,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -240,6 +250,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 

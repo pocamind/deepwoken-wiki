@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 120278
+revid: 120319
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -165,7 +165,7 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
 <tr>
   <td><a href="Void_Spire.md">Void Spire</a></td>
   <th><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></th>
-  <th></th>
+  <th><a href="Tiran_Pendant.md">Tiran Pendant</a></th>
 </tr>
 <tr>
   <td><a href="Forge_Needle.md">Forge Needle</a></td>

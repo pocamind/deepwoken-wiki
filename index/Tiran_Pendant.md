@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 119455
+revid: 120308
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Primadon, The Diluvian Mechanism, Fishing |
+| obtainment | Second Layer, Primadon, The Diluvian Mechanism, Fishing, Lysander Spellhardt |
 | description | "Worn by Tiran spiritual leaders, the wielder is safeguarded against the numerous sheer drops and falls of the Tiran homelands. Thought to have originated from a particularly gruesome succession crisis where a leader was shoved unceremoniously off a cliff following a sermon." |
 
 ## Description

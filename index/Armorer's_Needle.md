@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 117807
+revid: 120304
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,7 +15,7 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron, Primadon, War Mode, Fishing, Hell Mode, Voidwalker Chests, Diver Expedition Sea Event, Etris Siege, Saramaed Hollow |
+| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron, Primadon, War Mode, Fishing, Hell Mode, Voidwalker Chests, Diver Expedition Sea Event, Etris Siege, Saramaed Hollow, Lysander Spellhardt |
 
 ## Description
 

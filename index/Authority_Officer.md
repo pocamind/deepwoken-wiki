@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 114100
+revid: 120349
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies, The Central Authority]
@@ -17,7 +17,7 @@ Authority officers are a type of enemy NPC working for [The Central Authority](T
 -   Authority Officers vs [Vigil Swordsmen](Vigil_Swordsman.md) ([Erisia](Erisia.md))
 -   Authority Officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
 -   Authority Officers with [Authority Soldiers](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
-    -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
+    -   Defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Soldier](Authority_Soldier.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 119718
+revid: 120352
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -262,7 +262,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Venting</th>
   <td>When the player has at least 40 Tempo (indicated by a small notch on the tempo bar), pressing the <kbd>G</kbd> key will make the player Vent.<p><br>
   </p>
-  <p>Venting pushes others nearby away and grants a brief period of invincibility and relief, which allows the player to get out of tricky situations such as being comboed or being overcrowded, along with dealing a miniscule amount of damage, enough to cancel attacks and knock your adversary if they have sufficiently low health.</p>
+  <p>Venting pushes others nearby away and grants a brief period of relief, allowing the player to get out of tricky situations such as being comboed or overcrowded, along with dealing a miniscule 5 damage, enough to cancel attacks and knock your adversary if they have sufficiently low health.</p>
   <p>Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited.</p>
   <ul>
     <li><i><b>While block-broken or assassinated, you cannot Vent.</b></i></li>

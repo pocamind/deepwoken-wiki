@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 112691
+revid: 120350
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies, Etrea]
@@ -87,4 +87,4 @@ The Vigil Swordsman executes its opponent after knocking them:
 ## Trivia
 
 -   Their name and moveset seem to imply they are the elites of the Etrean military, while the [Etrean Soldier](Etrean_Soldier.md) are the lesser, more poorly trained variant.
--   Their armor is identical to the [Etrean Soldier's](Etrean_Soldier.md) armor, but white instead of purple.
+-   Their armor is identical to the [Etrean Soldier](Etrean_Soldier.md)'s armor, but white instead of purple.

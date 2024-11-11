@@ -1,6 +1,6 @@
 ---
 title: Union Pager
-revid: 114752
+revid: 120311
 source: https://deepwoken.fandom.com/wiki/Union_Pager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,4 +20,4 @@ A Union Pager |
 
 ## Description
 
-A portable job board that lets you take jobs from anywhere within the map. People with the Ignition Union origin have it upon spawn.
+A portable job board that lets you take jobs from anywhere within the map. [Ignition Delvers](Origins.md#ignition-delver) are the only ones able to use this item, and they spawn with it.

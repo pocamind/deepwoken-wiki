@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 119828
+revid: 120316
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -5600,6 +5600,7 @@ Found from:
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
 |  | 
@@ -5801,6 +5802,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
 |  | 
