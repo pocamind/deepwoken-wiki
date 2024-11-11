@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 119675
+revid: 120261
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Pages with broken file links]
+categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---

@@ -1,9 +1,9 @@
 ---
 title: Capra
-revid: 119938
+revid: 120258
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Pages with broken file links, Races, Moonseye]
 ---
 
 # Capra

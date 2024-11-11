@@ -1,9 +1,9 @@
 ---
 title: Moonseye Scalpel
-revid: 111347
+revid: 120253
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Weapons, Developer Spec]
+categories: [Cut Content, Weapons, Developer Spec, Moonseye]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
