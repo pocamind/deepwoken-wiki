@@ -1,9 +1,9 @@
 ---
 title: Knowledge
-revid: 117863
+revid: 120537
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Currency]
 ---
 
 # Knowledge

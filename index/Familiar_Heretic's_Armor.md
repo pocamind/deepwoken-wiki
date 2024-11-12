@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 120517
+revid: 120543
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
@@ -24,7 +24,7 @@ This Outfit's requirements is being [Power](Power.md) 5.
 
 This Outfit has 1300 durability and grants +15% Physical Armor, 10% Slash Armor, and 25% Fire Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your stealth and walking speed.
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which lets you draw your weapon silently and move faster + roll further while crouching. _(explain the talent properly next time bum -sin)_
 
 ## Location
 
@@ -37,4 +37,4 @@ This Outfit's Schematic is obtainable from:
 
 -   This outfit is based on Rogue Lineage's Wraith Knight's armor, the Wraith Knight armor.
 -   This outfit is not droppable or bankable.
--   This outfit will currently get deleted if you try to learn it at a blacksmith.
+-   This outfit is currently bugged, attempting to use it at a Blacksmith will result in the schematic being deleted from the player's inventory.

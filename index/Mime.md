@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 118390
+revid: 120534
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, NPCs, Eastern Luminant]
@@ -14,6 +14,10 @@ categories: [Pages with broken file links, Mantras, NPCs, Eastern Luminant]
 | location | Songseeker Wilds |
 
 **Mime** is an NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
+
+File:Mime location.png
+
+_Mime's location on the map_
 
 ## Description
 

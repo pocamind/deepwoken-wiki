@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 118314
+revid: 120544
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -58,18 +58,23 @@ Attunement-less 
 
 ㅤ
 
-### Unlockable Attunements
+## Obtainable Attunements
+
+Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
 
 [Shadowcast](Shadowcast.md)
 
-Shadowcast 
+Shadowcast⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 Ironsing
 
-Ironsing 
+Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-ㅤ
+Bloodrend
 
+Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
 ## Weapon Classes
