@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120434
+revid: 120466
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -240,7 +240,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Halve the speed penalty tied to lost health.
     -   Prerequisites: 25 Agility, 25 Fortitude
-    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this Talent
+    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this Talent.
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
@@ -264,10 +264,6 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh talent has been merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
-
--   Skibidi Toilet \[Common Talent\] Whenever you hit somebody with a flamecharm mantra, a skibidi toilet image pops up in their screen.
-    -   This is meant to distract your opponents and help you win.
-    -   Really good talent, Every person that plays deepwoken should get this.
 
 ### Angler
 

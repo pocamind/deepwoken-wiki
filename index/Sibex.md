@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 117320
+revid: 120461
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -29,6 +29,16 @@ Where Sibex can be found
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
 -   **Resonance Obtained:** "Well look at you, my friend! You're practically beaming with the Song!"
 -   **Arena, Bosses and Depths:** "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
+
+### Resonance Progress
+
+-   **Little to no progress:** “You must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.”
+-   **Slight progress:** “Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.”
+-   **Moderate progress:** “Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...”
+-   **Significant progress:** “Ahh… The tone is growing clearer, and with the tempo matched it’s beginning to sound rather intriguing… Could you be one of the few?”
+-   **High progress:** “Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?”
+-   **Resonance Imminent:** “Morphed like clay... The soul and ego become one. Your Soul's '''Resonance''' is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo...”
+-   **Resonance Obtained:** “Well look at you, my friend! You're practically beaming with the Song!”
 
 ## Dialogue
 

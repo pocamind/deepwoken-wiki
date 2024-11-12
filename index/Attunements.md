@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 120442
+revid: 120454
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -48,9 +48,45 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation, then wiping and doing it again.
 
+Attunement-less
+
+Attunement-less⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Frostdraw](Frostdraw.md)
+
+[Frostdraw](Frostdraw.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Thundercall](Thundercall.md)
+
+[Thundercall](Thundercall.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Galebreathe](Galebreathe.md)
+
+[Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  
+
 ## Obtainable Attunements
 
 Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
+
+[Shadowcast](Shadowcast.md)
+
+Shadowcast⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+Ironsing
+
+Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+Bloodrend
+
+Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  
 
 ## Iconography
 
@@ -59,6 +95,54 @@ All of the icons above are undoubtedly official representations of their base at
 [Text](Announcements.md)
 
 [Text](Announcements.md) 
+
+  
+
+### Non-Path Talents
+
+Text
+
+Text 
+
+[Text](Announcements.md)
+
+[Text](Announcements.md) 
+
+  
+
+### Alternative Paths
+
+Text
+
+Text 
+
+Text
+
+Text 
+
+Text
+
+Text 
+
+  
+
+Text
+
+Text 
+
+Text
+
+Text 
+
+  
+
+### Hybrid Paths
+
+Text
+
+Text 
+
+  
 
   
 

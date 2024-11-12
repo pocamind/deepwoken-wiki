@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 119710
+revid: 120462
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -60,7 +60,7 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
 
 ### Prodigy
 
-Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by an unknown amount.[\[1\]](#cite-note-archinfo-1)
+Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by 300%.[\[1\]](#cite-note-archinfo-1)
 
 ### Inspired
 

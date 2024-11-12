@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 112988
+revid: 120459
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -55,12 +55,11 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ### Frostdraw
 
--   The **Ice Skate** mantra is a reference to ~[Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.~ No this is based in the Snap spell "[Gelidus](https://rogue-lineage.fandom.com/wiki/Gelidus)" From [Rogue Lineage](https://www.roblox.com/es/games/3016661674/Rogue-Lineage), Snap spells are a stronger variant of an spell.
+-   The **Ice Skate** mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
     -   Previously, there was an advanced/legendary Talent with the same name, allowing the user of **Ice Skates** to skate on solid ground.
--   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
+-   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh%23Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
--   **Ice Eruption,** much like **Ascension,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
 
 ### Galebreathe
 
