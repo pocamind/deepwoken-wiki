@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 120435
+revid: 120523
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -226,19 +226,19 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).<p>^All 3 are guaranteed per chest. Windrunner Robes sometimes drops twice.</p></td>
+  <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).</td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a> (10 Wind gems guaranteed)</li>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a>, though Wind Gem has more chance to drop than others.</li>
     <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Extremely Rare)</li>
   </ul></li>
     <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
   </ul></td>
@@ -288,7 +288,7 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
     <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Emerald_Tusk_Earrings.md">Emerald Tusk Earrings</a>, <a href="Master_Thief_Earrings.md">Master Thief Earrings</a>, <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Pendant_Earrings.md">Pendant Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>, <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>, <a href="Ruby_Pendant_Earrings.md">Ruby Pendant Earrings</a>. Essentially all Earrings.</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
   <ol>
-    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
+    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
     <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
   </ol></li>
   </ul></td>

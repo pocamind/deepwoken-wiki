@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 120467
+revid: 120521
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Moonseye]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Moonseye]
 | Nocturne | |
 |---|---|
 | type | Sword |
-| requirements | 90 MED, Power 10 |
+| requirements | 90 MED, LVL 10 |
 | damage | 19.8 |
 | scaling | MED: 8 |
 | range | 7.5 |
@@ -38,15 +38,15 @@ Can be cancelled by damage in wind-up.
 
 ## Trivia
 
--   Nocturne originates from the game [Kill Simulator](https://www.roblox.com/games/13997333541/Kill-Simulator) by Toons Incorporated. (Can someone add an image/source for this)
+-   Nocturne originates from the game [Kill Simulator](https://www.roblox.com/games/13997333541/Kill-Simulator) by Toons Incorporated.[\[1\]](#cite-note-1)
 -   When enchanted, only one blade will appear with the effect. This is a visual bug and does not change how the weapon or enchant performs in battle. (Fixed as of 10/26/2024.)
 -   Nocturne can be equipped with a side weapon but the side weapon will not visually appear on the character.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
--   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[1\]](#cite-note-1)
+-   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[2\]](#cite-note-2)
     -   At the same time the Nocturne was published, a sheath model was also made.
-
 -   If you wielded a singular weapon two-handed before equipping Nocturne, only one blade will appear, but the weapon will still be in a dual-wield stance. This is a visual bug and does not affect the performance of the weapon.
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.roblox.com/library/13975923074/RenderMesh](https://www.roblox.com/library/13975923074/RenderMesh)
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [https://www.roblox.com/library/13975923074/RenderMesh](https://www.roblox.com/library/13975923074/RenderMesh)

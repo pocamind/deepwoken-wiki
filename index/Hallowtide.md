@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 120402
+revid: 120515
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -71,6 +71,10 @@ The third Hallowtide added...
 -   [Death's Reverie](<Death's_Reverie.md>) (Twinblade)
 -   [Spectral Grasp](Spectral_Grasp.md) (Dagger)
 -   [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
+
+-   **New Schematics**
+-   [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>)
+-   [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>)
 
 ## New Content
 

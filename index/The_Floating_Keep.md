@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 120403
+revid: 120513
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Hallowtide]
@@ -32,14 +32,14 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 -   [The Gideshu March](Books.md#the-gideshu-march) \[20 Joy\]
 -   [The Hammer's Call](Books.md#the-hammers-call) \[20 Joy\]
 -   [The Song of Fathoms / Oscillation](Books.md#the-song-of-fathoms--oscillation) \[20 Joy\]
--   [Random Master Schematic](Outfits.md#master) \[20 Joy\]
--   [Random Relic](Relics.md) \[30 Joy\]
+-   [Random Master Schematic or Familiar Schematic](Outfits.md#master) \[20 Joy\]
 -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
 -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
 -   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
 -   [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
 -   [A Light In The Sky](Books.md#a-light-in-the-sky) \[50 Joy\]
 -   Hallowtide Variant \[70 Joy\]
+-   [Random Relic (Excluding Rain Spire, Void Spire, and Whistling Periapt)](Relics.md) \[100 Joy\]
 -   [Gourdguard (Shield)](Gourdguard.md) \[100 Joy\]
 -   [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
 -   [Skyreap Blade (Greataxe)](Skyreap_Blade.md) \[100 Joy\]

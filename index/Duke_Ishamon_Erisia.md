@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 119466
+revid: 120522
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses]
 
 # Duke Ishamon Erisia
 
-“ The ruins of that city will **never** cage me. And with what's at stake... I can't stop now. ”
+“ A feast for the prince begins. ”
 
 ― Duke Erisia
 

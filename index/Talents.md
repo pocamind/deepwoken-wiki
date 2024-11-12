@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120466
+revid: 120524
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -268,8 +268,6 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 ### Angler
 
 > _**"I am a simple fisherman."**_
-
-  
 
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
     -   Obtained after fishing 50 times successfully.

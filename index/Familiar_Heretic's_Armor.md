@@ -1,14 +1,16 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 120493
+revid: 120517
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Hallowtide, Event Items, Outfits]
+categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
 ---
 
 # Familiar Heretic's Armor
 
-Template:ArmorInfobox**Familiar Heretic's Armor** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox
+
+**Familiar Heretic's Armor** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -16,7 +18,7 @@ Template:ArmorInfobox**Familiar Heretic's Armor** is a Unique [Outfit](Outfits.m
 
 This Outfit costs and requires five (5) Cloth, five (5) Fiber, and one (1) Rock.
 
-This Outfit's requirements is being Power 5.
+This Outfit's requirements is being [Power](Power.md) 5.
 
 ### _Armor Stats_
 
@@ -29,8 +31,10 @@ This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increas
 This Outfit's Schematic is obtainable from:
 
 -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
 ## Trivia/Notes
 
+-   This outfit is based on Rogue Lineage's Wraith Knight's armor, the Wraith Knight armor.
 -   This outfit is not droppable or bankable.
 -   This outfit will currently get deleted if you try to learn it at a blacksmith.
