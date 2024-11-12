@@ -1,21 +1,16 @@
 ---
 title: Hollow Forge
-revid: 120312
+revid: 120400
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Eastern Luminant, Origins]
+categories: [Eastern Luminant, Origins]
 ---
 
 # Hollow Forge
 
-| The Hollow Forge | |
+| Hollow Forge | |
 |---|---|
-| weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| description | A furnace for Ignition Delvers to convert 3 Pluripotent Alloys to Smith's Alloys. |
+| usage | A furnace for Ignition Delvers to convert 3 Pluripotent Alloys to Smith's Alloys. |
 
 ## Description
 
@@ -25,4 +20,4 @@ The Hollow Forge is a in appearance a furnace; in the middle its the window with
 
 ## Usage
 
-It's used to convert 3 [Pluripotent Alloy's](Pluripotent_Alloy.md) into 1 [Smith's Alloy](<Smith's_Alloy.md>). This is extremely useful, because prior to it's existence, Smith's Alloys were very difficult to get. Now that this exists, you can use the far easier to obtain [Pluripotent Alloy](Pluripotent_Alloy.md)s to get them. It can only be used by Ignition Delvers.
+It's used to convert 3 [Pluripotent Alloy's](Pluripotent_Alloy.md) into 1 [Smith's Alloy](<Smith's_Alloy.md>). This is extremely useful, because prior to it's existence, Smith's Alloys were very difficult to get. Now that this exists, you can use the far easier to obtain [Pluripotent Alloys](Pluripotent_Alloy.md) to get them. It can only be used by Ignition Delvers.

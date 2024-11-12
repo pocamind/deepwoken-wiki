@@ -1,9 +1,9 @@
 ---
 title: Suspicious Skeleton
-revid: 80784
+revid: 120417
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Hallowtide]
 ---
 
 # Suspicious Skeleton

@@ -1,9 +1,9 @@
 ---
 title: Mikhail Spellhardt
-revid: 79444
+revid: 120415
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Hallowtide]
 ---
 
 # Mikhail Spellhardt

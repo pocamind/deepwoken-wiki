@@ -1,9 +1,9 @@
 ---
 title: Pumpkin Pitch
-revid: 119891
+revid: 120426
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pitch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras, Event Item]
+categories: [Mantras, Event Item, Hallowtide]
 ---
 
 # Pumpkin Pitch

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 117602
+revid: 120387
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -107,6 +107,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the May 15th, 2023 update, Crystal Breaker became base behavior for Glass Path: Crystallization.
 -   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
+-   **Depths Connection \[Common Talent\] -** Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
+    -   Depths connection was removed in a shadow update on August 30th, 2024.
 -   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   In the May 15th, 2023 update, Drifting Winds became base behavior for Galebreathe.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
@@ -178,6 +180,7 @@ This page is about content that has either been removed or changed drastically i
 
 The skulls in question
 
+-   **Elemental Intensity** as a talent stat - Some talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.

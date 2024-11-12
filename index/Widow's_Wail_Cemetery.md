@@ -1,9 +1,9 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 120272
+revid: 120406
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Hallowtide]
 ---
 
 # Widow's Wail Cemetery
@@ -101,5 +101,4 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 -   Stacking barrels on a tree to gain altitude is a good idea so that Gourdskippers can't jump up and hit.
 -   If you want to go up somewhere high and efficiently grind this event you can use an auto-clicker set at 300 milliseconds for maximum efficiency.
 -   The amount of players in the trial increases the amount of Gourdskippers that spawn. If you're the only player in the trial, only 1-3 spawn making it insanely easy.
--   You VERY SLOWLY lose sanity while being in this area.
 -   The name, "Widow's Wail", comes from Joffrey Baratheon's Valerian steel sword from Game of Thrones.

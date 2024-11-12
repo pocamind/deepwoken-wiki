@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 116841
+revid: 120356
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -60,7 +60,6 @@ Flame Blind
 -   Lightspeed Reflexes - Feinting gives a very brief auto-parry window.
 -   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
 -   Polite Awakening - Recover 15% of your max health after getting up from being downed
-    
 
 ## Finisher
 

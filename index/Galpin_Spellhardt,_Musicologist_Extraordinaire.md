@@ -1,9 +1,9 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 120344
+revid: 120407
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Hallowtide]
 ---
 
 # Galpin Spellhardt, Musicologist Extraordinaire
@@ -15,27 +15,19 @@ categories: [NPCs]
 
 ## Description
 
-Galpin is male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md). Once you have enough Joy, you can exchange it with him for exclusive 2024 Hallowtide rewards related to instruments and music.
+Galpin is male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md), on a walkway on the right side of the castle. From his wrinkles, he seems to be at least 70 years old, due to how [Aging](Age.md) works.
+
+Once you have enough [Joy](Joy.md), you can exchange it with him for exclusive 2024 [Hallowtide](Hallowtide.md) rewards related to [instruments](Instruments.md) and [music](Books.md). You can obtain the Spectral Instrument Set from him for 200 Joy, alongside some books and music sheets.
+
+### Lore
+
+Galpin a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](Lysander_Spellhardt.md) made, kids can be allowed candy for Hallowtide as usual, but growns ups are not allowed any unless they bring Lysander some [Joy](Joy.md). Which is the main reason why Galpin asks the player to get him some Joy.
 
 ## Dialogue
 
-### Haven't done Lysander's Quest
+**First Encounter:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">*<i>The elderly-looking Lightborn looks up at you from the musical broadsheet he is examining.</i>* Hoy! A surface dweller! Though, I see on thine face that thou art a little clueless about the goings-on here... Why not speak to Lysander first? He shalt explain everything to thee.</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-### First Encounter
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -86,7 +78,25 @@ Galpin is male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floa
 </tbody>
 </table>
 
-### Subsequent Encounters
+**No Hallowtide Mask:**
+
+This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mask.md) for [Lysander Spellhardt](Lysander_Spellhardt.md) yet.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>The elderly-looking Lightborn looks up at you from the musical broadsheet he is examining.</i>* Hoy! A surface dweller! Though, I see on thine face that thou art a little clueless about the goings-on here... Why not speak to Lysander first? He shalt explain everything to thee.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -126,28 +136,9 @@ Galpin is male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floa
 </tbody>
 </table>
 
-### 0 Joy Dialogue
+**Shop UI:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">I've spooked about... 0 people, maybe? I'd like to trade my Joy in.</td>
-</tr>
-<tr>
-  <td colspan="12">Hmpf! No Joy to tempt Lysander with, no sweets for me - and no deals for thee, I am afraid! Returnst to me when thou hast scared some people, friend.</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-  
-
-### Shop UI
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -167,16 +158,81 @@ Galpin is male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floa
   <td>7. The Hammer's Call [20 Joy]</td>
   <td>8. The Song of Fathoms / Oscillation [20 Joy]</td>
   <td>1. A Light In The Sky [50 Joy]</td>
-  <td colspan="2">5. The Ferryman's Lullaby [20 Joy]</td>
-  <td colspan="2">6. The Gideshu March [20 Joy]</td>
+  <td>5. The Ferryman's Lullaby [20 Joy]</td>
+  <td>6. The Gideshu March [20 Joy]</td>
   <td colspan="2">9. Galpin's Spectral Instrument Set [200 Joy]</td>
+  <td colspan="2">Not enough Joy for any purchase</td>
 </tr>
 <tr>
   <td colspan="5">At last, sweets ahoy! I thank thee. Enjoy the fine musick, my friend, and a Joyous Hallowtide to thee!</td>
-  <td>*<i>Galpin's hand trembles slightly as he hands you the musical broadsheet.* This one has great sentimental value to me... But worry not! 'Tis merely a copy. Enjoy thine song, and Joyous Hallowtide!</i></td>
-  <td colspan="2">*<i>Galpin scratches his head with mild frustration.</i>* Hmpf! This one always vexed me. 'Tis such a melancholy song, and the words ring so prettily... But, they sing of such foul fellow! Blech! Why, shan't anyone write fine songs of <i>our</i> kind? Us Spellhardts alone are worth a ditty or two!.. Ah, but I forget myself - enjoy thine tune, and Joyous Hallowtide!</td>
-  <td colspan="2">*<i>Galpin gives you a strange, suspicious look.</i>* Hmst... Speak not of this exchange to the Authority, yes? The last thing I need is those book-burning blockheads pilfering my beloved broadsheet collection. Nonetheless - enjoy thine musick, and Joyous Hallowtide!</td>
-  <td colspan="2"><i><b>Unlocked: Spectral Instruments</b></i><br>
+  <td colspan="3">[See --&gt; Book Dialogue]</td>
+  <td colspan="2">[See --&gt; Spectral Instrument]</td>
+  <td colspan="2">Hmmst. Nay, I am afraid that is not quite enough, friend. Go out there and scare some souls, rapscallion!</td>
+</tr>
+<tr>
+  <td colspan="5">End</td>
+  <td colspan="5"></td>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Zero Joy:**
+
+This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to buy Galpin's stuff.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I've spooked about... 0 people, maybe? I'd like to trade my Joy in.</td>
+</tr>
+<tr>
+  <td colspan="12">Hmpf! No Joy to tempt Lysander with, no sweets for me - and no deals for thee, I am afraid! Returnst to me when thou hast scared some people, friend.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Book Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">A Light In The Sky [50 Joy]</td>
+  <td colspan="4">The Ferryman's Lullaby [20 Joy]</td>
+  <td colspan="4">The Gideshu March [20 Joy]</td>
+</tr>
+<tr>
+  <td colspan="4">*<i>Galpin's hand trembles slightly as he hands you the musical broadsheet.</i>* This one has great sentimental value to me... But worry not! 'Tis merely a copy. Enjoy thine song, and Joyous Hallowtide!</td>
+  <td colspan="4">*<i>Galpin scratches his head with mild frustration.</i>* Hmpf! This one always vexed me. 'Tis such a melancholy song, and the words ring so prettily... But, they sing of such foul fellow! Blech! Why, shan't anyone write fine songs of <i>our</i> kind? Us Spellhardts alone are worth a ditty or two!.. Ah, but I forget myself - enjoy thine tune, and Joyous Hallowtide!</td>
+  <td colspan="4">*<i>Galpin gives you a strange, suspicious look.</i>* Hmst... Speak not of this exchange to the Authority, yes? The last thing I need is those book-burning blockheads pilfering my beloved broadsheet collection. Nonetheless - enjoy thine musick, and Joyous Hallowtide!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Spectral Instrument:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Galpin's Spectral Instrument Set [200 Joy]</td>
+</tr>
+<tr>
+  <td colspan="12"><i><b>Unlocked: Spectral Instruments</b></i><br>
   *<i>Galpin retrieves a set of shimmering, translucent musical instruments. They feel weightless, incorporeal, and cold to the touch. Small ghastly wisps of ether emanate from them.</i>* A fine choice, indeed! These are rare, did thou knowst? I wouldst not part with these instruments of musick were it not for their whisperings at night... I am a light sleeper, thou understandest. Enjoy thine spoils - and Joyous Hallowtide!</td>
 </tr>
 <tr>
@@ -184,3 +240,7 @@ Galpin is male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floa
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   He admits to having a **very** sweet tooth, and is also a a light sleeper.

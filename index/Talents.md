@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120271
+revid: 120434
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -240,7 +240,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Halve the speed penalty tied to lost health.
     -   Prerequisites: 25 Agility, 25 Fortitude
-    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this Talent.
+    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this Talent
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
@@ -264,6 +264,10 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh talent has been merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
+
+-   Skibidi Toilet \[Common Talent\] Whenever you hit somebody with a flamecharm mantra, a skibidi toilet image pops up in their screen.
+    -   This is meant to distract your opponents and help you win.
+    -   Really good talent, Every person that plays deepwoken should get this.
 
 ### Angler
 
@@ -819,12 +823,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Deepwoken."**_
 
-  
-
--   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
-    -   Increase your ether regen.
-    -   Prerequisite: Escape from The Depths once.
-
 -   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!".
@@ -919,8 +917,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I feel the pain of those around me."**_
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
-    -   Guildmates, people who are in a Vow of Mastery or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
-    -   The Canor race's innate Talent has a similar effect.
+    -   Guildmates, your Roblox friends, people who are in a Vow of Mastery, or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
+    -   The Canor race's innate Talent has a similar effect and they can stack.
     -   Prerequisites: 35 Charisma
     -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this Talent.
 
@@ -1412,25 +1410,25 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I rely on my instincts."**_
 
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
-    -   While not empty, receive 5% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
+    -   While not empty, receive 5% less damage from every source, but this bonus is halved to 2.5% if you have the Exoskeleton talent. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
-    -   Passive insanity gain from The Depths is reduced. You require 1 less knowledge when making deals with deep shrines.
+    -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).
 
 -   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
     -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the race variant.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
-    -   Guildmates take less damage from you and deal less damage to you.
+    -   Allies take less damage from you and deal less damage to you. This can stack with the Give and Take talent.
 
 -   Mark of Jurik \[Blue [Capra](Capra.md) Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
-    -   Buffs sanity of nearby players as long as they are at a campfire OR power 5+.
+    -   Gain a tool that buffs the sanity of nearby players as long as they are at a campfire OR power 5+. Also buffs effected players' HP regen and slightly buffs their food replenishment and blood regen. 4m CD.
 
 -   Mark of Ku \[Red [Capra](Capra.md) Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
-    -   Buffs HP regen of nearby players as long as they are at a campfire AND power 5+.
+    -   Gain a tool that buffs the blood regen of nearby players as long as they are at a campfire AND power 5+. Also buffs the effected players' HP regen and slightly buffs their sanity and food replenishment. 3m 30s CD.
 
 -   Mark of Nemit \[Green [Capra](Capra.md) Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
-    -   Buffs food replenishment of nearbyplayers around them as long as they are at a campfire OR power 5+.
+    -   Gain a tool that buffs the food replenishment of nearby players around them as long as they are at a campfire OR power 5+. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
 
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
@@ -1439,6 +1437,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Status effects, good or bad, are shorter.
 
 -   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
+    -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
 
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other races with the blind flaw.
@@ -1449,7 +1448,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Seaborne \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
 
--   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of [equipment](Equipment.md) quicker than others. You can equip things at 3 points lower than the requirement. (Power level doesn't count)
+-   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement. (This does not work on power requirements)
+    -   This works for [Weapon](Weapons.md) requirements too. It also lowers all requirements on things with more than one, so a 72 Galebreathe 22 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
 
 -   Teachings of the Edenkite \[[Drakkard](Drakkard.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.

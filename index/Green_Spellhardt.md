@@ -1,9 +1,9 @@
 ---
 title: Green Spellhardt
-revid: 79384
+revid: 120413
 source: https://deepwoken.fandom.com/wiki/Green_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Hallowtide]
 ---
 
 # Green Spellhardt

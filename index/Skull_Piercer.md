@@ -1,9 +1,9 @@
 ---
 title: Skull Piercer
-revid: 119960
+revid: 120429
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Event Item]
+categories: [Weapons, Rapiers, Event Item, Hallowtide]
 ---
 
 # Skull Piercer

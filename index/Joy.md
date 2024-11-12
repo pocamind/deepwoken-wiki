@@ -1,9 +1,9 @@
 ---
 title: Joy
-revid: 120032
+revid: 120411
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Hallowtide]
 ---
 
 # Joy

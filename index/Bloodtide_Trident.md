@@ -1,9 +1,9 @@
 ---
 title: Bloodtide Trident
-revid: 119954
+revid: 120423
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item]
+categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide]
 ---
 
 # Bloodtide Trident

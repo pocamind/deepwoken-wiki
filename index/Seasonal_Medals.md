@@ -1,9 +1,9 @@
 ---
 title: Seasonal Medals
-revid: 119967
+revid: 120408
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Hallowtide]
 ---
 
 # Seasonal Medals

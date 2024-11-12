@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 120185
+revid: 120435
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -226,13 +226,13 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).</td>
+  <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).<p>^All 3 are guaranteed per chest. Windrunner Robes sometimes drops twice.</p></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a> (10 Wind gems guaranteed)</li>
     <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>

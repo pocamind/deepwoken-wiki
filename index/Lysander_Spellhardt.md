@@ -1,9 +1,9 @@
 ---
 title: Lysander Spellhardt
-revid: 120319
+revid: 120436
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Hallowtide]
 ---
 
 # Lysander Spellhardt
@@ -170,12 +170,12 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
 <tr>
   <td><a href="Forge_Needle.md">Forge Needle</a></td>
   <th><a href="Smith's_Alloy.md">Smiths Alloy</a></th>
-  <th></th>
+  <th><a href="Warmaster's_Medallion.md">Warmaster's Medalion</a></th>
 </tr>
 <tr>
   <td><a href="Armorer's_Needle.md">Armorers needle</a></td>
   <th><a href="Idol_of_Yun'Shul.md">Idol of Yun'shul</a></th>
-  <th></th>
+  <th><a href="Enchant_Stone.md">Astral Enchant Stone</a> (Needs testing)</th>
 </tr>
 </tbody>
 </table>

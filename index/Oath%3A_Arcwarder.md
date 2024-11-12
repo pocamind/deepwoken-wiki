@@ -1,23 +1,12 @@
 ---
 title: "Oath: Arcwarder"
-revid: 120237
+revid: 120446
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Oaths, The Ignition Union]
-notices:
-  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+categories: [Oaths, The Ignition Union]
 ---
 
 # Oath: Arcwarder
-
-| Oath: Arcwarder | |
-|---|---|
-| oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
-| effects | +1 Wildcard Mantra, +2 Combat Mantra |
-
-“ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
-
-― Delta
 
 ## Description
 
@@ -46,7 +35,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 ## Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light. The armor can resist all parasite areas in layer two by a bunch, however it won't completely stop them.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light. The suit gives total resistance to parasites and allows you to walk on parasite pools.
 
 ## Abilities
 

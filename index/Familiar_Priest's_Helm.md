@@ -1,9 +1,9 @@
 ---
 title: "Familiar Priest's Helm"
-revid: 119321
+revid: 120430
 source: https://deepwoken.fandom.com/wiki/Familiar_Priest's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Event Item]
+categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 ---
 
 # Familiar Priest's Helm

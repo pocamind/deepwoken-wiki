@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 120126
+revid: 120391
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -43,6 +43,6 @@ To access songs, you must read the corresponding book. These books can be obtain
 
 **The [Nightwish x Deepwoken Promotional Event](Nightwish_x_Deepwoken_Promotional_Event.md) allowed you to get gilded variants of the instruments, they function/sound exactly the same.**
 
-### Haunted Instruments
+### Spectral Instruments
 
-**The [Hallowtide](Hallowtide.md) event allowed you to get haunted variants of the instruments, they function/sound exactly the same.**
+**The [Hallowtide](Hallowtide.md) event allowed you to get spectral variants of the instruments, they function/sound exactly the same.**
