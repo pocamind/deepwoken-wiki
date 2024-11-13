@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 119348
+revid: 120694
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -271,7 +271,7 @@ Flame Sentinel
 
 _Conjure a turret of flames._
 
- | Fire | User creates an orb that will shoot out fireballs to nearby targets.
+ | Fire | User creates a destructible orb that will shoot out fireballs to nearby targets.
 
 -   Can be modified with a magnet spark, making the turret follow the user.
 

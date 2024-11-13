@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 120689
+revid: 120699
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]
@@ -23,7 +23,7 @@ Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '
 
 Joy can be obtained in 2 ways:
 
-1.  Spooking NPCs with the [Hallowtide Mask](Hallowtide_Mask.md). This gives you 3 Joy per NPC spooked, with a cooldown of 30 minutes for each NPC.
+1.  Spooking stationary NPCs with the [Hallowtide Mask](Hallowtide_Mask.md). This gives you 3 Joy per NPC spooked, with a cooldown of 30 minutes for each NPC. Guards and similar NPCs cannot be spooked.
 2.  By doing the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>). There are 2 ways to get Joy by doing this trial.
     -   Firstly, by surviving each wave, which gives you 3 Joy per wave. There is a total of 8 waves, and once you complete the whole trial, you get 16 Joy on top of it. Ultimately giving you 40 Joy per full trial.
     -   Secondly, by getting infected, and infecting people. Which gives you 3 Joy per people you infect.

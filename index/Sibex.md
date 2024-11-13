@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 120461
+revid: 120697
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -11,6 +11,7 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 | Sibex | |
 |---|---|
 | name | Sibex |
+| location | On an island near Starswept Valley |
 
 ## Description
 
@@ -22,7 +23,7 @@ Sibex is located at the 3rd statue when passing by the first one next to Songsee
 
 Where Sibex can be found
 
-**Sibex** is capable of telling you your current [Resonance](Resonance.md) progress, and what gives you the most **Resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him (You dont actually have get the spine), and in return he will tell you the details of your Resonance obtainment method.
+**Sibex** is capable of telling you your current [Resonance](Resonance.md) progress, and what gives you the most **Resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him, and in return he will tell you the details of your Resonance obtainment method.
 
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
@@ -144,6 +145,16 @@ Where Sibex can be found
 </tbody>
 </table>
 
+## Location
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Sibex Location..png<figcaption></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md) will play.
@@ -160,7 +171,3 @@ Where Sibex can be found
 ## References
 
 1.  [↑](#cite-ref-1) Can be occasionally broken, player must rejoin if this dialogue appears and they haven't gotten the bell.
-
-## Location
-
-File:Sibex Location..png

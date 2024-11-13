@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 120281
+revid: 120692
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -14,14 +14,14 @@ categories: [Mantras, Character, Attunement, Mechanics]
 
 Considered to be the root of Ether's usage - **Mantras**, sometimes referred to in lore as _words of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these are be the magic abilities that you use to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper](Whisper_Draw.md) upon powering up (Power 2, 4, 6 ,8 ,9 ,10 ,12 ,14 ,16 ,18 ,19 ,20. In total of 12 mantra you will get by powering up), as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md). If you are unsatisfied with your current selection of Mantras, they can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
+Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by powering up), as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md). If you are unsatisfied with a mantra you've chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
 
 ## Classification of Mantras
 
 Mantras are divided into various categories based on their general application. By default, you can have up to **six** Mantras equipped:
 
--   Combat Mantras (3) - Mantras used for combat. These will be the Mantras you will mainly be using to deal damage to your opponent.
--   Support Mantras (1) - Mantras used for utility. Can range from healing, displacement, and all sorts of other things.
+-   Combat Mantra (3) - Mantras used for combat. These will be the Mantras you will mainly be using to deal damage to your opponent.
+-   Support Mantra (1) - Mantras used for utility. Can range from healing, displacement, and all sorts of other things.
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 

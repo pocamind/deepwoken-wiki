@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 119748
+revid: 120698
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1035,6 +1035,7 @@ N/A
 -   **Emotion Wave** is a direct reference to the Ancient Dragons' Lightning Spear incantation from Elden Ring
 -   **The source for thundercall mantras damage:**
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
+-   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement
     
     File:Thundercall mantras damage.png
     
