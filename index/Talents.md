@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120524
+revid: 120546
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -154,8 +154,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Aerial Dancer
 
 > _**"I dance with the winds."**_
-
-  
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne.
     -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
@@ -400,8 +398,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Blindseer
 
 > _**"I seek the qualities of Blindseer."**_
-
-  
 
 -   _All-Seeing Eye \[Unlockable Talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
 
@@ -663,8 +659,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am a friend to others."**_
 
-  
-
 -   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged.
     -   While the effect is active, victims can hold block to reduce the ether steal by half.
     -   Getting hit will cancel the effect entirely.
@@ -884,8 +878,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Pursuer."**_
 
-  
-
 -   _Going Nowhere_ \[Rare Talent\] - When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)
     -   Prerequisites: 25 Strength, 25 Agility
 
@@ -1053,8 +1045,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I'm built different."**_
 
-  
-
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
     -   Vesperians will only gain 8% armor from this Talent, totalling to 13% with their own natural armor.
     -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
@@ -1120,8 +1110,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I feel like a warrior encased in ice."**_
 
-  
-
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling.
     -   Works with Crystallization.
     -   Lasts the first 1.5 seconds after chill/freeze procs.
@@ -1140,8 +1128,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Gale Kata."**_
 
-  
-
 -   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
     -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
     -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE RECC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
@@ -1149,8 +1135,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Galebreather
 
 > _**"I seek the qualities of Galebreathe Master."**_
-
-  
 
 -   Adept Galebreather \[Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras.
     -   Prerequisite: 20 Galebreathe
@@ -1214,8 +1198,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Great Wall
 
 > _**"I seek the qualities of Great Wall."**_
-
-  
 
 -   Fortitude Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
     -   Prerequisite: 75 Fortitude
@@ -1322,8 +1304,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Hunter
 
 > _**"I seek the qualities of Hunter."**_
-
-  
 
 -   _Peripheral Vision_ \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
     -   Prerequisites: 40 Willpower, Glare
@@ -1498,8 +1478,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Iron Will."**_
 
-  
-
 -   Willpower Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your willpower to its fullest.
     -   Prerequisite: 75 Willpower
 
@@ -1507,16 +1485,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Javelin Lord."**_
 
-  
-
 -   _Grand Skewer_ \[Thundercall Exclusive, Rare Talent\] - Your Grand Javelin now carries opponents through the air.
     -   Prerequisites: Grand Javelin, 60 Thundercall
 
 ### Jetstriker
 
 > _**"Journey before destination."**_
-
-  
 
 -   _Decisive Winds \[Unlockable Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown._
 
@@ -1613,8 +1587,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Leaf in the Wind
 
 > _**"I seek the qualities of Leaf in the Wind."**_
-
-  
 
 -   _Observation_ \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
@@ -1717,8 +1689,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**" I am often in my own world."**_
 
-  
-
 -   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
     -   Does not activate when on moving ships.
@@ -1748,8 +1718,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Merchant
 
 > _**"I seek the qualities of Merchant."**_
-
-  
 
 -   Art of the Deal \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your rapport with merchants gives you lower prices!
     -   Reduces an item's price by about 12%.
@@ -1782,8 +1750,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Metamancer
 
 > _**"I want to WIN."**_
-
-  
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
@@ -1941,8 +1907,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I see what I desire to."**_
 
-  
-
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
     -   Prerequisite: 75 Strength
 
@@ -1984,8 +1948,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Prospector
 
 > _**"I seek the qualities of Prospector."**_
-
-  
 
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
 -   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
@@ -2138,8 +2100,6 @@ _**"My cure is most effective."**_
 
 > _**"With the blade, I am chosen."**_
 
-  
-
 -   _Light Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest._
     -   Prerequisite: 75 Light Weapon
 
@@ -2177,8 +2137,6 @@ _**"My cure is most effective."**_
 ### Scholar of the Cloud
 
 > _**"I seek the qualities of Scholar of the Cloud."**_
-
-  
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Unintuitive to most the community, using Windwaker is meant to grant a further speed boost only inside a Wind Gate.
@@ -2858,8 +2816,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I speak to the Owls."**_
 
-  
-
 -   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
 
 ### Vocalist
@@ -2897,8 +2853,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Warrior
 
 > _**"I enjoy fighting."**_
-
-  
 
 -   _Chronostasis_ \[Rare Talent\] - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisites: [Power](Power.md) 13, Engage
@@ -2960,8 +2914,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Windrunner
 
 > _**"I move like water."**_
-
-  
 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest.
     -   Prerequisite: 75 Agility

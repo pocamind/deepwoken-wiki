@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 120261
+revid: 120554
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
@@ -83,6 +83,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Gave [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) his hemokinetic abilities.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   Master of [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and probably other apprentices.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   His only known power is blood control, which is likely much more powerful than Chaser's blood powers.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
+-   Seems to keep the existence/method of acquiring [Bloodrend](Bloodrend.md) a secret, making sure the only ones who can use it are his disciples, and that they can't teach it to others.
 
 ### The 5th King of Etrea
 

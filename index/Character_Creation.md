@@ -1,11 +1,9 @@
 ---
 title: Character Creation
-revid: 120544
+revid: 120553
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
 ---
 
 # Character Creation
@@ -36,9 +34,9 @@ Attunement-less
 
 Attunement-less 
 
-[Text](Announcements.md)
+[Attunement](Attunements.md)
 
-[Text](Announcements.md) 
+[Attunement](Attunements.md) 
 
 [Flamecharm](Flamecharm.md)
 
@@ -242,10 +240,13 @@ There may be some changes to dialogue with NPCs depending on what 'Tier' of age 
 -   **(Tier 3) Elderly, Phase 1:** 60 - 69
 -   **(Tier 4) Elderly, Phase 2:** 70 - ???
 
-**(Tier 1) Middle Aged, Phase 1:** 40-49 \[Wrinkles are visible on the eye and hair color has been changed.)
-
-**(Tier 2) Middle Aged, Phase 2:** 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)
-
-**(Tier 3) Elderly, Phase 1:** 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)
-
-**(Tier 4) Elderly, Phase 2:** 70 - ??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption><p><b>(Tier 1) Middle Aged, Phase 1:</b> 40-49 [Wrinkles are visible on the eye and hair color has been changed.)</p></figcaption></figure></td>
+  <td><figure><figcaption><p><b>(Tier 2) Middle Aged, Phase 2:</b> 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)</p></figcaption></figure></td>
+  <td><figure><figcaption><p><b>(Tier 3) Elderly, Phase 1:</b> 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)</p></figcaption></figure></td>
+  <td><figure><figcaption><p><b>(Tier 4) Elderly, Phase 2:</b> 70 -&nbsp;??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)</p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>

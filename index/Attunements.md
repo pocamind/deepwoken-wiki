@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 120508
+revid: 120566
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -12,7 +12,7 @@ File:Attunementicon.png
 
 **Attunements** are forms of magic that the player can choose on Character Creation or obtain in the game through [Trainers](Attunement_Trainers.md).
 
-**IMPORTANT NOTE:** _For those learning about Shrine of Order,_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. They have no "bottom-limit"- where, for example, a 65 investment in Agility when influenced by Shrine of Order will become a 40 investment instead. They function in a way that, for lack of better wording, is reminiscent to the "old" Shrine of Order._
+**IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines.md#shrine-of-order),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit"- where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._
 
   
 

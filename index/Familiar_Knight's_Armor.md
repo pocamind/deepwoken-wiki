@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 120541
+revid: 120582
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Hallowtide, Items, Event Items, Outfits, Unique Outfits]
@@ -24,7 +24,7 @@ This Outfit's requirements is being [Power](Power.md) 5.
 
 This Outfit has 1300 durability and grants +15% Physical Armor, 10% Slash Armor, and 25% Fire Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which lets you draw your weapon silently and move faster + roll further while crouching. _(explain the talent properly next time bum -sin)_
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which lets you draw your weapon silently and move faster + roll further while crouching.
 
 ## Location
 
@@ -41,4 +41,4 @@ File:FamilarKnightArmor.png
 
 -   This outfit is based on Rogue Lineage's Sigil Knight Commander's armor, the Errant armor.
 -   This outfit is not droppable or bankable.
--   This outfit is currently bugged, attempting to use it at a Blacksmith will result in the schematic being deleted from the player's inventory.
+-   This outfit was bugged, attempting to use it at a Blacksmith would result in the schematic being deleted from the player's inventory.

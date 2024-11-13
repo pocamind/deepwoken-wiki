@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 120190
+revid: 120557
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -97,6 +97,8 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
 
+-   Even if you no longer meet the requirements for a mantra's level upgrade after using Shrine of Mastery, you will keep it at that level with no drawback.
+
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
     -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath talents themselves have no stat requirement attached to them.
@@ -144,7 +146,7 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
--   A singular stat cannot lose more than 25 Points, with the exception of Attunement Stats.
+-   A singular stat cannot lose more than 25 points, with the exception of Attunement stats. which can lose more than 25 points.
 -   Does not progress towards Contractor Oath.
     
 
