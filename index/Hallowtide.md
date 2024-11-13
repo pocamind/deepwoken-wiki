@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 120662
+revid: 120683
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -41,7 +41,7 @@ The first Hallowtide added...
 -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
 
 -   **New Weapons**
--   [Skullpiercer](Skull_Piercer.md) (Rapier)
+-   [Skull Piercer](Skull_Piercer.md) (Rapier)
 -   [Hallowscleave](Hallowscleave.md) (Sword)
 -   [Skyreap Blade](Skyreap_Blade.md) (Greataxe)
 

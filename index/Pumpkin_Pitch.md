@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pitch
-revid: 120629
+revid: 120672
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pitch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Event Item, Hallowtide]
@@ -16,4 +16,4 @@ Upon initial use of Pumpkin Pitch, you throw out an explosive pumpkin projectile
 
 Unlike what was stated in previous versions of this page, [Talents](Talents.md) and [Deep Gems](Mantra_Modifiers.md) CAN proc off of Pumpkin Pitch. The explosions are similar to that of bombs and cannonballs but they do not insta-grip.
 
-Pumpkin Pitch counts as a Fire mantra for Temperature Shock.
+Pumpkin Pitch counts as a Fire mantra for the Temperature Shock talent.

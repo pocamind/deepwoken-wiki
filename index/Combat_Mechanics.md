@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 120352
+revid: 120668
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -457,7 +457,8 @@ Main article: [Status Effects](Status_Effects.md)
   <ul>
     <li>This Talent is needed for Haunted Path: Specter, and is needed to activate the Apparitions Talent.</li>
   </ul></li>
-  </ul><p>Though outside of these Talents, perfect casting is effectively useless.</p></td>
+  </ul><p>Though outside of these Talents, perfect casting is effectively useless.</p>
+  <p>Do note though, that perfect casting Flame Grab and Jolt Grab may actually nerf it by shortening its range. <a href="https://www.youtube.com/watch?v=o3AJne5Y04U">Source</a>.</p></td>
 </tr>
 </tbody>
 </table>

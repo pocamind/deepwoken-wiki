@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 120554
+revid: 120667
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
@@ -1552,6 +1552,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   The Powers granted to a Contractor are not universal, as swearing the Oath to a different prophet may yield different results.
 -   Since the Oath is directly tied to the will of the Prophet, getting stronger meant completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
 -   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
+    -   However, as seen in the case of Chaser or Vyrelda, who are under oath of the Second Prophet, one can be given more liberty if judged strong enough.
 -   Similar to how Blindseer and Visionshaper are two Oaths that are against each other. Contractors are a polar opposite Warmasters.
 
 ### Warmasters

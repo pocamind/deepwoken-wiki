@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 116116
+revid: 120669
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -78,45 +78,48 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 <table><caption>Having Killed <a href="Duke_Ishamon_Erisia.md">The Duke</a>, speaking to him again.</caption>
 <tbody>
 <tr>
-  <th colspan="4"><b><big>Have you brought the Forge?</big></b></th>
+  <th colspan="5"><b><big>Have you brought the Forge?</big></b></th>
 </tr>
 <tr>
   <th><b>NOT</b> on <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> path, (Negative <a href="The_Ministry.md">Ministry</a> reputation)</th>
   <th>On <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> path, (Positive / Neutral <a href="The_Ministry.md">Ministry</a> reputation)</th>
-  <th colspan="2">Meets <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> requirements.</th>
+  <th colspan="3">Meets <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> requirements.</th>
 </tr>
 <tr>
   <td>1. I defeated the Duke, but how was I supposed to drag it out of there?<p><i><small>(Ending dialogue early does NOT kill you, able to do contractor oath requirements.)</small></i></p></td>
   <td>1. [Bite your tongue]</td>
-  <td colspan="2">1.[Bite your tongue]<p><small>(See other instance)</small></p>
+  <td colspan="3">1.[Bite your tongue]<p><small>(See other instance)</small></p>
   <p>2. No, but I know of your true nature. I know that you intend to repeat what happened in <a href="https://deepwoken.fandom.com/wiki/Lore?so=search#The_Great_Drowning_of_Celtor">Celtor</a> by drowning <a href="Etris.md">Etris</a>.</p></td>
 </tr>
 <tr>
   <th>Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed.</th>
   <th>*<i>He smiles, satisfaction playing on his face.</i>* You have much to learn. Educate yourself on what it is we do here.</th>
-  <th colspan="2">*<i>The Lord Regent, appearing amused, grins.</i>* So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. Such a noble act.</th>
+  <th colspan="3">*<i>The Lord Regent, appearing amused, grins.</i>* So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. Such a noble act.</th>
 </tr>
 <tr>
   <td><b>[Player is Killed]</b><small>(Returning to the area will get you killed.)</small></td>
   <td>[End Dialogue.]<p><small>(See <a href="Oath%253A_Contractor.md">Contractor Oath</a> requirements to progress with acquiring it.)</small></p></td>
   <td>1. Yes, I did.</td>
-  <td>2. No, I came to join you.</td>
+  <td colspan="2">2. No, I came to join you.</td>
 </tr>
 <tr>
   <td colspan="2" rowspan="2"></td>
   <th>*<i>The Lord regent lets out a horrible laugh.</i>* <b>THEN YOU ARE TRULY A FOOL.</b></th>
-  <th>*<i>The Lord regent eyes you curiously.</i>* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Oath%253A_Contractor.md">oath</a> to me.</th>
+  <th colspan="2">*<i>The Lord regent eyes you curiously.</i>* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Oath%253A_Contractor.md">oath</a> to me.</th>
 </tr>
 <tr>
   <td><b>[Player is Killed]</b><small>(This does NOT lock you out of getting <a href="Oath%253A_Contractor.md">Contractor Oath</a>)</small></td>
   <td>1. I will swear myself to you.<p><small>(Acquires <a href="Oath%253A_Contractor.md">Contractor Oath</a>)</small></p></td>
+  <td>1. I am already bound by an oath. (only available if the player has an oath)</td>
 </tr>
 <tr>
   <td colspan="3" rowspan="4"></td>
   <th>Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their <a href="Oaths.md">Oaths</a> to others. These heathens are to be dealt with promptly.</th>
+  <th>*<i>The Lord regent lets out a horrible laugh.</i>* <b>THEN YOU ARE TRULY A FOOL.</b></th>
 </tr>
 <tr>
   <td>1. It will be done my Lord.</td>
+  <td><b>[Player is Killed]</b></td>
 </tr>
 <tr>
   <th>*<i>The Lord Regent nods his head in your direction dismissing you.</i>*</th>

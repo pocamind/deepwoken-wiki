@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 119405
+revid: 120664
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -70,7 +70,7 @@ In order of carry load given:
 -   The carrying capacity [echo upgrade](Echoes.md) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
     -   Each upgrade costs 50 echoes.
 -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load.
-    -   If you're trying to as much carry load as possible, get the Grand Pathfinder's Backpack instead.
+    -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
 -   The Packmule [Boon](Boons_and_Flaws.md) gives 50 carry load.
 -   The [base character](Character_Stats.md) starts off with 100 carry load.
@@ -83,11 +83,12 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both talents and other sources, the total amounts to **557**. However, due to limitations you can only get up to **546** carry load, found here [https://deepwoken.co/builder?id=6Os9gI2s](https://deepwoken.co/builder?id=6Os9gI2s) (If you have found a way to get more carry load please edit accordingly).  
-^If you have intelligence unbound then 544 is your maximum possible carry load due to the intelligence unbound card having a stat req of 75. Instead go 99 str and 75 int. However, your character can actually carry 20% more than your carry load would allow, gradually reducing your movement speed.
+Combining both talents and other sources, the total amounts to **557**. However, your character can actually carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **655**.
 
-Accounting for this, the real maximum possible carry load is **655**.
+Due to the build limitations, the best carry load build can only get **546** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+
+-   If you create a build that gets more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for sources like strength or Spare Nails.
 
 ## Trivia
 
--   Interestingly, if you reduce your carry load (by taking off a backpack, for example), you can still carry your previous max amount of stuff, even after rejoining, as long as you don't drop any of it.
+-   Interestingly, if you reduce your carry load (by taking off a backpack, for example), you can still carry your previous max amount of items, even after rejoining, so long as you don't drop any of it.

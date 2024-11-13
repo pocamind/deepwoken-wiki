@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 120410
+revid: 120685
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -21,7 +21,7 @@ Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floatin
 -   Random [Master Schematic](Outfits.md#master) \[20 Joy\]
 -   [Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[60 Joy\]
 -   [Hallowscleave](Hallowscleave.md) (Sword) \[60 Joy\]
--   [Skullpiercer](Skull_Piercer.md) (Rapier) \[60 Joy\]
+-   [Skull Piercer](Skull_Piercer.md) (Rapier) \[60 Joy\]
 -   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer) \[100 Joy\]
 -   [Bloodtide Trident](Bloodtide_Trident.md) (Spear) \[100 Joy\]
 -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
@@ -76,7 +76,7 @@ Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floatin
   <td>Master Schematic [20 Joy]</td>
   <td>Skyreap Blade (Greataxe) [60 Joy]</td>
   <td>Hallowscleave (Sword) [60 Joy]</td>
-  <td>Skull piercer (Rapier) [60 Joy]</td>
+  <td>Skull Piercer (Rapier) [60 Joy]</td>
   <td>Putrid Edenstaff (Greathammer) [100 Joy]</td>
   <td>Bloodtide Trident (Spear) [100 Joy]</td>
   <td>Drakemaw Gauntlets (Fist) [100 Joy]</td>

@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 117996
+revid: 120684
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -36,7 +36,7 @@ The Kyrstreza is an endgame [Light Weapon](Weapons.md) under the Rapier category
 
 ## Tips/Trivia
 
--   The Kyrsteza tends to shine when you don't need the [Crucible Rapier](Crucible_Rapier.md)'s bit of extra weight or the [Skullpiercer](Skull_Piercer.md)'s bleed or extra range.
+-   The Kyrsteza tends to shine when you don't need the [Crucible Rapier](Crucible_Rapier.md)'s bit of extra weight or the [Skull Piercer](Skull_Piercer.md)'s bleed or extra range.
 -   Meeting the requirement of LHT, the damage is (22.2)
 -   At max LHT, the damage is (24.6)
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrstreza**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md))
