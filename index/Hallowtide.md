@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 120515
+revid: 120662
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -84,6 +84,8 @@ The third Hallowtide added...
 
 ### Joy
 
+_Main article: [Joy](Joy.md)_
+
 -   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
@@ -122,18 +124,13 @@ The third Hallowtide added...
 -   Hallowtide Caller
 -   [Suspicious Skeleton (Bone Rattler)](Suspicious_Skeleton.md)
 
-### Trivia
-
--   The Floating Keep is the only place in the game where you can actually see NPC [Lightborns](Lightborn.md). (Aside from Kaide in [New Kyrsa.](Second_Layer/New_Kyrsa.md))
--   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
-
 ### The Hallowtide Calling
 
 The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment or the waterfall area at Greathive Aratel. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
 
 #### Dialogue
 
--   When first interacted
+-   When first interacted with
 
 <table>
 <tbody>
@@ -148,7 +145,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="6">*With a sudden crackle, the little pumpkin springs to life.* OI! YOU! You dare approach me... upon the eve of the Hallowtide?!</td>
+  <td colspan="6">*With a sudden crackle, the little pumpkin springs to life.*OI! YOU! You dare approach me... upon the eve of the Hallowtide?!</td>
 </tr>
 <tr>
   <td colspan="3">Hallowtide?</td>
@@ -174,7 +171,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>End</td>
 </tr>
 <tr>
-  <td>*<i>A large booming sound emits from the sky around you. It seems something large is approaching.</i>* Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</td>
+  <td>*<i>A large booming sound emits from the sky around you. It seems something large is approaching.</i>*Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -232,6 +229,8 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 
 ## Trivia
 
+-   The Floating Keep is the only place in the game where you can actually see NPC [Lightborns](Lightborn.md). (Aside from Kaide in [New Kyrsa.](Second_Layer/New_Kyrsa.md))
+-   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
 -   A gif of the floating keep spawning in can be seen below
 
 -   Oddly, the Third Hallowtide (2024) occured outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October)

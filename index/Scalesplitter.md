@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 120127
+revid: 120645
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea, Alloyed Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 
 ## Description
 
-The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict or the Etris Raid event.
+The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict, the Etris Raid event, Sea events, and/or [Deep Widow](Deep_Widow.md) chests.
 
 ## M1s and Aerial/Running
 

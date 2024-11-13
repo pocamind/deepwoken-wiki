@@ -1,9 +1,9 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 120582
+revid: 120659
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Hallowtide, Items, Event Items, Outfits, Unique Outfits]
+categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
 ---
 
 # Familiar Knight's Armor
@@ -32,10 +32,6 @@ This Outfit's Schematic is obtainable from:
 
 -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
-
-## Gallery
-
-File:FamilarKnightArmor.png
 
 ## Trivia/Notes
 

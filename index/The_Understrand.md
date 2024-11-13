@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 113141
+revid: 120606
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
@@ -18,9 +18,9 @@ A sprawling network of hidden passages utilised by the Ministry in their covert 
 
 ## Overview
 
-The Understrand is a network of tunnels used by [the Ministry](The_Ministry.md). This area is only accessible from either using [Shadow's Flight](<Shadow's_Flight.md>) near [Silhuett](Silhuett.md) in the [First Layer](First_Layer.md) of the [Depths](The_Depths.md) or an event in [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md).
+The Understrand is a network of tunnels used by [the Ministry](The_Ministry.md). This area is accessible by using [Shadow's Flight](<Shadow's_Flight.md>) or [Shadow Travel](Talents.md#shadow-travel) near certain events. These events are: [Silhuett](Silhuett.md) in the [The Drowned City of Celtor](The_City_of_the_Drowned.md) or [the Celtor Wastes](Celtor_Wastes.md) of [First Layer](First_Layer.md) of [the Depths](The_Depths.md), The [Ministry Cache](Random_Encounters.md) event in [The Drowned City of Celtor](The_City_of_the_Drowned.md) of the [First Layer](First_Layer.md) of [the Depths](The_Depths.md), The [Ministry Cache](Random_Encounters.md) event in [Minityrsa](Minityrsa.md) near a zipline, The [Ministry Cache](Random_Encounters.md) event in [Outpost Antumbra](Outpost_Antumbra.md) of [Minityrsa](Minityrsa.md).
 
-Used for obtainment of the [Deepspindle](Deepspindle.md), [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) schematic, via the [Ministry Agent](Ministry_Agent.md) fight or dialogue.
+Used for obtainment of the [Deepspindle](Deepspindle.md), [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) schematic, via the [Ministry Agent](Ministry_Agent.md) fight or dialogue. The [Black Diver](<Black_Diver_(NPC).md>) can also spawn here depending on your reputation with [the Ministry](The_Ministry.md) and [The Divers](The_Divers.md).
 
 ## Description
 
@@ -28,8 +28,9 @@ A network of tunnels used by [the Ministry](The_Ministry.md) to move supplies an
 
 ## Points of Interest
 
-[Ministry Agent](Ministry_Agent.md)
+[Ministry Agent](Ministry_Agent.md)  
+[Black Diver](<Black_Diver_(NPC).md>)
 
 ## Trivia
 
--   This used to only be accessible in [The Depths](The_Depths.md) but is now accessible via [Outpost Antumbra](Outpost_Antumbra.md).
+-   This used to only be accessible in [The Depths](The_Depths.md) but is now accessible via [Outpost Antumbra](Outpost_Antumbra.md) and [Minityrsa](Minityrsa.md).

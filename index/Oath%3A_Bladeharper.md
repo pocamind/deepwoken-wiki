@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 119762
+revid: 120660
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,6 +73,7 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
         -   Toggle On and Off the True Strength state.
             -   In the True Strength state, you do not need to proc Soaring Storm to access the empowered uppercuts.
         -   While in the True Strength state, you passively build up Wither (reduced max HP) on yourself.
+        -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
 -   **Float Like a Butterfly - Passive**
     -   In display of your true strength, cancel your air dash to enter a frenzy of slashes.
         -   Only accessible when True Strength is active.

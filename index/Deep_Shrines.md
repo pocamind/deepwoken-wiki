@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 120557
+revid: 120652
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -135,7 +135,7 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 
 ## Effect
 
-For 10 Knowledge, balance your stats (up to a limit), but gain a random Flaw. Can only be done once per character.  
+For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. Can only be done once per character.  
 You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and your sanity has crumbled, you may break the oath to order yourself,)
 
 ## Details
@@ -146,7 +146,7 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
--   A singular stat cannot lose more than 25 points, with the exception of Attunement stats. which can lose more than 25 points.
+-   \*A singular stat cannot lose more than 25 points, with the exception of Attunement stats. which can lose more than 25 points.
 -   Does not progress towards Contractor Oath.
     
 

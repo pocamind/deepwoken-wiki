@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120546
+revid: 120597
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3167,6 +3167,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
 -   Lava serpent's and Azure flame's can both be used simultaneously.
 -   The Strength stat unbounded Talent (Strength Unbounded) is under the category "One Eyed King" which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
+-   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
 
 ## References
 
