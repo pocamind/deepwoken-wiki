@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 115964
+revid: 120723
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Lore, Layer 2]
@@ -16,7 +16,7 @@ categories: [NPCs, Quests, Lore, Layer 2]
 
 Mendacia is a [Tiran](Tiran.md) with the [Black Diver](Black_Diver.md) outfit who tasks you with the quest of saving her in the [Second Layer](Second_Layer.md). She claims to be an Arch-Diver in charge of the Interstice Skies, and upon completing her quest you are awarded with 2 [Knowledge](Knowledge.md) and some questionable information. You can find her in the [Ethironal Shrine Outskirts](Ethironal_Shrine_Outskirts.md) once you spawn in [the Second Layer](Second_Layer/The_Ethironal_Shrine.md).
 
-She remains invisible near some rocks until the player comes close enough to interact with her. When the player interacts with Mendacia, she manifests in a ghostly form, saying that you need to free her from the second floor of [New Kyrsa](Second_Layer/New_Kyrsa.md) and that she is being imprisoned by the Kyrsgarde. Once you complete her quest and "free her," she will unmask herself as the Voice of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) and mock you. Here, it's revealed that she, or rather he, tricked you into awakening the Scion of Ethiron, saying that he was holding a form of "A scum meat bag of your foolishness."
+She remains invisible near some rocks until the player comes close enough to interact with her. When the player interacts with Mendacia, she manifests in a ghostly form, saying that you need to free her from the second floor of [New Kyrsa](Second_Layer/New_Kyrsa.md) and that she is being imprisoned by the Kyrsgarde. Once you complete her quest and "free her," she will unmask herself as the Voice of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) and mock you. Here, it's revealed that she, or rather it, tricked you into awakening the Scion of Ethiron, saying that it was holding a form of "A scum meat bag of your foolishness."
 
 ## Quest
 

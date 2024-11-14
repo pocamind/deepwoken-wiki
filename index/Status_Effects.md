@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 120188
+revid: 120735
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -112,7 +112,7 @@ Have a crystal stacked on you. When you reach 5 crystals, they will detonate, da
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents and Mantras. Signified by being encased in a block of ice.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents and Mantras. Signified by being encased in a block of ice. Mash F to escape faster.
 
 ### Shocked
 

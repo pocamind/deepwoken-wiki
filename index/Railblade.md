@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 120320
+revid: 120720
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords]
@@ -49,6 +49,9 @@ The flames emitted by both Critical Attacks will proc Burn and any applicable Fl
 -   This weapon's running attack does not deal knockback to hit enemies, as other similar heavy weapons do.
 -   The Railblade resembles the make of an Ōdachi or Nodachi, a great-katana from Japan.
 -   The Railblade was originally intended to be a [Thundercall](Thundercall.md) Elemental Legendary weapon, hence the name Railblade (as railguns utilise electricity also had a thundering glow), was also supposed to be an Authority owned weapon instead of Ignition Union, but was changed prior to release due to not fitting the whole theme of the layer.[\[1\]](#cite-note-railorigin-1)[\[2\]](#cite-note-2)
+
+[\[3\]](#cite-note-3)
+
 -   This weapon can only be used in the one-handed stance, allowing access to offhand guns, daggers, and shields.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
 -   Previously, Railblades dropping from Chaser were equivalent in rarity to items such as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) dropping in the [First Layer](First_Layer.md).
@@ -59,3 +62,4 @@ The flames emitted by both Critical Attacks will proc Burn and any applicable Fl
 
 1.  ↑ [1.0](#cite-ref-railorigin-1-0) [1.1](#cite-ref-railorigin-1-1)
 2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3)

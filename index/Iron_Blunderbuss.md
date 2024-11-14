@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 118043
+revid: 120708
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -39,5 +39,9 @@ The Iron Blunderbuss is a Medium Weapon that was added in the Verse 2 content up
     -   Even more superior than the [Stormseye](Stormseye.md), as despite being a legendary weapon it does not possess any penetration, and in damage.
 -   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.
 -   The maker of the **Iron Blunderbuss** and the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is [Gunsmith Rosen](Lore.md).
-    
-    [Deto Enchant](Enchantments.md)
+
+## Enchantments
+
+[Sear Enchant](Enchantments.md)
+
+[Deto Enchant](Enchantments.md)

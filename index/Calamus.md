@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 110757
+revid: 120722
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -15,11 +15,11 @@ categories: [NPCs, Quests]
 
 **Calamus** is an NPC found in the [Starswept Valley](The_Starswept_Valley.md). She is a member of [The Hive](The_Hive.md). When you first talk to her, she tells you to kill a specific [Monster](Monsters.md), offering a reward. Upon completion of her quest, she will give you a chest with average loot, and grant positive [Reputation](Reputation.md) with The Hive. If you talk to her again, she will let you hunt another random monster at no cooldown, making her quest repeatable.
 
-If you talk to her before completing her task, he will remind you of what monster you need to kill. She also gives you the option to abandon the quest if you decide that you can't kill or find the monster you were assigned, which lets you repeat the quest for a different monster hunt.
+If you talk to her before completing her task, she will remind you of what monster you need to kill. She also gives you the option to abandon the quest if you decide that you can't kill or find the monster you were assigned, which lets you repeat the quest for a different monster hunt.
 
 After completing 30(?) quest from calamus
 
-After completing an unspecified number of quests, she will give you a task to set up a device within the [Bluster Rift](Bluster_Rift.md). The location of this device is undocumented, and quite likely it has not been implemented yet.
+After completing an unspecified number of quests, she will give you a task to set up a device within the [Bluster Rift](Bluster_Rift.md). The location of this device is undocumented, and it's quite likely it has not been implemented yet.
 
 ## Loot
 

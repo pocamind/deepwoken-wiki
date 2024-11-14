@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 120022
+revid: 120729
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -266,6 +266,7 @@ Ether
 -   Mantra is similar to that of Beast Burrow and Shade Step
 -   While this mantra is active, you can **reload** your gun (1H) inside it
 -   This mantra has a shorter windup if used while user is standing on a Blood Pool
+-   Mantra canceling it still leaves a blood puddle, allowing you to place one for free. (Still costs ether)
 
  |
 | 

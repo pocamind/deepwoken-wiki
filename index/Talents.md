@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120597
+revid: 120733
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2648,7 +2648,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals an additional +5% damage when in the rain.
     -   Prerequisite: 35 Thundercall
 
--   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+1 Health)
+-   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller.
     -   Prerequisite: Thundercall with [Power](Power.md) 1 (1 Thundercall) or obtain from Thundercall trainer (Funke)
 
 ### Toxic Personality
