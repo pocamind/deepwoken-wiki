@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120758
+revid: 120763
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1168,7 +1168,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   Inhaling a Galebreathe Mantra adds (Mantra Level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
     -   Prerequisites: 60 Galebreathe
-    -   Speed boost has a 2 second cooldown.
+    -   Inhaling grants a speed boost for a short duration, this speed boost has a 2 second cooldown.
 
 ### Genius Intellect
 
@@ -1361,8 +1361,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
-    -   All instances of Physical damage apply burn, including Mantras and Elemental Mantras that deal ELM + Phys.
-    -   Applies burn even if you have Eruption Path: Lava Serpent.
+    -   All instances of Physical damage apply burn, including Mantras and Elemental Mantras that deal ELM + PHYS (e.g. Clutching Shadow or Metal Eruption; other attacks that deal PHYS + ELM can be found on their respective [Attunement](Attunements.md) pages).
+    -   Applies burn even if you have Eruption Path: Lava Serpent. Additionally, Eruptions themselves can proc Immolation, which applies burn.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
