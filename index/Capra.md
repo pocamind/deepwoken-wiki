@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 120258
+revid: 120741
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Moonseye]
@@ -25,42 +25,42 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
 <tbody>
 <tr>
   <td rowspan="3">File:Seaborne.png</td>
-  <td><b>Mark of Ku</b> (Capra) (Red)
+  <td><center><b>Mark of Ku</b> (Capra)</center><center><sup><b>Ku</b> Variant</sup></center>
   <ul>
     <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
   <ul>
     <li>Grants affected players improved blood regen.</li>
-    <li>Heals 15% of the affected players total HP over a 30s period.</li>
-    <li>Slightly slows the sanity loss of all surrounding players for 60 seconds.</li>
-    <li>Slightly buffs the food consumption effects of all surrounding players for 60 seconds.</li>
+    <li>Heals 15% of affected players total HP over a 30s period.</li>
+    <li>Slightly slows the sanity loss of all affected players for 60 seconds.</li>
+    <li>Slightly buffs the food and thirst gain from consuming food for all affected players for 60 seconds.</li>
     <li>Must be activated at a campfire.</li>
     <li>Cd: 3 min 30 sec</li>
   </ul></li>
   </ul></td>
 </tr>
 <tr>
-  <td><b>Mark of Nemit</b> (Nature) (Green)
+  <td><center><b>Mark of Nemit</b> (Nature)</center><center><sup><b>Nemit</b> Variant</sup></center>
   <ul>
     <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
   <ul>
-    <li>Buffs the food consumption effects of all surrounding players for 60 seconds.</li>
+    <li>Buffs the food and thirst gain from consuming food for all affected players for 60 seconds.</li>
     <li>Heals 15% of the affected players total HP over a 30s period.</li>
     <li>Grants affected players slightly improved blood regen.</li>
-    <li>Slightly slows the sanity loss of all surrounding players for 60 seconds.</li>
+    <li>Slightly slows the sanity loss of all affected players for 60 seconds.</li>
     <li>Must be activated at a campfire.</li>
     <li>Cd: 3 min 30 sec</li>
   </ul></li>
   </ul></td>
 </tr>
 <tr>
-  <td><b>Mark of Jurik</b> (Moon) (Blue)
+  <td><center><b>Mark of Jurik</b> (Moon)</center><center><sup><b>Jurik</b> and <b>Hollowtide</b> Variant</sup></center>
   <ul>
     <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
   <ul>
     <li>Slows the sanity loss of all surrounding players for 60 seconds.</li>
     <li>Heals 15% of the affected players total HP over a 30s period.</li>
     <li>Grants affected players slightly improved blood regen.</li>
-    <li>Slightly buffs the food consumption effects of all surrounding players for 60 seconds.</li>
+    <li>Slightly buffs the food and thirst gain from consuming food for all affected players for 60 seconds.</li>
     <li>Does not require a campfire.</li>
     <li>Cd: 4 min</li>
   </ul></li>
@@ -93,8 +93,8 @@ A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat th
     
 -   +2 Willpower  
     
--   The ability to buff allies around them, making them an excellent support.
-    -   They are unable to buff themselves without buffing others.
+-   The ability to buff players around them, making them an excellent support.
+    -   They can buff non allies, but they are unable to buff themselves with their marks.
         
 
 **Surnames:**

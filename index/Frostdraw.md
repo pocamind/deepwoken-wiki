@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 119694
+revid: 120755
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -50,8 +50,8 @@ This is where the Attunement trainer is located.
 
 These mantras have no prequisites.
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
+| --- | --- | --- | --- | --- |
 | 
  | 
 
@@ -61,6 +61,10 @@ Ice Spikes
  | 
 
 _Piercing spikes of ice._
+
+ | 
+
+Ice
 
  | Conjure a spike of ice from the ground at the cursor's location.
 
@@ -81,6 +85,10 @@ Ice Beam
 
 _Fire a beam of ice._
 
+ | 
+
+Ice
+
  | Fire a penetrating beam of ice.
 
 -   Deals light damage.
@@ -100,6 +108,10 @@ Warden's Blades
  | 
 
 _Revolving blades of ice._
+
+ | 
+
+Ice
 
  | Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance.
 
@@ -123,6 +135,10 @@ Frozen Servants
 
 _A legion of frost._
 
+ | 
+
+Ice
+
  | Conjures a surrounding ring of 4 to 5 frozen servants that emits two blasts of frosty mist to the center.
 
 -   Deals Moderate damage if both blows hit.
@@ -144,6 +160,10 @@ Ice Daggers
 
 _Form and toss daggers of ice at your aimed opponent._
 
+ | 
+
+Ice
+
  | Form 3 daggers of ice before throwing them towards the nearest target.
 
 -   Deals moderate damage.
@@ -164,6 +184,10 @@ Ice Blade
  | 
 
 _A barrage of freezing blades._
+
+ | 
+
+Ice
 
  | Conjures 2 sabers of ice while performing a rapid flurry of slashes forward.
 
@@ -187,6 +211,10 @@ Ice Chain
 
 _Chains of ice._
 
+ | 
+
+Ice
+
  | Conjures 3-4 chains of ice that lock-on and stun the target for a brief period of time.
 
 -   Deals light damage.
@@ -208,6 +236,10 @@ Ice Eruption
 
 _A flurry of ice spikes._
 
+ | 
+
+Ice
+
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
 -   Deals moderate damage.
@@ -226,6 +258,10 @@ Ice Forge
  | 
 
 _Conjure and throw weapons of ice._
+
+ | 
+
+Ice
 
  | Forms a barrage of ice shurikens before propelling them at the cursor's location.
 
@@ -246,6 +282,10 @@ Ice Smash
  | 
 
 _A colossal mace of ice._
+
+ | 
+
+Ice
 
  | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
@@ -268,6 +308,10 @@ Ice Lance
 
 _Form an ice spear and lunges forward._
 
+ | 
+
+Ice
+
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
 -   Deals 58 frost damage.
@@ -286,6 +330,10 @@ Rising Frost
  | 
 
 _Conjure a glaive of frost and launch your opponents skyward._
+
+ | 
+
+Ice + Slash
 
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
@@ -306,6 +354,10 @@ Ice Flock
 
 _Send forth a flock of ice_
 
+ | 
+
+Ice
+
  | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
 
 -   Deals moderate damage.
@@ -325,6 +377,10 @@ Ice Carve
  | 
 
 _A sharp disk of ice._
+
+ | 
+
+Ice
 
  | Conjure a deadly rapidly moving saw of ice with the user's left hand.
 
@@ -349,6 +405,13 @@ Frost Grab
 
 _An icy chokehold._
 
+ | 
+
+Ice + Blunt  
+(Initial Grab)  
+Ice  
+(Ice Chains)
+
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
 -   After the windup the user gains iframes on teleport. (similar to radiant kick)
@@ -370,6 +433,10 @@ Ice Cubes
 
 _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cubes._
 
+ | 
+
+Ice
+
  | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
 
 -   (WE GOT DAMAGE NUMBERS BOIIIS) It does 90 frost damage. (30 per icecube probablly)
@@ -387,6 +454,10 @@ Ice Fissure
  | 
 
 _Send ice rippling out in a shockwave._
+
+ | 
+
+Ice
 
  | Conjures an obelisk of ice in front of the player.
 
@@ -414,6 +485,10 @@ Crystal Knee
 
 _Knock your enemy skyward with a kick of crystal._
 
+ | 
+
+Ice
+
  | Perform a short flipkick that launches the user's target into the air.
 
 -   Deals moderate damage.
@@ -431,6 +506,10 @@ Crystal Impale
 
 _Impale your foes with a brutal crystal smash._
 
+ | 
+
+Ice
+
  | Ascend before performing a quick spinning dash towards the user's target.
 
 -   Deals light damage.
@@ -445,6 +524,10 @@ Ice Lasers
  | 
 
 _Swift bolts of frozen air._
+
+ | 
+
+Ice
 
  | Fires a bullet of ice.
 
@@ -491,8 +574,8 @@ _{{{desc}}}_
 
 ### Mobility
 
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
+| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
+| --- | --- | --- | --- | --- |
 |  | 
 Glacial Arc  
 (★☆☆)
@@ -500,6 +583,10 @@ Glacial Arc
  | 
 
 _An arc of ice._
+
+ | 
+
+Ice
 
  | Conjures a solid ice lance that towards the user's cursor.
 
@@ -520,6 +607,10 @@ Ice Skate
 
 _Skate freely on paths of ice._
 
+ | 
+
+N/A
+
  | Form a frozen path of ice as the user slides on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
@@ -536,6 +627,7 @@ _Skate freely on paths of ice._
   <th>Media</th>
   <th>Name</th>
   <th>Card Description</th>
+  <th>Damage Type</th>
   <th>Effect</th>
 </tr>
 <tr>
@@ -543,6 +635,7 @@ _Skate freely on paths of ice._
   <td><center>Frost Wisp<br>
   (★★☆)</center></td>
   <td><center><i>A servant of ice.</i></center></td>
+  <td><center>N/A</center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
     <li>The "<b>Glacial Ice</b>" Talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
@@ -555,6 +648,7 @@ _Skate freely on paths of ice._
   <td><center>Iceberg<br>
   (★★★)</center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
+  <td><center>Ice</center></td>
   <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. Targets gain Autoparry for 1 hit while this is active.
   <ul>
     <li>Heals up to 8%.</li>
@@ -1040,7 +1134,7 @@ Greatsword and Greathammer criticals now place Ice underneath the path they carv
 
  | 
 
-Also works with Greataxes.
+Also works with Greataxes. Does not work with [Pale Briar](Pale_Briar.md)
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 120659
+revid: 120750
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
@@ -36,5 +36,5 @@ This Outfit's Schematic is obtainable from:
 ## Trivia/Notes
 
 -   This outfit is based on Rogue Lineage's Sigil Knight Commander's armor, the Errant armor.
--   This outfit is not droppable or bankable.
+-   This outfit is not droppable.
 -   This outfit was bugged, attempting to use it at a Blacksmith would result in the schematic being deleted from the player's inventory.

@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 120727
+revid: 120760
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -27,12 +27,14 @@ With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on to
 
 1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). A table of what relics you can get can be seen below. All [Relics](Relics.md) have the same drop rate.
 
-<table><caption></caption>
+<table>
 <tbody>
 <tr>
   <td><a href="Sinner's_Ash.md">Sinner's Ash</a></td>
   <td><a href="Moonseye_Tome.md">Moonseye Tome</a></td>
   <td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td>
+</tr>
+<tr>
   <td><a href="Smith's_Alloy.md">Smith's Alloy</a></td>
   <td><a href="Forge_Needle.md">Forge Needle</a></td>
   <td><a href="Armorer's_Needle.md">Armorer's Needle</a></td>
@@ -41,8 +43,6 @@ With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on to
   <td><a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a></td>
   <td><a href="Tiran_Pendant.md">Tiran Pendant</a></td>
   <td><a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></td>
-  <td></td>
-  <td></td>
 </tr>
 </tbody>
 </table>

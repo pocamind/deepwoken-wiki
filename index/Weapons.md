@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 120221
+revid: 120752
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -55,7 +55,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 -   17 Elemental
 -   8 Exclusive
--   6 Divine (Crazy Slots)
+-   6 Divine [Crazy Slots](Crazy_Slots.md)
 -   9 Offhand
 
 #### In Total

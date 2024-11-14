@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 119480
+revid: 120757
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -14,8 +14,8 @@ _**FOREWORD**: **An table visualizing the requirements of every hybrid ability c
 
 **"Hybrid Mantras"** are a special category of [mantras](Mantras.md) that require investment in multiple [attunements](Attunements.md) to use, these mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). Hybrid Mantras use dual scaling meaning that they typically scale off either one of their attunement stats.
 
-| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
-| --- | --- | --- | --- | --- |
+| **Media** | **Name** | **Card Description** | **Damage Type** | **Ether Cost** | **Effect & info** |
+| --- | --- | --- | --- | --- | --- |
 | 
  | Flashfire Sweep
 
@@ -24,6 +24,13 @@ _**FOREWORD**: **An table visualizing the requirements of every hybrid ability c
  | Sweep with flames and lightning before following into a devastating
 
 uppercut.
+
+ | 
+
+Lightning  
+(Leg Sweep)  
+Flame + Blunt  
+(Uppercut)
 
  | 30 Ether | 
 
@@ -44,6 +51,10 @@ uppercut.
  | Summon two cubes tethered by lightning, setting a trap for your
 
 enemies.
+
+ | 
+
+Lightning + Metal
 
  | 60 Ether | 
 
@@ -67,6 +78,10 @@ enemies.
 
 of ice.
 
+ | 
+
+Ice + Shadow
+
  | 80 Ether | 
 
 -   **Requirements: 30 Frostdraw, 30 Shadowcast**_**,**_ _Combat Mantra_
@@ -86,6 +101,10 @@ of ice.
  | Sprint forward on the winds themselves and deliver a devastating thunder
 
 kick.
+
+ | 
+
+Wind + Lightning + Slash
 
  | 60 Ether | 
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120733
+revid: 120758
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -249,6 +249,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 > _**"I seek the qualities of All-Knowing."**_
 
 -   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
+    -   Gives 0.1% Mantra PEN per point in Intelligence.
     -   Prerequisite: 80 Intelligence
 
 ### Amoran Seeker
@@ -937,6 +938,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Agility, 15 Intelligence
 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
+    -   6 second Cooldown.
+    -   Stacks of Inspiration last 3 seconds. New stacks do not refresh the duration.
+    -   Ether Absorption and Mantra Permanence do not grant stacks of Inspiration.
     -   Prerequisite: 30 Intelligence
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
@@ -957,9 +961,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
     -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: Rising Flame, Flame Leap, Flame Leap (Reversal Spark), Rising Frost, Rising Wind, and Lightning Impact. There may be more that do, but simply aren't documented yet.
-    -   Some mantras, despite leaving both players in the air, dont activate Meteor Impact, such as Skyshatter Kick (Round Spark)
+        -   Rising Thunder can also activate it, but only if the initial grab guard breaks, which is very unlikely.
+    -   Some mantras, despite leaving both players in the air, can't activate Meteor Impact, such as Flashfire Sweep, Celestial Assault, or Skyshatter Kick (Round Spark)
     -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
-        -   Rising Flame, Rising Thunder, Rising Wind, or Rising Shadow
+        -   Rising Flame, Rising Frost, Rising Thunder, Rising Wind, or Rising Shadow
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
@@ -1356,6 +1361,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
+    -   All instances of Physical damage apply burn, including Mantras and Elemental Mantras that deal ELM + Phys.
+    -   Applies burn even if you have Eruption Path: Lava Serpent.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
@@ -1395,14 +1402,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Allies take less damage from you and deal less damage to you. This can stack with the Give and Take talent.
 
--   Mark of Jurik \[Blue [Capra](Capra.md) Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
-    -   Gain a tool that buffs the sanity of nearby players as long as they are at a campfire OR power 5+. Also buffs effected players' HP regen and slightly buffs their food replenishment and blood regen. 4m CD.
+-   Mark of Jurik \[Jurik and Hollowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
+    -   Gain a tool that buffs the sanity of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
+        -   Also buffs non allies. Does not require you to be resting at a campfire.
 
--   Mark of Ku \[Red [Capra](Capra.md) Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
-    -   Gain a tool that buffs the blood regen of nearby players as long as they are at a campfire AND power 5+. Also buffs the effected players' HP regen and slightly buffs their sanity and food replenishment. 3m 30s CD.
+-   Mark of Ku \[Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
+    -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their sanity and their food & thirst replenishment from consuming food. 3m 30s CD.
+        -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
--   Mark of Nemit \[Green [Capra](Capra.md) Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
-    -   Gain a tool that buffs the food replenishment of nearby players around them as long as they are at a campfire OR power 5+. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
+-   Mark of Nemit \[Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
+    -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
+        -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
