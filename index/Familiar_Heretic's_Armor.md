@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 120581
+revid: 120768
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
@@ -36,5 +36,5 @@ This Outfit's Schematic is obtainable from:
 ## Trivia/Notes
 
 -   This outfit is based on Rogue Lineage's [Wraith Knight's](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor, the [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor.
--   This outfit is not droppable or bankable.
--   This outfit was bugged, attempting to use it at a Blacksmith would result in the schematic being deleted from the player's inventory.
+-   This outfit is not droppable.
+-   This outfit was bugged, attempting to use it at a Blacksmith would result in the schematic being deleted from the player's inventory. It is now fixed in servers of game version pv\_NOV\_09\_00:34s and above.

@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 111448
+revid: 120767
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -40,4 +40,4 @@ The current lightkeeper is Viqh, Lightkeeper of the Eastern Lighthouse, who resi
 -   Viqh is the currently only known Lightkeeper and childhood friend of [Nimea](Nimea.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using Radiant Tones to help her develop the Dawnwalker Oath.
 -   **Lightkeep has no relation to [Lightborn](Lightborn.md).**
 -   Despite frequent request to add it to the game, Lightkeep is not stated to have any combat application, or indeed, any application outside of illuminating the Voidsea.
-    -   Ironically, being born with it is almost a disability, as it restricts the users ability to harness the Song, preventing the use of attunements, and possibly even murmurs/soul resonances.
+    -   Ironically, being born with it is almost a disability, as it restricts the user's ability to harness the Song, preventing the use of attunements, mantras, and possibly even murmurs/soul resonances.
