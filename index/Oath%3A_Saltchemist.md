@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 119774
+revid: 120790
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -35,7 +35,7 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, a 
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to [Derelict Highchurch](Derelict_Highchurch.md) and use a canteen in the blood pool of the crucified Celestial.
         -   You can lose a life, reset and go to the depths without the ichor getting removed meaning that you can't lose the ichor. You can also drink some of the ichor and it will still work.
     -   [Stardust](Stardust.md) from a Star Tree. Consider getting a second one, which is needed to progress the Oath.
-    -   A [Primordial Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md). [Saramaed Summit](Saramaed_Summit.md) is fairly close to the Starfield Veldt, so it is a good option to grab a few.
+    -   Any [Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md). [Saramaed Summit](Saramaed_Summit.md) is fairly close to the Starfield Veldt, so it is a good option to grab a few.
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.
 
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
@@ -92,7 +92,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   This injects all of the _negative_ effects of your brew, none of the positive effects will apply.
 -   Has the unique property of being able to apply several of the same kind of potion.
 -   Puts potions on cooldown.
--   Deals no damage.
+-   Deals a small amount of damage, with a small amount of hit-stun.
 -   Plays a sound cue
 -   Small auto-track  
     

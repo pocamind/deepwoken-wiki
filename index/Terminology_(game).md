@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 119004
+revid: 120787
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -312,7 +312,16 @@ _verb, noun_
 
 _Verb_
 
-1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia. 1. Ex. I got 2 minutes left. I’m hooking outta here!
+1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia.
+    1.  Ex. I got 2 minutes left. I’m hooking outta here!
+
+### Minmax
+
+_Verb, Adjective_
+
+1.  To get the most optimal possible combination of talents and mantras in your build.
+    1.  Ex. My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!
+    2.  Ex. I've wiped like 10 times while trying to minmax this build.
 
 ## Enemies / Monsters
 

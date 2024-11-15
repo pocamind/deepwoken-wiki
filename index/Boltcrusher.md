@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 116987
+revid: 120789
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals]
@@ -33,7 +33,7 @@ categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Igni
 
 The **Boltcrusher** is a Legendary [Thundercall](Thundercall.md) [Greathammer](Weapons.md) that scales off of and requires investment in both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats. It is a large Great hammer with a drill at one end of it, with various pipes connected all over.
 
-The cutting-edge of [Ignition Union](The_Ignition_Union.md) technology, the Boltcrusher was devised by [Ignition Deepdelvers](Ignition_Deepdelver.md) in order to assist in [Depths](The_Depths.md) resource extraction and the elimination of "those who can't hold up their end of the deal".
+The Drilling-edge of [Ignition Union](The_Ignition_Union.md) technology, the Boltcrusher was devised by [Ignition Deepdelvers](Ignition_Deepdelver.md) in order to assist in [Depths](The_Depths.md) resource extraction and the elimination of "those who can't hold up their end of the deal".
 
 ## Obtainment
 
