@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 120762
+revid: 120814
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
@@ -787,7 +787,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   **Attunements:** _N/A_
 -   **Alliances:** _[The Central Authority](The_Central_Authority.md) (Business Relations)_
 -   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_
--   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), Arch\_Mage (Discord)_
+-   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), [Arch\_Mage](https://www.roblox.com/users/4416634/profile) (Discord)_
 
 -   A Faction that resides at Summer Isle. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.

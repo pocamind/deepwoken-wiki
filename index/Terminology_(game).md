@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 120787
+revid: 120821
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -29,7 +29,7 @@ Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
 
 _noun_
 
-1.  A newly created character, usually wearing the _[Stranded](Stranded.md)_ outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
+1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
     1.  "I saw a freshie get ganked earlier, they didn't stand a chance."
 
 ### Chime

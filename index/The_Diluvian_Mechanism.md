@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 120133
+revid: 120833
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -126,7 +126,7 @@ Based on the power of the user(s), the starting wave will differ;
 
  | 2 Corrupt Owls |  |
 | 15 (Mutant Galore) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
-| 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupt Enforcer |  |
+| 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Enforcer |  |
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
 | 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt, 1 Corrupt Mudskipper Brute | Both Terrapods have a higher chance to be the red version |
@@ -137,7 +137,7 @@ Based on the power of the user(s), the starting wave will differ;
  | 3 Enforcers (Attuned with a random Attunement) |  |
 | 21 (Trial of One Gang) | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |  |
 | 22 (The Sea's Nightmare) | 2 Nautilodaunts, 2 Attuned(?) Enforcers |  |
-| 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Threshers, 1 Alpha Megalodaunt | 1 Of the 2 threshers may be corrupt (needs further testing) |
+| 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Corrupt Threshers, 1 Alpha Megalodaunt |  |
 | 24 (Shiver) | 1 Corrupt Megalodaunt, 1 Crimson Megalodaunt, 1 Corrupt Alpha Megalodaunt, and 1 Mechalodaunt |  |
 | 25 (Bounder Hell)
 
@@ -145,21 +145,21 @@ Based on the power of the user(s), the starting wave will differ;
 
  | 2 Corrupt Bounders | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
 | 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts |  |
-| 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Mudskipper Brute. |  |
-| 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Attuned(?) Nautilodaunt. |  |
-| 29 (Seafood Featheries) | 1 Crimson Megalodaunt, 1 Glacial Lionfish, 1 Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
-| 30 (Parasyte) | 12(?) Corrupt Attuned Carbuncles | The Carbuncles can permanently hit stun you. Use Corrupt Payback to do high amounts of damage or vent to get distance. |
+| 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Corrupt Mudskipper Brute. |  |
+| 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Nautilodaunt. |  |
+| 29 (Seafood Featheries) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
+| 30 (Parasyte) | 9 Corrupt Attuned Carbuncles | The Carbuncles can permanently hit stun you. Use Corrupt Payback to do high amounts of damage or vent to get distance. |
 | 31 (Infinite Stun) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. |
 | 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
-| 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Blazing Mechalodaunt, 1 Flamewreathed Corrupt Rogue Construct, 1 Flamewreathed Mechalodaunt | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
+| 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Flamewreathed Mechalodaunt, 1 Corrupt Rogue Construct | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34 (Gale Fiesta)
 
 **\*TIMEBOMB MODIFER\***
 
  | 3 Galeforce Enforcer, 1 Corrupt Galeforce Kyrsgarde-Sniper. |  |
-| 35 (Shadow Rave) | 1 Corrupt Shadowmeld Golem Prime, 1 Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime |
+| 35 (Shadow Rave) | 1 Corrupt Shadowmeld Golem Prime, 1 Corrupt Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime |
 | 36 (A Corrupted Nightmare) | 2 Corrupt Nightmare Threshers, 2 Corrupt Threshers, 3 Corrupt Carbuncles, 1 Corrupt Crustaceous Rex, 2 Corrupt Crimson Terrapods, 1 Corrupt King Thresher |  |
-| 37 (Invisibility Abusers) | 3 Corrupt Owls, 1 King Thresher, 1 Corrupt Attuned(?) Alpha Megalodaunt, 3 Kyrsgarde Crawlers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher. The Kyrsgarde Crawlers can do high amounts of burst damage. |
+| 37 (Invisibility Abusers) | 3 Corrupt Owls, 1 King Thresher, 1 Corrupt Alpha Megalodaunt, 3 Kyrsgarde Crawlers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher. The Kyrsgarde Crawlers can do high amounts of burst damage. |
 | 38 (Burning Alaska) | 1 Corrupt Frostmantle Lionfish, 1 Corrupt Frostmantle Deep Owl, 3 Corrupt Frostmantle Kyrsgarde Snipers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Frostmantle Glacial Lionfish |  |
 | 39 (Health Pack Hell Featuring Bruce Lee)
 
@@ -170,20 +170,24 @@ Based on the power of the user(s), the starting wave will differ;
 Alternatively, if you're using Corrupt Payback, you can get rid of most of the mobs at once. Having the talent Grand Feast is highly recommended here as you can still heal a small amount per kill.
 
  |
-| 40 (Heavy Giants) | 1 Corrupt Attuned(?) Deep Widow, 1 Corrupt Attuned(?) Blizzard Knight, 1 Attuned(?) Enforcer, 1 Corrupt Attuned(?) Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
-| 41 (Celtor's Reminiscence) | 14 Corrupt Tideknight Songseekers, 2 Corrupt Shadowmeld Deep Owls | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be attuned despite not being monsters. Furthermore, it's best to target the Flame Tideknight Songseekers first as, if you are not careful, they can fully charge 3 Flame Ballistas and do ungodly amounts of damage. |
+| 40 (Heavy Giants) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
+| 41 (Celtor's Reminiscence) | 12 Corrupt Tideknight Songseekers, 2 Corrupt Shadowmeld Deep Owls | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be attuned despite not being monsters. Furthermore, it's best to target the Flame Tideknight Songseekers first as, if you are not careful, they can fully charge 3 Flame Ballistas and do ungodly amounts of damage. |
 | 42 (Shadow Wizard Money Gang)
 
 **\*THIN AIR MODIFIER\***
 
- | 5 Corrupt Shadowmeld Greater Ministry Enforcers, 3 Corrupt Shadowmeld Ministry Necromancers, 4 Corrupt Shadowmeld Ministy Scouts/Captains/Lesser Enforcers (they all look the same) | With the lack of mantras, this round will be one of the most tedious. It's best advised to constantly attack the necromancer's mudskippers without killing the necromancers until the rest of the enforcers and scouts are dead. However, the talent Water off a Duck's Back can remove the suffocation from this wave. |
+ | 5 Corrupt Shadowmeld Greater Ministry Enforcers, 3 Corrupt Shadowmeld Ministry Necromancers, 4 Corrupt Shadowmeld Ministry Footpads (yes thats their actual name) | With the lack of mantras, this round will be one of the most tedious. It's best advised to constantly attack the necromancer's mudskippers without killing the necromancers until the rest of the footpads are dead. However, the talent Water off a Duck's Back can remove the suffocation from this wave. |
 | 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Flamecharm Starkindred Angel, 2 Corrupt Tideknight Flamewreathed Galebreath Starkindred Angels | The Starkindred Angels can use the Starkindred mantras, so its best advised to avoid the Flame Blade Starkindred combo and the annoying ascensions and sinister halo. |
 | 44 (Starkindred's Return)
 
 **\*GHOSTLY REMINISICENCE MODIFER\***
 
- | 1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
-| 45 (Masters on all Hands) | 6 Corrupt Attuned Tideknight Attunement Trainer. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly. The Thundercall trainer is not Thunder attuned and the Ironsing trainer is Shadow attuned.
+ | 1 Corrupt Attuned Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
+| 45 (Masters on all Hands)
+
+**\*TIMEBOMB MODIFIER\***
+
+ | 6 Corrupt Attuned Tideknight Attunement Trainer. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly. The Thundercall trainer is not Thunder attuned and the Ironsing trainer is Shadow attuned.
 
 -   Frostdraw - Gran Sudusruka and Dread Breath
 -   Flamecharm - Hero's blade of flame
@@ -193,14 +197,14 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 -   Ironsing - Alloyed Darksteel Greatsword w/ Metal, Mecha Gatling, Gilded Path
 
  |
-| 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers | The Black Divers wield enchantments, and are an incredible nuisance. What is worse is that they can use Dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. Keep in mind the Black Divers have Chronostasis and can prevent you from using your Resonance. |
+| 46 (Electroshocking Hell) | 8 Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers | The Black Divers wield enchantments, and are an incredible nuisance. What is worse is that they can use Dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. Keep in mind the Black Divers have Chronostasis and can prevent you from using your Resonance. |
 | 47 (Infection Spree)
 
 **\*THIN AIR MODIFIER\***
 
  | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Diver Husks w/ Enchanted Crypt Blades | This wave is really easy if you do not rely mainly on your mantras. However, the talent Water off a Duck's Back can remove the suffocation from this wave. |
-| 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned(?) Deep Widow, 2 Corrupt Golem Primes | Use the Golem Primes as healthpacks. If you're using Corrupt Payback, you can use it while they're using their Recessive Spin to deal high amounts of damage. |
-| 49 (Divine Humor) | 1 Lowly Bandit | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. |
+| 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned Deep Widow, 2 Corrupt Golem Primes | Use the Golem Primes as healthpacks. If you're using Corrupt Payback, you can use it while they're using their Recessive Spin to deal high amounts of damage. |
+| 49 (Divine Humor) | 1 Lowly Bandit | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. If the bandit is using a dagger the dagger becomes a Krulian Knife. |
 | 50 (End of the Hell)
 
 \***TIMEBOMB** **MODIFIER**\*

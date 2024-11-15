@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 118919
+revid: 120806
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -12,7 +12,7 @@ categories: [Monsters, Knights]
 
 ― Celestial Telescope
 
-Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Starswept Valley](The_Starswept_Valley.md), either via being dropped out the sky by a radiant meteor, or simply spawning fighting an [Alpha Megalodaunt](Alpha_Megalodaunt.md), but they can also just randomly spawn in.
+Stone Knights (also known as Desert Knights or Sand Knights) are a type of Giant [Monster](Monsters.md) encountered primarily in the [Starswept Valley](The_Starswept_Valley.md), either via being dropped out the sky by a radiant meteor, or simply spawning fighting an [Alpha Megalodaunt](Alpha_Megalodaunt.md), but they can also just randomly spawn in.
 
 Template:Creature Info Box v2
 
@@ -83,7 +83,7 @@ A Stone Knight executes the player:
 ## Trivia
 
 -   Stone Knights are artificial and are thus not affected by the "Mute" [Regalia](Regalia.md) and will still attack if they spot you.
--   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
+-   Stone Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
--   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple [Blizzard Knights](Stone_Knight.md#blizzard-knight) were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Sand Knights.
+-   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple [Blizzard Knights](Stone_Knight.md#blizzard-knight) were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
