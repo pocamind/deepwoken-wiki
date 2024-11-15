@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 111992
+revid: 120860
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -55,7 +55,7 @@ Picture of a Crafting Bench
 -   **Flask of Charisma** - _2 Miasmic Lotus_
 -   **[Pathfinder Lantern](Pathfinder_Lantern.md)** - _1 Dying Embers, 1 Iron, 1 Fiber_
 -   **[Delver Boots](Delver_Boots.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _Leather boots, 2 Galewax, 2 Umbrite_
--   **[Wormwarder Lantern](Wormwarder_Lantern.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 Galewax, 4 Irithine, 1 Spark Gland_
+-   **[Wormwarder Lantern](Wormwarder_Lantern.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 Galewax, 4 Irithine, 4 Spark Gland_
 
 ## Food Recipes
 

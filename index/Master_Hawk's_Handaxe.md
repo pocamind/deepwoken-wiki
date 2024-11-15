@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 117561
+revid: 120856
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -29,7 +29,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. Obtainable in the [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 0.6x Swing speed and 25% Chip damage.
+Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. Obtainable in the [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
 
 ## Trivia
 

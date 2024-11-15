@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 118273
+revid: 120861
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -14,7 +14,7 @@ Template:Races-Main
 
 ## Description
 
-The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable race, which is NPC exclusive. The human race is known to give no buffs, as they are only human, after all. Humans first (and only) appearance is the in-game [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
+The only known humans in Deepwoken are [Jarvis](Jarvis.md), James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable race, which is NPC exclusive. The human race is known to give no buffs, as they are only human, after all. Humans first (and only) appearance is the in-game [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 
 ## Miscellaneous
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 120231
+revid: 120863
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -151,6 +151,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ talent card with a different description alongside the old talent set. (image attached)
 
 -   The Silentheart talent description says that it halves weapon stat requirements; but this is incorrect, as it was changed to 25 less investment points in the same update that Silentheart was reworked. The talent card was never changed.
+-   The Silentheart talent that made you can equip weapon 25 less investment points is not stackable each stats requirement. Example : You have 55 STR 65 FORT and 80 MED and the Imperator's Edge requirement is 80 at STR, FORT and MED. This wont work because you will need 40 investment point instead 25 point. This talent doesn't work like Khan innate talent.
 
 ## Trivia
 

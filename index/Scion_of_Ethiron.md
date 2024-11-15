@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 120845
+revid: 120854
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -24,9 +24,9 @@ Template:Creature Infobox V3
 
 The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as a sort of guardian to it. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fiber protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
 
-It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Raperon may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
+It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ethiron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
 
-Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)** will respawn in random areas on Floor 2 (you can find chests in random areas whitout defeating Ethiron, they will only respawn in random places after defeating). These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and the [Dawnwalker](Oath%253A_Dawnwalker.md) oath. Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possibly, Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, and [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise, you will **wipe unavoidably in 2 minutes. (Having bell as a safety net here can save you for a few seconds.)**
+Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)** will respawn in random areas on Floor 2 (you can find chests in random areas whitout defeating ethiron, they will only respawn in random places after defeating). These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and the [Dawnwalker](Oath%253A_Dawnwalker.md) oath. Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possibly, Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, and [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise, you will **wipe unavoidably in 2 minutes. (Having bell as a safety net here can save you for a few seconds.)**
 
 Do keep in mind that the Scion of Ethiron is extremely resistant to the effects of [Vampirism](Enchantments.md) and [Bloodless Gems](Mantra_Modifiers.md). The healing is reduced enough as to be rendered quite literally negligible.
 
@@ -137,14 +137,14 @@ File:Bone floor.gif
  |
 | 
 
-**Rape Beam** (★★☆)
+**Bone Stream** (★★☆)
 
- | Dicks will rise up from the ground and circle around **a single floor.** Similar to Bonegrow, being able to remain hard during other attacks, but sends you further into an orgasm and does more damage.
+ | Bones will rise up from the ground and circle around **a single floor.** Similar to Bonegrow, being able to remain active during other attacks, but sends you further into the air and does more damage.
 
-To avoid, you must wear a penis spike trap. You can just hold space and you'll clench your cheeks and be pretty much safe or move to another floor.  
+To avoid, you must jump. You can just hold space and you'll be pretty much safe or move to another floor.  
 Parryable:✗  
 Blockable:✗  
-Dodgeable:✗  
+Dodgeable:◯  
 
  | 
 
@@ -152,13 +152,13 @@ Dodgeable:✗
 
 ### Passives
 
--   **Monster Resistance** - Physical attacks deal 25% less damage to the Scion of Raperon.
+-   **Monster Resistance** - Physical attacks deal 25% less damage to the Scion of Ethiron.
 
 ## Defeating the Scion of Ethiron
 
 This boss can be quite intimidating upon first glance at its sheer size. As with any boss, however, it can be learned and beaten with enough experience and knowledge.
 
-Immediately after you summon it, attempt to make your way over to the bone pillars located on the left side of the first floor. You must parry/block the bones thrown by the boss and place them in each pillar. Upon the placement of all 3 bones, stairs to the next floor will be conjured. The process will repeat itself for all 3 floors until placing the last bone on the third floor, in that case the boss will be restrained and subsequently allow you to attack it. If the boss is being beaten alone, this may take 2-3 cycles depending on the build of the player. Since it is unlikely it will be taken down in one cycle, it will most likely break free from the chains, causing it to begin attacking you again. There will be a bone missing from 1 pillar on each floor, thus requiring you to find them and replace them, although much more quickly. It's recommended to do the 2nd floor last, if possible, to minimize the amount of time running to one of its arms. Efficiently doing this will allow you to defeat the Scion of Raperon.
+Immediately after you summon it, attempt to make your way over to the bone pillars located on the left side of the first floor. You must parry/block the bones thrown by the boss and place them in each pillar. Upon the placement of all 3 bones, stairs to the next floor will be conjured. The process will repeat itself for all 3 floors until placing the last bone on the third floor, in that case the boss will be restrained and subsequently allow you to attack it. If the boss is being beaten alone, this may take 2-3 cycles depending on the build of the player. Since it is unlikely it will be taken down in one cycle, it will most likely break free from the chains, causing it to begin attacking you again. There will be a bone missing from 1 pillar on each floor, thus requiring you to find them and replace them, although much more quickly. It's recommended to do the 2nd floor last, if possible, to minimize the amount of time running to one of its arms. Efficiently doing this will allow you to defeat the Scion of Ethiron.
 
 Most of the Scion's attacks are very easy to parry/dodge, as they are easily telegraphed by both the sound and its movements. Due to its sheer size, they're also quite slow, allowing more leeway to react. Regardless, its ultimate is undoubtedly it's most deadly attack. This attack can end you within seconds. Thus, it is **HIGHLY** recommended that you maintain your distance from it when it's charging it, along with having a mobility mantra at your disposal such as Shoulder Bash, Flame Assault, Dash, Lightning Assault, etc. If not, having the [Portals](Portals.md) resonance or Beast Burrow can also be used to evade it through invincibility frames. It is wise to wait for the for the moment it launches the attack before attempting to evade it, which is signaled by the lack of sound from the attack. Not having any of these leaves dodging your only reliable option. If you have the ghost Talent, you can simply wait for the ultimate to reach you, then dodge it, and walk out of it in your invincibility frames. Keep in mind that dodging late will make you take a bit of damage and dodging early will wipe you instantly. If you do not have the ghost Talent, you should slide jump then air dodge when the ultimate is near to you, since this way you travel the farthest the fastest. If on the third floor, do note that the attack will **NOT** collide with the floor and will still go straight for you. All in all, knowing how to evade this attack will effectively eliminate nearly all risks of dying to this boss. (**Note: You are unable to dodge properly when holding a bone.**)
 
@@ -168,13 +168,13 @@ The Scion can also summon Ice Lancers that will guard the bone pillars. They can
 
 Try to be conservative when it comes to ether usage, as with the new Tempo mechanic your ether regeneration will heavily stagnate without hitting anything for a long period of time (which will be 95% of the boss). This is especially important if you use Beast Burrow or a mobility mantra to evade its ultimate. Only use mantras when it's absolutely necessary, especially if the build being used does not have ether to spare.
 
-After beating the boss, it's mostly running until you reach the city. White orbs will spawn around the player at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Kyrsans means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Trying to kill those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is slightly slower; however it is a much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Raperon, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
+After beating the boss, it's mostly running until you reach the city. White orbs will spawn around the player at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Kyrsans means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Trying to kill those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is slightly slower; however it is a much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
 
 It is strongly advised that if you are playing with teammates and have defeated the boss, you **STAY AWAY** from each other as you attempt to escape the city. This is because white orbs will spawn behind the player's back, and if an unfortunate teammate is behind you, the white orb will spawn behind you, catching your teammate off guard. It is also advised that you keep an eye out for who is in front of you and know where they are running in order to avoid being caught off guard by the white orbs.
 
 -   **BIG SIDE NOTE: CERTAIN MOVES THAT ALLOW YOU TO GAIN INVINCIBILITY FRAMES LIKE BURROW ARE DISABLED**
 
-The Scion of Raperon is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss is necessary in order to truly master its moveset and make it out of Layer 2 in one piece.
+The Scion of Ethiron is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss is necessary in order to truly master its moveset and make it out of Layer 2 in one piece.
 
 ## Trivia
 
