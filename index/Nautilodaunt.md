@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 120212
+revid: 120848
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -151,6 +151,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   When it isn't in combat, it will automatically begin healing, going from 250 to full health within a matter of seconds.
 -   It spawns roughly every 18 minutes.
 -   [Mortus](Mortus.md) mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
+-   The Nautilodaunt cannot vent when its attacking.
 -   The vent it uses was the old vent before Deepwoken's release.
 -   If encountered in the overworld, it has the ability to swim. However, it does not possess a swimming animation.
 -   It is named after the Nautilus, a family of shelled cephalopods.
