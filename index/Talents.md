@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120772
+revid: 120874
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -335,7 +335,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
     -   Merged with the old Low Blow Talent.
-    -   Prerequisite: 60 Agility
+    -   Prerequisite: 60 Agility, Deep Wound
 
 ### Athlete
 

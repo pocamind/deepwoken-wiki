@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 120850
+revid: 120873
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -20,7 +20,7 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks additively with the following:
     -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes/from blunt weapons such as maces, fists, guns or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks additively with the following:
-    -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing Armor / Bloodrend armor:** Reduce damage taken from the element mentioned.
+    -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing Armor:** Reduce damage taken from the element mentioned.
         -   **Note:** Against mantras with double typing (IE: Wind + Slash), the highest resistance is used to reduce its damage.
 -   **Ether Regen:** Increase Ether regeneration.
 -   **Sanity:** Gives bonus sanity to the Wearer.
