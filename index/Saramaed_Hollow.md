@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 119698
+revid: 121126
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -115,7 +115,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's ash</a> (=&gt;1.2Km)</li>
   </ul></td>
-  <td>TBA (needs editing)</td>
+  <td>(needs editing)<p>Martial Artist Legion Centurion</p></td>
 </tr>
 </tbody>
 </table>

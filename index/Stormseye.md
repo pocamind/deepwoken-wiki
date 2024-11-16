@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 119334
+revid: 121025
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -46,7 +46,7 @@ This weapon procs all static and electrified Talents as well as all [Thundercall
 
 The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them.
 
-The critical has a cooldown of **6 seconds**.
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 

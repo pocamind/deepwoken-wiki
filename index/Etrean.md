@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 115431
+revid: 121116
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **15.0%**
 
 ## Description
 
-Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common race, and can be found most commonly at Etris. Etreans get an agility and intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as racists.
+Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common race, and can be found most commonly at Etris. Etreans get an agility and intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other races and countries.
 
 ## Racial Traits
 
@@ -96,7 +96,7 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 
 ## Trivia
 
--   Contrary to popular belief, they're not that racist, just wary of outsiders.
+-   It was stated pre-release that Etreans were Xenophobic and would discriminate against players based on their race. This was _mostly_ removed (or perhaps never existed at all) some time before the game came out, however the community's perception of Etreans has not changed.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.

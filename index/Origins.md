@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 120313
+revid: 121094
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -148,6 +148,7 @@ You can do Trial of One.
 -   Grants the Innate Talent "Union Pager"
     -   **\[PRO\]** Allows you to remotely accept jobs.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
+-   **\[PRO\]** You spawn with [Union Initiate](Union_Initiate.md) Armor.
 -   **\[PRO\]** Access to Chariot Spire amenities, including:
     -   An Antiquarian, Banker, Mystic and Campfire
     -   Layer 2 Entrance via the Deep Drill (unlocked by escaping in Layer 2 Floor 1 via the Deep Drill)
@@ -156,6 +157,7 @@ You can do Trial of One.
         -   **\[CON\]** (Currently) Forced to return to Castle Light after completing Floor 1 or 2.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant
+-   **\[PRO\]** You regain sanity in [Chariot's Spire](<The_Chariot's_Spire.md>).
 -   **\[PRO\]** Grants the ability to smelt 3 [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) at the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>).
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 120507
+revid: 121101
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -41,7 +41,9 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 
 **Resonances** are one of the many skills that players can obtain, and can be seen as a sort of divine blessing. They are quite formidable tools in the right hands, with varying effects including (**but not limited to**) momentary invisibility, map-wide teleportation, and near-instant executions. **Corrupted** **Resonances,** on the other hand, are more akin to curses and [Cursed Enchants](Enchantments.md), where they offer more powerful effects and useful effects of the provided **Resonance** at the cost of ailing the holder in some way, shape, or form.
 
-**Resonances** have a set amount of unseen _**Resonance** points_ when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
+**Resonances** have a set amount of unseen **Resonance Points** when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
+
+See the [Obtaining](#obtaining) section for how to obtain a **Resonance**.
 
 **Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. Upon obtainment, both the color and model of your bell are chosen randomly. Rerolling your **Resonance** will alter the appearance of your bell. You can use a [Dye Packet](Dye_Packet.md) to color your bell according to your preference.
 
@@ -118,7 +120,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 </tr>
 <tr>
   <td><b>Boss Path</b></td>
-  <td><b>Depth Path</b></td>
+  <td><b>Depths Path</b></td>
   <td><b>PVP Path</b></td>
   <td><b>Inspired Regalia</b></td>
 </tr>
@@ -171,7 +173,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 
  |
 
-**Depth Path:**
+**Depths Path:**
 
 | **What to do:** |
 | --- |

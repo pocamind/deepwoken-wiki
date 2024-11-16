@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 120686
+revid: 121044
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Hallowtide, Events]
@@ -45,9 +45,9 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) - 10 Knowledge
 
 -   **Hallowtide '24 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2024.
-    -   [Wretched Mawblades](Wretched_Mawblades.md) - ? Knowledge
-    -   [Death's Reverie](<Death's_Reverie.md>) - ? Knowledge
-    -   [Spectral Grasp](Spectral_Grasp.md) - ? Knowledge
+    -   [Wretched Mawblades](Wretched_Mawblades.md) - 7 Knowledge
+    -   [Death's Reverie](<Death's_Reverie.md>) - 7 Knowledge
+    -   [Spectral Grasp](Spectral_Grasp.md) - 7 Knowledge
     -   TBA
 
 ### Festival of a Billion Souls

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 119150
+revid: 121031
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -45,7 +45,7 @@ For the **standing** critical, the user plunges their club into the ground, crea
 
 For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile, ragdolling enemies. The projectile is directional and will fly in the direction of your characters momentum.
 
-Both criticals share a cooldown of **8 seconds**.
+Both criticals share a cooldown of **10 seconds**.
 
 Azure and Twisted Puppets variant of the critical does not change visual colors. (Needs to be fixed as it should change colors depending on the variant.)
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 120998
+revid: 121095
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2309,6 +2309,19 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>N/A</td>
   <td>43.8(<b>Bleed</b>)</td>
 </tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hailbreaker"><font>Hailbreaker</font></a></td>
+  <td>65 HVY, 55 ICE, LVL 10</td>
+  <td>22</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>HVY: 7 ICE: 4</td>
+  <td>7.5</td>
+  <td>8.5</td>
+  <td>0.85x</td>
+  <td>0.1s</td>
+  <td>47.2</td>
+</tr>
 </tbody>
 </table>
 
@@ -2901,6 +2914,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
     -   Swing Speed: [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
+    -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
 -   Aranea is the first item to have an unobtainable stat prerequisite.

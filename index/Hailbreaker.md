@@ -1,9 +1,9 @@
 ---
 title: Hailbreaker
-revid: 121019
+revid: 121108
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links]
+categories: [Weapons, Legendary Weapons, Unique Critical, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
 ---
 
 # Hailbreaker
@@ -18,7 +18,8 @@ categories: [Weapons, Pages with broken file links]
 | swing speed | 0.85x |
 | endlag | 0.1s |
 | penetration | 15% |
-| special effect | ? |
+| chip damage | N/A |
+| special effect | Critical changes the model and criticals on use having 3 different stages of use. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 7.5 |
@@ -26,21 +27,25 @@ categories: [Weapons, Pages with broken file links]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
-| description | "With the development of the Railblade, the Union had gained an edge over the Divers in their disputes over delving sites. In defiance of this, the mechanists of the Citadel changed their approach to equipment production and worked closely with Authority Weaponsmiths to design a cold-hearted blade capable of piercing through monster hide and freezing their innards solid. The end result was a weapon that not only excelled in missions, but also a in skirmishes against the more territorial squads of Union expeditioneers. Sometimes spite works as the greatest motivator of change." |
-
-File:Screen Shot 2024-11-16 at 4.55.30 PM.png
-
-Model for Hailbreaker
+| obtainment | First LayerColdheart Fortinbras |
+| description | "With the development of the Railblade, the Union had gained an edge over the Divers in their disputes over delving sites. In defiance of this, the mechanists of the Citadel changed their approach to equipment production and worked closely with Authority Weaponsmiths to design a cold-hearted blade capable of piercing through monster hide and freezing their innards solid. The end result was a weapon that not only excelled in missions, but also a in skirmishes against the more territorial squads of Union expeditioners. Sometimes spite works as the greatest motivator of change." |
 
 ## Description
 
-The **Hailbreaker** is a Legendary Frostdraw Greatsword. Currently, it's obtained by a depths job called Coldheart Fortinabras. Screenshots of the weapon and it's description and stats,the weapon is enchantable. Information on this topic would be would be greatly appreciated.
+The **Hailbreaker** is a [Greatsword](Weapons.md#greatswords) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. Currently, it's obtained by a depths job called [Coldheart Fortinabras](Job_Boards.md#celtor).
 
-**DROPS FROM LAYER 1 CHESTS**
+This weapon can change forms with the use of its critical similarly to [Light's Final Toll](<Light's_Final_Toll.md>) having 3 total stages/forms each changing its criticals effects.
 
-File:Hailbreaker stats.png
+## Criticals
 
-## Critical
+**Stage I**: Performs two quick slashes placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage II coating in thick ice.
 
-Has a unique critical with hyperarmor
+**Stage II**: Dashes forward performing a large upward slash placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage III breaking the ice and coating the weapon in a carbon substance.
+
+**Stage III**: Performs two heavy slashes placing ice under the users feet and freezing the opponent in place, this reverts the weapon back to stage I removing the carbon substance coating the blade.
+
+All criticals have a cooldown of 10 seconds. The criticals do not have a 100% chance of moving to the next stage.
+
+## Trivia
+
+-   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.

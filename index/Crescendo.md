@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 118551
+revid: 121053
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -25,7 +25,7 @@ categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Aelita |
+| obtainment | The Ferryman, Chaser, Scholar of the Crimson Contract, Aelita |
 | description | ... |
 
 ## Description

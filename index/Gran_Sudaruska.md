@@ -1,9 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 118088
+revid: 121107
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
+categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Unique Critical]
 ---
 
 # Gran Sudaruska
@@ -40,6 +40,8 @@ Gran Sudaruska comes with two passive abilities:
 ## Critical
 
 The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance.
+
+The critical attack has a cooldown of **10 seconds**
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 120789
+revid: 121023
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals]
@@ -47,7 +47,7 @@ The Boltcrusher has _two_ variants of its Critical Attack, which will change dep
 
 **Running**: The user lifts the Boltcrusher up above their head before slamming it into the ground using the hammerhead side, creating a shockwave of lightning.
 
-Both the running and the standing version share a cooldown of **5.5 seconds**. This cooldown is decreased to **4.3 seconds** if the user has the [Warmaster Medallion](<Warmaster's_Medallion.md>) equipped.
+Both the running and the standing version share a cooldown of **10 seconds**. This cooldown is decreased to **8 seconds** if the user has the [Warmaster Medallion](<Warmaster's_Medallion.md>) equipped.
 
 ## Trivia
 
