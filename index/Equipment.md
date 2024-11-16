@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 120765
+revid: 120925
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -570,6 +570,31 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
+| 
+
+ | 
+
+[Chef's Toque](<Chef's_Toque.md>)
+
+ | 
+
+_+10 Health_  
+
++1 Legendary Pip
+
+_+Talent: Gourmand_
+
+_+Talent: Umami_
+
+**Requires Power 8**
+
+ | 
+
+Found from:
+
+-   [Chef Odiolavoro](Chef_Odiolavoro.md)
+
+ | N/A |
 | File:Static-assets-upload321884259233421803.png | 
 
 [Dark Cowl](Dark_Cowl.md)
@@ -984,31 +1009,6 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
-| 
-
- | 
-
-[Chef's Toque](<Chef's_Toque.md>)
-
- | 
-
-_+10 Health_  
-
-+1 Legendary Pip
-
-_+Talent: Gourmand_
-
-_+Talent: Umami_
-
-**Requires Power 8**
-
- | 
-
-Found from:
-
--   [Chef Odiolavoro](Chef_Odiolavoro.md)
-
- | N/A |
 | File:KnightHelm.png | 
 
 [Knight's Helm](<Silver_Knight's_Helm.md>)
@@ -1055,7 +1055,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Miners Hardhat.png | 
+| File:Jaleel miner hat.png | 
 
 [Miner's Hardhat](<Miner's_Hardhat.md>)
 
@@ -4254,7 +4254,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
-| File:PathfinderLantern.png | 
+| File:Pathfinder lantern front.png | 
 
 [Pathfinder Lantern](Pathfinder_Lantern.md)
 
@@ -5498,7 +5498,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-| File:Ferrymansring.png | 
+|  | 
 
 [Ferryman's Ring](<Ferryman's_Ring.md>)
 
