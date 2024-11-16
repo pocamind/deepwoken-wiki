@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 120683
+revid: 121004
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -25,7 +25,7 @@ Hallowtide is an event that first started on Halloween Night of 2022, and ended 
 
 It returned in 2023 on October 27th...
 
-Hallowtide returns once more for 2024, this time added on October 31st...
+Hallowtide returns once more for 2024, this time added on October 31st and ended on November 16th
 
 The first Hallowtide added...
 

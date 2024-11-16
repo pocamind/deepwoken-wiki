@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 120752
+revid: 120998
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -275,12 +275,12 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><a href="https://deepwoken.fandom.com/wiki/Spectral_Grasp"><font>Spectral Grasp</font></a></td>
   <td>75 LHT</td>
   <td>16</td>
-  <td>20%</td>
+  <td>15%</td>
   <td>N/A</td>
   <td>LHT: 7</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.23x</td>
+  <td>1.20x</td>
   <td>0.05s</td>
   <td>27.7</td>
 </tr>

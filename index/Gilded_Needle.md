@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 106226
+revid: 120984
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -16,6 +16,8 @@ categories: [Relics]
 | droppable | Yes |
 | pass down | No |
 | obtainment | Crafting |
+
+## Description
 
 Crafted using 5 [Armorer's Needles](<Armorer's_Needle.md>) and 1 [Gold](Ores.md) (Can craft without a crafting bench)
 

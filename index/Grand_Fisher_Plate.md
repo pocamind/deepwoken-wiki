@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 120218
+revid: 121016
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, The Divers]
@@ -11,7 +11,7 @@ categories: [Items, Equipment, Arms, Plates, The Divers]
 | Grand Fisher Plate | |
 |---|---|
 | type | Arms |
-| rarity | Unique |
+| rarity | Mythical |
 | selling price | 100 |
 | requirements | LVL 13, 5 FTD |
 | weight | 2 |

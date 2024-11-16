@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 106525
+revid: 121009
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -14,7 +14,7 @@ Fountain Gates are a sprawling network of teleportation devices invented by [The
 
 1.  [The Lordsgrove](The_Lordsgrove.md) - Straight through, at the edge of the cliff
 2.  [Hidden Village](The_Hidden_Village.md) - In the corner to the right
-3.  [Etris](Etris.md) - In the center of a small maze in [The King's Garden](<The_King's_Garden.md>), to the right
+3.  [Etris](Etris.md) - In the center of a small maze in [The King's Garden](<The_King's_Garden.md>), to the Left
 4.  [Isle of Vigils](Isle_of_Vigils.md) - To the right of the bridge leading to [The Gale Trainer](Friid,_Master_of_Gale.md), in an old building
 
 Fountain located in Hidden Village (Erisia)

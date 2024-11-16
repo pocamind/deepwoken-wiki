@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 120298
+revid: 120992
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -113,8 +113,6 @@ Consumables that improve the user in some shape or form
  |
 | 
 
-File:Sinner's Ash.png
-
  | **[Sinner's Ash](<Sinner's_Ash.md>)** - Remnants of the Forge of Sin that is used to corrupt your [Resonance](Resonance.md).
 
 -   _(Consumed upon usage)_
@@ -155,7 +153,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
-| File:Maka bad needle image lol lamfao.png | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
+|  | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
 
 -   _(Consumed upon usage)_
 
@@ -185,8 +183,6 @@ It grants the user +50 knowledge on subsequent uses.
 
  |
 | 
-
-File:Forge Needle.png
 
  | [Forge Needle](Forge_Needle.md) - A needle that upgrades a chosen equipment piece up one star.
 

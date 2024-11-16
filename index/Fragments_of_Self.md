@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 117276
+revid: 121018
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -129,6 +129,7 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   Fragments Of Self is virtually located above The Depths, which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
 -   Self is pretty much the version of yourself you strive not to be. Dissatisfied and wanting more. No matter what you do before you come to this stage, your "self" will always be suffering from the fact of dying, encouraging you to try once more.
 -   Self doesn't update if you de-equip or equip equipment, meaning it will look like your character when you wiped.
+-   If you wiped your character through the red skull in the main menu, "self" will be a plain white character, due to your character not loading in the game when you wipe, since you were in the main menu, the game does not have any data to generate "self" as it appears as the character when you wiped.
 -   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.
 -   It is actually possible to chop down the trees around the area if you have a [Lumber Axe](Lumber_Axe.md).
 -   You can hypothetically save somebody from the fragments by headstacking, but it has only ever been done once and headstacking has since been made harder.

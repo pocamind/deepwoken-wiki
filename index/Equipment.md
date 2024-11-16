@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 120925
+revid: 121014
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -576,6 +576,8 @@ Found from:
 
 [Chef's Toque](<Chef's_Toque.md>)
 
+(**Unique**)
+
  | 
 
 _+10 Health_  
@@ -831,7 +833,7 @@ Found from:
 
 [Grand Fisher Helm](Grand_Fisher_Helm.md)
 
-(**Unique**)
+(Mythical)
 
  | 
 
@@ -940,6 +942,8 @@ Found from:
 | File:ImmortalHelm.png | 
 
 [Immortal Helm](Immortal_Helm.md)
+
+(Legendary)
 
  | 
 
@@ -2256,7 +2260,7 @@ Found from:
 
 [Grand Fisher Plate](Grand_Fisher_Plate.md)
 
-(**Unique**)
+(Mythical)
 
  | 
 

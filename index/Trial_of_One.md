@@ -1,9 +1,9 @@
 ---
 title: Trial of One
-revid: 117177
+revid: 120947
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Locations]
 ---
 
 # Trial of One
@@ -118,6 +118,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resistance.
 -   if you spawn in to the trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with Talents/mantra choosing early on.
 -   If one angel dies the other despawns, allowing you to instantly win the angel trial. This can be done by burning a knocked angel.
+-   2 Training Gear Cabinets can be found throughout the map, with one next to the Shrine of Solitude, and another in the corridor of the arena entrance. Equipment can be purchased and used post-trial to speed up the transition to power progression (without the need of travelling to Etris or Isle of Vigils to purchase training gear.)
 
 ## Trivia
 
@@ -139,10 +140,5 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   You can kill the parry trade using [Providence Thorns](Enchantments.md).(proof needed)
-    
-    File:TrialofOne.png
-    
-    Trial of One from above.
-    
 
 1.  [↑](#cite-ref-1) When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9"

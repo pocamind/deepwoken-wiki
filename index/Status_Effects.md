@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 120735
+revid: 120940
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,7 +68,7 @@ Gain a 20% defense boost to all sources. Applied after knocking someone with the
 
 ### Overcharm
 
-Apply charm per every M1 and Mantra used, even without having the Charismatic Cast Talent. Can grant extra buffs with certain talents, such as amplifying the speed for an execute and granting +10% damage. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md) with the [Propagandist](Talents.md#vocalist) Talent and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent.
+Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also proc [Charm](#charmed).
 
 ### Mark of Jurik
 
@@ -157,7 +157,7 @@ While active, suffer from 80% Anti heal meaning you will only get healed 20% of 
 
 ### Charmed
 
-Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent, seemingly overriding another player's charm. Signified by hearts appearing around the user.
+Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts appearing around the user.
 
 ### Drained
 

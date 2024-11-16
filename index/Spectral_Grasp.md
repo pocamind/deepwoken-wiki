@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 120642
+revid: 120997
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Event Item, Weapons with Unique Criticals, Unique Critical, Daggers, Hallowtide]
@@ -15,9 +15,10 @@ categories: [Weapons, Event Item, Weapons with Unique Criticals, Unique Critical
 | damage | 16 |
 | scaling | LHT: 7 |
 | range | 6.5 |
-| swing speed | 1.23x |
+| swing speed | 1.20x |
 | endlag | 0.05s |
-| penetration | 20% |
+| penetration | 15% |
+| special effect | Unique swing trail and SFX |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 4 |
@@ -34,7 +35,7 @@ categories: [Weapons, Event Item, Weapons with Unique Criticals, Unique Critical
 
 ## Critical
 
-After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing m1 damage for each hit. This critical has innate bleed on both hits. This critical has an extremely short cooldown of only 3 seconds.
+After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing m1 damage for each hit. This critical has innate bleed on both hits. This critical has a short cooldown of only 5 seconds.
 
 ## Trivia
 

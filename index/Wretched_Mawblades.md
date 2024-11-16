@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 120419
+revid: 120949
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -11,8 +11,8 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Ha
 | Wretched Mawblades | |
 |---|---|
 | type | Greatsword |
-| requirements | 55 HVY |
-| damage | 28 |
+| requirements | 75 HVY |
+| damage | 27.5 |
 | scaling | HVY: 8 |
 | range | 8 |
 | swing speed | 0.84x |
@@ -32,7 +32,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Ha
 The **Wretched Mawblades**, or "Canary Rephika & Grimlock Narsus," is a heavy greatsword Hallowtide exclusive weapon. It can be brought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy. The weapon consists of two regular blades now covered in some sort of deformed flesh with teeth running along where the blade's edge used to be. Two eyes are present near the hilt. The pommel is also replaced with teeth, and teeth are, ironically, also present on the guard, giving the appearance of a mouth. In combination with the eyes, each blade's grip forms a screaming face to mirror the two souls trapped inside.
 
   
-Meeting the requirement of HVY, the damage is (39).
+Meeting the requiremeed amount of HVY, the damage is (39).
 
 ## Critical
 

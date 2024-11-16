@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 118362
+revid: 120952
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Items]

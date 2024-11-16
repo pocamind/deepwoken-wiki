@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 120302
+revid: 120991
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -29,5 +29,6 @@ _(one-time use, re-obtainable)_
 
 -   You can hold more than one of this item.
 -   Holding Sinner's Ash will surround your player in a purple highlight.
+    -   This no longer happens as of late 2024.
 -   Using Sinner's Ash whilst already having a Corrupted Resonance or not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
 -   Its estimated drop chance is around 1/333 (Not confirmed)
