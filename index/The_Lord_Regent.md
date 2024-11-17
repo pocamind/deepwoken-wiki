@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 120669
+revid: 121153
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -13,15 +13,12 @@ categories: [NPCs, Quests, Etrea, The Ministry]
 | name | The Lord Regent |
 | location | Etris Palace |
 
-“ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
+“ A horrible scream pierced my ears followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness. ”
 
-― The Lord Regent
+― Operation 'Puppet Master' Report
 
 ## Description
 
-> A horrible scream pierced my ears followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness.
-
-  
 Zi'eer, more commonly known as The Lord Regent or by his title, the fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
 
 While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true race or aggressive mutations from his meddling with the world's natural order is unknown.

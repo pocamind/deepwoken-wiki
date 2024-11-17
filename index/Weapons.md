@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 121095
+revid: 121134
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -89,7 +89,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
 -   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
 -   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive Talents.
--   **Chip Damage:** Weapon damage bypassing through block (50% limit **when using Obfuscation**).
+-   **Chip Damage:** Weapon damage bypassing through block.
 -   **Scaling:** Scaling for weapon attribute(s).
 -   **Weight:** Posture damage dealt.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
@@ -1784,7 +1784,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Wretched_Mawblades"><font>Wretched Mawblades</font></a></td>
-  <td>55 HVY</td>
+  <td>75 HVY</td>
   <td>28</td>
   <td>N/A</td>
   <td>15%</td>

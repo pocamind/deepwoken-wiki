@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 118234
+revid: 121128
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -29,7 +29,7 @@ Finisher's Ring grants the user extra PEN on attacks that flourish opponents upo
 
 ## Obtainment
 
-Deepfire Ring can be obtained as loot or as a reward from:
+Finisher's Ring can be obtained as loot or as a reward from:
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)

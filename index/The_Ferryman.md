@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 119272
+revid: 121154
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -8,12 +8,9 @@ categories: [Pages with broken file links, Bosses]
 
 # The Ferryman
 
-“ You measured risk, you took the chance,  
-Now what awaits, guess, in advance -  
-DANCE, puppet, dance! Dance if you can!  
-The flames have called the Ferryman! ”
+“ I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always. ”
 
-― [Naktigonis](https://www.youtube.com/watch?v=pFGSUuOLWQI)
+― The Ferryman
 
 Template:Creature Infobox V3
 

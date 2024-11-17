@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 118317
+revid: 121142
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1766,6 +1766,36 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
 > > 
 > > If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
+> 
+>   
+> 
+> ### A Light In The Sky
+> 
+> > by Prof. Galphin Spellhardt
+> > 
+> > \[The quality paper broadsheet depicts finely hand-written musical notation for a song. The song's four-instrument structure suggests it is best suited for a quartet. The song itself is titled 'A Light In The Sky'. There is a short poem underneath, matching the climax of the song-assumedly written as lyrics. It reads:\]
+> > 
+> > Mortals Often gaze at the heavens, Shrouded in moonlight-
+> > 
+> > Night-sky, Cloaked in darkness and shade, Whispers an invite:
+> > 
+> > Starlight shimmers,
+> > 
+> > Skies grow dimmer; Stars are falling- Hear them calling!
+> > 
+> > * * *
+> > 
+> > \[On the opposite side of the broadsheet, written in a trembling hand-the same that authored the musical notation,- is a short post-script note. The paper around it is mildly wrinkled in spots-as if it had been dampened by droplets of... Water? Or Perhaps Tears?..\]
+> > 
+> > * * *
+> > 
+> > How I miss thee, Constellia, my dearest Constellia! Shining jewel in the skies of the night, our bulwark of the Blacksea, our ward against the Cosmos...
+> > 
+> > Most do not recall thine splendor as I do. And what of mineself?.. Though our kind ought not feel the tides of age, even I am bowed by countless time. I feel old, even older than the very stars that made me. My kin slowly wane, much like the heavens' fading light...
+> > 
+> > But in my heart, I know... One day, we will all return to the stars.
+> > 
+> > \-G.
 > 
 >   
 > 

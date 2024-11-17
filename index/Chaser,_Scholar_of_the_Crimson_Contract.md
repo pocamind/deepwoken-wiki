@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 120455
+revid: 121149
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -139,7 +139,7 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 -   Chaser uses his regular attacks randomly. This will be his moveset until there are no blood jars left.
     -   The player is required to break the blood jars around the arena to progress the fight. Jars that can be broken can be identified by a trail between them and Chaser or the light they give. Only a few jars can be broken per cycle.
-    -   Whenever all the jars of the current cycle are broken, Chaser will be incapacitated and fall to the floor, allowing the player to attack him. After this period of vulnerability, Chaser will heal himself, restoring 1600 HP and the cycle repeats.
+    -   Whenever all the jars of the current cycle are broken, Chaser will be incapacitated and fall to the floor, allowing the player to attack him. After this period of vulnerability, Chaser will heal himself, restoring 1250 HP and the cycle repeats.
 
 **Phase 2:**
 

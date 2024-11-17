@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 121044
+revid: 121139
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Hallowtide, Events]
@@ -27,28 +27,31 @@ Currently, there are 2 types of medals, [**Hallowtide**](Hallowtide.md) medals a
 All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclusive items released in their respective year. You can claim these any time, even after the event is over, at a [Blacksmith](Blacksmith.md) using [Knowledge](Knowledge.md). The items and its cost are listed below:
 
 -   **Hallowtide '22 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2022.
-    -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) - 3 Knowledge
-    -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) - 3 Knowledge
-    -   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) - 3 Knowledge
-    -   [Skyreap Blade](Skyreap_Blade.md) - 7 Knowledge
-    -   [Hallowscleave](Hallowscleave.md) - 7 Knowledge
-    -   [Skull Piercer](Skull_Piercer.md) - 7 Knowledge
+    -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[3 Knowledge\]
+    -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[3 Knowledge\]
+    -   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[3 Knowledge\]
+    -   [Skyreap Blade](Skyreap_Blade.md) \[7 Knowledge\]
+    -   [Hallowscleave](Hallowscleave.md) \[7 Knowledge\]
+    -   [Skull Piercer](Skull_Piercer.md) \[7 Knowledge\]
 
 -   **Hallowtide '23 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2023.
-    -   [Pumpkin Head](Pumpkin_Head.md) - 3 Knowledge
-    -   [Mushroom Costume](Mushroom_Costume.md) - 5 Knowledge
-    -   [Putrid Edenstaff](Putrid_Edenstaff.md) - 7 Knowledge
-    -   [Bloodtide Trident](Bloodtide_Trident.md) - 7 Knowledge
-    -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) - 7 Knowledge
-    -   [Gourdguard](Gourdguard.md) - 5 Knowledge
-    -   Pumpkin Pitch - 10 Knowledge
-    -   [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) - 10 Knowledge
+    -   [Pumpkin Head](Pumpkin_Head.md) \[3 Knowledge\]
+    -   [Mushroom Costume](Mushroom_Costume.md) \[5 Knowledge\]
+    -   [Putrid Edenstaff](Putrid_Edenstaff.md) \[7 Knowledge\]
+    -   [Bloodtide Trident](Bloodtide_Trident.md) \[7 Knowledge\]
+    -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) \[7 Knowledge\]
+    -   [Gourdguard](Gourdguard.md) \[5 Knowledge\]
+    -   Pumpkin Pitch \[10 Knowledge\]
+    -   [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[10 Knowledge\]
 
 -   **Hallowtide '24 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2024.
-    -   [Wretched Mawblades](Wretched_Mawblades.md) - 7 Knowledge
-    -   [Death's Reverie](<Death's_Reverie.md>) - 7 Knowledge
-    -   [Spectral Grasp](Spectral_Grasp.md) - 7 Knowledge
-    -   TBA
+    -   [Spectral Grasp](Wretched_Mawblades.md) \[7 Knowledge\]
+    -   [Wretched Mawblades](<Death's_Reverie.md>) \[7 Knowledge\]
+    -   [Death's Reverie](Wretched_Mawblades.md) \[7 Knowledge\]
+    -   [Galpin's Spectral Instrument Set](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) \[10 Knowledge\]
+    -   [A Light In The Sky](Books.md) \[2 Knowledge\]
+    -   [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[3 Knowledge\]
+    -   [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[3 Knowledge\]
 
 ### Festival of a Billion Souls
 

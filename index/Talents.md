@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 120874
+revid: 121137
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1361,8 +1361,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
-    -   All instances of Physical damage apply burn, including Mantras and Elemental Mantras that deal ELM + PHYS (e.g. Clutching Shadow or Metal Eruption; other attacks that deal PHYS + ELM can be found on their respective [Attunement](Attunements.md) pages).
-    -   Applies burn even if you have Eruption Path: Lava Serpent. Additionally, Eruptions themselves can proc Immolation, which applies burn.
+    -   "Apply fire damage" applies the burn status effect instead of adding fire damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+        -   Not all attacks proc this effect, unlike what the talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. Clutching Shadow or Metal Eruption). And all attacks that have the slash (blood particle) vfx on hit like Ice Daggers or Gale Lunge will also proc Immolation, applying burn.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
