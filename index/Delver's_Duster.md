@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 119169
+revid: 121161
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Dusters, The Ignition Union]
@@ -34,3 +34,4 @@ The Delver's Duster is an [Equipment](Equipment.md) item under the "Arms" catego
 -   This was intended to be part of a set, but l7\_Nano was removed from the team before they could finish it.
 -   Due to how Pips work, a pure health maxroll of the Delver's Duster is worse than a maxroll of the [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md), with Delver's having a maximum of 32 Health + 3% Phys, while the Ironsinger has a maximum of 36 Health + 3% Phys.
 -   Possibly inspired by the riot gear from Fallout New Vegas
+-   May also be inspired by Bondrewd from Made In Abyss, as the name of the equipment is called the "Delver's Duster" Which could allude to Bondrewd's "Delvers"

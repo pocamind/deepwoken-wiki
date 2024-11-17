@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 120755
+revid: 121192
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -143,7 +143,7 @@ Ice
 
 -   Deals Moderate damage if both blows hit.
 -   Inflicts 2 seconds chill per hit. Can't be increased.
--   Leaves ice where the Mantra is casted. (With 3 vibrant gems and the Talent glacial ice you can spawn massive ice floors with it)
+-   Leaves ice where the Mantra is casted. (With 3 vibrant gems you can spawn massive ice floors with it)
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 -   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
 -   You can add 1 stratus stone to make it bigger.
@@ -421,7 +421,7 @@ Ice
 -   The mantra takes too long to end on hit to proc insignia gem.
 -   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
 -   Base chilling duration scales with level requiring more than one logstone to get the full 16 seconds, recommended to only pick it if you plan to upgrade it to level 5.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and transforming the chains into ice pillars. (The size can be increased with vibrant gems and the Talent Glacial ice.)
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and transforming the chains into ice pillars. (The size can be increased with vibrant gems.)
 
  |
 |  | 
@@ -638,7 +638,7 @@ N/A
   <td><center>N/A</center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
-    <li>The "<b>Glacial Ice</b>" Talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
+    <li>Leveling up the mantra increases the size of the ice floors it spawns.</li>
     <li>All mods do not work or have 0 effect, do not modify this mantra.</li>
     <li>On flourish it proc "Chilling flourish" without needing the Talent.</li>
   </ul></td>
@@ -770,7 +770,8 @@ Your frost is now considerably more intense.
 
  | 
 
-+6 Sanity
++6 Sanity  
+This talent does literally nothing.
 
  |
 

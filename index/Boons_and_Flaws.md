@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 120226
+revid: 121187
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -499,5 +499,6 @@ Gained from dying to Maestro Evengarde Rest.
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the 16/08/22 update, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was changed to be an unlockable [origin](Origins.md).
 -   There used to be more boons and flaws. The currently known ones are Adept (likely the original version of the Talent) and Seasick.
+-   While not confirmed, Wishbound's passive insanity gain shares some similarities with the Latin concept/word, lunaticus. Within it's Latin origins, the word refers to diseases caused by the moon, such as madness or epilepsy.
     
     Having the _Blind_ flaw at night. (Yes, this isn't just a black image. Look carefully.)

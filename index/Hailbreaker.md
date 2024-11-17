@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 121108
+revid: 121179
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
@@ -46,6 +46,9 @@ This weapon can change forms with the use of its critical similarly to [Light's 
 
 All criticals have a cooldown of 10 seconds. The criticals do not have a 100% chance of moving to the next stage.
 
+Pressing M2 during the windup of the critical will perform a faster attack that does not progress stages. This attack does not change depending on the stage.
+
 ## Trivia
 
 -   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.
+-   The (Technically second if counting release day [Pyre keeper](<Ysley's_Pyre_Keeper.md>)) First elemental weapon to not require 75 points in its respective element

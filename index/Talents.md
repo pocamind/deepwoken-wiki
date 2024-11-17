@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121137
+revid: 121194
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1086,7 +1086,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frostdrawer \[Frostdraw Exclusive\] - Grants you the ability to command Ice as a Frostdrawer.
     -   Prerequisite: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+6 Sanity)
-    -   Currently bugged or has a unknown effect (Does not increase frost patch sizes, chill duration, crystal amount, mantra dmg, or crystal dmg)
+    -   Currently does nothing (Does not increase frost patch sizes, chill duration, crystal amount, mantra dmg, or crystal dmg).
     -   Prerequisites: 50 Frostdraw, 20 Willpower
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
@@ -1283,7 +1283,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You start benefitting from Talents that require insanity to use (namely _Lose Your Mind_)
     -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
         -   Namely Shared Misery and _Piercing Will_.
-        -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your insanity Tier. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
+        -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
 ### Human Architecture
@@ -1794,7 +1794,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I dominate the minds of others."**_
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
-    -   Grants +5% damage per Tier of [Insanity](Insanity.md). Caps out at 15%. (Tier 1 = +5% | Tier 2 = +10% | Tier 3 = +15%)
+    -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
     -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
 

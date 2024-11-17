@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 120870
+revid: 121197
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
