@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 121172
+revid: 121208
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
@@ -273,7 +273,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
         2.  He has the power to kill anything he pleases, yet chooses to do what he enjoys instead of displaying his strength as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
     -   Is stated to be just a "Few years away from having his perception of meat blurred to the point of entire Lumen being in mortal danger", according to [Destroyman III](Destroyman_III.md).
 
-The one and only... MEAT WORM!
+The one and only... MEAT LORD!
 
 ### Warden Jericho
 

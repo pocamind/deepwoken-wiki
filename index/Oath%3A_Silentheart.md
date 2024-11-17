@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 120866
+revid: 121215
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -62,7 +62,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 
 ## Effects
 
--   Ability to wield weapons with 25 investment points lower than its weapon stat requirement.
+-   Ability to wield weapons with 25 investment points lower than its weapon stat requirement. (**This will not work on legendary weapons.**)
 -   **Entirely lose access to cast mantras**, including learned (or future) mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.

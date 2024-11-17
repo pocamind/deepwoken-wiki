@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 120846
+revid: 121213
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Dee
 
 ## Description
 
-Loud and enormous, the **Primadon** is a giant aquatic ape [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head.
+Loud and enormous, the Stinky monky is a giant aquatic ape [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head.
 
 It features blue-grey fur, and prior to Verse 2, Primadon had a dark blue face. After Verse 2, the model was changed slightly to make Primadon shorter and flip its lip inside out, much like real life primates do to show aggression.
 
@@ -37,8 +37,8 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
   <td>3</td>
 </tr>
 <tr>
-  <td><a href="Odd_Tentacle.md">Odd Tentacle</a></td>
-  <td>3</td>
+  <td><a href="Odd_Tentacle.md">Sticks</a></td>
+  <td>99</td>
 </tr>
 <tr>
   <td><a href="Megalodaunt_Hide.md">Megalodaunt Hide</a></td>

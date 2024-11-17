@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 120853
+revid: 121200
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -10,7 +10,7 @@ categories: [Locations, Eastern Luminant, The Hive]
 
 LocationL Greathive Aratel LocationR
 
-TERRITORY OF The Hive
+TERRITORY OF THE HIVE
 
 The stirring of life of all kinds fills the air as you enter the shade of the canopy.
 
