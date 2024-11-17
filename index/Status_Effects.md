@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 120940
+revid: 121250
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -9,6 +9,8 @@ categories: [Mechanics]
 # Status Effects
 
 Status effects are effects that can negatively affect the player or give the player an advantage. Some of these are deadly and should be taken with caution.
+
+**(NOTE: IF YOU HAVE HQ GIFS OF STATUS EFFECTS VISUALS, PLEASE ADD THEM BELOW THEIR RESPECTIVE STATUS EFFECT)**  
 
 ## Supporting Status Effects
 
@@ -33,6 +35,10 @@ When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, st
 ### Hyperarmor
 
 Make your attacks uninterruptible and become immune to every form of stun. Signified by your character turning red. Can be applied with the critical attack of most heavy weapons, [Brace](Attunement-less.md) and many more.
+
+### Overheal
+
+Gain temporary overheal which decays overtime. Indicated by a white HP bar over your own, this is gained through the use of Bloodrend mantras with specific talents.
 
 ### Fight
 
@@ -130,6 +136,10 @@ Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies dependi
 -   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing Mantra.
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
 -   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have.) Signified by big metal rods in your body.
+
+### Blood Poisoning
+
+Applied through being hit by Bloodrend mantras, by itself, drains your blood bar and reduces damage done to the one who applied the status to you, as well as reduces healing at around 40% blood poisoining, gets additional effects based on some talents. Can be identified by a darker shade of red on your bloodbar.
 
 ### Poisoned
 

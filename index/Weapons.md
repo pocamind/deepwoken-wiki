@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 121134
+revid: 121241
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1783,19 +1783,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>43.8</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Wretched_Mawblades"><font>Wretched Mawblades</font></a></td>
-  <td>75 HVY</td>
-  <td>28</td>
-  <td>N/A</td>
-  <td>15%</td>
-  <td>HVY: 8</td>
-  <td>8</td>
-  <td>8</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
-  <td>51.4</td>
-</tr>
-<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Kyrsieger"><font>Kyrsieger</font></a></td>
   <td>50 HVY, 15 CHA</td>
   <td>24</td>
@@ -1807,6 +1794,19 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.83x</td>
   <td>N/A</td>
   <td>46.6</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Wretched_Mawblades"><font>Wretched Mawblades</font></a></td>
+  <td>75 HVY</td>
+  <td>27.5</td>
+  <td>N/A</td>
+  <td>15%</td>
+  <td>HVY: 8</td>
+  <td>8</td>
+  <td>8</td>
+  <td>0.84x</td>
+  <td>0.1s</td>
+  <td>50.4</td>
 </tr>
 <tr>
   <td><a href="First_Light.md">First Light</a></td>

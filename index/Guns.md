@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 115433
+revid: 121229
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -42,7 +42,7 @@ The amount of bullets you can load into a gun depends on the type you are using.
 
 Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
@@ -78,7 +78,7 @@ Note: All pistols have only 1 posture damage.
 
 ## Rifle Moveset
 
-Your rifle has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance.
+Your rifle has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance. They are all exclusively medium weapons.
 
 ### Talents
 
@@ -92,7 +92,7 @@ _**Stats:**_
 
 **[Iron Blunderbuss](Iron_Blunderbuss.md): 20** damage, **5** posture damage, **8** range, **7** MED scaling, **0.97x** attack speed, **25%** base pen. (75 MED req)
 
-[**Summer Rifle:**](Summer_Rifle.md) **17** damage, **4** posture damage, **8** range, **6** MED scaling, **1x** attack speed, **TBA** notes (1). (40 MED req)
+[**Summer Rifle:**](Summer_Rifle.md) **17** damage, **4** posture damage, **8** range, **6** MED scaling, **1x** attack speed, (1). (40 MED req)
 
 **[Stormseye:](Stormseye.md) 19.5** damage, **5** posture damage, **8** range, **3** MED scaling + **6** Thunder scaling, **1x** attack speed, (40 MED, 75 Thundercall req)
 
@@ -109,6 +109,6 @@ _**Stats:**_
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.
 -   All flintlocks (pistols) have only 1 weight (posture damage)
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
--   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact.
+-   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is very impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact, ruining the gun.
 -   Both pistols and rifles in Deepwoken don't have recoil.
 -   The [Dawnshot](Dawnshot.md) is the only gun that can be used with [Pluripotent Alloy](Pluripotent_Alloy.md).

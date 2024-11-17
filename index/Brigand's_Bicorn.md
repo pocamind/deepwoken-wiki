@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 116338
+revid: 121222
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | None |
+| requirements | LVL 6 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | Spare Nails, Emergency Repairs |

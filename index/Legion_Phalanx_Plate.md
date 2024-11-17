@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 117463
+revid: 121232
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, The Eternal Gale, Maestro Evengarde Rest, Miner's Landing (Very rare), Primadon, The Depths, Chaser |
+| obtainment | Chests from:, Duke Erisia, The Eternal Gale, Maestro Evengarde Rest, Miner's Landing (Very rare), Primadon, The Depths, Chaser, Pure Erisore turn-ins, Deep Widow |
 | description | "..." |
 
 ## Description

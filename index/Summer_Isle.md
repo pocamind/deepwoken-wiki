@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 116683
+revid: 121227
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Eastern Luminant]
@@ -29,7 +29,7 @@ One of the most eventful populated islands in the Eastern Luminant, having basic
 
 #### _Gunsmiths_
 
-Main Article - [Weapons](Weapons.md)
+Main Article - [Guns](Guns.md)
 
 The Summer Isle's main attractions are the firearms, which can be found inside the main building at the gunsmith, the prices being:
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121194
+revid: 121251
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -147,7 +147,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 25 Intelligence
 
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
     -   This does NOT change the 12 mantra modification limit on a mantra.
     -   Prerequisite: 85 Intelligence
 

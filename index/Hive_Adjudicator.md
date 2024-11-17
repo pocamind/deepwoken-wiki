@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 115735
+revid: 121233
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, Exclusive Outfits, The Hive]
@@ -31,6 +31,10 @@ This Outfit's Schematic can be found in:
 -   Battle Royale
 -   \[Master Schematic\] from Hallowtide Joyshop (Was removed from it roughly 3 days after Hallowtide began)
 -   Given to all users due to a bug (Has since been taken from Everyone's Schematics, If it was crafted it stays in the user's Outfits)
+
+## Gallery
+
+How the outfit looks when equipped
 
 ## Trivia
 

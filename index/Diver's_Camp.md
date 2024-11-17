@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 109351
+revid: 121223
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,11 +8,11 @@ categories: [Locations]
 
 # Diver's Camp
 
-**Diver's Camp** is an area in [The Depths](The_Depths.md). It is a landmark in the [Celtor Wastes](Celtor_Wastes.md).
+**Diver's Camp** is an area in [The Depths](The_Depths.md). It is a landmark in the [Celtor Wastes](Celtor_Wastes.md), and is a campsite set up by the Divers for their [Apprentice Divers](Apprentice_Diver.md).
 
 ## Overview
 
-The Camp is found straight and to the left of the District of Commerce Ramp Gate. Here, you can get a campfire menu at the locker inside one of the tents, to check your drowns, equipment stats, mantras, and talents. It is protected by [The Divers](The_Divers.md), so if any hostile monster wanders in, several of the Divers will jump to attack it. However, do be warned that the low-level [Apprentice Divers](Apprentice_Diver.md) are somewhat weak, and cannot protect you from everything.
+The Camp is found straight and to the left of the District of Commerce Ramp Gate. Here, you can get a campfire menu at the locker inside one of the tents, to check your drowns, equipment stats, mantras, and talents. It is protected by [The Divers](The_Divers.md), so if any hostile monster wanders in, several of the Divers will jump to attack it. However, do be warned that the low-level [Apprentice Divers](Apprentice_Diver.md) are relatively weak and therefore cannot hold against the monsters on their own.
 
 This is an area intended to be used for players who have drowned and cannot reach [Castle Light](Castle_Light.md) because of it.
 
@@ -30,9 +30,6 @@ This is an area intended to be used for players who have drowned and cannot reac
 
 Events that spawn in Diver's Camp that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Divers](The_Divers.md) vs. Monster
+-   [Divers](Diver.md) vs [Mudskippers](Mudskipper.md)
 
--   Corrupted [Monsters](Monsters.md)
-
--   [Sharko](Megalodaunt.md) with [Mudskippers](Mudskipper.md)
--   [Mudskippers](Mudskipper.md) vs [Divers](Diver.md)
+-   [Divers](Diver.md) vs [Megalodaunt](Megalodaunt.md)

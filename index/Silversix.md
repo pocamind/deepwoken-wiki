@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 118927
+revid: 121230
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks]
@@ -26,7 +26,7 @@ categories: [Weapons, Flintlocks]
 
 ## Description
 
-The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md), requiring 75 Echoes total before being able to be selected as a starter weapon. A character starting with the Silversix will have two, one equipped in the main hand and one in the offhand.
+The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md), requiring 75 Echoes total before being able to be selected as a starter weapon. A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
 
 (You need to unlock the [Quickfang](Quickfang.md) and [Irontusk](Irontusk.md) beforehand, each costing 25 Echoes to get.)
 

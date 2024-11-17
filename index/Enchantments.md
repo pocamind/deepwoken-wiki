@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 120208
+revid: 121245
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -146,7 +146,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>The weapon's critical becomes a katana's but deals no damage.<br>
-  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker.<br>
+  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
   <p>The critical can still trigger critical Talents like Bear Trap and Manipulator.<br>
@@ -213,7 +213,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant with constant rain. Unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You can still parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1</p></div></td>
+  <td><div><p>Effects of the storm enchant with constant rain. Unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You can still parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1. Does not proc "on critical" talents.</p></div></td>
   <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 121122
+revid: 121221
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -461,6 +461,8 @@ _+3 Health_
 _+Talent: Emergency Repairs_
 
 _+Talent: Spare Nails_
+
+**Requires Power 6**
 
  | 
 
