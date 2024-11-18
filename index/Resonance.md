@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 121365
+revid: 121397
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -8,7 +8,7 @@ categories: [Resonances, Mechanics]
 
 # Resonance
 
-**Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
+**Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key. Obtaining a **Resonance** grants the player 5 [Knowledge](Knowledge.md).
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
 
@@ -59,7 +59,7 @@ _(From data of 100 rerolls, the calculated chance of getting a normal **Resonanc
 
 ### Corrupted Resonances
 
-**Corrupted Resonances** are a sub-category of **Normal Resonances** which are obtained identically to any other **Resonances**. They are rarer and stronger versions of **Normal Resonances**, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances** and even give **extra effects to some**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
+**Corrupted Resonances** are a sub-category of **Normal Resonances** which are obtained identically to any other **Resonances**, or can be obtained by using a [Sinner's Ash](<Sinner's_Ash.md>) to corrupt your **Normal Resonance**. They are rarer and stronger versions of **Normal Resonances**, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances** and even give **extra effects to some**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
 
 Known side-effects include:
 
@@ -222,7 +222,9 @@ Once you select your card, using C will activate your **Resonance**.
 
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
--   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa (tested)](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
+-   While many players choose to commit to "bell checking" in order to obtain their bell quickly by intentionally dying to enemies, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa (tested)](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
+-   Otherwise, it's safest to bell check in Layer 2 **after obtaining a [Light Hook](Light_Hook.md) from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)**, as the Light Hook prevents you from being wiped in Layer 2.
+-   Note that any cause of death, including from enemies, PVP, dying from [Insanity](Insanity.md), and [parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in Layer 2 is able to bell check.
 
 ## Rerolling & Resonance Doors
 
@@ -261,8 +263,6 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
 -   Arch Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
--   You can corrupt your Resonance by using [Sinner's Ash](<Sinner's_Ash.md>).
--   Unlocking your Resonance will give you 5 knowledge.
 
 ## References
 

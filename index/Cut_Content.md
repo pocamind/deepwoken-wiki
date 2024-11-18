@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 120387
+revid: 121407
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -62,7 +62,7 @@ This page is about content that has either been removed or changed drastically i
 
 ## Sparks
 
--   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vacinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
+-   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vicinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
     -   Was removed alongside the Mantra for being ridiculously powerful.
 
 ## Monsters
@@ -89,7 +89,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
 -   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
-    -   in December 30, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
+    -   In December 30, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
+-   **Bloodletter \[Common Talent\] -** Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
+    -   Bloodletter made you drain blood from your opponents when you hit them while they were knocked. In the June 6th, 2024 Update, Bloodletter was made innate.
 -   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
     -   In the July 12th update, Bodyguard Detail was removed.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
@@ -105,10 +107,10 @@ This page is about content that has either been removed or changed drastically i
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
 -   **Crystal Breaker \[Common Talent\] -** When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
     -   In the May 15th, 2023 update, Crystal Breaker became base behavior for Glass Path: Crystallization.
--   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
-    -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
 -   **Depths Connection \[Common Talent\] -** Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
     -   Depths connection was removed in a shadow update on August 30th, 2024.
+-   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
+    -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
 -   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   In the May 15th, 2023 update, Drifting Winds became base behavior for Galebreathe.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
@@ -116,31 +118,31 @@ This page is about content that has either been removed or changed drastically i
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this Talent effectively useless.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
--   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
-    -   In October 28, 2023 update, Frozone became base behavior for Ice Skate.
--   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
-    -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
--   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
-    -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
--   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
-    -   Was removed with Verse 2 update.
--   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
-    -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
--   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
-    -   The Talent was removed from the game with October 6, 2023 update, as it became a base behavior for Flame Repulsion.
--   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
-    -   In the December 16th, 2023 update, True Pain was removed due to Knife's Journey rework.
--   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   In the December 16th, 2023 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
+-   **Ether Kit \[Common Talent\] -** It's extra ether, do you need anything else? (+20 Ether)
+    -   In the January 19th, 2024 update, Ether Kit was made innate, increasing the base ether of all players by 20.
+-   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
+    -   Every hit would deal 5% of your maximum HP regardless of how much damage it would deal otherwise.
+    -   In the February 14th, 2022 update, Exoskeleton was changed to its current form, granting Natural Armor.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
     -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
 -   **Flaming Uppercut \[Common Talent, Flamecharm Exclusive\] -** Ignite flames on an enemy when you uppercut them.
     -   In the October 20th, 2023 update, Flaming Uppercut was merged into Flaming Flourish.
--   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
+-   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
+    -   In October 28, 2023 update, Frozone became base behavior for Ice Skate.
+-   **Gale Coil \[Common Talent, Galebreathe Exclusive\] -** Your suffocates last twice as long. (+2 Passive Agility)
+    -   In the August 30th, 2024 update, Gale Coil was made innate.
 -   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
     -   In the May 16th, 2023 update, Gale Dash was merged into Air Pressure.
+-   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
+    -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
+-   **Hardened Nerves \[Common Talent\] -** Slightly increases posture. (+2 Posture)
+    -   In the January 19th, 2024 update, Hardened Nerves was made innate, increasing the base posture of all players by 2.
+-   **Health Pack \[Common Talent\] -** It's extra health, do you need anything else? (+10 Health)
+    -   In the January 19th, 2024 update, Health Pack was made innate, increasing the base HP of all players by 10.
+-   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
+    -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
@@ -156,10 +158,12 @@ This page is about content that has either been removed or changed drastically i
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
 -   **Now You See Me \[Common Talent, Agility\] -** Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   In the January 13th, 2024 update, Now You See Me was merged into Lowstride.
+-   **One Handed Training** \[Common Talent\] - **\[Heavy Weapons\] You can now wield heavy weapons one handed.**
+    -   In the July 26th, 2024 update, One Handed Training was made innate, but you still need 40 Heavy Weapon to wield your weapon one handed.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 -   **Pyromania \[Common Talent\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
-    -   in the October 6th, 2023 update, Pyromania was merged into Immolation.
--   **Quick Link \[Common Talent, Thundercall exclusive\]** - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
+    -   In the October 6th, 2023 update, Pyromania was merged into Immolation.
+-   **Quick Link \[Common Talent, Thundercall Exclusive\]** - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
     -   In the August 15th, 2023 update, Quick Link was merged into Static Link.
 -   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
     -   In the December 13th, 2022 update, Quick Recovery was merged into Kick Off.
@@ -167,11 +171,30 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
 -   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   The Talent was removed from the game with May 15, 2023 update, as it became a base behavior for Ice Lance.
+-   **Skull Crusher \[Rare Talent, Galebreathe Exclusive\] -** Pressing F during Champion's Whirlthrow will throw your opponent straight down.
+    -   In the January 26th, 2024 update, Skull Crusher was made base behavior for Champion's Whirlthrow.
+-   **Stormcaller Slash \[Common Talent, Thundercall exclusive\] -** Call forth the fury of storms by pressing F at the end of your move.
+    -   After using Lightning Blade, press F within a second afterwards delivers extra attacks.
+    -   In the January 19th, 2024 update, Stormcaller Slash was made base behavior for Lightning Blade.
+-   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
+    -   Was removed with Verse 2 update.
+-   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
+    -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
+-   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
+    -   The Talent was removed from the game with October 6, 2023 update, as it became a base behavior for Flame Repulsion.
+-   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
+    -   In the December 16th, 2023 update, True Pain was removed due to Knife's Journey rework.
+-   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
+    -   In the December 16th, 2023 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   In the January 3rd, 2023 update, Unyielding Focus was merged into Disbelief.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
+-   **Volt Kick \[Common Talent, Thundercall Exclusive\]** - After landing a lightning kick successfully, press \[F\] to followup on your opponent with a less potent kick. (+7 Carry Load)
+    -   In the August 30th, 2024 update, Volt Kick became base behavior for Thunder Kick.
+-   **Wildfire \[Common Talent, Flamecharm Exclusive\]** - Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
+    -   In the August 16th, 2024 update, Wildfire became base behavior Fire Palm.
 
 ## Other
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 121339
+revid: 121395
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -233,7 +233,7 @@ Dodgeable:◯
 
 ## Finisher
 
-Duke Rizzia executes his opponent after knocking them:
+Duke Erizzia executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

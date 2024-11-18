@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 107802
+revid: 121404
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 1]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Gigantic, Purple versions of Normal Gigameds, found in the _**[First Layer](First_Layer.md)**_. They have different attacks and behavior as opposed to the Gigamed.
+Gigantic, Purple versions of Normal [Gigameds](Gigamed.md), found in the _**[First Layer](First_Layer.md)**_. They have different attacks and behavior as opposed to the Gigamed.
 
 Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 

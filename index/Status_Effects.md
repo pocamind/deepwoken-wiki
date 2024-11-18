@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 121337
+revid: 121413
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -106,15 +106,20 @@ This effect can be applied by being hit by a weapon that applies bleed, [Crimson
 
 ### Burning
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character.
+This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. It has a few sub-variants:
+
+-   Azure Burning: Has higher burn damage (from 8 DMG per second to 9 DMG per second compared to normal burning).
+-   Lifelord Blaze: Has a slight slow effect on top of the burn damage.
+-   Black Flames: Consume your ether while you are burning.
+-   White Flames: Those flames scale on INT, meaning they can be a lot more deadly.
 
 ### Winded
 
-This effect can be applied by being hit with Galebreathe Mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green spirals on your character.
+This effect can be applied by being hit with Galebreathe Mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Spectre Path) spirals on your character.
 
 ### Suffocated
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chilled
 
@@ -144,6 +149,8 @@ This can be applied by being flourished by someone using Thunder Wisp or by some
 
 Inflicted by Thundercall Surge Path Mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
 
+  
+
 ### Metal Rods
 
 Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies depending on which path the Ironsinger uses:
@@ -151,7 +158,7 @@ Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies dependi
 -   Normally: Allows you to be pulled in towards them when they press X.
 -   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing Mantra.
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
--   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have.) Signified by big metal rods in your body.
+-   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have.) Signified by big metal rods in your body. (those will be yellow/gold if the user has Scrapsinger)
 
 ### Blood Poisoning
 
@@ -188,6 +195,10 @@ While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of 
 
 Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts appearing around the user.
 
+### Hidden Tendril
+
+Become able to be targeted by Lord Slice mantra from Contractor, as well as being able to be pulled together with another target inflicted with this. Visible only to the one who applied it, signified by a black string between the caster and target.
+
 ### Drained
 
 Takes a certain amount to all of the ether that you possess. if the user used the [Vow of Mastery Command: Leech](Vow_of_Mastery.md), the ether in your possession will become theirs. If the effect was applied from [potions](Alchemy.md), the amount of ether and how fast your drained varies.
@@ -196,13 +207,11 @@ Takes a certain amount to all of the ether that you possess. if the user used th
 
 Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchantment](Enchantments.md). Signified by the legs of your character being frozen in ice.
 
-### Lifelord's Blaze
-
-Become engulfed in green-yellowish flames that cut your mobility in half. This has a 4 second cooldown before it can proc from another hit. Applied through being hit by the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
-
 ### Harrowing
 
 This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
+
+  
 
 ### Deferred
 
@@ -258,7 +267,9 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Applied by getting hit by an opponent with Emperor Flame active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Spectral Grasp's](Spectral_Grasp.md) Critical Attack, or can be applied to self with [Oath: Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_ and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and healthpacking when knocking opponents.
+Applied by getting hit by an opponent with Emperor Flame active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Spectral Grasp's](Spectral_Grasp.md) Critical Attack, or can be applied to self with [Oath: Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_ and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and healthpacking when knocking opponents. Signified by a dark blue portion on your healthbar.
+
+  
 
 ## Deadly Status Effects
 

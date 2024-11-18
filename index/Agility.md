@@ -1,6 +1,6 @@
 ---
 title: Agility
-revid: 121283
+revid: 121411
 source: https://deepwoken.fandom.com/wiki/Agility
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

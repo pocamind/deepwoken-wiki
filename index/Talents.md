@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121367
+revid: 121392
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1036,9 +1036,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prevents fire from going out in rain.
     -   Prerequisite: 35 Flamecharm
 
--   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing F before releasing your Fire Palm will release a wider but shorter flame.
-    -   Prerequisite: Fire Palm (Flamecharm Mantra) (this talent is now innate to fire palm)
-
 ### Flashfreeze
 
 > _**"I seek the qualities of FlashFreeze."**_
@@ -1669,13 +1666,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I often attack others."**_
 
 -   Aggressive Posture \[Common Talent\] - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
-    -   Prerequisite: [Power](Power.md) 11
--   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
     -   Prerequisite: [Power](Power.md) 10
 
--   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
-    -   Bloodletter is an innate Talent.
-    -   The head equipment "[Bloodfeather Cowl](Bloodfeather_Cowl.md)" have this Talent.
+-   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
+    -   Prerequisite: [Power](Power.md) 10
 
 -   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)
     -   Prerequisite: 20 Willpower
@@ -2402,14 +2396,6 @@ _**"My cure is most effective."**_
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
     -   Prerequisites: Static Link, 50 Thundercall, 15 Intelligence
 
-### Stormblade
-
-> _**"My blade is unrelenting, a storm." (Innate now)**_
-
--   Stormcaller Slash \[Common Talent, Thundercall exclusive\] - Call forth the fury of storms by pressing F at the end of your move.
-    -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
-    -   Prerequisite: Lightning Blade
-
 ### Stormcaller
 
 > _**"I seek the qualities of Stormcaller."**_
@@ -3125,6 +3111,8 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
     -   Lowers Shade Devour damage and removes Deepspindle running critical attack self-damage completely.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common Talent.
+-   Bloodletter: [Bloodfeather Cowl](Bloodfeather_Cowl.md) - Hitting opponents on the ground lowers their blood.
+    -   Hitting knocked opponents lowers their blood bar. This talent was made **innate**, so it does nothing on this equipment.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 121241
+revid: 121386
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2637,14 +2637,17 @@ Miscellaenous offhands are tools that do not fit being a shield or a weapon, and
 <tr>
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
+  <td><b>Parry Posture Res</b></td>
 </tr>
 <tr>
   <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
   <td>10 AGI</td>
+  <td>20%</td>
 </tr>
 <tr>
   <td><a href="Kyrstear.md">Kyrstear</a></td>
   <td>40 AGI</td>
+  <td>30%</td>
 </tr>
 </tbody>
 </table>
