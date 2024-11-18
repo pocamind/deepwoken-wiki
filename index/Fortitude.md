@@ -1,6 +1,6 @@
 ---
 title: Fortitude
-revid: 4898
+revid: 121276
 source: https://deepwoken.fandom.com/wiki/Fortitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Attributes#Fortitude](Attributes.md#fortitude)
+-   [Attributes#Fortitude (FTD)](Attributes.md#fortitude-ftd)

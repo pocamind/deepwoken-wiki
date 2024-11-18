@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 121221
+revid: 121316
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -645,6 +645,32 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+ | N/A |
+|  | 
+
+[Deepscorn Casque](Deepscorn_Casque.md)
+
+(**Unique**)
+
+ | 
+
+_+5 Health_
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Already Dead_
+
+**Requires Power 8**
+
+ | 
+
+Found from:
+
+-   [Silhuett](Silhuett.md)
+-   [The Understrand](The_Understrand.md)
 
  | N/A |
 | File:Deepwoken Hood1.png | 
@@ -1338,31 +1364,6 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | N/A |
-|  | 
-
-[Deepscorn Casque](Deepscorn_Casque.md)
-
-(**Unique**)
-
- | 
-
-_+5 Health_
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Already Dead_
-
-**Requires Power 8**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
 
  | N/A |
 |  | 

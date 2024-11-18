@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 120456
+revid: 121286
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -37,7 +37,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 [Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with race stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
-### Strength
+### Strength (STR)
 
 -   Physical strength. _Increases **carry load**, **armor penetration**, and the **damage scaling of strength mantras**._
     -   Increases [Carry Load](Carry_Load.md) by 1 per point in Strength.
@@ -47,7 +47,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   Gain Strength EXP via cutting down trees, using the Boulder (this will train your Fortitude at the same time), parrying, blocking, or dealing damage.
 -   _**[Unbounded](Attributes_Unbound.md#strength-unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking the coffin lid, and reading the journal.**_
 
-### Fortitude
+### Fortitude (FTD)
 
 -   Resilience against threats. _Increases **Health** slightly per point._
     -   Every point in Fortitude increases your chances to resist food poisoning when eating raw materials.
@@ -61,13 +61,14 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder (this will train your Strength at the same time, while giving you 2x the fortitude training).
 -   _**[Unbounded](Attributes_Unbound.md#fortitude-unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
 
-### Agility
+### Agility (AGI)
 
 -   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
         -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
             -   _This can be mitigated with the [Endurance Runner](Talents.md#alley-cat) Talent._
     -   Adds 0.2% [Stealth](Stealth.md) to your character for every Agility point.
+        -   [Felinor](Felinor.md) has a 1.2x Stealth gain multiplier, meaning they gain 0.24% Stealth per point in Agility.
     -   Reduces the vision cone of NPCs and Monsters.
     -   [Parrying Daggers](Parrying_Dagger.md) and [Kyrstears](Kyrstear.md) have an Agility requirement to wield.
 -   Unlocks Agility-related [Talents](Talents.md) and [Mantras](Attunement-less.md#agility-mantras).
@@ -75,7 +76,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   _**[Unbounded](Attributes_Unbound.md#agility-unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
     -   _You can watch a guide to get to the Windrunner with [Jetstriker](Oath%253A_Jetstriker.md) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
 
-### Intelligence
+### Intelligence (INT)
 
 -   Logic and problem-solving skills. _Increases **Ether** slightly per intelligence per point._
     -   One point in Intelligence gives 2 Ether.
@@ -85,11 +86,11 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
     -   If you are using the Math Textbook, you will have to do a math problem.
 -   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
-### Willpower
+### Willpower (WIL)
 
 -   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
-        -   [Ganymede](Ganymede.md) gains ~3.63 sanity per point in Willpower.
+        -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
     -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
         -   At 100 Willpower, you will be knocked for 5 seconds as opposed to 10 seconds with 0 Willpower.
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras), and the legendary weapon [Light's Final Toll](<Light's_Final_Toll.md>) with a requirement of 60 Willpower and 35 Light weapon.
@@ -97,9 +98,9 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 -   It takes around 35 seconds to level up your Willpower without any xp using Prayer Beads.
 
-### Charisma
+### Charisma (CHR)
 
--   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._
+-   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[1\]](#cite-note-1)
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
@@ -116,7 +117,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
     -   _**[Unbounded](Attributes_Unbound.md) by killing any [boss](Bosses.md).**_
 
-### Heavy Weapons
+### Heavy Weapons (HVY)
 
 -   Increases your character's proficiency with heavy weapons—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
@@ -124,7 +125,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
         -   Some weapon Talents are locked to certain weapon types. For example, Greataxe Talents differ from Greatsword Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
 
-### Medium Weapons
+### Medium Weapons (MED)
 
 -   Increases your character's proficiency with medium weapons—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
@@ -132,11 +133,12 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
         -   Some weapon Talents are locked to certain weapon types. For example, Spear Talents differ from Rifle Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain medium weapons EXP by dealing damage with a medium weapon or parrying attacks.
 
-### Light Weapons
+### Light Weapons (LHT)
 
--   Increases your character's proficiency with light weapons—this increases the extra damage dealt by your weapon's scaling.\*\*Equipping better weapons of this class will require a higher point investment.
+-   Increases your character's proficiency with light weapons—this increases the extra damage dealt by your weapon's scaling.
+    -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks light weapon related [Talents](Talents.md) and [Mantras](Attunement-less.md#light-weapon-mantras).
-        -   Some weapon Talents are locked to certain weapon types. For example, Dagger Talents differ from Fist Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.[Attunement-less#Light\_Weapon\_Mantras](Attunement-less.md#light-weapon-mantras)
+        -   Some weapon Talents are locked to certain weapon types. For example, Dagger Talents differ from Fist Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
 
 ## Attunement Attributes
@@ -154,48 +156,48 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   All of the attunements are:
     -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) (have to deal most of the damage)**_
 
-### Flamecharm
+### Flamecharm (FIR)
 
 -   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement\_Trainers](Attunement_Trainers.md).
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).
 
-### Frostdraw
+### Frostdraw (ICE)
 
 -   Increases damage scaling of Frostdraw mantras.
     -   Unlocks [Frostdraw Talents](Frostdraw.md#talents).
     -   Increases slow and freeze times of abilities.
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using Hemafrost or eating [Frigid Prisms](Frigid_Prism.md).
 
-### Thundercall
+### Thundercall (LTN)
 
 -   Increases damage scaling of Thundercall mantras.
     -   Unlocks [Thundercall Talents](Thundercall.md#talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using Self-Conducting Loop or eating [Spark Glands](Spark_Gland.md).
 
-### Galebreathe
+### Galebreathe (WND)
 
 -   Increases damage scaling of Galebreathe mantras.
     -   Unlocks [Galebreathe Talents](Galebreathe.md#talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using Gale Kata or eating [Gale Stones](Gale_Stone.md).
 
-### Shadowcast
+### Shadowcast (SDW)
 
 -   Increases damage scaling of [Shadowcast](Shadowcast.md) mantras and the amount of ether you steal from enemies.
     -   Unlocks [Shadowcast Talents](Shadowcast.md#talents).
     -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using Pure Heart or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
-### Ironsing
+### Ironsing (MTL)
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing Talents](Ironsing.md#talents).
 -   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using Ferrofluid.
 
-### Bloodrend
+### Bloodrend (BLD)
 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
@@ -210,5 +212,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   If you lack regular EXP, using training gear will give the message "I've learnt what I can from training right now, I should put it into practice..."
 -   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.
 -   If you need to uncap an attribute, you get the message "I've hit a wall in my training. Maybe there's some way to break it?"
--   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better Talent~s _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the Talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
--   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above- as well as having quicker access to those cards._
+-   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better Talents~ _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the Talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
+-   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above - as well as having quicker access to those cards._
+
+1.  [↑](#cite-ref-1) Charisma is more commonly referred to by the abbreviation CHA by the community because it's simpler.

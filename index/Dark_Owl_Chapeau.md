@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 119318
+revid: 121284
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 1 |
-| innate stats | 10% Stealth, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | 10% Stealth, 5% Shadow armor, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Giantslayer |
 | bankable | Yes |
 | droppable | Yes |

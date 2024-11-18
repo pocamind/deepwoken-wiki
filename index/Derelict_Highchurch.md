@@ -1,6 +1,6 @@
 ---
 title: Derelict Highchurch
-revid: 119024
+revid: 121297
 source: https://deepwoken.fandom.com/wiki/Derelict_Highchurch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -41,6 +41,10 @@ The [Bloodrend Trainer, Vyrelda](Vyrelda,_Master_of_Blood.md), can be found insi
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+Derelict Highchurch Location on the Map
 
 ## Trivia
 

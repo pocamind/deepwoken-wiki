@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 117925
+revid: 121258
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, The Divers]
@@ -21,7 +21,7 @@ categories: [NPCs, Quests, The Divers]
 
 Karliah is an apprentice Diver in [Etris](Etris.md) who, by a quest, allows you to unbound your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max.
 
-More details about the quest can be found [here](Etris.md#diver-escort-quest).
+More details about the quest can be found [here](Etris.md#diver-apprentice-quest).
 
 **This quest is not repeatable, so do not mess it up by not having enough charisma or picking the wrong options.**
 
