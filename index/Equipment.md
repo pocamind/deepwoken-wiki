@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 121316
+revid: 121375
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
 
 _**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=drivesdk)**_
 
-An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for No Pips purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
+An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also providing various benefits. It can be used to improve (or worsen) your character's appearance. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
 
 An example of an item with rolled stats (in beige) and guaranteed stats (in grey)
 
@@ -30,7 +30,8 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP)  
 ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP)
 
-However, these pips can be rerolled by the use of [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
+However, these pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).  
+Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
 
 <table><caption>Pips Info</caption>
 <tbody>
@@ -6001,7 +6002,7 @@ Found from:
 -   Highest theoretical Posture kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Diver's Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings)
 -   Highest theoretical DvM kit in game is 67% DvM. (3x 4% DvM Rings, 7% DvM Diver's Ring (depths only), 19% DvM Pathfinder Elite (Drowned), 5% DvM Scarf, 9% DvM Hood, 9% DvM Boots, 3% DvM Mask, 3% DvM Earrings)
-    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%.
+    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 75%.
 -   Highest theoretical Monster Armor kit in game is 37% Monster Armor. (21% Pathfinder Elite (Drowned), 16% Vigil's Hood)
     -   The echo shop allows for an additional 8% DvM onto your character, meaning the max Monster Armor you could possibly have is 45%.
 -   Legs equipment is currently the only equipment type that does not have Uncommon Pips.

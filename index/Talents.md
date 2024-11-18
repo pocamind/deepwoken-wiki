@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121257
+revid: 121367
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2395,7 +2395,8 @@ _**"My cure is most effective."**_
     -   Prerequisites: Static Link, 65 Thundercall
 
 -   Static Ace \[Common Talent, Thundercall exclusive\] - Using Lightning Stream with an active tether link targets your closest active link.
-    -   Using Lightning Stream with a tether will instantly grab the target.
+    -   Using Lightning Stream with a tether will instantly grab the target with no travel time.
+    -   Actually target the first active tether, not the closest.
     -   Prerequisites: Static Link, 70 Thundercall
 
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.

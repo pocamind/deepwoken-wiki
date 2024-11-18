@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 121101
+revid: 121365
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -232,7 +232,7 @@ This very specific and unique **Resonance Door** is within a cave in The Depths,
 
 The draw consists of four cards, three of which are selected randomly (identically to the three you rolled when first obtaining your resonance) and the last of the four always being your current **Resonance**, albeit with a different stat allocation.
 
--   You can glitch through these by spamming slide-jump and dash, you can also get a friend to glitch through and place a chime of dwelling in interact reach.
+-   You can glitch through these by spamming slide-jump and dash, you can also get a friend to glitch through and place a [Chime of Dwelling](Chime_of_Dwelling.md) in interact reach.
 
 -   If your current **Resonance** isn't a **Corrupted Resonance**, the fourth card has a chance of being **Corrupted**. If your current **Resonance** _is_ a **Corrupted Resonance**, the fourth card will always be a _non-corrupted_ version of your **Resonance** with an extra fifth card of your **Corrupted Resonance** alongside it.
 
