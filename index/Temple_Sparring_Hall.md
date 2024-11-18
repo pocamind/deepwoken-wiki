@@ -1,6 +1,6 @@
 ---
 title: Temple Sparring Hall
-revid: 118322
+revid: 121361
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Etrean Luminant, Etrea]
@@ -17,7 +17,9 @@ TERRITORY OF Etrea \[LAWLESS\]
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 
   
-**Temple Sparring Hall** is a location in _Deepwoken_. It is a landmark of the [Temple of the Blade](Temple_of_the_Blade.md).Template:Areainfobox
+
+  
+**Temple Sparring Hall** is a location in _Deepwoken_. It is a landmark of the [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Overview
 

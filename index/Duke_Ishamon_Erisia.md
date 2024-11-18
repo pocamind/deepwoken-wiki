@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 120847
+revid: 121339
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Rizzia** (commonly shortened to Duke Rizzia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
@@ -28,7 +28,7 @@ While the Duke is immune to instant guardbreaks, his posture pool is incredibly 
 
 ## Moveset
 
-Duke Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Rizzia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
@@ -233,7 +233,7 @@ Dodgeable:◯
 
 ## Finisher
 
-Duke Erisia executes his opponent after knocking them:
+Duke Rizzia executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -404,3 +404,4 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Rapid Punches to break the shield.
 -   Using Warden's Blades modified with Rush Shards, Eternal Logstones, and Blue Gems would make a great modifier, but it's costly. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker if you have [Enforcer's Hammer](<Enforcer's_Hammer.md>) or [Mace](Mace.md).
 -   It is important noting in phase 2 that he will block attacks and has a lot of posture to do so, so try to feint as he will usually roll backwards, getting him out of his blocking position.
+-   If that doesnt work tickle his toes.

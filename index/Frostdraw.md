@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 121192
+revid: 121349
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -68,7 +68,7 @@ Ice
 
  | Conjure a spike of ice from the ground at the cursor's location.
 
--   Deals moderate damage and sends target into the air.
+-   Deals 30 DMG and sends target into the air.
 -   Does not inflict Chill.
 -   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
 -   Can be modified with cloudstones/stratus stones to make the ice spikes bigger.
@@ -191,7 +191,8 @@ Ice
 
  | Conjures 2 sabers of ice while performing a rapid flurry of slashes forward.
 
--   Deals light damage.
+-   Deals 70 DMG total
+-   First hit 25 and next 3 hits do 15 DMG
 -   Hits 4 times.
 -   Inflicts 1s of Chill per hit
     -   Can't be increased.
@@ -217,7 +218,7 @@ Ice
 
  | Conjures 3-4 chains of ice that lock-on and stun the target for a brief period of time.
 
--   Deals light damage.
+-   Deals 35 DMG total
 -   Inflicts Chill.
 -   9 seconds chill and 13 seconds with 1 eternal.
 -   Can be modified with both [Aeon/Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
@@ -242,7 +243,7 @@ Ice
 
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
--   Deals moderate damage.
+-   Deals 30 DMG
 -   Apparently applies chill although VERY short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
@@ -266,6 +267,9 @@ Ice
  | Forms a barrage of ice shurikens before propelling them at the cursor's location.
 
 -   Deals light damage.
+-   Non modded deals 40 dmg
+-   Blast spark version 35 dmg
+-   Magnet spark 40 dmg
 -   Inflicts Chill.
     -   9 seconds base, 13 seconds with 1 Eternal Logstone.
 -   Casting the mantra itself while standing on ice will summon more projectiles.
@@ -289,7 +293,7 @@ Ice
 
  | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
--   Deals 60 frost damage.
+-   Deals 55 DMG
 -   Slightly knocks back target(s)
 -   Can break objects.
 -   Breaks block at mantra level 5.
@@ -314,7 +318,7 @@ Ice
 
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
--   Deals 58 frost damage.
+-   Deals 55 DMG
 -   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   Both the impact and the detonation are parriable.
@@ -338,7 +342,7 @@ Ice + Slash
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
 -   The aoe can be increased with 2 stratus stones.
--   Deals frost 72 damage.
+-   Deals 65 damage.
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 
@@ -361,6 +365,7 @@ Ice
  | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
 
 -   Deals moderate damage.
+-   Deals 95 dmg if every projectile landed
 -   Deals high posture damage.
 -   Does not inflict Chill.
 -   Low cooldown.
@@ -385,6 +390,8 @@ Ice
  | Conjure a deadly rapidly moving saw of ice with the user's left hand.
 
 -   Deals moderate damage.
+-   Default ice carve deals 75 DMG
+-   Round spark full duration deals 115 DMG
 -   Does not inflict Chill.
 -   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase its size.

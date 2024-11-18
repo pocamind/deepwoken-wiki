@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 120222
+revid: 121355
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -55,6 +55,7 @@ Dark Blade
 -   Adding rush shards make dark blade faster.
 -   Adding vibrant gems increase ether steal.
 -   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
+-   Deals 55
 
  |
 | 
@@ -70,6 +71,8 @@ Shadow Gun
 -   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 -   Guardbreaks at Lvl 5.
+-   Deals 35 dmg, 62 with blast spark
+
 -   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
 
  |
@@ -83,6 +86,7 @@ Clutching Shadow
  | A shadowy hand. | 50 Ether | Shadow + Blunt (slam) | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
 
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
+-   Deals 55 DMG total, 48 grab + 6 slam.
 
  |
 | 
@@ -95,6 +99,7 @@ Shadow Chains
  | Chains of shadow. | 15 Ether | Shadow | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
 
 -   Duration of the chain effect can be increased with Logstones
+-   Deals 65 DMG total
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
 -   Casts an extra chain at level 5 \[Confirmed, level 5 does cast an additional chain.\]
 
@@ -108,6 +113,7 @@ Shadow Eruption
 
  | Form a shockwave of darkness. | 50 Ether | Shadow | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
 
+-   Deals 30 DMG total
 -   Unaffected by Glass & Magnifying Stones.
 -   Although, Stratus Stones and Cloud Stones do increase the size of the eruption.
 -   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
@@ -133,6 +139,7 @@ do a small amount of damage and steal a large amount of ether.
 -   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
 -   If managed to hit, Shadow Seekers will replenish equal or more ether cost.
 -   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
+-   Deals 80 dmg total not modded (20 per shadow seeker)
 
  |
 | 
@@ -145,6 +152,8 @@ Shadow Roar
  | Roar a wave of shadows. | 50 Ether | Shadow | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit.
 
 "hit em with a scream!"
+
+-   Deals 82 dmg total, 10.5 per hit.
 
  |
 | 
@@ -160,6 +169,7 @@ with an enemy, they will be lifted into the air and smashed into the ground, dea
 
 -   Drift and Rush Shards increase projectile speed.
 -   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra, if your ether is full you emit a wave of shadow.
+-   Deals 32 dmg + 3 slam
 
  |
 | 
@@ -172,6 +182,7 @@ Shadow Meteors
  | Hail down meteors of darkness. | 65 Ether | Shadow | 3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
 
 -   Shares a cooldown with Shadow Seekers.
+-   Deals 41.5 per meteor, 125 DMG total
 
  |
 | 
@@ -190,6 +201,7 @@ Shade Bringer
 -   Can be modified with a spring spark, making you lunge forward and slam down on the enemy.
 -   Can be modified with a multiplying spark, making you slash three times instead of once.
 -   You **can** combine spring and multiplying sparks on this Mantra.
+-   Deals 40 dmg non modded and with spring spark, 80 dmg with multi, 85 with multi and spring
 
  |
 | 
@@ -206,6 +218,7 @@ Eclipse Kick
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
 -   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
+-   Deals 140 dmg, 15 + 125 dmg with multiply spatk
 
  |
 | 
@@ -219,6 +232,7 @@ Shadow Vortex
 
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with [Glass/Magnifying Stones](Mantra_Modifiers.md) to increase the range, though it seems to display diminishing returns.
+-   Deals 40 dmg, 115 with shadow gun shot into vortex
 
  |
 
@@ -243,6 +257,7 @@ for raw strength
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
+-   Shade devour deals 15 dmg, 25 dmg with blast spark, 50 dmg with multi and 50 dmg with multi and blast spark (if all 3 explosions landed)
 
  |
 | 
@@ -288,6 +303,7 @@ before warp-striking to them.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
+-   Deals 35 DMG
 
  |
 |  | 
@@ -299,6 +315,7 @@ Shadow Assault
 
 -   Lenses increase distance.
 -   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
+-   Deals 55 DMG no mod, 80 blast spark.
 
  |
 |  | 
@@ -313,6 +330,7 @@ Shadestep
 -   You can't block or parry while submerged.
 -   NPCs can spot you underground.
 -   Can't be modified.
+-   Deals 30 DMG
 
  |
 

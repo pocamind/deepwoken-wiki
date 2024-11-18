@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 121266
+revid: 121337
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 Status effects are effects that can negatively affect the player or give the player an advantage. Some of these are deadly and should be taken with caution.
 
-**(NOTE: IF YOU HAVE HQ GIFS OF STATUS EFFECTS VISUALS, PLEASE ADD THEM BELOW THEIR RESPECTIVE STATUS EFFECT)**  
+  
 
 ## Supporting Status Effects
 
@@ -67,6 +67,10 @@ Applied by the Mantra [Lightning Cloak.](Thundercall.md) Have your swing speed a
 ### Adrenaline Surge
 
 Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have Action Surge. Applied by the [Adrenaline Surge](Attunement-less.md#agility-mantras) Mantra. Signified by a white circle in your chest.
+
+### Radiant
+
+Become immune to all elemental status effects. Gained by proccing the Absolute Radiance talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath
 
 ### Gone Berserk
 

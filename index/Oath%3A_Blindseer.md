@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 119767
+revid: 121342
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,7 +81,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
-    -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam.
+    -   The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
     -   This mantra can make you go insane if you use it too much.
     -   Sightless Beam can be canceled midway by pressing F.
     -   Steals eyesight proccing the blind effect if enough hits land.
@@ -101,6 +101,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 
 ## Trivia
 
+-   **BLINDSEER MANTRAS DONT SCALE WITH WILLPOWER AT ALL**
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
 -   The glyph on the wall also can be found at King Tresher room in Lightkeeper Temple, the glyph also stating about how to progress Blindseer oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.

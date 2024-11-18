@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 120256
+revid: 121344
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -50,13 +50,13 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 _Spin rapidly to unleash powerful rays of light._
 
--   Deals 18 total hits of Oath damage, with 9.333 base damage per hit. (
+-   Deals 18 total hits of Oath damage, 205 dmg total (0 songchant), 240 dmg (6 songchant)
 
 -   **Radiant Kick** (★★★) - **Combat Mantra**
 
 _Kick your foes at the speed of light._
 
--   Deals a base of 19.5 Oath damage twice.
+-   Deals 50 dmg at 0 songchant, 55 at 6 songchant
 
   
 
@@ -64,7 +64,7 @@ _Kick your foes at the speed of light._
 
 _Strike down your foes with your blinding light._
 
--   Deals 46.5 base Oath damage.
+-   Deals 60 dmg at 0 songchant, 70 at 6 songchant
 -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
 -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
     -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.

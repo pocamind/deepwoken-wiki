@@ -1,6 +1,6 @@
 ---
 title: Silhuett
-revid: 117612
+revid: 121333
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -22,3 +22,4 @@ If the player has high Ally [Reputation](Reputation.md) with [The Ministry](The_
 ## Trivia
 
 -   Silhuett is much easier to find if you use the [Hell Bell](Hell_Mode.md), though that also increases monster spawn rates and will make your journey very dangerous.
+-   His name is pronounced very similarly to silhouette, which is the image of a person or a thing usually represented with a single shade of color. In other words, a silhouette is very similar to a shadow.

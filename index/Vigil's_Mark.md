@@ -1,6 +1,6 @@
 ---
 title: "Vigil's Mark"
-revid: 108134
+revid: 121364
 source: https://deepwoken.fandom.com/wiki/Vigil's_Mark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -15,7 +15,6 @@ TERRITORY OF ETREA (LAWLESS AREA)
 A common spot for vigils-to-be to test both mettle and metal.
 
   
-Template:Areainfobox
 
 **Vigil's Mark** is a location in _Deepwoken_. It is a landmark near the [Temple of the Blade](Temple_of_the_Blade.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 107857
+revid: 121334
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -162,4 +162,3 @@ The vein located in Nostor's Cave.
 -   Mining ores mainly gives Strength EXP but is one of the harder ways to do so.
 -   Mining ores also gives decent Intelligence EXP.
 -   The old gold, coal, and iron models can be seen at [The Floating Keep](The_Floating_Keep.md)
--   If you have 99 of an ore, You will always get the pure ore version of it.
