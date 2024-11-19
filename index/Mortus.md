@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 119557
+revid: 121480
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -80,6 +80,6 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 ## Trivia
 
 -   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
--   The dialogue claims that a Megalodaunt "fed \[them\] for weeks it did" which shows that Megalodaunt flesh is _probably_ **edible** (though we don't see Megalodaunt flesh / meat as a drop in-game).
+-   The dialogue claims that a Megalodaunt "fed \[them\] for weeks it did" which shows that Megalodaunt flesh is _probably_ **edible** (though we don't see Megalodaunt flesh / meat as a drop in-game, the Megurger serves as enough proof).
 -   The claws of a Terrapod aren't actually as tall as a man.
 -   When telling the player that terrapod meat "isn't good on the purple ones", he is likely stating that Crimson Terrapods are more edible.

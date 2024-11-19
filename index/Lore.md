@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 121447
+revid: 121481
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
@@ -80,9 +80,9 @@ _The Lord Regent, sitting atop his throne of coral._
 ### The Second Prophet
 
 -   The second strongest of the nine [Ministry](The_Ministry.md) Prophets.[\[1\]](#cite-note-rag-1)
--   Gave [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) his hemokinetic abilities.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
+-   Gave [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and all his other apprentices Bloodrend.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   Master of [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and probably other apprentices.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
--   His only known power is blood control, which is likely much more powerful than Chaser's blood powers.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
+-   His only known power is Bloodrend, which is likely much more powerful than any of the Bloodrend shown in game.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)
 -   Seems to keep the existence/method of acquiring [Bloodrend](Bloodrend.md) a secret, making sure the only ones who can use it are his disciples, and that they can't teach it to others.
 
 ### The 5th King of Etrea
@@ -191,7 +191,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
     -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
 -   Though he is an [Adret](Adret.md), he has a never before seen facial markings for the race.
--   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.[\[1\]](#cite-note-rag-1)
+-   User of Bloodrend, granted to him by the Second Prophet.[\[1\]](#cite-note-rag-1)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
 -   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 -   Despite not using them in the fight against him, he uses a pair of [Flareblood Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
