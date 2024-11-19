@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 114528
+revid: 121476
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -76,15 +76,17 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 ## Trivia/Notes
 
--   Corrupted Crazy Slots increases the duration of the divine weapons.
+-   Some of the Divine Weapons are references to weapons in other media:
+    -   The Divine Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.
+    -   The Divine Spear resembles the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
+    -   The Divine Greatsword bear some resembles to both the _[Clarent](https://typemoon.fandom.com/wiki/Clarent)_ and the _[Arondight](https://typemoon.fandom.com/wiki/Arondight)_ from the _Fate_ series.
+    -   The Divine Greataxe seems to be derived from the weapon used by [_Lestin Serra Alma_](https://shining.fandom.com/wiki/Lestin_Serra_Alma) from [_Shining Resonance Refrain_](https://en.wikipedia.org/wiki/Shining_Resonance_Refrain).
+-   This resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
+    -   This resonance also may be inspired by "_Shardblades"_ in _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
+-   Corrupted Crazy Slots increases the duration of the Divine Weapons.
 -   Even without decent weapon proficiency (i.e the user is a Hero Blade user), Crazy Slots weapons can still be used for their powerful abilities. They also possess fairly high base stats to begin with.
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons.
 -   If your weapon has stars, their effects will also apply to your Crazy Slots weapons.
--   The Divine Longsword model highly resembles the "unsealed" version of _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_, a weapon from the _[Fate](https://typemoon.fandom.com/wiki/Fate_series)_ series.
--   The Divine Axe model highly resembles one of the weapons in [Shining Resonance](https://en.wikipedia.org/wiki/Shining_Resonance_Refrain).
--   The old Divine Spear model highly resembled the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
--   This resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
--   This resonance also may be inspired by "_Shardblades"_ in _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
 -   While Crazy Slots' roll chances are affected by your weapon stat, it is also possible that one of the two weapons for that stat may be more common depending on where the points were spent. This is just speculation, however.
 -   It is possible that "time" may be a stat in which points can be allocated when rolling Crazy Slots, as your weapon will only last a certain amount of time before disappearing on its own.
 -   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.

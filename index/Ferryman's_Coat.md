@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 115892
+revid: 121478
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits]
@@ -33,7 +33,7 @@ Combined with its high elemental resistance, this reduces most Mantras damage by
 This Outfit's Schematic can be found in:
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
-    -   A drop when defeating [The Ferryman](The_Ferryman.md) during [Autumn](Seasons.md).
+    -   A drop when defeating [The Ferryman](The_Ferryman.md) during [Autumn](Seasons.md) and [Summer](Seasons.md).
 
 ## Trivia
 
