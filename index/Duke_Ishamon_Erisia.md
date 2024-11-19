@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 121450
+revid: 121470
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -28,7 +28,7 @@ While the Duke is immune to instant guardbreaks, his posture pool is incredibly 
 
 ## Moveset
 
-Duke Rizzia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
@@ -233,7 +233,7 @@ Dodgeable:◯
 
 ## Finisher
 
-Duke Erizzia executes his opponent after knocking them:
+Duke Erisia executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -264,7 +264,7 @@ In terms of strategy to avoid his attacks as much as possible;
 Phases begin in sequence, depending on the Bosses' Max HP.
 
 -   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
--   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants to the player, and the remainder of them when there's less than 3 servants).
+-   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players).
 
 ### Rewards
 
@@ -398,9 +398,3 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
 -   Can instantly cast Aero Spear if his head is caught under something, especially the pipes found around the edges of his arena.
-
-## Strategy
-
--   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Rapid Punches to break the shield.
--   Using Warden's Blades modified with Rush Shards, Eternal Logstones, and Blue Gems would make a great modifier, but it's costly. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker if you have [Enforcer's Hammer](<Enforcer's_Hammer.md>) or [Mace](Mace.md).
--   It is important noting in phase 2 that he will block attacks and has a lot of posture to do so, so try to feint as he will usually roll backwards, getting him out of his blocking position.

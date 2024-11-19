@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 121206
+revid: 121458
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -32,6 +32,7 @@ Coldheart phrases when spawning:
 -   There she is! Drowned and all...[\[1\]](#cite-note-0-1)
 -   She's right here... Drowned and all...[\[1\]](#cite-note-0-1)
 -   Frozen solid, they said... Can't help her...[\[1\]](#cite-note-0-1)
+-   Tombs of earth... Tombs of dirt... Tombs of mud...
 
 Coldheart phrases when getting gripped:
 

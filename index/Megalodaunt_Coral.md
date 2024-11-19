@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coral
-revid: 115277
+revid: 121467
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -10,7 +10,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 | Megalodaunt Coral | |
 |---|---|
-| value | 75 |
+| value | 100 |
 | weight | None |
 | type | Monster Material |
 | bankable | Yes |

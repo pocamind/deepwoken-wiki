@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 121366
+revid: 121459
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -29,7 +29,9 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 
 ## Dialogue
 
-Each family of Talents has a prompt for it. Note that you can only get prompts for Talent families that you are eligible to get a Talent card from and you may not get all the cards from a family. **Note that Rare Talents are NOT affected by Mystics at all, even if you use Shrine of Chance.** Each prompt can be found on the **[Talents](Talents.md)** page, under their category name.
+Each family of Talents has a prompt for it. Note that you can only get prompts for Talent families that you are eligible to get a Talent card from and you may not get all the cards from a family. **Note that Rare Talents are NOT affected by Mystics at all, even if you use Shrine of Chance.**  
+  
+**If you are looking for Mystic Prompts, each prompt can be found on the [Talents](Talents.md) page, under their category name.**
 
 If you do not possess money, the Mystic will bear the dialogue;
 
