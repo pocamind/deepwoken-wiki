@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 121413
+revid: 121445
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,6 +52,10 @@ Restore your health to maximum and get up if you are unconscious. Applied by the
 
 Gain a speed boost, and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
 
+### Positive Link
+
+Gain 20% damage resistance and 5% dmg boost. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
+
 ### Rallied
 
 All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#fortitude-mantras). Signified by your character emitting white circles.
@@ -90,11 +94,11 @@ Buffs the sanity and health regeneration of people near you. Also slightly buffs
 
 ### Mark of Nemit
 
-Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. Applied if the person is near a campfire or level 5. Signified by light green particles surrounding the body. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
+Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. Applied if the person is near a campfire or level 5. Signified by red particles surrounding the body. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
 
 ### Mark of Ku
 
-Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. Applied if the person is near a campfire or level 5. Signified by light red particles surrounding the body. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
+Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. Applied if the person is near a campfire or level 5. Signified by light green particles surrounding the body. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
 
 ## Harmful Status Effects
 
@@ -106,11 +110,16 @@ This effect can be applied by being hit by a weapon that applies bleed, [Crimson
 
 ### Burning
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. It has a few sub-variants:
+This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character.
+
+It has a few sub-variants:
 
 -   Azure Burning: Has higher burn damage (from 8 DMG per second to 9 DMG per second compared to normal burning).
+
 -   Lifelord Blaze: Has a slight slow effect on top of the burn damage.
+
 -   Black Flames: Consume your ether while you are burning.
+
 -   White Flames: Those flames scale on INT, meaning they can be a lot more deadly.
 
 ### Winded
@@ -143,7 +152,7 @@ Do 10% less damage and turn M1 attacks into lightning damage. Applied through be
 
 ### Sapped
 
-This can be applied by being flourished by someone using Thunder Wisp or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cool downs are increased, you will also be shocked when Sapping ends.
+This can be applied by being flourished by someone using Thunder Wisp or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cool downs are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
 
 ### Overloaded
 
@@ -201,7 +210,11 @@ Become able to be targeted by Lord Slice mantra from Contractor, as well as bein
 
 ### Drained
 
-Takes a certain amount to all of the ether that you possess. if the user used the [Vow of Mastery Command: Leech](Vow_of_Mastery.md), the ether in your possession will become theirs. If the effect was applied from [potions](Alchemy.md), the amount of ether and how fast your drained varies.
+Takes a certain amount to all of the ether that you possess. if the user used the [Vow of Mastery Command: Leech](Vow_of_Mastery.md), the ether in your possession will become theirs. If the effect was applied from [potions](Alchemy.md), the amount of ether and how fast your drained varies. Signified by a blue ball of ether leaving your body to go to your master.
+
+### Negative Link
+
+Become slowed and deal less damage, also become a valid target for Symbiotic Sustain. Signified by a red link between you and the [Linkstrider](Oath%253A_Linkstrider.md).
 
 ### Bottom Freeze
 
@@ -251,7 +264,7 @@ Applied by being hit by the [Sear](Enchantments.md) enchant. Incoming attacks ha
 
 ### Solar Mark
 
-Applied by being flourished or hit by critical attacks from weapons with the [Solar enchant](Enchantments.md). Reduces tempo and ether gain/regeneration.
+Applied by being flourished or hit by critical attacks from weapons with the [Solar enchant](Enchantments.md). Reduces tempo and ether gain/regeneration. Indicated by a pulsating star on your character.
 
 ### Grim
 

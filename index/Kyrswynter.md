@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 118091
+revid: 121453
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Unique Critical]
@@ -65,3 +65,4 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 -   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) may have been the last ever modern Kyrsgarde to every conjure such a weapon, or it was safely passed down from his bloodline.
 -   The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release.
     -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
+-   The passive ability **Subzero Strike** is a reference to the [Fairfrozen](https://rogue-lineage.fandom.com/wiki/Fairfrozen), another ice-themed spear from the game Rogue Lineage. Besides the name, their effects were quite similar: The Fairfrozen's Subzero Strike also resulted in ragdolling the target backwards and applying ice, if landed.[\[1\]](https://rogue-lineage.fandom.com/wiki/Fairfrozen)

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 121208
+revid: 121447
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Moonseye, Lore, Deepwoken, Bosses]
@@ -817,7 +817,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 -   **Territory:** _Minityrsa_
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
--   **Attunements:** _[Shadowcast](Shadowcast.md)_
+-   **Attunements:** _[Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md)_
 -   **Alliances:** _Etrea (Neutral)_
 -   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children Of Navae, [The Summer Company](The_Summer_Company.md), The Central Authority._
 -   **Lore Sources:**

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121392
+revid: 121452
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -285,7 +285,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 > _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   The Talent is less effective with less points you have. (ex. Post Shrine of Order)
+    -   Duration scales with investment up to its requirement. With 75 Strength, Collapsed Lung will last 2 seconds. Every point in Strength above 75 will add 0.04 seconds to the duration, capping at the full 3 seconds with 100 Strength.
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -393,7 +393,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to its requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN. (However does not reduce true damage at all.)
+    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN. (However, Reinforced Armor does not reduce damage that bypasses your armor.)
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
