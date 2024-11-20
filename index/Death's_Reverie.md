@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 120421
+revid: 121494
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -23,12 +23,12 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hal
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], The Trial of the Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hollowtide Medal [7 Knowledge], The Trial of the Gourdskipper |
 | description | "Have the lambs stopped screaming?" |
 
 ## Description
 
-**Death's Reverie** is a medium twinblade Hallowtide exclusive weapon. Bought from Glaive for 100 [Hallowtide](Hallowtide.md) Joy, and can also be found in chests from [The Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
+**Death's Reverie** is a medium twinblade Hallowtide exclusive weapon. Bought from Glaive for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hollowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests from [The Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
 
 The twinblades contain several wax candles on each end.
 

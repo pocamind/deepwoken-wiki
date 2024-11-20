@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 121314
+revid: 121496
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -24,12 +24,14 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Ha
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Trial of The Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
 | description | "Born from a twisted experiment by the enigmatic lightborn smiths of the floating keep, the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction." |
 
 ## Description
 
-The **Wretched Mawblades**, or "Canary Rephika & Grimlock Narsus," is a heavy greatsword Hallowtide exclusive weapon. It can be brought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy. The weapon consists of two regular blades now covered in some sort of deformed flesh with teeth running along where the blade's edge used to be. Two eyes are present near the hilt. The pommel is also replaced with teeth, and teeth are, ironically, also present on the guard, giving the appearance of a mouth. In combination with the eyes, each blade's grip forms a screaming face to mirror the two souls trapped inside.
+The **Wretched Mawblades**, or "Canary Rephika & Grimlock Narsus," is a heavy greatsword Hallowtide exclusive weapon. Bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hollowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
+
+The weapon consists of two regular blades now covered in some sort of deformed flesh with teeth running along where the blade's edge used to be. Two eyes are present near the hilt. The pommel is also replaced with teeth, and teeth are, ironically, also present on the guard, giving the appearance of a mouth. In combination with the eyes, each blade's grip forms a screaming face to mirror the two souls trapped inside.
 
   
 Meeting the required amount of HVY, the damage is (44.7).

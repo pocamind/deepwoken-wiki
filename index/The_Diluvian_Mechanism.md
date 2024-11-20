@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 120833
+revid: 121483
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -182,7 +182,7 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
 **\*GHOSTLY REMINISICENCE MODIFER\***
 
- | 1 Corrupt Attuned Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
+ | 1 Corrupt Attuned Tideknight, Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
 | 45 (Masters on all Hands)
 
 **\*TIMEBOMB MODIFIER\***

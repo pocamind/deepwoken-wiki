@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 121352
+revid: 121497
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
@@ -31,8 +31,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which lets yo
 This Outfit's Schematic is obtainable from:
 
 -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>)
--   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Hallowtide 2024 seasonal medal
+-   [Lysander Spellhardt](Lysander_Spellhardt.md) \[35 Joy\]
+-   [Hallowtide 2024 seasonal medal](Seasonal_Medals.md) \[3 Knowledge\]
 
 ## Trivia/Notes
 

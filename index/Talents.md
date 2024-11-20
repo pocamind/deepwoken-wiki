@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121452
+revid: 121491
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -447,7 +447,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Bloodrender \[Common Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
     -   Obtained when getting Bloodrender
 
--   Crimson Fountain \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them..
+-   Crimson Fountain \[Common Talent\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them.
     -   Prerequisite: 40 Bloodrend
 
 -   Expert Bloodrender \[Common Talent\] - You can now obtain 2-star Bloodrender mantras.
