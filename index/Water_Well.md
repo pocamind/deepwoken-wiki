@@ -1,6 +1,6 @@
 ---
 title: Water Well
-revid: 119011
+revid: 121539
 source: https://deepwoken.fandom.com/wiki/Water_Well
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -22,7 +22,7 @@ Water wells can be found all over the map
 
 -   Etrean Luminant
     -   [Etris](Etris.md)
-        -   2 locations: [Etris Docks](Etris_Docks.md), [Etris Palace](Etris_Palace.md)
+        -   3 locations: [Etris Docks](Etris_Docks.md), [Etris Palace](Etris_Palace.md), Near [Nerin](Nerin.md) and the [Barber](Barber.md).
     -   [Isle of Vigils](Isle_of_Vigils.md)
         -   3-4 locations
     -   [Erisia](Erisia.md)

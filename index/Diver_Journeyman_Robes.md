@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 121523
+revid: 121532
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, The Divers, Expert Outfits]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Power.md) 10
 
 ### _Armor Stats_
 
-This outfit has 1000 durability and grants +20% Physical resistancem +10% Blunt resistance and +30% Elemental Armor.
+This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt resistance and +30% Elemental Armor.
 
 This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases [Stealth](Stealth.md) and allows you to unsheathe your weapon silently.
 

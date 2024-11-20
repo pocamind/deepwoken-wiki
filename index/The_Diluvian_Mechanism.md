@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 121483
+revid: 121543
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -104,7 +104,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 | Wave | Enemies | Tips |
 | --- | --- | --- |
-| 1 (Deepbound "Trial of One") | 2 Crabs, 3 Gigameds |  |
+| 1 (Deepbound "Trial of One") | 2 Crabs, 3 Gigameds | Use the Gigameds as healthpacks because the Crabs have comically strange hitboxes, and you're really not going to have a good time with them. |
 | 2 (Deepbound "Trial of One") | 1 Thresher |  |
 | 3 (Deepbound "Trial of One") | 1 Rock Golem |  |
 | 4 (Deepbound "Trial of One") | 1 Corrupt Lionfish |  |
@@ -138,7 +138,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 21 (Trial of One Gang) | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |  |
 | 22 (The Sea's Nightmare) | 2 Nautilodaunts, 2 Attuned(?) Enforcers |  |
 | 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Corrupt Threshers, 1 Alpha Megalodaunt |  |
-| 24 (Shiver) | 1 Corrupt Megalodaunt, 1 Crimson Megalodaunt, 1 Corrupt Alpha Megalodaunt, and 1 Mechalodaunt |  |
+| 24 (The Less Great Sharko Rumbling) | 1 Corrupt Megalodaunt, 1 Crimson Megalodaunt, 1 Corrupt Alpha Megalodaunt, and 1 Mechalodaunt |  |
 | 25 (Bounder Hell)
 
 **\*CORPSE EXPLOSION MODIFER\***
@@ -149,7 +149,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Nautilodaunt. |  |
 | 29 (Seafood Featheries) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
 | 30 (Parasyte) | 9 Corrupt Attuned Carbuncles | The Carbuncles can permanently hit stun you. Use Corrupt Payback to do high amounts of damage or vent to get distance. |
-| 31 (Infinite Stun) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. |
+| 31 (hey remember the week when humanoid anti-gank ai broke and you got stunlocked six ways to sunday? yeah this is exactly what this is) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. |
 | 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Flamewreathed Mechalodaunt, 1 Corrupt Rogue Construct | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34 (Gale Fiesta)
@@ -170,7 +170,7 @@ Based on the power of the user(s), the starting wave will differ;
 Alternatively, if you're using Corrupt Payback, you can get rid of most of the mobs at once. Having the talent Grand Feast is highly recommended here as you can still heal a small amount per kill.
 
  |
-| 40 (Heavy Giants) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
+| 40 (They Might Be Giants) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
 | 41 (Celtor's Reminiscence) | 12 Corrupt Tideknight Songseekers, 2 Corrupt Shadowmeld Deep Owls | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be attuned despite not being monsters. Furthermore, it's best to target the Flame Tideknight Songseekers first as, if you are not careful, they can fully charge 3 Flame Ballistas and do ungodly amounts of damage. |
 | 42 (Shadow Wizard Money Gang)
 
@@ -204,7 +204,7 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
  | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Diver Husks w/ Enchanted Crypt Blades | This wave is really easy if you do not rely mainly on your mantras. However, the talent Water off a Duck's Back can remove the suffocation from this wave. |
 | 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned Deep Widow, 2 Corrupt Golem Primes | Use the Golem Primes as healthpacks. If you're using Corrupt Payback, you can use it while they're using their Recessive Spin to deal high amounts of damage. |
-| 49 (Divine Humor) | 1 Lowly Bandit | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. If the bandit is using a dagger the dagger becomes a Krulian Knife. |
+| 49 (Penultimate Powercheck) | 1 Lowly Bandit | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. If the bandit is using a dagger the dagger becomes a Krulian Knife. |
 | 50 (End of the Hell)
 
 \***TIMEBOMB** **MODIFIER**\*

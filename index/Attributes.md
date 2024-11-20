@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 121529
+revid: 121535
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -158,7 +158,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 
 ### Flamecharm (FIR)
 
--   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement\_Trainers](Attunement_Trainers.md).
+-   Increases damage scaling of Flamecharm mantras.
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).

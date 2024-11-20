@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 120697
+revid: 121546
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -132,12 +132,14 @@ Where Sibex can be found
   <td colspan="12">What should I do?</td>
 </tr>
 <tr>
-  <td colspan="4">PVP Preferred<br>
+  <td colspan="3">PVP Preferred<br>
   Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out song within all of us...</td>
-  <td colspan="4">Depths Preferred<br>
+  <td colspan="3">Depths Preferred<br>
   Ah... an Inquisitive Soul... Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...</td>
-  <td colspan="4">Bosses Preferred<br>
+  <td colspan="3">Bosses Preferred<br>
   Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out the song within all of us...</td>
+  <td colspan="3">Inspired <a href="Regalia.md">Regalia</a><br>
+  "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

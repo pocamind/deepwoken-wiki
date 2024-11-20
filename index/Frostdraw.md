@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 121349
+revid: 121534
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1082,7 +1082,7 @@ _**"I would see this world freeze."**_
  | 
 
 Bottom Freeze  
-(25 Frostdraw, Ice Forge)
+(25 Frostdraw, Any ice projectile mantra)
 
  | 
 

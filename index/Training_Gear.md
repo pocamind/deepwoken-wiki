@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 120125
+revid: 121536
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -16,7 +16,7 @@ For more general information on [Attributes](Attributes.md), like what each attr
 
 ## [Attribute](Attributes.md) Training Gears
 
-Each [Attributes](Attributes.md) have a Training Gear correlated to it. Using these Training Gears will allow you to automatically increase the Attribute connected to it.
+Each [Attribute](Attributes.md) has a Training Gear correlated to it. Using these Training Gears will allow you to automatically increase the Attribute connected to it.
 
 If you get the message "I've learnt what I can from training right now, I should put it into practice..." when using a training gear it means that you need more XP for you to start investing points.
 
