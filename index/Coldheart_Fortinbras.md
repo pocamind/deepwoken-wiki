@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 121510
+revid: 121518
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 **Coldheart Fortinbras** is an enemy found in [The Depths](The_Depths.md). He can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). When Coldheart spawns, he will be in the leaning emote until you approach him.
 
-He is wearing a [Black Diver](Black_Diver.md) outfit and uses the [Frostdraw](Frostdraw.md) and [Bloodrend](Bloodrend.md) attunements while wielding the legendary frostdraw weapon: [the Hailbreaker](Hailbreaker.md), with his version capable of having [Enchants](Enchantments.md) on it.
+He is wearing a [Black Diver](Black_Diver.md) outfit and uses the [Frostdraw](Frostdraw.md) and [Bloodrend](Bloodrend.md) attunements while wielding the legendary Frostdraw weapon: the [Hailbreaker](Hailbreaker.md), with his version capable of having [Enchants](Enchantments.md) on it.
 
 His hair ID is 139887383568733.
 

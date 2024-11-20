@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 121517
+revid: 121520
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Spelltrainers]
@@ -14,8 +14,6 @@ categories: [NPCs, Spelltrainers]
 | location | FirfireDerelict Highchurch |
 
 ## Description
-
-She bad asf 😭
 
 The [Bloodrend](Bloodrend.md) Trainer who was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in Layer 2. She is found treating a wounded Diver. The outfit she is wearing is unknown and not obtainable in game (currently, anyways).
 

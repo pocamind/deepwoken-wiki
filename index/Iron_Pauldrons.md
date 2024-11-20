@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 116452
+revid: 121521
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Erisia, Fort Merit |
+| obtainment | Chests From:, Erisia, Duke Erisia, Fort Merit |
 | description | "..." |
 
 ## Description

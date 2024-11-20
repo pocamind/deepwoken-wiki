@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 121286
+revid: 121529
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -86,7 +86,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
     -   If you are using the Math Textbook, you will have to do a math problem.
 -   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
-### Willpower (WIL)
+### Willpower (WLL)
 
 -   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
@@ -98,7 +98,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 -   It takes around 35 seconds to level up your Willpower without any xp using Prayer Beads.
 
-### Charisma (CHR)
+### Charisma (CHA)
 
 -   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[1\]](#cite-note-1)
     -   One point in Charisma gives 1.5 ether.
