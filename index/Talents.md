@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121491
+revid: 121502
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3004,6 +3004,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+    -   Prerequisite: 5 Fortitude
+
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 1
 
@@ -3022,15 +3025,17 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Mutual Exclusive: Everchanging Aegis
 
 -   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 10% less damage from airborne enemies.
-    -   Obtained from [Star Duster](Star_Duster.md).
+    -   Obtained from [Star Duster](Star_Duster.md)
     -   Prerequisite for Equipment: [Power](Power.md) 10
 
 -   Surestep \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind in [Layer 2](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
     -   Obtained from [Delver Boots](Delver_Boots.md)
 
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Prerequisite: 5 Fortitude
+-   Temple Guard \[Common Talent, [Equipment](Equipment.md) Exclusive\] - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
+    -   Procs even if your critical cannot be canceled (Hyper Armor).
+    -   Obtained from [Monastery Champion Robes](Monastery_Champion_Robes.md)
+    -   Prerequisite for Equipment: Power 13
 
 -   Wormwarder \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
@@ -3133,6 +3138,8 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
+-   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
+    -   Procs even if your critical cannot be canceled (Hyper Armor).
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage. (+3 Passive Agility)
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 121445
+revid: 121515
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -116,11 +116,11 @@ It has a few sub-variants:
 
 -   Azure Burning: Has higher burn damage (from 8 DMG per second to 9 DMG per second compared to normal burning).
 
--   Lifelord Blaze: Has a slight slow effect on top of the burn damage.
+-   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path.
 
--   Black Flames: Consume your ether while you are burning.
+-   Black Flames: Consumes your ether while you are burning.
 
--   White Flames: Those flames scale on INT, meaning they can be a lot more deadly.
+-   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale based on INT)
 
 ### Winded
 
@@ -140,7 +140,7 @@ Have a crystal stacked on you. When you reach 5 crystals, they will detonate, da
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents and Mantras. Signified by being encased in a block of ice. Mash F to escape faster.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
 
 ### Shocked
 
@@ -148,7 +148,7 @@ Hitstun of the attack that apply shock is increased, meaning you will spend more
 
 ### Electrified
 
-Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) Mantra with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
+Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) Mantra combined with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
 
 ### Sapped
 
@@ -157,8 +157,6 @@ This can be applied by being flourished by someone using Thunder Wisp or by some
 ### Overloaded
 
 Inflicted by Thundercall Surge Path Mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
-
-  
 
 ### Metal Rods
 
@@ -224,9 +222,7 @@ Unable to move during the duration while active while still being able to block,
 
 This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
 
-  
-
-### Deferred
+Deferred
 
 This is applied by being hit by the [Deferred](Enchantments.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
 
@@ -281,8 +277,6 @@ Applied by standing near someone with audacity when they're executing someone. W
 ### Wither
 
 Applied by getting hit by an opponent with Emperor Flame active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Spectral Grasp's](Spectral_Grasp.md) Critical Attack, or can be applied to self with [Oath: Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_ and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and healthpacking when knocking opponents. Signified by a dark blue portion on your healthbar.
-
-  
 
 ## Deadly Status Effects
 

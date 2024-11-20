@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 121458
+revid: 121510
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -50,8 +50,8 @@ Coldheart phrases when getting gripped:
 ## Trivia
 
 -   Recommended to be fought at Power 20 due to his high health and damage.
--   "Her" and "She" may be pointing toward [Gran Sudaruska](Gran_Sudaruska.md) as she is the only of two other well-known Frostdrawer[\[1\]](#cite-note-0-1), the other being [Nell, Master of Frost](Nell,_Master_of_Frost.md).
+-   "She" and "Her" mentioned in his dialogue is likely to be a deceased loved one, like a wife or coworker. Said loved one was most likely attacked with [Frostdraw](Frostdraw.md).
 -   His bell is frozen and produces a white mist, although what the bell does is unknown.
 -   He has the same eyes as [Nell, Master of Frost](Nell,_Master_of_Frost.md) (dark sclera, blue iris).
 
-1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) [1.5](#cite-ref-0-1-5) Theorized to be Sudaruska.
+1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) Theorized to be a loved one.
