@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121502
+revid: 121576
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -393,7 +393,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to its requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN. (However, Reinforced Armor does not reduce damage that bypasses your armor.)
+    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN. (However, Reinforced Armor does not reduce damage that entirely bypasses your armor (e.g. Oath damage))
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
@@ -536,14 +536,16 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 _**"I am the one to hold the walls."**_
 
--   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 5s
+-   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 5s.
     -   Prerequisities: 65 Fortitude
--   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3
+
+-   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s.
     -   Prerequisities: 55 Fortitude
 
--   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s
+-   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s.
     -   Prerequisites: 60 Fortitude
--   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 5s
+
+-   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 5s.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
 ### Butterfly

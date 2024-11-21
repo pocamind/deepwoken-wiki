@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 121386
+revid: 121565
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2344,11 +2344,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
-  <td>75 THD, LVL 11</td>
+  <td>75 LTN, LVL 11</td>
   <td>20</td>
   <td>10%</td>
   <td>N/A</td>
-  <td>THD: 5.5</td>
+  <td>LTN: 5.5</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
@@ -2357,11 +2357,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
-  <td>75 THD, 40 MED</td>
+  <td>75 LTN, 40 MED</td>
   <td>19.5</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>THD: 6, MED: 3</td>
+  <td>LTN: 6, MED: 3</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
@@ -2370,11 +2370,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 <tr>
   <td><p><a href="https://deepwoken.fandom.com/wiki/Boltcrusher"><font>Boltcrusher</font></a></p></td>
-  <td>80 THD, 55 HVY, 20 STR</td>
+  <td>80 LTN, 55 HVY, 20 STR</td>
   <td>25</td>
   <td>20%</td>
   <td>30%</td>
-  <td>THD: 7, HVY: 4.2</td>
+  <td>LTN: 7, HVY: 4.2</td>
   <td>8</td>
   <td>8.5</td>
   <td>0.87x</td>
@@ -2521,7 +2521,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher </font></a>(<b>Bleed if one handed</b>)</td>
-  <td>75 MTL, 40 MED,</td>
+  <td>75 MTL, 40 MED</td>
   <td>18</td>
   <td>20%</td>
   <td>N/A</td>
@@ -2904,18 +2904,18 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
 
 -   You can pass down soulbound weapons for 40 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
--   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
+-   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: [Divine Greatsword](Crazy_Slots.md) (30)
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md) (100 HVY)
     -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
-    -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kystreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernarch](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Nocturne](Nocturne.md) (30%)
+    -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kyrstreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernach](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
-    -   Swing Speed: [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) (1.33x)
+    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md#light) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
     -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
 -   Both of the Rifle Basic Attacks have the same range.

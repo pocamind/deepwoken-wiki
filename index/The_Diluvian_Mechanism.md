@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 121543
+revid: 121549
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -149,7 +149,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Nautilodaunt. |  |
 | 29 (Seafood Featheries) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
 | 30 (Parasyte) | 9 Corrupt Attuned Carbuncles | The Carbuncles can permanently hit stun you. Use Corrupt Payback to do high amounts of damage or vent to get distance. |
-| 31 (hey remember the week when humanoid anti-gank ai broke and you got stunlocked six ways to sunday? yeah this is exactly what this is) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. |
+| 31 (hey remember the week when humanoid anti-gank ai broke and you got stunlocked six ways to sunday? yeah that's exactly what this is) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. |
 | 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Flamewreathed Mechalodaunt, 1 Corrupt Rogue Construct | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34 (Gale Fiesta)

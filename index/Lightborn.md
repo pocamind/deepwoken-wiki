@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 119824
+revid: 121559
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
@@ -70,12 +70,22 @@ Easier to play the game, because obviously you've played it too much.
 
 -   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race).
 -   While considered a developer race, the increase in stats is not significantly stronger than any other race.
+-   Devs have mentioned plans on this becoming an **Obtainable** race in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet).
+    -   Yet, obtaining the Lightborn race (even if it can be obtainable one day which will be unlikely) will be **difficult but possible** in terms of lore, due to the Lightborns being hybrids, meaning that creating a Lightborn is possible as long as you have contact with a celestial, being that very difficult.
+
+## Trivia
+
 -   There are 3 known halo variants for Lightborns, being:
+    
     1.  Above the head
     2.  Around the neck
     3.  Around the arms (Halos are split in two)
--   Devs have mentioned plans on this becoming an **Obtainable** race in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet).
-    -   Yet, obtaining the Lightborn race (even if it can be obtainable one day which will be unlikely) will be **difficult but possible** in terms of lore, due to the Lightborns being hybrids, meaning that creating a Lightborn is possible as long as you have contact with a celestial, being that very difficult.
+    
+    -   Currently, the position the halo(s) are in isn't able to be chosen by the player and is randomly chosen upon character creation(?).[\[1\]](#cite-note-1)
+    -   The positions of the halos have lore implications.[\[2\]](#cite-note-2)
 -   Lightborn and Capra are the first races to receive a cosmetic in the UGC Avatar Shop.
     -   It is listed under the [Deepwoken UGC group](https://www.roblox.com/groups/16769317/Deepwoken-UGC#!/about).
 -   The runes on the halo roughly translate to "Be the mysterious light the few whom were chosen"
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

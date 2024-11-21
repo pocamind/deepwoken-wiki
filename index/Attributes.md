@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 121535
+revid: 121560
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -20,12 +20,12 @@ _icon credit to Tortaa#9000_
 
 Attributes can be increased by using its respective attribute [Training Gear](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [15 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your race (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
 
--   Strength → _use the **Dumbbell**_
--   Fortitude → _take damage with the **Training Vest**/carry the **Boulder**_
--   Agility → use _the **Ankle Weights**_
--   Intelligence → _complete problems in the **Math Textbook**/use the **Encyclopedia**_
--   Willpower → _use the **Prayer Beads**_
--   Charisma → _recite the_ **How to Make Friends** _book_
+-   Strength → _use the **[Dumbbell](Training_Gear.md#attribute-training-gears)**_
+-   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**/carry the **[Boulder](Training_Gear.md#attribute-training-gears)**_
+-   Agility → use _the **[Ankle Weights](Training_Gear.md#attribute-training-gears)**_
+-   Intelligence → _complete problems in the **[Math Textbook](Training_Gear.md#attribute-training-gears)**/use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
+-   Willpower → _use the **[Prayer Beads](Training_Gear.md#attribute-training-gears)**_
+-   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book_
 
 You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
 
@@ -88,7 +88,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Willpower (WLL)
 
--   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._
+-   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._[\[1\]](#cite-note-1)
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
         -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
     -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
@@ -100,7 +100,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Charisma (CHA)
 
--   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[1\]](#cite-note-1)
+-   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[2\]](#cite-note-2)
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
@@ -112,10 +112,10 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 Weapon Attributes dictate proficiency with your given weapon, and can unlock weapon Talents based on what weapon you are using. Below is the method of training, followed by specifics provided by each weapon type.
 
--   Weapons → _use the **Weapons Manual**_
+-   Weapons → _use the **[Weapon Manual](Weapon_Manual.md)**_
 -   All of the weapons are:
     -   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
-    -   _**[Unbounded](Attributes_Unbound.md) by killing any [boss](Bosses.md).**_
+    -   _**[Unbounded](Attributes_Unbound.md) by killing any humanoid [boss](Bosses.md) while having 75 points invested into the weapon attribute.**_
 
 ### Heavy Weapons (HVY)
 
@@ -145,63 +145,63 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 Attunement Attributes dictate the potential power and intensity of your current attunement, and can unlock special elemental Talents based on what attunement you may be using. Below are the respective training methods for each current attunement in the game.
 
--   Flamecharm → _use the **Hearthgem**_
--   Galebreathe → _use the **Gale Kata**_
--   Thundercall → _use the **Self-Conducting Loop**_
--   Frostdraw → _use the **Hemafrost**_
--   Shadowcast → _use the **Pure Heart**_
--   Ironsing → _use the **Ferrofluid**_
--   Bloodrend → _use the **Tourniquet**_
+-   Flamecharm → _use the **[Hearthgem](Training_Gear.md#attunement-training-gears)**_
+-   Galebreathe → _use the **[Gale Kata](Training_Gear.md#attunement-training-gears)**_
+-   Thundercall → _use the **[Self-Conducting Loop](Training_Gear.md#attunement-training-gears)**_
+-   Frostdraw → _use the **[Hemafrost](Training_Gear.md#attunement-training-gears)**_
+-   Shadowcast → _use the **[Pure Heart](Training_Gear.md#attunement-training-gears)**_
+-   Ironsing → _use the **[Ferrofluid](Training_Gear.md#attunement-training-gears)**_
+-   Bloodrend → _use the **[Tourniquet](Training_Gear.md#attunement-training-gears)**_
 -   Additionally, you can gain EXP on attunements by doing events/random encounters (needs confirming)
 -   All of the attunements are:
-    -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) (have to deal most of the damage)**_
+    -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) while having 75 points invested into the attunement. (have to deal most of the damage)**_
 
 ### Flamecharm (FIR)
 
--   Increases damage scaling of Flamecharm mantras.
+-   Increases damage scaling of Flamecharm mantras.[\[3\]](#cite-note-3)
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
     -   Increases intensity of flames.
--   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).
+-   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Training_Gear.md#attunement-training-gears) or eating [Dying Embers](Dying_Embers.md).
 
 ### Frostdraw (ICE)
 
 -   Increases damage scaling of Frostdraw mantras.
     -   Unlocks [Frostdraw Talents](Frostdraw.md#talents).
     -   Increases slow and freeze times of abilities.
--   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using Hemafrost or eating [Frigid Prisms](Frigid_Prism.md).
+-   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using [Hemafrost](Training_Gear.md#attunement-training-gears) or eating [Frigid Prisms](Frigid_Prism.md).
 
 ### Thundercall (LTN)
 
--   Increases damage scaling of Thundercall mantras.
+-   Increases damage scaling of Thundercall mantras.[\[4\]](#cite-note-4)
     -   Unlocks [Thundercall Talents](Thundercall.md#talents).
     -   Lengthens the stun caused by attacks.
--   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using Self-Conducting Loop or eating [Spark Glands](Spark_Gland.md).
+-   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) or eating [Spark Glands](Spark_Gland.md).
 
 ### Galebreathe (WND)
 
 -   Increases damage scaling of Galebreathe mantras.
     -   Unlocks [Galebreathe Talents](Galebreathe.md#talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
--   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using Gale Kata or eating [Gale Stones](Gale_Stone.md).
+-   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using [Gale Kata](Training_Gear.md#attunement-training-gears) or eating [Gale Stones](Gale_Stone.md).
 
 ### Shadowcast (SDW)
 
 -   Increases damage scaling of [Shadowcast](Shadowcast.md) mantras and the amount of ether you steal from enemies.
     -   Unlocks [Shadowcast Talents](Shadowcast.md#talents).
     -   Increases duration of blindness afflicting abilities.
--   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using Pure Heart or eating [Umbral Obsidian](Umbral_Obsidian.md).
+-   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using [Pure Heart](Training_Gear.md#attunement-training-gears) or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
 ### Ironsing (MTL)
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing Talents](Ironsing.md#talents).
--   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using Ferrofluid.
+-   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using [Ferrofluid](Training_Gear.md#attunement-training-gears).
 
 ### Bloodrend (BLD)
 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
--   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the Tourniquet, or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
+-   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
 
 ## Tips
 
@@ -215,4 +215,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better Talents~ _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the Talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above - as well as having quicker access to those cards._
 
-1.  [↑](#cite-ref-1) Charisma is more commonly referred to by the abbreviation CHA by the community because it's simpler.
+1.  [↑](#cite-ref-1) More commonly known as "WIL".
+2.  [↑](#cite-ref-2) Also known as "CHR".
+3.  [↑](#cite-ref-3) Also known as "FLM".
+4.  [↑](#cite-ref-4) Also known as "THD".

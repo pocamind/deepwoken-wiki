@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 121224
+revid: 121573
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -83,12 +83,12 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | _Trial_ Power | Enemy(ies) |
 | --- | --- |
 | 1-4 | Nothing (you are sent up without a fight) |
-| 5-6 | Mudskipper Knight |
+| 5-6 | [Mudskipper Knight](Mudskipper_Knight.md) |
 | 7-9 | [Lesser Angel](Hollow_Angel.md) |
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
 | 14-16.66 | High chances for a Corrupted [Megalodaunt](Megalodaunt.md) |
 | 16.67+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| Drowned 20+ Times or Vow of Thorns and [deepbound](Origins.md), or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
+| Drowned 20+ Times or Vow of Thorns and [deepbound](Origins.md), or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
@@ -96,7 +96,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   This is an extremely rare occurrence.
 -   Any monster in Trials have a possibility of being corrupted.
 -   Curiously, **any** monster can be corrupted if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
--   Any monster (excluding [Mudskipper Knights](Mudskipper.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
+-   Any monster (excluding [Mudskipper Knights](Mudskipper_Knight.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.
     -   This corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players in the cathedral's elevator.
@@ -152,13 +152,13 @@ Information to keep in mind.
 ### Joining The Divers
 
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
-    -   You can confront [Akira](Akira.md) after he kills the [Ignition](The_Ignition_Union.md) [Union](The_Ignition_Union.md) goons, proposing 2 dialogue options.
+    -   You can confront [Akira](Akira.md) after he kills the [Ignition Union](The_Ignition_Union.md) goons, proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the [Divers](The_Divers.md) and unlock the origin [Deepbound](Origins.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the [Ignition](The_Ignition_Union.md) [Union](The_Ignition_Union.md) group. Success causes him to leave, although this has no result other than that.
+        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the [Ignition Union](The_Ignition_Union.md) group. Success causes him to leave, although this has no result other than that.
 
 ### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
 
-Deep southeast in the Depths, you can find a secret room located near the [Deep](Deep_Widow.md) [Widow](Deep_Widow.md). Here, there is a man named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
+Deep southeast in the Depths, you can find a secret room located near the [Deep Widow](Deep_Widow.md). Here, there is a man named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
 Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep](Deep_Owl.md) [Owls](Deep_Owl.md) and the Depths.
 
@@ -232,7 +232,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
     -   Certain guilds are known for purposefully wiping players in the depths, such as the **Anguish, Attuned, Freshie Saviors (ironic), Toilet Cloggers, Akers, Sakura, Amongst Us, Vino, and Retsu**.
         -   Do note **this information is mercurial and may quickly become outdated**. Regardless, it's advised to switch servers if you see a player from these guilds, as they are still (probably) on high alert.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked, and try guard-breaking them every once in a while, as their posture is not remarkably big.
--   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller to leave.
+-   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Ringing the bells (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Origins.md) origin.
 -   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend thats conveniently in the Depths to place down a Graceful Flame for you.
