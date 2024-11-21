@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 120821
+revid: 121589
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -200,7 +200,7 @@ _verb_
 
 _verb_
 
-1.  The action of jumping into the void in layer 1 of the depths while above 50% hp, to avoid getting wiped by a mob or player.
+1.  The action of jumping into the void in layer 1 of the depths while above 75% hp, to avoid getting wiped by a mob or player.
     1.  Ex. "Someone is attacking me, im gonna void_"_
 
 ### Whiff

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 120459
+revid: 121595
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -83,6 +83,11 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura](https://rogue-lineage.fandom.com/wiki/Shura), better known as Uber Shinobi, class.
 -   Being able to consume ores for buffs could be a reference to Allomancy from _Mistborn._
+
+### Bloodrend
+
+-   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ?si=yv3OijWFrJ8-lJHC) from _Guilty Gear -STRIVE-_
+-   **Scarlet Cannon** is a reference to [Piercing Blood](https://jujutsu-kaisen.fandom.com/wiki/Piercing_Blood) from _Jujutsu Kaisen_
 
 ### Attunementless
 
