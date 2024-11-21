@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 121595
+revid: 121613
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -87,7 +87,6 @@ This is a page dedicated to all of the easter eggs and references to other works
 ### Bloodrend
 
 -   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ?si=yv3OijWFrJ8-lJHC) from _Guilty Gear -STRIVE-_
--   **Scarlet Cannon** is a reference to [Piercing Blood](https://jujutsu-kaisen.fandom.com/wiki/Piercing_Blood) from _Jujutsu Kaisen_
 
 ### Attunementless
 
@@ -191,7 +190,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
 -   **Petra's Anchor** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
--   [The Railblade's](Railblade.md) critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
+-   The [Railblade](Railblade.md)'s critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
 -   The **[Krulian Knife](Krulian_Knife.md)** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter × Hunter._
 -   The **[Shattered Katana](Shattered_Katana.md)** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
@@ -199,7 +198,9 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
 -   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
--   The [**Imperial Staff**](https://deepwoken.fandom.com/wiki/Imperial_Staff?so=search) is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
+-   The **[Imperial Staff](Imperial_Staff.md)** is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
+-   One of the **[Wretched Mawblades](Wretched_Mawblades.md)** is named "Grimlock," a reference to [Grimlock](<https://tfwiki.net/wiki/Grimlock_(disambiguation)>) from _[Transformers](https://en.wikipedia.org/wiki/Transformers)_.
+-   The [Death's Reverie](<Death's_Reverie.md>)'s description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
 
 ## Enchantments
 

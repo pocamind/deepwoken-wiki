@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 121474
+revid: 121596
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -149,7 +149,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
-  <p>The critical can still trigger critical Talents like Bear Trap and Manipulator.<br>
+  <p>The critical can still trigger critical Talents like Bear Trap but not Manipulator.<br>
   <b>The range cap of the teleportation is 65-70 studs.</b><br>
   </p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>

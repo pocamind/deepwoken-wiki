@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 121559
+revid: 121599
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
@@ -81,7 +81,7 @@ Easier to play the game, because obviously you've played it too much.
     2.  Around the neck
     3.  Around the arms (Halos are split in two)
     
-    -   Currently, the position the halo(s) are in isn't able to be chosen by the player and is randomly chosen upon character creation(?).[\[1\]](#cite-note-1)
+    -   Currently, the position the halo(s) are in isn't able to be chosen by the player and is randomly chosen in the character creator.[\[1\]](#cite-note-1)
     -   The positions of the halos have lore implications.[\[2\]](#cite-note-2)
 -   Lightborn and Capra are the first races to receive a cosmetic in the UGC Avatar Shop.
     -   It is listed under the [Deepwoken UGC group](https://www.roblox.com/groups/16769317/Deepwoken-UGC#!/about).

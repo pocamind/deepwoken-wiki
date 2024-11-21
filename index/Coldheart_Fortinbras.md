@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 121594
+revid: 121600
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -53,6 +53,5 @@ Coldheart phrases when getting gripped:
 -   "She" and "Her" mentioned in his dialogue is likely to be a deceased loved one, like a wife or coworker. Said loved one was most likely attacked with [Frostdraw](Frostdraw.md).
 -   His bell is frozen and produces a white mist, although what the bell does is unknown.
 -   He has the same eyes as [Nell, Master of Frost](Nell,_Master_of_Frost.md) (dark sclera, blue iris).
--   cathy
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) Theorized to be a loved one.
