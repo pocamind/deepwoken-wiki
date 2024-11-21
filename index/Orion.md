@@ -1,6 +1,6 @@
 ---
 title: Orion
-revid: 121501
+revid: 121581
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCS, Quests]
@@ -14,7 +14,7 @@ Template:NPC name Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](
 
 Orion is named after a legendary demigod and hunter in Greek Mythology. He works for [The Ignition Union](The_Ignition_Union.md).
 
-Orion's quest is _**currently bugged**_ and will not let you complete it after being told to report back to him. (it actually does work in most servers just make sure its up to date.) ((COULD be tied to rep))
+Orion's quest is _**currently bugged**_ and will not let you complete it after being told to report back to him. (The quest giver is actually racist, and will not tell you that you got the origin if you are hive-kin or khan, you will still obtain the origin though.)
 
 ## Dialogue
 

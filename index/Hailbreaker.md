@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 121179
+revid: 121588
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
@@ -51,4 +51,4 @@ Pressing M2 during the windup of the critical will perform a faster attack that 
 ## Trivia
 
 -   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.
--   The (Technically second if counting release day [Pyre keeper](<Ysley's_Pyre_Keeper.md>)) First elemental weapon to not require 75 points in its respective element
+-   In lore, mass-produced to rival the [Union's](The_Ignition_Union.md) [Railblade](Railblade.md).
