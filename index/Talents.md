@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121576
+revid: 121717
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -260,6 +260,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown once flames are cleared.
+    -   Flame Within grants a mobility buff, NOT a speed boost.
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh talent has been merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
@@ -421,8 +422,9 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
     -   When activated:
-        -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin
-        -   Buff is granted for 20 seconds. Buff is granted only for 10 seconds if you don't meet Prerequisites.
+        -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
+        -   Padded Armor, Steel Scales, and Lightweight are activated. However, your M1s activate your opponent's Padded Armor and Steel Scales.
+        -   Buff is granted for 20 seconds. Buff is granted only for 10 seconds if you don't meet the stat requirement.
         -   Eyes turn red and gain a red trail for 20 seconds.
         -   Hair turns red for 20 seconds.
         -   **ONLY** affects your basic attacks, not mantras or anything else.
@@ -1839,8 +1841,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
     -   Prerequisite: [Power](Power.md) 8
     -   Does not affect Natural Armor from Exoskeleton and Chitin
+
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
-    -   When your Armor is at 0%, movement speed is increased by 25%.
+    -   When your Armor is at 0% or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
+    -   This is a mobility buff, NOT a speed boost.
+
 -   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     -   Prerequisite: [Power](Power.md) 8
 

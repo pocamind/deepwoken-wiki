@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 118320
+revid: 121692
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -53,7 +53,7 @@ The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md)
 
 ## Rooms
 
-A guild base can be increased in size through different rooms. Most provide practical uses, while others purely cosmetic.
+A guild base can be increased in size through different rooms. Most provide practical uses, while others purely cosmetic. To build an XL, you will need two adjascent empty rooms.
 
 | Preview | Name | Cost | Size | Description |
 | --- | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to c
 
 1 Room  
 
- | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. There isn't a [fishing spot](Fishing.md#fishing-spots). |
+ | A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for 35. There isn't a [fishing spot](Fishing.md#fishing-spots). The water from the Fish Pond is drinkable through a [Canteen](Canteen.md). |
 | 
 
  | 
@@ -207,7 +207,7 @@ Library
 
  | 
 
-Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [Book Training Gears](Training_Gear.md#attribute-training-gears) like [How to Make Friends](How_to_Make_Friends.md) for 25 [Notes](Notes.md) each.
+Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. You are still able to unlock the instrument's musics from your library's donated songbooks. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [Book Training Gears](Training_Gear.md#attribute-training-gears) like [How to Make Friends](How_to_Make_Friends.md) for 25 [Notes](Notes.md) each.
 
  |
 | 

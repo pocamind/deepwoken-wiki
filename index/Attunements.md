@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 121678
+revid: 121679
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -111,10 +111,6 @@ Text
 
 Text 
 
-Text
-
-Text 
-
   
 
 ### Alternative Paths
@@ -144,6 +140,14 @@ Text 
   
 
 ### Hybrid Paths
+
+Text
+
+Text 
+
+  
+
+## Non-Path Hybrid Talents
 
 Text
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 121560
+revid: 121706
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -25,15 +25,15 @@ Attributes can be increased by using its respective attribute [Training Gear](Tr
 -   Agility → use _the **[Ankle Weights](Training_Gear.md#attribute-training-gears)**_
 -   Intelligence → _complete problems in the **[Math Textbook](Training_Gear.md#attribute-training-gears)**/use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
 -   Willpower → _use the **[Prayer Beads](Training_Gear.md#attribute-training-gears)**_
--   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book_
+-   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book (requires nearby audience)_
 
 You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
 
 -   300 from **levels**.
--   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_
--   5 from **race** (excluding Lightborns).
+-   10 from **[attunement](Attunements.md)** (_[Attunement-less](Attunement-less.md) characters instead spawn in with an extra 10 investment points to distribute freely.)_
+-   5 from **[race](Aspects.md)** (excluding [Lightborns](Lightborn.md)).
 -   15 from **character creation**.
--   1 from **second Attunement** _(not required for all characters, but is set aside)._
+-   1 from **second [Attunement](Attunements.md)** _(not required for all characters, but is set aside)._
 
 [Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with race stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
@@ -82,7 +82,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
     -   One point in Intelligence gives 2 Ether.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [Talents](Talents.md) and [Mantras](Attunement-less.md#intelligence-mantras).
--   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
+-   Gain Intelligence EXP via foraging, [fishing](Fishing.md), [brewing potions](Alchemy.md), discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
     -   If you are using the Math Textbook, you will have to do a math problem.
 -   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
@@ -104,7 +104,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
-    -   one weapon that requires charisma is the [Kyrsieger](Kyrsieger.md), needing 15 charisma, and 50 heavy weapon
+    -   one weapon that requires charisma is the [Kyrsieger](Kyrsieger.md), needing 15 charisma, and 50 [heavy weapon](Weapons.md)
 -   Gain Charisma EXP by selling or purchasing items, getting good reputation with a faction, playing [Instruments](Instruments.md), using the Encyclopedia (this will train your Intelligence at the same time) and using the _How To Make Friends_ book.
 -   _**[Unbounded](Attributes_Unbound.md#charisma-unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to [Etris](Etris.md).**_
 
@@ -119,7 +119,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 ### Heavy Weapons (HVY)
 
--   Increases your character's proficiency with heavy weapons—this increases the extra damage dealt by your weapon's scaling.
+-   Increases your character's proficiency with [heavy weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks heavy weapon related [Talents](Talents.md) and a [Mantras](Attunement-less.md#heavy-weapon-mantras).
         -   Some weapon Talents are locked to certain weapon types. For example, Greataxe Talents differ from Greatsword Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
