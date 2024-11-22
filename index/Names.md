@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 120828
+revid: 121648
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1772,7 +1772,7 @@ Some players have access to customized, unique names.
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
 -   The name Minos is also a reference to Greek mythology.
--   The names Shabriri, Vyke, Maliketh, and Godfrey are references to [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/).
+-   The names Shabriri, Vyke, Maliketh, and Godfrey are references to _Elden Ring_.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.

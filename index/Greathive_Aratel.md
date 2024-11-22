@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 121200
+revid: 121642
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -96,6 +96,9 @@ Fountain in the Hidden Village
 
 -   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon, provided it's eligible. You can also purchase Enchant Grease from Laplace for knowledge, allowing the user to apply an enchant to their Equipment.
 -   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A Memory of Tides](Deepwoken_OST.md)" by Naktigonis.
+-   The room behind the wooden bookshelf.
+    
+    Using [Strong Left](Attunement-less.md) on the wooden bookshelf in the right hallway about 3 times will reveal a, now presumably unused, extra room with 3 "containers" and some broken pipes emitting some sort of gas.
 
 ### Canopy Plaza
 

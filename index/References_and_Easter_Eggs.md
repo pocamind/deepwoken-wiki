@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 121613
+revid: 121650
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -157,8 +157,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ## Talents
 
--   **Captain Etrea's** name is a reference to Captain America.
--   **Battle Tendency's** name and description is likely a reference to the second part of _Jojo's Bizarre Adventure._
+-   **Captain Etrea** is a reference to Captain America.
+-   **Battle Tendency** is likely a reference to the second part of _Jojo's Bizarre Adventure_.
 -   **Boom, Headshot** is a reference to a line in [Meet the Sniper](https://www.youtube.com/watch?v=9NZDwZbyDus) from the game _Team Fortress 2_, where [said Sniper](https://wiki.teamfortress.com/wiki/Sniper) said the iconic line, or possibly [this meme](https://www.youtube.com/watch?v=5_Xdi4T8mgI).
 -   **Fishman** and its description are possible references to two series.
     -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
@@ -172,14 +172,15 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Ice Age** Talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** Talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
--   **Pocket Sand** is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand)" move from _Rogue Lineage_, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
+-   **Pocket Sand** is a reference to the "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand)" move from _Rogue Lineage_, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
 -   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
 -   The name of the Talent, **Ultrakill**, is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
     -   However, it actually consistently spells the name incorrectly.
 -   **Underdog** may be a reference to a skill of the same name from _Fire Emblem Awakening._
 -   The name of **Dragon's Song**—and by extension, the uppercut game mechanic—is derived from the [Shoryuken](https://streetfighter.fandom.com/wiki/Shoryuken) from the _Street Fighter_ series, wherein it is colloquially referred to as the "dragon punch"; the Shoryuken is an uppercut that is typically used to counter an opponent's aerial attack.
--   **Will o' Wisp** refers to folklore [flickering light or lantern](https://en.wikipedia.org/wiki/Will-o%27-the-wisp) held by nocturnal spirits, seen mostly over bogs, swamps or marshes. Travelers lured by the light will at least become lost, but many times the will-o'-the-wisp will lead the person into mortal danger.
 -   **Action Surge** is similar in effect to the Rogue Lineage skill of the same name, albeit much less potent.
+-   **Blood and Iron** is a reference to the [Roblox game](https://roblox-blood-iron.fandom.com/wiki/) of the same name.
+-   The [Mystic](Mystic.md) quote for the Talent category **Quack Doctor** is "[My cure is most effective](https://scp-wiki.wikidot.com/scp-049)."
 
 ## Weapons
 
@@ -200,7 +201,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
 -   The **[Imperial Staff](Imperial_Staff.md)** is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
 -   One of the **[Wretched Mawblades](Wretched_Mawblades.md)** is named "Grimlock," a reference to [Grimlock](<https://tfwiki.net/wiki/Grimlock_(disambiguation)>) from _[Transformers](https://en.wikipedia.org/wiki/Transformers)_.
--   The [Death's Reverie](<Death's_Reverie.md>)'s description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
+-   The **[Death's Reverie](<Death's_Reverie.md>)'s** description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
 
 ## Enchantments
 
@@ -226,6 +227,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
 -   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
+-   The name **Aldrich** is a reference to the cannibal and possible rapist from _Dark Souls III_.
+-   The names **Shabriri**, **Vyke**, **Maliketh**, and **Godfrey** are references to _Elden Ring_.
 -   The names **Laios**, **Falin**, **Senshi**, **Izutsumi, Chilchuck** and **Marcille** are a reference to the manga _Dungeon Meshi_.
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Roland**," "**Tiphereth**," "**Xiao**", "**Zena**", "**Iori**", and "**Argalia**", are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
