@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 120120
+revid: 121740
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -854,7 +854,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   **Metal Gatling** could be a reference to [Katakuri's](https://onepiece.fandom.com/wiki/Charlotte_Katakuri) move called "Mochi Gatling" from the anime "**One Piece**".
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md).
-    -   Given the lore of Ironsing, Ironsing's Hero Blade would most probably be the most boring of them all.
+    -   Given the lore of Ironsing, Ironsing's Hero Blade would most probably be the most boring of them all. (or not)
 
 -   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray.
 -   Ironsing is called 'Element' in the game's code.

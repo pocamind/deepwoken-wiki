@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 121648
+revid: 121756
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1269,6 +1269,7 @@ Some players have access to customized, unique names.
 -   Neo
 -   Nera
 -   Nikaro
+-   Nosfa
 -   Nova
 -   Nyx
 -   Oki
@@ -1786,6 +1787,7 @@ Some players have access to customized, unique names.
 -   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.
 -   The name "Orpheus" is a reference to the "Master of Strings" of the same name from Greek Mythology, and could possibly be a reference to [Orpheus from the Persona series](https://megamitensei.fandom.com/wiki/Orpheus)
 -   The names "Mario" and "Luigi" are references to Mario and Luigi from the [Mario series](https://en.wikipedia.org/wiki/Super_Mario)
+-   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
 
 ## References
 

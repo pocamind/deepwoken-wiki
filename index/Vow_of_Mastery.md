@@ -1,9 +1,9 @@
 ---
 title: Vow of Mastery
-revid: 115949
+revid: 121759
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents, Vows]
+categories: [Talents, Vows]
 ---
 
 # Vow of Mastery
@@ -25,75 +25,124 @@ To become a master, you must ask a player:
 
 Additionally, you can also use the Vow of Mastery tool and click on "Offer a Vow of Mastery".
 
-The player must respond positively ("yes" "sure" "alright" etc.) After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation of shaking hands will play and the player will become your Subject. You can now use commands on them, by typing them into chat. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
+The player must respond positively ("yes" "sure" "alright" etc.) After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation of shaking hands will play and the player will become your Subject. You can now use commands on them, by typing them into chat or use the Vow of Mastery tool. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
 
 Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) or wiping, and can only have one master, making the decision relatively permanent.
 
-In addition to using the name of a specific Subject, commands can use the names "_all_ " or "_everyone_" to affect all Subjects. Multiple commands can be stacked in a single message, for example the command "_\[Name\]_, say I will sleep now." will both cause the Subject to sleep, and also say "I will sleep now."
+In addition to using the name of a specific Subject, commands can use the names "_all_ " or "_everyone_" to affect all Subjects, but this doesn't work for all commands, and will still be used on one subject.. Multiple commands can be stacked in a single message, for example the command "_\[Name\]_, say I will sleep now." will both cause the Subject to sleep, and also say "I will sleep now."
 
 ## Commands
 
-| Command | Requires Talent | Usage | Effect | Cooldown |
-| --- | --- | --- | --- | --- |
-| Sleep | No | "_\[Name\]_, sleep" | Essentially knocks the subject for 5 seconds, allowing them to be carried or gripped.
- | None |
-| Say | No | "_\[Name\]_, say _\[message\]_" | Forces the Subject to speak your prompt.
+| Media | Command | Requires Talent | Usage | Effect | Cooldown |
+| --- | --- | --- | --- | --- | --- |
+| 
+ | Sleep | No | "_\[Name\]_, sleep" | Essentially knocks the subject for 5 seconds, allowing them to be carried or gripped. | None |
+| 
+
+ | Say | No | "_\[Name\]_, say _\[message\]_" | Forces the Subject to speak your prompt. | None |
+| 
+
+ | Locate | No | _"Locate \[Name\]"_ | Highlight the Subject in yellow for a few seconds through walls for you to see.
+
+-   _Range limit._
 
  | None |
-| Locate | No | _"Locate \[Name\]"_ | Highlight the Subject through walls for you to see.
+| 
 
-_Range limit._
+ | Eat | No | "_\[Name\]_, eat _\[food item\]_" | Forces the Subject to eat a desired item.
 
- | None |
-| Eat | No | "_\[Name\]_, eat _\[food item\]_" | Forces the Subject to eat a desired item. | None |
-| Use | No | "_\[Name\], use \[item\]._" | Forces the Subject to use a desired item, if the item can't be used the subject will simply hold it in their hand. (you cant make Subject cast mantras.) | None |
-| Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop an item. (Does not work with equipment or weapon items.) | None |
-| Leech | No | _"Leech \[Name\]"_ | 
-
-File:Leech Talent.png
-
-Take all of your Subject's Ether and turn it into a small orb, which flies towards you to restore your Ether on contact.
-
-_Range limit but not too bad._
+-   The actual one is useless, since **use** does the same thing and more.
 
  | None |
-| Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. The subject cannot stop running. Will be a tad bit difficult to control.
+| 
+
+ | Use | No | "_\[Name\], use \[item\]._" | Forces the Subject to use a desired item, if the item can't be used the subject will simply hold it in their hand.
+
+-   Can only be used on utilities, combat [relics](Relics.md)(aka Spires), [foods](Food.md) and edible [ingredients](Ingredients.md).
+
+ | None |
+| 
+
+ | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop an item.
+
+-   Can only drop foods and ingredients.
+
+ | None |
+| 
+
+ | Leech | No | _"Leech \[Name\]"_ | Take all of your Subject's Ether and turn it into a small orb, which flies towards you to restore your Ether on contact.
+
+-   _Range limit but not too bad._
+-   The ether taken away is a numerical value, not a percentage.
+
+ | None |
+| 
+
+ | Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
+
+-   The subject cannot stop running. Will be a tad bit difficult to control.
 
  | 2 minutes |
-| Fight | No, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed.
+| 
 
-(It is presumed to increase the subject's damage by 50% but further testing may be required)
+ | Fight | No, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed.
+
+-   Damage buff and defense buff is 20%.
 
  | 3 minutes |
-| Sacrifice | No, 50 Charisma | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
+| 
 
-_Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
+ | Sacrifice | No, 50 Charisma | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
+
+-   _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)._
+-   _Can only be used on one subject at a time._
+-   The ether taken away is a numerical value, not a percentage.
+-   If Master takes all HP to zero, the subject will be knocked.
 
  | 2 minutes |
-| Return | No, 60
+| 
+
+ | Return | No, 60
 
 Charisma
 
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls.
 
-Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried. _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
+-   Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried.
+-   _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
  | 20 seconds
 
 (30 seconds if you have less than 60 Charisma)
 
  |
-| Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the subject, causing them to die instantly and deal damage + burn on anyone nearby the radius of the explosion. | ? |
-| Live | Yes, 75 Charisma, Rare | "_\[Name\]_, live" | Fully heals the subject to 100%, reviving them if they are knocked, cancelling any grip or carry.
+| 
 
-_Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
+ | Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the subject, causing them to die instantly and deal damage + burn on anyone nearby the radius of the explosion.
+
+-   Explode damage is increased by Сharisma.
+
+ | Nope |
+| 
+
+ | Live | Yes, 75 Charisma, Common | "_\[Name\]_, live" | If subject have below 40% HP, fully heals to 100%, reviving them if they are knocked, cancelling any grip or carry.
+
+-   _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
+-   _Can only be used on one subject at a time._
 
  | 10 minutes. 40 minutes on the last subject used on.
 
 (60 minutes if you have less than 75 Charisma)
 
  |
-| Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command. If you get hit during the ritual, it gets canceled. | 30 seconds. 2 minutes on the last subject used on. |
+| 
+
+ | Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has a few seconds of windup before doing the command.
+
+-   _Can only be used on one subject at a time._
+-   If Master or Subject get hit during the ritual, it gets canceled. If canceled, the subject's cooldown is set to 30 seconds.
+
+ | 30 seconds. 2 minutes on the last subject used on. |
 
 ## Trivia
 
