@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 121460
+revid: 121719
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -1097,6 +1097,8 @@ Found from:
 _+1 Posture_  
 
 +2 Rare Pips
+
+**Requires Fortitude 5**
 
  | 
 

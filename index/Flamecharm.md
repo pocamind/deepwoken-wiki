@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 121662
+revid: 121736
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -225,7 +225,7 @@ _Toss a nimble dagger._
 
 -   User throws 3 quick burning daggers.
 
--   Deal light damage.
+-   Its base damage at lvl 1 is 25 (possibly 8.5 per dagger?), we don't know its exact scaling number. (ITS BASE DAMAGE HAS BEEN IN THE UPDATE LOGS FOR 2 YEARS AND NOBODY HAD THE DECENCY TO PUT IT HERE?! **2 YEARS.**)
 
 -   Can be modified with Crystal/Perfect lens to make the daggers move faster
 
@@ -357,13 +357,17 @@ _Strike the ground, turning it to ash._
 
 -   Grabs any enemies In range of it.
 -   Inflicts burn.
--   Deals moderate damage.
+-   Deals 19 (6 + 6 + 7) damage at lvl 1, and 27 (8 + 8 + 11) at lvl 5.
+-   Each sweep deals 18 posture damage.
 -   Cannot be modified.
--   Has 0.2 Seconds of Endlag
+-   Has 0.6 seconds of windup and 0.2 Seconds of Endlag.
 -   Mantra continues if the second hit isnt parried.
     -   _Autoparry frames for the second hit **DONT** count._
     -   _Mantra also continues after the user gets knocked._
     -   Can be modified with a Reversal spark, making it so that flaming scourge sacrifices damage, however gains Incredible range (similar to enforcer pull)
+    -   The reversal spark variant deals 18 posture damage once.
+    -   The reversal spark variant has 0.65 windup, 0.05 more compared to base.
+    -   The reversal spark variant deals (approximatedly) 30% less damage than the original (regardless of lvl its always around 30% reduction of damage).
     -   (Picture TBA)
 
  |

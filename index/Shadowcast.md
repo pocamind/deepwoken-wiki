@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 121355
+revid: 121731
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -55,7 +55,8 @@ Dark Blade
 -   Adding rush shards make dark blade faster.
 -   Adding vibrant gems increase ether steal.
 -   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
--   Deals 55
+-   Deals 55 damage at max lvl
+-   It has a cooldown of 12 seconds.
 
  |
 | 
@@ -74,6 +75,7 @@ Shadow Gun
 -   Deals 35 dmg, 62 with blast spark
 
 -   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
+-   It has a cooldown of 12 seconds.
 
  |
 | 
@@ -87,6 +89,7 @@ Clutching Shadow
 
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   Deals 55 DMG total, 48 grab + 6 slam.
+-   It has a cooldown of 12 seconds.
 
  |
 | 
@@ -233,6 +236,7 @@ Shadow Vortex
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with [Glass/Magnifying Stones](Mantra_Modifiers.md) to increase the range, though it seems to display diminishing returns.
 -   Deals 40 dmg, 115 with shadow gun shot into vortex
+-   This mantra has a 25 second cooldown.
 
  |
 

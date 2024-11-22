@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 120922
+revid: 121729
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -58,6 +58,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   **Impel** - **Combat Mantra**
     -   _Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains)._
     -   Aimable with your mouse.
+    -   This mantra has a 15 second cooldown.
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._

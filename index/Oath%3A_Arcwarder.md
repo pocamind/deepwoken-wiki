@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 120506
+revid: 121722
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -92,7 +92,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 -   **Arc Beam** **★★★ - Combat Mantra**
     -   Fire plasma energy. Deals additional damage in PvE.
-        -   Deals high Oath damage.
+        -   Deals high Oath damage. Its base damage its 20, we don't know its exact scaling number. (UPDATE LOGS SAID ITS BASE DAMAGE IS 20, DON'T DELETE THIS **AGAIN** PLEASE**)**
         -   Can apply both Electrified and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
         -   Can be used in the air to shoot under yourself.

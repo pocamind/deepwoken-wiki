@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 119274
+revid: 121734
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -217,6 +217,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   User quickly charges forward with their shoulder, stopping after the duration is over/colliding with an object or entity/Parried or dodged.
     -   Deals light damage.
     -   Shoulder Bash damage and duration scales with your Fortitude attribute.
+    -   This mantra has a 15 second cooldown.
     -   Can collide with and break parts of the map.
     -   Rush shards do nothing
     -   Eternal/Aeon Logstones increase duration

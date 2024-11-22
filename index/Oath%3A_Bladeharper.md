@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 120660
+revid: 121730
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,6 +76,8 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
         -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
 -   **Float Like a Butterfly - Passive**
     -   In display of your true strength, cancel your air dash to enter a frenzy of slashes.
+    -   It deals true damage.
+    -   It has a cooldown of 5 seconds.
         -   Only accessible when True Strength is active.
 -   **Decimate - Combat Mantra**
     -   Cut through your opponent.
