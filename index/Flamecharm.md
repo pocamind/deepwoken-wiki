@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 121736
+revid: 121771
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -288,7 +288,11 @@ _A rising tornado of flames._
 
  | Fire | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals moderate-high damage. It has a base damage of 15. (And apparently has a max damage of 25?)
+-   Deals moderate damage. It has a base damage of 14.6 at lvl 1. and a base damage of 23.5 at lvl 5.
+-   This mantra deals 11 posture damage.
+-   The mantra has a cooldown of 10 seconds.
+-   It has a 0.48 sec windup.
+-   It has 0.7 seconds of endlag if missed.
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
 -   Does not send the user vertically into the air if no targets are hit.
 

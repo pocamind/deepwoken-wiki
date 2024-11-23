@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 115248
+revid: 121773
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Eastern Luminant]
@@ -32,7 +32,7 @@ categories: [NPCs, Eastern Luminant]
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="11">Curious? Are you looking to join us someday, little one? <i>*She grins, taking away her distressed expression for but a moment.*</i> It's hard to work, are you sure you'd be up for that?</td>
+  <td colspan="11">Curious? Are you looking to join us someday, little one? <i>*She grins, taking away her distressed expression for but a moment.*</i> It's hard work, are you sure you'd be up for that?</td>
 </tr>
 <tr>
   <td colspan="10">Not really, I was just curious about what's troubling you.</td>

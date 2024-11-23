@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 117706
+revid: 121772
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -78,7 +78,7 @@ Dodgeable:◯
  | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
 
   
-Parrable◯  
+Parryable◯  
 Blockable:◯  
 Dodgeable:◯
 
@@ -154,10 +154,6 @@ Interacting with an owl with the Mute regalia will make it say "The creature til
 
 The owls special attacks are affected by shadow armour.
 
-## Gallery
-
-There are **13** of images, be warned
-
 ## Trivia
 
 -   Deep Owls were originally intended to be exclusive to the [Second Layer](Second_Layer.md).[\[1\]](#cite-note-1)
@@ -167,7 +163,7 @@ There are **13** of images, be warned
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
--   Occasionally when hit by the Deep Owls overhead grab, it will bug out and be flung/teleported out of its aggression distance, this doesn't happen often and will need more testing.
+-   Occasionally when hit by the Deep Owls overhead grab, it will bug out and be flung/teleported out of its aggression distance, though this doesn't happen often.
 
 ## References
 
