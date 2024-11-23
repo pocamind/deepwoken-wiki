@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 121759
+revid: 121761
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows]
@@ -96,7 +96,7 @@ In addition to using the name of a specific Subject, commands can use the names 
 
 -   _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)._
 -   _Can only be used on one subject at a time._
--   The ether taken away is a numerical value, not a percentage.
+-   The heath taken away is a numerical value, not a percentage.
 -   If Master takes all HP to zero, the subject will be knocked.
 
  | 2 minutes |
