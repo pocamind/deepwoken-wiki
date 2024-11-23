@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 120992
+revid: 121795
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -42,6 +42,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [War Mode](War_Mode.md)
+-   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
@@ -67,6 +68,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [War Mode](War_Mode.md)
+-   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
@@ -91,6 +93,8 @@ Consumables that improve the user in some shape or form
 -   [First Layer](First_Layer.md)
 -   5 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [War Mode](War_Mode.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [Hollow Forge](Hollow_Forge.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
@@ -108,6 +112,7 @@ Consumables that improve the user in some shape or form
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
+-   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
@@ -127,6 +132,7 @@ Consumables that improve the user in some shape or form
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Depths Sea Island](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
 -   [War Mode](War_Mode.md)
+-   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
@@ -148,6 +154,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Hell Mode](Hell_Mode.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
@@ -163,12 +170,14 @@ It grants the user +50 knowledge on subsequent uses.
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   5 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
 -   [Etris: Siege](Cinders_of_Etris.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Crafting
 
  |
 | 

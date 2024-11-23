@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 121544
+revid: 121793
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -42,13 +42,13 @@ These conditions affect everybody currently in the server, not just the people w
 
 Hell Mode can be completed by fulfilling one requirement:
 
--   Have killed 100 monsters (shared across all players)
+-   Have killed 100 monsters + 10 for each additional player rang the bell (shared across all players).
 
 If the 20 minutes mark is reached before the kill requirement, the event will forcefully end, and no reward will be granted.
 
 The event will end early if the original players who activate the event all die or otherwise leave the server.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell or had participated by killing at least one monster (untested). These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside, meaning other players cannot see or interact with them. They can contain any [Relic](Relics.md) in addition to [Enchant Stones](Enchant_Stone.md). Lower tier chests that are still more valuable than your average depths chest will also spawn after a kill of some specific monsters that are not locked to a certain player.
+Upon reaching 100 or more kills, players that rung the bell or had participated by killing at least one monster (untested) will receive [Diver's Light Plate](<Diver's_Light_Plate.md>) in their inventory and a chest that will appear under them. These chests contain very high tier items, including a very large number of [Relics](Relics.md), [Enchant Stones](Enchant_Stone.md) and [Greases](Enchant_Grease.md), endgame and midgame [equipment](Equipment.md) and [weapons](Weapons.md) with guarantee 2-star quality and [Deep Gems](Mantra_Modifiers.md#deep-gems). These chests are accessible to any player and anyone can take the contents, so it is recommended to distance yourself from any players you do not trust when spawning a chest. Lower tier chests that are still more valuable than your average depths chest will also spawn after a kill of some specific monsters that are not locked to a certain player.
 
 ## Tips
 
@@ -71,7 +71,6 @@ Although Hell Mode is scary, the rewards are often worth the trouble due to both
 
 ## Trivia
 
--   Hell Mode, despite having the red aura, is very dark. This is likely due to the natural blue tint of the Depths clashing with the dark red tint of Hell Mode.
 -   Servers in Hell Mode will be identifiable in the server browser by a unique red hue.
 -   The initial screen shake and red tint of Hell Mode can be seen in the [Fragments of Self](Fragments_of_Self.md).
 -   Some servers can rarely bug and retain Hell Mode features, even after the original 20 minutes is up. **Death in this is restorable.**

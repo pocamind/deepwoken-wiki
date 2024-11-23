@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 119654
+revid: 121783
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -15,7 +15,7 @@ Chance of obtaining race: **15.2%**
 
 ## Description
 
-Canor are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. The race of Canor are also heavily favored by the Authority, though not nearly as much as the [Adret](Adret.md). Canor have three distinct facial markings to choose from.
+Canor are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, but their loyalty and dedication often results in them being high ranking members among the whole lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Canor have three distinct facial markings to choose from.
 
 ## Racial Traits
 
@@ -92,7 +92,6 @@ Canor share a strong bond with the Adret race, staying true to the relationship 
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
 -   The Default Canor hair id is 20372960.
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
--   Considered the human race by the community due to them having no animalistic features
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.

@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 121229
+revid: 121799
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -103,7 +103,7 @@ _**Stats:**_
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base and [The Furnance](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
--   The [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>) are the only legendary guns in the game, both are rifles.
+-   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md) two rifles and a one handed gun.
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.

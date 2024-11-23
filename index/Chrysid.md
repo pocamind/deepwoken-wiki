@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 118837
+revid: 121775
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -94,7 +94,7 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
 ## Notes/Trivia
 
 -   Mothwing Dust only procs against people who initiated combat with you **first**. If you instigated it then you will gain no wall hacks.
--   Mothwing Dust lasts 10 seconds _**with a cooldown of?**_
+-   Mothwing Dust lasts 10 seconds with no cooldown, but only activates when the "Ow!" response appears. This means it will activate constantly when sparring with an Ally Chrysid. No Holds Barred correctly disables this though.
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
 -   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive races having inspiration for their design(s) taken from Hollow Knight.
