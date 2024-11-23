@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 121719
+revid: 121824
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4698,6 +4698,25 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
+|  | 
+
+[Citadel Frames](Citadel_Frames.md)
+
+ | 
+
++5 Health  
+\-2 Posture  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+
+ | Browline & Round  
+Regular, Amber, & Azure |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)

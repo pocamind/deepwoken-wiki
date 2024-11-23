@@ -1,9 +1,9 @@
 ---
 title: Attunements
-revid: 121679
+revid: 121836
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
+categories: [Pages with broken file links, Character, Mantras, Mechanics]
 ---
 
 # Attunements
@@ -97,7 +97,7 @@ Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## Iconography
 
-All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [character creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, many [talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, not to mention other talents that change an attunement's appearance. There exist icons for each of these talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
+All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, many [talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, not to mention other talents that change an attunement's appearance. There exist icons for each of these talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
 
 [Text](Announcements.md)
 

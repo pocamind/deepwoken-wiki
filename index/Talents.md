@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121725
+revid: 121819
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -593,7 +593,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
-    -   The Innate Talent of [Etreans](Etrean.md) has a similar effect, but isn't applied to all buffs and debuffs.
+    -   Currently, the only things Defiance cuts in half are:
+        -   Flamecharm's burn damage
+        -   Frostdraw's chill duration
+        -   The potency of potions
 
 ### Charm Caster
 

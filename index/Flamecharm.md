@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 121771
+revid: 121827
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1336,6 +1336,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
     -   Although the Fire Palm mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
 -   Although the Flame Blind mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
 -   The Fire Gun mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
+-   The Flame Sentinel mantra is likely a reference to the "[Life Detector](https://jojowiki.com/Magician%27s_Red#Life_Detector)" technique from the Stand "Magician's Red" from JoJo's Bizarre Adventure, which can detect lifeforms manifesting as a floating flame candelabrum.
 -   The Flaming Scourge Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
 -   The Flame Ballista and Flame Reupulsion's spring spark variant are references to **Jujutsu Kiasen**.
     -   Flame Ballista is Sukuna's Fire Arrow [\[3\]](#cite-note-3), and Flame Repulsion's spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).

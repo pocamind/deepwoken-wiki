@@ -1,9 +1,9 @@
 ---
 title: Character Creation
-revid: 120553
+revid: 121840
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
+categories: [Pages with broken file links, Character, Attributes, Mechanics]
 ---
 
 # Character Creation
@@ -219,8 +219,10 @@ Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
     -   Said item has a ten minute cooldown, which is removed upon eliminating a [bounty target](Bounty_Hunting.md) or using it in the voidsea.
 -   You will spawn with the [Whaler Inititate](Whaler_Coat.md) [Outfit](Outfits.md) upon spawning in with this [Origin](Origins.md).
 -   There is a functional Chessboard in the [Voidheart](Voidheart.md), which does nothing but allow players to have games of Chess.
--   [Voidwalkers](Origins.md) can access the [Bounty Board](Bounty_Hunting.md) for the [Knives of Eylis](The_Knives_of_Eylis.md), which is usually full.
+-   [Voidwalkers](Origins.md) can access the [Bounty Board](Bounty_Hunting.md) for [The Knives of Eylis](The_Knives_of_Eylis.md), which is usually full.
 -   [Knives of Eylis](The_Knives_of_Eylis.md) will not attack you.
+
+add ignition union too pls
 
 ## Age System
 
