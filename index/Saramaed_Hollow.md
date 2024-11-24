@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 121356
+revid: 121919
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -101,6 +101,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Abyss_Wanderer's_Plate.md">Abyss Wanderer Plate</a></li>
     <li><a href="Abyss_Wanderer's_Boots.md">Abyss Wanderer Boots</a></li>
   </ul></li>
+    <li><a href="Citadel_Frames.md">Citadel Frames</a></li>
   </ul></td>
   <td>
   <ul>
@@ -141,7 +142,6 @@ Relics and enchant stones can drop from any chest at any floor.
 
 ## Trivia
 
--   Mythical items are guaranteed to drop from 1.7km and below.
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
 -   The cave paintings show that civilization has once been here long before the Union have.

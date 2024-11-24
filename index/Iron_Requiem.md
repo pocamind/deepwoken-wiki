@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 121899
+revid: 121925
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Unique Critical, Weapons with Unique Criticals, Multiple Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapon
 | type | Flintlock |
 | requirements | 40 LHT, 75 MTL |
 | damage | 21 |
-| scaling | 4 MTL, 3 LHT |
+| scaling | 3 LHT, 4 MTL |
 | range | 10 |
 | swing speed | 1.17x |
 | special effect | Custom critical attacks that apply rods, with the base critical attack replenishing 2 ammo aswell. |
@@ -22,7 +22,7 @@ categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapon
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Hollow |
+| obtainment | Saramaed Hollow, Finnegan The Lost (Very Rare) |
 | description | Reverse-engineered from stolen Summer Company weapons shipments, in recent times Ironsingers have found a lucrative profession in the creation of weaponry and equipment. Being the birthplace of the art's revival, the Ignition Union have funneled this wealth into the production of weapons imbued with active Ironsing components. |
 
 ## Description
@@ -33,7 +33,7 @@ The Iron Requiem has a [Bullet](Bullet_Casings.md) capacity of 6, meaning you ge
 
 ## Critical
 
-For the neutral critical, you fire 1 shot out of your gun at the cost of 1 bullet in your chamber. The critical attack **reloads 2 bullets** and applies 1 Rod if it lands. Unlike all other guns, Iron Requiem's neutral critical can be used with no bullets in the chamber, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession.
+For the neutral critical, you fire 1 shot out of your gun. The critical attack **reloads 1 bullet** and applies 1 Rod if it lands. Unlike all other guns, Iron Requiem's neutral critical can be used with no bullets in the chamber, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession.
 
 For the running critical, you whip around wildly and unload every bullet in the chamber into your opponent. You will continue firing until you are out of ammo, applying 1 Rod per hit. This critical cannot be used if you are using dual guns.
 

@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 121769
+revid: 121917
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, InProgressPages]
@@ -45,6 +45,7 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 -   "I´ll find it. I´ll find it. I´ll find it."
 -   ''JUST.. LEAVE ME ALONE!''
 -   ''NGAHHH! YOU WON'T TAKE HER! (''Her'' referring to a loved one or his weapon)
+-   "GET OUT OF MY HEAD.."
 
 ## Finisher
 

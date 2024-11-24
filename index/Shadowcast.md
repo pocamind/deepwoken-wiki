@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 121731
+revid: 121923
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,7 +18,7 @@ Shadowcast icon
 
 ## Description
 
-**Shadowcast** is an [Attunement](Attunements.md) that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its Mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on ether drain, obscuring vision and AoE.
+**Shadowcast** is an [Attunement](Attunements.md) that, if previously unlocked, can be started with. It is unique due to the fact that it drains ether from those that are hit by its Mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on ether drain, obscuring vision and AoE.
 
 ## Obtainment & Training
 
