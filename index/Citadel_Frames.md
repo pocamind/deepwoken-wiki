@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 121867
+revid: 121938
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,12 +21,16 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, Voidwalker Bounties |
+| obtainment | Saramaed Hollow, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, The Depth Fragment, Voidwalker Bounties |
 | description | "Designed for the scholars of the citadel, these frames are sought after and traded across all major luminant settlements, renowned for their simple yet striking style. They are not your prescription..." |
 
 ## Description
 
 **Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. they can be obtained from [Saramaed Hollow](Saramaed_Hollow.md).
+
+## Gallery
+
+-   What it looks like when the classes are completely covered in hair:
 
 ## Trivia
 

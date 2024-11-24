@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 121795
+revid: 121939
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -299,6 +299,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>
     <li><a href="War_Mode.md">War Mode</a></li>
+    <li><a href="Hell_Mode.md">Hell Mode</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -313,6 +314,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li>Exchange <a href="Knowledge.md">Knowledge</a> with <a href="Laplace.md">Laplace</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>
+    <li><a href="Hell_Mode.md">Hell Mode</a></li>
   </ul></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 121925
+revid: 121935
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Unique Critical, Weapons with Unique Criticals, Multiple Criticals]
@@ -43,8 +43,8 @@ For the running critical, you whip around wildly and unload every bullet in the 
 -   On release it had the exact same scaling as the Ignition Deepcrusher, being 4 MTL and 3 MED.
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The running critical animation might be a reference to [Billy Kid](https://zenless-zone-zero.fandom.com/wiki/Billy_Kid)'s chain attack/ultimate from _Zenless Zone Zero_.
--   Strongly bears resemblance to the stand [Emperor](https://jojowiki.com/Emperor) from JoJo's Bizarre Adventure.
 -   The Ironsing icon is engraved on both sides of the gun.
+-   The Iron Requiem model may be a reference to the [Emperor](https://jojo.fandom.com/wiki/Emperor) stand from JoJo's Bizarre Adventure - Stardust Crusaders
 
 File:Iron's requiem close up .png
 

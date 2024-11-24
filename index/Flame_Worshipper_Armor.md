@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 115852
+revid: 121929
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   This armor is a direct reference to [Astolfo](https://typemoon.fandom.com/wiki/Astolfo)'s outfit.[\[1\]](https://typemoon.fandom.com/wiki/Astolfo)
+-   This armor is a direct reference to [Pleeksty](https://deepwoken.fandom.com/wiki/Amorus_Pleeksty)'s outfit.[\[1\]](https://typemoon.fandom.com/wiki/Astolfo)

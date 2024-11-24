@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 107368
+revid: 121931
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Skills, Talents]
@@ -20,7 +20,7 @@ File:Screenshot 2022-09-12 7.26.11 PM.png
 
 Used to freeze Talents. Once a Talent is frozen, it will remain in your selection until you select it or freeze another card. Useful if there are two (or more) good Talents, but one is better than the other, so you can freeze one and pick the other, then pick it in the next draw.
 
-If you freeze one card, then use an Ace to freeze another card in the next draw, it will not consume an Ace in the subsequent hand. Also, it can (possibly) be used to bypass mutually exclusive Talent locking, i.e freezing Observation/Safety Dance and picking Risky Moves.
+If you freeze one card, then use an Ace to freeze another card in the next draw, it will not consume an Ace in the subsequent hand. It cannot, however, be used to obtain mutually exclusive talents, this will consume the ace and the frozen talent will not appear in another hand. i.e observation/safety dance with risky moves.
 
 File:Screenshot 2022-09-12 7.26.20 PM.png
 

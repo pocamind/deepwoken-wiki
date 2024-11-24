@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121819
+revid: 121936
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1385,7 +1385,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
-    -   Does not proc with flames produced by the user with Flame Within, Agitating Spark, or **[SHORT-CIRCUIT](Resonance.md).**
+    -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisite: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
@@ -3101,7 +3101,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 -   _You can craft bombs at a crafting bench._
 -   NPC is located at Songseeker outside of the mineshaft entrance.
--   They will ask you to go inside the mineshaft and kill ? Mineskippers.
+-   They will ask you to go inside the mineshaft and kill a specific [Mineskipper](https://deepwoken.fandom.com/wiki/Mudskipper#Mineskipper), then the quest will be considered finished.
 
 ### Harvester
 

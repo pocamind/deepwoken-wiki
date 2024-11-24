@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 121919
+revid: 121940
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -89,6 +89,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></li>
     <li><a href="Trident_Spear.md">Trident Spear</a></li>
     <li><a href="Crucible_Rapier.md">Crucible Rapier</a></li>
+    <li><a href="Iron_Requiem.md">Iron requiem</a></li>
   </ul></td>
   <td>
   <ul>
@@ -139,6 +140,7 @@ Relics and enchant stones can drop from any chest at any floor.
 
 -   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
 -   Try and crouch down this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
+-   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or go back up to the surface practically empty-handed.
 
 ## Trivia
 
