@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 121756
+revid: 121957
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1749,13 +1749,14 @@ Some players have access to customized, unique names.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
     -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
     -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
+-   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina._
+    -   These names, like most from Limbus Company, are derived from classic literature. Faust is from [Goethe's Faust](https://en.wikipedia.org/wiki/Goethe%27s_Faust) _(which is based on a [German folktale](https://en.wikipedia.org/wiki/Faust)),_ Ishmael and Ahab are from [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), Heathcliff and Catherine are from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) and Gregor is from [The Metamorphosis.](https://en.wikipedia.org/wiki/The_Metamorphosis)
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   The names "Luka", "Yugo" and "Faris" could be references to _[Steins; Gate](https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki)_.
 -   Various names reference the works of William Shakespeare:
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
     -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
--   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_.
 -   The name Ulysses is a reference to a novel of the same name by James Joyce.
 -   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
 -   The names Frieren, Stark, and Fern are a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
@@ -1781,7 +1782,6 @@ Some players have access to customized, unique names.
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
 -   The name Corvo is a reference to Corvo Attano, the protagonist of Dishonored.
--   The name "Heathcliff" is a reference to the protagonist with the same name from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) by Emily Brontë. (Or maybe, Limbus Company?)
 -   The name Dogbert is a reference to [a megalomaniacal dog](https://dilbert.fandom.com/wiki/Dogbert)
 -   The names Phos, Cinnabar, Rutile, Antarc, and Padparadscha are references to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
 -   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.

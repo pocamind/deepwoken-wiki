@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 115456
+revid: 121987
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -158,7 +158,7 @@ The event despawns after 30 minutes have elapsed.
 </tr>
 <tr>
   <td colspan="3">[If requirements met]</td>
-  <td colspan="3">[If requirements unmet]</td>
+  <td colspan="3">[If requirements not met]</td>
   <td colspan="6">Hi. You know. Stuff?</td>
 </tr>
 <tr>

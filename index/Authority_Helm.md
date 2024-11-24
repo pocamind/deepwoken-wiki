@@ -1,9 +1,9 @@
 ---
 title: Authority Helm
-revid: 117953
+revid: 121980
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, The Central Authority, Items]
+categories: [Equipment, Head, Helmets, Outfits and Equipment of The Central Authority, Items]
 ---
 
 # Authority Helm
@@ -32,4 +32,4 @@ Grants the [Talent](Talents.md) "Strong Hold."
 
 ## Trivia
 
--   The last part of the description "Within this dark a blazing light" is a reference to the song "Gideshu March", the Central Authority's (unofficial) marching song.
+-   The last part of the description "Within this dark a blazing light" is a verse from the song "Gideshu March", the Central Authority's (unofficial) marching song.

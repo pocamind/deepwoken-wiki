@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 121739
+revid: 122013
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -13,9 +13,9 @@ categories: [NPCs, Quests, Etrea, The Ministry]
 | name | The Lord Regent |
 | location | Etris Palace |
 
-“ A horrible scream pierced my ears followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness. ”
+“ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
 
-― Operation 'Puppet Master' Report
+― The Lord Regent
 
 ## Description
 

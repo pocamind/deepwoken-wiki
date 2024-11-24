@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 121792
+revid: 121994
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -39,5 +39,5 @@ Each trait can only be increased up to 6 points.
 
 -   Increase [Mantra](Mantras.md) **scaling** by 5% per point. (Maximum of 30% increase from **scaling)**
 -   Increase [Mantra](Mantras.md) **pen** by 3% per point. (Maximum of 18% increase from **pen**)
--   On oath and monster mantras, instead increase the damage output by 2% per point.
--   This does NOT affect the scaling on attunement weapons, only mantras.
+-   On Oath and monster mantras, instead increase the damage output by 2% per point.
+-   This does NOT affect the scaling on attunement weapons, only Mantras.

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 121929
+revid: 121946
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -30,7 +30,3 @@ This Outfit's Schematic can be found in:
 
 -   [Etris](Etris.md), behind the food shop.
 -   Beginner to mid-game Chests.
-
-## Trivia/Notes
-
--   This armor is a direct reference to [Pleeksty](https://deepwoken.fandom.com/wiki/Amorus_Pleeksty)'s outfit.[\[1\]](https://typemoon.fandom.com/wiki/Astolfo)

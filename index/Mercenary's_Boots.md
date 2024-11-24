@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 116894
+revid: 121988
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | LVL 10 |
 | weight | 1 |
 | innate stats | +2 Health +2 Rare Pips +1 Legendary Pip |
 | innate talent | Endurance Runner |

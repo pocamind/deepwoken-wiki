@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 121916
+revid: 122020
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -54,15 +54,15 @@ _Slicing blades of flame._
  | Fire | User forcefully slams down their blade coated in flames.
 
 -   Deals moderate damage.
+-   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
--   Deals high posture damage.
--   User can walk while casting, giving some sort of mobility
-    -   User is slowed while casting.
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
--   Compatible with Duration and Intensity Buffs.
+-   Compatible with Aeon/Eternal Logstones and Vibrant Gems.
+    -   (Logstone effects TBA)
+    -   Vibrant gems will cause the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
--   Insta-Guardbreaks when upgraded to level 5.
+    -   A reversal spark can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 |  | 
@@ -75,18 +75,16 @@ Flame Repulsion
 
 _An exertion of flames._
 
- | Fire | After a wind-up of 0.5 seconds, user releases a burning AoE blast.
+ | Fire | User charges up releases an explosion of flames around them.
 
--   Reduces incoming damage by 75% in addition to reflecting it back
--   Unable to move during wind-up.
--   Deals moderate damage.
+-   Deals moderate damage. If hit, reduces damage taken by 75% and reflects it back.
+-   Deals low posture damage.
 -   Knocks enemies back.
--   Pretty similar to [Shadowcast's Shadow Eruption](Shadowcast.md), but with knockback.
--   User takes reduced damage and has hyper-armor near the end of the cast.
--   Taking damage while using it reflects the damage back to the attacker.
-    -   The damage is stored in the Flame Repulsion itself.
--   Compatible with Cloud/Stratus Stones.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md), making the mantra shoot a projectile that explodes into a repulsion of flame dealing knockback.
+-   Inflicts Burn
+-   Has a 0.5 second wind-up.
+-   Grants the user brief hyper-armor near the end of the cast.
+-   Can be modified with Cloud/Stratus Stones to increase the size.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md), causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
 |  | 
@@ -103,8 +101,8 @@ _Summon a legion of flaming spearmen that lunge inwards._
 
 -   Deals moderate damage.
 -   Inflcits Burn.
--   Deals exactly 20 posture damage
--   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras).
+-   Deals 20 posture damage total.
+-   Does not share a cooldown with other "servants" mantras.
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors. Max possible amount of warriors without talent "Fan the flames" is 9 (2 Cloudstones).
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
 
@@ -124,13 +122,14 @@ _A bullet of flames shot through each hand._
 -   Deals light damage.
 -   No Cooldown.
 -   Inflicts Burn.
--   Breaks certain tiles.
-    -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
--   Fire bullets can light campfire pits.
--   Can propel the caster backward if it is cast while jumping/walking backward or in water.
+-   Interacts with the environment.
+    -   Breaks pieces of environment, including the Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+    -   Lights campfire pits.
+-   Propels the user backward if cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md), causing the bullets to split in 2 after an unknown duration.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to occasionally explode when hitting an enemy, but will greatly reduce the base damage of the mantra.
+-   Can be modified with Drift/Rush Shards to make the bullets fly faster + farther.
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md), causing the bullets to split in 2 after being fired.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
 
  |
 |  | 
@@ -145,11 +144,14 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
 
  | Fire | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
--   Inflicts light damage.
+-   Deals 19 damage at level 1, and 33 damage at level 5.
+-   Deals 6.5 posture damage.
 -   Inflicts Burn.
--   The Flamecharm counterpart to [Frostdraw's Frost Grab](Frostdraw.md).
--   Can be modified with Drift/Rush Shards or Crystal/Perfect Lens to increase the duration.
-    -   Might have changed, requires more testing.
+-   Has a 10 second cooldown.
+-   Has a 0.5 second windup.
+-   Shares a cooldown with all other grab mantras.
+-   Travels for 0.6 seconds.
+    -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 
  |
 |  | 
@@ -165,11 +167,11 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
  | N/A | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
--   Rare Flamecharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
--   Buffed by the [Concussive Flash](Talents.md) Talent, causing all blinded enemies to be dazed.
--   Can be upgraded with Aeon Logstones to make the blind last longer.
--   Great with Wayward Gem
--   Like venting, this seemingly does no damage, but can actually knock opponents.[\[1\]](#cite-note-1)
+-   Deals no damage.
+    -   Can still knock opponents who are extremely low health. [\[1\]](#cite-note-1)
+-   Will proc gems such as Wayward Gem.
+-   Can be upgraded by the [Concussive Flash](Talents.md) Talent, causing all blinded enemies to be dazed.
+-   Can be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
 |  | 
@@ -182,12 +184,13 @@ Fire Palm
 
 _A blast of flame._
 
- | Fire | User releases a burst of flame from the palm in front of them.
+ | Fire | User releases a burst of flame from their palm in a cone shape.
 
--   Cone shaped hitbox.
 -   Deals moderate damage.
+-   Deals low posture damage.
 -   Inflicts Burn.
 -   Can be upgraded with the [Wildfire](Talents.md) Talent.
+-   Can be modified with Cloud/Stratus Stones to increase size, and Vibrant Gems to destroy environment.
 
  |
 |  | 
@@ -203,12 +206,13 @@ _A pyroclastic eruption._
  | Fire | User slams weapon into the ground below that causes 2 consecutive explosions.
 
 -   Deals moderate-high damage.
+-   Deals high posture damage.
+    -   The second explosion deals an extremely high amount of posture damage.[\[2\]](#cite-note-2)
 -   The second explosion ragdolls enemies.
--   NPCs have trouble blocking the second explosion.
--   The second explosion deals an extremely high amount of posture damage.[\[2\]](#cite-note-2)
 -   Inflicts Burn.
--   Medium-Heavy endlag
+-   Low endlag.
 -   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions.
+    -   The actual hitbox of the explosion and visual size often do not match when modified.
 
  |
 |  | 
@@ -221,20 +225,15 @@ Fire Forge
 
 _Toss a nimble dagger._
 
- | Fire | 
+ | Fire | User throws 3 quick burning daggers.
 
--   User throws 3 quick burning daggers.
-
--   Its base damage at lvl 1 is 25 (possibly 8.5 per dagger?), we don't know its exact scaling number. (ITS BASE DAMAGE HAS BEEN IN THE UPDATE LOGS FOR 2 YEARS AND NOBODY HAD THE DECENCY TO PUT IT HERE?! **2 YEARS.**)
-
--   Can be modified with Crystal/Perfect lens to make the daggers move faster
-
+-   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1. (Level 5 info TBA)
+-   Deals moderate-low posture damage.
 -   Does not inflict Burn.
--   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.
-
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
-
+-   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.
+-   Can be modified with Crystal/Perfect lens to make the daggers move faster
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to make it throw 5 daggers in a straight line
 
  |
@@ -252,11 +251,11 @@ _Bear down on your foes with repeated fiery slashes._
 
  | Fire | User releases a flurry of seven slashes.
 
-\- Only slashes once when an enemy isn't hit.
-
-\- Inflicts burn.
-
-\- You can cancel while using m2.
+-   Deals high damage.
+-   Deals high posture damage.
+-   Inflicts burn.
+-   Will not continue if the first slash misses.
+-   Can be cancelled midway by feinting.
 
  |
 | 
@@ -273,6 +272,9 @@ _Conjure a turret of flames._
 
  | Fire | User creates a destructible orb that will shoot out fireballs to nearby targets.
 
+-   Deals moderate damage.
+-   Deals low posture damage.
+-   Inflicts Burn.
 -   Can be modified with a magnet spark, making the turret follow the user.
 
  |  |
@@ -288,13 +290,14 @@ _A rising tornado of flames._
 
  | Fire | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals moderate damage. It has a base damage of 14.6 at lvl 1. and a base damage of 23.5 at lvl 5.
--   This mantra deals 11 posture damage.
--   The mantra has a cooldown of 10 seconds.
--   It has a 0.48 sec windup.
--   It has 0.7 seconds of endlag if missed.
+-   Deals 14.6 damage at level 1, and 23.5 damage at level 5.
+-   Deals 11 posture damage.
+-   Inflicts Burn.
+-   10 second cooldown.
+-   Has a 0.48 second windup.
+-   Has a 0.7 second endlag if missed.
+-   Does not send the user into the air if missed.
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
--   Does not send the user vertically into the air if no targets are hit.
 
  |
 | 
@@ -309,11 +312,13 @@ Flare Volley
 
 _Conjure up to 3 fireballs to vollery at your enemies._
 
- | Fire + Blunt | User releases a small projectile fireball and sets enemy on fire if hit
+ | Fire + Blunt | User releases a small fireball projectile that flies forward in a straight path.
 
--   Deals high posture damage.
--   This mantra can pass through walls.
--   There are many bugs, such as cooldown effects that have not returned but appear to have returned.
+-   Deals low damage.
+-   Deals moderate posture damage.
+-   Inflicts Burn.
+-   Cooldown resets when landed, allowing you to cast it up to three times.
+-   Sometimes returns cooldown even when missed. Needs testing.
 
  |
 | 
@@ -328,12 +333,13 @@ Ash Slam
 
 _Strike the ground, turning it to ash._
 
- | Fire + Blunt | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates an bursting explosion each time.
+ | Fire + Blunt | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
 
--   Requires at least 20 Strength and 50 Flamecharm.
 -   Deals moderate damage.
+-   Deals low posture damage.
 -   Inflicts Burn.
--   Similar to Fire Eruption, but with more mobility and less endlag
+-   User maintains mobility during wind-up.
+-   Requires at least 20 Strength.
 
  |
 | 
@@ -344,12 +350,13 @@ _Strike the ground, turning it to ash._
 
  | _Conjure a flaming arrow and fire it at your target._ | Fire | User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
--   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage increases with each charge.
+-   Deals high damage.
+-   Deals high posture damage.
+-   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage and posture damage increases with each charge.
     -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
+-   Inflicts Burn.
 -   Has a unique effect where it ricochets when blocked.
--   Fires where cursor is aimed.
--   Inflicts burn.
--   Homes onto enemies.
+-   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with a spring spark to make the user float upwards upon shooting.
 -   (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
 
@@ -361,18 +368,19 @@ _Strike the ground, turning it to ash._
  | _Lash out with flames._ | Fire | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
 -   Grabs any enemies In range of it.
+-   Deals 19 (6 + 6 + 7) damage at level 1, and 27 (8 + 8 + 11) at level 5.
+-   Deals 18 posture damage every sweep.
 -   Inflicts burn.
--   Deals 19 (6 + 6 + 7) damage at lvl 1, and 27 (8 + 8 + 11) at lvl 5.
--   Each sweep deals 18 posture damage.
--   Cannot be modified.
--   Has 0.6 seconds of windup and 0.2 Seconds of Endlag.
--   Mantra continues if the second hit isnt parried.
-    -   _Autoparry frames for the second hit **DONT** count._
+-   18 second cooldown.
+-   Has a 0.6 second windup.
+-   Has a 0.2 second endlag.
+-   Mantra continues if the second hit isn't parried.
+    -   _Autoparry frames on the second hit will **NOT** cancel the mantra._
     -   _Mantra also continues after the user gets knocked._
-    -   Can be modified with a Reversal spark, making it so that flaming scourge sacrifices damage, however gains Incredible range (similar to enforcer pull)
+-   Can be modified with a Reversal spark, acting as a pull/grab, but dealing less damage.
+    -   The reversal spark variant deals ~30% less damage than the original.
     -   The reversal spark variant deals 18 posture damage once.
     -   The reversal spark variant has 0.65 windup, 0.05 more compared to base.
-    -   The reversal spark variant deals (approximatedly) 30% less damage than the original (regardless of lvl its always around 30% reduction of damage).
     -   (Picture TBA)
 
  |
@@ -394,11 +402,13 @@ _Leap up leaving behind a burst of flames._
 
  | Fire | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
+-   Deals moderate-low damage.
+-   Deals low posture damage.
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc _Meteor Impact,_ as long as the initial leap hits, the opponent(s) are sent upwards with you and the mantra is not modified with [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 -   Shares similar traits to the Strong Leap mantra.
--   The Mantra will not summon flames nor do damage if used in [bodies of water](https://deepwoken.fandom.com/wiki/The_Depths).
--   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
+-   The Mantra will not summon flames nor do damage if used in bodies of water.
+-   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap.
 
  |
 |  | Flame Assault
@@ -407,13 +417,12 @@ _Leap up leaving behind a burst of flames._
 
  | _Dash forward in a spiral of flames._ | Fire | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
--   Deals light damage.
--   Throws back the opponent and sets them on fire.
--   Compatible with Cast Speed and Visibility Modifiers.
--   Can be modified with Crystal/Perfect Lenses to make it go further.
--   Provides adequate mobility.
--   Moves in a straight path.
-    -   Can propel the user midair.
+-   Deals low damage.
+-   Deals low posture damage.
+-   Inflicts Burn and Ragdoll.
+-   Can be modified with Crystal/Perfect Lenses and Glass/Magnifying Stones.
+    -   Lens will cause the mantra to fly farther (at the same pace).
+    -   Stones will increase the hitbox size.
 
  |
 
@@ -437,10 +446,10 @@ _A servant of flames._
 -   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
--   Ritual casted.
-    -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step.
+-   Requires ritual casting.
+    -   Aeon and Eternal Logstones increase the duration of the mantra and how many signs are required to cast it.
 -   Flame Wisp also seems to reduce parasite growth.
--   No longer considered a support mantra as of 17/5/2024 and is now considered a wisp mantra.
+-   Considered a Wisp mantra, taking up either a Wisp, Support, or Wildcard slot.
 
  |
 |  | 
@@ -459,10 +468,12 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
--   Compatible with Duration, Intensity and Mantra Size modifiers.
--   Ritual casting.
--   Does not work in Layer 1 of the Depths unless used with the Undying Flame Talent.
--   Does not work in Layer 2 of the Depths at all.
+-   Requires ritual casting.
+-   Can be upgraded with Duration, Intensity and Mantra Size modifiers, as well as the Undying Flame talent.
+    -   Adding intensity causes the flame to passively heal nearby players. Stacks with its normal healing.
+    -   Each modifier adds signs to the ritual cast.
+    -   The Undying Flame talent allows it to be cast in Layer 1 of the Depths.
+    -   Cannot be used in Layer 2 of the Depths at all.
 
  |
 |  | 
@@ -479,13 +490,14 @@ _Undying flame._
 
  | N/A | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
--   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds if Azure Flames has been unlocked, if damage isn't substantial.
-    -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing it's buffed by 20% if used with azure flames.
+-   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
+    -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
 -   Flame stays in chest for the duration of the mantra.
--   Ritual casting.
+-   Requires ritual casting.
+-   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's sanity.
--   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
--   Freezes user in place for a brief moment on a successful cast.
+-   Can be upgraded with the Denial Repulse Talent, causing a small AOE explosion upon receiving lethal damage.
+-   Can be modified with Vibrant Gems, with an unknown effect. Increases signs for ritual cast.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 121938
+revid: 121969
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -27,10 +27,6 @@ categories: [Equipment, Face, Glasses]
 ## Description
 
 **Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. they can be obtained from [Saramaed Hollow](Saramaed_Hollow.md).
-
-## Gallery
-
--   What it looks like when the classes are completely covered in hair:
 
 ## Trivia
 

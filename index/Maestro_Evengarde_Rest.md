@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 121891
+revid: 121944
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -144,7 +144,7 @@ Blockable:◯
 Dodgeable:◯
 
  |
-| **Skibidi Slice**  
+| **Tempest Eye**  
 (★★★★★) | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.

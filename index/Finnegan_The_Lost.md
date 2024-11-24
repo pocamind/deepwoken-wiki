@@ -1,9 +1,9 @@
 ---
 title: Finnegan The Lost
-revid: 121917
+revid: 121956
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, InProgressPages]
+categories: [Enemies]
 ---
 
 # Finnegan The Lost
