@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 119690
+revid: 121902
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Eastern Luminant, Mechanics]
@@ -16,7 +16,7 @@ An image of Warchest UI during War Mode
 
 ## **Description**
 
-War Mode is an activity available in the **Eastern Luminant**, pitting players from different Guilds to fight each other for domination of luminant, with riches available to participating players and even greater riches to those who succesfully manage to impose themself on the sea.
+War Mode is an activity available in the **Eastern Luminant**, pitting players from different Guilds to fight each other for domination of the Luminant, with riches available to participating players and even greater riches to those who successfully manage to impose themself on the sea.
 
 ## Activation
 
@@ -26,33 +26,33 @@ Warbell near [The Entropy Catalyst](The_Entropy_Catalyst.md)
 
 ## Ruling of War Mode
 
-During War Mode, part of the game will be tweaked to accomodate for the event, the specific ruling are as follow:
+During War Mode, part of the game will be tweaked to accommodate for the event. The new rules are as follow:
 
--   War Mode servers are shown on the server list, in orange. They are pushed to the top of the server list if joining the game as a Power 20
--   Active combattant in the event (all power 20 players) are marked with their guild emblem
+-   War Mode servers are shown on the server list, colored orange with "\[WAR\]" next to the server name. They are pushed to the top of the server list if joining the game as a Power 20.
+-   All active combatants in the event (all Power 20 players) are marked with their guild emblem.
     -   Killing marked players will rewards a chest and accrue points to the guild and Warchest
-    -   Marked Players deal and take half damage from non Marked Players (non power 20). The opposite is also true
+    -   Marked Players deal and take half damage from non Marked Players (non Power 20). The opposite is also true.
         
         Warchest Score and Timer on Warbell
         
--   Random Events spawn checks are not done for Marked Players and static events do not respawn, meaning little to no PVE entities will appear
+-   Random Event spawn checks are not done for Marked Players and static events do not respawn, meaning little to no PVE entities will appear.
     -   [Dread Serpent](Dread_Serpent.md) and [Primadon](Primadon,_Titan_of_the_East.md) can still be summoned however
--   Guild Banners can only be taken by Marked Players
-    -   When the Warchest reach 300 points, Guild Banners will start contributing to the score of their guild and the Warchest
--   The [Dimensional Travel](Dimensional_Travel.md) and [Teleportation](Teleportation.md) Resonances have their effectiveness greatly reduced
-    -   **Dimensional Travel**'s distance multiplier is set to 1x, meaning you do not travel any faster
-    -   **Teleportation** has a 1000 studs limit and its cooldown is doubled
--   If the Warchest does not reach 300 points before the 10 minute mark, War Mode ends prematurely with no rewards granted
+-   Guild Banners can only be taken by Marked Players.
+    -   When the Warchest reach 300 points, Guild Banners will start contributing to the score of their guild and the Warchest.
+-   The [Dimensional Travel](Dimensional_Travel.md) and [Teleportation](Teleportation.md) Resonances have their effectiveness greatly reduced.
+    -   **Dimensional Travel**'s distance multiplier is set to 1x, meaning you do not travel any faster.
+    -   **Teleportation** has a 1000 studs limit and its cooldown is doubled.
+-   If the Warchest does not reach 300 points before the 10 minute mark, War Mode ends prematurely with no rewards granted.
 
 ## Scoring and the Warchest
 
-By killing marked players and keeping hold of Guild Banners, players accumulate points for their guild and toward the Warchest.
+By killing marked players and keeping hold of Guild Banners, players accumulate points for their guild, working towards the Warchest.
 
-Marked Player kills are worth 100 points while Guild Banners periodically award 10 points each. Note that Guild Banners will only begin to award points once the Warchest reaches 300 points.
+Marked Player kills are worth 100 points while Guild Banners periodically generate 10 points each. Note that Guild Banners will only begin to generate points once the Warchest reaches 300 points.
 
-It is worth nothing that flooding is decentivized, as you incur a point gain penalty if there are too many guild members in the server.
+It is worth nothing that flooding the server has a downside, as you incur a point gain penalty if there are too many guild members in the server.
 
-The Warchest is a collective point pool and emcompass the total score generated during War Mode. Once War Mode ends, the guild with the highest score wins. The Warchest score will dictate the value/amount of rewards to the winning guild, which is then shared with every living members with a chest spawning for each one.
+The Warchest is a collective point pool and encompass the total score generated during War Mode. Once War Mode ends, the guild with the highest score wins. The Warchest score will dictate the value/amount of rewards to the winning guild, which is then shared with every living members with a chest spawning for each one.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 121786
+revid: 121859
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2531,6 +2531,19 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1.05x</td>
   <td>N/A</td>
   <td>40.4(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Iron_Requiem"><font>Iron Requiem</font></a></td>
+  <td>75 MTL, 40 LHT</td>
+  <td>21</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>MTL: 4 LHT: 3</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>N/A</td>
+  <td>som1 put it here</td>
 </tr>
 </tbody>
 </table>

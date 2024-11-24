@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 120363
+revid: 121877
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]
@@ -23,7 +23,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Directly dropped by the Dread Serpent, Chili |
+| obtainment | Directly dropped by the Dread Serpent, Merchant Ships |
 | description | The anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey. |
 
 ## Description

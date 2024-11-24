@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 120523
+revid: 121891
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -144,7 +144,7 @@ Blockable:◯
 Dodgeable:◯
 
  |
-| **Tempest Eye**  
+| **Skibidi Slice**  
 (★★★★★) | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
@@ -284,7 +284,7 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
     <li><b>Legendary Torso</b>: <a href="Monastery_Beads.md"><font>Monastery Beads</font></a>.</li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Wheel_Pendant.md">Old World Sun Pendant</a>, <a href="Pathfinder_Lantern.md">Pathfinder Lantern</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants), <a href="Blindfold.md">Blindfold</a> (Base Only?), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Demon_Mask.md">Demon Mask</a>, Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>.</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants), <a href="Blindfold.md">Blindfold</a> (Base Only?), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Demon_Mask.md">Demon Mask</a>, Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>.</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Emerald_Tusk_Earrings.md">Emerald Tusk Earrings</a>, <a href="Master_Thief_Earrings.md">Master Thief Earrings</a>, <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Pendant_Earrings.md">Pendant Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>, <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>, <a href="Ruby_Pendant_Earrings.md">Ruby Pendant Earrings</a>. Essentially all Earrings.</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
   <ol>

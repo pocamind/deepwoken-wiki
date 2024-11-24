@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 121824
+revid: 121868
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4705,7 +4705,7 @@ Found from:
  | 
 
 +5 Health  
-\-2 Posture  
+\-1 Posture  
 
 +1 Rare Pip
 
@@ -4714,6 +4714,11 @@ Found from:
 Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Voidwalker Bounties](Origins.md#voidwalker)
 
  | Browline & Round  
 Regular, Amber, & Azure |
@@ -4850,6 +4855,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Voidwalker Bounties](Origins.md#voidwalker)
 
  | N/A |
 |  | 

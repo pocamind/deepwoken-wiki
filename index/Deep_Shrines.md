@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 120652
+revid: 121901
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -103,7 +103,8 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
     -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
-        
+-   This shrine does not count for the "Bargained with Deep Shrines" echo.
+    
 
 **Shrine of Chance:**
 

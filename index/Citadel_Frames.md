@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 121850
+revid: 121867
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -15,13 +15,13 @@ categories: [Equipment, Face, Glasses]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +5 Health, -2 Posture, +1 Rare Pip |
+| innate stats | +5 Health, -1 Posture, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Erisia |
+| obtainment | Saramaed Hollow, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, Voidwalker Bounties |
 | description | "Designed for the scholars of the citadel, these frames are sought after and traded across all major luminant settlements, renowned for their simple yet striking style. They are not your prescription..." |
 
 ## Description
