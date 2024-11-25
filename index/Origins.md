@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 121094
+revid: 122064
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -74,7 +74,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** Increased EXP Gain in [The Depths](The_Depths.md), increased further below Power 15.
 -   **\[CON\]** Reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
--   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).
+-   **\[PRO/CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquarian, a working fire place, etc.).
 -   **\[CON\]** **You cannot do Trial of One.** Although spawning at the [Diluvian Mechanism](The_Diluvian_Mechanism.md) might serve as a good alternative, it is much more difficult.

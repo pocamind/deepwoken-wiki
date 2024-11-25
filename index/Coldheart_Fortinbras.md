@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 121971
+revid: 122065
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -45,9 +45,9 @@ Fortinbras' arsenal consists of [Frostdraw](Frostdraw.md) and [Bloodrend](Bloodr
 
 ## Trivia
 
--   Despite being a Diver, Fortinbras has Bloodrend, which he logically should not have unless he was a member of the Ministry. This can be assumed to not be lore significant in any way and just be a byproduct of dev laziness as newer developers brought in from low quality anime fighting games eschew the game's original vision in favor of catering to the insufferable PvP playerbase who do nothing but play the [same gamemode](Chime_of_Conflict.md) 12 hours a day all week and then complain when they aren't having fun.
+-   Despite being a Diver, Fortinbras has Bloodrend, which he logically should not have unless he was a member of the Ministry. This can be assumed to not be lore significant in any way.
 -   The person Fortinbras mentions in his was likely attacked with [Frostdraw](Frostdraw.md) as he mentions her having been "frozen solid."
-    -   He mentions "crawling, festering, foul things" which may imply she was attacked by some sort of swarm of small, insectoid creatures. Alternatively, he may be referring to the [Ignition Union](The_Ignition_Union.md), or the similarly foul denizens of the Chime of Conflict.
+    -   He mentions "crawling, festering, foul things" which may imply she was attacked by some sort of swarm of small, insectoid creatures. Alternatively, he may be referring to the [Ignition Union](The_Ignition_Union.md).
 -   Recommended to be fought at Power 20 due to his high health and damage.
 -   His bell is frozen and produces a white mist, although what the bell does is unknown.
 -   He has the same eyes as [Nell, Master of Frost](Nell,_Master_of_Frost.md), with dark sclera and blue irises.

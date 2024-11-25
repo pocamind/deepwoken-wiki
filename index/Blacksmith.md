@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 118181
+revid: 122053
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -34,7 +34,7 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 
 ### Craft event items with knowledge
 
--   Craft items with knowledge along you have brought Hallowtide medal 22 and 23 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. Craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
+-   Craft items with knowledge along you have brought Hallowtide medal 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. Craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
     -   Craft armor and weapons and even enchants and mantras.
 
 ## Trivia

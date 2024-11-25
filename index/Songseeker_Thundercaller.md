@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 122049
+revid: 122051
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -44,7 +44,7 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 -   Resolve Crusher - A Songseeker Thundercaller's lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to the Songseeker Thundercaller.
 -   Jolting Current - A Songseeker Thundercaller's lightning attacks in water strike others near them with lightning.
 -   Static Link - Whenever A Songseeker Thundercaller flourishes or uppercuts an enemy, they create a static link between them and their enemy. Songseeker Thundercaller's lightning stuns enemies for 1.5x as long.
--   Static Ace - Using stream core with an active tether link targets your closest active link.
+-   Static Ace - A Songseeker Thundercaller's Lightning Stream with an active tether links the targets to the closest active link.
 -   Static Allure - Having two active tethers will cause the previous tethered enemy to get magnetized to the Songseeker Thundercaller's newest tethered enemy, also increases the duration of tethers by 15 seconds.
 -   Discharge - Every 5th successful attack of a Songseeker Thundercaller, they will discharge static dealing lightning damage to those nearby.
 -   Stratoshock - The lightning of a Songseeker Thundercaller deal an additional +5% damage on the rain.

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 121957
+revid: 122062
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1788,6 +1788,7 @@ Some players have access to customized, unique names.
 -   The name "Orpheus" is a reference to the "Master of Strings" of the same name from Greek Mythology, and could possibly be a reference to [Orpheus from the Persona series](https://megamitensei.fandom.com/wiki/Orpheus)
 -   The names "Mario" and "Luigi" are references to Mario and Luigi from the [Mario series](https://en.wikipedia.org/wiki/Super_Mario)
 -   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
+-   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
 
 ## References
 

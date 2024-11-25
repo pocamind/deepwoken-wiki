@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 121924
+revid: 122057
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -41,4 +41,4 @@ Heartstars can drop from enemies that use the [Bloodrend](Bloodrend.md) attuneme
 -   Can be consumed so be careful when holding it.
 -   Eating Heartstars if you have [Bloodrend](Bloodrend.md) will give EXP for [Bloodrend](Bloodrend.md), thus training it.
 -   Holding it emits a pulsing red glow and blood particles.
--   You can lighthook with Heartsar in inventory
+-   You can lighthook with Hearstar in inventory.

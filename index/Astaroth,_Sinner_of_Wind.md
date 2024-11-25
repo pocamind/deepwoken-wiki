@@ -1,9 +1,9 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 117877
+revid: 122061
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Pages with broken file links, Enemies]
 ---
 
 # Astaroth, Sinner of Wind
@@ -27,6 +27,10 @@ Astaroth, Sinner of Wind, is a powerful Starkindred apostate located in [Songsee
 | Ascension | Rises into the air, before swooping in downwards. This applies hard knockdown on hit. | ✗ | ✗ | (★★☆) |
 | Sinister Halo | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range. | ◯ | ◯ | (★★☆) |
 | Celestial Assault | Delivers an upward slash that makes both parties airborne,before delivering another sideway slash that sends the target away. | ◯ | ◯ | (★★☆) |
+
+File:Astaroth location from above.png
+
+Astaroth spawn location from above
 
 ## Trivia
 
