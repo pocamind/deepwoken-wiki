@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 121549
+revid: 122035
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -10,31 +10,33 @@ notices:
 
 # The Diluvian Mechanism
 
-LocationL THE DILUVIAN MECHANISM LocationR
+LocationL THE MECHANISM. LocationR
 
-An inscrutable mechanism looms in the centre of the hall. Many hearts have been consumed to spur its accursed gears into motion.
+TERRITORY OF THE MECHANISM
+
+THE MECHANISM
 
   
 
 The Diluvian Mechanism standing ominously in the center of the hall, awaiting for the brave ones.
 
-**The Diluvian Mechanism** is a dungeon in Deepwoken. It is a sub-location of [The Depths](The_Depths.md) found near to [Celtor Wastes](Celtor_Wastes.md).
+**THE MECHANISM** is a dungeon in Deepwoken. It is a sub-location of [The Depths](The_Depths.md) found near to [Celtor Wastes](Celtor_Wastes.md).
 
 ## Description
 
-You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. All humanoid enemies you seem to know have been mystically created from the mechanism itself, in the form of their tideknight variants. You'll be facing Angels, Divers, Songseekers and Attunement trainers in their utmost maximum, possessing powers you never have seen. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
+You enter within **THE MECHANISM** by conversing with the **[THE MECHANISM](<Diluvian_Mechanism_(NPC).md>)** within [Marauder's Entrance](<Marauder's_Entrance.md>). Within **THE MECHANISM**, you face trials of insufferable amounts of difficult entities. All humanoid enemies you seem to know have been mystically created from the mechanism itself, in the form of their tideknight variants. You'll be facing Angels, Divers, Songseekers and Attunement trainers in their utmost maximum, possessing powers you never have seen. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
 
 You can take on this hellish challenge on your own, or share the burden with up to 4 of your companions that are willing to come along with you.
 
 ### Mechanics
 
-Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge every 5 waves starting from 25-30 you get 1 knowledge, 35-45 you get 2 knowledge and on wave 50 you'll get 10 knowledge, every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
+Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge every 5 waves starting from 25-30 you get 1 knowledge, 35-45 you get 2 knowledge and on wave 50 you'll get 10 knowledge, every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with **THE MECHANISM**.
 
 Taking too long in a wave will automatically add the Timebomb modifier to the current wave. It is currently unknown how exactly this functions, but it appears that the more players you have, the faster timebombs will begin to appear.
 
 ### Trial of the Meek
 
-When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
+When attempting the option to start the **THE MECHANISM** below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
 
 ### Shrine of Solitude
 
@@ -42,7 +44,7 @@ A Shrine of Solitude, identical to the one found in the Trial of One lies agains
 
 ## Modifiers & Environmental Hazards
 
-Within the Diluvian Mechanism, certain waves have a certain modifier or environmental hazard that adds an additional layer of difficulty. Modifiers show a certain text under the wave number, related to a specific debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
+Within **THE MECHANISM**, certain waves have a certain modifier or environmental hazard that adds an additional layer of difficulty. Modifiers show a certain text under the wave number, related to a specific debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
 
 ### Thin Air
 
@@ -62,22 +64,22 @@ If during the waves, the text "Your past comes to haunt you..." appears, then en
 
 ## Recommendations and Advice
 
-The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right Talents and equipment to make haste of this trial.
+**THE MECHANISM** is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right Talents and equipment to make haste of this trial.
 
 While not required, things listed below can prove to make your experience much easier.
 
 -   _**Thresher Scales:**_ Regaining armor is nearly impossible without this Talent, unless you're Ironsing, have Bloodiron Spirit/Ring, or possess any Armor Repair Kits. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
--   _**Resonance:**_ Having a good bell is the key to survival in the Diluvian Mechanism as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
--   _**Warrior's Respite:**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
+-   _**Resonance:**_ Having a good bell is the key to survival in **THE MECHANISM** as, if you have a bell that isn't good for **THE MECHANISM** (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for **THE MECHANISM** are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
+-   _**Warrior's Respite:**_ Healing isn't always a guarantee in **THE MECHANISM**, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Brick Wall:**_ You will find this talent very helpful, as so you won't get tossed around that much.
 -   _**Graceful Flame:**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame (with the Undying Flame talent), you can regenerate the armor and health of yourself and your allies.
--   _**Force Your Way:**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
+-   _**Force Your Way:**_ In **THE MECHANISM**, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
 -   _**Tidekeeper:**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
 -   _**Ardour Scream:**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
 -   _**Evanspear Hand Axe:**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
--   _**Vampirism:**_ This is easily one of the best enchantments for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
+-   _**Vampirism:**_ This is easily one of the best enchantments for **THE MECHANISM**, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
 -   **_Astral:_** The Astral enchant gives the player's weapon 15% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
--   _**Enforcer's Axe/Hammer:**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
+-   _**Enforcer's Axe/Hammer:**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for **THE MECHANISM**, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 -   _**Teammates:**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
 
 ## Loot
@@ -213,11 +215,11 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
 ## Trivia
 
--   Internally, The Diluvian Mechanism dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
--   The Mute [Regalia](Regalia.md) does technically function in the Diluvian Mechanism; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
--   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
--   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena. Note that there is a slight delay before all the mobs in the arena dies, so in that slight delay there is a chance that you may wipe.
--   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
--   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
+-   Internally, **THE MECHANISM** dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
+-   The Mute [Regalia](Regalia.md) does technically function in **THE MECHANISM**; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
+-   The word "**[THE MECHANISM](https://www.dictionary.com/browse/diluvian)**" comes from the Latin word "**THE MECHANISM**" which means "**THE MECHANISM**". This could be a reference to how the **THE MECHANISM** is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
+-   As the mechanism is in [The Depths](First_Layer.md), dying in the **THE MECHANISM** will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena. Note that there is a slight delay before all the mobs in the arena dies, so in that slight delay there is a chance that you may wipe.
+-   Murmur Tacet used to work in the **THE MECHANISM**, but it was quickly made unusable after someone completed it solo using it.
+-   The **THE MECHANISM** is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
 -   The bandit at wave 49 serves as a health pack for players who are low or to rest and heal with a Graceful Flame.
--   As Deepbound, you can choose to start at the Diluvian Mechanism.
+-   As Deepbound, you can choose to start at the **THE MECHANISM**.

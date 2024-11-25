@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 97562
+revid: 122047
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -34,19 +34,19 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 ### Boons:
 
 -   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
--   Emergency Extinguisher - The Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
+-   Emergency Extinguisher - Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
 
 ### Talents:
 
--   Everchanging Aegis - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
--   Perfect Flash - Having full health causes your mantras to do 25% extra damage.
--   Fragile Freeze - Your ice Mantras will freeze opponents upon blockbreaking them.
--   Cool Head - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire
--   Rude Awakening - When hit in Cryostasis inflict frost damage to the enemy who hit you.
--   Preceding Chill - Enemies hit during the last moments of your ice beam are frozen.
--   Glacial Ice - Your frost is now considerably more intense.
--   Orbital Ice - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage.
--   Cryostasis - When block broken, fragile freeze yourself, negating the damage of the next attack.
+-   Everchanging Aegis - A Songseeker Frostdrawer take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different elements.
+-   Perfect Flash - Having full health causes a Songseeker Frostdrawer's mantras to do 25% extra damage.
+-   Fragile Freeze - A Songseeker Frostdrawer's ice mantras will freeze opponents upon blockbreaking them.
+-   Cool Head - If set on fire while on ice, the Songseeker Frostdrawer will put it out and enter a state of chill. During this state, they cannot be lit on fire.
+-   Rude Awakening - When a Songseeker Frostdrawer is hit in Cryostasis, they inflict frost damage to the enemy who hit them.
+-   Preceding Chill - Enemies hit during the last moments of a Songseeker Frostdrawer's 'Ice Beam' are frozen.
+-   Glacial Ice - A Songseeker Frostdrawer's frost is now considerably more intense. (Does nothing).
+-   Orbital Ice - Whenever a Songseeker Frostdrawer lands a parry while standing on ice, they automatically form a gravitational ring of ice that absorbs 15% of the physical damage they take. The ring breaks after sustaining a certain amount of damage.
+-   Cryostasis - When block broken, the Songseeker Frostdrawer freezes themselves, negating the damage of the next attack.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 120110
+revid: 122044
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, Ignition Union Enemies, The Ignition Union]
@@ -18,7 +18,7 @@ In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ore
 
 ## Moveset
 
-Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Ironsing](Ironsing.md) attunement
+Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Ironsing](Ironsing.md) attunement.
 
 <table><caption></caption>
 <tbody>
@@ -31,105 +31,105 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tr>
 <tr>
   <td>Assault</td>
-  <td></td>
+  <td>Adar firmly swings their weapon at the opponent before finishing up the combo by kicking them.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Critical</td>
-  <td></td>
+  <td>Adar enters a stance before rushing forward and performing a quick upward strike.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Metal Eruption</td>
-  <td></td>
+  <td>Adar stomps the ground, causing a flurry of metal spikes to erupt in front of him.</td>
   <td><font>◯</font></td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Caltrops</td>
-  <td></td>
+  <td>Adar throws out 6 caltrops upon use, which stay on the ground for a while and damage anyone who steps on them.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Firing Line</td>
-  <td></td>
+  <td>Adar conjures up to 5 rifles above him that begin to fire 3 salvos at any target.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Oxidizing Rush</td>
-  <td></td>
+  <td>Adar conjures a vortex of blades before rushing forward.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★★)</td>
 </tr>
 <tr>
   <td>Metal Armament</td>
-  <td></td>
+  <td>Adar coats himself in iron-bits. While active, each M1 will summon a greatsword that swings alongside Adar every 3 seconds.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★★)</td>
 </tr>
 <tr>
   <td>Metal Gatling</td>
-  <td></td>
+  <td>Adar causes a gesture with his right hand, causing a barrage of spikey metal projectiles to impale enemies nearby.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Iron Slam</td>
-  <td></td>
+  <td>Adar forms a large spikey iron rod before slamming it down forwards.</td>
   <td><font>◯</font></td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Iron Hug</td>
-  <td></td>
+  <td>Adar performs a short windup before tightly hugging the opponent, crushing their bones before sending them away.</td>
   <td><font>◯</font></td>
   <td><font>✗</font></td>
   <td>(★★★)</td>
 </tr>
 <tr>
   <td>Rocket Lance</td>
-  <td></td>
+  <td>After a small wind-up, Adar conjures an iron claw on his left arm before thrusting forward, pushing back any targets on his way.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Metal Ball</td>
-  <td></td>
+  <td>Adar rushes forward while encased in a metal ball, knocking down any targets in the way.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Needle Barrage</td>
-  <td></td>
+  <td>Adar jumps in the air before throwing out 3 projectiles towards where he aims at.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Onslaught</td>
-  <td></td>
+  <td>Adar does an initial swing with a second long wind-up, then throws the enemy into the air and kicks them away.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Mecha Gatling</td>
-  <td></td>
+  <td>Adar pulls out a gatling gun, mowing down enemies on his way, similar to a Mechalodaunt's Bullet Fury.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
@@ -253,25 +253,24 @@ _(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. M
 
 ### Talents
 
--   Perfect Flash
--   Impervious Slumber
--   Gilded Path: Scrapsinger
--   Refine and Reuse
--   Artisan's Blade
--   Songs Unforged
--   Masterwork
--   Reshape and Remold
--   Exposed Durability
--   An Ironsinger's Instinct
--   Phantom Edge
--   Heavy Shoulders
--   Ironclad Punishment
--   Thornmail
--   Metal Shackles
--   Piercing Metal
--   Polished Armor
--   Laced Traps
--   Metal Absorption
+-   Impervious Slumber - If Adar gets hit while knocked, his knocked timer isn't reset. Perfect Flash - If Adar has full health, his mantras do 25% more damage.
+-   Gilded Path: Scrapsinger - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
+-   Refine and Reuse - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
+-   Artisan's Blade - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
+-   Songs Unforged - Adar's Darksteel Greatsword critical activates Scrapsinger.
+-   Masterwork - Adar's successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+-   Reshape and Remold - If Adar procs Scrapsinger successfully, their enemy will take more armor damage. After hitting 10 stacks, his opponent will take +5% damage until the stacks drop below 10.
+-   Exposed Durability - Adar deals 10% more damage to opponents with no armor durability left.
+-   An Ironsinger's Instinct - Whenever Adar successfully dodges an attack, he coats himself in metal and reduces the damage of the next attack taken.
+-   Phantom Edge - Adar's m1's have 0.25 more range.
+-   Heavy Shoulders - If Adar's opponents have 3 or more rods, their dodges are slower.
+-   Ironclad Punishment - Adar's ironsing mantras deal more posture damage to enemies the more armor durability they have.
+-   Thornmail - If Adar gets flourished, he applies a metal rod to their attacker.
+-   Metal Shackles - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
+-   Piercing Metal - Adar deals additional armor damage to enemies per metal rod affecting them.
+-   Polished Armor - Adar receives 10% less damage when his armor protects him from an attack.
+-   Laced Traps - Enemies hit by Adar's 'Caltrops' cannot jump and are slowed for a small duration.
+-   Metal Absorption - Adar's 'Iron Hug' also absorbs armor from his enemy.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 121956
+revid: 122046
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,14 +37,14 @@ Although the Drowned Delver job is typically offered by [The Ignition Union](The
 | Emotion Wave  
 (★★☆) | N/A | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning. | ✗ | ◯ | ◯ |
 
-## Dialogues
+## Dialogue
 
 Finnegan retains his ability to speak and usually says phrases when he spawns such as:
 
 -   "Just a bit further, Finn. Just a bit further."
 -   "I´ll find it. I´ll find it. I´ll find it."
--   ''JUST.. LEAVE ME ALONE!''
--   ''NGAHHH! YOU WON'T TAKE HER! (''Her'' referring to a loved one or his weapon)
+-   "JUST.. LEAVE ME ALONE!"
+-   "NGAHHH! YOU WON'T TAKE HER!
 -   "GET OUT OF MY HEAD.."
 
 ## Finisher

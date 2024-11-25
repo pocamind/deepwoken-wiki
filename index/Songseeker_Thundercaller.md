@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 120359
+revid: 122049
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -39,15 +39,15 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
 ### Talents
 
--   Everchanging Aegis - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
--   Perfect Flash - Having full health causes your mantras to do 25% extra damage.
--   Resolve Crusher - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
--   Jolting Current - Your lightning attacks in water strike others near them with lightning.
--   Static Link - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+-   Everchanging Aegis - A Songseeker Thundercaller take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different element.
+-   Perfect Flash - Having full health causes a Songseeker Thundercaller's mantras to do 25% extra damage.
+-   Resolve Crusher - A Songseeker Thundercaller's lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to the Songseeker Thundercaller.
+-   Jolting Current - A Songseeker Thundercaller's lightning attacks in water strike others near them with lightning.
+-   Static Link - Whenever A Songseeker Thundercaller flourishes or uppercuts an enemy, they create a static link between them and their enemy. Songseeker Thundercaller's lightning stuns enemies for 1.5x as long.
 -   Static Ace - Using stream core with an active tether link targets your closest active link.
--   Static Allure - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
--   Discharge - On 5th successful attack you will discharge static dealing lightning damage to those nearby
--   Stratoshock - Your lightning deals more damage in the rain.
+-   Static Allure - Having two active tethers will cause the previous tethered enemy to get magnetized to the Songseeker Thundercaller's newest tethered enemy, also increases the duration of tethers by 15 seconds.
+-   Discharge - Every 5th successful attack of a Songseeker Thundercaller, they will discharge static dealing lightning damage to those nearby.
+-   Stratoshock - The lightning of a Songseeker Thundercaller deal an additional +5% damage on the rain.
 
 ## Finisher
 

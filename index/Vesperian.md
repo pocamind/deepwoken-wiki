@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 121570
+revid: 122024
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -106,7 +106,6 @@ This fits with our current understanding of the lore and would explain why they 
 -   The Blindseer mask may be a reference to the Sheikah from the Legend of Zelda series.
 -   There are 18 Vesperian masks in total, which is more than facial markings, which only have 13.
 -   The race variants for Vesperian are based on various armour pieces typically worn by knights. A sabaton is a shoe, a besague is a type of rondel that protects the shoulder, and a plackart is a type of torso armour/chestplate.
-
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
     -   Hallowtide Vesperians have the same purple eye color as Hallowtide Ganymede.
 -   Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
@@ -117,9 +116,8 @@ This fits with our current understanding of the lore and would explain why they 
 A Vesperian with Blindseer
 
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oath%253A_Blindseer.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
--   The Chitin Talent (race ability) can be stacked with the exoskeleton Talent in order to make your natural armor resist up to 15% physical damage. (agamatsu confirmed in a stream that the 5% damage reduction does not falloff with exo)
+-   The Chitin Talent (race ability) can be stacked with the exoskeleton Talent in order to make your natural armor resist up to 15% physical damage. The 5% damage reduction does not falloff with exo.
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
--   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesparian](Primal_Vesperian.md) race as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask. (most likely based off the [primal aspid](https://hollowknight.fandom.com/wiki/Primal_Aspid) enemies in Hollow Knight)
--   The six-eyed variation of the mask may be a reference to the mask worn by Lilith from Neon Genesis Evangelion, or inspired by certain [bugs](https://en.wikipedia.org/wiki/Insect).
--   The 16th mask on the list is taken from one of archmages first games [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil). Seen on one of the monsters, the mask in-game is slightly altered. (would link however I cannot find a wiki page to ~reference the monster anyways?~ [I found the monster in game after some searching.](https://imgur.com/M9wJnet)
+-   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesperian](Primal_Vesperian.md) race as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask, most likely based on the [primal aspid](https://hollowknight.fandom.com/wiki/Primal_Aspid) enemies in Hollow Knight.
+-   The 16th mask on the list is taken from one of Arch\_Mage's first games, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil). Seen on one of the monsters, the mask in-game is slightly altered, [as can be seen here](https://imgur.com/M9wJnet).
