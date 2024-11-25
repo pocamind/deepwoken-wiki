@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 121936
+revid: 122087
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1487,6 +1487,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 Ironsing, 40 Charisma, Taunt
 
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
+    -   Each rod applies 5% armor drain multiplier, extra 50% armor drain at max rods.
     -   Prerequisites: 60 Ironsing, Power 13
 
 ### Iron Will
@@ -1827,6 +1828,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
+    -   Increase outgoing M1 posture damage by 15% and reduce incoming posture damage by 15%
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md).
 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
@@ -2183,6 +2185,9 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
+    -   Hits from Artisan's Blades don't drain armor from enemy
+    -   Pulling out Artisan's Blades equals to your pull armor dmg.
+    -   Deals True DMG 15 per blade, affected by general resistances, seems phys and elemental doesnt work against it. Exposed Durability doesn't proc on it.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.

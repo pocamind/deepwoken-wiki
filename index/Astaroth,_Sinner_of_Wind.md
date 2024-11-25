@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 122061
+revid: 122081
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
