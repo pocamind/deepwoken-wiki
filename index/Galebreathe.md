@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 119776
+revid: 122070
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -855,6 +855,7 @@ N/A
 
 ## Trivia
 
+-   The Rising Wind mantra probably is referenced from Shoryuken move in Street Fighter.
 -   The **Windwaker** Talent is a direct reference to the Legend of Zelda main series game "The Wind Waker," both in name and function, as there is a special song you can play to cause the winds to propel your boat.
 -   After expressing a desire to make a new 0 Star Mantra for Galebreathe, developer ragoozer was presented with an image created by discord user Necros75, which he promptly added to the game as Gale Kick.[\[1\]](#cite-note-1)
 -   [Bosses](Bosses.md) are completely immune to suffocation.

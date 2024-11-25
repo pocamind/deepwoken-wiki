@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 120720
+revid: 122072
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords]
@@ -57,6 +57,7 @@ The flames emitted by both Critical Attacks will proc Burn and any applicable Fl
 -   Previously, Railblades dropping from Chaser were equivalent in rarity to items such as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) dropping in the [First Layer](First_Layer.md).
 -   It is in contention with the [Skyreap Blade](Skyreap_Blade.md) for the fastest swinging heavy weapon.
 -   The Railblade is the only greatsword that does NOT have Hyperarmor on parry swings. [Talents](Talents.md) for Hyperarmor like "Warrior's Swing" won't appear until you choose a different Greatsword.
+-   The [Hailbreaker](Hailbreaker.md) produced in lore as a competitor to this weapon.
 
 ## References
 
