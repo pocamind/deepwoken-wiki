@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 119725
+revid: 122107
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -41,7 +41,7 @@ The Astral Enchant Stone is unique in that it can only be obtained through the [
 -   You can't use enchant stones to enchant legendary weapons.
 -   You can use enchant stones on already enchanted weapons, it'll just switch the enchant.
 -   Enchant Stones are undroppable, but sell for 200 notes! Cha-ching! (Do not do this unless you're desperate.)
--   You can pass down Enchant Stones through the [Hippocampal Pool](Hippocampal_Pool.md) for 60 [Echoes](Echoes.md).
+-   You can pass down Enchant Stones through the [Hippocampal Pool](Hippocampal_Pool.md) for 40 [Echoes](Echoes.md).
 
 -   Complex to explain, but you can use enchant stones on starter weapons you bought. However, you can't use them on the very first starter weapon your character begins with(if it's not an advanced starter). When trying to use on your first starter weapon, dialogue appears saying "This weapon is corrupted, denying the stone." For some ungodly reason with advanced starters; if you unequip then re-equip the weapon, the weapon isn't corrupt anymore.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122095
+revid: 122106
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3001,6 +3001,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite for equipment: [Power](Power.md) 13
 
 -   Diver's Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+    -   Allows you to parry most unparryable mob attacks at the cost of reducing your mobility.
     -   Obtained from [Grand Fisher Plate](Grand_Fisher_Plate.md)
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
@@ -3134,10 +3135,16 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
     -   Also available as a common Talent.
 -   Bloodletter: [Bloodfeather Cowl](Bloodfeather_Cowl.md) - Hitting opponents on the ground lowers their blood.
     -   Hitting knocked opponents lowers their blood bar. This talent was made **innate**, so it does nothing on this equipment.
+-   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
+    -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
+-   Coldseep Reactor [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
+    -   Grants full immunity to [Layer 2](Second_Layer.md) Parasites.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
+-   Diver's Resilience [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+    -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
@@ -3154,6 +3161,8 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
+-   Surestep [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
+    -   Makes you immune to the ragdoll and movement speed debuff of the Wind in [Layer 2](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
     -   Procs even if your critical cannot be canceled (Hyper Armor).
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
@@ -3161,6 +3170,8 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
+-   Wormwarder [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
+    -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
 
 ## Blacklisted Talents
 
