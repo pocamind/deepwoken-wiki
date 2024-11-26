@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122022
+revid: 122112
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -654,7 +654,7 @@ Pressing \[F\] before releasing your Flame Impact will release a wider but short
 
  | 
 
-N/A
+When F is pressed, Fire Palm will be wide, but have little to no range in front of you.
 
  |
 
@@ -1237,7 +1237,7 @@ _**"My spirit is forever burning."**_
  | 
 
 Denial Repulse  
-(20 Flamecharm, 40 Willpower, Flame of Denial)
+(40 Flamecharm, 40 Willpower, Flame of Denial)
 
  | 
 
@@ -1337,8 +1337,6 @@ Sacrifice puppets who have been alive for half of their lifetime and burn purple
 Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost for 6 seconds, and 1 Emperor Flame Stack per puppet sacrificed.
 
  |
-
-  
 
 ## Trivia
 

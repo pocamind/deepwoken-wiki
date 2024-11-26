@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 119315
+revid: 122111
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -161,6 +161,14 @@ It is important to note that **very few** good items drop from standard enemy lo
 2.  Enter the First Floor.
 3.  Find [Kasen](../Kasen.md) near the [Sanctuary Gatehouse](../Sanctuary_Gatehouse.md).
 4.  Talk to him to gain the Talent.
+
+#### [Bloodrend](../Bloodrend.md) Obtainment
+
+1.  Get To Firfire as usual.
+2.  Inside an Igloo is the trainer, [Vyrelda](../Vyrelda,_Master_of_Blood.md).
+3.  Talk to her and request for her to teach you.
+4.  Kill Three Ministry Bloodrenders, then come back with three Heartstars.
+5.  After obtaining Bloodrend, you may Lighthook out to keep it.
 
 #### [Arcwarder](../Oath%253A_Arcwarder.md) Questline
 

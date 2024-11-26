@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122106
+revid: 122113
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2767,7 +2767,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Denial Repulse_ \[Rare Talent, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death.
     -   When Flame of Denial activates, release an explosion around you.
-    -   Prerequisite: Flame of Denial
+    -   Prerequisite: 40 Willpower, 40 Flamecharm, Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths.
     -   Graceful Flame can now be casted in the depths. Graceful Flame passively restores sanity and health to those around it.

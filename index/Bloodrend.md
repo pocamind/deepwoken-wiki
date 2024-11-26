@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 122105
+revid: 122108
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -34,7 +34,7 @@ After Vyrelda's backstory, the player will be prompted to request for Bloodrend.
 
 Walk out the building, and run around the village for a while. The blood-renders will notice you as a threat and begin to engage. Kill all the three cultists for 3 Heartstars, and return to Vyrelda to get the Curseblood potion. Upon usage, your body aches in pain for a split second. You have gained access to Bloodrend.
 
-\***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [LightHook](Light_Hook.md) to leave L2**
+\***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [Light Hook](Light_Hook.md) to leave L2**
 
   
 
