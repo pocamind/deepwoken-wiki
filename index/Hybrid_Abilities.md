@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 121492
+revid: 122094
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -851,7 +851,7 @@ Wind + Lightning + Slash
   60 Thundercall<br>
   25 Shadowcast</center></td>
   <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
-  <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Human Battery to proc.</center></td>
+  <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.</center></td>
   <td><center><i>"I seek to embrace the instability of lightning as a source of power."</i></center></td>
 </tr>
 </tbody>
@@ -1016,7 +1016,7 @@ Wind + Lightning + Slash
   60 Thundercall<br>
   25 Shadowcast</center></td>
   <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
-  <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Human Battery to proc.</center></td>
+  <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.</center></td>
   <td><center><i>"I seek to embrace the instability of lightning as a source of power."</i></center></td>
 </tr>
 </tbody>
