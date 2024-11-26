@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 122121
+revid: 122123
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,7 +30,7 @@ _Some important things to note before smelting:_
 
 _To smelt an item:_
 
--   Head to the Forge/PvP arena found at [Summer Isle](Summer_Isle.md) and talk to [Jarvis](Jarvis.md).
--   Alternatively, you can purchase your own personal Artisan by obtaining the Trophy Room in your Guild Base.
+-   Head to [The Furnace](The_Furnace.md) found at [Summer Isle](Summer_Isle.md) and talk to [Jarvis](Jarvis.md).
+-   Alternatively, you can purchase your own personal Artisan by obtaining the Trophy Room in your [Guild Base](Guild_Bases.md).
 
 NOTE: Level Requirement is based on the Armor Piece's name, as you can see a freshie wearing a Fleet Warden Cape (Tundra Scarf) but can't wear the 'Vanguard Brace'

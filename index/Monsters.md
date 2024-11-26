@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 122014
+revid: 122124
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -158,4 +158,4 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld. (e.g. Thunder [Nautilodaunts](Nautilodaunt.md) spawn only in [the Depths](The_Depths.md))
 -   Most unparryable (red flash) attacks of monsters are accompanied by the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from Sekiro: Shadows Die Twice.
 -   Additionally, some unparryable attacks are also accompanied by a red [Blindseer](Oath%253A_Blindseer.md) eye. The reason/lore behind this is unknown, but it may be just for more visibility (especially to low graphics players that cannot see as much particles).
--   There's a rare easter egg with an unknown chance that a [meme warning SFX](https://streamable.com/ul7sv3) will play when a monster notices a player.
+-   There's a rare easter egg with an unknown chance that a [Metal Gear solid alert sound](https://streamable.com/ul7sv3) will play when a monster notices a player.

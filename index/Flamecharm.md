@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122112
+revid: 122140
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1364,7 +1364,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   Ash Slam used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales Azure Flames... Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
--   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
+-   If the character has the "Azure Flames" Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames. It can also work with "Twisted puppets" having the critical turn black and a puppet spawning in (Needs testing).
 -   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 -   Before its release, Flaming Scourge was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.

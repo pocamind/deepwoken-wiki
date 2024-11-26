@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122113
+revid: 122131
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2651,7 +2651,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
     -   Prerequisites: 30 Agility, 35 Thundercall
 
--   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+1 Health)
+-   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration.
     -   Prerequisites: Lightning Clones, 30 Agility, 35 Thunder
 
 -   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use. Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them.
@@ -3188,7 +3188,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 ## Trivia
 
--   Despite both [Boulder Climb and Maestro's Blade](Cut_Content.md#talents) being merged with Kick Off and Inhale respectively, their respective descriptions were not updated to indicate this.
+-   Despite both [Boulder Climb and Maestro's Blade](Cut_Content.md#talents) being merged with **Kick Off** and **Inhale** respectively, their descriptions were not updated to indicate this fact.
 -   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
