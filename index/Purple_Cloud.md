@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 121993
+revid: 122143
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]

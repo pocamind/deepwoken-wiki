@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122131
+revid: 122147
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -769,7 +769,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I feed on the souls of my enemies."**_
 
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
-    -   Prerequisite: Shadow Chains
+    -   Prerequisite: Shadow Chains, 10 Fortitude
 -   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
     -   Prerequisite: 20 Shadowcast
 
