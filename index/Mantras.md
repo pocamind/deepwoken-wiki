@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 120692
+revid: 122174
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -33,7 +33,7 @@ Mantras are a key aspect of combat, and it is incredibly important to master the
 
 ### Perfect Casting
 
-Perfect Casting a Mantra does not inherently do anything, it just activates certain Talents (developer confirmed). To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various Talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
+Perfect Casting a Mantra does not inherently do anything outside of Flame Grab and Jolt Grab, it just activates certain Talents (developer confirmed). Flame Grab and Jolt Grab have a reduced travel time if perfect casted, which is a **nerf** to the Mantra. To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various Talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
 
 ### Mantra Cancelling
 
@@ -48,6 +48,36 @@ Ranged Mantras are any Mantra that can deal damage from at least 30 studs away, 
 ## Types of Mantras
 
 A player's Mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding Mantra. Similarly, to weapons and armor, Mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
+
+## Upgrading Mantras
+
+_Main Article - [Spelltrainers](Attunement_Trainers.md)_
+
+All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
+
+There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
+
+-   Level 1: Novice
+-   Level 2: Adept (20+) \[Upgrade Cost: 100 Notes\]
+-   Level 3: Expert (40+) \[Upgrade Cost: 200 Notes\]
+-   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
+-   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
+-   Total cost to get one Mantra from level 1 to level 5: 1,000 Notes
+
+Each Mantra level gives a damage boost and increases effects from modifiers. The damage boost per level entirely depends on the Mantra in question, and sometimes isn't a linear increase per level. Support Mantras often have their cooldown reduced and duration increased per level. Certain Mantras have different effects at level 5, such as Thunder Kick, Fire Blade, Ice Smash, Shadow Gun, Iron Slam and Champion's Whirlthrow becoming Instant Guardbreaks.
+
+## Modifying Mantras
+
+_Main Article - [Mantra Modifiers](Mantra_Modifiers.md)_
+
+To modify a Mantra, the Mantra must be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere which can be placed on a Mantra table, located within populated islands.
+
+-   Once a Mantra is placed on the table, the player can also place modifiers such as gems and sparks.
+-   The user can also modify their Mantras with Deep Gems. These do not need to be used at a Mantra table but can be directly applied to the Mantra at a campfire.
+-   Modifications will fail when you have placed incompatible ingredients on the table. The Mantra placed will return to your inventory, and the ingredient(s) will not be lost.
+-   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
+-   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
+-   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
 
 ### [Flamecharm Mantras](Flamecharm.md)
 
@@ -200,50 +230,6 @@ _**(Added back recently, though may be removed in the future.)**_
 `Conjure-` Blood _**(Crucification)**_
 
 Add more if you find them.
-
-## Modifying Mantras
-
-_Main Article - [Mantra Modifiers](Mantra_Modifiers.md)_
-
-To modify a Mantra, the Mantra must be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere which can be placed on a Mantra table, located within populated islands.
-
--   Once a Mantra is placed on the table, the player can also place modifiers such as gems and sparks.
--   The user can also modify their Mantras with Deep Gems. These do not need to be used at a Mantra table but can be directly applied to the Mantra at a campfire.
--   Modifications will fail when you have placed incompatible ingredients on the table. The Mantra placed will return to your inventory, and the ingredient(s) will not be lost.
--   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
--   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
--   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
-
-## Upgrading Mantras
-
-_Main Article - [Spelltrainers](Attunement_Trainers.md)_
-
-All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
-
-There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
-
--   Level 1: Novice
--   Level 2: Adept (20+) \[Upgrade Cost: 100 Notes\]
--   Level 3: Expert (40+) \[Upgrade Cost: 200 Notes\]
--   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
--   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
--   Total cost to get one Mantra from level 1 to level 5: 1,000 Notes
-
-Each Mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain Mantras have different effects at level 5, such as Thunder Kick, Fire Blade, Ice Smash, Shadow Gun, Iron Slam and Champion's Whirlthrow becoming Instant Guardbreaks.
-
-## ~Elemental Intensity~
-
-~Elemental Intensity is the ability to affect the environment around you. If a Mantra has a high enough intensity, it is able to break certain objects. For example, a more intense Flamecharm Mantra will be able to melt metal.~
-
-### ~Obtaining more Elemental Intensity~
-
-~Getting Talent Cards from your Attunement is a great way to obtain more intensity. Those Talents usually have intensity attached to their stats, so the more Talents you get from your attunement, the more intensity you will get.~
-
-#### ~Vibrant Gems~
-
-~Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for those specific Mantras.~
-
-**RIP ELEMENTAL INTENSITY.**
 
 ## Trivia
 

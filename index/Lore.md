@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 121690
+revid: 122166
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -123,7 +123,7 @@ The Duke
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone. These Golems were sustained by his own power, and it was observed that he could only upkeep a handful at a time to guard his estate in Celtor before he acquired the Forge of Sin.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple Of The Forgotten Flame after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
--   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
+-   The Mindless Servants which guard his mansion are [vacant](https://deepwoken.fandom.com/wiki/Boons_and_Flaws?so=search#Flaws) and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)

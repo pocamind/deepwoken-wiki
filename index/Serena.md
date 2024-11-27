@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 122152
+revid: 122164
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -103,3 +103,4 @@ Serena executes her opponent after knocking them:
 -   Her hair ID is 4997322761.
 -   She is hostile to all NPCS of all factions.
 -   There is a bug where if there's 2 or more Serenas in a server and you give water to 1 of them, the other/s will still thank you for the water even though you didn't actually give them the water.
+-   She doesn't actually need **water**. If you give here a canteen with any other liquid (even celestial ichor), she'll still accept it as if it was water.

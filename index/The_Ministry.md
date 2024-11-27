@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 120224
+revid: 122172
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]

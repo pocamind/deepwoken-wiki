@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 122160
+revid: 122171
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -133,13 +133,12 @@ Relics and enchant stones can drop from any chest at any floor.
 
 ## **Tips**
 
--   The Saramaed Hollow is a very low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
+-   The Saramaed Hollow is a fairly low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
 -   Additionally, if you are low / about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
     -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
--   The Saramaed Hollow is also a good grinding fodder for all levels, having weak mobs like mudskippers and Megalodaunts to boost early game progression, Brutes, Threshers, and Desert Knights to help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
-
+-   The Saramaed Hollow is also a good grinding fodder for if you're NOT low-level, having weak mobs like Mudskippers and Megalodaunts to boost early game progression. However, Brutes spawn earlier than Megalodaunts despite being much harder to handle. Threshers and Desert Knights help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
 -   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
--   Try and crouch down this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
+-   Try and crouch down; this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
 -   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or go back up to the surface practically empty-handed.
 
 ## Trivia

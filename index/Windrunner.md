@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 119781
+revid: 122168
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -29,12 +29,12 @@ Windrunner having an amazing view of Etris
 
 If you talk to him without 75 agility, he will say:
 
-_And so they continue to squabble...Oh, someone actually found their way up here?_
+_And so they continue to squabble... Oh, someone actually found their way up here?_
 
 1.  **Yeah, what are you doing up here? (continue)**
 2.  **\[End Dialogue\]**
 
-_"Observing. This conflict down below. There is a shadow war being waged.Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?"_
+_"Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?"_
 
 1.  **\[End Dialogue\]**
 

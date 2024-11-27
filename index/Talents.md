@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122147
+revid: 122167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3148,7 +3148,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
--   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
+-   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased (0.05s).
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
