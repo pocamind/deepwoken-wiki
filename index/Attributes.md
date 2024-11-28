@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 121749
+revid: 122189
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -61,9 +61,9 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder (this will train your Strength at the same time, while giving you 2x the fortitude training).
 -   _**[Unbounded](Attributes_Unbound.md#fortitude-unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
 
-### Agility (AGI)
+### Agility (AGL)
 
--   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._
+-   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._[\[1\]](#cite-note-1)
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
         -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
             -   _This can be mitigated with the [Endurance Runner](Talents.md#alley-cat) Talent._
@@ -88,7 +88,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Willpower (WLL)
 
--   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._[\[1\]](#cite-note-1)
+-   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._[\[2\]](#cite-note-2)
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
         -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
     -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
@@ -100,7 +100,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Charisma (CHA)
 
--   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[2\]](#cite-note-2)
+-   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[3\]](#cite-note-3)
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
@@ -158,7 +158,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 
 ### Flamecharm (FIR)
 
--   Increases damage scaling of Flamecharm mantras.[\[3\]](#cite-note-3)
+-   Increases damage scaling of Flamecharm mantras.[\[4\]](#cite-note-4)
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Training_Gear.md#attunement-training-gears) or eating [Dying Embers](Dying_Embers.md).
@@ -172,7 +172,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 
 ### Thundercall (LTN)
 
--   Increases damage scaling of Thundercall mantras.[\[4\]](#cite-note-4)
+-   Increases damage scaling of Thundercall mantras.[\[5\]](#cite-note-5)
     -   Unlocks [Thundercall Talents](Thundercall.md#talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) or eating [Spark Glands](Spark_Gland.md).
@@ -215,7 +215,8 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better Talents~ _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the Talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above - as well as having quicker access to those cards._
 
-1.  [↑](#cite-ref-1) More commonly known as "WIL".
-2.  [↑](#cite-ref-2) Also known as "CHR".
-3.  [↑](#cite-ref-3) Also known as "FLM".
-4.  [↑](#cite-ref-4) Also known as "THD".
+1.  [↑](#cite-ref-1) Also known as "AGI".
+2.  [↑](#cite-ref-2) More commonly known as "WIL".
+3.  [↑](#cite-ref-3) Also known as "CHR".
+4.  [↑](#cite-ref-4) Also known as "FLM".
+5.  [↑](#cite-ref-5) Also known as "THD".

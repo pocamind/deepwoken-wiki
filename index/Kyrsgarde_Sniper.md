@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Sniper
-revid: 108981
+revid: 122188
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]

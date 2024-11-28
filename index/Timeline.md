@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 114202
+revid: 122186
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -55,7 +55,7 @@ The Tides are an event that stemmed from the Canticlysm's overuse of the song; t
 
 ## New World
 
-The current world of deepwoken, having come about as a result of the tides. Referred to as a dying world by the description of the game itself; the voidsea slowly closing in on the world.
+The current world of deepwoken, having come about as a result of the tides. Referred to as a dying world by the description of the game itself, the voidsea slowly closing in on the world.
 
 ## Footnotes
 

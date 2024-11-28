@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 122166
+revid: 122196
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -320,7 +320,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
 -   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less trainer)
+-   Has a deep hatred against the Song and to the six (seven if the Bloodrend trainer counts) Attunement trainers (not counting the Attunement-less trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful.
 
