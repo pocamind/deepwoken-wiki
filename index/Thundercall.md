@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 121942
+revid: 122216
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -241,7 +241,7 @@ Bolt Piercer
 Emotion Wave  
 (★★★)
 
- | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Lightning | Conjure a throw a bolt of lightning from the user's right hand, causing volleys of lightning strikes to spread out.
+ | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Lightning | Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out.
 
 -   Deals moderate-high damage.
 -   \[30\] Second Cooldown.
