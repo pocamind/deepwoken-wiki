@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 117483
+revid: 122224
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists, Fighting Styles]
 | damage | 12.2 |
 | scaling | 7 |
 | range | 6 |
-| swing speed | 0.8x |
+| swing speed | 1.13x |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
@@ -40,11 +40,11 @@ User performs a suplex, turning their opponent upside down and firmly slamming t
 
 ## Obtainment
 
-To obtain it, you must help the Legion Captain in the Legion vs. Authority Lieutenant event at [Starswept Valley](The_Starswept_Valley.md). It will take two successful attempts before the Legion gives you the commendation.
+To obtain it, you must gain Ally reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to help the Legion Captain in the Legion vs. Authority Lieutenant event at [Starswept Valley](The_Starswept_Valley.md). It will take two successful attempts before the Legion gives you the recommendation.
 
-Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation to get commendation without helping in the said event, but you will still need to talk to Legion Captain in [Starswept Valley](The_Starswept_Valley.md) to get it.
+Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation to get recommendation without helping in the said event, but you will still need to talk to Legion Captain in [Starswept Valley](The_Starswept_Valley.md) to get it.
 
-Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
+Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 
 ## Trivia
 

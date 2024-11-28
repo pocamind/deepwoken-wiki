@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 120842
+revid: 122233
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -325,32 +325,6 @@ Scratch
 -   Gourdskippers do have a grip animation.
 -   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried.
     
-
-**Pumpskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Pumpskippers are a unique enemy exclusive to the Trial of the Gourdskipper during Hallowtide 2024. They are a variant of the Mudskipper. During the trial of the Gourdskipper Pumpskippers automatically aggro onto the nearest non-infected, though attacking them while infected will cause them to re-aggro onto you, hitting you until you are either knocked, gripped, or out of range.
-
-## Moveset
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Scratch
-
- | Weakly smacks opponent | ◯ | ◯ | (★☆☆) |
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail.
-(This will USUALLY occur when you are knocked by a player but sometimes it happens if a Pumpskipper knocks you.)
-
- |
 
 ## Trivia
 

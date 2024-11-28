@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122140
+revid: 122229
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -277,7 +277,7 @@ _Conjure a turret of flames._
 -   Inflicts Burn.
 -   Can be modified with a magnet spark, making the turret follow the user.
 
- |  |
+ |
 |  | 
 
 Rising Flame

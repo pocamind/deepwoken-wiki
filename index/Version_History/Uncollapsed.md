@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 120612
+revid: 122226
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,162 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **November 23rd, 2024**
+
+**Bounty Rework**  
+• Bounties now range from 1 to 8 Stars. Stars are calculated using a new point system for evaluating how strong a target is. Each Star is equivalent to 20 Points.  
+• Currently, each Power is worth 5 pts (so Power 20 is worth 100 pts), having a Resonance is worth 15 pts, having an Oath is worth 10 pts, having an enchant/LW is worth 10 pts, Outfit Tiers are worth 5, 10, 15 pts for Adept, Expert, and Master/Unique respectively  
+• You may only take on bounties with a Star rating up to 1 Star lower than your own Star rating. For example, if your own Bounty rating is 5 Stars, you can hunt people with 4 Stars, but not people with 3 Stars. You're free to hunt anyone with a higher Star rating than you if you fancy a challenge.  
+• Grasp of Eylis tool use CD reduced (60s -> 5s)  
+• Voideye CD reduced (10m -> 5m)  
+• Bounty EXP per star hasn't changed, so higher stars will net more EXP than you could get before  
+• Overall this system makes for fairer bounties as factors other than just your level are included  
+A big thank you to flamehunter3000 for suggesting this revamp.  
+  
+**Guild Renaming**  
+• Guilds can now be renamed at a Guild Clerk  
+• Renaming can only be done once a week and costs 1000 Robux. Price may be subject to change but is where it is right now to deter people from hopping names every week  
+  
+**Content & Systems**  
+• New Ironsing Pistol LW: "Iron Requiem"  
+• New Face Equipment Base/Azure/Amber Browline Citadel Frames  
+• New Face Equipment Base/Azure/Amber Round Citadel Frames  
+• Parrying Dagger weights now determine their bonus to posture restoration on parrying. Previously, both the Parrying Dagger and the Kyrstear had a 25% bonus to posture restoration on parrying. Now, each point of Weight on a Parrying Dagger adds a 10% bonus. e.g. 5 Weight would mean a 50% bonus to posture restoration from parrying  
+  
+**Balancing**  
+• Songchant Mantra PEN scaling per point reduced (5% -> 3%)  
+• Hailbreaker now only guardbreaks on full charge and not when cancel attacked early  
+• Fixed massive endlag on Hailbreaker Crit if the windup was interrupted  
+• Hailbreaker CD increased  
+• Kyrstear weight is now 3  
+• Parrying Dagger weight is now 2  
+• Death's Reverie no longer guardbreaks, instead deals high posture damage  
+• Reduced Hero's Blade of Frost critical damage per tick by around 20%  
+• Heavily reduced Exhaustion Strike's Posture transfer. Previously it transferred 60% posture at Lv. 1 and 100% posture at Lv. 5, now it transfers 20% posture at Lv. 1 and 60% posture at Lv. 5  
+• Fixed Radiant Dawn being faster and not actually cancelling if cancelled during its windup  
+• Fixed Hailbreaker crit coming out faster if feinted  
+• Finally fixed Rosen's Hellflame aerial critical going through parry, no longer knocks back hit players either  
+• Fixed Rosen's Hellflame aerial critical coming out faster than intended (0.38s -> 0.5s)  
+• Increased Kyrsieger crit CD (10s -> 15s)  
+• Fixed Rockmaller aerial crit not cancelling properly. For real this time  
+• Reduced Rockmaller base damage (29 -> 25)  
+• Increased Forge Greathammer critical wind-up (0.5s -> 0.6s)  
+• Made Decimate's chain teleports much faster, should hopefully make movestacking it less viable  
+  
+**Optimization**  
+• Mantra windups have been greatly optimized and have considerably better reliability and responsiveness. Cancels and feints should be processed much more quickly and timing should be a lot better  
+• Greatly optimized status effects  
+• Greatly optimized status effect subscriptions (stuff that waits for status effects to appear/disappear)  
+• Fixed a lot of unreliability with things that would wait for status effects to be removed  
+• Greatly optimized Resonances in general  
+• Fixed a variety of memory leaks with crits  
+• Fixed a memory leak with Shadow Chains  
+  
+**Bugfixes**  
+• Fixed a lot of dialogues that'd error if you left early  
+• Fixed a lot of crits that would error if the user was killed early  
+• Fixed Blood showing up as Lightning on Everchanging Aegis procs  
+• Fixed lingering vfx on Shard Bow triple shot variant  
+• Fixed Frost Grab breaking if your target died before the grab ended  
+• Fixed W Rank obtainment not playing the correct SFX (sorry to all those robbed of an even Greater dopamine hit)  
+• Fixed the Etris job board at the guildhall having an existential crisis and rotating itself into a wall  
+• Fixed Void Spire lasting twice as long as intended  
+• Fixed being able to pop Void Spire on downed players to depths-send them  
+• Fixed Blood resistance not showing in tab menu  
+• Fixed Blast Spark Shadow Assault going through block  
+• Fixed magma ore picked up in Saramaed Hollow having collision while being carried  
+• Fixed Hailbreaker crit not cancelling when feinted  
+• Fixed Gear Cabinets on console  
+  
+• Changing your Guild name's punctuation/spacing is free. e.g. if you change your Guild name from Dogslife to Dog's Life you don't have to pay anything. It'll still go on cooldown for a week, though  
+  
+• Fixed Symbiotic Link  
+• Fixed Kyrswynter crit not following up if you guardbreak your opponent  
+• Fixed weapon scaling being inaccurate  
+• Fixed Silentheart M1's being delayed after dodging  
+• 2x chests btw  
+  
+**Iron Requiem hotfixes**  
+• Increased critical cooldown (3s -> 7s)  
+• Fixed Running critical not doing anything if you have 1 bullet left in the chamber  
+• Fixed Running critical doing one less hit than the amount of bullets consumed  
+• Running critical now cancels if parried  
+• Base crit can now be cancelled by stun  
+• Crit can be used without ammo  
+• Fixed Iron Requiem having Medium Weapon scaling instead of Light Weapon scaling  
+• Fixed default critical not restoring 2 bullets if you use it with 1 bullet left in the chamber  
+• Fixed endlag for crit not starting until projectile blows up  
+• Added stun to crit  
+  
+• Optimized monster stomping (surprisingly laggy)  
+• Fixed global screenshakes  
+  
+• Fixed random events not ending properly, meaning no EXP/chests/hellmode points
+
+## **November 16th, 2024**
+
+**Content & Systems**  
+• New Frostdraw Greatsword: Hailbreaker  
+• Added Gear Cabinets. Tired of having to ransack every single nook and cranny of each island to find your training gear? The Gear Cabinet's got you covered! All training gear that you have the requirements for are displayed and can be quickly bought all in one place  
+• Ignition Delvers now get sanity regen while in Chariot's Spire  
+• Training Gear shops in Guild Bases have been replaced with Gear Cabinets  
+• Added Gear Cabinets to towns and other areas of note to replace a lot of the training gear clutter  
+• Added Gear Cabinets across the Depths, including in Chariot's Spire  
+• Hallowtide has ended, which means you can now buy any exclusive items from this year's Hallowtide Event by going to any Blacksmith if you have the Hallowtide '24 Medal  
+• Added Icons for all Flamecharm Mantras. Big thanks to zyzyth for their help with designing these!  
+  
+**Balancing & Tweaks**  
+• Increased Mantra windup time accuracy  
+• Greatly increased Shard Bow posture damage per hit (5 -> 15), further increased by 5 if the bell is corrupted. The Triple Shot variant halves this damage per shot (so each shot does 7.5 posture damage)  
+• Adjusted Ice Beam endlag, reduced endlag duration (0.65s -> 0.5s)  
+• Reality Shift CD reduced  
+• Visionshaper Clones can no longer heal others  
+• Saint Jay no longer works on Visionshaper Clones  
+• Summons that cast Reinforce can only proc the buff for 8s  
+• Wretched Mawblades HVY req increased (55 -> 75)  
+• Wretched Mawblades critical cooldown increased (6s -> 7s), crit now cancels when parried  
+• Wretched Mawblades base damage decreased (28 -> 27.5)  
+• Death's Reverie crit cooldown increased (5s -> 7s)  
+• Spectral Grasp crit cooldown increased (3s -> 5s), crit now cancels when parried  
+• Spectral Grasp swing speed decreased (1.23 -> 1.2), PEN reduceed (20% -> 15%)  
+• Increased Boltcrusher Critical CD (5.5s -> 10s)  
+• Increased Stormseye/Wraithclaw/Rosen's Hellflame Critical CD (6s -> 10s)  
+• Increased Gran Sudaruska Critical CD (7s -> 10s)  
+• Increased Pleeksty's Inferno/Kyrsieger Critical CD (8s -> 10s)  
+• Fixed katana/sword/shotel/halberd/lft crit movestacks  
+• Chainlash Kick now respects stuns, fixed movestacks  
+• Fixed Rupture having Hyperarmor if you have Chain Stacks  
+• Fixed Stormseye Critical dealing true damage, now resisted by Elemental/Lightning Armor as you'd expect  
+• You can no longer use mantras during Scarlet Cyclone  
+• Fixed the following mantras not refunding Ether or reducing their cooldowns when they can't find a valid target: Flaming Scourge Reversal Spark, Wind Forge, Ice Chain, Frost Grab, Shadow Chains, Clutching Shadow, Shadow Seekers, Rising Shadow, Metal Gatling, Bloodcurdle, Vein Tendrils, Enforcer Pull, Abyssal Ridge  
+• Bloodrend is now available in Battle Royale, have fun  
+  
+**Optimization**  
+• Optimized Mob M1's/basic attacks  
+• Optimized several crits that would lag on whiffing  
+• Optimized Diver Supply random event  
+• Optimized Nautilodaunt events  
+• Added more tools for staff to detect and shutdown buggy servers  
+  
+**Bugfixes**  
+• Fixed a lot of Mantras that would error if components/effects were cleared early  
+• Fixed NPC chat bubbles for real this time  
+• Fixed export sheet not correctly displaying Oath and Origin  
+• Fixed a memory leak with blocking  
+• Fixed getting banned for setting too many custom keybinds  
+• Fixed Katana and Shotel Crits softlocking you if interrupted  
+• Fixed Pale Briar Critical locking you out of mantras for a while if the critical windup was cancelled  
+• Fixed Shocking Finish not dealing damage  
+• Death's Reverie windup critical sfx fixed  
+  
+• Gear Cabinets now let you repair training gear, restoring their uses up to max, with the cost scaling up the closer it is to breaking  
+• Fixed Bulldozer  
+• 2x chests btw  
+  
+• You can now buy Elemental Training Gear from the Gear Cabinet if you have the element unlocked on your account. Previously, you needed investment in the stat  
+• Fixed Vyrelda not appearing on the Surface  
+• Fixed Gear Cabinets on console
 
 ## **November 8th, 2024**
 
