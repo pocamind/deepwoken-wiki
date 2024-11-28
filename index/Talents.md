@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122167
+revid: 122201
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2329,6 +2329,7 @@ _**"My cure is most effective."**_
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
+    -   If used with Haunted Path: Specter, every 3 hits will make an Apparition appear, proccing [Winded](Status_Effects.md).
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
 
 ### Silvertongue

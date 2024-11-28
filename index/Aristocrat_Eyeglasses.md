@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Eyeglasses
-revid: 116876
+revid: 122200
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,9 +21,9 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, Second Layer, Maestro Evengarde Rest |
+| obtainment | Duke Erisia, First Layer, Second Layer, Maestro Evengarde Rest, Saramaed Hollow |
 | description | "..." |
 
 ## Description
 
-**Aristocrat Eyeglasses** are an [Equipment](Equipment.md) item under the "Face" category. they can be obtained from Duke Erisia, and in both the First Layer & Second Layer of the Depths or Miner's Landing.
+**Aristocrat Eyeglasses** are an [Equipment](Equipment.md) item under the "Face" category. They can be obtained from Duke Erisia, and in both the First Layer & Second Layer of the Depths or Miner's Landing.

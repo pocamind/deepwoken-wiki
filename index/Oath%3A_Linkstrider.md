@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 121728
+revid: 122202
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -64,7 +64,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   Limitations:
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
-        -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied.
+        -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
         -   Your **very first** teleport requires you to have a [Stardust](Stardust.md), all subsequent teleports are free.
     -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_

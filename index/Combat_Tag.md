@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 117346
+revid: 122204
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -14,7 +14,7 @@ Combat tag, or In Combat (In Danger), is the state a player enters upon being at
 
 _(Note: Allies through [Vow Of Mastery,](Vow_of_Mastery.md) [Vow Of Allegiance,](Combat_Mechanics.md) [guildmates](Guilds.md), or being friends on Roblox do not proc combat tag if they hit you.)_
 
-The main purpose is to punish rage-quitting and combat logging.
+The main purpose is to punish rage-quitting and logging in combat.
 
 #### Indicated By:
 
