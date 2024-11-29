@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 122063
+revid: 122280
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -18,7 +18,7 @@ File:Pinkheart.png
 
 Silentheart markings dyed pink
 
-## Dye-able Things
+## Dye-able Components
 
 -   [Equipment](Equipment.md)
 -   Hair

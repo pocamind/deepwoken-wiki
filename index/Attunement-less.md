@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 122228
+revid: 122281
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -242,6 +242,16 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   A quick dash signified by a red-line effect.
     -   The move teleports you forwards only upon hitting an opponent.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
+        -   revenge does NOT do any additional damage unless health is BELOW 50%
+        -   45% = 1.2x
+        -   40% = 1.43x
+        -   35% = 1.65x
+        -   30% = 1.86x
+        -   25% = 2.07x
+        -   20% = 2.28x
+        -   15% = 2.5x
+        -   10% = 2.71x
+        -   5% = 2.9x (below 5% the damage stops increasing)
     -   Scales with the user's Agility Attribute.
     -   With the [Pursuit](Talents.md) Talent, Revenge can be used twice in a row if the first use hits.
     -   Wayward does **NOT** proc on revenge

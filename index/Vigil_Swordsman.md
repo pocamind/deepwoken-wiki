@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 120350
+revid: 122282
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies, Etrea]
@@ -20,65 +20,18 @@ The Vigil Swordsman is a type of enemy NPC found in [Lower Erisia](Lower_Erisia.
 
 ## Moveset
 
-The Vigil Swordsman's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) along with the [Galebreathe](Galebreathe.md) attunement:
+A Vigil Swordsman's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
-| Name/Danger | Description |
-| --- | --- |
-| 
-**Assault**  
-(☆☆☆)
-
- | Firmly swings blade at opponent and continues to combo them until knocked.
-
-  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
-
- |
-| 
-
-**Critical**  
-(★☆☆)
-
- | Performs a windup before thrusting their blade forward.
-
-  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
-
- |
-| 
-
-**Gale Lunge**  
-(★☆☆)
-
- | Lunges forward with their weapon coated in wind.
-
-  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
-
- |
-| 
-
-**Wind Blade**  
-(★☆☆)
-
- | Shoots out an arc of gale.
-
-  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
-
- |
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (☆☆☆) |
+| Critical | Performs a windup before thrusting blade forward. | ◯ | ◯ | (★☆☆) |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
+| Wind Blade | User shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
 
 ## Finisher
 
-The Vigil Swordsman executes its opponent after knocking them:
+A Vigil Swordsman executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

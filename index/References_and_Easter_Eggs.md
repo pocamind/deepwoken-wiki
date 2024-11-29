@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 122276
+revid: 122278
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -156,6 +156,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   It's triple-shot variant is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
 -   **Jar of Souls** is possibly a reference to _The Binding Of Isaac: Repentance_ item, [Urn of Souls](https://bindingofisaacrebirth.fandom.com/wiki/Urn_of_Souls).
     -   It may also be a reference to an [item of the same name](https://riskofrain.fandom.com/wiki/Jar_of_Souls) from _Risk of Rain._
+    -   Also may be a reference to the [Corrupted Beacon](https://minecraft.fandom.com/wiki/Minecraft_Dungeons:Corrupted_Beacon) from _Minecraft Dungeons_, as it functions practically the same.
 
 ## Talents
 
