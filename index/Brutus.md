@@ -1,9 +1,9 @@
 ---
 title: Brutus
-revid: 109460
+revid: 122269
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Attributes, The Hundred Legions]
+categories: [NPCs, The Hundred Legions]
 ---
 
 # Brutus

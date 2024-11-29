@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 119289
+revid: 122275
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Alloyed Weapons]
@@ -43,3 +43,4 @@ After a short windup, the user lunges forward, impaling the target and then slam
 -   At max HVY, the non-alloyed damage is (35.2), but becomes (45.8) with bleed.
     -   At max HVY, the alloyed damage is (38.4), but becomes (49.9) with bleed
 -   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.
+-   It is likely based on the Ngulu, a type of executioner's sword historically used in Africa.

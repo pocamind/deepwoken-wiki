@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 121650
+revid: 122276
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -40,7 +40,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
--   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo#Jujutsu).
+-   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo#Jujutsu)
+-   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**
 
 ### Thundercall
 
@@ -97,7 +98,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
 -   The description for **Arcwarder** quotes Karl Marx, a reference to the Ignition Union's socialist beliefs.
 -   Starkindred has many references:
--   An image showing the singular wing
+    
+    An image showing the singular wing
     
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
