@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 122192
+revid: 122260
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -51,3 +51,4 @@ Fortinbras' arsenal consists of [Frostdraw](Frostdraw.md) and [Bloodrend](Bloodr
 -   Recommended to be fought at Power 20 due to his high health and damage.
 -   His bell is frozen and produces a white mist, although what the bell does is unknown.
 -   He has the same eyes as [Nell, Master of Frost](Nell,_Master_of_Frost.md), with dark sclera and blue irises.
+-   Fortinbras is the only depths-related humanoid enemy to muster some words as he gets executed, as Finnegan and the Fisherman either just don't care enough to speak, or have just lost their sanity to say something to the player. As for the Celtorian guards.. Not much should be said to know why they barely speak.

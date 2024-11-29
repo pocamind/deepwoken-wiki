@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 122171
+revid: 122264
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -130,6 +130,8 @@ The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudski
 More loot will appear if bringing more players, but naturally, this will also result in more monsters. Be cautious!
 
 Relics and enchant stones can drop from any chest at any floor.
+
+Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs.
 
 ## **Tips**
 
