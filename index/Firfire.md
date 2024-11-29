@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 119037
+revid: 122239
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]

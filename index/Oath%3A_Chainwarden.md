@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 122191
+revid: 122253
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -50,7 +50,6 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Restrain - Combat Mantra**
 -   _Deliver a powerful kick that binds your opponent's soul to yours._
--   Popularly knowns as "Black Flash"
 -   Deals true damage.
 -   Applies a chain.
 -   **CURRENTLY BUGGED: BLOODLESS GEM DO NOT WORK WITH THIS MANTRA.**
