@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 122138
+revid: 122305
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fishing]
@@ -10,7 +10,7 @@ categories: [Items, Fishing]
 
 {
 
-“ Say "chum" without the "h". ”
+“ "Is that a jojo's reference" ”
 
 ― A Wise Ganymede
 

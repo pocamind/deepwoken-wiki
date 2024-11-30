@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 118063
+revid: 122334
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -28,7 +28,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The Inquisitor's Straight Sword is a [Greatsword](Weapons.md) with a black handle and center with a white edge. The weapon has a Base Damage of 23.5 and a scaling of 8.3. You can obtain it from [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Rogue Constructs](Hive_Construct.md) or [Primadon](Primadon,_Titan_of_the_East.md). It can also be bought at an [Merchant ship](Travelling_Merchant.md) for a random amount of notes.
+The Inquisitor's Greatsword is a [Greatsword](Weapons.md) with a black handle and center with a white edge. The weapon has a Base Damage of 23.5 and a scaling of 8.3. You can obtain it from [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Rogue Constructs](Hive_Construct.md) or [Primadon](Primadon,_Titan_of_the_East.md). It can also be bought at an [Merchant ship](Travelling_Merchant.md) for a random amount of notes.
 
 ## Notes & Trivia
 

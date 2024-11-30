@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 119459
+revid: 122336
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -102,7 +102,7 @@ She is incapable of actually teaching Shadowcast, and can only be used to level 
 ## Trivia
 
 -   Most of the Attunement trainers have off-color eyes that match the Attunement they teach. For example, Nell's blue eyes represent Frostdraw, and Funke's bright yellow eyes represent Thundercall.
-    -   Nostor is an exception due to being a [Ganymede](Ganymede.md). However, because of this, his entire body instead resembles the color of his attunement, [Shadowcast](Shadowcast.md).
+    -   Nostor is an exception due to being a [Ganymede](Ganymede.md). However, because of this, their entire body instead resembles the color of his attunement, [Shadowcast](Shadowcast.md).
 -   [Beatra](Beatra.md) was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" means "Spark" in German.
 -   [Nostor](Nostor,_Master_of_Shadow.md) wears a Ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md), especially since they use [Shadowcast](Shadowcast.md).

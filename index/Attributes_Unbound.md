@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 121883
+revid: 122333
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -86,6 +86,14 @@ _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)
 7.  Return to Apprentice Kj to finish the quest.
 8.  Head on to the Sparring Arena and talk to [Maestro](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
 9.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
+
+**In-game map location of the wooden cabin:**
+
+  
+
+  
+
+  
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
 

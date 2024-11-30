@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122127
+revid: 122341
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -55,9 +55,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <table>
 <tbody>
 <tr>
-  <td><b>Name</b></td>
-  <td><b>Description</b></td>
-  <td><b>Visual Effect</b></td>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Description</b></center></td>
+  <td><center><b>Visual Effect</b></center></td>
 </tr>
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
@@ -116,7 +116,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
+  the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
 </tr>
 <tr>
@@ -199,6 +199,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased, between 0.5 and 5.5. Scales off weapon damage.<sup><a href="#cite-note-2">[2]</a></sup><br>
+  Deal&nbsp;?% more chip damage.<br>
   Deal bonus damage on a posture break. Scale inverserly with weapon damage (more damage = less bonus).</p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
@@ -226,7 +227,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
-  On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 5 seconds.<br>
+  On hit, a red slash will follow up after a successful m1 on the target with a 0.25s delay after the initial hit, before it goes on a short cooldown of 5 seconds.<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
   <td><div>Weapon is covered in a black &amp; light red aura, just like Grim. Weapon's metal parts glow arctic blue.<br>
   When sheathed, the particles are completely invisible.</div></td>
@@ -254,9 +255,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <table>
 <tbody>
 <tr>
-  <td><b>Name</b></td>
-  <td><b>Description</b></td>
-  <td><b>Visual Effect</b></td>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Description</b></center></td>
+  <td><center><b>Visual Effect</b></center></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -312,9 +313,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <table>
 <tbody>
 <tr>
-  <td><b>Name</b></td>
-  <td><b>Description</b></td>
-  <td><b>Visual Effect</b></td>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Description</b></center></td>
+  <td><center><b>Visual Effect</b></center></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -344,9 +345,21 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 
 **Equipment:**
 
-| **Name** | **Description** | **Visual Effect** |
+| 
+**Name**
+
+ | 
+
+**Description**
+
+ | 
+
+**Visual Effect**
+
+ |
 | --- | --- | --- |
 | 
+
   
 Adhesive
 
@@ -366,7 +379,7 @@ Allure
 
  | 
 
-On proc, apply Charm on the enemy for 10s (5s against the Talent "Disbelief"). All charm related Talent that the user have are applied.
+On proc, apply Charm on the enemy for 10s (5s against the Talent "Disbelief"). All charm related Talent that the user have are applied except for Lasting Charisma.
 
 Nearly guaranteed chance to proc (90%) **DOESNT WORK ON MOBS, ONLY HUMANOIDS NPCS**
 
@@ -469,7 +482,7 @@ Multiplicity
 
  | 
 
-On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of (~5) seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
+On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of 5 seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
@@ -485,7 +498,7 @@ Stench
 
  | 
 
-On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it.
+On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it. Gradually drains 3% of the total HP of all enemies who stand in the cloud.
 
  | 
 
@@ -511,9 +524,21 @@ Equipment is covered in red-pink mist. (No demo yet)
 
 **Removed:**
 
-| **Name** | **Description** | **Visual Effect** |
+| 
+**Name**
+
+ | 
+
+**Description**
+
+ | 
+
+**Visual Effect**
+
+ |
 | --- | --- | --- |
 | 
+
   
 Auto-Repair
 

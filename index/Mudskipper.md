@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 122297
+revid: 122316
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,14 @@ categories: [Monsters]
 
 # Mudskipper
 
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
+
 “ Grgrlglrgl grrgl. Grgrglrgl. ”
 
 ― Mudskippers during Mudwoken
+
+  
+There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers four variants of Mudskippers.
 
 **Mudskipper:**
 
@@ -18,25 +23,43 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
+There are 2 types of these normal Mudskippers. One that can be found naturally, and one that can only spawn during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event. Which only happens in [Lower Erisia](Lower_Erisia.md) and [The Depths](First_Layer.md).
 
-They are born from [Nautilodaunts](Nautilodaunt.md) shoving parasites into the brains of their prey.
+Normal Mudskippers can only attack with their scratches, with the second attack being faster than the first. When there are multiple of them, they will usually swap in and out of each other, taking turns on hitting the player.
 
-When accompanied by Bloatskippers from an [emergence](Random_Encounters.md), their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" Mantra fired from their mouths instead of their hands.
+Enhanced (or Emergent) Mudskippers can do what normal Mudskippers do, but will also have a Mantra to help with in their disposal. Shooting from their mouth, this [Air Force](Galebreathe.md) Mantra will knock the player back greatly when hit. They can only be found during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, popping up from the ground.
+
+### Lore
+
+The Mudskippers are a large family of species consisting of mindless enemies formed from the bodies of the decayed, or by the forceful conversion from a [Nautilodaunt](Nautilodaunt.md). Their notable feature aside from their bright unusual colours, are their empty eyes and the large mass of coral on their head that covers one of their eyes.
+
+They are mostly in complete lack of intellect with a [few exceptions](Mudskipper_Knight.md), leaving them only able to scratch their enemy with no sense of basic combat knowledge, making them entirely defenseless if fought back. However, they seem to still have some sense of intellect, as they will only attack you one at a time, and will tend to swap out if there are multiple.
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+(★☆☆) | Weakly smacks opponent over and over again until knocked.
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 | 
 
 Air Force
 
- | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
+(★★☆) | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
+
+Parryable: X  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 
 ## Finisher
 
@@ -46,52 +69,62 @@ Air Force
 
 ## Tips
 
--   Very good for grinding when first starting, due to their low HP and low damage output.
-    -   Stat Check Level: Any.
--   If you aren't fighting a lot of Mudskippers, use M1s to knock them.
--   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to. If you have the opportunity, use Mantras for attunement XP.
--   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
-    -   Be careful about this, as you can get stun-locked if there is a group of them.
--   If there is a Horde and you can't fight them up close, use ranged attacks such as [Fire Palm](Flamecharm.md), [Ice Forge](Frostdraw.md) and [Air Force](Galebreathe.md).
--   To successfully get out of a Mudskipper flourish you have the option to either parry while holding A, S, or D, or you can vent by pressing G. Then, use your M1s and Mantras.
-    -   Note that in order to vent you must have tempo.
--   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" Mantra and dodge.
-    -   Getting hit by this Mantra will likely cause you to be flung backwards. In unlucky situations, you might end up falling off a cliff, or, if you are in [The Depths](The_Depths.md), being relocated to the [Second Layer](Second_Layer.md).
-    -   Many Mudskippers love to use this Mantra at once, throwing you around and disorienting you for a bit.
+-   Due to their low health and damage, they don't pose a lot of danger.
+-   If you are struggling to parry them, remember that the second attack comes faster, and the first attack comes slower. Get hit a few times intentionally to see the timing, and parry accordingly.
+
+-   When overwhelmed with a lot of Mudskippers, [Vent](Combat_Mechanics.md#combat-basics) by pressing G. Make sure you have the required [Tempo](Combat_Mechanics.md#gui) to do this.
+    -   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking, while others could be using any secondary abilities they have access to. For example, _Air Force_. If they don't have any, they would usually just take turns hitting you.
+    -   If you are struggling with a horde, try using ranged attacks like [Fire Palm](Flamecharm.md) or [Ice Forge](Frostdraw.md).
+
+-   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Galebreathe.md), and dodge.
+    -   If you get hit by _Air Force_, you will be flung backwards greatly, maybe even off a cliff. Make sure you pay attention to your surroundings so that you may not fall into worse situations.
+    -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.
         
 
 **Bloatskipper:**
 
-  
 Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. It is very similar to the Mudskipper. However, it possesses a unique property wherein upon knock, it will explode swiftly, dealing massive damage and instantly executing nearby players and enemies that are knocked. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the [Air Force](Galebreathe.md) Mantra.
+These Bloatskippers are very similar to the Mudskippers. However, they possess a unique property wherein upon knocked, will explode swiftly, dealing minor damage and instantly executing nearby players and enemies that are knocked. On top of that, it is almost always seen spawning in groups during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event.
+
+There are 2 ways to encounter this Mudskipper variant:
+
+-   The first is during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, where it will spawn alongside Normal Mudskippers and Enhanced Mudskippers. This can happen in either [The Depths](First_Layer.md), or [Lower Erisia](Lower_Erisia.md).
+-   And the second is being summoned, or thrown, by the [Mudskipper Broodlord](Mudskipper_Broodlord.md). If summoned, it will act as normal. If thrown, it will explode upon impact, and die instantly.
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+(★☆☆) | Weakly smacks opponent over and over again until knocked.
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯
+
+ |
+
+## Passives
+
+-   Decomposition - Bloated Mudskippers will explode shortly after death, autogripping any downed bodies nearby and dealing minor damage and stun.
 
 ## Finisher
 
 | Name | Description |
 | --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their blade. |
-| Kamikaze | Explodes about a second after death, taking whoever else is weakened or knocked with it via insta-grip, this move can be blocked it is wise to block immediately after killing/gripping. |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
 
 ## Tips
 
--   The "[Air Force](Galebreathe.md)" Mantra can push them towards you and let them get the drop on you.
-    -   Many Mudskippers love to use this Mantra at once, throwing you around and disorienting you for a bit.
--   Take them out first, only then you can deal with the normal Mudskippers.
--   Don't let allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be insta-gripped/executed by the explosion.
-    -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.
+-   Make sure to step away from their bodies after you knock them, as it will explode right after.
+    -   This will also instantly execute any knocked enemies nearby, including you or your allies.
+-   During the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, they will be accompanied with other Mudskipper variants. Be careful when it happens.
+    -   You can use Bloatskipper's death explosion to your advantage, by instantly exeucting many knocked Mudskippers all at once.
 -   The explosion from one Bloatskipper can cause a chain reaction of explosions from nearby insta-gripped Bloatskippers.
     
 
@@ -103,19 +136,37 @@ Template:Creature Infobox V3
 
 Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md) and [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md). They are a variant of the Mudskipper. If parried, its limbs will fly off one by one, eventually followed by its head, killing it instantly.
 
+When down two arms, to its last life, the Rotskipper will headbutt you instead of scratching.
+
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+(★☆☆) | Weakly smacks opponent over and over again until knocked.
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯
+
+ |
 | 
 
 Headbutt
 
- | Having lost both its arms, it resorts to smacking the opponent with its head. Even weaker, slower _and_ easier to parry than Scratch. | ◯ | ◯ | (☆☆☆) |
+(★☆☆) | Having lost both its arms, it resorts to smacking the opponent with its head. Even weaker, slower _and_ easier to parry than Scratch.
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯
+
+ |
+
+## Passives
+
+-   Brittle - Rotskippers will die after 3 parries.
 
 ## Finisher
 
@@ -125,72 +176,11 @@ Headbutt
 
 ## Tips
 
--   Very good for grinding when first starting, due to their low HP and low damage output.
-    -   Stat Check Level: Any.
--   Surprisingly, they have far more HP than regular mudskippers.
-
-## Trivia
-
--   During Hallowtide 2023, parrying their attacks would only cause their left arm to fall off, successive parries having no effect, creating the sound effect and generating a mutilated limb but not actually tearing their limb off.
-    -   This was likely due to them sharing code with Gourdskippers.
+-   Despite their increased health compared to the normal Mudskipper, they can be easily beaten without much worry.
+-   As with normal Mudskippers, their second attack will come faster than the first one. Make sure to focus on parrying it intently, as Rotskippers will instantly die when you parry them 3 times.
+    -   If you beat a Rotskipper by parrying them, you won't get a healthpack and heal.
+    -   If you want to heal from them, make sure to kill them with conventional methods.
         
-
-**Necroskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). This variant is more towards the dangerous side of the Mudskippers as they can use Mantras. In addition, it also spawns in groups of 3 and wear two completely unknown armors, being color-coded fur cloaks and boots over a plated outfit.
-
-## Moveset
-
-### Redskipper
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Scratch
-
- | Weakly scratches opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
-| 
-
-Flame Ballista
-
- | Conjures a Flaming Arrow before firing it at an opponent. | ◯ | ◯ | (★★☆) |
-
-### Blueskipper
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Scratch
-
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
-| 
-
-Ice Spikes
-
- | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★★☆) |
-| 
-
-Warden's Blades
-
- | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished. | ◯ | ◯ | (★★☆) |
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| \[Redskipper\] Incineration | \[Redskipper\] The flame status effect from the Flamecharm attunement burns away the opponent's corpse. |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
-
-## Tips
-
--   Try to hit all of them at once so one doesn't use a Mantra while you're preoccupied with another.
--   Fighting a [Ministry Necromancer](Ministry_Necromancer.md) at lower levels can be extremely painful and annoying to fight, because if you take too long to kill all three Necroskippers, they'll simply summon another wave.
--   If you parry the red Necroskipper's fire attack, they'll set themselves on fire, and can deal enough damage to down them, in which case the fire will grip them.
-    
 
 **Mineskipper:**
 
@@ -198,159 +188,48 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mineskippers are a Mudskipper variant that wear mining helmets and the [Experienced Adventurer outfit](Outfits.md). Their regular variant holds a pickaxe in its right hand. They are found in the caves of [Songseeker Wilds](Songseeker_Wilds.md). They drop every [Ore](Ores.md) variant, including Erisore, Irithine, Astruline, Umbrite, Gold, Iron, and Coal, while also dropping a [Miner's Hardhat](<Miner's_Hardhat.md>) which gives you the Talent "Rock Blaster" which "Doubles your ore yields when mining."
+Mineskippers are a Mudskipper variant that wear mining helmets and the [Experienced Adventurer](Experienced_Adventurer.md) Outfit. Their regular variant holds a pickaxe in its right hand. They are found in the caves of [Songseeker Wilds](Songseeker_Wilds.md). They drop every [Ore](Ores.md) variant, including Erisore, Irithine, Astruline, Umbrite, Gold, Iron, and Coal, while also dropping a [Miner's Hardhat](<Miner's_Hardhat.md>) which gives you the Talent "Rock Blaster" which "Doubles your ore yields when mining."
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+(★☆☆) | Weakly smacks opponent over and over again until knocked.
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯
+
+ |
 | 
 
 Air Force
 
- | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
+(★★☆) | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
+
+Parryable: X  
+Blockable: ◯  
+Dodgeable: ◯
+
+ |
 
 ## Finisher
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent before slicing their throat with their thumbnail. |
-
-**Meteorskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Meteorskippers are Mudskippers similar to Mudskipper Knights. They are found in meteors around [Meteor Isle](Meteor_Isle.md), spawning with several different types of weapons and around each other in a group. They wield weapons and wear the [Darksteel Plate](Darksteel_Plate.md) outfit, along with [Woodland Boots](Equipment.md) and [Woodland Pauldrons](Equipment.md). They seem to be a lot more intelligent then the average Mudskipper as they are able to detect enemies a lot quickly if someone is behind them. After killing all of a group, the meteor will turn into a chest.
-
-## Moveset
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Assault
-
- | Firmly swings sword at opponent before flourishing by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
-
-Critical
-
- | Winds up their weapons before striking, dealing high posture damage.. | ◯ | ◯ | (★★☆) |
-
-### Boons
-
--   Skilled Fighter - Can block and parry common attacks and Mantras, as well as roll away from criticals and feint their own attacks.
--   Skilled Watcher - Can detect an enemy quickly, regardless behind them or sneaking up on them.
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Execution | Pins down the opponent and slices their throat with their blade. |
-
-**Mudskipper Knight:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Enemies that are summoned to fight the weak during The Depths, or rising from the graves of the [Burning Stone Gardens](Burning_Stone_Gardens.md) in groups of 4-5. They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
-
-They can be encountered in The Depths (Trial) while the character's power is between 3 - 6 (?).
-
-## Moveset
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Assault
-
- | Firmly swings sword at opponent before flourishing by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
-
-Critical
-
- | Winds up by pulling their sword back before suddenly thrusting it forwards. | ◯ | ◯ | (★★☆) |
-
-### Boons
-
--   Skilled Fighter - Can block and parry common attacks and Mantras, as well as roll away from criticals and feint their own attacks.
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Execution | Pins down the opponent and slices their throat with their blade. |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
 
 ## Tips
 
--   Parrying is essential when combating one as an inexperienced player can die easily to it.
-    -   It's essentially a skill check.
--   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
-    
-
-**Gourdskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Gourdskippers are a unique enemy exclusive to the Trial of the Gourdskipper during Hallowtide 2023. They are a variant of the Mudskipper. During the trial of the Gourdskipper Gourdskippers automatically aggro onto the nearest non-infected, though attacking them while infected will cause them to re-aggro onto you, hitting you until you are either knocked, gripped, or out of range.
-
-## Moveset
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Scratch
-
- | Weakly smacks opponent | ◯ | ◯ | (★☆☆) |
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail.
-(This will USUALLY occur when you are knocked by a player but sometimes it happens if a Gourdskipper knocks you.)
-
- |
-
-## Trivia
-
--   Gourdskippers do have a grip animation.
--   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried.
-    
-
-**Pumpskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Pumpskippers are a unique enemy exclusive to the Trial of the Gourdskipper during Hallowtide 2024. They are a variant of the Mudskipper. During the trial of the Gourdskipper Pumpskippers automatically aggro onto the nearest non-infected, though attacking them while infected will cause them to re-aggro onto you, hitting you until you are either knocked, gripped, or out of range.
-
-## Moveset
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| 
-Scratch
-
- | Weakly smacks opponent | ◯ | ◯ | (★☆☆) |
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail.
-(This will USUALLY occur when you are knocked by a player but sometimes it happens if a Pumpskipper knocks you.)
-
- |
+-   These variant of Mudskippers can only be found in one location, where at least 10-20 of them spawn in the same area.
+    -   It is not advised to take these on unless you're skilled, or high enough level to deal with them.
+    -   Try to kill them as fast as possible. Use plenty of AoE moves.
+    -   Instantly grip them if possible, either through [Mercy Kill](Talent_Quests.md#mercy-kill) or [Burn](Status_Effects.md#burning). If not,
+    -   Try to bunch the knocked Mineskippers up in one corner, and try not to let other Mineskippers use [_Air Force_](Galebreathe.md) to blow away the grouped pile of them. When you are finished with knocking all the Mineskippers, grip 2 and swing at the pile to ensure they don't get back up.
+        
 
 ## Trivia
 
@@ -361,9 +240,7 @@ Scratch
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.
--   The Meteorskipper comes from meteors, which therefore means they may reside in The Heavens and/or the Voidfog.
--   Corrupted mudskippers can spawn in the depths, however they do not pose much of a threat.
 -   If you don't want to risk going down to the depths for Umbrite to get Ironsing, just fight the Mineskippers as they have a chance to drop every ore in the game.
 -   Mudskippers participated in the 2024 April fools event under the name the Blue Skippers.
 -   ID for mudskipper head. 17538022269 - Head - b9e4ff / 17536524775 - Face - 000000 / 17536531879 - Yellow Stripes - dab260
--   Dodging a Bloatskipper's explosion will cause you to be combat tagged.
+-   Dodging a Bloatskipper's explosion will cause you to be combat tagged by God.

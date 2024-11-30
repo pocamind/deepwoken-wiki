@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 122092
+revid: 122328
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1770,7 +1770,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>45</td>
 </tr>
 <tr>
-  <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
+  <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></td>
   <td>40 HVY</td>
   <td>23.5</td>
   <td>N/A</td>

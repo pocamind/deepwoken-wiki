@@ -1,6 +1,6 @@
 ---
 title: Argo
-revid: 78995
+revid: 122309
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
