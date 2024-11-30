@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 122281
+revid: 122291
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -241,7 +241,12 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
 -   **Requirements:** _**5 Agility,**_ _Combat Mantra_
     -   A quick dash signified by a red-line effect.
     -   The move teleports you forwards only upon hitting an opponent.
-    -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
+    -   This mantra has a cooldown of 15 seconds.
+    -   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
+    -   It has a posture damage of 5.5, regardless of mantra level.
+    -   This mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
+    -   Its base damage per level is 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 and has an agility scaling of 2.
+    -   The Damage of the move scales with how much HP the user has left, dealing more damage with less HP.
         -   revenge does NOT do any additional damage unless health is BELOW 50%
         -   45% = 1.2x
         -   40% = 1.43x
@@ -252,7 +257,6 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
         -   15% = 2.5x
         -   10% = 2.71x
         -   5% = 2.9x (below 5% the damage stops increasing)
-    -   Scales with the user's Agility Attribute.
     -   With the [Pursuit](Talents.md) Talent, Revenge can be used twice in a row if the first use hits.
     -   Wayward does **NOT** proc on revenge
     -   Can be upgraded with Stones and Shards. (Increases range of the Mantra).
@@ -360,6 +364,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
     -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
         -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
     -   Upgrading this Mantra extends the duration.
+        -   At level 5 it lasts 12 seconds.
     -   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), having higher willpower than the caster (Willpower stat).
 
  |

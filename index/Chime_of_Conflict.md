@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 116545
+revid: 122294
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents, Items]
@@ -95,3 +95,5 @@ Ranked **(Top 101-250)**
 -   The "Godseeker" title is likely a reference to Hollow Knight
 
 -   The lowest Elo possible is 500
+
+-   You get a ranking once you are in the top 2500

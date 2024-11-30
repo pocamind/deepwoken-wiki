@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 122164
+revid: 122298
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
