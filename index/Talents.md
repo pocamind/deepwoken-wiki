@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122201
+revid: 122392
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2643,7 +2643,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
         -   Default knock time is 10 seconds, so you can make your friends get back into the fight over 3 times faster.
         -   Requires an animation, stunlocking yourself.
-    -   Prerequisites: 40 Fortitude or Charisma, 50 Thundercall
+    -   Prerequisites: 40 Fortitude or 40 Charisma, 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly.
     -   Does not work on monsters
@@ -3171,6 +3171,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
+-   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
 -   Wormwarder [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
 

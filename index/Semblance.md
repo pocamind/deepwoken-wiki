@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 122384
+revid: 122395
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,11 +10,13 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Semblance is a humanoid enemy NPC, that can be found at the [Voidsea](Voidsea.md) structure event (the ones where threshers usually spawns). They race and gender is unknown or rather none.
+Semblance is a humanoid enemy NPC, that can be found at the [Voidsea](Voidsea.md) structure event, [Sandy Remnants](Random_Encounters.md#sandy-remnants). Their race and gender is unknown or rather none.
+
+  
 
 ## Moveset
 
-A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), or [Fractine](Fractine.md)
+A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), or [Fractine](Fractine.md).
 
 <table><caption></caption>
 <tbody>
@@ -34,7 +36,7 @@ A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [N
 </tr>
 <tr>
   <td>Critical</td>
-  <td>[</td>
+  <td>[Soulthorn]<p>[Nocturne] [Fractine]</p></td>
   <td><font>◯</font></td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
@@ -46,9 +48,16 @@ A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [N
   <td>N/A</td>
   <td>(★★☆)</td>
 </tr>
+<tr>
+  <td>Time-Slowing Orb</td>
+  <td>The Semblance stops moving, and creates a bubble. After it's been made, any player that steps inside is severely slowed.</td>
+  <td><font>✗</font></td>
+  <td><font>✗</font></td>
+  <td>(★★☆)</td>
+</tr>
 </tbody>
 </table>
 
-They also have the ability to use the Time-Slowing Orb, a move that was thought to be only exclusive to the [Knife of Eylis](Subtle_Knife_of_Eylis.md) can use.
+They also have the ability to use the Time-Slowing Orb, a move that was thought to be only exclusive to the [Knife of Eylis](Subtle_Knife_of_Eylis.md).
 
 File:Fractine semblaceImage.png

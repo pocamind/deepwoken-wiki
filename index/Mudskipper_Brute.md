@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 115998
+revid: 122396
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Mudskipper Brute
 
-_Also known as "Bruteskipper" or "Brutelords"._ Template:Creature Infobox V3
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._ Template:Creature Infobox V3
 
 ## Description
 

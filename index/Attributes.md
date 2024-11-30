@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 122189
+revid: 122423
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -115,7 +115,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 -   Weapons → _use the **[Weapon Manual](Weapon_Manual.md)**_
 -   All of the weapons are:
     -   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
-    -   _**[Unbounded](Attributes_Unbound.md) by killing any humanoid [boss](Bosses.md).**_
+    -   _**[Unbounded](Attributes_Unbound.md) by killing any humanoid [boss](Bosses.md) while having 75 points invested into the weapon attribute.**_
 
 ### Heavy Weapons (HVY)
 

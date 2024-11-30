@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 122356
+revid: 122393
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -31,40 +31,39 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Light Weapons
 
--   13 Daggers (16 if Alloyed)
--   8 Fists
+-   15 Daggers (17 if Alloyed)
+-   9 Fists
 -   5 Guns (6 if Alloyed)
 -   7 Rapiers
--   1 Bow (Unreleased)
 
 #### Medium Weapons
 
--   21 Swords (26 if Alloyed)
--   12 Spears (14 if Alloyed)
--   5 Clubs
+-   22 Swords (27 if Alloyed)
+-   13 Spears (15 if Alloyed)
+-   6 Clubs
 -   3 Rifles
 -   4 Twinblades (5 if Alloyed)
 
 #### Heavy Weapons
 
 -   12 Great Axes (15 if Alloyed)
--   11 Great Swords (15 if Alloyed)
--   10 Great Hammers (11 if Alloyed)
+-   14 Great Swords (18 if Alloyed)
+-   12 Great Hammers (14 if Alloyed)
 
 #### Others
 
--   17 Elemental
+-   19 Elemental
 -   8 Exclusive
 -   6 Divine [Crazy Slots](Crazy_Slots.md)
--   9 Offhand
+-   11 Offhand
 
 #### In Total
 
--   120 Total Weapons (Non-Alloyed, Non-Exclusive)
--   128 Total Weapons (Non-Alloyed, Exclusive)
--   140 Total Weapons (Alloyed, Non-Exclusive)
--   145 Total Weapons (Alloyed, Exclusive)
--   151 Total Weapons (Alloyed, Exclusive, Divine)
+-   152 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   160 Total Weapons (Non-Alloyed, Exclusive)
+-   172 Total Weapons (Alloyed, Non-Exclusive)
+-   180 Total Weapons (Alloyed, Exclusive)
+-   186 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 

@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 122194
+revid: 122425
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1]
@@ -41,7 +41,7 @@ If you talk to him with a Resonance and the Tarnished flaw, he will offer to unt
     -   While technically fanart, a picture of Dr. Carrion, drawn by SudoMesh, has been taken by him as his official appearance.
 -   Carrion means the flesh of a dead animal, which is fitting considering that he converts monster drops into mantras.
 -   In the dialogue with Klaris after interacting with Carrion in New Kyrsa: the player will note Carrion describing himself as "Dr. Diver".
--   It has been confirmed by Arch\_Mage that Dr. Carrion escaped from Layer 2 by stepping on Klaris' Light Hook, but it has not been confirmed if it is the same light hook the player used to escape Layer 2. This, ofcourse, doesn't make any sense if you think about it for more than 10 seconds since he can return to Castle Light without you having taken the Light Hook.[\[1\]](#cite-note-1) This also contradicts Doc's own words that it was a clone, but since he has a tendency to just _say_ stuff, his world should probably taken with a mountain of salt.
+-   It has been confirmed by Arch\_Mage that Dr. Carrion escaped from Layer 2 by stepping on Klaris' Light Hook, but it has not been confirmed if it is the same light hook the player used to escape Layer 2. This, ofcourse, doesn't make any sense if you think about it for more than 10 seconds since he can return to Castle Light without you having taken the Light Hook.[\[1\]](#cite-note-1) This also contradicts Doc's own words that it was a clone, but since he has a tendency to just _say_ stuff, his word should probably taken with a mountain of salt.
 -   Hair id: 8213821125
 
 ## References

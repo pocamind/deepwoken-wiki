@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 122324
+revid: 122417
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -27,20 +27,61 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ### Obtainable Oaths
 
--   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
--   [Bladeharper](Oath%253A_Bladeharper.md): +2 Combat Mantra \[75 MED or 90 Cumulative Weapon Stat & 25 Strength or Agility\]
--   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower, Suffer from Blindness & All 3 Mental Fortress Talents\]
--   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
--   [Chainwarden](Oath%253A_Chainwarden.md): +1 Wildcard Mantra, +2 Combat Mantra \[40 points shared across Strength, Fortitude and Willpower\]
--   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]
--   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
--   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility, +5 Health \[50 Agility\]
--   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
--   [Oathless](Oath%253A_Oathless.md): _+2 Wildcard Mantra, +20% Oath DMG Resistance, +10 HP \[No Stat Requirements\]_
--   [Saltchemist](Oath%253A_Saltchemist.md): +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load \[75 Intelligence\]
--   [Silentheart](Oath%253A_Silentheart.md): +10 Health, +2 Posture \[Attunement-less, 75 Weapon, 25 Strength, 25 Agility/Charisma\]
--   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 Health \[40 Strength\]
--   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
+[Oath:\_Oathless](Oath%253A_Oathless.md)
+
+[Oath:\_Oathless](Oath%253A_Oathless.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Arcwarder](Oath%253A_Arcwarder.md)
+
+[Oath:\_Arcwarder](Oath%253A_Arcwarder.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Bladeharper](Oath%253A_Bladeharper.md)
+
+[Oath:\_Bladeharper](Oath%253A_Bladeharper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Blindseer](Oath%253A_Blindseer.md)
+
+[Oath:\_Blindseer](Oath%253A_Blindseer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Contractor](Oath%253A_Contractor.md)
+
+[Oath:\_Contractor](Oath%253A_Contractor.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Chainwarden](Oath%253A_Chainwarden.md)
+
+[Oath:\_Chainwarden](Oath%253A_Chainwarden.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)
+
+[Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)
+
+[Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Jetstriker](Oath%253A_Jetstriker.md)
+
+[Oath:\_Jetstriker](Oath%253A_Jetstriker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Linkstrider](Oath%253A_Linkstrider.md)
+
+[Oath:\_Linkstrider](Oath%253A_Linkstrider.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Saltchemist](Oath%253A_Saltchemist.md)
+
+[Oath:\_Saltchemist](Oath%253A_Saltchemist.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Silentheart](Oath%253A_Silentheart.md)
+
+[Oath:\_Silentheart](Oath%253A_Silentheart.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Starkindred](Oath%253A_Starkindred.md)
+
+[Oath:\_Starkindred](Oath%253A_Starkindred.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Oath:\_Visionshaper](Oath%253A_Visionshaper.md)
+
+[Oath:\_Visionshaper](Oath%253A_Visionshaper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
