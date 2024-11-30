@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 122328
+revid: 122356
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1898,6 +1898,19 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.91x</td>
   <td>N/A</td>
   <td>41</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Fractine"><font>Fractine</font></a></td>
+  <td>80 HVY, 40 INT, LVL 10</td>
+  <td>22</td>
+  <td>25%</td>
+  <td>20%</td>
+  <td>HVY: 7, Int: 4</td>
+  <td>6</td>
+  <td>9</td>
+  <td>0.81x</td>
+  <td>N/A</td>
+  <td>47.2</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>

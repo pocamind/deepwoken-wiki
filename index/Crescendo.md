@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 121146
+revid: 122376
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals]
@@ -40,9 +40,8 @@ Like all other Twinblades, the Crescendo possesses a unique aerial attack animat
 
 ## Critical
 
-Preform two spinning attacks with hyperarmour, however, like [Starkindred's](Oath%253A_Starkindred.md) "Death from Above" Talent, Crescendo's critical requires a hit on its initial slash to maintain hyperarmour. Both attacks have long windups.
+Perform two spinning attacks with hyperarmour, however, like [Starkindred's](Oath%253A_Starkindred.md) "Death from Above" Talent, Crescendo's critical requires a hit on its initial slash to maintain hyperarmour. Both attacks have long windups.
 
 ## Trivia
 
--   The blades resemble [Krulian Knives](Krulian_Knife.md).
--   For a while after the weapons release, its crit was unparriable. This was later confirmed to be a bug and fixed.
+-   For a while after the weapons release, its critical hit was unparriable. This was later confirmed to be a bug and fixed.

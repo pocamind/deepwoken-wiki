@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 121766
+revid: 122374
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -65,7 +65,7 @@ _Upon obtaining this oath, two snake bracelets will wrap around your arms._
 
 -   **Untouchable - Passive**
     -   By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.
-        -   Upon proccing Untouchable, enter the True Strength state where your critical, air attack, and oath mantras is empowered.
+        -   Upon proccing Untouchable, enter the True Strength state where your critical, air attack, and oath mantras are empowered.
         -   To proc the talent you must land 5 hits with any weapon, meaning m1s or criticals. Multi-hit criticals like the [Curved Blade of Winds](Curved_Blade_of_Winds.md) 1H crit or the [Trident Spear](Trident_Spear.md) critical will proc the talent upon 5 hits of the critical landing.
             
 -   **Reveal - Utility**
