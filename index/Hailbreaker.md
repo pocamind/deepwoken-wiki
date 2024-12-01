@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 121588
+revid: 122537
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
@@ -38,11 +38,11 @@ This weapon can change forms with the use of its critical similarly to [Light's 
 
 ## Criticals
 
-**Stage I**: Performs two quick slashes placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage II coating in thick ice.
+**Stage I**: Performs two quick slashes placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage II, removing the carbon substance coating the blade.
 
-**Stage II**: Dashes forward performing a large upward slash placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage III breaking the ice and coating the weapon in a carbon substance.
+**Stage II**: Performs two heavy slashes placing ice under the users feet and freezing the opponent in place, this moves the weapon to stage III, coating it in ice.
 
-**Stage III**: Performs two heavy slashes placing ice under the users feet and freezing the opponent in place, this reverts the weapon back to stage I removing the carbon substance coating the blade.
+**Stage III**: Dashes forward performing a large upward slash placing ice under the users feet and freezing the opponent in place, this moves the weapon back into stage I, breaking the ice and coating the weapon in a carbon substance.
 
 All criticals have a cooldown of 10 seconds. The criticals do not have a 100% chance of moving to the next stage.
 

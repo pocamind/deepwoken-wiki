@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 121760
+revid: 122514
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -55,6 +55,8 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Strange_Claw.md">Strange Claw</a></td>
   <td>5</td>
+  <td><a href="Stardust.md">Stardust</a></td>
+  <td>10</td>
 </tr>
 </tbody>
 </table>
@@ -65,14 +67,14 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 | Name | Description | Media |
 | --- | --- | --- |
-| **Stomp** | Primadon raises its **right** foot and stomps once.
+| **Mommy step on me** | Primadon raises its **right** foot and stomps once.
 Parryable:◯  
 Blockable:◯  
 Dodgeable:◯  
 Danger:(★☆☆)
 
  |  |
-| **Trample** | Primadon performs 3 quick stomps with its **left** foot.
+| **Mommy step on me 3x** | Primadon performs 3 quick stomps with its **left** foot.
 
 Parryable:◯  
 Dodgeable:◯  
@@ -126,7 +128,11 @@ Dodgeable:◯
 Danger:(★★★)
 
  |
-| **Enrage** | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
+| 
+
+### Fent Mode : ON
+
+ | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
 
 Automatically used when dropping below 50% health. Signified by a red mist that surrounds Primadon's body.  
 Danger:(★★★)

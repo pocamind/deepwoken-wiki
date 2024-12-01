@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 122484
+revid: 122538
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | None |
+| oath_req | 10 minutes of playtime |
 | effects | +10 Health, +20% Oath Resistance, +2 Wildcard Mantra Slots |
 
 “ Those eyes.. you wish to walk alone too. ”
