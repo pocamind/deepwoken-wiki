@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 121649
+revid: 122506
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -57,7 +57,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 ### [Agility](Attributes.md#agility)
 
--   _I go high beyond others, trying to impress them. **(Acrobat)** (Time to Go, Kick Off, Steady Footing)_
+-   _I once performed in a Circus **(Acrobat)** (Time to Go, Kick Off, Steady Footing)_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)** (Scaredy Cat, Endurance Runner, Conditioned Runner)_
 -   _I prefer to attack unseen. **(Assassin)** (Deep Wound, Lowstride, Lights Out, Unseen Threat) **(Note; This skill tree requires atleast one assassination done)**_
 -   _Light on my feet, I sting like a bee. **(Butterfly)** (Swift Rebound) **(Note; Cannot give Risky Moves, Evasive Expert, Ghost)**_

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122229
+revid: 122503
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -40,7 +40,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
 ### Combat Mantras
 
-| **Image** | **Name** | **Card Description** | Damage Type | **Effect** |
+| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
 | --- | --- | --- | --- | --- |
 |  | 
 Fire Blade
