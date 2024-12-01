@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122392
+revid: 122446
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -482,22 +482,22 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 > _**"The elements crave the blood of others."**_
 
--   Blood and Iron \[Common Talent\] - Pulling rods out of your opponent now replenishes an equivalent amount of blood.
+-   Blood and Iron \[Common Talent, Dual Attunement\] - Pulling rods out of your opponent now replenishes an equivalent amount of blood.
     -   Prerequisite: 40 Bloodrend, 40 Ironsing
 
--   Brain Death \[Common Talent\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
+-   Brain Death \[Common Talent, Dual Attunement\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
--   Cold Blooded \[Common Talent\] - Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode.
+-   Cold Blooded \[Common Talent, Dual Attunement\] - Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode.
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
--   Electrolyte \[Common Talent\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
+-   Electrolyte \[Common Talent, Dual Attunement\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
     -   Prerequisite: 40 Bloodrend, 40 Thundercall
 
--   Malevolent Sapper \[Common Talent\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
+-   Malevolent Sapper \[Common Talent, Dual Attunement\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
     -   Prerequisite: 40 Bloodrend, 40 Shadowcast
 
--   Scorchblood \[Common Talent\] - Guardbreaking your opponent with a bloodrend mantra sets them on fire.
+-   Scorchblood \[Common Talent, Dual Attunement\] - Guardbreaking your opponent with a bloodrend mantra sets them on fire.
     -   Prerequisite: 40 Bloodrend, 40 Flamecharm
 
   

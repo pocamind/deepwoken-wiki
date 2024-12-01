@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 121023
+revid: 122471
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals]
@@ -27,7 +27,7 @@ categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Igni
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Finnegan The Lost |
-| description | "A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble and foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark." |
+| description | "The Drilling-Edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble and foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark." |
 
 ## Description
 

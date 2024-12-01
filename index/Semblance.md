@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 122395
+revid: 122477
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -59,5 +59,7 @@ A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [N
 </table>
 
 They also have the ability to use the Time-Slowing Orb, a move that was thought to be only exclusive to the [Knife of Eylis](Subtle_Knife_of_Eylis.md).
+
+And they seem to be Gale Breathers using moves such as Wind Blade
 
 File:Fractine semblaceImage.png

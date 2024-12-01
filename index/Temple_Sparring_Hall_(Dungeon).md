@@ -1,6 +1,6 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 109814
+revid: 122441
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Dungeons]
@@ -16,16 +16,12 @@ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war
 
   
 
-  
-
-  
-
 ## Overview
 
-Temple Sparring Hall is a dungeon that can be reached from the [Isle of Vigils](Isle_of_Vigils.md). It is an enormous well lit hall, made in a japanese-like style, surrounded by stone statues and with the lanterns on the roof.
+Temple Sparring Hall is a dungeon that can be reached from the [Isle of Vigils](Isle_of_Vigils.md). It is an enormous well lit hall, made in a Japanese-like style, surrounded by stone statues and with the lanterns on the roof.
 
--   This is a place, where player fights [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md). Player can reach it by completing certain actions and then talking to the Maestro. Upon entering the dungeon, talk to the Evangarde Rest and the fight will start. Once you do it, you can't leave this place until you defeat him or die. More information see on his boss page.
+-   This is a place, where player fights [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). Player can reach it by completing certain actions and then talking to the Maestro. Upon entering the dungeon, talk to the Evangarde Rest and the fight will start. Once you do it, you can't leave this place until you defeat him or die.
 
 ## Potential enemies
 
--   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)

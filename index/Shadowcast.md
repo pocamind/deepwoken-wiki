@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 121923
+revid: 122463
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -798,11 +798,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
--   File:Location shadow trainer.png
-    
-    Location of the shadow trainer.
-    
-    Shadowcast is the only actual attunement (meaning attunementless is not included) to not have its own respective path.
+-   Shadowcast and [Bloodrend](Bloodrend.md) are the only actual attunements (meaning attunementless is not included) to not have their own respective paths.
 
 ## References
 

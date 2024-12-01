@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 122399
+revid: 122469
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Unique Critical, "Multi-Weapon Scaling"]
@@ -48,3 +48,4 @@ The critical has a cooldown of **5.5 seconds**.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and INT, the weapon deals 33.9 damage.
 -   At max HVY and INT, the weapon deals 40.2 damage.
+-   This greatsword doesn't have endlag

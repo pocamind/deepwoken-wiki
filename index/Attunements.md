@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 122263
+revid: 122432
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics]
@@ -12,7 +12,7 @@ File:Attunementicon.png
 
 **Attunements** are forms of magic that the player can choose on Character Creation or obtain in the game through [Trainers](Attunement_Trainers.md).
 
-**IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines.md#shrine-of-order),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit"- where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._
+**IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines.md#shrine-of-order),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit" - where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._
 
   
 
@@ -30,7 +30,7 @@ Post-creation, the character is able to learn more attunements throughout their 
 -   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
 -   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
 -   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
--   [Ironsing](Ironsing.md) = 1 _of every ore_ (Including a Relic)
+-   [Ironsing](Ironsing.md) = 1 _of every [ore](Ores.md)_ (Including a Relic)
 -   [Bloodrend](Bloodrend.md) = [Heartstars](Heartstar.md)
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.

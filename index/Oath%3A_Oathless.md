@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 120611
+revid: 122466
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 14 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five [Oaths](Oaths.md) that have no direct stat requirements.
+**[Oath](Oaths.md): obbyless** is one of the 14 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five [Oaths](Oaths.md) that have no direct stat requirements.
 
 Despite its oxymoronic nature, this still counts as an Oath. So other Oaths like [Linkstrider](Oath%253A_Linkstrider.md) or [Contractor](Oath%253A_Contractor.md) that has their progression tied to killing Oath users can progress by killing people with this Oath, along with other Oaths.
 

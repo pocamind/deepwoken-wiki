@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 122234
+revid: 122475
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -33,7 +33,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 _The Lord Regent, sitting atop his throne of coral._
 
--   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual and [Contractor](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [the Ministry](The_Ministry.md).
+-   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual with enhanced versions of the powers of his [Contractors](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [the Ministry](The_Ministry.md).
 -   Nobody in [Etris](Etris.md) is sure of where he originates, but they accept him for his formidable power, and his actions _appear_ to be in the best interests of Etris.
 -   Lord Regent is the Fourth Prophet out of nine Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
 -   When speaking with the Bookworm about Etris' previous rulers, we learn all of their histories were recorded in books stored within the city's official history office, though the office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' history.
