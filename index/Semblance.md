@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 122477
+revid: 122490
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Semblance is a humanoid enemy NPC, that can be found at the [Voidsea](Voidsea.md) structure event, [Sandy Remnants](Random_Encounters.md#sandy-remnants). Their race and gender is unknown or rather none.
+Semblance is a humanoid enemy NPC, that can be found at the [Voidsea](Voidsea.md) structure event, [Sandy Remnants](Random_Encounters.md#sandy-remnants). Their race and gender is unknown or rather none. They also has a chance to drop [Nocturne](Nocturne.md), maybe Soulthorn and Fractine (needs testing)
 
   
 

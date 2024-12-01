@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 121589
+revid: 122495
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -103,7 +103,7 @@ _verb_
 _verb_
 
 1.  To use the fourth attack of your weapon, knocking your opponent back.
-2.  "The freshie died to a single flourish from my SilentHeart detonation Perta's Anchor build."
+2.  "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
 
@@ -462,7 +462,7 @@ _noun_
 
 1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
 
-**SK**
+### SK
 
 _noun_
 

@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 122430
+revid: 122497
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -30,5 +30,6 @@ categories: [Equipment, Face, Glasses]
 
 ## Trivia
 
--   The only equipment to have negative stats.
+-   The only equipment to have innate HP and negative stats.
 -   This glasses has Diver faction emblem on hinges.
+-   The default ones (with no color) give -2 Posture instead of -1 for ~some reason~ probably because **THEY ARE NOT YOUR PRESCRIPTION**.
