@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 121910
+revid: 122574
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Items]
@@ -37,4 +37,3 @@ This does inflict burn on downed people, making it a good option to keep up pres
 -   The first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension.
 -   This serves as a direct upgrade for Pleeksty's Inferno.
 -   There is a bug where if you dont have 80 flamecharm you can still equip it.
--   In [Saramead Hollow](Saramaed_Hollow.md) dungeon, you may only get these from [Mudskipper Broodlord](Mudskipper_Broodlord.md) mobs chest.

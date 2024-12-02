@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 122124
+revid: 122576
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -60,7 +60,7 @@ Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) 
 
 **Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
 
-**Exclusive to Trial of One**
+**Exclusive to Trial of One and Diluvian Mechanism**
 
 **Exclusive to the Eternal Gale**
 
