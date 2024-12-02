@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122503
+revid: 122572
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -167,8 +167,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
  | N/A | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
--   Deals no damage.
-    -   Can still knock opponents who are extremely low health. [\[1\]](#cite-note-1)
+-   Deals 1 damage. (This is due how mantra effect application works, it needs to do a minimal amount of damage to proc the mantra effect, and talents such as charm. This happens with taunt too, sing, ardour scream etc...)
 -   Will proc gems such as Wayward Gem.
 -   Can be upgraded by the [Concussive Flash](Talents.md) Talent, causing all blinded enemies to be dazed.
 -   Can be modified with Aeon/Eternal Logstones to blind for longer.
@@ -186,11 +185,14 @@ _A blast of flame._
 
  | Fire | User releases a burst of flame from their palm in a cone shape.
 
--   Deals moderate damage.
--   Deals low posture damage.
+-   Deals 26/27.5/29/30.5/32 per level, with 2.5 flamecharm scaling.
+-   Deals 5.5 posture damage at ALL LEVELS.
+-   This mantra has 0.7 seconds windup and 0.2 seconds of endlag
+-   It has a cooldown of 16 seconds
+-   Costs 60 ether.
 -   Inflicts Burn.
 -   Can be upgraded with the [Wildfire](Talents.md) Talent.
--   Can be modified with Cloud/Stratus Stones to increase size, and Vibrant Gems to destroy environment.
+-   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
 
  |
 |  | 
@@ -205,14 +207,15 @@ _A pyroclastic eruption._
 
  | Fire | User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Deals moderate-high damage.
--   Deals high posture damage.
-    -   The second explosion deals an extremely high amount of posture damage.[\[2\]](#cite-note-2)
+-   Deals 24+24/26.5+26.5/29+29/31.5+31.5/34+34 (Yes, both explosions deal the same damage) and has 2.5 flamecharm scaling.
+-   The initial explosion does 5.5 posture, the second explosion does 38 posture. (No, doesn't scale with level)
 -   The second explosion ragdolls enemies.
--   Inflicts Burn.
--   Low endlag.
+-   Has a 10 second cooldown and a windup of 0.5seconds, the second explosion occurs after 0.8seconds of the first one. It has an endlag of 0.2 seconds.
+-   Inflicts Burn and costs 45 ether.
 -   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
+    -   This reduces its damage.
+    -   The max AoE modifier is +9.
 
  |
 |  | 
@@ -1350,7 +1353,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   The Flame Sentinel mantra is likely a reference to the "[Life Detector](https://jojowiki.com/Magician%27s_Red#Life_Detector)" technique from the Stand "Magician's Red" from JoJo's Bizarre Adventure, which can detect lifeforms manifesting as a floating flame candelabrum.
 -   The Flaming Scourge Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
 -   The Flame Ballista and Flame Reupulsion's spring spark variant are references to **Jujutsu Kiasen**.
-    -   Flame Ballista is Sukuna's Fire Arrow [\[3\]](#cite-note-3), and Flame Repulsion's spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).
+    -   Flame Ballista is Sukuna's Fire Arrow [\[1\]](#cite-note-1), and Flame Repulsion's spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "Meteor Impact" on another Flamecharm user who also has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
@@ -1373,6 +1376,4 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=USPLPJLZQiw](https://www.youtube.com/watch?v=USPLPJLZQiw)
-2.  [↑](#cite-ref-2) With the opponent having 42 Posture and Murmur: Ardour, they will receive 96% of their posture.
-3.  [↑](#cite-ref-3)
+1.  [↑](#cite-ref-1)

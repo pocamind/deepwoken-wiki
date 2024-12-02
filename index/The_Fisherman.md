@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 119543
+revid: 122569
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -41,6 +41,7 @@ The Fisherman is able to speak and usually says some phrases when spawning in, s
 -   "The Prophets spoke the truth! KEHAHAH!"
 -   "What's the point?! Why struggle?!"
 -   "Kehah... KEHAHAHAH!"
+-   "Why struggle? Why bother?..."
 
 ## Finisher
 
