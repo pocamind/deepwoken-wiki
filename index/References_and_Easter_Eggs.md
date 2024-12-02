@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 122278
+revid: 122568
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -170,8 +170,8 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   One Eyed King is the category name for the Talent "Strength Unbound", possibly referencing the one-eyed swordsman [Guts](https://berserk.fandom.com/wiki/Guts) due to his profound strength.
 -   The **Vow of Mastery** line of Talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
--   **Murmur: Ardour** could be a reference to Haoshoku (Conqueror's) haki from _One Piece._
--   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://i.imgur.com/Bz5xxxm.png), Referring to one of the Gods in Rogue Lineage.
+-   **Murmur: Ardour** could be a reference to Busōshoku (Armament) haki from _One Piece._
+-   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://i.imgur.com/Bz5xxxm.png), Referring to one of the Gods in Rogue Lineage. It could also be a reference to Haōshoku (Conqueror's) haki from One Piece.
 -   **Ice Age** Talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** Talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._

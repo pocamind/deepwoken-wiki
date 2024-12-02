@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 122023
+revid: 122562
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals]
@@ -37,7 +37,7 @@ Getting the **Golden Swordfish** implies successfully achieving two rare events 
 -   The fish caught must be a Swordfish
 -   It must be a golden fish
 
-The combination of these 2 factors makes the **Golden Swordfish** extraordinary rare. Using bait, fishing Talents and fishing spots are recommended to improve your odds.
+The combination of these 2 factors makes the **Golden Swordfish** extraordinarily rare. Using bait, fishing Talents and fishing spots are recommended to improve your odds.
 
 ## Critical
 

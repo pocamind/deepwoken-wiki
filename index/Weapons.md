@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 122440
+revid: 122563
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2919,11 +2919,11 @@ The time it takes for your weapon to swing in seconds is approximately half the 
 
 Players can use this formula to figure out their attack speed.
 
-A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack Speed = (\\tfrac{1}{SwingSpeed}) \\div 2} {\\displaystyle AttackSpeed=({\\tfrac {1}{SwingSpeed}})\\div 2}
+A t t a c k S p e e d \= ( 1 S w i n g S p e e d × 1.3 ) ÷ 2 {\\displaystyle AttackSpeed=({\\tfrac {1}{SwingSpeed}}\\times 1.3)\\div 2} {\\displaystyle AttackSpeed=({\\tfrac {1}{SwingSpeed}}\\times 1.3)\\div 2}
 
 The formula below can be used to find a weapon's DPS (damage per second) without factoring in bleed, endlag, or client delay (ping).
 
-D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS = Weapon Damage \\times {Swingspeed} \\times2 } {\\displaystyle DPS=WeaponDamage\\times {Swingspeed}\\times 2}
+D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displaystyle DPS=WeaponDamage\\times {Swingspeed}\\div 1.3\\times 2} {\\displaystyle DPS=WeaponDamage\\times {Swingspeed}\\div 1.3\\times 2}
 
 ## Trivia
 
