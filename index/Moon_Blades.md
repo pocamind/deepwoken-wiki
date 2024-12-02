@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 122535
+revid: 122554
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons", Daggers, Exclusive]
@@ -29,7 +29,7 @@ categories: [Weapons, "Core-Attribute based weapons", Daggers, Exclusive]
 
 ## Description
 
-**The Moons Blades are reskined Flareblood Kamas it does not have unique properties only a unique model & effect.**
+**The Moons Blades are reskinned Flareblood Kamas. It does not have unique properties, only a unique model & effect.**
 
 The Moon Blades are a weapon skin for the [Flareblood Kamas](Flareblood_Kamas.md) that was given to Team Supekis (ValekisYT & s\_supaa), the first place winners of the second Deepwoken YouTuber Tournament.
 

@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 122469
+revid: 122548
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Unique Critical, "Multi-Weapon Scaling"]
@@ -30,7 +30,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Unique Critica
 
 ## Description
 
-The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Attributes.md) in addition to Heavy. It drops surprisingly commonly, exclusively from the [Voidsea](Voidsea.md) and events found inside.
+The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Attributes.md) in addition to Heavy. It can be found exclusively from the [Moon's Eyrie](<Moon's_Eyrie.md>), [Voidsea](Voidsea.md), and events found inside.
 
 After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. While in the Shattered State, the Fractine deals bleed damage, is faster, and has less range. Use the critical again to return it to its original form.
 
@@ -49,3 +49,5 @@ The critical has a cooldown of **5.5 seconds**.
 -   Meeting the requirements of HVY and INT, the weapon deals 33.9 damage.
 -   At max HVY and INT, the weapon deals 40.2 damage.
 -   This greatsword doesn't have endlag
+-   It has the rarity of a [Soulthorn](Soulthorn.md) in the [Moon's Eyrie](<Moon's_Eyrie.md>), possibly even rarer.
+-   In my run, I got 2 astrals before a Fractine.

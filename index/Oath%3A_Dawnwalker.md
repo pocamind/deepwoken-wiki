@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 122543
+revid: 122549
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -25,9 +25,7 @@ categories: [Oaths, The Divers, Moonseye]
 
 ― Klaris Llfiend, Mother of Lights
 
-This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, the same Light that Lightkeepers use to illuminate the Voidsea to facilitate traversal between luminants. [The Divers](The_Divers.md), instead of utilising it to traverse the Voidsea, use the Radiant Tones to fight against The Depths itself, resulting in the creation of this Oath.
-
-## Obtainment
+This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, however, it is not the same Light that Lightkeepers use to illuminate the Voidsea to facilitate traversal between luminants. Lightkeepers are born, and cannot be made/taught how to wield the Light they use.
 
 1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
 2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:

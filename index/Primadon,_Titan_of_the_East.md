@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 122514
+revid: 122550
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -67,14 +67,14 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 | Name | Description | Media |
 | --- | --- | --- |
-| **Mommy step on me** | Primadon raises its **right** foot and stomps once.
+| **Stomp** | Primadon raises its **right** foot and stomps once.
 Parryable:◯  
 Blockable:◯  
 Dodgeable:◯  
 Danger:(★☆☆)
 
  |  |
-| **Mommy step on me 3x** | Primadon performs 3 quick stomps with its **left** foot.
+| **Stomp 3x** | Primadon performs 3 quick stomps with its **left** foot.
 
 Parryable:◯  
 Dodgeable:◯  
@@ -130,7 +130,7 @@ Danger:(★★★)
  |
 | 
 
-### Fent Mode : ON
+### Enrage
 
  | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
 

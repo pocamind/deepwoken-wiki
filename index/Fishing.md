@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 122502
+revid: 122555
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -85,7 +85,7 @@ This spot is seen on the coast of Boatman's Watch to the right of the shipyard l
 
 ### Mortus
 
-This spot is accessed by going behind Mortus' shack
+This spot is accessed by slipping through a crack past the left side of Mortus' shack.
 
 **Tomb of the Nameless Warrior:**
 

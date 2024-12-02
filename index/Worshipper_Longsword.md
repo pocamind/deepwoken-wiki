@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 118003
+revid: 122558
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -27,9 +27,9 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow.](Deep_Widow.md)
+The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md).
 
-## Notes & Trivia
+## Trivia
 
 -   Meeting the requirement of MED, the damage is (20.7)
 -   At max MED, the damage is (24.7)
