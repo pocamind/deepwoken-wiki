@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 119674
+revid: 122600
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons]
@@ -34,7 +34,7 @@ The Darksteel Greatsword is a midgame Greatsword used by [The Ignition Union](Th
 
 ## Critical
 
-After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical. This attack has "true-hyperarmor," meaning that it cannot be canceled, even if you get hit by attacks that apply the Shocked status effect. Due to having armor from frame 1, it may be used as a pseudo vent. (Wind-up and Emperor Flame do not work on critical hits.)
+After a short windup, the user performs an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical. This attack has "**True-Hyperarmor**", meaning that it cannot be cancelled, even if you get hit by attacks that apply the Shocked status effect. Due to having Hyperarmor from frame 1, it may be used as a pseudo vent. (Wind-up and Emperor Flame do not work on critical hits.)
 
 ## Trivia
 

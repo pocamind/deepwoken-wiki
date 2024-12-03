@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 122064
+revid: 122594
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -97,7 +97,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   Grants the Knives of Eylis Talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
-        -   You can no longer teleport through the [Voidmother](The_Voidmother.md) if you are combat tagged.
+        -   Talking to the [Voidmother](The_Voidmother.md) while in combat opens a rift that other players can follow into.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
 -   Grants the Knives of Eylis Talent "Grasp of Eylis"
@@ -111,13 +111,11 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
         -   **\[CON\]** ...but you do not gain vision of your target. It should be noted that you can still tell where they generally are from the bounty itself.
 -   Grants the Knives of Eylis Talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
-    -   This ability has a 10-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
+    -   This ability has a 5-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO/CON\]** You spawn with [Whaler Initiate](Whaler_Initiate.md) Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md), [The Divers](The_Divers.md).
--   **\[PRO\]** Can leave the Voidheart and do the Trial of One for faster levelling up.
-    -   **\[CON\]** ...but can't use the Shrine of Solitude in the Trial of One, as only people with the Lone Warrior origin may make use of it.
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions and The Summer Company.
@@ -158,7 +156,7 @@ You can do Trial of One.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant
 -   **\[PRO\]** You regain sanity in [Chariot's Spire](<The_Chariot's_Spire.md>).
--   **\[PRO\]** Grants the ability to smelt 3 [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) at the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>).
+-   **\[PRO\]** Grants the ability to use the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>) and [Chariot's Spire](<The_Chariot's_Spire.md>) to make Smith Alloy and Armorer's Needles.
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 
 ## Upcoming Origins

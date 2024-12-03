@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122567
+revid: 122627
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -259,7 +259,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
-    -   7 seconds cooldown once flames are cleared.
+    -   7 seconds cooldown if you clear the flames by using the tool again, no cooldown if Flame Within naturally ends.
     -   Flame Within grants a mobility buff, NOT a speed boost.
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh talent has been merged into Flame Within.
@@ -935,8 +935,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am an expert on ether."**_
 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 15% more damage.
+    -   Procs on Burn, Chill, Shock, Shadow (ether steal status effect), Winded, and Suffocation.
+        -   Procs on some self-afflicted statuses, like [Flame Within](Flamecharm.md#amoran-seeker), but not [Raging Static](Thundercall.md#self-shocker).
     -   Prerequisites: 20 Willpower, 15 Strength
-        -   Procs on some self-afflicted statuses, like [Flame Within](Flamecharm.md), but not [Raging Static](https://deepwoken.fandom.com/wiki/Thundercall?so=search).
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
     -   Prerequisite: 15 Intelligence
@@ -959,8 +960,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Intelligence
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)
-    -   Prerequisites: 15 Strength, 5 Intelligence
+    -   Procs on Burn, Chill, Shock, Shadow (ether steal status effect), Winded, and Suffocation.
     -   Does not work with Critical Attacks
+    -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Falling Star Guard
 
@@ -2643,7 +2645,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
         -   Default knock time is 10 seconds, so you can make your friends get back into the fight over 3 times faster.
         -   Requires an animation, stunlocking yourself.
-    -   Prerequisites: 40 Fortitude or 40 Charisma, 50 Thundercall
+    -   Prerequisites: 40 Fortitude OR 40 Charisma, 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly.
     -   Does not work on monsters

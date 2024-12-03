@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 122548
+revid: 122587
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Unique Critical, "Multi-Weapon Scaling"]
@@ -34,6 +34,10 @@ The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and req
 
 After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. While in the Shattered State, the Fractine deals bleed damage, is faster, and has less range. Use the critical again to return it to its original form.
 
+Meeting the requirements of HVY and INT, the weapon deals 33.9 damage.
+
+At max HVY and INT, the weapon deals 40.2 damage.
+
 ## Critical
 
 Spin around and do one quick slash then lead into a much heavier downslam attack with hyper armor. After using your Critical attack, the tip of your blade breaks off and lodges itself in the opponent, leaving you with a weapon that has less range, less damage, faster swingspeed, and bleed damage.
@@ -45,9 +49,4 @@ The critical has a cooldown of **5.5 seconds**.
 ## Trivia
 
 -   Unequipping and re-equipping your weapon while in the Shattered State will also return it to its original form.
--   Weapon is soulbound upon being equipped.
--   Meeting the requirements of HVY and INT, the weapon deals 33.9 damage.
--   At max HVY and INT, the weapon deals 40.2 damage.
--   This greatsword doesn't have endlag
 -   It has the rarity of a [Soulthorn](Soulthorn.md) in the [Moon's Eyrie](<Moon's_Eyrie.md>), possibly even rarer.
--   In my run, I got 2 astrals before a Fractine.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122517
+revid: 122623
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -498,7 +498,7 @@ Stench
 
  | 
 
-On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it. Gradually drains 3% of the total HP of all enemies who stand in the cloud. Can often be seen In french servers. Note that If you're in Mussdawk this enchant becomes nullified and will be automatically removed from equipment.
+On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it. Gradually drains 3% of the total HP of all enemies who stand in the cloud.
 
  | 
 

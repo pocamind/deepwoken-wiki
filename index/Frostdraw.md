@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 121643
+revid: 122582
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -446,7 +446,7 @@ Ice
 
  | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
 
--   (WE GOT DAMAGE NUMBERS BOIIIS) It does 90 frost damage. (30 per icecube probablly)
+-   Deals 90 damage. (30 per icecube)
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
@@ -646,7 +646,7 @@ N/A
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
     <li>Leveling up the mantra increases the size of the ice floors it spawns.</li>
-    <li>All mods do not work or have 0 effect, do not modify this mantra.</li>
+    <li>Any and all mantra mods have 0 effect.</li>
     <li>On flourish it proc "Chilling flourish" without needing the Talent.</li>
   </ul></td>
 </tr>
