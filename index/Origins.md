@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 122594
+revid: 122639
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -134,10 +134,10 @@ Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by cl
 
 You can do Trial of One.
 
-**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the Saramaed Hollow dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotely accept jobs via their Union Pager, allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the Chariot's Spire in the depths if they wish.
+**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the [Saramaed Hollow](Saramaed_Hollow.md) dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotely accept jobs via their [Union Pager](Ignition_Delver.md), allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the [Chariot's Spire](<The_Chariot's_Spire.md>) in the depths if they wish.
 
 -   Your starting reputations are:
-    -   Friend of The Ignition Union and Lost Celtor
+    -   Friend of The [Ignition Union](The_Ignition_Union.md) and [Lost Celtor](Lost_Celtor.md)
     -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions.
 -   Grants the Innate Talent "Union Card"
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>) or [The Chariot's Spire](<The_Chariot's_Spire.md>).
@@ -147,16 +147,16 @@ You can do Trial of One.
     -   **\[PRO\]** Allows you to remotely accept jobs.
 -   **\[PRO\]** Gain bonus EXP until Power 10.
 -   **\[PRO\]** You spawn with [Union Initiate](Union_Initiate.md) Armor.
--   **\[PRO\]** Access to Chariot Spire amenities, including:
+-   **\[PRO\]** Access to [Chariot Spire](<The_Chariot's_Spire.md>) amenities, including:
     -   An Antiquarian, Banker, Mystic and Campfire
     -   Layer 2 Entrance via the Deep Drill (unlocked by escaping in Layer 2 Floor 1 via the Deep Drill)
         -   **\[PRO\]** Spawns you in [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on.
         -   **\[CON\]** You do not spawn with a Light Hook.
-        -   **\[CON\]** (Currently) Forced to return to Castle Light after completing Floor 1 or 2.
+        -   **\[CON\]** (Currently) Forced to return to [Castle Light](Castle_Light.md) after completing Floor 1 or 2.
 -   Grants the Ignition Union Talent "Union Hook"
     -   **\[PRO\]** Useful for getting around Eastern Luminant
 -   **\[PRO\]** You regain sanity in [Chariot's Spire](<The_Chariot's_Spire.md>).
--   **\[PRO\]** Grants the ability to use the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>) and [Chariot's Spire](<The_Chariot's_Spire.md>) to make Smith Alloy and Armorer's Needles.
+-   **\[PRO\]** Grants the ability to use the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>) and [Chariot's Spire](<The_Chariot's_Spire.md>) to make [Smith Alloy](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>).
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
 
 ## Upcoming Origins

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 122629
+revid: 122645
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -375,7 +375,6 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
     -   Naktigonis also provides the voice of the Duke, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke after your first encounter. This dialogue shows that Duke does in fact, escape the Depths after you kill him.
-    -   This also implies that Duke Erisia has the "Hollow" echo modifier, as he is forced to escape the Depths every single time he is killed.
 -   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
 -   This bosses attacks heavily resemble the interpretation of TOARU's Accelerator in Anime Battle Arena, a game that Par has worked on prior.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.

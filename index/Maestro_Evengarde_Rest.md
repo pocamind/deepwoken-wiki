@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 122505
+revid: 122640
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -207,7 +207,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
 Upon defeating Maestro, he will drop a large chest containing many different item including:
 
--   **On First Kill**, and at/above 75 WEP (maybe u need to unbond, he is guaranteed to drop your weapon classes respective weapon being:
+-   **On First Kill**, and at/above 75 WEP (maybe u need to unbound), he is guaranteed to drop your weapon classes respective weapon being:
     -   [Cerulean Thread](Cerulean_Thread.md) (LHT)
     -   [Purple Cloud](Purple_Cloud.md) (MED)
     -   [Pale Briar](Pale_Briar.md) (HVY)
