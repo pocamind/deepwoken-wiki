@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 121598
+revid: 122647
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -93,7 +93,7 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Transfusion** | Chaser heals from the jars of blood, healing ~1600 HP.
+| **Transfusion** | Chaser heals from the jars of blood, healing ~1250 HP.
 
 -   Chaser will use this move everytime after he leaves his vulnerable state.
 -   He cannot use this move after all blood jars have been broken.

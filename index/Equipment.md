@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 122630
+revid: 122651
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -4122,6 +4122,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 | File:Onyx Fleet Warden Cape.png | 
@@ -4719,6 +4720,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | Browline & Round  
 Regular, Amber, & Azure |
@@ -5865,6 +5867,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  |
 |  | 

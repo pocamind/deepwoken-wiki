@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 117284
+revid: 122652
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -57,9 +57,9 @@ The Central Authority has [jobs](Job_Boards.md) on every job board in the game e
 While the Authority lacks in reputation beneficial quests, it benefits from having the most [Random Encounters](Random_Encounters.md) of any other faction in the game. Assisting the Authority in any of these events will grant you positive reputation:
 
 -   [Authority Officers](Authority_Officer.md)Authorityiconfaction vs [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction([Erisia](Erisia.md))
--   Authority OfficersAuthorityiconfaction vs [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction([Upper Erisia](Upper_Erisia.md))
--   Authority OfficersAuthorityiconfaction vs [Legion Soldiers](Legion_Soldier.md)(Upper Erisia)
--   Authority OfficersAuthorityiconfaction vs Legion Soldier + [Legion Captain](Legion_Captain.md)([The Viper's Jaw](<The_Viper's_Jaw.md>)/Upper Erisia)
+-   [Authority Officers](Authority_Officer.md)Authorityiconfaction vs [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction([Upper Erisia](Upper_Erisia.md))
+-   [Authority Officers](Authority_Officer.md)Authorityiconfaction vs [Legion Soldiers](Legion_Soldier.md)(Upper Erisia)
+-   [Authority Officers](Authority_Officer.md)Authorityiconfaction vs Legion Soldier + [Legion Captain](Legion_Captain.md)([The Viper's Jaw](<The_Viper's_Jaw.md>)/Upper Erisia)
 -   [Authority Lieutenant](Authority_Lieutenant.md)Authorityiconfaction vs Legion Captain([Starswept Valley)](The_Starswept_Valley.md)
 -   [Authority Captain](Authority_Captain.md)Authorityiconfaction vs [Hive Construct](Hive_Construct.md)Hiveiconfaction(Starswept Valley)
 
@@ -75,7 +75,6 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 
 ## Trivia
 
--   The Central Authority are very much racist. Them employing other Races is merely pragmatism, and is something that has been done by numerous infamously racist groups in real life. While they are indeed a "boiling pot of ethnicities and cultures," this does nothing to discredit their racism, simply meaning they have diverse demographics, but not guaranteeing said demographics are treated well.
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except [Celtor](Lost_Celtor.md).
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
