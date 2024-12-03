@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 122570
+revid: 122634
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -86,7 +86,7 @@ They hail from the Western Luminant and are the most prominent race in [The Hund
 ## Trivia
 
 -   The race is based on Sun Wukong and monkeys.
--   Khan means "King" in Mongolian, Turkish and Hindi, Hence the reason why they have a crown as ornament.
+-   Khan means "King" in Mongolian, and Hindi, Hence the reason why they have a crown as ornament.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Genghis Khan.
 -   The Racial Talent "Versatile" only works on stat points, not levels.

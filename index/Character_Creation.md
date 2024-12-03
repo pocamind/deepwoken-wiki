@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 121840
+revid: 122631
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -217,24 +217,42 @@ Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
     -   You gain the ability to see your target through walls momentarily.
 -   Spawn with the Void Eye, which teleports you back to the [Voidheart](Voidheart.md).
     -   Said item has a ten minute cooldown, which is removed upon eliminating a [bounty target](Bounty_Hunting.md) or using it in the voidsea.
--   You will spawn with the [Whaler Inititate](Whaler_Coat.md) [Outfit](Outfits.md) upon spawning in with this [Origin](Origins.md).
+-   You will spawn with the [Whaler Initiate](Whaler_Coat.md) [Outfit](Outfits.md) upon spawning in with this [Origin](Origins.md).
 -   There is a functional Chessboard in the [Voidheart](Voidheart.md), which does nothing but allow players to have games of Chess.
 -   [Voidwalkers](Origins.md) can access the [Bounty Board](Bounty_Hunting.md) for [The Knives of Eylis](The_Knives_of_Eylis.md), which is usually full.
 -   [Knives of Eylis](The_Knives_of_Eylis.md) will not attack you.
 
-add ignition union too pls
+### [Ignition Delver](Origins.md#ignition-delver)
 
-## Age System
+The Ignition Delver Origin is unlocked on all slots upon saving Epsi in Layer 2, returning to Alpha in the Ignition Union base, The Frontier Furnace, or completing Orion's quest at Miner's Landing; tasking you to fight [Summer Goons](Summer_Goon.md) (alternatively, a [Mechalodaunt](Mechalodaunt.md) in one of the rooms).
 
-The [Age](Age.md) System is a mechanic built into your Character upon creation, starting at the Age of 18. Your character ages when they reach their [season](Seasons.md) of birth.
+Here's what makes the Ignition Delver Origin unique:
 
-Age may affect your Character's entire appearance, such as wrinkles and a change of hair color. Some accessories change through age such as [Vesperian](Vesperian.md)'s mask, or [Ganymede](Ganymede.md)'s hat.
+-   You can spawn in the following locations:
+    -   [Miner's Landing](<Miner's_Landing.md>)
+    -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
+-   Gain innate Talent 'Union Card'
+    -   Increased EXP gain from dungeons (Layer 2, Saramaed Hollow, bosses such as the Ferryman, the Duke) and jobs.
+    -   Reduced EXP gain from any other sources
+-   Gain innate Talent 'Union Pager'
+    -   A communication device that can take jobs remotely.
+-   Gain bonus EXP until you reach Power 10
+-   Gain ability to use the [Hollow Forge](Hollow_Forge.md), which inputs Pluripotent Alloys for Smith's Alloys or Armorer's Needles.
+-   Currently unfinished, however.
+
+  
+
+## Character Ages
+
+The [age](Age.md) system is a mechanic built into your character upon creation, starting at the age of 18. Your character ages when they reach their [season](Seasons.md) of birth each year.
+
+Age may affect your character's entire appearance, such as wrinkles and a change of hair color. Some accessories change through age such as a [Vesperian](Vesperian.md)'s mask, or a [Ganymede](Ganymede.md)'s hat.
 
 You do not die of old age, nor do you receive any debuffs, as the age system is purely cosmetic.
 
-The [Moon Ring](Equipment.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles.
+The [Moon Ring](Equipment.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles. Its counterpart is the Waning Ring, which sets your character's age to tier 4.
 
-There may be some changes to dialogue with NPCs depending on what 'Tier' of age your character is, listed below:
+There may be some changes to dialogue with NPCs depending on what 'tier' of age your character is, listed below:
 
 -   **(Tier 0) Adult:** 18-39
 -   **(Tier 1) Middle Aged, Phase 1:** 40-49 \[45 or more leads to greying of hair)

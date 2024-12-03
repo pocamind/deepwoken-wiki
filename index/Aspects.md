@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 119049
+revid: 122633
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -20,9 +20,9 @@ All 12 rollable races have their own individual [Innate Talent Card](Talents.md#
 
 -   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable.
 
-The hairstyle of your in-game character is reflected by that of your ROBLOX avatar, with your race's hair color being covered by the variant of your race.
+The hairstyle of your in-game character is reflected by that of your Roblox avatar, with your race's hair color being covered by the variant of your race.
 
-If you had a hairstyle from a barber before you wipe, it will stay for the replay of that file.
+If you had a hairstyle modified when creating your character or from the Barber prior to wiping, it will stay for the replay of that file.
 
 -   If unsatisfied with your current selection, you can visit the Barber in order to modify the physical aspects of your character. Additionally, you can collect dyes to dye your hair any color respective to the hair color of your current variant.
 
