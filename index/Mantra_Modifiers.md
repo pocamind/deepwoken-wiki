@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 121838
+revid: 122691
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -341,12 +341,12 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blessed Gem</td>
-  <td>On hit, reduces the cooldown of the mantra it's on by half.</td>
+  <td>On hit, reduces the cooldown of the mantra it's on by half. This gem has a cooldown of 5 seconds.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Bloodless Gem</td>
-  <td>Damage reduced by 20%. Heal user for 60% of damage dealt. Cap of 15 HP per second.</td>
+  <td>Damage reduced by 20%. Heal user for 60% of damage dealt. Cap of 15 HP per second. This gem has a cooldown of 1 second.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -356,7 +356,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Insignia Gem</td>
-  <td>The next Mantra you cast within a short timeframe will have a 50% windup reduction.</td>
+  <td>The next Mantra you cast within a short timeframe will have a 50% windup reduction. This effect has a 5 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 122676
+revid: 122695
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -778,7 +778,7 @@ Your frost is now considerably more intense.
  | 
 
 +6 Sanity  
-This talent does literally nothing.
+This talent previously increased "Elemental Intensity" However, as this stat is removed, The Talent is currently useless.
 
  |
 

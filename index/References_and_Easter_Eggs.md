@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 122568
+revid: 122698
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -203,7 +203,6 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
 -   The **[Imperial Staff](Imperial_Staff.md)** is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
--   One of the **[Wretched Mawblades](Wretched_Mawblades.md)** is named "Grimlock," a reference to [Grimlock](<https://tfwiki.net/wiki/Grimlock_(disambiguation)>) from _[Transformers](https://en.wikipedia.org/wiki/Transformers)_.
 -   The **[Death's Reverie](<Death's_Reverie.md>)'s** description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
 
 ## Enchantments

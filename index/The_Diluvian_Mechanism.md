@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 122492
+revid: 122701
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -34,7 +34,7 @@ Taking too long in a wave will automatically add the Timebomb modifier to the cu
 
 ### Trial of the Meek
 
-When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
+When attempting the option to start the Diluvian Mechanism below Power 3 (including Power 3), you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
 
 ### Shrine of Solitude
 

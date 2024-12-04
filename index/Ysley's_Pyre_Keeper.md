@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 122367
+revid: 122700
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -49,7 +49,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 **Normal:** Performs 3 slashes (1 slow and 2 fast) with all of them inflicting the green burn effect. This critical gives a major speed boost for a short time after use.
 
-**Running:** Performs a short-ranged dash forward with the blade facing backwards. Hitting a target ends the dash making the user grab them, and do an uppercut slash. This critical is able to be feinted before the critical starts rushing forward. This feint has no cooldown unlike mantra or m1 feints.
+**Running:** Performs a short-ranged dash forward with the blade facing backwards. Hitting a target ends the dash making the user grab them, and do an uppercut slash. This critical is able to be feinted before the critical starts rushing forward. This feint has no cooldown unlike mantra or m1 feints. Landing this critical resets your critical cooldown.
 
 **Sliding:** Leaps forward slashing with a flurry of 3 blows.
 
@@ -69,6 +69,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
 -   When it's your first time equipping the Pyre Keeper on a new save, the dagger is hidden. This can be fixed by rejoining.
+-   Has the fastes swingspeed of any heavy weapon in the game (0.93x)
 
 ## References
 

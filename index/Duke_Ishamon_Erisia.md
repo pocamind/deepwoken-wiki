@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 122645
+revid: 122694
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -22,9 +22,7 @@ Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the 
 
 He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, the Duke is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
-While the Duke is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him.
-
--   With a [Stone](Enchantments.md) 10+ Weight Weapon, combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can oneshot his posture every M1.
+While the Duke is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon, combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can oneshot his posture every M1.
 
 ## Moveset
 
