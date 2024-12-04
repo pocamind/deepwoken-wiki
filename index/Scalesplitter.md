@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 122635
+revid: 122662
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea, Alloyed Weapons]
@@ -38,6 +38,8 @@ The running M1 on this weapon actually has two hits, the first being a normal ru
 When 2 handed, the weapon has no flourish, which can be used for even more mix up potential.
 
 The weapon has custom M1 (for both one and two handed) and Aerial animations, although unlike the running M1 and 2 handing the weapon, there doesn't seem to be anything too special about these.
+
+At requirements, the normal damage (at 40) is 20.1 and the alloyed damage (at 65) is 25.9 damage.
 
 ## Critical
 

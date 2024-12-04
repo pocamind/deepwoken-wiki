@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 121562
+revid: 122659
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,6 +52,7 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
             -   "PRIMITIVE."
             -   "PRAY."
             -   "INFERIOR."
+            -   "Clown."
 
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](Thresher.md#king-thresher)
