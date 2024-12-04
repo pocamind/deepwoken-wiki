@@ -1,6 +1,6 @@
 ---
 title: Diver Quartermaster
-revid: 122660
+revid: 122673
 source: https://deepwoken.fandom.com/wiki/Diver_Quartermaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -8,7 +8,12 @@ categories: [Npc]
 
 # Diver Quartermaster
 
-Diver Quartermaster
+| Diver Quartermaster | |
+|---|---|
+| name | Diver Quartermaster |
+| location | Aretal sea (random sea event) |
+
+## Descrition
 
 The Diver Quartermaster is the leader of an expedition to retrieve a crate found in [Fort Merit](Fort_Merit.md).
 

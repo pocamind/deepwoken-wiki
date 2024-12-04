@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 122090
+revid: 122683
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | SandRoughly 10% |
+| obtainment | Stone KnightRoughly 10% |
 | description | "..." |
 
 ## Description
@@ -40,3 +40,6 @@ The critical is seemingly identical to that of standard Greataxes, but generate 
 -   Meeting the requirement of HVY, the damage is (37.7)
 -   At max HVY, the damage is (41.9)
 -   The stone pillars spawned by the critical though can be stood on cannot be climbed, but they have collision.
+-   Stone pillars can be climbed (used to not be the case and would act like Celtor city walls).
+-   Stone pillars are perfect for putting a guild base on since their size is almost exactly the size of the guild base and can be placed anywhere.
+-   The stone pillars are unparryable however they are both blockable and dodgeable.

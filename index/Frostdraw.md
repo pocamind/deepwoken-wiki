@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 122582
+revid: 122676
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1229,6 +1229,7 @@ N/A
 -   Nullifying clarity does not reduce chilled duration.
 -   The **Ice Cubes** Mantra might be a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   **Glacial Arc** used to fire multiple arcs using cloud and stratus stones.
+-   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
 -   Grabbing a barrel that has been frozen can cause you to gain velocity in a random direction when jumping. (not sure if patched or not)
 -   **The source for the frost mantras damage:**
     

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 122625
+revid: 122689
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -292,7 +292,7 @@ Thunder Wisp
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
--   When Sapping ends, the target is shocked.
+-   When Sapping ends, the target is shocked. If you have surge path, it will apply a surge stack.
 -   Can be modified with **Aeon/Eternal Logstones** to increase its uses.
 
  |
@@ -343,6 +343,7 @@ Lightning Cloak
 -   A combative action, such as blocking parrying or attacking, must be used within **6.5 seconds** or the mantra is deactivated and goes on cooldown.
 -   Lasts a duration of 6.5 – 60 seconds.
 -   Cannot last longer than 60 seconds.
+-   Slower ether regen while active.
 
  |
 
