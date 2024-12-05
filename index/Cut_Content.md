@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 121457
+revid: 122740
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -167,6 +167,9 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 15th, 2023 update, Quick Link was merged into Static Link.
 -   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
     -   In the December 13th, 2022 update, Quick Recovery was merged into Kick Off.
+-   **Reverse Gale Kick \[Common Talent, Galebreathe Exclusive\]** - Pressing \[F\] after hitting an opponent with Wind Rising will cause your followup kick to impale them to the ground. (+1 Passive Agility)
+    -   Dazes after kicking them down allowing for more combos.
+    -   In the December 1st, 2023 update, Reverse Gale Kick was made base behavior for Rising Wind.
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
 -   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)

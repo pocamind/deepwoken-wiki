@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 122291
+revid: 122741
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -394,9 +394,9 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The user empties their posture damage, and transfers it to their opponent.
     -   The posture transfer cannot guardbreak.
-    -   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 50% at Level 1 to 100% at Level 5.
-    -   20/22/24/26/28 damage per level
+    -   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
     -   20%/30%/40%/50%/60% posture transfer per level
+    -   20/22/24/26/28 damage per level
     -   32.2 damage at 100 Willpower level 5
     -   1.5 Willpower scaling
     -   0.5s wind up

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 119985
+revid: 122739
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -36,6 +36,9 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
     -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once
     -   Have a [Dark Feather](Dark_Feather.md) in your possession
 -   Find Surge, located inside the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
+    
+    Location of Widow's Cave
+    
 -   Give him a Dark Feather. [Surge](Surge.md) will become OwlSurge and the area will seamlessly transition.
 -   When you go to leave Surge's room, you will find yourself within [A Conscious Intersection](A_Conscious_Intersection.md).
     -   **Do not fall into the void**, doing so will send you down into [Layer 2](Second_Layer.md) without a lighthook.
