@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 122742
+revid: 122749
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,6 @@ The Vow of Safekeeping is often used by [bankers](Banker.md) to keep specific im
 
 ### Hereditary Vows
 
-These are Vows that were made prior to the arrival of most animal-based [races](Aspects.md) in Lumen, and the ones that allowed said races to exist in the first place. They were made a long time in the past by pagan tribes who worshipped animals, causing the descendents of those tribes to have animal-characteristics, as described in the book ["Vows by the Sea: Inheritance](Books.md)
+These are Vows that were made prior to the arrival of most animal-based [races](Aspects.md) in Lumen, and the ones that allowed said races to exist in the first place. They were made a long time in the past by pagan tribes who worshipped animals, causing the descendents of those tribes to have animal-characteristics, as described in the book ["Vows by the Sea: Inheritance"](Books.md). The only race that does not possess a hereditary vow are the [Adret](Adret.md).[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1) [https://deepwoken.fandom.com/wiki/Books?so=search#Vows\_by\_the\_Sea:\_Inheritance](https://deepwoken.fandom.com/wiki/Books?so=search#Vows_by_the_Sea:_Inheritance)

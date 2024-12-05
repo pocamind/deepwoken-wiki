@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122722
+revid: 122747
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1764,7 +1764,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Each rods will steal 20 armor durability.
-    -   Prerequisite: 50 Ironsing
+    -   Prerequisite: 50 Ironsing **and not having any of the "rending needle" talents** (YES. TESTED. AND VERY ANGRILY TESTED.)
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
     -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
@@ -1881,7 +1881,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
     -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
     -   The Cooldown is 1 minute and 10 seconds.
-    -   This Talent also works with [Jus Karita](Jus_Karita.md)
+    -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your talent hands**,** you **MUST** have **FISTS** equiped to **get it**.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)
