@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122717
+revid: 122743
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -365,7 +365,7 @@ Adhesive
 
  | 
 
-On proc, pull the attacker toward you.
+On proc, pull the attacker toward you. 33% chance to proc
 
  | 
 
@@ -409,7 +409,7 @@ Displacement
 
  | 
 
-On proc, grant a speed boost and hyperarmor.
+On proc, grant a speed boost and hyperarmor. 30% chance to proc.
 
 **IN PVE DISPLACEMENT PROCS BUT GRANTS NO HYPER OR SPEED BOOST**
 
@@ -466,7 +466,7 @@ On proc, gain the following depending on your tempo (from 0% to 100% tempo):
 
   
 8-40% speed boost for 5 seconds  
-0-15% damage reduction for the hit that procced Ferocity.
+0-15% damage reduction for the hit that procced Ferocity. 25% chance to proc
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
@@ -483,6 +483,7 @@ Multiplicity
  | 
 
 On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of 5 seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
+Chance to proc 25%
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
@@ -499,6 +500,8 @@ Stench
  | 
 
 On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it. Gradually drains 3% of the total HP of all enemies who stand in the cloud.
+
+20% Chance to proc
 
  | 
 
