@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 122700
+revid: 122705
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -30,8 +30,6 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 ## Description
 
 **Ysley's Pyre Keeper** or Ysley's Pyre Cleaver "Callow & Verdant," Verdant is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger in Callow. It can be obtained by helping out The Hive during the [Etris vs Hive event](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2) & [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2), or helping [Calamus](Calamus.md) to kill various monsters in [Starswept Valley](The_Starswept_Valley.md). The drop rate of this weapon is extremely low from these sources. It can also drop from [Fishing](Fishing.md). It most notably drops from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) alongside the [Imperial Staff](Imperial_Staff.md), and the chest rewarded by defeating the [Rogue Construct](Rogue_Construct.md) found in [Minityrsa](Minityrsa.md). It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
-
-This weapon is commonly reffered too as 'the gayest weapon'.
 
 The Pyre Keeper comes with the following passives:
 
@@ -70,6 +68,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
 -   When it's your first time equipping the Pyre Keeper on a new save, the dagger is hidden. This can be fixed by rejoining.
 -   Has the fastes swingspeed of any heavy weapon in the game (0.93x)
+-   Ysley is the name of the previous hivelord
 
 ## References
 

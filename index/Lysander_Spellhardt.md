@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 120760
+revid: 122716
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -23,7 +23,7 @@ Lysander sells you various [Hallowtide](Hallowtide.md)\-exclusive items for [Joy
 
 **2024:**
 
-With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deem Gem](Mantra_Modifiers.md#deep-gems) was replaced with buying a random [relic](Relics.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
+With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deep Gem](Mantra_Modifiers.md#deep-gems) was replaced with buying a random [relic](Relics.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
 
 1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). A table of what relics you can get can be seen below. All [Relics](Relics.md) have the same drop rate.
 

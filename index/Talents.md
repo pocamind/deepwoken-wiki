@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122646
+revid: 122722
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -596,6 +596,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Currently, the only things Defiance cuts in half are:
         -   Flamecharm's burn damage
         -   Frostdraw's chill duration
+        -   Galebreathe's winded duration
+        -   Galebreathe's suffocation duration
+        -   Frostdraw's crystal stacks
+        -   Thundercall's surge stacks
+        -   Shadowcast's Sightless Stil duration
+        -   Blood Poisoning
+        -   Wither gain
+        -   Ring of Pestillence duration
         -   The potency of potions
 
 ### Charm Caster
@@ -1055,7 +1063,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Freak Of Nature
 
-> _**"I'm built different."**_
+> _**"I seek the qualities of Human Architecture."**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
     -   Vesperians will only gain 8% armor from this Talent, totalling to 13% with their own natural armor.
@@ -3175,8 +3183,12 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
--   Wormwarder [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
+-   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
+-   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining
+    -   Combining this talent with excavator gives you a chance to get 4 ores at a time
+-   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
+    -   You can also obtain this talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
 
 ## Blacklisted Talents
 

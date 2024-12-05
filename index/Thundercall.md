@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 122689
+revid: 122711
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -184,7 +184,7 @@ Thunder Kick
 
 -   Deals 50 thunder damage.
 -   Guard Breaks at Level 5
--   8 Second Cooldown.
+-   10 Second Cooldown.
 -   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)
@@ -260,7 +260,7 @@ Rising Thunder
 -   Short wind-up and completely safeguards user when landed.
 -   Ragdolls target(s).
 -   Can be blocked.
--   \[\] Second Cooldown.
+-   15 Second Cooldown.
 
  |
 

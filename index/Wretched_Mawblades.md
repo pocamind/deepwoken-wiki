@@ -1,9 +1,9 @@
 ---
 title: Wretched Mawblades
-revid: 122697
+revid: 122702
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Hallowtide]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Hallowtide]
 ---
 
 # Wretched Mawblades
@@ -44,12 +44,8 @@ Slash forward with both blades, before spinning around in a bloody slash.
 
 -   The design of the blade is a mild homage to the _[Soulcalibur](https://en.wikipedia.org/wiki/Soulcalibur)_ series, specifically to [Soul Edge](https://soulcalibur.fandom.com/wiki/Soul_Edge) during his appearances in _[Soulcalibur II](https://en.wikipedia.org/wiki/Soulcalibur_II)_ and _[Soulcalibur III](https://en.wikipedia.org/wiki/Soulcalibur_III)_.[\[1\]](#cite-note-1)
 -   Rephika is a [Chrysid](Chrysid.md) surname, which tragically are neither vast, predatory, nor birds, while Narsus is a [Khan](Khan.md) surname.
--   Contrary to popular belief, the name "Grimlock Narsus" is not a nod to [the Dinobot leader](https://en.wikipedia.org/wiki/Grimlock) from the _[Transformers](https://en.wikipedia.org/wiki/Transformers)_ franchise.[\[2\]](#cite-note-2)
 -   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the Stone enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed in a hotfix on the 9th of November 2024 update.
 
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
-    
-    File:NOT A TRANSFORMERS REFERENCE.png
