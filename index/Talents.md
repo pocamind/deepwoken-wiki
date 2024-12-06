@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122747
+revid: 122772
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1361,7 +1361,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Frostbite
 
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
-    -   No longer procs Frozen Legs.
+    -   Does not proc Frozen Legs.
     -   Prerequisite: 100 Frostdraw
     -   Mutual Exclusive: Glass Path: Crystallization
 

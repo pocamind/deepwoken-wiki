@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 117989
+revid: 122770
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -37,4 +37,5 @@ The bow is set to be upcoming future content.
 -   Currently, the stats are for testing, as no player can have 200 points in Light weapons.
 -   Identical stats and description to the [Repeater](Repeater.md).
 -   It is believed to be accidentally added to the game by accident, and got removed soon after.
--   Despite obviously being a bow, it is categorised as a gun.
+-   Despite obviously being a bow, it is categorised as a gun
+-   Aranea's string can be seen stretched while the bow is idle, this is unlike real world bows, in which the string does not stretch at all, but rather the legs bend.

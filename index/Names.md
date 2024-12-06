@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 122062
+revid: 122771
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1789,6 +1789,7 @@ Some players have access to customized, unique names.
 -   The names "Mario" and "Luigi" are references to Mario and Luigi from the [Mario series](https://en.wikipedia.org/wiki/Super_Mario)
 -   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
 -   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
+-   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
 
 ## References
 

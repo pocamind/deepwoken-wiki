@@ -1,9 +1,9 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 122746
+revid: 122753
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
+categories: [Pages with broken file links, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
 ---
 
 # Ysley's Pyre Keeper
@@ -68,8 +68,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
 -   When it's your first time equipping the Pyre Keeper on a new save, the dagger is hidden. This can be fixed by rejoining.
 -   Has the fastest swingspeed of any heavy weapon in the game (0.93x)
--   Ysley is the name of the previous hivelord
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://cdn.discordapp.com/attachments/921964795643699211/1229149952458887238/image.png?ex=665b7519&is=665a2399&hm=33610eb9be1b4d3bd2833faf7e775d56e6b8e9a9aa0004f8392a3c53f174f3c2&](https://cdn.discordapp.com/attachments/921964795643699211/1229149952458887238/image.png?ex=665b7519&is=665a2399&hm=33610eb9be1b4d3bd2833faf7e775d56e6b8e9a9aa0004f8392a3c53f174f3c2&)
+1.  [↑](#cite-ref-1) File:Yayafino Hiding Testers.png
