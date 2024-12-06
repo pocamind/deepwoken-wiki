@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 115274
+revid: 122841
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -45,7 +45,7 @@ Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_
 
 Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. This Talent makes PvE far easier as you get better at the game. The easiest method to obtain this Talent is via Cheese, or doing [The Ferryman](The_Ferryman.md)
 
-If you have atleast 1 friend, you can use the cannons on a ship to kill the [Primadon](Primadon,_Titan_of_the_East.md) with a cheese method. The method is 1 player is spawning and baiting the primadon to 1 of 2 spot that have a rope to climb on. After the player baited the [Primadon](Primadon,_Titan_of_the_East.md) you (the one who need to unlock the Chain of Perfection) will use a boat with a cannons and shoot it from afar, there is a small lake below the bridge to the campfire to spawn the [Primadon](Primadon,_Titan_of_the_East.md). Kill him with 100% damage only from you and your friend just do nothing other than baiting him.
+If you have atleast 1 friend, you can use the cannons on a ship to kill the [Primadon](Primadon,_Titan_of_the_East.md) with a cheese method. The method is 1 player is spawning and baiting the primadon to 1 of 2 spot that have a rope to climb on. After the player baited the [Primadon](Primadon,_Titan_of_the_East.md) you (the one who need to unlock the Chain of Perfection) will use a boat with a cannons and shoot it from afar, there is a small lake below the bridge to the campfire to spawn the [Primadon](Primadon,_Titan_of_the_East.md). Kill him with 100% damage only from you and have your friend just do nothing other than baiting him.
 
 Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die/leave, it will still count and the Talent will be rewarded. Second Note: If you have a friend helping you, as long as they don't hit the Primadon you can still get Chain of Perfection. They can get hit and it won't change anything.
 

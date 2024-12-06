@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 121764
+revid: 122844
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -28,7 +28,6 @@ _(one-time use, re-obtainable)_
 ## Trivia
 
 -   You can hold more than one of this item.
--   Using the Idol of Yun'Shul whilst already having an available wish with [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) will remove the available wish you had. Every time you use this Relic, it'll be consumed upon usage, even if you already had an available wish. So that being said, be sure to use your available wish with [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) before using this Relic.
 -   Upon usage for bell rerolling, you'll obtain the Tarnished flaw.
     -   You cannot use an Idol of Yun'Shul to bell reroll until you untarnish yourself.
 -   Can't be used in Combat. Dialogue appears saying "The Idol won't respond to a panicked heart."

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122830
+revid: 122845
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1573,8 +1573,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
--   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility) Was moved to Lancer class, used to be in Legion Shock Trooper.
+
+-   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility)
     -   Stacks with shield.
+    -   Was moved to Lancer class, used to be in Legion Shock Trooper.
     -   Prerequisites: 15 Fortitude, Using a spear
 
 ### Lava Serpent

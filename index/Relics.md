@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 121939
+revid: 122839
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -91,11 +91,12 @@ Consumables that improve the user in some shape or form
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
--   5 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
+-   8 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 
  |
 | 
@@ -171,11 +172,13 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Hollow Forge](Hollow_Forge.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
--   5 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
+-   8 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
 -   [Etris: Siege](Cinders_of_Etris.md)
+-   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   Crafting
 
