@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 121294
+revid: 122824
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots, The Divers]
@@ -40,3 +40,4 @@ Oddly, the boots are of Legendary rarity while the [Abyss Wanderer's Plate](<Aby
 
 -   Unlike the Abyss Wanderer's Plate, the boots are of Legendary rarity instead of mythical.
 -   It is part of the Abyss Wanderer set, going with the [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>).
+-   Equal to [Star Boots](Star_Boots.md) as the best boots for stats.

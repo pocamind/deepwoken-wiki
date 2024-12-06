@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122772
+revid: 122830
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1247,7 +1247,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Flamecharm: Your bullets burn/create an explosion (Lava Serpent)
                 -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
                 -   Thundercall: Your bullets electrify
-                -   Galebreathe Your bullets after cut
+                -   Galebreathe: Your bullets after cut
                 -   Shadowcast: Your bullets steal ether
                 -   Ironsing: Your bullets apply metal rods
                 -   Bloodrend: Your bullets drain blood

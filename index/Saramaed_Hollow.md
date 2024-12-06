@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 122264
+revid: 122825
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -27,7 +27,7 @@ This dungeon, taking place deep underground beneath Miner's Landing and its [Sar
 
 **Saramaed Hollow** can be entered by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work solo or as a team of up to 5 players. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
 
-Note that all the maps contain lava as an environmental hazard, which deal a respectable amount of damage if touched.
+Note that all the maps contain lava as an environmental hazard, which deal an extreme amount of damage for both new and more experienced players and for the new players it could burn you to death.
 
 ## Dungeon Features
 

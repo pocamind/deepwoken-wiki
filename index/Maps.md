@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 116682
+revid: 122828
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing, Locations, Map]
@@ -190,7 +190,7 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 
 ## Trivia/Notes
 
--   Future Luminants are confirmed, it is just going to be a while before we see such massive updates.
+-   Future Luminants have been mentioned ingame via lore [books](Books.md), but due to the sheer size of these Luminants it will take a long time for an update containing these Luminants to come.
 -   The player marker will accurately track the players movement and position within the world from [Dimensional Travel](Dimensional_Travel.md), but will not track their ally markers properly if they're within the dimension.
 -   In-game maps have a small line of text in the bottom left corner about authorities or surveyors that created the maps.
     -   Etrean and Eastern Luminants: _Comissioned under the Authority of Sovereign Drallis Ehr, Overseer of Epochs._

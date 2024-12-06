@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122572
+revid: 122807
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -167,7 +167,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
  | N/A | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
--   Deals 1 damage. (This is due how mantra effect application works, it needs to do a minimal amount of damage to proc the mantra effect, and talents such as charm. This happens with taunt too, sing, ardour scream etc...)
+-   Deals 1 damage.
 -   Will proc gems such as Wayward Gem.
 -   Can be upgraded by the [Concussive Flash](Talents.md) Talent, causing all blinded enemies to be dazed.
 -   Can be modified with Aeon/Eternal Logstones to blind for longer.
@@ -185,13 +185,12 @@ _A blast of flame._
 
  | Fire | User releases a burst of flame from their palm in a cone shape.
 
--   Deals 26/27.5/29/30.5/32 per level, with 2.5 flamecharm scaling.
--   Deals 5.5 posture damage at ALL LEVELS.
+-   Deals 26/27.5/29/30.5/32 damage, and has 2.5 Flamecharm scaling.
+-   Deals 5.5 posture damage.
 -   This mantra has 0.7 seconds windup and 0.2 seconds of endlag
 -   It has a cooldown of 16 seconds
 -   Costs 60 ether.
 -   Inflicts Burn.
--   Can be upgraded with the [Wildfire](Talents.md) Talent.
 -   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
 
  |
@@ -207,14 +206,15 @@ _A pyroclastic eruption._
 
  | Fire | User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Deals 24+24/26.5+26.5/29+29/31.5+31.5/34+34 (Yes, both explosions deal the same damage) and has 2.5 flamecharm scaling.
--   The initial explosion does 5.5 posture, the second explosion does 38 posture. (No, doesn't scale with level)
+-   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling.
+-   The initial explosion does 5.5 posture, the second explosion does 38 posture.
 -   The second explosion ragdolls enemies.
--   Has a 10 second cooldown and a windup of 0.5seconds, the second explosion occurs after 0.8seconds of the first one. It has an endlag of 0.2 seconds.
--   Inflicts Burn and costs 45 ether.
+-   Has a windup of 0.5 seconds, and 0.8 second delay between explosions.
+-   Has a 10 second cooldown, and a 0.2 second endlag.
+-   Inflicts Burn.
 -   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
-    -   This reduces its damage.
+    -   Each modifier reduces damage.
     -   The max AoE modifier is +9.
 
  |
@@ -342,7 +342,7 @@ _Strike the ground, turning it to ash._
 -   Deals low posture damage.
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Requires at least 20 Strength.
+-   Requires at least 20 Strength to obtain.
 
  |
 | 
@@ -383,7 +383,7 @@ _Strike the ground, turning it to ash._
 -   Can be modified with a Reversal spark, acting as a pull/grab, but dealing less damage.
     -   The reversal spark variant deals ~30% less damage than the original.
     -   The reversal spark variant deals 18 posture damage once.
-    -   The reversal spark variant has 0.65 windup, 0.05 more compared to base.
+    -   The reversal spark variant has 0.65 windup.
     -   (Picture TBA)
 
  |
@@ -408,10 +408,11 @@ _Leap up leaving behind a burst of flames._
 -   Deals moderate-low damage.
 -   Deals low posture damage.
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
--   Is able to proc _Meteor Impact,_ as long as the initial leap hits, the opponent(s) are sent upwards with you and the mantra is not modified with [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
+-   Is able to proc _Meteor Impact,_ even without hitting an opponent.
 -   Shares similar traits to the Strong Leap mantra.
 -   The Mantra will not summon flames nor do damage if used in bodies of water.
 -   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap.
+    -   This variant can also proc _Meteor Impact_ on hit.
 
  |
 |  | Flame Assault

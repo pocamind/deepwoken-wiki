@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 122515
+revid: 122829
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -273,8 +273,6 @@ A randomly occurring event in which bounty hunters or faction soldiers will ambu
 
 These events are fixed at a certain place or time or are extremely rare.
 
-#### Authority's Invasion of Etris
-
 File:Erisor's Church 2.png
 
 Forgotten villagers
@@ -282,6 +280,8 @@ Forgotten villagers
 #### Raid on Erisor's Church
 
 A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire in [Erisor's Church](<Erisor's_Church.md>). Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five [Bandit Captains](Bandit_Leader.md) will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a [Rock Golem](Rock_Golem.md) will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
+
+**Authority's Invasion of Etris**
 
 The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
 

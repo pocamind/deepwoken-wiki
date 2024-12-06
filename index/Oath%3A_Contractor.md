@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 122553
+revid: 122831
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -30,7 +30,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 
 ## Obtainment
 
-1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe.
+1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe. - This can be done after killing [Duke Erisia](Duke_Ishamon_Erisia.md).
     -   You can either get this through Imel, Emel, and Rimil's bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry](Ministry_Scout.md) [Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation each completion.
     -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer](Summer_Isle.md) [Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
     -   The Bounty version of the [Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Bloodletter Talent or Starvation will not count.

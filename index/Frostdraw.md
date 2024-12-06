@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 122695
+revid: 122795
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -645,9 +645,13 @@ N/A
   <td><center>N/A</center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
-    <li>Leveling up the mantra increases the size of the ice floors it spawns.</li>
-    <li>Any and all mantra mods have 0 effect.</li>
-    <li>On flourish it proc "Chilling flourish" without needing the Talent.</li>
+    <li>Shoots a beam of ice ~0.5 seconds after landing a vent that applies chill and deals ~6 damage.</li>
+    <li>Leveling up the mantra increases the size of the ice floors, and damage of the beam.</li>
+    <li>Procs Cold Front and Chilling Flourish without needing the Talents.
+  <ul>
+    <li>The chill of the beam lasts longer than Cold Front.</li>
+  </ul></li>
+    <li>This mantra is seemingly bugged, having infinite uses, even without any modifiers.</li>
   </ul></td>
 </tr>
 <tr>
@@ -656,17 +660,19 @@ N/A
   (★★★)</center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
   <td><center>Ice</center></td>
-  <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. Targets gain Autoparry for 1 hit while this is active.
+  <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active.
   <ul>
-    <li>Heals up to 8%.</li>
-    <li>Compatible with Stratus Stones and Eternal Logstones.</li>
-    <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
-    <li>Iceberg is put on CD by reinforce and vice versa, so you should choose one or the other for healing.</li>
+    <li>Deals 20 damage in total.</li>
+    <li>Heals 2%, increasing with level and Drift/Rush Shards, up to 10%.</li>
     <li>Applies 1 second of chill per hit (Can't be increased).</li>
-    <li>Stratus Stones and Cloudstones increase the duration, with enough stones you can add an extra 2% of healing of the 8%, not recommended as you usually wont be able to heal completely wasting ether and healing.</li>
-    <li>A reference to Mei's cryo-freeze from Overwatch</li>
-    <li>Iceberg applies bottom freeze on every hit with no cooldown, but since bottom freeze has a global cooldown it would put every other source on their cd (Which in most cases is a long cooldown) so its recommended to not have this mantra if you want to use bottom freeze in a more aggresive way (rather than to stop your enemy from hitting you).</li>
-    <li>Only deep gem that works with Iceberg is blue gem.</li>
+    <li>Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.</li>
+    <li>Iceberg is put on CD by reinforce, and vice versa.</li>
+    <li>Does not proc Deep Gems on hit.</li>
+    <li>Can be modified with Cloud/Stratus Stones, Aoen/Eternal Logstones, Drift/Rush Shards, and Crystal/Perfect Lens.
+  <ul>
+    <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
+    <li>Stones, Logstones, and Lens all do absolutely nothing; no range, healing, or duration difference. (tested)</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
