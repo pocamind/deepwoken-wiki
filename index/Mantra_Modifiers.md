@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 122870
+revid: 122876
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -413,6 +413,8 @@ Blast Spark
 
 Applies "Explosion" to compatible Mantra.
 
+_"The surface is slick and oily. You feel like putting it near a flame would be a bad idea."_
+
  |
 | 
 
@@ -436,6 +438,8 @@ Magnet Spark
  | 
 
 Applies "Magnet Shot" to compatible Mantra.
+
+_"The items in your pack are drawn to it."_
 
  |
 | 
@@ -463,6 +467,8 @@ Multiplying Spark
 
 Applies "Triple Shot" to compatible Mantra.
 
+_"You swear you see double - or triple - when you hold it."_
+
  |
 | 
 
@@ -486,6 +492,8 @@ Reversal Spark
 
 Applies "Reversal" to compatible Mantra.
 
+_"You feel homesick when you hold it."_
+
  |
 | 
 
@@ -503,6 +511,8 @@ Round Spark
  | 
 
 Applies "Round Shot" to compatible Mantra.
+
+_"A tingling sensation that spreads out forms on your skin when you hold it."_
 
  |
 | 
@@ -526,6 +536,8 @@ Spring Spark
  | 
 
 Applies "Spring" to compatible Mantra.
+
+_"The sensation of being lifted off your feet is conjured when you hold it."_
 
  |
 | 

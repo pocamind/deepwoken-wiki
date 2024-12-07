@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 122874
+revid: 122878
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,7 +24,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 | Name | Media | Description | Parry-able? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
-| **High Cenat** | 
+| **High Swing** | 
  | The Enforcer lifts its weapon high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Low Swing** | 
 

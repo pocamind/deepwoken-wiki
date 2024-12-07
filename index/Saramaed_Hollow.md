@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 122825
+revid: 122930
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -90,6 +90,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Trident_Spear.md">Trident Spear</a></li>
     <li><a href="Crucible_Rapier.md">Crucible Rapier</a></li>
     <li><a href="Iron_Requiem.md">Iron Requiem</a></li>
+    <li>Quartzstone Pickaxe</li>
   </ul></td>
   <td>
   <ul>

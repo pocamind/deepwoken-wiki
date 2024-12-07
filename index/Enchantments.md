@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122861
+revid: 122940
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -45,6 +45,8 @@ There are two variants that enchantments come in:
 -   **Curse -** They have an effect along with a downside with the severity depending on the upside.
 
 _For a showcase of all enchants in action, view [this video.](https://youtu.be/Ydl4gd2lBYQ)_
+
+Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.youtube.com/watch?v=DpxlzCkSl9E](https://www.youtube.com/watch?v=DpxlzCkSl9E)
 
 ## List of Enchantments
 
@@ -139,6 +141,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
+  <u>4.5 DMG for 1% armor drain, 5.6 DMG per 1% armor drain (if steadfast)</u><br>
+  Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
   Works on any enemies/monsters with armor but doesnt PVE scale.</p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
@@ -304,6 +308,15 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Curse.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse Of Repulsion<div></div></font></center></td>
+  <td><div><p>While blocking, take 30% chip DMG<br>
+  Successful proc will push attacker backwards and put enchant on 2.5 second cooldown.<br>
+  You take 30% chip dmg only if enchant proc.<br>
+  <b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b></p></div></td>
+  <td><div>Weapon is colored blue and have VENT like electricity particles on</div></td>
 </tr>
 </tbody>
 </table>

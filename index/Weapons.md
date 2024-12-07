@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 122588
+revid: 122929
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -32,7 +32,7 @@ All weapons within the game have chances of being found with (or without) differ
 #### Light Weapons
 
 -   15 Daggers (17 if Alloyed)
--   9 Fists
+-   9 Fists (10 if Alloyed)
 -   5 Guns (6 if Alloyed)
 -   7 Rapiers
 
@@ -46,24 +46,25 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Heavy Weapons
 
--   12 Great Axes (15 if Alloyed)
+-   13 Great Axes (16 if Alloyed)
 -   14 Great Swords (18 if Alloyed)
 -   12 Great Hammers (14 if Alloyed)
 
 #### Others
 
+-   1 Hybrid
 -   19 Elemental
--   8 Exclusive
+-   7 Exclusive
 -   6 Divine [Crazy Slots](Crazy_Slots.md)
 -   11 Offhand
 
 #### In Total
 
--   152 Total Weapons (Non-Alloyed, Non-Exclusive)
--   160 Total Weapons (Non-Alloyed, Exclusive)
--   172 Total Weapons (Alloyed, Non-Exclusive)
--   180 Total Weapons (Alloyed, Exclusive)
--   186 Total Weapons (Alloyed, Exclusive, Divine)
+-   155 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   162 Total Weapons (Non-Alloyed, Exclusive)
+-   177 Total Weapons (Alloyed, Non-Exclusive)
+-   184 Total Weapons (Alloyed, Exclusive)
+-   190 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -436,6 +437,19 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>26.2</td>
 </tr>
 <tr>
+  <td><a href="Coral_Cestus.md">Coral Cestus</a></td>
+  <td>55 LHT</td>
+  <td>14</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>LHT: 9.5</td>
+  <td>5</td>
+  <td>6</td>
+  <td>1.09x</td>
+  <td>N/A</td>
+  <td>27.9</td>
+</tr>
+<tr>
   <td><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></td>
   <td>65 LHT</td>
   <td>15.5</td>
@@ -449,6 +463,32 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>30.9</td>
 </tr>
 <tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets"><font>Drakemaw Gauntlets</font></a> (<b>Bleed</b>)</td>
+  <td>75 LHT</td>
+  <td>15</td>
+  <td>10%</td>
+  <td>10%</td>
+  <td>LHT: 7.5</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.09x</td>
+  <td>N/A</td>
+  <td>34.7(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Coral_Cestus#Broodalloy_Cestus"><font>Broodalloy Cestus</font></a></td>
+  <td><font>85</font> LHT</td>
+  <td><font>16.5</font></td>
+  <td><font>20%</font></td>
+  <td>N/A</td>
+  <td>LHT: 9.5</td>
+  <td><font>5.5</font></td>
+  <td>6</td>
+  <td>1.09x</td>
+  <td>N/A</td>
+  <td>42.6(<b>Bleed</b>)</td>
+</tr>
+<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
   <td>60 WLL, 35 LHT</td>
   <td>12</td>
@@ -460,32 +500,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>1.1x</td>
   <td>N/A</td>
   <td>29.8</td>
-</tr>
-<tr>
-  <td><a href="Coral_Cestus.md">Coral Cestus</a></td>
-  <td>75 LHT</td>
-  <td>16</td>
-  <td>15%</td>
-  <td>N/A</td>
-  <td>LHT: 9.5</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1.09x</td>
-  <td>N/A</td>
-  <td>31.8</td>
-</tr>
-<tr>
-  <td><p><a href="https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets"><font>Drakemaw Gauntlets</font></a> (<b>Bleed</b>)</p></td>
-  <td>75 LHT</td>
-  <td>15</td>
-  <td>10%</td>
-  <td>10%</td>
-  <td>LHT: 7.5</td>
-  <td>4</td>
-  <td>6</td>
-  <td>1.09x</td>
-  <td>N/A</td>
-  <td>34.7(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -1604,6 +1618,19 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.8x</td>
   <td>N/A</td>
   <td>48.5</td>
+</tr>
+<tr>
+  <td>Quartzone Pickaxe</td>
+  <td>75 HVY</td>
+  <td>22</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.94x</td>
+  <td>N/A</td>
+  <td>38.1</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
@@ -2868,19 +2895,6 @@ Weapons/Weapon Skins that are exclusive for special people.
   <td>0.6x (Outdated)</td>
   <td>N/A</td>
   <td>50.4</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Quartzstone_Scythe"><font>Quartzstone Scythe</font></a></td>
-  <td>Unknown</td>
-  <td>20</td>
-  <td>30%</td>
-  <td>N/A</td>
-  <td>HVY: 7</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.74x (Outdated)</td>
-  <td>N/A</td>
-  <td>34.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Paintbrush"><font>Paintbrush</font></a></td>

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 121901
+revid: 122887
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -26,7 +26,7 @@ File:Temptation Shrine Screenshot by Nosky-3052.png
 
 The Shrine of Temptation, Up-Front angle
 
-“ PUPPET. STATE YOUR PURPOSE. ”
+“ THE TERMS ARE AS FOLLOWS: I WILL CONSUME YOUR KNOWLEDGE. YOU WILL REAP A BENEFIT. ”
 
 ― Shrine of Temptation
 
@@ -97,7 +97,8 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
 
--   Even if you no longer meet the requirements for a mantra's level upgrade after using Shrine of Mastery, you will keep it at that level with no drawback.
+-   If you no longer meet the requirements for a mantra after using Shrine of Mastery, you will keep it equipped with **no** penalties.
+    -   Additionally, if you no longer meet the requirements for a mantra's level upgrade after using Shrine of Mastery, you will keep it at that level with no drawback.
 
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
     -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept talents.
@@ -132,7 +133,7 @@ Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with 3 ca
 ― Shrine of Order
 
   
-Located in Songseeker Mines, through the passage containing mudskippers.
+Located in [Songseeker Mines](Songseeker_Wilds.md), through the passage containing mudskippers.
 
 ## Effect
 
@@ -149,6 +150,24 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
 -   \*A singular stat cannot lose more than 25 points, with the exception of Attunement stats. which can lose more than 25 points.
 -   Does not progress towards Contractor Oath.
+    
+
+**Shrine of Ostentation:**
+
+“ PUPPET. STATE YOUR PURPOSE. ”
+
+― Shrine of Ostentation
+
+  
+Located in [Ancient Rotlands](Ancient_Rotlands.md), after taking a right and going towards the "Brain," there will be a cave entrance connected to the far wall on the left. The shrine will be located inside the cave.
+
+## Effect
+
+For 10 Knowledge, transfer a Common or Advanced talent into a random Rare talent and vice versa.
+
+## Details
+
+-   The main purpose of Shrine of Ostentation is allowing you to obtain more Rares, Commons, or Advanced talents if you didn't get everything you needed while progressing.
     
 
 **Shrine of Conceit:**
@@ -262,6 +281,7 @@ In all other cases, this shrine does nothing. Does NOT progress towards the [Con
     -   Has no visible "eyes".
     -   Talks in lowercase, unlike all other shrines.
         -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
-
+-   Before Shrine of Ostentation, the only way to obtain more Rare talents on a fully progressed build was to obtain either [Ardour](Murmur.md#ardour) or [Rhythm](Murmur.md#rhythm) and their child talents, Ardour Scream or Spotter, and then remove your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, granting you a talent hand that was guaranteed to have a rare talent in it.
+    -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
