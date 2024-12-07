@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 122691
+revid: 122870
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -1373,7 +1373,7 @@ Skyshatter Kick
 | 
 Flame Repulsion
 
-(★★★)
+(☆☆☆)
 
  | 
 

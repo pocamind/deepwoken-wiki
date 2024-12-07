@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 122771
+revid: 122873
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -21,8 +21,11 @@ Some players have access to customized, unique names.
   
 
 -   Aaron
+-   Abdul
+-   Abdullah
 -   Abel
 -   Abraham
+-   Ace
 -   Achilles
 -   Adam
 -   Adran
@@ -42,10 +45,14 @@ Some players have access to customized, unique names.
 -   Alexander
 -   Alfie
 -   Ali
+-   Allen
 -   Alloras
 -   Alm
 -   Alphonse
 -   Alto
+-   Altrius
+-   Alucard
+-   Alyx
 -   Amaros
 -   Amaryllis
 -   Amir
@@ -55,6 +62,7 @@ Some players have access to customized, unique names.
 -   Andre
 -   Andrew
 -   Andy
+-   Angel
 -   Anos
 -   Antarc
 -   Anthony
@@ -69,6 +77,7 @@ Some players have access to customized, unique names.
 -   Arthas
 -   Arthur
 -   Artminas
+-   Artorias
 -   Aryn
 -   Ash
 -   Asher
@@ -77,6 +86,7 @@ Some players have access to customized, unique names.
 -   Atlas
 -   Atreus
 -   August
+-   Augustus
 -   Avery
 -   Axon
 -   Azel
@@ -666,19 +676,24 @@ Some players have access to customized, unique names.
   
 
 -   Abigail
+-   Ace
 -   Acedia
 -   Ada
 -   Agness
 -   Agrippa
 -   Alaia
+-   Albri
+-   Albrienne
 -   Alder
 -   Aldrich
 -   Alex
 -   Alexandra
 -   Alfie
 -   Alice
+-   Alma
 -   Alto
 -   Alvida
+-   Alyx
 -   Amaros
 -   Amaryllis
 -   Amelia
@@ -686,6 +701,7 @@ Some players have access to customized, unique names.
 -   Ami
 -   Amon
 -   Amy
+-   Angel
 -   Angela
 -   Anos
 -   Antarc
@@ -696,15 +712,20 @@ Some players have access to customized, unique names.
 -   Arete
 -   Argalia
 -   Ari
+-   Aria
 -   Ariadne
 -   Ariel
--   Artimis
+-   Artemis
+-   Artoria
 -   Ash
 -   Ashe
 -   Asher
+-   Ashera
 -   Aspen
+-   Asphodel
 -   Astra
 -   Astrid
+-   Asumi
 -   Atlas
 -   Audrey
 -   August
@@ -1134,14 +1155,18 @@ Some players have access to customized, unique names.
 
   
 
+-   Ace
 -   Agrippa
 -   Alder
 -   Aldrich
 -   Alex
+-   Alfie
 -   Alto
+-   Alyx
 -   Amaros
 -   Amaryllis
 -   Amon
+-   Angel
 -   Anos
 -   Antarc
 -   Anubis
@@ -1150,6 +1175,7 @@ Some players have access to customized, unique names.
 -   Ash
 -   Asher
 -   Aspen
+-   Asphodel
 -   Astra
 -   Atlas
 -   August
@@ -1358,6 +1384,8 @@ Some players have access to customized, unique names.
 -   Zephon
 -   Zero
 -   Zora
+
+  
 
 ## Surnames
 
@@ -1790,6 +1818,7 @@ Some players have access to customized, unique names.
 -   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
 -   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
 -   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
+-   The name "Alyx" is a reference to [Alyx Vance](https://half-life.fandom.com/wiki/Alyx_Vance) from the Half-life series
 
 ## References
 

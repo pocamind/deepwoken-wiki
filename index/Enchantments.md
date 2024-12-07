@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122743
+revid: 122861
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -80,7 +80,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
   <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
-  If the user has Crystallization, apply an ice crystal. (no limits, up to the amount of crystal to detonate) This applies a 0.4 second chill effect (only without crystal).</p></div></td>
+  Apply a 0.4 second chill effect (without Crystal) or one crystal (Crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>

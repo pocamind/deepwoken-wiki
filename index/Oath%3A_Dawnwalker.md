@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 122549
+revid: 122863
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -27,15 +27,19 @@ categories: [Oaths, The Divers, Moonseye]
 
 This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, however, it is not the same Light that Lightkeepers use to illuminate the Voidsea to facilitate traversal between luminants. Lightkeepers are born, and cannot be made/taught how to wield the Light they use.
 
-1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
-2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
+## Obtainment
 
--   Blinding Dawn upon Oath obtainment (30 medallions)
+1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
+2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75/105 Medallions in total from base to max. The order you get the upgrades is:
+
+-   Blinding Dawn upon Oath obtainment (30 medallions/60 medallions if oath broken previously)
 -   Radiant Kick (15 medallions)
 -   Protagonist Syndrome and Radiant Dawn (15 medallions)
 -   Absolute Radiance + Luminous Flash (15 medallions)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
+
+Reobtaining Dawnwalker after [Oath Breaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it costs 60 [Kyrsan Medallions](Kyrsan_Medallions.md) instead of 30.
 
 ## Effects
 
