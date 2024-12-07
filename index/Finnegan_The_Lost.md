@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 122046
+revid: 122988
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield the [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) [attunements](Attunements.md) in battle, coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool (Its health is just an estimate, it seems to have around the same health as the [Bone Keeper](Bone_Keeper.md).) and do a decent amount of damage.
+**Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield the [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) [attunements](Attunements.md) in battle, coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool (Its health is unknown, but it is estimated to have around the same as the [Bone Keeper](Bone_Keeper.md).) and do a decent amount of damage.
 
 Although the Drowned Delver job is typically offered by [The Ignition Union](The_Ignition_Union.md) at the Job Board located in [The Chariot's Spire](<The_Chariot's_Spire.md>), it can rarely be given as a [Diver](The_Divers.md)\-affiliated job at [Castle Light](Castle_Light.md) or [The City of the Drowned](The_City_of_the_Drowned.md).
 
@@ -61,4 +61,4 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 
 -   Finnegan hails from the Ignition Union, and is speculated to be a Deepdelver who wielded the first prototype of the Union's explosive picks - The Boltcrusher.
 -   Finnegan is searching for something, but it's unclear what it is, or if it even exits. He also mentions a 'her' when spawning in, which may refer to a loved one or simply the Boltcrusher he's holding.
--   Finnegan calls for backup if the fight takes too long, summoning a Lightning Clone(?) of himself.
+-   Finnegan calls for backup if the fight takes too long, summoning a Lightning Clone of himself.

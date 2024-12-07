@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122940
+revid: 122994
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -110,7 +110,10 @@ Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
-  <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
+  <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
+  <u><b>1% Food, Thirst steal per 4.5 SCALED DMG dealt</b></u><br>
+  <u><b>FOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
+  <b>(NOT AFFECTED BY GLUTTONY FLAW OR HUNGER REDUCE BUFFS)</b></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
@@ -141,7 +144,8 @@ Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  <u>4.5 DMG for 1% armor drain, 5.6 DMG per 1% armor drain (if steadfast)</u><br>
+  <u>1% armor drain per 3.2 SCALED DMG dealt. 1% armor drain per 4.25 DMG dealt (if steadfast)</u><br>
+  <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
   Works on any enemies/monsters with armor but doesnt PVE scale.</p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
@@ -224,7 +228,8 @@ Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.y
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of the Edenkite<div></div></font></center></td>
-  <td><div><p>On Flourish or Critical, create bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 seconds cooldown)</p></div></td>
+  <td><div><p>On Flourish or Critical, create 5 bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 seconds cooldown)<br>
+  Each bubble deals 11 TRUE DMG, not scales from weapon DMG</p></div></td>
   <td><div><p>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</p></div></td>
 </tr>
 <tr>
@@ -268,6 +273,8 @@ Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.y
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
+  <u><b>1% blood loss per 3 SCALED DMG dealt (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
+  <u><b>BLOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
@@ -292,9 +299,10 @@ Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.y
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
+  <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
+  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
-  When missing an attack, lose some ether.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
   When sheathed, the weapon model is completely invisible.</div></td>

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 122887
+revid: 122986
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -154,12 +154,12 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
 
 **Shrine of Ostentation:**
 
-“ PUPPET. STATE YOUR PURPOSE. ”
+“ THE TERMS ARE AS FOLLOWS: YIELD AND OFFERING, AND I SHALL TURN FORTUNE OVER. ”
 
 ― Shrine of Ostentation
 
   
-Located in [Ancient Rotlands](Ancient_Rotlands.md), after taking a right and going towards the "Brain," there will be a cave entrance connected to the far wall on the left. The shrine will be located inside the cave.
+Located in [Ancient Rotlands](Ancient_Rotlands.md), after taking a right from the [Songseeker Wilds](Songseeker_Wilds.md)\-[Ancient Rotlands](Ancient_Rotlands.md) door and going towards the "Brain," there will be a cave entrance connected to the far wall on the left. The shrine will be located inside the cave.
 
 ## Effect
 
@@ -281,7 +281,7 @@ In all other cases, this shrine does nothing. Does NOT progress towards the [Con
     -   Has no visible "eyes".
     -   Talks in lowercase, unlike all other shrines.
         -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
--   Before Shrine of Ostentation, the only way to obtain more Rare talents on a fully progressed build was to obtain either [Ardour](Murmur.md#ardour) or [Rhythm](Murmur.md#rhythm) and their child talents, Ardour Scream or Spotter, and then remove your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, granting you a talent hand that was guaranteed to have a rare talent in it.
+-   Before Shrine of Ostentation, the only way to obtain more Rare talents on a fully progressed build was to obtain either [Ardour](Murmur.md#ardour) or [Rhythm](Murmur.md#rhythm) and their child talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new talent hand that was guaranteed to have a rare talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.

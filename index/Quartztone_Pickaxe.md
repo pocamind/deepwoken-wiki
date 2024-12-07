@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 122946
+revid: 122998
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -18,7 +18,7 @@ categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
 | swing speed | 0.94x |
 | penetration | 20% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 50 Notes |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -29,36 +29,29 @@ categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
 
 ## Description
 
-The **Quartzstone Pickaxe** is a rare Greataxe found in Saramaed Hollow.
-
-The weapon is enchantable
+The **Quartzstone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe found most often in the [Saramaed Hollow](Saramaed_Hollow.md) dungeon.
 
 ## Criticals
 
-For the **Grounded** Critical, create a bright flash and then strike your opponent with your pickaxe, ragdolling and launching them away.
+For the **Basic** Critical, create a bright flash and then strike your opponent with your pickaxe, ragdolling and launching them away.
+
+For the **Aerial** Critical, you launch yourself forward and do a radial slash upon connecting with your opponent or the ground.
 
 File:Air crit.gif
-
-For the **Aerial** Critical, launch yourself forward and do a radial slash upon connecting with your opponent or the ground.
-
-## M1's
-
-This is the M1's
-
-File:M1s.gif
 
 ## Trivia
 
 -   The weapon was supposed to be released along with Conquest, with Order of the Unsung members only having a preview. However, Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge Conquest delays.
+-   The weapon uses the basic Greatsword M1 animations.
+-   The weapon has the highest swingspeed out of all Heavy Weapons, with it being 0.94x.
+-   Footage of the weapon being used: [https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA](https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA)
 
-Footage of the weapon being used: [https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA](https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA)
+## Gallery
 
-## Gallerys
-
-This is the weapon with chilling
+Chilling
 
   
 
-  
+File:RobloxScreenShot20241207 210134207.png
 
-This is the weapon with chilling
+Detonation
