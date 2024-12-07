@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122845
+revid: 122857
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -783,6 +783,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Dark Hours \[Shadowcast Exclusive\] Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
     -   Night cycle is XX:50 to XX:10.
+    -   Always active in the depths.
     -   Prerequisite: 35 Shadowcast
 
 -   Dark Replenishment \[Shadowcast Exclusive\] Knocking out an enemy in combat restores a portion of your ether.
@@ -1244,11 +1245,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 30 Intelligence and 20 light/medium weapon, Use a Gun / Rifle
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:
-                -   Flamecharm: Your bullets burn/create an explosion (Lava Serpent)
-                -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
-                -   Thundercall: Your bullets electrify
-                -   Galebreathe: Your bullets after cut
-                -   Shadowcast: Your bullets steal ether
+                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
+                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
+                -   Thundercall: Your bullets apply shock/surge stack (Surge)
+                -   Galebreathe: Your bullets after cut and apply winded briefly
+                -   Shadowcast: Your bullets steal ether/apply burn (Twisted Puppets)
                 -   Ironsing: Your bullets apply metal rods
                 -   Bloodrend: Your bullets drain blood
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
@@ -2484,8 +2485,9 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"In nature, I am at home."**_
 
 -   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
-    -   Obtained by equipping [Winter Corps Parka](Equipment.md).
+    -   Obtained by equipping [Winter Corps Parka](Winter_Corps_Parka.md).
     -   Increases the time it takes for parasites to kill you.
+    -   Negates damage buffs from weather. This only applies to Stratoshock. (lol)
 
 ### Swiftshade
 

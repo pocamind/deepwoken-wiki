@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 122807
+revid: 122846
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1345,6 +1345,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 ## Trivia
 
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
+-   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the Unyielding Inferno Talent.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of Deepwoken.
     -   The Flame of Denial mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
