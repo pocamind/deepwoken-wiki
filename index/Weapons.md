@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 123132
+revid: 123207
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -438,7 +438,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 </tr>
 <tr>
   <td><a href="Coral_Cestus.md">Coral Cestus</a></td>
-  <td>55 LHT</td>
+  <td>50 LHT</td>
   <td>14</td>
   <td>10%</td>
   <td>N/A</td>
@@ -755,14 +755,14 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Dormant_Splinter"><font>Dormant Splinter</font></a></td>
   <td>5 MED, LVL 3</td>
-  <td>5.1</td>
+  <td>5</td>
   <td>10%</td>
   <td>N/A</td>
   <td>MED: 7</td>
   <td>4</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>8.8</td>
+  <td>8.6</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>
@@ -1632,7 +1632,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>48.5</td>
 </tr>
 <tr>
-  <td>Quartzstone Pickaxe</td>
+  <td><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></td>
   <td>75 HVY</td>
   <td>22</td>
   <td>20%</td>

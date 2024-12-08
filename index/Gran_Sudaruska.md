@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 123142
+revid: 123179
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Unique Critical]
@@ -34,7 +34,7 @@ Gran Sudaruska comes with two passive abilities:
 
 -   **Sudaruska's Fury** - Landing three M1 attacks on an enemy makes ice crystals rain from the sky. The area that an ice crystal lands will have ice applied on the floor. 15 second cooldown.
 
--   **Vengeful Soul** - After gripping a player with the Contractor oath or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them.
+-   **Vengeful Soul** - After gripping a player with the Contractor Oath or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them.
     -   If the player that was gripped has [Prophet's Cloak](<Prophet's_Cloak.md>) equipped, Sudaruska will talk aswell.
 
 ## Critical

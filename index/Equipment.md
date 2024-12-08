@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 123131
+revid: 123217
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -4716,6 +4716,7 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)

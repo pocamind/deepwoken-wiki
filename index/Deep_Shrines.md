@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 122986
+revid: 123236
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -154,7 +154,7 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
 
 **Shrine of Ostentation:**
 
-“ THE TERMS ARE AS FOLLOWS: YIELD AND OFFERING, AND I SHALL TURN FORTUNE OVER. ”
+“ THE TERMS ARE AS FOLLOWS: YIELD AN OFFERING, AND I SHALL TURN FORTUNE OVER. ”
 
 ― Shrine of Ostentation
 

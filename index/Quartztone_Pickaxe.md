@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 123159
+revid: 123241
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Diluvian Mechanism, Saramaed Hollow, Moon's Eyrie |
+| obtainment | The Diluvian Mechanism, Saramaed Hollow, Moon's Eyrie, Second Layer |
 | description | "A pickaxe fashioned from an exceptionally large node of quartz. The crystal has been painstakingly tuned to the frequency of a Mantra, conjuring its effects on use." |
 
 ## Description
@@ -43,6 +43,4 @@ File:Air crit.gif
 
 -   The weapon was supposed to be released along with Conquest, with Order of the Unsung members only having a preview. However, Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge Conquest delays.
 -   The weapon uses the basic Greatsword M1 animations.
--   The weapon has the highest swingspeed out of all Heavy Weapons, with it being 0.94x.
 -   This weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as pickaxes as of December 7th 2024. They do the job more efficiently than Pickaxes.
--   Footage of the weapon being used: [https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA](https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA)

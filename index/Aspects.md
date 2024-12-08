@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 123017
+revid: 123229
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -14,23 +14,23 @@ categories: [Races, Character, Mechanics]
 
   
 
-**Tribes** in _Deepwoken_ are human subcategories that each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling a Tribe will give you the option between keeping your new current tribe or switching back to the previous tribe. This option is available until you finish creating the character or log off the character creation menu._
+**Aspects** in _Deepwoken_ are human subcategories that each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling an Aspect will give you the option between keeping your new current aspect or switching back to the previous one. This option is available until you finish creating the character or log off the character creation menu._
 
-All 12 rollable tribes have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
+All 12 rollable aspects have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 
 -   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable.
 
-The hairstyle of your in-game character is reflected by that of your Roblox avatar, with your tribe's hair color being covered by the variant of your tribe.
+The hairstyle of your in-game character is reflected by that of your Roblox avatar, with your aspect's hair color being covered by the variant of your aspect.
 
 If you had a hairstyle modified when creating your character or from the Barber prior to wiping, it will stay for the replay of that file.
 
 -   If unsatisfied with your current selection, you can visit the Barber in order to modify the physical aspects of your character. Additionally, you can collect dyes to dye your hair any color respective to the hair color of your current variant.
 
-## Obtainable Tribes
+## Obtainable Aspects
 
-These tribe are obtainable by any player via rerolling.
+These aspects are obtainable by any player via rerolling.
 
-The percent chance of rolling a tribe changes per roll- given that you CANNOT roll the same tribe twice. The percentages listed below show what the chances would be upon initially purchasing the game:
+The percent chance of rolling a aspect changes per roll- given that you CANNOT roll the same aspect twice. The percentages listed below show what the chances would be upon initially purchasing the game:
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |
@@ -44,13 +44,13 @@ The percent chance of rolling a tribe changes per roll- given that you CANNOT ro
 
   
 
-## Exclusive Tribes
+## Exclusive Aspects
 
-These tribe are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
+These aspects are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
 
-## NPC-Exclusive Tribes
+## NPC-Exclusive Aspects
 
-These tribes are currently exclusive to NPCs and are **UNOBTAINABLE** by current means.
+These aspects are currently exclusive to NPCs and are **UNOBTAINABLE** by current means.
 
 ## Generic Surnames
 
@@ -61,20 +61,20 @@ These tribes are currently exclusive to NPCs and are **UNOBTAINABLE** by current
 
 ## Trivia
 
--   Tribes were originally known as races, but were renamed due to many people and franchises moving away from the term, as well as the possible connotations of having races that could be considered "better" than others.
+-   Aspects were originally known as races, but were renamed due to many people and franchises moving away from the term, as well as the possible connotations of having races that could be considered "better" than others. They were initially renamed to races on the 6th of December, 2024, but were changed to aspects two days after due to the term sounding clunky, if not outright derogatory.
     -   Ironically, one of the main reasons that race was discarded as a term in fantasy is that its inaccurate, as its usually used in reference to vastly different species like elves and goblins. Meanwhile, _Deepwoken_ races are all subcategories of the _homo sapiens_ species, meaning that races is actually being used correctly.
--   The chances of every other tribe will increase once you have already obtained a tribe, as logic would have it.
-    -   As such, a method of obtaining rarer tribes is by keeping a common tribe and continually rerolling so that the common tribe will not appear, thus boosting the chances of other tribes.
--   Take caution: it's not advised to reroll tribes until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.
--   NPCs may treat the player differently depending on their tribe, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many factions are inherently xenophobic/racist to other tribes, though this will rarely appear in gameplay.
-    -   One of the most prominent effects of this is that if you are playing as one of the three Hive tribes (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
--   Tribe rarity does not make the tribe inherently better.
-    -   However, do note that some tribes are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness.
--   Players can come across other players tagged with familial relations if they are of the same tribe, such as being one's sibling, cousin, twin, parent, or any of the like.
+-   The chances of every other aspect will increase once you have already obtained a aspect, as logic would have it.
+    -   As such, a method of obtaining rarer aspects is by keeping a common aspect and continually rerolling so that the common aspect will not appear, thus boosting the chances of other aspects.
+-   Take caution: it's not advised to reroll aspects until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.
+-   NPCs may treat the player differently depending on their aspect, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many factions are inherently xenophobic/racist to other aspects, though this will rarely appear in gameplay.
+    -   One of the most prominent effects of this is that if you are playing as one of the three Hive aspects (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
+-   Aspect rarity does not make the aspect inherently better.
+    -   However, do note that some aspects are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness.
+-   Players can come across other players tagged with familial relations if they are of the same aspect, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
--   All tribes can be acquired from initial game/slot purchase.
--   During the _Mudwoken_ update, every player was turned into a Mudskipper, each tribe was given their own "_Mudskipper-fied_" version but still kept some characteristics.
--   The most common tribe attribute is Charisma, tied with Agility, granted by 5 tribes: Adret, Canor, Celtor, Chrysid, and Felinor.
-    -   Tied for the most common attribute is Agility, granted by 5 tribes: Chrysid, Etrean, Felinor, Khan, and Tiran.
-    -   Four tribes grant Intelligence (Capra, Celtor, Etrean, Ganymede), 4 grant Willpower (Adret, Capra, Ganymede, Vesperian) and three tribes grant Strength (Canor, Gremor, Khan).
+-   All aspects can be acquired from initial game/slot purchase.
+-   During the _Mudwoken_ update, every player was turned into a Mudskipper, each aspect was given their own "_Mudskipper-fied_" version but still kept some characteristics.
+-   The most common aspect attribute is Charisma, tied with Agility, granted by five aspects: Adret, Canor, Celtor, Chrysid, and Felinor.
+    -   Tied for the most common attribute is Agility, granted by five aspects: Chrysid, Etrean, Felinor, Khan, and Tiran.
+    -   Four aspects grant Intelligence (Capra, Celtor, Etrean, Ganymede), four grant Willpower (Adret, Capra, Ganymede, Vesperian) and three aspects grant Strength (Canor, Gremor, Khan).
     -   The least common is Fortitude, only granted by Vesperian and Gremor.

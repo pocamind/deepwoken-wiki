@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 122994
+revid: 123175
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -45,8 +45,6 @@ There are two variants that enchantments come in:
 -   **Curse -** They have an effect along with a downside with the severity depending on the upside.
 
 _For a showcase of all enchants in action, view [this video.](https://youtu.be/Ydl4gd2lBYQ)_
-
-Newest enchant showcase ,,Curse Of Repulsion,, can be found there [https://www.youtube.com/watch?v=DpxlzCkSl9E](https://www.youtube.com/watch?v=DpxlzCkSl9E)
 
 ## List of Enchantments
 

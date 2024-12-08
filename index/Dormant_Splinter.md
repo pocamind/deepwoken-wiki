@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123134
+revid: 123186
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons]
 |---|---|
 | type | Sword |
 | requirements | 5 MED, LVL 3 |
-| damage | 5.1 |
+| damage | 5 |
 | scaling | MED: 7 |
 | range | 8 |
 | swing speed | 0.9x |

@@ -1,6 +1,6 @@
 ---
 title: Stag Wraps
-revid: 117426
+revid: 123240
 source: https://deepwoken.fandom.com/wiki/Stag_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Wraps, Developer Spec, Exclusive]
@@ -25,7 +25,7 @@ categories: [Items, Equipment, Arms, Wraps, Developer Spec, Exclusive]
 
 ## Description
 
-Stag Wraps are an [Equipment](Equipment.md) item under the "Arms" category.
+Stag Wraps are a [dev-spec](Developer_Specs.md) [Equipment](Equipment.md) item under the "Arms" category.
 
 Stag Wraps give the user the ability to become untouchable with the only exception being intercepting his attacks and the Intelligence combat mantra "Prediction".
 
