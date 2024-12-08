@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 122633
+revid: 123017
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -14,23 +14,23 @@ categories: [Races, Character, Mechanics]
 
   
 
-**Races** in _Deepwoken_ each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling a race will give you the option between keeping your new current race or switching back to the previous race. This option is available until you finish creating the character or log off the character creation menu._
+**Tribes** in _Deepwoken_ are human subcategories that each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling a Tribe will give you the option between keeping your new current tribe or switching back to the previous tribe. This option is available until you finish creating the character or log off the character creation menu._
 
-All 12 rollable races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
+All 12 rollable tribes have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 
 -   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable.
 
-The hairstyle of your in-game character is reflected by that of your Roblox avatar, with your race's hair color being covered by the variant of your race.
+The hairstyle of your in-game character is reflected by that of your Roblox avatar, with your tribe's hair color being covered by the variant of your tribe.
 
 If you had a hairstyle modified when creating your character or from the Barber prior to wiping, it will stay for the replay of that file.
 
 -   If unsatisfied with your current selection, you can visit the Barber in order to modify the physical aspects of your character. Additionally, you can collect dyes to dye your hair any color respective to the hair color of your current variant.
 
-## Obtainable Races
+## Obtainable Tribes
 
-These races are obtainable by any player via rerolling.
+These tribe are obtainable by any player via rerolling.
 
-The percent chance of rolling a race changes per roll- given that you CANNOT roll the same race twice. The percentages listed below show what the chances would be upon initially purchasing the game:
+The percent chance of rolling a tribe changes per roll- given that you CANNOT roll the same tribe twice. The percentages listed below show what the chances would be upon initially purchasing the game:
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |
@@ -44,13 +44,13 @@ The percent chance of rolling a race changes per roll- given that you CANNOT rol
 
   
 
-## Exclusive Races
+## Exclusive Tribes
 
-These races are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
+These tribe are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
 
-## NPC-Exclusive Races
+## NPC-Exclusive Tribes
 
-These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current means.
+These tribes are currently exclusive to NPCs and are **UNOBTAINABLE** by current means.
 
 ## Generic Surnames
 
@@ -61,18 +61,20 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 
 ## Trivia
 
--   The chances of every other race will increase once you have already obtained a race, as logic would have it.
-    -   As such, a method of obtaining rarer races is by keeping a common race and continually rerolling so that the common race will not appear, thus boosting the chances of other races.
--   Take caution: it's not advised to reroll races until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.
--   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many of the factions in _Deepwoken_ are inherently xenophobic/racist to other races.
-    -   One of the most prominent effects of this is that if you are playing as one of the 3 Hive races (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
--   Race rarity does not make the race inherently better.
-    -   However, do note that some races are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness.
--   Players can come across other players tagged with familial relations if they are of the same race, such as being one's sibling, cousin, twin, parent, or any of the like.
+-   Tribes were originally known as races, but were renamed due to many people and franchises moving away from the term, as well as the possible connotations of having races that could be considered "better" than others.
+    -   Ironically, one of the main reasons that race was discarded as a term in fantasy is that its inaccurate, as its usually used in reference to vastly different species like elves and goblins. Meanwhile, _Deepwoken_ races are all subcategories of the _homo sapiens_ species, meaning that races is actually being used correctly.
+-   The chances of every other tribe will increase once you have already obtained a tribe, as logic would have it.
+    -   As such, a method of obtaining rarer tribes is by keeping a common tribe and continually rerolling so that the common tribe will not appear, thus boosting the chances of other tribes.
+-   Take caution: it's not advised to reroll tribes until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.
+-   NPCs may treat the player differently depending on their tribe, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many factions are inherently xenophobic/racist to other tribes, though this will rarely appear in gameplay.
+    -   One of the most prominent effects of this is that if you are playing as one of the three Hive tribes (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
+-   Tribe rarity does not make the tribe inherently better.
+    -   However, do note that some tribes are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness.
+-   Players can come across other players tagged with familial relations if they are of the same tribe, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
--   All races can be acquired from initial game/slot purchase.
--   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
--   The most common race attribute is Charisma, tied with Agility, granted by 5 races: Adret, Canor, Celtor, Chrysid, and Felinor.
-    -   Tied for the most common attribute is Agility, granted by 5 races: Chrysid, Etrean, Felinor, Khan, and Tiran.
-    -   Four races grant Intelligence (Capra, Celtor, Etrean, Ganymede), 4 grant Willpower (Adret, Capra, Ganymede, Vesperian) and three races grant Strength (Canor, Gremor, Khan).
+-   All tribes can be acquired from initial game/slot purchase.
+-   During the _Mudwoken_ update, every player was turned into a Mudskipper, each tribe was given their own "_Mudskipper-fied_" version but still kept some characteristics.
+-   The most common tribe attribute is Charisma, tied with Agility, granted by 5 tribes: Adret, Canor, Celtor, Chrysid, and Felinor.
+    -   Tied for the most common attribute is Agility, granted by 5 tribes: Chrysid, Etrean, Felinor, Khan, and Tiran.
+    -   Four tribes grant Intelligence (Capra, Celtor, Etrean, Ganymede), 4 grant Willpower (Adret, Capra, Ganymede, Vesperian) and three tribes grant Strength (Canor, Gremor, Khan).
     -   The least common is Fortitude, only granted by Vesperian and Gremor.

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 122839
+revid: 123042
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -344,6 +344,15 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
 
  | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
+
+## Weapon Relics
+
+Relics that can be obtained and used as weapons.
+
+| Media | Description |
+| --- | --- |
+| 
+ | **Dormant Splinter** - "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
 
 ## Trivia
 

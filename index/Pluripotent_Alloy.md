@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 117470
+revid: 123064
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -51,6 +51,7 @@ If you have the [Ignition Delver origin](Origins.md), you are able to turn **3**
 -   [Dawnshot](Dawnshot.md)
 -   [Tanto](Tanto.md)
 -   [Whaling Knife](Whaling_Knife.md)
+-   [Coral Cestus](Coral_Cestus.md)
 
 ### Medium Weapons
 

@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 122998
+revid: 123058
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -8,7 +8,7 @@ categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
 
 # Quartztone Pickaxe
 
-| Quartzstone Pickaxe | |
+| Quartztone Pickaxe | |
 |---|---|
 | type | Greataxe |
 | requirements | 75 HVY |
@@ -29,7 +29,7 @@ categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
 
 ## Description
 
-The **Quartzstone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe found most often in the [Saramaed Hollow](Saramaed_Hollow.md) dungeon.
+The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe found most often in the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. It's the only weapon alongside the [Boltcrusher](Boltcrusher.md) that can be used to mine ores; it also mines them faster.
 
 ## Criticals
 
@@ -44,6 +44,7 @@ File:Air crit.gif
 -   The weapon was supposed to be released along with Conquest, with Order of the Unsung members only having a preview. However, Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge Conquest delays.
 -   The weapon uses the basic Greatsword M1 animations.
 -   The weapon has the highest swingspeed out of all Heavy Weapons, with it being 0.94x.
+-   It can mine ores.
 -   Footage of the weapon being used: [https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA](https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA)
 
 ## Gallery
@@ -55,3 +56,7 @@ Chilling
 File:RobloxScreenShot20241207 210134207.png
 
 Detonation
+
+Vampirism
+
+Metal

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 117956
+revid: 123023
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:Duke Erisia, Maestro Evengarde Rest, The Depths (First Layer), Chaser, The Diluvian Mechanism, War Mode |
+| obtainment | Chests From:Duke Erisia, Maestro Evengarde Rest, The Depths (First Layer), Chaser, The Diluvian Mechanism, War Mode, Primadon |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 122857
+revid: 123044
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -202,7 +202,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Prerequisite: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
     -   The negative components of potions have a stronger effect when thrown. (More info on the [potions](Alchemy.md) page.)
-        -   This Talent was merged with the old Exterminator Talent. (Although the [Alchemist's Hat](<Alchemist's_Hat.md>) and [Big Alchemist Hat](<Big_Alchemist's_Hat.md>) still have this Talent)
+        -   This Talent was merged with the old Exterminator Talent. (Although the [Strapped Hat](Strapped_Hat.md) still has this talent)
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Will proc on any player with a potion effect, does not replace the current effect.
@@ -717,8 +717,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I command the cold."**_
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them.
-    -   Prerequisite: 60 Frostdraw.
     -   You can spam F to get out of Freeze.
+    -   Not mentioned in the description, but this also freezes enemies who are guardbroken while Chilled.
+    -   Prerequisite: 60 Frostdraw.
 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them.
     -   Leaves 3-4 ice patches on the ground.
@@ -2478,7 +2479,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, and every ore.
+    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, all lotuses, and every ore.
 
 ### Survivor
 

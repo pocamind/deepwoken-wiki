@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 122795
+revid: 123024
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -421,14 +421,11 @@ Ice
 
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
--   After the windup the user gains iframes on teleport. (similar to radiant kick)
--   It does 54 frost damage
--   Applies 12 sec chill base and 16 sec with 1 eternal.
--   It doesn't apply chill with the Talent Unyielding frost unless you hit your target making the Talent have zero effects with this mantra.
--   The mantra takes too long to end on hit to proc insignia gem.
--   Do not put bloodless on this mantra as it only proc on the first hit which doesn't heal more than 1%.
--   Base chilling duration scales with level requiring more than one logstone to get the full 16 seconds, recommended to only pick it if you plan to upgrade it to level 5.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and transforming the chains into ice pillars. (The size can be increased with vibrant gems.)
+-   Deals 54 damage.
+-   Applies an extremely long 12 sec chill at base.
+-   Does not apply chill through block with Unyielding Frost.
+-   Gives brief I-Frames on hit.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and stabbing the opponent with pillars. This variant does not apply chill, and can be modified with Vibrant Gems to increase the size of the ice created.
 
  |
 |  | 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 121632
+revid: 123028
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -64,14 +64,14 @@ _(From data of 100 rerolls, the calculated chance of getting a normal **Resonanc
 Known side-effects include:
 
 -   **WITHER:** On use player will receive Wither for 10% of their max HP.
--   **MEGALOMANIA:** On use, player will lose 40 sanity.
+-   **MANIA:** On use, player will lose 40 sanity.
 -   **POISON:** On use, player will lose 7% HP.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
 -   **BLOOD LOSS:** On use player will lose 15% of their max blood.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
 -   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Poison**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
--   Some Talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Megalomania.**
+-   Some Talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Mania.**
 
 In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.
 
