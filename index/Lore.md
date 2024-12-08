@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 122661
+revid: 123161
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -95,6 +95,7 @@ _The Lord Regent, sitting atop his throne of coral._
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
+    -   It is possible that "Splinterblade" is somehow connected to secret weapon "[Dormant Splinte](Dormant_Splinter.md)r"
 -   _Stars Above, and the Blade Between_ sheds some light on the situation, assuming that it's an autobiographical work.
     -   The King is said to have been cruel and caused the Etreans to suffer, but he kept such things a secret.
     -   The protagonist is tasked to assassinate the King during a voyage in the Voidsea, the sword used implied to affect him once sent to The Depths.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123123
+revid: 123146
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1489,8 +1489,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 45 Ironsing
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
-    -   15% extra posture per 1k armor durability.
-    -   (Doesn't work on other attunement mantras and m1s)
+    -   15% extra posture damage at 100% armor
+    -   Also applies to M1s
     -   Prerequisite: 45 Ironsing
 
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)

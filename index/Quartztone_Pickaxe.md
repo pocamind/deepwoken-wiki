@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 123111
+revid: 123159
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -46,7 +46,3 @@ File:Air crit.gif
 -   The weapon has the highest swingspeed out of all Heavy Weapons, with it being 0.94x.
 -   This weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as pickaxes as of December 7th 2024. They do the job more efficiently than Pickaxes.
 -   Footage of the weapon being used: [https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA](https://medal.tv/games/roblox/clips/iuFDgqCdJwcnw5dqO/d1337GDet0UN?invite=cr-MSxRcHMsMTM2NDMxMjEzLA)
-
-## Gallery
-
-File:Screenshot 2024-12-07 173313.png

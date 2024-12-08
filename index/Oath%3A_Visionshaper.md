@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 122739
+revid: 123150
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -64,21 +64,29 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 -   **Illusory Servants - Combat Mantra**
     -   Turn invisible briefly and spawn an illusory clone that targets the closest enemy.
+    -   Can be modified with Aeon Logstones and Eternal Logstones, which increase the duration and cooldown proportionately. It's generally better to leave this mantra unmodified for a shorter cooldown.
         -   Grants I-frames while invisible.
         -   Clones walk towards their target like a humanoid NPC, and they stop fighting entirely if their target dies.
-        -   The clones appear to do half of the caster's damage. **\[test needed to see if this is still true\]**
+        -   The clones appear to do half of the caster's damage.
         -   Clones disappear if hit 3 times, but are immune to damage over time effects.
-        -   Illusory clones on creation store the last non-oath mantra or Critical Attack when created. By using the Reality Shift talent item, the clone closest to the creator will teleport to their target and attempt to use the stored mantra/critical. \[**further** **testing needed to see if** **Reality Shift** **is** **cancellable**\]
-            -   Reality Shift cannot be activated if no targets are nearby.
-            -   Clones do not copy enchantments or most talents. They _do_ copy mantra modifiers and elemental path talents (e.g. Twisted Puppets.)
-            -   Clones will only copy the standing critical of weapons and cannot trigger the alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md). \[**Been tested they can do aerial crits if in the air**\]
-        -   After unlocking the Shaper Mimicry talent, clones will mimic some actions; this includes jumping, dodging, blocking/parrying, venting, and M1s. They will not do these actions by themselves. \[**test needed to see if they do these things by themselves prior to unlocking Shaper Mimicry**\]
+            -   Clones do not copy enchantments or most talents.
     -   Duration scales with your progress of the Visionshaper Oath. **\[test needed to see if this is true\]**
     -   If the target has the Disbelief Talent, the duration of the clone is shortened.
     -   Shaper Clones _do_ apply hit-stun.
 
+-   **Reality Shift - Passive**
+    -   Command the closest conjured servant to attack their hallucinating target, using either a Critical Attack or a Mantra.
+        -   The last non-oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
+        -   Pressing J or utilizing the Reality Shift tool will make your clones use their stored ability.
+        -   Clones created from Mirror Illusion will copy your opponent's last used critical or mantra instead.
+        -   If the clone is too far away from your opponent upon using Reality Shift, they will teleport to them.
+        -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most talents.
+        -   Reality Shift cannot be activated if no targets are nearby.
+        -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md).
+
 -   **Illusory Counter** **\- Combat Mantra**
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
+    -   Can be modified with a Reversal Spark which seemingly does nothing.
         -   Reflects any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
     -   Does not restrict movement like most mantra casts.
 
@@ -87,9 +95,15 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
         -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
         -   Only works on humanoids.
+
+-   **Shaper Mimicry - Passive**
+    -   The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
+        -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
+            -   Although it isn't listed in the talent description, your clones will also vent when you vent.
+
 -   **Cheap Trick - Passive**
     -   When hit below 50% health, turn invisible and summon a Shaper Clone, granting I-frames on activation.
-        -   effect has a 60 second cooldown.
+        -   60 second cooldown.
     -   Become invisible for 2.5 seconds whenever you knock an enemy. This does not grant I-frames.
 
 ## Trivia

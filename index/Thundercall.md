@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 122711
+revid: 123148
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -138,6 +138,7 @@ Lightning Impact
 -   Can proc _Meteor Impact_
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making move forward a little before slamming down.
 -   Guard breaks even at Lv. 1
+-   Can be easily used to glitch through thin or less than moderate sized walls.
 
  |
 |  | 
