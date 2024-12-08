@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 122972
+revid: 123132
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -38,7 +38,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Medium Weapons
 
--   22 Swords (27 if Alloyed)
+-   23 Swords (28 if Alloyed)
 -   13 Spears (15 if Alloyed)
 -   6 Clubs
 -   3 Rifles
@@ -60,11 +60,11 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   155 Total Weapons (Non-Alloyed, Non-Exclusive)
--   162 Total Weapons (Non-Alloyed, Exclusive)
--   177 Total Weapons (Alloyed, Non-Exclusive)
--   184 Total Weapons (Alloyed, Exclusive)
--   190 Total Weapons (Alloyed, Exclusive, Divine)
+-   156 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   163 Total Weapons (Non-Alloyed, Exclusive)
+-   178 Total Weapons (Alloyed, Non-Exclusive)
+-   185 Total Weapons (Alloyed, Exclusive)
+-   191 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -486,7 +486,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>1.09x</td>
   <td>N/A</td>
-  <td>42.6(<b>Bleed</b>)</td>
+  <td>32.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
@@ -751,6 +751,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>8</td>
   <td>1x</td>
   <td>22.7</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Dormant_Splinter"><font>Dormant Splinter</font></a></td>
+  <td>5 MED, LVL 3</td>
+  <td>5.1</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>MED: 7</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.9x</td>
+  <td>8.8</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>

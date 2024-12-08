@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 121740
+revid: 123107
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -58,7 +58,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (☆☆☆)
 
- | A flurry of metal spikes. | 40 Ether | Metal + Slash | Stomp the ground, causing a flurry of metal spikes to erupt forward.
+ | A flurry of metal spikes. | 45 Ether | Metal + Slash | Stomp the ground, causing a flurry of metal spikes to erupt forward.
 
 -   By rotating your view, you can reangle the mantra to catch rolls.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
@@ -72,7 +72,11 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (☆☆☆)
 
- | A barrage of metal rods. | 40 Ether | Metal + Slash | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
+ | A barrage of metal rods. | 30
+
+Ether
+
+ | Metal + Slash | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
 
 -   Applies Metal Rods on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra increase amount of needles fired but removing the jump.
@@ -86,7 +90,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★☆☆)
 
- | A powerful kick laced with metal | 20 Ether | Metal + Slash | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
+ | A powerful kick laced with metal | 30 Ether | Metal + Slash | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
 
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the mantra to perform a faster drop-kick that doesn't apply knockdown.
 
@@ -156,7 +160,11 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Create a metal clone and appear behind your target. | 20 Ether | Metal + Slash | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
+ | Create a metal clone and appear behind your target. | 45
+
+Ether
+
+ | Metal + Slash | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
 
 -   Applies Metal Rod on hit.
 
@@ -165,7 +173,11 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★☆)
 
- | Conjure metal from within, impaling surrounding entities. |  | Metal + Slash | Send metal spikes piercing through your body, impaling all nearby targets.
+ | Conjure metal from within, impaling surrounding entities. | 60
+
+Ether
+
+ | Metal + Slash | Send metal spikes piercing through your body, impaling all nearby targets.
 
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
@@ -219,7 +231,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (★★★)
 
- | Crush your opponents bones with an iron infused grab. | 40 Ether | Metal + Slash | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
+ | Crush your opponents bones with an iron infused grab. | 50 Ether | Metal + Slash | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
 -   The spell locks on to targets within a close frontal radius. Applies Metal Rods on hit.
 -   With the [Metal Absorption](Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
@@ -843,8 +855,9 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 ## Trivia
 
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
-    -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
+    -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
+-   Ironsing RODS lifetime is 30 seconds only. (You cant apply new rods over old ones that means you have to wait for old one to gone to apply new ones)
 -   On release, Ironsing had 12 mantras and 11 Talents, making it the most content lacking Attunement during its release.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Monad Studios' **Rogue Lineage**.

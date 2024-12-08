@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123044
+revid: 123123
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1229,7 +1229,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 15% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
-    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
+    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)\\
+    -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
@@ -1481,18 +1482,22 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Ironsing, 15 Strength
 
 -   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
+    -   1 Caltrop slows down and disables jump for 1.1 second (Can be stacked, effect can be extended by stepping on caltrop)
     -   Prerequisites: Caltrops mantra, 45 Ironsing
 
 -   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
     -   Prerequisite: 45 Ironsing
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
+    -   15% extra posture per 1k armor durability.
+    -   (Doesn't work on other attunement mantras and m1s)
     -   Prerequisite: 45 Ironsing
 
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
     -   Prerequisite: 50 Ironsing
 
 -   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
+    -   Once your foe have 3 rods on, dodge anims are 30% faster, making their dodge window 30% less.
     -   Prerequisite: 55 Ironsing
 
 -   Oh The Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
@@ -2093,6 +2098,7 @@ _**"My cure is most effective."**_
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
+    -   Will restrain for 1.4s if pulled at 5 rods, and 2 seconds if pulled at 10 rods.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
 

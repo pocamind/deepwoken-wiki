@@ -1,6 +1,6 @@
 ---
 title: Commander Rayner
-revid: 112634
+revid: 123109
 source: https://deepwoken.fandom.com/wiki/Commander_Rayner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Military personnel of The Central Authority]
@@ -21,6 +21,6 @@ Commander Rayner was an NPC at [Fort Merit](Fort_Merit.md) that requested your h
 
 ## Trivia
 
--   Bizarrely, he wore the [Hive Adjudicator](Hive_Adjudicator.md) outfit.
+-   Bizarrely, despite being a member of [The Central Authority](The_Central_Authority.md), he wore the [Hive Adjudicator](Hive_Adjudicator.md) outfit.
 -   It's unclear how Rayner could have achieved such a high rank due to racial prejudice in [The Central Authority](The_Central_Authority.md) only really allowing for high ranks to be achieved by [Adret](Adret.md) and, rarely, [Canor](Canor.md). Given his removal, there are likely no implications to his former existence.
     -   Dialogue does imply he's at odds with his superiors though, though this may be more to do with malpractice due to what was said on the Officer's Note.

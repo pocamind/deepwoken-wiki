@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123049
+revid: 123134
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | UnderstrandVoidsea (?) |
+| obtainment | The Understrand, Voidsea Events, Moon's Eyrie |
 | description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
 
 ## Description
@@ -46,13 +46,6 @@ The User will try to enhance the power with darkness upon usage but will however
 
 ## Trivia
 
--   Doing hell mode increases the spawn rate of finding Silhuette.
 -   Meeting the requirement of MED and LVL, the damage is (5.1)
 -   At max MED and 6 Proficiency, the damage is (8.8) (11.4 with bleed)
--   Appear to be related to the King of Etrea's weapon, "The Splinterblade".
-
-## Theories
-
--   Theorized to be merged with another relic/material to become complete.
--   Archmage hinted to "sell it" or rather talk/crit near a NPC/area/object to awaken it
--   **BUT HEY, THAT'S JUST A THEORY. A DEEP THEORY.**
+-   Worst weapon in the entire game for both PVE and PVP due to its unbearable 5 base damage.
