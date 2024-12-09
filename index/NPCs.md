@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 122254
+revid: 123288
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -19,7 +19,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
 | ??? (Coral Clump) | Unaligned | [The Depths](First_Layer.md), [Celtor Wastes](Celtor_Wastes.md) | None |  |
-| ??? (FalseMan) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
+| [???](<%253F%253F%253F_(FalseMan).md>) (FalseMan) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None | Speaks gibberish special characters. Snaps his own neck upon talking to him. |
 | [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Flings you off a cliff for no reason | Once thrown enough times she will stop throwing you |
 | [Adar](Adar,_Master_of_Metal.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), in tower of the bridge | [Ironsing](Ironsing.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Adrofalis](Adrofalis.md) | The Old Stewards | [Boatman's Watch](<Boatman's_Watch.md>), Ferryman's Library | Grants the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md) |  |

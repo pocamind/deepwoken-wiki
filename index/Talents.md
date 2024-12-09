@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123146
+revid: 123289
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -627,7 +627,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Counteracted by the Disbelief Talent.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
--   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same race or oath as you charms them briefly.
+-   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same Aspect or Oath as you charms them briefly.
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
     -   Gives 10% more damage to your m1 and 5% to your mantras
@@ -922,7 +922,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
     -   Guildmates, your Roblox friends, people who are in a Vow of Mastery, or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
-    -   The Canor race's innate Talent has a similar effect and they can stack.
+    -   The Canor Aspect's innate Talent has a similar effect and they can stack.
     -   Prerequisites: 35 Charisma
     -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this Talent.
 
@@ -1404,7 +1404,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without this Talent, you will wipe through his flames.
 
-### Innate (Racial Talents)
+### Innate (Aspect Talents)
 
 > _**"I rely on my instincts."**_
 
@@ -1415,7 +1415,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).
 
 -   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
-    -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the race variant.
+    -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the Aspect variant.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Allies take less damage from you and deal less damage to you. This can stack with the Give and Take talent.
@@ -1442,7 +1442,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
 
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
-    -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other races with the blind flaw.
+    -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other Aspects with the blind flaw.
 
 -   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 122185
+revid: 123287
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 ― Drinking the Root Panacea
 
-The effects of this Oath happen as a result of drinking the **Root Panacea**, a an ancient mysterious concoction that allows the consumer to turn their own body into a factory for brewing. The user also is capable of using the **Virtuous Salts**, ancient ingredients that act as tremendously potent catalysts for alchemy.
+The effects of this Oath happen as a result of drinking the **Root Panacea**, an ancient mysterious concoction that allows the consumer to turn their own body into a factory for brewing. The user also is capable of using the **Virtuous Salts**, ancient ingredients that act as tremendously potent catalysts for alchemy.
 
 ## Obtainment
 

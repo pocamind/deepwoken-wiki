@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 107384
+revid: 123272
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,7 +12,7 @@ An Iron bomb being held
 
 An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind 'E'.
 
-The base maximum amount of bombs you can hold is 99, this can be surpassed by getting the boon Packmule.
+The base maximum amount of bombs you can hold is 99, this can be surpassed by using the Packmule Boon.
 
 ## Obtainments
 
@@ -39,7 +39,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 ## Information
 
-The way bombs scale with intelligence is that with every 10 Intelligence, your bombs will deal 2.5 true damage more. The base damage for bombs is 25 true damage. Iron bombs with 100 intelligence would deal 50 true damage.
+The base damage for bombs is 25 true damage. Bomb damage scales with [Intelligence](Attributes.md#int); for every 10 Intelligence, your bombs will deal 2.5 more true damage. Iron bombs with 100 intelligence would deal 50 true damage.
 
 Iron bombs are able to be influenced by universal damage boosters such as but not limited to:
 
@@ -72,7 +72,7 @@ Iron bombs are able to be influenced by universal damage boosters such as but no
 
 ## Trivia
 
--   Bombs can proc Twisted puppets (Unsure if it can proc azure and lava serpent)
+-   Bombs can proc Twisted puppets (Unsure if it can proc lava serpent)
 -   Bombs scale with Intelligence, every 10 intelligence points grants 2.5 more true damage.
 -   Bombs DO NOT scale off of Songchant
 -   Bombs deal true damage, which goes through every damage resistant.

@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123186
+revid: 123276
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -42,7 +42,7 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
 
 ## Critical
 
-The User will try to enhance the power with darkness upon usage but will however result in nothing happening.
+The User will try to enhance the power with darkness upon usage but will however result in nothing happening, unless sprinting towards a target.
 
 ## Trivia
 

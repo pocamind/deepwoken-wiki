@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 123070
+revid: 123264
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -31,7 +31,7 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
 
 ## Wish Knowledge Calculator
 
-If you want to calculate the knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/cvnmti3qrw). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
+If you want to calculate the knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/fpdgsnv7xh). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 

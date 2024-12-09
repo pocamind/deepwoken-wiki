@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 119077
+revid: 123268
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -24,6 +24,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
 -   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
 -   Hellfire Lotuses and Skyvalor Lotuses can be found around the Crypt. Crafting 2 Hellfire Lotuses or 2 Skyvalor Lotuses together at a crafting table will yield a Strength attribute flask or a Willpower attribute flask respectively.
+-   There is 3 black flowers with a 1 Roman Numeral on top of the Crypt. This can be used the same way as the ministry cache events.
 
 ## Loot Table
 

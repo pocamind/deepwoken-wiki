@@ -1,6 +1,6 @@
 ---
 title: Venn Kaelhand
-revid: 121477
+revid: 123278
 source: https://deepwoken.fandom.com/wiki/Venn_Kaelhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
