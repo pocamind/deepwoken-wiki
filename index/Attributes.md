@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 123299
+revid: 123304
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -121,7 +121,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 -   Increases your character's proficiency with [heavy weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
-    -   Unlocks heavy weapon related [Talents](Talents.md) and a [Mantras](Attunement-less.md#heavy-weapon-mantras).
+    -   Unlocks heavy weapon related [Talents](Talents.md) and [Mantras](Attunement-less.md#heavy-weapon-mantras).
         -   Some weapon Talents are locked to certain weapon types. For example, Greataxe Talents differ from Greatsword Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
 

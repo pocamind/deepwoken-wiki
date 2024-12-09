@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 122610
+revid: 123306
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers]
@@ -458,7 +458,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
     -   Klaris' Hair id's are  
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
--   The name Klaris is likely derived from the French name Claris, which fittingly means "bright" or "clear."
+-   The name Klaris is likely derived from the French name Claire, which fittingly means"clear."
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
     -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
