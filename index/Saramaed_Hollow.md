@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 123187
+revid: 123309
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -149,6 +149,7 @@ Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
+-   Rarely, there may be a room that usually comes after or at 1.5km that requires you to kill just two threshers in turn for amazing loot (needs further testing)
 -   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast.
     -   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.

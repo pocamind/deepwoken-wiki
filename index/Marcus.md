@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 117872
+revid: 123308
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrean Luminant]
@@ -23,7 +23,7 @@ categories: [NPCs, Etrean Luminant]
 
 Marcus is inarguably the coolest Golem, if not the coolest NPC(apart from Meatlord), in this vast game of Deepwoken. He is of a modest and small size, unlike his braggart [cousins](Rock_Golem.md) who prefer to attack you on first sight. He prefers relaxing over a nice warm beverage. He can be found in [The Hidden Village](The_Hidden_Village.md).
 
-The only entity that can even compare to Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels above the powers of [Celestials](Celestial.md).
+The only entity that can even compare to Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels above the powers of Drowned Gods.
 
 Although Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is the chillest \[_[sic](https://en.wikipedia.org/wiki/sic)_\] NPC in all of Deepwoken.
 

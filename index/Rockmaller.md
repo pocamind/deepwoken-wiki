@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 121817
+revid: 123310
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critical, Multiple Criticals]
@@ -23,7 +23,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Unique Critic
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | War Mode, Miner's Landing, Summer Isle |
+| obtainment | War Mode, Miner's Landing, Saramaed Summit, Summer Isle |
 | description | "It's just a small, quarried chunk of a far more powerful stone. Silent, unremarkable, about as lively as... well, a rock on a stick. But as soon as you grip it, you feel that raw, untamed power humming beneath its rough surface. This isn't about wielding a polished weapon, it's about the sheer, brutal devastation this humble fragment is ready to unleash in your hands." |
 
 ## Description
