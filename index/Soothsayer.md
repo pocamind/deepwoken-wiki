@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 111874
+revid: 123303
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,6 +20,8 @@ categories: [NPCs]
 ## Description
 
 The Soothsayer is an NPC wearing a [Prophet's cloak](<Prophet's_Cloak.md>), located in the [Starfield Tundra](Starfield_Tundra.md). He lets you exchange [Knowledge](Knowledge.md) for notes and [Ministry](The_Ministry.md) reputation at a rate of 300 [notes](Notes.md) per knowledge. Very useful for gaining positive reputation with The Ministry, to meet the requisites for obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) and getting a free [Deepspindle](Deepspindle.md).
+
+Note: It takes 45 knowledge from enemy rank to become hero rank.
 
 ## Dialogue
 

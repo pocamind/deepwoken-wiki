@@ -1,9 +1,9 @@
 ---
 title: Adrofalis
-revid: 110746
+revid: 123294
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Capra NPCs, NPCs]
 ---
 
 # Adrofalis
@@ -11,19 +11,16 @@ categories: [Pages with broken file links, NPCs]
 | Adrofalis | |
 |---|---|
 | name | Adrofalis |
+| aspect | Capra |
 | location | Boatman's Watch |
 
 “ This laboratory is fascinating - all Pre-Tidal, of course. It's easily the most sophisticated equipment I've seen outside of the Sunken Archives. If my theories are correct, it might even be possible to reproduce the Root Panecea... ”
 
 ― Adrofalis
 
-File:Adrofalis.png
-
-Adrofalis.
-
 ## Description
 
-Adrofalis is a member of the Old Stewards, and a teacher of Ciea with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. They are also the quest-giver for the [Oath: Saltchemist.](Oath%253A_Saltchemist.md) They live and work in [Boatman's Watch](<Boatman's_Watch.md>).
+Adrofalis is a member of the Old Stewards, and a teacher of [Ciea](Ciea.md) with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. They are also the quest-giver for the [Saltchemist](Oath%253A_Saltchemist.md) Oath. They live and work in [Boatman's Watch](<Boatman's_Watch.md>).
 
 ## Dialogue
 

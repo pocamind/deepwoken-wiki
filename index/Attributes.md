@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 122669
+revid: 123299
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -14,11 +14,11 @@ categories: [Attributes, Character, Mechanics]
 
 _icon credit to Tortaa#9000_
 
-**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has a race that starts with +2 in that specific attribute, or 78 if they start with +3), and unbounded to a hard cap of 100 points (likewise, 102 if the player character race starts with +2 in that specific attribute or 103 if they start with +3) via an [unbound quest](Attributes_Unbound.md) for that attribute.
+**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has an aspect that starts with +2 in that specific attribute, or 78 if they start with +3), and unbounded to a hard cap of 100 points (likewise, 102 if the player character aspect starts with +2 in that specific attribute or 103 if they start with +3) via an [unbound quest](Attributes_Unbound.md) for that attribute.
 
 ## Basic Attributes
 
-Attributes can be increased by using its respective attribute [Training Gear](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [15 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your race (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+Attributes can be increased by using its respective attribute [Training Gear](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [15 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your aspect (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
 
 -   Strength → _use the **[Dumbbell](Training_Gear.md#attribute-training-gears)**_
 -   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**/carry the **[Boulder](Training_Gear.md#attribute-training-gears)**_
@@ -31,11 +31,11 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 -   300 from **levels**.
 -   10 from **[attunement](Attunements.md)** (_[Attunement-less](Attunement-less.md) characters instead spawn in with an extra 10 investment points to distribute freely.)_
--   5 from **[race](Aspects.md)** (excluding [Lightborns](Lightborn.md)).
+-   5 from **[aspect](Aspects.md)** (excluding [Lightborns](Lightborn.md)).
 -   15 from **character creation**.
 -   1 from **second [Attunement](Attunements.md)** _(not required for all characters, but is set aside)._
 
-[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with race stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
+[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with aspect stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
 ### Strength (STR)
 
