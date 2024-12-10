@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 123334
+revid: 123345
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -453,7 +453,7 @@ Main article: [Status Effects](Status_Effects.md)
   <th>Perfect Casting</th>
   <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. The only use of this feature is to interact with some Talents. Though it might sound useless, certain Talents can give massive bonuses. All Talents that use perfect casting are listed here:
   <ul>
-    <li><i>Eureka</i> - Receive ether back on every successful <b>perfect cast</b>.</li>
+    <li><i>Eureka</i> - Receive ether back on every successful <b>perfect cast</b>. (essentially useless as it has a 6 second cooldown)</li>
     <li>Jolt Cast - Every <b>perfect casted</b> Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast.</li>
     <li>Haunted Gale - Every 3 hits landed by <b>perfectly casted</b> Galebreathe mantras will cause the target to be quickly struck by a phantom of wind.
   <ul>

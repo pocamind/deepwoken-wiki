@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 122876
+revid: 123341
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -220,6 +220,7 @@ Amnesic Driftwood
 -   Carbuncles
 -   Brainsuckers
 -   All Mudskipper Variants
+-   Immortal Guardians
 
  |
 | 

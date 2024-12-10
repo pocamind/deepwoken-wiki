@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 122111
+revid: 123338
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -16,7 +16,7 @@ You awake to a land covered in frost, the wind piercing your ears like the cries
 
 ## Overview
 
-The **Second Layer** of [The Depths](../The_Depths.md), starts with the Ethironal Shrine, a bridge between Scyphozia and the resting chamber of Ethiron. It consists of the [Shrine](../Ethironal_Shrine_Outskirts.md), the [Maw](../The_Maw_of_Ethiron.md), and the [Sanctuary](../Sanctuary_Gatehouse.md). All leading into the [Cathedral](../Cathedral_of_Ethiron.md). Just be wary of the **parasites** coating the floor like strange snow.
+The **[Second Layer](../Second_Layer.md)** of [The Depths](../The_Depths.md), starts with the Ethironal Shrine, a bridge between Scyphozia and the resting chamber of Ethiron. It consists of the [Shrine](../Ethironal_Shrine_Outskirts.md), the [Maw](../The_Maw_of_Ethiron.md), and the [Sanctuary](../Sanctuary_Gatehouse.md). All leading into the [Cathedral](../Cathedral_of_Ethiron.md). Just be wary of the **parasites** coating the floor like strange snow.
 
 Below the first floor lies the [Sleeping City](New_Kyrsa.md), more detail can be found on its respective page.
 

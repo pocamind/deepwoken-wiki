@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123289
+revid: 123336
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -470,6 +470,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you a tool that passively drains your blood and health for these buffs. Rush Hour can be deactivated at any time by using the tool again.
     -   While buffed, you regenerate blood m1.
+    -   The damage buff its 15% (according to a tester).
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.

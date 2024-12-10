@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 123307
+revid: 123346
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -60,7 +60,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Lightning Clones will not disappear unless their attack either lands, gets blocked, parried, or dodged.
 -   He only uses Lightning Clones in Phase 1.
 -   He may be attacked while summoning the clones, but there is no ending attack opportunity.
--   Killing the clone while having the Grand Feast talent will replenish health, ether and tempo (More testing required)
+-   Killing the clone while having the Grand Feast talent will replenish health, ether and tempo.
 
 Parryable:◯  
 Blockable:◯  

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 123177
+revid: 123335
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -85,7 +85,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   His only known power is Blood magic, from which Bloodrend is derived, which is likely much more powerful than any of the Bloodrend shown in game.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)[\[4\]](#cite-note-vy-4)
 -   Seems to keep the existence/method of acquiring [Bloodrend](Bloodrend.md) a secret, making sure the only ones who can use it are his disciples, and that they can't teach it to others.[\[4\]](#cite-note-vy-4)
 
-### The 5th King of Etrea
+### The King of Etrea
 
 -   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) under his banner.
 -   Not much is known about the King of Etrea, but [Theadre](Theadre.md) speaks of him.

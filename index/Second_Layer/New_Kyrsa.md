@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 120008
+revid: 123337
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]
@@ -14,7 +14,7 @@ File:Final.png
 
 ## Overview
 
-Located directly on [Ethiron](<../Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, the [Sleeping City](New_Kyrsa.md) is incredibly unstable, experiencing **space-time distortions**, along with frequent collapses. In order for the continued sleeping of Ethiron, a 9-fold ritual is done on his [puppet](../Scion_of_Ethiron.md), unfortunately, the last one failed.
+The Second Floor of the [Second Layer](../Second_Layer.md), located directly on [Ethiron](<../Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, the [Sleeping City](New_Kyrsa.md) is incredibly unstable, experiencing **space-time distortions**, along with frequent collapses. In order for the continued sleeping of Ethiron, a 9-fold ritual is done on his [puppet](../Scion_of_Ethiron.md), unfortunately, the last one failed.
 
 ## Space-Time Distortions
 
