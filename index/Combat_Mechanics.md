@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 120668
+revid: 123334
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -409,9 +409,11 @@ Main article: [Status Effects](Status_Effects.md)
   <td></td>
 </tr>
 <tr>
-  <th>Dazed</th>
-  <td>Represented by stars above the victim's head.<p><b>Speed greatly reduced. Cannot run or dodge until status wears off.</b></p>
-  <p><i>A common source is being flourished against a wall, being flung and having your head hit a wall, or getting hit by the critical attack of a mace.</i></p></td>
+  <th>Dazed/True Daze</th>
+  <td>Represented by stars above the victim's head.<p><b>Dazed: Speed greatly reduced and dodge frames are reduced.</b></p>
+  <p><i>A common source is showstopper, stifled jump, punishing blow, and dazing finisher.</i></p>
+  <p><b>True daze: Speed is greatly reduced, and you cannot roll.</b></p>
+  <p><i>A common source is being flourished against a wall, getting ragdolled near a wall, or getting hit by the second hit of Wretched Mawblades.</i></p></td>
   <td></td>
 </tr>
 <tr>

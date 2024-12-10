@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 119764
+revid: 123331
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -58,7 +58,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 ## Abilities
 
 -   **Wings - Innate**
-    -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 60 seconds. Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian
+    -   Using **Ascension, Celestial Assault,** **Sinister Halo** or **cancelling your Air Dash** will grow two pairs of wings on the user for 60 seconds. Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your race's hair color.

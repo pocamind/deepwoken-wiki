@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 121849
+revid: 123320
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,11 +13,11 @@ Template:Races-Main
 _Tattooed when they come of age, their tattoo represents the path of life they seek.  
 Well-regarded as bureaucrats and keepers of coin._
 
-Chance of obtaining race: **17.8%**
+Chance of obtaining aspect: **17.8%**
 
 ## Description
 
-Adrets are a common race that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new race and originate from the Central Luminant. Unlike other races, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
+Adrets are a common aspect that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new race and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
 
 ## Racial Traits
 
@@ -56,7 +56,7 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
 **Lore:**
 
   
-The Adrets are a historically recently arrived race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Central Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
+The Adrets are a historically recently arrived aspect of spiritually adept individuals that make up the bulk of the greatest force in the world; The Central Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
 
 **Strengths:**
 
@@ -109,7 +109,7 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 -   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
 -   Adret are **not** fish.[\[1\]](#cite-note-1)
 -   According to Arch\_Mage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
--   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
+-   During the 4/1/2022 April Fools update (Mudwoken), Adret's aspect name was changed to Markskipper.
 -   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md).
 -   In the book "Vows by the Sea: Inheritance", it is assumed that Adrets are a 'vowless' race, and all of other races were originally Adrets, just 'bred-out'.

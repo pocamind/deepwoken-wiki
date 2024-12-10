@@ -1,6 +1,6 @@
 ---
 title: Acre
-revid: 81251
+revid: 123324
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -13,6 +13,8 @@ File:??.png
 On [Starswept Valley](The_Starswept_Valley.md)
 
 Throws you off into the water if you continue her dialogue.
+
+She may have anger issues in-lore, or have passed by a tragic event, tho its not confirmed.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 120276
+revid: 123316
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -75,6 +75,7 @@ A map can be found at [Maps#The Hall of Shattered Wills](Maps.md#the-hall-of-sha
 -   The sword is from one of Nuttoon's previous projects.[\[1\]](#cite-note-1)
 -   The room is located at the coordinates X 40000, Y 40000, Z 40000.
 -   The cooldown and nutritional values of the YUM YUM BAR are made in such a way that it is impossible to sustain oneself with just YUM YUM BAR. Mods often accidently starve to death while performing moderation work.
+-   The block above the ropes holding the "Fish" sign is the same model as the microwave in the kitchen.
 -   Moderator can use the points they gain through moderation actions to:
     -   Funnel points into renovations/upgrades to the mod office.
         -   Top contributors get their own desk.
