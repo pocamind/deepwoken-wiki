@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 120854
+revid: 123356
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -8,41 +8,56 @@ categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
 
 # Scion of Ethiron
 
-_This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
+_This is the boss encountered at the end of [Layer 2 Floor 2](Second_Layer/New_Kyrsa.md), for its puppeteer and namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
-“ From softer skies...  
-To fearsome gales...  
-Our lord Ethiron...  
-Will wake to this world... ”
+“ They're puppets now, just like him.  
+Eternally bound to guard his shrine... ”
 
-― Lost Divers' prayers
+― [Naerotiv](Naerotiv.md)
 
   
 Template:Creature Infobox V3
 
 ## Description
 
-The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as a sort of guardian to it. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fiber protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
+The Scion of Ethiron is a boss encountered within his bedchamber at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
 
-It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ethiron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
+It uses a variety of attacks to defeat you, notably summoning bones and directing them at either the player or the ground. In addition, it has the abilities of [Galebreathe](Galebreathe.md), able to fire a large laser, blind you, or fire a devastating death sphere at the player, obliterating any hit by it. Do note it is **heavily resistant** to [Vampirism](Enchantments.md) and [Bloodless Gems](Deep_Gems.md).
 
-Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)** will respawn in random areas on Floor 2 (you can find chests in random areas whitout defeating ethiron, they will only respawn in random places after defeating). These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and the [Dawnwalker](Oath%253A_Dawnwalker.md) oath. Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possibly, Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, and [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise, you will **wipe unavoidably in 2 minutes. (Having bell as a safety net here can save you for a few seconds.)**
+Upon defeat, five chests containing [Kyrsan Medallions](Kyrsan_Medallions.md) will spawn in the City, along with a **Large Chest** at the entrance of his arena; containing a myriad of loot, including rare or exclusive items such as the [Kyrsieger](Kyrsieger.md), or [Whistling Periapt](Whistling_Periapt.md).
 
-Do keep in mind that the Scion of Ethiron is extremely resistant to the effects of [Vampirism](Enchantments.md) and [Bloodless Gems](Mantra_Modifiers.md). The healing is reduced enough as to be rendered quite literally negligible.
+However, defeating him will also prompt a hard 3 minute timer, or 180 seconds, in order to escape the City at the Light Hook at the front of the city before you are guaranteed to wipe, more information can be found on [Second Layer/New Kyrsa](Second_Layer/New_Kyrsa.md).
 
-> **Activating the boss fight will remove any light hook time immediately.**
+  
 
 ## Attacks
 
 _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)._
 
-| Name/Danger | Description | Media |
+| Name/Danger | Description | Visual Demo |
 | --- | --- | --- |
 | 
-**Blinding Gale**  
-(★☆☆)
+**Vehemens Ventus**  
+(★★★★)
 
- | The Scion of Ethiron charges up its left hand and unleashes a powerful purple ball of galewind as a projectile, doing tiny damage and blinding those hit for up to three seconds. This move shares an animation with Pressurised Wind.  
+ | The Scion holds its hands together and charges up a powerful attack for ~10 seconds. Once the attack is released, approximately 3 seconds after the charging sfx finishes, a large purple gale ball will be thrown in a player's direction with a loud sound cue. Upon impact, it deals insanely high posture and **Wind** damage. However, it can be easily avoided with an air-dash, **Ghost**/**Shadow Rift**, jumping down a floor, using a waypoint with [Run It Back](Run_It_Back.md) or using [Portals](Portals.md).  
+
+This attack can be cancelled with a group by attacking three small gale balls at the first floor, but is un-recommended due to the time it takes, along with requiring 2 people.  
+This attack is able to be tanked but is not recommended.  
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯  
+
+ | 
+
+File:Ethi ult.gif
+
+ |
+| 
+
+**Blinding Gale**  
+
+ | The Scion charges up it's fist, then fires a blinding ball of gale towards the player. This animation is shared with Pressured Wind, however does a pitiful 1 damage.  
 
 Parryable:◯  
 Blockable:✗  
@@ -55,43 +70,9 @@ File:Blinding Gale.gif
  |
 | 
 
-**Bonestaves of Eld**  
-(★☆☆)
-
- | The Scion of Ethiron launches three bones at you. These do a very low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall.
-
-This attack always targets the same players in the same order unless someone dies.  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:✗  
-
- | 
-
-File:Bone Toss.gif
-
- |
-| 
-
-**Vehemens Ventus**  
-(★★★★)
-
- | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses some variants of [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md), though it will be cancelled after a brief moment due to the amount of hits, will still work. Can be consistently parried or blocked with Hoplite + Paths Defender. Despite being called oneshot move, you can tank it with 500 hp, 37% monster and 37% phys armor, Keep in mind you will lose ~85% hp during that.  
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
-
- | 
-
-File:Ethi ult.gif
-
- |
-| 
-
 **Pressurised Wind**  
-(★★☆)
 
- | The Scion of Ethiron charges up its arm and quickly releases a purple laser. This will lock onto you, and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does little damage initially.  
+ | The Scion charges up its arm and releases a purple laser, locking onto a random player and forcing them to parry it. While the damage is punishing if you get hit by the full beam, you should parry it on reaction to taking damage rather than reacting to the animation, as the animation is shared with Blinding Gale.  
 
 Parryable:◯  
 Blockable:◯  
@@ -105,13 +86,12 @@ File:Ethi laser.gif
 | 
 
 **Whiplash**  
-(★★☆)
 
- | Scion of Ethiron pulls its arm back and then swings it at the player. The arm will remain for 1–2 seconds after doing the attack, leaving the Scion vulnerable to a few hits. Does fairly high damage.  
+ | The Scion pulls its arm back, then swings at the player. The arm will remain for ~2 seconds after hitting the player, regardless of if it hit or not, leaving the Scion vulnerable for a few hits on parry.  
 
 Parryable:◯  
 Blockable:◯  
-Dodgeable:◯  
+Dodgeable:✗  
 
  | 
 
@@ -120,14 +100,29 @@ File:Big fist.gif
  |
 | 
 
-**Bonegrow**  
-(★☆☆)
+**Bonestaves of Eld**  
 
- | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. The Scion of Ethiron can use other attacks while Bonegrow is still active.
+ | The Scion launches three bones per player in a set order. These do medium posture damage per bone and can be blocked or parried. If blocked/parried, the bone will fall onto the floor to be picked up and put into a shrine. If the bone instead hits, does a low amount of damage and will not fall onto the floor. If colliding with a wall, it will instead fizzle.  
 
-Simple to avoid- just jump.  
-Parryable:✗  
+This attack always targets the same players in the same order unless someone dies/leaves.  
+Parryable:◯  
 Blockable:◯  
+Dodgeable:✗  
+
+ | 
+
+File:Bone Toss.gif
+
+ |
+| 
+
+**Bonegrow**  
+
+ | Bones will appear on the ground and grow upwards, this can be used in combination with any other move. If this hits, it will launch you into the air and do low damage, but makes the next hit guaranteed.  
+
+In order to avoid, jump or roll.  
+Parryable:✗  
+Blockable:✗  
 Dodgeable:◯  
 
  | 
@@ -137,11 +132,11 @@ File:Bone floor.gif
  |
 | 
 
-**Bone Stream** (★★☆)
+**Bone Stream**
 
- | Bones will rise up from the ground and circle around **a single floor.** Similar to Bonegrow, being able to remain active during other attacks, but sends you further into the air and does more damage.
+ | Bones will rise from the ground and circle around **a single floor**. Similar to Bonegrow in able to remain active during other attacks, but sends you further, is more constant, does more damage, and is completely unable to be blocked.
 
-To avoid, you must jump. You can just hold space and you'll be pretty much safe or move to another floor.  
+To avoid this move, you must jump, or hold the Jump key and leave to another floor.  
 Parryable:✗  
 Blockable:✗  
 Dodgeable:◯  
@@ -149,39 +144,121 @@ Dodgeable:◯
  | 
 
  |
+| 
+
+**Debris**  
+
+ | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move. These only serve to heal you in the fight via killing them. This move will only be used after Ethiron has been stunned once | 
+
+File:Kyrsgarde Summon.gif
+
+ |
 
 ### Passives
 
--   **Monster Resistance** - Physical attacks deal 25% less damage to the Scion of Ethiron.
+-   **Monster Resistance** - Physical attacks deal 25% less damage to the Scion of Ethiron. Elemental Attacks deal 2x damage to the Scion of Ethiron
+-   **Stringed Puppet** - The Scion is unable to be damaged by any means including damage reflection/redirection unless stunned by the nine-fold ritual or using it's punch.
+-   **Unharvestable** - All forms of on-damage healing such as Vampirism and Bloodless gems are negated if used on it.
+-   **Reverence** - You are unable to gain Tempo from basic attacking or using mantras on the Scion. Many forms of on-demand Immunity moves such as Beast Burrow are disabled.
 
-## Defeating the Scion of Ethiron
+## Beating the Scion
 
-This boss can be quite intimidating upon first glance at its sheer size. As with any boss, however, it can be learned and beaten with enough experience and knowledge.
+While the Scion may look incredibly daunting to fight, it is regarded as one of the easiest bosses ingame by the wider community. But make sure to **calm down** before fighting the Scion, as panic will lead to you being hit by it's ultimate.
 
-Immediately after you summon it, attempt to make your way over to the bone pillars located on the left side of the first floor. You must parry/block the bones thrown by the boss and place them in each pillar. Upon the placement of all 3 bones, stairs to the next floor will be conjured. The process will repeat itself for all 3 floors until placing the last bone on the third floor, in that case the boss will be restrained and subsequently allow you to attack it. If the boss is being beaten alone, this may take 2-3 cycles depending on the build of the player. Since it is unlikely it will be taken down in one cycle, it will most likely break free from the chains, causing it to begin attacking you again. There will be a bone missing from 1 pillar on each floor, thus requiring you to find them and replace them, although much more quickly. It's recommended to do the 2nd floor last, if possible, to minimize the amount of time running to one of its arms. Efficiently doing this will allow you to defeat the Scion of Ethiron.
+_**Note that many forms of on-demand Invincibility are disabled, and as such should not be relied on to dodge it's Ultimate.**_
 
-Most of the Scion's attacks are very easy to parry/dodge, as they are easily telegraphed by both the sound and its movements. Due to its sheer size, they're also quite slow, allowing more leeway to react. Regardless, its ultimate is undoubtedly it's most deadly attack. This attack can end you within seconds. Thus, it is **HIGHLY** recommended that you maintain your distance from it when it's charging it, along with having a mobility mantra at your disposal such as Shoulder Bash, Flame Assault, Dash, Lightning Assault, etc. If not, having the [Portals](Portals.md) resonance or Beast Burrow can also be used to evade it through invincibility frames. It is wise to wait for the for the moment it launches the attack before attempting to evade it, which is signaled by the lack of sound from the attack. Not having any of these leaves dodging your only reliable option. If you have the ghost Talent, you can simply wait for the ultimate to reach you, then dodge it, and walk out of it in your invincibility frames. Keep in mind that dodging late will make you take a bit of damage and dodging early will wipe you instantly. If you do not have the ghost Talent, you should slide jump then air dodge when the ultimate is near to you, since this way you travel the farthest the fastest. If on the third floor, do note that the attack will **NOT** collide with the floor and will still go straight for you. All in all, knowing how to evade this attack will effectively eliminate nearly all risks of dying to this boss. (**Note: You are unable to dodge properly when holding a bone.**)
+In order to beat the Scion, you have to place down Bones thrown by it's Bone throw move into their shrines, which then stuns it and allows you to deal heavy damage. And to accomplish this, simply block or parry the bonestaves and run over to a shrine while carrying them. Note that **while carrying**, you are **unable** to do Q dodges or Slides, so if the Ultimate targets you, either drop it to run or learn to parry the ultimate.
 
-Both the bone and beam attacks can be parried with relative ease. For the beam, rapidly pressing F is the best option. The parry timing for the bones can be a bit janky as the bones seem to hit you sooner than you think they would. It's recommended you learn to parry them if you don't have a lot of posture to spare. The interval in between each bone is the same though, so once you get the rhythm down it should be smooth sailing from that point. There is also another type of attack it may use where bones sprout from the ground, instantly block-breaking you. They appear 3 times, each time right under you forcing you to either run or dodge. Getting hit will fling you into the air, ragdolling you in the process. It can also use a similar attack, but unlike the previous one, the bones will move in a wave like formation in a circle around the floor. This attack is used much less often though. It also has a blind attack but pay this little to no mind. Finally, it may attempt to hit you with its arms of course, but this can easily be parried and even allows you to sneak 2-3 hits in.
+A secondary win-condition is to simply ignore the gimmick and allow the scion to use it's punch on you a multitude of time, which is far slower and will usually not spawn Kyrsgarde snipers for health packs.
 
-The Scion can also summon Ice Lancers that will guard the bone pillars. They can be used as free health packs, but it's recommended you don't leave them around for too long as they can become a bit of a nuisance.
+In order for the health packs to spawn, you must have **used all 9 shrines** to anchor the Scion **atleast once**, in which multiple Kyrsgarde snipers will spawn per cycle.
 
-Try to be conservative when it comes to ether usage, as with the new Tempo mechanic your ether regeneration will heavily stagnate without hitting anything for a long period of time (which will be 95% of the boss). This is especially important if you use Beast Burrow or a mobility mantra to evade its ultimate. Only use mantras when it's absolutely necessary, especially if the build being used does not have ether to spare.
+To avoid the ultimate, slide, wait for the sound cue of the Scion firing it's orb, and then jump and air-dash in order to avoid it. If you wish to parry it, instead wait for the same sound cue, but start parrying directly before it hits you. While either of these may seem hard at first, they will become muscle memory, however the easier one to do with no experience is to simply avoid the ultimate via air-dashing.
 
-After beating the boss, it's mostly running until you reach the city. White orbs will spawn around the player at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Kyrsans means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Trying to kill those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is slightly slower; however it is a much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
+## Loot Table
 
-It is strongly advised that if you are playing with teammates and have defeated the boss, you **STAY AWAY** from each other as you attempt to escape the city. This is because white orbs will spawn behind the player's back, and if an unfortunate teammate is behind you, the white orb will spawn behind you, catching your teammate off guard. It is also advised that you keep an eye out for who is in front of you and know where they are running in order to avoid being caught off guard by the white orbs.
+Upon defeating the Scion, it will drop a large chest at the entrance of his bedchamber containing:
 
--   **BIG SIDE NOTE: CERTAIN MOVES THAT ALLOW YOU TO GAIN INVINCIBILITY FRAMES LIKE BURROW ARE DISABLED**
+-   Many Kyrsan series weapons.
+-   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
+-   Very high odds of Deep Gems.
+-   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
+-   Exclusively from the Scion, a [Kyrsieger](Kyrsieger.md)
+-   Lesser [Relics](Relics.md) such as the [Armorer's Needle](<Armorer's_Needle.md>) or the [Spires](Void_Spire.md).
+-   Rarely, [Enchantment Stones](Enchant_Stone.md), various Legendary Weapons, or the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
+-   Extremely Rarely, a [Whistling Periapt](Whistling_Periapt.md).
 
-The Scion of Ethiron is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss is necessary in order to truly master its moveset and make it out of Layer 2 in one piece.
+### 
+
+**Exhaustive Loot Table**
+
+**Keep in mind that this list is still incomplete.**
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Windrunner_Robes.md">Windrunner Robes</a>, <a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Rain_Spire.md">The Spires</a></li>
+  </ul></li>
+    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li>Exclusive weapons dropped only from <b>Scion of Ethiron</b>:
+  <ol>
+    <li><a href="Kyrsieger.md"><font>Kyrsieger</font></a> (75HVY/15CHA)</li>
+  </ol></li>
+    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Gran_Sudaruska.md">Gran Sudaruska</a></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Offhand</b>: <a href="Kyrstear.md">Kyrstear</a> (40 AGL)</li>
+    <li><b>Light Weapons</b>: <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Kyrsedge.md">Kyrsedge</a></li>
+    <li><b>Medium Weapons</b>: <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Kyrsblade.md">Kyrsblade</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Railblade.md">Railblade</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:
+  <ol>
+    <li><b>Legendary Head</b>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a>.</li>
+    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a></li>
+  </ol></li>
+    <li><b><a href="Equipment.md#arms">Arm Equipments</a></b>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>, <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li>
+  </ol></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Whistling_Periapt.md"><font>Whistling Periapt</font></a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
 -   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orleandeau](<Cap'n_Orlandeau.md>).
 -   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the [Restore Rulebook](https://docs.google.com/document/d/e/2PACX-1vQUwjgPHEqZ_Ok8N9x_cYv9jm27Ln2pcPepOPtuFFXk8rbkuShDlVADoTw_hIjwlNA0itXTa5-6R7Q6/pub).
--   Due to the Vampirism enchant being mostly ineffective on bosses, the player must rely on other sources of healing like [Flamecharm's](Flamecharm.md) Flame Wisp and the health obtained from killing [Kyrsgarde](Kyrsgarde.md).
 -   The branches on its head are inspired by dendrites in neuron diagrams. The Scion only has four braincells.
 -   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Named "avatar" in the game files.
--   Although some leaks have been presented, Ethiron is still one of two bosses to not have a theme song (the other being the [Dread Serpent](Dread_Serpent.md).)

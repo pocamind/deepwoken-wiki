@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 119537
+revid: 123361
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -10,7 +10,7 @@ categories: [Mechanics, Character, Creation]
 
 Power or Level is the leveling mechanic of Deepwoken that enables players to increase their stats as well as unlock new [Talents](Talents.md), [Mantras](Mantras.md), and select an [Oath](Oaths.md).
 
-An example of a player's Power and stat allotment
+An example of a player's Power and stat allotment back in Verse One
 
 Each level of Power grants 15 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 15 points have been invested a player will increase their Power upon meeting EXP requirements. As players Power up further the EXP required to invest a point will also increase. The maximum **Power** is currently 20.
 

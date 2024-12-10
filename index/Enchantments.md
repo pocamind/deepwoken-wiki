@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 123275
+revid: 123364
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -204,9 +204,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
-  <td><div><p>Posture damage is increased, between 0.5 and 5.5. Scales off weapon damage.<sup><a href="#cite-note-2">[2]</a></sup><br>
-  Deal&nbsp;?% more chip damage.<br>
-  Deal bonus damage on a posture break. Scale inverserly with weapon damage (more damage = less bonus).</p></div></td>
+  <td><div><p>Stone posture calculation is: DMG/9.5+0.5+BASE POSTURE DAMAGE<sup><a href="#cite-note-2">[2]</a></sup><br>
+  Example:Stone Iron Blunderbuss crit deals:51/9.5+0.5+5.48 = 11.44 posture<br>
+  Doesn't give extra chip DMG<br>
+  Deal bonus 3 damage on a posture break.</p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>

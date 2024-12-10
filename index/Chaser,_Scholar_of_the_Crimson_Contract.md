@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 122647
+revid: 123359
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
@@ -145,7 +145,7 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 -   Once all blood jars are broken, Chaser loses the ability to heal but gains a new attack, which allows him to rapidly attack multiple time in a row.
     -   His Blood Frenzy (identified by Chaser's Laugh while he's still in the air and by him having a red highlight) incorporates his other blood based attacks and are rapidly chained. He will cast between 1 to 4 attacks in a row.
-    -   In this phase, Chaser will be incapacitated after 4 attacks (most of the time). His vulnerability periods are longer than in phase 1, allowing the player to deal more damage.
+    -   In this phase, Chaser will be incapacitated after 4 attacks (most of the time). His vulnerability periods are longer than in phase 1, allowing the player to deal more damage. (YOU STILL HAVE TO BREAK JARS IN STAGE 2)
 
 **Phase 3:**
 
