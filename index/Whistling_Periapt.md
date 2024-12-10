@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 121326
+revid: 123350
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics]
@@ -34,7 +34,7 @@ Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Er
 
 ## Trivia
 
--   It can be dyed, but it only affects the chain part of the amulet, so the green stone stays green.
+-   It can be dyed, changing the color of the light it produces, however it only gives a tint to the necklace itself, so the green stone stays green.
 -   In March 2024, developer Ragoozer, accidentally or intentionally, dropped it as loot in a [Chime of Conflict](Chime_of_Conflict.md) match.[\[1\]](#cite-note-1)
     -   It was formerly known as the Wind Amulet.
 -   Whistleguard is a weaker variant of the [Duke of Erisia](Duke_Ishamon_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight.

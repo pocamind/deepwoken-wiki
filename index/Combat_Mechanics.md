@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 123345
+revid: 123352
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -121,6 +121,7 @@ These are stats that are you required to maintain in order to survive in the wor
     <li>The player will always be combat tagged.</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
     <li>Getting hit while bleeding out drains a large amount of Water and Stomach</li>
+    <li>Blood loss is based off of damage.</li>
   </ul><p><i>Maximum blood increases with power, gaining ~10% more blood each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20, compared to the starting amount.</i></p>
   <p><br>
   </p>
