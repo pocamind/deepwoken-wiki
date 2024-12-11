@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123394
+revid: 123400
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1437,7 +1437,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
 
 -   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
-    -   Status effects, good or bad, are shorter.
+    -   Status effects, good or bad, have a shorter duration.
+    -   Only works on Chilled, Potions, and Suffocation.
 
 -   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.

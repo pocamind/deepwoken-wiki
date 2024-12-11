@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 121116
+revid: 123401
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -29,7 +29,7 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
   <ul>
     <li><i>"Ailments and blessings alike fade away more quickly."</i>
   <ul>
-    <li>The duration of Status Effects, good or bad, is reduced by 15%</li>
+    <li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to Chilled, Suffocation, and Potions</li>
     <li>Take less damage in acid rain.</li>
   </ul></li>
   </ul></td>
@@ -60,7 +60,7 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 -   +2 Agility
 -   +2 Intelligence
 -   Takes less damage in acid rain.
--   Status Effects won't last as long.
+-   The durations of Chilled, Suffocation, and Potions will be lessened when applied to you.
     
 
 **Surnames:**
@@ -101,9 +101,4 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
--   When under the effect of a Potion, you'll only be affected by them for roughly 75% of the duration. This may be true for Chilling and Suffocate as well. (Needs testing.)
--   Molt does not affect speed boost duration[\[1\]](#cite-note-1)
-
-1.  [↑](#cite-ref-1)
-    
-    File:Molt speedboost.png
+-   When under the effect of a Potion, Suffocation, or Chilled, you'll only be affected by it for roughly 75% of the duration.
