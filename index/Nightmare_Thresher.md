@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 123093
+revid: 123389
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Monsters]
@@ -71,7 +71,7 @@ Dodgeable◯
  |
 | 
 
-Cursed Flame  
+Nightmare Flame  
 (★☆☆)
 
  | The Nightmare Thresher breathes black and green flames in front of itself.
@@ -105,4 +105,3 @@ Dodgeable:◯
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
 -   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
--   According to The Wall Street Journal, the Nightmare Thresher greatly resembles an avocado based considering its eyes being the exact color and shape of a sliced avocado horizontally with its pit taken out. Another thing to support this is that the Nightmare Thresher's skin resembles that of an avocado skin proving that the Nightmare Thresher should be nicknamed the Avocado Thresher.

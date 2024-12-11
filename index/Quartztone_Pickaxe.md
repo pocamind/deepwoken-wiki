@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 123353
+revid: 123386
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -25,7 +25,7 @@ categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Diluvian Mechanism, Saramaed Hollow, Moon's Eyrie, Second Layer |
-| description | "A pickaxe fashioned from an exceptionally large node of quartz. The crystal has been painstakingly tuned to the frequency of a Mantra, conjuring its effects on use." |
+| description | A pickaxe fashioned from an exceptionally large node of quartz. The crystal has been painstakingly tuned to the frequency of a Mantra, conjuring its effects on use. |
 
 ## Description
 

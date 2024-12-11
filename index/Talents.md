@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123382
+revid: 123394
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1309,7 +1309,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Human Architecture."**_
 
--   Strong Black Guy \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
@@ -1461,8 +1461,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I obtained the lost art of Ironsinging."**_
 
--   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
-    -   Bleed damage now only deals 15% more damage.
+-   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
+    -   Bleed damage now only deals 20% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
     -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction.
@@ -1491,7 +1491,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   15% extra posture damage at 100% armor
-    -   Also applies to M1s
+    -   Posture buff not applies to M1s and doesn't work on non Ironsing mantras.
     -   Prerequisite: 45 Ironsing
 
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)

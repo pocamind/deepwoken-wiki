@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 122587
+revid: 123392
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Unique Critical, "Multi-Weapon Scaling"]
@@ -50,3 +50,4 @@ The critical has a cooldown of **5.5 seconds**.
 
 -   Unequipping and re-equipping your weapon while in the Shattered State will also return it to its original form.
 -   It has the rarity of a [Soulthorn](Soulthorn.md) in the [Moon's Eyrie](<Moon's_Eyrie.md>), possibly even rarer.
+-   This sword might be inspired by a blade called Shard Sword used by [Blade](https://honkai-star-rail.fandom.com/wiki/Blade) in Honkai Star Rail.
