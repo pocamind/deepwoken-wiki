@@ -1,9 +1,9 @@
 ---
 title: Diver Quartermaster
-revid: 123403
+revid: 123407
 source: https://deepwoken.fandom.com/wiki/Diver_Quartermaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Npc]
+categories: [Enemies]
 ---
 
 # Diver Quartermaster
