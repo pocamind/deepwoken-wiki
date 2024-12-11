@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 122701
+revid: 123378
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -144,12 +144,12 @@ Based on the power of the user(s), the starting wave will differ;
 **\*CORPSE EXPLOSION MODIFER\***
 
  | 2 Corrupt Bounders | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
-| 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts |  |
+| 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts | Best to position yourself in a corner to reduce the constant knockback. |
 | 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Corrupt Mudskipper Brute. |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Nautilodaunt. |  |
 | 29 (Seafood Featheries) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
 | 30 (Parasyte) | 9 Corrupt Attuned Carbuncles | The Carbuncles can permanently hit stun you. Use Corrupt Payback to do high amounts of damage or vent to get distance. |
-| 31 (hey remember the week when humanoid anti-gank ai broke and you got stunlocked six ways to sunday? yeah that's exactly what this is) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. |
+| 31 (hey remember the week when humanoid anti-gank ai broke and you got stunlocked six ways to sunday? yeah that's exactly what this is) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. However, keep in mind that the Golems are capable of cancelling your Corrupt Payback, so caution is advised. |
 | 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Flamewreathed Mechalodaunt, 1 Corrupt Rogue Construct | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34 (Gale Fiesta)
@@ -157,7 +157,7 @@ Based on the power of the user(s), the starting wave will differ;
 **\*TIMEBOMB MODIFER\***
 
  | 3 Galeforce Enforcer, 1 Corrupt Galeforce Kyrsgarde-Sniper. |  |
-| 35 (Shadow Rave) | 1 Corrupt Shadowmeld Golem Prime, 1 Corrupt Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime |
+| 35 (Shadow Rave) | 1 Corrupt Shadowmeld Golem Prime, 1 Corrupt Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime. |
 | 36 (A Corrupted Nightmare) | 2 Corrupt Nightmare Threshers, 2 Corrupt Threshers, 3 Corrupt Carbuncles, 1 Corrupt Crustaceous Rex, 2 Corrupt Crimson Terrapods, 1 Corrupt King Thresher |  |
 | 37 (Invisibility Abusers) | 3 Corrupt Owls, 1 King Thresher, 1 Corrupt Alpha Megalodaunt, 3 Kyrsgarde Crawlers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher. The Kyrsgarde Crawlers can do high amounts of burst damage. |
 | 38 (Burning Alaska) | 1 Corrupt Frostmantle Lionfish, 1 Corrupt Frostmantle Deep Owl, 3 Corrupt Frostmantle Kyrsgarde Snipers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Frostmantle Glacial Lionfish |  |
@@ -177,7 +177,7 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 **\*THIN AIR MODIFIER\***
 
  | 5 Corrupt Shadowmeld Greater Ministry Enforcers, 3 Corrupt Shadowmeld Ministry Necromancers, 4 Corrupt Shadowmeld Ministry Footpads (yes thats their actual name) | With the lack of mantras, this round will be one of the most tedious. It's best advised to constantly attack the necromancer's mudskippers without killing the necromancers until the rest of the footpads are dead. However, the talent Water off a Duck's Back can remove the suffocation from this wave. |
-| 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Flamecharm Starkindred Angel, 2 Corrupt Tideknight Flamewreathed Galebreath Starkindred Angels | The Starkindred Angels can use the Starkindred mantras, so its best advised to avoid the Flame Blade Starkindred combo and the annoying ascensions and sinister halo. |
+| 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Minos, Sinner of Flame, 1 Corrupt Tideknight Flamewreathed Abbadon, Sinner of Ice, 1 Corrupt Tideknight Flamewreathed Astaroth, Sinner of Wind | The Starkindred Angels can use the Starkindred mantras, so its best advised to avoid the Flame Blade Starkindred combo and the annoying ascensions and sinister halo. |
 | 44 (Starkindred's Return)
 
 **\*GHOSTLY REMINISICENCE MODIFER\***

@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 123248
+revid: 123376
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Unique Critical, Weapons with Unique Criticals, Etrea, Alloyed Weapons]

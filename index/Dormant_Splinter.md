@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123297
+revid: 123370
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -39,6 +39,8 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
     -   [Minityrsa](Minityrsa.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
 3.  Use [Shadow Travel](Shadowcast.md) or Shadow's Flight on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
+
+It can also be found from a variety of events in the [Voidsea](Voidsea.md).
 
 ## Critical
 
