@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 91921
+revid: 123473
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -8,7 +8,7 @@ categories: [Character]
 
 # Age
 
-Age in Deepwoken is viewable by going to your stats menu. Your age increases every year, it changes when the game season gets to the birth season of your character.(Every 4 days starting from character creation)
+Age in Deepwoken is viewable by going to your stats menu. Your age increases every year, it changes when the game season gets to the birth season of your character. (Every 4 days starting from character creation)
 
 ## Notes
 
@@ -16,12 +16,14 @@ Age in Deepwoken is viewable by going to your stats menu. Your age increases eve
 -   It is said that characters suffer from appearance changes the older they get depending on their race, such as getting wrinkles, the facial mark on [Celtors](Celtor.md) getting lighter to match your hair color
     
 -   Your character can age in the character creation screen aswell
+-   You can achieve Stage 4 Aging at any time by equipping a [Waning Ring.](Waning_Ring.md)
+    -   You can also go back to stage 0 by equipping a [Moon Ring](Moon_Ring.md). Using both rings will put you to stage 1, wich makes you have grayish hair and crow feet eyes.
 
   
 
 ## Effects of aging
 
-The section below will be continually updated after any visual changes. Moon Rings stop your character from changing visually, but they will still age.
+Aging does not affect gameplay, and is purely cosmetic.
 
 -   Age 40 - Crow's Feet (wrinkles next to eyes)
 -   If you are significantly older than another player of the same race then they get the "Juvenile" or "Nephew" title over their name like it would for a family member and you get "Elder" above yours for them.

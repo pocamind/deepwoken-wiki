@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 120806
+revid: 123462
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -79,6 +79,7 @@ A Stone Knight executes the player:
 
 -   Usually after every move, you can get 1-2 basic attacks off, unless they use the single swing, in which only go for one.
 -   In order to dodge the Terra Eruption, do a full dodge instead of a roll cancel.
+-   All of the Stone Knight's moves can be dodged with little consequence, with the exception of the double slash.
 
 ## Trivia
 

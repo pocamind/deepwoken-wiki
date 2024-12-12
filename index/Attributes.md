@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 123304
+revid: 123480
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -212,7 +212,6 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   If you lack regular EXP, using training gear will give the message "I've learnt what I can from training right now, I should put it into practice..."
 -   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.
 -   If you need to uncap an attribute, you get the message "I've hit a wall in my training. Maybe there's some way to break it?"
--   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better Talents~ _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the Talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above - as well as having quicker access to those cards._
 
 1.  [↑](#cite-ref-1) Also known as "AGI".

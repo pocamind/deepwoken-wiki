@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 122648
+revid: 123472
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -135,10 +135,10 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   Be mindful of Broodrot Smash. This move allows the Broodlord to cover quite long distances with ease and catch up to you. Additionally, this move also allows them to easily board boats, especially larger ones.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with extreme caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
     -   Cannons on [boats](Ships_&_Sailing.md) are a good way to kill them when encountered at sea.
--   ~Broodlords have a massive detection radius and seem to be able to detect players through walls from all angles. Players with [Obvious](Boons_and_Flaws.md) need to be very careful if trying to avoid one.~ (As of 10/12/2024, Mudskipper Broodlords (and Brutes) can no longer see players through walls, and now cannot see anyone behind them.)
 -   You _can_ use [Force Your Way](Talents.md) from [Ignition Deepdelver](Ignition_Deepdelver.md) or the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry Broodrot Slam and/or Broodrot Thrust, but be advised that it is incredibly risky and requires noticeably precise timing to parry either attack.
 -   The Broodlord is deceptively fast, even without using Broodrot Smash, typically able to catch up to the average player, especially on low health. If you're being chased, try to get to higher ground, as Mudskipper Broodlords are, for the most part, incapable of getting to higher elevations. Although, be incredibly mindful of their ability to phase through walls and ceilings with Broodrot Smash.
 -   When escaping from a Mudskipper Broodlord, pay close attention to it's attack audio. Broodrot Smash will knock you down, stunning you, allowing it to potentially get another hit in, dealing high damage. Dodge immediately if you hear it charging up its slam.
+-   Be mindful of their ability to parry mantras, as this can make them harder to deal with from long range
 
 ## Trivia
 

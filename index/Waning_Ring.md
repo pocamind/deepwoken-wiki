@@ -1,17 +1,45 @@
 ---
 title: Waning Ring
-revid: 116628
+revid: 123482
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Equipment, Rings]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Equipment, Rings]
 ---
 
 # Waning Ring
 
-**Waning Ring** is an [Equipment](Equipment.md) item in _Deepwoken_.
+| Waning Ring | |
+|---|---|
+| type | Ring |
+| rarity | Legendary |
+| selling price | 50 |
+| requirements | None |
+| weight | 0.1 |
+| innate stats | 2 Rare Pips |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Aelita, The Ferryman, Duke Erisia, First Layer, Second Layer, Ancient Rotlands, Moon's Eyrie, Primadon, Maestro Evengarde Rest |
+| description | "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike." |
 
 ## Description
 
-Waning Ring grants the user two Rare Pips upon being equipped. It also causes the user to appear as if they were older than 40.
+The **Waning Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's [age](Age.md), making you appear over 70 (Stage 4 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md). The ring also comes with 2 Rare Pips.
+
+## Obtainment
+
+-   [Aelita](Aelita.md) **(very rare)**
+-   [The Ferryman](The_Ferryman.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(very rare)**
+-   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+## Trivia
+
+-   Shares its ability with the [Moon Ring](Moon_Ring.md)
+    -   When both are equipped, you appear as if you are over 40 (**Stage 1** [Age](Age.md))

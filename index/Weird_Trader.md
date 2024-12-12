@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 123425
+revid: 123470
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -127,6 +127,7 @@ The event despawns after 30 minutes have elapsed.
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   [Deepspindle](Deepspindle.md)
+-   [Dormant Splinter](Dormant_Splinter.md)
 -   [Dye Packet](Dye_Packet.md)
 -   [Flareblood Kamas](Flareblood_Kamas.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md)

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 123331
+revid: 123467
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,7 +37,7 @@ The Starkindred Church is a malevolent cult that worships [Celestials](Celestial
     1.  If you lack the [Union Hook](Talent_Quests.md#union-hook), careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it. There is also a long, sloped rock that you can go up from the left of [The Lordsgrove](The_Lordsgrove.md) that leads you directly to the Voidzone.
 4.  Return to Samael to get the Oath.
 
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=IBey9g9dZLo)._
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/uqNfFsZ7yhw)._
 
 ## Progression
 

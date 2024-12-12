@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 120248
+revid: 123471
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, Moonseye]
@@ -30,11 +30,11 @@ Moon's Eyrie is a mysterious island found within the Voidsea, potentially made a
 -   Below the [Moonseye](Moonseye.md) symbol, accessible through a door on the cliff beside it, is an arena with a [Moon Knight](Moon_Knight.md) that drops a chest, including unique drops [Soulthorn](Soulthorn.md) and [Nocturne](Nocturne.md), as well as other various Moonseye-related drops, including the [Moonseye Tome](Moonseye_Tome.md).
     -   To open the door, attack the stone pillars with a twisting white glow around them. Once deactivated, they will no longer glow. Do this for all three pillars to gain access to the door.
 
-## Notes/Trivia
+## Trivia
 
 -   Although this island is located within the [Voidsea](Voidsea.md), it does not have Voidzone properties, and you will not be sent to [The Depths](The_Depths.md) on death unless stained.
 -   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
--   A good place to farm for the [Astral Enchant Stone](Enchantments.md#list-of-enchantments) as [Moon Knights](Moon_Knight.md) have a chance to drop it. (~1%)
+-   A good place to farm for the [Astral Enchant Stone](Enchantments.md#list-of-enchantments) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
 -   If you will use Kamui to go there 48614 45792 Coords can be used. (Non-Combat)
 -   Kaide, The Drowned Light gives some insight on where to find this island, as well as some lore about it.
 -   If you're stuck inside the room, you can spam the interact hotkey to open the door while dashing and jumping at the same time.
