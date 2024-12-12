@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 123347
+revid: 123441
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

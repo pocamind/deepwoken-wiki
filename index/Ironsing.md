@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 123107
+revid: 123434
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -857,7 +857,11 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
--   Ironsing RODS lifetime is 30 seconds only. (You cant apply new rods over old ones that means you have to wait for old one to gone to apply new ones)
+-   Ironsing RODS lifetime is 30 seconds only.
+
+(You cant apply new rods over old ones that means you have to wait for old one to gone to apply new ones)
+
+-   Iron pulls have 0.1s anim and 0.4s endlag on pull.
 -   On release, Ironsing had 12 mantras and 11 Talents, making it the most content lacking Attunement during its release.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Monad Studios' **Rogue Lineage**.

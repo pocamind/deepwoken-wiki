@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 123337
+revid: 123446
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]
@@ -51,13 +51,16 @@ Due to the instability of New Kyrsa, there is a hard-set timelimit displayed thr
 -   [Misérables](../Misérables.md) - **Grants Yun'shul Wishes and a temporary Strength Buff**
 -   [Kennith](../Kennith.md)
 -   [Dr. Carrion](../Carrion,_Father_of_Evolution.md) - **Grants Monster Mantras.**
+-   [F'leche](<../F'leche.md>)
+-   [Cap'n Orlandeu](<../Cap'n_Orlandeau.md>)
+-   [Okumay](../Okumay.md)
 
 ## Optional Content
 
 ### Secrets
 
 1.  Within a building on the left in the center path to Ethiron, you may **Interact** with a panel in order to start a 3 Enemy wave, doing this rewards you with **5 Medallions**. This may be done **twice**.
-2.  If instead of jumping into the Library, you follow the glass, you will be greeted by a tower. Occasionally at the top of this tower there may be a Medallion Chest.
+2.  If instead of jumping into the Library, you follow the glass, you will be greeted by a tower. Occasionally at the top of this tower there may be a Medallion Chest, however, the top is guarded by four Kyrsgarde Lancers and a Kyrsgarde Brute at the bottom.
 3.  On the top of a tall tower on the left side of the city, there are glowing white particles. Going in will lead you to Kaide, The Drowned Light, where you can then get lore.
 
 ### Standard Medallion Chests
@@ -69,11 +72,11 @@ Large radiant pink chests spawn around the City and the Wilds, interacting with 
 3.  There are **two** per large building.
 4.  On top of a metal plate near the tower obelisk location.
 5.  On the edge of the city near the entrance.
-6.  On the edge of the city near the Lost Divers.
-7.  At the obelisk of the lost divers.
-8.  At the edge of the city near a void near the lost divers.
-9.  Near Misérables on top of a rock.
-10.  On the top of large towers.
+6.  On the edge of the city to the right near the Lost Divers.
+7.  At the obelisk of the Lost Divers.
+8.  At the edge of the city to the left near the Lost Divers.
+9.  Near [Misérables](../Misérables.md) on top of a rock.
+10.  On the top of a large tower near library.
 11.  Near Kaide, The Drowned Light.
 12.  Near the library incredibly high.
 
@@ -90,6 +93,8 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   [Enchant Stone](../Enchant_Stone.md)
 -   [Weapons](../Weapons.md)
 -   [Deep Gems](../Mantra_Modifiers.md)
+-   [Equipment](../Equipment.md)
+-   [Outfit Schematics](../Outfits.md)
 
 ### Medallion Chest
 
@@ -100,6 +105,8 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   [Kyrsieger](../Kyrsieger.md)
 -   [Railblade](../Railblade.md)
 -   [Gran Sudaruska](../Gran_Sudaruska.md)
+-   [Light's Final Toll](<../Light's_Final_Toll.md>)
+-   [Curved Blade of Winds](../Curved_Blade_of_Winds.md)
 -   [All Lesser Relics](../Relics.md) + [Spires](../Relics.md)
 -   [Whistling Periapt](../Whistling_Periapt.md)
 
@@ -107,7 +114,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 
 -   The entire layout for this dungeon is entirely **linear**, you are always forced to get the Starting and Library lantern in that order (unless you have a skip), and the rest can be done with a linear path of Start -> Library -> Tower -> Sewer -> Lost Divers.
 -   Do **NOT** enter random buildings, as they may be a trap-room which will lead to a **swift death**.
--   Sliding on ROBLOX Smooth Terrain is risky, and as such, should be done sparingly.
+-   Sliding on ROBLOX Smooth Terrain is risky, as it can take you down into the void unintentionally, and as such, should be done sparingly.
 -   Bring as many people as you wish, as the Scion's health does **not** increase proportionally to players.
 
 ## Trivia

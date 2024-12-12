@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123433
+revid: 123447
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1499,7 +1499,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Once your foe have 3 rods on, dodge anims are 30% faster, making their dodge window 30% less.
+    -   Current effect unknown or bugged. Roll distance and roll anim times are same on proc.
     -   Prerequisite: 55 Ironsing
 
 -   Oh The Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
@@ -2575,6 +2575,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
     -   Does not proc the talent "Dazing Finisher".
+    -   Only consumes flames produced via Agitating Spark, meaning it will not consume your Flame Within.
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.

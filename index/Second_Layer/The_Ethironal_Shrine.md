@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 123338
+revid: 123445
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -22,9 +22,9 @@ Below the first floor lies the [Sleeping City](New_Kyrsa.md), more detail can be
 
 ## Access
 
-Unlike other dungeons, the Second Layer has multiple different methods to access it, while more in-depth on the [Second Layer](../Second_Layer.md) page, it can be accessed via either jumping into a void while above 50% Health (75% in Player Combat), by taking the Ignition Union’s deepdriller from the Chariot’s Spire, or by talking to [Klaris Llfiend, Mother of Lights](../Klaris_Llfiend,_Mother_of_Lights.md) while above Power 15.
+Unlike other dungeons, the Second Layer has multiple different methods to access it, while more in-depth on the [Second Layer](../Second_Layer.md) page, it can be accessed via either jumping into a void while above 50% Health (75% in Player Combat), by taking the Ignition Union’s deepdriller from the Chariot’s Spire, dying in depths to a player with the contractor oath while having an oath or by talking to [Klaris Llfiend, Mother of Lights](../Klaris_Llfiend,_Mother_of_Lights.md) while above Power 15.
 
-Going into the dungeon via Klaris will provide a safe-guard in the form of a Light-hook, which will safely eject you if you die within the first 20 minutes of entering.
+Going into the dungeon via Klaris will provide a safe-guard in the form of a Light-hook, which will safely eject you back into Layer 1 if you die within the first 20 minutes of entering.
 
 ## Objectives
 
@@ -52,7 +52,7 @@ The Eternal Gale is full of threats towards the player, and thus, should be brie
 
 Upon exiting the outskirts and entering the shrine, the first thing noticed will be the thick fog around the player. While this can be negated [later](../Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md), it proves **no threat** aside from inhibiting the players vision within the shrine. There is no fog after exiting the Firfire cavern and approaching the Cathedral.
 
--   The fog may be **heavily reduced** via obtaining the **Ethiron's Gaze** Talent from the main questline.
+-   The fog may be **heavily reduced** by obtaining the **Ethiron's Gaze** Talent from the main questline.
 
 ### Parasites
 
@@ -107,7 +107,7 @@ There are three different methods to escape the second layer, however all of whi
 
 ### Finishing the Floor
 
--   Do the entire floor and defeat the boss.
+-   Do the entire floor and defeat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Instead of going down into [New Kyrsa, The Sleeping City](New_Kyrsa.md), take the giant lighthook out.
 -   You **keep** all the loot gained.
 
@@ -128,14 +128,15 @@ It is important to note that **very few** good items drop from standard enemy lo
 
 #### Galewax
 
-1.  Within the Eternal Gale, small white objects may be found lying around
-2.  There are 6 that should be noted as they are **lost on run end**.
+1.  Within the Eternal Gale, small white objects may be found lying around.
+2.  There are 7 galewaxes in the whole dungeon. They are **lost upon ending the run** or **going into Floor 2**.
     1.  There is one at the exit of the Sanctuary Gatehouse.
     2.  There is one near the Frontier Furnace.
     3.  There is one near the Dead Diver Corpse at the start.
-    4.  There is one near Epsi at the entrance of Firfire Caverns
-    5.  There is one in the cave leading up to a Bonekeeper near the Generator
-    6.  There is one on the way to the Generator
+    4.  There is one near Epsi at the entrance of Firfire Caverns.
+    5.  There is one in the cave leading up to a Bonekeeper near the Generator.
+    6.  There is one on the way to the Generator.
+    7.  There is one on the way up to the Cathedral of Ethiron.
 3.  After collecting **4** galewaxes, you may return up to the bridges at the start with a ladder near the Frontier Furnace.
 4.  Instead of going down the path, turn to the right of the main path (left when you are coming up), and go down the path.
 5.  Light the Candles with Galewax and you'll be greeted to the Galewax secret.
@@ -150,7 +151,7 @@ It is important to note that **very few** good items drop from standard enemy lo
     3.  The **Third** diver journal is located near the exit of the Sanctuary Gatehouse, instead of going down the path, drop down and go left, a diver corpse should be waiting for you.
 2.  Gain the two Talents "**Ethirons Gaze**" and "**Union Hook**".
 3.  Do the Galewax Secret.
-4.  Beat Chaser atleast once.
+4.  Beat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md) atleast once.
 5.  Then, talk to Klaris in order to receive your reward.
 
 #### Heretic's Sutra
@@ -227,4 +228,4 @@ It is important to note that **very few** good items drop from standard enemy lo
 -   [Murmur: Tacet](../Murmur%253A_Tacet.md) is able to be used.
 -   While [Dimensional Travel](../Dimensional_Travel.md) is able to be used, it instead flings the user similar to the winds.
 -   The Lighthook will recharge even if you're not ingame or on that slot.
--   Staying near the generator for too long will spawn a bounder.
+-   Activating the generator will spawn a bounder.
