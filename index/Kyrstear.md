@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 121790
+revid: 123424
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2, Parrying Daggers]
@@ -30,7 +30,7 @@ categories: [Weapons, Verse 2, Parrying Daggers]
 
 Kyrstear is an offhand weapon added in the [Verse 2](Verse_2.md) update. 40 agility is required to wield it.
 
-Its function is the same as that of the [Parrying Dagger](Parrying_Dagger.md), but allows the user to recover 30% more posture from parries.
+Its function is the same as that of the [Parrying Dagger](Parrying_Dagger.md), but allows the user to recover 30% more posture from parries (10% more than the Parrying Dagger).
 
 ## Trivia
 

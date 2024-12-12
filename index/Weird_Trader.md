@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 121987
+revid: 123425
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -60,6 +60,7 @@ The event despawns after 30 minutes have elapsed.
         -   [Rifle Spear](Rifle_Spear.md)
         -   [Razor Cutlass](Razor_Cutlass.md)
         -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
+        -   [Scimitar](Scimitar.md)
         -   [Serpent's Edge](<Serpent's_Edge.md>)
         -   [Shattered Katana](Shattered_Katana.md)
         -   [Shotel](Shotel.md)

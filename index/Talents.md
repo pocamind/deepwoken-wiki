@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123404
+revid: 123433
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2086,6 +2086,7 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of Rending Needle."**_
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
+    -   Steals 10% armor on proc
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
@@ -2095,6 +2096,9 @@ _**"My cure is most effective."**_
     -   Does 30 true dmg at max rods and 15 true dmg on minimal req (5 rods)
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
+    -   Works as default path with exception applying conductor rod after hitting rod limit. Has 5 rod limit.
+    -   Conductor rod lasts for 1 elemental mantra
+    -   While conductor rod applied, Ironsing and Attunementless mantras on use will drain 5% armor from victim.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
 

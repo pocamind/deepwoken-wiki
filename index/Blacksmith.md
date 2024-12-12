@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 123420
+revid: 123422
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -27,8 +27,6 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 -   You can also spend notes to repair the durability of your armor.
 
 #### Transmogging armors
-
-_Main article: [Transmogrification](Transmogrification.md)_
 
 -   If you have more than one armor crafted, pressing **Transmog** will allow you to transmog currently equipped armor with any other armor you've crafted, wearing the **appearance** of the selected armor but keeping the **stats** of your currently equipped one.
 

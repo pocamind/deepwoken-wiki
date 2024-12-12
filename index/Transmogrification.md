@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 122115
+revid: 123423
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Outfits#Transmogging](Outfits.md#transmogging)
+-   [Blacksmith#Transmogging armors](Blacksmith.md#transmogging-armors)

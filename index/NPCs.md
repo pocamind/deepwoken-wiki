@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 123288
+revid: 123429
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -112,6 +112,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Nyanna](Nyanna.md) | Unaligned, possible The Divers | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes every 1 hour, weapons and armor can be bought enchanted |
 | [Odiolavoro](Chef_Odiolavoro.md) | Unaligned | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
 | [Okumay](Okumay.md) | Unaligned | [The Sunken Railways](The_Sunken_Railways.md), [Second Layer](<https://deepwoken.fandom.com/wiki/Second_Layer#New_Kyrsa,_The_Sleeping_City_(F2)>) |
+| [Old Stranger](Old_Stranger.md) | Unaligned | Any Ocean | If you give him redd juice or 5/5 canteen he will either grant you with Ardour or a Smith's alloy. Quest Locked out per event if already given reward. |
 | [Orion](Orion.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP and Bravery. |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 
@@ -150,6 +151,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Vyrelda](Vyrelda,_Master_of_Blood.md) | [Ministry](The_Ministry.md) | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |
+| [Weird Trader](Weird_Trader.md) | Unaligned | Any Ocean | Requests 3 random items for a random relic or legendary and around a 5% chance of an Astral Enchant Stone. |
 | [Yamaketzal](Yamaketzal.md) | Unaligned | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations, is a jab at the old azure flames shattered katana royal pathfinder vesperian meta |
