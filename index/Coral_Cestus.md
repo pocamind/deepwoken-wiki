@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 123262
+revid: 123416
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons]
@@ -46,3 +46,4 @@ The Broodalloy Cestus critical has the same animation with a new visual and soun
 -   Using Lootskipper or Vow of Thorns to get the Coral Cestus is not recommended, as their rarest drop is actually [Martial Artist](Martial_Artist.md), lowering the drop rate of these.
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
 -   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.
+-   this is the second weapon to change descriptions when alloyed

@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 123386
+revid: 123418
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -44,4 +44,4 @@ File:Air crit.gif
 -   The weapon was supposed to be released along with Conquest, with Order of the Unsung members only having a preview. However, Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge Conquest delays.
 -   The weapon uses the basic Greatsword M1 animations.
 -   This weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as pickaxes as of December 7th 2024. They do the job more efficiently than Pickaxes.
--   This weapon has the fastest swing speed of any other heavy weapon in the game
+-   This weapon has the fastest swing speed of any other heavy weapon in the game.

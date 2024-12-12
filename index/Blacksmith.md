@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 123215
+revid: 123420
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -10,12 +10,12 @@ categories: [NPCs, Armors]
 
 | Blacksmith | |
 |---|---|
-| name | Etris: john, Miner's Landing: Rudral |
-| location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Castle Light, The Floating Keep, Miner's Landing, Meteor Isle, Voidheart, Guild Bases |
+| name | Etris: Caragan, Isle of Vigils:, Summer Isle:, Greathive Aratel:, Fort Merit:, Miner's Landing: Rudral, Meteor Isle:, Castle light:, The Floating Keep:, Voidheart:, Guild Bases: |
+| location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Miner's Landing, Meteor Isle, Castle Light, The Floating Keep, Voidheart, Guild Bases |
 
 ## Description
 
-The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Voidheart](Voidheart.md), and [Guild Bases](Guild_Bases.md).
+The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), and [Guild Bases](Guild_Bases.md).
 
 When interacting with a blacksmith, you get two options. To hand in ores, and to craft an armor.
 

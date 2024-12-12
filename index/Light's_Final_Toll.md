@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 122667
+revid: 123417
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -50,7 +50,6 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 
 ## Trivia
 
--   Likely inspired by **Shoot McMahon**'s _Hotel Rafflesia_ from Hunter x Hunter.
 -   This used to be the only weapon to scale from an attribute (Willpower) rather than weapon or an attunement.
     -   When the 03/23/2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
