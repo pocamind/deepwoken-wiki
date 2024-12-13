@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 122499
+revid: 123497
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
@@ -33,7 +33,7 @@ They enjoy recruiting people to kill others, sometimes to kill specific individu
 
 Everyone starts with a deep enemy reputation with the Ministry. The [Adret](Adret.md) race does not counteract this enough to have a neutral or above reputation.
 
-Doing the repeatable bounty quest(called "Party Trick") increases your reputation with the Ministry. This may be done by talking to either Emel, Imel, or Rimil and killing a player in the required location.
+Doing the repeatable bounty quest(called "Party Trick") increases your reputation with the Ministry. This may be done by talking to either [Emel](Emel.md), [Imel](Imel.md), or [Rimil](Rimil.md) and killing a player in the required location.
 
 Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputation as well, but it also obviously results in you being wiped.
 

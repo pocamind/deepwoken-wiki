@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 123483
+revid: 123498
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -142,7 +142,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  <u>1% armor drain per 3.2 SCALED DMG dealt. 1% armor drain per 4.25 DMG dealt (if steadfast)</u><br>
+  <u>1% armor drain per 5.25 SCALED DMG dealt. 1% armor drain per 7 DMG dealt (if steadfast)</u><br>
   <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
   Works on any enemies/monsters with armor but doesnt PVE scale.</p></div></td>

@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 122875
+revid: 123494
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, Ignition Union Enemies, The Ignition Union]
@@ -253,7 +253,8 @@ _(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. M
 
 ### Talents
 
--   Impervious Slumber - If Adar gets hit while knocked, his knocked timer isn't reset. Perfect Flash - If Adar has full health, his mantras do 25% more damage.
+-   Impervious Slumber - If Adar gets hit while knocked, his knocked timer isn't reset.
+-   Perfect Flash - If Adar has full health, his mantras do 25% more damage.
 -   Gilded Path: Scrapsinger - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
 -   Refine and Reuse - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
 -   Artisan's Blade - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
