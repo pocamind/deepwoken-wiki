@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 121642
+revid: 123732
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, The Hive]
@@ -184,4 +184,4 @@ Aratel Rising
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.
 -   Back in Verse 1, there would be only 3 Teleporters instead of 5
-    -   "TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant." - [Destroyman III Quote](Destroyman_III.md)
+-   "TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant." - [Destroyman III Quote](Destroyman_III.md)

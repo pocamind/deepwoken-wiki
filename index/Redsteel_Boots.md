@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 116897
+revid: 123599
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Depths, Arena, Knives of Eylis Events, Maestro Evengarde Rest |
+| obtainment | Chests from:, Fort Merit, The Depths, Arena, Knives of Eylis Events, Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description

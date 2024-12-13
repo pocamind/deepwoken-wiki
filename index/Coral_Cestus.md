@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 123416
+revid: 123643
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons]
@@ -10,6 +10,7 @@ categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons]
 
 | Coral Cestus | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Fist |
 | requirements | 50 LHT / 85 LHT |
 | damage | 14 / 16.5 |

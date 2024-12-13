@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 116963
+revid: 123600
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Summer Isle, Knives of Eylis Events, Chime of Conflict, Primadon, Maestro Evengarde Rest |
+| obtainment | Chests from:, Summer Isle, Knives of Eylis Events, Chime of Conflict, Primadon, Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description

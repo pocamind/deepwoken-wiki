@@ -1,6 +1,6 @@
 ---
 title: Wheel Pendant
-revid: 116526
+revid: 123594
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer , Hell Mode, Ministry Scout Ambush , Maestro Evengarde Rest |
+| obtainment | Second Layer, Hell Mode, Ministry Scout Ambush, Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description

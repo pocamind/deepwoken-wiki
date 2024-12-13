@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 121222
+revid: 123503
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Depths, Miner's Landing, Chaser, Maestro Evengarde Rest, Duke Erisia, Summer Isle |
+| obtainment | Chests from:, The Depths, Miner's Landing, Chaser, Maestro Evengarde Rest, Duke Erisia, Summer Isle, Dread Serpent |
 | description | "Even outlaws need style." |
 
 ## Description

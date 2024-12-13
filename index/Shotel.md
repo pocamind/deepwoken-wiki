@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 123260
+revid: 123566
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons]
@@ -10,6 +10,7 @@ categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons]
 
 | Shotel | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Sword |
 | requirements | 45 MED / 75 MED |
 | damage | 22 |
@@ -25,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Minityrsa, First LayerAlloyed:, Alloying a Shotel |
+| obtainment | Songseeker Wilds, Minityrsa, First Layer, Dread SerpentAlloyed:, Alloying a Shotel |
 | description | "A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes." |
 
 ## Description

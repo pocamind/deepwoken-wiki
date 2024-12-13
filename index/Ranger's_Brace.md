@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 119132
+revid: 123612
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:Artifacts, Blacksteel Pirate, Duke Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Chaser |
+| obtainment | Chests From:, Artifacts, Blacksteel Pirate, Duke Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser |
 | description | "..." |
 
 ## Description

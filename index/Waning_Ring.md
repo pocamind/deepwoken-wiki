@@ -1,6 +1,6 @@
 ---
 title: Waning Ring
-revid: 123482
+revid: 123725
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita, The Ferryman, Duke Erisia, First Layer, Second Layer, Ancient Rotlands, Moon's Eyrie, Primadon, Maestro Evengarde Rest |
+| obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, Duke Erisia, First Layer, Second Layer, Ancient Rotlands, Moon's Eyrie, Primadon, Maestro Evengarde Rest, The Diluvian Mechanism |
 | description | "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike." |
 
 ## Description
@@ -30,6 +30,9 @@ The **Waning Ring** is a Ring [Equipment](Equipment.md) piece that conceals your
 ## Obtainment
 
 -   [Aelita](Aelita.md) **(very rare)**
+-   [The Understrand](The_Understrand.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(very rare)**
 -   [First Layer](First_Layer.md)

@@ -1,6 +1,6 @@
 ---
 title: Duelist Mask
-revid: 118880
+revid: 123587
 source: https://deepwoken.fandom.com/wiki/Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Crypt of the Unbroken, Maestro Evengarde Rest, Chime of Conflict |
+| obtainment | Chests from:, Miner's Landing, Crypt of the Unbroken, Maestro Evengarde Rest, Dread Serpent, Chime of Conflict |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 121465
+revid: 123588
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hive Constructs, Chime of Conflict, The Depths, Chaser, Duke Erisia, Maestro Evengarde Rest, The Diluvian Mechanism, Primadon |
+| obtainment | Hive Constructs, Chime of Conflict, The Depths, Chaser, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, The Diluvian Mechanism, Primadon |
 | description | "An ancient mask of a lost Hivelord, now a relic." |
 
 ## Description

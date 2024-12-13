@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 119335
+revid: 123513
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Shields]
@@ -19,7 +19,7 @@ categories: [Weapons, Items, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Deep Widow, Fishing, Layer 1, Layer 2, Chaser, Merchant Ships, Maestro Evengarde Rest, War Mode, The Diluvian Mechanism |
+| obtainment | Duke Erisia, Deep Widow, Fishing, Layer 1, Layer 2, Chaser, Merchant Ships, Maestro Evengarde Rest, Dread Serpent, War Mode, The Diluvian Mechanism |
 | description | "A venerated shield, donned only by those who have walked their own Path as they see fit." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 123422
+revid: 123734
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -10,12 +10,13 @@ categories: [NPCs, Armors]
 
 | Blacksmith | |
 |---|---|
-| name | Etris: Caragan, Isle of Vigils:, Summer Isle:, Greathive Aratel:, Fort Merit:, Miner's Landing: Rudral, Meteor Isle:, Castle light:, The Floating Keep:, Voidheart:, Guild Bases: |
+| name | Etris: Caragan, Isle of Vigils: Baragan, Summer Isle:, Greathive Aratel:, Fort Merit:, Miner's Landing: Rudral, Meteor Isle:, Castle Light:, Voidheart:, Guild Bases:, The Floating Keep: Blacksmith |
 | location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Miner's Landing, Meteor Isle, Castle Light, The Floating Keep, Voidheart, Guild Bases |
 
 ## Description
 
-The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), and [Guild Bases](Guild_Bases.md).
+The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), and [Guild Bases](Guild_Bases.md). They're used to craft [Outfits](Outfits.md) and [Seasonal Medals](Seasonal_Medals.md), and turn in [pure ores](Ores.md).  
+Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
 
 When interacting with a blacksmith, you get two options. To hand in ores, and to craft an armor.
 
@@ -28,7 +29,7 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 
 #### Transmogging armors
 
--   If you have more than one armor crafted, pressing **Transmog** will allow you to transmog currently equipped armor with any other armor you've crafted, wearing the **appearance** of the selected armor but keeping the **stats** of your currently equipped one.
+-   If you have more than one armor crafted, pressing **Transmog** will allow you to transmogrify currently equipped armor with any other armor you've crafted, wearing the **appearance** of the selected armor but keeping the **stats** of your currently equipped one.
 
   
   
@@ -48,21 +49,17 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 
 ### Craft event items with knowledge
 
--   Craft items with knowledge along you have brought Hallowtide medal 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. Craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
+-   Craft items with knowledge along you have brought Hallowtide Medal 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. Craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
     -   Craft armor and weapons and even enchants and mantras.
 
 ## Trivia
 
--   Blacksmiths used to be able refuse to service the player if their [reputation](Reputation.md) is too low on the location they are working, this was most noticeable at [Fort Merit](Fort_Merit.md), seeing how a lot of players are enemies with the [Central Authority](The_Central_Authority.md).
 -   All of them are wearing [Smith's Bandana](<Smith's_Bandana.md>), [Smith's Goggles](<Smith's_Goggles.md>) and [Smith's Gloves](<Smith's_Gloves.md>).
 -   Curiously, it appears the blacksmiths at [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) are brothers.
--   The blacksmith in [Etris](Etris.md) has an apprentice outside the store. He will ask for you to not rat on him, if you do not rat on him, you will get a 50% discount, rounded-down, on all materials purchasable at the [Etris](Etris.md) Blacksmith, however ratting on him does nothing and the prices will stay the same.
--   The name of the [Etris](Etris.md) blacksmith is Caragan. [\[1\]](#cite-note-1)
+-   The blacksmith in [Etris](Etris.md) has an [apprentice outside the store](Pori.md). He will ask for you to not rat on him, if you do not rat on him, you will get a 50% discount, rounded-down, on all materials purchasable at the [Etris](Etris.md) Blacksmith, however ratting on him does nothing and the prices will stay the same.
 
 ## Gallery
 
 Current Blacksmith Menu
 
 Old Blacksmith Menu
-
-1.  [↑](#cite-ref-1) Trenti, the inn npc, says his name when asking about clothes

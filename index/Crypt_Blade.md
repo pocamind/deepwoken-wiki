@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 118426
+revid: 123645
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
+The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols and wreathed in shadow, made from the bodies of the deceased. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
 
 The Crypt Blade comes with 2 passive abilities:
 
@@ -37,7 +37,7 @@ The Crypt Blade comes with 2 passive abilities:
 
 -   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md)).
 
--   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to blazing enchant.
+-   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to the Blazing Enchantment.
 
 ## Critical
 

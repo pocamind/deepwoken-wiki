@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 120984
+revid: 123721
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 123217
+revid: 123554
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -226,6 +226,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
@@ -296,6 +297,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | Normal & Big |
 | File:Black Hood.png | 
@@ -376,6 +378,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Black Strapped Hat.png | 
@@ -473,6 +476,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Brown Hood.png | 
@@ -646,6 +650,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -805,6 +810,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -855,6 +861,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -904,6 +911,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | Guard's, Royal Guard's, Captain's |
@@ -1014,6 +1022,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -1064,6 +1073,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -1191,6 +1201,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -1685,6 +1696,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Azure Royal Guard.png | 
@@ -1835,6 +1847,7 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Brilliant Pauldrons.png | 
@@ -1886,6 +1899,7 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | Black, Brown, & White |
 | File:Brown Parka.png | 
@@ -1943,6 +1957,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -1970,6 +1985,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Black Deepwoken Cloak.png | 
@@ -2178,6 +2194,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | Black & White |
@@ -2260,6 +2277,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -2429,6 +2447,7 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Iron pauldrons.png | 
@@ -2694,6 +2713,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -2753,6 +2773,7 @@ Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
@@ -2779,6 +2800,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
  | N/A |
@@ -2860,6 +2882,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -2887,6 +2910,7 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Faded Royal Duelist.png | 
@@ -2990,6 +3014,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Simple Pauldrons.png | 
@@ -3028,9 +3053,10 @@ _+5 Health_
 Found from:
 
 -   [Summer Isle](Summer_Isle.md)
+-   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)\]\]
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -3112,6 +3138,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Vanguardbrace.png | 
@@ -3214,6 +3241,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | Black, Brown & White |
 |  | 
@@ -3415,6 +3443,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
@@ -3472,6 +3501,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -3494,6 +3524,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -3548,9 +3579,10 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  | N/A |
 | File:Flameguard Boots.png | 
@@ -3573,6 +3605,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:White fur boots.png | 
@@ -3594,6 +3627,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -3762,6 +3796,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Fort Merit](Fort_Merit.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -3801,6 +3836,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -3822,6 +3858,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Silver Sabatons.png | 
@@ -3931,12 +3968,13 @@ _+3 Health_
 
 Found from:
 
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
  | N/A |
@@ -4073,6 +4111,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4095,6 +4134,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4198,6 +4238,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [War Mode](War_Mode.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -4244,6 +4285,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Old World Sun Pendant.png | 
@@ -4265,6 +4307,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) (**Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Pathfinder lantern front.png | 
@@ -4326,8 +4369,9 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4351,6 +4395,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Dawn Scarf.png | 
@@ -4396,6 +4441,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -4447,6 +4493,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4641,6 +4688,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | Default (Black), Red & White |
 |  | 
@@ -4676,6 +4724,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4697,6 +4746,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4720,6 +4770,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
@@ -4758,6 +4809,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4777,6 +4829,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4818,6 +4871,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
@@ -4840,6 +4894,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -4912,6 +4967,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Blue.PNG | 
@@ -4931,6 +4987,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   Mob drop from Masked Songseeker Enemies ~(**10%**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | Blue, Green & Red |
 | File:Smith's Goggles1.png | 
@@ -4950,6 +5007,7 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:TenGallonBandana.png | 
@@ -5064,6 +5122,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -5081,6 +5140,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -5101,6 +5161,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -5163,6 +5224,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -5186,6 +5248,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -5222,6 +5285,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md) (**Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -5359,6 +5423,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  |
@@ -5486,6 +5551,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | 
@@ -5534,6 +5600,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -5597,6 +5664,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | 
@@ -5620,6 +5688,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  |
@@ -5671,6 +5740,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
 
  |
@@ -5727,6 +5797,7 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | 
@@ -5750,6 +5821,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
@@ -5819,6 +5891,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  |
@@ -5844,6 +5917,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
@@ -5888,6 +5962,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  |
@@ -5911,6 +5986,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | 

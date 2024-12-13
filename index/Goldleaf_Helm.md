@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 117433
+revid: 123506
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Aratel Island, First Layer, Second Layer, Maestro Evengarde Rest, ChaserDrops from:, Golden WarriorFound From:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Erisia, Aratel Island, First Layer, Second Layer, Maestro Evengarde Rest, Dread Serpent, ChaserDrops from:, Golden WarriorFound From:, Artifact Turn-ins |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

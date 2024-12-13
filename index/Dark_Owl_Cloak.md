@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 116922
+revid: 123551
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Arena, Miner's Landing, Saramaed Summit, Duke Erisia, Maestro Evengarde Rest, Pure Umbrite turn ins *needs testing*, PrimadonDrops from:, Deep Owl rarely, Deep Widow |
+| obtainment | Chests from:, Second Layer, Arena, Miner's Landing, Saramaed Summit, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, Pure Umbrite turn ins *needs testing*, PrimadonDrops from:, Deep Owl rarely, Deep Widow |
 | description | "..." |
 
 ## Description

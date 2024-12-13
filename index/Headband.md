@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 119498
+revid: 123580
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -42,7 +42,7 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
   <td>Black</td>
   <td>+1 Common</td>
   <td></td>
-  <td><a href="Erisia.md">Erisia</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter)</td>
+  <td><a href="Erisia.md">Erisia</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a></td>
 </tr>
 <tr>
   <td>Orange</td>
@@ -60,7 +60,7 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
   <td>Red</td>
   <td>+1 Uncommon</td>
   <td></td>
-  <td><a href="Summer_Isle.md">Summer Isle</a></td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, <a href="Dread_Serpent.md">Dread Serpent</a></td>
 </tr>
 <tr>
   <td>Blue</td>
@@ -72,7 +72,7 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
   <td>Green</td>
   <td>+1 Rare</td>
   <td></td>
-  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="War_Mode.md">War Mode</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter)</td>
+  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="War_Mode.md">War Mode</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a></td>
 </tr>
 <tr>
   <td>White</td>

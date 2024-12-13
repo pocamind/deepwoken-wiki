@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 122863
+revid: 123700
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]

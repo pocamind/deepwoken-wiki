@@ -1,6 +1,6 @@
 ---
 title: Silver Pauldrons
-revid: 116923
+revid: 123553
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aratel Island, Duke Erisia, The Depths (First Layer), Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, Duke Erisia, The Depths (First Layer), Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description

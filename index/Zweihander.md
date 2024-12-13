@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 123256
+revid: 123511
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etris Weaponry (100 notes), ErisiaAlloyed:, Alloying a Zweihander |
+| obtainment | Etris Weaponry (100 notes), Erisia, Dread SerpentAlloyed:, Alloying a Zweihander |
 | description | "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy." |
 
 ## Description

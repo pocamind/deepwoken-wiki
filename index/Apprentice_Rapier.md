@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 117991
+revid: 123533
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -22,7 +22,7 @@ categories: [Weapons, Rapiers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Etris Weaponry, The Floating Keep, Chime of Conflict |
+| obtainment | Erisia, Minityrsa, Etris Weaponry, The Floating Keep, Chime of Conflict, Dread Serpent |
 | description | "Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey." |
 
 ## Description

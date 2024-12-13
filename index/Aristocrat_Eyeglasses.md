@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Eyeglasses
-revid: 122200
+revid: 123582
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, Second Layer, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | Duke Erisia, First Layer, Second Layer, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow |
 | description | "..." |
 
 ## Description

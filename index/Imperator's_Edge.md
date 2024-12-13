@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 122445
+revid: 123666
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundred Legions]

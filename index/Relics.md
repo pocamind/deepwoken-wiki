@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 123042
+revid: 123556
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -298,6 +298,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   <ul>
     <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
+    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>

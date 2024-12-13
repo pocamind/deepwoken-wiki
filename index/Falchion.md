@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 118000
+revid: 123529
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Alloyed Weapons]
@@ -23,10 +23,8 @@ categories: [Weapons, Swords, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in:, Lower Erisia, Deep Widow |
+| obtainment | Chests in:, Lower Erisia, Deep Widow, Dread Serpent |
 | description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
-
-\=
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 123251
+revid: 123564
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique Criticals, Alloyed Weapons]
@@ -10,6 +10,7 @@ categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique 
 
 | Trident Spear | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Spear |
 | requirements | 50 MED / 85 MED |
 | damage | 19 |
@@ -24,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Summer Isle, Minityrsa, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing, Chime of ConflictAlloyed:, Alloying a Trident Spear |
+| obtainment | The Depths, Dread Serpent, Summer Isle, Minityrsa, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing, Chime of ConflictAlloyed:, Alloying a Trident Spear |
 | description | "A surprisingly effective weapon despite its previous use by fishermen." |
 
 ## Description

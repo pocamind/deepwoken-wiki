@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 123063
+revid: 123652
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Weapons with Unique Criticals]

@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 117778
+revid: 123607
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia, The Depths, Maestro Evengarde Rest, Primadon, Miner's Landing, War Mode |
+| obtainment | Chests from:, Duke Erisia, The Depths, Maestro Evengarde Rest, Dread Serpent, Primadon, Miner's Landing, War Mode |
 | description | "..." |
 
 ## Description
