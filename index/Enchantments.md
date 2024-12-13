@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 123498
+revid: 123499
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -166,7 +166,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Weapon gain 50%/35%/25% chip damage (HVY/MED/LHT).<br>
   Weapon deals less posture damage.<br>
   Landing close range hits give a speed boost. Speed boost lasts for 2 seconds.<br>
-  Procs Brazen Blow on block hit.</p>
+  Procs hit based talents through block as example [Brazen Blow, Uproar]</p>
   <p><u>CHIP DAMAGE IS NOT AFFECTED BY PEN OR DMG MODIFICATOR</u><br>
   </p>
   <p>(Formula to calculate chip damage: 80% inniate chip and 50% chip from Obfuscation would amount to 1 - (1 - 0.8) * (1 - 0.5) = 0.9, aka 90% chip damage).<br>

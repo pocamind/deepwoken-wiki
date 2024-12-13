@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123475
+revid: 123500
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2214,13 +2214,14 @@ _**"My cure is most effective."**_
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Hits from Artisan's Blades don't drain armor from enemy
     -   Pulling out Artisan's Blades equals to your pull armor dmg.
-    -   Deals True DMG 15 per blade, affected by general resistances, seems phys and elemental doesnt work against it. Exposed Durability doesn't proc on it.
+    -   Deals True DMG 10 per blade, affected by general resistances, seems phys and elemental doesnt work against it. Exposed Durability doesn't proc on it.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
     -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+    -   Makes Artisan's Blades deal 15 dmg instead of 10, as well as proc metal rods on victim
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
