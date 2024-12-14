@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 123378
+revid: 123775
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -187,10 +187,10 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
 **\*TIMEBOMB MODIFIER\***
 
- | 6 Corrupt Attuned Tideknight Attunement Trainer. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly. The Thundercall trainer is not Thunder attuned and the Ironsing trainer is Shadow attuned.
+ | 6 Corrupt Attuned Tideknight Attunement Trainer. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly. The Thundercall trainer is not Thunder attuned and the Ironsing trainer is Shadow attuned. Furthermore, if you get a static link via the Thundercall trainer, DO NOT attack, Jumper Cables can take at least 3 bars of health from you.
 
 -   Frostdraw - Gran Sudusruka and Dread Breath
--   Flamecharm - Hero's blade of flame
+-   Flamecharm - Hero Blade of Flame
 -   Galebreath - Curved Blade of Winds
 -   Thundercall - Stormseye
 -   Shadowcast - Crypt Blade

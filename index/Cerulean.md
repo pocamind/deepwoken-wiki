@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 112552
+revid: 123772
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -157,13 +157,13 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 </tr>
 <tr>
   <td colspan="3">Already having an Oath</td>
-  <td colspan="3">speedrunning oathless?!?!</td>
+  <td colspan="3">Trying to get Oathless without 10 minutes of playtime on the character</td>
   <td colspan="3">Breaking the Oath</td>
   <td colspan="3">Regaining the Oath after you break it</td>
 </tr>
 <tr>
   <td colspan="3">Ah, so you have found purpose.. very well. I cannot offer you anything, traveler.</td>
-  <td colspan="3">TEMPLATE</td>
+  <td colspan="3">A new journey buds! Don't let me both you, get out there and see the world!</td>
   <td colspan="3">The way opens more to you, my disciple. Safe travels.</td>
   <td colspan="3">Ah, my friend, it is good to see you. Have you need of anything?</td>
 </tr>

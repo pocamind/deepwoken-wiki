@@ -1,6 +1,6 @@
 ---
 title: ??? (FalseMan)
-revid: 123286
+revid: 123779
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -30,4 +30,4 @@ Template:NPC name "???" is an NPC who is sitting in [New Kyrsa, The Sleeping Cit
 
 ## Trivia
 
--   He is named "FalseMan" within the game files.
+He is named "FalseMan" within the game files.

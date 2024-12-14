@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 118029
+revid: 123755
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -24,12 +24,12 @@ categories: [Weapons, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Corrupted King Threshers, Corrupted Threshers, and Nightmare Threshers |
+| obtainment | Corrupted King Threshers, Corrupted Threshers, Void Threshers and Nightmare Threshers |
 | description | "..." |
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](Thresher.md), corrupted [Threshers](Thresher.md), and Nightmare [Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob, next to the True Seraph's Spear (from Corrupted King Threshers.)
+The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](Thresher.md), corrupted [Threshers](Thresher.md), Void Threshers and Nightmare [Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob, next to the True Seraph's Spear (from Corrupted King Threshers.)
 
 ## Trivia
 
