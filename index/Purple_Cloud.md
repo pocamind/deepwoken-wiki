@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 122270
+revid: 123797
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]
@@ -105,6 +105,8 @@ File:ASTRALPURPLECLOUDYEAAAAAAAAAA.png
 **Curse of the Unbidden:**
 
 **Curse of Yun'Shul:**
+
+**Curse of Repulsion:**
 
 ## Trivia
 

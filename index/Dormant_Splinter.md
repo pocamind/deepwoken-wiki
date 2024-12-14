@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123370
+revid: 123794
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Understrand, Voidsea Events, Moon's Eyrie |
+| obtainment | The Understrand, Voidsea Events, Moon's Eyrie, Saramaed Hollow, The Ferryman |
 | description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
 
 ## Description
@@ -40,7 +40,7 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
 3.  Use [Shadow Travel](Shadowcast.md) or Shadow's Flight on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
 
-It can also be found from a variety of events in the [Voidsea](Voidsea.md).
+It can also be found from a variety of events in the [Voidsea](Voidsea.md), as well as on the [Saramaed Hollow](Saramaed_Hollow.md).
 
 ## Critical
 

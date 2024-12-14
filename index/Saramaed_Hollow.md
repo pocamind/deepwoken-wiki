@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 123786
+revid: 123790
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]

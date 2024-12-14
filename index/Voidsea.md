@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 123789
+revid: 123795
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -21,7 +21,7 @@ The **Voidsea** is an elusive and dangerous region which lays outside of Lumen. 
 
 The **Voidfog** within the sea can cover vision making navigation difficult, you may also experience illusions with time since the **Voidsea** is nothing but void.
 
-The **Voidsea** is similar to Voidzones in many ways, though no extra experience is granted here, so coming here specifically for training is NOT Recommended. Dying to the environment while in **Voidsea** will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player, though all over threats or methods of death (including drowning and starvation.) will Depthsend you.
+The **Voidsea** is similar to Voidzones in many ways, progressing here will give you twice the XP although dying while in the **Voidsea** will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player, though everything else be it starvation, drowning or any other method of death will Depthsend you. So be careful when grinding here, as it is a dangerous and unforgiving place.
 
 Sometimes, when you are sailing through **Voidsea**, you may be teleported to a random location within The **Voidsea**. This will damage your boat based on distance travelled by the teleport. This can also break boats instantly or deal incredibly heavy damage, So bringing wood and a repair hammer is heavily advised if not mandatory.
 
