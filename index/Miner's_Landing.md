@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 119709
+revid: 123739
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Eastern Luminant, The Ignition Union]
@@ -116,12 +116,12 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)
 -   [Mercenary's Boots](<Mercenary's_Boots.md>)
 -   [Nomad Pendant](Nomad_Pendant.md)
--   Red Eye Pendant
+-   [Red Eye Pendant](Red_Eye_Pendant.md)
 -   [Sandrunner Scarf](Sandrunner_Scarf.md)
 -   Duelist Mask
 -   [Deepwoken Cloak](Deepwoken_Cloak.md)
--   Konga's Clutch Ring
--   Seafarer Pendant
+-   [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
+-   [Seafarer Pendant](Seafarer_Pendant.md)
 -   [Deepwoken Cloak](Deepwoken_Cloak.md) (Both black and white)
 -   [Delvers Duster](<Delver's_Duster.md>)
 -   [Sandrunner Wraps](Sandrunner_Wraps.md)
@@ -135,7 +135,7 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Iron Blunderbuss](Iron_Blunderbuss.md)
 -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
--   Rockmaller
+-   [Rockmaller](Rockmaller.md)
 
  | 
 

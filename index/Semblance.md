@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 123441
+revid: 123741
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Semblance is a humanoid enemy NPC, that can be found at [Voidsea](Voidsea.md) outposts sometimes even replacing the [Mudskipper Broodlord](Mudskipper_Broodlord.md) in their respective outpost. Their race and gender is unknown or rather none. Their faces are always distorted, no matter how much sanity or Willpower you have. They have a chance to drop their respective weapons, that being the [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), or [Fractine](Fractine.md). Wearing a [Bloodfeather Cowl](Bloodfeather_Cowl.md), [Dark Owl Cloak](Dark_Owl_Cloak.md), and a Black [Traveler Cloak](<Traveller's_Jacket.md>).
+The Semblance is a humanoid enemy NPC, that can be found at [Voidsea](Voidsea.md) outposts sometimes even replacing the [Mudskipper Broodlord](Mudskipper_Broodlord.md) in their respective outpost. Their race and gender is unknown or rather none. Their faces are always distorted, no matter how much sanity or Willpower you have. They have a chance to drop their respective weapons, that being the [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), or [Fractine](Fractine.md). Wearing a [Bloodfeather Cowl](Bloodfeather_Cowl.md), [Dark Owl Cloak](Dark_Owl_Cloak.md), and a Gray [Traveler Cloak](<Traveller's_Jacket.md>).
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 123470
+revid: 123744
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,7 +25,7 @@ The Weird Trader will request three items, from a long list of possible choices.
 
 Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), a I-Frame mantra, or other forms of fall damage negation.
 
-The event despawns after 30 minutes have elapsed.
+The event despawns after 30 minutes have elapsed or if you leave the server after talking to him.
 
 ### Requested items
 

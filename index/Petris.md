@@ -1,9 +1,9 @@
 ---
 title: Petris
-revid: 113713
+revid: 123751
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Etrean NPCs, NPCs]
 ---
 
 # Petris
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Petris | |
 |---|---|
 | name | Petris |
+| aspect | Etrean |
 | location | The City of the Drowned |
 
 ## Description
@@ -19,7 +20,7 @@ Petris is a middle-aged [Etrean](Etrean.md) in [The Depths](The_Depths.md), in [
 
 Due to his wrinkles next to his eyes, you can concur that he is in Stage 1 of [Age](Age.md), meaning he is about 40-49 years old.
 
-From his dialogue, it is likely that he summoned the Ferryman in hopes of getting gifts, but instead Ferryman killed him and likely sent him to the Depths, where we see him.
+He appears to have summoned the Ferryman in hopes of getting gifts, but instead the Ferryman killed him and sent him to the Depths.
 
 ## Dialogue
 
@@ -38,3 +39,7 @@ From his dialogue, it is likely that he summoned the Ferryman in hopes of gettin
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   His position was originally slightly different, but was moved when the elevator was added.

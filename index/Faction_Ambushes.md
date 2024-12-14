@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 109907
+revid: 123746
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -147,6 +147,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 
 -   1-3 [Ministry Enforcers](Ministry_Enforcer.md)
 -   1-3 [Ministry Footpads](Ministry_Footpad.md)
+-   Mix of both (up to 3 NPCs)
 
  | 
 
@@ -160,15 +161,18 @@ The enemies sent differ depending on the extent of the player's negative reputat
  |
 | [Hive](The_Hive.md) | 
 
--   1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>)
+-   1-3 Modified [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>)
+-   1-3 Modified [Hive Arbiters](Hive_Arbiter.md)
+-   Mix of both (up to 3 NPCs)
 
  | 
 
 -   "Those who stand in the way of our research won't live to tell the tale."
+-   "No hard feelings but you're being factored out of the equation."
 
  | 
 
--   Starswept Valley
+-   Modified Starswept Valley
 
  |
 | [Hive](The_Hive.md) | 
@@ -181,7 +185,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 
  | 
 
--   Starswept Valley
+-   Modified Starswept Valley
 
  |
 | [The Divers](The_Divers.md) | 

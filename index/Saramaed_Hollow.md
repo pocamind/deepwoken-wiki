@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 123431
+revid: 123738
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -98,11 +98,10 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a></li>
     <li><a href="Ignition_Gauntlets.md">Ignition Gauntlets</a></li>
     <li><a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
-    <li>Abyss Wanderer set
-  <ul>
     <li><a href="Abyss_Wanderer's_Plate.md">Abyss Wanderer Plate</a></li>
     <li><a href="Abyss_Wanderer's_Boots.md">Abyss Wanderer Boots</a></li>
-  </ul></li>
+  </ul>
+  <ul>
     <li><a href="Citadel_Frames.md">Citadel Frames</a></li>
   </ul></td>
   <td>
@@ -110,7 +109,6 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li>Any <a href="Enchant_Stone.md">Enchant Stones</a></li>
     <li>Any <a href="Enchant_Grease.md">Enchant Grease</a></li>
     <li>Any <a href="Treasures.md">Deep Gems</a></li>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
