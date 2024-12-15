@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 123666
+revid: 123939
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, The Hundred Legions]
@@ -39,6 +39,10 @@ The weapon has a unique mechanic: if you land **three** hits on an enemy **with 
 ## Critical
 
 Perform three thrusts forward with the weapon, moving you forwards in the progress. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect. It has a cooldown of 5~ seconds.
+
+Running crit does 65 dmg (hit + projectile), 30 dmg if only projectile landed. (was tested on 36 per m1 imperial)
+
+Standing crit does 65 dmg. 132 dmg if land all swings during enlightened (was tested on 36 per m1 imperial)
 
 If running and using a critical attack thrust forward once, firing a light spear projectile dealing high posture damage.
 

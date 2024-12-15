@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 123921
+revid: 123961
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -8,11 +8,7 @@ categories: [Locations, Eastern Luminant]
 
 # Boatman's Watch
 
-LocationL Boatman's Watch LocationR
-
-A place remembered only by the waves.
-
-  
+Template:Location2
 
 ## Overview
 

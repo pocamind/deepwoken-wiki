@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 123434
+revid: 123960
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -876,7 +876,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray.
 -   Ironsing is called 'Element' in the game's code.
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
-    -   Gold gives a 10% damage buff and a gold particle effect.
+    -   Gold gives a 10% damage buff and a gold particle effect. (Lasts 25 sec)
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   Using Erisore gives a blue particle effect. Effects unknown.
 -   Similarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra.

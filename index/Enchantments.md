@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 123499
+revid: 123932
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -145,7 +145,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <u>1% armor drain per 5.25 SCALED DMG dealt. 1% armor drain per 7 DMG dealt (if steadfast)</u><br>
   <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
-  Works on any enemies/monsters with armor but doesnt PVE scale.</p></div></td>
+  Works on any enemy/monster even on those without armor<br>
+  No PVE scale.</p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
