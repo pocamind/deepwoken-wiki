@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 123938
+revid: 123972
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Divers]
@@ -29,3 +29,4 @@ A lore book called "Coldheart's Journal" when equipped, can be found in one of t
 ## Trivia
 
 -   Added in secret in the 14th of December 2024 update.
+-   Placeholder name for the journal is "ColdForgeJournal".

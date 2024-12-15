@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 121601
+revid: 123980
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies]
@@ -23,10 +23,6 @@ They cannot climb, but do walk very fast, so if you're unlucky enough to encount
 ## Spawn Locations
 
 Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md).
-
-~There is also a single guaranteed spawn in [Minityrsa](Minityrsa.md).~
-
-(No. The construct that spawn in Minityrsa is a [Rogue Construct](Rogue_Construct.md).)
 
 ## Moves
 

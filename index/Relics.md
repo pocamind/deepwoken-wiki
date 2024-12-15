@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 123556
+revid: 124072
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -8,17 +8,19 @@ categories: [Pages with broken file links, Items, Equipment]
 
 # Relics
 
+“ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
+
+― First Usage of Mooneye's Tome
+
 ## Description
 
-**Relics** are highly treasured Utility Items, which carry special abilities that would otherwise be thought impossible. Their origins can vary greatly, though most come from [The Depths](The_Depths.md).
+**Relics** are special extraordinarily rare items, which carry vast amount of uses from granting powerful effects to providing players with abilities that would otherwise be thought impossible. Their origins can vary greatly, though most come from [The Depths](The_Depths.md).
 
 ## Obtainable Relics
 
-Relics that can be obtained & used by players.
+### Spire Relics
 
-### Combat Relics
-
-Relics meants to provide some kind of effect during combat
+Reusable, placeble items that provide various changes to the player's environment when used.
 
 | Image | Description | Obtainment |
 | --- | --- | --- |
@@ -73,9 +75,9 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 
  |
 
-### Consumable Relics
+### Utility Relics
 
-Consumables that improve the user in some shape or form
+One-time consumables that provide direct improvement value to items, equipment, weapons or character as a whole.
 
 | Image | Description | Obtainment |
 | --- | --- | --- |
@@ -209,7 +211,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 ### Equipment Relics
 
-Equipments with unique abilities not seen elsewhere
+Equipment that provides player with unique abilities in combat or exploration.
 
 | Image | Description | Obtainment |
 | --- | --- | --- |
@@ -277,7 +279,25 @@ This has a 6 second cooldown and charges cannot be stacked.
 
  |
 
-## Enchanting Relics
+### Weapon Relics
+
+Weapons that provides player with unique abilities in combat.
+
+| Media | Description | Obtainment |
+| --- | --- | --- |
+| 
+ | **[Dormant Splinter](Dormant_Splinter.md)** - "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." | 
+
+-   [Voidsea](Voidsea.md) Events
+-   [Dread Serpent](Dread_Serpent.md)
+-   [The Ferryman](The_Ferryman.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [The Understrand](The_Understrand.md)
+
+ |
+
+### Enchantment Relics
 
 Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weapons.md).
 
@@ -345,15 +365,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
 
  | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
-
-## Weapon Relics
-
-Relics that can be obtained and used as weapons.
-
-| Media | Description |
-| --- | --- |
-| 
- | **Dormant Splinter** - "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
 
 ## Trivia
 

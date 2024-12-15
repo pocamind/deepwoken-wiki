@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 122316
+revid: 124078
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -180,55 +180,6 @@ Dodgeable: ◯
 -   As with normal Mudskippers, their second attack will come faster than the first one. Make sure to focus on parrying it intently, as Rotskippers will instantly die when you parry them 3 times.
     -   If you beat a Rotskipper by parrying them, you won't get a healthpack and heal.
     -   If you want to heal from them, make sure to kill them with conventional methods.
-        
-
-**Mineskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Mineskippers are a Mudskipper variant that wear mining helmets and the [Experienced Adventurer](Experienced_Adventurer.md) Outfit. Their regular variant holds a pickaxe in its right hand. They are found in the caves of [Songseeker Wilds](Songseeker_Wilds.md). They drop every [Ore](Ores.md) variant, including Erisore, Irithine, Astruline, Umbrite, Gold, Iron, and Coal, while also dropping a [Miner's Hardhat](<Miner's_Hardhat.md>) which gives you the Talent "Rock Blaster" which "Doubles your ore yields when mining."
-
-## Moveset
-
-| Name | Description |
-| --- | --- |
-| 
-Scratch
-
-(★☆☆) | Weakly smacks opponent over and over again until knocked.
-
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯
-
- |
-| 
-
-Air Force
-
-(★★☆) | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
-
-Parryable: X  
-Blockable: ◯  
-Dodgeable: ◯
-
- |
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
-
-## Tips
-
--   These variant of Mudskippers can only be found in one location, where at least 10-20 of them spawn in the same area.
-    -   It is not advised to take these on unless you're skilled, or high enough level to deal with them.
-    -   Try to kill them as fast as possible. Use plenty of AoE moves.
-    -   Instantly grip them if possible, either through [Mercy Kill](Talent_Quests.md#mercy-kill) or [Burn](Status_Effects.md#burning). If not,
-    -   Try to bunch the knocked Mineskippers up in one corner, and try not to let other Mineskippers use [_Air Force_](Galebreathe.md) to blow away the grouped pile of them. When you are finished with knocking all the Mineskippers, grip 2 and swing at the pile to ensure they don't get back up.
         
 
 ## Trivia

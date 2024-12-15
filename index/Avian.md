@@ -1,11 +1,9 @@
 ---
 title: Avian
-revid: 111336
+revid: 123997
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Quests]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [NPCs, Quests]
 ---
 
 # Avian

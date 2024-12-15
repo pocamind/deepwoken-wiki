@@ -1,11 +1,9 @@
 ---
 title: Materials
-revid: 108082
+revid: 124028
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Items]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items]
 ---
 
 # Materials

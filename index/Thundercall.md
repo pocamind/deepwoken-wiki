@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 123351
+revid: 123978
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -311,7 +311,6 @@ Spark Swap
 -   \[\] Second Cooldown.
 -   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
 -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
--   Cannot be used in Chime of Conflict.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to short the cooldown but reduce greatly the range. This allows you to use the mantra in Chime.
 
  |

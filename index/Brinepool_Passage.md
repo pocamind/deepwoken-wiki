@@ -1,6 +1,6 @@
 ---
 title: Brinepool Passage
-revid: 123867
+revid: 123974
 source: https://deepwoken.fandom.com/wiki/Brinepool_Passage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1]
@@ -12,9 +12,7 @@ notices:
 
 LocationL Sub-Zero Passage LocationR
 
-TERRITORY OF
-
-???
+  
 
   
 

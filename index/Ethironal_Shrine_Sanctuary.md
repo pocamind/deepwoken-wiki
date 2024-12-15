@@ -1,11 +1,9 @@
 ---
 title: Ethironal Shrine Sanctuary
-revid: 119179
+revid: 124003
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Sanctuary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, The Depths, Locations, Layer 2]
-notices:
-  - This page is currently being worked on. Please check back later.
+categories: [The Depths, Locations, Layer 2]
 ---
 
 # Ethironal Shrine Sanctuary
@@ -15,7 +13,6 @@ LocationL ethironal shrine sanctuary LocationR
 Stepping into the shrine the storm takes new form.
 
   
-
 Template:Areainfobox
 
 ## Points of Interest
@@ -27,7 +24,7 @@ Template:Areainfobox
 
 ## Contents
 
-The Ethironal Shrine Sanctuary is the area directly after the [Ethironal Shrine Outskirts](Ethironal_Shrine_Outskirts.md), and takes up the majority of Floor 1. Notable features include powerful winds, parasite pits and rapid gain of parasites. It is infested with [Bounders](Bounder.md), [Husks](Diver_Husk.md) and [Carbuncles](Carbuncle.md) on the ground, so you must stay on the bridges to avoid fighting powerful monsters. Sub-locations include the [Frontier Furnace](The_Frontier_Furnace.md).
+The Ethironal Shrine Sanctuary is the area directly after the [Ethironal Shrine Outskirts](Ethironal_Shrine_Outskirts.md), and takes up the majority of [Floor 1](Second_Layer/The_Ethironal_Shrine.md). Notable features include powerful winds, parasite pits and rapid gain of parasites. It is infested with [Bounders](Bounder.md), [Husks](Diver_Husk.md) and [Carbuncles](Carbuncle.md) on the ground, so you must stay on the bridges to avoid fighting powerful monsters. Sub-locations include the [Frontier Furnace](The_Frontier_Furnace.md).
 
 The three Diver journals can be found here.
 

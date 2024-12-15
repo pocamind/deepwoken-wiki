@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 123960
+revid: 123966
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -876,9 +876,9 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray.
 -   Ironsing is called 'Element' in the game's code.
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
-    -   Gold gives a 10% damage buff and a gold particle effect. (Lasts 25 sec)
+    -   Gold gives a 10% damage buff and a gold particle effect. DMG buff applies only to m1, not to any of mantras (Lasts 25 sec)
     -   Using Irithine gives a green particle effect. Effects unknown.
-    -   Using Erisore gives a blue particle effect. Effects unknown.
+    -   ̶U̶s̶i̶n̶g̶ ̶E̶r̶i̶s̶o̶r̶e̶ ̶g̶i̶v̶e̶s̶ ̶a̶ ̶b̶l̶u̶e̶ ̶p̶a̶r̶t̶i̶c̶l̶e̶ ̶e̶f̶f̶e̶c̶t̶.̶ ̶E̶f̶f̶e̶c̶t̶s̶ ̶u̶n̶k̶n̶o̶w̶n̶.̶ (Bugged rn, you cant use it)
 -   Similarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 123462
+revid: 123979
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -14,11 +14,15 @@ categories: [Monsters, Knights]
 
 Stone Knights (also known as Desert Knights or Sand Knights) are a type of Giant [Monster](Monsters.md) encountered primarily in the [Starswept Valley](The_Starswept_Valley.md), either via being dropped out the sky by a radiant meteor, or simply spawning fighting an [Alpha Megalodaunt](Alpha_Megalodaunt.md), but they can also just randomly spawn in.
 
+Blizzard Knights are a far stronger version of the Stone Knight, spawning in a pack of 6 in the [Valley of Heroes](The_Valley_of_Heroes.md) during the Winter Time, introduced as a trap by [Aelita](Aelita.md) telling you to "come back during the winter for more fun".
+
 Template:Creature Info Box v2
 
 ## Description
 
 Recognizable by their yellow body, blue eyes and blue sword, the Stone Knights are the variant encountered on [Aratel Island](Aratel_Island.md). They will not drop a chest if the Stone Knight emerged from a meteor, it will only spawn a chest if the knight spawned without a meteor.
+
+Far stronger with a white paintjob, the Blizzard Knight sports a unique sword and higher health, but no changes other than simply being a stronger variant
 
 ## Moveset
 
@@ -81,10 +85,13 @@ A Stone Knight executes the player:
 -   In order to dodge the Terra Eruption, do a full dodge instead of a roll cancel.
 -   All of the Stone Knight's moves can be dodged with little consequence, with the exception of the double slash.
 
+-   The Blizzard Knight spawns only as a pack of 6, thus it is recommended to slowly fight them one at a time rather than risk being infinitely stunned.
+
 ## Trivia
 
 -   Stone Knights are artificial and are thus not affected by the "Mute" [Regalia](Regalia.md) and will still attack if they spot you.
 -   Stone Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
--   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple [Blizzard Knights](Stone_Knight.md#blizzard-knight) were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
+-   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
+-   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.

@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 120811
+revid: 124022
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Rings]

@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 122067
+revid: 124087
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -113,6 +113,21 @@ Dodgeable:◯
  | 
 
  |
+| 
+
+**Roar**  
+(★★☆)
+
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). It can cause a player to succumb to insanity much quicker than expected or during combat within voidzones.
+
+-   Blocking negates much of but not all the insanity gain.
+-   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯  
+
+ |  |
 | 
 
 **Pyroclastic Roar**  

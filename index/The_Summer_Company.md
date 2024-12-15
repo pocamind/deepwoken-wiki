@@ -1,11 +1,9 @@
 ---
 title: The Summer Company
-revid: 106563
+revid: 124074
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Factions, Summer Company]
-notices:
-  - "This page is still in progress! Please have patience, and aid the creation of this page!"
+categories: [Factions, Summer Company]
 ---
 
 # The Summer Company
@@ -76,6 +74,6 @@ Neutral-Bad Reputation:
 ## Trivia
 
 -   All the named members of Summer Company are named after parts of guns.
-    -   Scope is named after the scope.
-    -   Trig is named after the trigger.
-    -   Mag is named after the magazine.
+    -   [Scope](Scope.md) is named after the scope.
+    -   [Trig](Trig.md) is named after the trigger.
+    -   [Mag](Mag.md) is named after the magazine.

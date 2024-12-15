@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 110111
+revid: 124051
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -156,3 +156,15 @@ While inside a Voidzone:
 **Dangers:** People trying to obtain [Linkstrider](Oath%253A_Linkstrider.md)
 
 **Rewards:** Erisore, [Oath: Linkstrider](Oath%253A_Linkstrider.md), [Pristine Lotuses](Oath%253A_Linkstrider.md), [Fishing Spot](Fishing.md#fishing-spots)
+
+### [Voidsea](Voidsea.md)
+
+“ Here, the dying light collects like dregs at the precipice of a waterfall. The ultimate fate of all things becomes apparent. ”
+
+― Voidsea Flavor Text
+
+**Location:** Both Luminants, at the edge of the sea.
+
+**Dangers:** Mostly [Brainsuckers](Brainsucker.md), [Lionfish](Lionfish.md), the [Dread Serpent](Dread_Serpent.md), and island sea events
+
+**Rewards:** [Nocturne](Nocturne.md), [Soulthorn](Soulthorn.md), [Fractine](Fractine.md), and the [Dormant Splinter](Dormant_Splinter.md), among other things

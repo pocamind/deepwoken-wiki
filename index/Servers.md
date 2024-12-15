@@ -1,11 +1,9 @@
 ---
 title: Servers
-revid: 103315
+revid: 124065
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Mechanics]
-notices:
-  - "This page may be out of date At times. This page is hard to complete, as the server names aren't always on the serverlist, meaning we cannot see some names."
+categories: [Mechanics]
 ---
 
 # Servers

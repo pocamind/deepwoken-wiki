@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 115289
+revid: 124060
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]
@@ -18,6 +18,22 @@ notices:
 ## Description
 
 Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) by the Nest Corridor.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Aelahi, frinwalter- ah. You are not.. one of us. Why are you here, frinwalter? This is no place for man.</td>
+</tr>
+<tr>
+  <td colspan="12">I'm an adventurer.</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

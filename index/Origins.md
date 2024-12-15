@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 123399
+revid: 124079
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -197,7 +197,7 @@ The following is speculation:
 
 ## Trivia
 
--   The Deepbound Origin was originally a Flaw; this was changed into an Origin during the 8/22/2022 update.
+-   The Deepbound Origin was originally a Flaw, however this was changed into an Origin during the 8/22/2022 update.
 -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[2\]](#cite-note-2)

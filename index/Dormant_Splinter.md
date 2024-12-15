@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123794
+revid: 123982
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -18,7 +18,6 @@ categories: [Weapons]
 | swing speed | 0.9x |
 | penetration | 10% |
 | stances | 2 Handed, 1 Handed |
-| selling price | 105 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
@@ -40,7 +39,7 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
 3.  Use [Shadow Travel](Shadowcast.md) or Shadow's Flight on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
 
-It can also be found from a variety of events in the [Voidsea](Voidsea.md), as well as on the [Saramaed Hollow](Saramaed_Hollow.md).
+It can also be found from a variety of events in the [Voidsea](Voidsea.md), as well as in the [Saramaed Hollow](Saramaed_Hollow.md).
 
 ## Critical
 
@@ -50,4 +49,4 @@ The User will try to enhance the power with darkness upon usage but will however
 
 -   Meeting the requirement of MED and LVL, the damage is (5.1)
 -   At max MED and 6 Proficiency, the damage is (8.8) (11.4 with bleed)
--   Worst weapon in the entire game for both PVE and PVP due to its unbearable 5 base damage.
+-   Worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage.

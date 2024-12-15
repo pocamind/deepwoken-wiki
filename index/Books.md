@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 123956
+revid: 124024
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -28,6 +28,7 @@ Some books are obtained as part of specific quests and cannot be found outside o
 
 -   Diver Journal I, II, III: [Second Layer](Second_Layer.md)
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
+-   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md)
 
   
 
