@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 122740
+revid: 123916
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -45,9 +45,14 @@ This page is about content that has either been removed or changed drastically i
 -   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The active passive **Mani Katti** was removed alongside this rework.
     -   This was reworked on the 13th, August 2024.
--   **([Previous](https://deepwoken.fandom.com/wiki/Oath:_Visionshaper?oldid=113548)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
+-   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The Oath mantra **Illusory Realm** was removed alongside this rework.
     -   This was reworked on the 20th, September 2024.
+
+-   **([Previous](Oath%253A_Jetstriker/Old_Jetstriker.md))** **Jetstriker -** Reworked, possibly due to the overpowered nature of the _Vigil's Grace_ passive and lack of viability in PVP and PVE outside of that specific passive.
+    -   New mantras were added to Jetstriker which previously, the oath possessed none, these mantras include Jet Kick and False Strike.
+    -   New passives that differ from the original Jetstriker include Acceleration Points, Jetstream Pursuit, and Momentum Bar.
+        -   Passives removed from the rework include Prevailing Westerlies and Vigil's Grace.
 
 ## Mantras
 
