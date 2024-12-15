@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 123150
+revid: 123855
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -112,7 +112,6 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 -   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones.
--   It is highly likely that the Visionshaper oath was inspired from [D&D Player Handbook's Fiend Warlock](https://dnd5e.wikidot.com/warlock:archfey%7C), namely its Misty Escape and Dark Delirium abilities, as well as the premise of the subclass' patrons.
 
 ## References
 

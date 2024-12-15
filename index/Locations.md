@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 117609
+revid: 123827
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -139,6 +139,8 @@ Please add miscellaneous islands or named landmarks here
     -   [Castle Light](Castle_Light.md)
         -   [Light's Causeway](<Light's_Causeway.md>)
     -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
+    -   [Sub Zero Passage](Brinepool_Passage.md)
+        -   [The Cold Forge](The_Cold_Forge.md)
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
     -   [Varicosa District](Varicosa_District.md)
     -   [District of Commerce](District_of_Commerce.md)

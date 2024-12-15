@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 121696
+revid: 123816
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -13,8 +13,6 @@ LocationL Boatman's Watch LocationR
 A place remembered only by the waves.
 
   
-
-The arena found in Boatman's Watch
 
 ## Overview
 

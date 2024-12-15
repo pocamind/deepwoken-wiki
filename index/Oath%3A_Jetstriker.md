@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 123701
+revid: 123843
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -49,7 +49,7 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This ca
 -   In the Isle of Vigils temple, in front of Stratos.
 -   On an ice pillar at the top of Minityrsa's Frozen Pond, overlooking the coast.
 
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=S7cPoR7G-5c&t=13s)._
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/Re7kr7XqC6w)._
 
 ## Effects
 

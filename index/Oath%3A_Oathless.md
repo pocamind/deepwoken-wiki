@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 123704
+revid: 123829
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -42,7 +42,7 @@ Though order does not matter, the following order is recommended.
 
 After talking to all three of their disciples, return to Cerulean to receive the Oath.
 
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=6NQX0V8mmAM)._
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/s1FnLihjbHE)._
 
 ## Effects
 

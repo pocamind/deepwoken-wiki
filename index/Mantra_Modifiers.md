@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 123341
+revid: 123885
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -799,7 +799,7 @@ Shadow Assault
  | 
 
 -   This modifier causes "Shadow Assault" mantra to perform a rapid barrage of blows against the target after initial hit.
-    -   **THIS CAN ONLY BE ACTIVATED WHEN THE USER BELOW 40% HP.**
+    -   **THIS CAN ONLY BE ACTIVATED WHEN THE USER IS BELOW 40% HP.**
 
  |
 | 

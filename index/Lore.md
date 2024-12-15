@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 123335
+revid: 123873
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1990,6 +1990,7 @@ Though technically a blank slate of varying races and abilities, even the player
     -   In the Lone Warrior Origin, they have fuzzy memories of combat.
     -   In the Ignition Union Origin, they've gone through standard Union training, with additional knowledge of caves such as the [Saramaed Hollow](Saramaed_Hollow.md)
 -   They are a "Drowned," people with more connections to The Depths than usual.
+-   Its possible this is some sort of opposing Regalia to the Gift (the regalia that gives Lightkeepers their powers).
 -   When they become strong enough, they get the Talent card of the Sound from Below that states that something in The Depths is calling you as if they were tied to The Depths since the beginning.
 -   Destroyman III claims to be the player's twin brother.
 

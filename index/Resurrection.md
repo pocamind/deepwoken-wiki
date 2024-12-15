@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 120288
+revid: 123853
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -65,6 +65,6 @@ When obtained, Resurrection will spend its points on the following stats:
 -   **Very unreliable.** At times, the bell may not activate immediately, which gives the enemies the opportunity to grip you.
 -   As someone is being resurrected, they are immune to all damage.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
--   A very powerful corrupted resonance, as the fire and damage downsides of resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
+-   A very powerful corrupted resonance, as the damage downside of resurrection will proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
 -   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.
 -   The second bell with a passive ability, the other being [Jar of Souls](Jar_of_Souls.md).
