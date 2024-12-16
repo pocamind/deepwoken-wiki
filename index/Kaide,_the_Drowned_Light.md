@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 101506
+revid: 124216
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore, Layer 2, Floor 2]
@@ -60,6 +60,18 @@ Kaide is a [Lightborn](Lightborn.md) NPC found in [New Kyrsa](Second_Layer/New_K
   <td></td>
   <td></td>
   <td><i>*He rolls his eyes.*</i> What a web they've spun around you. We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering.</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Do you have anything that could help me?</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Hmm... If you should return to the Surface, let me impart you with a tidbit of knowledge. The Celestials were a crafty sort, and would hide many of their relics away in the Voidsea to obscure their whereabouts. The Voidsea being what it is, of course, some of their reliquaries may have now drifted between the Heavens and the Surface. If you should find one... Use my blessing to take what you will from it. Note that they're likely still well-defended, however.</td>
 </tr>
 </tbody>
 </table>

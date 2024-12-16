@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 123658
+revid: 124219
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
@@ -48,9 +48,9 @@ This weapon can change forms with the use of its critical similarly to [Light's 
 
 **Stage III**: Dashes forward performing a large upward slash placing ice under the users feet and freezing the opponent in place, this moves the weapon back into stage I, breaking the ice and coating the weapon in a carbon substance.
 
-All criticals have a cooldown of 10 seconds. The criticals do not have a 100% chance of moving to the next stage.
+All criticals have a cooldown of 10 seconds.
 
-Pressing M2 during the windup of the critical will perform a feint that resets stages(?) and has a reduced cooldown. This does not change depending on the stage.
+Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. This does not change depending on the stage.
 
 ## Trivia
 

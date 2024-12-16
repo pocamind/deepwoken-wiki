@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 123028
+revid: 124218
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -36,6 +36,7 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
 -   **Corrupted** Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   Soul Siphon - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   Unnamed Ice Bell(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 
 ## Overview
 
