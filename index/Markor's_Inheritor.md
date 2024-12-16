@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 124038
+revid: 124126
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons]
@@ -45,15 +45,3 @@ It shares the same aerial animation and critical animation with the [Way of Nava
 -   At max HVY, the non-alloyed damage is (36.6)
     -   At max HVY, the alloyed damage is (38.4)
 -   The non-alloyed does (.5) more base dmg than the alloyed version.
-
-## Gallery
-
-### Enchantments
-
-**Umbral Knight:**
-
-**Metal:**
-
-**Curse of The Bloodthirsty:**
-
-**Detonation:**

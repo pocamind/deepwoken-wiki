@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 119205
+revid: 124108
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -62,6 +62,20 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
     -   **Lightning Armor:** Reduce damage taken from [Thundercall](Thundercall.md) attacks.
     -   **Wind Armor:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
     -   **Shadow Armor:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
+    -   V= Outfit Armor
+    -   W= Equipment Armor
+    -   X= V + (W \* (1 - 0.V)) \[Equipment armor post calculation\]
+    -   Y= Specific resistance
+    -   Z= (Y \* (1 - 0.X)) \[Specific armor post calculation\]
+    -   X = General armor
+    -   X + Z = Specific armor so to use random numbers
+    -   V= 30
+    -   W= 25
+    -   X= 30 + (25 \* (1 - 0.30)) = 47.5
+    -   Y= 15
+    -   Z= (15 \* (0.47.5)) = 7.9
+    -   General armor = 47.5
+    -   Specific Armor = 55.4
 
 ### Damage Vs. Monsters
 

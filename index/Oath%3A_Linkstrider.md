@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 123703
+revid: 124178
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 123500
+revid: 124093
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1255,9 +1255,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Shadowcast: Your bullets steal ether/apply burn (Twisted Puppets)
                 -   Ironsing: Your bullets apply metal rods
                 -   Bloodrend: Your bullets drain blood
-            -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
-            -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   **This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.**
+            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
+        -   This Talent CAN be obtained with 20 medium and a pistol equipped.
+        -   **If the user has no attunement, this talent has NO EFFECT. It is recommended to put one point into an attunement if using this talent on an attunement-less build.**
 
 ### Hammer Rage
 

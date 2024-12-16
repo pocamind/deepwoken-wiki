@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 118557
+revid: 124137
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -29,74 +29,6 @@ categories: [Weapons, Daggers]
 ## Description
 
 The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons.) The weapon has a base damage of 11. It can be obtained by choosing Light Weapon during [Character Creation](Character_Creation.md), buying it at [Etris](Etris.md#weaponry), or getting it from a drop at [Erisia](Erisia.md).
-
-## Gallery
-
-### Enchantments
-
-**Blessings:**
-
-**Astral:**
-
-**Blazing (Standard):**
-
-**Blazing (Azure Flames):**
-
-**Blazing (Twisted Puppets):**
-
-**Chilling (Standard):**
-
-**Chilling (Crystallization):**
-
-**Deferred:**
-
-**Detonation:**
-
-**Elastic:**
-
-**Gluttony:**
-
-**Grim:**
-
-**Harrowing:**
-
-**Heroism:**
-
-**Metal:**
-
-**Nemesis:**
-
-**Obfuscation:**
-
-**Providence's Thorns:**
-
-**Sear:**
-
-**Solar:**
-
-**Stone:**
-
-**Storm:**
-
-**Stormbreaker:**
-
-**Tears of the Edenkite:**
-
-**Umbral Knight:**
-
-**Vampirism:**
-
-**Wild:**
-
-**Curses:**
-
-**Curse of the Bloodthirsty:**
-
-**Curse of the No Life King:**
-
-**Curse of the Unbidden:**
-
-**Curse of Yun'Shul:**
 
 ## Trivia
 

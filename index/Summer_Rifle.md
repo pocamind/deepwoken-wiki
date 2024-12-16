@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 118041
+revid: 124156
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -31,12 +31,6 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 The Summer Rifle is a [Medium Weapon](https://deepwoken.fandom.com/wiki/Weapons#Rifles), part of the rifle category. It serves as an introduction to rifles, being the one with the lowest requirements (40 MED) and is quite rare.
 
 Rifles feature an attack string composed of 5 attacks (instead of the usual 4 for non-light weapons). It alternates with a strike with the weapon and a shot, the flourish being a bash with the stock of the weapon. The critical attack simply fires a shot in a straight line.
-
-## Gallery
-
-### Enchantments
-
-**Astral:**
 
 ## Trivia
 

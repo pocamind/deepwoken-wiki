@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 118038
+revid: 124159
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -38,17 +38,3 @@ The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](S
 -   **Not Recommended for PVE**, due to the loss of being able to instant guardbreak bosses, it has the lowest critical posture damage ingame along with all other instant guardbreak criticals, at around 2.
 -   Meeting the requirement of MED, the damage is (26.2)
 -   At max MED, the damage is (29.7)
-
-## Gallery
-
-### Enchantments
-
-**Curse of the Bloodthirsty:**
-
-**Gluttony:**
-
-**Providence's Thorns:**
-
-**Curse of the Unbidden:**
-
-**Blazing:**

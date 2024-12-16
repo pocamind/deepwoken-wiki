@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 123711
+revid: 124172
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -111,7 +111,7 @@ Gale Lunge
 
 _A rush of piercing wind._
 
- | 40 Ether | Wind | Lunge forward with your weapon coated in wind.
+ | 40 Ether | Wind + Slash | Lunge forward with your weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
@@ -148,7 +148,7 @@ Heavenly Wind
 
 _A strike from the heavens._
 
- | 50 Ether | Wind | Leap high into the air before diving down, striking any targeted opponent.
+ | 50 Ether | Wind + Slash | Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
@@ -216,10 +216,24 @@ Wind Forge
 Twister Kicks  
 (★☆☆)
 
- | "Go forth with spinning kicks infused with the wind" | 40 Ether | Wind | Dash forwards kicking with a rush of winds dealing damage.
+ | "Go forth with spinning kicks infused with the wind" | 40 Ether | Wind + Slash | Dash forwards kicking with a rush of winds dealing damage.
 
 -   Deals moderate damage.
 -   Can break objects.
+
+ |
+| 
+
+ | 
+
+Updraft  
+(★☆☆)
+
+ | "A lifting torrent of wind." | 50 Ether | Wind + Slash | Get ready to spin around and then create a burst of wind around you that goes upward while also turning invisible
+
+-   Deals moderate damage.
+-   Sends opponents flying into the air.
+-   Deals big posture damage.
 
  |
 |  | 
@@ -291,7 +305,7 @@ Wind Carve
 
 _A quick swirl of sharp winds._
 
- | 40 Ether | Wind | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+ | 40 Ether | Wind + Slash | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals light damage over multiple slashes.
@@ -310,7 +324,7 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- | 50 Ether | Wind | Cast several fast, wind-enhanced slashes that form a star.
+ | 50 Ether | Wind + Slash | Cast several fast, wind-enhanced slashes that form a star.
 
 -   Deals _possibly moderate-heavy_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
