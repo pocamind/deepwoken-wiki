@@ -1,9 +1,9 @@
 ---
 title: Anklets of Alsin
-revid: 119359
+revid: 124278
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Fists]
+categories: [Weapons, Fists]
 ---
 
 # Anklets of Alsin
@@ -29,7 +29,7 @@ categories: [Pages with broken file links, Weapons, Fists]
 
 ## Description
 
-The Anklets of Alsin are a light weapon that can be found in all [Depths](The_Depths.md) Chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chests, [Fort Merit](Fort_Merit.md) chests, [Deep Widow's](Deep_Widow.md) chests, [Primadon's](Primadon,_Titan_of_the_East.md) chests, [Dread Serpent](Dread_Serpent.md) (direct drop), [Fishing](Fishing.md) Chests (rare), [Duke's](Duke_Ishamon_Erisia.md) chest, and [Voidwalkers](Origins.md#voidwalker) bounty chests. It is also dropped from killing [Polis](Polis.md). The only requirement is a Kick Style. As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
+The Anklets of Alsin are a light weapon that can be found in all [Depths](The_Depths.md) Chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chests, [Fort Merit](Fort_Merit.md) chests, [Deep Widow's](Deep_Widow.md) chests, [Primadon's](Primadon,_Titan_of_the_East.md) chests, [Dread Serpent](Dread_Serpent.md) (direct drop), [Fishing](Fishing.md) Chests (rare), [Duke's](Duke_Ishamon_Erisia.md) chest, and [Voidwalkers](Origins.md#voidwalker) bounty chests. It is also dropped from killing [Polis](Polis.md). As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
 
 ## Trivia/Notes
 
@@ -41,81 +41,3 @@ The Anklets of Alsin are a light weapon that can be found in all [Depths](The_De
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
 -   This weapon is named after Alsin, a [Celestial](Celestial.md) that the Justicars worship.
 -   Ironically, this weapon actually has .5 less base damage than Jus Karita.
-
-## Enchantments
-
-**Vampirism:**
-
-File:Vampirism anklets.png
-
-**Detonation:**
-
-File:Anklets of alsin detonation.png
-
-**Sear:**
-
-File:SearA+.png
-
-**Elastic:**
-
-File:Elastic anklets.png
-
-**Tears of the Edenkite:**
-
-File:Tears Of the Edenkite - Anklets of Alsin.jpeg
-
-**Curse of the No Life King:**
-
-File:Curse of No Life King - Anklets of Alsin.gif
-
-**Storm:**
-
-File:Storm - Anklets of Alsin.gif
-
-**Gluttony:**
-
-File:Gluttney.png
-
-**Heroism:**
-
-File:Heroism anklets.png
-
-**Astral:**
-
-File:Astral Anklets of alsin.png
-
-**Blazing (Regular):**
-
-File:Blazing Anklets Of Alsin.png
-
-**Obfuscation:**
-
-File:Anklets obfuscation.png
-
-**Providence's Thorn:**
-
-File:Anklets of Alsin providence thorns.png
-
-**Chilling (Regular):**
-
-File:Chilling anklets.png
-
-**Grim:**
-
-File:Grim Anklets.png
-
-**Nemesis:**
-
-File:Aos.png
-
-**Curse of the unbidden:**
-
-File:Screenshot 2024-05-14 190826.png
-
-**Umbral Knight:**
-
-File:Umbral Knight Anklets.png
-
-**Curse of Yun'shul:**
-
-File:Anklets Yunshul.png

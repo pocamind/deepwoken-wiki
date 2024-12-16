@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 120112
+revid: 124248
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -31,70 +31,6 @@ The Evanspear Hand Axe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy We
 It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md) as well.  
 
 Meeting the requirements, this weapon deals 37.5 + 11.3 BLD, for a total of 48.8 damage. With 6 Proficiency, 100 HVY, and an additional +6% damage from stars, this weapon deals 52.7 + 15.8 BLD, for a total of 68.5 damage.
-
-## Gallery
-
-### Enchantments
-
-**Astral:**
-
-**Blazing (Standard):**
-
-**Blazing (Azure Flames):**
-
-**Blazing (Twisted Puppets):**
-
-**Chilling (Standard):**
-
-**Chilling (Crystallization):**
-
-**Deffered:**
-
-**Detonation:**
-
-**Elastic:**
-
-**Gluttony:**
-
-**Grim:**
-
-**Harrowing:**
-
-**Heroism:**
-
-**Metal:**
-
-**Nemesis:**
-
-**Obfuscation:**
-
-**Providence's Thorns:**
-
-**Sear:**
-
-**Solar:**
-
-**Stone:**
-
-**Storm:**
-
-**Stormbreaker:**
-
-**Tears of Edenkite:**
-
-**Umbral Knight:**
-
-**Vampirism:**
-
-**Wild:**
-
-**Curse of the Bloodthirsty:**
-
-**Curse of The No Life King:**
-
-**Curse of The Unbidden:**
-
-**Curse of Yun-Shul:**
 
 ## Trivia
 

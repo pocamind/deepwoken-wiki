@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 124106
+revid: 124256
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -41,19 +41,3 @@ The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), kno
     -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
 -   Possibly a reference to the [Flamberge](https://darksouls.wiki.fextralife.com/Flamberge) from Dark Souls.
     -   The Flamberge is also a [real weapon](https://en.wikipedia.org/wiki/Flamberge).
-
-## Enchantments
-
-**Deferred:**
-
-**Providence's Thorns:**
-
-**Sear:**
-
-**Astral:**
-
-**Elastic:**
-
-**Umbral Knight:**
-
-**Curse of the Bloodthirsty:**

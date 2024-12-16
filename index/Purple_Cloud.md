@@ -1,9 +1,9 @@
 ---
 title: Purple Cloud
-revid: 123797
+revid: 124255
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals]
+categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals]
 ---
 
 # Purple Cloud
@@ -37,76 +37,6 @@ Akin to the [Shattered](Shattered_Katana.md) and [Alloyed](Katana.md#alloyed) Ka
 The user leans down and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing damage and absurd posture damage with the blade.
 
 The critical has a cooldown of **7 seconds**.
-
-## Gallery
-
-### Enchantments
-
-**Astral:**
-
-File:ASTRALPURPLECLOUDYEAAAAAAAAAA.png
-
-**Blazing (Standard):**
-
-**Blazing (Azure Flames):**
-
-**Blazing (Twisted Puppets):**
-
-\[\]
-
-**Chilling (Standard):**
-
-**Chilling (Crystallization):**
-
-**Deferred:**
-
-**Detonation:**
-
-**Elastic:**
-
-**Gluttony:**
-
-**Grim:**
-
-**Harrowing:**
-
-**Heroism:**
-
-**Metal:**
-
-**Nemesis:**
-
-**Obfuscation:**
-
-**Providence's Thorns:**
-
-**Sear:**
-
-**Solar:**
-
-**Stone:**
-
-**Storm:**
-
-**Stormbreaker:**
-
-**Tears of the Edenkite:**
-
-**Umbral Knight:**
-
-**Vampirism:**
-
-**Wild:**
-
-**Curse of the Bloodthirsty:**
-
-**Curse of the No Life King:**
-
-**Curse of the Unbidden:**
-
-**Curse of Yun'Shul:**
-
-**Curse of Repulsion:**
 
 ## Trivia
 

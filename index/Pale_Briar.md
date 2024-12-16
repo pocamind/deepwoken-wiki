@@ -1,9 +1,9 @@
 ---
 title: Pale Briar
-revid: 118057
+revid: 124254
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 ---
 
 # Pale Briar
@@ -50,43 +50,3 @@ The critical has a cooldown of **10 seconds**.
 -   Its critical attack is, ironically, very useful against the Maestro.
 -   The caster of the critical attack is unable to cast mantras while it is up.
     -   Before the 06/15/2024 update, this was possible, leading to many cheese tactics involving the weapon.
-
-## Enchantments
-
-**Astral:**
-
-**Chilling:**
-
-**Curse Of The No Life King:**
-
-**Curse Of The Unbidden:**
-
-**Detonation:**
-
-**Elastic:**
-
-**Gluttony:**
-
-**Grim:**
-
-**Heroism:**
-
-**Metal:**
-
-**Nemesis:**
-
-**Obfuscation:**
-
-**Providence Thorns:**
-
-**Sear:**
-
-File:SearPaleBriar.png
-
-**Stone:**
-
-**Storm:**
-
-**Umbral Knight:**
-
-**Wild:**

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124044
+revid: 124234
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1457,13 +1457,13 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
 <tr>
   <td><a href="Crescendo.md">Crescendo</a></td>
   <td>75 MED</td>
-  <td>22.9</td>
+  <td>22</td>
   <td>5%</td>
   <td>MED: 6</td>
-  <td>5</td>
+  <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>37.2</td>
+  <td>35.8</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Scalesplitter#Alloyed"><font>Alloyed Scalesplitter</font></a></td>

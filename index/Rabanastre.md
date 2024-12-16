@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 124060
+revid: 124277
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]
@@ -13,6 +13,7 @@ notices:
 | Rabanastre | |
 |---|---|
 | name | Rabanastre |
+| aspect | Ganymede |
 | location | Second Layer |
 
 ## Description

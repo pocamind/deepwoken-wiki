@@ -1,9 +1,9 @@
 ---
 title: Kanabo
-revid: 118082
+revid: 124251
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
+categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
 ---
 
 # Kanabo
@@ -41,40 +41,6 @@ For the **standing** critical, the user winds up, stomping the ground before unl
 For the **running** critical, the user winds up before unleashing three devastating, unblockable slams that stuns on hit.
 
 Both criticals share the cooldown of **8 seconds**.
-
-## Gallery
-
-### Enchantments
-
-**Deffered:**
-
-**Nemesis:**
-
-**Obfuscation:**
-
-**Providence's Thorns:**
-
-**Sear:**
-
-**Stone:**
-
-**Stormbreaker:**
-
-File:Kanabo Stormbreaker.png
-
-**Curse of The No Life King:**
-
-**Curse of Yun-Shul:**
-
-**Curse of The Bloodthirsty:**
-
-**Elastic:**
-
-**Storm:**
-
-**Detonation:**
-
-**Vampirism:**
 
 ## Trivia
 

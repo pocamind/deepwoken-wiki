@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 123949
+revid: 124271
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -34,6 +34,8 @@ The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a
 ## Criticals
 
 For the **Basic** Critical, create a bright flash and then strike your opponent with your pickaxe, ragdolling and launching them away.
+
+  
 
 For the **Aerial** Critical, you launch yourself forward and do a radial slash upon connecting with your opponent or the ground.
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 122506
+revid: 124275
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -137,7 +137,9 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 ## Attunements
 
-_"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a Talent that can be gotten by all attunements, providing a wisp slot.
+### Any
+
+-   _I seek to command the elements as my servants. **(Will O' Wisp)**_
 
 ### [Flamecharm](Flamecharm.md)
 
@@ -148,14 +150,14 @@ _"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a Talen
 -   _I am a master of the flame._ _**(Pyromancer)** (Hungry Flames)_
 -   _All must burn. **(Inferno)** (Corpse Explosion, Pleektsy's Faith, Pleeksty's Will)_
 -   _I burn so that I may succeed. **(Immolator)** (Agitating Spark, Immolation, Phoenix Flames)_
--   _I seek the path of the Serpent. **(Lava Serpent)\*** (Eruption Path: Lava Serpent - Empowered Eruption, Flash Point, Molten Defense, The Floor is Lava)_
+-   _I seek the path of the Serpent. **(Lava Serpent)** (Eruption Path: Lava Serpent - Empowered Eruption, Flash Point, Molten Defense, The Floor is Lava)_
 -   _My unholy blade works for no man. **(The Demon Blade)** (Explosive Finish, Flaming Flourish)_
 -   _My blade burns through my foes._ _**(The Emperor's Blade)** (Emperor Flame) **(Note; Cannot give Mirage Clone)**_
 -   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)** (Meteor Impact, Phoenix Impact)_
 -   _My flame fights for me._ _**(Duelist Flame)** (Concussive Flash)_
 -   _I seek the qualities of Tamed Flame. **(Tamed Flame)** (Controlled Combustion)_
 
-(\*Lava Serpent exchanges the innate burn from Flamecharm into a very slightly delayed explosion after every Flamecharm move)
+  
 
 ### [Frostdraw](Frostdraw.md)
 
@@ -164,9 +166,7 @@ _"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a Talen
 -   _I speak to the frost. **(Frostdrawer)** (Cold Front, Glacial Ice)_
 -   _Those that step on my ice know they have made a grave error. **(Cryoni)** (Cryostasis) **(Note; Cannot give Preceding Chill)**_
 -   _I would see this world freeze. **(Ice Age)** (Bottom Freeze, Cryonis, Frost Buster, Frostbite, Unyielding Frost) **(Note; Cannot give Frozen Pin-Cushion, Saint Jay)**_
--   _I seek the elegance of a glassdancer. **(Glassdancer)\*** (Glass Path: Crystallization - Crystal Shrapnel, Reclaimed Glass)_
-
-(\*Glassdancer turns your ice from light blue to a pale red hue. Instead of applying 'Chill', it is replaced by explosive crystals)
+-   _I seek the elegance of a glassdancer. **(Glassdancer)** (Glass Path: Crystallization - Crystal Shrapnel, Reclaimed Glass)_
 
 ### [Thundercall](Thundercall.md)
 
@@ -178,9 +178,7 @@ _"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a Talen
 -   _I speak to lightning. **(Thundercaller)** (Discovery of Fire, Shocking Finish, Static Flash Clone, Static Withdraw, Stratoshock)_
 -   _I electrocute my foes from afar. **(Thunder Caster)** (Jolt Cast, Rain of Static)_
 -   _My fists are imbued with lighting. **(Thunder Brawler)** (Discharge)_
--   _I seek to embrace the instability of lightning as a source of power. **(Unstable Capacitor)\*** (Surge Path: Unstable Capacitor - Battery Sapper, Catalytic Strike, Closed Circuit, Fried Circuits, Human Battery)_
-
-(\*Unstable Capacitor turns your lightning from yellow to blue. Instead of applying 'Shock', it instead applied a 'Surge Stack' that explodes when at maximum stacks)
+-   _I seek to embrace the instability of lightning as a source of power. **(Unstable Capacitor)** (Surge Path: Unstable Capacitor - Battery Sapper, Catalytic Strike, Closed Circuit, Fried Circuits, Human Battery)_
 
 ### [Galebreathe](Galebreathe.md)
 
@@ -191,10 +189,8 @@ _"I seek to command the elements as my servants. **(Will O' Wisp)"**_ is a Talen
 -   _I am a master of the winds. **(Aeromancer)** (Gale Trap, Aeronade, Vacuum Punch, Suffocating Impact) **(Note; Cannot give Aerogliding, Stifled Jump)**_
 -   _A whisper in the dark. **(Whisper)** (Haunted Gale)_
 -   _The song shall be silenced. **(Silencer)** (Silencer's Blade, A World Without Song)_
--   _I seek the qualities of Specter. **(Specter)\*** (Haunted Path: Specter - Apparitions, Phantom Step, Vanishing Wraith, Possession)_
+-   _I seek the qualities of Specter. **(Specter)** (Haunted Path: Specter - Apparitions, Phantom Step, Vanishing Wraith, Possession)_
 -   My wind fights for me. _**(Gale Duelist)** (Tempest Wind)_
-
-(\*Specter changes your gale from light green to white. 'Winded' is replaced by increased speed. 'Haunted Gale' will be replaced by an Apparition with the respective Talent)
 
 ### [Shadowcast](Shadowcast.md)
 
