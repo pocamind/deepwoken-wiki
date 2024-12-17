@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 122186
+revid: 124287
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -51,7 +51,7 @@ During this transformative era, significant advancements lead to the creation of
 
 ## The Tides
 
-The Tides are an event that stemmed from the Canticlysm's overuse of the song; the sound of which, supposedly, nearly woke up the drowned gods. The tides sunk the old world, along with drawing the Voidsea far closer to the luminants.
+An event that happened near the end of the canticlysm and continued a few years afterwards, it was considered the first Great Drowning, it’s cause was the Drowned Gods sensing the Song emanate from our world and stirring from it, they exerted their power over Lumen, corrupting the Sea, this caused Lumen to be mostly corrupted and eventually destroyed, dividing it into the 6 Luminants, not only this but it caused the Voidfog to be drawn to the Sea, merging them into the Voidsea, it continued raging on and allowed the formation of the Ministry, it ended with the Great Drowning of Celtor, in which the Celtorian Horror dragged The City of Celtor underwater and into Scyphozia, it also caused the Moonseye to lose its status as the afterlife, replaced by the Depths, when you die rather than Ascending you Drown, taking you into the lower parts of a Layer, thus we still don’t know what the upper part of a Layer looks like but it is presumably a more primal version of the layers as they don’t have any influence from sentient or sapient races as far as we know, you can only escape through the Depths trial or using the caverns, but doing so will pull you back in eventually due to the pull on your soul, but certain rituals can negate this effect.
 
 ## New World
 

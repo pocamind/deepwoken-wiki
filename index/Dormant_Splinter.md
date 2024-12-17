@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 123982
+revid: 124290
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Understrand, Voidsea Events, Moon's Eyrie, Saramaed Hollow, The Ferryman |
+| obtainment | The Understrand, Voidsea Events, Moon's Eyrie |
 | description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
 
 ## Description
@@ -39,7 +39,7 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
 3.  Use [Shadow Travel](Shadowcast.md) or Shadow's Flight on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
 
-It can also be found from a variety of events in the [Voidsea](Voidsea.md), as well as in the [Saramaed Hollow](Saramaed_Hollow.md).
+It can also be found from a variety of events in the [Voidsea](Voidsea.md).
 
 ## Critical
 
@@ -50,3 +50,4 @@ The User will try to enhance the power with darkness upon usage but will however
 -   Meeting the requirement of MED and LVL, the damage is (5.1)
 -   At max MED and 6 Proficiency, the damage is (8.8) (11.4 with bleed)
 -   Worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage.
+-   It originally dropped from [The Ferryman](The_Ferryman.md) and [Saramaed Hollow](Saramaed_Hollow.md) due to a bug, but this was later patched out.

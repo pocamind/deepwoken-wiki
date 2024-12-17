@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 121761
+revid: 124281
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows]
@@ -122,7 +122,7 @@ Charisma
 
 -   Explode damage is increased by Сharisma.
 
- | Nope |
+ | None |
 | 
 
  | Live | Yes, 75 Charisma, Common | "_\[Name\]_, live" | If subject have below 40% HP, fully heals to 100%, reviving them if they are knocked, cancelling any grip or carry.

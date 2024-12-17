@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 124085
+revid: 124296
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -114,7 +114,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
-    -   You can regain the Oath again after breaking the vow. However, the price will be 60 Medallions instead of 30.
+    -   You can regain the Oath again after breaking the vow. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
     -   This oath does not become locked after being broken.
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
@@ -133,7 +133,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Talking to [Adrofalis](Adrofalis.md) again will give you the prompt to regain [Saltchemist](Oath%253A_Saltchemist.md).
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
-    -   If you attempt to regain the Oath, The Dreadstar will not spawn after you survive the Ghosts on the Beloved Zofia.
+    -   If you attempt to regain the Oath, [The Dreadstar](The_Dreadstar.md) will not spawn after you survive the Ghosts on the [Beloved Zofia](Beloved_Zofia.md).
 -   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
 -   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
@@ -174,7 +174,7 @@ Proof of Time Magic's existence and it being an "Oath"
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
--   Almost all Oath Mantras can be modified with Vibrant Gems.
+-   Almost all Oath Mantras can be modified with [Vibrant Gems](Mantra_Modifiers.md).
     -   However, no Oath Mantras can be leveled up beyond level 1.
 -   Some Oaths change your character's eye color.
     -   Linkstrider gives the user Cyan eyes.
