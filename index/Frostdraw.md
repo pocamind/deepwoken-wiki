@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 124208
+revid: 124332
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -423,6 +423,7 @@ Ice
 
 -   Deals 54 damage.
 -   Applies an extremely long 12 sec chill at base.
+-   This mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
 -   Does not apply chill through block with Unyielding Frost.
 -   Gives brief I-Frames on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and stabbing the opponent with pillars. This variant does not apply chill, and can be modified with Vibrant Gems to increase the size of the ice created.

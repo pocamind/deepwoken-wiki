@@ -1,9 +1,9 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 114160
+revid: 124333
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies, Etrea]
+categories: [Pages with broken file links, Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies, Etrea]
 ---
 
 # Etrean Royal Guard (Enemy)
@@ -46,6 +46,12 @@ An Etrean Royal Guard executes its opponent:
     -   Alternatively, just don't go near Lord Regent's palace. However, if you must visit (to use the hive fountain teleporter) you can easily run past them anyways.
 -   Their katanas are almost always enchanted.
 -   Not much of a threat despite being town guard reinforcements.
+
+## Gallery
+
+File:Etrea execution.png
+
+Etrean royal guards in last words;
 
 ## Trivia
 

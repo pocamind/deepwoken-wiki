@@ -1,6 +1,6 @@
 ---
 title: Gladiator Pauldrons
-revid: 116851
+revid: 124322
 source: https://deepwoken.fandom.com/wiki/Gladiator_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -11,8 +11,8 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | Gladiator Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Rare |
-| selling price | 25 |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | None |
 | weight | 2 |
 | innate stats | +2 Health, +1 Posture |

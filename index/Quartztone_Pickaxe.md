@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 124271
+revid: 124327
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
