@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 122013
+revid: 124313
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]

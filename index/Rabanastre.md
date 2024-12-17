@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 124277
+revid: 124312
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]

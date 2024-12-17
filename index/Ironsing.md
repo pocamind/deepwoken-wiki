@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 124276
+revid: 124303
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -37,7 +37,7 @@ After you give him these ores, he will give you an Alloyed Elixir. Drink the Eli
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Ironsing level 10, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.
+-   At Ironsing level 1, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.
 -   At Ironsing level 20, players will receive the _Adept Ironsinger_ Talent. This allows players to use 1-star Ironsing mantras.
 -   At Ironsing level 30, players will receive the _Expert Ironsinger_ Talent. This allows players to unlock 2-star Ironsing mantras.
 -   Finally, at Ironsing level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.

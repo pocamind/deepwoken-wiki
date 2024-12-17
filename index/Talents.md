@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 124093
+revid: 124316
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1298,8 +1298,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   Gives a burst of insanity to yourself.
-        -   Immediatly lose 15% sanity on use.
-        -   If above 80% sanity, immediatly lose sanity down to 65%
+        -   Immediately lose 15% sanity on use.
+        -   If above 80% sanity, immediately lose sanity down to 65%
     -   You start benefitting from Talents that require insanity to use (namely _Lose Your Mind_)
     -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
         -   Namely Shared Misery and _Piercing Will_.
@@ -1555,7 +1555,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Jus Karita
 
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
-    -   Whenever you land the critical of Jus Karita, you can immediatly use it again with no delay.
+    -   Whenever you land the critical of Jus Karita, you can immediately use it again with no delay.
         -   This effect can only happen every 10 seconds.
         -   Despite the card saying "hitting", you do not need to damage someone to reset the cooldown (if it gets blocked, parried or dodged, it also resets it)
         -   Prerequisite: Jus Karita
@@ -1776,7 +1776,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Each rods will steal 20 armor durability.
-    -   Prerequisite: 50 Ironsing **and not having any of the "rending needle" talents** (YES. TESTED. AND VERY ANGRILY TESTED.)
+    -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
     -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
@@ -1825,7 +1825,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
     -   The bonus PEN is applied starting from 30% Sanity
-    -   You immediatly gain the full 15% PEN, there is no scaling like Lose Your Mind
+    -   You immediately gain the full 15% PEN, there is no scaling like Lose Your Mind
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)

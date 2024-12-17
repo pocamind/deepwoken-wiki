@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 105796
+revid: 124310
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
