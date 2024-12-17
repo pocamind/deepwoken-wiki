@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 123745
+revid: 124318
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -56,4 +56,4 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before 10/20/2023, the weapon used the base critical for the active fist style.
 -   Previously, before the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
--   Using this weapon with any big hat will almost fully cover m1 swing animation making it harder for you opponent to parry your attacks.
+-   Using this weapon with any big hat will almost fully cover m1 swing animation making it harder for your opponent to parry your attacks.
