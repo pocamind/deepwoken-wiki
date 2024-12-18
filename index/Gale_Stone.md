@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 122237
+revid: 124340
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement, Elemental Ingredients]
@@ -28,6 +28,7 @@ Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.m
 -   The [Etrean Guardsmen](Etrean_Guardsmen.md) at [Etris](Etris.md) do not drop Gale Stones.
 -   Killing [Mudskippers](Mudskipper.md) also has a chance to rarely drop Gale Stones.
 -   Killing [Songseeker Galebreather](Songseeker_Galebreather.md) can also drop Gale Stones.
+-   Killing [Legion Soldier](Legion_Soldier.md) at the Legion Camp is probably the fastest way to grind Gale Stones, due having 2 [Legion Soldier](Legion_Soldier.md) always spawned.
 
 ## Trivia
 

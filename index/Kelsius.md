@@ -1,9 +1,9 @@
 ---
 title: Kelsius
-revid: 122231
+revid: 124339
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests]
+categories: [Adret NPCs, NPCs, Quests]
 ---
 
 # Kelsius
@@ -11,6 +11,7 @@ categories: [NPCs, Quests]
 | Kelsius | |
 |---|---|
 | name | Kelsius |
+| aspect | Adret |
 | location | Isle of Vigils library |
 
 ## Description

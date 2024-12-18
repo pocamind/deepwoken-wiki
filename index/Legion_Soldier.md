@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 112966
+revid: 124341
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -18,6 +18,8 @@ A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<The_Viper's
 -   Hundred Legions ambush event (anywhere)
 
 A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their [race](Aspects.md).
+
+Legion Camp is located at the cave next to the Bandit Village in [Upper Erisia](Upper_Erisia.md), but has also an entrance next to the [Lower Erisia](Lower_Erisia.md) beach
 
 ## Moveset
 
