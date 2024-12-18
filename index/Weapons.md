@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124234
+revid: 124369
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2866,7 +2866,7 @@ Weapons/Weapon Skins that are exclusive for special people.
   <td>13 INT</td>
   <td>5</td>
   <td>9</td>
-  <td>0.72x (Outdated)</td>
+  <td>0.96x</td>
   <td>N/A</td>
   <td>43.6</td>
 </tr>
@@ -2905,7 +2905,7 @@ Weapons/Weapon Skins that are exclusive for special people.
   <td>HVY: 9</td>
   <td>8</td>
   <td>8</td>
-  <td>0.6x (Outdated)</td>
+  <td>0.8x</td>
   <td>N/A</td>
   <td>50.4</td>
 </tr>

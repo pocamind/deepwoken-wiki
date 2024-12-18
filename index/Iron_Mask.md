@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 121869
+revid: 124368
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -34,3 +34,4 @@ The Iron Mask is a mask made out of an unknown alloy (presumably iron) inlaid wi
 
 -   The Iron Mask is seen at the [Antiquarian](Antiquarian.md) at [Etris](Etris.md). However, the player cannot interact or buy it.
 -   May or may not be a reference Mark 1 armor from Ironman.
+-   The description is a reference to The Man In The Iron Mask, an unidentified political prisoner held during the reign of Louis XV, France, who was forced to use an Iron Mask by the state.
