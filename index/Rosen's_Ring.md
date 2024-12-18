@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 111549
+revid: 124356
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,8 +20,8 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Summer Isle, Duke Erisia, Second Layer, Ancient Rotlands, Pure Ore Turn Ins |
-| description | A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration. +1.2 INT scaling to all weapons. |
+| obtainment | Primadon, Ferryman, Summer Isle (Extremely Rare), Duke Erisia (Very Rare), Second Layer, Ancient Rotlands, Pure Ore Turn-ins (Extremely Rare), Maestro Evengarde Rest |
+| description | "A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration." |
 
 ## Description
 
@@ -40,4 +40,4 @@ categories: [Equipment, Rings]
 ## Trivia
 
 -   Originally owned by [Gunsmith Rosen](Gunsmith_Rosen.md), the founder of the [Summer Company](The_Summer_Company.md) and the first person to re-introduce guns after [The Canticlysm](The_Canticlysm.md).
--   Part of a set of Scaling rings, along with [Akira's Ring](<Akira's_Ring.md>), [Maestro's Ring](Equipment.md), [Prophet's Ring](Equipment.md), and the [Dawnfist's Ring](<Dawnfist's_Ring.md>).
+-   Part of a set of Scaling rings, along with [Akira's Ring](<Akira's_Ring.md>), [Maestro's Ring](<Maestro's_Ring.md>), [Prophet's Ring](<Prophet's_Ring.md>), and the [Dawnfist's Ring](<Dawnfist's_Ring.md>).

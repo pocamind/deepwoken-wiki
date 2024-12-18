@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 117800
+revid: 124345
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Etrea vs Eylis Sea Event, Miner's Landing, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, War Mode |
-| description | Flourishing an opponent has a 50% chance to stun them. |
+| description | "Flourishing an opponent has a 50% chance to stun them." |
 
 ## Description
 
