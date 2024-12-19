@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 119182
+revid: 124454
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Developer Specs]
@@ -231,6 +231,8 @@ Key of the Drowned - Exclusive Skin for the [Hero Blade of Wind](Hero_Blades.md)
 
 [Calamity Cinnabar](Calamity_Cinnabar.md) - Exclusive Skin for the [Crypt Blade](Crypt_Blade.md).
 
+Calabash - Mod spec or Exclusive Weapon
+
 ## Exclusive Races
 
 [Drakkard](Drakkard.md) - Mod Shop Only
@@ -262,6 +264,8 @@ Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20
 CeoofIsaac's Destroyman IV and Synce's Destroyman III [https://twitter.com/CEOofIsaacs/status/1728239463451783358](https://twitter.com/CEOofIsaacs/status/1728239463451783358)
 
 Stag Acrossus / Nuttoons: [https://www.youtube.com/watch?v=GEFbxT9zfkM](https://www.youtube.com/watch?v=GEFbxT9zfkM)
+
+Calabash: [https://cdn.discordapp.com/attachments/596933981270966303/1311583593935667230/Roblox\_VR\_2024.11.28\_-\_01.29.09.14.DVR.mp4?ex=67651268&is=6763c0e8&hm=84ed83fd87416264028815fd934be11d4e0b6e98d7b29b18ad5034344ae6c551&](https://cdn.discordapp.com/attachments/596933981270966303/1311583593935667230/Roblox_VR_2024.11.28_-_01.29.09.14.DVR.mp4?ex=67651268&is=6763c0e8&hm=84ed83fd87416264028815fd934be11d4e0b6e98d7b29b18ad5034344ae6c551&)
 
 ## Trivia
 

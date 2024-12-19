@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124417
+revid: 124450
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -38,7 +38,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Medium Weapons
 
--   23 Swords (28 if Alloyed)
+-   24 Swords (29 if Alloyed)
 -   13 Spears (15 if Alloyed)
 -   6 Clubs
 -   3 Rifles
@@ -60,11 +60,11 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   156 Total Weapons (Non-Alloyed, Non-Exclusive)
--   163 Total Weapons (Non-Alloyed, Exclusive)
--   178 Total Weapons (Alloyed, Non-Exclusive)
--   185 Total Weapons (Alloyed, Exclusive)
--   191 Total Weapons (Alloyed, Exclusive, Divine)
+-   157 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   164 Total Weapons (Non-Alloyed, Exclusive)
+-   179 Total Weapons (Alloyed, Non-Exclusive)
+-   186 Total Weapons (Alloyed, Exclusive)
+-   192 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -759,7 +759,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>10%</td>
   <td>N/A</td>
-  <td>MED: 8</td>
+  <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
   <td>1x</td>
@@ -771,11 +771,11 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>15</td>
   <td>5%</td>
   <td>N/A</td>
-  <td>MED: 5</td>
+  <td>MED: 8</td>
+  <td>5</td>
   <td>6</td>
-  <td>7.5</td>
-  <td>0.93x</td>
-  <td>30.4</td>
+  <td>1x</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>
