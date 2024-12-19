@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 124207
+revid: 124399
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1206,7 +1206,7 @@ Emperor Flame
 
  | 
 
-Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
+Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 106576
+revid: 124405
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Lost Celtor]
@@ -26,7 +26,7 @@ Once you use the lift to exit the depths, you may face certain enemies. The enem
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ | [Enforcer](Enforcer.md) |
-| 20 | If you have over 10 drowns, have the Vow of Thorns echo modifier, or have activated the [Shrine of Courage](Shrine_of_Courage.md), then waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
+| 20 | If you have over 20 drowns, have the Vow of Thorns echo modifier, or have activated the [Shrine of Courage](Shrine_of_Courage.md), then waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 These values are not set in stone, as there have been times where characters at Power 5 have escaped without a fight.
 

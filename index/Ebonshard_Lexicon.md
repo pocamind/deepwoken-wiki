@@ -1,6 +1,6 @@
 ---
 title: Ebonshard Lexicon
-revid: 124388
+revid: 124400
 source: https://deepwoken.fandom.com/wiki/Ebonshard_Lexicon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec, Developer Specs]
@@ -35,7 +35,7 @@ A blade made out of branches and shards of the void.
 
 ## Critical
 
-An AOE void blast that does upward of 400+ damage. (Multi-hit, Hyperarmor, AOE, Insta grip if knocked, True damage and have lifesteal)
+An AOE void blast that does upward of 400+ damage. (Multi-hit, Hyperarmor, AOE, Insta grip if knocked, True damage and has lifesteal)
 
 ## Trivia
 

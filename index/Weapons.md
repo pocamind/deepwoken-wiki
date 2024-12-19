@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124369
+revid: 124417
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -759,11 +759,23 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>10%</td>
   <td>N/A</td>
-  <td>MED: 7</td>
-  <td>4</td>
+  <td>MED: 8</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.9x</td>
+  <td>1x</td>
   <td>8.6</td>
+</tr>
+<tr>
+  <td><a href="Fondant_Splitter.md">Fondant Splitter</a></td>
+  <td>5 MED, LVL 3</td>
+  <td>15</td>
+  <td>5%</td>
+  <td>N/A</td>
+  <td>MED: 5</td>
+  <td>6</td>
+  <td>7.5</td>
+  <td>0.93x</td>
+  <td>30.4</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 124396
+revid: 124398
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2576,7 +2576,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"My blade burns through my foes."**_
 
--   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
+-   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
     -   Does not proc the talent "Dazing Finisher".
     -   Only consumes flames produced via Agitating Spark, meaning it will not consume your Flame Within.
     -   Prerequisites: Agitating Spark, 60 Flamecharm
