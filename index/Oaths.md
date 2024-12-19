@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 124296
+revid: 124386
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -26,63 +26,63 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Oath:\_Oathless](Oath%253A_Oathless.md)
 
-[Oath:\_Oathless](Oath%253A_Oathless.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Oathless](Oath%253A_Oathless.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Arcwarder](Oath%253A_Arcwarder.md)
 
-[Oath:\_Arcwarder](Oath%253A_Arcwarder.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Arcwarder](Oath%253A_Arcwarder.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Bladeharper](Oath%253A_Bladeharper.md)
 
-[Oath:\_Bladeharper](Oath%253A_Bladeharper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Bladeharper](Oath%253A_Bladeharper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Blindseer](Oath%253A_Blindseer.md)
 
-[Oath:\_Blindseer](Oath%253A_Blindseer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Blindseer](Oath%253A_Blindseer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Contractor](Oath%253A_Contractor.md)
 
-[Oath:\_Contractor](Oath%253A_Contractor.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Contractor](Oath%253A_Contractor.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Chainwarden](Oath%253A_Chainwarden.md)
 
-[Oath:\_Chainwarden](Oath%253A_Chainwarden.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Chainwarden](Oath%253A_Chainwarden.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
 [Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)
 
-[Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
-[Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Jetstriker](Oath%253A_Jetstriker.md)
 
-[Oath:\_Jetstriker](Oath%253A_Jetstriker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Jetstriker](Oath%253A_Jetstriker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Linkstrider](Oath%253A_Linkstrider.md)
 
-[Oath:\_Linkstrider](Oath%253A_Linkstrider.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Linkstrider](Oath%253A_Linkstrider.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Saltchemist](Oath%253A_Saltchemist.md)
 
-[Oath:\_Saltchemist](Oath%253A_Saltchemist.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Saltchemist](Oath%253A_Saltchemist.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Silentheart](Oath%253A_Silentheart.md)
 
-[Oath:\_Silentheart](Oath%253A_Silentheart.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Silentheart](Oath%253A_Silentheart.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
 [Oath:\_Starkindred](Oath%253A_Starkindred.md)
 
-[Oath:\_Starkindred](Oath%253A_Starkindred.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Starkindred](Oath%253A_Starkindred.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Oath:\_Visionshaper](Oath%253A_Visionshaper.md)
 
-[Oath:\_Visionshaper](Oath%253A_Visionshaper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Oath:\_Visionshaper](Oath%253A_Visionshaper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 

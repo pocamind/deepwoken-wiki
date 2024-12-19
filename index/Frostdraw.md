@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 124332
+revid: 124387
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -121,7 +121,7 @@ Ice
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** Talent.
--   the aoe can be increased with 2 stratus stones.
+-   Can be modified with Cloudstones/Stratus stones to make the blades bigger.
 
  |
 | 

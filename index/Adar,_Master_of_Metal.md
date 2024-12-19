@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 123494
+revid: 124370
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, Ignition Union Enemies, The Ignition Union]
@@ -281,4 +281,4 @@ _(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. M
     -   His hair combo can be found here: [1](https://www.roblox.com/catalog/7392396295/Black-Anime-Delinquent-Hair), [2](https://www.roblox.com/catalog/11308491438/Black-Messy-Anime-Hairstyle-17-0), [3](https://www.roblox.com/catalog/11104022976/Cursed-Hair)
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
 -   Formerly, Adar could not be killed for Silentheart progression and when talking to him while being one would prompt a message of him saying: ''Huh? Why are you giving me those looks for?''. The 11/10/23 update finally allowed him to be fought and killed.
--   He does not use the [legendary weapon](Ignition_Deepcrusher.md) of his respective Attunement like other trainers.
+-   He does not use the [legendary weapon](Ignition_Deepcrusher.md) of his respective Attunement unlike other trainers.
