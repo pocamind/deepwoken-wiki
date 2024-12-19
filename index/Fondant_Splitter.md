@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 124456
+revid: 124541
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Craftable]
@@ -27,6 +27,8 @@ categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Cr
 | obtainment | The Cold Forge (Crafting) |
 | description | "Is this safe to eat? We'll see..." |
 
+_This might have not been the page you were looking for, if you were looking for the [Dormant Splinters](Dormant_Splinter.md) other craftable, view the [Umbrite Witherblade](Umbrite_Witherblade.md)._
+
 ## Description
 
 The **Fondant Splitter** is a ??? rarity enchantable [Sword](<Sword_(weapon).md>); an oversized cake in the shape of the [Dormant Splinter](Dormant_Splinter.md).
@@ -48,8 +50,11 @@ The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-n
 ## Trivia
 
 -   First documented finding was on the 18th of December 2024, 12 days after the Dormant Splinter was added, and 5 days after the Cold Forge was added.
+-   Unlike the [Dormant Splinter](Dormant_Splinter.md) and the [Umbrite Witherblade](Umbrite_Witherblade.md), Fondant Splitter is not a [Relic](Relics.md) Tier weapon and can be enchanted.
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).
+-   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

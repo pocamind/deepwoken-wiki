@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 124209
+revid: 124510
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -221,7 +221,7 @@ Eclipse Kick
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
 -   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
--   Deals 140 dmg, 15 + 125 dmg with multiply spatk
+-   Deals 140 dmg, 15 + 125 dmg with multiplying spark
 
  |
 | 

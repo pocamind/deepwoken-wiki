@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 121515
+revid: 124545
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -188,7 +188,7 @@ Have your parry window lowered for a brief period. Applied after being flourishe
 
 ### Anti-Heal
 
-Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent All the Dead Gods. Signified by purple smoke on your character.
+Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic). Signified by purple smoke on your character. Can also be applied with the [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack.
 
 ### Pestilence
 
@@ -276,7 +276,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Applied by getting hit by an opponent with Emperor Flame active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Spectral Grasp's](Spectral_Grasp.md) Critical Attack, or can be applied to self with [Oath: Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_ and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside. Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and healthpacking when knocking opponents. Signified by a dark blue portion on your healthbar.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and healthpacking when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion's](Darkened_Bastion.md) _Withering Soul_ Talent, [Umbrite Witherblade's](Umbrite_Witherblade.md) M1s and Critical Attack, [Pleeksy's Inferno's](<Pleeksty's_Inferno.md>) Critical Attack, [Spectral Grasp's](Spectral_Grasp.md) Critical Attack, or can be applied to self with [Bladeharper's](Oath%253A_Bladeharper.md) _Reveal_ and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ## Deadly Status Effects
 

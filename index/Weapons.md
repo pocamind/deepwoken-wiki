@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124450
+revid: 124538
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -38,7 +38,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Medium Weapons
 
--   24 Swords (29 if Alloyed)
+-   25 Swords (30 if Alloyed)
 -   13 Spears (15 if Alloyed)
 -   6 Clubs
 -   3 Rifles
@@ -60,11 +60,11 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   157 Total Weapons (Non-Alloyed, Non-Exclusive)
--   164 Total Weapons (Non-Alloyed, Exclusive)
--   179 Total Weapons (Alloyed, Non-Exclusive)
--   186 Total Weapons (Alloyed, Exclusive)
--   192 Total Weapons (Alloyed, Exclusive, Divine)
+-   156 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   165 Total Weapons (Non-Alloyed, Exclusive)
+-   180 Total Weapons (Alloyed, Non-Exclusive)
+-   187 Total Weapons (Alloyed, Exclusive)
+-   193 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -755,7 +755,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Dormant_Splinter"><font>Dormant Splinter</font></a></td>
-  <td>5 MED, LVL 3</td>
+  <td>5 MED</td>
   <td>5</td>
   <td>10%</td>
   <td>N/A</td>
@@ -1028,6 +1028,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>7.5</td>
   <td>1x</td>
   <td>35.8</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Umbrite_Witherblade"><font>Umbrite Witherblade</font></a> (<b>Bleed</b>)</td>
+  <td>65 MED, 10 WLL, LVL 10</td>
+  <td>13</td>
+  <td>N/A</td>
+  <td>20%</td>
+  <td>MED: 10</td>
+  <td>5</td>
+  <td>7.5</td>
+  <td>1x</td>
+  <td>34.6 (<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Purple_Cloud"><font>Purple Cloud</font></a></td>

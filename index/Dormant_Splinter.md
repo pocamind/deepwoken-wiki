@@ -1,9 +1,9 @@
 ---
 title: Dormant Splinter
-revid: 124290
+revid: 124543
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Legendary Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
 ---
 
 # Dormant Splinter
@@ -11,7 +11,7 @@ categories: [Weapons]
 | Dormant Splinter | |
 |---|---|
 | type | Sword |
-| requirements | 5 MED, LVL 3 |
+| requirements | 5 MED |
 | damage | 5 |
 | scaling | MED: 7 |
 | range | 8 |
@@ -23,12 +23,17 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Understrand, Voidsea Events, Moon's Eyrie |
-| description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
+| obtainment | The Understrand, Voidsea Events, Moon's Eyrie, Ferryman, Dread Serpent, Saramaed Hollow |
+| description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to the other weapons in your collection, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
+
+_This might have not been the page you were looking for, if you were looking for the craftables, view the [Fondant Splitter](Fondant_Splitter.md) or [Umbrite Witherblade](Umbrite_Witherblade.md)._
 
 ## Description
 
 The **Dormant Splinter** is a Relic rarity [Sword](<Sword_(weapon).md>); a black, voided twisted blade.
+
+Meeting the requirement of MED and LVL, the damage is (**5.1**)  
+At max MED and 6 Proficiency, the damage is (**8.8**) (11.4 with bleed)
 
 The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random related event:
 
@@ -41,13 +46,14 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
 
 It can also be found from a variety of events in the [Voidsea](Voidsea.md).
 
+It may be crafted within [The Cold Forge](The_Cold_Forge.md) into either a **[Fondant Splitter](Fondant_Splitter.md)** through itself, [Cake](Food.md), and a starter [Sword](<Sword_(weapon).md>), or into a **[Umbrite Witherblade](Umbrite_Witherblade.md)** with itself, 10 [Umbrite](Ores.md) and a [Razor Cutlass](Razor_Cutlass.md)
+
 ## Critical
 
-The User will try to enhance the power with darkness upon usage but will however result in nothing happening, unless sprinting towards a target.
+The User will try to enhance the power with darkness upon usage but due to it's abysmal hitbox, will only usually hit if you are running.
 
 ## Trivia
 
--   Meeting the requirement of MED and LVL, the damage is (5.1)
--   At max MED and 6 Proficiency, the damage is (8.8) (11.4 with bleed)
 -   Worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage.
--   It originally dropped from [The Ferryman](The_Ferryman.md) and [Saramaed Hollow](Saramaed_Hollow.md) due to a bug, but this was later patched out.
+-   The description originally read "exposed to other materials" rather than "exposed to the other weapons in your collection."
+-   The Splinter emits a sound that resembles breathing and a heartbeat.

@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 124258
+revid: 124482
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -30,8 +30,9 @@ categories: [Weapons, Greataxes]
 
 The Iron Birch is a [Heavy Weapon](Weapons.md) that is obtainable from [Minityrsa](Minityrsa.md), the [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Primadon](Primadon,_Titan_of_the_East.md) Chests, Or bought from a [Merchant Ship](Travelling_Merchant.md). Considered one of the best heavy weapons due to it's unusually high swing speed, lack of endlag, and overall good damage.
 
+Meeting the requirement of HVY, the damage is (**33.1**)  
+At max HVY, the damage is (**38.4**)
+
 ## Trivia
 
--   Meeting the requirement of HVY, the damage is (33.1)
--   At max HVY, the damage is (38.4)
 -   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).
