@@ -1,11 +1,9 @@
 ---
 title: "Freestyler's Band"
-revid: 124017
+revid: 124671
 source: https://deepwoken.fandom.com/wiki/Freestyler's_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Equipment, Rings]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Rings]
 ---
 
 # Freestyler's Band
@@ -13,8 +11,8 @@ notices:
 | Freestyler's Band | |
 |---|---|
 | type | Ring |
-| rarity | Uncommon (Yellow) |
-| selling price | 19 |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | Lvl 3 |
 | weight | 0.1 |
 | innate stats | 1 Uncommon Pip |
@@ -22,11 +20,9 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Pure ore turn-ins, Primadon |
-| description | Konga's Clutch Ring allows the user to slide with little delay.Decreases the speed reduction when entering a slide. |
-
-Freestyler's Band is an [Equipment](Equipment.md) item under the "Rings" category.
+| obtainment | Chests from:, Primadon, First Layer, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, War Mode, Chime of Conflict |
+| description | "Swim like some famous swimmer. Just like Mikhael Felps. |
 
 ## Description
 
-Finisher's Ring grants the user a large increase in swimming speed while out of combat upon being equipped. The user must be at Power 3 to equip this ring.
+**Freestyler's Band** is a Ring [Equipment](Equipment.md) piece that gives the user a massive increase in swimming speed while out of combat.

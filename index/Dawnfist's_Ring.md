@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 124354
+revid: 124653
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

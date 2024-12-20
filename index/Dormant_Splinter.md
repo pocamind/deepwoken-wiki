@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 124543
+revid: 124670
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -35,7 +35,7 @@ The **Dormant Splinter** is a Relic rarity [Sword](<Sword_(weapon).md>); a black
 Meeting the requirement of MED and LVL, the damage is (**5.1**)  
 At max MED and 6 Proficiency, the damage is (**8.8**) (11.4 with bleed)
 
-The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random related event:
+The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random related event. To get it from a Ministry Cache:
 
 1.  Obtain [Shadow Travel](Talents.md) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
@@ -44,9 +44,17 @@ The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Ca
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
 3.  Use [Shadow Travel](Shadowcast.md) or Shadow's Flight on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
 
-It can also be found from a variety of events in the [Voidsea](Voidsea.md).
+It can alternatively be found from a variety of events in the [Voidsea](Voidsea.md), including bosses, as well as the [Saramead Hollow](Saramaed_Hollow.md).
 
-It may be crafted within [The Cold Forge](The_Cold_Forge.md) into either a **[Fondant Splitter](Fondant_Splitter.md)** through itself, [Cake](Food.md), and a starter [Sword](<Sword_(weapon).md>), or into a **[Umbrite Witherblade](Umbrite_Witherblade.md)** with itself, 10 [Umbrite](Ores.md) and a [Razor Cutlass](Razor_Cutlass.md)
+## Crafting
+
+The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more are likely to be added.
+
+Recipes:
+
+**[Fondant Splitter](Fondant_Splitter.md)** = Dormant Splinter + [Cake](Food.md) + [Sword](<Sword_(weapon).md>)
+
+**[Umbrite Witherblade](Umbrite_Witherblade.md)** = Dormant Splinter + 10x [Umbrite](Ores.md) + [Razor Cutlass](Razor_Cutlass.md)
 
 ## Critical
 
@@ -56,4 +64,5 @@ The User will try to enhance the power with darkness upon usage but due to it's 
 
 -   Worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage.
 -   The description originally read "exposed to other materials" rather than "exposed to the other weapons in your collection."
+-   The **[Fondant Splitter](Fondant_Splitter.md)** is unanimously agreed to be the better variant of the Dormant Splinter, and by a significant margin.
 -   The Splinter emits a sound that resembles breathing and a heartbeat.

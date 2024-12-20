@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 124356
+revid: 124654
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,16 +26,6 @@ categories: [Equipment, Rings]
 ## Description
 
 **Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your [Weapon](Weapons.md) damage. The most reliable way to obtain most scaling rings is through [The Ferryman](The_Ferryman.md) and in the [Ancient Rotlands](Ancient_Rotlands.md). However, the Rosen's Ring can also be obtained from common events in [Summer Isle](Summer_Isle.md); such as the The Children Of Navae vs [The Ministry](The_Ministry.md) event.
-
-## Obtainment
-
--   [The Ferryman](The_Ferryman.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Summer Isle](Summer_Isle.md) (**Very Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Pure Ore Turn Ins](Blacksmith.md) (**Very Rare**)
 
 ## Trivia
 

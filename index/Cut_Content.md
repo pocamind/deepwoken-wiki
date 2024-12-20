@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 124634
+revid: 124644
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -118,6 +118,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
 -   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   In the May 15th, 2023 update, Drifting Winds became base behavior for Galebreathe.
+-   **Elemental Rebound \[Rare Talent\] -** Elemental Mantras now grant extra tempo upon landing. (+3 Elemental Intensity)
+    -   In the March 8th, 2024 update, Elemental Rebound was made innate and was changed so that all mantras grant Tempo, not just elemental ones.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)

@@ -1,9 +1,9 @@
 ---
 title: "Isshin's Ring"
-revid: 123535
+revid: 124665
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Armors, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Isshin's Ring
@@ -33,7 +33,3 @@ This is inherently risky to use, especially since it doesn't bypass the game's d
 ## Trivia
 
 -   The name and item description may be a reference to [Isshin Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Isshin_Ashina) from _Sekiro: Shadows Die Twice_, which heavily inspired much of Deepwoken and its combat.
-
-> File:Isshin's Ring.png
-
-File:Isshin'sRingDescription.png

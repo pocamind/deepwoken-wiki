@@ -1,9 +1,9 @@
 ---
 title: Bloodiron Ring
-revid: 123574
+revid: 124657
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Bloodiron Ring
@@ -20,9 +20,9 @@ categories: [Armors, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Chaser, Chime of Conflict, War Mode, Dread Serpent |
+| obtainment | Chests from:Etrea VS Eylis Sea Event, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, Dread Serpent, War Mode |
 | description | "A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor." |
 
 ## Description
 
-Bloodiron Ring is a Ring [Equipment](Equipment.md) piece of equipment in Deepwoken. It is the Talent [Bloodiron Spirit](Talents.md) but put into a ring also stacking it if you have the Talent.
+**Bloodiron Ring** is a Ring [Equipment](Equipment.md) piece that repairs the users armor on kill.

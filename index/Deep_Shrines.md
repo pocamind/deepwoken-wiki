@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 124577
+revid: 124645
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -73,7 +73,7 @@ This shrine has 2 effects depending on your Power:
 
 **Shrine of Mastery:**
 
-“ PUPPET. STATE YOUR PURPOSE. ”
+“ CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH. ”
 
 ― Shrine of Mastery
 
@@ -108,6 +108,10 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
     
 
 **Shrine of Chance:**
+
+“ PUPPET. STATE YOUR PURPOSE. ”
+
+― Shrine of Mastery
 
 Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell).
 

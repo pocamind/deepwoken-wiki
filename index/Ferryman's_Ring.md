@@ -1,9 +1,9 @@
 ---
 title: "Ferryman's Ring"
-revid: 116802
+revid: 124664
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Rings, Equipment]
+categories: [Equipment, Rings]
 ---
 
 # Ferryman's Ring
@@ -22,10 +22,12 @@ categories: [Rings, Equipment]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Ferryman |
-| description | A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%. |
+| description | "A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%." |
 
 ## Description
 
-**Ferryman's Ring** is a Ring [Equipment](Equipment.md) piece that adds 50% more range to your [Murmur:Rhythm Vision](Murmur%253A_Rhythm.md).
+**Ferryman's Ring** is a Ring [Equipment](Equipment.md) piece that increase the range of the users [Murmur:Rhythm](Murmur%253A_Rhythm.md) by 50%.
 
-It's decently easy to get from the [Ferryman](The_Ferryman.md).
+## Trivia
+
+-   The first and only ring to effect [Murmurs](Murmur%253A_Rhythm.md).

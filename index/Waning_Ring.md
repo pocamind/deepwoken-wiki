@@ -1,9 +1,9 @@
 ---
 title: Waning Ring
-revid: 123725
+revid: 124677
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Waning Ring
@@ -26,21 +26,6 @@ categories: [Items, Equipment, Rings]
 ## Description
 
 The **Waning Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's [age](Age.md), making you appear over 70 (Stage 4 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md). The ring also comes with 2 Rare Pips.
-
-## Obtainment
-
--   [Aelita](Aelita.md) **(very rare)**
--   [The Understrand](The_Understrand.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(very rare)**
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
 ## Trivia
 

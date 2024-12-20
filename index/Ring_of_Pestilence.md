@@ -1,11 +1,9 @@
 ---
 title: Ring of Pestilence
-revid: 124061
+revid: 124673
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Equipment, Rings]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Rings]
 ---
 
 # Ring of Pestilence
@@ -13,20 +11,19 @@ notices:
 | Ring of Pestilence | |
 |---|---|
 | type | Ring |
-| rarity | Uncommon (Yellow) |
-| selling price | 19 |
-| requirements | Lvl 3 |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
 | weight | 0.1 |
-| innate stats | 1 Uncommon Pip |
+| innate stats | N/A |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Pure ore turn-ins, Primadon(More to be added at a later date) |
-| description | Konga's Clutch Ring allows the user to slide with little delay.Decreases the speed reduction when entering a slide. |
-
-Ring of Pestilence is an [Equipment](Equipment.md) item in _Deepwoken_.
+| obtainment | Chests from:Etrea VS Eylis Sea Event, Primadon, First Layer, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, War Mode |
+| description | "Your weapon applies 50% anti-heal for 5s." |
 
 ## Description
 
-Ring of Pestilence causes enemies hit by the user to have their healing reduced by 50% upon being equipped.
+**Ring Of Pestilence** is a Ring [Equipment](Equipment.md) piece that applies 50% anti-heal for 5 seconds to your weapon.

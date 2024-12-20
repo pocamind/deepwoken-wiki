@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 123978
+revid: 124640
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -168,12 +168,13 @@ Lightning Strike
 -   Deals moderate damage.
 -   Applies Knockdown.
 -   10 Second Cooldown.
+-   Can be cancelled at any point by clicking.
 -   Can strike a total of 1-7 times, but can be cancelled if the user hit and damaged in any way.
     -   This includes being hit by the user's own Lightning Strike.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
--   Can be modified with **Aeon/Eternal Logstones** to increase the amount of projectiles summoned.
--   Can be modified with **Crystal/Perfect Lenses** to increase range of projectiles' reach.
--   Can be modified with **Drift Shard/Rush Shard** to decrease the amount of endlag (including feints)
+-   Can be modified with **Aeon/Eternal Logstones** to increase the number of strikes.
+-   Can be modified with **Crystal/Perfect Lenses** to increase max distance of strikes.
+-   Can be modified with **Drift Shard/Rush Shard** to decrease the amount of endlag(?) (Someone please elaborate)
 
  |
 |  | 

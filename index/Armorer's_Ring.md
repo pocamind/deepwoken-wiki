@@ -1,9 +1,9 @@
 ---
 title: "Armorer's Ring"
-revid: 120670
+revid: 124656
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Armorer's Ring
@@ -20,13 +20,13 @@ categories: [Armors, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Ferryman, Duke Erisia, Summer Isle, Layer 2 Floor 1, Maestro Evengarde Rest, Aelita, War Mode, Saramaed Hollow |
+| obtainment | Chests from:Ferryman, Aelita (Extremely Rare), Duke Erisia, Summer Isle, Second Layer, Maestro Evengarde Rest, War Mode, Chime of Conflict |
 | description | "Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 10%." |
 
 ## Description
 
-The Armorer's Ring is a Ring [Equipment](Equipment.md) item that grants the user 10% reduction to incoming armor damage.
+**Armorer's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user 10% reduction to incoming armor damage.
 
-## Triva
+## Trivia
 
 -   Looks similar to the the [Bloodiron Ring](Bloodiron_Ring.md) in model.

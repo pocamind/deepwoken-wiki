@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 124350
+revid: 124650
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -31,4 +31,4 @@ categories: [Equipment, Rings, The Divers]
 
 -   Akira's Ring refers to the [diver](Diver.md) named [Akira](Akira.md), who also is the NPC that unbounds the player's willpower.
 -   The Akira's Ring used to have an older model, as seen above. This model is currently being used by [Ferryman's Ring](<Ferryman's_Ring.md>)
--   The other Weapon Scaling Rings are the following: [Rosen's Ring](<Rosen's_Ring.md>), [Prophet's Ring](<Prophet's_Ring.md>), [Maestro's Ring](<Maestro's_Ring.md>), [Dawnfist's Ring](<Dawnfist's_Ring.md>)
+-   The other Weapon Scaling Rings are the following: [Rosen's Ring](<Rosen's_Ring.md>), [Prophet's Ring](<Prophet's_Ring.md>), [Maestro's Ring](<Maestro's_Ring.md>), [Dawnfist's Ring](<Dawnfist's_Ring.md>).
