@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 122878
+revid: 124685
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -90,3 +90,4 @@ _**If you're a freshie reading this page and about to do the Enforcer trial for 
 -   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many players.
 -   Enforcer's Eye and Giant Femur are the only Monster Mantra Drops to have boosted drop rates out of the other mobs that have one.
 -   Enforcer (Blade Variant) is smaller than Enforcer (Axe Variant), Meanwhile Enforcer (Hammer Variant) is bigger than Enforcer (Axe Variant).
+-   If The Enforcer spawns attuned to Shadowcast and due to its black design, its animations can be semi-hidden by the particles.

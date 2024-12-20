@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 123911
+revid: 124686
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics]
@@ -30,18 +30,18 @@ Post-creation, the character is able to learn more attunements throughout their 
 -   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
 -   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
 -   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
--   [Ironsing](Ironsing.md) = 1 _of every [ore](Ores.md)_ (Including a Relic)
+-   [Ironsing](Ironsing.md) = 1 [Pluripotent Alloy](Pluripotent_Alloy.md), 6 _[ores](Ores.md)_, those being: Iron, Gold, Erisore, Irithine, Astruline, Umbrite
 -   [Bloodrend](Bloodrend.md) = [Heartstars](Heartstar.md)
 
-These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.
+These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that once consumed will provide the character with a singular point in that attunement.
 
 -   Alternatively, if you happen to spawn in with an attunement which you do not possess via the Random Attunement function in the character creation menu, it will become available to freely choose upon next-character-basis.
 
-By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the **Neuroplasticity** Talent, both of which will help expand your Mantra arsenal.
+By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the talents **Neuroplasticity** or **Will o' Wisp**, both of which will help expand your Mantra arsenal.
 
 -   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 20 Strength alongside 50 Flamecharm.
 
-Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by meeting an unfortunate end.
+Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by wiping the slot.
 
 Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunement_Trainers.md) at a specific investment level.
 

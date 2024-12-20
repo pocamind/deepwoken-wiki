@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 124397
+revid: 124680
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -53,3 +53,4 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 
 -   His bell is frozen and produces a white mist, although what the bell does is unknown.
 -   He has the same eyes as [Nell, Master of Frost](Nell,_Master_of_Frost.md), with dark sclera and blue irises.
+-   He seems to be in his mid forties indicated by his crow's feet in his face
