@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 123624
+revid: 124600
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -47,5 +47,5 @@ An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtai
 
 ## Trivia
 
--   The Feathered Glider comes in 4 different colors, each matching the race variant of the Tiran using it. (Crow variant pictured.)
+-   The Feathered Glider comes in 4 different colors, each matching the aspect variant of the Tiran using it. (Crow variant pictured.)
 -   The glider used to require a schematic to craft, however this is no longer the case. It is unlocked by default.

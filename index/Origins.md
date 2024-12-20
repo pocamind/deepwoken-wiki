@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 124079
+revid: 124578
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -37,7 +37,7 @@ Note: Asking The Captain to remind you about him in [Fragments of Self](Fragment
 
 **Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
 
-With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon, you end up at Power 7 with 2 points remaining. With the race Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
+With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon, you end up at Power 7 with 2 points remaining. With the aspect Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
 
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
@@ -119,7 +119,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions and The Summer Company.
-        -   If you are one of the 3 Hive races (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
+        -   If you are one of the 3 Hive aspects (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
 -   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive. (Or other factions which may've put your bounty on their boards.)
 
 ## Ignition Delver
@@ -171,7 +171,7 @@ The following is speculation:
 -   Similar to how Voidwalker may have its own origin oath in the future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base.
 -   Very high chances you may start this origin with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
--   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with NPCs, having the Adret race (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
+-   It may not affect the gameplay or the origin, but they may be some changes depending on the aspect with this origin in terms of dialogue with NPCs, having the Adret aspect (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
 
 ### Hive Origin
 
@@ -192,8 +192,7 @@ The following is speculation:
 
 -   Technically confirmed, but release timeframe is unknown.
 -   Stated to be an origin where you will progress by fighting [Authority](The_Central_Authority.md) and [Knives of Eylis](The_Knives_of_Eylis.md) soldiers.
--   You will most likely start with the [Vigil Initiate outfit](Vigil_Initiate.md), rising through getting the [Vigil Swordsman outfit](Vigil_Swordsman.md) and, finally, the [Cloak of Winds](Cloak_of_Winds.md). Possibly alongside a [Vigil Hood](Vigil_Hood.md).
--   This will most likely have a buff or something special when using the [Vigil Longsword](Vigil_Longsword.md) or the [Katana](Katana.md), but this is just speculation.
+-   You will most likely start with the [Vigil Initiate](Vigil_Initiate.md) Outfit, rising through getting the [Vigil Swordsman](Vigil_Swordsman.md) Outfit and, finally, the [Cloak of Winds](Cloak_of_Winds.md). Possibly alongside a [Vigil Hood](Vigil_Hood.md).
 
 ## Trivia
 

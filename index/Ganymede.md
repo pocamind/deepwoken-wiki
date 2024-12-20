@@ -1,9 +1,9 @@
 ---
 title: Ganymede
-revid: 123717
+revid: 124596
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Aspects]
 ---
 
 # Ganymede
@@ -51,9 +51,9 @@ Ganymedes are a snail-based aspect in Deepwoken that appear with dark skin, abno
 
   
 
-Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those Talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embrace the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
+Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those Talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embaspect the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
 
-Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperians](Vesperian.md) fight against [The Depths](The_Depths.md), the **Ganymedes** adapt to it. However, both of them are considered "weird" and outcasted by other races.
+Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperians](Vesperian.md) fight against [The Depths](The_Depths.md), the Ganymedes adapt to it. However, both of them are considered "weird" and outcasted by other aspects.
 
 (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
@@ -109,4 +109,4 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
     -   Speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)
--   Everyone used to believe that ganymede have less insanity gain as passive race buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) destroyed this myth, instead ganymede has 1.2x sanity multiplier
+-   Everyone used to believe that ganymede have less insanity gain as passive aspect buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) destroyed this myth, instead ganymede has 1.2x sanity multiplier

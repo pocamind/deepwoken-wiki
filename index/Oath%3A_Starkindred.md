@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 124204
+revid: 124579
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,7 +61,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   Using **Ascension, Celestial Assault,** **Sinister Halo** or **cancelling your Air Dash** will grow two pairs of wings on the user for 60 seconds. Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
-    -   If undyed, comes in the color of your race's hair color.
+    -   If undyed, comes in the color of your aspect's hair color.
     -   The mantra **[Fire Blade](Flamecharm.md)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a Reversal spark to **[Fire Blade](Flamecharm.md)**.
 
 -   **Ascension** **\- Combat Mantra**
@@ -102,5 +102,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Updated on 25th August 2024 to be affected by Ganymede, Vesperian, and Chrysid.
 -   The color of the Hivekin wings do not change based on its variant, Instead you will have to dye your hair.
 -   Typing "I will never be a memory." or anything containing the phrase toggles your right wing off/on, this is an easter egg referencing [Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth).
-    -   This does not work with the Hivekin races
+    -   This does not work with the Hivekin aspects
 -   The Talent "Death from Above" is a reference to the skill [Sakura Dance](https://sekiro-shadows-die-twice.fandom.com/Sakura_Dance) from _Sekiro: Shadows Die Twice_.

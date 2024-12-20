@@ -1,9 +1,9 @@
 ---
 title: Cestis
-revid: 113545
+revid: 124559
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ministry]
+categories: [Ganymede NPCs, NPCs, The Ministry]
 ---
 
 # Cestis
@@ -11,6 +11,7 @@ categories: [NPCs, The Ministry]
 | Cestis | |
 |---|---|
 | name | Cestis |
+| aspect | Ganymede |
 | location | Meteor Isle |
 
 ## Description

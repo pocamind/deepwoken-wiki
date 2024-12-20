@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 123916
+revid: 124634
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -128,7 +128,7 @@ This page is about content that has either been removed or changed drastically i
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
     -   Every hit would deal 5% of your maximum HP regardless of how much damage it would deal otherwise.
     -   In the February 14th, 2022 update, Exoskeleton was changed to its current form, granting Natural Armor.
--   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
+-   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same aspect causes them to be charmed for a short duration.
     -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
@@ -211,7 +211,7 @@ This page is about content that has either been removed or changed drastically i
 
 The skulls in question
 
--   **Elemental Intensity** as a talent stat - Some talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
+-   **Elemental Intensity** as a Talent stat - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.

@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 122280
+revid: 124614
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -27,7 +27,7 @@ Silentheart markings dyed pink
 -   [Oath](Oaths.md) visuals
 -   [Vesperian](Vesperian.md) mask and face ink
 -   [Outfits](Outfits.md)
--   Race deco EX: Gremor Horns
+-   Aspect deco EX: Gremor Horns
 -   [Bells](Resonance.md)
 
 ## Trivia

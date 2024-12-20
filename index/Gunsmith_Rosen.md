@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 111544
+revid: 124566
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore]
+categories: [Vesperian NPCs, NPCs, Lore]
 ---
 
 # Gunsmith Rosen
@@ -11,6 +11,7 @@ categories: [NPCs, Lore]
 | Gunsmith Rosen | |
 |---|---|
 | name | Rosen |
+| aspect | Vesperian |
 | location | The Eastern Luminant |
 
 “ The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. ”

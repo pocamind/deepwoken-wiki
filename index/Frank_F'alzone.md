@@ -1,9 +1,9 @@
 ---
 title: "Frank F'alzone"
-revid: 113543
+revid: 124568
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Celtor NPCs, NPCs]
 ---
 
 # Frank F'alzone
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Frank F'alzone | |
 |---|---|
 | name | Frank F'alzone |
+| aspect | Celtor |
 | location | The Scoundrel's Bounty |
 
 ## Description

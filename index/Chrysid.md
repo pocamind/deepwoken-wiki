@@ -1,9 +1,9 @@
 ---
 title: Chrysid
-revid: 121775
+revid: 124602
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Races]
+categories: [Pages with broken file links, Character, Aspects]
 ---
 
 # Chrysid
@@ -16,7 +16,7 @@ Chance of rolling: **4.43%**
 
 ## Description
 
-The Chrysid people are a race related to moths, inheriting their compound eyes and feathery antennae. They are a rare race to see and carry close ties with the other races of Greathive despite their conflicting view on technology. They have a stat bonus of 2 Agility and 3 Charisma, as well as the ability to track attacking foes through terrain by automatically shedding "Mothwing Dust" onto them.
+The Chrysid people are a aspect related to moths, inheriting their compound eyes and feathery antennae. They are a rare aspect to see and carry close ties with the other aspects of Greathive despite their conflicting view on technology. They have a stat bonus of 2 Agility and 3 Charisma, as well as the ability to track attacking foes through terrain by automatically shedding "Mothwing Dust" onto them.
 
 ## Racial Trait
 
@@ -47,9 +47,7 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
 
 **Lore:**
 
-  
-
--   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
+-   The Chrysid used to be part of the Greathive aspects, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
 -   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by Hiri, there are "no hard feelings" between the Greathives and Chrysids.
 -   Many Chrysids choose to reside in the Lullaby Isles, an area surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
@@ -60,12 +58,8 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
 
 **Strengths:**
 
-  
-
--   +2 Agility  
-    
--   +3 Charisma  
-    
+-   +2 Agility
+-   +3 Charisma
 -   When attacked, release a mist that highlights your attacker for 10 seconds.
     
 
@@ -97,6 +91,6 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
 -   Mothwing Dust lasts 10 seconds with no cooldown, but only activates when the "Ow!" response appears. This means it will activate constantly when sparring with an Ally Chrysid. No Holds Barred correctly disables this though.
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
 -   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
-    -   Additionally, it'd also continue the trend of the Greathive races having inspiration for their design(s) taken from Hollow Knight.
+    -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
 
 -   With [Oath: Starkindred](Oath%253A_Starkindred.md) on Chrysid, you get special wings which are supposed to be "Moth" Wings. There's an image on the [Oath: Starkindred](Oath%253A_Starkindred.md) page.

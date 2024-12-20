@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 124394
+revid: 124615
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1751,7 +1751,7 @@ Some players have access to customized, unique names.
 -   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).
 -   The name Halflight is a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
--   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
+-   If you don't have a valid aspect, you don't have a last name. If you have a valid aspect but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
 -   The surnames of Ganymede and Vesperian are the same, only with different suffixes (-e and -i).
     -   This hints at the two species being of the same genetic origin, and is confirmed by the Ganymede model under the vesperian mask (viewable through clipping).

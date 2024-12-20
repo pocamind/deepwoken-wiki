@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 110568
+revid: 124558
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,13 +11,14 @@ categories: [NPCs]
 | Barber | |
 |---|---|
 | name | Barber |
+| aspect | Adret (Etris, Isle of Vigils, Summer Isle), Vesperian (Greathive Aratel), Randomized (Guild base) |
 | location | Near Nerin in Etris, Inside the castle on Summer Isle, At the archives room in the Greathive Aratel, At the mantra shop in Isle of Vigils, In a corner of the Guild base, Inside Castle Light |
 
 “ Hey friend, need a new style? ”
 
 ― Barber
 
-The Barber allows customization to your character, (some) notes needed! (only if you are changing the name of your character)
+The **Barber** allows customization to your character, (some) notes needed! (only if you are changing the name of your character)
 
 To use some of his features, a hair ID from the catalog is needed.
 

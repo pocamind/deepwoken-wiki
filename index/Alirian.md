@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 111471
+revid: 124557
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths, Oath Trainer]
@@ -11,6 +11,7 @@ categories: [NPCs, Oaths, Oath Trainer]
 | Alirian | |
 |---|---|
 | name | Alirian |
+| aspect | Celtor |
 | location | Minityrsa |
 
 “ My despicable rival... it's a DISPLEASURE to see you again! In a friendly way though. Teehee. ”

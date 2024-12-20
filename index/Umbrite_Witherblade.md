@@ -1,9 +1,9 @@
 ---
 title: Umbrite Witherblade
-revid: 124546
+revid: 124618
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
+categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
 ---
 
 # Umbrite Witherblade
@@ -11,9 +11,9 @@ categories: [Weapons, Pages with broken file links, Swords, Unique Critical, Wea
 | Umbrite Witherblade | |
 |---|---|
 | type | Sword |
-| requirements | 65 MED, LVL 10, 10 WLL |
+| requirements | 65 MED, 10 WLL, LVL 10 |
 | damage | 13 + 3.9 [BLD] |
-| scaling | 10 |
+| scaling | 10 MED |
 | range | 7.5 |
 | swing speed | 1x |
 | penetration | N/A |
@@ -25,7 +25,7 @@ categories: [Weapons, Pages with broken file links, Swords, Unique Critical, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Dormant Splinter, Razor Cutlass, 10 Umbrite in the Cold Forge |
+| obtainment | Dormant Splinter, Razor Cutlass, 10 Umbrite in The Cold Forge |
 | description | Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone. |
 
 _This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftable, view the [Fondant Splitter](Fondant_Splitter.md)._
@@ -51,11 +51,4 @@ The user gains a purple sigil on their head and aura around them with brief hype
 ## Trivia
 
 -   First documented finding was on the 19th of December 2024, 13 days after the Dormant Splinter was added.
-
-## Images
-
-File:Screenshot 2024-12-19 142527.png
-
-File:Screenshot 2024-12-19 142509.png
-
-A man holding the Umbrite Witherblade
+-   Previously had a base damage of 14 with 14 scaling and 1.07 swing speed

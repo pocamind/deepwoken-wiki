@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 124325
+revid: 124589
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -209,5 +209,5 @@ File:VigilsPillarZipline.png
 -   The Waterfall at Miner's Landing is the BEST source for Seaweed Bundles. Trust the process.
 -   Fishing used to contain every single item inside of it's lootpool as long as it was in **any chest pool**, this lead to infamous incidents such as the **Verse 1 Enchant Shard incident**. After this happened, a quick patch was rolled out to allow blacklists to items and chest pools, such as the blacklisting of Enchant Stone chests.
     -   Ever since this patch was rolled out, fishing activity declined.
--   During the Warring States Era fishing would give points to the race you had.
+-   During the Warring States Era fishing would give points to the aspect you had.
 -   Fishing up a golden swordfish allows you to use it as a weapon.

@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 110669
+revid: 124565
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -11,6 +11,7 @@ categories: [NPCs, Oaths]
 | Celadon | |
 |---|---|
 | name | Saffron |
+| aspect | Adret |
 | location | Summer Isle |
 
 “ Walk free, Oathless disciple. ”
@@ -64,5 +65,5 @@ Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, g
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Celadon City_](https://bulbapedia.bulbagarden.net/wiki/Celadon_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Viridian](Viridian.md).
 -   Celadon usually means the shade of the color green.
--   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and **Celadon**, saying "Those eyes.. you wish to" and continue.
+-   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and Celadon, saying "Those eyes.. you wish to" and continue.
     -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"

@@ -1,9 +1,9 @@
 ---
 title: Primal Vesperian
-revid: 109449
+revid: 124620
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
+categories: [Pages with broken file links, Aspects, Exclusive aspects, Exclusive, Developer Spec]
 ---
 
 # Primal Vesperian
@@ -18,7 +18,7 @@ Template:Races-Main
 
 An alternate version (subrace) of Vesperian with dark chitin and white markings, currently **unobtainable** by normal means.
 
-_This is not an entirely different race in and of itself, more so a racial variant with special properties._
+_This is not an entirely different aspect in and of itself, more so a racial variant with special properties._
 
 ## Racial Traits
 
@@ -33,7 +33,7 @@ _This is not an entirely different race in and of itself, more so a racial varia
     <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
     <li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li>
   </ul></li>
-    <li>Identical to the base Race</li>
+    <li>Identical to the base aspect</li>
   </ul></td>
 </tr>
 <tr>
@@ -95,6 +95,6 @@ A layer of protective armor that regenerates at rest.
 
 ## Trivia
 
--   Both Stag & Haske are the remaining members of an Ancient clan of [Vesperians](Vesperian.md) who deviated and took their own form roughly around the initial split of the hivekin races. The reason why Haske and Stag remain, as opposed to their kin who had died out millenniums ago, is that they both have 'immortal' properties, with Haske actually being an Immortal and Stag being bewitched to elude death by an Unknown entity.
+-   Both Stag & Haske are the remaining members of an Ancient clan of [Vesperians](Vesperian.md) who deviated and took their own form roughly around the initial split of the hivekin aspects. The reason why Haske and Stag remain, as opposed to their kin who had died out millenniums ago, is that they both have 'immortal' properties, with Haske actually being an Immortal and Stag being bewitched to elude death by an Unknown entity.
 -   Haske wears an [Equipment](Equipment.md) piece exclusive to him, called the [Eternal Restraints](Eternal_Restraints.md).
 -   Stag wears an [Equipment](Equipment.md) piece exclusive to him, called the [Stag Wraps](Stag_Wraps.md).

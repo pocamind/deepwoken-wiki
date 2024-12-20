@@ -1,9 +1,9 @@
 ---
 title: Canor
-revid: 123804
+revid: 124598
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Canor
@@ -11,11 +11,11 @@ categories: [Pages with broken file links, Races]
 Template:Races-Main _With canine features, the Canor are fiercely loyal.  
 Often found as guards and personal servants in the retinue of powerful people._
 
-Chance of obtaining race: **15.2%**
+Chance of obtaining aspect: **15.2%**
 
 ## Description
 
-Canor are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
+Canor are an uncommon aspect considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
 
 ## Racial Traits
 
@@ -44,11 +44,9 @@ Canor are an uncommon race considered to have the characteristics of a canine bu
 **Lore:**
 
   
-Canor share a strong bond with the Adret race, staying true to the relationship dogs have with humans. Their race description as guards and soldiers of the powerful most notably refers to their common occupations within the Authority but this isn't very noticeable as of now.
+Canor share a strong bond with the Adret aspect, staying true to the relationship dogs have with humans. Their aspect description as guards and soldiers of the powerful most notably refers to their common occupations within the Authority but this isn't very noticeable as of now.
 
 **Strengths:**
-
-  
 
 -   +3 Strength.
 -   +2 Charisma.
@@ -92,6 +90,6 @@ Canor share a strong bond with the Adret race, staying true to the relationship 
 -   The Default Canor hair id is 20372960. [See on Roblox](https://www.roblox.com/catalog/20372960/Bed-Hair)
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
--   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
+-   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's aspect name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.
-    -   This made them related to the once hated race known as the [Felinor](Felinor.md) due to the fact that Lions and Cats are part of the Felidae family.
+    -   This made them related to the once hated aspect known as the [Felinor](Felinor.md) due to the fact that Lions and Cats are part of the Felidae family.

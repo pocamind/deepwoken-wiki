@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 124336
+revid: 124554
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses]
@@ -60,7 +60,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Lightning Clones will not disappear unless their attack either lands, gets blocked, parried, or dodged.
 -   He only uses Lightning Clones in Phase 1.
 -   He may be attacked while summoning the clones, but there is no ending attack opportunity.
--   Killing the clone while having the Grand Feast talent will replenish health, ether and tempo.
+-   Killing the clone while having the Grand Feast Talent will replenish health, ether and tempo.
 
 Parryable:◯  
 Blockable:◯  
@@ -137,7 +137,7 @@ Dodgeable:✗
 
 ### Talents
 
--   Inverse Chain - For each hit the player lands on the Ferryman, he takes more damage, similar to the talent Chain of Perfection.
+-   Inverse Chain - For each hit the player lands on the Ferryman, he takes more damage, similar to the Talent Chain of Perfection.
 -   First Interrogation - Attacks from players who are Electrified will give the Ferryman ether proportional to their initial damage.
 -   Second Interrogation - Electrified attacks do 50% less damage and posture damage to the Ferryman.
 -   Authority Intimidation - All moves that apply electricity slow you more.
@@ -210,12 +210,12 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Deep Gems](Deep_Gems.md)** - Rare gems that can be applied to mantras to improve them.
 -   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests.
 -   **[Stormseye](Stormseye.md)** - An incredibly rare Thundercall-based Rifle, requiring 75LTN and 40MED.
--   [**Crypt Blade**](Crypt_Blade.md) - The Crypt Blade is a end-game Shadow Heavy legendary greatsword, requiring 75SHD and 40HVY.
+-   **[Crypt Blade](Crypt_Blade.md)** - The Crypt Blade is a end-game Shadow Heavy legendary greatsword, requiring 75SHD and 40HVY.
 -   **[Crescendo](Crescendo.md)** - A medium twinblade sword that scales with and requires medium.
 -   **[Legendary Rings](Equipment.md#rings)** - An assortment of rings with higher pip-quality than standard rings, with many providing Weapon Scaling for attributes.
 -   **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Relic-Tier torso equipment that disables the effects of deep-gems for three minutes.
 -   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage by 10%.
--   [**Ferryman's Coat**](<Ferryman's_Coat.md>) - A Schematic to create the coat worn by the Ferryman himself, grants high Lightning Resistance and a unique talent that converts elemental damage into Lightning damage.
+-   **[Ferryman's Coat](<Ferryman's_Coat.md>)** - A Schematic to create the coat worn by the Ferryman himself, grants high Lightning Resistance and a unique Talent that converts elemental damage into Lightning damage.
 -   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
 -   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon their first usage, and +50 on subsequent uses.
 -   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.

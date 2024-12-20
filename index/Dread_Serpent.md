@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 123613
+revid: 124581
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -63,7 +63,7 @@ Upon defeating The Dread Serpent, he will drop a large chest containing many dif
 
 ### 
 
-**Exhaustive Loot Table**
+Exhaustive Loot Table
 
 **Keep in mind that this list is still incomplete.**
 

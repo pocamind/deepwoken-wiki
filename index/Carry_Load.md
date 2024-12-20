@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 120664
+revid: 124562
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ _**FOREWORD**: **An up-to-date spreadsheet with every source of carry load and t
 
 ### [Talents](Talents.md)
 
-[Quest talents](Talent_Quests.md) can be found in the Other Sources section.
+[Quest Talents](Talent_Quests.md) can be found in the Other Sources section.
 
 In order of carry load given:
 
@@ -53,11 +53,11 @@ In order of carry load given:
 -   Gathering Electricity gives 10 carry load.
 -   Concussive Flash gives 10 carry load.
 
-All of these talents combined would theoretically provide 182 carry load.
+All of these Talents combined would theoretically provide 182 carry load.
 
 ### Other Sources
 
-This includes every source of carry load that isn't a regular talent.
+This includes every source of carry load that isn't a regular Talent.
 
 In order of carry load given:
 
@@ -83,7 +83,7 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both talents and other sources, the total amounts to **557**. However, your character can actually carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **655**.
+Combining both Talents and other sources, the total amounts to **557**. However, your character can actually carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **655**.
 
 Due to the build limitations, the best carry load build can only get **546** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 

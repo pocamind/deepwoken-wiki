@@ -1,9 +1,9 @@
 ---
 title: Gremor
-revid: 121112
+revid: 124608
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Gremor
@@ -14,11 +14,11 @@ Template:Races-Main
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining race: **13.3%**
+Chance of obtaining aspect: **13.3%**
 
 ## Description
 
-Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they possess an internal compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.
+Gremors are a aspect similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they possess an internal compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.
 
 ## Racial Traits
 
@@ -53,8 +53,6 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
 The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by saving one of their people.
 
 **Strengths:**
-
-  
 
 -   Has a built-in compass.
 -   Less prone to starvation.
@@ -98,8 +96,8 @@ The deer folk of the land are among the few that still consider themselves free 
 
 -   In [The Depths](The_Depths.md), your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
 -   The compass points East. This has been tested using the Map feature, sailing straight forward while the compass points "up."
--   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor race name was changed to Hornskipper.
+-   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor aspect name was changed to Hornskipper.
 -   When wearing a helmet/hat, it won't hide the horns.
--   One of the only 2 Races that have Fortitude Stat Bonus, the other being [Vesperian.](Vesperian.md)
+-   One of the only 2 aspects that have Fortitude Stat Bonus, the other being [Vesperian](Vesperian.md).
     -   2 as in available to the public.
 -   Combining the Reduced Hunger loss with Carnivore, you almost will never be below Half Hunger. (Unless you are trying to)

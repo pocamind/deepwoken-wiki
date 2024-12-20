@@ -1,9 +1,9 @@
 ---
 title: Heliodar
-revid: 117587
+revid: 124628
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Exclusive Races, Exclusive, Developer Spec]
+categories: [Pages with broken file links, Aspects, Exclusive aspects, Exclusive, Developer Spec]
 ---
 
 # Heliodar
@@ -12,11 +12,11 @@ Template:Races-Main
 
 Rise from the ashes and be born again.
 
-Chance of obtaining race: **0%**
+Chance of obtaining aspect: **0%**
 
 ## Description
 
-"The Phoenix Race" - An entirely new race which resembles the Tiran. Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The race also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
+"The Phoenix aspect" - An entirely new aspect which resembles the Tiran. Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The aspect also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
 
 Eclipse (Racial Variant likely) - "For what if the Ash were to never return to flames?"
 
@@ -30,7 +30,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
   <ul>
     <li><i>"Wings of Heliodar"</i>
   <ul>
-    <li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This race is also not immune to fall damage and can still die from it.<b></b></li>
+    <li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This aspect is also not immune to fall damage and can still die from it.<b></b></li>
   </ul></li>
   </ul></td>
 </tr>
@@ -56,8 +56,6 @@ Unknown
 
 **Strengths:**
 
-  
-
 -   +3 Strength
 -   +3 Fortitude
 -   +2 Agility
@@ -74,7 +72,7 @@ Unknown
 
   
 
--   Heliodars don't actually spawn in with surnames, which sets them apart from every other race in Deepwoken.
+-   Heliodars don't actually spawn in with surnames, which sets them apart from every other aspect in Deepwoken.
     
 
 ## Users
@@ -88,4 +86,4 @@ Unknown
 
 ## Trivia
 
--   Race created by Dexerius. They are based on his [Phoenix spec](Developer_Specs.md) which allows him to summon a glowing rideable phoenix.
+-   Aspect created by Dexerius. They are based on his [Phoenix spec](Developer_Specs.md) which allows him to summon a glowing rideable phoenix.

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 123429
+revid: 124591
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -143,7 +143,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Surge](Surge.md) | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
 | [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |
-| [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, race and weapon equipped |
+| [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, aspect and weapon equipped |
 | [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |

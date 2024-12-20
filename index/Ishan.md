@@ -1,9 +1,9 @@
 ---
 title: Ishan
-revid: 95279
+revid: 124567
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore]
+categories: [Etrean NPCs, NPCs, Lore]
 ---
 
 # Ishan
@@ -11,6 +11,7 @@ categories: [NPCs, Lore]
 | Ishan | |
 |---|---|
 | name | Ishan |
+| aspect | Etrean |
 | location | Summer Isle |
 
 ## Description

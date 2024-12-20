@@ -1,9 +1,9 @@
 ---
 title: Khan
-revid: 123321
+revid: 124603
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Khan
@@ -54,7 +54,7 @@ They hail from the Western Luminant and are the most prominent aspect in [The Hu
 
 -   +3 Strength
 -   +2 Agility
--   Allows the use of equipment 3 points earlier than other races, allowing Khans to make exclusive builds.
+-   Allows the use of equipment 3 points earlier than other aspects, allowing Khans to make exclusive builds.
 -   Increased starting rep with [The Hundred Legions](The_Hundred_Legions.md).
     
 
@@ -90,7 +90,7 @@ They hail from the Western Luminant and are the most prominent aspect in [The Hu
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Genghis Khan.
 -   The Racial Talent "Versatile" only works on stat points, not levels.
--   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
+-   During the 4/1/2022 April Fools update (Mudwoken), Khan's aspect name was changed to Monkskipper.
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme.
 -   Hair dye affects the sideburns.
     -   Unlike [Canor](Canor.md), Khan sideburns cannot be removed.

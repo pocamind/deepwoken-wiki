@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 109923
+revid: 124570
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs]
@@ -13,6 +13,7 @@ notices:
 | Infamous Baz | |
 |---|---|
 | name | Infamous Baz |
+| aspect | Felinor |
 | location | The King's Garden |
 
 “ Meow. ”

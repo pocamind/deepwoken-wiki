@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 124327
+revid: 124604
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -33,11 +33,11 @@ The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a
 
 ## Criticals
 
-For the **Basic** Critical, create a bright flash and then strike your opponent with your pickaxe, ragdolling and launching them away.
+The Quartztone Pickaxe has two critical attacks. Using both criticals require Ether.
 
-  
+For the **standing** critical, the user creates a bright flash with the end of the pick and then strikes an opponent with a pickaxe, ragdolling and launching them away.
 
-For the **Aerial** Critical, you launch yourself forward and do a radial slash upon connecting with your opponent or the ground.
+For the **aerial** critical, the user makes a quick downslash that sends them forward, then making two slashes in quick succession once they hit the ground.
 
 File:Air crit.gif
 
@@ -46,3 +46,4 @@ File:Air crit.gif
 -   The weapon was supposed to be released along with [Conquest](Conquest.md), with Order of the Unsung members only having a preview. However, Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge [Conquest](Conquest.md) delays.
 -   This weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as pickaxes as of December 7th 2024. They do the job more efficiently than Pickaxes.
 -   This weapon has the fastest swing speed of any other [heavy weapon](Weapons.md) in the game.
+-   In later updates, the Quartztone Pickaxe's texture has been removed to reflect better enchantment colors.

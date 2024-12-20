@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 124064
+revid: 124632
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones, The Ignition Union]

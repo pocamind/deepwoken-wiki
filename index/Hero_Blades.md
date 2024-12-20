@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 114894
+revid: 124587
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -42,7 +42,7 @@ A common misconception is their damage type. Hero Blades deal **Physical Slash D
 -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
     -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
 -   Before Verse 2 (12/24/2022), the critical of the Hero blades were basic sword critical stabs.
--   Every critical of the hero blade has a different hero with different race.
+-   Every critical of the hero blade has a different hero with different aspect.
     -   The Hero of Flame is a [Khan](Khan.md).
         -   Identified by its crown.
     -   The Hero of Frost is a [Capra](Capra.md).

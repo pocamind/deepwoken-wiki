@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 109672
+revid: 124637
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Etrea]
@@ -20,7 +20,7 @@ An Etrean Soldier is an enemy NPC that can only be found in the following events
 -   Etrean Soldiers vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean ambush (Anywhere)
 
-An Etrean Soldier wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They can also appear younger or older than 40 years old.
+An Etrean Soldier wears a purple uniform with their aspect being [Etrean](Etrean.md). They can also appear younger or older than 40 years old.
 
 ## Moveset
 

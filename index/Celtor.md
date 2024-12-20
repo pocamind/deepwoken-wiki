@@ -1,9 +1,9 @@
 ---
 title: Celtor
-revid: 123319
+revid: 124609
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Celtor
@@ -14,7 +14,7 @@ _Silver-tongued traders whose
 pride often gets the better of them.  
 Renowned as ship-builders and seafarers alike._
 
-Chance of obtaining race: **17.8%**
+Chance of obtaining aspect: **17.8%**
 
 ## Description
 
@@ -60,8 +60,6 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 
 **Strengths:**
 
-  
-
 -   +2 Intelligence.
 -   +3 Charisma.
 -   Increased health for owned ships.
@@ -71,8 +69,6 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
     
 
 **Surnames:**
-
-  
 
 -   Atrinof
 -   Baranof

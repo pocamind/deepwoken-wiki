@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 124305
+revid: 124577
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -88,11 +88,11 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
 
 -   Bear in mind that you still cannot add more than 6 Points into a given Trait.
 -   **You also cannot remove more than 3 attribute points per character (only a max of 3 points can be moved on a character).**
--   You **cannot** remove innate attribute points granted by your race.
+-   You **cannot** remove innate attribute points granted by your aspect.
 -   Despite popular belief, you can still change your attributes with this after Shrine of Order, though with a caveat.
-    -   For example: If you Shrine of Order, and your [Agility](Attributes.md#agility) goes from 1 -> 27, you can use shrine of mastery to lower it to 24, as long as you don't have a talent that costs 25 agility.
+    -   For example: If you Shrine of Order, and your [Agility](Attributes.md#agility) goes from 1 -> 27, you can use shrine of mastery to lower it to 24, as long as you don't have a Talent that costs 25 agility.
     -   This is useful for cleaning up Shrine of Order "defects." As you can just lower it to 25 agility, and have 2 points spent elsewhere.
--   You cannot re-arrange stats if you have a talent that requires a higher investment of said stat.
+-   You cannot re-arrange stats if you have a Talent that requires a higher investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
 
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
@@ -101,8 +101,8 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
     -   Additionally, if you no longer meet the requirements for a mantra's level upgrade after using Shrine of Mastery, you will keep it at that level with no drawback.
 
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
-    -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept talents.
-    -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath talents themselves have no stat requirement attached to them.
+    -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept Talents.
+    -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
 -   This shrine does not count for the "Bargained with Deep Shrines" echo.
     
@@ -163,11 +163,11 @@ Located in [Ancient Rotlands](Ancient_Rotlands.md), after taking a right from th
 
 ## Effect
 
-For 10 Knowledge, transfer a Common or Advanced talent into a random Rare talent and vice versa.
+For 10 Knowledge, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 
 ## Details
 
--   The main purpose of Shrine of Ostentation is allowing you to obtain more Rares, Commons, or Advanced talents if you didn't get everything you needed while progressing.
+-   The main purpose of Shrine of Ostentation is allowing you to obtain more Rares, Commons, or Advanced Talents if you didn't get everything you needed while progressing.
     
 
 **Shrine of Conceit:**
@@ -237,7 +237,7 @@ For 5 Knowledge and 2 Talents of your choice, get a Whisper Draw.
 
 -   If you are out of Mantra Draws but need more mantras and don't want to get rid of mantras you already have, you can use this shrine.
 -   You can trade common and rare cards to get a mantra.
-    -   Not recommended to trade rare talents as you can only get them from leveling up.
+    -   Not recommended to trade rare Talents as you can only get them from leveling up.
         
 
 **Shrine of Solitude:**
@@ -281,7 +281,7 @@ In all other cases, this shrine does nothing. Does NOT progress towards the [Con
     -   Has no visible "eyes".
     -   Talks in lowercase, unlike all other shrines.
         -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
--   Before Shrine of Ostentation, the only way to obtain more Rare talents on a fully progressed build was to obtain either [Ardour](Murmur.md#ardour) or [Rhythm](Murmur.md#rhythm) and their child talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new talent hand that was guaranteed to have a rare talent in it.
+-   Before Shrine of Ostentation, the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur.md#ardour) or [Rhythm](Murmur.md#rhythm) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.

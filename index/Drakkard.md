@@ -1,9 +1,9 @@
 ---
 title: Drakkard
-revid: 123716
+revid: 124623
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Exclusive Races, Races, Exclusive, Developer Spec]
+categories: [Pages with broken file links, Exclusive aspects, Aspects, Exclusive, Developer Spec]
 ---
 
 # Drakkard
@@ -12,11 +12,11 @@ Template:Races-Main
 
 _Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict. Awarded to Moderators for their help._
 
-Chance of obtaining race: **0%**
+Chance of obtaining aspect: **0%**
 
 ## Description
 
-A race of nomadic dragons from the North.
+A aspect of nomadic dragons from the North.
 
 ## Racial Traits
 
@@ -53,11 +53,9 @@ A race of nomadic dragons from the North.
 **Lore:**
 
   
-According to their description, they are "auspicious mediators of conflict", meaning that they tend to successfully end conflicts between parties. They are also noted as hailing from the Northern Luminant, and apparently worship the Edenkite that reside there. Apart from that, there is little information about this race.
+According to their description, they are "auspicious mediators of conflict", meaning that they tend to successfully end conflicts between parties. They are also noted as hailing from the Northern Luminant, and apparently worship the Edenkite that reside there. Apart from that, there is little information about this aspect.
 
 **Strengths:**
-
-  
 
 -   +2 Fortitude
 -   +2 Agility
@@ -67,14 +65,10 @@ According to their description, they are "auspicious mediators of conflict", mea
 
 **Weaknesses:**
 
-  
-
--   Lose Race upon leaving the mod team
+-   Lose aspect upon leaving the mod team
     
 
 **Surnames:**
-
-  
 
 -   Drakehardt
     
@@ -84,10 +78,10 @@ According to their description, they are "auspicious mediators of conflict", mea
 -   Awarded to “moderators and VERY active testers” (stated by Punchee)
 -   The reason for Drakkard's passive EXP gain is supposedly, according to Mods, due to them constantly being afk doing restores.
 -   Because the [Edenkite](Edenkite.md) are usually prophets, it makes sense that they would have taught the Drakkard the secrets of passively gaining EXP.
--   Moderators can obtain the race through the Mod Shop for 750 moderation points
--   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) race, except with more colourful horns.
+-   Moderators can obtain the aspect through the Mod Shop for 750 moderation points
+-   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) aspect, except with more colourful horns.
 -   The origin of the name "[Drakkard](https://en.wikipedia.org/wiki/Longship)" comes from the Nordic Drakkar, its a type of Ship that has the head of a [Níðhöggr](https://en.wikipedia.org/wiki/N%c3%ad%c3%b0h%c3%b6ggr) (Viking dragon) on its prow.
-    -   It may be also the reason why the race is a dragon and/or they decided to give this name to the race.
+    -   It may be also the reason why the aspect is a dragon and/or they decided to give this name to the aspect.
     -   In the deepwoken lore, Drakkards come from the northern luminant, so makes sense that they have a nordic/viking name/origin and wouldn't be wrong to assume that in the lore they had a similar culture.
         
         The Drakkard prompt.

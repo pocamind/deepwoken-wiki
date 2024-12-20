@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 124398
+revid: 124549
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -28,7 +28,7 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain talents may also be obtained when doing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
+Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain Talents may also be obtained when doing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
 
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
 
@@ -202,7 +202,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Prerequisite: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
     -   The negative components of potions have a stronger effect when thrown. (More info on the [potions](Alchemy.md) page.)
-        -   This Talent was merged with the old Exterminator Talent. (Although the [Strapped Hat](Strapped_Hat.md) still has this talent)
+        -   This Talent was merged with the old Exterminator Talent. (Although the [Strapped Hat](Strapped_Hat.md) still has this Talent)
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Will proc on any player with a potion effect, does not replace the current effect.
@@ -262,7 +262,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   7 seconds cooldown if you clear the flames by using the tool again, no cooldown if Flame Within naturally ends.
     -   Flame Within grants a mobility buff, NOT a speed boost.
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
-    -   The old Last Laugh talent has been merged into Flame Within.
+    -   The old Last Laugh Talent has been merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
 
 ### Angler
@@ -362,8 +362,8 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified targets have their physical attack deal lightning damage instead and deal 10% less damage.
-    -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the talent)
-    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you need 5 more stacks to activate this talent.
+    -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the Talent)
+    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you need 5 more stacks to activate this Talent.
     -   Electrified, when procced, lasts for 4 seconds.
     -   Prerequisite: 65 Thundercall
 
@@ -431,7 +431,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
         -   **ONLY** affects your basic attacks, not mantras or anything else.
     -   Prerequisite: 80 Strength
 
-### **Bloodhound**
+### Bloodhound
 
 > _**"The scent of my enemy is still fresh."**_
 
@@ -440,7 +440,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool, briefly see their blood and blood poison.
     -   Prerequisite: 65 Bloodrend
 
-### **Bloodrender**
+### Bloodrender
 
 > _**"I obtained the forbidden knowledge of Bloodrending."**_
 
@@ -480,7 +480,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Sheltering Grasp \[Common Talent\] - Blood mantras cast within blood pools have a reduced blood cost.
     -   Prerequisite: 30 Bloodrend
 
-### **Bloodsong**
+### Bloodsong
 
 > _**"The elements crave the blood of others."**_
 
@@ -511,7 +511,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
     -   Procs by pressing Y (Works even if you only have one Fist Style)
     -   8 Second cooldown between style change.
-    -   This talent does not work with [Jus Karita](Jus_Karita.md).
+    -   This Talent does not work with [Jus Karita](Jus_Karita.md).
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
@@ -694,7 +694,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Cosmic Wind."**_
 
 -   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.
-    -   If the user has the Apparitions talent, this can proc apparitions by inflicting suffocation.
+    -   If the user has the Apparitions Talent, this can proc apparitions by inflicting suffocation.
     -   Prerequisites: 40 Shadowcast, 60 Galebreathe
 
 ### Critical Specialist
@@ -982,7 +982,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
     -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: Rising Flame, Flame Leap, Flame Leap (Reversal Spark), Rising Frost, Rising Wind, and Lightning Impact. There may be more that do, but simply aren't documented yet.
-        -   Rising Thunder can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the Tempest Wind talent's variant of the mantra.
+        -   Rising Thunder can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the Tempest Wind Talent's variant of the mantra.
     -   Some mantras, despite leaving both players in the air, can't activate Meteor Impact, such as Flashfire Sweep, Celestial Assault, or Skyshatter Kick (Round Spark)
     -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
         -   Rising Flame, Rising Frost, Rising Thunder, Rising Wind, or Rising Shadow
@@ -1006,7 +1006,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost.
     -   If you lack the ether to cast a mantra, the speed boost will trigger regardless.
-    -   Description may be a bit misleading: This talent makes so the dash that you do with the talent "Dancing steps" its faster. It does NOT give any "speed boost".
+    -   Description may be a bit misleading: This Talent makes so the dash that you do with the Talent "Dancing steps" its faster. It does NOT give any "speed boost".
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
@@ -1236,7 +1236,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
-    -   This talent simply removes armor damage from bullets, it has no effect on PEN of bullets.
+    -   This Talent simply removes armor damage from bullets, it has no effect on PEN of bullets.
 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
@@ -1259,7 +1259,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
             -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
         -   This Talent CAN be obtained with 20 medium and a pistol equipped.
-        -   **If the user has no attunement, this talent has NO EFFECT. It is recommended to put one point into an attunement if using this talent on an attunement-less build.**
+        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
 
 ### Hammer Rage
 
@@ -1315,7 +1315,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
-    -   **Cap Artist** is disabled with this talent.
+    -   **Cap Artist** is disabled with this Talent.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
@@ -1383,7 +1383,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding fire damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. Clutching Shadow or Metal Eruption). And all attacks that have the slash (blood particle) vfx on hit like Ice Daggers or Gale Lunge will also proc Immolation, applying burn.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. Clutching Shadow or Metal Eruption). And all attacks that have the slash (blood particle) vfx on hit like Ice Daggers or Gale Lunge will also proc Immolation, applying burn.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
@@ -1412,7 +1412,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I rely on my instincts."**_
 
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
-    -   While not empty, receive 5% less damage from every source, but this bonus is halved to 2.5% if you have the Exoskeleton talent. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
+    -   While not empty, receive 5% less damage from every source, but this bonus is halved to 2.5% if you have the Exoskeleton Talent. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
     -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).
@@ -1421,7 +1421,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the Aspect variant.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
-    -   Allies take less damage from you and deal less damage to you. This can stack with the Give and Take talent.
+    -   Allies take less damage from you and deal less damage to you. This can stack with the Give and Take Talent.
 
 -   Mark of Jurik \[Jurik and Hollowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
     -   Gain a tool that buffs the sanity of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
@@ -1780,7 +1780,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
+    -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this Talent.
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer
@@ -1894,7 +1894,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
     -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
     -   The Cooldown is 1 minute and 10 seconds.
-    -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your talent hands**,** you **MUST** have **FISTS** equiped to **get it**.
+    -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands**,** you **MUST** have **FISTS** equiped to **get it**.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)
@@ -1919,7 +1919,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Nimble Blade."**_
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Despite claiming it extends the speed boost you get off parrying, it really just give you a speed boost after parrying. Normally parrying without this talent does not give you a speed boost.
+    -   Despite claiming it extends the speed boost you get off parrying, it really just give you a speed boost after parrying. Normally parrying without this Talent does not give you a speed boost.
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
@@ -2012,9 +2012,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Spawns in an NPC to attack whoever hits you. The 3 known NPCs are [Bandits](Bandit.md), [Bandit Leaders](Bandit_Leader.md), or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
     -   Prerequisite: 75 Charisma
     -   Cooldown of 60 seconds
-    -   Note that an ally appearing with the talent only works with players and is scaled by the level of the attacking enemy.
+    -   Note that an ally appearing with the Talent only works with players and is scaled by the level of the attacking enemy.
         -   An ally is able to appear anywhere on the map and in any locations (aka Luminants, Depths and Dungeons).
-        -   The ally will perform just like a normal NPC, requiring to be gripped after being knocked. (Unless you have insta-grip talents like Mercy Kill).
+        -   The ally will perform just like a normal NPC, requiring to be gripped after being knocked. (Unless you have insta-grip Talents like Mercy Kill).
 
 ### Pyroclast
 
@@ -2196,11 +2196,11 @@ _**"My cure is most effective."**_
     -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   5 Second Cooldown.
-    -   This talent also works with [Jus Karita](Jus_Karita.md).
+    -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Trained Fist, 25 Agility
 
 -   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
-    -   This talent does not work with [Jus Karita](Jus_Karita.md).
+    -   This Talent does not work with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
 
 ### Scrapsinger
@@ -2330,7 +2330,7 @@ _**"My cure is most effective."**_
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
     -   25% damage reduction to attacks from the back.
     -   Turtle Shell is pretty inconsistent, as some attacks will bypass it entirely and deal their full damage. Ex: [Sightless Beam](Oath%253A_Blindseer.md#abilities) and [Radiant Dawn](Oath%253A_Dawnwalker.md#abilities).
-    -   Each time this talent takes effect, white square particles will release from around the user.
+    -   Each time this Talent takes effect, white square particles will release from around the user.
         -   This shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
@@ -2375,7 +2375,7 @@ _**"My cure is most effective."**_
     -   The buff is random for each person affected.
     -   Prerequisite: 40 Charisma
 
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
+-   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
@@ -2384,7 +2384,7 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of Showboater."**_
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
-    -   The cooldown indicator says that this talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
+    -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Soul Converter
@@ -2577,7 +2577,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"My blade burns through my foes."**_
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
-    -   Does not proc the talent "Dazing Finisher".
+    -   Does not proc the Talent "Dazing Finisher".
     -   Only consumes flames produced via Agitating Spark, meaning it will not consume your Flame Within.
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
@@ -2745,7 +2745,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Revenge, 100 Agility
 
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
-    -   In the 30/05/2024 update, the duration of Maiming Claws was increased to 4s, but the talent description was never updated.
+    -   In the 30/05/2024 update, the duration of Maiming Claws was increased to 4s, but the Talent description was never updated.
     -   Prerequisites: 100 Agility, Down comes the Claw
 
 ### Twinblade
@@ -2846,7 +2846,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus, is not accounted for in the damage cap, and bypasses armor.
-    -   Using this talent with [bleed weapons](<https://deepwoken.fandom.com/wiki/Weapons#:~:text=Bleed%3A%2030,and%20PVE%20scaling).>) is pointless
+    -   Using this Talent with [bleed weapons](<https://deepwoken.fandom.com/wiki/Weapons#:~:text=Bleed%3A%2030,and%20PVE%20scaling).>) is pointless
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 
@@ -2943,7 +2943,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
 
--   _**Switchblade**_ \[Advanced Talent\] - You can now utilize Dagger talents when not wielding a dagger.
+-   _**Switchblade**_ \[Advanced Talent\] - You can now utilize Dagger Talents when not wielding a dagger.
     -   Prerequisites: 50 Light Weapon, 50 Medium Weapon/50 Heavy Weapon
 
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
@@ -3168,7 +3168,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common Talent.
 -   Bloodletter: [Bloodfeather Cowl](Bloodfeather_Cowl.md) - Hitting opponents on the ground lowers their blood.
-    -   Hitting knocked opponents lowers their blood bar. This talent was made **innate**, so it does nothing on this equipment.
+    -   Hitting knocked opponents lowers their blood bar. This Talent was made **innate**, so it does nothing on this equipment.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
@@ -3208,9 +3208,9 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining
-    -   Combining this talent with excavator gives you a chance to get 4 ores at a time
+    -   Combining this Talent with excavator gives you a chance to get 4 ores at a time
 -   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
-    -   You can also obtain this talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
+    -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
 
 ## Blacklisted Talents
 

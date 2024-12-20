@@ -1,9 +1,9 @@
 ---
 title: Tiran
-revid: 123709
+revid: 124599
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Character]
+categories: [Pages with broken file links, Aspects, Character]
 ---
 
 # Tiran
@@ -13,11 +13,11 @@ Template:Races-Main
 _Solitary folk seldom seen below the clouds.  
 Sharp and independent, though strongly protective of those who earn their respect._
 
-Chance of obtaining race: **2.1%**
+Chance of obtaining aspect: **2.1%**
 
 ## Description
 
-Tiran is a rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
+Tiran is a rare aspect that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
 
 ## Racial Traits
 
@@ -54,8 +54,6 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 **Strengths:**
 
-  
-
 -   +2 Agility.
 -   +2 Willpower.
 -   Reduced fall damage.
@@ -68,8 +66,6 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
             
 
 **Surnames:**
-
-  
 
 -   Askli
 -   Atamli
@@ -103,15 +99,15 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with hair.
     -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
 
--   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the race at all.
+-   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the aspect at all.
 
 -   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw Man", having a very similar eye pattern.
 -   The Jay variant shares many similarities (hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or [Felinor](Felinor.md) and having slightly darker eyes.
     -   This may be unintentional.
--   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
+-   The color of the glider will depend on the aspect variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
     -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
 
-Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the Tiran not possessing a beak, they could unintentionally be inspired from the Rito
+Tiran could be inspired from “Rito” aspect from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the Tiran not possessing a beak, they could unintentionally be inspired from the Rito
 
 -   Tiran could be a Jojo's reference
 

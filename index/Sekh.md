@@ -1,9 +1,9 @@
 ---
 title: Sekh
-revid: 106723
+revid: 124560
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Hive]
+categories: [Vesperian NPCs, NPCs, The Hive]
 ---
 
 # Sekh
@@ -11,6 +11,7 @@ categories: [NPCs, The Hive]
 | Sekh | |
 |---|---|
 | name | Sekh |
+| aspect | Vesperian |
 | location | Meteor Isle |
 
 “ Besides... the praying one over there makes my idle hours more eventful. ”
@@ -37,7 +38,7 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 </tr>
 <tr>
   <th colspan="2">You mean the settlement? This is <a href="Meteor_Isle.md">Meteor Isle</a>, friend. Though, I guess it's technically not an isle in the conventional sense... But it's definitely a haven of relative safety in <a href="The_Aratel_Sea.md">Aratel</a>, from what I've seen so far.</th>
-  <th colspan="3">*<i>The Vesperian gives you a quick nod.</i>* Yep. You might've seen other hivekin in uniforms similar to mine all over the place. Greathive Aratel feeds-- err, <i>relies</i> on the surrounding areas for its continued growth and survival, so it makes sense to send scouts to get a lay of the land here. We're also the first line of defence against would-be interlopers, like those nosy Etrean Navy sailors.</th>
+  <th colspan="3">*<i>The Vesperian gives you a quick nod.</i>* Yep. You might've seen other hivekin in uniforms similar to mine all over the place. Greathive Aratel feeds—err, <i>relies</i> on the surrounding areas for its continued growth and survival, so it makes sense to send scouts to get a lay of the land here. We're also the first line of defence against would-be interlopers, like those nosy Etrean Navy sailors.</th>
 </tr>
 <tr>
   <td>1. And what about the 'meteor' part?</td>
@@ -48,7 +49,7 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 </tr>
 <tr>
   <th>*<i>He makes a sweeping gesture.</i>* Look around us, friend - we're surrounded by starfall. The shimmer in the air is hard to miss. It's that, and the continuously falling meteros. They call the desert nearby 'the Starswept Valley' for the same reason. Folks say it's like this because there's a crumbling city above, in the skies. I wouldn't know, though - I'm a scout, not a scolar.</th>
-  <th>I know, right? It's baffling! How does a dinky little splinter-kingdom manage to extend their reach to <i>here</i>? They wouldn't be all that bad if they didn't always get in our way, either. It seems they're not very fond of what the Hive is doing to-- err, in Aratel.</th>
+  <th>I know, right? It's baffling! How does a dinky little splinter-kingdom manage to extend their reach to <i>here</i>? They wouldn't be all that bad if they didn't always get in our way, either. It seems they're not very fond of what the Hive is doing to—err, in Aratel.</th>
   <th>I'm on a special assignment. I'm a... liaison, so to say. I also keep an eye on the comings and goings of the place. *<i>You can't tell for sure, but you think he winks.</i>*</th>
 </tr>
 <tr>

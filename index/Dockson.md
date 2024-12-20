@@ -1,9 +1,9 @@
 ---
 title: Dockson
-revid: 70012
+revid: 124569
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors]
+categories: [Etrean NPCs, NPCs, Vendors]
 ---
 
 # Dockson
@@ -11,6 +11,7 @@ categories: [NPCs, Vendors]
 | Dockson | |
 |---|---|
 | name | Dockson |
+| aspect | Etrean |
 | location | Summer Isle |
 
 ## Description

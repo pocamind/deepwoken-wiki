@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 124282
+revid: 124582
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -165,7 +165,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
 -   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
--   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) Currently, it is believed that he is a [Tiran](Tiran.md) from the [West Luminant](Luminants.md).
+-   His aspect is unclear, do to undergoing constant revisions during development. The three known aspects he could be are: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) Currently, it is believed that he is a [Tiran](Tiran.md) from the [West Luminant](Luminants.md).
 -   Is or was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
 -   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
@@ -191,7 +191,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   He killed two more expeditions after this, and may have killed even more, such as [Ignition Union](The_Ignition_Union.md) members.
     -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
--   Though he is an [Adret](Adret.md), he has a never before seen facial markings for the race.
+-   Though he is an [Adret](Adret.md), he has a never before seen facial markings for the aspect.
 -   User of Bloodrend, granted to him by the Second Prophet.[\[1\]](#cite-note-rag-1)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
 -   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
@@ -209,7 +209,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Most probably a user of [Flamecharm](Flamecharm.md) who was able to mix [Flamecharm](Flamecharm.md) with this weapon.[\[5\]](#cite-note-firstlight-5)
 -   Original user of the [First Light](First_Light.md).[\[5\]](#cite-note-firstlight-5)
 -   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed that it lead to his death.[\[5\]](#cite-note-firstlight-5)
--   Probably not very strong despite being a disciple of [Amorus Pleeksty,](Amorus_Pleeksty.md) due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[5\]](#cite-note-firstlight-5)
+-   Probably not very strong despite being a disciple of [Amorus Pleeksty](Amorus_Pleeksty.md), due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[5\]](#cite-note-firstlight-5)
     -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.[\[5\]](#cite-note-firstlight-5)
 
 ### Dr. Carrion, Father of Evolution
@@ -250,7 +250,7 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
--   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) The creator of light hooks.
+-   Black Diver of the Canor aspect.[\[2\]](#cite-note-arch-2) The creator of light hooks.
 -   Former student of Viqh, Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people along Nimea to have known Viqh.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
@@ -330,14 +330,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
 -   Previous king of Constellia.
 -   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New](Second_Layer/New_Kyrsa.md) [Kyrsa](Second_Layer/New_Kyrsa.md).
--   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
+-   When the player asks Kaide about his aspect, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
 -   Apparently he despises the [Celestials](Celestial.md), stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
 -   Kaide has great knowledge of the Song as he knows how the Song manifests through humans and throughout New Kyrsa.
 
 ### Mother Ku
 
 -   A religious figure worshipped by some [Capra](Capra.md).
--   Perhaps granted the ability to the Capra who worshipped her to aid people in their wounds. (Capra race ability for Ku variant)
+-   Perhaps granted the ability to the Capra who worshipped her to aid people in their wounds. (Capra aspect ability for Ku variant)
 -   The Derelict Highchurch was a church where Ku was worshipped, but eventually both the Songseekers and Starkindred took over the church kicking out Ezra, the pastor in charge of the church, and forcing him to flee to a small tower nearby.
 -   It is unknown if they are related to Jurik and Nemit, the other beings that are worshipped by the Capra.
 
@@ -748,7 +748,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Knives of Eylis, The Central Authority_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
--   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
+-   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other aspects also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
@@ -774,7 +774,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in [The Viper's Jaw](<The_Viper's_Jaw.md>).
 -   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some form of treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
--   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the race as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
+-   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the aspect as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
 -   The 11th Scouting Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
 -   The 11th Legion is suspected to be commanded by someone named Akilles, whom is responsible for dispatching the 11th Legion in the East.
 
@@ -900,9 +900,9 @@ A Dark Mage, located in Minityrsa.
 -   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit which is also referred to as Fortification Peak.
 -   The only faction aware of The Lord Regent of Etrea's true nature and what the Ministry is planning.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
--   Consists mostly of Adrets, but can vary with other races too.
+-   Consists mostly of Adrets, but can vary with other aspects too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[2\]](#cite-note-arch-2)
-    -   The soldiers that use Flamecharm are comprised of other races.
+    -   The soldiers that use Flamecharm are comprised of other aspects.
         -   These just happen to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army, often sent on suicide missions for seemingly no reason.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
@@ -1008,7 +1008,7 @@ An Authority Captain
 -   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
--   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of Races, presumably because they see more merit in combat proficiency and intelligence and thus are less cautious of the sudden arrival of other Races in their kingdom.
+-   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of aspects, presumably because they see more merit in combat proficiency and intelligence and thus are less cautious of the sudden arrival of other aspects in their kingdom.
 -   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry Talents (Galebreathe exclusive) make mention of the vigils.
 -   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
@@ -1066,7 +1066,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe_
 -   **Lore Sources:** _Songseeker Wilds_
 
--   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
+-   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any aspect.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
 -   They worship the Song and believe that when they die they will return to it like a form of reincarnation.
 
@@ -1165,17 +1165,17 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   They know how to speak our language, however they have their own "tongue".
 -   Their city of New Kyrsa is perhaps the most technologically advanced location seen in game, even possessing a train station.
 
-## Race Lore
+## Aspect Lore
 
-For people who wish to see the races, head [here.](Aspects.md)
+For people who wish to see the aspects, head [here](Aspects.md).
 
 ### Etrean
 
 "_Defined by their snake-like features and cunning. Isolationists who tend to their own interests."_
 
--   This race shares traits with snakes.
--   A Race most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their initial wariness of other Races, often to a slanderous degree.
--   The people of [Etris](Etris.md) has been in scrambles ever since their king had left them and the current reigning lord causing evident dismay to his people, rather than helping them.
+-   This aspect shares traits with snakes.
+-   An aspect most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their initial wariness of other aspects, often to a slanderous degree.
+-   The people of [Etris](Etris.md) have been in scrambles ever since their king left them.
 -   Inspired by East Asian cultures:
     -   White snakes play a part in Chinese mythology.
     -   Their architecture consists of gates, temples and lanterns often seen from Chinese and Japanese countries.
@@ -1186,8 +1186,8 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 "_Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike."_
 
--   This race shares traits with mostly comprised of similarities to racoons and possibly ferrets, but more generally shares the traits of many mustelids (animals like ferrets and otters) and prokaryotes (mainly raccoons).
--   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the Tides, and dragged to the bottom of the ocean and into [The Depths](The_Depths.md) where it stands today.
+-   This aspect shares traits with mostly comprised of similarities to racoons and possibly ferrets, but more generally shares the traits of many mustelids (animals like ferrets and otters) and prokaryotes (mainly raccoons).
+-   A prideful and greedy aspect that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the Tides, and dragged to the bottom of the ocean and into [The Depths](The_Depths.md) where it stands today.
 -   The common last names of the Celtor people bear similarities to Russian last names.
 -   Celtor is pronounced like "keltor," rather than "seltor."[\[2\]](#cite-note-arch-2)
 
@@ -1195,18 +1195,18 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 _"Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin."_
 
--   A recently arrived race of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
+-   A recently arrived aspect of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
 -   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
 -   According to an [NPC](Ishan.md) in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "Old World". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
--   The Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
+-   The Adret aspect come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   They are **NOT** fish.[\[2\]](#cite-note-arch-2)
--   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog race.
+-   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog aspect.
 
 ### Canor
 
 "_With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people."_
 
--   A race that shares traits with canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
+-   An aspect that shares traits with canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
 -   Once heavily employed as soldiers of the Authority, this isn't reflected as much by the forces in the East but may still hold true in the rest of the world.
 -   Seem to be German-like in terms of name and history:
     -   They popularized the Zweihander, a real life German weapon.
@@ -1218,7 +1218,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 
 _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came. Tolerant of extremes that many others would avoid."_
 
--   A race of deer folks that consider themselves free from authority and subjugation and seek simple lives away from the conflicts.
+-   An aspect of deer folks that consider themselves free from authority and subjugation and seek simple lives away from the conflicts.
 -   The Gremors are renowned for following Navae; that guides all Gremors forwards, acting as a compass.
     -   Navae in reality is not a star, a direction or a Celestial Body; but a source that guides all Gremors by pointing towards herself.[\[2\]](#cite-note-arch-2)
 
@@ -1226,7 +1226,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over."_
 
--   A prideful race that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
+-   A prideful aspect that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
 -   They are a big part of the Hundred Legions.
 -   Generally found in the Western Luminant.
 
@@ -1234,14 +1234,14 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
--   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
+-   An aspect that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
 -   They had a kingdom in Markor that became assimilated into The Central Luminant, though they are still prevalent in the Central Luminant.[\[2\]](#cite-note-arch-2)
 
 ### Vesperian
 
 "_Never seen without their masks, poorly understood, but begrudgingly appreciated due to their natural Talents."_
 
--   A race that shares traits with bugs, never seen without the masks they wear, although most may not understand why.
+-   An aspect that shares traits with bugs, never seen without the masks they wear, although most may not understand why.
 -   Related to the Ganymedes as they all share the same ancestor.
 -   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that identified as a Vesperian.
 -   Their natural armor comes from the fact that most beetles have exoskeletons to protect them, which Vesperians are based on.
@@ -1253,7 +1253,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 
--   A race that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
+-   An aspect that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
 -   Depending on a Capras racial variant, they have "marks" from 1 of 3 seemingly religious figures. These marks could be the "old knowledge" Hinted at in the Capra flavor text
     -   **Mother, Ku:** This figure seems to be nurturing, given they have the title of Mother, the healing effect this mark gives in game
     -   **First Beast, Nemit:** The title of "First Beast" and the nourishing effect this mark gives in game suggest that Nemit is related to Nature and Survival.
@@ -1264,9 +1264,9 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Peculiar folk who are often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads man forward."_
 
--   A race that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
+-   An aspect that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
--   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
+-   An aspect that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
 -   Ganymede evolved to all posses baldness, but a millennium ago, the first Greatlord modified their species to give them their innate white hair.[\[13\]](#cite-note-yaya-13)
 -   Ganymede have a closer connection to Lifeweave and therefore learn it more easily.[\[13\]](#cite-note-yaya-13)
 
@@ -1276,7 +1276,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book."_
 
--   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, many Chrysids broke off due to their belief in the Moonlit Faith over the Hives technology-focused ideology.
+-   The Chrysid used to be part of the Greathive aspects, alongside Vesperians and Ganymedes. However, many Chrysids broke off due to their belief in the Moonlit Faith over the Hives technology-focused ideology.
 -   Despite splitting off from the Greathives, Chrysids are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids who chose to join the Moonlit Faith.
 -   Many Chrysids choose to reside in the Lullaby Isles, an area in The Central Luminant surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way
@@ -1545,7 +1545,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   People who have swore an Oath to become great barbers, with their scissors and barber products to not let a "Fringe Accident" happen again.
 -   All Barbers across Lumen posses this Oath.
--   Despite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people.
+-   Despite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the aspect Variant, gender, and even ornaments of people.
     -   This is technically knowledge that is exclusively learned at the Markor Citadel.
 -   Fadetrimming had likely originated from the Markor Citadel due to an extensive need of surgeons.
     -   In contrast to the real world, [Barbers of the medieval times are, in fact, technically surgeons](<https://en.wikipedia.org/wiki/Barber%27s_pole#:~:text=Origin%20in%20barbering%20and%20surgery,-Antique%20red%20and&text=During%20medieval%20times%2C%20barbers%20performed,basin%20that%20received%20the%20blood).>) due to the fact that both are high precision jobs that demand accuracy.
@@ -1642,12 +1642,12 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 **Lore Sources:** _Ishan, Weapon Descriptions._
 
--   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien. Contrary to popular belief, this means that the Adret aren't fish, either.
--   Ishan, an Etrean man located within the Stronghold of [Summer Isle](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before The Tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
+-   The Adret have no ties with any sort of Animal, unlike the rest of the aspects (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many aspects main point of contention with them, viewing them as alien. Contrary to popular belief, this means that the Adret aren't fish, either.
+-   Ishan, an Etrean man located within the Stronghold of [Summer Isle](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other aspects before The Tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
--   Their names are tied to rocks, suggesting that while other races worshipped animals, the Adret are tied to the land.
--   A theory stated as "close", says that the Adrets created a hereditary vow with Celestials, instead of animals like the rest of the Races did, explaining their unique appearance.[\[1\]](#cite-note-rag-1)
+-   Their names are tied to rocks, suggesting that while other aspects worshipped animals, the Adret are tied to the land.
+-   A theory stated as "close", says that the Adrets created a hereditary vow with Celestials, instead of animals like the rest of the aspects did, explaining their unique appearance.[\[1\]](#cite-note-rag-1)
 
 ### Currency
 
@@ -1716,9 +1716,9 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _Arch\_Mage (Discord)_
 
--   The two races, the Ganymede and Vesperian, have a long ancient past of working together as a whole- even after the Tides came.
+-   The two aspects, the Ganymede and Vesperian, have a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present, they still work together as The Hive.
--   [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) are simply a cult following of Vesperians, and are not related to the evolution of the two races.
+-   [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) are simply a cult following of Vesperians, and are not related to the evolution of the two aspects.
 
 ### Kingdom of Etrea's Past Rulers
 
@@ -1984,7 +1984,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 ## Player Lore
 
-Though technically a blank slate of varying races and abilities, even the player character has lore to them.
+Though technically a blank slate of varying aspects and abilities, even the player character has lore to them.
 
 -   During the Spring of Year 1271, The Player makes their first appearance in the world of Deepwoken.
 
@@ -2080,8 +2080,8 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 ### Animals
 
 -   The Deepwoken World is home to many non-monster animals, though there is little evidence of their existence in many cases.[\[2\]](#cite-note-arch-2)
-    -   Many animals share traits with the races seen in the game.
-        -   Steward Heidegard theorized in the 'Gremor Hypothesis' that the reason for this was due to the progenitors of each race creating Vows with other races.
+    -   Many animals share traits with the aspects seen in the game.
+        -   Steward Heidegard theorized in the 'Gremor Hypothesis' that the reason for this was due to the progenitors of each aspect creating Vows with other aspects.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
         -   _The Lament of Cirryn_ features birds heavily.
     -   Deer are apparently hunted by the Children of Navae for unknown reasons, with it likely not being for food given they bury the bodies.

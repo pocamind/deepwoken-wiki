@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 122631
+revid: 124621
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -8,21 +8,21 @@ categories: [Pages with broken file links, Character, Attributes, Mechanics]
 
 # Character Creation
 
-In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunements.md), [Races](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
+In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunements.md), [Aspects](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
 
 Character Creation screen
 
-## Races
+## Aspects
 
-The world of Deepwoken presents many [Races](Aspects.md), with each one of them having its own [lore](Lore.md) and origin. As a player, you start on each character slots with a random Race assigned to you by the game automatically. If you want to change your Race, you may re-roll it by buying an in-game service for 150 Robux (R$).
+The world of Deepwoken presents many [aspects](Aspects.md), with each one of them having its own [lore](Lore.md) and origin. As a player, you start on each character slots with a random aspect assigned to you by the game automatically. If you want to change your aspect, you may re-roll it by buying an in-game service for 150 Robux (R$).
 
-Unlike in other games, Races do not give a player major advantage over other players. However, some Races do have special abilities related to the lore of the specific Race. For instance, [Boats](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) race gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
+Unlike in other games, aspects do not give a player major advantage over other players. However, some aspects do have special abilities related to the lore of the specific aspect. For instance, [Boats](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) aspect gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
 
-Currently the game contains a total of **twelve** obtainable Races, with their own special abilities, cosmetics, appearance and accessories that can change depending on the Race. Scars, eyes and face design is mostly the same for each Race, with some exceptions.
+Currently the game contains a total of **twelve** obtainable aspects, with their own special abilities, cosmetics, appearance and accessories that can change depending on the aspect. Scars, eyes and face design is mostly the same for each aspect, with some exceptions.
 
-### Obtainable Races
+### Obtainable Aspects
 
-_\[More information about [races](Aspects.md) can be found on their corresponding [page](Aspects.md).\]_
+_\[More information about [aspects](Aspects.md) can be found on their corresponding [page](Aspects.md).\]_
 
 ## Attunements
 
