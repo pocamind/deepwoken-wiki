@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 124604
+revid: 124691
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Unique Critical]
@@ -47,3 +47,4 @@ File:Air crit.gif
 -   This weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as pickaxes as of December 7th 2024. They do the job more efficiently than Pickaxes.
 -   This weapon has the fastest swing speed of any other [heavy weapon](Weapons.md) in the game.
 -   In later updates, the Quartztone Pickaxe's texture has been removed to reflect better enchantment colors.
+-   The standing critical for this weapon is shared with [Unsung Scythern](Unsung_Scythern.md)'s criticals.

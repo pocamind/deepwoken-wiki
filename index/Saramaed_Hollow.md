@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 123790
+revid: 124687
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -142,6 +142,7 @@ Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs
 -   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
 -   Try and crouch down; this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
 -   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or go back up to the surface practically empty-handed.
+-   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above, leading to over a thousand notes a minute.
 
 ## Trivia
 

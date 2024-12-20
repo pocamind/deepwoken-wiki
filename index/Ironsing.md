@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 124303
+revid: 124690
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -209,9 +209,7 @@ Ether
  | Summon a blade of metal to swing alongside you. | 40 Ether | Metal + Slash | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
 
 -   Does 21 FIXED dmg at 5 lvl, 0.35s wind up, lasts 20s, 30s cd.
--   Each hit is parryable but still applies Metal Rods.
--   The greatsword conjured deals fixed damage.
--   Doesn't proc deep gems.
+-   Works only with blue gem
 -   Upgrading the level increases the duration of the mantra.
 
  |

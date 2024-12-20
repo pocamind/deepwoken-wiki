@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 124549
+revid: 124689
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1772,7 +1772,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Iron Hug mantra, 30 Ironsing
 
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
-    -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
+    -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it. (Always takes 30% armor, doesn't scale with ether to cast, aka 1 or 9999 ether mantra will always take only 30% armor)
     -   Prerequisite: 50 Ironsing
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.

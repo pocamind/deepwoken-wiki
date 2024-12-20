@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 124685
+revid: 124688
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -66,6 +66,7 @@ Do not be deceived by these stats, though. The dangerous part of the Enforcer is
     -   Holding F to parry will allow you to block the Enforcer's following attack if it feints, but blocking is not as sustainable as dodging, and getting posture broken could be deadly.
     -   Try to roll cancel when dodging Enforcers; not putting distance between you and it will prevent it from getting an easy opportunity to Whirlwind, as it mostly uses its other attacks at medium to long range.
 -   Whirlwind is by far its most heavy-hitting attack, but the Enforcer can be outran and damaged with ranged attacks while it's spinning. Experienced players may be able to spam parry it (similarly to a [Rock Golem](Rock_Golem.md)'s spin) but this is inherently risky.
+    -   Although more difficult and quite a bit more risky, you can actually m1 while spam parrying to deal more damage to it, and maybe even block break it
 -   Use heavy attacks if possible. There's a chance that The Enforcer will parry or block them, but if it lands, it will deal high damage and will usually posture break it, allowing you to hit it freely for a moment. Be wary on your timing though, as you won't want to be stuck charging a critical while it's Whirlwinding you.
     -   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
     -   Feinting can force it to react defensively.
