@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 124029
+revid: 124779
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -133,6 +133,5 @@ Dodge: ◯
 
 -   Burning the agent to death will cause nothing to drop, instead after four sorry seconds you will be sent back.
 -   Strangely enough, burning the agent with twisted puppets causes him to get up, supposedly with half his health back, like how Phoenix Flames works.
--   The Agent wears an unobtainable neckpiece similar to the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   The Agent also uses the word ''slug'' as an insult, as seen in his execution and normal dialogue. Whether or not calling someone a slug has a deeper meaning is unknown.
 -   The Agent is also a [Celtor](Celtor.md), this is shown by the markings on his face when he gets executed and fades away.
