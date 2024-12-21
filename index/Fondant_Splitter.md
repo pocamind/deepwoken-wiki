@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 124768
+revid: 124777
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Craftable]

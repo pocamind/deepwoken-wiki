@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 124690
+revid: 124770
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -298,8 +298,10 @@ Ether
 -   Covers around 100 studs of distance.
 -   Applies Metal Rods on hit.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
+    -   Needs further testing.
 
  |
+|  |  |  |  |  |  |
 
 ### Support Mantras
 
