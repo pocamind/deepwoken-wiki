@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 124399
+revid: 124757
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -408,11 +408,11 @@ _Leap up leaving behind a burst of flames._
 -   Deals moderate-low damage.
 -   Deals low posture damage.
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
--   Is able to proc _Meteor Impact,_ even without hitting an opponent.
+-   Is able to proc Meteor Impact, even without hitting an opponent.
 -   Shares similar traits to the Strong Leap mantra.
 -   The Mantra will not summon flames nor do damage if used in bodies of water.
 -   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap.
-    -   This variant can also proc _Meteor Impact_ on hit.
+    -   This variant does not bring enemies up, and cannot proc Meteor Impact.
 
  |
 |  | Flame Assault

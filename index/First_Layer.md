@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 124639
+revid: 124764
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -27,7 +27,10 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the one of th
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
     -   Ignition Union Deepdriller
 -   [Marauder's Entrance](<Marauder's_Entrance.md>)
+
 -   [Celtor Wastes](Celtor_Wastes.md)
+    -   [The Cold Forge](The_Cold_Forge.md)
+
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
 
 ## Escaping First Layer

@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 122305
+revid: 124767
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fishing]
@@ -8,17 +8,20 @@ categories: [Items, Fishing]
 
 # Chum
 
-{
+| Chum | |
+|---|---|
+| value | 10 |
+| weight | 0.25 |
+| type | * Buyable, Crafting with Fishmeat. |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
 
 “ "Is that a jojo's reference" ”
 
 ― A Wise Ganymede
 
-{{ItemTemplate} |title=Chum |image=chum.png |value=10 |weight=0.25 |type=\* Buyable
-
--   Crafting with Fishmeat.
-
-}} You can use **Chum** as bait when [Fishing](Fishing.md). Fish meat can also be used as well, however this can be a better option.
+You can use **Chum** as bait when [Fishing](Fishing.md). Fish meat can also be used as well, however this can be a better option.
 
 You can also use 3 chum to craft all three types of Monster Bait.
 

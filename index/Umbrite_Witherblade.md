@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 124698
+revid: 124762
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -61,10 +61,10 @@ The user gains a purple sigil on their head and aura around them with brief hype
     -   MED Scaling reduced (14 -> 10)
     -   Swing speed reduced (1.07x -> 1x)
     -   Wither Proc reduced (70% of unscaled damage -> 50% of unscaled damage)
-    -   Weight Reduced (6.5 -> 5)
+    -   Weight Reduced (6[.](https://www.twitch.tv/eldirian24)5 -> 5)
     -   Level Requirement Reduced (12 -> 10)
     -   Antiheal duration on critical reduced (15s -> 10s)
-    -   Critical Windup increased (0.5s -> 0.6s)
+    -   Critical Windup increased (0[.](https://www.twitch.tv/eldirian24)5s -> 0.6s)
     -   Critical hyperarmor frames now happen before the first slash instead of on use
     -   Critical hyperarmor frames reduced (0.25s -> 0.2s)
 -   December 13th 2024.
