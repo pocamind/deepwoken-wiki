@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 124618
+revid: 124698
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -34,6 +34,8 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within the [Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
+It deals 50% of its unscaled damage (damage before modifiers such as armor and damage boosts) as Wither, dealing from **9.65** Wither (65MED) to **14.1** Wither (100MED 6PROF 3DMG).
+
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 -   [Dormant Splinter](Dormant_Splinter.md)
@@ -46,9 +48,24 @@ At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **28.2 + 8.45\[BL
 
 ## Critical
 
-The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply 100% Wither and 10s of Antiheal. The first hit is blockable while the second Instantly Posture Breaks. The second slash **autogrips** any knocked player. The cooldown for this critical is **6** seconds.
+The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply 100% Wither and 10s of Antiheal. The first hit is blockable while the second causes a lot of posture damage. The second slash **autogrips** any knocked player. The cooldown for this critical is **6** seconds.
 
 ## Trivia
 
 -   First documented finding was on the 19th of December 2024, 13 days after the Dormant Splinter was added.
--   Previously had a base damage of 14 with 14 scaling and 1.07 swing speed
+
+## Version History
+
+-   December 19th 2024.
+    -   Base damage reduced (14 -> 13)
+    -   MED Scaling reduced (14 -> 10)
+    -   Swing speed reduced (1.07x -> 1x)
+    -   Wither Proc reduced (70% of unscaled damage -> 50% of unscaled damage)
+    -   Weight Reduced (6.5 -> 5)
+    -   Level Requirement Reduced (12 -> 10)
+    -   Antiheal duration on critical reduced (15s -> 10s)
+    -   Critical Windup increased (0.5s -> 0.6s)
+    -   Critical hyperarmor frames now happen before the first slash instead of on use
+    -   Critical hyperarmor frames reduced (0.25s -> 0.2s)
+-   December 13th 2024.
+    -   Added to the game

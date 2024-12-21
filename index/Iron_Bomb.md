@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 123628
+revid: 124722
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -55,6 +55,7 @@ Iron bombs are able to be influenced by universal damage boosters such as but no
 -   This allows bombs to proc twisted puppets.
 
 -   There are Talents that make bombs deal increased damage when their opponent is on fire.
+    -   Incendiary Formula has this ability.
 
 -   Bombs are also able to easily destroy terrain, allowing your prey to not escape easily.
 

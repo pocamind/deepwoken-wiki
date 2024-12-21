@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 124617
+revid: 124708
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Craftable]
@@ -27,7 +27,7 @@ categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Cr
 | obtainment | The Cold Forge (Crafting) |
 | description | "Is this safe to eat? We'll see..." |
 
-_This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftable, view the [Umbrite Witherblade](Umbrite_Witherblade.md)._
+_his might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftable, view the [Umbrite Witherblade](Umbrite_Witherblade.md)._
 
 ## Description
 

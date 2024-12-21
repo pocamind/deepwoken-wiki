@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 121323
+revid: 124707
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -56,3 +56,4 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 -   The best way to counter beam variant payback resonance is by using the mirror variant payback. This usually will reflect the multiplied damage on top of multiplying it, the strategy can be used against jar of souls resonance if possible
 -   Prediction mantra but better with a higher duration.
 -   Payback beam variant can be used for damage redirection which differs it from other 2 variations due to the other variants being limited to reflect damage to those who attack the user whilst the beam variant can redirect damage to multiple targets if given the amount of enemies to can hit
+-   (NEEDS TO BE TESTED) Can set up to parry [Scion of Ethiron's](Scion_of_Ethiron.md) Ultimate by using Payback right before starting to get hit and spamming F while payback is reflecting the attack

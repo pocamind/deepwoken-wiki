@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 124688
+revid: 124702
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,7 +35,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 | **Whirlwind** | 
 
  | The Enforcer begins to spin rapidly from the waist-up while holding its weapon out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Kick if it lands) | ◯ | ◯ | ◯ | (★★☆) |
-| **Space Pull** |  | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player runs too far away. The Enforcer will never feint its' first hit after a Space Pull. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★☆☆) |
+| **Space Pull** |  | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player runs too far away. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★☆☆) |
 | **Feint (The Feint Part)** | 
 
  | The Enforcer swings its weapon and retracts it, catching the player off guard. | ✗ | ✗ | ✗ | (☆☆☆) |

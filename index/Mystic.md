@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 124311
+revid: 124709
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -125,7 +125,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _I am nature's master. **(Master Survivalists)** (Survival Kit)_
 -   _I am athletic. **(Athlete)** (Triathlete, Pitcher)_
 -   _I wish to escape. **(Escape Artist)** (Robber Baron)_
--   _I often attack others. **(Marauder)** (Bloodletter, Old Habits Die Hard) **(Note; Cannot give Aggressive Posture, Thresher Claws)**_
+-   _I often attack others. **(Marauder)** (Bloodletter, Anxious Guard, Old Habits Die Hard) **(Note; Cannot give Aggressive Posture, Thresher Claws)**_
 -   _I want to WIN. **(Metamancer) (Note; Cannot give Lootskipper)**_
 -   _I seek the qualities of Natural Armor. **(Natural Armor)** (Padded Armor, Steel Scales)_
 -   _I will not fall to the elements. **(Survival Instinct)** (Herbivore, Iron Gut, Termite)_

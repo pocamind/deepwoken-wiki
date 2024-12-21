@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 124089
+revid: 124706
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -116,4 +116,5 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   The slashing done by certain moves/passives may be a reference to Ryomen Sukuna's Cleave and Dismantle from Jujutsu Kaisen.
 
 -   The animation for Reveal also closely resembles Elden Ring's Ash of War Seppuku with both giving a buff in exchange for health, possibly being a reference to the Souls-Borne franchise.
+    -   The animation for Reveal is also quite similar to Dante from the Devil May Cry series stabbing himself to use his Sin Devil Trigger form
 -   Decimate can be used with fists if you re-equip the Mantra with a Mantra Table (rejoining will make you unable to use it)
