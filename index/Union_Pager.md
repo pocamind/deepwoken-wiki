@@ -1,23 +1,22 @@
 ---
 title: Union Pager
-revid: 120311
+revid: 124853
 source: https://deepwoken.fandom.com/wiki/Union_Pager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Union Pager
 
-| Union Pager |
-| --- |
-| 
-  
-A Union Pager |
-| **In-game description** | Check up on Job Listings remotely |
-| **Type** | Tool |
-| **Requirements** | Ignition Origin |
-| Effects |
-| Allows you to remotely check job listings in your luminant, does not work in dungeons. |
+| Union Pager | |
+|---|---|
+| value | N/A |
+| weight | N/A |
+| type | Tool |
+| bankable | No |
+| droppable | No |
+| pass down | No |
+| desc | Check up on Job Listings remotely |
 
 ## Description
 
-A portable job board that lets you take jobs from anywhere within the map. [Ignition Delvers](Origins.md#ignition-delver) are the only ones able to use this item, and they spawn with it.
+A portable job board that lets you take jobs from anywhere within your Luminant. [Ignition Delvers](Origins.md#ignition-delver) are the only ones able to use this item, and they spawn with it. It does not work in Dungeons.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 124846
+revid: 124850
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -19,25 +19,6 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 **Deep Shrines** can only be interacted with after approximately ~10 minutes of spawning, so trying to Deepbound won't work.
 
 ## Shrines
-
-**Shrine of Ostentation:**
-
-File:Map of osten.PNG
-
-“ THE TERMS ARE AS FOLLOWS: YIELD AN OFFERING AND I SHALL TURN FORTUNE OVER. ”
-
-― Shrine of Ostentation
-
-  
-Located at \[[Ancient Rotland](https://deepwoken.fandom.com/wiki/Ancient_Rotlands%7C)\] of Songseeker Located through a passage way behind one of the celestials
-
-## Effect
-
-Trade a common/rare card of your choice and 10 knowledge to gain a rare/common draw.
-
-## Details
-
-Works Vice-versa, rare for common, common for rare great for min maxing builds just don't forget to bring 10 knowledge
 
 **Shrine of Temptation:**
 
@@ -176,8 +157,6 @@ You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and y
     
 
 **Shrine of Ostentation:**
-
-File:Ostent1.png
 
 Shrine Of Ostentation
 

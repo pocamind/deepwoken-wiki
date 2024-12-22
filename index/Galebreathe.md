@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 124206
+revid: 124856
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -200,7 +200,11 @@ _Form a punch of wind in your fist and release it._
 Wind Forge  
 (★☆☆)
 
- | _"Encircle your foes with blades of wind that halt their escape_ _until they respond"._ | 60 Ether | Wind + Slash | Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+ | 
+
+_Encircle your foes with blades of wind that halt their escape_ _until they respond._
+
+ | 60 Ether | Wind + Slash | Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
 
 -   Projectiles are homing.
 -   Medium-far range.
@@ -216,7 +220,11 @@ Wind Forge
 Twister Kicks  
 (★☆☆)
 
- | "Go forth with spinning kicks infused with the wind" | 40 Ether | Wind + Slash | Dash forwards kicking with a rush of winds dealing damage.
+ | 
+
+_Go forth with spinning kicks infused with the wind_
+
+ | 40 Ether | Wind + Slash | Dash forwards kicking with a rush of winds dealing damage.
 
 -   Deals moderate damage.
 -   Can break objects.
@@ -229,7 +237,11 @@ Twister Kicks
 Updraft  
 (★☆☆)
 
- | "A lifting torrent of wind." | 50 Ether | Wind + Slash | Get ready to spin around and then create a burst of wind around you that goes upward while also turning invisible
+ | 
+
+_A lifting torrent of wind._
+
+ | 50 Ether | Wind + Slash | Get ready to spin around and then create a burst of wind around you that goes upward while also turning invisible
 
 -   Deals moderate damage.
 -   Sends opponents flying into the air.
@@ -263,7 +275,7 @@ Rising Wind
 
  | 
 
-_Use wind to uppercut and propel yourself into the air._
+_Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
 
  | 60 Ether | Wind + Blunt | Ascend while uppercutting your target, rapidly damaging them.
 
@@ -338,7 +350,7 @@ Pillars of Erisia
 
  | 
 
-_"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."_
+_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
 
  | 70 Ether | Wind + Slash | Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
 
