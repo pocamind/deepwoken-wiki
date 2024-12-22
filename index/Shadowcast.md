@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 124510
+revid: 124806
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -322,7 +322,9 @@ Shadow Assault
 -   Deals 55 DMG no mod, 80 blast spark.
 
  |
-|  | 
+| 
+
+ | 
 
 Shadestep  
 (★★☆)

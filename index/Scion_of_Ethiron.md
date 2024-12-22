@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 123377
+revid: 124803
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -258,7 +258,7 @@ Upon defeating the Scion, it will drop a large chest at the entrance of his bedc
 ## Trivia
 
 -   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orleandeau](<Cap'n_Orlandeau.md>).
--   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the [Restore Rulebook](https://docs.google.com/document/d/e/2PACX-1vQUwjgPHEqZ_Ok8N9x_cYv9jm27Ln2pcPepOPtuFFXk8rbkuShDlVADoTw_hIjwlNA0itXTa5-6R7Q6/pub).
+-   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the Restore Rulebook before [being changed in 2023](https://discord.com/channels/920707638034067486/1096623256200560771/1126711224021831821).
 -   The branches on its head are inspired by dendrites in neuron diagrams. The Scion only has four braincells.
 -   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Named "avatar" in the game files.

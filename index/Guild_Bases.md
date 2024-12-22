@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 121692
+revid: 124808
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -92,7 +92,7 @@ Training Hall
 
 An arena meant for dueling your guild members. This room is purely cosmetic.
 
-[Attribute Training Gears](Training_Gear.md#attribute-training-gears) are sold in this room.
+[Training Gears](Training_Gear.md#attribute-training-gears) are sold in this room.
 
  |
 | 
@@ -161,7 +161,7 @@ Song Room
 
  | 
 
-Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras, and the ability to purchase [Attunement Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
+Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
 
 This room also allows the hiring of a [Songwright](Songwright.md) for, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
 
@@ -207,7 +207,7 @@ Library
 
  | 
 
-Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. You are still able to unlock the instrument's musics from your library's donated songbooks. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [Book Training Gears](Training_Gear.md#attribute-training-gears) like [How to Make Friends](How_to_Make_Friends.md) for 25 [Notes](Notes.md) each.
+Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. You are still able to unlock the instrument's musics from your library's donated songbooks. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [Training Gears](Training_Gear.md#attribute-training-gears) here
 
  |
 | 

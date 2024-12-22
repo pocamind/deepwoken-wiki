@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 124586
+revid: 124809
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -45,7 +45,7 @@ The Grand Library of New Kyrsa is a large library, containing a rotation puzzle 
 
 ### [The Sunken Railways](The_Sunken_Railways.md)
 
-An underground railway system beneath the alien structures. At least 2 Medallion chests can spawn here, and contains one of the five obelisks needed to summon the Scion of Ethiron. If the obelisk is activated, [Kyrsgarde Crawlers](Kyrsgarde.md) will appear and attack the player as they escape the train station.
+An underground railway system beneath the alien structures. At least 2 Medallion chests can spawn here, and contains one of the five obelisks needed to summon the Scion of Ethiron. If the obelisk is activated, [Kyrsgarde Crawlers](Kyrsgarde_Crawler.md) will appear and attack the player as they escape the train station.
 
 ### [Scion of Ethiron](Scion_of_Ethiron.md)
 
