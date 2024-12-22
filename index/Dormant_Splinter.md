@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 124670
+revid: 124815
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -58,7 +58,7 @@ Recipes:
 
 ## Critical
 
-The User will try to enhance the power with darkness upon usage but due to it's abysmal hitbox, will only usually hit if you are running.
+The User will try to enhance the power with darkness upon usage but due to its abysmal hitbox, will only usually hit if you are running.
 
 ## Trivia
 
@@ -66,3 +66,4 @@ The User will try to enhance the power with darkness upon usage but due to it's 
 -   The description originally read "exposed to other materials" rather than "exposed to the other weapons in your collection."
 -   The **[Fondant Splitter](Fondant_Splitter.md)** is unanimously agreed to be the better variant of the Dormant Splinter, and by a significant margin.
 -   The Splinter emits a sound that resembles breathing and a heartbeat.
+-   The Splinter has an animation when equipped that resembles lungs expanding.

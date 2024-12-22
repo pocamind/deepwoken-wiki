@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 118300
+revid: 124833
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -677,6 +677,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.0s | [Vengeful Pursuit](Oath%253A_Silentheart.md) |
 |  | 1.8s | [Close Shave](Oath%253A_Fadetrimmer.md) |
 |  | 2.2s | [Precision Cuts](Oath%253A_Fadetrimmer.md) |
+|  | 2.2s | [Chain break](Oath%253A_Chainwarden.md) |
+|  | 1.4s | [Chain Lash](Oath%253A_Chainwarden.md) |
 
 ### **[Murmurs](Murmur.md)**
 
