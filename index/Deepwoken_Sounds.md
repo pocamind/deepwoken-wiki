@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 124833
+revid: 124838
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -677,8 +677,15 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.0s | [Vengeful Pursuit](Oath%253A_Silentheart.md) |
 |  | 1.8s | [Close Shave](Oath%253A_Fadetrimmer.md) |
 |  | 2.2s | [Precision Cuts](Oath%253A_Fadetrimmer.md) |
-|  | 2.2s | [Chain break](Oath%253A_Chainwarden.md) |
-|  | 1.4s | [Chain Lash](Oath%253A_Chainwarden.md) |
+|  | 1.4s | [Chain break](Oath%253A_Chainwarden.md) |
+|  | 2.0s | [Chain Lash](Oath%253A_Chainwarden.md) |
+|  | 70s | [Chains active loop](Oath%253A_Chainwarden.md) (Needs to be replaced with higher quality version) |
+|  | 2.6s | [Impel](Oath%253A_Chainwarden.md) |
+|  | 1.4s | [Rupture missed](Oath%253A_Chainwarden.md) |
+|  | 4.3s | [Rupture 1 hit](Oath%253A_Chainwarden.md) |
+|  | 4.2s | [Rupture 2 hits](Oath%253A_Chainwarden.md) |
+|  | 4.1s | [Rupture with chains](Oath%253A_Chainwarden.md) |
+|  | 4.2s | [Restrain](Oath%253A_Chainwarden.md) |
 
 ### **[Murmurs](Murmur.md)**
 

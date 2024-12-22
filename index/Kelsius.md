@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 124339
+revid: 124836
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests]
@@ -26,5 +26,4 @@ This quest tasks you with retrieving books from an unnamed group of people from 
 
 -   Despite their record, accepted by the Maestro to work as the vigils librarian
     -   Special dialogue if you have done the castaway tutorial, also you get to skip the quest.
--   You cannot Roll 2 on his Mantra hand.
 -   If you have already received a mantra from completing the tutorial, you are locked from starting his quest and instead given a set of dialogue relating to the shipwreck.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124538
+revid: 124844
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2935,16 +2935,29 @@ Weapons/Weapon Skins that are exclusive for special people.
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Paintbrush"><font>Paintbrush</font></a></td>
-  <td>?? MED</td>
-  <td>??</td>
-  <td>??</td>
+  <td>??? MED</td>
+  <td>???</td>
+  <td>???</td>
   <td>N/A</td>
-  <td>MED:&nbsp;?</td>
-  <td>??</td>
-  <td>??</td>
-  <td>??</td>
+  <td>MED:&nbsp;???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
   <td>N/A</td>
-  <td>??</td>
+  <td>???</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Ebonshard_Lexicon"><font>Ebonshard Lexicon</font></a></td>
+  <td>??? MED</td>
+  <td>???</td>
+  <td>???</td>
+  <td>N/A</td>
+  <td>MED:&nbsp;???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>N/A</td>
+  <td>???</td>
   <td></td>
 </tr>
 </tbody>

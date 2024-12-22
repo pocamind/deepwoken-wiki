@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 124319
+revid: 124841
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -77,14 +77,44 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 _Jobs relating to The Depths can be given by [The Divers](The_Divers.md)Diversiconfaction and [The Ignition Union](The_Ignition_Union.md)._
 
+-   **A Daunting Task**
+    -   Tasks the player with Defeating one [Megalodaunt](Megalodaunt.md).
+
+-   **Alpha Rescue**
+    -   Tasks the player with defeating one [Alpha Megalodaunt](Alpha_Megalodaunt.md). Three [Divers](Diver.md) will spawn to assist the player.
+
+-   **Broodlord Extermination**
+    -   Tasks the player with defeating one [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+
+-   **Brute Extermination**
+    -   Tasks the player with defeating one [Mudskipper Brute](Mudskipper_Brute.md).
+
+-   **Coldheart Fortinbras**
+    -   Tasks the player with defeating [Coldheart Fortinbras](Coldheart_Fortinbras.md).
+
+-   **Crustaceous Regicide**
+    -   Tasks the player with defeating [Crustaceous Rex](Crustaceous_Rex.md).
+
+-   **Deep Owl Extermination**
+    -   Tasks the player with defeating one [Deep Owl](Deep_Owl.md).
+
+-   **Drowned Delver**
+    -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
+
 -   **Gigamed Extermination**
     -   Tasks the player with defeating a pack of three [Gigameds](Gigamed.md)
+
+-   **Lionfish Extermination**
+    -   Tasks the player with defeating [Lionfish](Lionfish.md).
 
 -   **Megalodaunt Extermination**
     -   Tasks the player with defeating one [Megalodaunt](Megalodaunt.md).
 
--   **Alpha Rescue**
-    -   Tasks the player with defeating one [Alpha Megalodaunt](Alpha_Megalodaunt.md). Three [Divers](Diver.md) will spawn to assist the player.
+-   **Nautilodaunt Extermination**
+    -   Tasks the player with defeating one [Nautilodaunt](Nautilodaunt.md).
+
+-   **The Fisherman**
+    -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
 
 -   **Thresher Extermination**
     -   Tasks the player with defeating one [Thresher](Thresher.md).
@@ -94,30 +124,3 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md)Diversic
 
 -   **Thresher Rescue**
     -   Tasks the player with defeating one [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
-
--   **Brute Extermination**
-    -   Tasks the player with defeating one [Mudskipper Brute](Mudskipper_Brute.md).
-
--   **Broodlord Extermination**
-    -   Tasks the player with defeating one [Mudskipper Broodlord](Mudskipper_Broodlord.md).
-
--   **Deep Owl Extermination**
-    -   Tasks the player with defeating one [Deep Owl](Deep_Owl.md).
-
--   **Nautilodaunt Extermination**
-    -   Tasks the player with defeating one [Nautilodaunt](Nautilodaunt.md).
-
--   **A Daunting Task**
-    -   Tasks the player with Defeating one [Megalodaunt](Megalodaunt.md).
-
--   **Crustaceous Regicide**
-    -   Tasks the player with defeating [Crustaceous Rex](Crustaceous_Rex.md).
-
--   **The Fisherman**
-    -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
-
--   **Drowned Delver**
-    -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
-
--   **Coldheart Fortinbras**
-    -   Tasks the player with defeating [Coldheart Fortinbras](Coldheart_Fortinbras.md).
