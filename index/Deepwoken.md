@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 112183
+revid: 125015
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Lore]
@@ -31,7 +31,7 @@ The [Talent](Talents.md) tree, "[Deepwoken](https://deepwoken.fandom.com/wiki/Ta
 
 ## Trivia
 
--   It is unknown whether or not Deepwoken is an oath, a state of being, or simply a title; developer Ragoozer has likened it to becoming a [Starkindred](Oath%253A_Starkindred.md)[\[1\]](#cite-note-0-1)—instead of eating a piece of a Drowned God, you eat a piece of a [Celestial](Celestial.md).
+-   It is unknown whether or not Deepwoken is an Oath, a state of being, or simply a title; developer Ragoozer has likened it to becoming a [Starkindred](Oath%253A_Starkindred.md)[\[1\]](#cite-note-0-1)—instead of eating a piece of a Drowned God, you eat a piece of a [Celestial](Celestial.md).
 -   Although Deepwokens are incredibly powerful, it is still possible for some to (temporarily) reach their level of power. For instance, [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) is said to be on the same level as [Amorus Pleeksty](Amorus_Pleeksty.md), if he can activate his Tempest Eye[\[4\]](#cite-note-4)
 
 ## References

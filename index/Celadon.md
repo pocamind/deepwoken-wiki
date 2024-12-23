@@ -1,16 +1,15 @@
 ---
 title: Celadon
-revid: 124936
+revid: 125026
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oaths]
+categories: [Adret NPCs, NPCs, Oaths]
 ---
 
 # Celadon
 
 | Celadon | |
 |---|---|
-| name | Saffron |
 | aspect | Adret |
 | location | Summer Isle |
 

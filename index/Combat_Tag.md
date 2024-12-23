@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 122220
+revid: 125025
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -16,12 +16,12 @@ _(Note: Allies through [Vow Of Mastery,](Vow_of_Mastery.md) [Vow Of Allegiance,]
 
 The main purpose is to punish rage-quitting and logging in combat.
 
-#### Indicated By:
+#### Indicated By
 
 -   The white/red skull is popping up at the top of the screen.
 -   Combat music of the Location you're in will start playing.
 
-#### Consequences of entering combat:
+#### Consequences of entering combat
 
 -   Your natural health Regeneration is reduced, as well as the healing from [Campfires](Campfire_Pit.md).
 -   Some [Talents](Talents.md) proc upon inflicting a Combat Tag or by being inflicted with one.
@@ -64,7 +64,7 @@ List of Quotes:
 -   The [Silentheart Oath](Oath%253A_Silentheart.md), can switch weapons in combat and has a button to do so.
     -   This is also possible with [Crazy Slots Bell](Crazy_Slots.md) but only it's own weapons.
 -   [Bosses](Bosses.md) give a PvE Tag that lasts 2 minutes and 40 seconds.
--   Once in Combat you cannot backstab / assasinate without the Dust Lunge talent.
+-   Once in Combat you cannot backstab / assasinate without the Dust Lunge Talent.
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
 -   You can remove Combat Tag off non allies by saying "Mb \[Name\]" or "Mb All" to lift off all people you put it on.
 -   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_God._"

@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 122230
+revid: 125019
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -8,7 +8,7 @@ categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry
 
 # Ministry Enforcer
 
-A Ministry Enforcer is an NPC which appears in [Faction Ambushes](Faction_Ambushes.md) and the [Dilluvian Mechanism](<Diluvian_Mechanism_(NPC).md>). Template:EnemyInfobox1.0
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -16,7 +16,7 @@ Ministry Enforcers are elite members of [the Ministry](The_Ministry.md) that use
 
 ## Moveset
 
-They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_Scout.md) shadowcast mantras alongside the [Contractor](Oath%253A_Contractor.md) oath.
+They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_Scout.md) shadowcast mantras alongside the [Contractor](Oath%253A_Contractor.md) Oath.
 
 <table><caption></caption>
 <tbody>

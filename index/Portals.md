@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 111315
+revid: 125038
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,7 +52,7 @@ When obtained, Portals will spend its points on the following stats:
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
     -   As such, do _not_ use [spell shout](Valikor.md).
 -   This Resonance can be a great tool to ambush other players.
--   Similar to _Valorant_ character **Yoru's** ultimate ability, hence its nickname: **"Yoru".**
+-   Similar to _Valorant_ character **Yoru's** ultimate ability, Dimensional Travel, not to be confused with the Legendary Bell, "Dimensional Travel" (hence its nickname: **"Yoru").**
 -   Trying to use this bell while carrying a player (without it being corrupted) will drop the player.
 -   The Eternal Gale's slowness effect in [Layer 2](Second_Layer.md) can be negated by using the **Portal**, but the wind **may sometimes push you off**, so be cautious when using it.
 -   If you somehow take damage/get assassinated during, it forces you out of the portal.

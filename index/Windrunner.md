@@ -1,9 +1,9 @@
 ---
 title: Windrunner
-revid: 122168
+revid: 125021
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Celtor NPCs, Pages with broken file links, NPCs]
 ---
 
 # Windrunner
@@ -11,6 +11,7 @@ categories: [Pages with broken file links, NPCs]
 | Windrunner | |
 |---|---|
 | name | Windrunner |
+| aspect | Celtor |
 | location | Etrean Wilds |
 
 “ If you value your life, you will run. I can tell that you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror. ”

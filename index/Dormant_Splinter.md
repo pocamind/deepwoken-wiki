@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 124839
+revid: 125032
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -64,6 +64,9 @@ The User will try to enhance the power with darkness upon usage but due to its a
 
 -   Worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage.
 -   The description originally read "exposed to other materials" rather than "exposed to the other weapons in your collection."
--   The **[Fondant Splitter](Fondant_Splitter.md)** is unanimously agreed to be the better variant of the Dormant Splinter, and by a significant margin.
--   The Splinter emits a sound that resembles breathing and a heartbeat.
--   The Splinter has an animation when equipped that resembles lungs expanding.
+-   The Splinter emits a sound that resembles breathing and a heartbeat. The Splinter also has an animation when equipped that resembles lungs expanding.
+-   It was inspired by the Broken Hero Sword from _Terraria_.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

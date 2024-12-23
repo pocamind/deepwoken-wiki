@@ -1,6 +1,6 @@
 ---
 title: Ilji
-revid: 120332
+revid: 125027
 source: https://deepwoken.fandom.com/wiki/Ilji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -25,4 +25,4 @@ He is mentioned in the [Chipped Sword](Chipped_Sword.md) quest, and by his older
 
 ## Trivia
 
--   It can be assumed that he's an [Etrean](Etrean.md) just like [Nanji](Nanji.md) because they're siblings and similarities in name, with the only exception incase they're actually oath brothers, which is unlikely.
+-   It can be assumed that he's an [Etrean](Etrean.md) just like [Nanji](Nanji.md) because they're siblings and similarities in name, with the only exception incase they're actually Oath brothers, which is unlikely.

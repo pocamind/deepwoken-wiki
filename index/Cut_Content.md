@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 124644
+revid: 125018
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -50,7 +50,7 @@ This page is about content that has either been removed or changed drastically i
     -   This was reworked on the 20th, September 2024.
 
 -   **([Previous](Oath%253A_Jetstriker/Old_Jetstriker.md))** **Jetstriker -** Reworked, possibly due to the overpowered nature of the _Vigil's Grace_ passive and lack of viability in PVP and PVE outside of that specific passive.
-    -   New mantras were added to Jetstriker which previously, the oath possessed none, these mantras include Jet Kick and False Strike.
+    -   New mantras were added to Jetstriker which previously, the Oath possessed none, these mantras include Jet Kick and False Strike.
     -   New passives that differ from the original Jetstriker include Acceleration Points, Jetstream Pursuit, and Momentum Bar.
         -   Passives removed from the rework include Prevailing Westerlies and Vigil's Grace.
 

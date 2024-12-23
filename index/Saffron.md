@@ -1,16 +1,15 @@
 ---
 title: Saffron
-revid: 124933
+revid: 125029
 source: https://deepwoken.fandom.com/wiki/Saffron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oaths]
+categories: [Khan NPCs, NPCs, Oaths]
 ---
 
 # Saffron
 
 | Saffron | |
 |---|---|
-| name | Saffron |
 | aspect | Khan |
 | location | Meteor Isle |
 

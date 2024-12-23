@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 123295
+revid: 125013
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -20,7 +20,7 @@ categories: [NPCs, Oaths]
 
 ## Description
 
-Samael is an NPC that will grant you the [Starkindred](Oaths.md) oath. He is located in the hidden area in the [Derelict Highchurch](Derelict_Highchurch.md), go down the trapdoor ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room. He will be found to the left of the Celestial.
+Samael is an NPC that will grant you the [Starkindred](Oaths.md) Oath. He is located in the hidden area in the [Derelict Highchurch](Derelict_Highchurch.md), go down the trapdoor ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room. He will be found to the left of the Celestial.
 
 His [aspect](Aspects.md) is hidden by his hair, and even so there are no distinguishable racial features that we know of.
 
@@ -116,7 +116,7 @@ His [aspect](Aspects.md) is hidden by his hair, and even so there are no disting
 > 
 > Samael: Your dedication is recognized, lamb. However, you no longer have the strength you once did... I cannot make you the offer while you are in this state of weakness. Your body couldn't take it.
 > 
-> When breaking your oath:
+> When breaking your Oath:
 > 
 > The Stars were never yours to lay claim to. You're just another heretic rejected by the blood.
 > 

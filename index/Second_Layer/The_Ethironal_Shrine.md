@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 124989
+revid: 125035
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -34,7 +34,7 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 
 ### Main Questline
 
-1.  Open the starting door via a glowing orb on the cliffs of the outskirts.
+1.  Open the starting door via a glowing orb on the cliffs of the outskirts (alternatively use the resonance door).
 2.  Turn on the Generator at the top of the tower near Pilgrim's Respite, this requires you to kill a weakened [Bone Keeper](../Bone_Keeper.md).
     1.  **(OPTIONAL)** Gain the Union Hook Talent by traversing the snow in Layer Two until you reach the [Frontier Furnace](../The_Frontier_Furnace.md) and talk to [Alpha](../Alpha.md). You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
 3.  Retrieve the Blue Spear within the depths of [Firfire Caverns](../Firfire_Caverns.md) (OPTIONAL AFTER THE FIRST RUN), and go to [Firfire](../Firfire.md)
@@ -43,6 +43,15 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 5.  Traverse through [The Maw of Ethiron](../The_Maw_of_Ethiron.md) and reach [The Cathedral](../Cathedral_of_Ethiron.md) in order to defeat [a traitorous Black Diver](../Chaser,_Scholar_of_the_Crimson_Contract.md).
 6.  From there you may either Leave or [Delve Deeper](New_Kyrsa.md).
     1.  Note that delving deeper will **lower your hook time** to 10 minutes if you have more than 10 minutes left on your hook.
+
+### **Puzzle Route (Skip)**
+
+To do this repeat the same steps as the Main method up to 3
+
+1.  Instead of obtaining the blue spear in the firfire caverns keep going and then make a U turn to the left, keep walking forward and eventually after seeing a fence on the wall there will be a floor collapse, you will then go the opposite way you were going until you see openings to the left which you will go to the deepest one, by then you should see pits of parasites hidden by fog, make a right turn and then keep going until you see rocks which allow you to climb over a layer of fog, you will then find the entrance to the puzzle room
+2.  to complete the puzzle you must enter the right symbols in the 4 slots before the spikes reach you **(The spikes wipe you instantly)** the code is fairly simple, from the entrance it goes 2 1 3 4, if you are confused on which side you came from if you follow from the gray door the order will be 4 3 1 2.
+3.  Run from the 2 bounders until you reach a portal
+4.  enter the portal **(Requires defeating chaser once on your character before)**
 
 ## Traversal
 
