@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 124870
+revid: 125105
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -61,7 +61,7 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
   <td>10</td>
 </tr>
 <tr>
-  <td>Stick</td>
+  <td><a href="Ingredients.md">Stick</a></td>
   <td>99</td>
 </tr>
 </tbody>

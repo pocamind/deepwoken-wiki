@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 124868
+revid: 125106
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -175,8 +175,20 @@ While inside a Voidzone:
 
 ― Boatman's Watch Flavor Text
 
-Location: Eastern Luminant, straight east past the giant rock on the edge of the map.
+**Location:** Eastern Luminant, straight east past the giant rock on the edge of the map.
 
-Dangers: [The Ferryman](The_Ferryman.md)
+**Dangers:** [The Ferryman](The_Ferryman.md)
 
-Rewards: The Ferryman's rewards
+**Rewards:** The Ferryman's rewards
+
+### [Moon's Eyrie](<Moon's_Eyrie.md>)
+
+“ A beacon calling out from the Void to the Last Dead above. Dreams are so frequently dragged neath the mires of time. ”
+
+― Moon's Eyrie flavor text
+
+**Location:** Eastern Luminant, directly east of the compass on the in-game map.
+
+**Dangers:** [Moon Knights](Moon_Knight.md)
+
+**Rewards:** [Nocturne](Nocturne.md), [Soulthorn](Soulthorn.md), [Fractine](Fractine.md), and the [Dormant Splinter](Dormant_Splinter.md), among other things

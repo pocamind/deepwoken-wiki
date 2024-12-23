@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 123623
+revid: 125107
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Items, Event Items, Outfits, Unique Outfits]
@@ -32,7 +32,7 @@ This Outfit's Schematic is obtainable from:
 
 -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md) \[35 Joy\]
--   [Hollowtide 2024 medal](Seasonal_Medals.md) \[3 Knowledge\]
+-   [Hallowtide 2024 medal](Seasonal_Medals.md) \[3 Knowledge\]
 
 ## Trivia/Notes
 
